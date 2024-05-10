@@ -1,6 +1,6 @@
 # 对形而上学实在论的挑战 challenges to metaphysical (Drew Khlentzos)
 
-_首次发表于 2001 年 1 月 11 日；实质性修订于 2021 年 1 月 25 日_
+*首次发表于 2001 年 1 月 11 日；实质性修订于 2021 年 1 月 25 日*
 
 根据形而上学实在论，世界的本质与人类或其他探究者对其的看法无关。世界所包含的对象及其属性和它们所参与的关系决定了世界的本质，而这些对象（连同它们所具有的属性和所参与的关系）存在于我们发现它们之外。形而上学实在论者认为，如果不是这样的话，我们关于世界的任何信念都无法客观地成立，因为真实的信念告诉我们事物的真实状况，而信念的客观性在于其真实或虚假与任何人的想法无关。
 
@@ -152,9 +152,9 @@ Putnam 实际上使用了许多不同的论证来证明上述结论。正如泰�
 
 假设现实主义者能够以某种方式确定预期的模型。将这个预期的模型称为 W''。然而，现实主义者所能做的任何事情都无法将 W''与根据普特南（Putnam）1994b，356-357 提供的置换变体 W∗区分开来：
 
-> 我们定义了“是猫 _”和“是垫子_”的属性，使得：
+> 我们定义了“是猫 *”和“是垫子*”的属性，使得：
 >
-> 1. 在实际世界中，樱桃是猫 _，树是垫子_。
+> 1. 在实际世界中，樱桃是猫 *，树是垫子*。
 > 2. 在每个可能的世界中，“一只猫在垫子上”和“一只猫_在垫子_上”这两个句子具有完全相同的真值。
 
 考虑两个句子“A cat is on a mat”和“A cat_is on a mat ”的代替，现在只考虑一个句子“A cat is on a mat”，允许其解释通过首先采用标准解释，然后采用非标准解释来改变，其中在每个可能的世界中将猫的集合分配给“cat”，将垫子的集合_分配给“mat”。结果将是“A cat is on a mat”的真值不会改变，并且在每个可能的世界中都与以前完全相同。类似的非标准参考分配可以为语言的所有谓词构建。\[参见 Putnam 1985, 1994b.]然而，与 GCT 论证不同，置换论证容易受到刘易斯式回应的影响。
@@ -373,196 +373,196 @@ Hirsch 的小说和有趣的想法是，使持久论者/持续论者的时间部
 
 ## Bibliography
 
-* Armstrong, David, 1983, _What is a Law of Nature?_ Cambridge: Cambridge University Press.
-* Azzouni, Jody, 1997, “Applied Mathematics, Existential Commitment and the Quine-Putnam Indispensability Thesis,” _Philosophia Mathematica_, 5: 193–209.
-* Barrett, Thomas William, and Halvorson, Hans, 2017, “From Geometry to Conceptual Relativity,” _Erkenntnis_, 82(5): 1043–1063.
-* Bays, Timothy, 2001, “On Hilary Putnam and his Models,” _Journal of Philosophy_, 98: 331–50.
-* –––, 2008, “Two Arguments Against Realism,” _The Philosophical Quarterly_, 58(231): 193–213.
-* Bennett, Karen, 2015, “‘Perfectly Understood, Unproblematic and Certain’: Lewis on Mereology,” in Barry Loewer and Jonathan Schaffer (eds.), _A Companion to David Lewis_, Oxford and New York: Blackwell.
-* Berger, A (ed.), 2011, _Saul Kripke_, New York: Cambridge University Press.
+* Armstrong, David, 1983, *What is a Law of Nature?* Cambridge: Cambridge University Press.
+* Azzouni, Jody, 1997, “Applied Mathematics, Existential Commitment and the Quine-Putnam Indispensability Thesis,” *Philosophia Mathematica*, 5: 193–209.
+* Barrett, Thomas William, and Halvorson, Hans, 2017, “From Geometry to Conceptual Relativity,” *Erkenntnis*, 82(5): 1043–1063.
+* Bays, Timothy, 2001, “On Hilary Putnam and his Models,” *Journal of Philosophy*, 98: 331–50.
+* –––, 2008, “Two Arguments Against Realism,” *The Philosophical Quarterly*, 58(231): 193–213.
+* Bennett, Karen, 2015, “‘Perfectly Understood, Unproblematic and Certain’: Lewis on Mereology,” in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, Oxford and New York: Blackwell.
+* Berger, A (ed.), 2011, *Saul Kripke*, New York: Cambridge University Press.
 * Berger, A. “Kripke on the Incoherency of Adopting a Logic,” in Berger, A. (ed.) 177–210.
-* Blackburn, S., 1986, “Morals and Modals,” in _Fact, Science and Morality_, G. Macdonald and C. Wright (eds.), Oxford: Basil Blackwell.
-* Blackburn, S. and Simmons, K. (eds.), 2000, _Truth_, Oxford: Oxford University Press.
-* Boghossian, Paul, 1989, “The Rule Following Considerations,” _Mind_, 93: 507–49.
-* Bostrom, Nick, 2003, “Are you living in a Computer Simulation?” _The Philosophical Quarterly_, 53(211): 243–255.
-* –––, 2005, “The Simulation Argument: Reply to Weatherson” _Philosophical Quarterly_, 55(218): 90–97.
-* Brandom, R. (ed.), 2000, _Rorty and His Critics_, Oxford: Blackwell.
-* Brueckner, A., 1986, “Brains in a Vat,” _Journal of Philosophy_, 83(3): 148–167.
-* –––, 1992, “If I’m a Brain in a Vat then I’m Not a Brain in a Vat,” _Mind_, 101: 123–28.
-* –––, 1998, “Conceptual Relativism,” _Pacific Philosophical Quarterly_, 79(4): 295–301.
-* –––, 2008, “Brains in a Vat” _Journal of Philosophy_, 83(3): 148–167.
-* Burgess, John, 1984, “Dummett’s case for intuitionism,” _History and Philosophy of Logic_, 5(2): 177–194.
-* Button, T., 2013, _The Limits of Realism_, Oxford: Oxford University Press.
+* Blackburn, S., 1986, “Morals and Modals,” in *Fact, Science and Morality*, G. Macdonald and C. Wright (eds.), Oxford: Basil Blackwell.
+* Blackburn, S. and Simmons, K. (eds.), 2000, *Truth*, Oxford: Oxford University Press.
+* Boghossian, Paul, 1989, “The Rule Following Considerations,” *Mind*, 93: 507–49.
+* Bostrom, Nick, 2003, “Are you living in a Computer Simulation?” *The Philosophical Quarterly*, 53(211): 243–255.
+* –––, 2005, “The Simulation Argument: Reply to Weatherson” *Philosophical Quarterly*, 55(218): 90–97.
+* Brandom, R. (ed.), 2000, *Rorty and His Critics*, Oxford: Blackwell.
+* Brueckner, A., 1986, “Brains in a Vat,” *Journal of Philosophy*, 83(3): 148–167.
+* –––, 1992, “If I’m a Brain in a Vat then I’m Not a Brain in a Vat,” *Mind*, 101: 123–28.
+* –––, 1998, “Conceptual Relativism,” *Pacific Philosophical Quarterly*, 79(4): 295–301.
+* –––, 2008, “Brains in a Vat” *Journal of Philosophy*, 83(3): 148–167.
+* Burgess, John, 1984, “Dummett’s case for intuitionism,” *History and Philosophy of Logic*, 5(2): 177–194.
+* Button, T., 2013, *The Limits of Realism*, Oxford: Oxford University Press.
 * –––, 2015, “Brains in vats and model theory” in S. Goldberg (ed.) 2015, pp. 131–154.
-* Carnap, R., 1950, “Empiricism, Semantics and Ontology” _Revue Internationale de Philosophie_, 4: 20–40.
+* Carnap, R., 1950, “Empiricism, Semantics and Ontology” *Revue Internationale de Philosophie*, 4: 20–40.
 * Carnap, R., 1963, “Replies and Systematic Expositions”in Schilpp, P. (ed.) 859–1013.
-* Cartwright, Nancy, 1983, _How the Laws of Physics Lie_, Oxford: Oxford University Press.
-* Chakravartty, Anjan, 2007, _A Metaphysics for Scientific Realism: Knowing the Unknowable_, Cambridge: Cambridge University Press.
+* Cartwright, Nancy, 1983, *How the Laws of Physics Lie*, Oxford: Oxford University Press.
+* Chakravartty, Anjan, 2007, *A Metaphysics for Scientific Realism: Knowing the Unknowable*, Cambridge: Cambridge University Press.
 * Chalmers, David, 2009, “Ontological Anti-Realism” in D. Chalmers, D. Manley, and R. Wasserman (eds.) 2009, 77–129.
-* –––, 2010, _The Character of Consciousness_, Oxford: Oxford University Press.
-* Chalmers, D., Manley, D., and Wasserman, R. (eds.), 2009, _Metametaphysics: New Essays on the Foundations of Ontology_. Oxford: Oxford University Press.
-* Chomsky, Noam, 1986, _Knowledge of Language_, Westport, CT: Prager.
-* –––, 2006, _Language and Mind_, 3rd edition, Cambridge: Cambridge University Press.
-* Cogburn, Jon, 2005, “The Logic of Logical Revision: formalizing Dummett’s argument,” _Australasian Journal of Philosophy_, 83(1): 15–32.
-* Cozzo, Cesare, 1994, “Are Dummett’s Requirements on a Theory of Meaning Sufficient for Rejecting Classical Logic?” _Erkenntnis_, 40(2): 243–263.
-* Crain, Stephen, 2012, _The Emergence of Meaning_, Cambridge: Cambridge University Press.
-* Crain, Stephen and Khlentzos, Drew, 2010, “The Logic Instinct,” _Mind and Language_, 25(1): 30–65.
-* David, Marian, 1991, “Neither Mentioning ‘Brains in a Vat’ nor Mentioning Brains in a Vat Will Prove That We Are Not Brains in a Vat,” _Philosophy and Phenomenological Research_, 51(4): 891–896.
-* Davidson, Donald, 1973, “On The Very Idea of a Conceptual Scheme,” _Proceedings and Addresses of the American Philosophical Association_, 47: 5–20.
-* –––, 1979, “The Inscrutability of Reference,” _Southwestern Journal of Philosophy_, 10(2): 7–19.
-* –––, 1999, “The Folly of Trying to Define Truth,” _Journal of Philosophy_, 93(6): 263–79.
+* –––, 2010, *The Character of Consciousness*, Oxford: Oxford University Press.
+* Chalmers, D., Manley, D., and Wasserman, R. (eds.), 2009, *Metametaphysics: New Essays on the Foundations of Ontology*. Oxford: Oxford University Press.
+* Chomsky, Noam, 1986, *Knowledge of Language*, Westport, CT: Prager.
+* –––, 2006, *Language and Mind*, 3rd edition, Cambridge: Cambridge University Press.
+* Cogburn, Jon, 2005, “The Logic of Logical Revision: formalizing Dummett’s argument,” *Australasian Journal of Philosophy*, 83(1): 15–32.
+* Cozzo, Cesare, 1994, “Are Dummett’s Requirements on a Theory of Meaning Sufficient for Rejecting Classical Logic?” *Erkenntnis*, 40(2): 243–263.
+* Crain, Stephen, 2012, *The Emergence of Meaning*, Cambridge: Cambridge University Press.
+* Crain, Stephen and Khlentzos, Drew, 2010, “The Logic Instinct,” *Mind and Language*, 25(1): 30–65.
+* David, Marian, 1991, “Neither Mentioning ‘Brains in a Vat’ nor Mentioning Brains in a Vat Will Prove That We Are Not Brains in a Vat,” *Philosophy and Phenomenological Research*, 51(4): 891–896.
+* Davidson, Donald, 1973, “On The Very Idea of a Conceptual Scheme,” *Proceedings and Addresses of the American Philosophical Association*, 47: 5–20.
+* –––, 1979, “The Inscrutability of Reference,” *Southwestern Journal of Philosophy*, 10(2): 7–19.
+* –––, 1999, “The Folly of Trying to Define Truth,” *Journal of Philosophy*, 93(6): 263–79.
 * –––, 2000, “Truth Rehabilitated,” in Brandom (ed.) 2000, 65–73.
-* Devitt, Michael, 1983, “Realism and the Renegade Putnam: A Critical Study of _Meaning and the Moral Sciences_,” _Noûs_, 17(2): 291–301.
-* –––, 1991, _Realism and Truth_, Second Edition, Princeton: Princeton University Press.
-* Dolev, Yuval, 2007, _Time and Realism: Philosophical and Anti-Philosophical Perspectives_, Cambridge, MA: MIT Press.
-* Dorr, Cian, 2011, “Physical Geometry and Fundamental Metaphysics,” _Proceedings of the Aristotelian Society_, 111(1): 135–179.
-* –––, 2014, “Quantifier Variance and the Collapse Theorems,” _The Monist_, 97: 503–570.
-* Douven, Igor, 1999, “Putnam’s Model-Theoretic Argument Reconstructed,” _Journal of Philosophy_, 96(9): 479–490.
-* Dummett, Michael, 1978, _Truth and Other Enigmas_, London: Duckworth.
-* –––, 1981, “Objections to Chomsky,” _London Review of Books_, 3(16), September 3, 1981 \[[available online](https://www.lrb.co.uk/the-paper/v03/n16/michael-dummett/objections-to-chomsky)].
-* –––, 1993, _The Seas of Language_, Oxford: Oxford University Press.
-* –––, 1991, _The Logical Basis of Metaphysics_, Cambridge, MA: Harvard University Press.
-* –––, 2000, “Is Time a Continuum of Instants?,” _Philosophy_, 75: 497–515.
+* Devitt, Michael, 1983, “Realism and the Renegade Putnam: A Critical Study of *Meaning and the Moral Sciences*,” *Noûs*, 17(2): 291–301.
+* –––, 1991, *Realism and Truth*, Second Edition, Princeton: Princeton University Press.
+* Dolev, Yuval, 2007, *Time and Realism: Philosophical and Anti-Philosophical Perspectives*, Cambridge, MA: MIT Press.
+* Dorr, Cian, 2011, “Physical Geometry and Fundamental Metaphysics,” *Proceedings of the Aristotelian Society*, 111(1): 135–179.
+* –––, 2014, “Quantifier Variance and the Collapse Theorems,” *The Monist*, 97: 503–570.
+* Douven, Igor, 1999, “Putnam’s Model-Theoretic Argument Reconstructed,” *Journal of Philosophy*, 96(9): 479–490.
+* Dummett, Michael, 1978, *Truth and Other Enigmas*, London: Duckworth.
+* –––, 1981, “Objections to Chomsky,” *London Review of Books*, 3(16), September 3, 1981 \[[available online](https://www.lrb.co.uk/the-paper/v03/n16/michael-dummett/objections-to-chomsky)].
+* –––, 1993, *The Seas of Language*, Oxford: Oxford University Press.
+* –––, 1991, *The Logical Basis of Metaphysics*, Cambridge, MA: Harvard University Press.
+* –––, 2000, “Is Time a Continuum of Instants?,” *Philosophy*, 75: 497–515.
 * –––, 2000, “Of What Kind of Thing is Truth a Property?” in Blackburn and Simmons 2000, 264–281.
-* –––, 2002, “Victor’s Error,” _Analysis_, 62(2): 1–2.
-* –––, 2004, _Truth and the Past_, New York: Columbia University Press.
-* –––, 2006, _Thought and Reality_, Oxford: Clarendon Press.
-* Ebbs, Gary, 1992, “Skepticism, Objectivity and Brains in Vats,” _Philosophical Topics_, 20(1): 1–33.
-* Edgington, Dorothy, 1981, “Meaning, Bivalence and Realism,” _Proceedings of the Aristotelian Society_, 1980–1981, Vol. 81: 153–173.
-* Einstein, A., Podolsky, B, and Rosen, N., 1935, “Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?” _Physical Review_, 47(10): 777–780.
-* Eklund, Matti, 2006, “Meta-Ontology” _Philosophy Compass_, 3: 317–334.
-* –––, 2008, “The Picture of Reality as an Amorphous Lump” in Theodore Sider, John Hawthorne and Dean Zimmerman (eds.), _Contemporary Debates in Metaphysics_, Oxford: Blackwell, 382–396.
+* –––, 2002, “Victor’s Error,” *Analysis*, 62(2): 1–2.
+* –––, 2004, *Truth and the Past*, New York: Columbia University Press.
+* –––, 2006, *Thought and Reality*, Oxford: Clarendon Press.
+* Ebbs, Gary, 1992, “Skepticism, Objectivity and Brains in Vats,” *Philosophical Topics*, 20(1): 1–33.
+* Edgington, Dorothy, 1981, “Meaning, Bivalence and Realism,” *Proceedings of the Aristotelian Society*, 1980–1981, Vol. 81: 153–173.
+* Einstein, A., Podolsky, B, and Rosen, N., 1935, “Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?” *Physical Review*, 47(10): 777–780.
+* Eklund, Matti, 2006, “Meta-Ontology” *Philosophy Compass*, 3: 317–334.
+* –––, 2008, “The Picture of Reality as an Amorphous Lump” in Theodore Sider, John Hawthorne and Dean Zimmerman (eds.), *Contemporary Debates in Metaphysics*, Oxford: Blackwell, 382–396.
 * –––, 2009, “Carnap and Ontological Pluralism” in D. Chalmers, D. Manley, and R. Wasserman (eds.) 2009, pp. 130–156.
-* Field, Hartry, 1978, “Mental Representation,” _Erkenntnis_, 13: 9–61.
-* –––, 1998, “Some Thoughts on Radical Indeterminacy,” _The Monist_, 81(2): 253–273.
-* –––, 2001, _Truth and The Absence of Fact_, Oxford: Clarendon Press.
-* Fodor, Jerry, 1975, _The Language of Thought_, Harvard University Press, Cambridge, Massachusetts.
-* –––, 1983, _The Modularity of Mind_, Cambridge, MA: MIT Press.
-* –––, 2008, _The Language of Thought Revisited_, Oxford: Clarendon Press; New York: Oxford University Press.
-* Fodor, Jerry and Lepore, Ernest, 2002, _The Compositionality Papers_, Oxford: Clarendon Press.
-* Forbes, Graeme, 1995, “Realism and Skepticism: Brains in a Vat Revisited”_Journal of Philosophy_, 92(4), 205 – 222.
-* Gaiffman, Haim, 1996, “Is the ‘Bottom-Up’ Approach from the Theory of Meaning to Metaphysics Possible?” _Journal of Philosophy_, 93(8): 373–407.
-* George, Alexander, 1993, “How Not to Refute Realism,” _Journal of Philosophy_, 90(2): 53–72.
-* Gödel, Kurt, 1949, “A Remark About the Relationship between Relativity Theory and Idealistic Philosophy,” in _Albert Einstein: Philosopher-Scientist_ (The Library of Living Philosophers: Volume 7), P.A. Schilpp (ed.), Evanston, IL: Open Court, 558.
-* Goldberg, S. (ed.), 2015, _The Brain in a Vat_, Cambridge: Cambridge University Press.
-* Hale, B. and Wright, C., 1997, “Putnam’s Model-Theoretic Argument against Metaphysical Realism,” in _A Companion to the Philosophy of Language_, B. Hale and C. Wright (eds.) Oxford: Blackwell, 427–457.
+* Field, Hartry, 1978, “Mental Representation,” *Erkenntnis*, 13: 9–61.
+* –––, 1998, “Some Thoughts on Radical Indeterminacy,” *The Monist*, 81(2): 253–273.
+* –––, 2001, *Truth and The Absence of Fact*, Oxford: Clarendon Press.
+* Fodor, Jerry, 1975, *The Language of Thought*, Harvard University Press, Cambridge, Massachusetts.
+* –––, 1983, *The Modularity of Mind*, Cambridge, MA: MIT Press.
+* –––, 2008, *The Language of Thought Revisited*, Oxford: Clarendon Press; New York: Oxford University Press.
+* Fodor, Jerry and Lepore, Ernest, 2002, *The Compositionality Papers*, Oxford: Clarendon Press.
+* Forbes, Graeme, 1995, “Realism and Skepticism: Brains in a Vat Revisited”*Journal of Philosophy*, 92(4), 205 – 222.
+* Gaiffman, Haim, 1996, “Is the ‘Bottom-Up’ Approach from the Theory of Meaning to Metaphysics Possible?” *Journal of Philosophy*, 93(8): 373–407.
+* George, Alexander, 1993, “How Not to Refute Realism,” *Journal of Philosophy*, 90(2): 53–72.
+* Gödel, Kurt, 1949, “A Remark About the Relationship between Relativity Theory and Idealistic Philosophy,” in *Albert Einstein: Philosopher-Scientist* (The Library of Living Philosophers: Volume 7), P.A. Schilpp (ed.), Evanston, IL: Open Court, 558.
+* Goldberg, S. (ed.), 2015, *The Brain in a Vat*, Cambridge: Cambridge University Press.
+* Hale, B. and Wright, C., 1997, “Putnam’s Model-Theoretic Argument against Metaphysical Realism,” in *A Companion to the Philosophy of Language*, B. Hale and C. Wright (eds.) Oxford: Blackwell, 427–457.
 * –––, 2009, “The Metaontology of Abstraction,” in D. Chalmers, D. Manley, and R. Wasserman (eds.) 2009, pp. 178–212.
-* Hand, Michael, 2003, “Knowability and Truth,” _Australasian Journal of Philosophy_, 81(2): 216–228.
-* Hauser, Kai, 2001, “Objectivity over Objects: A Case Study in Theory Formation” _Synthese_, 128: 245–285.
-* Hawthorne, John, 2006, “Plenitude, Convention and Ontology,” in J. Hawthorne, _Metaphysical Essays_, Oxford: Oxford University Press, pp. 53–69.
+* Hand, Michael, 2003, “Knowability and Truth,” *Australasian Journal of Philosophy*, 81(2): 216–228.
+* Hauser, Kai, 2001, “Objectivity over Objects: A Case Study in Theory Formation” *Synthese*, 128: 245–285.
+* Hawthorne, John, 2006, “Plenitude, Convention and Ontology,” in J. Hawthorne, *Metaphysical Essays*, Oxford: Oxford University Press, pp. 53–69.
 * –––, 2009, “Superficialism in Ontology,” in D. Chalmers, D. Manley, and R. Wasserman (eds.) 2009, pp. 213–230.
-* Hazen, Allen, 2012, “Intuitionism,” in _The Routledge Companion to Philosophy of Language_ (Chapter 5.8), Gillian Russell and Delia Graff Farra (eds.), New York: Routledge, 667–677.
-* Hellman, Geoffrey, 1989, “Never Say ‘Never!’ On the Communication Problem between Intuitionism and Classicism,” _Philosophical Topics_, 17(2): 47–67.
-* –––, 1992, “The Boxer and His Fists: The Constructivist in the Arena of Quantum Physics,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 66: 61–77.
-* Huemer, Michael, 2016, “Serious Theories and Skeptical Theories: Why You Are Probably Not a Brain in a Vat,” _Philosophical Studies_, 173(4): 1031–1052.
-* Hirsch, Eli, 1993, _Dividing Reality_, New York: Oxford University Press.
-* –––, 2002, “Quantifier Variance and Realism,” _Philosophical Issues_, 12: 51–73.
-* –––, 2005, “Physical Object Ontology, Verbal Disputes and Common Sense,” _Philosophy and Phenomenological Research_, 70(1): 67–97.
+* Hazen, Allen, 2012, “Intuitionism,” in *The Routledge Companion to Philosophy of Language* (Chapter 5.8), Gillian Russell and Delia Graff Farra (eds.), New York: Routledge, 667–677.
+* Hellman, Geoffrey, 1989, “Never Say ‘Never!’ On the Communication Problem between Intuitionism and Classicism,” *Philosophical Topics*, 17(2): 47–67.
+* –––, 1992, “The Boxer and His Fists: The Constructivist in the Arena of Quantum Physics,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 66: 61–77.
+* Huemer, Michael, 2016, “Serious Theories and Skeptical Theories: Why You Are Probably Not a Brain in a Vat,” *Philosophical Studies*, 173(4): 1031–1052.
+* Hirsch, Eli, 1993, *Dividing Reality*, New York: Oxford University Press.
+* –––, 2002, “Quantifier Variance and Realism,” *Philosophical Issues*, 12: 51–73.
+* –––, 2005, “Physical Object Ontology, Verbal Disputes and Common Sense,” *Philosophy and Phenomenological Research*, 70(1): 67–97.
 * –––, 2009, “Ontology and Alternative Languages” in D. Chalmers, D. Manley, and R. Wasserman (eds.) 2009, pp. 231–259.
-* –––, 2011, _Quantifier Variance and Realism: Essays in Meta-Ontology_, New York, Oxford: Oxford University Press.
-* Horgan, T. and Timmons, M., 2002, “Conceptual Relativity and Metaphysical Realism,” _Noûs_, 36(1): 74–96.
-* Horwich, Paul, 1990, _Truth_, Oxford: Blackwell.
-* Jackson, Alexander, 2015, “How You Know You Are Not a Brain in a Vat,” _Philosophical Studies_, 172(10): 2799–2822.
-* Jackson, Frank, 2000, _From Metaphysics to Ethics: A Defence of Conceptual Analysis_, Oxford: Clarendon Press.
-* Jenkins, C.S., 2010, “What Is Ontological Realism?,” _Philosophy Compass_, 5/10:880–890.
-* Khlentzos, Drew, 2004, _Naturalistic Realism and the Antirealist Challenge_, Cambridge, MA: Bradford Books, MIT Press.
-* –––, 2016, “Naturalism and the Question of Realism” in K. J. Clark (ed.), _The Blackwell Companion to Naturalism_, Chichester: Wiley-Blackwell, pp. 150–67.
-* –––, 2020, “Conceptual Schemes,” in _The Routledge Handbook of Philosophy of Relativism_ (Chapter 48), M. Kusch (ed.), London, New York: Routledge, Taylor & Francis Group, pp. 457–467.
-* Lewis, David, 1983, “New Work for a Theory of Universals,” _Australasian Journal of Philosophy_, 61: 343–77.
-* –––, 1984, “Putnam’s Paradox,” _Australasian Journal of Philosophy_, 62: 221–36.
-* –––, 1991, _Parts of Classes_, Oxford: Blackwell.
-* –––, 1994, “Reduction of Mind” in S. Guttenplan, _Companion to the Philosophy of Mind_, Oxford: Blackwell, pp. 412–31.
-* Linnebo, O., 2018, “Dummett on Indefinite Extensibility,” _Philosophical Issues_, 28(1): 196–220.
-* Lynch, Michael (ed.), 2001, _The Nature of Truth: Classic and Contemporary Perspectives_, Cambridge, MA: MIT Press.
-* Lynch, Michael, 1998, _Truth in Context: An Essay on Pluralism and Objectivity_, Cambridge, MA: MIT Press.
-* Lowe, E. J. and Ramichandran, A. (eds.), 2009, _Truth and Truthmaking_, Stockfield: Acumen.
-* Michael, Michaelis, 1999, “Dummett’s Argument against Classical Logic,” _Philosophia_, 27(3–4): 359–382.
-* Maudlin, Tim, 2007, _The Metaphysics within Physics_, Oxford: Clarendon Press.
-* –––, 2014, “What Bell did,” _Journal of Physics A: Mathematical and Theoretical_, 47: 1–24.
-* McDowell, John, 1976, “Truth-conditions, Bivalance and Verificationism,” in G. Evans & J. McDowell (eds.), _Truth and Meaning: Essays in Semantics_, Oxford: Clarendon Press, 42–66.
-* –––, 1994, _Mind and World_, Cambridge, MA: Harvard University Press.
-* McGee, Vann, 2015, “Inscrutability and its Discontents,” _Noûs_, 39(3): 397–425.
-* McGinn, Colin, 1976, “Truth and Use,” in M. Platts (ed.), _Reference, Truth and Reality_, London: Routledge & Kegan Paul, 19–40.
-* –––, 1979, “An Apriori Argument for Realism,” _Journal of Philosophy_, 76: 113–33.
-* –––, 1982, “Realist Semantics and Content Ascription,” _Synthese_, 52: 113–34.
-* Millikan, Ruth, 1986, “Metaphysical Anti-Realism?” _Mind_, XCV: 417–431.
-* Moretti, Luca, 2014, “Global Scepticism, Underdetermination and Metaphysical Possibility” _Erkenntnis_, 79(2): 381–403.
-* Nagel, Thomas, 1986, _The View from Nowhere_, Oxford: Oxford University Press.
-* –––, 1997, _The Last Word_, Oxford: Oxford University Press.
-* Pagin, Peter, 1998, “Bivalence: meaning theory vs metaphysics” _Theoria_, 64(2–3): 157–186.
-* –––, 2009, “Compositionality, Understanding and Proofs,” _Mind_, 118(471): 713–737.
-* Papineau, David (ed.), 1996, _The Philosophy of Science_, Oxford: Oxford University Press.
-* Pinker, Steven, 1994, _The Language Instinct_, New York: Harper Perennial Modern Classics.
-* Prawitz, Dag, 1977, “Meaning and Proofs: On the Conflict between Classical and Intuitionistic Logic,” _Theoria_, 48: 2–40.
-* –––, 1987, “Dummett on a theory of meaning and its impact on logic,” in B. Taylor (ed.), _Michael Dummett: Contributions to Philosophy_, Dordrecht: Martinus Nijhoff.
-* –––, 1994, “Meaning theory and anti-realism,” in B. McGuinness and G. Olivieri (eds.), _The Philosophy of Michael Dummett_, Dordrecht: Kluwer.
+* –––, 2011, *Quantifier Variance and Realism: Essays in Meta-Ontology*, New York, Oxford: Oxford University Press.
+* Horgan, T. and Timmons, M., 2002, “Conceptual Relativity and Metaphysical Realism,” *Noûs*, 36(1): 74–96.
+* Horwich, Paul, 1990, *Truth*, Oxford: Blackwell.
+* Jackson, Alexander, 2015, “How You Know You Are Not a Brain in a Vat,” *Philosophical Studies*, 172(10): 2799–2822.
+* Jackson, Frank, 2000, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon Press.
+* Jenkins, C.S., 2010, “What Is Ontological Realism?,” *Philosophy Compass*, 5/10:880–890.
+* Khlentzos, Drew, 2004, *Naturalistic Realism and the Antirealist Challenge*, Cambridge, MA: Bradford Books, MIT Press.
+* –––, 2016, “Naturalism and the Question of Realism” in K. J. Clark (ed.), *The Blackwell Companion to Naturalism*, Chichester: Wiley-Blackwell, pp. 150–67.
+* –––, 2020, “Conceptual Schemes,” in *The Routledge Handbook of Philosophy of Relativism* (Chapter 48), M. Kusch (ed.), London, New York: Routledge, Taylor & Francis Group, pp. 457–467.
+* Lewis, David, 1983, “New Work for a Theory of Universals,” *Australasian Journal of Philosophy*, 61: 343–77.
+* –––, 1984, “Putnam’s Paradox,” *Australasian Journal of Philosophy*, 62: 221–36.
+* –––, 1991, *Parts of Classes*, Oxford: Blackwell.
+* –––, 1994, “Reduction of Mind” in S. Guttenplan, *Companion to the Philosophy of Mind*, Oxford: Blackwell, pp. 412–31.
+* Linnebo, O., 2018, “Dummett on Indefinite Extensibility,” *Philosophical Issues*, 28(1): 196–220.
+* Lynch, Michael (ed.), 2001, *The Nature of Truth: Classic and Contemporary Perspectives*, Cambridge, MA: MIT Press.
+* Lynch, Michael, 1998, *Truth in Context: An Essay on Pluralism and Objectivity*, Cambridge, MA: MIT Press.
+* Lowe, E. J. and Ramichandran, A. (eds.), 2009, *Truth and Truthmaking*, Stockfield: Acumen.
+* Michael, Michaelis, 1999, “Dummett’s Argument against Classical Logic,” *Philosophia*, 27(3–4): 359–382.
+* Maudlin, Tim, 2007, *The Metaphysics within Physics*, Oxford: Clarendon Press.
+* –––, 2014, “What Bell did,” *Journal of Physics A: Mathematical and Theoretical*, 47: 1–24.
+* McDowell, John, 1976, “Truth-conditions, Bivalance and Verificationism,” in G. Evans & J. McDowell (eds.), *Truth and Meaning: Essays in Semantics*, Oxford: Clarendon Press, 42–66.
+* –––, 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
+* McGee, Vann, 2015, “Inscrutability and its Discontents,” *Noûs*, 39(3): 397–425.
+* McGinn, Colin, 1976, “Truth and Use,” in M. Platts (ed.), *Reference, Truth and Reality*, London: Routledge & Kegan Paul, 19–40.
+* –––, 1979, “An Apriori Argument for Realism,” *Journal of Philosophy*, 76: 113–33.
+* –––, 1982, “Realist Semantics and Content Ascription,” *Synthese*, 52: 113–34.
+* Millikan, Ruth, 1986, “Metaphysical Anti-Realism?” *Mind*, XCV: 417–431.
+* Moretti, Luca, 2014, “Global Scepticism, Underdetermination and Metaphysical Possibility” *Erkenntnis*, 79(2): 381–403.
+* Nagel, Thomas, 1986, *The View from Nowhere*, Oxford: Oxford University Press.
+* –––, 1997, *The Last Word*, Oxford: Oxford University Press.
+* Pagin, Peter, 1998, “Bivalence: meaning theory vs metaphysics” *Theoria*, 64(2–3): 157–186.
+* –––, 2009, “Compositionality, Understanding and Proofs,” *Mind*, 118(471): 713–737.
+* Papineau, David (ed.), 1996, *The Philosophy of Science*, Oxford: Oxford University Press.
+* Pinker, Steven, 1994, *The Language Instinct*, New York: Harper Perennial Modern Classics.
+* Prawitz, Dag, 1977, “Meaning and Proofs: On the Conflict between Classical and Intuitionistic Logic,” *Theoria*, 48: 2–40.
+* –––, 1987, “Dummett on a theory of meaning and its impact on logic,” in B. Taylor (ed.), *Michael Dummett: Contributions to Philosophy*, Dordrecht: Martinus Nijhoff.
+* –––, 1994, “Meaning theory and anti-realism,” in B. McGuinness and G. Olivieri (eds.), *The Philosophy of Michael Dummett*, Dordrecht: Kluwer.
 * Price, Huw, 2009, “Metaphysics after Carnap: the ghost who walks?” in D. Chalmers, D. Manley, and R. Wasserman (eds.) 2009, pp. 320–346.
-* Pryor, James, 2007, “What’s Wrong with McKinsey-style Reasoning?” in S. Goldberg (ed.), _Internalism and Externalism in Semantics and Epistemology_, Oxford: Oxford University Press, pp. 177–200.
-* Putnam, Hilary, 1981, _Reason, Truth and History_, Cambridge: Cambridge University Press.
-* –––, 1985, _Realism and Reason_, volume 3 of _Philosophical Papers_, Cambridge: Cambridge University Press.
-* –––, 1987, “Truth and Convention: On Davidson’s Refutation of Conceptual Relativism,” _Dialectica_, 41: 69–77.
-* –––, 1990, _Realism with a Human Face_, Cambridge, MA: Harvard University Press.
-* –––, 1992, _Renewing Philosophy_, Cambridge, MA: Harvard University Press.
-* –––, 1994a, “The Dewey Lectures,” _Journal of Philosophy_, 91: 445–517.
-* –––, 1994b, _Words and Life_, Cambridge, MA: Harvard University Press.
-* –––, 2000a, _The Threefold Cord: Mind, Body and World_, New York City: Columbia University Press.
+* Pryor, James, 2007, “What’s Wrong with McKinsey-style Reasoning?” in S. Goldberg (ed.), *Internalism and Externalism in Semantics and Epistemology*, Oxford: Oxford University Press, pp. 177–200.
+* Putnam, Hilary, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press.
+* –––, 1985, *Realism and Reason*, volume 3 of *Philosophical Papers*, Cambridge: Cambridge University Press.
+* –––, 1987, “Truth and Convention: On Davidson’s Refutation of Conceptual Relativism,” *Dialectica*, 41: 69–77.
+* –––, 1990, *Realism with a Human Face*, Cambridge, MA: Harvard University Press.
+* –––, 1992, *Renewing Philosophy*, Cambridge, MA: Harvard University Press.
+* –––, 1994a, “The Dewey Lectures,” *Journal of Philosophy*, 91: 445–517.
+* –––, 1994b, *Words and Life*, Cambridge, MA: Harvard University Press.
+* –––, 2000a, *The Threefold Cord: Mind, Body and World*, New York City: Columbia University Press.
 * –––, 2000b, “Richard Rorty on Reality and Justification,” in Brandom (ed.) 2000, 81–87.
-* –––, 2004, _Ethics Without Ontology_, Cambridge, MA: Harvard University Press.
-* –––, 2012a, “Corresponding with Reality,” in M. Caro and D. Macarthur (eds.), _Philosophy in an Age of Science_, Cambridge, MA: Harvard University Press, 72–90.
-* –––, 2012b, “How to be a Sophisticated ‘Naïve Realist,” in M. Caro and D. Macarthur (eds.), _Philosophy in an Age of Science_, Cambridge, MA: Harvard University Press, 624– 39.
-* –––, 2015, “Naturalism, Realism, and Normativity,” _Journal of the American Philosophical Association_, Volume 1(2): 312–328.
-* Quine, W.V.O, 1992, _Pursuit of Truth_, Cambridge, MA: Harvard University Press.
-* –––, 1969, “Ontological Relativity,” in W. Quine, _Ontological Relativity and Other Essays_, New York: Columbia University Press, pp. 69–90.
-* –––, 1964, _Word and Object_, Cambridge, Mass.: MIT Press.
-* Read, Stephen, 2000, “Harmony and Autonomy in Classical Logic,” _Journal of Philosophical Logic_, 29(2): 123–154.
-* Resnick, Michael, 1987, “You Can’t Trust an Ideal Theory to Tell the Truth,” _Philosophical Studies_, 52: 151–160.
-* –––, 1990, “Immanent Truth,” _Mind_, 99(395): 405–424.
-* Sandqvist, Tor, 2009, “Classical Logic without Bivalence,” _Analysis_, 69(2): 211–218.
-* Schilpp, Paul (ed.), 1963, _The Philosophy of Rudolf Carnap_, La Salle: Open Court.
-* Shapiro, Stewart, 1998, “Proof and Truth: Through Thick and Thin,” _Journal of Philosophy_, 95(10): 493–521.
-* –––, 2001, “Why Anti-Realists and Classical Mathematicians Cannot Get Along,” _Topoi_, 20 (1): 53–63.
-* Shapiro, Stewart and Taschek, William, 1996, “Intuitionism, Pluralism and Cognitive Command,” _Journal of Philosophy_, 93(2): 74–88.
-* Shieh, Sanford, 1998, “On The Conceptual Foundations of Anti-Realism,” _Synthese_, 115(1): 33–70.
-* Sider, Theodore, 2011, _Writing the Book of the World_, Oxford: Oxford University Press.
+* –––, 2004, *Ethics Without Ontology*, Cambridge, MA: Harvard University Press.
+* –––, 2012a, “Corresponding with Reality,” in M. Caro and D. Macarthur (eds.), *Philosophy in an Age of Science*, Cambridge, MA: Harvard University Press, 72–90.
+* –––, 2012b, “How to be a Sophisticated ‘Naïve Realist,” in M. Caro and D. Macarthur (eds.), *Philosophy in an Age of Science*, Cambridge, MA: Harvard University Press, 624– 39.
+* –––, 2015, “Naturalism, Realism, and Normativity,” *Journal of the American Philosophical Association*, Volume 1(2): 312–328.
+* Quine, W.V.O, 1992, *Pursuit of Truth*, Cambridge, MA: Harvard University Press.
+* –––, 1969, “Ontological Relativity,” in W. Quine, *Ontological Relativity and Other Essays*, New York: Columbia University Press, pp. 69–90.
+* –––, 1964, *Word and Object*, Cambridge, Mass.: MIT Press.
+* Read, Stephen, 2000, “Harmony and Autonomy in Classical Logic,” *Journal of Philosophical Logic*, 29(2): 123–154.
+* Resnick, Michael, 1987, “You Can’t Trust an Ideal Theory to Tell the Truth,” *Philosophical Studies*, 52: 151–160.
+* –––, 1990, “Immanent Truth,” *Mind*, 99(395): 405–424.
+* Sandqvist, Tor, 2009, “Classical Logic without Bivalence,” *Analysis*, 69(2): 211–218.
+* Schilpp, Paul (ed.), 1963, *The Philosophy of Rudolf Carnap*, La Salle: Open Court.
+* Shapiro, Stewart, 1998, “Proof and Truth: Through Thick and Thin,” *Journal of Philosophy*, 95(10): 493–521.
+* –––, 2001, “Why Anti-Realists and Classical Mathematicians Cannot Get Along,” *Topoi*, 20 (1): 53–63.
+* Shapiro, Stewart and Taschek, William, 1996, “Intuitionism, Pluralism and Cognitive Command,” *Journal of Philosophy*, 93(2): 74–88.
+* Shieh, Sanford, 1998, “On The Conceptual Foundations of Anti-Realism,” *Synthese*, 115(1): 33–70.
+* Sider, Theodore, 2011, *Writing the Book of the World*, Oxford: Oxford University Press.
 * –––, 2009, “Ontological Realism” in D. Chalmers, D. Manley, and R. Wasserman (eds.) 2009, pp. 384–423
 * Shoemaker, Sydney, 2011, “Kripke and Cartesianism,”in A. Berger (ed.) 2011, pp. 327–342.
-* Soames, Scott, 2014, “The Place of Quine in Analytic Philosophy,” in _A Companion to W.V.O. Quine_ (Chapter 21), Gilbert Harman and Ernest Lepore (eds.), Oxford: Wiley-Blackwell, 432–464.
-* Sosa, Ernest, 2003, “Ontological and Conceptual Relativity and the Self,” in Michael J. Loux and Dean W. Zimmerman (eds.), _The Oxford Handbook of Metaphysics_, Oxford: Oxford University Press.
-* Spelke, E. S., 2003, “What Makes Us Smart? Core Knowledge and Natural Language,” in E. Gentner and S. Goldin-Meadow (eds.), _Language in Mind: Advances in the Study of Language and Thought_, Cambridge, MA: MIT Press, 277–311.
-* Spelke, E. S. and Kinzler, K. D., 2007, “Core Knowledge,” _Developmental Science_, 10: 89–96.
-* Stirton, William, 1998, “Anti-Realism, Truth Conditions and Verificationism,” _Mind_, 106(424): 697–716.
-* Taylor, Barry, 2006, _Models, Truth and Realism_, Oxford: Oxford University Press.
-* Tennant, Neil, 1987, _Anti-Realism and Logic_, Oxford: Clarendon Press.
-* –––, 1997, _The Taming of the True_, Oxford: Clarendon Press.
-* –––, 2002, “Victor Vanquished,” _Analysis_, 62(2): 135–142.
-* Thomasson, A., 2015, _Ontology made easy_, Oxford: Oxford University Press.
-* Tymoczko, T., 1989, “In Defence of Putnam’s Brains,” _Philosophical Studies_, 57(3): 281–297.
-* van Cleve, J., 1992, “Semantic Supervenience and Referential Indeterminacy,” _Journal of Philosophy_, 89: 341–361.
-* Van Fraassen, B. C., 1980, _The Scientific Image_, Oxford: Oxford University Press.
-* –––, 1989, _Laws and Symmetry_, Oxford: Clarendon Press.
-* –––, 1997, “Putnam’s Paradox: Metaphysical Realism Revamped and Evaded,” in J. Tomberlin (ed.), _Philosophical Perspectives_, 11: 17–42.
-* –––, 2002, _The Empirical Stance_, New Haven: Yale University Press.
-* van Inwagen, Peter, 2002, “‘Carnap’ and ‘the Polish Logician’,” _Acta Analytica_, 17(28): 7–17.
-* –––, 2014, “Modes of Being and Quantification,” _Disputatio_, 6(38): 1–24.
-* –––, 2020, “The neo-Carnapians,” _Synthese_, 197(1): 7–32.
-* Wagner, Steven, 1993, “Why Realism Can’t Be Naturalized,” in S. Wagner and R. Warner (eds.), _Naturalism: A Critical Appraisal_, Notre Dame: University of Notre Dame Press, 211–253.
-* Walker, Ralph, 1995, “Verificationism, Anti-Realism and Idealism,” _European Journal of Philosophy_, 3(3): 257–272.
-* Warren, J., 2015, “Quantifier Variance and the Collapse Argument,” _Philosophical Quarterly_, 65(259): 241–253.
-* –––, 2017, “Quantifier Variance and Indefinite Extensibility,” _Philosophical Review_, 126(1): 81–122.
-* Weatherson, Brian, 2003, “Are You a Sim?” _Philosophical Quarterly_, 53(212): 425–431.
-* Weiss, Bernard, 1996, “Anti-Realism, Truth-Value Links and Tensed Truth Predicates,” _Mind_, 105(420): 577–602.
-* Williamson, Timothy, 2000, “Tennant on the Knowability of Truth,” _Ratio_, 13(2): 99–114.
-* –––, 2000, _Knowledge and Its Limits_, Oxford: Oxford University Press.
-* Wright, Crispin, 1984, “Kripke’s Account of the Argument against Private Language,” _Journal of Philosophy_, 81: 759–78.
-* –––, 1993, _Realism, Meaning and Truth_, Oxford: Blackwell.
-* –––, 1992a, _Truth and Objectivity_, Cambridge, MA: Harvard University Press.
-* –––, 1992b, “On Putnam’s Proof That We Are Not Brains in a Vat,” _Proceedings of the Aristotelian Society_, 92(1): 67–94.
-* –––, 2000, “Truth as Sort of Epistemic: Putnam’s Peregrinations,” _Journal of Philosophy_, 97(6): 335–364.
+* Soames, Scott, 2014, “The Place of Quine in Analytic Philosophy,” in *A Companion to W.V.O. Quine* (Chapter 21), Gilbert Harman and Ernest Lepore (eds.), Oxford: Wiley-Blackwell, 432–464.
+* Sosa, Ernest, 2003, “Ontological and Conceptual Relativity and the Self,” in Michael J. Loux and Dean W. Zimmerman (eds.), *The Oxford Handbook of Metaphysics*, Oxford: Oxford University Press.
+* Spelke, E. S., 2003, “What Makes Us Smart? Core Knowledge and Natural Language,” in E. Gentner and S. Goldin-Meadow (eds.), *Language in Mind: Advances in the Study of Language and Thought*, Cambridge, MA: MIT Press, 277–311.
+* Spelke, E. S. and Kinzler, K. D., 2007, “Core Knowledge,” *Developmental Science*, 10: 89–96.
+* Stirton, William, 1998, “Anti-Realism, Truth Conditions and Verificationism,” *Mind*, 106(424): 697–716.
+* Taylor, Barry, 2006, *Models, Truth and Realism*, Oxford: Oxford University Press.
+* Tennant, Neil, 1987, *Anti-Realism and Logic*, Oxford: Clarendon Press.
+* –––, 1997, *The Taming of the True*, Oxford: Clarendon Press.
+* –––, 2002, “Victor Vanquished,” *Analysis*, 62(2): 135–142.
+* Thomasson, A., 2015, *Ontology made easy*, Oxford: Oxford University Press.
+* Tymoczko, T., 1989, “In Defence of Putnam’s Brains,” *Philosophical Studies*, 57(3): 281–297.
+* van Cleve, J., 1992, “Semantic Supervenience and Referential Indeterminacy,” *Journal of Philosophy*, 89: 341–361.
+* Van Fraassen, B. C., 1980, *The Scientific Image*, Oxford: Oxford University Press.
+* –––, 1989, *Laws and Symmetry*, Oxford: Clarendon Press.
+* –––, 1997, “Putnam’s Paradox: Metaphysical Realism Revamped and Evaded,” in J. Tomberlin (ed.), *Philosophical Perspectives*, 11: 17–42.
+* –––, 2002, *The Empirical Stance*, New Haven: Yale University Press.
+* van Inwagen, Peter, 2002, “‘Carnap’ and ‘the Polish Logician’,” *Acta Analytica*, 17(28): 7–17.
+* –––, 2014, “Modes of Being and Quantification,” *Disputatio*, 6(38): 1–24.
+* –––, 2020, “The neo-Carnapians,” *Synthese*, 197(1): 7–32.
+* Wagner, Steven, 1993, “Why Realism Can’t Be Naturalized,” in S. Wagner and R. Warner (eds.), *Naturalism: A Critical Appraisal*, Notre Dame: University of Notre Dame Press, 211–253.
+* Walker, Ralph, 1995, “Verificationism, Anti-Realism and Idealism,” *European Journal of Philosophy*, 3(3): 257–272.
+* Warren, J., 2015, “Quantifier Variance and the Collapse Argument,” *Philosophical Quarterly*, 65(259): 241–253.
+* –––, 2017, “Quantifier Variance and Indefinite Extensibility,” *Philosophical Review*, 126(1): 81–122.
+* Weatherson, Brian, 2003, “Are You a Sim?” *Philosophical Quarterly*, 53(212): 425–431.
+* Weiss, Bernard, 1996, “Anti-Realism, Truth-Value Links and Tensed Truth Predicates,” *Mind*, 105(420): 577–602.
+* Williamson, Timothy, 2000, “Tennant on the Knowability of Truth,” *Ratio*, 13(2): 99–114.
+* –––, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press.
+* Wright, Crispin, 1984, “Kripke’s Account of the Argument against Private Language,” *Journal of Philosophy*, 81: 759–78.
+* –––, 1993, *Realism, Meaning and Truth*, Oxford: Blackwell.
+* –––, 1992a, *Truth and Objectivity*, Cambridge, MA: Harvard University Press.
+* –––, 1992b, “On Putnam’s Proof That We Are Not Brains in a Vat,” *Proceedings of the Aristotelian Society*, 92(1): 67–94.
+* –––, 2000, “Truth as Sort of Epistemic: Putnam’s Peregrinations,” *Journal of Philosophy*, 97(6): 335–364.
 * –––, 2000, “Truth: A Traditional Debate Reviewed,” in Blackburn and Simmons (eds.) 2000, 203–238.
 * –––, 2001, “Minimalism, Deflationism, Pragmatism, Pluralism,” in Lynch (ed.) 2001, 751–787.
-* –––, 2002, “(Anti-)Sceptics Simple and Subtle,”_Philosophy and Phenomenological Research_, 65 (2): 330–348.
-* –––, 2002a, “The Conceivability of Naturalism” in T. Szabo Gendler and J. Hawthorne (eds.), _Conceivability and Possibility_, Oxford: Clarendon Press.
-* –––, 2003, _Saving the Differences: Essays on Themes from Truth and Objectivity_, Harvard University Press, Cambridge, Massachusetts.
+* –––, 2002, “(Anti-)Sceptics Simple and Subtle,”*Philosophy and Phenomenological Research*, 65 (2): 330–348.
+* –––, 2002a, “The Conceivability of Naturalism” in T. Szabo Gendler and J. Hawthorne (eds.), *Conceivability and Possibility*, Oxford: Clarendon Press.
+* –––, 2003, *Saving the Differences: Essays on Themes from Truth and Objectivity*, Harvard University Press, Cambridge, Massachusetts.
 
 ## Academic Tools
 
@@ -582,7 +582,7 @@ Hirsch 的小说和有趣的想法是，使持久论者/持续论者的时间部
 
 ### Acknowledgments
 
-Thanks to a reviewer for many helpful criticisms and corrections. Thanks also to Marinus Ferreira, Jesse Alama and a subject editor for the _Stanford Encyclopedia of Philosophy_ for their help in shaping earlier versions of this entry.
+Thanks to a reviewer for many helpful criticisms and corrections. Thanks also to Marinus Ferreira, Jesse Alama and a subject editor for the *Stanford Encyclopedia of Philosophy* for their help in shaping earlier versions of this entry.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Drew Khlentzos](https://www.ccd.edu.au/people/profile.php?memberID=214) <[_drew.khlentzos@mq.edu.au_](mailto:drew%2ekhlentzos%40mq%2eedu%2eau)>
+[Drew Khlentzos](https://www.ccd.edu.au/people/profile.php?memberID=214) <[*drew.khlentzos@mq.edu.au*](mailto:drew%2ekhlentzos%40mq%2eedu%2eau)>

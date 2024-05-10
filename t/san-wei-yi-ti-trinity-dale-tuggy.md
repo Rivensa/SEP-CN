@@ -1,6 +1,5 @@
 # 三位一体 trinity (Dale Tuggy)
 
-
 *首次发表于 2009 年 7 月 23 日；实质修订于 2020 年 11 月 20 日*
 
 三位一体教义通常被表述为这样的陈述：一个上帝以或在三个同等神圣的“位格”中存在，即父、子和圣灵。这个陈述中的每个术语（上帝、存在、以或在、同等神圣、位格）都有不同的理解。指导原则是信经宣告：新约中的父、子和圣灵是同质的（即在实质或本质上相同，希腊语：homoousios）。因为这个共同的物质或本质是神圣的，所以理解为这意味着这三个被命名的个体都是神圣的，而且同等。然而，这三个个体在某种意义上“是”圣经中的一个上帝。
@@ -11,7 +10,7 @@
 
 * [三位一体教义的历史](https://plato.stanford.edu/entries/trinity/trinity-history.html)
 * [犹太教和伊斯兰教的反对意见](https://plato.stanford.edu/entries/trinity/judaic-islamic-trinity.html)
-* [ 一神论](https://plato.stanford.edu/entries/trinity/unitarianism.html)
+* [一神论](https://plato.stanford.edu/entries/trinity/unitarianism.html)
 
 ---
 

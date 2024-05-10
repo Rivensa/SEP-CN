@@ -1,6 +1,6 @@
 # 集合论：连续统假设 continuum hypothesis (Peter Koellner)
 
-_首次发表于 2013 年 5 月 22 日星期三_
+*首次发表于 2013 年 5 月 22 日星期三*
 
 连续统假设（CH）是集合论中最核心的未解问题之一，对数学和哲学都具有重要意义。
 
@@ -60,9 +60,9 @@ _首次发表于 2013 年 5 月 22 日星期三_
 
 假设 ZFC 是一致的。假设 F 是一个（可定义类）函数，定义在无限正规基数上，使得
 
-1. 如果 κ ≤ λ，则 F(κ) ≤ F(λ) _,_
-2. F(κ) > κ _，并且_
-3. cf(_F_(κ)) > κ _._
+1. 如果 κ ≤ λ，则 F(κ) ≤ F(λ) *,*
+2. F(κ) > κ *，并且*
+3. cf(*F*(κ)) > κ *.*
 
 然后 ZFC + “对于所有无限正规基数 κ，2κ = F(κ)” 是一致的。
 
@@ -161,7 +161,7 @@ Foreman-Magidor 计划的目标是要证明大基数公理也暗示了 CH 的第
 
 定理 2.1（伍丁）。
 
-假设在ℵ1 上的非站点理想是饱和的，并且存在可测基数。那么δ̰12 = ℵ2 _._
+假设在ℵ1 上的非站点理想是饱和的，并且存在可测基数。那么δ̰12 = ℵ2 *.*
 
 关键在于这个定理的假设总是可以在假设大基数的情况下被强制。因此，可能有ΘL(ℝ) > ℵ2（实际上，δ̰13 > ℵ2）。
 
@@ -199,9 +199,9 @@ Foreman-Magidor 计划的目标是要证明大基数公理也暗示了 CH 的第
 
 定理 3.1（Woodin 1999）。
 
-假设 ZFC 并且存在一个 Woodin 基数的适当类。假设 A ∈ P (ℝ) ∩ L(ℝ)并且φ是一个Π2 _-句子_（在扩展语言中有两个额外的谓词）并且存在一个集合强制扩张 V\[G]，使得
+假设 ZFC 并且存在一个 Woodin 基数的适当类。假设 A ∈ P (ℝ) ∩ L(ℝ)并且φ是一个Π2 *-句子*（在扩展语言中有两个额外的谓词）并且存在一个集合强制扩张 V\[G]，使得
 
-> ⟨_H_(ω2), ∈, _I_NS, _A\*\*G_⟩ ⊧ φ
+> ⟨*H*(ω2), ∈, _I_NS, *A\*\*G*⟩ ⊧ φ
 
 （其中 A\*\*G 是在 V\[G]中解释 A）。那么
 
@@ -219,7 +219,7 @@ Foreman-Magidor 计划的目标是要证明大基数公理也暗示了 CH 的第
 
 定理 3.3（Woodin 1999）。
 
-假设（∗）。那么 2ω = ℵ2 _._
+假设（∗）。那么 2ω = ℵ2 *.*
 
 ### 3.2 Ω-逻辑
 
@@ -263,7 +263,7 @@ T ⊧Ω φ
 
 定理 3.7（Woodin 1999）。
 
-假设 ZFC _。假设 T 是一个集合论语言中的可数理论，φ是一个句子。如果 T ⊢Ω φ，则 T ⊧Ω φ_.\*
+假设 ZFC *。假设 T 是一个集合论语言中的可数理论，φ是一个句子。如果 T ⊢Ω φ，则 T ⊧Ω φ*.\*
 
 相应的完备性定理是否成立尚不确定。Ω猜想只是它成立的断言：
 
@@ -287,7 +287,7 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 定理 3.10（Woodin 1999）。
 
-假设 ZFC 并且存在一个适当类的 Woodin 基数。那么 ZFC 对于形式为“L(ℝ) ⊧ φ”的句子的Ω _-完备。_ .\*
+假设 ZFC 并且存在一个适当类的 Woodin 基数。那么 ZFC 对于形式为“L(ℝ) ⊧ φ”的句子的Ω *-完备。* .\*
 
 不幸的是，根据 Levy 和 Solovay 的工作产生的一系列结果表明，传统的大基数公理在Σ21 级别上不能产生Ω完备的理论，因为我们总是可以使用一个“小”（因此保持大基数的）强制来改变 CH 的真值。
 
@@ -304,15 +304,15 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 假设存在一个 Woodin 基数的真类，并且强Ω猜想成立。
 
 1. 存在一个公理 A，使得
-2. ZFC + A 是Ω _-可满足的，并且_
-3. ZFC + A 是对于结构 H(ω2) 是Ω _-完备的_.\*
+2. ZFC + A 是Ω *-可满足的，并且*
+3. ZFC + A 是对于结构 H(ω2) 是Ω *-完备的*.\*
 4. 任何这样的公理 A 具有以下特征
 
 > ZFC + A ⊧Ω ‘H(ω2) ⊧ ¬CH’。
 
 让我们将其重新表述如下：对于每个满足（1）的 A，让
 
-> _T\*\*A_ = {φ | ZFC + _A_ ⊧Ω ‘_H_(ω2) ⊧ ¬φ’}.
+> *T\*\*A* = {φ | ZFC + *A* ⊧Ω ‘*H*(ω2) ⊧ ¬φ’}.
 
 定理表明，如果存在一个 Woodin 基数的适当类，并且Ω猜想成立，则存在 H(ω2)的（非平凡的）Ω完备理论 T\*\*A，且所有这些理论都包含¬CH。
 
@@ -322,11 +322,11 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 假设存在一个 Woodin 基数的适当类。假设 A 是一个公理，使得
 
-> i. ZFC + A 是Ω _-可满足的，并且_ ii. ZFC + A 对于结构\* H(ω2) 是Ω _-完备的_.\*
+> i. ZFC + A 是Ω *-可满足的，并且* ii. ZFC + A 对于结构\* H(ω2) 是Ω *-完备的*.\*
 
 那么存在一个公理 B，使得
 
-> i′. ZFC + B 是Ω _-可满足的且_ ii′. ZFC + B 对于结构\* H(ω2) 是Ω\*-完备的
+> i′. ZFC + B 是Ω *-可满足的且* ii′. ZFC + B 对于结构\* H(ω2) 是Ω\*-完备的
 
 且 T\*\*A≠TB.
 
@@ -338,16 +338,16 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 假设 ZFC 并且存在一个 Woodin 基数的真类。那么以下是等价的：
 
-1. (∗) _._
-2. 对于结构的语言中的每个Π2 _-句子_ φ，
+1. (∗) *.*
+2. 对于结构的语言中的每个Π2 *-句子* φ，
 
-> ⟨_H_(ω2), ∈, _I_NS, _A_ | _A_ ∈ 𝒫 (ℝ) ∩ _L_(ℝ)⟩
+> ⟨*H*(ω2), ∈, _I_NS, *A* | *A* ∈ 𝒫 (ℝ) ∩ *L*(ℝ)⟩
 
 * 如果\*
 
-> ZFC + “⟨_H_(ω2), ∈, _I_NS, _A_ | _A_ ∈ 𝒫 (ℝ) ∩ _L_(ℝ)⟩ ⊧ φ”
+> ZFC + “⟨*H*(ω2), ∈, _I_NS, *A* | *A* ∈ 𝒫 (ℝ) ∩ *L*(ℝ)⟩ ⊧ φ”
 
-如果是Ω _-一致的，那么_
+如果是Ω *-一致的，那么*
 
 > ⟨H(ω2), ∈, INS, A | A ∈ 𝒫 (ℝ) ∩ L(ℝ)⟩ ⊧ φ。
 
@@ -395,7 +395,7 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 定理 4.1（Woodin）。
 
-假设 ZFC 并且存在一个 Woodin 基数的真类。那么，对于每个Π2 _-陈述_ φ，以下陈述是等价的：
+假设 ZFC 并且存在一个 Woodin 基数的真类。那么，对于每个Π2 *-陈述* φ，以下陈述是等价的：
 
 1. φ是一个通用多元宇宙的真理。
 2. φ是Ω\*-有效的。
@@ -408,7 +408,7 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 并且，对于任何可指定的基数κ，让
 
-> 𝒱Ω(_H_(κ+)) = {φ | ZFC ⊧Ω“_H_(κ+) ⊧ φ”},
+> 𝒱Ω(*H*(κ+)) = {φ | ZFC ⊧Ω“*H*(κ+) ⊧ φ”},
 
 其中回想一下，H(κ+)是基数小于κ+的继承集合的集合。因此，假设 ZFC 和存在一个适当类的 Woodin 基数，集合𝒱Ω在图灵等价于Π2 泛型多元宇宙真理的集合，而集合𝒱Ω(H(κ+))恰好是 H(κ+)的泛型多元宇宙真理的集合。
 
@@ -444,11 +444,11 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 定理 4.6（Woodin）。
 
-假设 ZFC 并且存在一个 Woodin 基数的真类。假设Ω猜想成立。那么𝒱Ω在𝒱Ω(H(c+))中是递归的。 _._
+假设 ZFC 并且存在一个 Woodin 基数的真类。假设Ω猜想成立。那么𝒱Ω在𝒱Ω(H(c+))中是递归的。 *.*
 
 定理 4.7（Woodin）。
 
-假设 ZFC 并且存在一个 Woodin 基数的适当类。假设Ω猜想成立并且 AD+猜想成立。那么𝒱Ω可以在 H(c+)中被定义。 _._
+假设 ZFC 并且存在一个 Woodin 基数的适当类。假设Ω猜想成立并且 AD+猜想成立。那么𝒱Ω可以在 H(c+)中被定义。 *.*
 
 换句话说，如果存在一个 Woodin 基数的适当类并且Ω猜想成立，那么真理的通用多元宇宙观在三阶算术层面上违反了真理约束；而且，如果此外还有 AD+猜想成立，那么真理的通用多元宇宙观在三阶算术层面上违反了可定义性约束。
 
@@ -472,7 +472,7 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 和
 
-> _V′_ α ⊧ “Ω猜想”。
+> *V′* α ⊧ “Ω猜想”。
 
 这个Σ2 陈述在集合强制下是不变的，因此，真理的通用多元宇宙观的拥护者必须认为它是确定的。此外，上述关键论证在这个Σ2 陈述代替Ω猜想的情况下也成立。因此，持这种第二种回应的人也必须坚持认为这个陈述是假的。但是，有大量证据表明这个陈述是真的。原因是，没有已知的Σ2 陈述在相对于大基数公理的集合强制下是不变的，并且不能通过大基数公理解决。（这样的陈述将成为绝对不可判定的陈述的候选。）因此，合理地期望这个陈述由大基数公理解决。然而，内模理论的最新进展，特别是 Woodin（2010）的进展，提供了证据表明没有大基数公理可以反驳这个陈述。综上所述：这个陈述很可能实际上是真的；因此，这种回应方式并不可取。
 
@@ -499,15 +499,15 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 假设存在一个 Woodin 基数的真类，并且强Ω猜想成立。
 
 1. 存在一个公理 A，使得
-2. ZFC + A 是Ω _-可满足的，并且_
-3. ZFC + A 是对于结构 H(ω2) Ω _-完备的_.\*
+2. ZFC + A 是Ω *-可满足的，并且*
+3. ZFC + A 是对于结构 H(ω2) Ω *-完备的*.\*
 4. 任何这样的公理 A 具有以下特征
 
 > ZFC + A ⊧ Ω“H(ω2) ⊧ ¬CH”
 
 让我们重新表述如下：对于每个满足（1）的 A，让
 
-> _T\*\*A_ = {φ | ZFC + _A_ ⊧Ω “_H_(ω2) ⊧ ¬φ”}.
+> *T\*\*A* = {φ | ZFC + *A* ⊧Ω “*H*(ω2) ⊧ ¬φ”}.
 
 定理表明，如果存在一个 Woodin 基数的适当类，并且强Ω猜想成立，则存在 H(ω2)的（非平凡的）Ω完备理论 T\*\*A，而且所有这些理论都包含¬CH。换句话说，在这些假设下，存在一个“好”的理论，而且所有“好”的理论都暗示着¬CH。
 
@@ -517,11 +517,11 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 假设存在一个 Woodin 基数的真类。假设 A 是一个公理，使得
 
-> i. ZFC + A 是Ω _-可满足的，并且_ ii. ZFC + A 对于结构\* H(ω2) 是Ω _-完备的_.\*
+> i. ZFC + A 是Ω *-可满足的，并且* ii. ZFC + A 对于结构\* H(ω2) 是Ω *-完备的*.\*
 
 那么存在一个公理 B，使得
 
-> i′. ZFC + B 是Ω _-可满足的且_ ii′. ZFC + B 对于结构\* H(ω2) 是Ω\*-完备的
+> i′. ZFC + B 是Ω *-可满足的且* ii′. ZFC + B 对于结构\* H(ω2) 是Ω\*-完备的
 
 且 T\*\*A≠TB.
 
@@ -531,16 +531,16 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 假设 ZFC 并且存在一个伍丁基数的适当类。那么以下命题是等价的：
 
-1. (∗) _._
-2. 对于结构语言中的每个Π2 _-句子_ φ
+1. (∗) *.*
+2. 对于结构语言中的每个Π2 *-句子* φ
 
 > ⟨H(ω2), ∈, INS, A | A ∈ 𝒫 (ℝ) ∩ L(ℝ)⟩的每个
 
 * 如果\*
 
-> ZFC + “⟨_H_(ω2), ∈, _I_NS, _A_ | _A_ ∈ 𝒫 (ℝ) ∩ _L_(ℝ)⟩ ⊧ φ”
+> ZFC + “⟨*H*(ω2), ∈, _I_NS, *A* | *A* ∈ 𝒫 (ℝ) ∩ *L*(ℝ)⟩ ⊧ φ”
 
-是Ω _-一致的话，那么_
+是Ω *-一致的话，那么*
 
 > ⟨H(ω2), ∈, INS, A | A ∈ 𝒫 (ℝ) ∩ L(ℝ)⟩ ⊧ φ。
 
@@ -598,11 +598,11 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 
 假设存在一个 Woodin 基数的真类。假设 A 是一个公理，满足以下条件：
 
-> i. ZFC + A 是Ω _-可满足的，并且_ ii. ZFC + A 对于Σ22 是Ω\*-完备的。
+> i. ZFC + A 是Ω *-可满足的，并且* ii. ZFC + A 对于Σ22 是Ω\*-完备的。
 
 然后存在一个公理 B，使得
 
-> i′. ZFC + B 是Ω _-可满足的，并且_ ii′. ZFC + B 对于Σ22 是Ω\*-完备的
+> i′. ZFC + B 是Ω *-可满足的，并且* ii′. ZFC + B 对于Σ22 是Ω\*-完备的
 
 并且 T\*\*A≠TB。
 
@@ -619,7 +619,7 @@ L(ℝ)理论在集合强制下的不变性现在可以重新表述如下：
 3. ZFC + A 对于Σ22 是Ω-完备的。
 4. 任何这样的Σ22 公理 A 都具有以下特征：
 
-> ZFC + _A_ ⊧Ω CH.
+> ZFC + *A* ⊧Ω CH.
 
 如果这个猜想成立，它将提供定理 5.1 的真实类比。这将完成与第一步的平行。
 
@@ -681,30 +681,30 @@ L(ℝ)和 L(Vλ+1)之间的类比基于一个观察，即 L(ℝ)简单地是 L(V
 ## Bibliography
 
 * Abraham, U. and M. Magidor, 2010, “Cardinal arithmetic,” in Foreman and Kanamori 2010.
-* Bagaria, J., N. Castells, and P. Larson, 2006, “An Ω-logic primer,” in J. Bagaria and S. Todorcevic (eds), _Set theory_, Trends in Mathematics, Birkhäuser, Basel, pp. 1–28.
-* Cohen, P., 1963, “The independence of the continuum hypothesis I,” _Proceedings of the U.S. National Academy of Sciemces_, 50: 1143–48.
-* Foreman, M. and A. Kanamori, 2010, _Handbook of Set Theory_, Springer-Verlag.
-* Foreman, M. and M. Magidor, 1995, “Large cardinals and definable counterexamples to the continuum hypothesis,” _Annals of Pure and Applied Logic_ 76: 47–97.
-* Foreman, M., M. Magidor, and S. Shelah, 1988, “Martin's Maximum, saturated ideals, and non-regular ultrafilters. Part i,” _Annals of Mathematics_ 127: 1–47.
-* Gödel, K., 1938a. “The consistency of the axiom of choice and of the generalized continuum-hypothesis,” _Proceedings of the U.S. National Academy of Sciences_, 24: 556–7.
-* Gödel, K., 1938b. “Consistency-proof for the generalized continuum-hypothesis,” _Proceedings of the U.S. National Academy of Sciemces_, 25: 220–4.
-* Hallett, M., 1984, _Cantorian Set Theory and Limitation of Size_, Vol. 10 of _Oxford Logic Guides_, Oxford University Press.
-* Holz, M., K. Steffens, and E. Weitz, 1999, _Introduction to Cardinal Arithmetic_, Birkhäuser Advanced Texts, Birkhäuser Verlag, Basel.
-* Jech, T. J., 2003, _Set Theory: Third Millennium Edition, Revised and Expanded_, Springer-Verlag, Berlin.
-* Ketchersid, R., P. Larson, and J. Zapletal, 2010, “Regular embeddings of the stationary tower and Woodin's Sigma-2-2 maximality theorem.” _Journal of Symbolic Logic_ 75(2):711–727.
-* Koellner, P., 2010, “Strong logics of first and second order,” _Bulletin of Symbolic Logic_ 16(1): 1–36.
-* Koellner, P. and W. H. Woodin, 2009, “Incompatible Ω-complete theories,” _The Journal of Symbolic Logic_ 74 (4).
-* Martin, D. A., 1976, “Hilbert's first problem: The Continuum Hypothesis,” in F. Browder (ed.), _Mathematical Developments Arising from Hilbert's Problems_, Vol. 28 of _Proceedings of Symposia in Pure Mathematics_, American Mathematical Society, Providence, pp. 81–92.
+* Bagaria, J., N. Castells, and P. Larson, 2006, “An Ω-logic primer,” in J. Bagaria and S. Todorcevic (eds), *Set theory*, Trends in Mathematics, Birkhäuser, Basel, pp. 1–28.
+* Cohen, P., 1963, “The independence of the continuum hypothesis I,” *Proceedings of the U.S. National Academy of Sciemces*, 50: 1143–48.
+* Foreman, M. and A. Kanamori, 2010, *Handbook of Set Theory*, Springer-Verlag.
+* Foreman, M. and M. Magidor, 1995, “Large cardinals and definable counterexamples to the continuum hypothesis,” *Annals of Pure and Applied Logic* 76: 47–97.
+* Foreman, M., M. Magidor, and S. Shelah, 1988, “Martin's Maximum, saturated ideals, and non-regular ultrafilters. Part i,” *Annals of Mathematics* 127: 1–47.
+* Gödel, K., 1938a. “The consistency of the axiom of choice and of the generalized continuum-hypothesis,” *Proceedings of the U.S. National Academy of Sciences*, 24: 556–7.
+* Gödel, K., 1938b. “Consistency-proof for the generalized continuum-hypothesis,” *Proceedings of the U.S. National Academy of Sciemces*, 25: 220–4.
+* Hallett, M., 1984, *Cantorian Set Theory and Limitation of Size*, Vol. 10 of *Oxford Logic Guides*, Oxford University Press.
+* Holz, M., K. Steffens, and E. Weitz, 1999, *Introduction to Cardinal Arithmetic*, Birkhäuser Advanced Texts, Birkhäuser Verlag, Basel.
+* Jech, T. J., 2003, *Set Theory: Third Millennium Edition, Revised and Expanded*, Springer-Verlag, Berlin.
+* Ketchersid, R., P. Larson, and J. Zapletal, 2010, “Regular embeddings of the stationary tower and Woodin's Sigma-2-2 maximality theorem.” *Journal of Symbolic Logic* 75(2):711–727.
+* Koellner, P., 2010, “Strong logics of first and second order,” *Bulletin of Symbolic Logic* 16(1): 1–36.
+* Koellner, P. and W. H. Woodin, 2009, “Incompatible Ω-complete theories,” *The Journal of Symbolic Logic* 74 (4).
+* Martin, D. A., 1976, “Hilbert's first problem: The Continuum Hypothesis,” in F. Browder (ed.), *Mathematical Developments Arising from Hilbert's Problems*, Vol. 28 of *Proceedings of Symposia in Pure Mathematics*, American Mathematical Society, Providence, pp. 81–92.
 * Mitchell, W., 2010, “Beginning inner model theory,” in Foreman and Kanamori 2010.
 * Steel, J. R., 2010, “An outline of inner model theory,” in Foreman and Kanamori 2010.
-* Woodin, W. H., 1999, _The Axiom of Determinacy, Forcing Axioms, and the Nonstationary Ideal_, Vol. 1 of _de Gruyter Series in Logic and its Applications_, de Gruyter, Berlin.
-* –––, 2001a, “The continuum hypothesis, part I,” _Notices of the American Mathematical Society_ 48(6): 567–576.
-* –––, 2001b, “The continuum hypothesis, part II,” _Notices of the American Mathematical Society_ 48(7): 681–690.
-* –––, 2005a, “The continuum hypothesis,” in R. Cori, A. Razborov, S. Todorĉević and C. Wood (eds), _Logic Colloquium 2000_, Vol. 19 of _Lecture Notes in Logic_, Association of Symbolic Logic, pp. 143–197.
-* –––, 2005b, “Set theory after Russell: the journey back to Eden,” in G. Link (ed.), _One Hundred Years Of Russell's Paradox: Mathematics, Logic, Philosophy_ , Vol. 6 of _de Gruyter Series in Logic and Its Applications_, Walter De Gruyter Inc, pp. 29–47.
-* –––, 2010, “Suitable extender models I,” _Journal of Mathematical Logic_ 10(1–2): 101–339.
-* –––, 2011a, “The Continuum Hypothesis, the generic-multiverse of sets, and the Ω-conjecture,” in J. Kennedy and R. Kossak, (eds), _Set Theory, Arithmetic, and Foundations of Mathematics: Theorems, Philosophies_, Vol. 36 of _Lecture Notes in Logic_, Cambridge University Press.
-* –––, 2011b, “Suitable extender models II,” _Journal of Mathematical Logic_ 11(2): 115–436.
+* Woodin, W. H., 1999, *The Axiom of Determinacy, Forcing Axioms, and the Nonstationary Ideal*, Vol. 1 of *de Gruyter Series in Logic and its Applications*, de Gruyter, Berlin.
+* –––, 2001a, “The continuum hypothesis, part I,” *Notices of the American Mathematical Society* 48(6): 567–576.
+* –––, 2001b, “The continuum hypothesis, part II,” *Notices of the American Mathematical Society* 48(7): 681–690.
+* –––, 2005a, “The continuum hypothesis,” in R. Cori, A. Razborov, S. Todorĉević and C. Wood (eds), *Logic Colloquium 2000*, Vol. 19 of *Lecture Notes in Logic*, Association of Symbolic Logic, pp. 143–197.
+* –––, 2005b, “Set theory after Russell: the journey back to Eden,” in G. Link (ed.), *One Hundred Years Of Russell's Paradox: Mathematics, Logic, Philosophy* , Vol. 6 of *de Gruyter Series in Logic and Its Applications*, Walter De Gruyter Inc, pp. 29–47.
+* –––, 2010, “Suitable extender models I,” *Journal of Mathematical Logic* 10(1–2): 101–339.
+* –––, 2011a, “The Continuum Hypothesis, the generic-multiverse of sets, and the Ω-conjecture,” in J. Kennedy and R. Kossak, (eds), *Set Theory, Arithmetic, and Foundations of Mathematics: Theorems, Philosophies*, Vol. 36 of *Lecture Notes in Logic*, Cambridge University Press.
+* –––, 2011b, “Suitable extender models II,” *Journal of Mathematical Logic* 11(2): 115–436.
 
 ## Academic Tools
 
@@ -723,4 +723,4 @@ L(ℝ)和 L(Vλ+1)之间的类比基于一个观察，即 L(ℝ)简单地是 L(V
 [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: early development](https://plato.stanford.edu/entries/settheory-early/) | [set theory: large cardinals and determinacy](https://plato.stanford.edu/entries/large-cardinals-determinacy/)
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
-Peter Koellner <[_koellner@fas.harvard.edu_](mailto:koellner%40fas%2eharvard%2eedu)>
+Peter Koellner <[*koellner@fas.harvard.edu*](mailto:koellner%40fas%2eharvard%2eedu)>

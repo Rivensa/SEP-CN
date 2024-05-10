@@ -1,6 +1,6 @@
 # 随附性 supervenience (Brian McLaughlin and Karen Bennett)
 
-_首次发表于 2005 年 7 月 25 日；实质性修订于 2023 年 12 月 4 日_
+*首次发表于 2005 年 7 月 25 日；实质性修订于 2023 年 12 月 4 日*
 
 一组属性 A 随附于另一组属性 B，只有在没有两个事物在 A 属性上有所不同而在 B 属性上也有所不同的情况下才成立。简而言之，“没有 A 差异就没有 B 差异”。
 
@@ -181,11 +181,11 @@ Kim（1984 年，1987 年）区分了两种不同类型的个体随附性，即�
 
 > 如果任何事物 x 在 A 中具有某个属性 F，那么必然存在 B 中的至少一个属性 G，使得 x 具有 G，并且具有 G 的一切事物都具有 F，即当且仅当 A 弱随附于 B。
 >
-> > □∀_x_∀_F_∈_A_\[_Fx_ → ∃_G_∈_B_(_Gx_ & ∀_y_(_Gy_ → _Fy_))]
+> > □∀*x*∀*F*∈*A*\[*Fx* → ∃*G*∈*B*(*Gx* & ∀*y*(*Gy* → *Fy*))]
 >
 > 如果且仅当必然地，如果任何事物 x 在 A 中具有某个属性 F，则至少存在一个属性 G 在 B 中，使得 x 具有 G，并且必然地，具有 G 的一切事物具有 F，即当且仅当
 >
-> > □∀_x_∀_F_∈_A_\[_Fx_ → ∃_G_∈_B_(_Gx_ & □∀_y_(_Gy_ → _Fy_))]
+> > □∀*x*∀*F*∈*A*\[*Fx* → ∃*G*∈*B*(*Gx* & □∀*y*(*Gy* → *Fy*))]
 >
 > (金 1984 年)
 
@@ -228,10 +228,10 @@ Terence Horgan（1982 年）提出了一种关于空间时间个体区域的监�
 | _W_1   |   | _W_2       |
 | ------ | - | ---------- |
 |        |   |            |
-| _Px_   |   | _Px_\*     |
-| _Sx_   |   | \~\*Sx\*\* |
-| _Py_   |   | \~\*Py\*\* |
-| \~_Sy_ |   | \~\*Sy\*\* |
+| *Px*   |   | *Px*\*     |
+| *Sx*   |   | \~\*Sx\*\* |
+| *Py*   |   | \~\*Py\*\* |
+| \~*Sy* |   | \~\*Sy\*\* |
 
 w1 和 w2 的存在与 A 在 B 上强烈个别随附的论点不相容，因为 w1 中的 x 在 B 上是不可辨的，但在 w2 中与 x\*相辨。但是这些世界的存在本身并不是 A 在 B 上全局随附的反例。由于 w1 和 w2 没有相同的 B 属性全局分布模式，似乎并不重要这些世界没有相同的 A 属性全局分布模式。因此，佩特里声称“由于全局随附与这个例子一致，而强随附与之不一致，所以随附的这两个概念并不等价”（1987 年，121 页）。
 
@@ -246,24 +246,24 @@ Paull 和 Sider 的孤立原则可以胜任这个任务。再次考虑 Petrie �
 | _W_3 |   | _W_4       |
 | ---- | - | ---------- |
 |      |   |            |
-| _Pz_ |   | _Pz_\*     |
-| _Sz_ |   | \~\*Sz\*\* |
+| *Pz* |   | *Pz*\*     |
+| *Sz* |   | \~\*Sz\*\* |
 
 与 w1 和 w2 不同，w3 和 w4 构成了 A 属性在 B 属性上的全面随附性的反例。它们具有相同的 B 属性分布模式，但具有不同的 A 属性分布模式。因此，Paull 和 Sider 声称 Petrie 未能证明全面随附性不蕴含强随附性。
 
 但是，Paull 和 Sider 继续提出了一个新的论证来支持这一观点。他们引用了一个只包含两个属性 P 和 Q 的集合 B，以及一个只包含一个属性 M 的集合 A。一个对象具有 M 当且仅当它具有 P，并且存在另一个对象是 Q。也就是说，Mx =df Px & ∃yQy。这个定义保证了 A 在 B 上的全面随附性。然后他们描述了以下两个世界：
 
-| _W_    |   | _W_\*  |
+| *W*    |   | *W*\*  |
 | ------ | - | ------ |
 |        |   |        |
-| _Ma_   |   | \~_Mc_ |
-| _Pa_   |   | _Pc_   |
-| \~_Mb_ |   |        |
-| _Qb_   |   |        |
+| *Ma*   |   | \~*Mc* |
+| *Pa*   |   | *Pc*   |
+| \~*Mb* |   |        |
+| *Qb*   |   |        |
 
 这一对世界表明 A 并不强烈地随附于 B。而孤立原则不能被应用于生成对全局随附性的反例。一个孤立的 a 的副本在属性 M 上既与 c（一个孤立的 a 的副本没有 M）无法区分 A 和 B。因此，Paull 和 Sider 得出结论，全局随附性和强随附性并不等价。（1992，841）。
 
-Klagge（1995）对这一论证线路提出了异议。他指出，Paull 和 Sider 在随附集 A 中包括一个外在属性 M，但在随附集 B 中只包括内在属性 P 和 Q。而且，他声称，如果我们允许存在构建外在属性 M 所需的属性形成操作，那么 Paull 和 Sider 并没有详尽地描述世界 w 和 w _。因为在给定这些属性形成操作的情况下，很可能会存在一个属性 P_​ _#，可以定义如下：P#_ _=df Px & ∃y(y≠x)。（基本上，一个事物是 P#，只要有其他东西是 P。）w 中的 a 和 w_中的 c 在这个属性上有所不同；a 具有 P#，而 c 没有。这是正确的。但是 Klagge 认为这表明 w 和 w\*实际上并不提供 A 强随附于 B 的反例。然而，这并不成立。只有当 a 和 c 因此被视为 B 可辨别时，才会成立，而它们并不是。Paull 和 Sider 规定 B 只包含 P 和 Q。因此，尽管 a 具有 P#而 c 没有，但 a 和 c 在 B 上是无法区分的。
+Klagge（1995）对这一论证线路提出了异议。他指出，Paull 和 Sider 在随附集 A 中包括一个外在属性 M，但在随附集 B 中只包括内在属性 P 和 Q。而且，他声称，如果我们允许存在构建外在属性 M 所需的属性形成操作，那么 Paull 和 Sider 并没有详尽地描述世界 w 和 w _。因为在给定这些属性形成操作的情况下，很可能会存在一个属性 P_​ *#，可以定义如下：P#* _=df Px & ∃y(y≠x)。（基本上，一个事物是 P#，只要有其他东西是 P。）w 中的 a 和 w_中的 c 在这个属性上有所不同；a 具有 P#，而 c 没有。这是正确的。但是 Klagge 认为这表明 w 和 w\*实际上并不提供 A 强随附于 B 的反例。然而，这并不成立。只有当 a 和 c 因此被视为 B 可辨别时，才会成立，而它们并不是。Paull 和 Sider 规定 B 只包含 P 和 Q。因此，尽管 a 具有 P#而 c 没有，但 a 和 c 在 B 上是无法区分的。
 
 但是克拉格显然是对的，Paull 和 Sider 的例子涉及到一个包含外在属性的随附性集合 A 和一个只包含内在属性的随附性集合 B，他对此的看法是正确的。这是一个重要的问题。它引发了一个问题，即当 A 和 B 是内在属性的集合时，全局随附性是否可能蕴含强随附性。它还引发了一个问题，即当 A 和 B 都包含某些特定类型的外在属性时，全局随附性是否可能蕴含强随附性。事实上，针对 Paull 和 Sider 的观点，金委员会提出了这样的建议：“当随附性集合中存在外在属性但被禁止出现在随附基础中时，等价性似乎会失败，从全局随附性到强随附性的蕴涵也会失败”（1993 年，170 页；参见 McLaughlin 1997a，215 页）。我们将在接下来的几节中回答这些问题。回答这些问题需要更清楚地了解全局随附性；现在我们转向这个问题。
 
@@ -463,158 +463,158 @@ Haecceitism 是一种观点，认为身份属性（如成为科菲·安南或成
 
 ## Bibliography
 
-* Armstrong, David, 1978, _A Theory of Universals, Vol.2 of Universals and Scientific Realism_, Cambridge: Cambridge University Press.
-* –––, 1989, _Universals: An Opinionated Introduction_, Boulder, CO: Westview Press.
-* Audi, Paul, 2012, “Grounding: Toward a Theory of the In-Virtue-Of Relation,” _The Journal of Philosophy_, 109: 685–711.
-* Bacon, John, 1986, “Supervenience, Necessary Coextension, and Reducibility,” _Philosophical Studies_ 49: 163–76.
-* –––, 1990, “Van Cleve Versus Closure,” _Philosophical Studies_ 8: 239–242.
+* Armstrong, David, 1978, *A Theory of Universals, Vol.2 of Universals and Scientific Realism*, Cambridge: Cambridge University Press.
+* –––, 1989, *Universals: An Opinionated Introduction*, Boulder, CO: Westview Press.
+* Audi, Paul, 2012, “Grounding: Toward a Theory of the In-Virtue-Of Relation,” *The Journal of Philosophy*, 109: 685–711.
+* Bacon, John, 1986, “Supervenience, Necessary Coextension, and Reducibility,” *Philosophical Studies* 49: 163–76.
+* –––, 1990, “Van Cleve Versus Closure,” *Philosophical Studies* 8: 239–242.
 * –––, 1995, “Weak Supervenience Supervenes,” in E. Savellos and U. Yalcin 1995 (eds.), 101–109.
-* Bader, Ralf, 2012, “Supervenience and Infinitary Property-Forming Operations,” _Philosophical Studies_, 160: 415–423.
+* Bader, Ralf, 2012, “Supervenience and Infinitary Property-Forming Operations,” *Philosophical Studies*, 160: 415–423.
 * –––, 2013, “Multiple Domain Supervenience for Non-Classical Mereologies,” in M. Hoeltje, B. Schnieder, and A. Steinberg (eds.) 2013, 347–368.
-* Baker, Lynne, 2000, _Persons and Bodies: A Constitution View_, New York: Cambridge University Press.
-* Baldwin, Thomas (ed.), 2003, _The Cambridge History of Philosophy 1870–1945_, Cambridge: Cambridge University Press.
-* Barnes, Elizabeth, 2018, “Symmetric Dependence,” in Ricki Bliss and Graham Priest (eds.) _Reality and Its Structure_, Oxford: Oxford University Press, 50–69.
-* Baxter, Donald, 1988, “Many-One Identity,” _Philosophical Papers_ 17: 193–216.
-* Beckermann, Ansgar, Hans Flohr, and Jaegwon Kim (eds.), 1992, _Emergence or Reduction?_ Berlin: Walter de Gruyter.
+* Baker, Lynne, 2000, *Persons and Bodies: A Constitution View*, New York: Cambridge University Press.
+* Baldwin, Thomas (ed.), 2003, *The Cambridge History of Philosophy 1870–1945*, Cambridge: Cambridge University Press.
+* Barnes, Elizabeth, 2018, “Symmetric Dependence,” in Ricki Bliss and Graham Priest (eds.) *Reality and Its Structure*, Oxford: Oxford University Press, 50–69.
+* Baxter, Donald, 1988, “Many-One Identity,” *Philosophical Papers* 17: 193–216.
+* Beckermann, Ansgar, Hans Flohr, and Jaegwon Kim (eds.), 1992, *Emergence or Reduction?* Berlin: Walter de Gruyter.
 * –––, 1992. “Supervenience, Emergence, and Reduction,” in Beckermann et.al., 94–118.
-* Bedau, Mark, and Paul Humphries,(eds.), 2008, _Emergence: Contemporary Readings in Philosophy and Science_, Cambridge, MA: A Bradford Book. MIT Press.
-* Bennett, Jonathan, 1988, _Events and Their Names_, Indianapolis: Hackett Publishing Company.
-* Bennett, Karen, 2003, “Why the Exclusion Problem Seems Intractable, and How, Just Maybe, to Tract It,” _Noûs_, 37(3): 471–497.
-* –––, 2004a, “Global Supervenience and Dependence,” _Philosophy and Phenomenological Research_, 68: 510–529.
-* –––, 2004b, “Spatio-temporal Coincidence and the Grounding Problem,” _Philosophical Studies_, 118: 339–371.
-* –––, 2017, _Making Things Up_, Oxford: Oxford University Press.
-* Bernstein, Sara, 2017, “Grounding is Not Causation,” _Philosophical Perspectives_ 30: 21–38.
-* Blackburn, Simon, 1973, “Moral Realism,” reprinted (1993) in _Essays in Quasi-Realism_, Oxford: Oxford University Press.
-* –––, 1984, _Spreading the Word_, Oxford: Clarendon.
+* Bedau, Mark, and Paul Humphries,(eds.), 2008, *Emergence: Contemporary Readings in Philosophy and Science*, Cambridge, MA: A Bradford Book. MIT Press.
+* Bennett, Jonathan, 1988, *Events and Their Names*, Indianapolis: Hackett Publishing Company.
+* Bennett, Karen, 2003, “Why the Exclusion Problem Seems Intractable, and How, Just Maybe, to Tract It,” *Noûs*, 37(3): 471–497.
+* –––, 2004a, “Global Supervenience and Dependence,” *Philosophy and Phenomenological Research*, 68: 510–529.
+* –––, 2004b, “Spatio-temporal Coincidence and the Grounding Problem,” *Philosophical Studies*, 118: 339–371.
+* –––, 2017, *Making Things Up*, Oxford: Oxford University Press.
+* Bernstein, Sara, 2017, “Grounding is Not Causation,” *Philosophical Perspectives* 30: 21–38.
+* Blackburn, Simon, 1973, “Moral Realism,” reprinted (1993) in *Essays in Quasi-Realism*, Oxford: Oxford University Press.
+* –––, 1984, *Spreading the Word*, Oxford: Clarendon.
 * –––, 1985, “Supervenience Revisited,” reprinted (1993) in Essays in Quasi-Realism. Oxford: Oxford University Press.
-* Bliss, Ricki, 2014, “Viciousness and Circles of Ground,” _Metaphilosophy_, 45: 245–256.
-* Bliss, Ricki, and Graham Priest, 2018, _Reality and its Structure_, Oxford: Oxford University Press.
-* Block, Ned (ed.), 1980, _Readings in the Philosophy of Psychology_ (Volume 1). Cambridge, MA: Harvard University Press.
+* Bliss, Ricki, 2014, “Viciousness and Circles of Ground,” *Metaphilosophy*, 45: 245–256.
+* Bliss, Ricki, and Graham Priest, 2018, *Reality and its Structure*, Oxford: Oxford University Press.
+* Block, Ned (ed.), 1980, *Readings in the Philosophy of Psychology* (Volume 1). Cambridge, MA: Harvard University Press.
 * –––, 1980, “What is Functionalism?” in Ned Block 1980 (ed.), 171–184.
-* Bricker, Phillip, 2005, “The Relation Between General and Particular: Entailment vs. Supervenience,” in Dean Zimmerman (ed.), _Oxford Studies in Metaphysics_ (Volume II), Oxford: Oxford University Press.
-* Broad, C.D., 1925, _The Mind and Its Place in Nature_, London: Routledge and Kegan Paul.
-* Burge, Tyler, 1979, “Individualism and the Mental,” _Midwest Studies in Philosophy_, 4: 73–121.
-* Causey, Robert, 1977, _Unity of Science_, Dordrecht: Reidel.
-* Chalmers, David, 1996, _The Conscious Mind_, New York: Oxford University Press.
-* –––, 2006, “Strong and Weak Emergence,” in P. Clayton and P. Davies, eds., _The Re-Emergence of Emergence_ , Oxford University Press, 244–254.
-* Dasgupta, Shamik, 2014, “The Possibility of Physicalism,” _The Journal of Philosophy_, 111: 557–592.
+* Bricker, Phillip, 2005, “The Relation Between General and Particular: Entailment vs. Supervenience,” in Dean Zimmerman (ed.), *Oxford Studies in Metaphysics* (Volume II), Oxford: Oxford University Press.
+* Broad, C.D., 1925, *The Mind and Its Place in Nature*, London: Routledge and Kegan Paul.
+* Burge, Tyler, 1979, “Individualism and the Mental,” *Midwest Studies in Philosophy*, 4: 73–121.
+* Causey, Robert, 1977, *Unity of Science*, Dordrecht: Reidel.
+* Chalmers, David, 1996, *The Conscious Mind*, New York: Oxford University Press.
+* –––, 2006, “Strong and Weak Emergence,” in P. Clayton and P. Davies, eds., *The Re-Emergence of Emergence* , Oxford University Press, 244–254.
+* Dasgupta, Shamik, 2014, “The Possibility of Physicalism,” *The Journal of Philosophy*, 111: 557–592.
 * Davidson, Donald, 1969, “The Individuation of Events,” reprinted in Donald Davidson (ed.), 1980, 163–180.
 * –––, 1970, “Mental Events,” reprinted in Donald Davidson (ed.) 1980, 207–225.
 * –––, 1985, “Replies to Essays X-XII,” in B. Vermazzen and M. B. Hintikka (eds.) 1985.
-* –––, 1993, “Thinking Causes,” in John Heil and Alfred Mele (eds.), _Mental Causation_, Oxford: Clarendon, 3–17.
-* Davidson, Donald (ed.), 1980, _Essays on Actions and Events_, Oxford: Clarendon Press.
-* Dorr, Cian, and Gideon Rosen, 2002, “Composition as a Fiction,” in R. M. Gale (ed.), _Blackwell Guide to Metaphysics_, Oxford: Blackwell, 151–174.
-* Ellis, Brian, 2001, _Scientific Essentialism_, Cambridge: Cambridge University Press.
+* –––, 1993, “Thinking Causes,” in John Heil and Alfred Mele (eds.), *Mental Causation*, Oxford: Clarendon, 3–17.
+* Davidson, Donald (ed.), 1980, *Essays on Actions and Events*, Oxford: Clarendon Press.
+* Dorr, Cian, and Gideon Rosen, 2002, “Composition as a Fiction,” in R. M. Gale (ed.), *Blackwell Guide to Metaphysics*, Oxford: Blackwell, 151–174.
+* Ellis, Brian, 2001, *Scientific Essentialism*, Cambridge: Cambridge University Press.
 * Fine, Kit, 2002, “Varieties of Necessity,” in Tamar Gendler and John Hawthorne (eds.) 2002, 253–281.
-* Gendler, Tamar, and John Hawthorne (eds.), 2002, _Conceivability and Possibility_, Oxford: Oxford University Press.
-* Gibb, Sophie, Robin Findlay Hendry, and Timothy Lancaster (eds.), 2019, _The Routledge Handbook of Emergence_, New York, NY: Routledge.
-* Gibbard, Allan, 1975, “Contingent Identity,” _Journal of Philosophical Logic_, 4: 187–221.
-* Gillett, Carl, 2002. “The dimensions of realization: A critique of the Standard view,” _Analysis_, 62: 316–323.
-* Glanzberg, Michael, 2001, “Supervenience and Infinitary Logic,” _Noûs_, 25: 419–39.
-* Goldman, Alvin, 1976, “Discrimination and Perceptual Knowledge,” _Journal of Philosophy_, 18: 771–91.
-* Hale, Bob, and Aviv Hoffman, (eds.), 2010. _Modality: Metaphysics, Logic, Epistemology_, Oxford: Oxford University Press.
-* Hare, R.M., 1952, _The Language of Morals_, Oxford: Oxford University Press.
-* –––, 1984, “Supervenience,” _Aristotelian Society Supplementary Volume_, 58: 1–16.
-* Haugeland, John, 1982, “Weak Supervenience,” _American Philosophical Quarterly_, 19: 93–101.
-* Hawthorne, John, 2002, “Blocking Definitions of Materialism,” _Philosophical Studies_, 110: 103–113.
-* Hellman, Geoffrey, and Frank Thompson, 1975, “Physicalism, Ontology, Determination, and Reduction,” _The Journal of Philosophy_, 72: 551–64.
-* Hoeltje, Miguel, Benjamin Schnieder, and Alexander Steinberg (eds.), 2013, _Varieties of Dependence: Ontological Dependence, Grounding, Supervenience, Response-Dependence_, Munich: Philosophia Verlag.
-* Horgan, Terence, 1982, “Supervenience and Microphysics,” _Pacific Philosophical Quarterly_, 63: 29–43.
-* –––, 1993, “From Supervenience to Superdupervenience: Meeting the Demands of a Material World,” _Mind_, 102: 555–86.
-* Jackson, Frank, 1998, _From Metaphysics to Ethics_, Oxford: Oxford University Press.
-* Jenkins, Carrie, 2011, “Is Metaphysical Dependence Irreflexive?,” _The Monist_, 94: 267–276.
+* Gendler, Tamar, and John Hawthorne (eds.), 2002, *Conceivability and Possibility*, Oxford: Oxford University Press.
+* Gibb, Sophie, Robin Findlay Hendry, and Timothy Lancaster (eds.), 2019, *The Routledge Handbook of Emergence*, New York, NY: Routledge.
+* Gibbard, Allan, 1975, “Contingent Identity,” *Journal of Philosophical Logic*, 4: 187–221.
+* Gillett, Carl, 2002. “The dimensions of realization: A critique of the Standard view,” *Analysis*, 62: 316–323.
+* Glanzberg, Michael, 2001, “Supervenience and Infinitary Logic,” *Noûs*, 25: 419–39.
+* Goldman, Alvin, 1976, “Discrimination and Perceptual Knowledge,” *Journal of Philosophy*, 18: 771–91.
+* Hale, Bob, and Aviv Hoffman, (eds.), 2010. *Modality: Metaphysics, Logic, Epistemology*, Oxford: Oxford University Press.
+* Hare, R.M., 1952, *The Language of Morals*, Oxford: Oxford University Press.
+* –––, 1984, “Supervenience,” *Aristotelian Society Supplementary Volume*, 58: 1–16.
+* Haugeland, John, 1982, “Weak Supervenience,” *American Philosophical Quarterly*, 19: 93–101.
+* Hawthorne, John, 2002, “Blocking Definitions of Materialism,” *Philosophical Studies*, 110: 103–113.
+* Hellman, Geoffrey, and Frank Thompson, 1975, “Physicalism, Ontology, Determination, and Reduction,” *The Journal of Philosophy*, 72: 551–64.
+* Hoeltje, Miguel, Benjamin Schnieder, and Alexander Steinberg (eds.), 2013, *Varieties of Dependence: Ontological Dependence, Grounding, Supervenience, Response-Dependence*, Munich: Philosophia Verlag.
+* Horgan, Terence, 1982, “Supervenience and Microphysics,” *Pacific Philosophical Quarterly*, 63: 29–43.
+* –––, 1993, “From Supervenience to Superdupervenience: Meeting the Demands of a Material World,” *Mind*, 102: 555–86.
+* Jackson, Frank, 1998, *From Metaphysics to Ethics*, Oxford: Oxford University Press.
+* Jenkins, Carrie, 2011, “Is Metaphysical Dependence Irreflexive?,” *The Monist*, 94: 267–276.
 * Kim, Jaegwon, 1976, “Events as Property Exemplifications,” reprinted in Kim 1993, 33–52.
 * –––, 1984, “Concepts of Supervenience,” reprinted in Kim 1993, 53–78.
 * –––, 1987, “‘Strong’ and ‘Global’ Supervenience Revisited,” reprinted in Kim 1993, 79–91.
 * –––, 1988, “Supervenience for Multiple Domains,” reprinted in Kim 1993, 109–130.
 * –––, 1990, “Supervenience as a Philosophical Concept,” reprinted in Kim 1993, 131–160.
-* ––– (ed.), 1993, _Supervenience and Mind: Selected Philosophical Essays_, Cambridge: Cambridge University Press.
+* ––– (ed.), 1993, *Supervenience and Mind: Selected Philosophical Essays*, Cambridge: Cambridge University Press.
 * –––, 1993, “Postscripts on Supervenience,” in Kim 1993, 161–171.
 * –––, 1998, “The Mind-Body Problem After Fifty Years,” in O’Hear (ed.) 1998, 3–21.
-* –––, 2009, “‘Supervenient and Yet Not Deducible’: Is There a Coherent Conception of Ontological Emergence?” in A. Hieke, and N. Hannes (eds.), _Reduction: Between the Mind and the Brain_, Ontos Verlag. (Reprinted in Kim 2010, 85–104.)
-* –––, 2010, _Essays in the Metaphysics of Mind_, Oxford: Oxford University Press.
-* Kirk, Robert, 1994, _Raw Feeling: A Philosophical Account of the Essence of Consciousness_, Oxford: Clarendon Press.
+* –––, 2009, “‘Supervenient and Yet Not Deducible’: Is There a Coherent Conception of Ontological Emergence?” in A. Hieke, and N. Hannes (eds.), *Reduction: Between the Mind and the Brain*, Ontos Verlag. (Reprinted in Kim 2010, 85–104.)
+* –––, 2010, *Essays in the Metaphysics of Mind*, Oxford: Oxford University Press.
+* Kirk, Robert, 1994, *Raw Feeling: A Philosophical Account of the Essence of Consciousness*, Oxford: Clarendon Press.
 * Klagge, James, 1995, “Supervenience: Model Theory or Metaphysics?,” in Savellos and Yalcin (eds.) 1995, 60–72.
-* Kripke, Saul, 1972, _Naming and Necessity_, Cambridge, MA: Harvard University Press.
-* Langton, Rae, and David K. Lewis, 1998, “Defining ‘Intrinsic’,” _Philosophy and Phenomenological Research_, 58: 333–45.
-* Leuenberger, Stephan, 2009, “What is Global Supervenience?,” _Synthese_, 170: 115–129.
-* Lewis, David K., 1973, “Causation,” _The Journal of Philosophy_, 70: 556–567.
-* –––, 1983a, “Extrinsic Properties,” _Philosophical Studies_, 44: 197–200.
-* –––, 1983b, “New Work for a Theory of Universals,” _Australasian Journal of Philosophy_, 61: 343–77.
-* –––, 1986a, _Philosophical Papers Volume II_, Oxford: Oxford University Press.
-* –––, 1986b, _The Plurality of Worlds_, Oxford: Oxford University Press.
-* –––, 1991, _Parts of Classes_, Oxford: Blackwell.
-* Lombard, Lawrence, 1986, _Events: A Metaphysical Study_, London: Routledge.
-* Marsh, R. C., 1992, _Logic and Knowledge_, London: Routledge.
-* McGinn, Colin, 1993, _Problems in Philosophy: the Limits of Inquiry_, Cambridge: Basil Blackwell.
-* McLaughlin, Brian P., 1984, “Perception, Causation, and Supervenience,” _Midwest Studies in Philosophy_, 9: 569–92.
-* –––, 1984, “Event Supervenience and Supervenient Causation,” _Southern Journal of Philosophy_ (Supplementary Volume: Spindel Conference on Supervenience), 22: 71–91.
+* Kripke, Saul, 1972, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* Langton, Rae, and David K. Lewis, 1998, “Defining ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 58: 333–45.
+* Leuenberger, Stephan, 2009, “What is Global Supervenience?,” *Synthese*, 170: 115–129.
+* Lewis, David K., 1973, “Causation,” *The Journal of Philosophy*, 70: 556–567.
+* –––, 1983a, “Extrinsic Properties,” *Philosophical Studies*, 44: 197–200.
+* –––, 1983b, “New Work for a Theory of Universals,” *Australasian Journal of Philosophy*, 61: 343–77.
+* –––, 1986a, *Philosophical Papers Volume II*, Oxford: Oxford University Press.
+* –––, 1986b, *The Plurality of Worlds*, Oxford: Oxford University Press.
+* –––, 1991, *Parts of Classes*, Oxford: Blackwell.
+* Lombard, Lawrence, 1986, *Events: A Metaphysical Study*, London: Routledge.
+* Marsh, R. C., 1992, *Logic and Knowledge*, London: Routledge.
+* McGinn, Colin, 1993, *Problems in Philosophy: the Limits of Inquiry*, Cambridge: Basil Blackwell.
+* McLaughlin, Brian P., 1984, “Perception, Causation, and Supervenience,” *Midwest Studies in Philosophy*, 9: 569–92.
+* –––, 1984, “Event Supervenience and Supervenient Causation,” *Southern Journal of Philosophy* (Supplementary Volume: Spindel Conference on Supervenience), 22: 71–91.
 * –––, 1992, “The Rise and Fall of British Emergentism,” in Beckermann, et al. (eds.), 49–93.
 * –––, 1995, “Varieties of Supervenience,” in E. Savellos, and U. Yalcin (eds.), 16–59.
-* –––, 1996, “Supervenience,” in Borchert (ed.), _Encyclopedia of Philosophy Supplement_, Macmillan, 558–560.
-* –––, 1997a, “Supervenience, Vagueness, and Determination,” _Philosophical Perspectives_, 11: 209–230.
-* –––, 1997b, “Emergence and Supervenience,” _Intellectica_, 25: 25–43.
-* –––, 1999a, “Emergence,” in R. A. Wilson, and F. C. Keil (eds.), _Encyclopedia of Cognitive Sciences_, 267–69.
-* –––, 2001, “Supervenience,” in Smith (ed.), _Encyclopedia of the Social and Behavioral Sciences_, Amsterdam: Elsevier, 1142–1147.
+* –––, 1996, “Supervenience,” in Borchert (ed.), *Encyclopedia of Philosophy Supplement*, Macmillan, 558–560.
+* –––, 1997a, “Supervenience, Vagueness, and Determination,” *Philosophical Perspectives*, 11: 209–230.
+* –––, 1997b, “Emergence and Supervenience,” *Intellectica*, 25: 25–43.
+* –––, 1999a, “Emergence,” in R. A. Wilson, and F. C. Keil (eds.), *Encyclopedia of Cognitive Sciences*, 267–69.
+* –––, 2001, “Supervenience,” in Smith (ed.), *Encyclopedia of the Social and Behavioral Sciences*, Amsterdam: Elsevier, 1142–1147.
 * –––, 2003, “Vitalism and Emergence,” in T. Baldwin (ed.), 631–39.
 * –––, 2019, “British Emergentism,” in Gibb, Hendry, and Lancaster 2019, 23–35.
 * –––, 2022, “A Critique of Kim’s Case that Classical Metaphysical Emergence is Incoherent,” _Protosociology_39: 11–18.
-* Melnyk, Andrew, 2003, _A Physicalist Manifesto: Thoroughly Modern Materialism_, Cambridge: Cambridge University Press.
-* –––, 2006, “Realization and the formulation of physicalism,” _Philosophical Studies_, 131: 127–155.
-* Merricks, Trenton, 2001, _Objects and Persons_, Oxford: Clarendon.
-* Moore, G.E., 1922, _Philosophical Studies_, London: Routledge.
+* Melnyk, Andrew, 2003, *A Physicalist Manifesto: Thoroughly Modern Materialism*, Cambridge: Cambridge University Press.
+* –––, 2006, “Realization and the formulation of physicalism,” *Philosophical Studies*, 131: 127–155.
+* Merricks, Trenton, 2001, *Objects and Persons*, Oxford: Clarendon.
+* Moore, G.E., 1922, *Philosophical Studies*, London: Routledge.
 * –––, 1942, “A Reply to My Critics,” in P. Schilpp (ed.) 1942, 660–667.
-* Morgan, C. Lloyd, 1923, _Emergent Evolution_, London: Williams & Norgate.
-* Moyer, Mark, 2008, “Weak and Global Supervenience are Strong,” _Philosophical Studies_, 138: 125–150.
-* Oddie, Graham and Pavel Tichy, 1990, “Resplicing Properties in the Supervenience Base,” _Philosophical Studies_, 58: 259–69.
-* O’Hear, Anthony. (ed.), 1998, _Current Issues in Philosophy of Mind_, Cambridge: Cambridge University Press.
-* Paull, R. Cranston and Theodore Sider, 1992, “In Defense of Global Supervenience,” _Philosophy and Phenomenological Research_, 32: 830–45.
-* Post, John, 1987, _The Faces of Existence_, Ithaca: Cornell University Press.
-* Priest, Graham, 2010, “Inclosures, Vagueness, and Self-Reference,” _Notre Dame Journal of Formal Logic_, 5: 69–84.
-* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’,” in _Minnesota Studies in the Philosophy of Science_, 7: 215–271.
-* ––– (ed.), 1975, _Mind, Language and Reality_, Cambridge, UK: Cambridge University Press.
-* Quine, Willard van Orman, 1985, _The Time of My Life: An Autobiography_, Cambridge, Mass.: MIT Press.
-* Rea, Michael (ed.), 1997a, _Material Constitution: A Reader_, Oxford: Rowman & Littlefield.
-* –––, 1997b, “Supervenience and Colocation,” _American Philosophical Quarterly_, 34: 367–375.
+* Morgan, C. Lloyd, 1923, *Emergent Evolution*, London: Williams & Norgate.
+* Moyer, Mark, 2008, “Weak and Global Supervenience are Strong,” *Philosophical Studies*, 138: 125–150.
+* Oddie, Graham and Pavel Tichy, 1990, “Resplicing Properties in the Supervenience Base,” *Philosophical Studies*, 58: 259–69.
+* O’Hear, Anthony. (ed.), 1998, *Current Issues in Philosophy of Mind*, Cambridge: Cambridge University Press.
+* Paull, R. Cranston and Theodore Sider, 1992, “In Defense of Global Supervenience,” *Philosophy and Phenomenological Research*, 32: 830–45.
+* Post, John, 1987, *The Faces of Existence*, Ithaca: Cornell University Press.
+* Priest, Graham, 2010, “Inclosures, Vagueness, and Self-Reference,” *Notre Dame Journal of Formal Logic*, 5: 69–84.
+* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’,” in *Minnesota Studies in the Philosophy of Science*, 7: 215–271.
+* ––– (ed.), 1975, *Mind, Language and Reality*, Cambridge, UK: Cambridge University Press.
+* Quine, Willard van Orman, 1985, *The Time of My Life: An Autobiography*, Cambridge, Mass.: MIT Press.
+* Rea, Michael (ed.), 1997a, *Material Constitution: A Reader*, Oxford: Rowman & Littlefield.
+* –––, 1997b, “Supervenience and Colocation,” *American Philosophical Quarterly*, 34: 367–375.
 * Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and Reduction,” in B. Hale and A. Hoffman (eds.) 2010, 109–35.
-* Russell, Bertrand, 1918, _The Philosophy of Logical Atomism_, Reprinted in R.C. Marsh (ed.), 177–281.
-* Schilpp, Paul (ed.), 1942, _The Philosophy of G.E.Moore_, Chicago and Evanston, Illinois.
-* Savellos, Elias. and Yalçin, Ümit. (eds.), 1995, _Supervenience: New Essays_, Cambridge: Cambridge University Press.
-* Schaffer, Jonathan, 2016, “Grounding in the Image of Causation,” _Philosophical Studies_, 173: 49–100.
-* –––, 2017, “The Ground Between the Gaps,” _The Philosopher’s Imprint_, 17:1–26.
-* Schiffer, Stephen, 1987, _Remnants of Meaning_, Cambridge, MA: MIT/Bradford.
-* Shagrir, Oron, 2002, “Global Supervenience, Coincident Entities and Anti-individualism,” _Philosophical Studies_, 109: 171–196.
-* –––, 2009, “Strong Global Supervenience is Valuable,” _Erkenntnis_, 71: 417–423.
-* –––, 2013, “Concepts of Supervenience Revisited,” _Erkenntnis_, 78: 469–485.
-* Shoemaker, Sydney, 1979, “Identity, Properties, and Causality,” _Midwest Studies in Philosophy_, 4: 321–324.
+* Russell, Bertrand, 1918, *The Philosophy of Logical Atomism*, Reprinted in R.C. Marsh (ed.), 177–281.
+* Schilpp, Paul (ed.), 1942, *The Philosophy of G.E.Moore*, Chicago and Evanston, Illinois.
+* Savellos, Elias. and Yalçin, Ümit. (eds.), 1995, *Supervenience: New Essays*, Cambridge: Cambridge University Press.
+* Schaffer, Jonathan, 2016, “Grounding in the Image of Causation,” *Philosophical Studies*, 173: 49–100.
+* –––, 2017, “The Ground Between the Gaps,” *The Philosopher’s Imprint*, 17:1–26.
+* Schiffer, Stephen, 1987, *Remnants of Meaning*, Cambridge, MA: MIT/Bradford.
+* Shagrir, Oron, 2002, “Global Supervenience, Coincident Entities and Anti-individualism,” *Philosophical Studies*, 109: 171–196.
+* –––, 2009, “Strong Global Supervenience is Valuable,” *Erkenntnis*, 71: 417–423.
+* –––, 2013, “Concepts of Supervenience Revisited,” *Erkenntnis*, 78: 469–485.
+* Shoemaker, Sydney, 1979, “Identity, Properties, and Causality,” *Midwest Studies in Philosophy*, 4: 321–324.
 * –––, 1980, “Causality and Properties,” in P. van Inwagen (ed.) 1980, 109–35.
-* –––, 2007, _Physical Realization._, Oxford: Oxford University Press.
-* Skiles, Alexander, 2014, “Against Grounding Necessitarianism,” _Erkenntnis_, 80: 717–751.
-* Sider, Theodore, 1999, “Global Supervenience and Identity Across Times and Worlds,” _Philosophy and Phenomenological Research_, 59: 913–37.
-* –––, 2008, “Yet Another Paper on the Supervenience Argument Against Coincident Entities,” _Philosophy and Phenomenological Research_, 77: 613–624.
-* Skyrms, Brian, 1981, “Tractarian Nominalism,” _Philosophical Studies_, 40: 199–206.
-* Sosa, Ernest (ed.), 1991, _Knowledge in Perspective_, Cambridge, UK: Cambridge University Press.
-* Stalnaker, Robert, 1996, “Varieties of Supervenience,” _Philosophical Perspectives_, 10: 221–41.
-* Stanton, W.L., 1983, “Supervenience and Psychological Law in Anomalous Monism,” _Pacific Philosophical Quarterly_, 64: 70–80.
-* Steinberg, Alex, 2014, “Defining Global Supervenience,” _Erkenntnis_, 79(2): 367–380.
-* Swoyer, Chris, 1982, “The Nature of Natural Laws,” _Australasian Journal of Philosophy_, 60: 203–223.
-* Teller, Paul, 1984, “A Poor Man’s Guide to Supervenience and Determination,” _Southern Journal of Philosophy: Supplement to Spindel Conference_, 22: 137–42.
-* Van Cleve, James, 1990, “Emergence vs. Pansychism: Mind Dust or Magic?,” _Philosophical Perspectives_, vol.4: 215–226.
-* –––, 1990. “Supervenience and Closure,” _Philosophical Studies_, 58: 225–238.
-* van Inwagen, Peter (ed.), 1980, _Time and Cause_, Dordrecht: D. Reidel.
-* –––, 1990, _Material Beings_, Ithaca: Cornell University Press.
-* –––, 1994, “Composition as Identity,” _Philosophical Perspectives_, 8: 207–220.
-* Vermazzen B. and Hintikka M.B. (eds.), 1985, _Essays on Davidson: Actions and Events_, Oxford: Clarendon Press.
-* Wilson, Alastair, 2018, “Metaphysical Causation,” _Noûs_ 52: 723–751.
-* Wilson, Jessica, 1999, “How Superduper Does a Physicalist Supervenience Need To Be?” _Philosophical Quarterly_, 49: 33–52.
-* –––, 2005, “Supervenience-Based Characterizations of Physicalism,” _Noûs_, 39: 426–459.
-* –––, 2014, “No Work for a Theory of Grounding,” _Inquiry: An Interdisciplinary Journal of Philosophy_, 57: 535–579.
-* –––, 2016, “Grounding-Based Formulations of Physicalism,” _Topoi_, 3: 495–512.
-* –––, 2021, _Metaphysical Emergence_, Oxford: Oxford University Press.
-* Witmer, D. Gene, 1999, “Supervenience Physicalism and the Problem of Extras,” _Southern Journal of Philosophy_, 37: 315–331.
-* Yablo, Stephen, 1987, “Identity, Essence, and Indiscernibility,” _The Journal of Philosophy_, 84: 293–314.
-* –––, 1992, “Mental Causation,” _The Philosophical Review_, 101: 245–280.
-* Zimmerman, Dean, 1995, “Theories of Masses and Problems of Constitution,” _Philosophical Review_, 104: 53–110.
+* –––, 2007, *Physical Realization.*, Oxford: Oxford University Press.
+* Skiles, Alexander, 2014, “Against Grounding Necessitarianism,” *Erkenntnis*, 80: 717–751.
+* Sider, Theodore, 1999, “Global Supervenience and Identity Across Times and Worlds,” *Philosophy and Phenomenological Research*, 59: 913–37.
+* –––, 2008, “Yet Another Paper on the Supervenience Argument Against Coincident Entities,” *Philosophy and Phenomenological Research*, 77: 613–624.
+* Skyrms, Brian, 1981, “Tractarian Nominalism,” *Philosophical Studies*, 40: 199–206.
+* Sosa, Ernest (ed.), 1991, *Knowledge in Perspective*, Cambridge, UK: Cambridge University Press.
+* Stalnaker, Robert, 1996, “Varieties of Supervenience,” *Philosophical Perspectives*, 10: 221–41.
+* Stanton, W.L., 1983, “Supervenience and Psychological Law in Anomalous Monism,” *Pacific Philosophical Quarterly*, 64: 70–80.
+* Steinberg, Alex, 2014, “Defining Global Supervenience,” *Erkenntnis*, 79(2): 367–380.
+* Swoyer, Chris, 1982, “The Nature of Natural Laws,” *Australasian Journal of Philosophy*, 60: 203–223.
+* Teller, Paul, 1984, “A Poor Man’s Guide to Supervenience and Determination,” *Southern Journal of Philosophy: Supplement to Spindel Conference*, 22: 137–42.
+* Van Cleve, James, 1990, “Emergence vs. Pansychism: Mind Dust or Magic?,” *Philosophical Perspectives*, vol.4: 215–226.
+* –––, 1990. “Supervenience and Closure,” *Philosophical Studies*, 58: 225–238.
+* van Inwagen, Peter (ed.), 1980, *Time and Cause*, Dordrecht: D. Reidel.
+* –––, 1990, *Material Beings*, Ithaca: Cornell University Press.
+* –––, 1994, “Composition as Identity,” *Philosophical Perspectives*, 8: 207–220.
+* Vermazzen B. and Hintikka M.B. (eds.), 1985, *Essays on Davidson: Actions and Events*, Oxford: Clarendon Press.
+* Wilson, Alastair, 2018, “Metaphysical Causation,” *Noûs* 52: 723–751.
+* Wilson, Jessica, 1999, “How Superduper Does a Physicalist Supervenience Need To Be?” *Philosophical Quarterly*, 49: 33–52.
+* –––, 2005, “Supervenience-Based Characterizations of Physicalism,” *Noûs*, 39: 426–459.
+* –––, 2014, “No Work for a Theory of Grounding,” *Inquiry: An Interdisciplinary Journal of Philosophy*, 57: 535–579.
+* –––, 2016, “Grounding-Based Formulations of Physicalism,” *Topoi*, 3: 495–512.
+* –––, 2021, *Metaphysical Emergence*, Oxford: Oxford University Press.
+* Witmer, D. Gene, 1999, “Supervenience Physicalism and the Problem of Extras,” *Southern Journal of Philosophy*, 37: 315–331.
+* Yablo, Stephen, 1987, “Identity, Essence, and Indiscernibility,” *The Journal of Philosophy*, 84: 293–314.
+* –––, 1992, “Mental Causation,” *The Philosophical Review*, 101: 245–280.
+* Zimmerman, Dean, 1995, “Theories of Masses and Problems of Constitution,” *Philosophical Review*, 104: 53–110.
 
 ## Academic Tools
 
@@ -626,12 +626,12 @@ Haecceitism 是一种观点，认为身份属性（如成为科菲·安南或成
 
 ## Other Internet Resources
 
-* [Supervenience in Metaphysics](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2008.00150.x/abstract), _Philosophy Compass_, by Stephan Leuenberger (University of Glasgow).
+* [Supervenience in Metaphysics](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2008.00150.x/abstract), *Philosophy Compass*, by Stephan Leuenberger (University of Glasgow).
 
 ## Related Entries
 
 [anomalous monism](https://plato.stanford.edu/entries/anomalous-monism/) | [dependence, ontological](https://plato.stanford.edu/entries/dependence-ontological/) | [emergent properties](https://plato.stanford.edu/entries/properties-emergent/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [grounding, metaphysical](https://plato.stanford.edu/entries/grounding/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [material constitution](https://plato.stanford.edu/entries/material-constitution/) | [mental causation](https://plato.stanford.edu/entries/mental-causation/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [physicalism](https://plato.stanford.edu/entries/physicalism/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [properties](https://plato.stanford.edu/entries/properties/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Brian McLaughlin](http://philosophy.rutgers.edu/people/faculty/621-brianmclaughlin) <[_brianmc@rci.rutgers.edu_](mailto:brianmc%40rci%2erutgers%2eedu)>\
-[Karen Bennett](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/952-bennett-karen) <[_kbennett@philosophy.rutgers.edu_](mailto:kbennett%40philosophy%2erutgers%2eedu)>
+[Brian McLaughlin](http://philosophy.rutgers.edu/people/faculty/621-brianmclaughlin) <[*brianmc@rci.rutgers.edu*](mailto:brianmc%40rci%2erutgers%2eedu)>\
+[Karen Bennett](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/952-bennett-karen) <[*kbennett@philosophy.rutgers.edu*](mailto:kbennett%40philosophy%2erutgers%2eedu)>

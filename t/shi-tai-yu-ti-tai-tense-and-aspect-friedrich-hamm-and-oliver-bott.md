@@ -1,6 +1,6 @@
 # 时态与体态 tense and aspect (Friedrich Hamm and Oliver Bott)
 
-_首次发表于 2014 年 1 月 7 日；实质修订于 2024 年 2 月 9 日_
+*首次发表于 2014 年 1 月 7 日；实质修订于 2024 年 2 月 9 日*
 
 > 时间如箭一般飞逝...水果如香蕉一般飞行。-奥廷格（1966 年）
 
@@ -48,7 +48,7 @@ _首次发表于 2014 年 1 月 7 日；实质修订于 2024 年 2 月 9 日_
 
 (a)
 
-Petr Peter pisalipv/_napisalpv是写作/_ 写信的时候， 信件，当 当 他被打断了 被打断了 被电话打断了 通过电话呼叫。 呼叫。
+Petr Peter pisalipv/*napisalpv是写作/* 写信的时候， 信件，当 当 他被打断了 被打断了 被电话打断了 通过电话呼叫。 呼叫。
 
 (b)
 
@@ -187,7 +187,7 @@ A1.A2.A3.A4.A5.A6.A7.∀x∀y(P(x,y)→¬P(y,x))∀x∀y∀z(P(x,y)∧P(y,z)→P
 
 以下定理的证明可在（Kamp 1979: 379）中找到。
 
-定理 1。_如果事件结构⟨E,P,O⟩满足 A1-7，则根据定义 2 构建的结构⟨I,<⟩是一个严格的线性排序，即满足以下三个条件：_ 1. ∀i1,i2(i1\<i2→¬i2\<i1)(反对称性)2. ∀i1,i2,i3(i1\<i2∧i2\<i3→i1\<i3)(传递性)3. ∀i1,i2(i1≠i2→i1\<i2∨i2\<i1)(全序性)
+定理 1。*如果事件结构⟨E,P,O⟩满足 A1-7，则根据定义 2 构建的结构⟨I,<⟩是一个严格的线性排序，即满足以下三个条件：* 1. ∀i1,i2(i1\<i2→¬i2\<i1)(反对称性)2. ∀i1,i2,i3(i1\<i2∧i2\<i3→i1\<i3)(传递性)3. ∀i1,i2(i1≠i2→i1\<i2∨i2\<i1)(全序性)
 
 构建集合 I 后，可以定义时间间隔，这些时间间隔可以用来衡量事件的时间范围。例如，在示例 1 中，a 在区间\[i1]上进行，b 在\[i1,i2]上进行，c 在\[i2]上进行，d 在\[i2,i3]上进行，e 在\[i3]上进行。推论 1 保证了这些时间间隔的构建(Kamp 1979: 379)。
 
@@ -572,13 +572,13 @@ Dowty 分析进行时态作为一种内涵结构。进行时态是否满足内�
 
 假设我们有三种类型的行动/事件-装弹、冒烟和射击-以及三种时间相关的属性-活着、已装弹和死亡。\[6]，\[7] 除了行动和属性，我们还需要时间的瞬间作为基本本体论。表 4 中列出的谓词用于表达行动及其效果，并将它们定位在时间上。
 
-| _Formula_          | _Meaning_              |
+| *Formula*          | *Meaning*              |
 | ------------------ | ---------------------- |
-| _Initiates_(α,β,τ) | 在时间τ之后，动作α发生后，流畅的β开始保持 |
+| *Initiates*(α,β,τ) | 在时间τ之后，动作α发生后，流畅的β开始保持 |
 | 终止(α,β,τ)          | 在时间τ之后，动作α发生后，流畅的β停止保持 |
 | 最初(β)              | 流畅的β从时间 0 开始保持         |
 | τ1<τ2              | 时间瞬间τ1 在时间瞬间τ2 之前      |
-| _Happens_(α,τ)     | 行动α发生在时间τ              |
+| *Happens*(α,τ)     | 行动α发生在时间τ              |
 | 保持在(β,τ)           | 流畅的β在时间τ保持             |
 | 剪辑(τ1,β,τ2)        | 流畅的β在时间τ1 和τ2 之间终止     |
 
@@ -668,7 +668,7 @@ HoldsAt（Loaded，now）↔（Initially（Loaded）∧¬Clipped（0，Loaded，
 
 在接下来的内容中，我们将将不完全体悖论作为框架问题的一个实例进行分析（参见 Stenning 和 van Lambalgen 2005；van Lambalgen 和 Hamm 2005；Stenning 和 van Lambalgen 2008；Baggio 和 van Lambalgen 2007；Baggio 等人 2008）。活动和成就都涉及连续变化，因此我们必须添加额外的谓词和公理，以正确处理逐渐变化的受外部力量影响的对象。表 5 介绍了两个新的谓词；公理 A1-A5 提供了关于瞬时和连续变化的一般理论（参见 van Lambalgen 和 Hamm 2005: 40）。很容易看出，这个公理系统扩展了 Shanahan（1997）的公理系统。
 
-| _Formula_     | _Meaning_                            |
+| *Formula*     | *Meaning*                            |
 | ------------- | ------------------------------------ |
 | 发布(e,f,t)     | 流利的 f 在时间 t 发生的事件 e 下开始改变            |
 | 轨迹(f1,t,f2,d) | 如果从 t 到 t+d 期间持续成立 f1，则在 t+d 时刻成立 f2 |
@@ -777,7 +777,7 @@ Paczynski 等人（2014 年）进行的另一项 ERP 研究调查了由于体态
 
 (a)
 
-_这位建筑师花了两年时间建造这座纪念碑，但后来银行取消了他的信贷。_
+*这位建筑师花了两年时间建造这座纪念碑，但后来银行取消了他的信贷。*
 
 (b)
 
@@ -795,7 +795,7 @@ The architect built the monument for two years, but then the bank canceled his c
 
 我们介绍并讨论了几个重要的时间性、哲学和技术概念和理论，并至少指出了这些概念和理论与认知的关系。然而，我们仅从句子内部的角度来进行了这样的介绍。时态和体态也是组织话语的重要手段（参见 Kamp，1991 年）。为了总结我们的概述，我们简要介绍了关于时态和体态与更大的话语结构之间错综复杂的关系和依赖的研究。让我们从 Kamp 和 Rohrer 提供的法语例子开始（参见 van Lambalgen 和 Hamm 2005 年第 9 章），并指出时态和体态在话语组织中的作用。考虑句子（78），其中过去简单时（PS）出现了四次。
 
-_皮埃尔起床了，上了他的房间，关上了门，打开了收音机。_ 皮埃尔起床了，上了他的房间，关上了门，打开了收音机。
+*皮埃尔起床了，上了他的房间，关上了门，打开了收音机。* 皮埃尔起床了，上了他的房间，关上了门，打开了收音机。
 
 首先，(78)中的 PS 提供了时间信息；所有事件都发生在过去。但是 PS 还传达了体态信息。它表明事件的内部构成并不重要，这意味着 PS 表达了完整性。PS 从“外部”视角来看待事件。这就解释了为什么多次使用 PS 意味着在例子(78)中所描述的事件的连续性。这意味着皮埃尔起床在上他的房间之前，这个事件在关上门之前，最后在打开收音机之前。因此，PS 以一种特定的方式构建了上述小段落。早期话语表示理论通过假设 PS 在之前引入的参考点之后引入了一个新的参考点来解释这种效果。
 
@@ -803,11 +803,11 @@ _皮埃尔起床了，上了他的房间，关上了门，打开了收音机。_
 
 （a）
 
-\*_Il faisait chaud._ 天气很热。
+\**Il faisait chaud.* 天气很热。
 
 (b)
 
-_天气很热。让·脱下了他的外套。_ 天气很热。让（Jean）脱下了他的毛衣。
+*天气很热。让·脱下了他的外套。* 天气很热。让（Jean）脱下了他的毛衣。
 
 Kamp 以以下方式解释这些事实。不完全过去时不引入自己的参考时间，在（79-a）中没有给出先前的参考点。因此（79-a）被排除在外。在（79-b）中，过去简单时的句子 Jean ôta sa veste 引入了一个可以用来锚定 If faisait chaud 的参考时间。不完全过去时的不完全相态则可以通过过去简单时的事件发生在不完全过去时的句子中来解释。因此，过去简单时和不完全过去时不仅提供时间信息，还用不同的方式来构建话语。
 
@@ -849,7 +849,7 @@ Kamp 以以下方式解释这些事实。不完全过去时不引入自己的参
 
 (a)
 
-_一周前，玛丽亚吻了杜德金。_ 一周前，玛丽亚吻了杜德金。 一周前，玛丽亚吻了杜德金。
+*一周前，玛丽亚吻了杜德金。* 一周前，玛丽亚吻了杜德金。 一周前，玛丽亚吻了杜德金。
 
 (b)
 
@@ -857,7 +857,7 @@ _一周前，玛丽亚吻了杜德金。_ 一周前，玛丽亚吻了杜德金�
 
 (c)
 
-_他邀请她去剧院。_ 并邀请她去剧院 “并邀请她去剧院。”
+*他邀请她去剧院。* 并邀请她去剧院 “并邀请她去剧院。”
 
 在（84）中，以一个完成体句子开头，后面跟着两个未完成体句子的顺序，这种话语不被解释为一个叙述序列，而是涉及其他话语关系，最有可能涉及一个解释关系：Dudkin 给 Maria 送花并邀请她去剧院的事实解释了为什么他亲吻她。通过最小程度地改变话语，使用三个完成体动词形式，会产生相当戏剧性的效果。现在话语是一个叙述序列，亲吻发生在送花之前，而送花又在邀请去剧院之前。参见 Gehrke（2022）对俄语和捷克语提出类似的观点，尽管这些语言之间存在着体态功能上的差异。
 
@@ -881,103 +881,103 @@ Max 进入了建筑物。他吹了一首歌。
 
 ## Bibliography
 
-* Altshuler, D., 2012, “Aspectual meaning meets discourse coherence: A look at the Russian imperfective”, _Journal of Semantics_, 29: 39–108.
-* Anderson, S., T. Matlock, C. Fausey, and M. Spivey, 2008, “On the path to understanding the on-line processing of grammatical aspect”, in _Proceedings of the 30th CogSci conference_, 2253–2258.
-* Asher, N. and A. Lascarides, 2003, _Logics of Conversation. Studies in Natural Language Processing_, Cambridge: Cambridge University Press.
-* Bach, E., 1986, “The algebra of events”, _Linguistics and Philosophy_, 9(1): 5–16.
-* Baggio, G., M. van Lambalgen, and P. Hagoort, 2008, “Computing and recomputing discourse models: an ERP study”, _Journal of Memory and Language_, 59(1): 36–53.
-* Baggio, G. and M. van Lambalgen, 2007, “The processing consequences of the imperfective paradox”, _Journal of Semantics_, 24(4): 307–330.
-* Bealer, G. and U. Mönnich, 1989, “Property theories”, in _Handbook of Philosophical Logic_ (Volume IV), D. Gabbay and F. Guenthner (eds.), Dordrecht: Reidel.
-* Blackburn, P. and K.F. Jørgensen, 2016, “Reichenbach, Prior and hybrid tense logic”, _Synthese_, 193(11): 3677–3689.
-* Bonomi, A., 1997, “The progressive and the structure of events”, _Journal of Semantics_, 14(2): 173–205.
-* Bott, O., 2008, “Doing it again and again may be difficult—but it depends on what you are doing”, in _Proceedings of the 27th WCCFL conference_, N. Abner and J. Bishop (eds.), Sommerville, MA: Cascadilla Press, 63–71.
-* –––, 2010, _The processing of events_, vol. 162 of _Linguistics Today_, Amsterdam: John Benjamins.
-* Bott, O. and F. Hamm, 2014, “Crosslinguistic variation in the processing of aspect”, in _Meaning and Understanding across Languages_ (Studies in Theoretical Psycholinguistics), B. Hemforth, B. Mertins, and C. Fabricius-Hansen (eds.), Cham: Springer International Publishing.
-* Bott, O. and Gattnar, A., 2015, “The cross-linguistic processing of aspect: An eyetracking study on the time course of aspectual interpretation in German and Russian”, _Language, Cognition and Neuroscience_, 30(7): 877–898.
-* Brennan, J. and L. Pylkkänen, 2008, “Processing events: Behavioral and neuromagnetic correlates of aspectual coercion”, _Brain & Language_, 106(2): 132–143.
-* –––, 2010, “Processing psych verbs: Behavioural and MEG measures of two different types of semantic complexity”, _Language and cognitive processes_, 25(6): 777–807.
-* Champollion, L., 2015, “The interaction of compositional semantics and event semantics”, _Linguistics and Philosophy_, 38(1): 31–66.
-* Coll-Florit, M. and S. P. Gennari, 2011, “Time in language: Event duration in language comprehension”, _Cognitive Psychology_, 62(1): 41–79.
-* Comrie, B., 1976, _Aspect_, Cambridge: Cambridge University Press.
-* –––, 1985, _Tense_, Cambridge: Cambridge University Press.
-* Copley, B., and Harley, H., 2015, “A force-theoretic framework for event structure”, _Linguistics and Philosophy_, 38(2): 103–158.
-* Coppock, E. and L. Champollion, under revision, _Invitation to Formal Semantics_, manuscript.
-* Davidson, D., 1967, “The logical form of action sentences”, in _The Logic of Decision and Action_, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press.
-* de Swart, H. and F. Corblin, (eds.), 2002, _Handbook of French Semantics_, Stanford: CSLI Publications.
-* Dickey, M., 2001, _The Processing of Tense: Psycholinguistic Studies on the Interpretation of Tense and Temporal Relations_, Dordrecht: Kluwer Academic Publishers.
-* Doets, K., 1994, _From Logic to Logic Programming_, Cambridge, MA: MIT Press.
-* Dowty, D., 1979, _Word Meaning and Montague Grammar_, Dordrecht: Reidel.
-* Egg, M., 2005, _Flexible Semantics for Reinterpretation phenomena_, Stanford: CSLI Publications.
-* Elman, J.L. and K. McRae, 2019, “A model of event knowledge”, _Psychological Review_, 126: 252–291.
-* Ferretti, T.R., M. Kutas, and K. McRae, 2007, “Verb aspect and the activation of event knowledge”, _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 33(1): 182–196.
-* Ferretti, T.R., H. Rohde, A. Kehler and M. Crutchley, 2009, “Verb aspect, event structure, and coreferential processing”, _Journal of Memory and Language_, 61(2): 191–205.
-* Filip, H., 2008, “Events and Maximalization”, in _Crosslinguistic Appraches to the Semantics of Aspect_, S. Rothstein (ed.), Amsterdam: John Benjamins, 217–256.
-* Gamut, L.T.F., 1991, _Logic, Language and Meaning: Volume II_, Chicago: University of Chicago Press.
-* Gehrke, B., 2022, “Differences between Russian and Czech in the use of aspect in narrative discourse and factual contexts”, _Languages_, 7: 155.
-* Gennari, S. and D. Poeppel, 2003, “Processing correlates of lexical semantic complexity”, _Cognition_, 89(1): B27–B41.
-* Grätzer, G. (1978). _General Lattice Theory_, Basel/Boston/Berlin: Birkhäuser.
-* Grondin, S. (ed.), 2008, _Psychology of Time_, Bingley, UK: Emerald Group.
-* Hanks, S. and D. McDermott, 1986, “Default reasoning, nonmonotonic logic, and the frame problem”, _Proceedings AAAI_, 86: 328–333.
-* Heim, I., 1982, _The Semantics of Definite and Indefinite Noun Phrases_, Ph.D. thesis, University of Massachusetts at Amherst.
-* Hendriks, P., 1993, _Studied Flexibility_. PhD thesis, University of Amsterdam.
-* Kamp, H., 1979, “Events, instants and temporal reference”, in _Semantics from Different Points of View_, R. Bäuerle, U. Egli, and A. von Stechow (eds.), Berlin: Springer.
-* –––, 1991, “The perfect and other tenses in French and English”, in _Tense and Aspect in English and French_, Dyana Deliverable R2. 3B, 41–64.
-* Kamp, H. and U. Reyle, 1993, _From Discourse to Logic_, Dordrecht: Reidel.
-* Kehler, A., L. Kertz, H. Rohde and J. Elman, 2008, “Coherence and coreference revisited”, _Journal of Semantics_, 25 (4): 1–44.
-* Klimek-Jankowska, D. and J. Błaszczak, 2020, “How incremental is the processing of perfective and imperfective aspect in Polish? An exploratory event-related potential study”, _Journal of Slavic Linguistics_, 28(1): 23–69.
-* Klimek-Jankowska, D., A. Czypionka, W. Witkowski and J. Błaszczak, 2018, “The time course of interpreting perfective and imperfective aspect in Polish—Evidence from eyetracking and self-paced reading”, _Acta Linguistica Academica_, 65(2-3): 293–351.
-* Kowalski, R., 1995, “How to reconcile reactive and rational agents”, in _Meta-Logic and Logic Programming_, Apt and Turini (eds.), Cambridge, MA: MIT Press.
-* Kowalski, R. A. and M. Sergot, 1986, “A logic-based calculus of events”, _New Generation Computing_, 4(1): 67–95.
-* Krifka, M., 1989, _Nominalreferenz und Zeitkonstitution_, Munich: Fink.
-* –––, 1992, “Thematic roles as links between nominal reference and temporal constitution”, in _Lexical Matters_, I. Sag and A. Szabolcsi (eds.), Stanford, CA: CSLI Publications, 29–53.
-* Landman, F., 1992, “The progressive”, _Natural Language Semantics_, 1: 1–32.
-* Lascarides, A. and N. Asher, 1993, “Temporal interpretation, discourse relations and commonsense entailment”, _Linguistics and Philosophy_, 16: 437–493.
-* Lecarme, J., 2008, “Tense and modality in nominals”, in _Time and Modality_, J. Guéron and J. Lecarme (eds.), Springer, Studies in Natural Language and Linguistic Theory.
-* Lukassek, J., A. Prysłopska, R. Hörnig and C. Maienborn, 2017, “The semantic processing of motion verbs: Coercion or underspecification?”, _Journal of Psycholinguistic Research_, 46: 805–825.
-* Madden, C. and T. Ferretti, 2009, “Verb aspect and the mental representation of situations”, in _The expression of time_, W. Klein and P. Li (eds.), Berlin/New York: Mouton de Gruyter, 217–240.
-* Madden, C. and R. Zwaan, 2003, “How does verb aspect constrain event representations?”, _Memory & Cognition_, 31(5): 663–672.
-* Martin, F., 2019, “Non-culminating accomplishments”, _Language and Linguistics Compass_, 13(8): e12346.
-* McCarthy, J., 1977, “Epistemological problems of artificial intelligence”, in _Proceedings of IJACAI-77_.
-* McKoon, G. and T. Macfarland, 2002, “Event templates in the lexical representations of verbs”, _Cognitive Psychology_, 45(1): 1–44.
-* McRae, K., K.S. Brown and J.L. Elman, 2021, “Prediction-based learning and processing of event knowledge”, _Topics in Cognitive Science_, 13(1): 206–223.
-* Minor, S., N. Mitrofanova, G. Guajardo, M. Vos and G. Ramchand, 2023, “Aspect processing across languages: A visual world eye-tracking study”, _Frontiers in Language Sciences_, 1: 1052205.
-* Moens, M. and M. Steedman, 1988, “Temporal ontology and temporal reference”, _Computational Linguistics_, 14: 15–28.
-* Naumann, R. and Ch. Piñón, 1997, “Decomposing the progressive”, in _Proceedings of the 11th Amsterdam Colloquium_, P. Dekker, M. Stokhof, and Y. Venema (eds.), Amsterdam: University of Amsterdam.
-* Nienhuys-Cheng, S-H. and R. de Wolf, 1997, _Foundations of Inductive Logic Programming_, New York, Berlin: Springer.
-* Oettinger, A., 1966, “The Uses of Computers in Science”, _Scientific American_, 215: 166–169.
-* Ogihara, T., 1990, “Semantics of the progressive and the perfect in English”, in _Dyana–Report R.2.5.A_, H. Kamp (ed.), ESPRIT Basic Research Project 6852.
-* Paczynski, M., R. Jackendoff and G. Kuperberg, 2014, “When events change their nature:The neurocognitive mechanisms underlying aspectual coercion”, _Journal of Cognitive Neuroscience_, 26(9): 1905–1917.
-* Pagin, P. and D. Westerståhl, 2010a, “Compositionality i: Definitions and variants”, _Philosophy Compass_, 5: 250–264.
-* Pagin, P. and D. Westerståhl, 2010b, “Compositionality ii: Arguments and problems”, _Philosophy Compass_, 5: 265–282.
-* Parsons, T., 1989, “The progressive in English: Events, states and processes”, _Linguistics and Philosophy_, 12(2): 213–241.
-* –––, 1990, _Events in the Semantics of English_, Cambridge MA: MIT Press.
-* Peters, S. and D. Westerståhl, 2006, _Quantifiers in Language and Logic_. Clarendon Press, Oxford.
-* Pickering, M.J., B. McElree, S. Frisson, L. Chen, and M.J. Traxler, 2006, “Underspecification and coercion”, _Discourse Processes_, 42(2): 131–155.
-* Piñango, M.M., E. Zurif, and R. Jackendoff, 1999, “Real-time processing implications of enriched composition at the syntax-semantics interface”, _Journal of Psycholinguistic Research_, 28(4): 395–414.
-* Prior, A., 1967, _Past, Present, and Future_, Oxford: Oxford University Press.
-* Rabovsky, M., S.S. Hansen and J.L. McClelland, 2018, “Modelling the N400 brain potential as change in a probabilistic representation of meaning”, _Nature Human Behaviour_, 2: 693–705.
-* Reichenbach, H., 1947, _Elements of Symbolic Logic_, New York: Dover Publications, Inc.
-* Russell, B., 1914, _Our Knowledge of the External World_, London: Allen and Unwin.
-* Shanahan, M., 1997, _Solving the Frame Problem: A Mathematical Investigation of the Common Sense Law of Inertia_, Cambridge, MA: MIT Press.
-* Smith, C. S., 1991, _The Parameter of Aspect_, Dordrecht: Kluwer.
-* Spencer, A., 1991, _Morphological Theory_, Oxford: Blackwell.
-* Steedman, M., 1997, “Temporality”, in _Handbook of Logic and Language_, J. van Benthem and A. ter Meulen (eds.), Amsterdam: Elsevier.
-* Stenning, K. and M. van Lambalgen, 2005, “Semantic interpretation as computation in nonmonotonic logic: The real meaning of the suppression task”, _Cognitive Science_, 29(6): 919–960.
-* –––, 2008, _Human Reasoning and Cognitive Science_, Cambridge, MA: MIT Press.
-* Thomason, S., 1986, “On constructing instants from events”, _Journal of Philosophical Logic_, 13(1): 85–96.
-* Todorova, M., K. Straub, W. Badecker, and R. Frank, 2000, “Aspectual coercion and the online computation of sentential aspect”, _Proceedings of the CogSci 2000 Conference._
-* van Lambalgen, M. and F. Hamm, 2005, _The Proper Treatment of Events_, Malden: Blackwell.
-* Vendler, Z., 1967, _Linguistics in Philosophy_, Ithaca, New York: Cornell University Press.
-* Venhuizen, N.J., M.W. Crocker and H. Brouwer, 2019, “Expectation-based comprehension: Modeling the interaction of world knowledge and linguistic experience”, _Dicourse Processes_, 56(3): 229–255.
-* Verkuyl, H., 1993, _A Theory of Aspectability. The Interaction between Temporal and Atemporal Structure_, Cambridge: Cambridge University Press.
-* von Stutterheim, C., M. Andermann, M. Carroll, M. Flecken, and B. Schmiedtová, 2012, “How grammaticized concepts shape event conceptualization in language production: Insights from linguistic analysis, eye tracking data, and memory performance”, _Linguistics_, 50(4): 833–867.
-* von Stutterheim, C., M. Carroll, and W. Klein, 2009, “New perspectives in analyzing aspectual distinctions across languages”, in _The expression of time_, W. Klein and P. Li (eds.), Berlin/New York: Mouton de Gruyter, 195–216.
-* Walker, A. G., 1947, “Durées et instants”, _Revue Scientifique_, 85: 131–134.
-* Zacks, J.M., 2020, “Event perception and memory”, _Annual Review of Psychology_, 71: 165–191.
-* Zacks, J.M., K.M. Swallow, J.M. Vettel, and M.P. McAvoy, 2006, “Visual motion and the neural correlates of event perception”, _Brain Research_, 1076: 150–162.
-* Zacks, J.M. and B. Tversky, 2001, “Event structure in perception and conception”, _Psychological Bulletin_, 127: 3–21.
-* Zacks, J.M., B. Tversky, and G. Iyer, 2001, “Perceiving, remembering and communicating structure in events”, _Journal of Experimental Psychology: General_, 130: 29–58.
-* Zucchi, S., 1999, “Incomplete events, intensionality and imperfective aspect”, _Natural Language Semantics_, 7(2): 179–215.
+* Altshuler, D., 2012, “Aspectual meaning meets discourse coherence: A look at the Russian imperfective”, *Journal of Semantics*, 29: 39–108.
+* Anderson, S., T. Matlock, C. Fausey, and M. Spivey, 2008, “On the path to understanding the on-line processing of grammatical aspect”, in *Proceedings of the 30th CogSci conference*, 2253–2258.
+* Asher, N. and A. Lascarides, 2003, *Logics of Conversation. Studies in Natural Language Processing*, Cambridge: Cambridge University Press.
+* Bach, E., 1986, “The algebra of events”, *Linguistics and Philosophy*, 9(1): 5–16.
+* Baggio, G., M. van Lambalgen, and P. Hagoort, 2008, “Computing and recomputing discourse models: an ERP study”, *Journal of Memory and Language*, 59(1): 36–53.
+* Baggio, G. and M. van Lambalgen, 2007, “The processing consequences of the imperfective paradox”, *Journal of Semantics*, 24(4): 307–330.
+* Bealer, G. and U. Mönnich, 1989, “Property theories”, in *Handbook of Philosophical Logic* (Volume IV), D. Gabbay and F. Guenthner (eds.), Dordrecht: Reidel.
+* Blackburn, P. and K.F. Jørgensen, 2016, “Reichenbach, Prior and hybrid tense logic”, *Synthese*, 193(11): 3677–3689.
+* Bonomi, A., 1997, “The progressive and the structure of events”, *Journal of Semantics*, 14(2): 173–205.
+* Bott, O., 2008, “Doing it again and again may be difficult—but it depends on what you are doing”, in *Proceedings of the 27th WCCFL conference*, N. Abner and J. Bishop (eds.), Sommerville, MA: Cascadilla Press, 63–71.
+* –––, 2010, *The processing of events*, vol. 162 of *Linguistics Today*, Amsterdam: John Benjamins.
+* Bott, O. and F. Hamm, 2014, “Crosslinguistic variation in the processing of aspect”, in *Meaning and Understanding across Languages* (Studies in Theoretical Psycholinguistics), B. Hemforth, B. Mertins, and C. Fabricius-Hansen (eds.), Cham: Springer International Publishing.
+* Bott, O. and Gattnar, A., 2015, “The cross-linguistic processing of aspect: An eyetracking study on the time course of aspectual interpretation in German and Russian”, *Language, Cognition and Neuroscience*, 30(7): 877–898.
+* Brennan, J. and L. Pylkkänen, 2008, “Processing events: Behavioral and neuromagnetic correlates of aspectual coercion”, *Brain & Language*, 106(2): 132–143.
+* –––, 2010, “Processing psych verbs: Behavioural and MEG measures of two different types of semantic complexity”, *Language and cognitive processes*, 25(6): 777–807.
+* Champollion, L., 2015, “The interaction of compositional semantics and event semantics”, *Linguistics and Philosophy*, 38(1): 31–66.
+* Coll-Florit, M. and S. P. Gennari, 2011, “Time in language: Event duration in language comprehension”, *Cognitive Psychology*, 62(1): 41–79.
+* Comrie, B., 1976, *Aspect*, Cambridge: Cambridge University Press.
+* –––, 1985, *Tense*, Cambridge: Cambridge University Press.
+* Copley, B., and Harley, H., 2015, “A force-theoretic framework for event structure”, *Linguistics and Philosophy*, 38(2): 103–158.
+* Coppock, E. and L. Champollion, under revision, *Invitation to Formal Semantics*, manuscript.
+* Davidson, D., 1967, “The logical form of action sentences”, in *The Logic of Decision and Action*, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press.
+* de Swart, H. and F. Corblin, (eds.), 2002, *Handbook of French Semantics*, Stanford: CSLI Publications.
+* Dickey, M., 2001, *The Processing of Tense: Psycholinguistic Studies on the Interpretation of Tense and Temporal Relations*, Dordrecht: Kluwer Academic Publishers.
+* Doets, K., 1994, *From Logic to Logic Programming*, Cambridge, MA: MIT Press.
+* Dowty, D., 1979, *Word Meaning and Montague Grammar*, Dordrecht: Reidel.
+* Egg, M., 2005, *Flexible Semantics for Reinterpretation phenomena*, Stanford: CSLI Publications.
+* Elman, J.L. and K. McRae, 2019, “A model of event knowledge”, *Psychological Review*, 126: 252–291.
+* Ferretti, T.R., M. Kutas, and K. McRae, 2007, “Verb aspect and the activation of event knowledge”, *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 33(1): 182–196.
+* Ferretti, T.R., H. Rohde, A. Kehler and M. Crutchley, 2009, “Verb aspect, event structure, and coreferential processing”, *Journal of Memory and Language*, 61(2): 191–205.
+* Filip, H., 2008, “Events and Maximalization”, in *Crosslinguistic Appraches to the Semantics of Aspect*, S. Rothstein (ed.), Amsterdam: John Benjamins, 217–256.
+* Gamut, L.T.F., 1991, *Logic, Language and Meaning: Volume II*, Chicago: University of Chicago Press.
+* Gehrke, B., 2022, “Differences between Russian and Czech in the use of aspect in narrative discourse and factual contexts”, *Languages*, 7: 155.
+* Gennari, S. and D. Poeppel, 2003, “Processing correlates of lexical semantic complexity”, *Cognition*, 89(1): B27–B41.
+* Grätzer, G. (1978). *General Lattice Theory*, Basel/Boston/Berlin: Birkhäuser.
+* Grondin, S. (ed.), 2008, *Psychology of Time*, Bingley, UK: Emerald Group.
+* Hanks, S. and D. McDermott, 1986, “Default reasoning, nonmonotonic logic, and the frame problem”, *Proceedings AAAI*, 86: 328–333.
+* Heim, I., 1982, *The Semantics of Definite and Indefinite Noun Phrases*, Ph.D. thesis, University of Massachusetts at Amherst.
+* Hendriks, P., 1993, *Studied Flexibility*. PhD thesis, University of Amsterdam.
+* Kamp, H., 1979, “Events, instants and temporal reference”, in *Semantics from Different Points of View*, R. Bäuerle, U. Egli, and A. von Stechow (eds.), Berlin: Springer.
+* –––, 1991, “The perfect and other tenses in French and English”, in *Tense and Aspect in English and French*, Dyana Deliverable R2. 3B, 41–64.
+* Kamp, H. and U. Reyle, 1993, *From Discourse to Logic*, Dordrecht: Reidel.
+* Kehler, A., L. Kertz, H. Rohde and J. Elman, 2008, “Coherence and coreference revisited”, *Journal of Semantics*, 25 (4): 1–44.
+* Klimek-Jankowska, D. and J. Błaszczak, 2020, “How incremental is the processing of perfective and imperfective aspect in Polish? An exploratory event-related potential study”, *Journal of Slavic Linguistics*, 28(1): 23–69.
+* Klimek-Jankowska, D., A. Czypionka, W. Witkowski and J. Błaszczak, 2018, “The time course of interpreting perfective and imperfective aspect in Polish—Evidence from eyetracking and self-paced reading”, *Acta Linguistica Academica*, 65(2-3): 293–351.
+* Kowalski, R., 1995, “How to reconcile reactive and rational agents”, in *Meta-Logic and Logic Programming*, Apt and Turini (eds.), Cambridge, MA: MIT Press.
+* Kowalski, R. A. and M. Sergot, 1986, “A logic-based calculus of events”, *New Generation Computing*, 4(1): 67–95.
+* Krifka, M., 1989, *Nominalreferenz und Zeitkonstitution*, Munich: Fink.
+* –––, 1992, “Thematic roles as links between nominal reference and temporal constitution”, in *Lexical Matters*, I. Sag and A. Szabolcsi (eds.), Stanford, CA: CSLI Publications, 29–53.
+* Landman, F., 1992, “The progressive”, *Natural Language Semantics*, 1: 1–32.
+* Lascarides, A. and N. Asher, 1993, “Temporal interpretation, discourse relations and commonsense entailment”, *Linguistics and Philosophy*, 16: 437–493.
+* Lecarme, J., 2008, “Tense and modality in nominals”, in *Time and Modality*, J. Guéron and J. Lecarme (eds.), Springer, Studies in Natural Language and Linguistic Theory.
+* Lukassek, J., A. Prysłopska, R. Hörnig and C. Maienborn, 2017, “The semantic processing of motion verbs: Coercion or underspecification?”, *Journal of Psycholinguistic Research*, 46: 805–825.
+* Madden, C. and T. Ferretti, 2009, “Verb aspect and the mental representation of situations”, in *The expression of time*, W. Klein and P. Li (eds.), Berlin/New York: Mouton de Gruyter, 217–240.
+* Madden, C. and R. Zwaan, 2003, “How does verb aspect constrain event representations?”, *Memory & Cognition*, 31(5): 663–672.
+* Martin, F., 2019, “Non-culminating accomplishments”, *Language and Linguistics Compass*, 13(8): e12346.
+* McCarthy, J., 1977, “Epistemological problems of artificial intelligence”, in *Proceedings of IJACAI-77*.
+* McKoon, G. and T. Macfarland, 2002, “Event templates in the lexical representations of verbs”, *Cognitive Psychology*, 45(1): 1–44.
+* McRae, K., K.S. Brown and J.L. Elman, 2021, “Prediction-based learning and processing of event knowledge”, *Topics in Cognitive Science*, 13(1): 206–223.
+* Minor, S., N. Mitrofanova, G. Guajardo, M. Vos and G. Ramchand, 2023, “Aspect processing across languages: A visual world eye-tracking study”, *Frontiers in Language Sciences*, 1: 1052205.
+* Moens, M. and M. Steedman, 1988, “Temporal ontology and temporal reference”, *Computational Linguistics*, 14: 15–28.
+* Naumann, R. and Ch. Piñón, 1997, “Decomposing the progressive”, in *Proceedings of the 11th Amsterdam Colloquium*, P. Dekker, M. Stokhof, and Y. Venema (eds.), Amsterdam: University of Amsterdam.
+* Nienhuys-Cheng, S-H. and R. de Wolf, 1997, *Foundations of Inductive Logic Programming*, New York, Berlin: Springer.
+* Oettinger, A., 1966, “The Uses of Computers in Science”, *Scientific American*, 215: 166–169.
+* Ogihara, T., 1990, “Semantics of the progressive and the perfect in English”, in *Dyana–Report R.2.5.A*, H. Kamp (ed.), ESPRIT Basic Research Project 6852.
+* Paczynski, M., R. Jackendoff and G. Kuperberg, 2014, “When events change their nature:The neurocognitive mechanisms underlying aspectual coercion”, *Journal of Cognitive Neuroscience*, 26(9): 1905–1917.
+* Pagin, P. and D. Westerståhl, 2010a, “Compositionality i: Definitions and variants”, *Philosophy Compass*, 5: 250–264.
+* Pagin, P. and D. Westerståhl, 2010b, “Compositionality ii: Arguments and problems”, *Philosophy Compass*, 5: 265–282.
+* Parsons, T., 1989, “The progressive in English: Events, states and processes”, *Linguistics and Philosophy*, 12(2): 213–241.
+* –––, 1990, *Events in the Semantics of English*, Cambridge MA: MIT Press.
+* Peters, S. and D. Westerståhl, 2006, *Quantifiers in Language and Logic*. Clarendon Press, Oxford.
+* Pickering, M.J., B. McElree, S. Frisson, L. Chen, and M.J. Traxler, 2006, “Underspecification and coercion”, *Discourse Processes*, 42(2): 131–155.
+* Piñango, M.M., E. Zurif, and R. Jackendoff, 1999, “Real-time processing implications of enriched composition at the syntax-semantics interface”, *Journal of Psycholinguistic Research*, 28(4): 395–414.
+* Prior, A., 1967, *Past, Present, and Future*, Oxford: Oxford University Press.
+* Rabovsky, M., S.S. Hansen and J.L. McClelland, 2018, “Modelling the N400 brain potential as change in a probabilistic representation of meaning”, *Nature Human Behaviour*, 2: 693–705.
+* Reichenbach, H., 1947, *Elements of Symbolic Logic*, New York: Dover Publications, Inc.
+* Russell, B., 1914, *Our Knowledge of the External World*, London: Allen and Unwin.
+* Shanahan, M., 1997, *Solving the Frame Problem: A Mathematical Investigation of the Common Sense Law of Inertia*, Cambridge, MA: MIT Press.
+* Smith, C. S., 1991, *The Parameter of Aspect*, Dordrecht: Kluwer.
+* Spencer, A., 1991, *Morphological Theory*, Oxford: Blackwell.
+* Steedman, M., 1997, “Temporality”, in *Handbook of Logic and Language*, J. van Benthem and A. ter Meulen (eds.), Amsterdam: Elsevier.
+* Stenning, K. and M. van Lambalgen, 2005, “Semantic interpretation as computation in nonmonotonic logic: The real meaning of the suppression task”, *Cognitive Science*, 29(6): 919–960.
+* –––, 2008, *Human Reasoning and Cognitive Science*, Cambridge, MA: MIT Press.
+* Thomason, S., 1986, “On constructing instants from events”, *Journal of Philosophical Logic*, 13(1): 85–96.
+* Todorova, M., K. Straub, W. Badecker, and R. Frank, 2000, “Aspectual coercion and the online computation of sentential aspect”, *Proceedings of the CogSci 2000 Conference.*
+* van Lambalgen, M. and F. Hamm, 2005, *The Proper Treatment of Events*, Malden: Blackwell.
+* Vendler, Z., 1967, *Linguistics in Philosophy*, Ithaca, New York: Cornell University Press.
+* Venhuizen, N.J., M.W. Crocker and H. Brouwer, 2019, “Expectation-based comprehension: Modeling the interaction of world knowledge and linguistic experience”, *Dicourse Processes*, 56(3): 229–255.
+* Verkuyl, H., 1993, *A Theory of Aspectability. The Interaction between Temporal and Atemporal Structure*, Cambridge: Cambridge University Press.
+* von Stutterheim, C., M. Andermann, M. Carroll, M. Flecken, and B. Schmiedtová, 2012, “How grammaticized concepts shape event conceptualization in language production: Insights from linguistic analysis, eye tracking data, and memory performance”, *Linguistics*, 50(4): 833–867.
+* von Stutterheim, C., M. Carroll, and W. Klein, 2009, “New perspectives in analyzing aspectual distinctions across languages”, in *The expression of time*, W. Klein and P. Li (eds.), Berlin/New York: Mouton de Gruyter, 195–216.
+* Walker, A. G., 1947, “Durées et instants”, *Revue Scientifique*, 85: 131–134.
+* Zacks, J.M., 2020, “Event perception and memory”, *Annual Review of Psychology*, 71: 165–191.
+* Zacks, J.M., K.M. Swallow, J.M. Vettel, and M.P. McAvoy, 2006, “Visual motion and the neural correlates of event perception”, *Brain Research*, 1076: 150–162.
+* Zacks, J.M. and B. Tversky, 2001, “Event structure in perception and conception”, *Psychological Bulletin*, 127: 3–21.
+* Zacks, J.M., B. Tversky, and G. Iyer, 2001, “Perceiving, remembering and communicating structure in events”, *Journal of Experimental Psychology: General*, 130: 29–58.
+* Zucchi, S., 1999, “Incomplete events, intensionality and imperfective aspect”, *Natural Language Semantics*, 7(2): 179–215.
 
 ## Academic Tools
 
@@ -989,20 +989,20 @@ Max 进入了建筑物。他吹了一首歌。
 
 ## Other Internet Resources
 
-* Champollion, L., 2014, [_Integrating Montague semantics and event semantics_](http://ling.auf.net/lingbuzz/002143), ESSLLI Lecture Notes.
-* Kamp, H., U. Reyle, and A. Rossdeutscher, 2015, [_Perfects as feature shifting operators_](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/hans/Papers/Kamp-Perfects-Draft.pdf), unpublished manuscript, Institut für maschinelle Sprachverarbeitung, Universität Stuttgart.
-* Steedman, Mark, 2005, [_The Productions of Time_](http://homepages.inf.ed.ac.uk/steedman/papers/temporality/temporality2.pdf), draft tutorial notes about temporal semantics.
-* [Grammatical Aspect](https://en.wikipedia.org/w/index.php?title=Grammatical\_aspect\&oldid=854228559), entry in _Wikipedia_.
-* [Tense, Mood and Aspect](https://en.wikipedia.org/w/index.php?title=Tense-aspect-mood\&oldid=832387039), entry in _Wikipedia_.
-* Chapter on [_Tense and Aspect_](http://wals.info/chapter/s7), in the World Atlas of Language Structures Online.
-* [_A Bibliography of Tense, Verbal Aspect, Aktionsart, and Related Areas_](https://www.yumpu.com/en/document/view/6507315/a-bibliography-of-tense-verbal-aspect-aktionsart-and-related-), by Robert I. Binnick.
-* [_Tenses, Moods and Aspects_](http://www.eva.mpg.de/lingua/tools-at-lingboard/questionnaire/tma\_description.php), Questionnaire by the Max Planck Institute for Evolutionary Anthropology.
-* [Special issue “Tense and Aspect across Languages”](https://www.mdpi.com/journal/languages/special\_issues/Tense\_Aspect\_Languages) (special issue of _languages_ edited by H. de Swart and B. Le Bruyn with articles dating from 2022 and 2023)
+* Champollion, L., 2014, [*Integrating Montague semantics and event semantics*](http://ling.auf.net/lingbuzz/002143), ESSLLI Lecture Notes.
+* Kamp, H., U. Reyle, and A. Rossdeutscher, 2015, [*Perfects as feature shifting operators*](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/hans/Papers/Kamp-Perfects-Draft.pdf), unpublished manuscript, Institut für maschinelle Sprachverarbeitung, Universität Stuttgart.
+* Steedman, Mark, 2005, [*The Productions of Time*](http://homepages.inf.ed.ac.uk/steedman/papers/temporality/temporality2.pdf), draft tutorial notes about temporal semantics.
+* [Grammatical Aspect](https://en.wikipedia.org/w/index.php?title=Grammatical\_aspect\&oldid=854228559), entry in *Wikipedia*.
+* [Tense, Mood and Aspect](https://en.wikipedia.org/w/index.php?title=Tense-aspect-mood\&oldid=832387039), entry in *Wikipedia*.
+* Chapter on [*Tense and Aspect*](http://wals.info/chapter/s7), in the World Atlas of Language Structures Online.
+* [*A Bibliography of Tense, Verbal Aspect, Aktionsart, and Related Areas*](https://www.yumpu.com/en/document/view/6507315/a-bibliography-of-tense-verbal-aspect-aktionsart-and-related-), by Robert I. Binnick.
+* [*Tenses, Moods and Aspects*](http://www.eva.mpg.de/lingua/tools-at-lingboard/questionnaire/tma\_description.php), Questionnaire by the Max Planck Institute for Evolutionary Anthropology.
+* [Special issue “Tense and Aspect across Languages”](https://www.mdpi.com/journal/languages/special\_issues/Tense\_Aspect\_Languages) (special issue of *languages* edited by H. de Swart and B. Le Bruyn with articles dating from 2022 and 2023)
 
 ## Related Entries
 
 [discourse representation theory](https://plato.stanford.edu/entries/discourse-representation-theory/) | [events](https://plato.stanford.edu/entries/events/) | [logic: non-monotonic](https://plato.stanford.edu/entries/logic-nonmonotonic/) | [logic: temporal](https://plato.stanford.edu/entries/logic-temporal/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [time: the experience and perception of](https://plato.stanford.edu/entries/time-experience/)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-Friedrich Hamm <[_friedrich.hamm@uni-tuebingen.de_](mailto:friedrich%2ehamm%40uni-tuebingen%2ede)>\
-Oliver Bott <[_oliver.bott@uni-bielefeld.de_](mailto:oliver%2ebott%40uni-bielefeld%2ede)>
+Friedrich Hamm <[*friedrich.hamm@uni-tuebingen.de*](mailto:friedrich%2ehamm%40uni-tuebingen%2ede)>\
+Oliver Bott <[*oliver.bott@uni-bielefeld.de*](mailto:oliver%2ebott%40uni-bielefeld%2ede)>

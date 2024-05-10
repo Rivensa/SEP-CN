@@ -1,6 +1,5 @@
 # 意志薄弱 weakness of will (Sarah Stroud and Larisa Svirsky)
 
-
 *首次发表于 2008 年 5 月 14 日，实质性修订于 2019 年 9 月 4 日*
 
 * (1)尽管 Julie 知道 b 比 a 更贵，她还是选择了 b。

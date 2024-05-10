@@ -1,6 +1,5 @@
 # 统计力学哲学 philosophy of statistical mechanics (Roman Frigg and Charlotte Werndl)
 
-
 *首次发表于 2023 年 1 月 10 日*
 
 [编辑注：以下由 Roman Frigg 和 Charlotte Werndl 撰写的新条目取代了之前作者关于此主题的条目。]

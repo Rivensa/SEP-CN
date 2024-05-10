@@ -1,6 +1,6 @@
 # 替代性公理集合论 alternative axiomatic theories (M. Randall Holmes)
 
-_首次发表于 2006 年 5 月 30 日；实质修订于 2021 年 9 月 21 日_
+*首次发表于 2006 年 5 月 30 日；实质修订于 2021 年 9 月 21 日*
 
 通过“替代性集合论”我们指的是与主导的 ZF（策梅洛-弗兰克尔集合论）及其近亲有显著差异的集合论系统（尽管我们将在文章中回顾这些系统）。我们将回顾的系统包括类型化集合论、策梅洛集合论及其变体、新基础和相关系统、正集合论和构造主义集合论。对替代性集合论范围的兴趣并不意味着要用其中一种替代方案取代主导的集合论；熟悉以替代系统为基础的数学基础可以教导我们任何集合论（包括通常的集合论）应该为我们做什么。研究替代性集合论可以消除将“集合论”与“策梅洛-弗兰克尔集合论”轻易等同起来的观念；它们并不是同一回事。
 
@@ -728,52 +728,52 @@ Andrzej Kisielewicz（1998）最近提出的一个建议是，通过使用两个
 
 ## Bibliography
 
-* Aczel, Peter, 1978, “The Type Theoretic Interpretation of Constructive Set Theory”, in A. MacIntyre, L. Pacholski, J. Paris (eds.), _Logic Colloquium ‘77_, (Studies in Logic and the Foundations of Mathematics, 96), Amsterdam: North-Holland, pp. 55–66. doi:10.1016/S0049-237X(08)71989-X
-* –––, 1982, “The Type Theoretic Interpretation of Constructive Set Theory: Choice Principles”, in A.S. Troelstra and D. van Dalen (eds.), _The L.E.J. Brouwer Centenary Symposium_, (Studies in Logic and the Foundations of Mathematics, 110), Amsterdam: North-Holland, pp. 1–40. doi:10.1016/S0049-237X(09)70120-X
-* –––, 1986, “The Type Theoretic Interpretation of Constructive Set Theory: Inductive Definitions”, in Ruth Barcan Marcus, Georg J.W.Dorn, and Paul Weingartner (eds.), _Logic, Methodology, and Philosophy of Science VII_, (Studies in Logic and the Foundations of Mathematics, 114), Amsterdam: North-Holland, pp. 17–49. doi:10.1016/S0049-237X(09)70683-4
-* –––, 1988, _Non-Well-Founded Sets_ (CSLI Lecture Notes, 14), Stanford: CSLI Publications.
-* St. Augustine, _De Civitate Dei_, Book 12, chapter 18.
-* Barwise, Jon, 1975, _Admissible Sets and Structures: An Approach to Definability Theory_, (Perspectives in Mathematical Logic, 7), Berlin: Springer-Verlag.
-* Boffa, M., 1988, “ZFJ and the Consistency Problem for NF”, _Jahrbuch der Kurt Gödel Gesellschaft_, Vienna, pp. 102–106
-* Burali-Forti, C., 1897, “Una questione sui numeri transfiniti”, _Rendiconti del Circolo matematico di Palermo_, 11(1): 154–164. A correction appears in “Sulle classi ben ordinate”, _Rendiconti del Circolo matematico di Palermo_, 11(1): 260. It is not clear that Burali-Forti ever correctly understood his paradox. doi:10.1007/BF03015911 and doi:10.1007/BF03015919
-* Cantor, Georg, 1872, “Über die Ausdehnung eines Satzes aus der Theorie der trigonometrischen Reihen”, _Mathematischen Annalen_, 5: 123–32.
-* –––, 1891, “Über eine elementare Frage der Mannigfaltigkeitslehre”, _Jahresbericht der deutschen Mathematiker-Vereiningung_, 1: 75–8.
-* Cocchiarella, Nino B., 1985, “Frege’s Double-Correlation Thesis and Quine’s Set Theories NF and ML”, _Journal of Philosophical Logic_, 14(1): 1–39. doi:10.1007/BF00542647
-* Crabbé, Marcel, 1982, “On the Consistency of an Impredicative Subsystem of Quine’s _NF_”, _Journal of Symbolic Logic_, 47(1): 131–36. doi:10.2307/2273386
-* –––, 2016, “_NFSI_ is not included in _NF_3”, _Journal of Symbolic Logic_, 81(3): 948–950. doi:10.1017/jsl.2015.29
-* Dedekind, Richard, 1872, _Stetigkeit und irrationale Zahlen_, Brannschweig: Friedrich Vieweg und Sohn (second edition, 1892).
-* Esser, Olivier, 1999, “On the Consistency of a Positive Theory”, _Mathematical Logic Quarterly_, 45(1): 105–116. doi:10.1002/malq.19990450110
-* Feferman, Sol, 2006, “Enriched Stratified Systems for the Foundations of Category Theory” in Giandomenico Sica (ed.), _What is Category Theory?_, Milan: Polimetrica. \[[Feferman 2006 preprint available online (PDF)](https://web.archive.org/web/20171211043750/http://math.stanford.edu/\~feferman/papers/ess.pdf)]
-* Frege, Gottlob, 1884, _Die Grundlagen der Arithmetik_, English translation by J.L. Austin, _The Foundations of Arithmetic_, Oxford: Blackwell, 1974.
-* Friedman, Harvey, 1973, “Some Applications of Kleene’s Methods for Intuitionistic Systems”, in A.R.D. Mathias and H. Rogers (eds.), _Cambridge Summer School in Mathematical Logic_, (Lecture Notes in Mathematics, 337), Berlin: Springer-Verlag, pp. 113–170. doi:10.1007/BFb0066773
-* Grishin, V.N., 1969, “Consistency of a Fragment of Quine’s _NF_ System”, _Soviet Mathematics Doklady_, 10: 1387–1390.
-* Hallett, Michael, 1984, _Cantorian Set Theory and Limitation of Size_, Oxford: Clarendon, pp. 280–286.
-* Hamkins, Joel David, 2012, “The Set-Theoretic Multiverse”, _Review of Symbolic Logic_, 5(3): 416–449. doi:10.1017/S1755020311000359
-* Holmes, M. Randall, 1998, _Elementary Set Theory with a Universal Set_, (Cahiers du Centre de logique, 10), Louvain-la-Neuve: Academia. (See chapter 20 for the discussion of well-founded extensional relation types.) \[[Holmes 1998 revised and corrected version available online (PDF)](https://randall-holmes.github.io/head.pdf)]
-* –––, 2012, “The Usual Model Construction for _NFU_ Preserves Information”, _Notre Dame Journal of Formal Logic_, 53(4): 571–580. doi:10.1215/00294527-1722764
-* Jensen, Ronald Bjorn, 1968, “On the Consistency of a Slight (?) Modification of Quine’s ‘New Foundations’”, _Synthese_, 19(1): 250–63. doi:10.1007/BF00568059
-* Kisielewicz, Andrzej, 1998, “A Very Strong Set Theory?”, _Studia Logica_, 61(2): 171–178. doi:10.1023/A:1005048329677
-* Kuratowski, Casimir \[Kazimierz], 1921, “Sur la notion de l’ordre dans la Théorie des Ensembles”, _Fundamenta Mathematicae_, 2(1): 161–171. \[[Kuratowski 1921 available online](http://eudml.org/doc/212966)]
-* Lévy, Azriel, 1959, “On Ackermann’s Set Theory”, _Journal of Symbolic Logic_, 24(2): 154–166. doi:10.2307/2964757
-* Mac Lane, Saunders, 1986, _Mathematics, Form and Function_, Berlin: Springer-Verlag.
-* Mathias, A.R.D., 2001a, “The Strength of Mac Lane Set Theory”, _Annals of Pure and Applied Logic_, 110(1–3): 107–234. doi:10.1016/S0168-0072(00)00031-2
-* –––, 2001b, “Slim Models of Zermelo Set Theory”, _The Journal of Symbolic Logic_, 66(2): 487–496. doi:10.2307/2695026
-* McLarty, Colin, 1992, “Failure of Cartesian Closedness in _NF_”, _Journal of Symbolic Logic_, 57(2): 555–6. doi:10.2307/2275291
-* Nelson, Edward, 1977, “Internal Set Theory, a New Approach to Nonstandard Analysis”, _Bulletin of the American Mathematical Society_, 83(6): 1165–1198. doi:10.1090/S0002-9904-1977-14398-X
-* Quine, W.V.O., 1937, “New Foundations for Mathematical Logic”, _American Mathematical Monthly_, 44(2): 70–80. doi:10.2307/2300564
-* –––, 1945, “On Ordered Pairs”, _Journal of Symbolic Logic_, 10(3): 95–96. doi:10.2307/2267028
-* Reinhardt, William N., 1970, “Ackermann’s Set Theory Equals ZF”, _Annals of Mathematical Logic_, 2(2): 189–249. doi:10.1016/0003-4843(70)90011-2
-* Robinson, Abraham, 1966, _Non-standard Analysis_, Amsterdam: North-Holland.
-* Rosser, J. Barkley, 1973, _Logic for Mathematicians_, second edition, New York: Chelsea.
-* Russell, Bertrand, 1903, _The Principles of Mathematics_, London: George Allen and Unwin.
-* Specker, Ernst P., 1953, “The Axiom of Choice in Quine’s ‘New Foundations for Mathematical Logic’”, _Proceedings of the National Academy of Sciences of the United States of America_, 39(9): 972–5. \[[Specker 1953 available online](http://www.pnas.org/content/39/9/972)]
-* Spinoza, Benedict de, 1677, _Ethics_, reprinted and translated in _A Spinoza Reader: the “Ethics” and Other Works_, Edwin Curley (ed. and trans.), Princeton: Princeton University Press, 1994.
-* Tupailo, Sergei, 2010, “Consistency of Strictly Impredicative **NF** and a Little More …”, _Journal of Symbolic Logic_, 75(4): 1326–1338. doi:10.2178/jsl/1286198149
-* Vopěnka, Petr, 1979, _Mathematics in the Alternative Set Theory_, Leipzig: Teubner-Verlag.
-* Wang, Hao, 1970, _Logic, Computers, and Sets_, New York: Chelsea, p. 406.
-* Whitehead, Alfred North and Bertrand Russell, \[_PM_] 1910–1913, _Principia Mathematica_, 3 volumes, Cambridge: Cambridge University Press.
-* Wiener, Norbert, 1914, “A Simplification of the Logic of Relations”, _Proceedings of the Cambridge Philosophical Society_, 17: 387–390.
-* Zermelo, Ernst, 1908, “Untersuchen über die Grundlagen der Mengenlehre I”, _Mathematische Annalen_, 65: 261–281.
+* Aczel, Peter, 1978, “The Type Theoretic Interpretation of Constructive Set Theory”, in A. MacIntyre, L. Pacholski, J. Paris (eds.), *Logic Colloquium ‘77*, (Studies in Logic and the Foundations of Mathematics, 96), Amsterdam: North-Holland, pp. 55–66. doi:10.1016/S0049-237X(08)71989-X
+* –––, 1982, “The Type Theoretic Interpretation of Constructive Set Theory: Choice Principles”, in A.S. Troelstra and D. van Dalen (eds.), *The L.E.J. Brouwer Centenary Symposium*, (Studies in Logic and the Foundations of Mathematics, 110), Amsterdam: North-Holland, pp. 1–40. doi:10.1016/S0049-237X(09)70120-X
+* –––, 1986, “The Type Theoretic Interpretation of Constructive Set Theory: Inductive Definitions”, in Ruth Barcan Marcus, Georg J.W.Dorn, and Paul Weingartner (eds.), *Logic, Methodology, and Philosophy of Science VII*, (Studies in Logic and the Foundations of Mathematics, 114), Amsterdam: North-Holland, pp. 17–49. doi:10.1016/S0049-237X(09)70683-4
+* –––, 1988, *Non-Well-Founded Sets* (CSLI Lecture Notes, 14), Stanford: CSLI Publications.
+* St. Augustine, *De Civitate Dei*, Book 12, chapter 18.
+* Barwise, Jon, 1975, *Admissible Sets and Structures: An Approach to Definability Theory*, (Perspectives in Mathematical Logic, 7), Berlin: Springer-Verlag.
+* Boffa, M., 1988, “ZFJ and the Consistency Problem for NF”, *Jahrbuch der Kurt Gödel Gesellschaft*, Vienna, pp. 102–106
+* Burali-Forti, C., 1897, “Una questione sui numeri transfiniti”, *Rendiconti del Circolo matematico di Palermo*, 11(1): 154–164. A correction appears in “Sulle classi ben ordinate”, *Rendiconti del Circolo matematico di Palermo*, 11(1): 260. It is not clear that Burali-Forti ever correctly understood his paradox. doi:10.1007/BF03015911 and doi:10.1007/BF03015919
+* Cantor, Georg, 1872, “Über die Ausdehnung eines Satzes aus der Theorie der trigonometrischen Reihen”, *Mathematischen Annalen*, 5: 123–32.
+* –––, 1891, “Über eine elementare Frage der Mannigfaltigkeitslehre”, *Jahresbericht der deutschen Mathematiker-Vereiningung*, 1: 75–8.
+* Cocchiarella, Nino B., 1985, “Frege’s Double-Correlation Thesis and Quine’s Set Theories NF and ML”, *Journal of Philosophical Logic*, 14(1): 1–39. doi:10.1007/BF00542647
+* Crabbé, Marcel, 1982, “On the Consistency of an Impredicative Subsystem of Quine’s *NF*”, *Journal of Symbolic Logic*, 47(1): 131–36. doi:10.2307/2273386
+* –––, 2016, “*NFSI* is not included in _NF_3”, *Journal of Symbolic Logic*, 81(3): 948–950. doi:10.1017/jsl.2015.29
+* Dedekind, Richard, 1872, *Stetigkeit und irrationale Zahlen*, Brannschweig: Friedrich Vieweg und Sohn (second edition, 1892).
+* Esser, Olivier, 1999, “On the Consistency of a Positive Theory”, *Mathematical Logic Quarterly*, 45(1): 105–116. doi:10.1002/malq.19990450110
+* Feferman, Sol, 2006, “Enriched Stratified Systems for the Foundations of Category Theory” in Giandomenico Sica (ed.), *What is Category Theory?*, Milan: Polimetrica. \[[Feferman 2006 preprint available online (PDF)](https://web.archive.org/web/20171211043750/http://math.stanford.edu/\~feferman/papers/ess.pdf)]
+* Frege, Gottlob, 1884, *Die Grundlagen der Arithmetik*, English translation by J.L. Austin, *The Foundations of Arithmetic*, Oxford: Blackwell, 1974.
+* Friedman, Harvey, 1973, “Some Applications of Kleene’s Methods for Intuitionistic Systems”, in A.R.D. Mathias and H. Rogers (eds.), *Cambridge Summer School in Mathematical Logic*, (Lecture Notes in Mathematics, 337), Berlin: Springer-Verlag, pp. 113–170. doi:10.1007/BFb0066773
+* Grishin, V.N., 1969, “Consistency of a Fragment of Quine’s *NF* System”, *Soviet Mathematics Doklady*, 10: 1387–1390.
+* Hallett, Michael, 1984, *Cantorian Set Theory and Limitation of Size*, Oxford: Clarendon, pp. 280–286.
+* Hamkins, Joel David, 2012, “The Set-Theoretic Multiverse”, *Review of Symbolic Logic*, 5(3): 416–449. doi:10.1017/S1755020311000359
+* Holmes, M. Randall, 1998, *Elementary Set Theory with a Universal Set*, (Cahiers du Centre de logique, 10), Louvain-la-Neuve: Academia. (See chapter 20 for the discussion of well-founded extensional relation types.) \[[Holmes 1998 revised and corrected version available online (PDF)](https://randall-holmes.github.io/head.pdf)]
+* –––, 2012, “The Usual Model Construction for *NFU* Preserves Information”, *Notre Dame Journal of Formal Logic*, 53(4): 571–580. doi:10.1215/00294527-1722764
+* Jensen, Ronald Bjorn, 1968, “On the Consistency of a Slight (?) Modification of Quine’s ‘New Foundations’”, *Synthese*, 19(1): 250–63. doi:10.1007/BF00568059
+* Kisielewicz, Andrzej, 1998, “A Very Strong Set Theory?”, *Studia Logica*, 61(2): 171–178. doi:10.1023/A:1005048329677
+* Kuratowski, Casimir \[Kazimierz], 1921, “Sur la notion de l’ordre dans la Théorie des Ensembles”, *Fundamenta Mathematicae*, 2(1): 161–171. \[[Kuratowski 1921 available online](http://eudml.org/doc/212966)]
+* Lévy, Azriel, 1959, “On Ackermann’s Set Theory”, *Journal of Symbolic Logic*, 24(2): 154–166. doi:10.2307/2964757
+* Mac Lane, Saunders, 1986, *Mathematics, Form and Function*, Berlin: Springer-Verlag.
+* Mathias, A.R.D., 2001a, “The Strength of Mac Lane Set Theory”, *Annals of Pure and Applied Logic*, 110(1–3): 107–234. doi:10.1016/S0168-0072(00)00031-2
+* –––, 2001b, “Slim Models of Zermelo Set Theory”, *The Journal of Symbolic Logic*, 66(2): 487–496. doi:10.2307/2695026
+* McLarty, Colin, 1992, “Failure of Cartesian Closedness in *NF*”, *Journal of Symbolic Logic*, 57(2): 555–6. doi:10.2307/2275291
+* Nelson, Edward, 1977, “Internal Set Theory, a New Approach to Nonstandard Analysis”, *Bulletin of the American Mathematical Society*, 83(6): 1165–1198. doi:10.1090/S0002-9904-1977-14398-X
+* Quine, W.V.O., 1937, “New Foundations for Mathematical Logic”, *American Mathematical Monthly*, 44(2): 70–80. doi:10.2307/2300564
+* –––, 1945, “On Ordered Pairs”, *Journal of Symbolic Logic*, 10(3): 95–96. doi:10.2307/2267028
+* Reinhardt, William N., 1970, “Ackermann’s Set Theory Equals ZF”, *Annals of Mathematical Logic*, 2(2): 189–249. doi:10.1016/0003-4843(70)90011-2
+* Robinson, Abraham, 1966, *Non-standard Analysis*, Amsterdam: North-Holland.
+* Rosser, J. Barkley, 1973, *Logic for Mathematicians*, second edition, New York: Chelsea.
+* Russell, Bertrand, 1903, *The Principles of Mathematics*, London: George Allen and Unwin.
+* Specker, Ernst P., 1953, “The Axiom of Choice in Quine’s ‘New Foundations for Mathematical Logic’”, *Proceedings of the National Academy of Sciences of the United States of America*, 39(9): 972–5. \[[Specker 1953 available online](http://www.pnas.org/content/39/9/972)]
+* Spinoza, Benedict de, 1677, *Ethics*, reprinted and translated in *A Spinoza Reader: the “Ethics” and Other Works*, Edwin Curley (ed. and trans.), Princeton: Princeton University Press, 1994.
+* Tupailo, Sergei, 2010, “Consistency of Strictly Impredicative **NF** and a Little More …”, *Journal of Symbolic Logic*, 75(4): 1326–1338. doi:10.2178/jsl/1286198149
+* Vopěnka, Petr, 1979, *Mathematics in the Alternative Set Theory*, Leipzig: Teubner-Verlag.
+* Wang, Hao, 1970, *Logic, Computers, and Sets*, New York: Chelsea, p. 406.
+* Whitehead, Alfred North and Bertrand Russell, \[*PM*] 1910–1913, *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press.
+* Wiener, Norbert, 1914, “A Simplification of the Logic of Relations”, *Proceedings of the Cambridge Philosophical Society*, 17: 387–390.
+* Zermelo, Ernst, 1908, “Untersuchen über die Grundlagen der Mengenlehre I”, *Mathematische Annalen*, 65: 261–281.
 
 ## Academic Tools
 
@@ -790,7 +790,7 @@ Andrzej Kisielewicz（1998）最近提出的一个建议是，通过使用两个
 
 ## Related Entries
 
-[Brouwer, Luitzen Egbertus Jan](https://plato.stanford.edu/entries/brouwer/) | [choice, axiom of](https://plato.stanford.edu/entries/axiom-choice/) | [continuity and infinitesimals](https://plato.stanford.edu/entries/continuity/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [logic: intuitionistic](https://plato.stanford.edu/entries/logic-intuitionistic/) | [mathematics: constructive](https://plato.stanford.edu/entries/mathematics-constructive/) | [_Principia Mathematica_](https://plato.stanford.edu/entries/principia-mathematica/) | [Quine, Willard Van Orman: New Foundations](https://plato.stanford.edu/entries/quine-nf/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [type theory](https://plato.stanford.edu/entries/type-theory/)
+[Brouwer, Luitzen Egbertus Jan](https://plato.stanford.edu/entries/brouwer/) | [choice, axiom of](https://plato.stanford.edu/entries/axiom-choice/) | [continuity and infinitesimals](https://plato.stanford.edu/entries/continuity/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [logic: intuitionistic](https://plato.stanford.edu/entries/logic-intuitionistic/) | [mathematics: constructive](https://plato.stanford.edu/entries/mathematics-constructive/) | [*Principia Mathematica*](https://plato.stanford.edu/entries/principia-mathematica/) | [Quine, Willard Van Orman: New Foundations](https://plato.stanford.edu/entries/quine-nf/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [type theory](https://plato.stanford.edu/entries/type-theory/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[M. Randall Holmes](https://randall-holmes.github.io/) <[_rholmes@boisestate.edu_](mailto:rholmes%40boisestate%2eedu)>
+[M. Randall Holmes](https://randall-holmes.github.io/) <[*rholmes@boisestate.edu*](mailto:rholmes%40boisestate%2eedu)>

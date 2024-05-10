@@ -1,6 +1,6 @@
 # 卡尔·莱昂哈德·莱因霍尔德 Reinhold, Karl Leonhard (Dan Breazeale and John Walsh)
 
-_首次发表于 2003 年 4 月 30 日；实质性修订于 2022 年 9 月 21 日_
+*首次发表于 2003 年 4 月 30 日；实质性修订于 2022 年 9 月 21 日*
 
 卡尔·莱昂哈德·莱因霍尔德（1757-1823），奥地利哲学家，1787 年在耶拿大学担任批判哲学讲座的首位教授，最初以倡导普及启蒙运动和早期有效地普及康德哲学而闻名。在耶拿大学任职期间（1787-1794 年），莱因霍尔德宣称有必要对批判哲学进行更加“科学”和系统的阐述，这种阐述应该基于一个单一、不言自明的第一原则。为了满足这种需求，他在 1789 年至 1791 年间发表了一系列有影响力的著作，阐述了他自己的“初级哲学”。尽管莱因霍尔德的初级哲学受到了很多批评，但他对于一种更加连贯和系统的超验唯心主义阐述的呼吁对于后来的后康德主义理想主义的发展产生了深远影响，并激励其他人（如 J·G·费希特）寻求比莱因霍尔德自己的“意识原则”更加“基础”的哲学第一原则。在转到基尔大学后，莱因霍尔德先后成为费希特的《科学教义》和巴迪利的“理性现实主义”的拥护者，最后提出了一种新颖的“语言学”方法来解决哲学问题。
 
@@ -124,122 +124,122 @@ _首次发表于 2003 年 4 月 30 日；实质性修订于 2022 年 9 月 21 �
 
 ### Reinhold’s Works in German and English in Chronological Order
 
-(Note that almost all of Reinhold’s books consist of revised versions of material that originally appeared in the form of journal articles. For a complete listing of all of Reinhold’s writings, see the bibliography by Alexander von Schönborn.) In this entry, citations to Reinhold’s works refer to the original pagination along with the page number corresponding to _Karl Leonhard Reinhold: Gesammelte Schriften_ (_RGS_). Where texts have not yet been published in the _RGS_, additional page numbers are given from the most recent edition.
+(Note that almost all of Reinhold’s books consist of revised versions of material that originally appeared in the form of journal articles. For a complete listing of all of Reinhold’s writings, see the bibliography by Alexander von Schönborn.) In this entry, citations to Reinhold’s works refer to the original pagination along with the page number corresponding to *Karl Leonhard Reinhold: Gesammelte Schriften* (*RGS*). Where texts have not yet been published in the *RGS*, additional page numbers are given from the most recent edition.
 
-* _Schriften zur Religionskritik und Aufklärung, 1782–1784_, ed. Zwi Batscha (Bremen: Jacobi-Verlag, 1977).
-* _Briefe über die Kantische Philosophie_\[Erster Band] (1790). Reinhold, _Gesammelte Schriften_, Band 2/1, 2007. (Both volumes reprinted in a single volume, ed. Raymund Schmidt \[Leipzig: Reclam, 1921].
-  * Translation of the first eight letters in the versions originally published in _Der Teutsche Merkur_, supplemented by “the major additions in the 1790 edition,” in _Letters on the Kantian Philosophy_, trans. James Hebbeler, ed. Karl Ameriks. \[Cambridge: Cambridge University Press, 2005].)
-* _Versuch einer neuen Theorie des menschlichen Vorstellungsvermögens_ (1789; 2nd ed. 1795). Reinhold, _Gesammelte Schriften_, Bd. 1, 2013. Two-volume ed., edited and with an introduction by Ernst-Otto Onnash. (Hamburg: Meiner/Philosophische Bibliotek nos. 500 a and 599b, 2010 and 2012). (Photomechanical reprint ed. Darmstadt: Wissenschaftliche Buchgesellschaft, 1963.)
-  * _Essay on a new Theory of the Human Capacity for Representation_, trans. Tim Mehigan and Barry Empson (Berlin: de Gruyter, 2013).
-* _Beyträge zur Berichtigung bisheriger Missverständnisse der Philosophen_, Erster Band (1790). (New, two-volume edition, edited and with an introduction by Faustino Fabbianell. \[Hamburg: Meiner/Philosophische Bibliothek 554a and 554b, 2003 and 2004]. A photomechancial reprint of Sect. V of this work, “Ueber die Möglichkeit der Philosophie als strenge Wissenschaft,” is included in the volume containing the photomechanical reprint edition of_Ueber das Fundament des philosophischen Wissens_, ed. Wolfgang H. Schrader \[Hamburg: Meiner, 1978].)
-* _Ueber das Fundament des philosophischen Wissens_ (1791). Reinhold, _Gesammelte Schriften_, Band 4, 2011. (Photomechanical reprint edition, ed. Wolfgang H. Schrader \[Hamburg: Meiner, 1978].
-  * (Partial translation, _The Foundation of Philosophical Knowledge_, trans. George di Giovonni. In _Between Kant and Hegel: Texts in the Development of Post-Kantian Idealism_, ed. George di Giovanni and H. S. Harris \[Albany: SUNY Press, 1985], pp. 52–106.)
-* _Briefe über die Kantische Philosophie_, Zweyter Band (1792). Reinhold, _Gesammelte Schriften_, Bd. 2/2, 2008. (Both volumes of the _Briefe_ were later reprinted in a single volume, ed. Raymund Schmidt \[Leipzig: Reclam, 1921].)
-* _Beyträge zur Berichtigung bisheriger Missverständnisse der Philosophen_, Zweyter Band (1794). (New edition, edited and with an introduction by Faustino Fabbianell. \[Hamburg: Meiner/Philosophische Bibliothek 554b, 2004.])
-  * (Partial translation in Jörg Noller and John Walsh, _Kant’s Early Critics on Freedom of the Will_ \[New York: Cambridge University Press, 2022], pp. 93–116.)
-* _Auswahl vermischter Schriften_ \[Erster Theil] (1796). Reinhold, _Gesammelte Schriften_, Bd. 5/1, 2016.
-* _Auswahl vermischter Schriften_, Zweyter Theil (1797). Reinhold, _Gesammelte Schriften_, Bd. 5/2, 2017.
-  * (Partial translation in Jörg Noller and John Walsh, _Kant’s Early Critics on Freedom of the Will_ \[New York: Cambridge University Press, 2022], pp. 238–49.)
-* Review of Fichte’s, _Ueber den Begriff der Wissenschaftslehre_, _Grundlage der gesammten Wissenschaftslehre_, _Grundrisse des Eigenthümlichen der Wissenschaftslehre in Rücksicht auf das theoretische Vermögen_, and _Philosophisches Journal einer Gesellschaft Teutscher Gelehrten_, Band 5, Heft 1–6. (1798). (Rpt. in _J. G. Fichte in zeitgenössischen Rezensionen_, Band 2, ed. Erich Fuchs, Wilhelm G. Jacobs, and Walter Schieche, pp. 286–321 \[Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1995].)
-* _Verhandlung über die Grundbegriffe und Grundsätze der Moralität aus dem Gesichtspunke des gemeinen und gesunden Verstandes_ (1798). Reinhold, _Gesammelte Schriften_, Bd. 6/1, 2008.
-  * (Partial translation in Sabine Roehr, _A Primer on German Enlightenment: With a Translation of Karl Leonhard Reinhold’s “The Fundamental Concepts and Principles of Ethics”_ \[Columbia: University of Missouri Press, 1995], pp. 157–251.)
-* _Ueber die Paradoxien der neuesten Philosophie_ (Hamburg, 1799).
-* _Sendschreiben an J. C. Lavater und J. G. Fichte über den Glauben an Gott_ (1799).
-* _Beyträge zur leichtern Uebersicht des Zustandes der Philosophie beym Anfange des 19. Jahrhunderts_, Heft 1–3 (1801), Heft 4 (1802), Heft 5–6 (1803). (This journal was founded and edited by Reinhold, who also contributed most of the editorial content.)
-* _C. G. Bardilis und C. L. Reinholds Briefwechsel über das Wesen der Philosophie und das Unwesen der Speculation_ (1804).
-* _Prologomenen zur Analysis in der Philosophie_ (Berlin, 1804).
-* _Etwas über den Widerspruch_ (Hamburg, 1804).
-* _C. L. Reinhold’s Anleitung zur Kenntniß und Beurtheilung der Philosophie in ihren sämmtlichen Lehregebäuden_ (1805; 2nd ed. 1824).
-* _Versuch einer Auflösung der von der philosophischen Classe der königl. Akademie der Wissenschaften in Berlin für 1805 aufgestellten Aufgabe: “Die Natur der Analysis und der analytischen Methode in der Philosophie genau anzugeben, und zu untersuchen: ob und was es für Mittel gebe, ihren Gebrauch sicher, leichter und nützlicher zu machen_” (1805).
-* _Versuch einer Critik der Logik aus dem Gesichtspunkte der Sprache_ (Kiel, 1806).
-* _Die Anfangsgründe der Erkenntniß der Wahrheit in einer Fibel für noch unbefriedigte Forscher nach dieser Erkenntiß_ (Kiel, 1808).
-* _Rüge einer merkürdigen Sprachverwirrung unter den Weltweisen_ (Weimar, 1809).
-* _Grundlegung einer Synonymik für den allgemeinen Sprachgebrauch in den philosophischen Wissenschaften_ (Kiel, 1812).
-* _Das menschliche Erkenntnißvermögen, aus dem Gesichtspunkte des durch die Wortsprache vermittelten Zusammenhang zwischen der Sinnlichkeit und dem Denkvermögen_ (Kiel, 1816).
-* _Ueber den Begriff und die Erkenntniß der Wahrheit_ (Kiel, 1817).
-* _Die alte Frage: Was ist die Wahrheit? bey den erneuerten Streitigkeiten über die göttliche Offenbarung und die menschliche Vernunft, in nähere Erwägung gezogen_ (Altona, 1820). Reinhold, _Gesammelte Schriften_, Bd. 10/2, 2022.
-* _Vorlesungsnachschriften. Logik und Metaphysik (1792/93), Darstellung der Kritik der reinen Vernunft (1792/93)_), Reinhold, _Gesammelte Schriften_, Bd. 12, 2015.
-* _Karl Leonhard Reinhold Korrespondenzausgabe der österreichischen Akademie der Wissenschaften_, ed. Faustino Fabvienelli and Ives Radrizani (Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1983 ff). Five volumes have so far appeared in this series, with seven more projected.
+* *Schriften zur Religionskritik und Aufklärung, 1782–1784*, ed. Zwi Batscha (Bremen: Jacobi-Verlag, 1977).
+* *Briefe über die Kantische Philosophie*\[Erster Band] (1790). Reinhold, *Gesammelte Schriften*, Band 2/1, 2007. (Both volumes reprinted in a single volume, ed. Raymund Schmidt \[Leipzig: Reclam, 1921].
+  * Translation of the first eight letters in the versions originally published in *Der Teutsche Merkur*, supplemented by “the major additions in the 1790 edition,” in *Letters on the Kantian Philosophy*, trans. James Hebbeler, ed. Karl Ameriks. \[Cambridge: Cambridge University Press, 2005].)
+* *Versuch einer neuen Theorie des menschlichen Vorstellungsvermögens* (1789; 2nd ed. 1795). Reinhold, *Gesammelte Schriften*, Bd. 1, 2013. Two-volume ed., edited and with an introduction by Ernst-Otto Onnash. (Hamburg: Meiner/Philosophische Bibliotek nos. 500 a and 599b, 2010 and 2012). (Photomechanical reprint ed. Darmstadt: Wissenschaftliche Buchgesellschaft, 1963.)
+  * *Essay on a new Theory of the Human Capacity for Representation*, trans. Tim Mehigan and Barry Empson (Berlin: de Gruyter, 2013).
+* *Beyträge zur Berichtigung bisheriger Missverständnisse der Philosophen*, Erster Band (1790). (New, two-volume edition, edited and with an introduction by Faustino Fabbianell. \[Hamburg: Meiner/Philosophische Bibliothek 554a and 554b, 2003 and 2004]. A photomechancial reprint of Sect. V of this work, “Ueber die Möglichkeit der Philosophie als strenge Wissenschaft,” is included in the volume containing the photomechanical reprint edition of_Ueber das Fundament des philosophischen Wissens_, ed. Wolfgang H. Schrader \[Hamburg: Meiner, 1978].)
+* *Ueber das Fundament des philosophischen Wissens* (1791). Reinhold, *Gesammelte Schriften*, Band 4, 2011. (Photomechanical reprint edition, ed. Wolfgang H. Schrader \[Hamburg: Meiner, 1978].
+  * (Partial translation, *The Foundation of Philosophical Knowledge*, trans. George di Giovonni. In *Between Kant and Hegel: Texts in the Development of Post-Kantian Idealism*, ed. George di Giovanni and H. S. Harris \[Albany: SUNY Press, 1985], pp. 52–106.)
+* *Briefe über die Kantische Philosophie*, Zweyter Band (1792). Reinhold, *Gesammelte Schriften*, Bd. 2/2, 2008. (Both volumes of the *Briefe* were later reprinted in a single volume, ed. Raymund Schmidt \[Leipzig: Reclam, 1921].)
+* *Beyträge zur Berichtigung bisheriger Missverständnisse der Philosophen*, Zweyter Band (1794). (New edition, edited and with an introduction by Faustino Fabbianell. \[Hamburg: Meiner/Philosophische Bibliothek 554b, 2004.])
+  * (Partial translation in Jörg Noller and John Walsh, *Kant’s Early Critics on Freedom of the Will* \[New York: Cambridge University Press, 2022], pp. 93–116.)
+* *Auswahl vermischter Schriften* \[Erster Theil] (1796). Reinhold, *Gesammelte Schriften*, Bd. 5/1, 2016.
+* *Auswahl vermischter Schriften*, Zweyter Theil (1797). Reinhold, *Gesammelte Schriften*, Bd. 5/2, 2017.
+  * (Partial translation in Jörg Noller and John Walsh, *Kant’s Early Critics on Freedom of the Will* \[New York: Cambridge University Press, 2022], pp. 238–49.)
+* Review of Fichte’s, *Ueber den Begriff der Wissenschaftslehre*, *Grundlage der gesammten Wissenschaftslehre*, *Grundrisse des Eigenthümlichen der Wissenschaftslehre in Rücksicht auf das theoretische Vermögen*, and *Philosophisches Journal einer Gesellschaft Teutscher Gelehrten*, Band 5, Heft 1–6. (1798). (Rpt. in *J. G. Fichte in zeitgenössischen Rezensionen*, Band 2, ed. Erich Fuchs, Wilhelm G. Jacobs, and Walter Schieche, pp. 286–321 \[Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1995].)
+* *Verhandlung über die Grundbegriffe und Grundsätze der Moralität aus dem Gesichtspunke des gemeinen und gesunden Verstandes* (1798). Reinhold, *Gesammelte Schriften*, Bd. 6/1, 2008.
+  * (Partial translation in Sabine Roehr, *A Primer on German Enlightenment: With a Translation of Karl Leonhard Reinhold’s “The Fundamental Concepts and Principles of Ethics”* \[Columbia: University of Missouri Press, 1995], pp. 157–251.)
+* *Ueber die Paradoxien der neuesten Philosophie* (Hamburg, 1799).
+* *Sendschreiben an J. C. Lavater und J. G. Fichte über den Glauben an Gott* (1799).
+* *Beyträge zur leichtern Uebersicht des Zustandes der Philosophie beym Anfange des 19. Jahrhunderts*, Heft 1–3 (1801), Heft 4 (1802), Heft 5–6 (1803). (This journal was founded and edited by Reinhold, who also contributed most of the editorial content.)
+* *C. G. Bardilis und C. L. Reinholds Briefwechsel über das Wesen der Philosophie und das Unwesen der Speculation* (1804).
+* *Prologomenen zur Analysis in der Philosophie* (Berlin, 1804).
+* *Etwas über den Widerspruch* (Hamburg, 1804).
+* *C. L. Reinhold’s Anleitung zur Kenntniß und Beurtheilung der Philosophie in ihren sämmtlichen Lehregebäuden* (1805; 2nd ed. 1824).
+* *Versuch einer Auflösung der von der philosophischen Classe der königl. Akademie der Wissenschaften in Berlin für 1805 aufgestellten Aufgabe: “Die Natur der Analysis und der analytischen Methode in der Philosophie genau anzugeben, und zu untersuchen: ob und was es für Mittel gebe, ihren Gebrauch sicher, leichter und nützlicher zu machen*” (1805).
+* *Versuch einer Critik der Logik aus dem Gesichtspunkte der Sprache* (Kiel, 1806).
+* *Die Anfangsgründe der Erkenntniß der Wahrheit in einer Fibel für noch unbefriedigte Forscher nach dieser Erkenntiß* (Kiel, 1808).
+* *Rüge einer merkürdigen Sprachverwirrung unter den Weltweisen* (Weimar, 1809).
+* *Grundlegung einer Synonymik für den allgemeinen Sprachgebrauch in den philosophischen Wissenschaften* (Kiel, 1812).
+* *Das menschliche Erkenntnißvermögen, aus dem Gesichtspunkte des durch die Wortsprache vermittelten Zusammenhang zwischen der Sinnlichkeit und dem Denkvermögen* (Kiel, 1816).
+* *Ueber den Begriff und die Erkenntniß der Wahrheit* (Kiel, 1817).
+* *Die alte Frage: Was ist die Wahrheit? bey den erneuerten Streitigkeiten über die göttliche Offenbarung und die menschliche Vernunft, in nähere Erwägung gezogen* (Altona, 1820). Reinhold, *Gesammelte Schriften*, Bd. 10/2, 2022.
+* *Vorlesungsnachschriften. Logik und Metaphysik (1792/93), Darstellung der Kritik der reinen Vernunft (1792/93)*), Reinhold, *Gesammelte Schriften*, Bd. 12, 2015.
+* *Karl Leonhard Reinhold Korrespondenzausgabe der österreichischen Akademie der Wissenschaften*, ed. Faustino Fabvienelli and Ives Radrizani (Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1983 ff). Five volumes have so far appeared in this series, with seven more projected.
 
 ### Selected Secondary Literature About Reinhold
 
-* Adam, Herbert, 1930. _Carl Leonhard Reinholds philosophischer Systemwechsel._ Heidelberg: Carl Winter.
-* Ahlers, Rolf, 2003. “Fichte, Jacobi und Reinhold über Speculation und Leben,” _Fichte-Studien_, 21: 1–25.
-* –––, 2006. “Differenz, Identität und Indifferenz im Gespräch des Deutschen Idealismus um 1802, besonders bei Reinhold und Schelling,” in _K.L. Reinhold: Am Vorhof des Idealismus_, P. Valenza (ed.), Pisa/Rome: Instituti Editoriali e Poligrafici Internazionali, pp. 285–312.
-* –––, 2012. “Reinhold on Being, Appearance, and _Ursein_ and Some Consequences,” in _Wille, Willkür, Freiheit: Reinhold’s Freiheitskonzeption im Kontext der Philosophie des 18. Jahrhunderts_, S. Stolz, M. Heinz, M. Bondeli (eds.), Berlin/Boston: De Gruyter, pp. 471–512.
-* Ameriks, Karl, 2000. _Kant and the Fate of Autonomy: Problems in the Appropriation of the Critical Philosophy_, New York: Cambridge University Press. (On Reinhold, see Pt. II, pp. 81–159.)
-* Beiser, Frederick C., 1987. _The Fate of Reason: German Philosophy from Kant to Fichte_, Cambridge: Harvard University Press. (On Reinhold, see Ch. 8, pp. 226–65.)
-* Bernecker, Sven, 2018. “Reinholds linguistischer Schematismus,” in _Natur und Freiheit: Akten des XII. Internationalen Kant-Kongresses_, V. Waibel et al. (eds.), Berlin/Boston: De Gruyter, pp. 3369–3377.
-* Bondeli, Martin, 1994. “Geschmack und Vergnügen in Reinholds Aufklärungskonzept und philosophischem Programm während der Phase der Elementarphilosophie,” in _Evolution des Geistes: Jena um 1800_, F. Strack (ed.), Stuttgart: Klett-Cotta, pp. 328–49.
-* –––, 1995a. _Das Anfangsproblem bei Karl Leonhard Reinhold. Eine systematische und entwicklungsgeschichtliche Untersuchung zur Philosophie Reinholds in der Zeit von 1789 bis 1803_, Frankfurt: Klostermann.
-* –––, 1995b. “Hegel und Reinhold,” _Hegel-Studien_, 30: 45–87.
-* –––, 1997a. “Hegels Identitätsphilosophie in Auseinandersetzung mit Reinholds Rationalem Realismus,” in _Hegels Jenaer Naturphilosophie_, K. Vieweg (ed.), Paderborn/München: W. Fink, pp. 163–74.
-* –––, 1997b. “Zu Fichtes Kritik an Reinholds ‘empirischem’ Satz des Bewußtseins,” _Fichte-Studien_, 9: 199–213.
-* –––, 1997c. “Reinhold im Lichte Kants und Hegels. Zu G.W. Fuchs: _C.L. Reinhold – Illuminat und Philosoph_; P. Valenza: _Reinhold e Hegel_,” _Hegel-Studien_, 31: 159–66.
-* –––, 1998a. “Hegel und Reinholds Rationaler Rationalismus,” in _Hegels Jenaer Naturphilosophie_, Munich: Fink Verlag.
-* –––, 1998b. “Von Herder zu Kant, zwischen Kant und Herder, mit Herder gegen Kant – Karl Leonhard Reinhold,” in _Herder und die Philosophie des deutschen Idealismus_, M. Heinz (ed.), Amsterdam, Atlanta: Rodopi, pp. 203–34.
-* –––, 2001. “Freiheit im Anschluss an Kant. Zur Kant-Reinhold-Kontroverse und ihren Folgen,” in _Akten des IX Internationalen Kant-Kongresses_, V. Gerhardt, R.-P. Horstmann, and R. Schumacher (eds.), Berlin: de Gruyter.
-* –––, 2020. “Reinhold’s Transition to Fichte,” in _Reinhold and Fichte in Confrontation. A Tale of Mutual Appreciation and Criticism_, M. Bondeli and S. Imhof (eds.), Berlin/Boston: De Gruyter, pp. 123–49.
-* Bondeli, Martin and Silvan Imhof, 2020. _Reinhold and Fichte in Confrontation. A Tale of Mutual Appreciation and Criticism_. Berlin/Boston: De Gruyter.
-* Bondeli, Martin and Alessandro Lazzari (eds.), 2003. _Philosophie ohne Beinamen. System, Freiheit und Geschichte im Denken C.L. Reinholds_, Basel: Schwabe-Verlag, 2003. (Proceedings of the second international Reinhold conference, held in Lucerne in 2002.)
-* Bondeli, Martin and W. H. Schrader (eds.), 2003. _Die Philosophie Karl Leonhard Reinholds_. (Beiträge der Internationalen Reinhold-Tagung von Bad Homburg, März 1998), Amsterdam: Rodopi.
-* Breazeale, Daniel, 1982. “Between Kant and Fichte: Karl Leonhard Reinhold’s ‘Elementary Philosophy,’” _Review of Metaphysics_, 35: 785–821.
-* –––, 1998. “Putting Doubt in its Place: Karl Leonhard Reinhold on the Relationship between Philosophical Skepticism and Transcendental Idealism,” in _The Skeptical Tradition around 1800_, J. van der Zande and R. H. Popkin (eds.), Dordrecht: Kluwer, pp. 119–32.
-* –––, 2020. “_Wie der blinde von der Farbe._ Reinhold’s Misappropriation of the _Wissenschaftslehre_: A Narrative,” in _Reinhold and Fichte in Confrontation. A Tale of Mutual Appreciation and Criticism_, M. Bondeli and S. Imhof (eds.), Berlin/Boston: De Gruyter, pp. 7–48.
-* Cloeren, Hermann-Joseph, 1972. “Philosophie als Sprachkritik bei K. L. Reinhold. Interpretative Bemerkungen zu seiner Spätphilosophie,” _Kant-Studien_, 63: 225–36.
-* –––, 1988. _Language and Thought: German Approaches to Analytic Philosophy in the 18th and 19th Centuries_, Berlin/New York: De Gruyter. (On Reinhold, see Ch. 8, pp. 67–77.)
-* Fabbienelli, Faustino (ed.), 2003. _Die zeitgenössischen Rezensionen der Elementarphilosophie K. L. Reinhold_, Hildesheim: Olms.
-* –––, 2016. _Karl Leonhard Reinhold’s Transcendental Psychology_, Berlin: de Gruyter.
-* Ferraguto, Federico, 2020. “_Rhythmus_ and _Setzen_: Fichte’s Answer to Rational Realism,” in _Reinhold and Fichte in Confrontation. A Tale of Mutual Appreciation and Criticism_, M. Bondeli and S. Imhof (eds.), Berlin/Boston: De Gruyter, pp. 215–32.
-* Fichte, Johann Gottlieb, 1794. “Recenzion des _Aenesidemus_” (“Review of _Aenesidemus_”), trans. Daniel Breazeale, in _Fichte: Early Philosophical Writings_, Ithaca, NY: Cornell University Press, 1988, pp. 59–77.)
-* Frank, Manfred, 1997. “_Unendliche Annäherung_”: _Die Anfänge der philosophischen Frühromantik_, Frankfurt am Main: Suhrkamp. (On Reinhold, see Pt. II, pp. 112–662.)
-* Franks, Paul, 2000. “All or Nothing: Systematicity and Nihilism in Jacobi, Reinhold, and Maimon,” in _The Cambridge Companion to German Idealism_, Karl Ameriks (ed.), Cambridge: Cambridge University Press, pp. 95–116.
-* Frketich, Elise, 2016. “Reinhold’s _Elementarphilosophie_: A Scholastic or Critical Philosophical System?” _Kant Yearbook_, 8: 17–38.
-* Fuchs, Gerhard W., 1994. _Karl Leonhard Reinhold, Illuminat und Philosoph: eine Studie über den Zusammenhang seines Engagements als Freimaurer und Illuminat mit seinem Leben und philosophischen Wirken_, Frankfurt am Main: Peter Lang.
-* Fugate, Courtney, 2012. “On a Supposed Solution to the Reinhold/Sidgwick Problem in Kant’s _Metaphysics of Morals_,” _European Journal of Philosophy_, 23 (3): 349–73.
-* Gerten, Michael, 2006. “Sprache und System. Zu K.L. Reinholds viertem, sprachphilosophischem Systemwechsel,” in _K.L. Reinhold: Am Vorhof des Idealismus_, P. Valenza (ed.), Pisa/Rome: Instituti Editoriali e Poligrafici Internazionali, pp. 167–91.
-* Guyer, Paul. “The Struggle for Freedom: Freedom of Will in Kant and Reinhold,” in _Kant on Persons and Agency_, E. Watkins (ed.), New York: Cambridge University Press, pp. 120–37.
-* di Giovanni, George, 2003. “1799: The Year of Reinhold’s Conversion to Jacobi,” in _Die Philosophie Karl Leonhard Reinholds_, M. Bondeli and W.H. Schrader (eds.), Amsterdam: Rodopi, pp. 259–282.
-* –––, 2006. “Reinhold’s Criticism of Fichte and Schelling: The Commonality at a Distance between Reinhold’s Late Thought and Hegel’s Logic,” in _K.L. Reinhold: Am Vorhof des Idealismus_, P. Valenza (ed.), Pisa/Rome: Instituti Editoriali e Poligrafici Internazionali, pp. 271–84.
-* ––– (ed.), 2010. _Karl Leonhard Reinhold and the Englightenment_, Dordrecht: Springer.
-* Hegel, G.W.F., 1801. _Differenz des Fichte’schen und Schelling’schen Systems der Philosophie_. (_The Difference Between Fichte’s und Schelling’s System of Philosophy_, ed. and H. S. Harris and Walter Cerf (trans.), Albany: SUNY Press, 1977.)
-* Henrich, Dieter, 1991. _Konstellationen. Probleme und Debatten am Ursprung der idealistischen Philosophie_, Stuttgart: Cotta.
-* Horstmann, Rolf-Peter, 1972. “Maimon’s Criticism of Reinhold’s _Satz des Bewusstseins_,” in _Proceedings of the Third International Kant Congress_, Dordrecht: Reidel, pp. 350–8.
-* Imhof, Silvan, 2015. “Karl Leonhard Reinholds Kritik der philosophischen Sprache,” in _Philosophie der Sprache im Vormärz_, S. Markewitz (ed.), Bielefeld: Aisthesis, pp. 47–73.
-* Kersting, Wolfgang and Dirk Westerkamp (eds.), 2008. _Am Rande des Idealismus: Studien zur Philosophie Karl Leonhard Reinhold_, Paderborn: Mentis.
-* Kim, Yun Ku, 1996. _Religion, Moral und Aufklärung: Reinholds philosophischer Werdegang_, Frankfurt: Peter Lang.
-* Klemmt, Alfred, 1958. _Karl Leonhard Reinholds Elementarphilosophie. Eine Studie über den Ursprung des spekulativen deutschen Idealismus_, Hamburg: Meiner.
-* Kosch, Michelle, 2006. _Freedom and Reason in Kant, Schelling, and Kierkegaard_, New York: Oxford University Press. (On Reinhold, see Ch. 2, pp. 55–65.)
-* Lauth, Reinhold (ed.), 1974. _Philosophie aus einem Prinzip. Karl Leonhard Reinhold_, Bonn: Bouvier. (A collection of essays by seven different scholars.)
-* Lazzari, Alessandro, 2004. _“Das Eine, was der Menscheit Noth ist” Einheit und Freiheit in der Philosophie Karl Leonhard Reinholds (1789–1792)_, Stuttgart-Bad Cannstatt: Fommann-Holzboog.
-* Leopoldsberger, Jürgen, 1968/69. “Anfang und Methode als die Grundprobleme der systematischen Philosophie. Reinhold, Fichte, Hegel,” _Salzburger Jahrbuch für Philosophie_, 12/13: 7–48.
-* Lukjanow, Arkadij V., 2003. “Die Beziehung zwischen Geist und System bei Fichte und Reinhold,” _Fichte-Studien_, 21: 111–16.
-* Marx, Karianne J., 2011. _The Usefulness of the Kantian Philosophy: How Karl Leonhard Reinhold’s Commitment to Englightenment Influenced his Reception of Kant_, Berlin: de Gruyter.
-* Perconti, Pietro, 1999. _Kantian Linguistics. Theories of Mental Representation and the Linguistic Transformation of Kantism_. Münster: Nodus. (For Reinhold, see Chs. 2 and 5.)
-* Pinkard, Terry, 2002. _German Philosophy 1760–1869; The Legacy of Idealism_, Cambridge: Cambridge University Press. (For Reinhold, see Ch. 4, pp. 96–104.)
-* Pupi, Angelo, 1966. _La formazione della filosofia di K. L. Reinhold 1784–1794_, Milan: Society Editrice Vita e Pensioro.
-* Reinhold, Ernst (ed.), 1825. _Karl Leonhard Reinhold’s Leben und litterarisches Wirken, nebst einer auswahl von Briefen Kant’s, Fichte’s, Jacobi’s und andrer philosophierender Zeitgenossen a ihn_, Jena: Frommann.
-* Röttgers, Kurt, 1974. “Die Kritik der reinen Vernunft und K. L. Reinhold. Fallstudie zur Theoriepragmatik in Schulbildungsprozessen,” in _Akten des 4. Internationalen Kant-Kongresses_, Vol. II, Part 2, Berlin: de Gruyter, pp. 789–804.
-* Schrader, Wolfgang H., 1979. “Philosophie als System — Reinhold und Fichte,” in _Erneuerung der Transzendentalphilosophie im Anschluß an Kant und Fichte_, Klaus Hammacher and Albert Mues (eds.), Stuttgart-Bad Cannstaatt, pp. 331–42.
-* –––, 1990. “‘Wir denken über keinen einzigen Begriff gleich.’ Die Auseinandersetzung zwischen Reinhold und Maimon,” in _Zur Architektonik der Vernunft_, Lothar Berthold (ed.), Berlin: Akademie Verlag, pp. 525–52.
-* –––, 1993. “C. L. Reinholds ‘Systemwechsel’ von der Wissenschaftslehre zum rationalen Realismus Bardilis in der Auseinandersetzung mit J. G. Fichte,” in _Transzendentalphilosophie und Spekulation_, (Band 2: _Der Streit um die Gestalt einer Ersten Philosophie (1797–1807)_), Walter Jaeschke (ed.), Hamburg: Meiner, pp. 85–104.
-* Schönborn, Alexander von, 1991. _Karl Leonard Reinhold. Eine annotierte Bibliographie_, Stuttgart-Bad Cannstatt: Frommann-Holzboog.
-* –––, 1997. “Fichte und Reinhold über die Begrenzung der Philosophie,” _Fichte-Studien_, 9: 241–55.
-* –––, 1999. “Karl Leonhard Reinhold: ‘... Endeavoring to keep up the pace _mit unserem Zeitalter_.’” In _The Emergence of German Idealism_, Michael Baur and Daniel O. Dahlstrom (eds.), Washington, D.C.: Catholic University of America Press, pp. 33–62.
-* Selling, Magnus, 1938. _Studien zur Geschichte der Transcendentalphilosophie. I. Karl Leonhard Reinholds Elementarphilosophie in ihrem philosophiegeschichtlichen Zusammenhang_, Lund: Olsen, 1938.
-* Stamm, Marcello, 1995. “Das Program des methodologischen Monismus; Subjekttheoretische und methologische Aspekte der Elementarphilosophie K. L. Reinholds,” _Neue Hefte für Philosophie_, 35: 18–31.
-* Stolz, Violetta, Marion Heinz, and Martin Bondeli (eds.), 2012. _Wille, Willkür, Freiheit: Reinhold’s Freiheitskonzeption im Kontext der Philosophie des 18. Jahrhunderts_, Berlin/Boston: de Gruter.
-* Stolzenberg, Jürgen, 2003. “‘Geschichte des Selbstbewußtseins.’ Reinhold–Fichte–Schelling,” _Internationales Jahrbuch des Deutschen Idealismus/International Yearbook of German Idealism_ (_Konzepte der Rationalität/Concepts of Rationality_), Karl Ameriks and Jürgen Stolzenberg (eds.) Berlin: de Gruyter, pp. 93–113.
-* Teichner, Wilhelm, 1976. _Rekonstruktion oder Reproduktion des Grundes. Die Begründung der Philosophie als Wissenschaft durch Kant und Reinhold_ , Bonn: Bouvier.
-* Valenza, Pierluigi, 1994. _Reinhold e Hegel_, Padua: Cedam.
-* –––, 2003. “Das Verhältnis zwischen Denken und Sprache in der Spätphilosophie Reinholds,” in _Die Philosophie Karl Leonhard Reinholds_, M. Bondeli and W.H. Schrader (eds.), Amsterdam: Rodopi, pp. 283–301.
-* –––, 2004. “Reinholds Abschied vom logischen Realismus,” in _Philosophie ohne Beinamen. System, Freiheit und Geschichte im Denken C.L. Reinholds_, M. Bondeli and A. Lazzari (eds.), Basel: Schwabe-Verlag, pp. 215–35.
-* Walsh, John, 2020. “The Fact of Freedom: Reinhold’s Theory of Freedom Reconsidered,” in _The Concept of Will in Classical German Philosophy: Between Ethics_, _Politics_, _and Metaphysics_, M. Kisner and J. Noller (eds.), Berlin/Boston: De Gruyter, pp. 89–104.
-* Zynda, M. von, 1910. _Kant – Reinhold – Fichte. Studien zur Geschichte der Transzendentalphilosophie_, _Kantstudien-Ergänzungshefte_, Berlin; reprinted Ruggell/Liechtenstein: Topos, 1980.
+* Adam, Herbert, 1930. *Carl Leonhard Reinholds philosophischer Systemwechsel.* Heidelberg: Carl Winter.
+* Ahlers, Rolf, 2003. “Fichte, Jacobi und Reinhold über Speculation und Leben,” *Fichte-Studien*, 21: 1–25.
+* –––, 2006. “Differenz, Identität und Indifferenz im Gespräch des Deutschen Idealismus um 1802, besonders bei Reinhold und Schelling,” in *K.L. Reinhold: Am Vorhof des Idealismus*, P. Valenza (ed.), Pisa/Rome: Instituti Editoriali e Poligrafici Internazionali, pp. 285–312.
+* –––, 2012. “Reinhold on Being, Appearance, and *Ursein* and Some Consequences,” in *Wille, Willkür, Freiheit: Reinhold’s Freiheitskonzeption im Kontext der Philosophie des 18. Jahrhunderts*, S. Stolz, M. Heinz, M. Bondeli (eds.), Berlin/Boston: De Gruyter, pp. 471–512.
+* Ameriks, Karl, 2000. *Kant and the Fate of Autonomy: Problems in the Appropriation of the Critical Philosophy*, New York: Cambridge University Press. (On Reinhold, see Pt. II, pp. 81–159.)
+* Beiser, Frederick C., 1987. *The Fate of Reason: German Philosophy from Kant to Fichte*, Cambridge: Harvard University Press. (On Reinhold, see Ch. 8, pp. 226–65.)
+* Bernecker, Sven, 2018. “Reinholds linguistischer Schematismus,” in *Natur und Freiheit: Akten des XII. Internationalen Kant-Kongresses*, V. Waibel et al. (eds.), Berlin/Boston: De Gruyter, pp. 3369–3377.
+* Bondeli, Martin, 1994. “Geschmack und Vergnügen in Reinholds Aufklärungskonzept und philosophischem Programm während der Phase der Elementarphilosophie,” in *Evolution des Geistes: Jena um 1800*, F. Strack (ed.), Stuttgart: Klett-Cotta, pp. 328–49.
+* –––, 1995a. *Das Anfangsproblem bei Karl Leonhard Reinhold. Eine systematische und entwicklungsgeschichtliche Untersuchung zur Philosophie Reinholds in der Zeit von 1789 bis 1803*, Frankfurt: Klostermann.
+* –––, 1995b. “Hegel und Reinhold,” *Hegel-Studien*, 30: 45–87.
+* –––, 1997a. “Hegels Identitätsphilosophie in Auseinandersetzung mit Reinholds Rationalem Realismus,” in *Hegels Jenaer Naturphilosophie*, K. Vieweg (ed.), Paderborn/München: W. Fink, pp. 163–74.
+* –––, 1997b. “Zu Fichtes Kritik an Reinholds ‘empirischem’ Satz des Bewußtseins,” *Fichte-Studien*, 9: 199–213.
+* –––, 1997c. “Reinhold im Lichte Kants und Hegels. Zu G.W. Fuchs: *C.L. Reinhold – Illuminat und Philosoph*; P. Valenza: *Reinhold e Hegel*,” *Hegel-Studien*, 31: 159–66.
+* –––, 1998a. “Hegel und Reinholds Rationaler Rationalismus,” in *Hegels Jenaer Naturphilosophie*, Munich: Fink Verlag.
+* –––, 1998b. “Von Herder zu Kant, zwischen Kant und Herder, mit Herder gegen Kant – Karl Leonhard Reinhold,” in *Herder und die Philosophie des deutschen Idealismus*, M. Heinz (ed.), Amsterdam, Atlanta: Rodopi, pp. 203–34.
+* –––, 2001. “Freiheit im Anschluss an Kant. Zur Kant-Reinhold-Kontroverse und ihren Folgen,” in *Akten des IX Internationalen Kant-Kongresses*, V. Gerhardt, R.-P. Horstmann, and R. Schumacher (eds.), Berlin: de Gruyter.
+* –––, 2020. “Reinhold’s Transition to Fichte,” in *Reinhold and Fichte in Confrontation. A Tale of Mutual Appreciation and Criticism*, M. Bondeli and S. Imhof (eds.), Berlin/Boston: De Gruyter, pp. 123–49.
+* Bondeli, Martin and Silvan Imhof, 2020. *Reinhold and Fichte in Confrontation. A Tale of Mutual Appreciation and Criticism*. Berlin/Boston: De Gruyter.
+* Bondeli, Martin and Alessandro Lazzari (eds.), 2003. *Philosophie ohne Beinamen. System, Freiheit und Geschichte im Denken C.L. Reinholds*, Basel: Schwabe-Verlag, 2003. (Proceedings of the second international Reinhold conference, held in Lucerne in 2002.)
+* Bondeli, Martin and W. H. Schrader (eds.), 2003. *Die Philosophie Karl Leonhard Reinholds*. (Beiträge der Internationalen Reinhold-Tagung von Bad Homburg, März 1998), Amsterdam: Rodopi.
+* Breazeale, Daniel, 1982. “Between Kant and Fichte: Karl Leonhard Reinhold’s ‘Elementary Philosophy,’” *Review of Metaphysics*, 35: 785–821.
+* –––, 1998. “Putting Doubt in its Place: Karl Leonhard Reinhold on the Relationship between Philosophical Skepticism and Transcendental Idealism,” in *The Skeptical Tradition around 1800*, J. van der Zande and R. H. Popkin (eds.), Dordrecht: Kluwer, pp. 119–32.
+* –––, 2020. “*Wie der blinde von der Farbe.* Reinhold’s Misappropriation of the *Wissenschaftslehre*: A Narrative,” in *Reinhold and Fichte in Confrontation. A Tale of Mutual Appreciation and Criticism*, M. Bondeli and S. Imhof (eds.), Berlin/Boston: De Gruyter, pp. 7–48.
+* Cloeren, Hermann-Joseph, 1972. “Philosophie als Sprachkritik bei K. L. Reinhold. Interpretative Bemerkungen zu seiner Spätphilosophie,” *Kant-Studien*, 63: 225–36.
+* –––, 1988. *Language and Thought: German Approaches to Analytic Philosophy in the 18th and 19th Centuries*, Berlin/New York: De Gruyter. (On Reinhold, see Ch. 8, pp. 67–77.)
+* Fabbienelli, Faustino (ed.), 2003. *Die zeitgenössischen Rezensionen der Elementarphilosophie K. L. Reinhold*, Hildesheim: Olms.
+* –––, 2016. *Karl Leonhard Reinhold’s Transcendental Psychology*, Berlin: de Gruyter.
+* Ferraguto, Federico, 2020. “*Rhythmus* and *Setzen*: Fichte’s Answer to Rational Realism,” in *Reinhold and Fichte in Confrontation. A Tale of Mutual Appreciation and Criticism*, M. Bondeli and S. Imhof (eds.), Berlin/Boston: De Gruyter, pp. 215–32.
+* Fichte, Johann Gottlieb, 1794. “Recenzion des *Aenesidemus*” (“Review of *Aenesidemus*”), trans. Daniel Breazeale, in *Fichte: Early Philosophical Writings*, Ithaca, NY: Cornell University Press, 1988, pp. 59–77.)
+* Frank, Manfred, 1997. “*Unendliche Annäherung*”: *Die Anfänge der philosophischen Frühromantik*, Frankfurt am Main: Suhrkamp. (On Reinhold, see Pt. II, pp. 112–662.)
+* Franks, Paul, 2000. “All or Nothing: Systematicity and Nihilism in Jacobi, Reinhold, and Maimon,” in *The Cambridge Companion to German Idealism*, Karl Ameriks (ed.), Cambridge: Cambridge University Press, pp. 95–116.
+* Frketich, Elise, 2016. “Reinhold’s *Elementarphilosophie*: A Scholastic or Critical Philosophical System?” *Kant Yearbook*, 8: 17–38.
+* Fuchs, Gerhard W., 1994. *Karl Leonhard Reinhold, Illuminat und Philosoph: eine Studie über den Zusammenhang seines Engagements als Freimaurer und Illuminat mit seinem Leben und philosophischen Wirken*, Frankfurt am Main: Peter Lang.
+* Fugate, Courtney, 2012. “On a Supposed Solution to the Reinhold/Sidgwick Problem in Kant’s *Metaphysics of Morals*,” *European Journal of Philosophy*, 23 (3): 349–73.
+* Gerten, Michael, 2006. “Sprache und System. Zu K.L. Reinholds viertem, sprachphilosophischem Systemwechsel,” in *K.L. Reinhold: Am Vorhof des Idealismus*, P. Valenza (ed.), Pisa/Rome: Instituti Editoriali e Poligrafici Internazionali, pp. 167–91.
+* Guyer, Paul. “The Struggle for Freedom: Freedom of Will in Kant and Reinhold,” in *Kant on Persons and Agency*, E. Watkins (ed.), New York: Cambridge University Press, pp. 120–37.
+* di Giovanni, George, 2003. “1799: The Year of Reinhold’s Conversion to Jacobi,” in *Die Philosophie Karl Leonhard Reinholds*, M. Bondeli and W.H. Schrader (eds.), Amsterdam: Rodopi, pp. 259–282.
+* –––, 2006. “Reinhold’s Criticism of Fichte and Schelling: The Commonality at a Distance between Reinhold’s Late Thought and Hegel’s Logic,” in *K.L. Reinhold: Am Vorhof des Idealismus*, P. Valenza (ed.), Pisa/Rome: Instituti Editoriali e Poligrafici Internazionali, pp. 271–84.
+* ––– (ed.), 2010. *Karl Leonhard Reinhold and the Englightenment*, Dordrecht: Springer.
+* Hegel, G.W.F., 1801. *Differenz des Fichte’schen und Schelling’schen Systems der Philosophie*. (*The Difference Between Fichte’s und Schelling’s System of Philosophy*, ed. and H. S. Harris and Walter Cerf (trans.), Albany: SUNY Press, 1977.)
+* Henrich, Dieter, 1991. *Konstellationen. Probleme und Debatten am Ursprung der idealistischen Philosophie*, Stuttgart: Cotta.
+* Horstmann, Rolf-Peter, 1972. “Maimon’s Criticism of Reinhold’s *Satz des Bewusstseins*,” in *Proceedings of the Third International Kant Congress*, Dordrecht: Reidel, pp. 350–8.
+* Imhof, Silvan, 2015. “Karl Leonhard Reinholds Kritik der philosophischen Sprache,” in *Philosophie der Sprache im Vormärz*, S. Markewitz (ed.), Bielefeld: Aisthesis, pp. 47–73.
+* Kersting, Wolfgang and Dirk Westerkamp (eds.), 2008. *Am Rande des Idealismus: Studien zur Philosophie Karl Leonhard Reinhold*, Paderborn: Mentis.
+* Kim, Yun Ku, 1996. *Religion, Moral und Aufklärung: Reinholds philosophischer Werdegang*, Frankfurt: Peter Lang.
+* Klemmt, Alfred, 1958. *Karl Leonhard Reinholds Elementarphilosophie. Eine Studie über den Ursprung des spekulativen deutschen Idealismus*, Hamburg: Meiner.
+* Kosch, Michelle, 2006. *Freedom and Reason in Kant, Schelling, and Kierkegaard*, New York: Oxford University Press. (On Reinhold, see Ch. 2, pp. 55–65.)
+* Lauth, Reinhold (ed.), 1974. *Philosophie aus einem Prinzip. Karl Leonhard Reinhold*, Bonn: Bouvier. (A collection of essays by seven different scholars.)
+* Lazzari, Alessandro, 2004. *“Das Eine, was der Menscheit Noth ist” Einheit und Freiheit in der Philosophie Karl Leonhard Reinholds (1789–1792)*, Stuttgart-Bad Cannstatt: Fommann-Holzboog.
+* Leopoldsberger, Jürgen, 1968/69. “Anfang und Methode als die Grundprobleme der systematischen Philosophie. Reinhold, Fichte, Hegel,” *Salzburger Jahrbuch für Philosophie*, 12/13: 7–48.
+* Lukjanow, Arkadij V., 2003. “Die Beziehung zwischen Geist und System bei Fichte und Reinhold,” *Fichte-Studien*, 21: 111–16.
+* Marx, Karianne J., 2011. *The Usefulness of the Kantian Philosophy: How Karl Leonhard Reinhold’s Commitment to Englightenment Influenced his Reception of Kant*, Berlin: de Gruyter.
+* Perconti, Pietro, 1999. *Kantian Linguistics. Theories of Mental Representation and the Linguistic Transformation of Kantism*. Münster: Nodus. (For Reinhold, see Chs. 2 and 5.)
+* Pinkard, Terry, 2002. *German Philosophy 1760–1869; The Legacy of Idealism*, Cambridge: Cambridge University Press. (For Reinhold, see Ch. 4, pp. 96–104.)
+* Pupi, Angelo, 1966. *La formazione della filosofia di K. L. Reinhold 1784–1794*, Milan: Society Editrice Vita e Pensioro.
+* Reinhold, Ernst (ed.), 1825. *Karl Leonhard Reinhold’s Leben und litterarisches Wirken, nebst einer auswahl von Briefen Kant’s, Fichte’s, Jacobi’s und andrer philosophierender Zeitgenossen a ihn*, Jena: Frommann.
+* Röttgers, Kurt, 1974. “Die Kritik der reinen Vernunft und K. L. Reinhold. Fallstudie zur Theoriepragmatik in Schulbildungsprozessen,” in *Akten des 4. Internationalen Kant-Kongresses*, Vol. II, Part 2, Berlin: de Gruyter, pp. 789–804.
+* Schrader, Wolfgang H., 1979. “Philosophie als System — Reinhold und Fichte,” in *Erneuerung der Transzendentalphilosophie im Anschluß an Kant und Fichte*, Klaus Hammacher and Albert Mues (eds.), Stuttgart-Bad Cannstaatt, pp. 331–42.
+* –––, 1990. “‘Wir denken über keinen einzigen Begriff gleich.’ Die Auseinandersetzung zwischen Reinhold und Maimon,” in *Zur Architektonik der Vernunft*, Lothar Berthold (ed.), Berlin: Akademie Verlag, pp. 525–52.
+* –––, 1993. “C. L. Reinholds ‘Systemwechsel’ von der Wissenschaftslehre zum rationalen Realismus Bardilis in der Auseinandersetzung mit J. G. Fichte,” in *Transzendentalphilosophie und Spekulation*, (Band 2: *Der Streit um die Gestalt einer Ersten Philosophie (1797–1807)*), Walter Jaeschke (ed.), Hamburg: Meiner, pp. 85–104.
+* Schönborn, Alexander von, 1991. *Karl Leonard Reinhold. Eine annotierte Bibliographie*, Stuttgart-Bad Cannstatt: Frommann-Holzboog.
+* –––, 1997. “Fichte und Reinhold über die Begrenzung der Philosophie,” *Fichte-Studien*, 9: 241–55.
+* –––, 1999. “Karl Leonhard Reinhold: ‘... Endeavoring to keep up the pace *mit unserem Zeitalter*.’” In *The Emergence of German Idealism*, Michael Baur and Daniel O. Dahlstrom (eds.), Washington, D.C.: Catholic University of America Press, pp. 33–62.
+* Selling, Magnus, 1938. *Studien zur Geschichte der Transcendentalphilosophie. I. Karl Leonhard Reinholds Elementarphilosophie in ihrem philosophiegeschichtlichen Zusammenhang*, Lund: Olsen, 1938.
+* Stamm, Marcello, 1995. “Das Program des methodologischen Monismus; Subjekttheoretische und methologische Aspekte der Elementarphilosophie K. L. Reinholds,” *Neue Hefte für Philosophie*, 35: 18–31.
+* Stolz, Violetta, Marion Heinz, and Martin Bondeli (eds.), 2012. *Wille, Willkür, Freiheit: Reinhold’s Freiheitskonzeption im Kontext der Philosophie des 18. Jahrhunderts*, Berlin/Boston: de Gruter.
+* Stolzenberg, Jürgen, 2003. “‘Geschichte des Selbstbewußtseins.’ Reinhold–Fichte–Schelling,” *Internationales Jahrbuch des Deutschen Idealismus/International Yearbook of German Idealism* (*Konzepte der Rationalität/Concepts of Rationality*), Karl Ameriks and Jürgen Stolzenberg (eds.) Berlin: de Gruyter, pp. 93–113.
+* Teichner, Wilhelm, 1976. *Rekonstruktion oder Reproduktion des Grundes. Die Begründung der Philosophie als Wissenschaft durch Kant und Reinhold* , Bonn: Bouvier.
+* Valenza, Pierluigi, 1994. *Reinhold e Hegel*, Padua: Cedam.
+* –––, 2003. “Das Verhältnis zwischen Denken und Sprache in der Spätphilosophie Reinholds,” in *Die Philosophie Karl Leonhard Reinholds*, M. Bondeli and W.H. Schrader (eds.), Amsterdam: Rodopi, pp. 283–301.
+* –––, 2004. “Reinholds Abschied vom logischen Realismus,” in *Philosophie ohne Beinamen. System, Freiheit und Geschichte im Denken C.L. Reinholds*, M. Bondeli and A. Lazzari (eds.), Basel: Schwabe-Verlag, pp. 215–35.
+* Walsh, John, 2020. “The Fact of Freedom: Reinhold’s Theory of Freedom Reconsidered,” in *The Concept of Will in Classical German Philosophy: Between Ethics*, *Politics*, *and Metaphysics*, M. Kisner and J. Noller (eds.), Berlin/Boston: De Gruyter, pp. 89–104.
+* Zynda, M. von, 1910. *Kant – Reinhold – Fichte. Studien zur Geschichte der Transzendentalphilosophie*, *Kantstudien-Ergänzungshefte*, Berlin; reprinted Ruggell/Liechtenstein: Topos, 1980.
 
 ### Journal
 
-* _K. L. Reinhold. Alle Soglie Dell’Idealismo_, Special (487 pp.) triple issue of _Archivio di Filosofia/Archives of Philosophy_, LXXIII (2005), Nos. 1–3. (Contains the proceedings of the third international Reinhold conference, held in Rome in 2004.)
+* *K. L. Reinhold. Alle Soglie Dell’Idealismo*, Special (487 pp.) triple issue of *Archivio di Filosofia/Archives of Philosophy*, LXXIII (2005), Nos. 1–3. (Contains the proceedings of the third international Reinhold conference, held in Rome in 2004.)
 
 ## Academic Tools
 
@@ -259,4 +259,4 @@ _首次发表于 2003 年 4 月 30 日；实质性修订于 2022 年 9 月 21 �
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Dan Breazeale](https://philosophy.as.uky.edu/users/breazeal)\
-[John Walsh](http://www.johnedwardwalsh.com/) <[_john.walsh@phil.uni-halle.de_](mailto:john%2ewalsh%40phil%2euni-halle%2ede)>
+[John Walsh](http://www.johnedwardwalsh.com/) <[*john.walsh@phil.uni-halle.de*](mailto:john%2ewalsh%40phil%2euni-halle%2ede)>

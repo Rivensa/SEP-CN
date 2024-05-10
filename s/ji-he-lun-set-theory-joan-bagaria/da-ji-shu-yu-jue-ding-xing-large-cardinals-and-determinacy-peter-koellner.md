@@ -1,6 +1,6 @@
 # 大基数与决定性 large cardinals and determinacy (Peter Koellner)
 
-_首次发表于 2013 年 5 月 22 日星期三_
+*首次发表于 2013 年 5 月 22 日星期三*
 
 20 世纪 60 年代集合论的发展导致了一个独立性时代，在这个时代中，许多中心问题被证明在标准数学系统 ZFC 的基础上是无法解决的。这适用于各个领域的命题，如分析学（“所有投射集是否可测度？”）、基数算术（“康托尔的连续统假设（CH）是否成立？”）、组合学（“苏斯林假设是否成立？”）和群论（“是否存在一个怀特海德群？”）。
 
@@ -46,7 +46,7 @@ _首次发表于 2013 年 5 月 22 日星期三_
 
 与垂直独立性相反，当一个句子ϕ独立于理论 T 时，会出现一种独立性，因为 T ≡ T + ϕ和 T ≡ T + ¬ϕ。
 
-> _T_ ≡ _T_ + ϕ and _T_ ≡ _T_ + ¬ϕ.
+> *T* ≡ *T* + ϕ and *T* ≡ *T* + ¬ϕ.
 
 这样一个句子ϕ在 T 的情况下被称为 Orey 句子。我们将这种独立性称为水平独立性。使用元数学技术，可以构造这样的句子。但是，与垂直独立性的情况一样，也存在自然的非元数学示例，例如 PU（投射集具有统一化属性的陈述，我们将在下面讨论）是一个关于 ZFC 的（原理）二阶算术陈述，是一个关于 ZFC 的 Orey 句子，而 CH 是一个关于 ZFC 的（原理）三阶算术陈述，是一个关于 ZFC 的 Orey 句子。
 
@@ -268,9 +268,9 @@ Lebesgue 可测性的属性在分析中是熟悉的，在这里我们将更加�
 
 对于一个实数集合 A ⊆ ωω，考虑两个玩家轮流玩自然数的游戏：
 
-| I  | _x_(0) |        | _x_(2) |        | _x_(4) |   | … |
+| I  | *x*(0) |        | *x*(2) |        | *x*(4) |   | … |
 | -- | ------ | ------ | ------ | ------ | ------ | - | - |
-| II |        | _x_(1) |        | _x_(3) |        | … |   |
+| II |        | *x*(1) |        | *x*(3) |        | … |   |
 
 在这个游戏的一轮结束时，两位玩家将通过“交错”他们的行动产生一个真实的 x。如果 x ∈ A，则我们说玩家 I 赢得这一轮；否则，玩家 II 赢得这一轮。如果其中一位玩家在相关游戏中拥有“获胜策略”，即无论对方如何行动，该玩家都能确保赢得一轮，那么集合 A 被称为确定的。决定性公理（AD）是每个实数集都是确定的陈述。这个公理由 Mycielski 和 Steinhaus 于 1962 年引入。
 
@@ -346,7 +346,7 @@ Lebesgue 可测性的属性在分析中是熟悉的，在这里我们将更加�
 
 1. 对于每个 i ≤ n，
 
-> _j\*\*i_ : _V_λ+1 → _V_λ+1
+> *j\*\*i* : _V_λ+1 → _V_λ+1
 
 是一个非平凡的初等嵌入和
 
@@ -356,7 +356,7 @@ Lebesgue 可测性的属性在分析中是熟悉的，在这里我们将更加�
 
 定理 3.9（Woodin 1979）。
 
-假设 ZF。对于每个 n < ω，如果存在一个 n _-fold 强秩到秩嵌入序列，则Π̰1n+2_-决定性成立。
+假设 ZF。对于每个 n < ω，如果存在一个 n *-fold 强秩到秩嵌入序列，则Π̰1n+2*-决定性成立。
 
 因此，从假设对于每个 n，存在一个 n-fold 强秩到秩嵌入序列，可以得出 PD。
 
@@ -450,35 +450,35 @@ Lebesgue 可测性的属性在分析中是熟悉的，在这里我们将更加�
 
 定理 4.4（伍丁）。
 
-_以下是等价的：_
+*以下是等价的：*
 
 1. Δ̰12\*-决定性。
 2. 对于所有 x ∈ ωω，存在一个内模型 M，使得 x ∈ M 且 M ⊧ “存在一个 Woodin 基数”。
 
 定理 4.5（伍丁）。
 
-_以下是等价的：_
+*以下是等价的：*
 
 1. PD（示意）。
 2. 对于每个 n < ω，存在一个精细结构的、可数迭代的内模型 M，使得 M ⊧ “存在 n 个 Woodin 基数”。
 
 定理 4.6（Woodin）。
 
-_以下命题等价：_
+*以下命题等价：*
 
 1. AD_L_(ℝ).
 2. 在 L(ℝ) 中，对于每个序数集合 S，存在一个内模型 M 和一个 α < ωL(ℝ)1，使得 S ∈ M 且 M ⊧ “α 是一个 Woodin 基数”。
 
 定理 4.7 (Woodin)。
 
-_以下是等价的：_
+*以下是等价的：*
 
 1. 存在 ADL(ℝ) 和 ℝ♯。
 2. 存在 M♯ω 并且可数可迭代。
 
 定理 4.8（伍丁）。
 
-_以下是等价的：_
+*以下是等价的：*
 
 1. 对于所有的 B，V\*\*B ⊧ ADL(ℝ)。
 2. M♯ω存在且完全可迭代。
@@ -523,7 +523,7 @@ _以下是等价的：_
 
 定理 4.12.（伍丁）
 
-假设 ZFC + 存在一个 ω1 _-稠密理想在_ ω1 上。那么 ADL(ℝ)。
+假设 ZFC + 存在一个 ω1 *-稠密理想在* ω1 上。那么 ADL(ℝ)。
 
 定理 4.13. (Steel)
 
@@ -543,9 +543,9 @@ _以下是等价的：_
 
 定理 4.14.（伍丁）
 
-假设存在一类伍丁基数和 A ∈ Γ∞。假设 G ⊆ ℙ是 V _-泛型的。那么_
+假设存在一类伍丁基数和 A ∈ Γ∞。假设 G ⊆ ℙ是 V *-泛型的。那么*
 
-> (_H_(ω1),∈, _A_)_V_ ≺ (_H_(ω1)_V_\[_G_],∈, _A\*\*G_).
+> (*H*(ω1),∈, *A*)*V* ≺ (*H*(ω1)*V*\[*G*],∈, *A\*\*G*).
 
 也就是说，我们对于“在 A 中的投射性”具有普遍的绝对性，其中 A 是普遍的 Baire。事实上，我们有“Σ21(Γ∞)-普遍绝对性”：
 
@@ -553,9 +553,9 @@ _以下是等价的：_
 
 假设存在一个 Woodin 基数的类，并且让ϕ是一个形式为的句子
 
-> ∃_A_ ∈ Γ∞ (_H_(ω1), ∈, _A_) ⊧ ψ.
+> ∃*A* ∈ Γ∞ (*H*(ω1), ∈, *A*) ⊧ ψ.
 
-假设 G ⊆ℙ 是 V _-泛型的。那么_
+假设 G ⊆ℙ 是 V *-泛型的。那么*
 
 > V ⊧ ϕ 当且仅当 V\[G] ⊧ ϕ.
 
@@ -593,50 +593,50 @@ _以下是等价的：_
 
 ## Bibliography
 
-* Feferman, S., 1960, “Arithmetization of metamathematics in a general setting,” _Fundamenta Metamathecae_ 49: 35–92.
-* –––, 1964, “Systems of predicative analysis,” _Journal of Symbolic Logic_ 29: 1–39.
-* –––, 1991, “Reflecting on incompleteness,” _Journal of Symbolic Logic_ 56: 1–49.
-* –––, 1999, “Does mathematics need new axioms?” _American Mathematical Monthly_ 106: 99–111.
-* –––, 2005, “Predicativity,” in S. Shapiro (ed.), _The Oxford Handbook of Philosophy of Mathematics and Logic_, Oxford: Oxford University Press, pp. 590–624.
-* Ferreirós, J., 2007, _Labyrinth of Thought: A History of Set Theory and Its Role in Modern Mathematics_, second revised edn, Birkhäuser Verlag AG.
-* Foreman, M. and A. Kanamori, 2010, _Handbook of Set Theory_, Springer-Verlag.
-* Friedman, H. M., 2011, _Boolean Relation Theory_, Association of Symbolic Logic. Forthcoming.
+* Feferman, S., 1960, “Arithmetization of metamathematics in a general setting,” *Fundamenta Metamathecae* 49: 35–92.
+* –––, 1964, “Systems of predicative analysis,” *Journal of Symbolic Logic* 29: 1–39.
+* –––, 1991, “Reflecting on incompleteness,” *Journal of Symbolic Logic* 56: 1–49.
+* –––, 1999, “Does mathematics need new axioms?” *American Mathematical Monthly* 106: 99–111.
+* –––, 2005, “Predicativity,” in S. Shapiro (ed.), *The Oxford Handbook of Philosophy of Mathematics and Logic*, Oxford: Oxford University Press, pp. 590–624.
+* Ferreirós, J., 2007, *Labyrinth of Thought: A History of Set Theory and Its Role in Modern Mathematics*, second revised edn, Birkhäuser Verlag AG.
+* Foreman, M. and A. Kanamori, 2010, *Handbook of Set Theory*, Springer-Verlag.
+* Friedman, H. M., 2011, *Boolean Relation Theory*, Association of Symbolic Logic. Forthcoming.
 * Gödel, K., 1947, “What is Cantor's continuum problem?” reprinted in Gödel 1990, pp. 176–187.
 * –––, 1964, “What is Cantor's continuum problem?” reprinted in Gödel 1990, pp. 254–270.
-* –––, 1990, _Collected Works, Volume II: Publications 1938–1974_, Oxford University Press, New York and Oxford.
+* –––, 1990, *Collected Works, Volume II: Publications 1938–1974*, Oxford University Press, New York and Oxford.
 * Jackson, S., 2010, “Structural consequences of AD,” in Foreman and Kanamori 2010.
-* Kanamori, A., 1995, “The emergence of descriptive set theory,” in J. Hintikka (ed.), _From Dedekind to Gödel: Essays on the Development of the Foundations of Mathematics_, Vol. 251 of _Synthese Library_, Kluwer, Dordrecht, pp. 241–262.
-* –––, 2003, _The Higher Infinite: Large Cardinals in Set Theory from their Beginnings_, Springer Monographs in Mathematics, second edn, Springer, Berlin.
-* Kechris, A. S., 1995, _Classical Descriptive Set Theory_, Vol. 156 of _Graduate Texts in Mathematics_, Springer-Verlag, New York.
-* Koellner, P., 2006, “On the question of absolute undecidability,” _Philosophia Mathematica_ 14(2): 153–188. Revised and reprinted with a new postscript in _Kurt Gödel: Essays for his Centennial_, edited by Solomon Feferman, Charles Parsons, and Stephen G. Simpson. Lecture Notes in Logic, 33. Association of Symbolic Logic, 2009.
-* –––, 2009a, “On reflection principles,” _Annals of Pure and Applied Logic_ 157(2–3): 206–219. Kurt Gödel Centenary Research Prize Fellowships.
-* –––, 2009b, “Truth in mathematics: The question of pluralism,“ in O. Bueno and Ø. Linnebo (eds), _New Waves in Philosophy of Mathematics_, New Waves in Philosophy, Palgrave Macmillan, pp. 80–116.
+* Kanamori, A., 1995, “The emergence of descriptive set theory,” in J. Hintikka (ed.), *From Dedekind to Gödel: Essays on the Development of the Foundations of Mathematics*, Vol. 251 of *Synthese Library*, Kluwer, Dordrecht, pp. 241–262.
+* –––, 2003, *The Higher Infinite: Large Cardinals in Set Theory from their Beginnings*, Springer Monographs in Mathematics, second edn, Springer, Berlin.
+* Kechris, A. S., 1995, *Classical Descriptive Set Theory*, Vol. 156 of *Graduate Texts in Mathematics*, Springer-Verlag, New York.
+* Koellner, P., 2006, “On the question of absolute undecidability,” *Philosophia Mathematica* 14(2): 153–188. Revised and reprinted with a new postscript in *Kurt Gödel: Essays for his Centennial*, edited by Solomon Feferman, Charles Parsons, and Stephen G. Simpson. Lecture Notes in Logic, 33. Association of Symbolic Logic, 2009.
+* –––, 2009a, “On reflection principles,” *Annals of Pure and Applied Logic* 157(2–3): 206–219. Kurt Gödel Centenary Research Prize Fellowships.
+* –––, 2009b, “Truth in mathematics: The question of pluralism,“ in O. Bueno and Ø. Linnebo (eds), *New Waves in Philosophy of Mathematics*, New Waves in Philosophy, Palgrave Macmillan, pp. 80–116.
 * Koellner, P. and W. H. Woodin, 2010, “Large cardinals from determinacy,” in Foreman and Kanamori 2010.
-* Larson, P. B., 2004, _The Stationary Tower: Notes on a Course by W. Hugh Woodin_, Vol. 32 of _University Lecture Series_, American Mathematical Society.
-* Lindström, P., 2003, _Aspects of Incompleteness_, Vol. 10 of _Lecture Notes in Logic_, second edn, Association of Symbolic Logic.
-* Maddy, P., 1988a, “Believing the axioms I,” _Journal of Symbolic Logic_ 53: 481–511.
-* –––, 1988b, “Believing the axioms II,” _Journal of Symbolic Logic_ 53: 736–764.
-* –––, 2011, _Defending the Axioms_, Oxford: Oxford University Press.
-* Markov, A. A., 1962, “On constructive mathematics,” _Trudy Matematicheskogo Instituta Imeni V. A. Steklova_ 67(8–14). Translated in American Mathematical Society Translations: Series 2, 98, 1–9.
-* Martin, D., 1998, “Mathematical evidence,” in H. G. Dales and G. Oliveri (eds), _Truth in Mathematics_, Clarendon Press, pp. 215–231.
-* Martin, D. A. and J. R. Steel, 1989, “A proof of projective determinacy,” _Journal of the American Mathematical Society_ 2(1): 71–125.
-* Moschovakis, Y. N., 1980, _Descriptive Set Theory_, Studies in Logic and the Foundations of Mathematics, North-Holland Pub. Co.
-* Nelson, E., 1986, _Predicative Arithmetic_, number 32 in _Princeton Mathematical Notes_, Princeton University Press.
-* Parsons, C., 2000, “Reason and intuition,” _Synthese_ 125: 299–315.
-* –––, 2008, _Mathematical Thought and its Objects_, Cambridge University Press.
-* Shelah, S., 2003, “Logical dreams,” _Bulletin of the American Mathematical Society_ 40(2): 203–228.
-* Steel, J., 2000, “Mathematics needs new axioms,” _Bulletin of Symbolic Logic_ 6(4): 422–433.
-* Tait, W. W., 1981, “Finitism,” _Journal of Philosophy_ 78: 524–556. Reprinted in Tait 2005b.
-* –––, 2001, “Gödel's unpublished papers on foundations of mathematics,” _Philosophia Mathematica_ 9: 87–126.
+* Larson, P. B., 2004, *The Stationary Tower: Notes on a Course by W. Hugh Woodin*, Vol. 32 of *University Lecture Series*, American Mathematical Society.
+* Lindström, P., 2003, *Aspects of Incompleteness*, Vol. 10 of *Lecture Notes in Logic*, second edn, Association of Symbolic Logic.
+* Maddy, P., 1988a, “Believing the axioms I,” *Journal of Symbolic Logic* 53: 481–511.
+* –––, 1988b, “Believing the axioms II,” *Journal of Symbolic Logic* 53: 736–764.
+* –––, 2011, *Defending the Axioms*, Oxford: Oxford University Press.
+* Markov, A. A., 1962, “On constructive mathematics,” *Trudy Matematicheskogo Instituta Imeni V. A. Steklova* 67(8–14). Translated in American Mathematical Society Translations: Series 2, 98, 1–9.
+* Martin, D., 1998, “Mathematical evidence,” in H. G. Dales and G. Oliveri (eds), *Truth in Mathematics*, Clarendon Press, pp. 215–231.
+* Martin, D. A. and J. R. Steel, 1989, “A proof of projective determinacy,” *Journal of the American Mathematical Society* 2(1): 71–125.
+* Moschovakis, Y. N., 1980, *Descriptive Set Theory*, Studies in Logic and the Foundations of Mathematics, North-Holland Pub. Co.
+* Nelson, E., 1986, *Predicative Arithmetic*, number 32 in *Princeton Mathematical Notes*, Princeton University Press.
+* Parsons, C., 2000, “Reason and intuition,” *Synthese* 125: 299–315.
+* –––, 2008, *Mathematical Thought and its Objects*, Cambridge University Press.
+* Shelah, S., 2003, “Logical dreams,” *Bulletin of the American Mathematical Society* 40(2): 203–228.
+* Steel, J., 2000, “Mathematics needs new axioms,” *Bulletin of Symbolic Logic* 6(4): 422–433.
+* Tait, W. W., 1981, “Finitism,” *Journal of Philosophy* 78: 524–556. Reprinted in Tait 2005b.
+* –––, 2001, “Gödel's unpublished papers on foundations of mathematics,” *Philosophia Mathematica* 9: 87–126.
 * –––, 2005a, “Constructing cardinals from below,” in Tait 2005b, pp. 133–154.
-* –––, 2005b, _The Provenance of Pure Reason: Essays in the Philosophy of Mathematics and Its History_, Logic and Computation in Philosophy, Oxford University Press.
-* Visser, A., 1998, “An overview of interpretability logic,” _Advances in modal logic, Vol. 1 (Berlin, 1996)_, Vol. 87 of _CSLI Lecture Notes_, Stanford: CSLI Publications, pp. 307–359.
-* Woodin, W. H., 1999, _The Axiom of Determinacy, Forcing Axioms, and the Nonstationary Ideal_, Vol. 1 of _de Gruyter Series in Logic and its Applications_, de Gruyter, Berlin.
-* –––, 2001a, “The continuum hypothesis, part I,” _Notices of the American Mathematical Society_ 48(6): 567–576.
-* –––, 2001b, “The continuum hypothesis, part II,” _Notices of the American Mathematical Society_ 48(7): 681–690.
-* –––, 2005a, “The continuum hypothesis,” in R. Cori, A. Razborov, S. Todorĉević and C. Wood (eds), _Logic Colloquium 2000_, Vol. 19 of _Lecture Notes in Logic_, Association of Symbolic Logic, pp. 143–197.
-* –––, 2005b, “Set theory after Russell: the journey back to Eden,” in G. Link (ed.), _One Hundred Years Of Russell's Paradox: Mathematics, Logic, Philosophy_, Vol. 6 of _de Gruyter Series in Logic and Its Applications_, Walter De Gruyter Inc, pp. 29–47.
-* –––, 2011, “Suitable extender models I,” _Journal of Mathematical Logic_ 11(1–2): 101–339.
+* –––, 2005b, *The Provenance of Pure Reason: Essays in the Philosophy of Mathematics and Its History*, Logic and Computation in Philosophy, Oxford University Press.
+* Visser, A., 1998, “An overview of interpretability logic,” *Advances in modal logic, Vol. 1 (Berlin, 1996)*, Vol. 87 of *CSLI Lecture Notes*, Stanford: CSLI Publications, pp. 307–359.
+* Woodin, W. H., 1999, *The Axiom of Determinacy, Forcing Axioms, and the Nonstationary Ideal*, Vol. 1 of *de Gruyter Series in Logic and its Applications*, de Gruyter, Berlin.
+* –––, 2001a, “The continuum hypothesis, part I,” *Notices of the American Mathematical Society* 48(6): 567–576.
+* –––, 2001b, “The continuum hypothesis, part II,” *Notices of the American Mathematical Society* 48(7): 681–690.
+* –––, 2005a, “The continuum hypothesis,” in R. Cori, A. Razborov, S. Todorĉević and C. Wood (eds), *Logic Colloquium 2000*, Vol. 19 of *Lecture Notes in Logic*, Association of Symbolic Logic, pp. 143–197.
+* –––, 2005b, “Set theory after Russell: the journey back to Eden,” in G. Link (ed.), *One Hundred Years Of Russell's Paradox: Mathematics, Logic, Philosophy*, Vol. 6 of *de Gruyter Series in Logic and Its Applications*, Walter De Gruyter Inc, pp. 29–47.
+* –––, 2011, “Suitable extender models I,” *Journal of Mathematical Logic* 11(1–2): 101–339.
 
 ## Academic Tools
 
@@ -655,4 +655,4 @@ _以下是等价的：_
 [choice, axiom of](https://plato.stanford.edu/entries/axiom-choice/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [Gödel, Kurt: incompleteness theorems](https://plato.stanford.edu/entries/goedel-incompleteness/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: alternative axiomatic theories](https://plato.stanford.edu/entries/settheory-alternative/) | [set theory: continuum hypothesis](https://plato.stanford.edu/entries/continuum-hypothesis/) | [set theory: independence and large cardinals](https://plato.stanford.edu/entries/independence-large-cardinals/)
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
-Peter Koellner <[_koellner@fas.harvard.edu_](mailto:koellner%40fas%2eharvard%2eedu)>
+Peter Koellner <[*koellner@fas.harvard.edu*](mailto:koellner%40fas%2eharvard%2eedu)>

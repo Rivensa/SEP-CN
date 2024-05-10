@@ -193,7 +193,7 @@
 * *Introductiones dialecticae secundum magistrum G. Paganellum* (IGP), ed. Iwakuma 1993.
 * *Sententiae* (Sen), ed. Lottin 1958 vol V: 190-227; Lefevre 1898 (references above are to Lottin 1958)
 
-Several of William's commentaries have been identified, although in some cases the attribution is tentative. (Numbers P*, C*, H* and B*, are those assigned in the list of commentaries in Marenbon 1993 and 2000, and Green-Pedersen 1984.)
+Several of William's commentaries have been identified, although in some cases the attribution is tentative. (Numbers P*, C*, H*and B*, are those assigned in the list of commentaries in Marenbon 1993 and 2000, and Green-Pedersen 1984.)
 
 * Porphyry's *Isagoge*, P3, P14, P29
 * Aristotle's *Categories*, C8, C14

@@ -1,10 +1,10 @@
 # 汉斯·赖兴巴赫 Reichenbach, Hans (Clark Glymour and Frederick Eberhardt)
 
-_首次发表于 2008 年 8 月 24 日，实质性修订于 2021 年 3 月 23 日_
+*首次发表于 2008 年 8 月 24 日，实质性修订于 2021 年 3 月 23 日*
 
 ![Photo of Hans Reichenbach](https://plato.stanford.edu/entries/reichenbach/HR-042-05-01.jpg)
 
-_汉斯·赖兴巴赫收藏的照片，经匹兹堡大学许可复制。版权所有。_
+*汉斯·赖兴巴赫收藏的照片，经匹兹堡大学许可复制。版权所有。*
 
 汉斯·赖兴巴赫（1891 年-1953 年）被誉为“20 世纪最伟大的经验主义者”（Salmon, 1977a），他的作品是 20 世纪经验主义哲学的主要陈述之一。在（新）康德主义的先验主义与爱因斯坦的时空相对论之间的冲突激发了赖兴巴赫对科学启发哲学和坚定的经验主义认识论的发展。他精通当时的物理科学，并熟悉许多最杰出的从业者。对科学方法论的批判和辩护几乎构成了他所有哲学努力的核心，他在与鲁道夫·卡尔纳普共同创办和编辑的期刊《认识》中推广这些努力，并在柏林领导了一群哲学家、数学家和科学家。他对科学中客观性和现实主义的承诺以及他对科学结果信念的概率性证明，带来了哲学和技术上的困难，这些困难塑造了随后的哲学科学辩论的很大一部分。赖兴巴赫的贡献涵盖了广泛的形式哲学领域，特别是物理学哲学、逻辑学、归纳和概率的基础，他晚期的工作还包括语言学、哲学逻辑学和伦理学。他的一些见解的成果直到最近才完全产生了影响。例如，一些关于因果关系的最新解释运用了可以追溯到赖兴巴赫的《时间的方向》的思想。
 
@@ -62,12 +62,12 @@ _汉斯·赖兴巴赫收藏的照片，经匹兹堡大学许可复制。版权�
 
 《概率论》使用了类别术语——A、B、C——和个体变量——x、y、z——以及实数变量——p、q、u、r、w。不同的个体变量有时与不同的类别名称关联（不必要地），但赖兴巴赫的公式在没有迭代概率条件的情况下可以被解读为具有单个个体变量的全称量化。较早的概率蕴涵的 10 个公理方案（1925 年）被 4 个以赖兴巴赫简化形式表达的公理方案所取代（1949 年，第 53-65 页）。
 
-1. Univocality: (_p_ ≠ _q_) ⊃ \[(_A_ ⊇_pB_) . (_A_ ⊇_qB_) ≡ (\~_A_)]
+1. Univocality: (*p* ≠ *q*) ⊃ \[(*A* ⊇*pB*) . (*A* ⊇*qB*) ≡ (\~*A*)]
 2. Normalization:
-3. (_A_ ⊃ _B_) ⊃ ∃_p_\[(_A_ ⊇_pB_) . (_p_ = 1)]
-4. \~\~_A_ . (_A_ ⊇_pB_) ⊃ (_p_ ≥ 0)
-5. Addition: \[(_A_ ⊇_pB_) . (_A_ ⊇_qC_) . (_A_._B_ ⊃ \~_C_)] ⊃ ∃_r_\[(_A_ ⊇_r_ (_B_ ∨ _C_)) . (_r_ = _p_+_q_)]
-6. Multiplication: \[(_A_ ⊇_pB_) . (_A_._B_ ⊇_uC_)] ⊃ ∃_w_\[(_A_ ⊇_wB_._C_) . (_w_ = _p_∗_u_)]
+3. (*A* ⊃ *B*) ⊃ ∃*p*\[(*A* ⊇*pB*) . (*p* = 1)]
+4. \~\~*A* . (*A* ⊇*pB*) ⊃ (*p* ≥ 0)
+5. Addition: \[(*A* ⊇*pB*) . (*A* ⊇*qC*) . (*A*.*B* ⊃ \~*C*)] ⊃ ∃*r*\[(*A* ⊇*r* (*B* ∨ *C*)) . (*r* = *p*+*q*)]
+6. Multiplication: \[(*A* ⊇*pB*) . (*A*.*B* ⊇*uC*)] ⊃ ∃*w*\[(*A* ⊇*wB*.*C*) . (*w* = *p*∗*u*)]
 
 赖兴巴赫在公式 I 中的意图是说，存在时，概率具有唯一的值。公理 II 旨在确保对于非空集合的条件概率值在 0 和 1 之间（包括 0 和 1）。公理 III 是赖兴巴赫对互斥事件并集的概率等于它们概率之和的要求的版本。公理 IV 本质上是概率的链式法则：P(CB | A) = P(C | BA) P(B | A)。公理 I 隐含在科尔莫哥洛夫公理中（参见“概率解释”条目中的第 1 节“科尔莫哥洛夫的概率计算”），因为概率被认为是一个实值函数。公理 II 对应于科尔莫哥洛夫的第一和第二公理，即概率值在 0 和 1 之间（包括 0 和 1）。公理 III 相当于有限可加性，因为赖兴巴赫的逻辑不包含无限析取：它是科尔莫哥洛夫的第三公理的有限限制，后者假设对于可数的、甚至是无限的互不相交的集合，概率具有可加性。公理 IV（至少在链式法则的解释下）可以从科尔莫哥洛夫的前三个公理推导出来。赖兴巴赫将其作为额外的公理要求，因为他混合了逻辑和数学符号。如果没有额外的第四公理，赖兴巴赫无法在逻辑连词和数学乘法之间切换。
 
@@ -243,9 +243,9 @@ _汉斯·赖兴巴赫收藏的照片，经匹兹堡大学许可复制。版权�
 
 > 定义 1. 如果以下关系成立，事件 A2 在事件 A1 和 A3 之间具有因果关系：
 >
-> 1. 1 > _P_(_A_2, _A_3) > _P_(_A_1, _A_3) > _P_(_A_3) > 0
-> 2. 1 > _P_(_A_2, _A_1) > _P_(_A_3, _A_1) > _P_(_A_1) > 0
-> 3. _P_(_A_1. _A_2, _A_3) = _P_(A2, _A_3)
+> 1. 1 > *P*(_A_2, _A_3) > *P*(_A_1, _A_3) > *P*(_A_3) > 0
+> 2. 1 > *P*(_A_2, _A_1) > *P*(_A_3, _A_1) > *P*(_A_1) > 0
+> 3. *P*(_A_1. _A_2, _A_3) = *P*(A2, _A_3)
 >
 > (p. 190)
 
@@ -313,98 +313,98 @@ Reichenbach 对自由行动和自由意志的讨论是为了调和我们的判�
 
 ### Secondary Literature
 
-* Arntzenius, F., 1992, ‘The common cause principle’, _Proceedings of the Philosophy of Science Meeting_, 2: 227–237.
-* Birkhoff, G., and J. v. Neumann, 1936, ‘The Logic of Quantum Mechanics’, _The Annals of Mathematics_ (Second Series), 37(4) (Oct): 823–843.
-* Carnap, R., 1928, _Der Logische Aufbau der Welt_, Meiner, 1998.
-* –––, 1936, ‘Testability and Meaning’, _Philosophy of Science_, 3(4) (Oct): 419–471, and _Philosophy of Science_, 4(1) (Jan): 1–40.
-* –––, 1960, ‘The Aim of Inductive Logic’, in E. Nagel, P. Suppes and A. Tarski (eds.), _Logic, Methodology and Philosophy of Science_, Stanford: Stanford University Press, 1962.
-* Creary, L., 1969, _A Pragmatic Justification of Induction, A Critical examination_, Ph.D. thesis, Philosophy Department, Princeton University.
-* Dieks, D., 2009, ‘Reichenbach and the Conventionality of Distant Simultaneity in Perspective’, in F. Stadtler, et al. (eds.), _The Philosophy of Science from a European Perspective_, Vienna: Vienna Circle Institute.
-* –––, 2020, ‘Reichenbach, Weyl, Philosophy and Gauge’, in: S. De Bianchi and C. Kiefer (eds.), _One Hundred Years of Gauge Theory_ (Fundamental Theories of Physics: Volume 199), Cham: Springer.
-* Dowe, P., 2000, _Physical Causation_, Cambridge: Cambridge University Press.
-* Eberhardt, F., 2011, ‘Reliability via Synthetic A Priori – Reichenbach’s Doctoral Thesis on Probability’, _Synthese_, 181(1): 125–136.
-* Eberhardt, F. and C. Glymour, 2011, ‘Hans Reichenbach’s Probability Logic’, in D. M. Gabbay, J. Woods and S. Hartmann (eds.), _Handbook of the History of Logic_, Vol. 10, Amsterdam: Elsevier.
-* Eddington, A.S., 1921, ‘A Generalisation of Weyl’s Theory of the Electromagnetic and Gravitational Fields’, _Proceedings of the Royal Society of London_ (Series A), 99(697): 104–122.
-* Eddington, A.S., 1924, _The Mathematical Theory of Relativity_, Cambridge: Cambridge University Press.
-* Einstein, A., 1921, _Geometrie und Erfahrung_, Springer: Berlin.
-* van Fraassen, B., 1979, ‘Relative Frequencies’, in W. Salmon (ed.), _Hans Reichenbach: Logical Empiricist_, Dordrecht: D. Reidel.
-* Friedman, M., 2001, _Dynamics of Reason_, Stanford: CSLI Publications.
-* Galavotti, M., 2011, ‘On Hans Reichenbach’s Inductivism’, _Synthese_, 181(1): 95–111.
-* Giovanelli, M., 2016, ‘‘... But I Still Can’t Get Rid of a Sense of Artificiality’: The Reichenbach-Einstein debate on the geometrization of the electromagnetic field’, _Studies in History and Philosophy of Science_ (Part B: Studies in History and Philosophy of Modern Physics), 54, 35–51.
-* Glymour, C., 1970, ‘On Some Patterns of Reduction’, _Philosophy of Science_, 37(3): 340–353.
-* –––, 1980, _Theory and Evidence_, Princeton: Princeton University Press.
-* Goodman, N., 1949, ‘On Likeness of Meaning’, _Analysis_, 10(1): 1–7.
-* Hacking, I., 1965, _Logic of Statistical Inference_, London: Routledge.
-* –––, 1968, ‘One Problem about Induction’, in I. Lakatos (ed.), _The Problem of Inductive Logic_, Amsterdam: North-Holland, 44–59.
-* Harman G., and S. Kulkarni, 2007, _Reliable Reasoning_, Cambridge, MA: MIT Press.
-* Hempel, C.G., 1935, ‘On the logical positivists’ theory of truth’, _Analysis_, 2(4): 49–59.
-* –––, 1985, ‘Thoughts on the Limitations of Discovery by Computer’, in K. F. Schaffner (ed.), _Logic of Discovery and Diagnosis in Medicine_, Berkeley: University of California Press, 115–122.
-* Hoffman, D., 2007, ‘The Society for Empirical/Scientific Philosophy’, in A. Richardson and T. Uebel (eds.), _The Cambridge Companion to Logical Empiricism_, Cambridge University Press, 41–57.
-* Irzik, G., 2011, ‘Hans Reichenbach in Istanbul’, _Synthese_, 181(1): 157–180.
-* Jeffrey, R. 1983, _The Logic of Decision_, 2nd edition, Chicago: University of Chicago Press.
-* Kamlah, A., 2013, ‘Everybody has the right to do what he wants: Hans Reichenbach’s volitionism and its historical roots’, in Milkov and Peckhaus (eds.), _The Berlin Group and the Philosophy of Logical Empiricism_, Dordrecht: Springer, 151–175.
-* Kamp, H., 2013, ‘Deixis in discourse. Reichenbach on temporal reference’, in von Heusinger and ter Meulen (eds.), _Meaning and the Dynamics of Interpretation_ (Current Research in the Semantics/Pragmatics Interface: Volume 29), Leiden: Brill, 105–159.
-* Kiiveri, H., and T. Speed, 1982, ‘Structural analysis of multivariate data: A review’, in S. Leinhardt (ed.), _Sociological Methodology_, San Francisco: Jossey-Bass.
-* Kries, J.v., 1886, _Die Principien der Wahrscheinlichkeitsrechnung: eine logische Untersuchung_, 2nd edition, Tübingen: Mohr, 1927.
-* Kolmogorov, N.A., 1933, _Grundbegriffe der Wahrscheinlichkeit_, Berlin: Springer. English translation, _Foundations of the Theory of Probability_, New York: Chelsea, 1950.
-* Lewin, K., 1922, _Der Begriff der Genese in Physik, Biologie und Entwicklungsgeschichte_, Berlin: Springer.
-* Lewis, C.I., 1929, _Mind and the World Order_, New York: Dover Publications, 1991.
-* –––, 1946, _An Analysis of Knowledge and Valuation_, La Salle: Open Court.
-* –––, 1952, ‘The Given Element in Empirical Knowledge’, _The Philosophical Review_, 61(2): 168–172.
-* Lutz, L. and A.T. Tuboly (eds.), 2021, _Logical Empiricism and the Physical Sciences_, New York: Routledge.
-* Malatesta, M., 2016, ‘Tenses and Temporality in Reichenbach’s Thought’, in _The Concept of Time in Early Twentieth-Century Philosophy_, Cham: Springer, pp. 217–228.
-* Masson, J., 1986, _The Complete Letters of Sigmund Freund to Wilhelm Fleiss, 1887–1904_, Cambridge, MA: Harvard University Press.
-* McCumber, J., 2016, _The Philosophy Scare: The Politics of Reason in the Early Cold War_, Chicago: University of Chicago Press.
-* McMahon, W., 1976, _Hans Reichenbach’s Philosophy of Grammar_, The Hague: Mouton.
-* Milkov, N., 2013, ‘The Berlin Group and the Vienna Circle: Affinities and Divergences’, in Milkov and Peckhaus (eds.), _The Berlin Group and the Philosophy of Logical Empiricism_, Dordrecht: Springer, 3–32.
-* Milmed, B.K., 1961, _Kant & Current Philosophical Issues_, New York University Press.
-* Mises, R.v., 1919, ‘Grundlagen der Wahrscheinlichkeitsrechnung’, _Mathematische Zeitschrift_, 5: 52–99.
-* Nagel, E., 1936, ‘Critical Notices’, _Mind_, 45(180): 501–514.
-* –––, 1938, ‘Principles of the theory of probability’, in R. Carnap, C. Morris, and O. Neurath (eds.), _Foundations of the Unity of Science_, Chicago: University of Chicago Press.
-* Neumann, J.v., 1932, _Mathematical Foundations of Quantum Mechanics_, R.T. Beyer (transl.), Princeton: Princeton University Press, 1996.
-* Padovani, F., 2008, _Probability and Causality in the Early Works of Hans Reichenbach_, Ph.D. thesis, University of Geneva.
-* –––, 2011, ‘The Concept of Probability in the Mathematical Representation of Reality’, _HOPOS: The Journal of the International Society for the History of Philosophy of Science_, 1(2): 344–347.
-* –––, 2011, ‘Relativizing the Relativized A Priori: Reichenbach’s axioms of coordination divided’, _Synthese_, 181(1): 41–62.
-* –––, 2013, ‘Genidentity and Topology of Time: Kurt Lewin and Hans Reichenbach’, in Milkov and Peckhaus (eds.), _The Berlin Group and the Philosophy of Logical Empiricism_, Dordrecht: Springer, 97–122. (See also Padovani, 2008, Ch. 5.)
-* –––, 2015, ‘Reichenbach on Causality in 1923: Scientific inference, coordination, and confirmation’, _Studies in History and Philosophy of Science_ (Part A), 53: 3–11.
-* –––, 2017, ‘Coordination and Measurement: What we get wrong about what Reichenbach got right’, in M. Massimi, J.-W. Romeijn, and G. Schurz (eds.), _EPSA15 Selected Papers_ (The 5th conference of the European Philosophy of Science Association in Düsseldorf), Cham: Springer, pp. 49–60.
-* Peijnenburg, J, and D. Atkinson, 2011, ‘Grounds and Limits: Reichenbach and Foundationalist Epistemology’, _Synthese_, 181(1): 113–124.
-* Poincaré, H., 1902, _La Science et l’hypothèse_, Paris: Flammarion, 2004. English translation _Science and Hypothesis_, London: Walter Scott Publishing, 1905.
-* –––, 1912, _Calcul des probabilités_, Paris: Gauthier-Villars.
-* Popper, K., 1934, _The Logic of Scientific Discovery_, London: Routledge, 2002.
-* Poser, H., and U. Dirks (eds.), 1998, _Hans Reichenbach, Philosophie im Umkreis der Physik_, Berlin: Akademie Verlag.
-* Psillos, S., 2011, ‘On Reichenbach’s Argument for Scientific Realism’, _Synthese_, 181(1): 23–40.
-* Putnam, H., 1991, ‘Reichenbach’s Metaphysicial Picture’, _Erkenntnis_, 35: 61–75.
-* Quine, W.V.O., 1951, ‘Two Dogmas of Empiricism’, _The Philosophical Review_, 60: 20–43.
-* Reichenbach, M., 1994, ‘Erinnerung und Reflexionen’, in Dannenberg, Kamlah & Schäfer (eds.) _Hans Reichenbach und die Berliner Gruppe_, Braunschweig: Vieweg, pp. 7–17.
-* Robb, A.A., 1914, _A Theory of Time and Space_, Cambridge: Cambridge University Press.
-* –––, 1921, _The Absolute Relations of Time and Space_, Cambridge: Cambridge University Press.
-* Russell, B., 1914, _Our Knowledge of the External World_, London: Allen & Unwin.
-* –––, 1945, ‘Logical Positivism’, _Polemic_, 1: 6–13.
-* –––, 1948, _Human Knowledge, Its Scope and Limits_, New York: Simon Schuster, London: Allen & Unwin.
-* –––, 1897, _An Essay on the Foundations of Geometry_, New York: Dover, 1956.
-* Ryckman, T., 2005, _The reign of relativity; Philosophy in Physics 1915–1925_, Oxford: Oxford University Press.
-* –––, 2007, ‘Logical Empiricism and the Philosophy of Physics’, in A. Richardson and T. Uebel (eds.), _The Cambridge Companon to Logical Empiricism_, Cambridge: Cambridge University Press.
-* Salmon, W., 1977a, Introduction in _Collected Works_, in Reichenbach (1977a), Volume 1.
-* Rynasiewicz, R., 2003, ‘Reichenbach’s ε-Definition of Simultaneity in Historical and Philosophical Perspective’, in Stadler (ed.), _The Vienna Circle and Logical Empiricism_, Berlin: Springer, pp. 121–129.
-* –––, 2005, ‘Weyl vs. Reichenbach on _Lichtgeometrie_’, in Kox and Eisenstaedt (eds.), _The Universe of General Relativity_, Berlin: Springer, pp. 137–156.
-* Salmon, W., 1977b, ‘Laws, Modalities and Counterfactuals’, _Synthese_, 35: 191–229.
-* –––, 1979, _Hans Reichenbach, Logical Empiricist_, Dordrecht: D. Reidel.
-* –––, 1984, _Scientific Explanation and the Causal Structure of the World_, Princeton: Princeton University Press.
-* Salmon, W. (ed.), 1994, _Logic, Language, and the Structure of Scientific Theories: Proceedings of the Carnap-Reichenbach Centennial_ (University of Konstanz, May 21–24, 1991), Pittsburgh: University of Pittsburgh Press; Konstanz: Universitätsverlag Konstanz.
-* Schickore, J. and F. Steinle, 2006, _Revisiting discovery and justification: historical and philosophical perspectives on the context distinction_, Berlin: Springer.
-* Schilpp, A., 1939. _The Philosophy of John Dewey_, Evanston: Northwestern University Press.
-* Schrödinger, E., 1924, ‘Anmerkungen zum Kausalproblem’, _Erkenntnis_, 3 (1932): 65 (appended to Reichenbach 1932d); reprinted in Reichenbach (1978), Volume II.
-* Simon, H., 1954, ‘Spurious Correlation: A Causal Interpretation’ _Journal of the American Statistical Association_, 49(267) (Sep): 467–479.
-* Strevens, M., 2003, _Bigger than Chaos_, Cambridge, MA: Harvard University Press.
-* Stumpf, C., 1892a, ‘Über den Begriff der mathematischen Wahrscheinlichkeit’, _Sitzungsberichte der philosophisch-historischen Klasse der Bayerische Akademie der Wissenschaft_, 1 (1893): 37–120.
-* –––, 1892b, ‘Über die Anwendung des mathematischen Wahrscheinlichkeitsbegriffes auf Teile eines Continuums’, _Sitzungsberichte der philosophisch-historischen Klasse der Bayerische Akademie der Wissenschaft_, 4 (1893): 681–691.
-* Suppes, P., 1970, _A Probabilistic Theory of Causality_, Amsterdam: North Holland.
-* Verhaegh, S., 2020, ‘Coming to America: Carnap, Reichenbach and the Great Intellectual Migration. Part II: Hans Reichenbach’, _Journal for the History of Analytical Philosophy_, 8(11), first online 18 December 2020. doi:10.15173/jhap.v8i11.4562
-* Weyl, H., 1924, ‘Rezension von: H. Reichenbach: Axiomatik der relativistischen Raum- Zeit Lehre’, _Deutsche Literaturzeitung_, 45: 2122–2128.
-* –––, 1927, Philosophie der Mathematik und Naturwissenschaft, 2nd edition, _Philosophy of Mathematics and Natural Science_, Princeton: Princeton University Press, 1949.
-* Wilholt, T., 2012, ‘Conventionalism: Poincaré, Duhem, Reichenbach’, in Brown (ed.) _Philosophy of Science: The Key Thinkers_, London: Bloomsbury Publishing, 32–52.
-* Woodward, J., 2003, _Making Things Happen_, Oxford: Oxford University Press.
+* Arntzenius, F., 1992, ‘The common cause principle’, *Proceedings of the Philosophy of Science Meeting*, 2: 227–237.
+* Birkhoff, G., and J. v. Neumann, 1936, ‘The Logic of Quantum Mechanics’, *The Annals of Mathematics* (Second Series), 37(4) (Oct): 823–843.
+* Carnap, R., 1928, *Der Logische Aufbau der Welt*, Meiner, 1998.
+* –––, 1936, ‘Testability and Meaning’, *Philosophy of Science*, 3(4) (Oct): 419–471, and *Philosophy of Science*, 4(1) (Jan): 1–40.
+* –––, 1960, ‘The Aim of Inductive Logic’, in E. Nagel, P. Suppes and A. Tarski (eds.), *Logic, Methodology and Philosophy of Science*, Stanford: Stanford University Press, 1962.
+* Creary, L., 1969, *A Pragmatic Justification of Induction, A Critical examination*, Ph.D. thesis, Philosophy Department, Princeton University.
+* Dieks, D., 2009, ‘Reichenbach and the Conventionality of Distant Simultaneity in Perspective’, in F. Stadtler, et al. (eds.), *The Philosophy of Science from a European Perspective*, Vienna: Vienna Circle Institute.
+* –––, 2020, ‘Reichenbach, Weyl, Philosophy and Gauge’, in: S. De Bianchi and C. Kiefer (eds.), *One Hundred Years of Gauge Theory* (Fundamental Theories of Physics: Volume 199), Cham: Springer.
+* Dowe, P., 2000, *Physical Causation*, Cambridge: Cambridge University Press.
+* Eberhardt, F., 2011, ‘Reliability via Synthetic A Priori – Reichenbach’s Doctoral Thesis on Probability’, *Synthese*, 181(1): 125–136.
+* Eberhardt, F. and C. Glymour, 2011, ‘Hans Reichenbach’s Probability Logic’, in D. M. Gabbay, J. Woods and S. Hartmann (eds.), *Handbook of the History of Logic*, Vol. 10, Amsterdam: Elsevier.
+* Eddington, A.S., 1921, ‘A Generalisation of Weyl’s Theory of the Electromagnetic and Gravitational Fields’, *Proceedings of the Royal Society of London* (Series A), 99(697): 104–122.
+* Eddington, A.S., 1924, *The Mathematical Theory of Relativity*, Cambridge: Cambridge University Press.
+* Einstein, A., 1921, *Geometrie und Erfahrung*, Springer: Berlin.
+* van Fraassen, B., 1979, ‘Relative Frequencies’, in W. Salmon (ed.), *Hans Reichenbach: Logical Empiricist*, Dordrecht: D. Reidel.
+* Friedman, M., 2001, *Dynamics of Reason*, Stanford: CSLI Publications.
+* Galavotti, M., 2011, ‘On Hans Reichenbach’s Inductivism’, *Synthese*, 181(1): 95–111.
+* Giovanelli, M., 2016, ‘‘... But I Still Can’t Get Rid of a Sense of Artificiality’: The Reichenbach-Einstein debate on the geometrization of the electromagnetic field’, *Studies in History and Philosophy of Science* (Part B: Studies in History and Philosophy of Modern Physics), 54, 35–51.
+* Glymour, C., 1970, ‘On Some Patterns of Reduction’, *Philosophy of Science*, 37(3): 340–353.
+* –––, 1980, *Theory and Evidence*, Princeton: Princeton University Press.
+* Goodman, N., 1949, ‘On Likeness of Meaning’, *Analysis*, 10(1): 1–7.
+* Hacking, I., 1965, *Logic of Statistical Inference*, London: Routledge.
+* –––, 1968, ‘One Problem about Induction’, in I. Lakatos (ed.), *The Problem of Inductive Logic*, Amsterdam: North-Holland, 44–59.
+* Harman G., and S. Kulkarni, 2007, *Reliable Reasoning*, Cambridge, MA: MIT Press.
+* Hempel, C.G., 1935, ‘On the logical positivists’ theory of truth’, *Analysis*, 2(4): 49–59.
+* –––, 1985, ‘Thoughts on the Limitations of Discovery by Computer’, in K. F. Schaffner (ed.), *Logic of Discovery and Diagnosis in Medicine*, Berkeley: University of California Press, 115–122.
+* Hoffman, D., 2007, ‘The Society for Empirical/Scientific Philosophy’, in A. Richardson and T. Uebel (eds.), *The Cambridge Companion to Logical Empiricism*, Cambridge University Press, 41–57.
+* Irzik, G., 2011, ‘Hans Reichenbach in Istanbul’, *Synthese*, 181(1): 157–180.
+* Jeffrey, R. 1983, *The Logic of Decision*, 2nd edition, Chicago: University of Chicago Press.
+* Kamlah, A., 2013, ‘Everybody has the right to do what he wants: Hans Reichenbach’s volitionism and its historical roots’, in Milkov and Peckhaus (eds.), *The Berlin Group and the Philosophy of Logical Empiricism*, Dordrecht: Springer, 151–175.
+* Kamp, H., 2013, ‘Deixis in discourse. Reichenbach on temporal reference’, in von Heusinger and ter Meulen (eds.), *Meaning and the Dynamics of Interpretation* (Current Research in the Semantics/Pragmatics Interface: Volume 29), Leiden: Brill, 105–159.
+* Kiiveri, H., and T. Speed, 1982, ‘Structural analysis of multivariate data: A review’, in S. Leinhardt (ed.), *Sociological Methodology*, San Francisco: Jossey-Bass.
+* Kries, J.v., 1886, *Die Principien der Wahrscheinlichkeitsrechnung: eine logische Untersuchung*, 2nd edition, Tübingen: Mohr, 1927.
+* Kolmogorov, N.A., 1933, *Grundbegriffe der Wahrscheinlichkeit*, Berlin: Springer. English translation, *Foundations of the Theory of Probability*, New York: Chelsea, 1950.
+* Lewin, K., 1922, *Der Begriff der Genese in Physik, Biologie und Entwicklungsgeschichte*, Berlin: Springer.
+* Lewis, C.I., 1929, *Mind and the World Order*, New York: Dover Publications, 1991.
+* –––, 1946, *An Analysis of Knowledge and Valuation*, La Salle: Open Court.
+* –––, 1952, ‘The Given Element in Empirical Knowledge’, *The Philosophical Review*, 61(2): 168–172.
+* Lutz, L. and A.T. Tuboly (eds.), 2021, *Logical Empiricism and the Physical Sciences*, New York: Routledge.
+* Malatesta, M., 2016, ‘Tenses and Temporality in Reichenbach’s Thought’, in *The Concept of Time in Early Twentieth-Century Philosophy*, Cham: Springer, pp. 217–228.
+* Masson, J., 1986, *The Complete Letters of Sigmund Freund to Wilhelm Fleiss, 1887–1904*, Cambridge, MA: Harvard University Press.
+* McCumber, J., 2016, *The Philosophy Scare: The Politics of Reason in the Early Cold War*, Chicago: University of Chicago Press.
+* McMahon, W., 1976, *Hans Reichenbach’s Philosophy of Grammar*, The Hague: Mouton.
+* Milkov, N., 2013, ‘The Berlin Group and the Vienna Circle: Affinities and Divergences’, in Milkov and Peckhaus (eds.), *The Berlin Group and the Philosophy of Logical Empiricism*, Dordrecht: Springer, 3–32.
+* Milmed, B.K., 1961, *Kant & Current Philosophical Issues*, New York University Press.
+* Mises, R.v., 1919, ‘Grundlagen der Wahrscheinlichkeitsrechnung’, *Mathematische Zeitschrift*, 5: 52–99.
+* Nagel, E., 1936, ‘Critical Notices’, *Mind*, 45(180): 501–514.
+* –––, 1938, ‘Principles of the theory of probability’, in R. Carnap, C. Morris, and O. Neurath (eds.), *Foundations of the Unity of Science*, Chicago: University of Chicago Press.
+* Neumann, J.v., 1932, *Mathematical Foundations of Quantum Mechanics*, R.T. Beyer (transl.), Princeton: Princeton University Press, 1996.
+* Padovani, F., 2008, *Probability and Causality in the Early Works of Hans Reichenbach*, Ph.D. thesis, University of Geneva.
+* –––, 2011, ‘The Concept of Probability in the Mathematical Representation of Reality’, *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 1(2): 344–347.
+* –––, 2011, ‘Relativizing the Relativized A Priori: Reichenbach’s axioms of coordination divided’, *Synthese*, 181(1): 41–62.
+* –––, 2013, ‘Genidentity and Topology of Time: Kurt Lewin and Hans Reichenbach’, in Milkov and Peckhaus (eds.), *The Berlin Group and the Philosophy of Logical Empiricism*, Dordrecht: Springer, 97–122. (See also Padovani, 2008, Ch. 5.)
+* –––, 2015, ‘Reichenbach on Causality in 1923: Scientific inference, coordination, and confirmation’, *Studies in History and Philosophy of Science* (Part A), 53: 3–11.
+* –––, 2017, ‘Coordination and Measurement: What we get wrong about what Reichenbach got right’, in M. Massimi, J.-W. Romeijn, and G. Schurz (eds.), *EPSA15 Selected Papers* (The 5th conference of the European Philosophy of Science Association in Düsseldorf), Cham: Springer, pp. 49–60.
+* Peijnenburg, J, and D. Atkinson, 2011, ‘Grounds and Limits: Reichenbach and Foundationalist Epistemology’, *Synthese*, 181(1): 113–124.
+* Poincaré, H., 1902, *La Science et l’hypothèse*, Paris: Flammarion, 2004. English translation *Science and Hypothesis*, London: Walter Scott Publishing, 1905.
+* –––, 1912, *Calcul des probabilités*, Paris: Gauthier-Villars.
+* Popper, K., 1934, *The Logic of Scientific Discovery*, London: Routledge, 2002.
+* Poser, H., and U. Dirks (eds.), 1998, *Hans Reichenbach, Philosophie im Umkreis der Physik*, Berlin: Akademie Verlag.
+* Psillos, S., 2011, ‘On Reichenbach’s Argument for Scientific Realism’, *Synthese*, 181(1): 23–40.
+* Putnam, H., 1991, ‘Reichenbach’s Metaphysicial Picture’, *Erkenntnis*, 35: 61–75.
+* Quine, W.V.O., 1951, ‘Two Dogmas of Empiricism’, *The Philosophical Review*, 60: 20–43.
+* Reichenbach, M., 1994, ‘Erinnerung und Reflexionen’, in Dannenberg, Kamlah & Schäfer (eds.) *Hans Reichenbach und die Berliner Gruppe*, Braunschweig: Vieweg, pp. 7–17.
+* Robb, A.A., 1914, *A Theory of Time and Space*, Cambridge: Cambridge University Press.
+* –––, 1921, *The Absolute Relations of Time and Space*, Cambridge: Cambridge University Press.
+* Russell, B., 1914, *Our Knowledge of the External World*, London: Allen & Unwin.
+* –––, 1945, ‘Logical Positivism’, *Polemic*, 1: 6–13.
+* –––, 1948, *Human Knowledge, Its Scope and Limits*, New York: Simon Schuster, London: Allen & Unwin.
+* –––, 1897, *An Essay on the Foundations of Geometry*, New York: Dover, 1956.
+* Ryckman, T., 2005, *The reign of relativity; Philosophy in Physics 1915–1925*, Oxford: Oxford University Press.
+* –––, 2007, ‘Logical Empiricism and the Philosophy of Physics’, in A. Richardson and T. Uebel (eds.), *The Cambridge Companon to Logical Empiricism*, Cambridge: Cambridge University Press.
+* Salmon, W., 1977a, Introduction in *Collected Works*, in Reichenbach (1977a), Volume 1.
+* Rynasiewicz, R., 2003, ‘Reichenbach’s ε-Definition of Simultaneity in Historical and Philosophical Perspective’, in Stadler (ed.), *The Vienna Circle and Logical Empiricism*, Berlin: Springer, pp. 121–129.
+* –––, 2005, ‘Weyl vs. Reichenbach on *Lichtgeometrie*’, in Kox and Eisenstaedt (eds.), *The Universe of General Relativity*, Berlin: Springer, pp. 137–156.
+* Salmon, W., 1977b, ‘Laws, Modalities and Counterfactuals’, *Synthese*, 35: 191–229.
+* –––, 1979, *Hans Reichenbach, Logical Empiricist*, Dordrecht: D. Reidel.
+* –––, 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton: Princeton University Press.
+* Salmon, W. (ed.), 1994, *Logic, Language, and the Structure of Scientific Theories: Proceedings of the Carnap-Reichenbach Centennial* (University of Konstanz, May 21–24, 1991), Pittsburgh: University of Pittsburgh Press; Konstanz: Universitätsverlag Konstanz.
+* Schickore, J. and F. Steinle, 2006, *Revisiting discovery and justification: historical and philosophical perspectives on the context distinction*, Berlin: Springer.
+* Schilpp, A., 1939. *The Philosophy of John Dewey*, Evanston: Northwestern University Press.
+* Schrödinger, E., 1924, ‘Anmerkungen zum Kausalproblem’, *Erkenntnis*, 3 (1932): 65 (appended to Reichenbach 1932d); reprinted in Reichenbach (1978), Volume II.
+* Simon, H., 1954, ‘Spurious Correlation: A Causal Interpretation’ *Journal of the American Statistical Association*, 49(267) (Sep): 467–479.
+* Strevens, M., 2003, *Bigger than Chaos*, Cambridge, MA: Harvard University Press.
+* Stumpf, C., 1892a, ‘Über den Begriff der mathematischen Wahrscheinlichkeit’, *Sitzungsberichte der philosophisch-historischen Klasse der Bayerische Akademie der Wissenschaft*, 1 (1893): 37–120.
+* –––, 1892b, ‘Über die Anwendung des mathematischen Wahrscheinlichkeitsbegriffes auf Teile eines Continuums’, *Sitzungsberichte der philosophisch-historischen Klasse der Bayerische Akademie der Wissenschaft*, 4 (1893): 681–691.
+* Suppes, P., 1970, *A Probabilistic Theory of Causality*, Amsterdam: North Holland.
+* Verhaegh, S., 2020, ‘Coming to America: Carnap, Reichenbach and the Great Intellectual Migration. Part II: Hans Reichenbach’, *Journal for the History of Analytical Philosophy*, 8(11), first online 18 December 2020. doi:10.15173/jhap.v8i11.4562
+* Weyl, H., 1924, ‘Rezension von: H. Reichenbach: Axiomatik der relativistischen Raum- Zeit Lehre’, *Deutsche Literaturzeitung*, 45: 2122–2128.
+* –––, 1927, Philosophie der Mathematik und Naturwissenschaft, 2nd edition, *Philosophy of Mathematics and Natural Science*, Princeton: Princeton University Press, 1949.
+* Wilholt, T., 2012, ‘Conventionalism: Poincaré, Duhem, Reichenbach’, in Brown (ed.) *Philosophy of Science: The Key Thinkers*, London: Bloomsbury Publishing, 32–52.
+* Woodward, J., 2003, *Making Things Happen*, Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -434,5 +434,5 @@ We include the links below for further reference, but note that some of the onli
 We would like to thank Flavia Padovani for her comments and further references on a draft and the update of this entry, as well as the anonymous reviewer(s). We welcome further corrections and comments.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Clark Glymour <[_cg09@andrew.cmu.edu_](mailto:cg09%40andrew%2ecmu%2eedu)>\
-[Frederick Eberhardt](http://hss.caltech.edu/people/fehardt/profile) <[_fde@caltech.edu_](mailto:fde%40caltech%2eedu)>
+Clark Glymour <[*cg09@andrew.cmu.edu*](mailto:cg09%40andrew%2ecmu%2eedu)>\
+[Frederick Eberhardt](http://hss.caltech.edu/people/fehardt/profile) <[*fde@caltech.edu*](mailto:fde%40caltech%2eedu)>

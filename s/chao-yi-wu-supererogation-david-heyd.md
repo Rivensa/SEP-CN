@@ -1,6 +1,6 @@
 # 超义务 supererogation (David Heyd)
 
-_首次发表于 2002 年 11 月 4 日星期一；实质性修订于 2024 年 3 月 4 日星期一_
+*首次发表于 2002 年 11 月 4 日星期一；实质性修订于 2024 年 3 月 4 日星期一*
 
 超义务是指那些“超越职责”的行为的技术术语。粗略地说，超义务行为在道德上是好的，尽管不是（严格）必需的。虽然大多数文化中的常见言论允许这种行为，并常常赋予它们特殊的价值，但伦理学理论很少直接而系统地讨论这一类别的行为。一个显著的例外是罗马天主教传统，它产生了超义务的概念，并受到路德派和加尔文派的猛烈攻击。令人惊讶的是，非宗教伦理学理论中的超义务的历史相当近期，仅从 1958 年 J.O.厄姆森的开创性文章“圣人和英雄”开始。
 
@@ -176,132 +176,132 @@ J.O.厄姆森（Urmson）通过对传统的道德行为三重分类（即义务�
 
 ### Monographs and Collections
 
-* Cowley, C. (ed.), 2015, _Supererogation_ (Royal Institute of Philosophy Supplement, 77), Cambridge: Cambridge University Press.
-* Flescher, A. M., 2003, _Heroes, Saints, and Ordinary Morality_, Washington, DC: Georgetown University Press.
-* Grigoletto, S., 2019, _Only Through Complexity: Morality and the Case of Supererogation_, Padova: University of Padova Press.
-* Heyd, D., 1982, _Supererogation: Its Status in Ethical Theory_, Cambridge: Cambridge University Press.
-* Heyd, D. (ed.), 2023, _Handbook of Supererogation_, Singapore: Springer.
-* Mellema, G., 1991, _Beyond the Call of Duty: Supererogation, Obligation, and Offence_, Albany: State University of New York Press.
-* Schumaker, M., 1977, _Supererogation: An Analysis and Bibliography_, Edmonton: St. Stephen’s College.
-* Stangl, R., 2020, _Neither Heroes nor Saints_, New York: Oxford University Press.
-* _Jahrbuch für Recht und Ethik_, 1998, vol. 6 (“Altruism and Supererogation”), edited by Sharon Byrd et al.
-* _Ethics and Politics_, 2017, vol. 19 (“Supererogation and the Limits of Moral Obligation”), edited by Simone Grigoletto.
+* Cowley, C. (ed.), 2015, *Supererogation* (Royal Institute of Philosophy Supplement, 77), Cambridge: Cambridge University Press.
+* Flescher, A. M., 2003, *Heroes, Saints, and Ordinary Morality*, Washington, DC: Georgetown University Press.
+* Grigoletto, S., 2019, *Only Through Complexity: Morality and the Case of Supererogation*, Padova: University of Padova Press.
+* Heyd, D., 1982, *Supererogation: Its Status in Ethical Theory*, Cambridge: Cambridge University Press.
+* Heyd, D. (ed.), 2023, *Handbook of Supererogation*, Singapore: Springer.
+* Mellema, G., 1991, *Beyond the Call of Duty: Supererogation, Obligation, and Offence*, Albany: State University of New York Press.
+* Schumaker, M., 1977, *Supererogation: An Analysis and Bibliography*, Edmonton: St. Stephen’s College.
+* Stangl, R., 2020, *Neither Heroes nor Saints*, New York: Oxford University Press.
+* *Jahrbuch für Recht und Ethik*, 1998, vol. 6 (“Altruism and Supererogation”), edited by Sharon Byrd et al.
+* *Ethics and Politics*, 2017, vol. 19 (“Supererogation and the Limits of Moral Obligation”), edited by Simone Grigoletto.
 
 ### Articles and Books Relating to Supererogation
 
 * Abu Sway, M., 2023, “Islamic Narratives of Duty, Supererogation, and Ithar”, in Heyd (ed.) 2023, pp. 349–360.
-* Aquinas, T., _Summa Theologica_, Westminster, MD.: Christian Classics, 1948. (See I, II, Q. 107, 108 and II, II, Q. 106.)
-* Archer, A., 2015, “Are Acts of Supererogation Always Praiseworthy?”, _Theoria_, 82: 238–255.
-* Archer, A. and Ridge M., 2015, “The Heroism Paradox: Another Paradox of Supererogation”, _Philosophical Studies_, 172: 1575–1592.
-* –––, 2017, “Forgiveness and the Limits of Duty”, _Ethics and Politics_, 19: 225–244.
+* Aquinas, T., *Summa Theologica*, Westminster, MD.: Christian Classics, 1948. (See I, II, Q. 107, 108 and II, II, Q. 106.)
+* Archer, A., 2015, “Are Acts of Supererogation Always Praiseworthy?”, *Theoria*, 82: 238–255.
+* Archer, A. and Ridge M., 2015, “The Heroism Paradox: Another Paradox of Supererogation”, *Philosophical Studies*, 172: 1575–1592.
+* –––, 2017, “Forgiveness and the Limits of Duty”, *Ethics and Politics*, 19: 225–244.
 * –––, 2023, “What’s the Use of Non-moral Supererogation?”, in Heyd (ed.) 2023, pp. 237–253.
-* Attfield, R., 1979, “Supererogation and Double Standards”, _Mind_, 88: 481–499.
-* Baron, M., 1987, “Kantian Ethics and Supererogation”, _Journal of Philosophy_, 84: 237–262.
-* –––, 2015, “Supererogation and Kant’s Imperfect Duties”, in _Reason, Value, and Respect: Kantian Themes from the Philosophy of Thomas E. Hill, Jr._, M. Timmons and R. Johnson (eds.), New York: Oxford University Press.
+* Attfield, R., 1979, “Supererogation and Double Standards”, *Mind*, 88: 481–499.
+* Baron, M., 1987, “Kantian Ethics and Supererogation”, *Journal of Philosophy*, 84: 237–262.
+* –––, 2015, “Supererogation and Kant’s Imperfect Duties”, in *Reason, Value, and Respect: Kantian Themes from the Philosophy of Thomas E. Hill, Jr.*, M. Timmons and R. Johnson (eds.), New York: Oxford University Press.
 * Baron-Schmitt, N., and D. Muñoz, 2023, “Supererogation and the Limits of Reasons”, in Heyd (ed.) 2023, pp. 165–180.
-* Benn, C., 2014, “What Is Wrong with Promising to Supererogate”, _Philosophia_, 42: 55–61.
-* –––, 2018a, “The Enemy of the Good: Supererogation and Requiring Perfection”, _Utilitas_, 30: 333–354.
+* Benn, C., 2014, “What Is Wrong with Promising to Supererogate”, *Philosophia*, 42: 55–61.
+* –––, 2018a, “The Enemy of the Good: Supererogation and Requiring Perfection”, *Utilitas*, 30: 333–354.
 * –––, 2018b, “ Supererogation, Optionality and Costs”, _Philosophical Studies_175: 2399–2417.
 * –––, 2023, “The Evaluative Condition for Supererogation”, in Heyd (ed.) 2023, pp. 181–198.
-* Benbaji, H. and Heyd, D., 2001, “The Charitable Perspective: Forgiveness and Toleration as Supererogatory”, _Canadian Journal of Philosophy_, 31: 567–585.
-* Bergson, H., 1956, _Two Sources of Morality and Religion_, Garden City, NY: Doubleday.
-* Chisholm, R., 1963, “Supererogation and Offence: A Conceptual Scheme for Ethics”, _Ratio_, 5: 1–14.
-* –––, 1964, “The Ethics of Requirement”, _American Philosophical Quarterly_, 1: 147–153.
-* Chisholm, R. and Sosa, E., 1966, “Intrinsic Preferability and the Problem of Supererogation”, _Synthese_, 16: 321–331.
-* Cohen, S., 2013, “Forced Supererogation”, _European Journal of Philosophy_, 23: 1006–1024.
+* Benbaji, H. and Heyd, D., 2001, “The Charitable Perspective: Forgiveness and Toleration as Supererogatory”, *Canadian Journal of Philosophy*, 31: 567–585.
+* Bergson, H., 1956, *Two Sources of Morality and Religion*, Garden City, NY: Doubleday.
+* Chisholm, R., 1963, “Supererogation and Offence: A Conceptual Scheme for Ethics”, *Ratio*, 5: 1–14.
+* –––, 1964, “The Ethics of Requirement”, *American Philosophical Quarterly*, 1: 147–153.
+* Chisholm, R. and Sosa, E., 1966, “Intrinsic Preferability and the Problem of Supererogation”, *Synthese*, 16: 321–331.
+* Cohen, S., 2013, “Forced Supererogation”, *European Journal of Philosophy*, 23: 1006–1024.
 * Cowley, C., 2023, “Supererogation and Forgiveness”, in Heyd (ed.) 2023, pp. 199–219.
-* Crisp, R., 2013, “Supererogation and Virtue”, in _Oxford Studies in Normative Ethics_ (vol. 3), M. Timmons (ed.), Oxford: Oxford University Press.
-* Dancy, J., 1988, “Supererogation and Moral Realism”, in _Human Agency_, J. Dancy and others (eds.), Stanford: Stanford University Press.
+* Crisp, R., 2013, “Supererogation and Virtue”, in *Oxford Studies in Normative Ethics* (vol. 3), M. Timmons (ed.), Oxford: Oxford University Press.
+* Dancy, J., 1988, “Supererogation and Moral Realism”, in *Human Agency*, J. Dancy and others (eds.), Stanford: Stanford University Press.
 * Dentsoras, D., 2023, “Supererogation in Christianity”, in Heyd (ed.) 2023, 293–314.
-* Derrida, J., 1992, _Given Time_: _I. Counterfeit Money_, Chicago: University of Chicago Press.
-* Dorsey, D., 2013, “The Supererogatory, and How To Accommodate It”, _Utilitas_, 25: 355–382.
+* Derrida, J., 1992, *Given Time*: *I. Counterfeit Money*, Chicago: University of Chicago Press.
+* Dorsey, D., 2013, “The Supererogatory, and How To Accommodate It”, *Utilitas*, 25: 355–382.
 * –––, 2023, “The Staircase Scene: Supererogation and Moral Attunement”, in Heyd (ed.) 2023, pp. 87–104.
-* Dreier, J., 2004, “Why Ethical Satisficing Makes Sense and Rational Satisficing Doesn’t”, in M. Byron (ed.), _Satisficing and Maximizing_, Cambridge: Cambridge University Press.
-* Driver, J., 1992, “The Suberogatory”, _Australasian Journal of Philosophy_, 70: 286–295.
-* Eisenberg, P., 1966, “From the Forbidden to the Supererogatory: The Basic Ethical Categories in Kant’s ‘Tugendlehre’”, _American Philosophical Quarterly_, 3: 255–269.
-* Eriksen, A., 2015, “Beyond Professional Duty: Does Supererogation Belong to the Morality of Roles?”, _International Journal of Applied Philosophy_, 29: 85–101.
-* Feinberg, J., 1968, “Supererogation and Rules”, in _Ethics_, J. Thomson and G. Dworkin (eds.), New York: Harper and Row.
-* Feldman, F., 1986, _Doing the Best We Can_. Dordrecht: Reidel.
-* Forrester, M., 1975, “Some Remarks on Obligation, Permission, and Supererogation”, _Ethics_, 85: 219–226.
-* Fritts, M. and Miller, C., 2023, “Must We Be Perfect?: A Case against Supererogation”, _Inquiry_, 66: 1728–1757.
-* Gamlund, E., 2010, “Supererogatory Forgiveness”, _Inquiry_, 53: 540–564.
-* Guevara, D., 1999, “The Impossibility of Supererogation in Kant’s Moral Theory”, _Philosophy and Phenomenological Research_, 59: 593–624.
-* Hale, S., 1991, “Against Supererogation”, _American Philosophical Quarterly_, 28: 272–285.
-* Haydar, B., 2002, “Forced Supererogation and Deontological Restrictions”, _Journal of Value Inquiry_, 36: 445–454.
-* Hedberg, T., 2014, “Epistemic Supererogation and Its Implications”, _Synthese_, 191: 3621–3637.
-* Heyd, D., 1978, “Ethical Universalism, Justice, and Favouritism”, _Australasian Journal of Philosophy_, 56: 25–31.
-* –––, 1980, “Beyond the Call of Duty in Kant’s Ethics”, _Kant-Studien_, 71: 308-324.
-* –––, 1995, “Obligation and Supererogation”, in _Encyclopedia of Bioethics_, W. Reich (ed.), New York: Macmillan.
-* –––, 2005a, “Supererogatory Giving: Can Derrida’s Circle Be Broken?”, in _Philosophia Practica Universalis_, B. Sharon Byrd and Jan C. Joerden (eds.), Berlin: Duncker & Humblot.
-* –––, 2005b, “A Comment on Kawall’s ‘Promising and Supererogation’”, _Philosophia_, 32: 399–403.
+* Dreier, J., 2004, “Why Ethical Satisficing Makes Sense and Rational Satisficing Doesn’t”, in M. Byron (ed.), *Satisficing and Maximizing*, Cambridge: Cambridge University Press.
+* Driver, J., 1992, “The Suberogatory”, *Australasian Journal of Philosophy*, 70: 286–295.
+* Eisenberg, P., 1966, “From the Forbidden to the Supererogatory: The Basic Ethical Categories in Kant’s ‘Tugendlehre’”, *American Philosophical Quarterly*, 3: 255–269.
+* Eriksen, A., 2015, “Beyond Professional Duty: Does Supererogation Belong to the Morality of Roles?”, *International Journal of Applied Philosophy*, 29: 85–101.
+* Feinberg, J., 1968, “Supererogation and Rules”, in *Ethics*, J. Thomson and G. Dworkin (eds.), New York: Harper and Row.
+* Feldman, F., 1986, *Doing the Best We Can*. Dordrecht: Reidel.
+* Forrester, M., 1975, “Some Remarks on Obligation, Permission, and Supererogation”, *Ethics*, 85: 219–226.
+* Fritts, M. and Miller, C., 2023, “Must We Be Perfect?: A Case against Supererogation”, *Inquiry*, 66: 1728–1757.
+* Gamlund, E., 2010, “Supererogatory Forgiveness”, *Inquiry*, 53: 540–564.
+* Guevara, D., 1999, “The Impossibility of Supererogation in Kant’s Moral Theory”, *Philosophy and Phenomenological Research*, 59: 593–624.
+* Hale, S., 1991, “Against Supererogation”, *American Philosophical Quarterly*, 28: 272–285.
+* Haydar, B., 2002, “Forced Supererogation and Deontological Restrictions”, *Journal of Value Inquiry*, 36: 445–454.
+* Hedberg, T., 2014, “Epistemic Supererogation and Its Implications”, *Synthese*, 191: 3621–3637.
+* Heyd, D., 1978, “Ethical Universalism, Justice, and Favouritism”, *Australasian Journal of Philosophy*, 56: 25–31.
+* –––, 1980, “Beyond the Call of Duty in Kant’s Ethics”, *Kant-Studien*, 71: 308-324.
+* –––, 1995, “Obligation and Supererogation”, in *Encyclopedia of Bioethics*, W. Reich (ed.), New York: Macmillan.
+* –––, 2005a, “Supererogatory Giving: Can Derrida’s Circle Be Broken?”, in *Philosophia Practica Universalis*, B. Sharon Byrd and Jan C. Joerden (eds.), Berlin: Duncker & Humblot.
+* –––, 2005b, “A Comment on Kawall’s ‘Promising and Supererogation’”, *Philosophia*, 32: 399–403.
 * –––, 2023, “Promise-Making and Supererogation”, in Heyd (ed.) 2023, pp. 221–236.
-* Hill, T., 1971, “Kant on Imperfect Duty and Supererogation”, _Kant-Studien_, 62: 55-76.
+* Hill, T., 1971, “Kant on Imperfect Duty and Supererogation”, *Kant-Studien*, 62: 55-76.
 * Hongladarom, S., 2023, “Supererogation in Buddhism”, in Heyd (ed.) 2023, pp. 361–372.
-* Horgan, T. and Timmons, M., 2010, “Untying a Knot from the Inside Out: Reflections on the ‘Paradox’ of Supererogation”, _Social Philosophy and Policy_, 27: 29–63.
+* Horgan, T. and Timmons, M., 2010, “Untying a Knot from the Inside Out: Reflections on the ‘Paradox’ of Supererogation”, *Social Philosophy and Policy*, 27: 29–63.
 * –––, 2023, “The Expected, the Contra-Expected, the Supererogatory, and the Suberogatory”, in Heyd (ed.) 2023, pp. 119–130.
-* Horton, J., 2017, “The All or Nothing Problem”, _Journal of Philosophy_, 114: 94–104.
+* Horton, J., 2017, “The All or Nothing Problem”, *Journal of Philosophy*, 114: 94–104.
 * –––, 2023, “Supererogation, Conditional Obligation, and the All or Nothing Problem”, in Heyd (ed.) 2023, pp. 51–61.
-* Kamm, F., 1985, “Supererogation and Obligation”, _Journal of Philosophy_, 82: 118–138.
+* Kamm, F., 1985, “Supererogation and Obligation”, *Journal of Philosophy*, 82: 118–138.
 * –––, 2023, “Supererogation and Duty”, in Heyd (ed.) 2023, pp. 29–49.
-* Kant, I., 1949, _Critique of Practical Reason_ (translated and edited by L. W. Beck),Chicago: University of Chicago Press, the last part of the Analytic and the Methodology.
-* Kawall, J., 2003, “Self-Regarding Supererogatory Actions”, _Journal of Social Philosophy_, 34: 487–498.
-* –––, 2005, “Promising and Supererogation”, _Philosophia_, 32: 389–398.
-* –––, 2009, “Virtue Theory, Ideal Observers, and the Supererogatory”, _Philosophical Studies_, 146: 179–196.
+* Kant, I., 1949, *Critique of Practical Reason* (translated and edited by L. W. Beck),Chicago: University of Chicago Press, the last part of the Analytic and the Methodology.
+* Kawall, J., 2003, “Self-Regarding Supererogatory Actions”, *Journal of Social Philosophy*, 34: 487–498.
+* –––, 2005, “Promising and Supererogation”, *Philosophia*, 32: 389–398.
+* –––, 2009, “Virtue Theory, Ideal Observers, and the Supererogatory”, *Philosophical Studies*, 146: 179–196.
 * Lebens, S., 2023, “Does Judaism Recognize the Supererogatory?”, in Heyd (ed.) 2023, pp. 329–348.
-* Li, H., 2018, “A Theory of Epistemic Supererogation”, _Erkenntnis_, 83: 349–367.
-* Lichtenstein, A., 1975, “Does Jewish Tradition Recognize An Ethic Independent of Halakha?”, in _Modern Jewish Ethics: Theory and Practice_, M. Fox (ed.), Ohio State University Press.
-* Little, M. and MacNamara, C., 2017, “For Better or Worse: Commendatory Reasons and Latitude”, _Oxford Studies in Normative Ethics_, 7: 138–160.
-* Luther, M., 1957, “Explanation of The Ninety Five Theses” (Thesis 58), in _Works_ (vol. 31), H. Grimm (ed.), Philadelphia: Muhlenberg Press.
-* Mauss, M., 1954, _The Gift_, London: Cohen and West.
-* Mazutis, D., 2014, “Supererogation Beyond Positive Deviance and Corporate Social Responsibility”, _Journal of Business Ethics_, 119: 517–528.
-* McElwee, B., 2017, “Supererogation Across Normative Domains”, _Australasian Journal of Philosophy_, 95: 505–516.
+* Li, H., 2018, “A Theory of Epistemic Supererogation”, *Erkenntnis*, 83: 349–367.
+* Lichtenstein, A., 1975, “Does Jewish Tradition Recognize An Ethic Independent of Halakha?”, in *Modern Jewish Ethics: Theory and Practice*, M. Fox (ed.), Ohio State University Press.
+* Little, M. and MacNamara, C., 2017, “For Better or Worse: Commendatory Reasons and Latitude”, *Oxford Studies in Normative Ethics*, 7: 138–160.
+* Luther, M., 1957, “Explanation of The Ninety Five Theses” (Thesis 58), in *Works* (vol. 31), H. Grimm (ed.), Philadelphia: Muhlenberg Press.
+* Mauss, M., 1954, *The Gift*, London: Cohen and West.
+* Mazutis, D., 2014, “Supererogation Beyond Positive Deviance and Corporate Social Responsibility”, *Journal of Business Ethics*, 119: 517–528.
+* McElwee, B., 2017, “Supererogation Across Normative Domains”, *Australasian Journal of Philosophy*, 95: 505–516.
 * –––, 2023, “Going Above and Beyond: Non-moral Analogues of Moral Supererogation”, in Heyd (ed.) 2023, pp. 255–270.
-* McNamara, P., 1996, “Making Room for Going Beyond the Call”, _Mind_, 105: 415–450.
-* –––, 2011, “Supererogation, Inside and Out: Toward an Adequate Scheme for Common-Sense Morality”, in _Oxford Studies in Normative Ethics_ (Vol. 1), M. Timmons (ed.), Oxford: Oxford University Press.
+* McNamara, P., 1996, “Making Room for Going Beyond the Call”, *Mind*, 105: 415–450.
+* –––, 2011, “Supererogation, Inside and Out: Toward an Adequate Scheme for Common-Sense Morality”, in *Oxford Studies in Normative Ethics* (Vol. 1), M. Timmons (ed.), Oxford: Oxford University Press.
 * –––, 2023, “Supererogation and Its Conceptual Neighborhood Through a DWE Lens”, in Heyd (ed.) 2023, pp. 131–163.
 * Mellema, G., 2023, “Supererogation and Protestantism”, in Heyd (ed.) 2023, pp. 315–327.
-* Mill, J. S., 1969, “Auguste Comte and Positivism”, in _The Collected Works of J. S. Mill_ (vol. 10), Toronto: University of Toronto Press.
-* Moore, G. E., 1948, _Principia Ethica_, Cambridge: Cambridge University Press.
-* Montague, P., 1989, “Acts, Agents, and Supererogation”, _American Philosophical Quarterly_, 26: 100–111.
-* Muñoz, D. and Pummer, T., 2022, “Supererogation and Conditional Obligation”, _Philosophical Studies_, 79: 1429–1443.
-* Muñoz, D., 2021, “Three Paradoxes of Supererogation”, _Nous_, 55: 699–716.
+* Mill, J. S., 1969, “Auguste Comte and Positivism”, in *The Collected Works of J. S. Mill* (vol. 10), Toronto: University of Toronto Press.
+* Moore, G. E., 1948, *Principia Ethica*, Cambridge: Cambridge University Press.
+* Montague, P., 1989, “Acts, Agents, and Supererogation”, *American Philosophical Quarterly*, 26: 100–111.
+* Muñoz, D. and Pummer, T., 2022, “Supererogation and Conditional Obligation”, *Philosophical Studies*, 79: 1429–1443.
+* Muñoz, D., 2021, “Three Paradoxes of Supererogation”, *Nous*, 55: 699–716.
 * Naumann, K., M.-L. Raters, and K. Reinhardt, 2023, “Feminist Perspectives on Supererogation”, in Heyd (ed.) 2023, pp. 271–291.
-* New, C., 1974, “Saints, Heroes and Utilitarians”, _Philosophy_, 49: 179–189.
-* Newey, G., 1997, “Against Thin-Property Reductivism: Toleration as Supererogatory”, _Journal of Value Inquiry_, 31: 231–249.
-* Parfit, D., 1982, “Future Generations: Further Problems”, _Philosophy and Public Affairs_, 11: 113–172.
-* Portmore, D. W., 2003, “Position-Relative Consequentialism, Agent-Centered Options, and Supererogation”, _Ethics_, 113: 303–332.
-* –––, 2008, “Are Moral Reasons Morally Overriding?”, _Ethical Theory and Moral Practice_, 11: 369–388.
+* New, C., 1974, “Saints, Heroes and Utilitarians”, *Philosophy*, 49: 179–189.
+* Newey, G., 1997, “Against Thin-Property Reductivism: Toleration as Supererogatory”, *Journal of Value Inquiry*, 31: 231–249.
+* Parfit, D., 1982, “Future Generations: Further Problems”, *Philosophy and Public Affairs*, 11: 113–172.
+* Portmore, D. W., 2003, “Position-Relative Consequentialism, Agent-Centered Options, and Supererogation”, *Ethics*, 113: 303–332.
+* –––, 2008, “Are Moral Reasons Morally Overriding?”, *Ethical Theory and Moral Practice*, 11: 369–388.
 * –––, 2023, “Latitude, Supererogation, and Imperfect Duties”, in Heyd (ed.) 2023, pp. 63–86.
-* Postow, B. C., 2005, “Supererogation Again”, _Journal of Value Inquiry_ 39: 245–253.
-* Pummer, T., 2016, “Whether and Where to Give”, _Philosophy and Public Affairs_, 44: 77–95.
-* Pybus, E., 1982, “‘Saints and Heroes’”, _Philosophy_, 57: 193–199.
-* Rashdall, H., 1924, _A Theory of Good and Evil_, London: Oxford University Press.
-* Rawls, J., 1971, _A Theory of Justice_, Cambridge, Mass.: Harvard University Press.
-* Raz, J., 1975, “Permissions and Supererogation”, _American Philosophical Quarterly_, 12: 161–168.
-* Richards, A. J., 1971, _A Theory of Reasons for Action_, Oxford: Clarendon Press.
-* Roberts, R. 2014, “Supererogation in an Ethics of Care”, _Philosophia_, 42: 597–602.
-* Schumaker, M., 1972, “Deontic Morality and the Problem of Supererogation”, _Philosophical Studies_, 23: 427–428.
-* Shilo, S., 1978, “On One Aspect of Law and Morals in Jewish Law: Lifnim Mishurat Hadin”, _Israel Law Review_, 13: 359–390.
-* Sinclair, T., 2018, “Are We Conditionally Obligated to Be Effective Altruists”, _Philosophy and Public Affairs_, 46: 36–59.
-* Slote, M., 1989, _Beyond Optimizing_, Cambridge, Mass.: Harvard University Press.
-* Stangl, R., 2016, “Neo-Aristotelian Supererogation”, _Ethics_, 126: 339–365.
+* Postow, B. C., 2005, “Supererogation Again”, *Journal of Value Inquiry* 39: 245–253.
+* Pummer, T., 2016, “Whether and Where to Give”, *Philosophy and Public Affairs*, 44: 77–95.
+* Pybus, E., 1982, “‘Saints and Heroes’”, *Philosophy*, 57: 193–199.
+* Rashdall, H., 1924, *A Theory of Good and Evil*, London: Oxford University Press.
+* Rawls, J., 1971, *A Theory of Justice*, Cambridge, Mass.: Harvard University Press.
+* Raz, J., 1975, “Permissions and Supererogation”, *American Philosophical Quarterly*, 12: 161–168.
+* Richards, A. J., 1971, *A Theory of Reasons for Action*, Oxford: Clarendon Press.
+* Roberts, R. 2014, “Supererogation in an Ethics of Care”, *Philosophia*, 42: 597–602.
+* Schumaker, M., 1972, “Deontic Morality and the Problem of Supererogation”, *Philosophical Studies*, 23: 427–428.
+* Shilo, S., 1978, “On One Aspect of Law and Morals in Jewish Law: Lifnim Mishurat Hadin”, *Israel Law Review*, 13: 359–390.
+* Sinclair, T., 2018, “Are We Conditionally Obligated to Be Effective Altruists”, *Philosophy and Public Affairs*, 46: 36–59.
+* Slote, M., 1989, *Beyond Optimizing*, Cambridge, Mass.: Harvard University Press.
+* Stangl, R., 2016, “Neo-Aristotelian Supererogation”, *Ethics*, 126: 339–365.
 * –––, 2023, “Must Virtue Be Heroic? Virtue Ethics and the Possibility of Supererogation”, in Heyd (ed.) 2023, pp. 105–118.
-* Stocker, M., 1967, “Professor Chisholm on Supererogation and Offence”, _Philosophical Studies_, 18: 87–93.
-* Tertullian, _On Exhortation to Chastity_, New York: The Fathers of the Church.
-* Timmermann, J., 2005, “Good but Not Required? – Assessing the Demands of Kantian Ethics”, _Journal of Moral Philosophy_, 2: 9–27.
-* Titmuss, R., 1973, _The Gift Relationship_, Harmondsworth: Penguin.
-* Trianosky, G., 1986, “Supererogation, Wrongdoing and Vice: On the Autonomy of the Ethics of Virtue”, _Journal of Philosophy_, 83: 26–40.
-* Ullmann-Margalit, E., 2011, “Considerateness”, _Iyyun_, 60: 205–244.
-* Urmson, J., 1958, “Saints and Heroes”, in _Essays in Moral Philosophy_, A. Melden (ed.), Seattle: University of Washington Press.
-* –––, 1988, “Hare on Intuitive Moral Thinking”, in _Hare and Critics_, D. Seanor and N. Fotion (eds.), Oxford: Clarendon Press.
-* Vessel, J.-P., 2010, “Supererogation for Utilitarianism”, _American Philosophical Quarterly_, 47: 299–317.
-* Weinberg, J., 2011, “Is Government Supererogation Possible?”, _Pacific Philosophical Quarterly_, 92: 263–281.
-* Wellman, C., 1999, “Gratitude as a Virtue”, _Pacific Philosophical Quarterly_, 80: 284–300.
-* Wessels, U., 2015, “Beyond the Call of Duty:The Structure of a Moral Region”, _Supererogation_, Royal Institute of Philosophy Supplement, 77: 87–104.
-* Wolf, S., 1982, “Moral Saints”, _Journal of Philosophy_, 79: 419–439.
-* Zimmerman, M., 1996, _The Concept of Moral Obligation_, Cambridge: Cambridge University Press, particularly Chapter 8.
-* Zaroug, A. H., 1985, “The Concept of Permission, Supererogatory Acts and Asceticism in Islamic Jurisprudence”, _Islamic Studies_, 24: 167–180.
-* Zhong, L., 2016, “A Confucian Virtue Theory of Supererogation”, _Philosophy East and West_, 66: 328–341.
+* Stocker, M., 1967, “Professor Chisholm on Supererogation and Offence”, *Philosophical Studies*, 18: 87–93.
+* Tertullian, *On Exhortation to Chastity*, New York: The Fathers of the Church.
+* Timmermann, J., 2005, “Good but Not Required? – Assessing the Demands of Kantian Ethics”, *Journal of Moral Philosophy*, 2: 9–27.
+* Titmuss, R., 1973, *The Gift Relationship*, Harmondsworth: Penguin.
+* Trianosky, G., 1986, “Supererogation, Wrongdoing and Vice: On the Autonomy of the Ethics of Virtue”, *Journal of Philosophy*, 83: 26–40.
+* Ullmann-Margalit, E., 2011, “Considerateness”, *Iyyun*, 60: 205–244.
+* Urmson, J., 1958, “Saints and Heroes”, in *Essays in Moral Philosophy*, A. Melden (ed.), Seattle: University of Washington Press.
+* –––, 1988, “Hare on Intuitive Moral Thinking”, in *Hare and Critics*, D. Seanor and N. Fotion (eds.), Oxford: Clarendon Press.
+* Vessel, J.-P., 2010, “Supererogation for Utilitarianism”, *American Philosophical Quarterly*, 47: 299–317.
+* Weinberg, J., 2011, “Is Government Supererogation Possible?”, *Pacific Philosophical Quarterly*, 92: 263–281.
+* Wellman, C., 1999, “Gratitude as a Virtue”, *Pacific Philosophical Quarterly*, 80: 284–300.
+* Wessels, U., 2015, “Beyond the Call of Duty:The Structure of a Moral Region”, *Supererogation*, Royal Institute of Philosophy Supplement, 77: 87–104.
+* Wolf, S., 1982, “Moral Saints”, *Journal of Philosophy*, 79: 419–439.
+* Zimmerman, M., 1996, *The Concept of Moral Obligation*, Cambridge: Cambridge University Press, particularly Chapter 8.
+* Zaroug, A. H., 1985, “The Concept of Permission, Supererogatory Acts and Asceticism in Islamic Jurisprudence”, *Islamic Studies*, 24: 167–180.
+* Zhong, L., 2016, “A Confucian Virtue Theory of Supererogation”, *Philosophy East and West*, 66: 328–341.
 
 ## Academic Tools
 
@@ -320,4 +320,4 @@ J.O.厄姆森（Urmson）通过对传统的道德行为三重分类（即义务�
 [Chisholm, Roderick](https://plato.stanford.edu/entries/chisholm/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [ethics: deontological](https://plato.stanford.edu/entries/ethics-deontological/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [forgiveness](https://plato.stanford.edu/entries/forgiveness/)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[David Heyd](http://pluto.huji.ac.il/\~msheyd/site/) <[_david.heyd@mail.huji.ac.il_](mailto:david%2eheyd%40mail%2ehuji%2eac%2eil)>
+[David Heyd](http://pluto.huji.ac.il/\~msheyd/site/) <[*david.heyd@mail.huji.ac.il*](mailto:david%2eheyd%40mail%2ehuji%2eac%2eil)>

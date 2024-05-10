@@ -1,6 +1,6 @@
 # 时间部分 temporal parts (Katherine Hawley)
 
-_首次发表于 2004 年 2 月 1 日，实质性修订于 2020 年 5 月 5 日_
+*首次发表于 2004 年 2 月 1 日，实质性修订于 2020 年 5 月 5 日*
 
 物质对象通过在不同的地方具有不同的空间部分来延伸到空间中。但是它们如何在时间中持续存在呢？根据一些哲学家的观点，事物除了具有空间部分外，还具有时间部分：接受这一观点被认为有助于我们解决一系列形而上学问题，并使我们的哲学与现代物理学保持一致。其他哲学家持不同意见，认为形而上学和物理学都没有给我们足够的理由相信时间部分的存在。
 
@@ -233,7 +233,7 @@ STR 对于持续论的第二个论证通过关于时间的辩论进行（见第 
 
 建议阅读：Lewis（1986a，第 212-3 页），Heller（1990，第 2.9 节），Jubien（1993，第 2.2 节），Quine（1981，第 1 章），Rea（1998a）和 Hudson（2000）主张普遍主义；van Inwagen（1990b，第 8 节），Markosian（1998），Merricks（2001）和 Varzi（2003）以不同方式提出反对意见。Balashov（2007a）讨论了普遍主义和阶段理论；Campdelacreu（2010）做出回应。Sosa（1999）研究了持久主义普遍主义的选择，而 Miller（2006）则基于构成而非部分性发展了一种持久主义的“普遍主义”；另请参阅 Inman（2014）。Sider（1997；2001，第 4.9 节）通过普遍主义发展了“模糊性论证”，以时间部分为基础；Koslicki（2003）持批评态度，而 Sider（2003a）做出回应。对 Sider 的论证的进一步讨论包括 Balashov（2005），Nolan（2006），Markosian（2004），Sider（2004），Miller（2005a），Varzi（2005），Noonan（2010），Magidor（2015）和 Eagle（2016b）。Korman（2010）提供了这场辩论的概述，并附有进一步的参考资料。Hirsch（1982）是对持久性标准的广泛而有益的讨论。Humean Supervenience 由 Lewis（1986b，第 ix-x 页）阐述，并由 Loewer（1996）讨论。关于运动的问题由 Armstrong（1980）提出，并由 Robinson（1989），Hawley（1999；2001，第 3 章），Zimmerman（1998b；1999），Callender（2001），Sider（2001，第 6.5 节），Lewis（1999），Teller（2002）和 Butterfield（2006）解决，而 Jaskolla（2017）在这场辩论与泛心灵论之间建立了有趣的联系。Butterfield（2005）提出了运动物理学与持久性形而上学之间许多有趣的联系，另请参阅 Pashby（2016）。Balashov（2003a，2003b，2010），Hudson（2002，2003），Effingham（2011）和 Torre（2015）讨论了有关限制组合和自然法则的问题。 Haslanger（1994）讨论了持久性和休谟随附之间的联系；Hawley（2015）讨论了持续性、临时内在性和休谟随附在刘易斯的作品中的联系。Oakes（2004）在不依赖于 HS 的情况下提出了关于持续论的因果困难。Magidor（2016）认为，关于持久性和持久性的辩论在我们注意到普遍主义的隐含假设时看起来非常不同；另请参阅 Miller（2008）和 Varzi（2007）。Della Rocca（2011）认为，持久论者必须采取一种不合理的关于持久性的反还原主义；Baker（2013）做出了回应。
 
-## 9. 人们是否有时间部分？以及其他特殊情况。
+## 9. 人们是否有时间部分？以及其他特殊情况
 
 关于人的持久性的问题是一个独立的百科全书文章的主题（请参阅有关个人身份的单独条目），但值得强调的是，先前部分讨论的论点对个人生存有特殊的影响。人们具有各种独特的特征：我们具有道德地位，我们具有推理和意识等心理属性，并且我们与生物体以一种亲密但有些令人困惑的方式相关联。此外，我们大多数人似乎对我们自己的未来有特殊关注，并且愿意限制当前的快乐，如吸烟、购物和不写百科全书文章，因为我们相信现在做出的牺牲将使我们未来受益。我们还对我们自己过去的行为感到一种独特的自豪或羞耻，并且受到我们自己过去的承诺的约束，但不受其他人的承诺的约束。
 
@@ -259,442 +259,442 @@ Dodd（2004）、Thomasson（2004）、Caplan 和 Matheson（2006）、Tillman�
 
 ## Bibliography
 
-* Aliyev, Alexey, 2017, “Musical Perdurantism and the Problem of Intermittent Existence”, _Grazer Philosophische Studien_, 94: 83–100.
-* Alward, Peter, 2019, “Musical Ontology and the Question of Persistence“, _Acta Analytica_.
-* Armstrong, D. M., 1980, “Identity Through Time”, in Peter van Inwagen (ed.) _Time and Cause_, Dordrecht: D. Reidel: 67–78.
-* Baber, Harriet E., 2002, “Sabellianism Reconsidered”, _Sophia_, 41: 1–18.
-* Baker, Lynne Rudder, 1997, “Why Constitution is not Identity”, _Journal of Philosophy_, 94: 599–621.
-* –––, 2000, _Persons and Bodies: a Constitution View_, Cambridge: Cambridge University Press.
-* –––, 2013, “Three-Dimensionalism Rescued: a Brief Reply to Michael Della Rocca”, _Journal of Philosophy_, 110.3: 166–70.
-* Balashov, Yuri, 1999, “Relativistic Objects”, _Noûs_, 33: 644–62.
-* –––, 2000a, “Persistence and Space-Time: Philosophical Lessons of the Pole and the Barn”, _Monist_, 83: 321–40.
-* –––, 2000b “Enduring and Perduring Objects in Minkowski Space-Time”, _Philosophical Studies_, 99: 129–66.
-* –––, 2002, “On Stages, Worms and Relativity”, in Craig Callender (ed.) _Time, Reality and Experience_, Cambridge: Cambridge University Press: 223–52.
-* –––, 2003a, “Temporal Parts and Superluminal Motion”, _Philosophical Papers_, 32: 1–13.
-* –––, 2003b, “Restricted Diachronic Composition, Immanent Causality and Objecthood”, _Philosophical Papers_, 32: 23–30.
-* –––, 2005, “On Vagueness, Four-Dimensionalism and Diachronic Universalism”, _Australasian Journal of Philosophy_, 83.4: 523–31.
-* –––, 2005a, “Special Relativity, Coexistence, and Temporal Parts: a Reply to Gilmore”, _Philosophical Studies_, 124: 1–40.
-* –––, 2007, “Defining ‘Exdurance’”, _Philosophical Studies_, 133: 143–9.
-* –––, 2007a, “About Stage Universalism”, _Philosophical Quarterly_, 57: 21–39.
-* –––, 2008, “Persistence and Multi-Location in Spacetime”, _The Ontology of Spacetime_, volume 2, ed. D. Dieks, Amsterdam: Elsevier, 59–81.
-* –––, 2009, “Pegs, Boards, and Relativistic Persistence”, _Pacific Philosophical Quarterly_, 90.2: 167–75.
-* –––, 2010, _Persistence and Spacetime_, Oxford: Oxford University Press.
-* –––, 2011, “Persistence ”, _The Oxford Handbook of Philosophy of Time_, ed. Craig Callender, Oxford: Oxford University Press.
-* –––, 2014, “On the Invariance and Intrinsicality of Four-Dimensional Shapes in Special Relativity”, _Analysis_, 74.4: 608–12.
-* Barker, S. and Dowe, P., 2003, “Paradoxes of Multi-Location”, _Analysis_, 63: 106-14.
-* –––, 2005, “Endurance is Paradoxical”, _Analysis_, 65: 69–75.
-* Baron, Sam, 2019, “How To Survive Presentism”, _Inquiry_, 62.6: 659–73.
-* Baxter, D., 1989, “Identity Through Time and the Discernibility of Identicals”, _Analysis_, 49: 125–31.
-* Beebee, H. and Rush, M., 2003, “Non-Paradoxical Multi-Location”, _Analysis_, 63.4: 311-17.
-* Benovsky, Jiri, 2009, “Presentism and Persistence”, _Pacific Philosophical Quarterly_, 90.3: 291–309.
-* –––, 2009a, “On (not) Being in Two Places at the Same Time: an argument against Endurantism”, _American Philosophical Quarterly_, 46.3: 239–48.
-* –––, 2011, “Endurance, Perdurance, and Metaontology”, _SATS_, 12.2: 159–77.
-* –––, 2016, “Endurance, Dualism, Temporal Passage, and Intuitions”, _Review of Philosophy and Psychology_, 7.4: 851–62.
-* Bittner, Thomas, Donnelly, Maureen, and Smith, Barry, 2004, “Endurants and Perdurants in Directly Depicting Ontologies”, _AI Communications_, 13: 247–58.
-* Bottani, Andreas C., 2016, “Bringing Back Intrinsics to Enduring Things”, _Synthese_: 1–19.
-* Botterell, Andrew, 2004, “Temporal Parts and Temporary Intrinsics”, _Metaphysica_: 1–19.
-* Braddon-Mitchell, David and Miller, Kristie, 2004, “The Loneliness of Stages”, _Analysis_, 64.3: 235-42.
-* Braddon-Mitchell, David and West, Caroline, 2001, “Temporal Phase Pluralism”, _Philosophy and Phenomenological Research_, 62: 59–83.
-* Briggs, Rachael and Nolan, Daniel, 2015, “Utility Monsters for the Fission Age”, _Pacific Philosophical Quarterly_, 96.3: 392–407.
-* Brink, David O., 1997, “Rational Egoism and the Separateness of Persons”, in J. Dancy (ed.) _Reading Parfit_, Oxford: Blackwell: 96–134.
-* Broad, C.D., 1927, _Scientific Thought_, London: Kegan Paul.
-* Brogaard, B., 2000, “Presentist Four-Dimensionalism”, _Monist_, 83: 341–56.
-* Broome, John, 1991, _Weighing Goods_, Oxford: Basil Blackwell.
-* Brower, Jeffrey E., 2010, “Aristotelian Endurantism: A New Solution to the Problem of Temporary Intrinsics”, _Mind_, 119: 883–905.
-* Browning, Douglas, 1988, “Sameness Through Change and the Coincidence of Properties”, _Philosophy and Phenomenological Research_, 49: 103–21.
-* Brueckner, Anthony, 2009, “Endurantism and the Psychological Approach to Personal Identity”, _Theoria_, 75: 28-33.
-* Brzozowski, Jacek, 2017, “Enduring Simples and the Stages They Compose”, _Pacific Philosophical Quarterly_, 98: 51–64.
-* –––, 2019, “More Work for Hybrid Presentism”, _Metaphysica_, 20.1: 103–115.
-* Burke, Michael, 1992, “Copper Statues and Pieces of Copper: A Challenge to the Standard Account”, _Analysis_, 52: 12–17.
-* –––, 1994a, “Dion and Theon: An Essentialist Solution to an Ancient Puzzle”, _Journal of Philosophy_, 91: 129–139.
-* –––, 1994b, “Preserving the Principle of One Object to a Place: A Novel Account of the Relations among Objects, Sorts, Sortals and Persistence Conditions”, _Philosophy and Phenomenological Research_, 54: 591–624.
-* –––, 1997a, “Coinciding Objects: Reply to Lowe and Denkel”, _Analysis_, 57: 11–18.
-* –––, 1997b, “Persons and Bodies: How to Avoid the New Dualism”, _American Philosophical Quarterly_, 34: 457–67.
-* Butterfield, Jeremy, 1985, “Spatial and Temporal Parts”, _The Philosophical Quarterly_, 35: 32–44.
-* –––, 2005, “On the Persistence of Particles”, _Foundations of Physics_, 35: 233–69.
-* –––, 2006, “The Rotating Discs Argument Defeated”, _British Journal for the Philosophy of Science_, 57: 1–45.
-* Cahen, Muriel, 2017, “L’Individuation des Parties Temporalles”, _Dialogue: Canadian Philosophical Review_, 56.4: 747–73.
-* Callender, Craig, 2001, “Humean Supervenience and Rotating Homogeneous Matter”, _Mind_, 110: 25–44.
-* Calosi, Claudio, 2015, “The Relativistic Invariance of 4D Shapes”, _Studies in History and Philosophy of Modern Physics_, 50: 1–4.
-* Campdelacreu, Marta, 2018, “Stage Universalism, Voints, and Sorts”, _Disputatio_, 3.28: 293–307.
-* Caplan, Ben and Matheson, Carl, 2006, “Defending Musical Perdurantism”, _British Journal of Aesthetics_, 46.1: 59–69.
-* Carter, W.R., 1997, “Dion’s Left Foot (and the Price of Burkean Economy)”, _Philosophy and Phenomenological Research_, 57: 371–9.
-* Carter, W.R. and Hestevold, H.S., 1994, “On Passage and Persistence”, _American Philosophical Quarterly_, 31: 269–83.
-* Chisholm, Roderick M., 1973, “Parts as Essential to their Wholes”, _Review of Metaphysics_, 26: 581–603.
-* –––, 1976, _Person and Object_, London: Allen and Unwin.
-* Costa, Damiano, 2017, “The Transcendentist Theory of Persistence”, _Journal of Philosophy_, 114(2): 57–75. doi:10.5840/jphil201711425
-* –––, 2020, “Was Bonaventure a Four-Dimensionalist?”, _British Journal for the History of Philosophy_, 28(2):393–404.
-* Cotnoir, Aaron, 2015, “Review of _Mereology and Location_, edited by Shieva Kleinschmidt”, _Notre Dame Philosophical Reviews_.
-* Cowles, D.W., 1994, “On van Inwagen’s Defense of Vague Identity”, _Philosophical Perspectives_, 8: 137–58.
-* Crisp, Thomas and Smith, Donald, 2005, “‘Wholly Present’ Defined”, _Philosophy and Phenomenological Research_, 71.2: 318–44.
-* Curtis, Benjamin and Robson, Jon, 2016, _A Critical Introduction to the Metaphysics of Time_, Bloomsbury Press.
-* Daniels, Paul Richard, 2014, “Occupy Wall: A Mereological Puzzle and the Burdens of Endurantism”, _Australasian Journal of Philosophy_, 92.1: 91–101.
-* –––, 2019, “Persistence, Temporal Extension, and Transdurantism”, _Metaphysica_, 20.1: 83–102.
-* Davidson, Matthew, 2013, “Special Relativity and the Intrinsicality of Shape”, _Analysis_, 74.1: 57–58.
-* Della Rocca, Michael, 2011, “Primitive Persistence and the Impasse between Three-Dimensionalism and Four-Dimensionalism”, _Journal of Philosophy_, 108.11: 591–616.
-* Demarest, Heather, 2016, “Fission May Kill You (But Not for the Reasons You Thought)”, _Philosophy and Phenomenological Research_, 93.3: 565–82.
-* Denkel, Arda, 1995, “Theon’s Tale: Does a Cambridge Change result in a Substantial Change?”, _Analysis_, 55: 166–170.
-* Dietz, Alexander, 2020, “Are My Temporal Parts Agents?”, _Philosophy and Phenomenological Research_, 100.2: 362–79.
-* Dodd, Julian, 2004, “Types, Continuants and the Ontology of Music”, _British Journal of Aesthetics_, 44.4: 342–60.
-* Doepke, Frederick C., 1982, “Spatially Coinciding Objects”, _Ratio_, 24: 45–60.
-* Donnelly, Maureen, 2011, “Endurantist and Perdurantist Accounts of Persistence”, _Philosophical Studies_, 154.1: 27–51.
-* –––, 2016, “Three-Dimensionalism”, in _Oxford Handbook of Philosophy Online_, edited by M. Davis, Oxford University Press.
-* Duncan, Matt, 2015, “I Think Therefore I Persist”, _Australasian Journal of Philosophy_, 93.4: 740–56.
-* Eagle, Antony, 2010a, “Location and Perdurance”, _Oxford Studies in Metaphysics_, volume 5: 53–94.
-* –––, 2010b, “Duration in Relativistic Spacetime”, _Oxford Studies in Metaphysics_, volume 5: 113–8.
-* –––, 2016a, “Multiple Location Defended”, _Philosophical Studies_, 173: 2215–31.
-* –––, 2016b, “Persistence, Vagueness, and Location”, _Journal of Philosophy_, 113.10: 507–32.
-* Eddon, Maya, 2010, “Why Four-Dimensionalism Explains Coincidence”, _Australasian Journal of Philosophy_, 88.4: 721–28.
-* –––, 2010a, “Three Arguments from Temporary Intrinsics”, _Philosophy and Phenomenological Research_, 81.2: 605–19.
-* Effingham, Nikk, 2009, “Persistence, Composition and Identity”, _The Routledge Companion to Metaphysics_, ed. Le Poidevin, Simons, McGonigal and Cameron, London: Routledge, 296–309.
-* –––, 2010, “Mereological Explanation and Time Travel”, _Australasian Journal of Philosophy_, 88.2: 333–345.
-* –––, 2011, “Undermining Motivations for Universalism”, _Noûs_, 45.4: 696–713.
-* –––, 2011a, “Temporal Parts and Time Travel”, _Erkenntnis_, 74: 225–40.
-* –––, 2012 “Endurance and Perdurance”, _The Continuum Companion to Metaphysics_, ed. Manson and Barnard, London: Bloomsbury.
-* –––, 2013, “Harmoniously Investigating Concrete Structures”, _Thought_, 2.3: 190–95.
-* Effingham, Nikk and Melia, Joseph, 2007, “Endurantism and Timeless Worlds”, _Analysis_, 67: 140–47.
-* Effingham, Nikk and Robson, Jon, 2007, “A Mereological Challenge to Endurantism”, _Australasian Journal of Philosophy_, 85: 633–40.
-* Ehring, Douglas, 1995, “Personal Identity and the R-relation”, _Australasian Journal of Philosophy_, 73: 337–46.
-* –––, 1997, “Lewis, Temporary Intrinsics and Momentary Tropes”, _Analysis_, 57: 254–58.
-* –––, 2001, “Temporal Parts and Bundle Theory”, _Philosophical Studies_, 104: 163–8.
-* Einheuser, Iris, 2012, “Is There a (Meta)Problem of Change?”, _Analytic Philosophy_, 53.4: 344–51.
-* Eklund, Matti, 2019, “The Existence of Personites”, _Philosophical Studies_. doi: 10.1007/s11098-019-01298-w
-* Epstein, Brian, 2015, _The Ant Trap_, Oxford: Oxford University Press.
-* Evans, Gareth, 1978, “Can there be Vague Objects?”, _Analysis_, 38: 208.
-* Faller, August, 2019, “How Groups Persist”, _Synthese_. doi:10.1007/s11229-019-02514-0
-* Fan, Wenli, 2018, “Śāntarakṣita on Personal Identity: a Comparative Study”, _Philosophy East and West_, 68.3: 663–82.
-* Fine, Kit, 2000, “A Counter-Example to Locke’s Thesis”, _Monist_, 83: 357–61.
-* –––, 2003, “The Non-Identity of a Material Thing and its Matter”, _Mind_, 112: 195–234.
-* –––, 2008/2006, “In Defence of Three-Dimensionalism”, _Philosophy_, 83, supplement 62 (2008): 1–16; first published as a ‘Defense’ in _Journal of Philosophy_ CIII.12 (2006): 699–714.
-* Fiocco, M. Oreste, 2010, “Temporary Intrinsics and Relativization”, _Pacific Philosophical Quarterly_, 91.1: 64–77.
-* Forbes, Graeme, 1987, “Is there a Problem about Persistence? II”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 61: 137–55.
-* Friedell, David, 2020, “Why Can’t I Change Brueckner’s Eighth Symphony?”, _Philosophical Studies_, 177.3: 805–24.
-* Gallois, André, 1990, “Occasional Identity”, _Philosophical Studies_, 58: 203–24.
-* –––, 1998, _Occasions of Identity_, Oxford: Clarendon Press.
-* Garrett, Brian, 1991, “Vague Identity and Vague Objects”, _Noûs_, 25: 341–51.
-* Geach P.T., 1966, “Some Problems about Time”, _Proceedings of the British Academy_ , 60. Reprinted in van Inwagen and Zimmerman (eds.) _Metaphysics: The Big Questions_, Oxford: Blackwell.
-* –––, 1967, “Identity”, _Review of Metaphysics_, 21: 3–12.
-* Gibbard, A., 1975, “Contingent Identity”, _Journal of Philosophical Logic_, 4: 187–221.
-* Giberman, Daniel, 2017, “Bent Not Broken: Why Exemplification Simpliciter Remains a Problem for Eternalist Endurantism”, _Erkenntnis_, 82.5: 947–66.
-* –––, 2018, “A Reason for the Non-Specialist To Care about the Metaphysics of Properties and Persistence”, _Inquiry_, 61.2: 162–77.
-* –––, 2019a, “On Stage With Gunk”, _Australasian Journal of Philosophy_, 97.2: 228–38.
-* –––, 2019b, “Plurdurance”, _Philosophers’ Imprint_, 19.54.
-* Gibson, Ian and Pooley, Oliver, 2006, “Relativistic Persistence”, _Philosophical Perspectives_, 20: 157–98.
-* Gilmore, C.S., 2002, “Balashov on Special Relativity, Coexistence and Temporal Parts”, _Philosophical Studies_, 109: 241–63.
-* –––, 2006, “Where in the Relativistic World Are We?”, _Philosophical Perspectives_, 20: 199–236.
-* –––, 2007, “Time-Travel, Coinciding Objects and Persistence”, _Oxford Studies in Metaphysics_, volume 3: 177–98.
-* –––, 2008, “Persistence and Location in Relativistic Spacetime”, _Philosophy Compass_, 3.6: 1224–1254.
-* –––, 2010, “Coinciding Objects and Duration Properties: Reply to Eagle”, _Oxford Studies in Metaphysics_, volume 5: 95–111.
-* Gilmore, Cody, Costa, Damiano and Calosi, Claudio, 2016, “Relativity and Three Four-Dimensionalisms”, _Philosophy Compass_, 11.2: 102–20.
-* Giordani, C.S., and Costa, D., 2013, “From Times to Worlds and Back Again: a Transcendentist Theory of Persistence”, _Thought_, 2.3: 210–20.
-* Gomori, Marton, and Szabo, Laszlo E., 2019, “On the Persistence of the Magnetic Field”, _Journal for General Philosophy of Science_, 50.1: 43–61.
-* Gorham, Geoffrey, 2010, “Descartes on Persistence and Temporal Parts”, _Time and Identity_, edited by Campbell, O’Rourke and Silverstein, MIT Press, pp. 165–182.
-* Goswick, Dana Lynne, 2013, “Change and Identity Through Time”, _A Companion to the Philosophy of Time_, edited by Dyke and Bardon, John Wiley, 365–86.
-* Grygianiec, Mariusz, 2016, “Criteria of Identity and Two Modes of Persistence”, _Filozofia Nauki_, 24.2: 17–29.
-* Hales, Steven and Johnson, Timothy, 2003, “Endurantism, Perdurantism and Special Relativity”, _Philosophical Quarterly_, 53: 524–39.
-* –––, 2007, “Time for Change”, _Southern Journal of Philosophy_, 45: 497–513.
-* Hansson, Tobias, 2007, “The Problem(s) of Change Revisited”, _Dialectica_, 61.2: 265–274.
-* Hansson Wahlberg, Tobias, 2008, “Can I Be an Instantaneous Stage and Yet Persist Through Time?”, _Metaphysica_, 9.2: 235–39.
-* –––, 2009, “4-D Objects and Disposition Ascriptions”, _Philosophical Papers_, 38.1: 35–72.
-* –––, 2010, “The Tenseless Copula in Temporal Predication”, _Erkenntnis_, 72.2: 267–80.
-* –––, 2014a, “Institutional Objects, Reductionism, and Theories of Persistence”, _Dialectica_, 68.4: 525–62.
-* –––, 2014b, “The Endurance/Perdurance Controversy is No Storm in a Teacup”, _Axiomathes_, 24.4: 463–82.
-* –––, 2019, “The Creation of Institutional Reality, Special Theory of Relativity, and Mere Cambridge Change”, _Synthese_. doi:10.1007/s11229-019-02435-y
-* Harrington, J., 2005, “Discussion Note: K. Miller ‘Enduring Special Relativity’”, _Southern Journal of Philosophy_ 53: 241–4.
-* Haslanger, Sally, 1989a, “Persistence, Change and Explanation”, _Philosophical Studies_ 56: 1–28.
-* –––, 1989b, “Endurance and Temporary Intrinsics”, _Analysis_, 49: 119–125.
-* –––, 1992, “Ontology and Pragmatic Paradox”, _Proceedings of the Aristotelian Society_, 92: 293–314.
-* –––, 1994, “Humean Supervenience and Enduring Things”, _Australasian Journal of Philosophy_, 72: 339–59.
-* –––, 2003, “Persistence Through Time”, in Michael Loux and Dean Zimmerman (eds.) _The Oxford Handbook of Metaphysics_, Oxford: Oxford University Press.
-* Hawley, Katherine, 1999, “Persistence and Non-Supervenient Relations”, _Mind_, 108: 53–67.
-* –––, 2001, _How Things Persist_, Oxford: Oxford University Press.
-* –––, 2005, “Fission, Fusion and Intrinsic Facts”, _Philosophy and Phenomenological Research_, 71.3: 602–21.
-* –––, 2008, “Persistence and Determination”, _Philosophy_, 83, supplement 62 (special issue on _Being: Developments in Contemporary Metaphysics_): 197–212.
-* –––, 2009, “Metaphysics and Relativity”, _The Routledge Companion to Metaphysics_, ed. Le Poidevin, Simons, McGonigal and Cameron, London: Routledge, 507–16.
-* –––, 2015, “Lewis on Persistence”, _The Blackwell Companion to David Lewis_, ed. Loewer and Schaffer, Oxford: Wiley-Blackwell, 237–49.
-* –––, 2017, “Social Mereology”, _Journal of the American Philosophical Association_, 3.4: 395–411.
-* Hawthorne, John, 2006, “Three-Dimensionalism”, in his _Metaphysical Essays_, Oxford: Oxford University Press.
-* –––, 2008, “Three-Dimensionalism versus Four-Dimensionalism”, in _Contemporary Debates in Metaphysics_, edited by Hawthorne, Sider and Zimmerman, Oxford: Blackwell.
-* Hayashi, Itsuki, 2019, “A Buddhist Theory of Persistence: Śāntarakṣita and Kamalaśīla on Rebirth”, _Journal of Indian Philosophy_ 47.5: 979–1001.
-* Hedden, Brian, 2015, _Reasons Without Persons_, Oxford: Oxford University Press.
-* Heller, Mark, 1984, “Temporal Parts of Four-Dimensional Objects”, _Philosophical Studies_, 46.3: 323–334.
-* –––, 1990, _The Ontology of Physical Objects_, Cambridge: Cambridge University Press.
-* –––, 1992, “Things Change”, _Philosophy and Phenomenological Research_, 52: 695–704.
-* –––, 1996, “Against Metaphysical Vagueness”, _Philosophical Perspectives_, 10: 177–185.
-* –––, 2000, “Temporal Overlap is not Coincidence”, _Monist_, 83: 362–80.
-* Helm, Paul, 2009, “Jonathan Edwards and the Doctrine of Temporal Parts”, _Archiv für Geschichte der Philosophie_ 61.1: 37–51.
-* Hestevold, H.S., and Carter, W.R., 2002, “On Presentism, Endurance and Change”, _Canadian Journal of Philosophy_, 32: 491–510.
-* Hinchliff, M., 1996, “The Puzzle of Change”, _Philosophical Perspectives_, 10: 119–36.
-* Hirsch, Eli, 1982, _The Concept of Identity_, Oxford: Oxford University Press.
-* –––, 1999, “The Vagueness of Identity”, _Philosophical Topics_, 26, 139–58.
-* –––, 1999a, “Identity in the Talmud”, _Midwest Studies in Philosophy_, 23.1, 166–80.
-* –––, 2008, “Ontological Arguments: Interpretive Charity and Quantifier Variance”, in _Contemporary Debates in Metaphysics_, edited by Hawthorne, Sider and Zimmerman, Oxford: Blackwell.
-* Hochstetter, Kenneth, 2015, “Stages Can’t Act”, _Journal of Philosophical Research_, 40: 227–36.
-* Hochstetter, Kenneth, and Hess, Keith, 2020, “A Presentist-Friendly Definition of ‘Endures’”, _Philosophia_, 40: 227–36.
-* Hofweber, Thomas, 2009, “The Meta-Problem of Change”, _Noûs_, 43.2: 286–314.
-* Hofweber, Thomas and Velleman, David, 2011, “How To Endure”, _Philosophical Quarterly_, 61: 37–57.
-* Hudson, Hud, 1999, “Temporal Parts and Moral Personhood”, _Philosophical Studies_, 93: 299–316.
-* –––, 2000, “Universalism, Four-Dimensionalism and Vagueness”, _Philosophy and Phenomenological Research_, 60: 547–60.
-* –––, 2001, _A Materialist Metaphysics of the Human Person_, Ithaca: Cornell University Press.
-* –––, 2002, “Moving Faster than Light”, _Analysis_, 62: 203–05.
-* –––, 2003, “Immanent Causality and Diachronic Composition”, _Philosophical Papers_, 32: 15–22.
-* –––, 2005, _The Metaphysics of Hyperspace_, Oxford: Oxford University Press.
-* Hughes, C., 1997a, “Same-Kind Coincidence and the Ship of Theseus”, _Mind_, 106: 53–67.
-* –––, 1997b, “An Incredible Coincidence?”, _Mind_, 106: 769–72.
-* Iaquinto, Samuele, 2019, “Fragmentalist Presentist Perdurantism”, _Philosophia_, 47: 693–703.
-* Ingthorsson, R.D., 2009, “Can Things Endure in Tenseless Time?”, _SATS_, 10.1: 79–99.
-* Inman, Ross, 2014, “Neo-Aristotelian Plenitude”, _Philosophical Studies_, 168.3: 583–97.
-* Jansen, Ludger, 2008, “The Diachronic Identity of Social Entities”, in _Persistence_, edited by Kanzian, Ontos Publishing: 49–71.
-* Janzen, Greg, 2011, “On Three Arguments Against Endurantism”, _Metaphysica_, 12: 101–15.
-* Jaskolla, Ludwig, 2017, _Real Fourdimensionalism_, Springer Publishing.
-* Johnston, Mark, 1987, “Is there a Problem about Persistence? I”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 61: 107–35.
-* –––, 1992, “Constitution is not Identity”, _Mind_, 101: 89–105.
-* –––, 2016, “Personites, Maximality and Ontological Trash”, _Philosophical Perspectives_, 30.1: 198–228.
-* –––, 2017, “The Personite Problem: Should Practical Reason be Tabled? ”, _Noûs_, 51.3: 617–44.
-* Jubien, Michael, 1993, _Ontology, Modality and the Fallacy of Reference_, Cambridge: Cambridge University Press.
-* Kaiserman, Alex, 2019, “Stage Theory and the Personite Problem”, _Analysis_, 79.2: 215–22.
-* Keefe, Rosanna and Smith, Peter (eds.), 1997, _Vagueness: A Reader_, Cambridge, MA: MIT Press.
-* Keinänen, Markku and Hakkarainen, Jani, 2010, “Persistence of Simple Substances”, _Metaphysica_, 11.2: 119–35.
-* Klein, C.J., 1999, “Change and Temporal Movement”, _American Philosophical Quarterly_, 36: 225–39.
-* Kleinschmidt, Shieva (ed.), 2014, _Mereology and Location_, Oxford: Oxford University Press.
-* –––, 2017, “Refining Four-Dimensionalism”, _Synthese_, 194.11: 4623–40.
-* Korman, Daniel Z., 2010, “The Argument from Vagueness”, _Philosophy Compass_, 5.10: 891–901.
-* –––, 2015, _Objects: Nothing Out of the Ordinary_, Oxford University Press.
-* Koslicki, K., 2003, “The Crooked Path from Vagueness to Four-Dimensionalism”, _Philosophical Studies_, 114: 107-34.
-* Kovacs, David Mark, 2016, “Self-Made People”, _Mind_, 125: 1071–99.
-* –––, 2019, “Diachronic Self-Making”, _Australasian Journal of Philosophy_.
-* Kurtsal Steen, Irem, 2010,“Three-dimensionalist’s Semantic Solution to Diachronic Vagueness”, _Philosophical Studies_, 150.1, 79–96.
-* Langford, Simon, 2016,“3D Cohabitation”, _Erkenntnis_, 81, 1195–1210.
-* Leonard, Matt, 2018,“Enduring Through Gunk”, _Erkenntnis_, 83.4, 753–71.
-* Le Poidevin, Robin, 1991, _Change, Cause and Contradiction_, Basingstoke: Macmillan.
-* –––, 2000, “Continuants and Continuity”, _Monist_, 83: 381–98.
-* Levey, S., 1997, “Coincidence and Principles of Composition”, _Analysis_ 57: 1–10.
-* Lewis, David, 1971, “Counterparts of Persons and their Bodies”, _Journal of Philosophy_, 68: 203–211.
-* –––, 1976, “Survival and Identity”, in Amelie Rorty (ed.) _The Identities of Persons_, Berkeley, CA: University of California Press, 117–40. Reprinted with significant postscripts in Lewis’s _Philosophical Papers_ volume I, Oxford: Oxford University Press.
-* –––, 1986a, _On the Plurality of Worlds_, Oxford: Blackwell.
-* –––, 1986b, _Philosophical Papers, volume II_. Oxford: Oxford University Press.
-* –––, 1988, “Re-arrangement of Particles: Reply to Lowe”, _Analysis_, 48: 65–72.
-* –––, 1999, “Zimmerman and the Spinning Sphere”, _Australasian Journal of Philosophy_, 77: 209–12.
-* –––, 2002, “Tensing the Copula”, _Mind_ 111: 1–13.
-* Loewer, Barry, 1996, “Humean Supervenience”, _Philosophical Topics,_ 24: 101–127.
-* Lombard, L.B., 1994, “The Doctrine of Temporal Parts and the ‘No-Change’ Objection”, _Philosophy and Phenomenological Research_, 54.2: 365–72.
-* –––, 1999, “On the Alleged Incompatibility of Presentism and Temporal Parts”, _Philosophia_, 27: 253–60.
-* –––., 2003, “The Lowe Road to the Problem of Temporary Intrinsics”, _Philosophical Studies_, 112: 163–85.
-* –––., 2006, “Scope Fallacies and the ‘Decisive Objection’ against Endurance”, _Philosophia_, 34.4: 441–52.
-* Longenecker, Michael Tze-Sung, 2019, “Perdurantism, Fecklessness, and the Veil of Ignorance”, _Philosophical Studies_. doi:10.1007/s11098-019-01326-9
-* Loux, Michael J., 1998, _Metaphysics: A Contemporary Introduction_, London: Routledge.
-* Lowe, E.J., 1983, “Instantiation, Identity and Constitution”, _Philosophical Studies_, 44: 45–59.
-* –––, 1987, “Lewis on Perdurance versus Endurance”, _Analysis_, 47: 152–4.
-* –––, 1988, “The Problems of Intrinsic Change: Rejoinder to Lewis”, _Analysis_, 48: 72–77.
-* –––, 1995, “Coinciding Objects: In Defence of the ‘Standard Account’”, _Analysis_, 55: 171–178.
-* –––, 1996, _Subjects of Experience_, Cambridge: Cambridge University Press.
-* –––, 1997, “Objects and Criteria of Identity”, in Hale and Wright (eds.) _A Companion to the Philosophy of Language_ Oxford: Blackwell.
+* Aliyev, Alexey, 2017, “Musical Perdurantism and the Problem of Intermittent Existence”, *Grazer Philosophische Studien*, 94: 83–100.
+* Alward, Peter, 2019, “Musical Ontology and the Question of Persistence“, *Acta Analytica*.
+* Armstrong, D. M., 1980, “Identity Through Time”, in Peter van Inwagen (ed.) *Time and Cause*, Dordrecht: D. Reidel: 67–78.
+* Baber, Harriet E., 2002, “Sabellianism Reconsidered”, *Sophia*, 41: 1–18.
+* Baker, Lynne Rudder, 1997, “Why Constitution is not Identity”, *Journal of Philosophy*, 94: 599–621.
+* –––, 2000, *Persons and Bodies: a Constitution View*, Cambridge: Cambridge University Press.
+* –––, 2013, “Three-Dimensionalism Rescued: a Brief Reply to Michael Della Rocca”, *Journal of Philosophy*, 110.3: 166–70.
+* Balashov, Yuri, 1999, “Relativistic Objects”, *Noûs*, 33: 644–62.
+* –––, 2000a, “Persistence and Space-Time: Philosophical Lessons of the Pole and the Barn”, *Monist*, 83: 321–40.
+* –––, 2000b “Enduring and Perduring Objects in Minkowski Space-Time”, *Philosophical Studies*, 99: 129–66.
+* –––, 2002, “On Stages, Worms and Relativity”, in Craig Callender (ed.) *Time, Reality and Experience*, Cambridge: Cambridge University Press: 223–52.
+* –––, 2003a, “Temporal Parts and Superluminal Motion”, *Philosophical Papers*, 32: 1–13.
+* –––, 2003b, “Restricted Diachronic Composition, Immanent Causality and Objecthood”, *Philosophical Papers*, 32: 23–30.
+* –––, 2005, “On Vagueness, Four-Dimensionalism and Diachronic Universalism”, *Australasian Journal of Philosophy*, 83.4: 523–31.
+* –––, 2005a, “Special Relativity, Coexistence, and Temporal Parts: a Reply to Gilmore”, *Philosophical Studies*, 124: 1–40.
+* –––, 2007, “Defining ‘Exdurance’”, *Philosophical Studies*, 133: 143–9.
+* –––, 2007a, “About Stage Universalism”, *Philosophical Quarterly*, 57: 21–39.
+* –––, 2008, “Persistence and Multi-Location in Spacetime”, *The Ontology of Spacetime*, volume 2, ed. D. Dieks, Amsterdam: Elsevier, 59–81.
+* –––, 2009, “Pegs, Boards, and Relativistic Persistence”, *Pacific Philosophical Quarterly*, 90.2: 167–75.
+* –––, 2010, *Persistence and Spacetime*, Oxford: Oxford University Press.
+* –––, 2011, “Persistence ”, *The Oxford Handbook of Philosophy of Time*, ed. Craig Callender, Oxford: Oxford University Press.
+* –––, 2014, “On the Invariance and Intrinsicality of Four-Dimensional Shapes in Special Relativity”, *Analysis*, 74.4: 608–12.
+* Barker, S. and Dowe, P., 2003, “Paradoxes of Multi-Location”, *Analysis*, 63: 106-14.
+* –––, 2005, “Endurance is Paradoxical”, *Analysis*, 65: 69–75.
+* Baron, Sam, 2019, “How To Survive Presentism”, *Inquiry*, 62.6: 659–73.
+* Baxter, D., 1989, “Identity Through Time and the Discernibility of Identicals”, *Analysis*, 49: 125–31.
+* Beebee, H. and Rush, M., 2003, “Non-Paradoxical Multi-Location”, *Analysis*, 63.4: 311-17.
+* Benovsky, Jiri, 2009, “Presentism and Persistence”, *Pacific Philosophical Quarterly*, 90.3: 291–309.
+* –––, 2009a, “On (not) Being in Two Places at the Same Time: an argument against Endurantism”, *American Philosophical Quarterly*, 46.3: 239–48.
+* –––, 2011, “Endurance, Perdurance, and Metaontology”, *SATS*, 12.2: 159–77.
+* –––, 2016, “Endurance, Dualism, Temporal Passage, and Intuitions”, *Review of Philosophy and Psychology*, 7.4: 851–62.
+* Bittner, Thomas, Donnelly, Maureen, and Smith, Barry, 2004, “Endurants and Perdurants in Directly Depicting Ontologies”, *AI Communications*, 13: 247–58.
+* Bottani, Andreas C., 2016, “Bringing Back Intrinsics to Enduring Things”, *Synthese*: 1–19.
+* Botterell, Andrew, 2004, “Temporal Parts and Temporary Intrinsics”, *Metaphysica*: 1–19.
+* Braddon-Mitchell, David and Miller, Kristie, 2004, “The Loneliness of Stages”, *Analysis*, 64.3: 235-42.
+* Braddon-Mitchell, David and West, Caroline, 2001, “Temporal Phase Pluralism”, *Philosophy and Phenomenological Research*, 62: 59–83.
+* Briggs, Rachael and Nolan, Daniel, 2015, “Utility Monsters for the Fission Age”, *Pacific Philosophical Quarterly*, 96.3: 392–407.
+* Brink, David O., 1997, “Rational Egoism and the Separateness of Persons”, in J. Dancy (ed.) *Reading Parfit*, Oxford: Blackwell: 96–134.
+* Broad, C.D., 1927, *Scientific Thought*, London: Kegan Paul.
+* Brogaard, B., 2000, “Presentist Four-Dimensionalism”, *Monist*, 83: 341–56.
+* Broome, John, 1991, *Weighing Goods*, Oxford: Basil Blackwell.
+* Brower, Jeffrey E., 2010, “Aristotelian Endurantism: A New Solution to the Problem of Temporary Intrinsics”, *Mind*, 119: 883–905.
+* Browning, Douglas, 1988, “Sameness Through Change and the Coincidence of Properties”, *Philosophy and Phenomenological Research*, 49: 103–21.
+* Brueckner, Anthony, 2009, “Endurantism and the Psychological Approach to Personal Identity”, *Theoria*, 75: 28-33.
+* Brzozowski, Jacek, 2017, “Enduring Simples and the Stages They Compose”, *Pacific Philosophical Quarterly*, 98: 51–64.
+* –––, 2019, “More Work for Hybrid Presentism”, *Metaphysica*, 20.1: 103–115.
+* Burke, Michael, 1992, “Copper Statues and Pieces of Copper: A Challenge to the Standard Account”, *Analysis*, 52: 12–17.
+* –––, 1994a, “Dion and Theon: An Essentialist Solution to an Ancient Puzzle”, *Journal of Philosophy*, 91: 129–139.
+* –––, 1994b, “Preserving the Principle of One Object to a Place: A Novel Account of the Relations among Objects, Sorts, Sortals and Persistence Conditions”, *Philosophy and Phenomenological Research*, 54: 591–624.
+* –––, 1997a, “Coinciding Objects: Reply to Lowe and Denkel”, *Analysis*, 57: 11–18.
+* –––, 1997b, “Persons and Bodies: How to Avoid the New Dualism”, *American Philosophical Quarterly*, 34: 457–67.
+* Butterfield, Jeremy, 1985, “Spatial and Temporal Parts”, *The Philosophical Quarterly*, 35: 32–44.
+* –––, 2005, “On the Persistence of Particles”, *Foundations of Physics*, 35: 233–69.
+* –––, 2006, “The Rotating Discs Argument Defeated”, *British Journal for the Philosophy of Science*, 57: 1–45.
+* Cahen, Muriel, 2017, “L’Individuation des Parties Temporalles”, *Dialogue: Canadian Philosophical Review*, 56.4: 747–73.
+* Callender, Craig, 2001, “Humean Supervenience and Rotating Homogeneous Matter”, *Mind*, 110: 25–44.
+* Calosi, Claudio, 2015, “The Relativistic Invariance of 4D Shapes”, *Studies in History and Philosophy of Modern Physics*, 50: 1–4.
+* Campdelacreu, Marta, 2018, “Stage Universalism, Voints, and Sorts”, *Disputatio*, 3.28: 293–307.
+* Caplan, Ben and Matheson, Carl, 2006, “Defending Musical Perdurantism”, *British Journal of Aesthetics*, 46.1: 59–69.
+* Carter, W.R., 1997, “Dion’s Left Foot (and the Price of Burkean Economy)”, *Philosophy and Phenomenological Research*, 57: 371–9.
+* Carter, W.R. and Hestevold, H.S., 1994, “On Passage and Persistence”, *American Philosophical Quarterly*, 31: 269–83.
+* Chisholm, Roderick M., 1973, “Parts as Essential to their Wholes”, *Review of Metaphysics*, 26: 581–603.
+* –––, 1976, *Person and Object*, London: Allen and Unwin.
+* Costa, Damiano, 2017, “The Transcendentist Theory of Persistence”, *Journal of Philosophy*, 114(2): 57–75. doi:10.5840/jphil201711425
+* –––, 2020, “Was Bonaventure a Four-Dimensionalist?”, *British Journal for the History of Philosophy*, 28(2):393–404.
+* Cotnoir, Aaron, 2015, “Review of *Mereology and Location*, edited by Shieva Kleinschmidt”, *Notre Dame Philosophical Reviews*.
+* Cowles, D.W., 1994, “On van Inwagen’s Defense of Vague Identity”, *Philosophical Perspectives*, 8: 137–58.
+* Crisp, Thomas and Smith, Donald, 2005, “‘Wholly Present’ Defined”, *Philosophy and Phenomenological Research*, 71.2: 318–44.
+* Curtis, Benjamin and Robson, Jon, 2016, *A Critical Introduction to the Metaphysics of Time*, Bloomsbury Press.
+* Daniels, Paul Richard, 2014, “Occupy Wall: A Mereological Puzzle and the Burdens of Endurantism”, *Australasian Journal of Philosophy*, 92.1: 91–101.
+* –––, 2019, “Persistence, Temporal Extension, and Transdurantism”, *Metaphysica*, 20.1: 83–102.
+* Davidson, Matthew, 2013, “Special Relativity and the Intrinsicality of Shape”, *Analysis*, 74.1: 57–58.
+* Della Rocca, Michael, 2011, “Primitive Persistence and the Impasse between Three-Dimensionalism and Four-Dimensionalism”, *Journal of Philosophy*, 108.11: 591–616.
+* Demarest, Heather, 2016, “Fission May Kill You (But Not for the Reasons You Thought)”, *Philosophy and Phenomenological Research*, 93.3: 565–82.
+* Denkel, Arda, 1995, “Theon’s Tale: Does a Cambridge Change result in a Substantial Change?”, *Analysis*, 55: 166–170.
+* Dietz, Alexander, 2020, “Are My Temporal Parts Agents?”, *Philosophy and Phenomenological Research*, 100.2: 362–79.
+* Dodd, Julian, 2004, “Types, Continuants and the Ontology of Music”, *British Journal of Aesthetics*, 44.4: 342–60.
+* Doepke, Frederick C., 1982, “Spatially Coinciding Objects”, *Ratio*, 24: 45–60.
+* Donnelly, Maureen, 2011, “Endurantist and Perdurantist Accounts of Persistence”, *Philosophical Studies*, 154.1: 27–51.
+* –––, 2016, “Three-Dimensionalism”, in *Oxford Handbook of Philosophy Online*, edited by M. Davis, Oxford University Press.
+* Duncan, Matt, 2015, “I Think Therefore I Persist”, *Australasian Journal of Philosophy*, 93.4: 740–56.
+* Eagle, Antony, 2010a, “Location and Perdurance”, *Oxford Studies in Metaphysics*, volume 5: 53–94.
+* –––, 2010b, “Duration in Relativistic Spacetime”, *Oxford Studies in Metaphysics*, volume 5: 113–8.
+* –––, 2016a, “Multiple Location Defended”, *Philosophical Studies*, 173: 2215–31.
+* –––, 2016b, “Persistence, Vagueness, and Location”, *Journal of Philosophy*, 113.10: 507–32.
+* Eddon, Maya, 2010, “Why Four-Dimensionalism Explains Coincidence”, *Australasian Journal of Philosophy*, 88.4: 721–28.
+* –––, 2010a, “Three Arguments from Temporary Intrinsics”, *Philosophy and Phenomenological Research*, 81.2: 605–19.
+* Effingham, Nikk, 2009, “Persistence, Composition and Identity”, *The Routledge Companion to Metaphysics*, ed. Le Poidevin, Simons, McGonigal and Cameron, London: Routledge, 296–309.
+* –––, 2010, “Mereological Explanation and Time Travel”, *Australasian Journal of Philosophy*, 88.2: 333–345.
+* –––, 2011, “Undermining Motivations for Universalism”, *Noûs*, 45.4: 696–713.
+* –––, 2011a, “Temporal Parts and Time Travel”, *Erkenntnis*, 74: 225–40.
+* –––, 2012 “Endurance and Perdurance”, *The Continuum Companion to Metaphysics*, ed. Manson and Barnard, London: Bloomsbury.
+* –––, 2013, “Harmoniously Investigating Concrete Structures”, *Thought*, 2.3: 190–95.
+* Effingham, Nikk and Melia, Joseph, 2007, “Endurantism and Timeless Worlds”, *Analysis*, 67: 140–47.
+* Effingham, Nikk and Robson, Jon, 2007, “A Mereological Challenge to Endurantism”, *Australasian Journal of Philosophy*, 85: 633–40.
+* Ehring, Douglas, 1995, “Personal Identity and the R-relation”, *Australasian Journal of Philosophy*, 73: 337–46.
+* –––, 1997, “Lewis, Temporary Intrinsics and Momentary Tropes”, *Analysis*, 57: 254–58.
+* –––, 2001, “Temporal Parts and Bundle Theory”, *Philosophical Studies*, 104: 163–8.
+* Einheuser, Iris, 2012, “Is There a (Meta)Problem of Change?”, *Analytic Philosophy*, 53.4: 344–51.
+* Eklund, Matti, 2019, “The Existence of Personites”, *Philosophical Studies*. doi: 10.1007/s11098-019-01298-w
+* Epstein, Brian, 2015, *The Ant Trap*, Oxford: Oxford University Press.
+* Evans, Gareth, 1978, “Can there be Vague Objects?”, *Analysis*, 38: 208.
+* Faller, August, 2019, “How Groups Persist”, *Synthese*. doi:10.1007/s11229-019-02514-0
+* Fan, Wenli, 2018, “Śāntarakṣita on Personal Identity: a Comparative Study”, *Philosophy East and West*, 68.3: 663–82.
+* Fine, Kit, 2000, “A Counter-Example to Locke’s Thesis”, *Monist*, 83: 357–61.
+* –––, 2003, “The Non-Identity of a Material Thing and its Matter”, *Mind*, 112: 195–234.
+* –––, 2008/2006, “In Defence of Three-Dimensionalism”, *Philosophy*, 83, supplement 62 (2008): 1–16; first published as a ‘Defense’ in *Journal of Philosophy* CIII.12 (2006): 699–714.
+* Fiocco, M. Oreste, 2010, “Temporary Intrinsics and Relativization”, *Pacific Philosophical Quarterly*, 91.1: 64–77.
+* Forbes, Graeme, 1987, “Is there a Problem about Persistence? II”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 61: 137–55.
+* Friedell, David, 2020, “Why Can’t I Change Brueckner’s Eighth Symphony?”, *Philosophical Studies*, 177.3: 805–24.
+* Gallois, André, 1990, “Occasional Identity”, *Philosophical Studies*, 58: 203–24.
+* –––, 1998, *Occasions of Identity*, Oxford: Clarendon Press.
+* Garrett, Brian, 1991, “Vague Identity and Vague Objects”, *Noûs*, 25: 341–51.
+* Geach P.T., 1966, “Some Problems about Time”, *Proceedings of the British Academy* , 60. Reprinted in van Inwagen and Zimmerman (eds.) *Metaphysics: The Big Questions*, Oxford: Blackwell.
+* –––, 1967, “Identity”, *Review of Metaphysics*, 21: 3–12.
+* Gibbard, A., 1975, “Contingent Identity”, *Journal of Philosophical Logic*, 4: 187–221.
+* Giberman, Daniel, 2017, “Bent Not Broken: Why Exemplification Simpliciter Remains a Problem for Eternalist Endurantism”, *Erkenntnis*, 82.5: 947–66.
+* –––, 2018, “A Reason for the Non-Specialist To Care about the Metaphysics of Properties and Persistence”, *Inquiry*, 61.2: 162–77.
+* –––, 2019a, “On Stage With Gunk”, *Australasian Journal of Philosophy*, 97.2: 228–38.
+* –––, 2019b, “Plurdurance”, *Philosophers’ Imprint*, 19.54.
+* Gibson, Ian and Pooley, Oliver, 2006, “Relativistic Persistence”, *Philosophical Perspectives*, 20: 157–98.
+* Gilmore, C.S., 2002, “Balashov on Special Relativity, Coexistence and Temporal Parts”, *Philosophical Studies*, 109: 241–63.
+* –––, 2006, “Where in the Relativistic World Are We?”, *Philosophical Perspectives*, 20: 199–236.
+* –––, 2007, “Time-Travel, Coinciding Objects and Persistence”, *Oxford Studies in Metaphysics*, volume 3: 177–98.
+* –––, 2008, “Persistence and Location in Relativistic Spacetime”, *Philosophy Compass*, 3.6: 1224–1254.
+* –––, 2010, “Coinciding Objects and Duration Properties: Reply to Eagle”, *Oxford Studies in Metaphysics*, volume 5: 95–111.
+* Gilmore, Cody, Costa, Damiano and Calosi, Claudio, 2016, “Relativity and Three Four-Dimensionalisms”, *Philosophy Compass*, 11.2: 102–20.
+* Giordani, C.S., and Costa, D., 2013, “From Times to Worlds and Back Again: a Transcendentist Theory of Persistence”, *Thought*, 2.3: 210–20.
+* Gomori, Marton, and Szabo, Laszlo E., 2019, “On the Persistence of the Magnetic Field”, *Journal for General Philosophy of Science*, 50.1: 43–61.
+* Gorham, Geoffrey, 2010, “Descartes on Persistence and Temporal Parts”, *Time and Identity*, edited by Campbell, O’Rourke and Silverstein, MIT Press, pp. 165–182.
+* Goswick, Dana Lynne, 2013, “Change and Identity Through Time”, *A Companion to the Philosophy of Time*, edited by Dyke and Bardon, John Wiley, 365–86.
+* Grygianiec, Mariusz, 2016, “Criteria of Identity and Two Modes of Persistence”, *Filozofia Nauki*, 24.2: 17–29.
+* Hales, Steven and Johnson, Timothy, 2003, “Endurantism, Perdurantism and Special Relativity”, *Philosophical Quarterly*, 53: 524–39.
+* –––, 2007, “Time for Change”, *Southern Journal of Philosophy*, 45: 497–513.
+* Hansson, Tobias, 2007, “The Problem(s) of Change Revisited”, *Dialectica*, 61.2: 265–274.
+* Hansson Wahlberg, Tobias, 2008, “Can I Be an Instantaneous Stage and Yet Persist Through Time?”, *Metaphysica*, 9.2: 235–39.
+* –––, 2009, “4-D Objects and Disposition Ascriptions”, *Philosophical Papers*, 38.1: 35–72.
+* –––, 2010, “The Tenseless Copula in Temporal Predication”, *Erkenntnis*, 72.2: 267–80.
+* –––, 2014a, “Institutional Objects, Reductionism, and Theories of Persistence”, *Dialectica*, 68.4: 525–62.
+* –––, 2014b, “The Endurance/Perdurance Controversy is No Storm in a Teacup”, *Axiomathes*, 24.4: 463–82.
+* –––, 2019, “The Creation of Institutional Reality, Special Theory of Relativity, and Mere Cambridge Change”, *Synthese*. doi:10.1007/s11229-019-02435-y
+* Harrington, J., 2005, “Discussion Note: K. Miller ‘Enduring Special Relativity’”, *Southern Journal of Philosophy* 53: 241–4.
+* Haslanger, Sally, 1989a, “Persistence, Change and Explanation”, *Philosophical Studies* 56: 1–28.
+* –––, 1989b, “Endurance and Temporary Intrinsics”, *Analysis*, 49: 119–125.
+* –––, 1992, “Ontology and Pragmatic Paradox”, *Proceedings of the Aristotelian Society*, 92: 293–314.
+* –––, 1994, “Humean Supervenience and Enduring Things”, *Australasian Journal of Philosophy*, 72: 339–59.
+* –––, 2003, “Persistence Through Time”, in Michael Loux and Dean Zimmerman (eds.) *The Oxford Handbook of Metaphysics*, Oxford: Oxford University Press.
+* Hawley, Katherine, 1999, “Persistence and Non-Supervenient Relations”, *Mind*, 108: 53–67.
+* –––, 2001, *How Things Persist*, Oxford: Oxford University Press.
+* –––, 2005, “Fission, Fusion and Intrinsic Facts”, *Philosophy and Phenomenological Research*, 71.3: 602–21.
+* –––, 2008, “Persistence and Determination”, *Philosophy*, 83, supplement 62 (special issue on *Being: Developments in Contemporary Metaphysics*): 197–212.
+* –––, 2009, “Metaphysics and Relativity”, *The Routledge Companion to Metaphysics*, ed. Le Poidevin, Simons, McGonigal and Cameron, London: Routledge, 507–16.
+* –––, 2015, “Lewis on Persistence”, *The Blackwell Companion to David Lewis*, ed. Loewer and Schaffer, Oxford: Wiley-Blackwell, 237–49.
+* –––, 2017, “Social Mereology”, *Journal of the American Philosophical Association*, 3.4: 395–411.
+* Hawthorne, John, 2006, “Three-Dimensionalism”, in his *Metaphysical Essays*, Oxford: Oxford University Press.
+* –––, 2008, “Three-Dimensionalism versus Four-Dimensionalism”, in *Contemporary Debates in Metaphysics*, edited by Hawthorne, Sider and Zimmerman, Oxford: Blackwell.
+* Hayashi, Itsuki, 2019, “A Buddhist Theory of Persistence: Śāntarakṣita and Kamalaśīla on Rebirth”, *Journal of Indian Philosophy* 47.5: 979–1001.
+* Hedden, Brian, 2015, *Reasons Without Persons*, Oxford: Oxford University Press.
+* Heller, Mark, 1984, “Temporal Parts of Four-Dimensional Objects”, *Philosophical Studies*, 46.3: 323–334.
+* –––, 1990, *The Ontology of Physical Objects*, Cambridge: Cambridge University Press.
+* –––, 1992, “Things Change”, *Philosophy and Phenomenological Research*, 52: 695–704.
+* –––, 1996, “Against Metaphysical Vagueness”, *Philosophical Perspectives*, 10: 177–185.
+* –––, 2000, “Temporal Overlap is not Coincidence”, *Monist*, 83: 362–80.
+* Helm, Paul, 2009, “Jonathan Edwards and the Doctrine of Temporal Parts”, *Archiv für Geschichte der Philosophie* 61.1: 37–51.
+* Hestevold, H.S., and Carter, W.R., 2002, “On Presentism, Endurance and Change”, *Canadian Journal of Philosophy*, 32: 491–510.
+* Hinchliff, M., 1996, “The Puzzle of Change”, *Philosophical Perspectives*, 10: 119–36.
+* Hirsch, Eli, 1982, *The Concept of Identity*, Oxford: Oxford University Press.
+* –––, 1999, “The Vagueness of Identity”, *Philosophical Topics*, 26, 139–58.
+* –––, 1999a, “Identity in the Talmud”, *Midwest Studies in Philosophy*, 23.1, 166–80.
+* –––, 2008, “Ontological Arguments: Interpretive Charity and Quantifier Variance”, in *Contemporary Debates in Metaphysics*, edited by Hawthorne, Sider and Zimmerman, Oxford: Blackwell.
+* Hochstetter, Kenneth, 2015, “Stages Can’t Act”, *Journal of Philosophical Research*, 40: 227–36.
+* Hochstetter, Kenneth, and Hess, Keith, 2020, “A Presentist-Friendly Definition of ‘Endures’”, *Philosophia*, 40: 227–36.
+* Hofweber, Thomas, 2009, “The Meta-Problem of Change”, *Noûs*, 43.2: 286–314.
+* Hofweber, Thomas and Velleman, David, 2011, “How To Endure”, *Philosophical Quarterly*, 61: 37–57.
+* Hudson, Hud, 1999, “Temporal Parts and Moral Personhood”, *Philosophical Studies*, 93: 299–316.
+* –––, 2000, “Universalism, Four-Dimensionalism and Vagueness”, *Philosophy and Phenomenological Research*, 60: 547–60.
+* –––, 2001, *A Materialist Metaphysics of the Human Person*, Ithaca: Cornell University Press.
+* –––, 2002, “Moving Faster than Light”, *Analysis*, 62: 203–05.
+* –––, 2003, “Immanent Causality and Diachronic Composition”, *Philosophical Papers*, 32: 15–22.
+* –––, 2005, *The Metaphysics of Hyperspace*, Oxford: Oxford University Press.
+* Hughes, C., 1997a, “Same-Kind Coincidence and the Ship of Theseus”, *Mind*, 106: 53–67.
+* –––, 1997b, “An Incredible Coincidence?”, *Mind*, 106: 769–72.
+* Iaquinto, Samuele, 2019, “Fragmentalist Presentist Perdurantism”, *Philosophia*, 47: 693–703.
+* Ingthorsson, R.D., 2009, “Can Things Endure in Tenseless Time?”, *SATS*, 10.1: 79–99.
+* Inman, Ross, 2014, “Neo-Aristotelian Plenitude”, *Philosophical Studies*, 168.3: 583–97.
+* Jansen, Ludger, 2008, “The Diachronic Identity of Social Entities”, in *Persistence*, edited by Kanzian, Ontos Publishing: 49–71.
+* Janzen, Greg, 2011, “On Three Arguments Against Endurantism”, *Metaphysica*, 12: 101–15.
+* Jaskolla, Ludwig, 2017, *Real Fourdimensionalism*, Springer Publishing.
+* Johnston, Mark, 1987, “Is there a Problem about Persistence? I”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 61: 107–35.
+* –––, 1992, “Constitution is not Identity”, *Mind*, 101: 89–105.
+* –––, 2016, “Personites, Maximality and Ontological Trash”, *Philosophical Perspectives*, 30.1: 198–228.
+* –––, 2017, “The Personite Problem: Should Practical Reason be Tabled? ”, *Noûs*, 51.3: 617–44.
+* Jubien, Michael, 1993, *Ontology, Modality and the Fallacy of Reference*, Cambridge: Cambridge University Press.
+* Kaiserman, Alex, 2019, “Stage Theory and the Personite Problem”, *Analysis*, 79.2: 215–22.
+* Keefe, Rosanna and Smith, Peter (eds.), 1997, *Vagueness: A Reader*, Cambridge, MA: MIT Press.
+* Keinänen, Markku and Hakkarainen, Jani, 2010, “Persistence of Simple Substances”, *Metaphysica*, 11.2: 119–35.
+* Klein, C.J., 1999, “Change and Temporal Movement”, *American Philosophical Quarterly*, 36: 225–39.
+* Kleinschmidt, Shieva (ed.), 2014, *Mereology and Location*, Oxford: Oxford University Press.
+* –––, 2017, “Refining Four-Dimensionalism”, *Synthese*, 194.11: 4623–40.
+* Korman, Daniel Z., 2010, “The Argument from Vagueness”, *Philosophy Compass*, 5.10: 891–901.
+* –––, 2015, *Objects: Nothing Out of the Ordinary*, Oxford University Press.
+* Koslicki, K., 2003, “The Crooked Path from Vagueness to Four-Dimensionalism”, *Philosophical Studies*, 114: 107-34.
+* Kovacs, David Mark, 2016, “Self-Made People”, *Mind*, 125: 1071–99.
+* –––, 2019, “Diachronic Self-Making”, *Australasian Journal of Philosophy*.
+* Kurtsal Steen, Irem, 2010,“Three-dimensionalist’s Semantic Solution to Diachronic Vagueness”, *Philosophical Studies*, 150.1, 79–96.
+* Langford, Simon, 2016,“3D Cohabitation”, *Erkenntnis*, 81, 1195–1210.
+* Leonard, Matt, 2018,“Enduring Through Gunk”, *Erkenntnis*, 83.4, 753–71.
+* Le Poidevin, Robin, 1991, *Change, Cause and Contradiction*, Basingstoke: Macmillan.
+* –––, 2000, “Continuants and Continuity”, *Monist*, 83: 381–98.
+* Levey, S., 1997, “Coincidence and Principles of Composition”, *Analysis* 57: 1–10.
+* Lewis, David, 1971, “Counterparts of Persons and their Bodies”, *Journal of Philosophy*, 68: 203–211.
+* –––, 1976, “Survival and Identity”, in Amelie Rorty (ed.) *The Identities of Persons*, Berkeley, CA: University of California Press, 117–40. Reprinted with significant postscripts in Lewis’s *Philosophical Papers* volume I, Oxford: Oxford University Press.
+* –––, 1986a, *On the Plurality of Worlds*, Oxford: Blackwell.
+* –––, 1986b, *Philosophical Papers, volume II*. Oxford: Oxford University Press.
+* –––, 1988, “Re-arrangement of Particles: Reply to Lowe”, *Analysis*, 48: 65–72.
+* –––, 1999, “Zimmerman and the Spinning Sphere”, *Australasian Journal of Philosophy*, 77: 209–12.
+* –––, 2002, “Tensing the Copula”, *Mind* 111: 1–13.
+* Loewer, Barry, 1996, “Humean Supervenience”, *Philosophical Topics,* 24: 101–127.
+* Lombard, L.B., 1994, “The Doctrine of Temporal Parts and the ‘No-Change’ Objection”, *Philosophy and Phenomenological Research*, 54.2: 365–72.
+* –––, 1999, “On the Alleged Incompatibility of Presentism and Temporal Parts”, *Philosophia*, 27: 253–60.
+* –––., 2003, “The Lowe Road to the Problem of Temporary Intrinsics”, *Philosophical Studies*, 112: 163–85.
+* –––., 2006, “Scope Fallacies and the ‘Decisive Objection’ against Endurance”, *Philosophia*, 34.4: 441–52.
+* Longenecker, Michael Tze-Sung, 2019, “Perdurantism, Fecklessness, and the Veil of Ignorance”, *Philosophical Studies*. doi:10.1007/s11098-019-01326-9
+* Loux, Michael J., 1998, *Metaphysics: A Contemporary Introduction*, London: Routledge.
+* Lowe, E.J., 1983, “Instantiation, Identity and Constitution”, *Philosophical Studies*, 44: 45–59.
+* –––, 1987, “Lewis on Perdurance versus Endurance”, *Analysis*, 47: 152–4.
+* –––, 1988, “The Problems of Intrinsic Change: Rejoinder to Lewis”, *Analysis*, 48: 72–77.
+* –––, 1995, “Coinciding Objects: In Defence of the ‘Standard Account’”, *Analysis*, 55: 171–178.
+* –––, 1996, *Subjects of Experience*, Cambridge: Cambridge University Press.
+* –––, 1997, “Objects and Criteria of Identity”, in Hale and Wright (eds.) *A Companion to the Philosophy of Language* Oxford: Blackwell.
 * –––, 1998a, ‘Tense and Persistence’, in Le Poidevin (ed.) Questions of Time and Tense, Oxford: Oxford University Press: 43–59.
-* –––, 1998b, _The Possibility of Metaphysics_, Oxford: Oxford University Press.
-* –––, 2003, “Substantial Change and Spatiotemporal Coincidence”, _Ratio_, 16: 140–60.
-* –––, 2005, “Vagueness and Endurance”, _Analysis_, 65: 104–12.
-* Lowe, E.J. and McCall, Storrs, 2006, “The 3D/4D Controversy: A Storm in a Teacup”, _Noûs_, 40(3): 570–78.
-* MacBride, Fraser, 2001, “Four New Ways to Change your Shape”, _Australasian Journal of Philosophy_, 79: 81–89.
-* Magidor, Ofra, 2015, “Why Neither Diachronic Universalism nor the Argument from Vagueness Establishes Perdurantism”, _Canadian Journal of Philosophy_ 45: 113–26.
-* –––, 2016, “Endurantism vs Perdurantism? A Debate Reconsidered”, _Noûs_ 50: 509–32.
-* Markosian, Ned, 1994, “The 3D/4D Controversy, and Non-present Objects”, _Philosophical Papers_, 23: 243–9.
-* –––, 1998, “Brutal Composition”, _Philosophical Studies_, 92: 211–49.
-* –––, 2004, “Two Arguments from Sider’s Four-Dimensionalism”, _Philosophy and Phenomenological Research_, 68: 66–73.
-* Mazzola, Claudio, 2015, “On Continuity and Endurance”, _Acta Analytica_, 30.2: 133–47.
-* McCall, S., and Lowe, E.J., 2003, “3D/4D Equivalence, the Twins Paradox and Absolute Time”, _Analysis_, 63: 114–23.
-* –––, 2009, “The Definition of Endurance”, _Analysis_, 69.2: 277–80.
-* McDaniel, K., 2003, “No Paradox of Multi-Location”, _Analysis_, 63: 309-11.
-* McGrath, Matthew, 2007, “Temporal Parts”, _Philosophy Compass_, 2.5: 730–46.
-* –––, 2007a, “Four-Dimensionalism and the Puzzles of Coincidence”, _Oxford Studies in Metaphysics_, volume 3, edited by Dean Zimmerman (Oxford: OUP): 143–76.
-* McKeever, Matthew, 2017, “A Semantic Problem for Stage Theory”, _Ergo_, 4.
-* –––, 2018, “Predicates, Parts, and Impermanence: A Contemporary Version of Some Central Buddhist Tenets”, _Religious Studies_, 54.4: 475–88.
-* McKinnon, Neil, 2002, “The Endurance/Perdurance Distinction”, _Australasian Journal of Philosophy_, 80: 288–306.
-* McTaggart, J.M.E., 1927, _The Nature of Existence, volume 2_, Cambridge: Cambridge University Press.
-* Meiland, J.W., 1966, “Temporal Parts and Spatio-Temporal Analogies”, _American Philosophical Quarterly_, 3.1: 64–70.
-* Meincke, Anne Sophie, 2018, “The Disappearance of Change: Towards a Process Account of Persistence”, _International Journal of Philosophical Studies_, 27.1: 12–30.
-* Melia, Joseph, 2000, “Continuants and Occurrents”, _Proceedings of the Aristotelian Society_, Supplementary Volume 74: 77–92.
-* Mellor, D.H., 1980, “On Things and Causes in Spacetime”, _British Journal for the Philosophy of Science_, 31: 282–88.
-* –––, 1981, _Real Time_, Cambridge: Cambridge University Press.
-* –––, 1998, _Real Time II_, London: Routledge.
-* Merkouris, Panos, 2015, “(Inter)Temporal Considerations in the Interpretative Process of the VCLT: Do Treaties Endure, Perdure or Exdure?”, in _Netherlands Yearbook of International Law 2014_ eds. Ambrus and Wessel, 45: 121–56.
-* Merricks, Trenton, 1994, “Endurance and Indiscernibility”, _Journal of Philosophy_, 91: 165–84.
-* –––, 1995, “On the Incompatibility of Enduring and Perduring Entities”, _Mind_, 104: 523–31.
-* –––, 1999a, “Persistence, Parts and Presentism”, _Noûs_, 33: 421–38.
-* –––, 1999b, “Endurance, Psychological Continuity and the Importance of Personal Identity”, _Philosophy and Phenomenological Research_, 59: 983–997.
-* –––, 2000, “‘No Statues’”, _Australasian Journal of Philosophy_, 78: 47–52.
-* –––, 2001, _Objects and Persons_, Oxford: Oxford University Press.
-* –––, 2003, “Maximality and Consciousness”, _Philosophy and Phenomenological Research_, 66: 150–58.
-* Miller, Kristie, 2004, “Enduring Special Relativity”, _Southern Journal of Philosophy_, 42: 349–70.
-* –––, 2005, “The Metaphysical Equivalence of Three- and Four-Dimensionalism”, _Erkenntnis_, 62.1: 91–117.
-* –––, 2005a, “Blocking the Path from Vagueness to Four-Dimensionalism”, _Ratio_, 18.3: 317–31.
-* –––, 2005b, “A New Definition of Endurance”, _Theoria_, 71.4: 309–32.
-* –––, 2006, “Non-Mereological Universalism”, _European Journal of Philosophy_, 14.3: 404–22.
-* –––, 2006a, “Travelling in Time: How to Wholly Exist in Two Places at the Same Time”, _Canadian Journal of Philosophy_, 36: 309–34.
-* –––, 2008, “Endurantism, Diachronic Vagueness and the Problem of the Many”, _Pacific Philosophical Quarterly_, 89.2: 242–53.
-* –––, 2009, “Ought a Four-Dimensionalist to Believe in Temporal Parts?”, _Canadian Journal of Philosophy_, 39.4: 619–46.
-* –––, 2013, “Times, Worlds, and Locations”, _Thought_, 2.3: 221–27.
-* –––, 2014, “Vague Persons”, in _Vague Objects and Vague Identity_, edited by Akiba and Abasnezhad, Springer Publishing, pp. 109–133.
-* –––, 2015, “Prudence and Person-Stages”, _Inquiry_, 58.5: 460–76.
-* Miller, Kristie, and Braddon-Mitchell, David, 2007, “There is no Simpliciter Simpliciter”, _Philosophical Studies_, 136.2: 249–78.
-* Mooney, Justin, 2019a, “Multilocation without Time Travel”, _Erkenntnis_. doi:10.1007/s10670-019-00162-x
-* –––, 2019b, “Self-Colocation: a Colocation Problem for Endurantists”, _Synthese_. 10.1007/s11229-019-02402-7
-* Moruzzi, Caterina, 2018, “Every Performance is a Stage: Musical Stage Theory as a Novel Account for the Ontology of Musical Works”, _The Journal of Aesthetics and Art Criticism_, 76: 341–51.
-* Moss, Sarah, 2012, “Four-Dimensionalist Theories of Persistence”, _Australasian Journal of Philosophy_, 90.4: 671–86.
-* Moyer, Mark, 2006, “Statues and Lumps: A Strange Coincidence?”, _Synthese_, 148.2: 401–23.
-* –––, 2008 “Why We Shouldn’t Swallow Worm-Slices: A Case Study in Semantic Accommodation”, _Noûs_, 42.1: 109–38.
-* –––, 2009 “Does Four-Dimensionalism Explain Coincidence?”, _Australasian Journal of Philosophy_, 87.3: 479–88.
-* Mullins, Ryan, 2014, “Four-Dimensionalism, Evil, and Christian Beliefs”, _Philosophia Christi_, 16(1): 117–137..
-* Needham, Paul, 2010, “Transient Things and Permanent Stuff”, _Australasian Journal of Philosophy_, 88.1: 147–66.
-* Nerlich, Graham, 1979, “What can Geometry Explain?”, _British Journal for the Philosophy of Science_, 30: 69–83.
-* Nicholson, Daniel J. and Dupré, John (eds.) 2018, _Everything Flows: Towards a Processual Philosophy of Biology_, Oxford University Press.
-* Nolan, Daniel, 2006, “Vagueness, Multiplicity and Parts”, _Noûs_, 40: 716–37.
-* Noonan, Harold, 1980, _Objects and Identity_, The Hague: Nijhoff.
-* –––, 1988, “Substance, Identity and Time”, _Proceedings of the_ _Aristotelian Society Supplementary Volume_, 62: 79–100.
-* –––, 1993, “Constitution is Identity”, _Mind_, 102: 133–146.
-* –––, 1999a, “Identity, Constitution and Microphysical Supervenience”, _Proceedings of the Aristotelian Society_, 99: 273–88.
-* –––, 1999b, “Tibbles the Cat—Reply to Burke”, _Philosophical Studies_, 95: 215–8.
-* –––, 2003a, “A Flawed Argument for Perdurance”, _Analysis_, 63: 213–5.
-* –––, 2003b, _Personal Identity_. London: Routledge.
-* –––, 2010, “A Flaw in Sider’s Vagueness Argument for Unrestricted Mereological Composition”, _Analysis_, 70.4: 669–72.
-* –––, 2019, “Presentism, Endurance, and Object-Dependence”, _Inquiry_. doi:10.1080/0020174X.2019.1698458
-* Oakes, M. Gregory, 2004, “Perdurance and Causal Realism”, _Erkenntnis_, 60.2: 205–27.
-* Oaklander, Nathan, 1992, “Temporal Passage and Temporal Parts”, _Noûs_, 26: 79–84.
-* Oderberg, David, 1993, _The Metaphysics of Identity over Time_. London/New York: Macmillan/St Martin’s Press.
-* –––, 1996, “Coincidence Under a Sortal”, _Philosophical Review_, 105: 145–71.
-* –––, 2004, “Temporal Parts and the Possibility of Change”, _Philosophy and Phenomenological Research_, 69.3: 686–703.
-* Olson, Eric, 1996, “Why I have no Hands”, _Theoria_, 61: 182–97.
-* –––, 1997a, “Dion’s Foot”, _Journal of Philosophy_, 94: 260–65.
-* –––, 1997b, _The Human Animal_, Oxford: Oxford University Press.
-* –––, 2006, “Temporal Parts and Timeless Parthood”, _Noûs_, 40(4): 738–52.
-* –––, 2007, _What Are We? A Study in Personal Ontology_, Oxford: Oxford University Press.
-* –––, 2010, “Ethics and the Generous Ontology”, _Theoretical Medicine and Bioethics_, 31: 259–70.
-* Oyowe, O.A., 2016, “Personhood and the ‘Multiple Self’ View”, _South African Journal of Philosophy_ 35: 359–67.
-* Parfit, Derek, 1971, “Personal Identity”, _The Philosophical Review_ 80: 3–27.
-* –––, 1984, _Reasons and Persons_, Oxford: Clarendon Press.
-* Parsons, Josh, 2000, “Must a Four-Dimensionalist Believe in Temporal Parts?”, _Monist_ 83: 399–418.
-* –––, 2005, “I am Not Now, Nor Have I Ever Been, a Turnip”, _Australasian Journal of Philosophy_ 83.1: 1–14.
-* –––, 2007, “Theories of Location”, _Oxford Studies in Metaphysics_ vol. 3: 201–33.
-* –––, 2015, “A Phenomenological Argument for Stage Theory”, _Analysis_ 75.2: 237–42.
-* Pashby, Thomas, 2013, “Do Quantum Objects Have Temporal Parts?”, _Philosophy of Science_ 80.5: 1137–47.
-* –––, 2016, “How Do Things Persist? Location Relations in Physics and the Metaphysics of Persistence”, _Dialectica_ 70: 269–309.
-* Patrone, Fabio, 2017, “Parfitians as Exdurantists”, _Axiomathes_, 27: 721–29.
-* Paul, L.A., 2006, “Coincidence as Overlap”, _Noûs_, 40.4: 623–59.
-* Perovic, Katarina, 2019, “What is a Fourdimensionalist to do about Temporally Extended Properties?”, _European Journal of Philosophy_, 27: 441–52.
-* Pezet, Robert, 2019, “An Explanatory Virtue for Endurantist Presentism”, _Philosophia_, 47: 157–82.
-* Proietti, Carlo and Smid, Jeroen, 2019, “Mereology and Time Travel”, _Philosophical Studies_. doi:10.1007/s11098-019-01308-x
-* Prosser, Simon, 2006, “Temporal Metaphysics in Z-Land”, _Synthese_, 149: 77–96.
-* –––, 2012, “Why does Time Seem to Pass?”, _Philosophy and Phenomenological Research_ 85.1: 92–116.
-* Quine, W.V.O., 1950, “Identity, Ostension and Hypostasis”, in his _From a Logical Point of View_, Cambridge MA: Harvard University Press, 65–79.
-* –––, 1960, _Word and Object_, Cambridge MA: MIT Press.
-* –––, 1981, _Theories and Things_, Cambridge MA: Harvard University Press.
-* Raven, Michael, 2011, “There is a Problem of Change”, _Philosophical Studies_, 149: 77–96.
-* Rea, Michael, 1995, “The Problem of Material Constitution”, _Philosophical Review_, 104: 525–552.
-* –––, 1997, “Supervenience and Co-Location”, _American Philosophical Quarterly_, 34: 367–75.
-* ––– (ed.) (1997), _Material Constitution_, Lanham MD: Rowman and Littlefield.
-* –––, 1998a, “In Defense of Mereological Universalism”, _Philosophy and Phenomenological Research_, 58: 347–60.
-* –––, 1998b, “Temporal Parts Unmotivated”, _Philosophical Review_, 107: 225–60.
-* Rettler, Bradley, 2012, “McTaggart and Indexing the Copula”, _Philosophical Studies_, 158.3: 431–34.
-* Reydon, Thomas A.C., 2008, “Species in Three and Four Dimensions”, _Synthese_, 164: 161–84.
-* Rimell, Nicholas, 2018, “Persons, Stages, and Tensed Belief”, _Erkenntnis_, 83.3: 577–93.
-* Roache, Rebecca, 2010, “Fission, Cohabitation, and the Concern for Future Survival”, _Analysis_, 70.2: 256–63.
-* Robinson, Denis, 1982, “Re-identifying Matter”, _Philosophical Review_, 81: 317–42.
-* –––, 1985, “Can Amoebae Divide without Multiplying?”, _Australasian Journal of Philosophy_, 63: 209–319.
-* –––, 1989, “Matter, Motion and Humean Supervenience”, _Australasian Journal of Philosophy_, 67: 394–409.
-* Rodriguez-Pereyra, Gonzalo, 2003, “What is Wrong with the Relational Theory of Change?”, in Rodriguez-Pereyra and Lillehammer (eds.) _Real Metaphysics_, London: Routledge.
-* Romerales, Enrique, 2008, “Persistence, Ontic Vagueness, and Identity”, _Metaphysica_, 9.1: 33–55.
-* Rose, David, 2015, “Persistence Through Function Preservation”, _Synthese_, 192.1: 97–146.
-* Rose, David, Schaffer, Jonathan, and Tobia, Kevin, 2018, “Folk Teleology Drives Persistence Judgments”, _Synthese_. doi:10.1007/s11229-018-01974-0
-* Rosenkrantz, Gary, 2005, “An Epistemic Argument for Enduring Human Persons”, _Philosophy and Phenomenological Research_, 70.1: 209–24.
-* Rychter, Pablo, 2008, “Persistence, Endurance, and ‘Having a Property Atemporally’,”, _Metaphysica_, 9.2: 159–71.
-* –––, 2009, “There is no Puzzle about Change”, _Dialectica_, 63.1: 7–22.
-* –––, 2011, “How Coincidence Bears on Persistence”, _Philosophia_, 39.4: 759–70.
-* –––, 2012, “Stage Theory and Proper Names”, _Philosophical Studies_, 161.3: 367–79.
-* Salmon, Nathan U., 1981, _Reference and Essence_, Princeton NJ: Princeton University Press.
-* Sattig, Thomas, 2002 “Temporal Parts and Complex Predicates”, _Proceedings of the Aristotelian Society_, 102.32: 279–86.
-* –––, 2003, “Temporal Predication with Temporal Parts and Temporal Counterparts”, _Australasian Journal of Philosophy_, 81.3: 355–68.
-* –––, 2006, _The Language and Reality of Time_, Oxford: Oxford University Press.
-* –––, 2008, “Identity in 4D”, _Philosophical Studies_, 140.2: 179–95.
-* –––, 2015, _The Double Lives of Objects: An Essay in the Metaphysics of the Ordinary World_, Oxford University Press.
-* Schmidt, Martin, 2015 “Continuants and Temporal Parts”, _Filozofia_.
-* Scholl, Brian J., 2002 “Object Persistence in Philosophy and Psychology”, _Mind and Language_, 22.5: 563–91.
-* Shoemaker, Sydney,1999, “Self, Body and Coincidence”, _Proceedings of the Aristotelian Society,_ Supplementary Volume 73: 287–306.
-* –––, 2015, “Persistence and Properties”, _Journal of the American Philosophical Association_, 1.3: 433–48.
-* Sidelle, Alan, 1998, “A Sweater Unraveled: Following One Thread of Thought for Avoiding Coincident Entities”, _Noûs_, 32: 423–448.
-* Sider, Theodore, 1996, “All the World’s a Stage”, _Australasian Journal of Philosophy_, 74: 433–453.
-* –––, 1997, “Four-Dimensionalism”, _Philosophical Review_, 106: 197–231.
-* –––, 2000, “The Stage View and Temporary Intrinsics”, _Analysis_, 60: 84–8.
-* –––, 2001, _Four-Dimensionalism_, Oxford: Oxford University Press.
-* –––, 2003a, “Against Vague Existence”, _Philosophical Studies_, 114: 135–46.
+* –––, 1998b, *The Possibility of Metaphysics*, Oxford: Oxford University Press.
+* –––, 2003, “Substantial Change and Spatiotemporal Coincidence”, *Ratio*, 16: 140–60.
+* –––, 2005, “Vagueness and Endurance”, *Analysis*, 65: 104–12.
+* Lowe, E.J. and McCall, Storrs, 2006, “The 3D/4D Controversy: A Storm in a Teacup”, *Noûs*, 40(3): 570–78.
+* MacBride, Fraser, 2001, “Four New Ways to Change your Shape”, *Australasian Journal of Philosophy*, 79: 81–89.
+* Magidor, Ofra, 2015, “Why Neither Diachronic Universalism nor the Argument from Vagueness Establishes Perdurantism”, *Canadian Journal of Philosophy* 45: 113–26.
+* –––, 2016, “Endurantism vs Perdurantism? A Debate Reconsidered”, *Noûs* 50: 509–32.
+* Markosian, Ned, 1994, “The 3D/4D Controversy, and Non-present Objects”, *Philosophical Papers*, 23: 243–9.
+* –––, 1998, “Brutal Composition”, *Philosophical Studies*, 92: 211–49.
+* –––, 2004, “Two Arguments from Sider’s Four-Dimensionalism”, *Philosophy and Phenomenological Research*, 68: 66–73.
+* Mazzola, Claudio, 2015, “On Continuity and Endurance”, *Acta Analytica*, 30.2: 133–47.
+* McCall, S., and Lowe, E.J., 2003, “3D/4D Equivalence, the Twins Paradox and Absolute Time”, *Analysis*, 63: 114–23.
+* –––, 2009, “The Definition of Endurance”, *Analysis*, 69.2: 277–80.
+* McDaniel, K., 2003, “No Paradox of Multi-Location”, *Analysis*, 63: 309-11.
+* McGrath, Matthew, 2007, “Temporal Parts”, *Philosophy Compass*, 2.5: 730–46.
+* –––, 2007a, “Four-Dimensionalism and the Puzzles of Coincidence”, *Oxford Studies in Metaphysics*, volume 3, edited by Dean Zimmerman (Oxford: OUP): 143–76.
+* McKeever, Matthew, 2017, “A Semantic Problem for Stage Theory”, *Ergo*, 4.
+* –––, 2018, “Predicates, Parts, and Impermanence: A Contemporary Version of Some Central Buddhist Tenets”, *Religious Studies*, 54.4: 475–88.
+* McKinnon, Neil, 2002, “The Endurance/Perdurance Distinction”, *Australasian Journal of Philosophy*, 80: 288–306.
+* McTaggart, J.M.E., 1927, *The Nature of Existence, volume 2*, Cambridge: Cambridge University Press.
+* Meiland, J.W., 1966, “Temporal Parts and Spatio-Temporal Analogies”, *American Philosophical Quarterly*, 3.1: 64–70.
+* Meincke, Anne Sophie, 2018, “The Disappearance of Change: Towards a Process Account of Persistence”, *International Journal of Philosophical Studies*, 27.1: 12–30.
+* Melia, Joseph, 2000, “Continuants and Occurrents”, *Proceedings of the Aristotelian Society*, Supplementary Volume 74: 77–92.
+* Mellor, D.H., 1980, “On Things and Causes in Spacetime”, *British Journal for the Philosophy of Science*, 31: 282–88.
+* –––, 1981, *Real Time*, Cambridge: Cambridge University Press.
+* –––, 1998, *Real Time II*, London: Routledge.
+* Merkouris, Panos, 2015, “(Inter)Temporal Considerations in the Interpretative Process of the VCLT: Do Treaties Endure, Perdure or Exdure?”, in *Netherlands Yearbook of International Law 2014* eds. Ambrus and Wessel, 45: 121–56.
+* Merricks, Trenton, 1994, “Endurance and Indiscernibility”, *Journal of Philosophy*, 91: 165–84.
+* –––, 1995, “On the Incompatibility of Enduring and Perduring Entities”, *Mind*, 104: 523–31.
+* –––, 1999a, “Persistence, Parts and Presentism”, *Noûs*, 33: 421–38.
+* –––, 1999b, “Endurance, Psychological Continuity and the Importance of Personal Identity”, *Philosophy and Phenomenological Research*, 59: 983–997.
+* –––, 2000, “‘No Statues’”, *Australasian Journal of Philosophy*, 78: 47–52.
+* –––, 2001, *Objects and Persons*, Oxford: Oxford University Press.
+* –––, 2003, “Maximality and Consciousness”, *Philosophy and Phenomenological Research*, 66: 150–58.
+* Miller, Kristie, 2004, “Enduring Special Relativity”, *Southern Journal of Philosophy*, 42: 349–70.
+* –––, 2005, “The Metaphysical Equivalence of Three- and Four-Dimensionalism”, *Erkenntnis*, 62.1: 91–117.
+* –––, 2005a, “Blocking the Path from Vagueness to Four-Dimensionalism”, *Ratio*, 18.3: 317–31.
+* –––, 2005b, “A New Definition of Endurance”, *Theoria*, 71.4: 309–32.
+* –––, 2006, “Non-Mereological Universalism”, *European Journal of Philosophy*, 14.3: 404–22.
+* –––, 2006a, “Travelling in Time: How to Wholly Exist in Two Places at the Same Time”, *Canadian Journal of Philosophy*, 36: 309–34.
+* –––, 2008, “Endurantism, Diachronic Vagueness and the Problem of the Many”, *Pacific Philosophical Quarterly*, 89.2: 242–53.
+* –––, 2009, “Ought a Four-Dimensionalist to Believe in Temporal Parts?”, *Canadian Journal of Philosophy*, 39.4: 619–46.
+* –––, 2013, “Times, Worlds, and Locations”, *Thought*, 2.3: 221–27.
+* –––, 2014, “Vague Persons”, in *Vague Objects and Vague Identity*, edited by Akiba and Abasnezhad, Springer Publishing, pp. 109–133.
+* –––, 2015, “Prudence and Person-Stages”, *Inquiry*, 58.5: 460–76.
+* Miller, Kristie, and Braddon-Mitchell, David, 2007, “There is no Simpliciter Simpliciter”, *Philosophical Studies*, 136.2: 249–78.
+* Mooney, Justin, 2019a, “Multilocation without Time Travel”, *Erkenntnis*. doi:10.1007/s10670-019-00162-x
+* –––, 2019b, “Self-Colocation: a Colocation Problem for Endurantists”, *Synthese*. 10.1007/s11229-019-02402-7
+* Moruzzi, Caterina, 2018, “Every Performance is a Stage: Musical Stage Theory as a Novel Account for the Ontology of Musical Works”, *The Journal of Aesthetics and Art Criticism*, 76: 341–51.
+* Moss, Sarah, 2012, “Four-Dimensionalist Theories of Persistence”, *Australasian Journal of Philosophy*, 90.4: 671–86.
+* Moyer, Mark, 2006, “Statues and Lumps: A Strange Coincidence?”, *Synthese*, 148.2: 401–23.
+* –––, 2008 “Why We Shouldn’t Swallow Worm-Slices: A Case Study in Semantic Accommodation”, *Noûs*, 42.1: 109–38.
+* –––, 2009 “Does Four-Dimensionalism Explain Coincidence?”, *Australasian Journal of Philosophy*, 87.3: 479–88.
+* Mullins, Ryan, 2014, “Four-Dimensionalism, Evil, and Christian Beliefs”, *Philosophia Christi*, 16(1): 117–137..
+* Needham, Paul, 2010, “Transient Things and Permanent Stuff”, *Australasian Journal of Philosophy*, 88.1: 147–66.
+* Nerlich, Graham, 1979, “What can Geometry Explain?”, *British Journal for the Philosophy of Science*, 30: 69–83.
+* Nicholson, Daniel J. and Dupré, John (eds.) 2018, *Everything Flows: Towards a Processual Philosophy of Biology*, Oxford University Press.
+* Nolan, Daniel, 2006, “Vagueness, Multiplicity and Parts”, *Noûs*, 40: 716–37.
+* Noonan, Harold, 1980, *Objects and Identity*, The Hague: Nijhoff.
+* –––, 1988, “Substance, Identity and Time”, *Proceedings of the* *Aristotelian Society Supplementary Volume*, 62: 79–100.
+* –––, 1993, “Constitution is Identity”, *Mind*, 102: 133–146.
+* –––, 1999a, “Identity, Constitution and Microphysical Supervenience”, *Proceedings of the Aristotelian Society*, 99: 273–88.
+* –––, 1999b, “Tibbles the Cat—Reply to Burke”, *Philosophical Studies*, 95: 215–8.
+* –––, 2003a, “A Flawed Argument for Perdurance”, *Analysis*, 63: 213–5.
+* –––, 2003b, *Personal Identity*. London: Routledge.
+* –––, 2010, “A Flaw in Sider’s Vagueness Argument for Unrestricted Mereological Composition”, *Analysis*, 70.4: 669–72.
+* –––, 2019, “Presentism, Endurance, and Object-Dependence”, *Inquiry*. doi:10.1080/0020174X.2019.1698458
+* Oakes, M. Gregory, 2004, “Perdurance and Causal Realism”, *Erkenntnis*, 60.2: 205–27.
+* Oaklander, Nathan, 1992, “Temporal Passage and Temporal Parts”, *Noûs*, 26: 79–84.
+* Oderberg, David, 1993, *The Metaphysics of Identity over Time*. London/New York: Macmillan/St Martin’s Press.
+* –––, 1996, “Coincidence Under a Sortal”, *Philosophical Review*, 105: 145–71.
+* –––, 2004, “Temporal Parts and the Possibility of Change”, *Philosophy and Phenomenological Research*, 69.3: 686–703.
+* Olson, Eric, 1996, “Why I have no Hands”, *Theoria*, 61: 182–97.
+* –––, 1997a, “Dion’s Foot”, *Journal of Philosophy*, 94: 260–65.
+* –––, 1997b, *The Human Animal*, Oxford: Oxford University Press.
+* –––, 2006, “Temporal Parts and Timeless Parthood”, *Noûs*, 40(4): 738–52.
+* –––, 2007, *What Are We? A Study in Personal Ontology*, Oxford: Oxford University Press.
+* –––, 2010, “Ethics and the Generous Ontology”, *Theoretical Medicine and Bioethics*, 31: 259–70.
+* Oyowe, O.A., 2016, “Personhood and the ‘Multiple Self’ View”, *South African Journal of Philosophy* 35: 359–67.
+* Parfit, Derek, 1971, “Personal Identity”, *The Philosophical Review* 80: 3–27.
+* –––, 1984, *Reasons and Persons*, Oxford: Clarendon Press.
+* Parsons, Josh, 2000, “Must a Four-Dimensionalist Believe in Temporal Parts?”, *Monist* 83: 399–418.
+* –––, 2005, “I am Not Now, Nor Have I Ever Been, a Turnip”, *Australasian Journal of Philosophy* 83.1: 1–14.
+* –––, 2007, “Theories of Location”, *Oxford Studies in Metaphysics* vol. 3: 201–33.
+* –––, 2015, “A Phenomenological Argument for Stage Theory”, *Analysis* 75.2: 237–42.
+* Pashby, Thomas, 2013, “Do Quantum Objects Have Temporal Parts?”, *Philosophy of Science* 80.5: 1137–47.
+* –––, 2016, “How Do Things Persist? Location Relations in Physics and the Metaphysics of Persistence”, *Dialectica* 70: 269–309.
+* Patrone, Fabio, 2017, “Parfitians as Exdurantists”, *Axiomathes*, 27: 721–29.
+* Paul, L.A., 2006, “Coincidence as Overlap”, *Noûs*, 40.4: 623–59.
+* Perovic, Katarina, 2019, “What is a Fourdimensionalist to do about Temporally Extended Properties?”, *European Journal of Philosophy*, 27: 441–52.
+* Pezet, Robert, 2019, “An Explanatory Virtue for Endurantist Presentism”, *Philosophia*, 47: 157–82.
+* Proietti, Carlo and Smid, Jeroen, 2019, “Mereology and Time Travel”, *Philosophical Studies*. doi:10.1007/s11098-019-01308-x
+* Prosser, Simon, 2006, “Temporal Metaphysics in Z-Land”, *Synthese*, 149: 77–96.
+* –––, 2012, “Why does Time Seem to Pass?”, *Philosophy and Phenomenological Research* 85.1: 92–116.
+* Quine, W.V.O., 1950, “Identity, Ostension and Hypostasis”, in his *From a Logical Point of View*, Cambridge MA: Harvard University Press, 65–79.
+* –––, 1960, *Word and Object*, Cambridge MA: MIT Press.
+* –––, 1981, *Theories and Things*, Cambridge MA: Harvard University Press.
+* Raven, Michael, 2011, “There is a Problem of Change”, *Philosophical Studies*, 149: 77–96.
+* Rea, Michael, 1995, “The Problem of Material Constitution”, *Philosophical Review*, 104: 525–552.
+* –––, 1997, “Supervenience and Co-Location”, *American Philosophical Quarterly*, 34: 367–75.
+* ––– (ed.) (1997), *Material Constitution*, Lanham MD: Rowman and Littlefield.
+* –––, 1998a, “In Defense of Mereological Universalism”, *Philosophy and Phenomenological Research*, 58: 347–60.
+* –––, 1998b, “Temporal Parts Unmotivated”, *Philosophical Review*, 107: 225–60.
+* Rettler, Bradley, 2012, “McTaggart and Indexing the Copula”, *Philosophical Studies*, 158.3: 431–34.
+* Reydon, Thomas A.C., 2008, “Species in Three and Four Dimensions”, *Synthese*, 164: 161–84.
+* Rimell, Nicholas, 2018, “Persons, Stages, and Tensed Belief”, *Erkenntnis*, 83.3: 577–93.
+* Roache, Rebecca, 2010, “Fission, Cohabitation, and the Concern for Future Survival”, *Analysis*, 70.2: 256–63.
+* Robinson, Denis, 1982, “Re-identifying Matter”, *Philosophical Review*, 81: 317–42.
+* –––, 1985, “Can Amoebae Divide without Multiplying?”, *Australasian Journal of Philosophy*, 63: 209–319.
+* –––, 1989, “Matter, Motion and Humean Supervenience”, *Australasian Journal of Philosophy*, 67: 394–409.
+* Rodriguez-Pereyra, Gonzalo, 2003, “What is Wrong with the Relational Theory of Change?”, in Rodriguez-Pereyra and Lillehammer (eds.) *Real Metaphysics*, London: Routledge.
+* Romerales, Enrique, 2008, “Persistence, Ontic Vagueness, and Identity”, *Metaphysica*, 9.1: 33–55.
+* Rose, David, 2015, “Persistence Through Function Preservation”, *Synthese*, 192.1: 97–146.
+* Rose, David, Schaffer, Jonathan, and Tobia, Kevin, 2018, “Folk Teleology Drives Persistence Judgments”, *Synthese*. doi:10.1007/s11229-018-01974-0
+* Rosenkrantz, Gary, 2005, “An Epistemic Argument for Enduring Human Persons”, *Philosophy and Phenomenological Research*, 70.1: 209–24.
+* Rychter, Pablo, 2008, “Persistence, Endurance, and ‘Having a Property Atemporally’,”, *Metaphysica*, 9.2: 159–71.
+* –––, 2009, “There is no Puzzle about Change”, *Dialectica*, 63.1: 7–22.
+* –––, 2011, “How Coincidence Bears on Persistence”, *Philosophia*, 39.4: 759–70.
+* –––, 2012, “Stage Theory and Proper Names”, *Philosophical Studies*, 161.3: 367–79.
+* Salmon, Nathan U., 1981, *Reference and Essence*, Princeton NJ: Princeton University Press.
+* Sattig, Thomas, 2002 “Temporal Parts and Complex Predicates”, *Proceedings of the Aristotelian Society*, 102.32: 279–86.
+* –––, 2003, “Temporal Predication with Temporal Parts and Temporal Counterparts”, *Australasian Journal of Philosophy*, 81.3: 355–68.
+* –––, 2006, *The Language and Reality of Time*, Oxford: Oxford University Press.
+* –––, 2008, “Identity in 4D”, *Philosophical Studies*, 140.2: 179–95.
+* –––, 2015, *The Double Lives of Objects: An Essay in the Metaphysics of the Ordinary World*, Oxford University Press.
+* Schmidt, Martin, 2015 “Continuants and Temporal Parts”, *Filozofia*.
+* Scholl, Brian J., 2002 “Object Persistence in Philosophy and Psychology”, *Mind and Language*, 22.5: 563–91.
+* Shoemaker, Sydney,1999, “Self, Body and Coincidence”, *Proceedings of the Aristotelian Society,* Supplementary Volume 73: 287–306.
+* –––, 2015, “Persistence and Properties”, *Journal of the American Philosophical Association*, 1.3: 433–48.
+* Sidelle, Alan, 1998, “A Sweater Unraveled: Following One Thread of Thought for Avoiding Coincident Entities”, *Noûs*, 32: 423–448.
+* Sider, Theodore, 1996, “All the World’s a Stage”, *Australasian Journal of Philosophy*, 74: 433–453.
+* –––, 1997, “Four-Dimensionalism”, *Philosophical Review*, 106: 197–231.
+* –––, 2000, “The Stage View and Temporary Intrinsics”, *Analysis*, 60: 84–8.
+* –––, 2001, *Four-Dimensionalism*, Oxford: Oxford University Press.
+* –––, 2003a, “Against Vague Existence”, *Philosophical Studies*, 114: 135–46.
 * –––, 2003b, “Maximality and Microphysical Supervenience”, _Philosophy and Phenomenological Research_h, 66: 139–49.
-* –––, 2004, “Replies to Gallois, Hirsch and Markosian”, _Philosophy and Phenomenological Research_, 68: 674–87.
-* –––, 2008, “Temporal Parts”, in _Contemporary Debates in Metaphysics_, edited by Hawthorne, Sider and Zimmerman, Oxford: Blackwell, 241–62.
-* Simon, J., 2005, “Is Time Travel a Problem for the Three-Dimensionalist?”, _Monist_, 88: 353-61.
-* Simons, Peter, 1985, “Coincidence of Things of a Kind”, _Mind_ 94: 70–75.
-* –––, 1986, “Unkindly Coincidences”, _Mind_ 95: 506–9.
-* –––, 1987, _Parts: A Study in Ontology_, Oxford: Clarendon Press.
-* –––, 1997, “On Being the Same Ship(s)—or Electron(s). Reply to Hughes”, _Mind_, 106: 761–7.
-* –––, 2000a, “Identity Through Time and Trope Bundles”, _Topoi_, 19: 147–55.
-* –––, 2000b, “Continuants and Occurrents”, _Proceedings of the Aristotelian Society_ Supplementary Volume 74: 59–75.
-* –––, 2008, “Modes of Extension: Comments on Kit Fine’s ‘In Defence of Three-Dimensionalism’”, _Philosophy_, 83, supplement 62: 17–21.
-* Skow, Bradford, 2015, _Objective Becoming_, Cambridge, MA: MIT Press.
-* Slater, Matthew and Varzi, Achille, 2007, “Playing for the Same Team Again”, _Basketball and Philosophy_, edited by Walls and Bassham, University Press of Kentucky: 220–234.
-* Smith, Donald, 2010, “Chisholm’s Phenomenal Argument Revisited: a Dilemma for Perdurantism”, _American Philosophical Quarterly_, 47.1: 31–42.
-* Sosa, E., 1987, “Subjects among Other Things”, in _Philosophical Perspectives_, 1: 155–187.
-* –––., 1999, “Existential Relativity”, _Midwest Studies in Philosophy_, 23: New Directions in Philosophy, ed. by P.A. French and H.K. Wettstein, New York: Blackwells: 132–43.
-* Stalnaker, R., 1988, “Vague Identity”, in D.F. Austin (ed.) _Philosophical Analysis: A Defence by Example_, Dordrecht: Kluwer: 349–60.
-* Steward, Helen, 2015, “What is a Continuant?”, _Proceedings of the Aristotelian Society Supplementary Volume_ 89.1: 109–123.
-* Stuchlik, Joshua M., 2003, “Not All Worlds are Stages”, in _Philosophical Studies_, 116.3: 309–21.
-* Sutton, C.S., 2014, “The Supervenience Solution to the Too-Many-Thinkers Problem”, _Philosophical Quarterly_ 64: 619–39.
-* Tallant, Jonathan, 2018, “Presentism, Persistence, and Trans-temporal Dependence”, _Philosophical Studies_, 175: 2209–20.
-* Tappenden, Paul, 2011,“Expectancy and Rational Action Prior to Personal Fission”, _Philosophical Studies_, 153.2, 299–306.
-* Taylor, A.P., 2013,“The Frustrating Problem for Four-Dimensionalism”, _Philosophical Studies_, 165.3, 1097–1115.
-* Taylor, Richard, 1955,“Spatial and Temporal Analogues and the Concept of Identity”, _Journal of Philosophy_, 52, 599–612.
-* Teller, Paul, 2002, “The Rotating Disk Argument and Humean Supervenience: Cutting the Gordian Knot”, _Analysis_, 62: 205–10.
-* Thomasson, Amie L., 2004, “The Ontology of Art”, in _The Blackwell Guide to Aesthetics_, Peter Kivy (ed.), Oxford: Blackwell, pp. 78–92.
-* Thomson, Judith Jarvis, 1965, “Time, Space and Objects”, _Mind_, 74: 1–27.
-* –––, 1983, “Parthood and Identity Across Time”, _Journal of Philosophy_, 80: 201–20.
-* –––, 1998, “The Statue and the Clay”, _Noûs_, 32: 148–173.
-* Tillman, Chris, 2011, “Musical Materialism”, _British Journal of Aesthetics_, 51: 13–29.
-* Tognazzini, Neal A., 2010, “Persistence and Responsibility”, in _Time and Identity_, edited by Campbell, O’Rourke and Silverstein, pp. 149–164.
-* Torre, Stephan, 2015, “Restricted Diachronic Composition and Special Relativity”, _British Journal for Philosophy of Science_, 66: 235–55.
-* Traynor, Michael, 2013,“Actual Time and Possible Change: a Problem for Modal Arguments for Temporal Parts”, _Thought_, 2.3, 180–89.
-* –––, 2014,“Phenomenal Experience and the Metaphysics of Persistence”, _Proceedings of the Aristotelian Society_, 114, 381–88.
-* Valaris, Markos and Michael, Michaelis, 2015,“Time Travel for Endurantists”, _American Philosophical Quarterly_, 52.4, 357–64.
-* van Inwagen, Peter, 1981, “The Doctrine of Arbitrary Undetached Parts”, _Pacific Philosophical Quarterly_, 62: 123–137.
-* –––, 1988, “How to Reason about Vague Objects”, _Philosophical Topics_, 16: 255–84.
-* –––,1990a, “Four-Dimensional Objects”, _Noûs_, 24: 245–55.
-* –––, 1990b, _Material Beings_, Ithaca NY: Cornell University Press.
-* –––, 2000, “Temporal Parts and Identity Across Time”, _Monist_, 83: 437–59.
-* Varzi, Achille, 2003, “Perdurantism, Universalism and Quantifiers”, _Australasian Journal of Philosophy_, 81: 208–15.
-* –––, 2003a, “Naming the Stages”, _Dialectica_, 57: 387–412.
-* –––, 2005, “Change, Temporal Parts and the Argument from Vagueness”, _Dialectica_, 59.4: 485–98.
-* –––, 2007, “Promiscuous Endurantism and Diachronic Vagueness”, _American Philosophical Quarterly_, 44: 181–89.
-* Viebahn, Emmanuel, 2013, “Counting Stages”, _Australasian Journal of Philosophy_, 91.2: 311–24.
-* Walters, Lee, 2019, “Are the Statue and the Clay Mutual Parts? ”, _Noûs_, 53.1: 23–50.
-* Wasserman, Ryan, 2002, “The Standard Objection to the Standard Account”, _Philosophical Studies_, 111: 197–216.
-* –––, 2003, “The Argument from Temporary Intrinsics”, _Australasian Journal of Philosophy_, 81: 413–9.
-* –––, 2004a, “Framing the Debate over Persistence”, _Metaphysica_, 5: 67–80.
-* –––, 2004b, “The Constitution Question”, _Noûs_, 38: 693–710.
-* –––, 2005, “Humean Supervenience and Personal Identity”, _Philosophical Quarterly_, 55: 582–93.
-* –––, 2006, “The Problem of Change”, _Philosophy Compass_, 1: 48–57.
-* –––, 2010, “Teaching and Learning Guide for The Problem of Change”, _Philosophy Compass_, 5: 283–86.
-* –––, 2016, “Theories of Persistence”, _Philosophical Studies_, 173: 243–50.
-* –––, 2017, _Paradoxes of Time Travel_, Oxford: Oxford University Press.
-* Wiggins, David, 1980, _Sameness and Substance_, Oxford: Basil Blackwell.
-* –––, 2001, _Sameness and Substance Renewed_, Cambridge: Cambridge University Press.
-* Wilhelm, Isaac, 2020, “The Stage Theory of Groups”, _Australasian Journal of Philosophy_. doi:10.1080/00048402.2019.1699587
-* Williams, Bernard, 1973, _Problems of the Self_, Cambridge: Cambridge University Press.
-* Williamson, Timothy, 1994, _Vagueness_, London: Routledge.
-* Wilson, N.L., 1955, “Space, Time and Individuals”, _Journal of Philosophy_, 52: 589–98.
-* Wright, Stephen, 2010, “The Leibniz’s Law Problem (for Stage Theory)”, _Metaphysica_, 11.2: 137–51.
-* Yablo, Stephen, 1987, “Identity, Essence and Indiscernibility”, _Journal of Philosophy_, 84: 293–314.
-* Young, Nick, 2018, “Hearing Objects and Events”, _Philosophical Studies_, 175.11: 2931–50.
-* Zammiello, F., 2001, “The Logic of Burke’s Sortal Essentialism”, _Pacific Philosophical Quarterly_, 82: 71–86.
-* Zimmerman, Dean, 1995, “Theories of Masses and Problems of Constitution”, _Philosophical Review_, 104: 53–110.
-* –––, 1997, “Coincident Objects: could a ‘Stuff Ontology’ Help?”, _Analysis_, 57: 19–27.
-* –––, 1998a, “Temporary Intrinsics and Presentism”, in _Metaphysics, the Big Questions_, ed. van Inwagen and Zimmerman, Oxford: Blackwell: 206–219.
-* –––, 1998b, “Temporal Parts and Supervenient Causation: The Incompatibility of Two Humean Doctrines”, _Australasian Journal of Philosophy_, 76: 265–88.
-* –––, 1999, “One Really Big Liquid Sphere: Reply to Lewis”, _Australasian Journal of Philosophy_, 77: 213–5.
+* –––, 2004, “Replies to Gallois, Hirsch and Markosian”, *Philosophy and Phenomenological Research*, 68: 674–87.
+* –––, 2008, “Temporal Parts”, in *Contemporary Debates in Metaphysics*, edited by Hawthorne, Sider and Zimmerman, Oxford: Blackwell, 241–62.
+* Simon, J., 2005, “Is Time Travel a Problem for the Three-Dimensionalist?”, *Monist*, 88: 353-61.
+* Simons, Peter, 1985, “Coincidence of Things of a Kind”, *Mind* 94: 70–75.
+* –––, 1986, “Unkindly Coincidences”, *Mind* 95: 506–9.
+* –––, 1987, *Parts: A Study in Ontology*, Oxford: Clarendon Press.
+* –––, 1997, “On Being the Same Ship(s)—or Electron(s). Reply to Hughes”, *Mind*, 106: 761–7.
+* –––, 2000a, “Identity Through Time and Trope Bundles”, *Topoi*, 19: 147–55.
+* –––, 2000b, “Continuants and Occurrents”, *Proceedings of the Aristotelian Society* Supplementary Volume 74: 59–75.
+* –––, 2008, “Modes of Extension: Comments on Kit Fine’s ‘In Defence of Three-Dimensionalism’”, *Philosophy*, 83, supplement 62: 17–21.
+* Skow, Bradford, 2015, *Objective Becoming*, Cambridge, MA: MIT Press.
+* Slater, Matthew and Varzi, Achille, 2007, “Playing for the Same Team Again”, *Basketball and Philosophy*, edited by Walls and Bassham, University Press of Kentucky: 220–234.
+* Smith, Donald, 2010, “Chisholm’s Phenomenal Argument Revisited: a Dilemma for Perdurantism”, *American Philosophical Quarterly*, 47.1: 31–42.
+* Sosa, E., 1987, “Subjects among Other Things”, in *Philosophical Perspectives*, 1: 155–187.
+* –––., 1999, “Existential Relativity”, *Midwest Studies in Philosophy*, 23: New Directions in Philosophy, ed. by P.A. French and H.K. Wettstein, New York: Blackwells: 132–43.
+* Stalnaker, R., 1988, “Vague Identity”, in D.F. Austin (ed.) *Philosophical Analysis: A Defence by Example*, Dordrecht: Kluwer: 349–60.
+* Steward, Helen, 2015, “What is a Continuant?”, *Proceedings of the Aristotelian Society Supplementary Volume* 89.1: 109–123.
+* Stuchlik, Joshua M., 2003, “Not All Worlds are Stages”, in *Philosophical Studies*, 116.3: 309–21.
+* Sutton, C.S., 2014, “The Supervenience Solution to the Too-Many-Thinkers Problem”, *Philosophical Quarterly* 64: 619–39.
+* Tallant, Jonathan, 2018, “Presentism, Persistence, and Trans-temporal Dependence”, *Philosophical Studies*, 175: 2209–20.
+* Tappenden, Paul, 2011,“Expectancy and Rational Action Prior to Personal Fission”, *Philosophical Studies*, 153.2, 299–306.
+* Taylor, A.P., 2013,“The Frustrating Problem for Four-Dimensionalism”, *Philosophical Studies*, 165.3, 1097–1115.
+* Taylor, Richard, 1955,“Spatial and Temporal Analogues and the Concept of Identity”, *Journal of Philosophy*, 52, 599–612.
+* Teller, Paul, 2002, “The Rotating Disk Argument and Humean Supervenience: Cutting the Gordian Knot”, *Analysis*, 62: 205–10.
+* Thomasson, Amie L., 2004, “The Ontology of Art”, in *The Blackwell Guide to Aesthetics*, Peter Kivy (ed.), Oxford: Blackwell, pp. 78–92.
+* Thomson, Judith Jarvis, 1965, “Time, Space and Objects”, *Mind*, 74: 1–27.
+* –––, 1983, “Parthood and Identity Across Time”, *Journal of Philosophy*, 80: 201–20.
+* –––, 1998, “The Statue and the Clay”, *Noûs*, 32: 148–173.
+* Tillman, Chris, 2011, “Musical Materialism”, *British Journal of Aesthetics*, 51: 13–29.
+* Tognazzini, Neal A., 2010, “Persistence and Responsibility”, in *Time and Identity*, edited by Campbell, O’Rourke and Silverstein, pp. 149–164.
+* Torre, Stephan, 2015, “Restricted Diachronic Composition and Special Relativity”, *British Journal for Philosophy of Science*, 66: 235–55.
+* Traynor, Michael, 2013,“Actual Time and Possible Change: a Problem for Modal Arguments for Temporal Parts”, *Thought*, 2.3, 180–89.
+* –––, 2014,“Phenomenal Experience and the Metaphysics of Persistence”, *Proceedings of the Aristotelian Society*, 114, 381–88.
+* Valaris, Markos and Michael, Michaelis, 2015,“Time Travel for Endurantists”, *American Philosophical Quarterly*, 52.4, 357–64.
+* van Inwagen, Peter, 1981, “The Doctrine of Arbitrary Undetached Parts”, *Pacific Philosophical Quarterly*, 62: 123–137.
+* –––, 1988, “How to Reason about Vague Objects”, *Philosophical Topics*, 16: 255–84.
+* –––,1990a, “Four-Dimensional Objects”, *Noûs*, 24: 245–55.
+* –––, 1990b, *Material Beings*, Ithaca NY: Cornell University Press.
+* –––, 2000, “Temporal Parts and Identity Across Time”, *Monist*, 83: 437–59.
+* Varzi, Achille, 2003, “Perdurantism, Universalism and Quantifiers”, *Australasian Journal of Philosophy*, 81: 208–15.
+* –––, 2003a, “Naming the Stages”, *Dialectica*, 57: 387–412.
+* –––, 2005, “Change, Temporal Parts and the Argument from Vagueness”, *Dialectica*, 59.4: 485–98.
+* –––, 2007, “Promiscuous Endurantism and Diachronic Vagueness”, *American Philosophical Quarterly*, 44: 181–89.
+* Viebahn, Emmanuel, 2013, “Counting Stages”, *Australasian Journal of Philosophy*, 91.2: 311–24.
+* Walters, Lee, 2019, “Are the Statue and the Clay Mutual Parts? ”, *Noûs*, 53.1: 23–50.
+* Wasserman, Ryan, 2002, “The Standard Objection to the Standard Account”, *Philosophical Studies*, 111: 197–216.
+* –––, 2003, “The Argument from Temporary Intrinsics”, *Australasian Journal of Philosophy*, 81: 413–9.
+* –––, 2004a, “Framing the Debate over Persistence”, *Metaphysica*, 5: 67–80.
+* –––, 2004b, “The Constitution Question”, *Noûs*, 38: 693–710.
+* –––, 2005, “Humean Supervenience and Personal Identity”, *Philosophical Quarterly*, 55: 582–93.
+* –––, 2006, “The Problem of Change”, *Philosophy Compass*, 1: 48–57.
+* –––, 2010, “Teaching and Learning Guide for The Problem of Change”, *Philosophy Compass*, 5: 283–86.
+* –––, 2016, “Theories of Persistence”, *Philosophical Studies*, 173: 243–50.
+* –––, 2017, *Paradoxes of Time Travel*, Oxford: Oxford University Press.
+* Wiggins, David, 1980, *Sameness and Substance*, Oxford: Basil Blackwell.
+* –––, 2001, *Sameness and Substance Renewed*, Cambridge: Cambridge University Press.
+* Wilhelm, Isaac, 2020, “The Stage Theory of Groups”, *Australasian Journal of Philosophy*. doi:10.1080/00048402.2019.1699587
+* Williams, Bernard, 1973, *Problems of the Self*, Cambridge: Cambridge University Press.
+* Williamson, Timothy, 1994, *Vagueness*, London: Routledge.
+* Wilson, N.L., 1955, “Space, Time and Individuals”, *Journal of Philosophy*, 52: 589–98.
+* Wright, Stephen, 2010, “The Leibniz’s Law Problem (for Stage Theory)”, *Metaphysica*, 11.2: 137–51.
+* Yablo, Stephen, 1987, “Identity, Essence and Indiscernibility”, *Journal of Philosophy*, 84: 293–314.
+* Young, Nick, 2018, “Hearing Objects and Events”, *Philosophical Studies*, 175.11: 2931–50.
+* Zammiello, F., 2001, “The Logic of Burke’s Sortal Essentialism”, *Pacific Philosophical Quarterly*, 82: 71–86.
+* Zimmerman, Dean, 1995, “Theories of Masses and Problems of Constitution”, *Philosophical Review*, 104: 53–110.
+* –––, 1997, “Coincident Objects: could a ‘Stuff Ontology’ Help?”, *Analysis*, 57: 19–27.
+* –––, 1998a, “Temporary Intrinsics and Presentism”, in *Metaphysics, the Big Questions*, ed. van Inwagen and Zimmerman, Oxford: Blackwell: 206–219.
+* –––, 1998b, “Temporal Parts and Supervenient Causation: The Incompatibility of Two Humean Doctrines”, *Australasian Journal of Philosophy*, 76: 265–88.
+* –––, 1999, “One Really Big Liquid Sphere: Reply to Lewis”, *Australasian Journal of Philosophy*, 77: 213–5.
 
 ## Academic Tools
 

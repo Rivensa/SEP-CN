@@ -1,6 +1,6 @@
 # 奥古斯特·威廉·冯·施莱格尔 Schlegel, August Wilhelm von (Katia D. Hay)
 
-_首次发表于 2010 年 1 月 14 日；实质修订于 2017 年 6 月 9 日_
+*首次发表于 2010 年 1 月 14 日；实质修订于 2017 年 6 月 9 日*
 
 奥古斯特·威廉·施莱格尔（1767 年 9 月 5 日，汉诺威 - 1845 年 5 月 12 日，波恩）是一位德国散文家，评论家，翻译家，哲学家和诗人。尽管他的著作在哲学维度和深度上仍然被低估，但他被认为是德国浪漫主义运动的创始人之一 - 他将其构想为一种欧洲运动 - 以及其哲学基础思想的最重要的传播者之一，不仅在德国，在国外，尤其是在英国。
 
@@ -172,134 +172,134 @@ The abbreviations used for references to, or quotations of, A.W. Schlegel are in
 
 #### Collected Works
 
-* 1846–1848, _Sämtliche Werke_ \[**SW**], edited by Eduard Böcking, 16 vols., Leipzig: Weidmann; reprinted in 1971–72, Hildesheim: Neudruck Verlag Olms. Includes his works written in French (_Œuvres_, in 3 volumes, 1848) and in Latin (_Opuscula_, _quae Schlegelius latine scripta reliquit_, 1848).
-* 1962–1974, _Kritische Schriften und Briefe_, edited by Edgar Lohner, Stuttgart: W. Kohlhammer.
-* 1989–in progress, _Kritische Ausgabe der Vorlesungen_, 6 vol., edited by Ernst Behler and Frank Jolles, Paderborn, Munich: F. Schöningh.
+* 1846–1848, *Sämtliche Werke* \[**SW**], edited by Eduard Böcking, 16 vols., Leipzig: Weidmann; reprinted in 1971–72, Hildesheim: Neudruck Verlag Olms. Includes his works written in French (*Œuvres*, in 3 volumes, 1848) and in Latin (*Opuscula*, *quae Schlegelius latine scripta reliquit*, 1848).
+* 1962–1974, *Kritische Schriften und Briefe*, edited by Edgar Lohner, Stuttgart: W. Kohlhammer.
+* 1989–in progress, *Kritische Ausgabe der Vorlesungen*, 6 vol., edited by Ernst Behler and Frank Jolles, Paderborn, Munich: F. Schöningh.
 
 #### Literary Works
 
-* 1800, _Gedichte_, Tübingen: Cotta.
-* 1803, _Ion_, Ein Schauspiel, Hamburg: Perthes.
-* 1811, _Poetische Werke_, 2 vols., Heidelberg: Mohr & Zimmer.
+* 1800, *Gedichte*, Tübingen: Cotta.
+* 1803, *Ion*, Ein Schauspiel, Hamburg: Perthes.
+* 1811, *Poetische Werke*, 2 vols., Heidelberg: Mohr & Zimmer.
 
 #### Critical Works
 
-* 1798–1800, _Athenaeum_ \[**A**], 3 vols., (Co-editor with Friedrich Schlegel), Berlin: Vieweg (vol. 1), Berlin: Frölich (vols. 2 and 3); reprinted in 1989, Dortmund: Harenberg.
-* 1801, _Charakteristiken und Kritiken_, with Friedrich Schlegel, 2 vols., Königsberg: Nicolovius.
-* 1807, _Comparaison entre la Phèdre de Racine et celle d’Euripide_, Paris : Tourneisen Fils ; reedited with slight modifications in 1842, Essais littéraires et historiques, Bonn: Edouard Weber, pp. 85 ff).
-* 1809–11, _Über dramatische Kunst und Literatur. Vorlesungen_, 3 vols., Heidelberg: Mohr & Zimmer.
-* 1813, _Sur le système continental et sur les rapports avec la Suède_, Hamburg.
-* 1816, _Der deutsche Mann und der Patriot im Streit_, Philadelphia: Spottvogel (i.e., Reutlingen: Mäken).
-* 1820–30, _Indische Bibliothek_ \[**IB**], 3 vols., Bonn: Weber.
-* 1828, _Kritische Schriften_ \[**KS**], 2 vols., Berlin: Reimer.
-* 1832, _Réflexions sur l’étude des Langues Asiatiques suivies d’une lettre à M. Horace_, Hayman Wilson, Bonn: Edouard Weber.
-* 1842, _Essais littéraires et historiques_, Bonn: Edouard Weber.
-* 1884 (posthumous), _Vorlesungen über schöne Literatur und Kunst_ \[**VLK**], edited by Jakob Minor, 3 vols., Heilbronn: Henningen; reprinted in 1968, Nendeln; Liechtenstein: Kraus.
-* 1913 (posthumous), _Geschichte der deutschen Sprache und Poesie_, (Lectures delivered at Bonn University between 1818–1819, edited by J. Körner, Berlin: Behr.
+* 1798–1800, *Athenaeum* \[**A**], 3 vols., (Co-editor with Friedrich Schlegel), Berlin: Vieweg (vol. 1), Berlin: Frölich (vols. 2 and 3); reprinted in 1989, Dortmund: Harenberg.
+* 1801, *Charakteristiken und Kritiken*, with Friedrich Schlegel, 2 vols., Königsberg: Nicolovius.
+* 1807, *Comparaison entre la Phèdre de Racine et celle d’Euripide*, Paris : Tourneisen Fils ; reedited with slight modifications in 1842, Essais littéraires et historiques, Bonn: Edouard Weber, pp. 85 ff).
+* 1809–11, *Über dramatische Kunst und Literatur. Vorlesungen*, 3 vols., Heidelberg: Mohr & Zimmer.
+* 1813, *Sur le système continental et sur les rapports avec la Suède*, Hamburg.
+* 1816, *Der deutsche Mann und der Patriot im Streit*, Philadelphia: Spottvogel (i.e., Reutlingen: Mäken).
+* 1820–30, *Indische Bibliothek* \[**IB**], 3 vols., Bonn: Weber.
+* 1828, *Kritische Schriften* \[**KS**], 2 vols., Berlin: Reimer.
+* 1832, *Réflexions sur l’étude des Langues Asiatiques suivies d’une lettre à M. Horace*, Hayman Wilson, Bonn: Edouard Weber.
+* 1842, *Essais littéraires et historiques*, Bonn: Edouard Weber.
+* 1884 (posthumous), *Vorlesungen über schöne Literatur und Kunst* \[**VLK**], edited by Jakob Minor, 3 vols., Heilbronn: Henningen; reprinted in 1968, Nendeln; Liechtenstein: Kraus.
+* 1913 (posthumous), *Geschichte der deutschen Sprache und Poesie*, (Lectures delivered at Bonn University between 1818–1819, edited by J. Körner, Berlin: Behr.
 
 #### Translations
 
-* Rendorps, Joachim, 1793, _Joachim Rendorps geheime Nachrichten zur Aufklärung der Vorfälle während des letzten Kriegs zwischen England und Holland_, Leipzig: Heinsius.
-* William Shakespeare, 1797–1810, _Shakespeare’s Dramatische Werke_, with Caroline Schlegel, Ludwig and Dorothea Tieck, 9 vols., Berlin: Unger.
-* Horace Walpole, 1800, _Historische, literarische und unterhaltende Schriften_, Leipzig: Hartknoch.
-* Calderón de la Barca, 1803–1809, _Spanisches Theater_, 2 vols., Berlin: Hitzig.
-* assorted, 1804, _Blumensträuße italienischer, spanischer und portugiesischer Poesie_, Berlin: Realschulbuchhandlung.
-* Albertine Necker de Saussure, 1820, _Über den Charackter und die Schriften der Frau von Staël_, Paris, London and Strasburg: Treuttel und Würtz.
-* anonymous, 1823, _Bhagavad-Gita_, Bonn: Weber.
-* anonymous, 1829–46, _Ramayana_, 4 vols, Bonn: Weber.
+* Rendorps, Joachim, 1793, *Joachim Rendorps geheime Nachrichten zur Aufklärung der Vorfälle während des letzten Kriegs zwischen England und Holland*, Leipzig: Heinsius.
+* William Shakespeare, 1797–1810, *Shakespeare’s Dramatische Werke*, with Caroline Schlegel, Ludwig and Dorothea Tieck, 9 vols., Berlin: Unger.
+* Horace Walpole, 1800, *Historische, literarische und unterhaltende Schriften*, Leipzig: Hartknoch.
+* Calderón de la Barca, 1803–1809, *Spanisches Theater*, 2 vols., Berlin: Hitzig.
+* assorted, 1804, *Blumensträuße italienischer, spanischer und portugiesischer Poesie*, Berlin: Realschulbuchhandlung.
+* Albertine Necker de Saussure, 1820, *Über den Charackter und die Schriften der Frau von Staël*, Paris, London and Strasburg: Treuttel und Würtz.
+* anonymous, 1823, *Bhagavad-Gita*, Bonn: Weber.
+* anonymous, 1829–46, *Ramayana*, 4 vols, Bonn: Weber.
 
 #### Letters
 
-* 1922, _August Wilhelm Schlegels Briefwechsel mit seinen Heidelberger Verlegern_, edited by Erich Jenisch, Heidelber: Winter.
-* 1930, _Briefe von und an August Wilhelm Schlegel_, edited by Josef Körner, Zürich, Leipzig, Vienna: Amalthea.
-* 1936–37 and 1958, _Kriesenjahre der Frühromantik. Briefen aus dem Schlegelkreis_, edited by Josef Körner, Vienna, Leipzig: Rohrer and Berne: Francke.
-* 1972, _Ludwig Tieck und die Brüder Schlegel. Briefe_, edited by Edgar Lohner, Munich: Winkler.
-* 2012, _Der Briefwechsel zwischen August Wilhelm von Schlegel und seiner Bonner Haushälterin Maria Löbel_, Historisch-kritische Ausgabe, edited by Ralf G. Czapla and Franca V. Schwankweiler, Bonn: Bernstein.
-* 2013, _Founders of Western Indology. August Wilhelm Schlegel and Henry Thomas Colebrooke in Correspondance 1820–1837_, edited by Rosane Rocher and Ludo Rocher, Wiesbaden: Harrassowitz.
-* 2015, _Der Briefwechsel zwischen Christian Friedrich Tieck und August Wilhelm Schlegel in den Jahren 1804 bis 1811_, edited by Cornelia Bögel, Dresden: Thelem.
+* 1922, *August Wilhelm Schlegels Briefwechsel mit seinen Heidelberger Verlegern*, edited by Erich Jenisch, Heidelber: Winter.
+* 1930, *Briefe von und an August Wilhelm Schlegel*, edited by Josef Körner, Zürich, Leipzig, Vienna: Amalthea.
+* 1936–37 and 1958, *Kriesenjahre der Frühromantik. Briefen aus dem Schlegelkreis*, edited by Josef Körner, Vienna, Leipzig: Rohrer and Berne: Francke.
+* 1972, *Ludwig Tieck und die Brüder Schlegel. Briefe*, edited by Edgar Lohner, Munich: Winkler.
+* 2012, *Der Briefwechsel zwischen August Wilhelm von Schlegel und seiner Bonner Haushälterin Maria Löbel*, Historisch-kritische Ausgabe, edited by Ralf G. Czapla and Franca V. Schwankweiler, Bonn: Bernstein.
+* 2013, *Founders of Western Indology. August Wilhelm Schlegel and Henry Thomas Colebrooke in Correspondance 1820–1837*, edited by Rosane Rocher and Ludo Rocher, Wiesbaden: Harrassowitz.
+* 2015, *Der Briefwechsel zwischen Christian Friedrich Tieck und August Wilhelm Schlegel in den Jahren 1804 bis 1811*, edited by Cornelia Bögel, Dresden: Thelem.
 
 #### English Translations
 
-* 1813, _The Continental System, and its relations with Sweden_, London: J.J. Stockdale; anonymous translation.
-* 1815, _A Course of Lectures on Dramatic Art and Literature_ \[**LDA**], translated by John Black and A.J.W. Morrison, London: George Bell and Sons; reprinted in 1846, London: H.G. Bohn; revised edition in 1894, reprinted in 1973, New York: AMS Press and 2004, Whitefish, MT: Kessinger.
-* 1944 (1833), _A.W. Schlegel’s Lectures on German literature from Gottsched to Goethe_, Oxford: B. Blackwell (notes taken by George Toynbee).
+* 1813, *The Continental System, and its relations with Sweden*, London: J.J. Stockdale; anonymous translation.
+* 1815, *A Course of Lectures on Dramatic Art and Literature* \[**LDA**], translated by John Black and A.J.W. Morrison, London: George Bell and Sons; reprinted in 1846, London: H.G. Bohn; revised edition in 1894, reprinted in 1973, New York: AMS Press and 2004, Whitefish, MT: Kessinger.
+* 1944 (1833), *A.W. Schlegel’s Lectures on German literature from Gottsched to Goethe*, Oxford: B. Blackwell (notes taken by George Toynbee).
 
 ### Selected Secondary Literature
 
 #### English
 
-* Abrams, Meyer Howard, 1953, _The Mirror and the Lamp: Romantic Theory and the Critical Tradition_, London: Oxford University Press.
-* Adluri, Vishwa and Joydeep Bagche, 2014, _The Nay Science: A History of German Indology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199931347.001.0001
-* Atkinson, Margaret Edith, 1958, _August Wilhelm Schlegel as a Translator of Shakespeare; a Comparison of Three Plays with the Original_, Oxford: B. Blackwell.
-* Behler, Ernst, 1993, _German Romantic Literary Theory_, Cambridge: Cambridge University Press.
-* –––, 2000, “On Truth and Lie in an Aesthetical Sense”, in _Revenge of the Aesthetic: The Place of Literature Theory Today_, Michael P. Clark (ed.), Berkeley and Los Angeles: University of California Press, pp. 76–93.
+* Abrams, Meyer Howard, 1953, *The Mirror and the Lamp: Romantic Theory and the Critical Tradition*, London: Oxford University Press.
+* Adluri, Vishwa and Joydeep Bagche, 2014, *The Nay Science: A History of German Indology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199931347.001.0001
+* Atkinson, Margaret Edith, 1958, *August Wilhelm Schlegel as a Translator of Shakespeare; a Comparison of Three Plays with the Original*, Oxford: B. Blackwell.
+* Behler, Ernst, 1993, *German Romantic Literary Theory*, Cambridge: Cambridge University Press.
+* –––, 2000, “On Truth and Lie in an Aesthetical Sense”, in *Revenge of the Aesthetic: The Place of Literature Theory Today*, Michael P. Clark (ed.), Berkeley and Los Angeles: University of California Press, pp. 76–93.
 * –––, 2002, “Lyric Poetry in the Early Romantic Theory of the Schlegel Brothers”, in Esterhammer 2002b: 115–141.
-* Benjamin, Walter, \[1920] 1996, “The Concept of Criticism in German Romanticism”, Ph.D. thesis, printed in _Walter Benjamin. Selected Writings, volume 1, 1913–1926_, trans. by D. Lachtermann, H. Eiland and I. Balfour; M. Bullock, Michael W. Jennings (eds.), Cambridge, MA: Harvard University Press, pp. 116–201.
-* Berman, Antoine, 1992a, _The Experience of the Foreign: Culture and Translation in Romantic Germany_, Albany: State University of New York Press.
-* –––, \[1984] 1992b, “A.W. Schlegel, The Will to Translate Everything”, in _The Experience of the Foreign: Culture and Translation in Romantic Germany_ (_L’épreuve de l'étranger_), trans. S. Heyvaert, Albany, NY: State University of New York Press, pp. 129–141.
-* Bernofsky, Susan, 1997, “Schleiermacher’s Translation Theory and Varieties of Foreignization. August Wilhelm Schlegel vs. Johann Heinrich Voss”, _The Translator_, 3(2): 175–192. doi:10.1080/13556509.1997.10798997
+* Benjamin, Walter, \[1920] 1996, “The Concept of Criticism in German Romanticism”, Ph.D. thesis, printed in *Walter Benjamin. Selected Writings, volume 1, 1913–1926*, trans. by D. Lachtermann, H. Eiland and I. Balfour; M. Bullock, Michael W. Jennings (eds.), Cambridge, MA: Harvard University Press, pp. 116–201.
+* Berman, Antoine, 1992a, *The Experience of the Foreign: Culture and Translation in Romantic Germany*, Albany: State University of New York Press.
+* –––, \[1984] 1992b, “A.W. Schlegel, The Will to Translate Everything”, in *The Experience of the Foreign: Culture and Translation in Romantic Germany* (*L’épreuve de l'étranger*), trans. S. Heyvaert, Albany, NY: State University of New York Press, pp. 129–141.
+* Bernofsky, Susan, 1997, “Schleiermacher’s Translation Theory and Varieties of Foreignization. August Wilhelm Schlegel vs. Johann Heinrich Voss”, *The Translator*, 3(2): 175–192. doi:10.1080/13556509.1997.10798997
 * Billings, Joshua, 2013, “‘An Alien Body’? Choral Autonomy around 1800”, in Billings, Budelmann, & Macintosh 2013: 133–151. doi:10.1093/acprof:oso/9780199670574.003.0009
-* Billings, Joshua, Felix Budelmann, and Fiona Macintosh (eds.), 2013, _Choruses, Ancient and Modern_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199670574.001.0001
-* Black, John D., 1964, “The Education of Desire. Romanticizing Cultural Studies”, in his, _The Politics of Enchantment: Romanticism, Media, and Cultural Studies_, Waterloo: Wilfrid Laurier University Press, pp. 15–37.
+* Billings, Joshua, Felix Budelmann, and Fiona Macintosh (eds.), 2013, *Choruses, Ancient and Modern*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199670574.001.0001
+* Black, John D., 1964, “The Education of Desire. Romanticizing Cultural Studies”, in his, *The Politics of Enchantment: Romanticism, Media, and Cultural Studies*, Waterloo: Wilfrid Laurier University Press, pp. 15–37.
 * Carlson, Marvin, 1994, “Nationalism and the Romantic Drama in Europe”, in Gillespie 1994: 139–153.
-* Craig, Charlotte M., 2000, “August Wilhelm Schlegel 1767–1845”, in _Encyclopedia of German Literature_, M. Konzett (ed.), Chicago and London: Fitzroy Dearborn Publishers, pp. 863–865.
-* Dunbar, Zachary, 2013, “‘How do we solve a Problem like the Chorus?’ Hammerstein’s _Allegro_ and the Reception of the Greek Chorus on Broadway”, in Billings, Budelmann, & Macintosh 2013: 243–260. doi:10.1093/acprof:oso/9780199670574.003.0015
-* Engel, Manfred and Jürgen Lehmann, 2004, “The Aesthetics of German Idealism and Its Reception in European Romanticism”, in _Nonfictional Romantic Prose: Expanding Boarders (Comparative History of Literatures in European Languages)_, S.P. Steven, N. Virgil (eds.) in collaboration with G. Gillespie, Amsterdam and Philadelphia: John Benjamins Publishing Company, pp. 69–95.
-* Esterhammer, Angela, 2002a, “The Critic”, in _The Cambridge Companion to Coleridge_, (Cambridge Companions to Literature), Lucy Newly (ed.), Cambridge, England: Cambridge University Press, pp. 142–155. doi:10.1017/CCOL0521650712.010
-* ––– (ed.), 2002b, _Romantic Poetry_, Amsterdam: John Benjamin’s Pub. Co.
-* Ewton, Ralph W., 1972, _The Literary Theories of August Wilhelm Schlegel_, The Hague: Mouton.
-* Ferber, Michael (ed.), 2005, _A Companion to European Romanticism_, Malden and Oxford: Blackwell. doi:10.1111/b.9781405110396.2005.x
-* Franzel, Sean, 2014, “Romantic Encyclopedics and the Lecture Form: Schelling, A.W. Schlegel, A. von Humboldt”, _European Romantic Review_, 25(3): 347–356. doi:10.1080/10509585.2014.899762
-* Furst, Lilian R., 1969 \[1976, 1982], _Romanticism_, London: Cambridge University Press.
+* Craig, Charlotte M., 2000, “August Wilhelm Schlegel 1767–1845”, in *Encyclopedia of German Literature*, M. Konzett (ed.), Chicago and London: Fitzroy Dearborn Publishers, pp. 863–865.
+* Dunbar, Zachary, 2013, “‘How do we solve a Problem like the Chorus?’ Hammerstein’s *Allegro* and the Reception of the Greek Chorus on Broadway”, in Billings, Budelmann, & Macintosh 2013: 243–260. doi:10.1093/acprof:oso/9780199670574.003.0015
+* Engel, Manfred and Jürgen Lehmann, 2004, “The Aesthetics of German Idealism and Its Reception in European Romanticism”, in *Nonfictional Romantic Prose: Expanding Boarders (Comparative History of Literatures in European Languages)*, S.P. Steven, N. Virgil (eds.) in collaboration with G. Gillespie, Amsterdam and Philadelphia: John Benjamins Publishing Company, pp. 69–95.
+* Esterhammer, Angela, 2002a, “The Critic”, in *The Cambridge Companion to Coleridge*, (Cambridge Companions to Literature), Lucy Newly (ed.), Cambridge, England: Cambridge University Press, pp. 142–155. doi:10.1017/CCOL0521650712.010
+* ––– (ed.), 2002b, *Romantic Poetry*, Amsterdam: John Benjamin’s Pub. Co.
+* Ewton, Ralph W., 1972, *The Literary Theories of August Wilhelm Schlegel*, The Hague: Mouton.
+* Ferber, Michael (ed.), 2005, *A Companion to European Romanticism*, Malden and Oxford: Blackwell. doi:10.1111/b.9781405110396.2005.x
+* Franzel, Sean, 2014, “Romantic Encyclopedics and the Lecture Form: Schelling, A.W. Schlegel, A. von Humboldt”, *European Romantic Review*, 25(3): 347–356. doi:10.1080/10509585.2014.899762
+* Furst, Lilian R., 1969 \[1976, 1982], *Romanticism*, London: Cambridge University Press.
 * Flaherty, Gloria, 1994, “Empathy and Distance. German Romantic Theories of Acting Reconsidered”, in Gillespie 1994: 181–209.
-* Gillespie, Gerald (ed.), 1994, _Romantic Drama_, Philadelphia and Amsterdam: John Benjamin’s Publishing Co.
+* Gillespie, Gerald (ed.), 1994, *Romantic Drama*, Philadelphia and Amsterdam: John Benjamin’s Publishing Co.
 * Goldhill, Simon, 2013, “The Greek Chorus: Our German Eyes”, in Billings, Budelmann, & Macintosh 2013: 35–52. doi:10.1093/acprof:oso/9780199670574.003.0003
 * Grundmann, Heike, 2005, “Shakespeare and European Romanticism”, in Ferber 2005: 29–48. doi:10.1111/b.9781405110396.2005.00004.x
-* Heine, Heinrich, 1833, “The Romantic School”, in _Heinrich Heine 1797–1856: The Romantic School and Other Essays_ (The German Library, 33), trans. by Robert C. Holub, Jost Hermand and Volkmar Sander (eds.), New York: Continuum, 1985, pp. 1–128.
-* Helmholtz-Phelan, Anna Augusta von, 1907, _The Indebtedness of Samuel Taylor Coleridge to August Wilhelm von Schlegel_, Thesis (doctoral), Madison: University of Wisconsin (Philology and literature series).
-* Lacoue-Labarthe Philippe and Jean-Luc Nancy, \[1978] 1988, _The Literary Absolute: the Theory of Literature in German Romanticism_ (_L’absolu littéraire : théorie de la littérature du romantisme allemand_), trans. by Philip Barnard and Cheryl Lester, Albany, NY: State University of New York Press.
-* Lefevere, André, 1977, _Translating Literature: The German Tradition from Luther to Rosenzweig_, Assen and Amsterdam: Van Gorcum (especially pp. 46–57).
-* Müller-Vollmer, Kurt, 2000 \[2002], “Transcendentalist Writings. Transfers, Inscriptions, Transformations”, in _The Internationality of National Literature in Either America: Transfer and Transformation_, A. Paul Frank and Kurt Mueller-Vollmer (eds.), Göttingen: Wallstein Verlag, pp. 295–319.
+* Heine, Heinrich, 1833, “The Romantic School”, in *Heinrich Heine 1797–1856: The Romantic School and Other Essays* (The German Library, 33), trans. by Robert C. Holub, Jost Hermand and Volkmar Sander (eds.), New York: Continuum, 1985, pp. 1–128.
+* Helmholtz-Phelan, Anna Augusta von, 1907, *The Indebtedness of Samuel Taylor Coleridge to August Wilhelm von Schlegel*, Thesis (doctoral), Madison: University of Wisconsin (Philology and literature series).
+* Lacoue-Labarthe Philippe and Jean-Luc Nancy, \[1978] 1988, *The Literary Absolute: the Theory of Literature in German Romanticism* (*L’absolu littéraire : théorie de la littérature du romantisme allemand*), trans. by Philip Barnard and Cheryl Lester, Albany, NY: State University of New York Press.
+* Lefevere, André, 1977, *Translating Literature: The German Tradition from Luther to Rosenzweig*, Assen and Amsterdam: Van Gorcum (especially pp. 46–57).
+* Müller-Vollmer, Kurt, 2000 \[2002], “Transcendentalist Writings. Transfers, Inscriptions, Transformations”, in *The Internationality of National Literature in Either America: Transfer and Transformation*, A. Paul Frank and Kurt Mueller-Vollmer (eds.), Göttingen: Wallstein Verlag, pp. 295–319.
 * Neubauer, John, 2002, “Organicist Poetics as Romantic Heritage?”, in Esterhammer 2002b: 491–508.
-* Paulin, Roger, 2016, _The Life of August Wilhelm Schlegel, Cosmopolitan of Art and Poetry_, Cambridge: Open Book Publishers.
-* Plug, Jan, 2004, “Romanticism and the Invention of Literature”, in _Idealism without Absolutes: Philosophy and Romantic Culture_, Tilottama Rajan and Arkady Plotnitsky (ed.), New York: State University of New York Press, pp. 15–39.
-* Robinson, Douglas, 1991, _The Translator’s Turn_, Baltimore and London: John Hopkins University Press.
-* Sauer, Thomas G., 1981, _A.W. Schlegel’s Shakespearean Criticism in England, 1811–1846_, Bonn: Bouvier Verlag H. Grundmann.
+* Paulin, Roger, 2016, *The Life of August Wilhelm Schlegel, Cosmopolitan of Art and Poetry*, Cambridge: Open Book Publishers.
+* Plug, Jan, 2004, “Romanticism and the Invention of Literature”, in *Idealism without Absolutes: Philosophy and Romantic Culture*, Tilottama Rajan and Arkady Plotnitsky (ed.), New York: State University of New York Press, pp. 15–39.
+* Robinson, Douglas, 1991, *The Translator’s Turn*, Baltimore and London: John Hopkins University Press.
+* Sauer, Thomas G., 1981, *A.W. Schlegel’s Shakespearean Criticism in England, 1811–1846*, Bonn: Bouvier Verlag H. Grundmann.
 * Schmelling, Manfred, 1994, “‘Theatre in the Theatre’ and ‘World Theatre’: Play Thematics and the Breakthrough of Romantic Drama”, in Gillespie 1994: 35–59.
-* Schulte-Sasse, Jochen, \[1985] 1988, “The Concept of Literary Criticism in German Romanticism, 1795–1810”, in _A History of German Literary Criticism, 1730–1980_ (_Geschichte der deutschen Literaturkritik (1730-1980)_), Peter Uwe Hohendahl (ed.), Lincoln and London: University of Nebraska Press, pp. 99–177.
-* Welleck, René, 1955, “August Wilhelm Schlegel”, in _A History of Modern Criticism: 1750–1950_, vol. II, New Haven: Yale University Press, pp. 36–73.
-* Ziolkowski, Theodore, 2016, “Ruminations on Ruins: Classical versus Romantic”, _The German Quarterly_, 89(3): 265–281. doi:10.1111/gequ.12000
+* Schulte-Sasse, Jochen, \[1985] 1988, “The Concept of Literary Criticism in German Romanticism, 1795–1810”, in *A History of German Literary Criticism, 1730–1980* (*Geschichte der deutschen Literaturkritik (1730-1980)*), Peter Uwe Hohendahl (ed.), Lincoln and London: University of Nebraska Press, pp. 99–177.
+* Welleck, René, 1955, “August Wilhelm Schlegel”, in *A History of Modern Criticism: 1750–1950*, vol. II, New Haven: Yale University Press, pp. 36–73.
+* Ziolkowski, Theodore, 2016, “Ruminations on Ruins: Classical versus Romantic”, *The German Quarterly*, 89(3): 265–281. doi:10.1111/gequ.12000
 
 #### German
 
-* Albrecht, Andrea, 2005, _Kosmopolitismus. Weltbürgerdiskurse in Literatur, Philosophie und Publizistik um 1800_, Berlin: Walter de Gruyter (especially pp. 306–311).
-* Alt, Carl, 1904, _Schiller und die Brüder Schlegel_, Weimar: Böhlau.
-* Becker, Claudia, 1998, “_Naturgeschichte der Kunst_”, _August Wilhelm Schlegels ästhetischer Ansatz im Schnittpunkt zwischen Aufklärung, Klassik und Frühromantik_, Munich: Fink.
-* Behler, Ernst, 1983, _Die Zeitschriften der Brüder Schlegel. Ein Beitrag zur Geschichte der deutschen Romantik_, Darmstadt: Wissenschaftliche Buchgesellschaft.
-* –––, 1992, _Frühromantik_, Berlin and New York: Walter de Gruyter.
-* Bernays, Michael, 1865, “Der Schlegel-Tieck Shakespeare”, in _Jahrbuch der Deutschen Shakespeare-Gesellschaft I_, 396–405.
-* –––, 1891, “Vorrede und Nachwort zum neuen Abdruck des Schlegel-Tieckschen Shakespeare”, _Preussische Jahrbücher_, 68(3): 524–69.
-* –––, 1872, _Zur Entstehungsgeschichte des Schlegelschen Shakespeare_, Leipzig: Hirzel.
-* Besenbeck, Alfred, 1930, _Kunstanschauung und Kunstlehre August Wilhelm Schlegels_, Berlin: E. Ebering.
-* Brentano, Bernard von, 1986, _August Wilhelm Schlegel. Geschichte eines romantischen Geistes_, Frankfurt a.M.: Insel.
-* Byun, Hak-Su, 1994, _Hermeneutische und ästhetische Erfahrung des Fremden. August Wilhelm Schlegel_, Munich: Iudicium.
-* Gipper, Helmut and Peter Schmitter, 1979, _Sprachwissenschaft und Sprachphilosophie im Zeitalter der Romantik. Ein Beitrag zur Historiographie der Linguistik_, Tübingen: Gunter Narr.
-* Grosse-Brockhoff, Annelen, 1981, _Das Konzept des Klassischen bei Friedrich und August Wilhelm Schlegel_, Köln: In Kommission bei Böhlau.
-* Holmes, Susanne, 2005, _Synthesis der Vielheit die Begründung der Gattungstheorie bei August Wilhelm Schlegel_, Paderborn: Schöningh.
-* Hölter, Achim, 2010, “August Wilhelm Schlegels Göttinger Mentoren”, in _Der Europäer August Wilhelm Schlegel. Romantischer Kulturtransfer—romantische Wissenswelten_, York-Gothart Mix and Jochen Strobel (eds.), Berlin and New York: Walter de Gruyter, pp. 13–29.
-* Jagenlauf, Franz, 1934, _August Wilhelm von Schlegel und die Lehre vom Verstehen_, Leipzig: M. Fischer.
-* Körner, Josef, 1924, _Romantiker und Klassiker. Die Brüder Schlegel in ihrer Beziehung zu Schiller u. Goethe_, Berlin: Askanischer Verlag.
-* Larson, Kenneth E., 1989, “Pro und contra Schlegel. Die zwei gegensätzlichen Blankversübersetzungen des King Lear von Heinrich Voss (1806 und 1819) ”, in _Deutsche Shakespeare-Gesellschaft West Jahrbuch_: pp. 113–33.
-* Masiakowska, Dorota, 2002, _Vielfalt und Einheit im Europabild August Wilhelm Schlegels_, Frankfurt a.M.: Lang.
-* Mix, York-Gothart and Jochen Strobel (eds.), 2010, _Der Europäer August Wilhelm Schlegel. Romantischer Kulturtransfer—romantische Wissenswelten_, Berlin and New York: Walter de Gruyter.
-* Nagavajara, Chetana, 1966, _August Wilhelm Schlegel in Frankreich. Sein Anteil an die französischen Literaturkritik 1807–1835_, Tübingen: Niemeyer.
-* Paulini, Hilde Marianne, 1985, _August Wilhelm Schlegel und die Vergleichende Literaturwissenschaft_, Frankfurt a.M.: P. Lang.
-* Penzel, Joachim, 2007, _Der Betrachter ist im Text_, Berlin: Lit Verlag.
-* Reavis, Silke Agnes, 1978, _August Wilhelm Schlegels Auffassung der Tragödie im Zusammenhang mit seiner Poetik und ästhetischen Theorien seiner Zeit_, Bern: P. Lang.
-* Schenk-Lenzen, Ulrike, 1991, _Das ungleiche Verhältnis von Kunst und Kritik. zur Literaturkritik August Wilhelm Schlegels_, Würzburg: Königshausen & Neumann.
-* Schirmer, Ruth, 1986, _August Wilhelm Schlegel und seine Zeit: ein Bonner Leben_, Bonn: Bouvier.
-* Schwartz, Wilhelm, 1914, _August Wilhelm Schlegels Verhältnis zur spanischen und portugiesischen Literatur_, Halle: M. Niemeyer.
-* Strobel, Jochen, 2010, “Der Romantiker als homo academicus. August Wilhelm Schlegel in der Wissenschaft”, in _Jahrbuch des Freien Deutschen Hochstifts_, pp. 298–338.
+* Albrecht, Andrea, 2005, *Kosmopolitismus. Weltbürgerdiskurse in Literatur, Philosophie und Publizistik um 1800*, Berlin: Walter de Gruyter (especially pp. 306–311).
+* Alt, Carl, 1904, *Schiller und die Brüder Schlegel*, Weimar: Böhlau.
+* Becker, Claudia, 1998, “*Naturgeschichte der Kunst*”, *August Wilhelm Schlegels ästhetischer Ansatz im Schnittpunkt zwischen Aufklärung, Klassik und Frühromantik*, Munich: Fink.
+* Behler, Ernst, 1983, *Die Zeitschriften der Brüder Schlegel. Ein Beitrag zur Geschichte der deutschen Romantik*, Darmstadt: Wissenschaftliche Buchgesellschaft.
+* –––, 1992, *Frühromantik*, Berlin and New York: Walter de Gruyter.
+* Bernays, Michael, 1865, “Der Schlegel-Tieck Shakespeare”, in *Jahrbuch der Deutschen Shakespeare-Gesellschaft I*, 396–405.
+* –––, 1891, “Vorrede und Nachwort zum neuen Abdruck des Schlegel-Tieckschen Shakespeare”, *Preussische Jahrbücher*, 68(3): 524–69.
+* –––, 1872, *Zur Entstehungsgeschichte des Schlegelschen Shakespeare*, Leipzig: Hirzel.
+* Besenbeck, Alfred, 1930, *Kunstanschauung und Kunstlehre August Wilhelm Schlegels*, Berlin: E. Ebering.
+* Brentano, Bernard von, 1986, *August Wilhelm Schlegel. Geschichte eines romantischen Geistes*, Frankfurt a.M.: Insel.
+* Byun, Hak-Su, 1994, *Hermeneutische und ästhetische Erfahrung des Fremden. August Wilhelm Schlegel*, Munich: Iudicium.
+* Gipper, Helmut and Peter Schmitter, 1979, *Sprachwissenschaft und Sprachphilosophie im Zeitalter der Romantik. Ein Beitrag zur Historiographie der Linguistik*, Tübingen: Gunter Narr.
+* Grosse-Brockhoff, Annelen, 1981, *Das Konzept des Klassischen bei Friedrich und August Wilhelm Schlegel*, Köln: In Kommission bei Böhlau.
+* Holmes, Susanne, 2005, *Synthesis der Vielheit die Begründung der Gattungstheorie bei August Wilhelm Schlegel*, Paderborn: Schöningh.
+* Hölter, Achim, 2010, “August Wilhelm Schlegels Göttinger Mentoren”, in *Der Europäer August Wilhelm Schlegel. Romantischer Kulturtransfer—romantische Wissenswelten*, York-Gothart Mix and Jochen Strobel (eds.), Berlin and New York: Walter de Gruyter, pp. 13–29.
+* Jagenlauf, Franz, 1934, *August Wilhelm von Schlegel und die Lehre vom Verstehen*, Leipzig: M. Fischer.
+* Körner, Josef, 1924, *Romantiker und Klassiker. Die Brüder Schlegel in ihrer Beziehung zu Schiller u. Goethe*, Berlin: Askanischer Verlag.
+* Larson, Kenneth E., 1989, “Pro und contra Schlegel. Die zwei gegensätzlichen Blankversübersetzungen des King Lear von Heinrich Voss (1806 und 1819) ”, in *Deutsche Shakespeare-Gesellschaft West Jahrbuch*: pp. 113–33.
+* Masiakowska, Dorota, 2002, *Vielfalt und Einheit im Europabild August Wilhelm Schlegels*, Frankfurt a.M.: Lang.
+* Mix, York-Gothart and Jochen Strobel (eds.), 2010, *Der Europäer August Wilhelm Schlegel. Romantischer Kulturtransfer—romantische Wissenswelten*, Berlin and New York: Walter de Gruyter.
+* Nagavajara, Chetana, 1966, *August Wilhelm Schlegel in Frankreich. Sein Anteil an die französischen Literaturkritik 1807–1835*, Tübingen: Niemeyer.
+* Paulini, Hilde Marianne, 1985, *August Wilhelm Schlegel und die Vergleichende Literaturwissenschaft*, Frankfurt a.M.: P. Lang.
+* Penzel, Joachim, 2007, *Der Betrachter ist im Text*, Berlin: Lit Verlag.
+* Reavis, Silke Agnes, 1978, *August Wilhelm Schlegels Auffassung der Tragödie im Zusammenhang mit seiner Poetik und ästhetischen Theorien seiner Zeit*, Bern: P. Lang.
+* Schenk-Lenzen, Ulrike, 1991, *Das ungleiche Verhältnis von Kunst und Kritik. zur Literaturkritik August Wilhelm Schlegels*, Würzburg: Königshausen & Neumann.
+* Schirmer, Ruth, 1986, *August Wilhelm Schlegel und seine Zeit: ein Bonner Leben*, Bonn: Bouvier.
+* Schwartz, Wilhelm, 1914, *August Wilhelm Schlegels Verhältnis zur spanischen und portugiesischen Literatur*, Halle: M. Niemeyer.
+* Strobel, Jochen, 2010, “Der Romantiker als homo academicus. August Wilhelm Schlegel in der Wissenschaft”, in *Jahrbuch des Freien Deutschen Hochstifts*, pp. 298–338.
 * Wulf, Erich, 1913, A_ugust Wilhelm Schlegel als Lyriker_, Berlin: Ebering.
 
 ## Academic Tools
@@ -319,4 +319,4 @@ The abbreviations used for references to, or quotations of, A.W. Schlegel are in
 [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [Herder, Johann Gottfried von](https://plato.stanford.edu/entries/herder/) | [Novalis \[Georg Friedrich Philipp von Hardenberg\]](https://plato.stanford.edu/entries/novalis/) | [Schelling, Friedrich Wilhelm Joseph von](https://plato.stanford.edu/entries/schelling/) | [Schlegel, Friedrich](https://plato.stanford.edu/entries/schlegel/)
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
-Katia D. Hay <[_katia\_hay@yahoo.fr_](mailto:katia\_hay%40yahoo%2efr)>
+Katia D. Hay <[*katia\_hay@yahoo.fr*](mailto:katia\_hay%40yahoo%2efr)>

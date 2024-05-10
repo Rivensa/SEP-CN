@@ -1,6 +1,6 @@
 # 斯彪西波 Speusippus (Russell Dancy)
 
-_首次发表于 2003 年 5 月 22 日；实质性修订于 2016 年 12 月 20 日_
+*首次发表于 2003 年 5 月 22 日；实质性修订于 2016 年 12 月 20 日*
 
 雅典的斯彪西波是柏拉图的姐姐波托涅的儿子；他在柏拉图于公元前 348/347 年去世后成为学院的负责人，并担任了八年（Diogenes Laertius iv 1），直到他去世为止。他的出生日期很难确定；据合理估计，他的出生日期约为公元前 410 年。他显然写了很多东西：“许多论文和许多对话”（同上，第四章；Diogenes 列出了约 30 个标题，他自己承认他的参考文献不完整）。我们几乎没有他写的任何东西（我们有一些后来被归属于他的作品的内容，如下所述的《论毕达哥拉斯数》；但这不是 Diogenes 的标题之一；我们可能在 Iamblichus 的《关于共同数学科学》第四卷中保留了一些内容，如下所述）。
 
@@ -205,63 +205,63 @@ Diogenes 告诉我们（第四章第一节），斯彪西波“坚持柏拉图�
 ## Bibliography
 
 * Athenaeus: see Gulick 1927.
-* Barnes, Jonathan, 1971, “Homonymy in Speusippus and Aristotle”, _Classical Quarterly_, 21: 65–80.
-* Bury, R.G., 1935, _Sextus Empiricus_, 4 volumes, _Against the Logicians_ (Volume II), Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Greek with facing English translation.
-* Cherniss, Harold, 1976, _Plutarch’s Moralia_, vol. xiii part ii: _1033A–1086B_, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Greek with facing English translation.
+* Barnes, Jonathan, 1971, “Homonymy in Speusippus and Aristotle”, *Classical Quarterly*, 21: 65–80.
+* Bury, R.G., 1935, *Sextus Empiricus*, 4 volumes, *Against the Logicians* (Volume II), Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Greek with facing English translation.
+* Cherniss, Harold, 1976, *Plutarch’s Moralia*, vol. xiii part ii: *1033A–1086B*, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Greek with facing English translation.
 * Cicero (see King 1927).
 * Clement (see Stählin 1939).
-* Dancy, R.M., 1989, “Ancient Non-Beings: Speusippus and Others”, _Ancient Philosophy_, 9: 207–243; revised reprint in R.M. Dancy, 1991, _Two Studies in the Early Academy_, Albany, New York: State University of New York Press, 63–119, 146–178. More detailed discussion of Speusippus’ metaphysics.
-* De Falco, V., 1975, _\[Iamblichus:] Theologumena arithmeticae_, U. Klein (ed.), Stuttgart: B.G. Teubner.
-* Dillon, John, 1984, “Speusippus in Iamblichus”, _Phronesis_, 29(3): 325–332.
-* –––, 1996, “Speusippus on Pleasure”, in _Polyhistor: Studies in the History and Historiography of Ancient Philosophy Presented to Jaap Mansfeld on His Sixtieth Birthday_ \[_Philosophia Antiqua_ 72], Keimpe A. Algra, Pieter W. van der Horst, & David T. Runia (eds.), Leiden & New York: E.J. Brill, 99–114.
-* –––, 2003, _The Heirs of Plato: A Study of the Old Academy (347–274 B.C.)_, Oxford: Clarendon Press; New York: Oxford University Press.
+* Dancy, R.M., 1989, “Ancient Non-Beings: Speusippus and Others”, *Ancient Philosophy*, 9: 207–243; revised reprint in R.M. Dancy, 1991, *Two Studies in the Early Academy*, Albany, New York: State University of New York Press, 63–119, 146–178. More detailed discussion of Speusippus’ metaphysics.
+* De Falco, V., 1975, *\[Iamblichus:] Theologumena arithmeticae*, U. Klein (ed.), Stuttgart: B.G. Teubner.
+* Dillon, John, 1984, “Speusippus in Iamblichus”, *Phronesis*, 29(3): 325–332.
+* –––, 1996, “Speusippus on Pleasure”, in *Polyhistor: Studies in the History and Historiography of Ancient Philosophy Presented to Jaap Mansfeld on His Sixtieth Birthday* \[*Philosophia Antiqua* 72], Keimpe A. Algra, Pieter W. van der Horst, & David T. Runia (eds.), Leiden & New York: E.J. Brill, 99–114.
+* –––, 2003, *The Heirs of Plato: A Study of the Old Academy (347–274 B.C.)*, Oxford: Clarendon Press; New York: Oxford University Press.
 * Diogenes Laertius (see Hicks 1925, Marcovich 1999).
-* D’Ooge, Martin Luther, Frank Edleston Robbins, & Louis Charles Karpinski, 1926, _Nicomachus of Gerasa: Introduction to Arithmetic_, New York & London: Macmillan.
-* Döring, A., 1903, “Eudoxos von Knidos, Speusippos, und der Dialog Philebos”, _Vierteljahrsschrift für wissenschaftliche Philosophie und Soziologie_, 27: 113–129.
+* D’Ooge, Martin Luther, Frank Edleston Robbins, & Louis Charles Karpinski, 1926, *Nicomachus of Gerasa: Introduction to Arithmetic*, New York & London: Macmillan.
+* Döring, A., 1903, “Eudoxos von Knidos, Speusippos, und der Dialog Philebos”, *Vierteljahrsschrift für wissenschaftliche Philosophie und Soziologie*, 27: 113–129.
 * Euclid (see Heiberg/Stamatis 1970, Heath, 1926).
-* Falcon, Andrea, 2000, “Aristotle, Speusippus, and the Platonic Method of Division”, _Classical Quarterly_, 50: 402–414.
-* Festa, N., 1975, _Iamblichus: De communi mathematica scientia_, U. Klein (ed.), Stuttgart: B.G. Teubner.
-* Friedlein, G., 1873, _Procli Diadochi in primum Euclidis Elementorum commentarii_, Leipzig: B.G. Teubner.
+* Falcon, Andrea, 2000, “Aristotle, Speusippus, and the Platonic Method of Division”, *Classical Quarterly*, 50: 402–414.
+* Festa, N., 1975, *Iamblichus: De communi mathematica scientia*, U. Klein (ed.), Stuttgart: B.G. Teubner.
+* Friedlein, G., 1873, *Procli Diadochi in primum Euclidis Elementorum commentarii*, Leipzig: B.G. Teubner.
 * Gellius, Aulus (see Marshall 1968, Rolfe 1927).
-* Graeser, Andreas, 1997, “Platon gegen Speusipp: Bemerkungen zur ersten Hypothese des Platonischen _Parmenides_”, _Museum Helveticum_, 54: 45–47.
-* –––, 1999, “Anhang: Probleme der Speusipp-Interpretation”, _Prolegomena zu einer Interpretation des zweiten Teils des Platonischen Parmenides_ \[_Berner Reihe philosophischer Studien_ 25], Bern, etc.: Verlag Paul Haupt, 41–53.
-* Gulick, Charles Burton, 1927, _Athenaeus: The Deipnosophists_, vol. i: _Books I-III.106e_, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Greek with facing English translation.
-* Gummere, Richard M., 1920, _Seneca: Ad Lucilium Epistulae morales_, vol. ii, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Latin with facing English translation.
-* Halfwassen, Jens, 1992, “Speusipp und die Unendlichkeit des Einen: Ein neues Speusipp-Testimonium bei Proklos und seine Bedeutung”, _Archiv für Geschichte der Philosophie_, 74: 43–73.
-* –––, 1993, “Speusipp und die metaphysische Deutung von Platons ‘Parmenides’”, in _HEN KAI PLETHOS / Einheit und Vielheit: Festschrift für Karl Bormann zum 65. Geburtstag_ \[R_eligionswissenschafliche Studien_ 30], Ludwig Hagemann & Reinhold Glei (eds.), Echter: Oros Verlag, 330–373.
-* Heath, Thomas L., 1926, _Euclid: The Thirteen Books of the Elements_, vol. ii, Cambridge: Cambridge University Press.
+* Graeser, Andreas, 1997, “Platon gegen Speusipp: Bemerkungen zur ersten Hypothese des Platonischen *Parmenides*”, *Museum Helveticum*, 54: 45–47.
+* –––, 1999, “Anhang: Probleme der Speusipp-Interpretation”, *Prolegomena zu einer Interpretation des zweiten Teils des Platonischen Parmenides* \[*Berner Reihe philosophischer Studien* 25], Bern, etc.: Verlag Paul Haupt, 41–53.
+* Gulick, Charles Burton, 1927, *Athenaeus: The Deipnosophists*, vol. i: *Books I-III.106e*, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Greek with facing English translation.
+* Gummere, Richard M., 1920, *Seneca: Ad Lucilium Epistulae morales*, vol. ii, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Latin with facing English translation.
+* Halfwassen, Jens, 1992, “Speusipp und die Unendlichkeit des Einen: Ein neues Speusipp-Testimonium bei Proklos und seine Bedeutung”, *Archiv für Geschichte der Philosophie*, 74: 43–73.
+* –––, 1993, “Speusipp und die metaphysische Deutung von Platons ‘Parmenides’”, in *HEN KAI PLETHOS / Einheit und Vielheit: Festschrift für Karl Bormann zum 65. Geburtstag* \[R_eligionswissenschafliche Studien_ 30], Ludwig Hagemann & Reinhold Glei (eds.), Echter: Oros Verlag, 330–373.
+* Heath, Thomas L., 1926, *Euclid: The Thirteen Books of the Elements*, vol. ii, Cambridge: Cambridge University Press.
 * Heiberg, J.L., 1970, E_uclidis Elementa_, vol. ii, E.S. Stamatis (ed.), Leipzig: B.G. Teubner.
-* Hicks, R.D., 1925, _Diogenes Laertius: Lives of Eminent Philosophers_, 2 vols., Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Greek with facing English translation.
-* Hoche, R., 1866, _Nicomachi Geraseni Pythagorei Introductionis arithmeticae libri II_, Leipzig: B.G. Teubner.
+* Hicks, R.D., 1925, *Diogenes Laertius: Lives of Eminent Philosophers*, 2 vols., Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Greek with facing English translation.
+* Hoche, R., 1866, *Nicomachi Geraseni Pythagorei Introductionis arithmeticae libri II*, Leipzig: B.G. Teubner.
 * Iamblichus (see De Falco 1975, Festa 1975).
-* Isnardi Parente, Margherita, 1980, _Speusippo: Frammenti; Edizione, traduzione e commento_ \[_Istituto Italiano per gli Studi Filosofici, La Scuola di Platone_ 1], Naples: Bibliopolis; the only edition of the fragments with a translation (Italian).
-* Kaklamanou, Eleni, 2012, “Speusippus on Cognitive Sense Perception: Sextus Empiricus _M_ 7.145-6”, _British Journal for the History of Philosophy_, 20: 1183–1193.
-* Kalbfleisch, C., 1907, _Simplicii in Aristotelis Categorias commentarium_ \[Commentaria in Aristotelem Graeca 8], Berlin: G. Reimer.
+* Isnardi Parente, Margherita, 1980, *Speusippo: Frammenti; Edizione, traduzione e commento* \[*Istituto Italiano per gli Studi Filosofici, La Scuola di Platone* 1], Naples: Bibliopolis; the only edition of the fragments with a translation (Italian).
+* Kaklamanou, Eleni, 2012, “Speusippus on Cognitive Sense Perception: Sextus Empiricus *M* 7.145-6”, *British Journal for the History of Philosophy*, 20: 1183–1193.
+* Kalbfleisch, C., 1907, *Simplicii in Aristotelis Categorias commentarium* \[Commentaria in Aristotelem Graeca 8], Berlin: G. Reimer.
 * King, J.E., 1927, Cicero: Tusculan Disputations, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Latin with facing English translation.
-* Krämer, Hans Joachim, 1969, “EPEKEINA TES OUSIAS: Zu Platon, Politeia 509B”, _Archiv för Geschichte der Philosophie_, 51: 1–30. (Defends the view of this passage rejected above.)
-* Lang, Paul, 1911, _De Speusippi academici scriptis accedunt fragmenta_, Bonn; reprint, Hildesheim: G. Olms, 1965.
-* Marcovich, Miroslav, 1999, _Diogenis Laertii Vitae philosophorum_, 2 vols., Stuttgart & Leipzig: B.G. Teubner.
-* Marshall, P.K., 1968, _A. Gellii Noctes Atticae_, vol. i, Oxford: Clarendon Press.
-* Merlan, Philip, 1968, “Speusippus in Iamblichus”, in Merlan, _From Platonism to Neoplatonism_, The Hague: Martinus Nijhoff, 3rd edition, 96–140.
-* Morrow, Glenn R., 1970, _Proclus: A Commentary on the First Book of Euclid’s Elements_, Princeton, New Jersey: Princeton University Press.
+* Krämer, Hans Joachim, 1969, “EPEKEINA TES OUSIAS: Zu Platon, Politeia 509B”, *Archiv för Geschichte der Philosophie*, 51: 1–30. (Defends the view of this passage rejected above.)
+* Lang, Paul, 1911, *De Speusippi academici scriptis accedunt fragmenta*, Bonn; reprint, Hildesheim: G. Olms, 1965.
+* Marcovich, Miroslav, 1999, *Diogenis Laertii Vitae philosophorum*, 2 vols., Stuttgart & Leipzig: B.G. Teubner.
+* Marshall, P.K., 1968, *A. Gellii Noctes Atticae*, vol. i, Oxford: Clarendon Press.
+* Merlan, Philip, 1968, “Speusippus in Iamblichus”, in Merlan, *From Platonism to Neoplatonism*, The Hague: Martinus Nijhoff, 3rd edition, 96–140.
+* Morrow, Glenn R., 1970, *Proclus: A Commentary on the First Book of Euclid’s Elements*, Princeton, New Jersey: Princeton University Press.
 * Nicomachus (see Hoche 1866, D’Ooge et al. 1926).
 * Plutarch (see Cherniss 1976).
 * Proclus (see Friedlein 1873, Morrow 1970).
-* Reynolds, L.D., 1965, _L. Annaei Senecae: Ad Lucilium Epistulae Morales_, 2 vols., Oxford: Clarendon Press. Latin text.
-* Rolfe, John C., 1927, _The Attic Nights of Aulus Gellius_, vol. ii, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Latin with facing English translation.
-* Schofield, M., 1971, “Who Were the _Dyschereis_ in Plato, _Philebus_ 44a ff.?”, _Museum Helveticum_, 28: 2–20.
+* Reynolds, L.D., 1965, *L. Annaei Senecae: Ad Lucilium Epistulae Morales*, 2 vols., Oxford: Clarendon Press. Latin text.
+* Rolfe, John C., 1927, *The Attic Nights of Aulus Gellius*, vol. ii, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd.; Loeb Classical Library: Latin with facing English translation.
+* Schofield, M., 1971, “Who Were the *Dyschereis* in Plato, *Philebus* 44a ff.?”, *Museum Helveticum*, 28: 2–20.
 * Seneca (see Gummere 1920, Reynolds 1965).
 * Sextus Empiricus (see Bury 1935).
 * Simplicius (see Kalbfleisch 1907).
-* Stählin, Otto, 1939, _Clemens Alexandrinus_, vol. ii, _Stromata, Buch I-VI_, Leipzig: J.C. Hinrichs.
+* Stählin, Otto, 1939, *Clemens Alexandrinus*, vol. ii, *Stromata, Buch I-VI*, Leipzig: J.C. Hinrichs.
 * Stobaeus (see Wachsmuth & Hense 1884).
-* Tarán, Leonardo, 1978, “Speusippus and Aristotle on Homonymy and Synonymy”, _Hermes_, 106: 73–99.
-* –––, 1981, _Speusippus of Athens: A Critical Study with a Collection of the Related Texts and Commentary_ \[_Philosophia Antiqua_ 39], Leiden: E.J. Brill, 1981. An indispensable edition of the fragments, with commentary in English but no translation (not for the Greekless reader). Tarán heatedly denies many of the positions taken here: esp., e.g., that the One does not exist and that Iamblichus, _DCMS_ iv, quotes or paraphrases Speusippus. On both these points, see Dillon 1984, Dancy 1989/1991.
-* Tarrant, H.A.S., 1974, “Speusippus’ Ontological Classification”, _Phronesis_, 19: 130–145.
-* Wachsmuth, Curt, & Otto Hense, 1884, _Stobaei Anthologium_, vol. i: _Eclogae physicae_, Berlin: Weidmann.
-* Warren, James, 2009, “Aristotle on Speusippus on Eudoxus on pleasure”, _Oxford Studies in Ancient Philosophy_, 36: 249–81.
-* Waterfield, Robin, 1988, _The Theology of Arithmetic, Attributed to Iamblichus_, Grand Rapids, Michigan: Phanes Press.
-* Watts, Edward, 2007, “Creating the Academy: Historical Discourse and the Shape of Community in the Old Academy”, _The Journal of Hellenic Studies_, 127: 106–122.
+* Tarán, Leonardo, 1978, “Speusippus and Aristotle on Homonymy and Synonymy”, *Hermes*, 106: 73–99.
+* –––, 1981, *Speusippus of Athens: A Critical Study with a Collection of the Related Texts and Commentary* \[*Philosophia Antiqua* 39], Leiden: E.J. Brill, 1981. An indispensable edition of the fragments, with commentary in English but no translation (not for the Greekless reader). Tarán heatedly denies many of the positions taken here: esp., e.g., that the One does not exist and that Iamblichus, *DCMS* iv, quotes or paraphrases Speusippus. On both these points, see Dillon 1984, Dancy 1989/1991.
+* Tarrant, H.A.S., 1974, “Speusippus’ Ontological Classification”, *Phronesis*, 19: 130–145.
+* Wachsmuth, Curt, & Otto Hense, 1884, *Stobaei Anthologium*, vol. i: *Eclogae physicae*, Berlin: Weidmann.
+* Warren, James, 2009, “Aristotle on Speusippus on Eudoxus on pleasure”, *Oxford Studies in Ancient Philosophy*, 36: 249–81.
+* Waterfield, Robin, 1988, *The Theology of Arithmetic, Attributed to Iamblichus*, Grand Rapids, Michigan: Phanes Press.
+* Watts, Edward, 2007, “Creating the Academy: Historical Discourse and the Shape of Community in the Old Academy”, *The Journal of Hellenic Studies*, 127: 106–122.
 
 ## Academic Tools
 

@@ -1,6 +1,6 @@
 # 量子力学中的超距作用 action at a distance in (Joseph Berkovitz)
 
-_首次发表于2007年1月26日星期五_
+*首次发表于2007年1月26日星期五*
 
 在量子领域中，远距离系统的属性之间存在着奇特的相关性。爱因斯坦-波多尔斯基-罗森/波姆实验提供了这种相关性的一个例子。EPR/B 实验中的相关性强烈暗示了远距离系统之间存在非局部影响，即在这些系统之间没有光信号传播，而正统的量子力学及其各种解释都假设了这种非局部性的存在。然而，EPR/B 相关性是否意味着非局部性以及这种非局部性的确切性质仍然存在争议。在本条目中，我们将重点关注 EPR/B 类型的实验，考虑不同量子力学解释所假设的各种非局部性的性质。基于这种考虑，我们简要讨论这些解释与狭义相对论的相容性。
 
@@ -46,13 +46,13 @@ Bell 定理的基本思想如下。EPR/B 实验的一个模型假设，粒子对
 
 EPR/B 实验的贝尔模型还假设对于每个量子力学态ψ，存在一个分布ρ，该分布覆盖了所有可能的对态λ，且与仪器的设置无关。也就是说，（“完整的”）态λ的分布取决于（“不完整的”）态ψ，并且该分布与 L-和 R-翼中测量的具体选择无关（包括选择不测量任何量）。或者形式上，对于任何量子力学态ψ，L-设置 l 和 l'，以及 R-设置 r 和 r'：
 
-> \*\* λ独立性\*\* ρψ _lr_(λ) = ρψ _l_′ _r_(λ) = ρψ _lr_′(λ) = ρψ _l_′ _r_′(λ) = ρψ(λ)
+> \*\* λ独立性\*\* ρψ *lr*(λ) = ρψ *l*′ *r*(λ) = ρψ *lr*′(λ) = ρψ *l*′ *r*′(λ) = ρψ(λ)
 
 其中下标表示可能与状态λ的分布相关的因素。
 
 尽管模型概率（即由状态λ规定的结果概率）与相应的量子力学结果概率（即由量子力学状态ψ规定的概率）不同，但通过对模型概率进行平均，可以恢复出量子力学概率（已经得到系统确认）。也就是说，假设量子力学概率 Pψ l r(xl & yr)、Pψ l(xl)和 Pψ r(yr)是通过对模型概率 Pλ l r(xl & yr)、Pλ l (xl)和 Pλ r(yr)进行平均得到的：对于任意的ψ、l、r、xl 和 yr，
 
-> \*\* 经验充分性\*\* \_P\_ψ _lr_(_x\*\*l_ & _yr_) = ∫λ \_P\_λ _lr_(_xl_ & _yr_) · ρψ _lr_(λ) \_P\_ψ _l_(_x\*\*l_) = ∫λ \_P\_λ _l_(_x\*\*l_ ) · ρψ _l_(λ) \_P\_ψ _r_(_y\*\*r_) = ∫λ \_P\_λ _r_(_y\*\*r_) · ρψ _r_(λ).\[[4](https://plato.stanford.edu/entries/qm-action-distance/notes.html#4)]
+> \*\* 经验充分性\*\* \_P\_ψ *lr*(*x\*\*l* & *yr*) = ∫λ \_P\_λ *lr*(*xl* & *yr*) · ρψ *lr*(λ) \_P\_ψ *l*(*x\*\*l*) = ∫λ \_P\_λ *l*(*x\*\*l* ) · ρψ *l*(λ) \_P\_ψ *r*(*y\*\*r*) = ∫λ \_P\_λ *r*(*y\*\*r*) · ρψ *r*(λ).\[[4](https://plato.stanford.edu/entries/qm-action-distance/notes.html#4)]
 
 λ-独立性的假设非常合理。它假设源处的（完整的）成对态与测量装置的设置是不相关的。无论一个人对自由意志的哲学观点如何，根据我们的经验，这个假设都得到了强烈的支持，根据这个经验，似乎可以独立于测量装置的设置来准备粒子对的状态。
 
@@ -70,15 +70,15 @@ EPR/B 实验的贝尔模型还假设对于每个量子力学态ψ，存在一个
 >
 > > **PI**
 
-| _P\_λ\_l r_(_xl_) =_P\_λ\_l_(_xl_) | and | _P\_λ\_l r_(_yr_) =_P\_λ\_r_(_yr_). |
+| *P\_λ\_l r*(*xl*) =*P\_λ\_l*(*xl*) | and | *P\_λ\_l r*(*yr*) =*P\_λ\_r*(*yr*). |
 | ---------------------------------- | --- | ----------------------------------- |
 
 > 结果独立性。EPR/B 实验中远距离测量结果的概率与附近测量结果无关。或者正式地说，对于任意一对的状态λ，L 设置 l，R 设置 r，L 结果 xl 和 R 结果 yr：
 
-| _P\_λ\_l r_(_xl_/_yr_) =_P\_λ\_l r_(_xl_) | and | _P\_λ\_l r_(_yr_/_xl_) =_P\_λ\_l r_(_yr_) |
+| *P\_λ\_l r*(*xl*/*yr*) =*P\_λ\_l r*(*xl*) | and | *P\_λ\_l r*(*yr*/*xl*) =*P\_λ\_l r*(*yr*) |
 | ----------------------------------------- | --- | ----------------------------------------- |
 |                                           |     |                                           |
-| _P\_λ\_l r_(_yr_) > 0                     |     | _P\_λ\_l r_(_xl_) > 0,                    |
+| *P\_λ\_l r*(*yr*) > 0                     |     | *P\_λ\_l r*(*xl*) > 0,                    |
 
 > 或者更一般地，
 >
@@ -142,7 +142,7 @@ Paul Teller（1989 年，第 213 页）提出了一个相关的整体性概念�
 
 例如，具有 z 自旋“向上”（即绕 z 轴旋转“向上”）的 L 粒子的状态可以用希尔伯特空间中的向量|z-up>表示，而具有 z 自旋“向下”（即绕 z 轴旋转“向下”）的 L 粒子的状态可以用正交向量|z-down>表示。粒子对可以处于 L 粒子和 R 粒子具有相反自旋的状态，例如，一个状态|ψ1>，其中 L 粒子具有 z 自旋“向上”，而 R 粒子具有 z 自旋“向下”，或者一个状态|ψ2>，其中 L 粒子具有 z 自旋“向下”，而 R 粒子具有 z 自旋“向上”。这些状态中的每一个都由粒子对的希尔伯特空间中的向量张量积表示：|ψ1> = |z-up>L |z-down>R 和 |ψ2> = |z-down>L |z-up>R；其中下标 L 和 R 分别指的是与 L 粒子和 R 粒子相关联的希尔伯特空间。但是粒子对也可以处于这些状态的叠加态，即这些状态的线性和，例如由以下表示的状态
 
-> ||ψ3>|=|1/√2 (|ψ1> − |ψ2>)| | --------| ----| ------------------------------------------------------------------------------------------------------| ||=|1/√2 (|_z_-up>_L_|_z_-down>_R_− |_z_-down>_L_|_z_-up>_R_).|
+> ||ψ3>|=|1/√2 (|ψ1> − |ψ2>)| | --------| ----| ------------------------------------------------------------------------------------------------------| ||=|1/√2 (|*z*-up>*L*|*z*-down>*R*− |*z*-down>*L*|*z*-up>*R*).|
 
 实际上，在自旋纠缠态中正是这种情况。在这种状态下，粒子处于一个不可分离的状态（即不能分解为 L 粒子和 R 粒子的分离态的乘积），根据正统量子力学的属性分配规则，粒子没有任何确定的 z 自旋（或任何其他方向的确定自旋）。因此，状态可分离的条件失败了：粒子对的状态（决定其内在的定性属性）不完全由粒子的分离态（决定其内在的定性属性）决定。更准确地说，对的状态不是随附于粒子的可分离态。特别是，粒子对的叠加态赋予了一种“相关”属性，即指定了 L 粒子和 R 粒子上（理想的）z 自旋测量的结果将是反相关的，而这种相关属性不是由粒子的任何可分离态所赋予的属性（有关更多细节，请参见 Healey 1992, 1994）。出于类似的原因，自旋纠缠态还涉及属性和关系整体主义；因为粒子对的上述相关属性也不随附于粒子的内在定性属性和它们之间的时空关系。此外，导致每个测量结果的过程也是不可分离的，即过程可分离性失败（请参见 Healey 1994 和物理学中的整体主义和不可分离性条目）。
 
@@ -150,7 +150,7 @@ Paul Teller（1989 年，第 213 页）提出了一个相关的整体性概念�
 
 通常称为“测量问题”的上述问题，在正统的非坍缩量子力学中出现了两个特征，这两个特征非常成功地解释了微观系统的行为：量子态的线性动力学由薛定谔方程描述，以及所谓的“本征态-本征值联系”的属性赋值规则。根据本征态-本征值联系，系统的物理可观测量，即物理量，只有在系统处于相应的本征态时才具有确定的值（其本征值之一）（参见量子力学条目，第 4 节）。微观系统可以处于自旋分量、能量、位置、动量以及其他物理可观测量的叠加态。因此，微观系统可能处于自旋 z 分量、能量、位置、动量以及其他各种量的不确定状态。问题在于，鉴于线性和幺正的薛定谔动力学，这些不确定的量也在宏观领域中普遍存在。例如，在对处于自旋 z“上”和自旋 z“下”的叠加态的粒子进行 z 自旋测量时，仪器的指针位置与粒子的不确定自旋纠缠在一起，从而将指针转化为位置不确定的状态，即指向“上”和指向“下”的叠加态（参见 Albert 1992 年第 4 章和关于坍缩理论的条目，第 3 节）。特别是，在 EPR/B 实验中，L 测量导致 L 仪器的指针与粒子对纠缠在一起，将其转化为位置不确定的状态：
 
-> |ψ4> = 1/√2 (|_z_-up>_L_ |_z_-down>_R_ |up>_LA_ − |_z_-down>_L_ |_z_-up>_R_ |down>_LA_)
+> |ψ4> = 1/√2 (|*z*-up>*L* |*z*-down>*R* |up>*LA* − |*z*-down>*L* |*z*-up>*R* |down>*LA*)
 
 其中|上>LA 和|下>LA 是 L-仪器指针显示 z-自旋为'上'和 z-自旋为'下'的状态。由于这种类型的不确定性在正统的非坍缩量子力学中是普遍存在的，因此在这个理论中，测量通常没有确定的结果，与我们的经验相矛盾。
 
@@ -166,19 +166,19 @@ Paul Teller（1989 年，第 213 页）提出了一个相关的整体性概念�
 
 为了解释状态向量的减缩作用，动力学模型被发展出来，将状态的崩溃视为真实的物理过程（有关崩溃模型的评论和详细参考文献，请参见崩溃理论的条目）。崩溃模型的起源可以追溯到Bohm和Bub（1966年）的隐藏变量理论和Pearle（1976年）的自发定位方法，但该计划在Ghirardi，Rimini和Weber于1986年开发的更复杂模型的推动下取得了关键的推动力（另请参见Bell 1987a和Albert 1992），并由Pearle（1989年）进一步发展（另请参见Ghirardi，Pearle和Rimini 1990，以及Butterfield等人1993）。与正统的崩溃量子力学类似，在GRW模型中，系统的量子力学状态（无论是通过矢量还是波函数表示）提供了其内在属性和关系的完整规范。系统的状态遵循薛定谔方程，只是它具有自发崩溃的概率，无论系统是否被测量。崩溃的机会取决于纠缠系统的“大小”——在早期模型中，系统的“大小”是根据元粒子的数量来预测的，而在后来的模型中，它是以质量密度来衡量的。无论如何，在微观系统中，例如EPR/B实验中的粒子对，崩溃的机会非常小和可以忽略不计——在这种系统中，自发状态崩溃的机会被设计成平均每一亿年发生一次左右。这意味着EPR/B实验中粒子对的纠缠态崩溃为源发射和第一次测量之间的乘积态的机会几乎为零。在早期的L测量中，粒子对的状态与L测量装置的状态纠缠在一起。 因此，L-仪器的指针状态从“准备好”测量某个自旋属性的状态演变为不确定的结果。例如，在 z-自旋测量中，L-仪器与粒子对纠缠在一起，处于指向“上”和指向“下”的叠加态（对应于 L-粒子具有 z-自旋“上”和 z-自旋“下”的状态），而 R-仪器保持与这些系统不纠缠，在准备好测量 z-自旋的状态下。或者正式地说：
 
-> |ψ6> = 1/√2 (|_z_-up>_L_ |up>_AL_ |_z_-down>_R_ − |_z_-down>_L_ |down>_AL_ |_z_-up>_R_) |ready>_AR_
+> |ψ6> = 1/√2 (|*z*-up>*L* |up>*AL* |*z*-down>*R* − |*z*-down>*L* |down>*AL* |*z*-up>*R*) |ready>*AR*
 
 在这里，与之前一样，|up>AL 和|down>AL 分别表示 L-仪器显示 z-自旋结果为“上”和“下”的状态，而|ready>AR 表示 R-仪器准备测量 z-自旋的状态。在这个状态下，L-仪器指针的大量粒子以超 position 的状态纠缠在一起，处于指向“上”和指向“下”的位置。为了简化演示，假设 L-仪器指针的所有粒子在指向“上”（“下”）的状态下位置相同，状态|ψ6>可以重写为：
 
-> |ψ7> = 1/√2 (|_z_-up>_L_ |up>_p1_ |up>_p2_ |up>_p3 …_ |_z_-down>_R_ − |_z_-down>_L_ |down>_p1_ |down>_p2_ |down>_p3 …_ |_z_-up>_R_) |ready >_AR_
+> |ψ7> = 1/√2 (|*z*-up>*L* |up>*p1* |up>*p2* |up>*p3 …* |*z*-down>*R* − |*z*-down>*L* |down>*p1* |down>*p2* |down>*p3 …* |*z*-up>*R*) |ready >*AR*
 
 其中 pi 表示 L-仪器指针的第 i 个粒子，|up>pi（|down>pi）是第 i 个粒子处于与 z-自旋结果“上”（“下”）相对应的位置的状态。\[10] 在非常短的时间内（微秒的分裂），指针的粒子中至少有一个将自发地定位于与 z-自旋结果“上”或“下”相对应的位置的机会非常高。由于指针和粒子对之间的所有粒子都是纠缠在一起的，这样的坍缩将导致 L-仪器指针和粒子对的纠缠态向以下之一坍缩
 
-> |_z_-up>_L_ |up>_p1_ |up>_p2_ |up>_p3 …_ |_z_-down>_R_
+> |*z*-up>*L* |up>*p1* |up>*p2* |up>*p3 …* |*z*-down>*R*
 
 或者
 
-> |_z_-down>_L_ |down>_p1_ |down>_p2_ |down>_p3 …_ |_z_-up>_R_.
+> |*z*-down>*L* |down>*p1* |down>*p2* |down>*p3 …* |*z*-up>*R*.
 
 因此，指针将非常快速地指向 z 自旋“上”或 z 自旋“下”的结果之一。
 
@@ -220,7 +220,7 @@ GRW/Pearle 模型中的超距作用在多个方面与牛顿的超距作用不同
 
 > 超距作用\*是一种现象，其中一个系统内在属性的变化引起了远程系统内在属性的变化，而没有在空间和时间上连续地传递这种影响的过程。
 
-虽然牛顿和克拉克对牛顿引力中的超距作用没有解释，但根据上述描述，量子领域中的超距作用可以通过量子领域的整体性质和/或系统状态的不可分离性来解释。特别是，在 EPR/B 实验中，L-仪器指针在 L-测量之前具有明确的位置，而 R-粒子在 L-测量期间暂时具有明确的位置，那么 GRW/Pearle 模型涉及超距作用，因此也涉及超距作用 _。另一方面，如果 R-粒子在 L-测量期间从未具有明确的位置，则 GRW/Pearle 模型只涉及超距作用_。
+虽然牛顿和克拉克对牛顿引力中的超距作用没有解释，但根据上述描述，量子领域中的超距作用可以通过量子领域的整体性质和/或系统状态的不可分离性来解释。特别是，在 EPR/B 实验中，L-仪器指针在 L-测量之前具有明确的位置，而 R-粒子在 L-测量期间暂时具有明确的位置，那么 GRW/Pearle 模型涉及超距作用，因此也涉及超距作用 *。另一方面，如果 R-粒子在 L-测量期间从未具有明确的位置，则 GRW/Pearle 模型只涉及超距作用*。
 
 ### 5.3 无坍缩理论
 
@@ -258,21 +258,21 @@ Bohm 的理论将量子领域描绘为确定性的。因此，它分配给 EPR/B
 
 模态解释在其属性分配方面存在差异。为简单起见，我们将重点放在基于所谓的 Schmidt 双正交分解定理（参见 Kochen 1985 年，Dieks 1989 年和 Healey 1989 年）的模态解释上。设 S1 和 S2 分别与 Hilbert 空间 HS1 和 HS2 相关联。存在基础{|αi>}和{|βi>}，分别用于 HS1 和 HS2，使得 S1+S2 的状态可以表示为来自这些基础的以下形式的向量的线性组合：
 
-> |ψ\_8\_ >\_S\_1+_S\_2 = ∑_i ci\* |α\_i\*>_S\_1 |β\_i_>\_S\_2.
+> |ψ\_8\_ >\_S\_1+_S\_2 = ∑_i ci\* |α\_i\*>*S\_1 |β\_i*>\_S\_2.
 
 当系数 ci 的绝对值都不相等时，基础{|αi>}和{|βi>}以及|ψ8 >S1+S2 的上述分解是唯一的。在这种情况下，假设 S1 对于与基础{|αi>}相关联的每个可观测量都具有确定值，S2 对于与基础{|βi>}相关联的每个可观测量都具有确定值，而|ci|2 提供了这些可观测量可能具有的（无知）概率。\[22] 例如，假设 EPR/B 实验中测量之前 L 粒子和 R 粒子的状态为：
 
-> |ψ9> = (1/√2+ε) |_z_-up>_L_| _z_-down>_R_ − (1/√2-ε′) |_z_-down>_L_| _z_-up>_R_
+> |ψ9> = (1/√2+ε) |*z*-up>*L*| *z*-down>*R* − (1/√2-ε′) |*z*-down>*L*| *z*-up>*R*
 
 其中 1/√2 >> ε,ε′，(1/√2+ε)2+(1/√2-ε′)2 = 1，而(|z-up>L) (|z-up>R)和(|z-down>L) (|z-down>R)分别表示 L- (R-)粒子在 z 自旋向上和 z 自旋向下的状态。\[23]然后，要么 L 粒子在 z 方向上自旋向上，R 粒子在 z 方向上自旋向下，要么 L 粒子在 z 方向上自旋向下，R 粒子在 z 方向上自旋向上。因此，与正统解释和 GRW/Pearle 坍缩模型相比，在模态解释中，EPR/B 实验中的粒子在任何测量发生之前可能具有确定的自旋属性。
 
 为了看到模态解释如何解释 EPR/B 型实验中的奇特相关性，让我们假设粒子对和测量装置在发射时的状态为：
 
-> |ψ10> = ((1/√2+ε) |_z_-up>_L_ |_z_-down>_R_ − (1/√2−ε′) |_z_-down>_L_ |_z_-up>_R_) |ready>_AL_|ready>_AR_
+> |ψ10> = ((1/√2+ε) |*z*-up>*L* |*z*-down>*R* − (1/√2−ε′) |*z*-down>*L* |*z*-up>*R*) |ready>*AL*|ready>*AR*
 
 其中 |ready>AL（|ready>AR）表示 L-仪器（R-仪器）准备测量 z-自旋的状态。在这个状态下，L-仪器和 R-仪器都处于准备测量 z-自旋的确定状态，而且（类似于状态|ψ9>），L-粒子和 R-粒子具有确定的 z-自旋属性：要么 L-粒子具有 z-自旋“向上”，R-粒子具有 z-自旋“向下”，要么 L-粒子具有 z-自旋“向下”，R-粒子具有 z-自旋“向上”，\[24]其中每种可能性的实现概率约为 1/2。在 L-粒子的（早期）z-自旋测量中，粒子对和仪器的状态演化为：
 
-> |ψ11> = ((1/√2+ε) |_z_-up>_L_|up>_AL_| _z_-down>_R_ − (1/√2-ε′) |_z_-down>_L_|down>_AL_| _z_-up>_R_) |ready>_AR_
+> |ψ11> = ((1/√2+ε) |*z*-up>*L*|up>*AL*| *z*-down>*R* − (1/√2-ε′) |*z*-down>*L*|down>*AL*| *z*-up>*R*) |ready>*AR*
 
 其中（如前所述），|up>AL和|down>AL分别表示指向z自旋“上”和z自旋“下”的L-仪器的状态。在这种状态下，要么L-粒子具有z自旋“上”，L-仪器指向“上”，要么L-粒子具有z自旋“下”，L-仪器指向“下”。而且，每种可能性的概率都约为1/2。从状态|ψ10>到状态|ψ11>的属性演化取决于动力学定律。在几乎所有模态解释中，如果粒子在测量之前具有确定的z自旋属性，则z自旋测量的结果将反映这些属性。也就是说，粒子和测量仪器的属性演化将是确定性的，因此粒子的自旋属性在L-测量中不会改变，L-仪器的指针将显示与L-粒子在测量之前具有的z自旋属性相对应的结果。例如，如果在测量之前，L-粒子和R-粒子分别具有z自旋“上”和z自旋“下”的属性，则L-粒子的（早期的）z自旋测量将产生“上”的结果，粒子的自旋属性将保持不变。因此，在这种情况下，模态解释既不涉及超距作用，也不涉及超距作用\*。
 
@@ -300,7 +300,7 @@ Bohm 的理论将量子领域描绘为确定性的。因此，它分配给 EPR/B
 
 1957 年，埃弗里特提出了一种新的正统量子力学的无坍缩解释（参见 Everett 1957a,b, 1973, Barrett 1999，关于埃弗里特的相对态量子力学公式的条目，关于量子力学的多世界解释的条目以及其中的参考文献）。埃弗里特解释是一种无坍缩的量子力学解释，其中量子态的演化始终遵循幺正和线性动力学方程（在非相对论情况下为薛定谔方程）。在这种解释中，量子态在根本上是相对的。系统具有相对态，这些相对态可以从纠缠态的各个分支中推导出来。例如，再次考虑|ψ11>。
 
-> |ψ11> = (1/√2+ε) |_z_-up>_L_|up>_AL_| _z_-down>_R_ |ready>_AR_ − (1/√2-ε′) |_z_-down>_L_|down>_AL_| _z_-up>_R_ |ready>_AR_.
+> |ψ11> = (1/√2+ε) |*z*-up>*L*|up>*AL*| *z*-down>*R* |ready>*AR* − (1/√2-ε′) |*z*-down>*L*|down>*AL*| *z*-up>*R* |ready>*AR*.
 
 在这个量子力学状态中，L-仪器指向相对于 L-粒子处于 z-自旋“上”状态、R-粒子处于 z-自旋“下”状态和 R-仪器准备测量 z-自旋的结果“上”，以及相对于 L-粒子处于 z-自旋“下”状态、R-粒子处于 z-自旋“上”状态和 R-仪器准备测量 z-自旋的结果“下”。同样地，L-粒子相对于 L-仪器处于指向 z-自旋“上”的状态、R-粒子处于 z-自旋“下”状态和 R-仪器准备测量 z-自旋的结果“上”，以及相对于 L-仪器处于指向 z-自旋“下”的状态、R-粒子处于 z-自旋“上”状态和 R-仪器准备测量 z-自旋的结果“下”。类似地，对于 R-粒子和 R-仪器的相对状态，也是如此。
 
@@ -324,19 +324,19 @@ Everett类似的解释涉及哪种非局域性？不幸的是，对这个问题�
 
 > PCC（共同原因原理）。对于两个（不同的）事件之间的任何相关性，它们彼此不会相互引起，存在一个共同原因将它们从彼此隔离开来。或者形式上说：如果不同的事件 x 和 y 相关，则
 >
-> > (相关性) _P_(_x_ & _y_) ≠ _P_(_x_) · _P_(_y_),
+> > (相关性) *P*(*x* & *y*) ≠ *P*(*x*) · *P*(*y*),
 >
 > 并且它们不相互引起，那么它们的共同原因 CC(x,y)会使它们相互隔离，即
 >
 > > (屏蔽)
 
-| _P\*\*CC_(_x_,_y_)(_x_/_y_) =_P\*\*CC_(_x_,_y_)(_x_) | _P\*\*CC_(_x_,_y_)(_y_) ≠ 0                                                                              |
+| *P\*\*CC*(*x*,*y*)(*x*/*y*) =*P\*\*CC*(*x*,*y*)(*x*) | *P\*\*CC*(*x*,*y*)(*y*) ≠ 0                                                                              |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| _P\*\*CC_(_x_,_y_)(_y_/_x_) =_P\*\*CC_(_x_,_y_)(_y_) | _P\*\*CC_(_x_,_y_)(_x_) ≠ 0.\[[29](https://plato.stanford.edu/entries/qm-action-distance/notes.html#29)] |
+| *P\*\*CC*(*x*,*y*)(*y*/*x*) =*P\*\*CC*(*x*,*y*)(*y*) | *P\*\*CC*(*x*,*y*)(*x*) ≠ 0.\[[29](https://plato.stanford.edu/entries/qm-action-distance/notes.html#29)] |
 
 > 因此，CC(x,y)使得 x 和 y 在概率上独立，并且在 CC(x,y)的作用下，x 和 y 的联合概率因子化。
 >
-> > _P\*\*CC_(_x_,_y_)(_x_ & _y_) = _P\*\*CC_(_x_,_y_)(_x_) · _P\*\*CC_(_x_,_y_)(_y_).
+> > *P\*\*CC*(*x*,*y*)(*x* & *y*) = *P\*\*CC*(*x*,*y*)(*x*) · *P\*\*CC*(*x*,*y*)(*y*).
 
 量子力学的上述表述主要用于涵盖 x 和 y 没有部分的非共同原因的情况。但是，量子力学可以推广如下：
 
@@ -450,7 +450,7 @@ Jarrett（1984 年，1989 年），Ballentine 和 Jarrett（1997 年）以及 Sh
 
 虽然近距离设置对近距离结果的影响对于参数依赖是必要的，但并不足够。在所有当前的量子理论中，EPR/B 实验中联合结果的概率取决于两个测量装置的设置：L 结果为 l 自旋“上”且 R 结果为 r 自旋“上”的概率，以及 L 结果为 l 自旋“上”且 R 结果为 r 自旋“下”的概率，都取决于（l - r），即角度 l 和 r 之间的距离。在这些联合概率的总和对于（l - r）的值是不变的理论中，参数独立性成立：对于所有的状态λ、L 设置 l、R 设置 r 和 r'、L 结果 xl 和 R 结果 y**r 和 y**r'：
 
-> (PI) \_P\_λ _lr_(_xl_ & _yr_) + \_P\_λ _lr_(_xl_ & ¬_yr_) = \_P\_λ _lr_′ (_xl_ & _y\*\*r_′ ) + \_P\_λ _lr_′ (_xl_ & ¬_y\*\*r_′ ).
+> (PI) \_P\_λ *lr*(*xl* & *yr*) + \_P\_λ *lr*(*xl* & ¬*yr*) = \_P\_λ *lr*′ (*xl* & *y\*\*r*′ ) + \_P\_λ *lr*′ (*xl* & ¬*y\*\*r*′ ).
 
 参数依赖性是这种不变性条件的违反。
 
@@ -514,223 +514,223 @@ Berkovitz（2002年，第5节）认为，莫德林的论点实际上是，如果
 
 ## Bibliography
 
-* Albert, D. (1992), _Quantum Mechanics and Experience_, Cambridge Mass.: Harvard University Press.
-* Albert, D. and Loewer, B. (1988), “Interpreting the many-worlds interpretation”, _Synthese_ 77, 195-213.
+* Albert, D. (1992), *Quantum Mechanics and Experience*, Cambridge Mass.: Harvard University Press.
+* Albert, D. and Loewer, B. (1988), “Interpreting the many-worlds interpretation”, *Synthese* 77, 195-213.
 * ––– (1995), “Tails of Schrödinger's cat”, in R. Clifton (1996b), pp. 81-92.
-* Alexander, H. G. (1956) (ed), _The Leibniz-Clarke Correspondence_, Manchester: Manchester University Press (new reprint, 1998).
-* Arntzenius, F. (1992), “Apparatus independence in proofs of non-locality”, _Foundations of Physics Letters_ 5, 517-525.
-* ––– (1994), “Spacelike connections”, _British Journal for the Philosophy of Science_ 45, 201-17.
+* Alexander, H. G. (1956) (ed), *The Leibniz-Clarke Correspondence*, Manchester: Manchester University Press (new reprint, 1998).
+* Arntzenius, F. (1992), “Apparatus independence in proofs of non-locality”, *Foundations of Physics Letters* 5, 517-525.
+* ––– (1994), “Spacelike connections”, *British Journal for the Philosophy of Science* 45, 201-17.
 * ––– (1998), “Curiouser and curiouser: problems for modal interpretations of quantum mechanics”, in Dieks and Vermaas 1998, pp. 337-377.
-* Bacciagaluppi, G. (1995), “A Kochen-Specker theorem in the modal interpretation of quantum mechanics”, _International Journal of Theoretical Physics_ 34, 1205-1216.
+* Bacciagaluppi, G. (1995), “A Kochen-Specker theorem in the modal interpretation of quantum mechanics”, *International Journal of Theoretical Physics* 34, 1205-1216.
 * ––– (1996), “Topics in the modal interpretation of quantum mechanics”, Ph.D. Thesis, University of Cambridge.
-* ––– (2000), “Delocalized properties in the modal interpretation of a continuous model of decoherence”, _Foundations of Physics_ 30, 1431-1444.
+* ––– (2000), “Delocalized properties in the modal interpretation of a continuous model of decoherence”, *Foundations of Physics* 30, 1431-1444.
 * ––– (2002), “Remarks on space-time and Locality in Everett's interpretation”, in Placek and Butterfield (2002), pp. 105-122.
-* Bacciagaluppi, G. and Hemmo, M. (1996), “Modal interpretations, decoherence and measurements”, _Studies in History and Philosophy of Modern Physics_ 27, 239-277.
-* Bacciagaluppi, G. and Dickson, M. (1999), “Dynamics for modal interpretations”, _Foundations of Physics_ 29, 1165-1201.
-* Ballentine, L. E. and Jarrett, J. (1997), “Bell's theorem: does quantum mechanics contradict relativity?”, _American Journal of Physics_ 55, 785-792.
-* Barnum, H., Caves, C. M., Finkelstein J., Fuchs, C. A. and Schack R. (2000), “Quantum probability from decision theory?”, _Proceedings of the Royal Society of London_ _A_ 456, 1175-1182.
-* Barrett, J. (1999), _The Quantum Mechanics of Minds and Worlds_, Oxford: Oxford University Press.
-* Bassi, A. and Ghirardi, G. C. (1999), “More about dynamical reduction and the enumeration principle”, _British Journal for the Philosophy of Science_ 50, 719-734.
-* ––– (2001), “Counting marbles: reply to Clifton and Monton”, _British Journal for the Philosophy of Science_ 52, 125-130.
-* Bell, J. (1964), “On the Einstein-Podolsky-Rosen paradox”, _Physics_ 1, 195-200. Reprinted in Bell (1987), pp. 14-21.
-* ––– (1966), “On the problem of hidden variables in quantum mechanics”, _Reviews of Modern Physics_ 38, 447-452. Reprinted in Bell (1987), pp. 1-13.
-* ––– (1971), “Introduction to the hidden-variable question”, in B. Espagnat (ed), _Foundations of Quantum Mechanics_. _Proceedings of the International School of Physics ‘Enrico Fermi’,_ Academic Press, New York-London, pp. 171-181. Reprinted in Bell (1987), pp. 29-39.
-* ––– (1975a), “The theory of local beables”, TH-2053-Cern. Reprinted in _Epistemological Letters_ March 1976 and Bell (1987), pp. 52-62.
-* ––– (1975b), “Locality in quantum mechanics: reply to critics”, _Epistemological Letters_, Nov. 1975, 2-6. Reprinted in Bell (1987), pp. 63-66.
-* ––– (1976), “How to teach special relativity”, _Progress in Scientific Culture_, Vol. 1, No 2. Reprinted in Bell 1987b, pp. 67-80.
-* ––– (1982), “On the impossible pilot wave”, _Foundations of Physics_ 12, 989-999. Reprinted in Bell 1987, pp. 159-168.
-* ––– (1987a), “Are there quantum jumps?”, In C. W. Kilmister (ed.) _Schrödinger_: _Centenary of a Polymath_, Cambridge: Cambridge University Press, pp. 41-52. Reprinted in Bell (1987), pp. 201-212.
-* ––– (1987b), _Speakable and Unspeakable in Quantum Mechanics_, Cambridge: Cambridge University Press.
-* Bene, G. and Dieks, D. (2002), “A perspectival version of the modal interpretation of quantum mechanics and the origin of macroscopic behavior”, _Foundations of Physics_ 32, 645-671.
-* Berkovitz, J. (1995a), “What econometrics cannot teach quantum mechanics?”, _Studies in History and Philosophy of Modern Physics_ 26, 163-200.
+* Bacciagaluppi, G. and Hemmo, M. (1996), “Modal interpretations, decoherence and measurements”, *Studies in History and Philosophy of Modern Physics* 27, 239-277.
+* Bacciagaluppi, G. and Dickson, M. (1999), “Dynamics for modal interpretations”, *Foundations of Physics* 29, 1165-1201.
+* Ballentine, L. E. and Jarrett, J. (1997), “Bell's theorem: does quantum mechanics contradict relativity?”, *American Journal of Physics* 55, 785-792.
+* Barnum, H., Caves, C. M., Finkelstein J., Fuchs, C. A. and Schack R. (2000), “Quantum probability from decision theory?”, *Proceedings of the Royal Society of London* *A* 456, 1175-1182.
+* Barrett, J. (1999), *The Quantum Mechanics of Minds and Worlds*, Oxford: Oxford University Press.
+* Bassi, A. and Ghirardi, G. C. (1999), “More about dynamical reduction and the enumeration principle”, *British Journal for the Philosophy of Science* 50, 719-734.
+* ––– (2001), “Counting marbles: reply to Clifton and Monton”, *British Journal for the Philosophy of Science* 52, 125-130.
+* Bell, J. (1964), “On the Einstein-Podolsky-Rosen paradox”, *Physics* 1, 195-200. Reprinted in Bell (1987), pp. 14-21.
+* ––– (1966), “On the problem of hidden variables in quantum mechanics”, *Reviews of Modern Physics* 38, 447-452. Reprinted in Bell (1987), pp. 1-13.
+* ––– (1971), “Introduction to the hidden-variable question”, in B. Espagnat (ed), *Foundations of Quantum Mechanics*. *Proceedings of the International School of Physics ‘Enrico Fermi’,* Academic Press, New York-London, pp. 171-181. Reprinted in Bell (1987), pp. 29-39.
+* ––– (1975a), “The theory of local beables”, TH-2053-Cern. Reprinted in *Epistemological Letters* March 1976 and Bell (1987), pp. 52-62.
+* ––– (1975b), “Locality in quantum mechanics: reply to critics”, *Epistemological Letters*, Nov. 1975, 2-6. Reprinted in Bell (1987), pp. 63-66.
+* ––– (1976), “How to teach special relativity”, *Progress in Scientific Culture*, Vol. 1, No 2. Reprinted in Bell 1987b, pp. 67-80.
+* ––– (1982), “On the impossible pilot wave”, *Foundations of Physics* 12, 989-999. Reprinted in Bell 1987, pp. 159-168.
+* ––– (1987a), “Are there quantum jumps?”, In C. W. Kilmister (ed.) *Schrödinger*: *Centenary of a Polymath*, Cambridge: Cambridge University Press, pp. 41-52. Reprinted in Bell (1987), pp. 201-212.
+* ––– (1987b), *Speakable and Unspeakable in Quantum Mechanics*, Cambridge: Cambridge University Press.
+* Bene, G. and Dieks, D. (2002), “A perspectival version of the modal interpretation of quantum mechanics and the origin of macroscopic behavior”, *Foundations of Physics* 32, 645-671.
+* Berkovitz, J. (1995a), “What econometrics cannot teach quantum mechanics?”, *Studies in History and Philosophy of Modern Physics* 26, 163-200.
 * ––– (1995b), “Quantum Nonlocality: an analysis of the implications of Bell's theorem and quantum correlations for nonlocality”, Ph.D. Thesis, University of Cambridge.
-* ––– (1998a), “Aspects of quantum non-locality I: superluminal signalling, action-at-a-distance, non-separability and holism”,_Studies in History and Philosophy of Modern Physics_ 29, 183-222.
-* ––– (1998b), “Aspects of quantum non-Locality II: superluminal causation and relativity”, _Studies in History and Philosophy of Modern Physics_ 29, 509-545.
-* ––– (2001), “On chance in causal loops”, _Mind_ 110, 1-23.
+* ––– (1998a), “Aspects of quantum non-locality I: superluminal signalling, action-at-a-distance, non-separability and holism”,*Studies in History and Philosophy of Modern Physics* 29, 183-222.
+* ––– (1998b), “Aspects of quantum non-Locality II: superluminal causation and relativity”, *Studies in History and Philosophy of Modern Physics* 29, 509-545.
+* ––– (2001), “On chance in causal loops”, *Mind* 110, 1-23.
 * ––– (2002), “On causal loops in the quantum realm”, in T. Placek and J. Butterfield (2002), pp. 235-257.
-* Berkovitz, J. and Hemmo, M. (2006a), “How to reconcile modal interpretations of quantum mechanics with relativity”, forthcoming in _Philosophy of Science_. \[[Earlier version available online](http://philsci-archive.pitt.edu/archive/00001995/).]
-* ––– (2006b), “A modal interpretation in terms of relational properties”, in W. Demopoulos and I. Pitowsky (eds.), _Physical Theory and Its Interpretation: Essays in Honor of Jeffrey Bub_, Western Ontario Series in Philosophy of Science, New York: Springer, pp. 1-28.
-* Bohm, D. (1951), _Quantum Theory_, Englewood Cliffs, New Jersey: Prentice-Hall.
-* ––– (1952), “A suggested interpretation of the quantum theory in terms of hidden variables. I & II”, _Physical Review_ 85, 166-179 and 180-193.
-* ––– (1953), “Proof that probability density approaches |ψ|2 in causal interpretation of the quantum theory”, _Physical Review_ 89(2), 15.
-* Bohm, D., and Bub, J. (1966), “A proposed solution of the measurement problem in quantum mechanics by a hidden variable theory”, _Reviews of Modern Physics_ 38, 453-469.
-* Bohm, D., and Hiley, B. J. (1993), _The Undivided Universe: An Ontological Interpretation of Quantum Theory_, London: Routledge & Kegan Paul.
-* Bohm, D., Schiller, R. and Tiomno, J. (1955), “A causal interpretation of the Pauli equation”, _Supplemento al Nuovo Cimento_ 1\*,\* 48-66.
-* Bub, J. (1992), “Quantum mechanics without the projection postulate”, _Foundations of Physics_ 22, 737-754.
-* ––– (1994), “How to interpret quantum mechanics”, _Erkenntnis_ 41, 253-273.
-* ––– (1997), _Interpreting the Quantum World_, Cambridge: Cambridge University Press.
-* Bub, J. and Clifton, R (1996), “A uniqueness theorem for ‘no collapse’ interpretations of quantum mechanics”, _Studies in History and Philosophy of Modern Physics_ 27, 181-217.
+* Berkovitz, J. and Hemmo, M. (2006a), “How to reconcile modal interpretations of quantum mechanics with relativity”, forthcoming in *Philosophy of Science*. \[[Earlier version available online](http://philsci-archive.pitt.edu/archive/00001995/).]
+* ––– (2006b), “A modal interpretation in terms of relational properties”, in W. Demopoulos and I. Pitowsky (eds.), *Physical Theory and Its Interpretation: Essays in Honor of Jeffrey Bub*, Western Ontario Series in Philosophy of Science, New York: Springer, pp. 1-28.
+* Bohm, D. (1951), *Quantum Theory*, Englewood Cliffs, New Jersey: Prentice-Hall.
+* ––– (1952), “A suggested interpretation of the quantum theory in terms of hidden variables. I & II”, *Physical Review* 85, 166-179 and 180-193.
+* ––– (1953), “Proof that probability density approaches |ψ|2 in causal interpretation of the quantum theory”, *Physical Review* 89(2), 15.
+* Bohm, D., and Bub, J. (1966), “A proposed solution of the measurement problem in quantum mechanics by a hidden variable theory”, *Reviews of Modern Physics* 38, 453-469.
+* Bohm, D., and Hiley, B. J. (1993), *The Undivided Universe: An Ontological Interpretation of Quantum Theory*, London: Routledge & Kegan Paul.
+* Bohm, D., Schiller, R. and Tiomno, J. (1955), “A causal interpretation of the Pauli equation”, *Supplemento al Nuovo Cimento* 1\*,\* 48-66.
+* Bub, J. (1992), “Quantum mechanics without the projection postulate”, *Foundations of Physics* 22, 737-754.
+* ––– (1994), “How to interpret quantum mechanics”, *Erkenntnis* 41, 253-273.
+* ––– (1997), *Interpreting the Quantum World*, Cambridge: Cambridge University Press.
+* Bub, J. and Clifton, R (1996), “A uniqueness theorem for ‘no collapse’ interpretations of quantum mechanics”, *Studies in History and Philosophy of Modern Physics* 27, 181-217.
 * Butterfield, J. N. (1989), “A space-time approach to the Bell inequality”, in Cushing and McMullin (1989), pp. 114-144.
-* ––– (1992a), “Bell's theorem: what it takes”, _British Journal for the Philosophy of Science_ 42, 41-83.
-* ––– (1992b), “David Lewis meets John Bell”, _Philosophy of Science_ 59, 26-43.
-* ––– (1994), “Outcome dependence and stochastic Einstein locality”, in. D. Prawitz and D. Westerstähl (1994) (eds), _Logic and Philosophy of Science in Uppsala_, Dordrecht: Kluwer, pp. 385-424.
-* ––– (1995), “Words, minds and quanta”, _Aristotelian Society Supplementary_ 69, 113-158.
-* ––– (1996), “Whither the minds?”, _British Journal for the Philosophy of Science_ 47, 200-221.
-* Butterfield, J. N., Fleming, G. N., Ghirardi, G. C. and Grassi, R. (1993), “Parameter dependence in dynamical models for state reductions”, _International Journal of Theoretical Physics_ 32, 2287-2303.
-* Cartwright, N. (1989), _Nature's Capacities and Their Measurements_, Oxford: Clarendon Press.
-* Chang, H. and Cartwright, N. (1993), “Causality and realism in the EPR experiment”, _Erkenntnis_ 38, 169-190.
-* Clauser, J. F. and Horne, M. A. (1974), “Experimental consequences of objective local theories”, _Physical Review D_ 10, 526-535.
-* Clauser, J. F., Horne, M. A., Shimony, A., and Holt, R. A. (1969), “Proposed experiment to test local hidden-variable theories”, _Physical Review Letters_ 23, 880-884.
+* ––– (1992a), “Bell's theorem: what it takes”, *British Journal for the Philosophy of Science* 42, 41-83.
+* ––– (1992b), “David Lewis meets John Bell”, *Philosophy of Science* 59, 26-43.
+* ––– (1994), “Outcome dependence and stochastic Einstein locality”, in. D. Prawitz and D. Westerstähl (1994) (eds), *Logic and Philosophy of Science in Uppsala*, Dordrecht: Kluwer, pp. 385-424.
+* ––– (1995), “Words, minds and quanta”, *Aristotelian Society Supplementary* 69, 113-158.
+* ––– (1996), “Whither the minds?”, *British Journal for the Philosophy of Science* 47, 200-221.
+* Butterfield, J. N., Fleming, G. N., Ghirardi, G. C. and Grassi, R. (1993), “Parameter dependence in dynamical models for state reductions”, *International Journal of Theoretical Physics* 32, 2287-2303.
+* Cartwright, N. (1989), *Nature's Capacities and Their Measurements*, Oxford: Clarendon Press.
+* Chang, H. and Cartwright, N. (1993), “Causality and realism in the EPR experiment”, *Erkenntnis* 38, 169-190.
+* Clauser, J. F. and Horne, M. A. (1974), “Experimental consequences of objective local theories”, *Physical Review D* 10, 526-535.
+* Clauser, J. F., Horne, M. A., Shimony, A., and Holt, R. A. (1969), “Proposed experiment to test local hidden-variable theories”, *Physical Review Letters* 23, 880-884.
 * Clifton, R. K. (1991),“Nonlocality in quantum mechanics: signalling, counterfactuals, probability and causation”, Ph.D. thesis, Cambridge University.
-* ––– (1995), “Independently motivating the Kochen-Dieks modal interpretation of quantum mechanics”, _British Journal for Philosophy of Science_ 46, 33-57.
-* ––– (1996a): “The properties of modal interpretations of quantum mechanics”, _British Journal for Philosophy of Science_ 47 (1996): 371-398.
-* ––– (ed.) (1996b), _Perspectives on Quantum Reality: Non-Relativistic, Relativistic and Field-Theoretic_, Dordrecht: Kluwer.
-* ––– (2000), “The modal interpretation of algebraic quantum field theory”, _Physics Letters A_ 271, 167-177.
-* Clifton, R. K., Butterfield, J. N. and Redhead, M. L. G. (1990), “Nonlocal influences and possible worlds—a Stapp in the wrong direction”, _British Journal for the Philosophy of Science_ 41, 5-58.
-* Clifton, R. K. and Monton, B. (1999), “Losing your marbles in wavefunction collapse theories”, _British Journal for Philosophy of Science_ 50, 697-717.
-* ––– (2000), “Counting marbles with ‘accessible’ mass density: a reply to Bassi and Ghirardi”, _British Journal for Philosophy of Science_ 51, 155-164.
-* Cohen, I. B. (1978), _Isaac Newton's Papers & Letters on Natural Philosophy_, 2nd edition, Cambridge, Mass. and London.
-* Costa de Beauregard, O. (1977), “Time symmetry and the Einstein paradox”, _Il Nuovo Cimento_ 42B, 41-64.
-* ––– (1979), “Time symmetry and the Einstein paradox – II”, _Il Nuovo Cimento_ 51B, 267-279.
-* ––– (1985), “On some frequent but controversial statements concerning the Einstein-Podolsky-Rosen correlations”, _Foundations of Physics_ 15, 871-887.
-* Cramer, J. (1980), “Generalised absorber theory and the Einstein-Podolsky-Rosen paradox”, _Physical Review D_ 22, 362-376.
-* ––– (1986), “The transactional interpretation of quantum mechanics”, _Reviews of Modern Physics_ 58, 647-687.
-* Cushing, J. (1994), _Quantum Mechanics: Historical Contingency and the Copenhagen Hegemony_, Chicago: Chicago University Press.
-* Cushing, J. and McMullin E., (eds) (1989), _Philosophical Consequences of Quantum Theories: Reflections on Bell's Theorem_, Notre Dame: University of Notre Dame Press.
-* Cushing, J., Fine, A. and Goldstein, S. (eds) (1996), _Bohmian Mechanics and Quantum Theory: An Appraisal_, Dordrecht: Kluwer.
-* Deutsch, D. (1999), “Quantum theory of probability and decisions”, _Proceedings of the Royal Society of London_ _A_ 455, 3129-3137.
-* Dewdney, C. Holland, P. R. and Kyprianidis, A. (1987), “A causal account of non-local Einstein-Podolsky-Rosen spin correlations”, _Journal of Physics A_ 20(14), 4717-4732.
-* De Witt, B. S. (1970), “Quantum Mechanics and Reality”, _Physics Today_ 23, No. 9, 30-35. Reprinted in De Witt and Graham (1973), pp. 155-165.
-* ––– (1971), “The many-universes interpretation of quantum mechanics”, in B. d'Espagnat (ed), _Foundations of Quantum Mechanics: Proceedings of the International School of Physics ‘Enrico Fermi’, Course IL_, New York: Benjamin, pp. 211-62. Reprinted in DeWitt and Graham (1973), pp. 167-218.
-* DeWitt, B. S., and Graham, N. (eds) (1973), _The Many-Worlds Interpretation of Quantum Mechanics_, Princeton: Princeton University Press.
-* Dickson, M (1993), “Stapp's theorem without counterfactual committments: Why it fails nonetheless”, _Studies in History and Philosophy of Science_ 24, 791-814.
-* ––– (1995), “Reply to H. Stapp's Comment”, _Studies in History and Philosophy of Science_ 25, 965-966.
+* ––– (1995), “Independently motivating the Kochen-Dieks modal interpretation of quantum mechanics”, *British Journal for Philosophy of Science* 46, 33-57.
+* ––– (1996a): “The properties of modal interpretations of quantum mechanics”, *British Journal for Philosophy of Science* 47 (1996): 371-398.
+* ––– (ed.) (1996b), *Perspectives on Quantum Reality: Non-Relativistic, Relativistic and Field-Theoretic*, Dordrecht: Kluwer.
+* ––– (2000), “The modal interpretation of algebraic quantum field theory”, *Physics Letters A* 271, 167-177.
+* Clifton, R. K., Butterfield, J. N. and Redhead, M. L. G. (1990), “Nonlocal influences and possible worlds—a Stapp in the wrong direction”, *British Journal for the Philosophy of Science* 41, 5-58.
+* Clifton, R. K. and Monton, B. (1999), “Losing your marbles in wavefunction collapse theories”, *British Journal for Philosophy of Science* 50, 697-717.
+* ––– (2000), “Counting marbles with ‘accessible’ mass density: a reply to Bassi and Ghirardi”, *British Journal for Philosophy of Science* 51, 155-164.
+* Cohen, I. B. (1978), *Isaac Newton's Papers & Letters on Natural Philosophy*, 2nd edition, Cambridge, Mass. and London.
+* Costa de Beauregard, O. (1977), “Time symmetry and the Einstein paradox”, *Il Nuovo Cimento* 42B, 41-64.
+* ––– (1979), “Time symmetry and the Einstein paradox – II”, *Il Nuovo Cimento* 51B, 267-279.
+* ––– (1985), “On some frequent but controversial statements concerning the Einstein-Podolsky-Rosen correlations”, *Foundations of Physics* 15, 871-887.
+* Cramer, J. (1980), “Generalised absorber theory and the Einstein-Podolsky-Rosen paradox”, *Physical Review D* 22, 362-376.
+* ––– (1986), “The transactional interpretation of quantum mechanics”, *Reviews of Modern Physics* 58, 647-687.
+* Cushing, J. (1994), *Quantum Mechanics: Historical Contingency and the Copenhagen Hegemony*, Chicago: Chicago University Press.
+* Cushing, J. and McMullin E., (eds) (1989), *Philosophical Consequences of Quantum Theories: Reflections on Bell's Theorem*, Notre Dame: University of Notre Dame Press.
+* Cushing, J., Fine, A. and Goldstein, S. (eds) (1996), *Bohmian Mechanics and Quantum Theory: An Appraisal*, Dordrecht: Kluwer.
+* Deutsch, D. (1999), “Quantum theory of probability and decisions”, *Proceedings of the Royal Society of London* *A* 455, 3129-3137.
+* Dewdney, C. Holland, P. R. and Kyprianidis, A. (1987), “A causal account of non-local Einstein-Podolsky-Rosen spin correlations”, *Journal of Physics A* 20(14), 4717-4732.
+* De Witt, B. S. (1970), “Quantum Mechanics and Reality”, *Physics Today* 23, No. 9, 30-35. Reprinted in De Witt and Graham (1973), pp. 155-165.
+* ––– (1971), “The many-universes interpretation of quantum mechanics”, in B. d'Espagnat (ed), *Foundations of Quantum Mechanics: Proceedings of the International School of Physics ‘Enrico Fermi’, Course IL*, New York: Benjamin, pp. 211-62. Reprinted in DeWitt and Graham (1973), pp. 167-218.
+* DeWitt, B. S., and Graham, N. (eds) (1973), *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton: Princeton University Press.
+* Dickson, M (1993), “Stapp's theorem without counterfactual committments: Why it fails nonetheless”, *Studies in History and Philosophy of Science* 24, 791-814.
+* ––– (1995), “Reply to H. Stapp's Comment”, *Studies in History and Philosophy of Science* 25, 965-966.
 * ––– (1996a), “Is Bohm's theory local?”, in Clifton (1996b), pp. 321-330.
-* ––– (1996b), “Determinism and locality in quantum systems”, _Synthese_ 107, 52-82.
-* ––– (1998),_Quantum Chance and Nonlocality_, Cambridge: Cambridge University Press.
+* ––– (1996b), “Determinism and locality in quantum systems”, *Synthese* 107, 52-82.
+* ––– (1998),*Quantum Chance and Nonlocality*, Cambridge: Cambridge University Press.
 * Dickson, M. and Clifton, R. (1998), “Lorentz invariance in modal interpretations”, in Dieks and Vermaas 1998, pp. 9-47.
-* Dieks, D. (1988) “The formalism of quantum mechanics: an objective description of reality?”, _Annalen der Physik_ 7, 174-190.
-* ––– (1989), “Resolution of the measurement problem through decoherence of the quantum state”, _Physics Letters A_ 142, 439-446.
-* Dieks, D. and Vermaas, P. (eds) (1998), _The Modal Interpretation of Quantum Mechanics_, Dordrecht: Kluwer.
-* Donald, M. (1990) “Quantum theory and the brain”, _Philosophical Transactions of the Royal Society of London_ _A_ 427, 43-93.
-* ––– (1995), “A mathematical characterization of the physical structure of observables”, _Foundations of Physics_ 25, 529-571.
-* Dowe, P. (2000), _Physical Causation_, Cambridge: Cambridge University Press.
-* Dürr, D., Goldstein, S. and Zanghì, N. (1992a), “Quantum equilibrium and the origin of absolute uncertainty”, _J. of Statistical Physics_ 67, 843-907.
-* ––– (1992b), “Quantum mechanics, randomness, and deterministic reality”, _Physics Letters_ _A_ 172, 6-12.
+* Dieks, D. (1988) “The formalism of quantum mechanics: an objective description of reality?”, *Annalen der Physik* 7, 174-190.
+* ––– (1989), “Resolution of the measurement problem through decoherence of the quantum state”, *Physics Letters A* 142, 439-446.
+* Dieks, D. and Vermaas, P. (eds) (1998), *The Modal Interpretation of Quantum Mechanics*, Dordrecht: Kluwer.
+* Donald, M. (1990) “Quantum theory and the brain”, *Philosophical Transactions of the Royal Society of London* *A* 427, 43-93.
+* ––– (1995), “A mathematical characterization of the physical structure of observables”, *Foundations of Physics* 25, 529-571.
+* Dowe, P. (2000), *Physical Causation*, Cambridge: Cambridge University Press.
+* Dürr, D., Goldstein, S. and Zanghì, N. (1992a), “Quantum equilibrium and the origin of absolute uncertainty”, *J. of Statistical Physics* 67, 843-907.
+* ––– (1992b), “Quantum mechanics, randomness, and deterministic reality”, *Physics Letters* *A* 172, 6-12.
 * ––– (1996), “Bohmian mechanics as the foundations of quantum mechanics”, in Cushing, Fine and Goldstein (1996), pp. 21-44.
-* ––– (1997), “Bohmian mechanics and the meaning of the wave function”, in Cohen, R. S., Horne, M., and Stachel, J., (eds.), _Experimental Metaphysics—Quantum Mechanical Studies for Abner Shimony, Volume One_,_Boston Studies in the Philosophy of Science_ 193, Boston: Kluwer Academic Publishers.
-* Earman, J. and Ruetsche, L. (2005), “Relativistic invariance and modal interpretations”, _Philosophy of Science_ 72, 557-583.
-* Eberhard, P. (1978), “Bell's theorem and different concepts of locality”, _Nuovo Cimento_ 46B, 392-419.
-* Einstein, A. (1948), “Quantenmechanik und wirklichkeit”, _Dialectica_ 2, 320-324.
-* Einstein, A., Podolsky, R. and Rosen, N. (1935), “Can quantum-mechanical description of physical reality be considered complete?”, _Physics Review_ 47, 777-780
-* Esfeld, M. (2001), _Holism in Philosophy of Mind and Philosophy of Physics,_ Dordrecht: Kluwer Academic Publishers.
+* ––– (1997), “Bohmian mechanics and the meaning of the wave function”, in Cohen, R. S., Horne, M., and Stachel, J., (eds.), *Experimental Metaphysics—Quantum Mechanical Studies for Abner Shimony, Volume One*,*Boston Studies in the Philosophy of Science* 193, Boston: Kluwer Academic Publishers.
+* Earman, J. and Ruetsche, L. (2005), “Relativistic invariance and modal interpretations”, *Philosophy of Science* 72, 557-583.
+* Eberhard, P. (1978), “Bell's theorem and different concepts of locality”, *Nuovo Cimento* 46B, 392-419.
+* Einstein, A. (1948), “Quantenmechanik und wirklichkeit”, *Dialectica* 2, 320-324.
+* Einstein, A., Podolsky, R. and Rosen, N. (1935), “Can quantum-mechanical description of physical reality be considered complete?”, *Physics Review* 47, 777-780
+* Esfeld, M. (2001), *Holism in Philosophy of Mind and Philosophy of Physics,* Dordrecht: Kluwer Academic Publishers.
 * Everett, H. (1957a), “On the foundations of quantum mechanics”, Ph.D. thesis, Princeton University.
-* ––– (1957b), “‘Relative state’ formulation of quantum mechanics”, _Reviews of Modern Physics_ 29, 454-62. Reprinted in DeWitt and Graham (1973), pp. 141-150.
+* ––– (1957b), “‘Relative state’ formulation of quantum mechanics”, *Reviews of Modern Physics* 29, 454-62. Reprinted in DeWitt and Graham (1973), pp. 141-150.
 * ––– (1973), “The theory of universal wave function”, in DeWitt and Graham (1973), pp. 3-140.
-* Fine, A. (1981), “Correlations and physical locality”, in P. Asquith and R. Giere (eds), _PSA 1980_, vol. 2, East Lansing, Michigan: Philosophy of Science Association, pp. 535-562.
-* ––– (1982a), “Hidden variables, joint probability, and the Bell inequalities”, _Physical Review Letters_ 48, 291-295.
-* ––– (1982b), “Joint distributions, quantum correlations and commuting observables”, _Journal of Mathematical Physics_ 23, 1306-1310.
-* ––– (1986), _The Shaky Game_, Chicago: The University of Chicago Press.
-* ––– (1989a), “Correlations and efficiency: testing the Bell inequalities”, _Foundations of Physics_ 19, 453-478.
+* Fine, A. (1981), “Correlations and physical locality”, in P. Asquith and R. Giere (eds), *PSA 1980*, vol. 2, East Lansing, Michigan: Philosophy of Science Association, pp. 535-562.
+* ––– (1982a), “Hidden variables, joint probability, and the Bell inequalities”, *Physical Review Letters* 48, 291-295.
+* ––– (1982b), “Joint distributions, quantum correlations and commuting observables”, *Journal of Mathematical Physics* 23, 1306-1310.
+* ––– (1986), *The Shaky Game*, Chicago: The University of Chicago Press.
+* ––– (1989a), “Correlations and efficiency: testing the Bell inequalities”, *Foundations of Physics* 19, 453-478.
 * ––– (1989b), “Do correlations need to be explained?”, in Cushing and McMullin (1989), pp. 175-194.
-* Fleming, G. N. (1989), “Lorentz invariant state reduction, and localization”, in A. Fine and M. Forbes (eds), _PSA 1988_, vol. 2, East Lansing, MI: Philosophy of Science Association, pp. 112-126.
-* ––– (1992), “The objectivity and invariance of quantum predictions”, in D. M. Hull, M. Forbes and Q. Okruhlik (eds), _PSA 1992_ Vol. 1, pp. 104-13, East Lansing: Philosophy of Science Association.
+* Fleming, G. N. (1989), “Lorentz invariant state reduction, and localization”, in A. Fine and M. Forbes (eds), *PSA 1988*, vol. 2, East Lansing, MI: Philosophy of Science Association, pp. 112-126.
+* ––– (1992), “The objectivity and invariance of quantum predictions”, in D. M. Hull, M. Forbes and Q. Okruhlik (eds), *PSA 1992* Vol. 1, pp. 104-13, East Lansing: Philosophy of Science Association.
 * ––– (1996) “Just how radical is hyperplane dependence?”, in Clifton (1996b), pp. 11-28.
-* Fleming, G. N. and Bennett, H. (1989), “Hyperplane dependence in relativistic quantum mechanics”, _Foundations of Physics_ 19, 231-267.
-* Friedman, M. (1983), _Foundations of Spacetime Theories: Relativistic Physics and Philosophy of Science_. Princeton: Princeton University Press.
-* Frigg, R. (2003), “On the property structure of realist collapse interpretations of quantum mechanics and the so-called ‘counting anomaly’”, _International Studies in the Philosophy of Science_ 17, 43-57.
-* Gell-Mann, M., and Hartle, J. B. (1990), “Quantum mechanics in the light of quantum cosmology”, in W. H. Zurek (ed), _Complexity, Entropy, and the Physics of Information_, Proceedings of the Santa Fe Institute Studies in the Sciences of Complexity, vol. VIII, Redwood City, CA: Addison-Wesley, pp. 425-458.
-* Ghirardi, G. C. (1996), “Properties and events in a relativistic context: revisiting the dynamical reduction program”, _Foundations of Physics Letters_ 9, 313-355.
-* Ghirardi, G. C., Rimini, A. and Weber, T. (1980), “A general argument against superluminal transmission through the quantum mechanical measurement process”, _Lettere Al Nuovo Cimento_ 27, 293-298.
-* ––– (1986), “Unified dynamics for microscopic and macroscopic systems”, _Physical Review D_ 34, 470-491.
-* Ghirardi, G. C., Pearle, P. and Rimini, A. (1990), “Markov processes in Hilbert space and continuous spontaneous localisation of systems of identical particles”, _Physical Review_ _A_ 42, 78-89.
-* Ghirardi, G. C., Grassi, R., Butterfield, J., and Fleming, G. N. (1993), “Parameter dependence and outcome dependence in dynamic models for state-vector reduction”, _Foundations of Physics_, 23, 341-364.
-* Ghirardi, G. C., and Bassi, A. (1999), “Do dynamical reduction models imply that arithmetic does not apply to ordinary macroscopic objects”, _British Journal for the Philosophy of Science_ 50, 49-64.
-* Ghirardi, G. C. and Grassi, R. (1994), “Outcome predictions and property attribution: the EPR argument reconsidered”, _Studies in History and Philosophy of Modern Physics_ 25, 397-423.
-* Gill, R. D. (2003), “On an argument of David Deutsch”, in M. Schürmann and U. Franz (eds), _Quantum Probability and Infinite Dimensional Analysis_, World Scientific, pp. 277-292. \[[Preprint available online](http://arxiv.org/abs/quant-ph/0307188).]
-* Greaves, H. (2004), “Understanding Deutsch's probability in a deterministic multiverse”, _Studies in History and Philosophy of Modern Physics_ 34, 423-456.
-* Greenberger, D. M., Horne, M., and Zeilinger, A. (1989), “Going beyond Bell's theorem”, in M. Kafatos (ed), _Bell's Theorem, Quantum Theory, and Conception of the Universe_, Dordrecht: Kluwer, pp. 69-72.
-* Greenberger, D.M., Horne, M.A., Shimony, A., Zeilinger, A. (1990),“Bell's theorem without inequalities”, _American Journal of Physics_ 58, 1131-1143.
-* Healey, R. (1989), _The Philosophy of Quantum Mechanics_, Cambridge: Cambridge University Press.
-* ––– (1991) “Holism and nonseparability”, _Journal of Philosophy_ 88, 393-421.
-* ––– (1992), “Chasing quantum causes: how wild is the goose?”, _Philosophical Topics_ 20,181-205.
-* ––– (1994), “Nonseparable processes and causal explanation”, _Studies in History and Philosophy of Modern Physics_ 25, 337-374.
-* Hellman, G. (1982), “Stochastic Einstein locality and the Bell theorems”, _Synthese_ 53, 461-503.
+* Fleming, G. N. and Bennett, H. (1989), “Hyperplane dependence in relativistic quantum mechanics”, *Foundations of Physics* 19, 231-267.
+* Friedman, M. (1983), *Foundations of Spacetime Theories: Relativistic Physics and Philosophy of Science*. Princeton: Princeton University Press.
+* Frigg, R. (2003), “On the property structure of realist collapse interpretations of quantum mechanics and the so-called ‘counting anomaly’”, *International Studies in the Philosophy of Science* 17, 43-57.
+* Gell-Mann, M., and Hartle, J. B. (1990), “Quantum mechanics in the light of quantum cosmology”, in W. H. Zurek (ed), *Complexity, Entropy, and the Physics of Information*, Proceedings of the Santa Fe Institute Studies in the Sciences of Complexity, vol. VIII, Redwood City, CA: Addison-Wesley, pp. 425-458.
+* Ghirardi, G. C. (1996), “Properties and events in a relativistic context: revisiting the dynamical reduction program”, *Foundations of Physics Letters* 9, 313-355.
+* Ghirardi, G. C., Rimini, A. and Weber, T. (1980), “A general argument against superluminal transmission through the quantum mechanical measurement process”, *Lettere Al Nuovo Cimento* 27, 293-298.
+* ––– (1986), “Unified dynamics for microscopic and macroscopic systems”, *Physical Review D* 34, 470-491.
+* Ghirardi, G. C., Pearle, P. and Rimini, A. (1990), “Markov processes in Hilbert space and continuous spontaneous localisation of systems of identical particles”, *Physical Review* *A* 42, 78-89.
+* Ghirardi, G. C., Grassi, R., Butterfield, J., and Fleming, G. N. (1993), “Parameter dependence and outcome dependence in dynamic models for state-vector reduction”, *Foundations of Physics*, 23, 341-364.
+* Ghirardi, G. C., and Bassi, A. (1999), “Do dynamical reduction models imply that arithmetic does not apply to ordinary macroscopic objects”, *British Journal for the Philosophy of Science* 50, 49-64.
+* Ghirardi, G. C. and Grassi, R. (1994), “Outcome predictions and property attribution: the EPR argument reconsidered”, *Studies in History and Philosophy of Modern Physics* 25, 397-423.
+* Gill, R. D. (2003), “On an argument of David Deutsch”, in M. Schürmann and U. Franz (eds), *Quantum Probability and Infinite Dimensional Analysis*, World Scientific, pp. 277-292. \[[Preprint available online](http://arxiv.org/abs/quant-ph/0307188).]
+* Greaves, H. (2004), “Understanding Deutsch's probability in a deterministic multiverse”, *Studies in History and Philosophy of Modern Physics* 34, 423-456.
+* Greenberger, D. M., Horne, M., and Zeilinger, A. (1989), “Going beyond Bell's theorem”, in M. Kafatos (ed), *Bell's Theorem, Quantum Theory, and Conception of the Universe*, Dordrecht: Kluwer, pp. 69-72.
+* Greenberger, D.M., Horne, M.A., Shimony, A., Zeilinger, A. (1990),“Bell's theorem without inequalities”, *American Journal of Physics* 58, 1131-1143.
+* Healey, R. (1989), *The Philosophy of Quantum Mechanics*, Cambridge: Cambridge University Press.
+* ––– (1991) “Holism and nonseparability”, *Journal of Philosophy* 88, 393-421.
+* ––– (1992), “Chasing quantum causes: how wild is the goose?”, *Philosophical Topics* 20,181-205.
+* ––– (1994), “Nonseparable processes and causal explanation”, *Studies in History and Philosophy of Modern Physics* 25, 337-374.
+* Hellman, G. (1982), “Stochastic Einstein locality and the Bell theorems”, *Synthese* 53, 461-503.
 * Hemmo, M. (1996a), “Quantum mechanics without collapse: modal interpretations, histories and many worlds”, Ph.D. Thesis, Cambridge University.
-* ––– (1996b), “Possible worlds in the modal interpretation”, _Philosophy of Science_, Supplement to Vol. 63, S330-S337.
-* Hemmo, M. and Pitowsky, I. (2003), “Probability and nonlocality in many minds interpretations of quantum mechanics”, _British Journal for the Philosophy of Science_ 54, 225-243. \[[Preprint available online](http://xxx.lanl.gov/pdf/quant-ph/0112077).]
-* ––– (2005), “Quantum probability and many worlds”, forthcoming in _Studies in History and Philosophy of Modern Physics_.
-* Henry, J. (1994), “Pray do not ascribe that notion to me…”, in J. E. Force and R. H. Popkin (eds), _The Books of Nature and Scripture_, Dordrecht: Kluwer, pp. 123-147.
-* Hesse, M. B. (1969), _Forces and Fields: The Concept of Action At A Distance in the History of Physics_, London: Thomas Nelson and Sons.
-* Holland, P. R. (1993), _The Quantum Theory of Motion_, Cambridge: Cambridge University Press.
-* Howard, D. (1985). “Einstein on locality and separability”, _Studies in History and Philosophy of Science_ 16, pp. 171-201.
+* ––– (1996b), “Possible worlds in the modal interpretation”, *Philosophy of Science*, Supplement to Vol. 63, S330-S337.
+* Hemmo, M. and Pitowsky, I. (2003), “Probability and nonlocality in many minds interpretations of quantum mechanics”, *British Journal for the Philosophy of Science* 54, 225-243. \[[Preprint available online](http://xxx.lanl.gov/pdf/quant-ph/0112077).]
+* ––– (2005), “Quantum probability and many worlds”, forthcoming in *Studies in History and Philosophy of Modern Physics*.
+* Henry, J. (1994), “Pray do not ascribe that notion to me…”, in J. E. Force and R. H. Popkin (eds), *The Books of Nature and Scripture*, Dordrecht: Kluwer, pp. 123-147.
+* Hesse, M. B. (1969), *Forces and Fields: The Concept of Action At A Distance in the History of Physics*, London: Thomas Nelson and Sons.
+* Holland, P. R. (1993), *The Quantum Theory of Motion*, Cambridge: Cambridge University Press.
+* Howard, D. (1985). “Einstein on locality and separability”, *Studies in History and Philosophy of Science* 16, pp. 171-201.
 * ––– (1989), “Holism, separability and the metaphysical implications of the Bell experiments”, in Cushing and McMullin (1989), pp. 224-253.
-* Hughes, R. I .G (1989), _The Structure and Interpretation of Quantum Mechanics_, Cambridge Mass.: Harvard University Press.
-* Jarrett, J. (1984), “On the physical significance of the locality conditions in the Bell arguments”, _Noûs_ 18, 569-589.
+* Hughes, R. I .G (1989), *The Structure and Interpretation of Quantum Mechanics*, Cambridge Mass.: Harvard University Press.
+* Jarrett, J. (1984), “On the physical significance of the locality conditions in the Bell arguments”, *Noûs* 18, 569-589.
 * ––– (1989), “Bell's theorem: a guide to the implications”, in Cushing and McMullin (1989), pp. 60-79.
-* Jones, M. and Clifton, R. (1993), “Against experimental metaphysics”, in P. A. French et al. (eds), _Midwest Studies in Philosophy_ XVIII, Notre Dame, Indiana: University of Notre Dame Press, pp. 297-316.
-* Jordan, T. F. (1983), “Quantum correlations do not transmit signals”, _Physics Letters A_ 94, 264.
-* Kastner, R. (2006), “Cramer's transactional interpretation and causal loop problems”, _Synthese_ 150 no. 1, 1-14. \[[Earlier version available online](http://philsci-archive.pitt.edu/archive/00001833/).]
-* Kim, J. (1978), “Supervenience and nomological incommensurables”, _American Philosophical Quarterly_ 15, 149-156.
-* Kochen, S. (1985), “A new interpretation of quantum mechanics”, in P. Lathi and P. Mittelstaedt (eds), _Symposium on the Foundations of Modern Physics_, Singapore: World Scientific, pp. 151-169.
-* Kochen, S. and Specker, E. (1967), “The problem of hidden variables in quantum mechanics”, _Journal of Mathematics and Mechanics_ 17, 59-87. Reprinted in Hooker (1975), pp. 293-328.
-* Krips, H. (1987), _The Metaphysics of Quantum Theory_, Oxford: Clarendon Press.
-* Kronz, F. (1990a), “Jarrett completeness and superluminal signals”, in A. Fine, M. Forbes and L. Wessels (eds), _PSA 1990_, East Lansing: Philosophy of Science Association, pp. 227-239.
-* ––– (1990b), “Hidden locality, conspiracy and superluminal signals”, _Philosophy of Science_ 57, 420-444.
-* Langton, R. and Lewis, D. (1998), “Defining ‘intrinsic’”, _Philosophy and Phenomenological Research_ 58, 333-45. Reprinted in D. Lewis, _Papers in Metaphysics and Epistemology_, Cambridge: Cambridge University Press, pp. 116-132.
-* Laudisa, F. (1995), “Einstein, Bell and nonseparable realism”, _The British Journal for the Philosophy of Science_ 46, 309-329.
-* Lewis, D. (1986), _Philosophical Papers_, Vol. 2, Oxford: Oxford University Press.
-* Lewis, P. J. (1997), “Quantum mechanics, orthogonality and counting”, _British Journal for Philosophy of Science_ 48, 313-328.
-* ––– (2003a), “Four strategies for dealing with the counting anomaly in spontaneous collapse theories of quantum mechanics”, _International Studies in the Philosophy of Science_ 17 no. 2, 137-142.
-* Lockwood, M. (1996a), “Many minds interpretation of quantum mechanics”, _British Journal for the Philosophy of Science_ 47, 159-188.
-* ––– (1996b), “Many minds interpretations of quantum mechanics: replies to replies”, _British Journal for the Philosophy of Science_ 47, 445-461.
+* Jones, M. and Clifton, R. (1993), “Against experimental metaphysics”, in P. A. French et al. (eds), *Midwest Studies in Philosophy* XVIII, Notre Dame, Indiana: University of Notre Dame Press, pp. 297-316.
+* Jordan, T. F. (1983), “Quantum correlations do not transmit signals”, *Physics Letters A* 94, 264.
+* Kastner, R. (2006), “Cramer's transactional interpretation and causal loop problems”, *Synthese* 150 no. 1, 1-14. \[[Earlier version available online](http://philsci-archive.pitt.edu/archive/00001833/).]
+* Kim, J. (1978), “Supervenience and nomological incommensurables”, *American Philosophical Quarterly* 15, 149-156.
+* Kochen, S. (1985), “A new interpretation of quantum mechanics”, in P. Lathi and P. Mittelstaedt (eds), *Symposium on the Foundations of Modern Physics*, Singapore: World Scientific, pp. 151-169.
+* Kochen, S. and Specker, E. (1967), “The problem of hidden variables in quantum mechanics”, *Journal of Mathematics and Mechanics* 17, 59-87. Reprinted in Hooker (1975), pp. 293-328.
+* Krips, H. (1987), *The Metaphysics of Quantum Theory*, Oxford: Clarendon Press.
+* Kronz, F. (1990a), “Jarrett completeness and superluminal signals”, in A. Fine, M. Forbes and L. Wessels (eds), *PSA 1990*, East Lansing: Philosophy of Science Association, pp. 227-239.
+* ––– (1990b), “Hidden locality, conspiracy and superluminal signals”, *Philosophy of Science* 57, 420-444.
+* Langton, R. and Lewis, D. (1998), “Defining ‘intrinsic’”, *Philosophy and Phenomenological Research* 58, 333-45. Reprinted in D. Lewis, *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press, pp. 116-132.
+* Laudisa, F. (1995), “Einstein, Bell and nonseparable realism”, *The British Journal for the Philosophy of Science* 46, 309-329.
+* Lewis, D. (1986), *Philosophical Papers*, Vol. 2, Oxford: Oxford University Press.
+* Lewis, P. J. (1997), “Quantum mechanics, orthogonality and counting”, *British Journal for Philosophy of Science* 48, 313-328.
+* ––– (2003a), “Four strategies for dealing with the counting anomaly in spontaneous collapse theories of quantum mechanics”, *International Studies in the Philosophy of Science* 17 no. 2, 137-142.
+* Lockwood, M. (1996a), “Many minds interpretation of quantum mechanics”, *British Journal for the Philosophy of Science* 47, 159-188.
+* ––– (1996b), “Many minds interpretations of quantum mechanics: replies to replies”, *British Journal for the Philosophy of Science* 47, 445-461.
 * Malament, D. (1996), “In defense of dogma: Why there cannot be a quantum mechanical theory of (localizable) particles?”, in Clifton 1996b, pp. 1-10.
-* Maudlin, T. (1994), _Quantum Nonlocality and Relativity_, Oxford: Blackwell.
+* Maudlin, T. (1994), *Quantum Nonlocality and Relativity*, Oxford: Blackwell.
 * ––– (1996), “Space-time in the quantum world” in Cushing, Fine and Goldstein (1996), pp. 285-307.
-* McLaughlin, B. P. (1994), “Varieties of supervenience”, in E. Savellos and O. Yalchin (eds), _Supervenience: New Essays_, Cambridge: Cambridge University Press, pp. 16-59.
+* McLaughlin, B. P. (1994), “Varieties of supervenience”, in E. Savellos and O. Yalchin (eds), *Supervenience: New Essays*, Cambridge: Cambridge University Press, pp. 16-59.
 * McMullin, E. (1989), “The explanation of distant action: historical notes”, in Cushing and McMullin (1989), pp. 272-302.
-* Mermin, N. D. (1990), “Quantum mysteries revisited”, _American Journal of Physics_ 58, 731-734.
-* \-––– (1998), Mermin, N.D., “What is quantum mechanics trying to tell us?”, _American Journal of Physics_ 66, 753-767.
-* Myrvold, W. (2002a), “Modal interpretations and relativity”, _Foundations of Physics_ 32, 1773-1784.
-* ––– (2002b), “On peaceful coexistence: is the collapse postulate incompatible with relativity?’ _Studies in History and Philosophy of Modern Physics_ 33, 435-466. \[[Preprint available from the author](http://publish.uwo.ca/\~wmyrvold/PeacefulCoexistence.pdf).]
-* Parker, D. (2003), “Finding your Marbles in wavefunction collapse theories”, _Studies in History and Philosophy of Modern Physics_ 34, 607-620.
-* Pearle, P. (1976), “Reduction of statevector by a nonlinear Schrödinger equation”, _Physical Review_ _D_ 13, 857-868.
-* ––– (1989), “Combining stochastic dynamical state-vector reduction with spontaneous localization”, _Physical Review_ _A_ 39, 2277-2289.
+* Mermin, N. D. (1990), “Quantum mysteries revisited”, *American Journal of Physics* 58, 731-734.
+* \-––– (1998), Mermin, N.D., “What is quantum mechanics trying to tell us?”, *American Journal of Physics* 66, 753-767.
+* Myrvold, W. (2002a), “Modal interpretations and relativity”, *Foundations of Physics* 32, 1773-1784.
+* ––– (2002b), “On peaceful coexistence: is the collapse postulate incompatible with relativity?’ *Studies in History and Philosophy of Modern Physics* 33, 435-466. \[[Preprint available from the author](http://publish.uwo.ca/\~wmyrvold/PeacefulCoexistence.pdf).]
+* Parker, D. (2003), “Finding your Marbles in wavefunction collapse theories”, *Studies in History and Philosophy of Modern Physics* 34, 607-620.
+* Pearle, P. (1976), “Reduction of statevector by a nonlinear Schrödinger equation”, *Physical Review* *D* 13, 857-868.
+* ––– (1989), “Combining stochastic dynamical state-vector reduction with spontaneous localization”, *Physical Review* *A* 39, 2277-2289.
 * ––– (1996), “Wavefunction collapse models with nonwhite noise”, in Clifton (1996), pp. 93-109.
-* Pitowsky, I. (1989), _Quantum Probability—Quantum Logic_, Lecture Notes in Physics 321, New York: Springer-Verlag.
-* Placek, T. and J. Butterfield (eds) (2002), _Non-locality and Modality_, Proceedings of the NATO Advanced Research Workshop on Modality, Probability and Bell's Theorems, Kluwer.
-* Price, H. (1984), “The philosophy and physics of affecting the past”, _Synthese_ 16, 299-323.
-* ––– (1994), “A neglected route to realism about quantum mechanics”, _Mind_ 103, 303-336.
-* ––– (1996), _Time's Arrow and Archimedes’ Point_. Oxford: Oxford University Press.
+* Pitowsky, I. (1989), *Quantum Probability—Quantum Logic*, Lecture Notes in Physics 321, New York: Springer-Verlag.
+* Placek, T. and J. Butterfield (eds) (2002), *Non-locality and Modality*, Proceedings of the NATO Advanced Research Workshop on Modality, Probability and Bell's Theorems, Kluwer.
+* Price, H. (1984), “The philosophy and physics of affecting the past”, *Synthese* 16, 299-323.
+* ––– (1994), “A neglected route to realism about quantum mechanics”, *Mind* 103, 303-336.
+* ––– (1996), *Time's Arrow and Archimedes’ Point*. Oxford: Oxford University Press.
 * ––– (2006), “Decision-based probabilities in the Everett Interpretation: Comments on Wallace and Greaves”, a typescript.
-* Redhead, M. L. G. (1987), _Incompleteness_, _Nonlocality, and Realism_, Oxford: Clarendon Press.
+* Redhead, M. L. G. (1987), *Incompleteness*, *Nonlocality, and Realism*, Oxford: Clarendon Press.
 * ––– (1989), “Nonfactorizability, stochastic causality, and passion-at-a-distance”, in Cushing and McMullin (1989), pp. 145-153.
-* Redhead, M. L. G. and La Rivière, P. (1997), “ The relativistic EPR argument”, in R. S. Cohen, M. Horne and J. Stachel (eds.), _Potentiality, Entanglement and Passion-at-a-Distance_ (Kluwer, Dordrecht), pp. 207-215.
-* Reichenbach, H. (1956), _The Direction of Time_, Berkeley, Calif.: University of California Press.
-* Salmon, W. (1998), _Causality and Explanation_, Oxford: Oxford University Press.
-* Saunders, S. (1995), “Time, quantum mechanics and decoherence”, _Synthese_ 102, 235-266.
-* ––– (1998), “Time, quantum mechanics, and probability”, _Synthese_, 114, 405-444. \[[Preprint available from the author](http://users.ox.ac.uk/\~lina0174/part3.pdf).]
-* ––– (2004), “Derivation of the Born rule from operational assumptions”, _Proceedings of the Royal Society of London A_, 460, 1-18. \[[Preprint available online](http://xxx.arxiv.org/abs/quant-ph/0211138).]
-* ––– (2005), preprint of “What is probability?”, forthcoming in A. Elitzur, S. Dolev and N. Kolenda (eds), _Quo Vadis Quantum Mechanics_, New York: Springer. \[Preprint available online.]
-* Shimony, A. (1984), “Controllable and uncontrollable non-locality”, in S. Kamefuchi _et al._ (eds), _Foundations of Quantum Mechanics in Light of the New Technology_, Tokyo: Physical Society of Japan, pp. 225-230. Reprinted in Shimony (1993), pp. 130-139.
-* ––– (1993), _Search for Naturalistic Worldview_, Vol. 2, Cambridge: Cambridge University Press.
-* Spekkens, R. W. and Sipe, J. E. (2001a), “Non-orthogonal core projectors for modal interpretations of quantum mechanics”, _Foundations of Physics_ 31, 1403-1430.
-* ––– (2001b), “A modal interpretation of quantum mechanics based on a principle of entropy minimization”, _Foundations of Physics_ 31, 1431-1464.
-* Stairs, A. (1989), “Jarrett's locality Condition and Causal Paradox”, in A. Fine and M. Forbes (eds), _PSA 1988_, East Lansing, MI: Philosophy of Science Association, pp. 318-325.
+* Redhead, M. L. G. and La Rivière, P. (1997), “ The relativistic EPR argument”, in R. S. Cohen, M. Horne and J. Stachel (eds.), *Potentiality, Entanglement and Passion-at-a-Distance* (Kluwer, Dordrecht), pp. 207-215.
+* Reichenbach, H. (1956), *The Direction of Time*, Berkeley, Calif.: University of California Press.
+* Salmon, W. (1998), *Causality and Explanation*, Oxford: Oxford University Press.
+* Saunders, S. (1995), “Time, quantum mechanics and decoherence”, *Synthese* 102, 235-266.
+* ––– (1998), “Time, quantum mechanics, and probability”, *Synthese*, 114, 405-444. \[[Preprint available from the author](http://users.ox.ac.uk/\~lina0174/part3.pdf).]
+* ––– (2004), “Derivation of the Born rule from operational assumptions”, *Proceedings of the Royal Society of London A*, 460, 1-18. \[[Preprint available online](http://xxx.arxiv.org/abs/quant-ph/0211138).]
+* ––– (2005), preprint of “What is probability?”, forthcoming in A. Elitzur, S. Dolev and N. Kolenda (eds), *Quo Vadis Quantum Mechanics*, New York: Springer. \[Preprint available online.]
+* Shimony, A. (1984), “Controllable and uncontrollable non-locality”, in S. Kamefuchi *et al.* (eds), *Foundations of Quantum Mechanics in Light of the New Technology*, Tokyo: Physical Society of Japan, pp. 225-230. Reprinted in Shimony (1993), pp. 130-139.
+* ––– (1993), *Search for Naturalistic Worldview*, Vol. 2, Cambridge: Cambridge University Press.
+* Spekkens, R. W. and Sipe, J. E. (2001a), “Non-orthogonal core projectors for modal interpretations of quantum mechanics”, *Foundations of Physics* 31, 1403-1430.
+* ––– (2001b), “A modal interpretation of quantum mechanics based on a principle of entropy minimization”, *Foundations of Physics* 31, 1431-1464.
+* Stairs, A. (1989), “Jarrett's locality Condition and Causal Paradox”, in A. Fine and M. Forbes (eds), *PSA 1988*, East Lansing, MI: Philosophy of Science Association, pp. 318-325.
 * Stapp, H. (1989), “Quantum nonlocality and the description of nature”, in Cushing and McMullin 1989, pp. 154-174.
-* ––– (1990), “Comments on nonlocal influences and possible worlds”, _British Journal for the Philosophy of Science_ 41, 59-72.
-* ––– (1994), “Comments on "Stapp's theorem without counterfactuals"”, _Studies in History and Philosophy of Science_ 25, 929-934.
-* Suppes, P. and M. Zanotti (1976), “On the determinism of hidden variable theories with strict correlation and conditional statistical independence of observables”, in P. Suppes (1976) (ed), _Logic and Probability in Quantum Mechanics,_ Dordrecht: Reidel, pp. 445-455.
-* Sutherland, R. I. (1983), “Bell's theorem and backwards-in-time causality”, _International Journal of Theoretical Physics_ 22, 377-384.
-* ––– (1998), “Density formalism for quantum theory”, _Foundations of Physics_ 28 no. 7, 1158-1190.
-* Teller, P. (1986a), “Relational holism and quantum mechanics”, _British Journal for Philosophy of Science_ 37, 71-81.
-* ––– (1986b) “Space-time as a physical quantity”, in R. Kargon and P. Achinstein (eds), _Kelvin's Baltimore Lectures and Modern Theoretical Physics_, MIT Press, pp. 425-448.
+* ––– (1990), “Comments on nonlocal influences and possible worlds”, *British Journal for the Philosophy of Science* 41, 59-72.
+* ––– (1994), “Comments on "Stapp's theorem without counterfactuals"”, *Studies in History and Philosophy of Science* 25, 929-934.
+* Suppes, P. and M. Zanotti (1976), “On the determinism of hidden variable theories with strict correlation and conditional statistical independence of observables”, in P. Suppes (1976) (ed), *Logic and Probability in Quantum Mechanics,* Dordrecht: Reidel, pp. 445-455.
+* Sutherland, R. I. (1983), “Bell's theorem and backwards-in-time causality”, *International Journal of Theoretical Physics* 22, 377-384.
+* ––– (1998), “Density formalism for quantum theory”, *Foundations of Physics* 28 no. 7, 1158-1190.
+* Teller, P. (1986a), “Relational holism and quantum mechanics”, *British Journal for Philosophy of Science* 37, 71-81.
+* ––– (1986b) “Space-time as a physical quantity”, in R. Kargon and P. Achinstein (eds), *Kelvin's Baltimore Lectures and Modern Theoretical Physics*, MIT Press, pp. 425-448.
 * ––– (1989), “Relativity, relational holism and quantum mechanics”, in Cushing and McMullin (1989), pp. 208-223.
-* Vaidman, L., (1998), “On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum theory”, _International Studies in the Philosophy of Science_ 12, 245-261. \[[Preprint available online](http://xxx.lanl.gov/pdf/quant-ph/9609006).]
-* Valentini, A. (1991a), “Signal locality, uncertainty and the subquantum H-Theorem. I”, _Physics Letters A_ 156, 5-11.
-* ––– (1991b), “Signal locality, uncertainty and the subquantum H-Theorem. II”, _Physics Letters A_ 158, 1-8.
-* ––– (1992), _On the Pilot-Wave Theory of Classical, Quantum and Subquantum Physics_, Ph.D. Thesis, International School of Advanced Studies, Trieste, Italy.
+* Vaidman, L., (1998), “On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum theory”, *International Studies in the Philosophy of Science* 12, 245-261. \[[Preprint available online](http://xxx.lanl.gov/pdf/quant-ph/9609006).]
+* Valentini, A. (1991a), “Signal locality, uncertainty and the subquantum H-Theorem. I”, *Physics Letters A* 156, 5-11.
+* ––– (1991b), “Signal locality, uncertainty and the subquantum H-Theorem. II”, *Physics Letters A* 158, 1-8.
+* ––– (1992), *On the Pilot-Wave Theory of Classical, Quantum and Subquantum Physics*, Ph.D. Thesis, International School of Advanced Studies, Trieste, Italy.
 * ––– (1996), “Pilot-wave theory of fields, gravitation and cosmology”, in Cushing, Fine and Goldstein (1996), pp. 45-66.
-* van Fraassen, B. C. (1973), “Semantic analysis of quantum logic”, in C. A. Hooker (ed), _Contemporary Research in the Foundations and Philosophy of Quantum Theory_, Dordrecht: Reidel, pp. 180-213.
-* ––– (1981), “A modal interpretation of quantum mechanics”, in E. Beltrametti and B. C. van Fraassen (eds), _Current Issues in Quantum Mechanics_, New York: Plenium, pp. 229-258.
-* ––– (1982), “The charybids of realism”, _Synthese_ 52, 25-38. Reprinted in Cushing and McMullin (1989), pp. 97-113.
-* ––– (1991), _Quantum Mechanics_: _An Empiricist View_, Oxford: Oxford University Press.
-* Vermaas, P. E. (1997), “A no-go theorem for joint property ascriptions in modal interpretations of quantum mechanics”, _Physical Review Letters_ 78, 2033-2037.
-* ––– (1999), _A Philosopher's Understanding of Quantum Mechanics: Possibilities and Impossibilities of a Modal Interpretation_, Cambridge: Cambridge University Press.
-* Vermaas, P. E. and Dieks, D. (1995) “The modal interpretation of quantum mechanics and its generalisation to density Operators”, _Foundations of Physics_ 25, 145-158.
-* Vink, J. (1993), “Quantum mechanics in terms of discrete beables”, _Physical Review A_ 48, 1808-1818.
-* Wallace, D. (2003), “Everettian Rationality: defending Deutsch's approach to probability in the Everett interpretation”, _Studies in the History and Philosophy of Modern Physics_ 34, 415-438. \[Preprint available online.]
-* Winsberg, E. and Fine, A. (2003), “Quantum life: interaction, entanglement and separation”, _Journal of Philosophy_ 100, 80-97.
+* van Fraassen, B. C. (1973), “Semantic analysis of quantum logic”, in C. A. Hooker (ed), *Contemporary Research in the Foundations and Philosophy of Quantum Theory*, Dordrecht: Reidel, pp. 180-213.
+* ––– (1981), “A modal interpretation of quantum mechanics”, in E. Beltrametti and B. C. van Fraassen (eds), *Current Issues in Quantum Mechanics*, New York: Plenium, pp. 229-258.
+* ––– (1982), “The charybids of realism”, *Synthese* 52, 25-38. Reprinted in Cushing and McMullin (1989), pp. 97-113.
+* ––– (1991), *Quantum Mechanics*: *An Empiricist View*, Oxford: Oxford University Press.
+* Vermaas, P. E. (1997), “A no-go theorem for joint property ascriptions in modal interpretations of quantum mechanics”, *Physical Review Letters* 78, 2033-2037.
+* ––– (1999), *A Philosopher's Understanding of Quantum Mechanics: Possibilities and Impossibilities of a Modal Interpretation*, Cambridge: Cambridge University Press.
+* Vermaas, P. E. and Dieks, D. (1995) “The modal interpretation of quantum mechanics and its generalisation to density Operators”, *Foundations of Physics* 25, 145-158.
+* Vink, J. (1993), “Quantum mechanics in terms of discrete beables”, *Physical Review A* 48, 1808-1818.
+* Wallace, D. (2003), “Everettian Rationality: defending Deutsch's approach to probability in the Everett interpretation”, *Studies in the History and Philosophy of Modern Physics* 34, 415-438. \[Preprint available online.]
+* Winsberg, E. and Fine, A. (2003), “Quantum life: interaction, entanglement and separation”, *Journal of Philosophy* 100, 80-97.
 
 ## Academic Tools
 
@@ -743,7 +743,7 @@ Berkovitz（2002年，第5节）认为，莫德林的论点实际上是，如果
 ## Other Internet Resources
 
 * Donald, M. (1999), [Progress in a many-minds interpretation of quantum theory](http://www.arxiv.org/abs/quant-ph/9904001).
-* Larsson, J-A and Semitecolos, J. (2000), [Strict detector-efficiency bounds for _n_-site Clauser-Horne inequalities](http://arxiv.org/pdf/quant-ph/0006022).
+* Larsson, J-A and Semitecolos, J. (2000), [Strict detector-efficiency bounds for *n*-site Clauser-Horne inequalities](http://arxiv.org/pdf/quant-ph/0006022).
 * Larsson, J. A. (2002), [A Kochen-Specker inequality](http://arxiv.org/abs/quant-ph/0006134).
 * Lewis, P. J. (2003b), [Deutsch on Quantum Decision Theory](http://philsci-archive.pitt.edu/archive/00001350/).
 * Sutherland, R. I. (2006), [Causally symmetric Bohm model](http://arxiv.org/pdf/quant-ph/0601095) (PDF).
@@ -763,4 +763,4 @@ Berkovitz（2002年，第5节）认为，莫德林的论点实际上是，如果
 For comments on earlier versions of this entry, I am very grateful to Guido Bacciagaluppi.
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by\
-Joseph Berkovitz <[_jzberkovitz@yahoo.com_](mailto:jzberkovitz%40yahoo%2ecom)>
+Joseph Berkovitz <[*jzberkovitz@yahoo.com*](mailto:jzberkovitz%40yahoo%2ecom)>

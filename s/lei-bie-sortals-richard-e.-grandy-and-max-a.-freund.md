@@ -1,6 +1,6 @@
 # 类别 sortals (Richard E. Grandy and Max A. Freund)
 
-_首次发表于 2006 年 2 月 9 日，实质修订于 2020 年 11 月 12 日_
+*首次发表于 2006 年 2 月 9 日，实质修订于 2020 年 11 月 12 日*
 
 世界似乎由物质和事物组成。其中一些物质构成了事物——比如木头构成了这艘船。有些事物持久存在——比如罗马的 2 世纪万神殿建筑——而其他事物是短暂的——比如沙滩上的沙堡。人们在不同程度上关心正在考虑的事物的种类，以及他们讨论的是否是同一个事物。今天的罗马万神殿与公元 150 年时的那座是同一个；尽管今天沙滩上的沙堡在同一个位置，看起来也一样，但它不是昨晚被潮水冲走的那个。为什么我们关心的是对象而不仅仅是物质？因为对象是具有额外属性的物质，这些属性通常持久存在，即使物质发生变化，了解这些属性通常也是有用的。
 
@@ -318,103 +318,103 @@ Belnap 和 Müller 在时态和情态的非标准形式逻辑中开发了一种�
 
 ## Bibliography
 
-* Ayers, Michael R., 1974, “Individuals without sortals”, _Canadian Journal of Philosophy_, 4(1): 113–148.
-* Baker, Lynne Rudder, 2004, “The Ontology of Artefacts”, _Philosophical Explorations_, 7: 99–112.
-* –––, 2007, _The Metaphysics of Everyday Life_, New York: Cambridge University Press.
-* –––, 2008, “The shrinking difference between artifacts and natural kinds”, Piotr Boltuc (ed), _Newsletter on Philosophy and Computers. American Philosophical Association Newsletters_, 7(2): 1–10.
-* Belnap, Nuel and Thomas Müller, 2014, “CIFOL: Case-Intensional First Order Logic (I) Toward a Theory of Sorts”, _Journal of Philosophical Logic_, 43(2): 393–437. doi:10.1007/s10992-012-9267-x
-* Black, Max, 1952, “The identity of indiscernibles”, _Mind_ (New Series), 61(242): 53–64.
-* Bressan, Aldo, 1972, _A general interpreted modal calculus_, New Haven: Yale University Press.
-* Brody, Baruch, 1980, _Essence and Identity_, Princeton: Princeton University Press.
-* Cacchione, T., C. Hrubesch, and J. Call, 2016, “Are apes essentialists? Scope and limits of psychological essentialism in great apes”, _Animal Cognition_, 19(5): 921–37.
-* Carnap, Rudolf, 1950, “Empiricism, semantics and ontology”, _Revue Internationale de Philosophie_, 4: 40–50
-* Carrara, M., and P. Vermass, 2009, “The fine-grained metaphysics of artefactual and biological functional kinds”, _Synthese_, 169: 125–143.
-* Cartwright, Richard, 1987, “On the logical problem of the trinity”, _Philosophical Essays_, Cambridge, MA: MIT Press, pp. 187–200.
-* Cocchiarella, Nino, 1977, “Sortals, natural kinds and re-identification”, _Logique et Analyse_, 20: 438–474.
-* Devitt, M., 2018, “Individual essentialism”, _Biology and Philosophy_, 33: 1–22.
-* Dummett, Michael, 1973, _Frege: Philosophy of Language_, London: Duckworth.
-* Feldman, Fred, 1973, “Sortal predicates”, _Noûs_, 7: 268–82. doi:10.2307/2214351
-* Ferner, A.M., 2016, _Organism and Personal Identity. Biological Individuation and the Work of David Wiggins_, New York: Routledge.
-* Fontanari, Laura, Rosa Rugani, Lucia Regolin, & Giorgio Vallortigara, 2014, “Use of kind information for object individuation in young domestic chicks”, _Animal Cognition_, 17(4): 925–935. doi:10.1007/s10071-013-0725-9
-* Forbes, Graeme, 1985, _The Metaphysics of Modality_, Oxford: Oxford University Press.
-* Frege, Gottlob, 1884, _The Foundations of Arithmetic_, J.L. Austin (trans.), Evanston: Northwestern University Press, 1978.
-* Freund, Max A., 2000, “A complete and consistent formal system for sortals”, _Studia Logica_, 65(3): 367–81.
-* –––, 2001, “A temporal logic for sortals”, _Studia Logica_, 69: 351–80.
-* –––, 2004, “A modal sortal logic”, _Journal of Philosophical Logic_, 33(3): 237–60. doi:10.1023/B:LOGI.0000031381.56344.a9
-* –––, 2019, _The Logic of Sortals. A Conceptualist Approach. Synthese Library 408_, Cham, Switzerland: Springer Verlag.
-* Furth, Montgomery, 1988, _Substance, Form and Psyche: an Aristotelean Metaphysics_, Cambridge: Cambridge University Press.
-* Geach, Peter Thomas, 1962, _Reference and Generality: An Examination of some Medieval and Modern Theories_, Ithaca: Cornell University Press.
-* Gelman, Susan A., 2003, _The Essential Child: Origins of Essentialism in Everyday Thought_, New York: Oxford University Press.
-* –––, 2013, “Artifacts and Essentialism”, _Review of Philosophy and Psychology_, 4(3): 449–63.
-* Griffin, Nicholas, 1977, _Relative Identity_, Oxford: Clarendon Press.
-* Guarino, Nicola, Massimiliano Carrara, & Pierdaniele Giaretta, 1994, “An Ontology of Meta-Level Categories”, in _Principles of Knowledge Representation and Reasoning: Proceedings of the Fourth International Conference_ (KR ’94), Jon Doyle, Erik Sandewall, Pietro Torasso (eds.), San Francisco: Morgan Kaufmann, pp. 270–280.
-* Guizzardi,G., and G. Wagner, 2010, “Using the Unified Foundational Ontology (UFO) as foundation for general conceptual modeling languages”, R. Poli, R. Healy, and A. Kameas (eds.), _Theory and Applications of Ontology: Computer Applications_, Dordrecht: Springer Verlag, pp. 175–96.
-* Imai, M., and D. Gentner, 1997, “A cross-linguistic study of early word meaning: Universal ontology and linguistic influence”, _Cognition_, 62: 169–200.
-* Johnston, Mark, 1992, “Constitution Is Not Identity”, _Mind_, NS 101(401): 89–105.
-* Jubien, Michael, 1996, “The myth of identity conditions”, _Philosophical Perspectives_, 10: 34–55. doi:10.2307/2216251
-* Ladyman, J., O. Linnebo, and R. Pettigrew, 2012, “Identity and discernibility in philosophy and logic”, _The Review of Symbolic Logic_, 5(1): 162–86.
-* Laporte, J., 1997, “Essential membership”, _Philosophy of Science_, 64: 96–112.
-* Laycock, Henry, 2011, “Any sum of parts which are water is water”, _Humana Mente. Journal of Philosophical Studies_, 19(1): 41–46.
-* Locke, John, 1975 \[1690], _An Essay Concerning Human Understanding_, P.H. Nidditch (ed.), Oxford: Oxford University Press.
-* Losonsky, M., 1990, “The nature of artefacts”, _Philosophy_, 65: 81–88.
-* Lowe, E.J., 1989, “What is a criterion of identity?”, _The Philosophical Quarterly_, 29: 1–21. doi:10.2307/2220347
-* –––, 1997, “Objects and criteria of identity”, Bob Hale and Crispin Wright (eds.), _A Companion to the Philosophy of Language_, Oxford: Blackwell, 613–33.
-* –––, 2009, _More Kinds of Beings: a Further Study of Individuation, Identity, and the Logic of Sortal Terms_, Sussex: Wiley–Blackwell.
-* Mackie, Penelope, 1994, “Sortal concepts and essential properties”, _The Philosophical Quarterly_, 44: 311–33. doi:10.2307/2219612
-* –––, 2006, _How Things Might Have Been: Individuals, Kinds, and Properties_, Oxford: Oxford University Press.
-* Markman, Ellen M., 1989, _Categorization and naming in children_, Cambridge, MA: MIT Press.
-* Markman, Ellen M., Judith L. Wasow, & Mikkel B. Hansen, 2003, “Use of the mutual exclusivity assumption by young word learners”, _Cognitive Psychology_, 47: 241–275.
-* Mendes, N., H. Rakoczy, and J. Call, 2008, “Ape metaphysics: Object individuation without language”, _Cognition_, 106: 703–49.
-* –––, 2011, “Primates do not spontaneously use shape properties for objects individuation: A competence or a performance problem?”, _Animal Cognition_, 14: 407–14.
-* Merricks, Trenton, 1998, “There are no criteria of identity over time”, _Noûs_, 32: 106–24.
-* Mervis, Carolyn B., Roberta Michnick Golinkoff, & Jacquelyn Bertrand, 1994, “Two-year-olds readily learn multiple labels for the same basic-level category”, _Child Development_, 65(4): 1163–1177. doi:10.2307/1131312
-* Millikan, Ruth G., 1998, “A common structure for concepts of individuals, stuffs and basic kinds: More mama, more milk and more mouse”, _Behavioral and Brain Sciences_, 22(1): 55–65. doi: 10.1017/S0140525X98000405
-* Noonan, Harold W., 1993, “Constitution is Identity”, _Mind_, NS 102(405): 133–146.
-* Okasha, S., 2002, “Darwinian metaphysics: Species and the question of essentialism”, _Synthese_, 131(2): 191–213.
-* Pelletier, F. P. (ed.), 1979, _Mass Terms: Some Philosophical Problems. Synthese Library 6_, Dordrecht, The Netherlands: Reidel.
-* –––, 2010, _Kind, Things and Stuff: Mass Terms and Generics. New Directions in Cognitive Science_, Oxford: Oxford University Press.
-* Phillips, W., and L. Santos, 2007, “Evidence of kind representation in the absence of language: Experiments with rhesus monkeys”, _Developmental Science_, 13(4): F1–F7.
-* Phillips, W., M. Shankar, and L. Santos, 2010, “Essentialism in the absence of language? Experiments with rhesus monkeys”, _Cognition_, 102: 455–63.
-* Putnam, Hilary, 1975, “The meaning of ‘meaning’”, in H. Putnam, _Mind, Language and Reality_, Cambridge: Cambridge University Press, pp. 215–271. doi:10.1017/CBO9780511625251.014
-* Quine, W.V.O., 1960, _Word and Object_, Cambridge MA: MIT Press.
-* –––, 1964, “Review of _Reference and Generality_”, _The Philosophical Review_, 73: 100–104.
-* –––, 1966, “On Carnap’s views on ontology”, in _The Ways of Paradox_, New York: Random House, pp. 126–134.
-* –––, 1969, “Speaking of objects”, _Ontological Relativity_, New York: Columbia University Press, pp. 1–25.
-* –––, 1981, “Things and their place in theory”, _Theories and Things_, Cambridge, MA: Harvard University Press, pp. 1–23.
-* Robertson, T., 1998, “Possibilities and the argument of origin essentialism”, _Mind_, 107: 729–49.
-* –––, 2000, “Essentialism: Origin and order”, _Mind_, 108: 299–307.
-* Rosch, Eleanor H., 1973, “Natural categories”, _Cognitive Pyschology_, 4(3): 328–50.
-* Rosch, Eleanor, Carolyn B. Mervis, Wayne D. Gray, David M. Johnson, and Penny Boyes-Braem, 1976, “Basic objects in natural categories”, _Cognitive Psychology_, 8: 382–439B
-* Rybola, Z. and R. Pergl, 2016a, “Towards OntoUML for software engineering: Transformation of Anti-rigid sortal types into relational databases”, in L. Bellatreche, O. Pastor, J.M. Almendros Jiménez, Y. Aït-Ameur (eds.), _Model and Data Engineering. 6th International Conference, MEDI 2016. Almería, Spain. September 21–23, 2016 Proceedings._, Cham, Switzerland: Springer Verlag, pp. 270–280.
-* Rybola, Z. and R. Pergl, 2016b, “Towards OntoUML for software engineering: Introduction to the transformation of OntoUML into relational data bases”, in R. Pergl, M. Molhanec, E. Babkin, S. F. Wamba (eds.), _Enterprise and Organizational Modeling and Simulation. 12th International Workshop, EOMAS 2016. Ljubljana, Slovenia, June 13, 2016. Selected Papers_, Cham, Switzerland: Springer Verlag, pp. 67–83.
-* Salmon, Nathan, 1981, _Reference and Essence_, Princeton: Princeton University Press.
-* –––, 1997, “Wholes, Parts, and Numbers”, _Noûs_, 31: 1–15.
-* Santos, L., G. Sulkowski, G. M. Spaepen, and M.D.Hauser, 2002, “Object individuation using property/kind information in rhesus macaques (Macaca Mulata)”, _Cognition_, 83(3): 241–64.
-* Sarnecki, John E., 2008, “Sortals for dummies”, _Erkenntnis_, 69(2): 145–164. doi:10.1007/s10670-007-9094-6
-* Scholl, Brian J., 2008, “Object persistence in philosophy and psychology”, _Mind & Language_, 22(5): 563–591
-* Sider, Theodore, 1996, “All the World’s a Stage”, _Australasian Journal of Philosophy_, 74: 433–453
-* Snowdon, Paul F., 2009, “On the Sortal Dependency of Individuation Thesis”, Heather Dyke (ed.), _From Truth to Reality_, London: Routledge, pp. 254–271.
-* Soja Nancy N., Susan Carey, and Elizabeth S. Spelke, 1991, “Ontological categories guide young children’s inductions of word meaning: object terms and substance term”, _Cognition_, 38: 179–211.
-* Spelke Elizabeth S., 1990, “Principles of object perception”, _Cognitive Science_, 14(1): 29–56.
-* –––, 1996, “Initial knowledge: six suggestions”, _Cognition_, 50: 431–445.
-* Spinoza, Baruch, 1674, “Letter to Jarig Jellis”, in _The Letters_, Samuel Shirley (trans.), Indianapolls: Hackett, 1995, p. 259.
-* Stevenson, Leslie, 1975, “A formal theory of sortal quantification”, _Notre Dame Journal of Formal Logic_, 16(2): 185–207. doi:10.1305/ndjfl/1093891700
-* Strawson, P.F., 1959, _Individuals_, London: Methuen.
-* –––, 1976, “Entity and identity”, in _Contemporary British Philosophy_, Fourth Series, H. Lewis (ed.), London: George Allen & Unwin. Reprinted in Strawson 1997b: 21–51. doi:10.1093/0198250150.003.0002
+* Ayers, Michael R., 1974, “Individuals without sortals”, *Canadian Journal of Philosophy*, 4(1): 113–148.
+* Baker, Lynne Rudder, 2004, “The Ontology of Artefacts”, *Philosophical Explorations*, 7: 99–112.
+* –––, 2007, *The Metaphysics of Everyday Life*, New York: Cambridge University Press.
+* –––, 2008, “The shrinking difference between artifacts and natural kinds”, Piotr Boltuc (ed), *Newsletter on Philosophy and Computers. American Philosophical Association Newsletters*, 7(2): 1–10.
+* Belnap, Nuel and Thomas Müller, 2014, “CIFOL: Case-Intensional First Order Logic (I) Toward a Theory of Sorts”, *Journal of Philosophical Logic*, 43(2): 393–437. doi:10.1007/s10992-012-9267-x
+* Black, Max, 1952, “The identity of indiscernibles”, *Mind* (New Series), 61(242): 53–64.
+* Bressan, Aldo, 1972, *A general interpreted modal calculus*, New Haven: Yale University Press.
+* Brody, Baruch, 1980, *Essence and Identity*, Princeton: Princeton University Press.
+* Cacchione, T., C. Hrubesch, and J. Call, 2016, “Are apes essentialists? Scope and limits of psychological essentialism in great apes”, *Animal Cognition*, 19(5): 921–37.
+* Carnap, Rudolf, 1950, “Empiricism, semantics and ontology”, *Revue Internationale de Philosophie*, 4: 40–50
+* Carrara, M., and P. Vermass, 2009, “The fine-grained metaphysics of artefactual and biological functional kinds”, *Synthese*, 169: 125–143.
+* Cartwright, Richard, 1987, “On the logical problem of the trinity”, *Philosophical Essays*, Cambridge, MA: MIT Press, pp. 187–200.
+* Cocchiarella, Nino, 1977, “Sortals, natural kinds and re-identification”, *Logique et Analyse*, 20: 438–474.
+* Devitt, M., 2018, “Individual essentialism”, *Biology and Philosophy*, 33: 1–22.
+* Dummett, Michael, 1973, *Frege: Philosophy of Language*, London: Duckworth.
+* Feldman, Fred, 1973, “Sortal predicates”, *Noûs*, 7: 268–82. doi:10.2307/2214351
+* Ferner, A.M., 2016, *Organism and Personal Identity. Biological Individuation and the Work of David Wiggins*, New York: Routledge.
+* Fontanari, Laura, Rosa Rugani, Lucia Regolin, & Giorgio Vallortigara, 2014, “Use of kind information for object individuation in young domestic chicks”, *Animal Cognition*, 17(4): 925–935. doi:10.1007/s10071-013-0725-9
+* Forbes, Graeme, 1985, *The Metaphysics of Modality*, Oxford: Oxford University Press.
+* Frege, Gottlob, 1884, *The Foundations of Arithmetic*, J.L. Austin (trans.), Evanston: Northwestern University Press, 1978.
+* Freund, Max A., 2000, “A complete and consistent formal system for sortals”, *Studia Logica*, 65(3): 367–81.
+* –––, 2001, “A temporal logic for sortals”, *Studia Logica*, 69: 351–80.
+* –––, 2004, “A modal sortal logic”, *Journal of Philosophical Logic*, 33(3): 237–60. doi:10.1023/B:LOGI.0000031381.56344.a9
+* –––, 2019, *The Logic of Sortals. A Conceptualist Approach. Synthese Library 408*, Cham, Switzerland: Springer Verlag.
+* Furth, Montgomery, 1988, *Substance, Form and Psyche: an Aristotelean Metaphysics*, Cambridge: Cambridge University Press.
+* Geach, Peter Thomas, 1962, *Reference and Generality: An Examination of some Medieval and Modern Theories*, Ithaca: Cornell University Press.
+* Gelman, Susan A., 2003, *The Essential Child: Origins of Essentialism in Everyday Thought*, New York: Oxford University Press.
+* –––, 2013, “Artifacts and Essentialism”, *Review of Philosophy and Psychology*, 4(3): 449–63.
+* Griffin, Nicholas, 1977, *Relative Identity*, Oxford: Clarendon Press.
+* Guarino, Nicola, Massimiliano Carrara, & Pierdaniele Giaretta, 1994, “An Ontology of Meta-Level Categories”, in *Principles of Knowledge Representation and Reasoning: Proceedings of the Fourth International Conference* (KR ’94), Jon Doyle, Erik Sandewall, Pietro Torasso (eds.), San Francisco: Morgan Kaufmann, pp. 270–280.
+* Guizzardi,G., and G. Wagner, 2010, “Using the Unified Foundational Ontology (UFO) as foundation for general conceptual modeling languages”, R. Poli, R. Healy, and A. Kameas (eds.), *Theory and Applications of Ontology: Computer Applications*, Dordrecht: Springer Verlag, pp. 175–96.
+* Imai, M., and D. Gentner, 1997, “A cross-linguistic study of early word meaning: Universal ontology and linguistic influence”, *Cognition*, 62: 169–200.
+* Johnston, Mark, 1992, “Constitution Is Not Identity”, *Mind*, NS 101(401): 89–105.
+* Jubien, Michael, 1996, “The myth of identity conditions”, *Philosophical Perspectives*, 10: 34–55. doi:10.2307/2216251
+* Ladyman, J., O. Linnebo, and R. Pettigrew, 2012, “Identity and discernibility in philosophy and logic”, *The Review of Symbolic Logic*, 5(1): 162–86.
+* Laporte, J., 1997, “Essential membership”, *Philosophy of Science*, 64: 96–112.
+* Laycock, Henry, 2011, “Any sum of parts which are water is water”, *Humana Mente. Journal of Philosophical Studies*, 19(1): 41–46.
+* Locke, John, 1975 \[1690], *An Essay Concerning Human Understanding*, P.H. Nidditch (ed.), Oxford: Oxford University Press.
+* Losonsky, M., 1990, “The nature of artefacts”, *Philosophy*, 65: 81–88.
+* Lowe, E.J., 1989, “What is a criterion of identity?”, *The Philosophical Quarterly*, 29: 1–21. doi:10.2307/2220347
+* –––, 1997, “Objects and criteria of identity”, Bob Hale and Crispin Wright (eds.), *A Companion to the Philosophy of Language*, Oxford: Blackwell, 613–33.
+* –––, 2009, *More Kinds of Beings: a Further Study of Individuation, Identity, and the Logic of Sortal Terms*, Sussex: Wiley–Blackwell.
+* Mackie, Penelope, 1994, “Sortal concepts and essential properties”, *The Philosophical Quarterly*, 44: 311–33. doi:10.2307/2219612
+* –––, 2006, *How Things Might Have Been: Individuals, Kinds, and Properties*, Oxford: Oxford University Press.
+* Markman, Ellen M., 1989, *Categorization and naming in children*, Cambridge, MA: MIT Press.
+* Markman, Ellen M., Judith L. Wasow, & Mikkel B. Hansen, 2003, “Use of the mutual exclusivity assumption by young word learners”, *Cognitive Psychology*, 47: 241–275.
+* Mendes, N., H. Rakoczy, and J. Call, 2008, “Ape metaphysics: Object individuation without language”, *Cognition*, 106: 703–49.
+* –––, 2011, “Primates do not spontaneously use shape properties for objects individuation: A competence or a performance problem?”, *Animal Cognition*, 14: 407–14.
+* Merricks, Trenton, 1998, “There are no criteria of identity over time”, *Noûs*, 32: 106–24.
+* Mervis, Carolyn B., Roberta Michnick Golinkoff, & Jacquelyn Bertrand, 1994, “Two-year-olds readily learn multiple labels for the same basic-level category”, *Child Development*, 65(4): 1163–1177. doi:10.2307/1131312
+* Millikan, Ruth G., 1998, “A common structure for concepts of individuals, stuffs and basic kinds: More mama, more milk and more mouse”, *Behavioral and Brain Sciences*, 22(1): 55–65. doi: 10.1017/S0140525X98000405
+* Noonan, Harold W., 1993, “Constitution is Identity”, *Mind*, NS 102(405): 133–146.
+* Okasha, S., 2002, “Darwinian metaphysics: Species and the question of essentialism”, *Synthese*, 131(2): 191–213.
+* Pelletier, F. P. (ed.), 1979, *Mass Terms: Some Philosophical Problems. Synthese Library 6*, Dordrecht, The Netherlands: Reidel.
+* –––, 2010, *Kind, Things and Stuff: Mass Terms and Generics. New Directions in Cognitive Science*, Oxford: Oxford University Press.
+* Phillips, W., and L. Santos, 2007, “Evidence of kind representation in the absence of language: Experiments with rhesus monkeys”, *Developmental Science*, 13(4): F1–F7.
+* Phillips, W., M. Shankar, and L. Santos, 2010, “Essentialism in the absence of language? Experiments with rhesus monkeys”, *Cognition*, 102: 455–63.
+* Putnam, Hilary, 1975, “The meaning of ‘meaning’”, in H. Putnam, *Mind, Language and Reality*, Cambridge: Cambridge University Press, pp. 215–271. doi:10.1017/CBO9780511625251.014
+* Quine, W.V.O., 1960, *Word and Object*, Cambridge MA: MIT Press.
+* –––, 1964, “Review of *Reference and Generality*”, *The Philosophical Review*, 73: 100–104.
+* –––, 1966, “On Carnap’s views on ontology”, in *The Ways of Paradox*, New York: Random House, pp. 126–134.
+* –––, 1969, “Speaking of objects”, *Ontological Relativity*, New York: Columbia University Press, pp. 1–25.
+* –––, 1981, “Things and their place in theory”, *Theories and Things*, Cambridge, MA: Harvard University Press, pp. 1–23.
+* Robertson, T., 1998, “Possibilities and the argument of origin essentialism”, *Mind*, 107: 729–49.
+* –––, 2000, “Essentialism: Origin and order”, *Mind*, 108: 299–307.
+* Rosch, Eleanor H., 1973, “Natural categories”, *Cognitive Pyschology*, 4(3): 328–50.
+* Rosch, Eleanor, Carolyn B. Mervis, Wayne D. Gray, David M. Johnson, and Penny Boyes-Braem, 1976, “Basic objects in natural categories”, *Cognitive Psychology*, 8: 382–439B
+* Rybola, Z. and R. Pergl, 2016a, “Towards OntoUML for software engineering: Transformation of Anti-rigid sortal types into relational databases”, in L. Bellatreche, O. Pastor, J.M. Almendros Jiménez, Y. Aït-Ameur (eds.), *Model and Data Engineering. 6th International Conference, MEDI 2016. Almería, Spain. September 21–23, 2016 Proceedings.*, Cham, Switzerland: Springer Verlag, pp. 270–280.
+* Rybola, Z. and R. Pergl, 2016b, “Towards OntoUML for software engineering: Introduction to the transformation of OntoUML into relational data bases”, in R. Pergl, M. Molhanec, E. Babkin, S. F. Wamba (eds.), *Enterprise and Organizational Modeling and Simulation. 12th International Workshop, EOMAS 2016. Ljubljana, Slovenia, June 13, 2016. Selected Papers*, Cham, Switzerland: Springer Verlag, pp. 67–83.
+* Salmon, Nathan, 1981, *Reference and Essence*, Princeton: Princeton University Press.
+* –––, 1997, “Wholes, Parts, and Numbers”, *Noûs*, 31: 1–15.
+* Santos, L., G. Sulkowski, G. M. Spaepen, and M.D.Hauser, 2002, “Object individuation using property/kind information in rhesus macaques (Macaca Mulata)”, *Cognition*, 83(3): 241–64.
+* Sarnecki, John E., 2008, “Sortals for dummies”, *Erkenntnis*, 69(2): 145–164. doi:10.1007/s10670-007-9094-6
+* Scholl, Brian J., 2008, “Object persistence in philosophy and psychology”, *Mind & Language*, 22(5): 563–591
+* Sider, Theodore, 1996, “All the World’s a Stage”, *Australasian Journal of Philosophy*, 74: 433–453
+* Snowdon, Paul F., 2009, “On the Sortal Dependency of Individuation Thesis”, Heather Dyke (ed.), *From Truth to Reality*, London: Routledge, pp. 254–271.
+* Soja Nancy N., Susan Carey, and Elizabeth S. Spelke, 1991, “Ontological categories guide young children’s inductions of word meaning: object terms and substance term”, *Cognition*, 38: 179–211.
+* Spelke Elizabeth S., 1990, “Principles of object perception”, *Cognitive Science*, 14(1): 29–56.
+* –––, 1996, “Initial knowledge: six suggestions”, *Cognition*, 50: 431–445.
+* Spinoza, Baruch, 1674, “Letter to Jarig Jellis”, in *The Letters*, Samuel Shirley (trans.), Indianapolls: Hackett, 1995, p. 259.
+* Stevenson, Leslie, 1975, “A formal theory of sortal quantification”, *Notre Dame Journal of Formal Logic*, 16(2): 185–207. doi:10.1305/ndjfl/1093891700
+* Strawson, P.F., 1959, *Individuals*, London: Methuen.
+* –––, 1976, “Entity and identity”, in *Contemporary British Philosophy*, Fourth Series, H. Lewis (ed.), London: George Allen & Unwin. Reprinted in Strawson 1997b: 21–51. doi:10.1093/0198250150.003.0002
 * –––, 1997a, “Introduction”, in Strawson 1997b: 1–20. doi:10.1093/0198250150.001.0001
-* –––, 1997b, _Entity and Identity: And Other Essays_, Oxford: Oxford University Press.
-* Wallace, John, 1965, “Sortal predicates and quantification”, _Journal of Philosophy_, 62: 8–13.
-* Wiggins, David, 1967, _Identity and Spatio-temporal continuity_, Oxford: Blackwell.
-* –––, 1980, _Sameness and Substance_, Cambridge MA: Harvard University Press.
-* –––, 2001, _Sameness and Substance Renewed_, Cambridge: Cambridge University Press.
-* –––, 2016, _Continuants. Their Activity, Their Being and Their Identity_, Oxford: Oxford University Press.
-* Wright, Crispin, 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen: Aberdeen University Press.
-* Xu, Fei, 1991, “Count nouns, sortal concepts and the nature of early words”, in _Kinds, things, and stuff: Mass Terms and Generics_ (New Directions in Cognitive Science: Volume 13), F.J. Pelletier (ed.), Oxford: Oxford University Press, pp. 191–206. doi:10.1093/acprof:oso/9780195382891.003.0010
-* –––, 1997, “From Lot’s wife to a pillar of salt: Evidence that _physical object_ is a sortal concept”, _Mind and Language_, 12(3–4): 365–92. doi:10.1111/j.1468-0017.1997.tb00078.x
-* –––, 2002, “The role of language in acquiring object kind concepts in infancy”, _Cognition_, 85: 223–50.
-* Xu, Fei and Susan Carey, 1996, “Infants metaphysics: The case of numerical identity”, _Cognitive Psychology_, 30(2): 111–153. doi: 10.1006/cogp.1996.0005
-* Yoshida, H., and L. Smith, 2003, “Shifting ontological boundaries: How Japanese and English-speaking children generalize names for animals and artifacts”, _Developmental Science_, 6(1):1–34.
-* Zimmerman, Dean W., 1998, “Criteria of identity and the ‘identity mystic’”, _Erkenntnis_, 48(2): 281–301. doi:10.1023/A:1005304508456
+* –––, 1997b, *Entity and Identity: And Other Essays*, Oxford: Oxford University Press.
+* Wallace, John, 1965, “Sortal predicates and quantification”, *Journal of Philosophy*, 62: 8–13.
+* Wiggins, David, 1967, *Identity and Spatio-temporal continuity*, Oxford: Blackwell.
+* –––, 1980, *Sameness and Substance*, Cambridge MA: Harvard University Press.
+* –––, 2001, *Sameness and Substance Renewed*, Cambridge: Cambridge University Press.
+* –––, 2016, *Continuants. Their Activity, Their Being and Their Identity*, Oxford: Oxford University Press.
+* Wright, Crispin, 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
+* Xu, Fei, 1991, “Count nouns, sortal concepts and the nature of early words”, in *Kinds, things, and stuff: Mass Terms and Generics* (New Directions in Cognitive Science: Volume 13), F.J. Pelletier (ed.), Oxford: Oxford University Press, pp. 191–206. doi:10.1093/acprof:oso/9780195382891.003.0010
+* –––, 1997, “From Lot’s wife to a pillar of salt: Evidence that *physical object* is a sortal concept”, *Mind and Language*, 12(3–4): 365–92. doi:10.1111/j.1468-0017.1997.tb00078.x
+* –––, 2002, “The role of language in acquiring object kind concepts in infancy”, *Cognition*, 85: 223–50.
+* Xu, Fei and Susan Carey, 1996, “Infants metaphysics: The case of numerical identity”, *Cognitive Psychology*, 30(2): 111–153. doi: 10.1006/cogp.1996.0005
+* Yoshida, H., and L. Smith, 2003, “Shifting ontological boundaries: How Japanese and English-speaking children generalize names for animals and artifacts”, *Developmental Science*, 6(1):1–34.
+* Zimmerman, Dean W., 1998, “Criteria of identity and the ‘identity mystic’”, *Erkenntnis*, 48(2): 281–301. doi:10.1023/A:1005304508456
 
 ## Academic Tools
 
@@ -434,4 +434,4 @@ Belnap 和 Müller 在时态和情态的非标准形式逻辑中开发了一种�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Richard E. Grandy](http://www.ruf.rice.edu/\~rgrandy/)\
-Max A. Freund <[_mfreundcr@gmail.com_](mailto:mfreundcr%40gmail%2ecom)>
+Max A. Freund <[*mfreundcr@gmail.com*](mailto:mfreundcr%40gmail%2ecom)>

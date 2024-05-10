@@ -291,7 +291,6 @@ References to *Situations* will be abbreviated as *Sit.* followed by the vol
   
 * 1990, *Écrits de jeunesse*, Michel Contat and Michel Rybalka (eds), Paris: Gallimard.
   
-
 #### A.2 Works by others
 
 * Astruc, Alexandre and Michel Contat (directors), 1978, *Sartre by Himself: A Film Directed by Alexandre Astruc and Michel Contat with the Participation of Simone de Beauvoir, Jacques-Larent Bost, Andre Gorz, Jean Pouillon*, transcription of film, Richard Seaver (trans.), New York: Urizen Books.

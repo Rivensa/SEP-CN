@@ -1,6 +1,6 @@
 # 证明论语义 proof-theoretic (Peter Schroeder-Heister)
 
-_首次发表于 2012 年 12 月 5 日星期三；实质性修订于 2023 年 8 月 18 日星期五_
+*首次发表于 2012 年 12 月 5 日星期三；实质性修订于 2023 年 8 月 18 日星期五*
 
 证明论语义是真值条件语义的一种替代方案。它基于这样一个基本假设：赋予我们语言中某些表达式，特别是逻辑常量，意义的核心概念是证明而不是真理。从这个意义上说，证明论语义是以证明为基础的语义。证明论语义还意味着证明的语义，即描述我们在给定某些假设的情况下如何得出某些断言的实体的语义。证明论语义的这两个方面可以相互交织，即证明的语义本身通常是以证明的形式给出的。
 
@@ -280,7 +280,7 @@ Došen 能够给出包括模态逻辑系统在内的特征描述。他明确将�
 
 进一步阅读：
 
-_Further Reading:_
+*Further Reading:*
 
 对于普劳维茨的完备性猜想，请参阅《证明论有效性示例补充》。
 
@@ -334,7 +334,7 @@ Gentzen 的序列演算展示了右侧和左侧引入规则之间的对称性，
 
 允许在推导 A 的过程中进行消除，这个规则破坏了子公式原则。此外，在包含和的情况下，它在一个规则中引用了两个不同的逻辑常量，因此不再有逻辑常量的分离。最后，作为一个消除规则，它不遵循引入和消除的一般模式。因此，它破坏了引入形式属性，即每个封闭的推导都可以简化为在最后一步使用引入规则的推导。
 
-In allowing to discharge in order to infer _A_, this rule undermines the _subformula principle_. Furthermore, in containing both and , it refers to two different logical constants in a single rule, so there is no _separation_ of logical constants any more. Finally, as an elimination rule for it does not follow the general pattern of introductions and eliminations. As a consequence, it destroys the _introduction form property_ that every closed derivation can be reduced to one which uses an introduction rule in the last step.
+In allowing to discharge in order to infer *A*, this rule undermines the *subformula principle*. Furthermore, in containing both and , it refers to two different logical constants in a single rule, so there is no *separation* of logical constants any more. Finally, as an elimination rule for it does not follow the general pattern of introductions and eliminations. As a consequence, it destroys the *introduction form property* that every closed derivation can be reduced to one which uses an introduction rule in the last step.
 
 经典逻辑非常适用于多后继序列演算。在这里，我们不需要任何额外的原则，只需接受直觉主义情况下的结构特征，即允许在后继中包含多个公式，就足以得到经典逻辑。在后继演算中，有一些合理的方法可以建立右引入和左引入之间的和谐（见第 3.3 节），这使得经典逻辑看起来完全合理。然而，只有在推理被适当地构建为多个结论的过程时，这才是令人信服的，尽管这与我们关注单个结论的标准做法不符。我们可以尝试通过论证，认为朝着多个结论推理描绘了真理所在的领域，而不是建立一个单一命题为真。然而，这种直觉很难维持，并且在没有严重困难的情况下无法形式化捕捉。Shoesmith 和 Smiley（1978）等哲学方法以及证明论方法，如证明网（参见 Girard，1987；线性逻辑条目），都是朝着这个方向的尝试。
 
@@ -380,7 +380,7 @@ In allowing to discharge in order to infer _A_, this rule undermines the _subfor
 
 从证明论语义的角度来看，Ekman 悖论是一个特别有趣的悖论。它是在极简命题逻辑中编码蒙太古悖论的蕴涵变体所导致的。事实证明，根据如何定义绕行推导的简化，极简命题逻辑中的某些推导是不可规范化的。这对于证明简化的概念投下了强烈的光，证明简化在自然演绎风格的证明论语义中是绝对必要的：很多事情取决于它的精确定义。实际上，证明简化的概念构成了证明身份的概念，并且超出了“证明中的绕行”被移除的外延思想。
 
-_进一步阅读_
+*进一步阅读*
 
 对于罗素悖论的一般情况，请参阅有关罗素悖论的条目。
 
@@ -390,7 +390,7 @@ _进一步阅读_
 
 虽然演绎是向前导向的，通过合理的规则从已经建立的句子到进一步的句子，而还原则是向后进行，试图为给定的主张找到一个论证。因此，它属于证明搜索的范畴。在计算机科学中，已经发现并讨论了各种证明搜索的方法：解析和表格系统是著名的例子。然而，从语义学的角度来看，还原方法并不是演绎的概念次要，而是自成体系的理论。甚至可以说，从语义学的角度来看，还原方法是主要的，因为寻找论证或寻找论证的可能方式构成了给定主张的含义。这个想法已经在对话或博弈论语义学中得到采纳，但应该并且应该在证明论语义学中普遍采用。这是证明论语义学的一个重要愿望，迄今为止，它主要基于演绎而不是还原。
 
-_进一步阅读_
+*进一步阅读*
 
 有关还原逻辑及其语义的想法，请参阅 David Pym 和 Eike Ritter（2004）的专著。
 
@@ -402,7 +402,7 @@ _进一步阅读_
 
 一旦将证明论语义置于序列演算的框架中，从而关注假设性而非范畴性的主张，被称为“次结构逻辑”的受限结构规则的逻辑领域需要语义考虑。在这里，假设在言论中的引入和保留方式代表了比自然推理中的假设更加细粒度的结构，自然推理中的假设通常被认为是一组陈述。由于可以以类似的方式构造序列的后继，证明论语义失去了直觉主义偏见，而不一定变得经典。在次结构逻辑的框架内，可以轻松地建模非常规逻辑系统，如相关逻辑或资源敏感逻辑。一个特别有趣的主题是束缚蕴涵的逻辑，它区分了不同但共存的假设和结论的结构方式（参见 Pym，2002）。次结构逻辑作为一种描述逻辑系统的通用工具在一个统一的结构框架内得到了很好的建立。次结构逻辑是否本身代表了一个语义框架，仍然是一个悬而未决的问题。
 
-_进一步阅读_
+*进一步阅读*
 
 有关次结构逻辑的一般信息，请参阅次结构逻辑条目。
 
@@ -410,144 +410,144 @@ _进一步阅读_
 
 标准证明论语义几乎完全专注于逻辑常量。逻辑常量在推理和推断中起着核心作用，但绝对不是唯一的，甚至可能不是最典型的可以通过推理定义的实体类型。需要一个框架来处理更广义的推理定义，并涵盖逻辑和非逻辑的推理定义。关于任意定义规则的定义反射的思想（见第 2.3.2 节）和自然语言应用（见第 3.4 节）指向这个方向，但也可以想象更深远的概念。此外，对和谐性、倒置原则、定义反射等的集中关注有些误导性，因为这可能暗示了证明论语义仅由这些构成。需要强调的是，即使在算术方面，除了倒置原则之外，还需要更强的原则。然而，尽管存在这些限制，证明论语义已经取得了与更广泛的语义方法相竞争的非常重要的成就。
 
-_进一步阅读_
+*进一步阅读*
 
 对于证明论语义各个方面的贡献，请参阅 Piecha 和 Wehmeier 编辑的读者（2024 年，开放获取）。
 
 ## Bibliography
 
-* Aczel, Peter (1977). “An Introduction to Inductive Definitions”, in _Handbook of Mathematical Logic_, John Barwise (ed.), Amsterdam: North-Holland, pp. 739–782.
-* Ayhan, Sara (2021). “What is the Meaning of Proofs? A Fregean Distinction in Proof-Theoretic Semantics”, _Journal of Philosophical Logic_, 50: 571–591. doi:10.1007/s10992-020-09577-2.
-* Ayhan, Sara, ed. (2023). _Bilateralism and Proof-Theoretic Semantics_, Special Issue of _Bulletin of the Section of Logic_: 52.
-* Beall, J.C. and Greg Restall (2006). _Logical Pluralism_, Oxford: Oxford University Press.
-* Belnap, Nuel D. (1982). “Display Logic”, _Journal of Philosophical Logic_, 11: 375–417. doi:10.1007/BF00284976
-* Binder, David, Thomas Piecha, and Peter Schroeder-Heister, eds. (2022). _The Logical Writings of Karl Popper_, Berlin: Springer. doi:10.1007/978-3-030-94926-6
-* Binder, David, Thomas Piecha, and Peter Schroeder-Heister (2022). “Popper’s theory of deductive logic”, _The Logical Writings of Karl Popper_, David Binder et al., eds., Berlin: Springer, 1–79. doi:10.1007/978-3-030-94926-6\_1
-* Brandom, Robert B. (1994). _Making It Explicit: Reasoning, Representing, and Discursive Commitment_, Cambridge, MA: Harvard University Press.
-* ––– (2000). _Articulating Reasons: An Introduction to Inferentialism_, Cambridge, MA: Harvard University Press.
-* Carrara, Massimiliano, Daniele Chiffi and Ciro De Florio, eds. (2017). _Logical Investigations on Assertion and Denial_, Special Issue of _Journal of Applied Logic_, 25, Supplement: S1–S122. doi:10.1016/j.jal.2017.11.003
-* de Campos Sanz, Wagner and Thomas Piecha (2009). “Inversion by Definitional Reflection and the Admissibility of Logical Rules”, _Review of Symbolic Logic_, 2: 550–569. doi:10.1017/S1755020309990165
-* de Groote, Philippe, ed. (1995). _The Curry-Howard Isomorphism_, Volume 8 of _Cahiers du Centre de Logique_, Academia-Bruyland.
-* Došen, Kosta (1980). _Logical Constants: An Essay in Proof Theory_, D. Phil. Thesis, Oxford University.
-* ––– (1989). “Logical Constants as Punctuation Marks”, _Notre Dame Journal of Formal Logic_, 30: 362–381. doi:10.1305/ndjfl/1093635154
-* ––– (1997). “Logical Consequence: A Turn in Style”, in: Dalla Chiara,M.L., K. Doets, D. Mundici, J. van Benthem (eds.), _Logic and Scientific Methods: Volume One of the Tenth International Congress of Logic, Methodology and Philosophy of Science, Florence, August 1995_, Dordrecht: Kluwer, 289–311.
-* ––– (2000). _Cut Elimination in Categories_, Berlin: Springer.
-* ––– (2003). “Identity of proofs based on normalization and generality”, _Bulletin of Symbolic Logic_, 9: 477–503. doi:10.2178/bsl/1067620091
+* Aczel, Peter (1977). “An Introduction to Inductive Definitions”, in *Handbook of Mathematical Logic*, John Barwise (ed.), Amsterdam: North-Holland, pp. 739–782.
+* Ayhan, Sara (2021). “What is the Meaning of Proofs? A Fregean Distinction in Proof-Theoretic Semantics”, *Journal of Philosophical Logic*, 50: 571–591. doi:10.1007/s10992-020-09577-2.
+* Ayhan, Sara, ed. (2023). *Bilateralism and Proof-Theoretic Semantics*, Special Issue of *Bulletin of the Section of Logic*: 52.
+* Beall, J.C. and Greg Restall (2006). *Logical Pluralism*, Oxford: Oxford University Press.
+* Belnap, Nuel D. (1982). “Display Logic”, *Journal of Philosophical Logic*, 11: 375–417. doi:10.1007/BF00284976
+* Binder, David, Thomas Piecha, and Peter Schroeder-Heister, eds. (2022). *The Logical Writings of Karl Popper*, Berlin: Springer. doi:10.1007/978-3-030-94926-6
+* Binder, David, Thomas Piecha, and Peter Schroeder-Heister (2022). “Popper’s theory of deductive logic”, *The Logical Writings of Karl Popper*, David Binder et al., eds., Berlin: Springer, 1–79. doi:10.1007/978-3-030-94926-6\_1
+* Brandom, Robert B. (1994). *Making It Explicit: Reasoning, Representing, and Discursive Commitment*, Cambridge, MA: Harvard University Press.
+* ––– (2000). *Articulating Reasons: An Introduction to Inferentialism*, Cambridge, MA: Harvard University Press.
+* Carrara, Massimiliano, Daniele Chiffi and Ciro De Florio, eds. (2017). *Logical Investigations on Assertion and Denial*, Special Issue of *Journal of Applied Logic*, 25, Supplement: S1–S122. doi:10.1016/j.jal.2017.11.003
+* de Campos Sanz, Wagner and Thomas Piecha (2009). “Inversion by Definitional Reflection and the Admissibility of Logical Rules”, *Review of Symbolic Logic*, 2: 550–569. doi:10.1017/S1755020309990165
+* de Groote, Philippe, ed. (1995). *The Curry-Howard Isomorphism*, Volume 8 of *Cahiers du Centre de Logique*, Academia-Bruyland.
+* Došen, Kosta (1980). *Logical Constants: An Essay in Proof Theory*, D. Phil. Thesis, Oxford University.
+* ––– (1989). “Logical Constants as Punctuation Marks”, *Notre Dame Journal of Formal Logic*, 30: 362–381. doi:10.1305/ndjfl/1093635154
+* ––– (1997). “Logical Consequence: A Turn in Style”, in: Dalla Chiara,M.L., K. Doets, D. Mundici, J. van Benthem (eds.), *Logic and Scientific Methods: Volume One of the Tenth International Congress of Logic, Methodology and Philosophy of Science, Florence, August 1995*, Dordrecht: Kluwer, 289–311.
+* ––– (2000). *Cut Elimination in Categories*, Berlin: Springer.
+* ––– (2003). “Identity of proofs based on normalization and generality”, *Bulletin of Symbolic Logic*, 9: 477–503. doi:10.2178/bsl/1067620091
 * ––– (2006). “Models of deduction”, in: Kahle and Schroeder-Heister, eds. (2006), pp. 639–657. doi:10.1007/s11229-004-6290-7
 * ––– (2016). “On the paths of categories”, in: Piecha and Schroeder-Heister, eds. (2016b), pp. 65–77. doi:10.1007/978-3-319-22686-6\_4
-* ––– and Zoran Petrić (2004). _Proof-Theoretical Coherence_, London: College Publications.
-* Drobyshevich, Sergey (2021). “Tarskian Consequence Relations Bilaterally: Some Familiar Notions”. _Synthese_, 198 (Suppl 22): S5213-S5240. doi:10.1007/s11229-019-02267-w.
-* Dummett, Michael (1973). _Frege: Philosophy of Language_, London: Duckworth.
-* ––– (1975). “The Philosophical Basis of Intuitionistic Logic”, in: H.E. Rose and J.C. Shepherdson (eds.), _Proceedings of the Logic Colloquium ’73_, _Studies in Logic and the Foundations of Mathematics_, 80: 5–40. doi:10.1016/S0049-237X(08)71941-4
-* ––– (1991). _The Logical Basis of Metaphysics_, London: Duckworth.
-* Francez, Nissim (2015). _Proof-theoretic Semantics_, London: College Publications.
-* ––– (2022). “Proof-Theoretic Semantics as a Resource for Expressing Semantic Variability”, _Synthese_ 200, article 294. doi:10.1007/s11229-022-03780-1
-* ––– and Gilad Ben-Avi (2015). “A proof-theoretic reconstruction of generalized quantifiers”, _Journal of Semantics_, 32: 313–371. doi:10.1093/jos/ffu001
-* ––– and Roy Dyckhoff (2010). “Proof-theoretic Semantics for a Natural Language Fragment”, _Linguistics and Philosophy_, 33: 447–477. doi:10.1007/s10988-011-9088-3
-* –––, Roy Dyckhoff, and Gilad Ben-Avi (2010). “Proof-Theoretic Semantics for Subsentential Phrases”, _Studia Logica_, 94: 381–401. doi:10.1007/s11225-010-9241-y
-* Gentzen, Gerhard (1934/35). “Untersuchungen über das logische Schließen”, _Mathematische Zeitschrift_, 39: 176–210, 405–431; English translation in _The Collected Papers of Gerhard Gentzen_, M. E. Szabo (ed.), Amsterdam: North Holland, 1969, pp. 68–131. doi:10.1007/BF01201353
-* Girard, Jean-Yves (1987). “Linear Logic”, _Theoretical Computer Science_, 50: 1–102. doi:10.1016/0304-3975(87)90045-4
-* Goldfarb, Warren (2016). “On Dummett’s proof-theoretic justifications of logical laws´”, _Advances in Proof-theoretic Semantics_, Thomas Piecha and Peter Schroeder-Heister, eds., Berlin: Springer, pp. 195–210. doi:10.1007/978-3-319-22686-6\_13
-* Hacking, Ian (1979). “What is Logic?”, _Journal of Philosophy_, 76: 285–319. doi:10.2307/2025471
-* Hallnäs, Lars (1991). “Partial Inductive Definitions”, _Theoretical Computer Science_, 87: 115–142. doi:10.1016/S0304-3975(06)80007-1
-* ––– (2006). “On the proof-theoretic foundation of general definition theory”, _Synthese_, 148: 589–602. doi:10.1007/s11229-004-6291-6
-* Hallnäs, Lars and Peter Schroeder-Heister (1990/91). “A proof-theoretic approach to logic programming: I. Clauses as rules. II. Programs as definitions”, _Journal of Logic and Computation_, 1: 261–283, 635–660. doi:10.1093/logcom/1.2.261 , doi:10.1093/logcom/1.5.635
-* Harper, Robert, Furio Honsell, and Gordon Plotkin (1987). “A Framework for Defining Logics”, _Journal of the Association for Computing Machinery_, 40: 194–204. doi:10.1145/138027.138060
-* Jaśkowski, Stanisław (1934). “On the Rules of Suppositions in Formal Logic”, _Studia Logica_, 1: 5–32 (reprinted in S. McCall (ed.), _Polish Logic 1920–1939_, Oxford 1967, pp. 232–258.
-* Jäger, Gerhard and Robert F. Stärk (1998). “A Proof-Theoretic Framework for Logic Programming”, _Handbook of Proof Theory_, Samuel R. Buss (ed.), Amsterdam: Elsevier, pp. 639–682.
-* Kahle, Reinhard and Peter Schroeder-Heister, eds. (2006). _Proof-Theoretic Semantics_, Special issue of _Synthese_, Volume 148. doi:10.1007/s11229-004-6292-5
-* Kapsner, Andreas (2014). _Logics and Falsifications: A New Perspective on Constructivist Semantics_, Berlin: Springer.
-* Kneale, William (1956). “The Province of Logic”, _Contemporary British Philosophy_, H. D. Lewis (ed.), London: Allen and Unwin, pp. 237–261.
-* Koslow, Arnold (1992). _A Structuralist Theory of Logic_, Cambridge: Cambridge University Press.
-* Kreisel, Georg (1971). “A Survey of Proof Theory II”, _Proceedings of the Second Scandinavian Logic Symposium_, J. E. Renstad (ed.), Amsterdam: North-Holland, pp. 109–170. doi:10.1016/S0049-237X(08)70845-0
-* Kreuger, Per (1994). “Axioms in Definitional Calculi”, _Extensions of Logic Programming_: _Proceedings of the 4th International Workshop, ELP’93, St. Andrews, U.K., March/April 1993_ (Lecture Notes in Computer Science, Voluem 798), Roy Dyckhoff (ed.), Berlin: Springer, pp. 196–205. doi:10.1007/3-540-58025-5\_57
-* Kürbis, Nils (2016). “Some Comments on Ian Rumfitt’s Bilateralism”, _Journal of Philosophical Logic_ 45:623–644. doi:10.1007/s10992-016-9395-9
-* ––– (2019). _Proof and Falisity: A Logical Investigation_, Cambridge University Press.
-* Lambek, J. and P.J. Scott (1986). _Introduction to Higher Order Categorical Logic_, Cambridge: Cambridge University Press.
-* Liang, Chuck and Dale Miller (2009). “Focusing and Polarization in Linear, Intuitionistic, and Classical Logics”. _Theoretical Computer Science_, 410(46): 4747–4768. doi:10.1016/j.tcs.2009.07.041
-* ––– (2024). “Focusing Gentzen’s LK Proof System”, _Peter Schroeder-Heister on Proof-Theoretic Semantics_, T. Piecha and K. F. Wehmeier, eds. Berlin: Springer, pp. 275-313. doi:10.1007/978-3-031-50981-0\_9
-* Lorenzen, Paul (1955). _Einführung in die operative Logik und Mathematik_, Berlin: Springer; 2nd edition, 1969.
-* Mancosu, Paolo, Sergio Galvan and Richard Zach (2021). _An Introduction to Proof Theory: Normalization, Cut-Elimination, and Consistency Proofs_, Oxford University Press.
-* Martin-Löf, Per (1971). “Hauptsatz for the intuitionistic theory of iterated inductive definitions”, _Proceedings of the Second Scandinavian Logic Symposium_, J. E. Fenstad (ed.), Amsterdam: North-Holland, pp. 179–216. doi:10.1016/S0049-237X(08)70847-4
-* ––– (1984). _Intuitionistic Type Theory_, Napoli: Bibliopolis.
-* ––– (1995). “Verificationism Then and Now”, _The Foundational Debate: Complexity and Constructivity in Mathematics and Physics_, Werner DePauli-Schimanovich, Eckehart Köhler, and Friedrich Stadler (eds.), Dordrecht: Kluwer, pp. 187–196.
-* ––– (1998). “Truth and Knowability: On the Principles C and K of Michael Dummett”, _Truth in Mathematics_, Harold G. Dales and Gianluigi Oliveri (eds.), Oxford: Clarendon Press, pp. 105–114.
-* ––– (2019). “Logic and Ethics”. _Proof-Theoretic Semantics: Assessment and Future Perspectives. Proceedings of the Third Tübingen Conference on Proof-Theoretic Semantics, March 2019_, T. Piecha and P. Schroeder-Heister (eds.), University of Tübingen, pp. 227–235 (transcript of lecture). doi:10.15496/publikation-35319
-* Negri, Sara and Jan von Plato (2001). _Structural Proof Theory_, Cambridge University Press.
-* Nelson, David (1949). “Constructible Falsity”, _Journal of Symbolic Logic_, 14: 16–26. doi:10.2307/2268973
-* Odintsov, Sergei P. (2008). _Constructive Negations and Paraconsistency_, Berlin: Springer.
-* Parigot, Michel (1992). “-Calculus: An Algorithmic Interpretation of Classical Natural Deduction”. _Logic Programming and Automated Reasoning_, A. Voronkov (ed.), Berlin: Springer, pp. 190–201. doi:10.1007/BFb0013061
-* Piccolomini d’Aragona, Antonio (2023). _Prawitz_’_s Epistemic Grounding. An Investigation into the Power of Deduction_, Berlin, Springer 2023.
+* ––– and Zoran Petrić (2004). *Proof-Theoretical Coherence*, London: College Publications.
+* Drobyshevich, Sergey (2021). “Tarskian Consequence Relations Bilaterally: Some Familiar Notions”. *Synthese*, 198 (Suppl 22): S5213-S5240. doi:10.1007/s11229-019-02267-w.
+* Dummett, Michael (1973). *Frege: Philosophy of Language*, London: Duckworth.
+* ––– (1975). “The Philosophical Basis of Intuitionistic Logic”, in: H.E. Rose and J.C. Shepherdson (eds.), *Proceedings of the Logic Colloquium ’73*, *Studies in Logic and the Foundations of Mathematics*, 80: 5–40. doi:10.1016/S0049-237X(08)71941-4
+* ––– (1991). *The Logical Basis of Metaphysics*, London: Duckworth.
+* Francez, Nissim (2015). *Proof-theoretic Semantics*, London: College Publications.
+* ––– (2022). “Proof-Theoretic Semantics as a Resource for Expressing Semantic Variability”, *Synthese* 200, article 294. doi:10.1007/s11229-022-03780-1
+* ––– and Gilad Ben-Avi (2015). “A proof-theoretic reconstruction of generalized quantifiers”, *Journal of Semantics*, 32: 313–371. doi:10.1093/jos/ffu001
+* ––– and Roy Dyckhoff (2010). “Proof-theoretic Semantics for a Natural Language Fragment”, *Linguistics and Philosophy*, 33: 447–477. doi:10.1007/s10988-011-9088-3
+* –––, Roy Dyckhoff, and Gilad Ben-Avi (2010). “Proof-Theoretic Semantics for Subsentential Phrases”, *Studia Logica*, 94: 381–401. doi:10.1007/s11225-010-9241-y
+* Gentzen, Gerhard (1934/35). “Untersuchungen über das logische Schließen”, *Mathematische Zeitschrift*, 39: 176–210, 405–431; English translation in *The Collected Papers of Gerhard Gentzen*, M. E. Szabo (ed.), Amsterdam: North Holland, 1969, pp. 68–131. doi:10.1007/BF01201353
+* Girard, Jean-Yves (1987). “Linear Logic”, *Theoretical Computer Science*, 50: 1–102. doi:10.1016/0304-3975(87)90045-4
+* Goldfarb, Warren (2016). “On Dummett’s proof-theoretic justifications of logical laws´”, *Advances in Proof-theoretic Semantics*, Thomas Piecha and Peter Schroeder-Heister, eds., Berlin: Springer, pp. 195–210. doi:10.1007/978-3-319-22686-6\_13
+* Hacking, Ian (1979). “What is Logic?”, *Journal of Philosophy*, 76: 285–319. doi:10.2307/2025471
+* Hallnäs, Lars (1991). “Partial Inductive Definitions”, *Theoretical Computer Science*, 87: 115–142. doi:10.1016/S0304-3975(06)80007-1
+* ––– (2006). “On the proof-theoretic foundation of general definition theory”, *Synthese*, 148: 589–602. doi:10.1007/s11229-004-6291-6
+* Hallnäs, Lars and Peter Schroeder-Heister (1990/91). “A proof-theoretic approach to logic programming: I. Clauses as rules. II. Programs as definitions”, *Journal of Logic and Computation*, 1: 261–283, 635–660. doi:10.1093/logcom/1.2.261 , doi:10.1093/logcom/1.5.635
+* Harper, Robert, Furio Honsell, and Gordon Plotkin (1987). “A Framework for Defining Logics”, *Journal of the Association for Computing Machinery*, 40: 194–204. doi:10.1145/138027.138060
+* Jaśkowski, Stanisław (1934). “On the Rules of Suppositions in Formal Logic”, *Studia Logica*, 1: 5–32 (reprinted in S. McCall (ed.), *Polish Logic 1920–1939*, Oxford 1967, pp. 232–258.
+* Jäger, Gerhard and Robert F. Stärk (1998). “A Proof-Theoretic Framework for Logic Programming”, *Handbook of Proof Theory*, Samuel R. Buss (ed.), Amsterdam: Elsevier, pp. 639–682.
+* Kahle, Reinhard and Peter Schroeder-Heister, eds. (2006). *Proof-Theoretic Semantics*, Special issue of *Synthese*, Volume 148. doi:10.1007/s11229-004-6292-5
+* Kapsner, Andreas (2014). *Logics and Falsifications: A New Perspective on Constructivist Semantics*, Berlin: Springer.
+* Kneale, William (1956). “The Province of Logic”, *Contemporary British Philosophy*, H. D. Lewis (ed.), London: Allen and Unwin, pp. 237–261.
+* Koslow, Arnold (1992). *A Structuralist Theory of Logic*, Cambridge: Cambridge University Press.
+* Kreisel, Georg (1971). “A Survey of Proof Theory II”, *Proceedings of the Second Scandinavian Logic Symposium*, J. E. Renstad (ed.), Amsterdam: North-Holland, pp. 109–170. doi:10.1016/S0049-237X(08)70845-0
+* Kreuger, Per (1994). “Axioms in Definitional Calculi”, *Extensions of Logic Programming*: *Proceedings of the 4th International Workshop, ELP’93, St. Andrews, U.K., March/April 1993* (Lecture Notes in Computer Science, Voluem 798), Roy Dyckhoff (ed.), Berlin: Springer, pp. 196–205. doi:10.1007/3-540-58025-5\_57
+* Kürbis, Nils (2016). “Some Comments on Ian Rumfitt’s Bilateralism”, *Journal of Philosophical Logic* 45:623–644. doi:10.1007/s10992-016-9395-9
+* ––– (2019). *Proof and Falisity: A Logical Investigation*, Cambridge University Press.
+* Lambek, J. and P.J. Scott (1986). *Introduction to Higher Order Categorical Logic*, Cambridge: Cambridge University Press.
+* Liang, Chuck and Dale Miller (2009). “Focusing and Polarization in Linear, Intuitionistic, and Classical Logics”. *Theoretical Computer Science*, 410(46): 4747–4768. doi:10.1016/j.tcs.2009.07.041
+* ––– (2024). “Focusing Gentzen’s LK Proof System”, *Peter Schroeder-Heister on Proof-Theoretic Semantics*, T. Piecha and K. F. Wehmeier, eds. Berlin: Springer, pp. 275-313. doi:10.1007/978-3-031-50981-0\_9
+* Lorenzen, Paul (1955). *Einführung in die operative Logik und Mathematik*, Berlin: Springer; 2nd edition, 1969.
+* Mancosu, Paolo, Sergio Galvan and Richard Zach (2021). *An Introduction to Proof Theory: Normalization, Cut-Elimination, and Consistency Proofs*, Oxford University Press.
+* Martin-Löf, Per (1971). “Hauptsatz for the intuitionistic theory of iterated inductive definitions”, *Proceedings of the Second Scandinavian Logic Symposium*, J. E. Fenstad (ed.), Amsterdam: North-Holland, pp. 179–216. doi:10.1016/S0049-237X(08)70847-4
+* ––– (1984). *Intuitionistic Type Theory*, Napoli: Bibliopolis.
+* ––– (1995). “Verificationism Then and Now”, *The Foundational Debate: Complexity and Constructivity in Mathematics and Physics*, Werner DePauli-Schimanovich, Eckehart Köhler, and Friedrich Stadler (eds.), Dordrecht: Kluwer, pp. 187–196.
+* ––– (1998). “Truth and Knowability: On the Principles C and K of Michael Dummett”, *Truth in Mathematics*, Harold G. Dales and Gianluigi Oliveri (eds.), Oxford: Clarendon Press, pp. 105–114.
+* ––– (2019). “Logic and Ethics”. *Proof-Theoretic Semantics: Assessment and Future Perspectives. Proceedings of the Third Tübingen Conference on Proof-Theoretic Semantics, March 2019*, T. Piecha and P. Schroeder-Heister (eds.), University of Tübingen, pp. 227–235 (transcript of lecture). doi:10.15496/publikation-35319
+* Negri, Sara and Jan von Plato (2001). *Structural Proof Theory*, Cambridge University Press.
+* Nelson, David (1949). “Constructible Falsity”, *Journal of Symbolic Logic*, 14: 16–26. doi:10.2307/2268973
+* Odintsov, Sergei P. (2008). *Constructive Negations and Paraconsistency*, Berlin: Springer.
+* Parigot, Michel (1992). “-Calculus: An Algorithmic Interpretation of Classical Natural Deduction”. *Logic Programming and Automated Reasoning*, A. Voronkov (ed.), Berlin: Springer, pp. 190–201. doi:10.1007/BFb0013061
+* Piccolomini d’Aragona, Antonio (2023). *Prawitz*’*s Epistemic Grounding. An Investigation into the Power of Deduction*, Berlin, Springer 2023.
 * Piecha, Thomas (2016). “Completeness in Proof-Theoretic Semantics”. In: Piecha and Schroeder-Heister, eds. (2016b), pp. 231–251. doi:10.1007/978-3-319-22686-6\_15
 * ––– (2023). “Karl Popper on deduction”, Perspectives on Deduction, Antonio Piccolomini d’Aragona (ed.), Berlin: Springer.
-* –––, Wagner de Campos Sanz and Peter Schroeder-Heister (2015). “Failure of Completeness in Proof-Theoretic Semantics”, _Journal of Philosophical Logic_, 44: 321–335. doi:10.1007/s10992-014-9322-x
-* ––– and Peter Schroeder-Heister (2016a). “Atomic Systems in Proof-Theoretic Semantics: Two Approaches”, in: Redmond, J., O. P. Martins, Á.N. Fernández _Epistemology, Knowledge and the Impact of Interaction_, Cham: Springer, pp. 47–62. doi:10.1007/978-3-319-26506-3\_2
-* ––– and Peter Schroeder-Heister, eds. (2016b). _Advances in Proof-Theoretic Semantics_, Cham: Springer (Open Access). doi:10.1007/978-3-319-22686-6
-* ––– and Peter Schroeder-Heister (2019). “Incompleteness of Intuitionistic Propositional Logic with Respect to Proof-Theoretic Semantics”, _Studia Logica_, 107: 233–246. doi:10.1007/s11225-018-9823-7
-* ––– and Kai Wehmeier, eds. (2024). _Peter Schroeder-Heister on Proof-Theoretic Semantics_, Berlin: Springer. doi:10.1007/978-3-031-50981-0
-* Pimentel, Elaine, Luiz Carlos Pereira, and Valeria de Paiva (2019). “An Ecumenical Notion of Entailment”, _Synthese_ 198 (S22): 5391–5413. doi:10.1007/s11229-019-02226-5
-* Popper, Karl Raimund (1947a). “Logic without Assumptions”, _Proceedings of the Aristotelian Society_, 47: 251–292. Reprinted in Binder et al., eds. (2022). doi:10.1007/978-3-030-94926-6\_2
-* ––– (1947b). “New Foundations for Logic”, _Mind_, 56: 193–235; corrections, _Mind_, 57: 69–70. Reprinted in Binder et al., eds (2022). doi:10.1007/978-3-030-94926-6\_3
-* Prawitz, Dag (1965). _Natural Deduction: A Proof-Theoretical Study_, Stockholm: Almqvist & Wiksell; reprinted Mineola, NY: Dover Publications, 2006.
-* ––– (1971). “Ideas and Results in Proof Theory”, _Proceedings of the Second Scandinavian Logic Symposium_ (Oslo 1970), Jens E. Fenstad (ed.), Amsterdam: North-Holland, pp. 235–308. doi:10.1016/S0049-237X(08)70849-8
-* ––– (1972). “The Philosophical Position of Proof Theory”, _Contemporary Philosophy in Scandinavia_, R. E. Olson and A. M. Paul (eds.), Baltimore, London: John Hopkins Press, pp. 123–134.
-* ––– (1973). “Towards a Foundation of a General Proof Theory”, _Logic, Methodology and Philosophy of Science IV_, Patrick Suppes, et al. (eds.), Amsterdam: North-Holland, pp. 225–250.
-* ––– (1974). “On the Idea of a General Proof Theory”, _Synthese_, 27: 63–77. doi:10.1007/BF00660889
-* ––– (1985). “Remarks on some Approaches to the Concept of Logical Consequence”, _Synthese_, 62: 152–171. doi:10.1007/BF00486044
-* ––– (2006). “Meaning Approached via Proofs”, _Synthese_, 148: 507–524. doi:10.1007/s11229-004-6295-2
-* ––– (2007). “Pragmatist and Verificationist Theories of Meaning”, _The Philosophy of Michael Dummett_, Randall E. Auxier and Lewis Edwin Hahn (eds.), La Salle: Open Court, pp. 455–481.
-* ––– (2013). “An Approach to General Proof Theory and a Conjecture of a Kind of Completeness of Intuitionistic Logic Revisited”, _Advances in Natural Deduction_, Edward Hermann Haeusler, Luiz Carlos Pereira, and Valeria de Paiva (eds.), Berlin: Springer. doi:10.1007/978-94-007-7548-0\_12
-* ––– (2015). “Explaining deductive inference”, _Dag Prawitz on Proofs and Meaning_ , H. Wansing (ed.), Berlin: Springer, pp. 65–100. doi:10.1007/978-3-319-11041-7\_3
-* ––– (2024). “The validity of inference and argument”, _Peter Schroeder-Heister on Proof-Theoretic Semantics_, Thomas Piecha and Kai F. Wehmeier. (eds.) Berlin: Springer, pp 135-160. doi:10.1007/978-3-031-50981-0\_4
-* Pym, David (2002). _The Semantics and Proof Theory of the Logic of Bunched Implications_, Dordrecht: Kluwer.
-* ––– and Eike Ritter (2004). _Reductive Logic and Proof Search: Proof Theory, Semantics, and Control_, Oxford: Clarendon Press.
-* Read, Stephen (2010). “General-Elimination Harmony and the Meaning of the Logical Constants”, _Journal of Philosophical Logic_, 39: 557–576. doi:10.1007/s10992-010-9133-7
-* Rumfitt, Ian (2000). “‘Yes’ and ‘No’”, _Mind_ 109: 781–823. doi:10.1093/mind/109.436.781
-* Sambin, Giovanni, Giulia Battilotti, and Claudia Faggian (2000). “Basic Logic: Reflection, Symmetry, Visibility”, _Journal of Symbolic Logic_, 65: 979–1013. doi:10.2307/2586685
-* Sandqvist, Tor (2009). “Classical Logic without Bivalence”, _Analysis_, 69: 211–218. doi:10.1093/analys/anp003
-* ––– (2015a). “Base-extension semantics for intuitionistic sentential logic”, _Logic Journal of the IGPL_, 23: 719–731. doi:10.1093/jigpal/jzv021
-* ––– (2015b). “Hypothesis-discharging rules in atomic bases”, _Dag Prawitz on Proofs and Meaning_ , H. Wansing (ed.), Berlin: Springer, pp. 313–328. doi:10.1007/978-3-319-11041-7\_14
-* Schroeder-Heister, Peter (1984). “A natural extension of natural deduction”, _Journal of Symbolic Logic_, 49: 1284–1300. doi:10.2307/2274279
-* ––– (1991). “Uniform Proof-Theoretic Semantics for Logical Constants (Abstract)”, _Journal of Symbolic Logic_, 56: 1142. doi:10.2307/2275092
-* ––– (1993). “Rules of Definitional Reflection”, _Proceedings of the 8th Annual IEEE Symposium on Logic in Computer Science_, Los Alamitos: IEEE Press, pp. 222–232. doi:10.1109/LICS.1993.287585
-* ––– (2006). “Validity Concepts in Proof-Theoretic Semantics”, _Synthese_, 148: 525–571. doi:10.1007/s11229-004-6296-1
-* ––– (2007). “Generalized Definitional Reflection and the Inversion Principle”, _Logica Universalis_, 1: 355–376. doi:10.1007/s11787-007-0018-7
-* ––– (2012a). “Definitional Reasoning in Proof-Theoretic Semantics and the Square of Opposition”, _The Square of Opposition: A General Framework for Cognition_, Jean-Yves Béziau and Gillman Payette (eds.), Bern: Peter Lang, pp. 323–349. doi:10.15496/publikation-72333
-* ––– (2012c). “The Categorical and the Hypothetical: A Critique of some Fundamental Assumptions of Standard Semantics”. In: _Synthese_ 187, pp. 925–942. doi:10.1007/s11229-011-9910-z
-* ––– (2013). “Definitional Reflection and Basic Logic”, _Annals of Pure and Applied Logic_, 164(4): 491–501. doi:10.1016/j.apal.2012.10.010
-* ––– (2015). “Proof-theoretic validity based on elimination rules”. In: Haeusler, Edward Hermann, Wagner de Campos Sanz and Bruno Lopes, eds., _Why is this a Proof? Festschrift for Luiz Carlos Pereira_, London: College Publications, pp. 159–176. doi:10.15496/publikation-70825
+* –––, Wagner de Campos Sanz and Peter Schroeder-Heister (2015). “Failure of Completeness in Proof-Theoretic Semantics”, *Journal of Philosophical Logic*, 44: 321–335. doi:10.1007/s10992-014-9322-x
+* ––– and Peter Schroeder-Heister (2016a). “Atomic Systems in Proof-Theoretic Semantics: Two Approaches”, in: Redmond, J., O. P. Martins, Á.N. Fernández *Epistemology, Knowledge and the Impact of Interaction*, Cham: Springer, pp. 47–62. doi:10.1007/978-3-319-26506-3\_2
+* ––– and Peter Schroeder-Heister, eds. (2016b). *Advances in Proof-Theoretic Semantics*, Cham: Springer (Open Access). doi:10.1007/978-3-319-22686-6
+* ––– and Peter Schroeder-Heister (2019). “Incompleteness of Intuitionistic Propositional Logic with Respect to Proof-Theoretic Semantics”, *Studia Logica*, 107: 233–246. doi:10.1007/s11225-018-9823-7
+* ––– and Kai Wehmeier, eds. (2024). *Peter Schroeder-Heister on Proof-Theoretic Semantics*, Berlin: Springer. doi:10.1007/978-3-031-50981-0
+* Pimentel, Elaine, Luiz Carlos Pereira, and Valeria de Paiva (2019). “An Ecumenical Notion of Entailment”, *Synthese* 198 (S22): 5391–5413. doi:10.1007/s11229-019-02226-5
+* Popper, Karl Raimund (1947a). “Logic without Assumptions”, *Proceedings of the Aristotelian Society*, 47: 251–292. Reprinted in Binder et al., eds. (2022). doi:10.1007/978-3-030-94926-6\_2
+* ––– (1947b). “New Foundations for Logic”, *Mind*, 56: 193–235; corrections, *Mind*, 57: 69–70. Reprinted in Binder et al., eds (2022). doi:10.1007/978-3-030-94926-6\_3
+* Prawitz, Dag (1965). *Natural Deduction: A Proof-Theoretical Study*, Stockholm: Almqvist & Wiksell; reprinted Mineola, NY: Dover Publications, 2006.
+* ––– (1971). “Ideas and Results in Proof Theory”, *Proceedings of the Second Scandinavian Logic Symposium* (Oslo 1970), Jens E. Fenstad (ed.), Amsterdam: North-Holland, pp. 235–308. doi:10.1016/S0049-237X(08)70849-8
+* ––– (1972). “The Philosophical Position of Proof Theory”, *Contemporary Philosophy in Scandinavia*, R. E. Olson and A. M. Paul (eds.), Baltimore, London: John Hopkins Press, pp. 123–134.
+* ––– (1973). “Towards a Foundation of a General Proof Theory”, *Logic, Methodology and Philosophy of Science IV*, Patrick Suppes, et al. (eds.), Amsterdam: North-Holland, pp. 225–250.
+* ––– (1974). “On the Idea of a General Proof Theory”, *Synthese*, 27: 63–77. doi:10.1007/BF00660889
+* ––– (1985). “Remarks on some Approaches to the Concept of Logical Consequence”, *Synthese*, 62: 152–171. doi:10.1007/BF00486044
+* ––– (2006). “Meaning Approached via Proofs”, *Synthese*, 148: 507–524. doi:10.1007/s11229-004-6295-2
+* ––– (2007). “Pragmatist and Verificationist Theories of Meaning”, *The Philosophy of Michael Dummett*, Randall E. Auxier and Lewis Edwin Hahn (eds.), La Salle: Open Court, pp. 455–481.
+* ––– (2013). “An Approach to General Proof Theory and a Conjecture of a Kind of Completeness of Intuitionistic Logic Revisited”, *Advances in Natural Deduction*, Edward Hermann Haeusler, Luiz Carlos Pereira, and Valeria de Paiva (eds.), Berlin: Springer. doi:10.1007/978-94-007-7548-0\_12
+* ––– (2015). “Explaining deductive inference”, *Dag Prawitz on Proofs and Meaning* , H. Wansing (ed.), Berlin: Springer, pp. 65–100. doi:10.1007/978-3-319-11041-7\_3
+* ––– (2024). “The validity of inference and argument”, *Peter Schroeder-Heister on Proof-Theoretic Semantics*, Thomas Piecha and Kai F. Wehmeier. (eds.) Berlin: Springer, pp 135-160. doi:10.1007/978-3-031-50981-0\_4
+* Pym, David (2002). *The Semantics and Proof Theory of the Logic of Bunched Implications*, Dordrecht: Kluwer.
+* ––– and Eike Ritter (2004). *Reductive Logic and Proof Search: Proof Theory, Semantics, and Control*, Oxford: Clarendon Press.
+* Read, Stephen (2010). “General-Elimination Harmony and the Meaning of the Logical Constants”, *Journal of Philosophical Logic*, 39: 557–576. doi:10.1007/s10992-010-9133-7
+* Rumfitt, Ian (2000). “‘Yes’ and ‘No’”, *Mind* 109: 781–823. doi:10.1093/mind/109.436.781
+* Sambin, Giovanni, Giulia Battilotti, and Claudia Faggian (2000). “Basic Logic: Reflection, Symmetry, Visibility”, *Journal of Symbolic Logic*, 65: 979–1013. doi:10.2307/2586685
+* Sandqvist, Tor (2009). “Classical Logic without Bivalence”, *Analysis*, 69: 211–218. doi:10.1093/analys/anp003
+* ––– (2015a). “Base-extension semantics for intuitionistic sentential logic”, *Logic Journal of the IGPL*, 23: 719–731. doi:10.1093/jigpal/jzv021
+* ––– (2015b). “Hypothesis-discharging rules in atomic bases”, *Dag Prawitz on Proofs and Meaning* , H. Wansing (ed.), Berlin: Springer, pp. 313–328. doi:10.1007/978-3-319-11041-7\_14
+* Schroeder-Heister, Peter (1984). “A natural extension of natural deduction”, *Journal of Symbolic Logic*, 49: 1284–1300. doi:10.2307/2274279
+* ––– (1991). “Uniform Proof-Theoretic Semantics for Logical Constants (Abstract)”, *Journal of Symbolic Logic*, 56: 1142. doi:10.2307/2275092
+* ––– (1993). “Rules of Definitional Reflection”, *Proceedings of the 8th Annual IEEE Symposium on Logic in Computer Science*, Los Alamitos: IEEE Press, pp. 222–232. doi:10.1109/LICS.1993.287585
+* ––– (2006). “Validity Concepts in Proof-Theoretic Semantics”, *Synthese*, 148: 525–571. doi:10.1007/s11229-004-6296-1
+* ––– (2007). “Generalized Definitional Reflection and the Inversion Principle”, *Logica Universalis*, 1: 355–376. doi:10.1007/s11787-007-0018-7
+* ––– (2012a). “Definitional Reasoning in Proof-Theoretic Semantics and the Square of Opposition”, *The Square of Opposition: A General Framework for Cognition*, Jean-Yves Béziau and Gillman Payette (eds.), Bern: Peter Lang, pp. 323–349. doi:10.15496/publikation-72333
+* ––– (2012c). “The Categorical and the Hypothetical: A Critique of some Fundamental Assumptions of Standard Semantics”. In: *Synthese* 187, pp. 925–942. doi:10.1007/s11229-011-9910-z
+* ––– (2013). “Definitional Reflection and Basic Logic”, *Annals of Pure and Applied Logic*, 164(4): 491–501. doi:10.1016/j.apal.2012.10.010
+* ––– (2015). “Proof-theoretic validity based on elimination rules”. In: Haeusler, Edward Hermann, Wagner de Campos Sanz and Bruno Lopes, eds., *Why is this a Proof? Festschrift for Luiz Carlos Pereira*, London: College Publications, pp. 159–176. doi:10.15496/publikation-70825
 * ––– (2016). “Open Problems in Proof-Theoretic Semantics”. In: Piecha and Schroeder-Heister, eds. (2016b), pp. 253–283. doi:10.1007/978-3-319-22686-6\_16
-* ––– (2022). “Axiomatic thinking, identity of proofs and the quest for an intensional proof-theoretic semantics”. In: F. Ferreira, R. Kahle and G. Sommaruga (eds.), _Axiomatic Thinking I_, Berlin: Springer, pp. 145–165. doi:10.1007/978-3-030-77657-2\_8
-* Shoesmith, D. J. and Timothy J. Smiley (1978). _Multiple-Conclusion Logic_, Cambridge: Cambridge University Press.
-* Sommaruga, Giovanni (2000). _History and Philosophy of Constructive Type Theory_, Dordrecht: Kluwer.
-* Sørensen, Morten Heine B. and Pawel Urzyczyn (2006). _Lectures on the Curry-Howard Isomorphism_, Amsterdam: Elsevier.
-* Stafford, Will and Victor Nascimento (2023). “Following all the rules: intuitionistic completeness for generalised proof-theoretic validity”, _Analysis_. doi:10.1093/analys/anac100
-* Tait, W. W: (1967). “Intensional Interpretations of Functionals of Finite Type I”, _Journal of Symbolic Logic_, 32: 198–212. doi:10.2307/2271658
-* Tennant, Neil (1978). _Natural Logic_, Edinburgh: Edinburgh University Press.
-* ––– (1982). “Proof and Paradox”, _Dialectica_, 36: 265–296. doi:10.1111/j.1746-8361.1982.tb00820.x
-* ––– (1987). _Anti-Realism and Logic: Truth as Eternal_, Oxford: Clarendon Press.
-* ––– (1997). _The Taming of the True_, Oxford: Clarendon Press.
-* ––– (2017). _Core Logic_, Oxford University Press.
-* The Univalent Foundations Program (2013). _Homotopy Type Theory: Univalent Foundations of Mathematics_, Princeton: Institute for Advanced Study.
-* Tranchini, Luca (2010). _Proof and Truth: An Anti-Realist Perspective_, Milano: Edizioni ETS, 2013; reprint of Ph.D. dissertation, Department of Philosophy, University of Tuebingen, 2010, [available online](http://nbn-resolving.de/urn:nbn:de:bsz:21-opus-54715).
-* ––– (2012a). “Truth from a Proof-Theoretic Perspective”. In: _Topoi_ 31, pp. 47–57. doi:10.1007/s11245-012-9121-3
-* ––– (2012b). “Natural Deduction for Dual Intuitionistic Logic”, _Studia Logica_, 100: 631–648. doi:10.1007/s11225-012-9417-8
-* ––– (2016). “Proof-Theoretic Semantics, Paradoxes, and the Distinction between Sense and Denotation”, _Journal of Logic and Computation_, 26, pp. 495–512. doi:10.1093/logcom/exu028
-* ––– (2023). _Harmony and Paradox: Intensional Aspects of Proof-Theoretic Semantics_, Berlin: Springer.
-* Troelstra, Anne S. and Dirk van Dalen (1988). _Constructivism in Mathematics: An Introduction_, Amsterdam: North-Holland.
-* Troelstra, A. S. and H. Schwichtenberg (2000). _Basic Proof Theory_, Cambridge University Press (second edition 2012).
-* von Kutschera, Franz (1968). “Die Vollständigkeit des Operatorensystems  für die intuitionistische Aussagenlogik im Rahmen der Gentzensemantik”, _Archiv für mathematische Logik und Grundlagenforschung_, 11: 3–16. doi:10.1007/BF01973339
-* ––– (1969). “Ein verallgemeinerter Widerlegungsbegrifff für Gentzenkalküle”, _Archiv für mathematische Logik und Grundlagenforschung_, 12: 104–118. doi:10.1007/BF01969697
-* Wansing, Heinrich (1993a). “Functional Completeness for Subsystems of Intuitionistic Propositional Logic”, _Journal of Philosophical Logic_, 22: 303–321. doi:10.1007/BF01049305
-* ––– (1993b). _The Logic of Information Structures_ (Lecture Notes in Artificial Intelligence, Volume 681), Berlin: Springer Springer.
-* ––– (2000). “The Idea of a Proof-Theoretic Semantics and the Meaning of the Logical Operations”, _Studia Logica_, 64: 3–20. doi:10.1023/A:1005217827758
-* ––– (2001). “Negation”, _The Blackwell Guide to Philosophical Logic_, L. Goble (ed.), Cambridge, MA: Blackwell, pp. 415–436.
-* ––– (2017). “A More General General Proof Theoy”, _Journal of Applied Logic_, 25: 23–46. doi:10.1016/j.jal.2017.01.002.
-* Więckowski, Bartosz (2008). “Predication in Fiction”, in _The Logica Yearbook 2007_, M. Peliš (ed.), Prague: Filosofia, pp. 267–285.
-* ––– (2011). “Rules for Subatomic Derivation”, _Review of Symbolic Logic_, 4: 219–236. doi:10.1017/S175502031000033X
-* ––– (2016). “Subatomic Natural Deduction for a Naturalistic First-Order Language with Non-Primitive Identity”, _Journal of Logic, Language and Information_, 25: 215–268. doi:10.1007/s10849-016-9238-7
-* ––– (2021). “Subatomic Negation”, _Journal of Logic, Language and Information_, 30: 207–262. doi:10.1007/s10849-020-09325-4
-* Zeilberger, Noam (2008). “On the Unity of Duality”, _Annals of Pure and Applied Logic_, 153: 66–96. doi:10.1016/j.apal.2008.01.001
+* ––– (2022). “Axiomatic thinking, identity of proofs and the quest for an intensional proof-theoretic semantics”. In: F. Ferreira, R. Kahle and G. Sommaruga (eds.), *Axiomatic Thinking I*, Berlin: Springer, pp. 145–165. doi:10.1007/978-3-030-77657-2\_8
+* Shoesmith, D. J. and Timothy J. Smiley (1978). *Multiple-Conclusion Logic*, Cambridge: Cambridge University Press.
+* Sommaruga, Giovanni (2000). *History and Philosophy of Constructive Type Theory*, Dordrecht: Kluwer.
+* Sørensen, Morten Heine B. and Pawel Urzyczyn (2006). *Lectures on the Curry-Howard Isomorphism*, Amsterdam: Elsevier.
+* Stafford, Will and Victor Nascimento (2023). “Following all the rules: intuitionistic completeness for generalised proof-theoretic validity”, *Analysis*. doi:10.1093/analys/anac100
+* Tait, W. W: (1967). “Intensional Interpretations of Functionals of Finite Type I”, *Journal of Symbolic Logic*, 32: 198–212. doi:10.2307/2271658
+* Tennant, Neil (1978). *Natural Logic*, Edinburgh: Edinburgh University Press.
+* ––– (1982). “Proof and Paradox”, *Dialectica*, 36: 265–296. doi:10.1111/j.1746-8361.1982.tb00820.x
+* ––– (1987). *Anti-Realism and Logic: Truth as Eternal*, Oxford: Clarendon Press.
+* ––– (1997). *The Taming of the True*, Oxford: Clarendon Press.
+* ––– (2017). *Core Logic*, Oxford University Press.
+* The Univalent Foundations Program (2013). *Homotopy Type Theory: Univalent Foundations of Mathematics*, Princeton: Institute for Advanced Study.
+* Tranchini, Luca (2010). *Proof and Truth: An Anti-Realist Perspective*, Milano: Edizioni ETS, 2013; reprint of Ph.D. dissertation, Department of Philosophy, University of Tuebingen, 2010, [available online](http://nbn-resolving.de/urn:nbn:de:bsz:21-opus-54715).
+* ––– (2012a). “Truth from a Proof-Theoretic Perspective”. In: *Topoi* 31, pp. 47–57. doi:10.1007/s11245-012-9121-3
+* ––– (2012b). “Natural Deduction for Dual Intuitionistic Logic”, *Studia Logica*, 100: 631–648. doi:10.1007/s11225-012-9417-8
+* ––– (2016). “Proof-Theoretic Semantics, Paradoxes, and the Distinction between Sense and Denotation”, *Journal of Logic and Computation*, 26, pp. 495–512. doi:10.1093/logcom/exu028
+* ––– (2023). *Harmony and Paradox: Intensional Aspects of Proof-Theoretic Semantics*, Berlin: Springer.
+* Troelstra, Anne S. and Dirk van Dalen (1988). *Constructivism in Mathematics: An Introduction*, Amsterdam: North-Holland.
+* Troelstra, A. S. and H. Schwichtenberg (2000). *Basic Proof Theory*, Cambridge University Press (second edition 2012).
+* von Kutschera, Franz (1968). “Die Vollständigkeit des Operatorensystems  für die intuitionistische Aussagenlogik im Rahmen der Gentzensemantik”, *Archiv für mathematische Logik und Grundlagenforschung*, 11: 3–16. doi:10.1007/BF01973339
+* ––– (1969). “Ein verallgemeinerter Widerlegungsbegrifff für Gentzenkalküle”, *Archiv für mathematische Logik und Grundlagenforschung*, 12: 104–118. doi:10.1007/BF01969697
+* Wansing, Heinrich (1993a). “Functional Completeness for Subsystems of Intuitionistic Propositional Logic”, *Journal of Philosophical Logic*, 22: 303–321. doi:10.1007/BF01049305
+* ––– (1993b). *The Logic of Information Structures* (Lecture Notes in Artificial Intelligence, Volume 681), Berlin: Springer Springer.
+* ––– (2000). “The Idea of a Proof-Theoretic Semantics and the Meaning of the Logical Operations”, *Studia Logica*, 64: 3–20. doi:10.1023/A:1005217827758
+* ––– (2001). “Negation”, *The Blackwell Guide to Philosophical Logic*, L. Goble (ed.), Cambridge, MA: Blackwell, pp. 415–436.
+* ––– (2017). “A More General General Proof Theoy”, *Journal of Applied Logic*, 25: 23–46. doi:10.1016/j.jal.2017.01.002.
+* Więckowski, Bartosz (2008). “Predication in Fiction”, in *The Logica Yearbook 2007*, M. Peliš (ed.), Prague: Filosofia, pp. 267–285.
+* ––– (2011). “Rules for Subatomic Derivation”, *Review of Symbolic Logic*, 4: 219–236. doi:10.1017/S175502031000033X
+* ––– (2016). “Subatomic Natural Deduction for a Naturalistic First-Order Language with Non-Primitive Identity”, *Journal of Logic, Language and Information*, 25: 215–268. doi:10.1007/s10849-016-9238-7
+* ––– (2021). “Subatomic Negation”, *Journal of Logic, Language and Information*, 30: 207–262. doi:10.1007/s10849-020-09325-4
+* Zeilberger, Noam (2008). “On the Unity of Duality”, *Annals of Pure and Applied Logic*, 153: 66–96. doi:10.1016/j.apal.2008.01.001
 
 ## Academic Tools
 
@@ -560,8 +560,8 @@ _进一步阅读_
 ## Other Internet Resources
 
 * Gheorghiu, Alexander V., and David Pym (2022), “[Proof-Theoretic Semantics and Tactical Proof](http://www0.cs.ucl.ac.uk/staff/D.Pym/Proof\_theoretic\_Semantics\_and\_Tactical\_Proof.pdf),” online manuscript, [arXiv:2301.02302](https://arxiv.org/abs/2301.02302)
-* [“Natural Deduction”](https://iep.utm.edu/nat-ded/), _The Internet Encyclopedia of Philosophy_, entry by Andrzej Indrzejczak
-* [“Dialogical Logic”](https://iep.utm.edu/dial-log/), _The Internet Encyclopedia of Philosophy_, entry by Thomas Piecha
+* [“Natural Deduction”](https://iep.utm.edu/nat-ded/), *The Internet Encyclopedia of Philosophy*, entry by Andrzej Indrzejczak
+* [“Dialogical Logic”](https://iep.utm.edu/dial-log/), *The Internet Encyclopedia of Philosophy*, entry by Thomas Piecha
 * Pym, David, Eike Ritter, and Edmund Robinson (2023). “[Categorical Proof-theoretic Semantics](https://doi.org/10.48550/arXiv.2302.09031),” manuscript (submitted), [arXiv:2302.09031](https://arxiv.org/abs/2302.09031) \[math.LO].
 * Stafford, Will (2023). “Prawitz’s Conjecture is False; So What?” manuscript (submitted), [arXiv:2305.09310](https://arxiv.org/abs/2305.09310) \[math.LO].
 
@@ -574,4 +574,4 @@ _进一步阅读_
 I would like to thank the editors, especially Ed Zalta, and the anonymous reviewers for many helpful comments and suggestions.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Peter Schroeder-Heister <[_psh@uni-tuebingen.de_](mailto:psh%40uni-tuebingen%2ede)>
+Peter Schroeder-Heister <[*psh@uni-tuebingen.de*](mailto:psh%40uni-tuebingen%2ede)>

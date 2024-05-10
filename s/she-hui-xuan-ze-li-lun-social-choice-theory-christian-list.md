@@ -1,6 +1,6 @@
 # 社会选择理论 social choice theory (Christian List)
 
-_首次发表于 2013 年 12 月 18 日，实质修订于 2022 年 10 月 14 日_
+*首次发表于 2013 年 12 月 18 日，实质修订于 2022 年 10 月 14 日*
 
 社会选择理论是研究集体决策程序和机制的学科。它不是单一的理论，而是关于将个体输入（例如，选票、偏好、判断、福利）聚合成集体输出（例如，集体决策、偏好、判断、福利）的一系列模型和结果。核心问题是：一群个体如何从给定的选项中选择一个获胜的结果（例如，政策、选举候选人）？不同投票系统的属性是什么？何时投票系统是民主的？一个集体（例如，选民、立法机构、合议法院、专家小组或委员会）如何根据其成员的个体偏好或判断，在某些问题上形成一致的集体偏好或判断？我们如何对不同的社会选择进行社会福利排序？社会选择理论家不仅通过研究实例，而且通过发展通用模型和证明定理来研究这些问题。
 
@@ -529,7 +529,7 @@ Balinski 和 Laraki 表明，在社会分级函数中，所谓的“顺序方法
 | \* 法官 1\*  | True        | True        | True        |
 | \* 法官 2\*  | False       | True        | False       |
 | \* 法官 3\*  | True        | False       | False       |
-| _Majority_ | True        | True        | False       |
+| *Majority* | True        | True        | False       |
 
 表 5：‘教条悖论’的一个例子
 
@@ -550,7 +550,7 @@ Balinski 和 Laraki 表明，在社会分级函数中，所谓的“顺序方法
 | \* 专家 1\*  | True  | True     | True  |
 | \* 专家 2\*  | False | True     | False |
 | \* 专家 3\*  | True  | False    | False |
-| _Majority_ | True  | True     | False |
+| *Majority* | True  | True     | False |
 
 表 6：多数派的不一致性
 
@@ -558,10 +558,10 @@ Balinski 和 Laraki 表明，在社会分级函数中，所谓的“顺序方法
 
 |                                                  | \* “x 优于 y”\* | \* ‘y 相对于 z 更可取’\* | \* ‘x 相对于 z 更可取’\* |
 | ------------------------------------------------ | ------------- | ------------------ | ------------------ |
-| <p>* 个体 1*<br>(更喜欢 x 而不是 y 而不是 z)</p>            | True          | True               | True               |
-| <p>* 第二个个体*<br>(更喜欢 y 而不是 z 而不是 x)</p>           | False         | True               | False              |
-| <p>* 个体 3*<br>(偏好 z 而不是 x 而不是 y)</p>             | True          | False              | False              |
-| <p>* 多数人*<br>(偏好 x 而不是 y 而不是 z 而不是 x，一个“循环”)</p> | True          | True               | False              |
+| <p>*个体 1*<br>(更喜欢 x 而不是 y 而不是 z)</p>            | True          | True               | True               |
+| <p>*第二个个体*<br>(更喜欢 y 而不是 z 而不是 x)</p>           | False         | True               | False              |
+| <p>*个体 3*<br>(偏好 z 而不是 x 而不是 y)</p>             | True          | False              | False              |
+| <p>*多数人*<br>(偏好 x 而不是 y 而不是 z 而不是 x，一个“循环”)</p> | True          | True               | False              |
 
 表 7：康多塞悖论，命题重新解释
 
@@ -700,185 +700,185 @@ Gärdenfors (2006) 和更一般的 Dietrich and List (2008) 以及 Dokow and Hol
 
 ## Bibliography
 
-* Aczél, J. and C. Wagner, 1980, “A characterization of weighted arithmetic means,” _SIAM Journal of Algebraic Discrete Methods_, 1: 259–260.
-* Adler, M. D., 2011, _Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis_, Oxford: Oxford University Press.
-* –––, 2019, _Measuring Social Welfare: An Introduction_, Oxford: Oxford University Press.
-* Arrow, K., 1951/1963, _Social Choice and Individual Values_, New York: Wiley.
-* Austen-Smith, D. and J. S. Banks, 1996, “Information Aggregation, Rationality, and the Condorcet Jury Theorem,” _American Political Science Review_, 90: 34–45.
-* Baccelli, J. and R. T. Stewart, 2020, “Support for geometric pooling,” _Review of Symbolic Logic_, first online 21 October 2020. doi:10.1017/S1755020320000416
-* Bartholdi, J. J., C. A. Tovey, and M. A. Trick, 1989, “The computational difficulty of manipulating an election,” _Social Choice and Welfare_, 6: 227–241.
-* Ben-Yashar, R. and S. Nitzan, 1997, “The optimal decision rule for fixed-size committees in dichotomous choice situations: the general result,” _International Economic Review_, 38: 175–186.
-* Berend, D. and J. Paroush, 1998, “When is Condorcet’s Jury Theorem valid?” _Social Choice and Welfare_, 15: 481–488.
-* Berend, D. and L. Sapir., 2007, “Monotonicity in Condorcet’s Jury Theorem with dependent voters,” _Social Choice and Welfare_, 28: 507–528.
-* Black, D., 1948, “On the Rationale of Group Decision-Making,” _Journal of Political Economy_, 56: 23–34.
-* Blackorby, C., W. Bossert, and D. Donaldson, 1999, “Information Invariance in Variable-Population Social-Choice Problems,” _International Economic Review_, 40: 403–422.
-* –––, 2005, _Population Issues in Social Choice Theory, Welfare Economics, and Ethics_, Cambridge: Cambridge University Press.
-* Blau, J. H., 1975, “Liberal Values and Independence,” _Review of Economic Studies_, 42: 395–401.
-* Boland, P. J., 1989, “Majority systems and the Condorcet jury theorem,” _Statistician_, 38: 181–189.
-* Bossert, W., 1991, “On intra- and interpersonal utility comparisons,” _Social Choice and Welfare_, 8: 207–219.
-* Bossert, W. and J. A. Weymark, 1996, “Utility in social choice,” _Handbook of Utility Theory_ (Volume 2), S. Barberà, P. J. Hammond and C. Seidel (eds.), Boston: Kluwer.
-* Bossert, W., C. X. Qi, and J. A. Weymark, 2013, “Extensive social choice and the measurement of group fitness in biological hierarchies,” _Biology and Philosophy_, 28: 75–98.
-* Bovens, L. and W. Rabinowicz, 2006, “Democratic Answers to Complex Questions: An Epistemic Perspective,” _Synthese_, 150: 131–153.
-* Brams, S. J. and P. C. Fishburn, 1978, “Approval voting,” _American Political Science Review_, 72: 831–847.
-* –––, 1983, _Approval Voting_, Boston: Birkhäuser.
-* Brams, S. J. and A. D. Taylor, 1996, _Fair Division: From Cake-Cutting to Dispute Resolution_, Cambridge: Cambridge University Press.
-* Brandt, F., V. Conitzer, and U. Endriss, 2013, “Computational Social Choice,” _Multiagent Systems_, G. Weiss (ed.), Cambridge, MA: MIT Press, pp. 213–283.
-* Brighouse, H. and M. Fleurbaey, 2010, “Democracy and Proportionality,” _Journal of Political Philosophy_, 18: 137–155.
-* Cantillon, E. and A. Rangel, 2002, “A graphical analysis of some basic results in social choice,” _Social Choice and Welfare_, 19: 587–611.
-* Chapman, B., 2002, “Rational Aggregation,” _Politics, Philosophy and Economics_, 1: 337–354.
-* Chichilnisky, G., 1980, “Social choice and the topology of spaces of preferences,” _Advances in Mathematics_, 37: 165–176.
-* Christensen, D. and J. Lackey (eds.), 2013, _The Epistemology of Disagreement: New Essays_, New York: Oxford University Press.
-* Condorcet, Nicolas de, 1785, _Essay sur l’Application de l’Analyse à la Probabilité des Décisions Rendue à la Pluralité des Voix_, Paris.
-* Conradt, L. and T. J. Roper, 2003, “Group decision-making in animals,” _Nature_, 421: 155–158.
-* Craven, J., 1982, “Liberalism and Individual Preferences,” _Theory and Decision_, 14: 351–360.
-* Deschamps, R. and L. Gevers, 1978, “Leximin and utilitarian rules: A joint characterization,” _Journal of Economic Theory_, 17: 143–163.
-* Dietrich, F., 2006, “Judgment Aggregation: (Im)Possibility Theorems,” _Journal of Economic Theory_, 126: 286–298.
-* –––, 2007, “A generalised model of judgment aggregation,” _Social Choice and Welfare_, 28: 529–565.
-* –––, 2008, “The premises of Condorcet’s jury theorem are not simultaneously justified,” _Episteme_, 5: 56–73.
-* –––, 2010, “Bayesian group belief,” _Social Choice and Welfare_, 35: 595–626.
-* –––, 2015, “Aggregation theory and the relevance of some issues to others,” _Journal of Economic Theory_, 160: 463–493.
-* –––, 2019, “A theory of Bayesian groups,” _Noûs_, 53: 708–736.
-* Dietrich, F. and C. List, 2004, “A Model of Jury Decisions Where All Jurors Have the Same Evidence,” _Synthese_, 142: 175–202.
-* –––, 2007a, “Judgment aggregation by quota rules: majority voting generalized,” _Journal of Theoretical Politics_, 19: 391–424.
-* –––, 2007b, “Arrow’s theorem in judgment aggregation,” _Social Choice and Welfare_, 29: 19–33.
-* –––, 2007c, “Strategy-proof judgment aggregation,” _Economics and Philosophy_, 23: 269–300.
-* –––, 2008, “Judgment aggregation without full rationality,” _Social Choice and Welfare_, 31: 15–39.
-* –––, 2010a, “Majority voting on restricted domains,” _Journal of Economic Theory_, 145: 512–543.
-* –––, 2010b, “The aggregation of propositional attitudes: towards a general theory,” _Oxford Studies in Epistemology_, 3: 215–234.
-* –––, 2017, “Probabilistic Opinion Pooling Generalized: Parts I and II,” _Social Choice and Welfare_ 48(4): 747–814.
-* Dietrich, F. and P. Mongin, 2010, “The premise-based approach to judgment aggregation,” _Journal of Economic Theory_, 145: 562–582.
-* Dietrich, F. and K. Spiekermann, 2013, “Epistemic Democracy with Defensible Premises,” _Economics and Philosophy_, 29(1): 87–120.
-* Dokow, E. and R. Holzman, 2010a, “Aggregation of binary evaluations,” _Journal of Economic Theory_, 145: 495–511.
-* –––, 2010b, “Aggregation of binary evaluations with abstentions,” _Journal of Economic Theory_, 145: 544–561.
-* –––, 2010c, “Aggregation of non-binary evaluations,” _Advances in Applied Mathematics_, 45: 487–504.
-* Dowding, K. and M. van Hees, 2003, “The Construction of Rights,” _American Political Science Review_, 97: 281–293.
-* –––, 2008, “In Praise of Manipulation,” _British Journal of Political Science_, 38: 1–15.
-* Dryzek, J. and C. List, 2003, “Social Choice Theory and Deliberative Democracy: A Reconciliation,” _British Journal of Political Science_, 33: 1–28.
-* Elster, J., 2013, “Excessive Ambitions (II),” _Capitalism and Society_, 8, Issue 1, Article 1.
-* Estlund, D., 1994, “Opinion Leaders, Independence, and Condorcet’s Jury Theorem,” _Theory and Decision_, 36: 131–162.
-* Fabre, A., 2021, “Tie-breaking the highest median: alternatives to the majority judgment,” _Social Choice and Welfare_, 56: 101–124.
-* Feddersen, T. J. and W. Pesendorfer, 1998, “Convicting the Innocent,” _American Political Science Review_, 92: 23–35.
-* Fey, M., 2004, “May’s theorem with an infinite population,” _Social Choice and Welfare_, 23: 275–293.
-* Fishburn, P. C., 1978, “Axioms for Approval Voting: Direct Proof,” _Journal of Economic Theory_, 19: 180–185.
-* –––, 1988, “Corrigendum,” _Journal of Economic Theory_, 45: 212.
-* Gaertner, W., 2001, _Domain Conditions in Social Choice Theory_, Cambridge: Cambridge University Press.
-* –––, 2005, “De jure naturae et gentium: Samuel von Pufendorf’s contribution to social choice theory and economics,” _Social Choice and Welfare_, 25: 231–241.
-* Gaertner, W., P. K. Pattanaik, and K. Suzumura, 1992, “Individual Rights Revisited,” _Economica_, 59: 161–177.
-* Gaertner, W. and E. Schokkaert, 2012, _Empirical Social Choice: Questionnaire-Experimental Studies on Distributive Justice_, Cambridge: Cambridge University Press.
-* Gale, D. and L. S. Shapley, 1962, “College admissions and the stability of marriage,” _American Mathematical Monthly_, 69: 9–15.
-* Gärdenfors, P., 2006, “An Arrow-like theorem for voting with logical consequences,” _Economics and Philosophy_, 22: 181–190.
-* Gehrlein, W. V., 1983, “Condorcet’s Paradox,” _Theory and Decision_, 15: 161–197.
-* Genest, C., 1984, “A characterization theorem for externally Bayesian groups,” _Annals of Statistics_, 12: 1100–1105.
-* Genest, C., K. J. McConway, and M. J. Schervish, 1986, “Characterization of externally Bayesian pooling operators,” _Annals of Statistics_ 14: 487–501.
-* Genest, C. and K. Wagner, 1987, “Further evidence against independence preservation in expert judgement synthesis,” _Aequationes Mathematicae_, 32: 74–86. &#x20;
-* Genest, C. and J. V. Zidek, 1986, “Combining Probability Distributions: A Critique and Annotated Bibliography,” _Statistical Science_, 1: 113–135.
+* Aczél, J. and C. Wagner, 1980, “A characterization of weighted arithmetic means,” *SIAM Journal of Algebraic Discrete Methods*, 1: 259–260.
+* Adler, M. D., 2011, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, Oxford: Oxford University Press.
+* –––, 2019, *Measuring Social Welfare: An Introduction*, Oxford: Oxford University Press.
+* Arrow, K., 1951/1963, *Social Choice and Individual Values*, New York: Wiley.
+* Austen-Smith, D. and J. S. Banks, 1996, “Information Aggregation, Rationality, and the Condorcet Jury Theorem,” *American Political Science Review*, 90: 34–45.
+* Baccelli, J. and R. T. Stewart, 2020, “Support for geometric pooling,” *Review of Symbolic Logic*, first online 21 October 2020. doi:10.1017/S1755020320000416
+* Bartholdi, J. J., C. A. Tovey, and M. A. Trick, 1989, “The computational difficulty of manipulating an election,” *Social Choice and Welfare*, 6: 227–241.
+* Ben-Yashar, R. and S. Nitzan, 1997, “The optimal decision rule for fixed-size committees in dichotomous choice situations: the general result,” *International Economic Review*, 38: 175–186.
+* Berend, D. and J. Paroush, 1998, “When is Condorcet’s Jury Theorem valid?” *Social Choice and Welfare*, 15: 481–488.
+* Berend, D. and L. Sapir., 2007, “Monotonicity in Condorcet’s Jury Theorem with dependent voters,” *Social Choice and Welfare*, 28: 507–528.
+* Black, D., 1948, “On the Rationale of Group Decision-Making,” *Journal of Political Economy*, 56: 23–34.
+* Blackorby, C., W. Bossert, and D. Donaldson, 1999, “Information Invariance in Variable-Population Social-Choice Problems,” *International Economic Review*, 40: 403–422.
+* –––, 2005, *Population Issues in Social Choice Theory, Welfare Economics, and Ethics*, Cambridge: Cambridge University Press.
+* Blau, J. H., 1975, “Liberal Values and Independence,” *Review of Economic Studies*, 42: 395–401.
+* Boland, P. J., 1989, “Majority systems and the Condorcet jury theorem,” *Statistician*, 38: 181–189.
+* Bossert, W., 1991, “On intra- and interpersonal utility comparisons,” *Social Choice and Welfare*, 8: 207–219.
+* Bossert, W. and J. A. Weymark, 1996, “Utility in social choice,” *Handbook of Utility Theory* (Volume 2), S. Barberà, P. J. Hammond and C. Seidel (eds.), Boston: Kluwer.
+* Bossert, W., C. X. Qi, and J. A. Weymark, 2013, “Extensive social choice and the measurement of group fitness in biological hierarchies,” *Biology and Philosophy*, 28: 75–98.
+* Bovens, L. and W. Rabinowicz, 2006, “Democratic Answers to Complex Questions: An Epistemic Perspective,” *Synthese*, 150: 131–153.
+* Brams, S. J. and P. C. Fishburn, 1978, “Approval voting,” *American Political Science Review*, 72: 831–847.
+* –––, 1983, *Approval Voting*, Boston: Birkhäuser.
+* Brams, S. J. and A. D. Taylor, 1996, *Fair Division: From Cake-Cutting to Dispute Resolution*, Cambridge: Cambridge University Press.
+* Brandt, F., V. Conitzer, and U. Endriss, 2013, “Computational Social Choice,” *Multiagent Systems*, G. Weiss (ed.), Cambridge, MA: MIT Press, pp. 213–283.
+* Brighouse, H. and M. Fleurbaey, 2010, “Democracy and Proportionality,” *Journal of Political Philosophy*, 18: 137–155.
+* Cantillon, E. and A. Rangel, 2002, “A graphical analysis of some basic results in social choice,” *Social Choice and Welfare*, 19: 587–611.
+* Chapman, B., 2002, “Rational Aggregation,” *Politics, Philosophy and Economics*, 1: 337–354.
+* Chichilnisky, G., 1980, “Social choice and the topology of spaces of preferences,” *Advances in Mathematics*, 37: 165–176.
+* Christensen, D. and J. Lackey (eds.), 2013, *The Epistemology of Disagreement: New Essays*, New York: Oxford University Press.
+* Condorcet, Nicolas de, 1785, *Essay sur l’Application de l’Analyse à la Probabilité des Décisions Rendue à la Pluralité des Voix*, Paris.
+* Conradt, L. and T. J. Roper, 2003, “Group decision-making in animals,” *Nature*, 421: 155–158.
+* Craven, J., 1982, “Liberalism and Individual Preferences,” *Theory and Decision*, 14: 351–360.
+* Deschamps, R. and L. Gevers, 1978, “Leximin and utilitarian rules: A joint characterization,” *Journal of Economic Theory*, 17: 143–163.
+* Dietrich, F., 2006, “Judgment Aggregation: (Im)Possibility Theorems,” *Journal of Economic Theory*, 126: 286–298.
+* –––, 2007, “A generalised model of judgment aggregation,” *Social Choice and Welfare*, 28: 529–565.
+* –––, 2008, “The premises of Condorcet’s jury theorem are not simultaneously justified,” *Episteme*, 5: 56–73.
+* –––, 2010, “Bayesian group belief,” *Social Choice and Welfare*, 35: 595–626.
+* –––, 2015, “Aggregation theory and the relevance of some issues to others,” *Journal of Economic Theory*, 160: 463–493.
+* –––, 2019, “A theory of Bayesian groups,” *Noûs*, 53: 708–736.
+* Dietrich, F. and C. List, 2004, “A Model of Jury Decisions Where All Jurors Have the Same Evidence,” *Synthese*, 142: 175–202.
+* –––, 2007a, “Judgment aggregation by quota rules: majority voting generalized,” *Journal of Theoretical Politics*, 19: 391–424.
+* –––, 2007b, “Arrow’s theorem in judgment aggregation,” *Social Choice and Welfare*, 29: 19–33.
+* –––, 2007c, “Strategy-proof judgment aggregation,” *Economics and Philosophy*, 23: 269–300.
+* –––, 2008, “Judgment aggregation without full rationality,” *Social Choice and Welfare*, 31: 15–39.
+* –––, 2010a, “Majority voting on restricted domains,” *Journal of Economic Theory*, 145: 512–543.
+* –––, 2010b, “The aggregation of propositional attitudes: towards a general theory,” *Oxford Studies in Epistemology*, 3: 215–234.
+* –––, 2017, “Probabilistic Opinion Pooling Generalized: Parts I and II,” *Social Choice and Welfare* 48(4): 747–814.
+* Dietrich, F. and P. Mongin, 2010, “The premise-based approach to judgment aggregation,” *Journal of Economic Theory*, 145: 562–582.
+* Dietrich, F. and K. Spiekermann, 2013, “Epistemic Democracy with Defensible Premises,” *Economics and Philosophy*, 29(1): 87–120.
+* Dokow, E. and R. Holzman, 2010a, “Aggregation of binary evaluations,” *Journal of Economic Theory*, 145: 495–511.
+* –––, 2010b, “Aggregation of binary evaluations with abstentions,” *Journal of Economic Theory*, 145: 544–561.
+* –––, 2010c, “Aggregation of non-binary evaluations,” *Advances in Applied Mathematics*, 45: 487–504.
+* Dowding, K. and M. van Hees, 2003, “The Construction of Rights,” *American Political Science Review*, 97: 281–293.
+* –––, 2008, “In Praise of Manipulation,” *British Journal of Political Science*, 38: 1–15.
+* Dryzek, J. and C. List, 2003, “Social Choice Theory and Deliberative Democracy: A Reconciliation,” *British Journal of Political Science*, 33: 1–28.
+* Elster, J., 2013, “Excessive Ambitions (II),” *Capitalism and Society*, 8, Issue 1, Article 1.
+* Estlund, D., 1994, “Opinion Leaders, Independence, and Condorcet’s Jury Theorem,” *Theory and Decision*, 36: 131–162.
+* Fabre, A., 2021, “Tie-breaking the highest median: alternatives to the majority judgment,” *Social Choice and Welfare*, 56: 101–124.
+* Feddersen, T. J. and W. Pesendorfer, 1998, “Convicting the Innocent,” *American Political Science Review*, 92: 23–35.
+* Fey, M., 2004, “May’s theorem with an infinite population,” *Social Choice and Welfare*, 23: 275–293.
+* Fishburn, P. C., 1978, “Axioms for Approval Voting: Direct Proof,” *Journal of Economic Theory*, 19: 180–185.
+* –––, 1988, “Corrigendum,” *Journal of Economic Theory*, 45: 212.
+* Gaertner, W., 2001, *Domain Conditions in Social Choice Theory*, Cambridge: Cambridge University Press.
+* –––, 2005, “De jure naturae et gentium: Samuel von Pufendorf’s contribution to social choice theory and economics,” *Social Choice and Welfare*, 25: 231–241.
+* Gaertner, W., P. K. Pattanaik, and K. Suzumura, 1992, “Individual Rights Revisited,” *Economica*, 59: 161–177.
+* Gaertner, W. and E. Schokkaert, 2012, *Empirical Social Choice: Questionnaire-Experimental Studies on Distributive Justice*, Cambridge: Cambridge University Press.
+* Gale, D. and L. S. Shapley, 1962, “College admissions and the stability of marriage,” *American Mathematical Monthly*, 69: 9–15.
+* Gärdenfors, P., 2006, “An Arrow-like theorem for voting with logical consequences,” *Economics and Philosophy*, 22: 181–190.
+* Gehrlein, W. V., 1983, “Condorcet’s Paradox,” *Theory and Decision*, 15: 161–197.
+* Genest, C., 1984, “A characterization theorem for externally Bayesian groups,” *Annals of Statistics*, 12: 1100–1105.
+* Genest, C., K. J. McConway, and M. J. Schervish, 1986, “Characterization of externally Bayesian pooling operators,” *Annals of Statistics* 14: 487–501.
+* Genest, C. and K. Wagner, 1987, “Further evidence against independence preservation in expert judgement synthesis,” *Aequationes Mathematicae*, 32: 74–86. &#x20;
+* Genest, C. and J. V. Zidek, 1986, “Combining Probability Distributions: A Critique and Annotated Bibliography,” *Statistical Science*, 1: 113–135.
 * Gibbard, A., 1969, “Social Choice and the Arrow Conditions,” Unpublished manuscript. \[[Gibbard 1969 available online (pdf)](http://www-personal.umich.edu/\~gibbard/Gibbard1968-Social-Choice-Arrow-Conditions.pdf)]
-* –––, 1973, “Manipulation of voting schemes: a general result,” _Econometrica_, 41: 587–601.
-* Gigliotti, G. A., 1986, “Comment on Craven,” _Theory and Decision_, 21: 89–95.
-* Gilboa, I., D. Samet, and D. Schmeidler, 2004, “Utilitarian Aggregation of Beliefs and Tastes,” _Journal of Political Economy_, 112: 932–938.
-* Goldman, A., 2004, “Group Knowledge versus Group Rationality: Two Approaches to Social Epistemology,” _Episteme, A Journal of Social Epistemology_, 1: 11–22.
-* –––, 2010, “Why Social Epistemology Is Real Epistemology,” _Social Epistemology_, A. Haddock, A. Millar, and D. Pritchard (eds.), Oxford: Oxford University Press.
-* Goodin, R. E. and C. List, 2006, “A Conditional Defense of Plurality Rule: Generalizing May’s Theorem in a Restricted Informational Environment,” _American Journal of Political Science_, 50: 940–949.
-* Goodin, R. E. and K. Spiekermann, 2018, _An Epistemic Theory of Democracy_, Oxford: Oxford University Press.
-* Grofman, B., G. Owen, and S. L. Feld, 1983, “Thirteen theorems in search of the truth,” _Theory and Decision_, 15: 261–278.
-* Guilbaud, G. T., \[1952] 1966, “Theories of the General Interest, and the Logical Problem of Aggregation,” _Readings in Mathematical Social Science_, P. F. Lazarsfeld and N. W. Henry (eds.), Cambridge, MA: MIT Press, pp. 262–307.
-* Harrison, G. W. and T. McDaniel, 2008, “Voting Games and Computational Complexity,” _Oxford Economic Papers_, 60: 546–565.
-* Hattiangadi, A., 2020, “Radical Interpretation and The Aggregation Problem,” _Philosophy and Phenomenological Research_, 101: 283–303.
-* Hausman, D., 1995, “The Impossibility of Interpersonal Utility Comparisons,” _Mind_, 104: 473–490.
-* Heal, G. M. (ed.), 1997, _Topological Social Choice_, Heidelberg: Springer.
-* Hurley, S., 1985, “Supervenience and the Possibility of Coherence,” _Mind_, 94: 501–525.
-* Inada, K.-I., 1964, “A Note on the Simple Majority Decision Rule,” _Econometrica_, 32: 525–531.
-* Kanazawa, S., 1998, “A brief note on a further refinement of the Condorcet Jury Theorem for heterogeneous groups,” _Mathematical Social Sciences_, 35: 69–73.
-* Klaus, B., D. F. Manlove, and F. Rossi, 2016, “Matching under preferences,” _Handbook of Computational Social Choice_, F. Brandt, V. Conitzer, U. Endriss, J. Lang, and A. D. Procaccia (eds.), Cambridge: Cambridge University Press, pp. 333–355.
-* Knight, J. and J. Johnson, 1994, “Aggregation and Deliberation: On the Possibility of Democratic Legitimacy,” _Political Theory_, 22: 277–296.
-* Konieczny, S. and R. Pino Pérez, 2002, “Merging Information Under Constraints: A Logical Framework,” _Journal of Logic and Computation_, 12: 773–808.
-* Kornhauser, L. A. and L. G. Sager, 1986, “Unpacking the Court,” _Yale Law Journal_, 96: 82–117.
-* Kroedel, T. and F. Huber, 2013, “Counterfactual Dependence and Arrow,” _Noûs_, 47(3): 453–466.
-* Lackey, J., 2016, “What Is Justified Group Belief?” _Philosophical Review_, 125: 341–396.
-* Ladha, K., 1992, “The Condorcet Jury Theorem, Free Speech and Correlated Votes,” _American Journal of Political Science_, 36: 617–634.
-* Landemore, H., 2013, _Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many_, Princeton: Princeton University Press.
-* Lehrer, K. and C. Wagner, 1981, _Rational Consensus in Science and Society_, Dordrecht/Boston: Reidel.
-* List, C., 2001, “A Note on Introducing a ‘Zero-Line’ of Welfare as an Escape-Route from Arrow’s Theorem,” _Pacific Economic Review_, 6, special section in honour of Amartya Sen, 223–238.
-* –––, 2003a, “Are Interpersonal Comparisons of Utility Indeterminate?” _Erkenntnis_, 58: 229–260.
-* –––, 2003b, “A Possibility Theorem on Aggregation over Multiple Interconnected Propositions,” _Mathematical Social Sciences_, 45: 1–13 (with Corrigendum in _Mathematical Social Sciences_, 52: 109–110).
-* –––, 2004a, “Multidimensional Welfare Aggregation,” _Public Choice_, 119: 119–142.
-* –––, 2004b, “A Model of Path-Dependence in Decisions over Multiple Propositions,” _American Political Science Review_, 98: 495–513.
-* List, C. and R. E. Goodin, 2001, “Epistemic Democracy: Generalizing the Condorcet Jury Theorem,” _Journal of Political Philosophy_, 9: 277–306.
-* List, C., R. C. Luskin, J. S. Fishkin, and I. McLean, 2013, “Deliberation, Single-Peakedness, and the Possibility of Meaningful Democracy: Evidence from Deliberative Polls,” _Journal of Politics_, 75: 80–95.
-* List, C. and P. Pettit, 2002, “Aggregating Sets of Judgments: An Impossibility Result,” _Economics and Philosophy_, 18(1): 89–110.
-* –––, 2004, “Aggregating Sets of Judgments: Two Impossibility Results Compared,” _Synthese_, 140: 207–235.
-* MacAskill, W., 2016, “Normative Uncertainty as a Voting Problem,” _Mind_, 125: 967–1004.
-* May, K. O., 1952, “A set of independent, necessary and sufficient conditions for simple majority decision,” _Econometrica_, 20: 680–684.
-* –––, 1954, “Intransitivity, Utility, and the Aggregation of Preference Patterns,” _Econometrica_, 22: 1–13.
-* McConway, K. J., 1981, “Marginalization and Linear Opinion Pools,” _Journal of the American Statistical Association_, 76: 410–414.
-* McLean, I., 1990, “The Borda and Condorcet principles: Three medieval applications,” _Social Choice and Welfare_, 7: 99–108.
-* McLean, I. and F. Hewitt (eds.), 1994, _Condorcet: Foundations of Social Choice and Political Theory_, Cheltenham: Edward Elgar Publishing.
-* McLean, I. S., A. McMillan, and B. L. Monroe, 1995, “Duncan Black and Lewis Carroll,” _Journal of Theoretical Politics_, 7: 107–123.
-* ––– (eds.), 1996, _A Mathematical Approach to Proportional Representation: Duncan Black on Lewis Carroll_, Dordrecht: Kluwer.
-* McLean, I. and A. B. Urken (eds.), 1995, _Classics of Social Choice_, Ann Arbor: University of Michigan Press.
-* Miller, D., 1992, “Deliberative Democracy and Social Choice,” _Political Studies_, 40 (special issue): 54–67.
-* Miller, M. K. and D. Osherson, 2009, “Methods for distance-based judgment aggregation,” _Social Choice and Welfare_, 32: 575–601.
-* Monjardet, B., 2005, “Social choice theory and the ‘Centre de Mathématique Sociale’: some historical notes,” _Social Choice and Welfare_, 25: 433–456.
-* Mongin, P., 1995, “Consistent Bayesian aggregation,” _Journal of Economic Theory_, 66: 313–351.
+* –––, 1973, “Manipulation of voting schemes: a general result,” *Econometrica*, 41: 587–601.
+* Gigliotti, G. A., 1986, “Comment on Craven,” *Theory and Decision*, 21: 89–95.
+* Gilboa, I., D. Samet, and D. Schmeidler, 2004, “Utilitarian Aggregation of Beliefs and Tastes,” *Journal of Political Economy*, 112: 932–938.
+* Goldman, A., 2004, “Group Knowledge versus Group Rationality: Two Approaches to Social Epistemology,” *Episteme, A Journal of Social Epistemology*, 1: 11–22.
+* –––, 2010, “Why Social Epistemology Is Real Epistemology,” *Social Epistemology*, A. Haddock, A. Millar, and D. Pritchard (eds.), Oxford: Oxford University Press.
+* Goodin, R. E. and C. List, 2006, “A Conditional Defense of Plurality Rule: Generalizing May’s Theorem in a Restricted Informational Environment,” *American Journal of Political Science*, 50: 940–949.
+* Goodin, R. E. and K. Spiekermann, 2018, *An Epistemic Theory of Democracy*, Oxford: Oxford University Press.
+* Grofman, B., G. Owen, and S. L. Feld, 1983, “Thirteen theorems in search of the truth,” *Theory and Decision*, 15: 261–278.
+* Guilbaud, G. T., \[1952] 1966, “Theories of the General Interest, and the Logical Problem of Aggregation,” *Readings in Mathematical Social Science*, P. F. Lazarsfeld and N. W. Henry (eds.), Cambridge, MA: MIT Press, pp. 262–307.
+* Harrison, G. W. and T. McDaniel, 2008, “Voting Games and Computational Complexity,” *Oxford Economic Papers*, 60: 546–565.
+* Hattiangadi, A., 2020, “Radical Interpretation and The Aggregation Problem,” *Philosophy and Phenomenological Research*, 101: 283–303.
+* Hausman, D., 1995, “The Impossibility of Interpersonal Utility Comparisons,” *Mind*, 104: 473–490.
+* Heal, G. M. (ed.), 1997, *Topological Social Choice*, Heidelberg: Springer.
+* Hurley, S., 1985, “Supervenience and the Possibility of Coherence,” *Mind*, 94: 501–525.
+* Inada, K.-I., 1964, “A Note on the Simple Majority Decision Rule,” *Econometrica*, 32: 525–531.
+* Kanazawa, S., 1998, “A brief note on a further refinement of the Condorcet Jury Theorem for heterogeneous groups,” *Mathematical Social Sciences*, 35: 69–73.
+* Klaus, B., D. F. Manlove, and F. Rossi, 2016, “Matching under preferences,” *Handbook of Computational Social Choice*, F. Brandt, V. Conitzer, U. Endriss, J. Lang, and A. D. Procaccia (eds.), Cambridge: Cambridge University Press, pp. 333–355.
+* Knight, J. and J. Johnson, 1994, “Aggregation and Deliberation: On the Possibility of Democratic Legitimacy,” *Political Theory*, 22: 277–296.
+* Konieczny, S. and R. Pino Pérez, 2002, “Merging Information Under Constraints: A Logical Framework,” *Journal of Logic and Computation*, 12: 773–808.
+* Kornhauser, L. A. and L. G. Sager, 1986, “Unpacking the Court,” *Yale Law Journal*, 96: 82–117.
+* Kroedel, T. and F. Huber, 2013, “Counterfactual Dependence and Arrow,” *Noûs*, 47(3): 453–466.
+* Lackey, J., 2016, “What Is Justified Group Belief?” *Philosophical Review*, 125: 341–396.
+* Ladha, K., 1992, “The Condorcet Jury Theorem, Free Speech and Correlated Votes,” *American Journal of Political Science*, 36: 617–634.
+* Landemore, H., 2013, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, Princeton: Princeton University Press.
+* Lehrer, K. and C. Wagner, 1981, *Rational Consensus in Science and Society*, Dordrecht/Boston: Reidel.
+* List, C., 2001, “A Note on Introducing a ‘Zero-Line’ of Welfare as an Escape-Route from Arrow’s Theorem,” *Pacific Economic Review*, 6, special section in honour of Amartya Sen, 223–238.
+* –––, 2003a, “Are Interpersonal Comparisons of Utility Indeterminate?” *Erkenntnis*, 58: 229–260.
+* –––, 2003b, “A Possibility Theorem on Aggregation over Multiple Interconnected Propositions,” *Mathematical Social Sciences*, 45: 1–13 (with Corrigendum in *Mathematical Social Sciences*, 52: 109–110).
+* –––, 2004a, “Multidimensional Welfare Aggregation,” *Public Choice*, 119: 119–142.
+* –––, 2004b, “A Model of Path-Dependence in Decisions over Multiple Propositions,” *American Political Science Review*, 98: 495–513.
+* List, C. and R. E. Goodin, 2001, “Epistemic Democracy: Generalizing the Condorcet Jury Theorem,” *Journal of Political Philosophy*, 9: 277–306.
+* List, C., R. C. Luskin, J. S. Fishkin, and I. McLean, 2013, “Deliberation, Single-Peakedness, and the Possibility of Meaningful Democracy: Evidence from Deliberative Polls,” *Journal of Politics*, 75: 80–95.
+* List, C. and P. Pettit, 2002, “Aggregating Sets of Judgments: An Impossibility Result,” *Economics and Philosophy*, 18(1): 89–110.
+* –––, 2004, “Aggregating Sets of Judgments: Two Impossibility Results Compared,” *Synthese*, 140: 207–235.
+* MacAskill, W., 2016, “Normative Uncertainty as a Voting Problem,” *Mind*, 125: 967–1004.
+* May, K. O., 1952, “A set of independent, necessary and sufficient conditions for simple majority decision,” *Econometrica*, 20: 680–684.
+* –––, 1954, “Intransitivity, Utility, and the Aggregation of Preference Patterns,” *Econometrica*, 22: 1–13.
+* McConway, K. J., 1981, “Marginalization and Linear Opinion Pools,” *Journal of the American Statistical Association*, 76: 410–414.
+* McLean, I., 1990, “The Borda and Condorcet principles: Three medieval applications,” *Social Choice and Welfare*, 7: 99–108.
+* McLean, I. and F. Hewitt (eds.), 1994, *Condorcet: Foundations of Social Choice and Political Theory*, Cheltenham: Edward Elgar Publishing.
+* McLean, I. S., A. McMillan, and B. L. Monroe, 1995, “Duncan Black and Lewis Carroll,” *Journal of Theoretical Politics*, 7: 107–123.
+* ––– (eds.), 1996, *A Mathematical Approach to Proportional Representation: Duncan Black on Lewis Carroll*, Dordrecht: Kluwer.
+* McLean, I. and A. B. Urken (eds.), 1995, *Classics of Social Choice*, Ann Arbor: University of Michigan Press.
+* Miller, D., 1992, “Deliberative Democracy and Social Choice,” *Political Studies*, 40 (special issue): 54–67.
+* Miller, M. K. and D. Osherson, 2009, “Methods for distance-based judgment aggregation,” *Social Choice and Welfare*, 32: 575–601.
+* Monjardet, B., 2005, “Social choice theory and the ‘Centre de Mathématique Sociale’: some historical notes,” *Social Choice and Welfare*, 25: 433–456.
+* Mongin, P., 1995, “Consistent Bayesian aggregation,” *Journal of Economic Theory*, 66: 313–351.
 * –––, 1997, “Spurious Unanimity and the Pareto Principle,” Paper presented at the Conference on Utilitarianism, New Orleans, March 1997. \[[Mongin 1997 available online (pdf)](http://eprints.lse.ac.uk/23942/1/Spurious\_Unanimity\_and\_the\_Pareto\_Principle\_\(LSERO\).pdf)]
-* –––, 2008, “Factoring Out the Impossibility of Logical Aggregation,” _Journal of Economic Theory_, 141: 100–113.
-* Mongin, P. and M. Pivato, 2016, “Social preference and social welfare under risk and uncertainty,” _Oxford Handbook of Well-Being and Public Policy_, M. Adler and M. Fleurbaey (eds.), Oxford: Oxford University Press.
-* Morreau, M., 2010, “It simply does not add up: Trouble with overall similarity,” _Journal of Philosophy_, 107: 469–490.
-* –––, 2015, “Theory Choice and Social Choice: Kuhn Vindicated,” _Mind,_ 124: 239–262.
-* –––, 2016, “Grading in Groups,” _Economics and Philosophy_, 32: 323–352.
-* Moulin, H., 1980, “On Strategy-Proofness and Single Peakedness,” _Public Choice_, 35: 437–455.
-* –––, 2004, _Fair Division And Collective Welfare_, Cambridge, MA: MIT Press.
-* Mueller, D. C., 2003, _Public Choice III_, Cambridge: Cambridge University Press.
-* Nehring, K., 2003, “Arrow’s theorem as a corollary,” _Economics Letters_, 80: 379–382.
-* Nehring, K. and C. Puppe, 2007, “The structure of strategy-proof social choice—Part I: General characterization and possibility results on median spaces,” _Journal of Economic Theory_, 135: 269–305.
-* –––, 2010, “Abstract Arrovian Aggregation,” _Journal of Economic Theory_, 145: 467–494.
-* Niemi, R. G., 1984, “The Problem of Strategic Behavior under Approval Voting,” _American Political Science Review_, 78: 952–958.
-* Okasha, S., 2009, “Individuals, groups, fitness and utility: multi-level selection meets social choice theory,” _Biology and Philosophy_, 24: 561–584.
-* –––, 2011, “Theory Choice and Social Choice: Kuhn versus Arrow,” _Mind_, 120: 83–115.
-* Ooghe, E. and L. Lauwers, 2005, “Non-dictatorial extensive social choice,” _Economic Theory_, 25: 721–743.
-* Ottonelli, V. and D. Porello, 2013, “On the elusive notion of meta-agreement,” _Politics, Philosophy and Economics_, 12: 68–92.
-* Parfit, D., 1984, _Reasons and Persons_, Oxford: Oxford University Press.
-* Pauly, M. and M. van Hees, 2006, “Logical Constraints on Judgment Aggregation,” _Journal of Philosophical Logic_, 35: 569–585.
-* Pearl, J., 2000, _Causality: models, reasoning, and inference_, Cambridge: Cambridge University Press.
-* Peter, F., 2003, “Gender and the foundations of social choice: The role of situated agency,” _Feminist Economics_, 9: 13–32.
-* Pettit, P., 2001, “Deliberative Democracy and the Discursive Dilemma,” _Philosophical Issues_, 11: 268–299.
-* Pigozzi, G., 2006, “Belief merging and the discursive dilemma: an argument-based account to paradoxes of judgment aggregation,” _Synthese_, 152: 285–298.
-* Pivato, M., 2017, “Epistemic democracy with correlated voters,” _Journal of Mathematical Economics_, 72: 51–69.
-* Poisson, S. D., 1837, _Recherches sur la probabilité des jugements en matière criminelle et en matière civile: précédées des règles générales du calcul des probabilités_, Paris: Bachelier, Imprimeur-Libraraire.
-* Rafiee Rad, S. and O. Roy, 2021, “Deliberation, Single-Peakedness, and Coherent Aggregation,” _American Political Science Review_, first online 22 February 2021. doi:10.1017/S0003055420001045
-* Rawls, J., 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
-* Regenwetter, M., B. Grofman, A. A. J. Marley, and I. Tsetlin, 2006, _Behavioral Social Choice_, Cambridge: Cambridge University Press.
-* Riker, W., 1982, _Liberalism against Populism_, San Francisco: W.H. Freeman and Co.
-* Roberts, K.W.S., 1980, “Interpersonal Comparability and Social Choice Theory,” _Review of Economic Studies_, 47(2): 421-439.
-* Roberts, K.W.S., 1995, “Valued Opinions or Opinionated Values: The Double Aggregation Problem,” _Choice, Welfare and Development: A Festschrift in Honour of Amartya Sen_, K. Basu, P. K. Pattanaik, and K. Suzumura (eds.), Oxford: Oxford University Press, pp. 141–165.
-* Roemer, J. E., 1996, _Theories of Distributive Justice_, Cambridge, MA: Harvard University Press.
-* Roth, A. E. and M. Sotomayor, 1992, “Two-sided matching,” _Handbook of Game Theory with Economic Applications_ (Volume 1), R. Aumann and S. Hart (eds.), Amsterdam: North Holland, pp. 485–541.
-* Russell, J. S., J. Hawthorne, and L. Buchak, 2015, “Groupthink,” _Philosophical Studies_, 172: 1287–1309.
-* Saari, D. G., 1990, “The Borda dictionary,” _Social Choice and Welfare_, 7: 279–317.
-* Salles, M. (edited with introduction), 2005, “The history of Social Choice,” Special issue, _Social Choice and Welfare_, 25: 229–564.
-* Satterthwaite, M., 1975, “Strategy-proofness and Arrow’s conditions: existence and correspondence theorems for voting procedures and social welfare functions,” _Journal of Economic Theory_, 10: 187–217.
-* Sen, A. K., 1966, “A Possibility Theorem on Majority Decisions,” _Econometrica_, 34: 491–499.
-* –––, 1970a, “The Impossibility of a Paretian Liberal,” _Journal of Political Economy_, 78: 152–157.
-* –––, 1970b, _Collective Choice and Social Welfare_, San Francisco: Holden-Day.
-* –––, 1977, “On weights and measures: informational constraints in social welfare analysis,” _Econometrica_, 45: 1539–1572.
-* –––, 1982, _Choice, Welfare and Measurement_, Oxford: Blackwell.
-* –––, 1983, “Liberty and social choice,” _Journal of Philosophy_, 80: 5–28.
-* –––, 1992, _Inequality Reexamined_, Cambridge, MA: Harvard University Press.
+* –––, 2008, “Factoring Out the Impossibility of Logical Aggregation,” *Journal of Economic Theory*, 141: 100–113.
+* Mongin, P. and M. Pivato, 2016, “Social preference and social welfare under risk and uncertainty,” *Oxford Handbook of Well-Being and Public Policy*, M. Adler and M. Fleurbaey (eds.), Oxford: Oxford University Press.
+* Morreau, M., 2010, “It simply does not add up: Trouble with overall similarity,” *Journal of Philosophy*, 107: 469–490.
+* –––, 2015, “Theory Choice and Social Choice: Kuhn Vindicated,” *Mind,* 124: 239–262.
+* –––, 2016, “Grading in Groups,” *Economics and Philosophy*, 32: 323–352.
+* Moulin, H., 1980, “On Strategy-Proofness and Single Peakedness,” *Public Choice*, 35: 437–455.
+* –––, 2004, *Fair Division And Collective Welfare*, Cambridge, MA: MIT Press.
+* Mueller, D. C., 2003, *Public Choice III*, Cambridge: Cambridge University Press.
+* Nehring, K., 2003, “Arrow’s theorem as a corollary,” *Economics Letters*, 80: 379–382.
+* Nehring, K. and C. Puppe, 2007, “The structure of strategy-proof social choice—Part I: General characterization and possibility results on median spaces,” *Journal of Economic Theory*, 135: 269–305.
+* –––, 2010, “Abstract Arrovian Aggregation,” *Journal of Economic Theory*, 145: 467–494.
+* Niemi, R. G., 1984, “The Problem of Strategic Behavior under Approval Voting,” *American Political Science Review*, 78: 952–958.
+* Okasha, S., 2009, “Individuals, groups, fitness and utility: multi-level selection meets social choice theory,” *Biology and Philosophy*, 24: 561–584.
+* –––, 2011, “Theory Choice and Social Choice: Kuhn versus Arrow,” *Mind*, 120: 83–115.
+* Ooghe, E. and L. Lauwers, 2005, “Non-dictatorial extensive social choice,” *Economic Theory*, 25: 721–743.
+* Ottonelli, V. and D. Porello, 2013, “On the elusive notion of meta-agreement,” *Politics, Philosophy and Economics*, 12: 68–92.
+* Parfit, D., 1984, *Reasons and Persons*, Oxford: Oxford University Press.
+* Pauly, M. and M. van Hees, 2006, “Logical Constraints on Judgment Aggregation,” *Journal of Philosophical Logic*, 35: 569–585.
+* Pearl, J., 2000, *Causality: models, reasoning, and inference*, Cambridge: Cambridge University Press.
+* Peter, F., 2003, “Gender and the foundations of social choice: The role of situated agency,” *Feminist Economics*, 9: 13–32.
+* Pettit, P., 2001, “Deliberative Democracy and the Discursive Dilemma,” *Philosophical Issues*, 11: 268–299.
+* Pigozzi, G., 2006, “Belief merging and the discursive dilemma: an argument-based account to paradoxes of judgment aggregation,” *Synthese*, 152: 285–298.
+* Pivato, M., 2017, “Epistemic democracy with correlated voters,” *Journal of Mathematical Economics*, 72: 51–69.
+* Poisson, S. D., 1837, *Recherches sur la probabilité des jugements en matière criminelle et en matière civile: précédées des règles générales du calcul des probabilités*, Paris: Bachelier, Imprimeur-Libraraire.
+* Rafiee Rad, S. and O. Roy, 2021, “Deliberation, Single-Peakedness, and Coherent Aggregation,” *American Political Science Review*, first online 22 February 2021. doi:10.1017/S0003055420001045
+* Rawls, J., 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Regenwetter, M., B. Grofman, A. A. J. Marley, and I. Tsetlin, 2006, *Behavioral Social Choice*, Cambridge: Cambridge University Press.
+* Riker, W., 1982, *Liberalism against Populism*, San Francisco: W.H. Freeman and Co.
+* Roberts, K.W.S., 1980, “Interpersonal Comparability and Social Choice Theory,” *Review of Economic Studies*, 47(2): 421-439.
+* Roberts, K.W.S., 1995, “Valued Opinions or Opinionated Values: The Double Aggregation Problem,” *Choice, Welfare and Development: A Festschrift in Honour of Amartya Sen*, K. Basu, P. K. Pattanaik, and K. Suzumura (eds.), Oxford: Oxford University Press, pp. 141–165.
+* Roemer, J. E., 1996, *Theories of Distributive Justice*, Cambridge, MA: Harvard University Press.
+* Roth, A. E. and M. Sotomayor, 1992, “Two-sided matching,” *Handbook of Game Theory with Economic Applications* (Volume 1), R. Aumann and S. Hart (eds.), Amsterdam: North Holland, pp. 485–541.
+* Russell, J. S., J. Hawthorne, and L. Buchak, 2015, “Groupthink,” *Philosophical Studies*, 172: 1287–1309.
+* Saari, D. G., 1990, “The Borda dictionary,” *Social Choice and Welfare*, 7: 279–317.
+* Salles, M. (edited with introduction), 2005, “The history of Social Choice,” Special issue, *Social Choice and Welfare*, 25: 229–564.
+* Satterthwaite, M., 1975, “Strategy-proofness and Arrow’s conditions: existence and correspondence theorems for voting procedures and social welfare functions,” *Journal of Economic Theory*, 10: 187–217.
+* Sen, A. K., 1966, “A Possibility Theorem on Majority Decisions,” *Econometrica*, 34: 491–499.
+* –––, 1970a, “The Impossibility of a Paretian Liberal,” *Journal of Political Economy*, 78: 152–157.
+* –––, 1970b, *Collective Choice and Social Welfare*, San Francisco: Holden-Day.
+* –––, 1977, “On weights and measures: informational constraints in social welfare analysis,” *Econometrica*, 45: 1539–1572.
+* –––, 1982, *Choice, Welfare and Measurement*, Oxford: Blackwell.
+* –––, 1983, “Liberty and social choice,” *Journal of Philosophy*, 80: 5–28.
+* –––, 1992, *Inequality Reexamined*, Cambridge, MA: Harvard University Press.
 * –––, 1998, “The Possibility of Social Choice,” Nobel lecture, December 8, 1998, Stockholm. \[[Sen 1998 available online (pdf)](http://www.nobelprize.org/nobel\_prizes/economics/laureates/1998/sen-lecture.pdf)]
-* Sertel, M. R., 1988, “Characterizing Approval Voting,” _Journal of Economic Theory_, 45: 207–211.
-* Shapley, L. and B. Grofman, 1984, “Optimizing group judgment accuracy in the presence of interdependencies,” _Public Choice_, 43: 329–343.
-* Stegenga, J., 2013, “An impossibility theorem for amalgamating evidence,” _Synthese_, 190: 2391–2411.
-* Stewart, R. T. and I. Ojea Quintana, 2018, “Probabilistic Opinion Pooling with Imprecise Probabilities,” _Journal of Philosophical Logic_, 47: 17–45.
-* Stone, M., 1961, “The Opinion Pool,” _Annals of Mathematical Statistics_, 32: 1339–1342.
-* Suppes, P., 2005, “The pre-history of Kenneth Arrow’s social choice and individual values,” _Social Choice and Welfare_, 25: 319–226.
-* Suzumura, K., 2000, “Welfare economics beyond welfarist-consequentialism,” _Japanese Economic Review_, 51: 1–32.
-* Thomson, W., 2000, “On the axiomatic method and its recent applications to game theory and resource allocation,” _Social Choice and Welfare_, 18: 327–386.
-* Tsetlin, I., M. Regenwetter, and B. Grofman, 2003, “The Impartial Culture Maximizes the Probability of Majority Cycles,” _Social Choice and Welfare_, 21: 387–398.
-* Tsuchiya, A. and J. Miyamoto, 2019, “Social Choice in Health and Health Care,” _The Handbook of Rational and Social Choice_, P. Anand, P. Pattanaik, and C. Puppe (eds.), Oxford: Oxford University Press, pp. 524–540.
-* Vacca, R., 1921, “Opinioni Individuali e Deliberazioni Collettive,” _Rivista Internazionale di Filosofia del Diritto_, 52: 52–59.
-* Ward, B., 1965, “Majority Voting and Alternative Forms of Public Enterprises,” _The Public Economy of Urban Communities_, J. Margolis (ed.), Baltimore: Johns Hopkins Press.
-* Weymark, J., 2006, “The Normative Approach to the Measurement of Multidimensional Inequality,” _Inequality and Economic Integration_, F. Farina and E. Savaglio (eds.), London: Routledge, pp. 303–328.
-* Wilson, R., 1975, “On the Theory of Aggregation,” _Journal of Economic Theory_, 10: 89–99.
+* Sertel, M. R., 1988, “Characterizing Approval Voting,” *Journal of Economic Theory*, 45: 207–211.
+* Shapley, L. and B. Grofman, 1984, “Optimizing group judgment accuracy in the presence of interdependencies,” *Public Choice*, 43: 329–343.
+* Stegenga, J., 2013, “An impossibility theorem for amalgamating evidence,” *Synthese*, 190: 2391–2411.
+* Stewart, R. T. and I. Ojea Quintana, 2018, “Probabilistic Opinion Pooling with Imprecise Probabilities,” *Journal of Philosophical Logic*, 47: 17–45.
+* Stone, M., 1961, “The Opinion Pool,” *Annals of Mathematical Statistics*, 32: 1339–1342.
+* Suppes, P., 2005, “The pre-history of Kenneth Arrow’s social choice and individual values,” *Social Choice and Welfare*, 25: 319–226.
+* Suzumura, K., 2000, “Welfare economics beyond welfarist-consequentialism,” *Japanese Economic Review*, 51: 1–32.
+* Thomson, W., 2000, “On the axiomatic method and its recent applications to game theory and resource allocation,” *Social Choice and Welfare*, 18: 327–386.
+* Tsetlin, I., M. Regenwetter, and B. Grofman, 2003, “The Impartial Culture Maximizes the Probability of Majority Cycles,” *Social Choice and Welfare*, 21: 387–398.
+* Tsuchiya, A. and J. Miyamoto, 2019, “Social Choice in Health and Health Care,” *The Handbook of Rational and Social Choice*, P. Anand, P. Pattanaik, and C. Puppe (eds.), Oxford: Oxford University Press, pp. 524–540.
+* Vacca, R., 1921, “Opinioni Individuali e Deliberazioni Collettive,” *Rivista Internazionale di Filosofia del Diritto*, 52: 52–59.
+* Ward, B., 1965, “Majority Voting and Alternative Forms of Public Enterprises,” *The Public Economy of Urban Communities*, J. Margolis (ed.), Baltimore: Johns Hopkins Press.
+* Weymark, J., 2006, “The Normative Approach to the Measurement of Multidimensional Inequality,” *Inequality and Economic Integration*, F. Farina and E. Savaglio (eds.), London: Routledge, pp. 303–328.
+* Wilson, R., 1975, “On the Theory of Aggregation,” *Journal of Economic Theory*, 10: 89–99.
 
 ## Academic Tools
 
@@ -903,4 +903,4 @@ Gärdenfors (2006) 和更一般的 Dietrich and List (2008) 以及 Dokow and Hol
 I am grateful to the editors, their reviewers, Franz Dietrich, Iain McLean, and Michael Morreau for comments.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Christian List](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/list/index.html) <[_c.list@lmu.de_](mailto:c%2elist%40lmu%2ede)>
+[Christian List](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/list/index.html) <[*c.list@lmu.de*](mailto:c%2elist%40lmu%2ede)>

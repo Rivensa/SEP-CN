@@ -1,6 +1,6 @@
 # 网络社交与伦理学 social networking and ethics (Shannon Vallor)
 
-_首次发表于 2012 年 8 月 3 日星期五；实质性修订于 2021 年 8 月 30 日星期一_
+*首次发表于 2012 年 8 月 3 日星期五；实质性修订于 2021 年 8 月 30 日星期一*
 
 在 21 世纪，像 Facebook、Twitter、WhatsApp 和 YouTube 这样的网络社交新媒体技术开始改变全球个人和机构的社交、政治和信息实践，引发了应用伦理学家和技术哲学家社群的哲学回应。尽管学术界对社交媒体的回应仍然受到这些技术快速发展性质的挑战，但对网络社交现象的紧迫关注需求凸显了一个事实，即它已经深刻地重塑了许多人类建立和/或维持几乎所有类型的伦理重要社交纽带或角色的方式：朋友与朋友、父母与子女、同事与同事、雇主与雇员、教师与学生、邻居与邻居、卖家与买家、医生与患者、选民与选民，仅举部分例子。这些技术的伦理影响也不仅仅局限于人际关系，因为已经明显，网络社交服务（以下简称 SNS）和其他新数字媒体对民主、公共机构和法治有深远影响。SNS 开发者和用户之间以及他们的线上和线下社群、企业和政府之间错综复杂的互动网络，以及这些各方利益相关者的多样且有时相互冲突的动机和利益，将在未来几十年继续需要严格的伦理分析。
 
@@ -194,119 +194,119 @@ Doxing 提出了复杂的伦理挑战（Douglas 2016）。对于遭受 doxing �
 
 ## Bibliography
 
-* Axon, S. 2021, “96% of US Users Opt-Out of App Tracking in iOS 14.5, Analytics Find,” _Ars Technica_, May 7, 2021. \[[Axion 2021 available online](https://arstechnica.com/gadgets/2021/05/96-of-us-users-opt-out-of-app-tracking-in-ios-14-5-analytics-find/)]
-* Bakardjieva, M. and A. Feenberg, 2000, “Involving the Virtual Subject,” _Ethics and Information Technology_, 2(4): 233–240.
-* Bakardjieva, M. and G. Gaden, 2012, “Web 2.0 Technologies of the Self,” _Philosophy and Technology_, 25(3): 399–413.
-* Bar-Tura, A., 2010, “Wall-to-Wall or Face-to-Face,” in _Facebook and Philosophy_, D.E. Wittkower (ed.), Chicago: Open Court, pp. 231–239.
+* Axon, S. 2021, “96% of US Users Opt-Out of App Tracking in iOS 14.5, Analytics Find,” *Ars Technica*, May 7, 2021. \[[Axion 2021 available online](https://arstechnica.com/gadgets/2021/05/96-of-us-users-opt-out-of-app-tracking-in-ios-14-5-analytics-find/)]
+* Bakardjieva, M. and A. Feenberg, 2000, “Involving the Virtual Subject,” *Ethics and Information Technology*, 2(4): 233–240.
+* Bakardjieva, M. and G. Gaden, 2012, “Web 2.0 Technologies of the Self,” *Philosophy and Technology*, 25(3): 399–413.
+* Bar-Tura, A., 2010, “Wall-to-Wall or Face-to-Face,” in *Facebook and Philosophy*, D.E. Wittkower (ed.), Chicago: Open Court, pp. 231–239.
 * Barnes, S.B., 2001, _Online Connections: Internet Interpersonal Relationship_s, Cresskill, NJ: Hampton Press.
-* Baym, N.K., 2011, “Social Networks 2.0,” in _The Handbook of Internet Studies_, M. Consalvo and C. Ess (eds.), Oxford: Wiley-Blackwell, pp. 384-405.
-* Benjamin, R., 2019, _Race After Technology: Abolitionist Tools for the New Jim Code_, New York: Polity.
+* Baym, N.K., 2011, “Social Networks 2.0,” in *The Handbook of Internet Studies*, M. Consalvo and C. Ess (eds.), Oxford: Wiley-Blackwell, pp. 384-405.
+* Benjamin, R., 2019, *Race After Technology: Abolitionist Tools for the New Jim Code*, New York: Polity.
 * BBC, 2018, “Facebook Admits it was Used to ‘Incite Offline Violence’ in Myanmar,” November 6, 2018. \[[available online](https://www.bbc.co.uk/news/world-asia-46105934)]
-* Bietti, E., 2020, “From Ethics Washing to Ethics Bashing: A View on Tech Ethics From Within Moral Philosophy,” _Proceedings of the 2020 Conference on Fairness, Accountability and Transparency_, New York: Association for Computing Machinery, pp. 210–219.
-* Bohman, J., 2008, “The Transformation of the Public Sphere: Political Authority, Communicative Freedom and Internet Publics,” in _Information Technology and Moral Philosophy_, J. van den Hoven and J. Weckert (eds.), Cambridge UK: Cambridge University Press, pp. 66–92.
-* Borgmann, A., 1984, _Technology and the Character of Contemporary Life_, Chicago: University of Chicago Press.
-* –––, 1992, _Crossing the Postmodern Divide_, Chicago: University of Chicago Press.
-* Boyd, D., 2007, “Why Youth (Heart) Social Networking Sites: The Role of Networked Publics in Teenage Social Life,” in _Youth, Identity and Social Media_, D. Buckingham (Ed.), Cambridge MA: MIT Press, pp. 119–142.
-* Boyd, D. and E. Hargittai, 2010, “Facebook Privacy Settings: Who Cares?” _First Monday_, 15(8): 13–20.
-* Briggle, A., 2008, “Real Friends: How the Internet can Foster Friendship,” _Ethics and Information Technology_, 10(1): 71–79.
-* Buchanan, E.A. and M. Zimmer, 2012, “Internet Research Ethics,” _The Stanford Encyclopedia of Philosophy_ (Spring 2015 Edition), Edward N. Zalta (ed.), URL=<[https://plato.stanford.edu/archives/spr2015/entries/ethics-internet-research/](https://plato.stanford.edu/archives/spr2011/entries/ethics-computer/)>
-* Bynum, T., 2011, “Computer and Information Ethics,” _The Stanford Encyclopedia of Philosophy_ (Spring 2011 Edition), Edward N. Zalta (ed.), URL=<[Computer and Information Ethics (Stanford Encyclopedia of Philosophy/Spring 2011 Edition)](https://plato.stanford.edu/archives/spr2011/entries/ethics-computer/)>
-* Capurro, R., 2005, “Privacy. An Intercultural Perspective,” _Ethics and Information Technology_, 7(1): 37–47.
-* –––, 2008, “Intercultural Information Ethics,” in _Handbook of Information and Computer Ethics_, K.E. Himma and H.T. Tavani (eds.), Hoboken, NJ: Wiley and Sons, pp. 639–665.
-* –––, 2011, “Never Enter Your Real Data,” _International Review of Information Ethics_, 16: 74–78.
-* Cocking, D., 2008, “Plural Selves and Relational Identity,” in _Information Technology and Moral Philosophy_, J. van den Hoven and J. Weckert (eds.), Cambridge UK: Cambridge University Press, pp. 123–141.
-* Cocking, D. and S. Matthews, 2000, “Unreal Friends,” _Ethics and Information Technology_, 2(4): 223–231.
-* Consalvo, M. and C. Ess, 2011, _The Handbook of Internet Studies_, Oxford: Wiley-Blackwell.
-* Dahlberg, L., 2001, “The Internet and Democratic Discourse: Exploring the Prospects of Online Deliberative Forums Extending the Public Sphere,” _Information, Communication and Society_, 4(4): 615–633.
-* de Laat, P. 2006, “Trusting Virtual Trust,” _Ethics and Information Technology_, 7(3): 167–180.
-* Dreyfus, H., 2001, _On the Internet_, New York: Routledge.
-* –––, 2004, “Nihilism on the Information Highway: Anonymity versus Commitment in the Present Age,” in _Community in the Digital Age: Philosophy and Practice_, A. Feenberg and D. Barney (eds.), Lanham, MD: Rowman & Littlefield, pp. 69–81.
-* Douglas, D.M., 2016, “Doxing: A Conceptual Analysis.” _Ethics and Information Technology_, 18: 199–210.
-* Elder, A., 2014, “Excellent Online Friendships: An Aristotelian Defense of Social Media,” _Ethics and Information Technology_, 16(4): 287–297.
-* –––, 2020, “The Interpersonal is Political: Unfriending to Promote Civic Discourse on Social Media,” _Ethics and Information Technology_, 22: 15–24.
-* Elgesem, D., 1996, “Privacy, Respect for Persons, and Risk,” in _Philosophical Perspectives on Computer-Mediated Communication_, C. Ess (ed.), Albany, NY: SUNY Press, pp. 45–66.
-* Ellison, N.B., C. Steinfeld, and C. Lampe, 2007, “The Benefits of Facebook ‘Friends’: Social Capital and College Students’ Use of Online Social Network Sites,” _Journal of Computer-Mediated Communication_, 12(4): article 1.
-* Ess, C., 1996, “The Political Computer: Democracy, CMC and Habermas,” in _Philosophical Perspectives on Computer-Mediated Communication_, (C. Ess, ed.), Albany, NY: SUNY Press, pp. 197–230.
-* –––, 2005a, “Lost in Translation? Intercultural Dialogues on Privacy and Information Ethics,” _Ethics and Information Technology_, 7(1): 1–6.
-* –––, 2005b, “Moral Imperatives for Life in an Intercultural Global Village,” in _The Impact of the Internet on our Moral Lives_, R.J. Cavalier (ed.), Albany NY: SUNY Press, pp. 161–193.
-* –––, 2006, “Ethical Pluralism and Global Information Ethics,” _Ethics and Information Technology_, 8(4): 215–226.
-* –––, 2010, “The Embodied Self in a Digital Age: Possibilities, Risks and Prospects for a Pluralistic (democratic/liberal) Future?” _Nordicom Information_, 32(2): 105–118.
-* –––, 2011, “Self, Community and Ethics in Digital Mediatized Worlds,” in _Trust and Virtual Worlds: Contemporary Perspectives_, C. Ess and M. Thorseth (eds.), Oxford: Peter Lang, pp. vii–xxix.
-* –––, 2021, “Interpretative Pros Hen Pluralism: from computer-mediated colonization to a pluralistic intercultural digital ethics,” _Philosophy and Technology_, 33(4): 551–569.
-* Feenberg, A., 1999, _Questioning Technology_, New York: Routledge.
-* Floridi, L., 2011, “The Informational Nature of Personal Identity,” _Minds and Machines_, 21(4): 549–566.
-* –––, 2015a, “Free Online Services: Enabling, Disenfranchising, Disempowering,” _Philosophy and Technology_, 28: 163–166.
-* –––, 2015b, “The New Grey Power,” _Philosophy and Technology_, 28: 329–332.
-* franzke, a. s., A. Bechmann, M. Zimmer, C. Ess, and the Association of Internet Researchers, 2020, _Internet Research: Ethical Guidelines 3.0_, Association of Internet Researchers. \[[franzke, et al. 2020 available online](https://aoir.org/reports/ethics3.pdf)]
-* Frick, M. and A. Oberprantacher, 2011, “Shared is Not Yet Sharing, Or: What Makes Social Networking Services Public?” _International Review of Information Ethics_, 15: 18–23.
-* Frischmann, B. and E. Selinger, 2018, _Re-Engineering Humanity_, Cambridge: Cambridge University Press.
-* Froding, B. and Peterson, M., 2012, “Why Virtual Friendship is No Genuine Friendship,” _Ethics and Information Technology_, 14(3): 201–207.
-* Giles, D., 2006, “Constructing Identities in Cyberspace: The Case of Eating Disorders,” _British Journal of Social Psychology_, 45: 463–477.
-* Gillespie, T., 2020, “Content Moderation, AI, and the Question of Scale,” _Big Data and Society_, 7(2). \[[Gillespie 2020 available online](https://journals.sagepub.com/doi/full/10.1177/2053951720943234)]
-* Goel, V., 2014, “Facebook Tinkers with Users’ Emotions in News Feed Experiment, Stirring Outcry,” _The New York Times_ (Technology section), June 29, 2014. \[[Goel 2014 available online](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html?searchResultPosition=1)]
+* Bietti, E., 2020, “From Ethics Washing to Ethics Bashing: A View on Tech Ethics From Within Moral Philosophy,” *Proceedings of the 2020 Conference on Fairness, Accountability and Transparency*, New York: Association for Computing Machinery, pp. 210–219.
+* Bohman, J., 2008, “The Transformation of the Public Sphere: Political Authority, Communicative Freedom and Internet Publics,” in *Information Technology and Moral Philosophy*, J. van den Hoven and J. Weckert (eds.), Cambridge UK: Cambridge University Press, pp. 66–92.
+* Borgmann, A., 1984, *Technology and the Character of Contemporary Life*, Chicago: University of Chicago Press.
+* –––, 1992, *Crossing the Postmodern Divide*, Chicago: University of Chicago Press.
+* Boyd, D., 2007, “Why Youth (Heart) Social Networking Sites: The Role of Networked Publics in Teenage Social Life,” in *Youth, Identity and Social Media*, D. Buckingham (Ed.), Cambridge MA: MIT Press, pp. 119–142.
+* Boyd, D. and E. Hargittai, 2010, “Facebook Privacy Settings: Who Cares?” *First Monday*, 15(8): 13–20.
+* Briggle, A., 2008, “Real Friends: How the Internet can Foster Friendship,” *Ethics and Information Technology*, 10(1): 71–79.
+* Buchanan, E.A. and M. Zimmer, 2012, “Internet Research Ethics,” *The Stanford Encyclopedia of Philosophy* (Spring 2015 Edition), Edward N. Zalta (ed.), URL=<[https://plato.stanford.edu/archives/spr2015/entries/ethics-internet-research/](https://plato.stanford.edu/archives/spr2011/entries/ethics-computer/)>
+* Bynum, T., 2011, “Computer and Information Ethics,” *The Stanford Encyclopedia of Philosophy* (Spring 2011 Edition), Edward N. Zalta (ed.), URL=<[Computer and Information Ethics (Stanford Encyclopedia of Philosophy/Spring 2011 Edition)](https://plato.stanford.edu/archives/spr2011/entries/ethics-computer/)>
+* Capurro, R., 2005, “Privacy. An Intercultural Perspective,” *Ethics and Information Technology*, 7(1): 37–47.
+* –––, 2008, “Intercultural Information Ethics,” in *Handbook of Information and Computer Ethics*, K.E. Himma and H.T. Tavani (eds.), Hoboken, NJ: Wiley and Sons, pp. 639–665.
+* –––, 2011, “Never Enter Your Real Data,” *International Review of Information Ethics*, 16: 74–78.
+* Cocking, D., 2008, “Plural Selves and Relational Identity,” in *Information Technology and Moral Philosophy*, J. van den Hoven and J. Weckert (eds.), Cambridge UK: Cambridge University Press, pp. 123–141.
+* Cocking, D. and S. Matthews, 2000, “Unreal Friends,” *Ethics and Information Technology*, 2(4): 223–231.
+* Consalvo, M. and C. Ess, 2011, *The Handbook of Internet Studies*, Oxford: Wiley-Blackwell.
+* Dahlberg, L., 2001, “The Internet and Democratic Discourse: Exploring the Prospects of Online Deliberative Forums Extending the Public Sphere,” *Information, Communication and Society*, 4(4): 615–633.
+* de Laat, P. 2006, “Trusting Virtual Trust,” *Ethics and Information Technology*, 7(3): 167–180.
+* Dreyfus, H., 2001, *On the Internet*, New York: Routledge.
+* –––, 2004, “Nihilism on the Information Highway: Anonymity versus Commitment in the Present Age,” in *Community in the Digital Age: Philosophy and Practice*, A. Feenberg and D. Barney (eds.), Lanham, MD: Rowman & Littlefield, pp. 69–81.
+* Douglas, D.M., 2016, “Doxing: A Conceptual Analysis.” *Ethics and Information Technology*, 18: 199–210.
+* Elder, A., 2014, “Excellent Online Friendships: An Aristotelian Defense of Social Media,” *Ethics and Information Technology*, 16(4): 287–297.
+* –––, 2020, “The Interpersonal is Political: Unfriending to Promote Civic Discourse on Social Media,” *Ethics and Information Technology*, 22: 15–24.
+* Elgesem, D., 1996, “Privacy, Respect for Persons, and Risk,” in *Philosophical Perspectives on Computer-Mediated Communication*, C. Ess (ed.), Albany, NY: SUNY Press, pp. 45–66.
+* Ellison, N.B., C. Steinfeld, and C. Lampe, 2007, “The Benefits of Facebook ‘Friends’: Social Capital and College Students’ Use of Online Social Network Sites,” *Journal of Computer-Mediated Communication*, 12(4): article 1.
+* Ess, C., 1996, “The Political Computer: Democracy, CMC and Habermas,” in *Philosophical Perspectives on Computer-Mediated Communication*, (C. Ess, ed.), Albany, NY: SUNY Press, pp. 197–230.
+* –––, 2005a, “Lost in Translation? Intercultural Dialogues on Privacy and Information Ethics,” *Ethics and Information Technology*, 7(1): 1–6.
+* –––, 2005b, “Moral Imperatives for Life in an Intercultural Global Village,” in *The Impact of the Internet on our Moral Lives*, R.J. Cavalier (ed.), Albany NY: SUNY Press, pp. 161–193.
+* –––, 2006, “Ethical Pluralism and Global Information Ethics,” *Ethics and Information Technology*, 8(4): 215–226.
+* –––, 2010, “The Embodied Self in a Digital Age: Possibilities, Risks and Prospects for a Pluralistic (democratic/liberal) Future?” *Nordicom Information*, 32(2): 105–118.
+* –––, 2011, “Self, Community and Ethics in Digital Mediatized Worlds,” in *Trust and Virtual Worlds: Contemporary Perspectives*, C. Ess and M. Thorseth (eds.), Oxford: Peter Lang, pp. vii–xxix.
+* –––, 2021, “Interpretative Pros Hen Pluralism: from computer-mediated colonization to a pluralistic intercultural digital ethics,” *Philosophy and Technology*, 33(4): 551–569.
+* Feenberg, A., 1999, *Questioning Technology*, New York: Routledge.
+* Floridi, L., 2011, “The Informational Nature of Personal Identity,” *Minds and Machines*, 21(4): 549–566.
+* –––, 2015a, “Free Online Services: Enabling, Disenfranchising, Disempowering,” *Philosophy and Technology*, 28: 163–166.
+* –––, 2015b, “The New Grey Power,” *Philosophy and Technology*, 28: 329–332.
+* franzke, a. s., A. Bechmann, M. Zimmer, C. Ess, and the Association of Internet Researchers, 2020, *Internet Research: Ethical Guidelines 3.0*, Association of Internet Researchers. \[[franzke, et al. 2020 available online](https://aoir.org/reports/ethics3.pdf)]
+* Frick, M. and A. Oberprantacher, 2011, “Shared is Not Yet Sharing, Or: What Makes Social Networking Services Public?” *International Review of Information Ethics*, 15: 18–23.
+* Frischmann, B. and E. Selinger, 2018, *Re-Engineering Humanity*, Cambridge: Cambridge University Press.
+* Froding, B. and Peterson, M., 2012, “Why Virtual Friendship is No Genuine Friendship,” *Ethics and Information Technology*, 14(3): 201–207.
+* Giles, D., 2006, “Constructing Identities in Cyberspace: The Case of Eating Disorders,” *British Journal of Social Psychology*, 45: 463–477.
+* Gillespie, T., 2020, “Content Moderation, AI, and the Question of Scale,” *Big Data and Society*, 7(2). \[[Gillespie 2020 available online](https://journals.sagepub.com/doi/full/10.1177/2053951720943234)]
+* Goel, V., 2014, “Facebook Tinkers with Users’ Emotions in News Feed Experiment, Stirring Outcry,” *The New York Times* (Technology section), June 29, 2014. \[[Goel 2014 available online](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html?searchResultPosition=1)]
 * Grodzinsky, F.S. and H.T. Tavani, 2010, “Applying the ‘Contextual Integrity’ Model of Privacy to Personal Blogs in the Blogosphere,” _International Journal of Internet Research Ethic_s, 3(1): 38–47.
-* Habermas, J., 1992/1998, _Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy_, Cambridge, MA: MIT Press.
-* Hamington, M., 2010, “Care Ethics, Friendship and Facebook,” in _Facebook and Philosophy_, D.E. Wittkower (ed.), Chicago: Open Court, pp. 135–145.
+* Habermas, J., 1992/1998, *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, Cambridge, MA: MIT Press.
+* Hamington, M., 2010, “Care Ethics, Friendship and Facebook,” in *Facebook and Philosophy*, D.E. Wittkower (ed.), Chicago: Open Court, pp. 135–145.
 * Hampton, K., L. Rainie, W. Lu, M. Dwyer, I. Shin, and K. Purcell, 2014, “Social Media and the ‘Spiral of Silence’,” Pew Research Center, Published August 26, 2014, available online.
-* Hao, K. 2021. “Stop Talking About AI Ethics. It’s Time to Talk About Power,” _MIT Technology Review_, April 23, 2021. \[[Hao 2021 available online](https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/)]
-* Heidegger, M., 1954 \[1977], _The Question Concerning Technology and Other Essays_, New York: Harper and Row.
-* Honglaradom, S., 2007, “Analysis and Justification of Privacy from a Buddhist Perspective,” in S. Hongladarom and C. Ess (eds.), _Information Technology Ethics: Cultural Perspectives_, Hershey, PA: Idea Group, pp. 108–122.
-* –––, 2011, “Personal Identity and the Self in the Online and Offline World,” _Minds and Machines_, 21(4): 533–548.
-* Hongladarom, S. and J. Britz, 2010, “Intercultural Information Ethics,” _International Review of Information Ethics_, 13: 2–5.
-* Hull, G., 2015, “Successful Failure: What Foucault Can Teach Us about Privacy Self-Management in a World of Facebook and Big Data,” _Ethics and Information Technology_, online. doi:10.1007/s10676-015-9363-z
-* Hull, G., H.R. Lipford, and C. Latulipe, 2011, “Contextual Gaps: Privacy Issues on Facebook,” _Ethics and Information Technology_, 13(4): 289–302.
-* Introna, L., 2011, “Phenomenological Approaches to Ethics and Information Technology,” _The Stanford Encyclopedia of Philosophy_ (Summer 2011 Edition), Edward N. Zalta (ed.), URL=<[Phenomenological Approaches to Ethics and Information Technology (Stanford Encyclopedia of Philosophy/Summer 2011 Edition)](https://plato.stanford.edu/archives/sum2011/entries/ethics-it-phenomenology/)>
+* Hao, K. 2021. “Stop Talking About AI Ethics. It’s Time to Talk About Power,” *MIT Technology Review*, April 23, 2021. \[[Hao 2021 available online](https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/)]
+* Heidegger, M., 1954 \[1977], *The Question Concerning Technology and Other Essays*, New York: Harper and Row.
+* Honglaradom, S., 2007, “Analysis and Justification of Privacy from a Buddhist Perspective,” in S. Hongladarom and C. Ess (eds.), *Information Technology Ethics: Cultural Perspectives*, Hershey, PA: Idea Group, pp. 108–122.
+* –––, 2011, “Personal Identity and the Self in the Online and Offline World,” *Minds and Machines*, 21(4): 533–548.
+* Hongladarom, S. and J. Britz, 2010, “Intercultural Information Ethics,” *International Review of Information Ethics*, 13: 2–5.
+* Hull, G., 2015, “Successful Failure: What Foucault Can Teach Us about Privacy Self-Management in a World of Facebook and Big Data,” *Ethics and Information Technology*, online. doi:10.1007/s10676-015-9363-z
+* Hull, G., H.R. Lipford, and C. Latulipe, 2011, “Contextual Gaps: Privacy Issues on Facebook,” *Ethics and Information Technology*, 13(4): 289–302.
+* Introna, L., 2011, “Phenomenological Approaches to Ethics and Information Technology,” *The Stanford Encyclopedia of Philosophy* (Summer 2011 Edition), Edward N. Zalta (ed.), URL=<[Phenomenological Approaches to Ethics and Information Technology (Stanford Encyclopedia of Philosophy/Summer 2011 Edition)](https://plato.stanford.edu/archives/sum2011/entries/ethics-it-phenomenology/)>
 * Ito, M., et al., 2009, _Hanging Out, Messing Around, Geeking Out: Living and Learning with New Medi_a, Cambridge, MA: MIT Press.
-* Johnson, Deborah G., 1985, _Computer Ethics,_ Englewood Cliffs, NJ: Prentice Hall.
-* Kidd, I.J., H. Battaly, and Q. Cassam, 2020, _Vice Epistemology_, New York : Routledge.
-* Kristjánsson, K., 2021, “Online Aristotelian Character Friendship as an Augmented Form of Penpalship,” _Philosophy and Technology_, 34: 289–307.
-* Lanier, J. 2010, _You Are Not a Gadget: A Manifesto_, New York: Knopf.
-* Levy, N., 2020, “Virtue Signaling Is Virtuous,” _Synthese_, published online 16 April 2020. doi:10.1007/s11229-020-02653-9
+* Johnson, Deborah G., 1985, *Computer Ethics,* Englewood Cliffs, NJ: Prentice Hall.
+* Kidd, I.J., H. Battaly, and Q. Cassam, 2020, *Vice Epistemology*, New York : Routledge.
+* Kristjánsson, K., 2021, “Online Aristotelian Character Friendship as an Augmented Form of Penpalship,” *Philosophy and Technology*, 34: 289–307.
+* Lanier, J. 2010, *You Are Not a Gadget: A Manifesto*, New York: Knopf.
+* Levy, N., 2020, “Virtue Signaling Is Virtuous,” *Synthese*, published online 16 April 2020. doi:10.1007/s11229-020-02653-9
 * Manders-Huits, N., 2010, “Practical versus Moral Identities in Identity Management,” _Ethics and Information Technolog_y, 12(1): 43–55.
-* Marin, L., 2021, “Sharing (Mis)information on Social Networking Sites: An Exploration of the Norms for Distributing Content Authored by Others,” _Ethics and Information Technology_, published online 02 February 2021. doi:10.1007/s10676-021-09578-y
-* Marturano, A., 2011, “The Ethics of Online Social Networks—An Introduction,” _International Review of Information Ethics_, 16: 3–5.
-* Miller, M.E., 2021, “Pizzagate’s Violent Legacy,” _The Washington Post_, February 16, 2021. \[[Miller 2021 available online](https://www.washingtonpost.com/dc-md-va/2021/02/16/pizzagate-qanon-capitol-attack/)]
-* Moor, J., 1985, “What is Computer Ethics?” _Metaphilosophy_, 16(4): 266–275.
-* –––, 2008, “Why We Need Better Ethics for Emerging Technologies,” in _Information Technology and Moral Philosophy_, J. van den Hoven and J. Weckert (eds.), Cambridge: UK: Cambridge University Press, pp. 26–39.
-* Nissenbaum, M., 2004, “Privacy as Contextual Integrity,” _Washington Law Review_, 79(1): 119–157.
-* –––, 2010, Privacy in Context: _Technology, Policy, and the Integrity of Social Life_, Palo Alto, CA: Stanford University Press.
-* Parkin, S., 2018, “The YouTube Stars Heading for Burnout: ‘The Most Fun Job Imaginable Became Deeply Bleak’”, _The Guardian_, September 8, 2018. \[[Parkin 2018 available online](https://www.theguardian.com/technology/2018/sep/08/youtube-stars-burnout-fun-bleak-stressed)]
-* Parsell, M., 2008, “Pernicious Virtual Communities: Identity, Polarisation and the Web 2.0,” _Ethics and Information Technology_, 10(1): 41–56.
-* Protevi, J., 2018. “Realpolitik and Academic Freedom,” in _Academic Freedom_, J. Lackey (ed.), Oxford: Oxford University Press, pp. 85–101.
-* Puotinen, S., 2011, “Twitter Cares? Using Twitter to Care About, Care for and Care With Women Who Have Had Abortions,” _International Review of Information Ethics_, 16: 79–84.
-* Rini, R., 2017, “Fake News and Partisan Epistemology,” _Kennedy Institute of Ethics Journal_, \[[Rini 2017 available online](https://kiej.georgetown.edu/fake-news-partisan-epistemology/)]
-* Roberts, S.T., 2019, _Behind the Screen: Content Moderation in the Shadows of Social Media_, New Haven: Yale University Press.
-* Rodogno, R., 2012, “Personal Identity Online,” _Philosophy and Technology_, 25(3): 309–328.
-* Salter, M., 2017, _Crime, Justice and Social Media_, New York: Routledge.
+* Marin, L., 2021, “Sharing (Mis)information on Social Networking Sites: An Exploration of the Norms for Distributing Content Authored by Others,” *Ethics and Information Technology*, published online 02 February 2021. doi:10.1007/s10676-021-09578-y
+* Marturano, A., 2011, “The Ethics of Online Social Networks—An Introduction,” *International Review of Information Ethics*, 16: 3–5.
+* Miller, M.E., 2021, “Pizzagate’s Violent Legacy,” *The Washington Post*, February 16, 2021. \[[Miller 2021 available online](https://www.washingtonpost.com/dc-md-va/2021/02/16/pizzagate-qanon-capitol-attack/)]
+* Moor, J., 1985, “What is Computer Ethics?” *Metaphilosophy*, 16(4): 266–275.
+* –––, 2008, “Why We Need Better Ethics for Emerging Technologies,” in *Information Technology and Moral Philosophy*, J. van den Hoven and J. Weckert (eds.), Cambridge: UK: Cambridge University Press, pp. 26–39.
+* Nissenbaum, M., 2004, “Privacy as Contextual Integrity,” *Washington Law Review*, 79(1): 119–157.
+* –––, 2010, Privacy in Context: *Technology, Policy, and the Integrity of Social Life*, Palo Alto, CA: Stanford University Press.
+* Parkin, S., 2018, “The YouTube Stars Heading for Burnout: ‘The Most Fun Job Imaginable Became Deeply Bleak’”, *The Guardian*, September 8, 2018. \[[Parkin 2018 available online](https://www.theguardian.com/technology/2018/sep/08/youtube-stars-burnout-fun-bleak-stressed)]
+* Parsell, M., 2008, “Pernicious Virtual Communities: Identity, Polarisation and the Web 2.0,” *Ethics and Information Technology*, 10(1): 41–56.
+* Protevi, J., 2018. “Realpolitik and Academic Freedom,” in *Academic Freedom*, J. Lackey (ed.), Oxford: Oxford University Press, pp. 85–101.
+* Puotinen, S., 2011, “Twitter Cares? Using Twitter to Care About, Care for and Care With Women Who Have Had Abortions,” *International Review of Information Ethics*, 16: 79–84.
+* Rini, R., 2017, “Fake News and Partisan Epistemology,” *Kennedy Institute of Ethics Journal*, \[[Rini 2017 available online](https://kiej.georgetown.edu/fake-news-partisan-epistemology/)]
+* Roberts, S.T., 2019, *Behind the Screen: Content Moderation in the Shadows of Social Media*, New Haven: Yale University Press.
+* Rodogno, R., 2012, “Personal Identity Online,” *Philosophy and Technology*, 25(3): 309–328.
+* Salter, M., 2017, *Crime, Justice and Social Media*, New York: Routledge.
 * Sharp, R., 2012, “The Obstacles Against Reaching the Highest Level of Aristotelian Friendship Online,” _Ethics and Information Technolog_y, 14(3): 231–239.
 * Smith, A., 2011, “Why Americans Use Social Media,” Pew Research Center, 15 November 2011, \[[Smith 2011 available online](https://www.pewresearch.org/internet/2011/11/15/why-americans-use-social-media/)].
-* Spinello, R.A., 2011, “Privacy and Social Networking Technology,” _International Review of Information Ethics_, 16: 41–46.
-* Stark, L. and A.L. Hoffmann, 2019, “Data is the New What? Popular Metaphors and Professional Ethics in Emerging Data Cultures.” _Journal of Cultural Analytics_, 1(1), May 2, 2019. \[[Stark and Hoffman 2019 available online](https://culturalanalytics.org/article/11052-data-is-the-new-what-popular-metaphors-amp-professional-ethics-in-emerging-data-culture)]
-* Stokes, P., 2012, “Ghosts in the Machine: Do the Dead Live on in Facebook?,” _Philosophy and Technology_, 25(3): 363–379.
-* Sunstein, C., 2008, “Democracy and the Internet,” in _Information Technology and Moral Philosophy_, J. van den Hoven and J. Weckert (eds.), Cambridge UK: Cambridge University Press, pp. 93–110.
-* Tavani, H.T., 2005, “The Impact of the Internet on our Moral Condition: Do we Need a New Framework of Ethics?” in _The Impact of the Internet on our Moral Lives_, R.J. Cavalier (ed.), Albany, NY: SUNY Press, pp. 215–237.
-* –––, 2007, “Philosophical Theories of Privacy: Implications for an Adequate Online Privacy Policy,” _Metaphilosophy_, 38(1): 1–22.
-* Tosi, J. and B. Warmke, 2020, _Grandstanding: The Use and Abuse of Moral Talk_, New York: Oxford University Press.
-* Turkle, S., 1995, _Life on the Screen: Identity in the Age of the Internet_, New York: Simon and Schuster.
-* –––, 2011, _Alone Together: Why we Expect More from Technology and Less from Each Other_, New York: Basic Books.
-* –––, 2015, _Reclaiming Conversation: The Power of Talk in a Digital Age_, New York: Penguin Press.
-* Turp, M.-J. 2020., “Social Media, Interpersonal Relations and the Objective Attitude,” _Ethics and Information Technology_, 22: 269–279.
-* Vaidhyanathan, S., 2018, _Antisocial Media_\*: How Facebook Disconnects Us and Undermines Democracy\*, New York: Oxford University Press.
-* Vallor, S., 2010, “Social Networking Technology and the Virtues,” _Ethics and Information Technology_, 12 (2): 157–170.
-* –––, 2012, “Flourishing on Facebook: Virtue Friendship and New Social Media,” _Ethics and Information Technology_, 14(3): 185–199.
-* –––, 2016, _Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting_. New York: Oxford University Press.
-* van den Eede, Y., 2010, “‘Conversation of Mankind’ or ‘Idle Talk’?: A Pragmatist Approach to Social Networking Sites,” _Ethics and Information Technology_, 12(2): 195–206.
-* Véliz, C., 2021, _Privacy is Power_, New York: Penguin Press.
-* Verbeek, P., 2005, _What Things Do: Philosophical Reflections on Technology, Agency and Design_, University Park, PA: Pennsylvania State University Press.
-* Wagner, B., 2021. “Fact Check: Hilary Clinton was not Hanged at Guantanamo Bay,” _USA Today_, June 17 2021. \[[Wagner 2021 available online](https://eu.usatoday.com/story/news/factcheck/2021/06/17/fact-check-hillary-clinton-not-hanged-guantanamo-bay/7687922002/)]
+* Spinello, R.A., 2011, “Privacy and Social Networking Technology,” *International Review of Information Ethics*, 16: 41–46.
+* Stark, L. and A.L. Hoffmann, 2019, “Data is the New What? Popular Metaphors and Professional Ethics in Emerging Data Cultures.” *Journal of Cultural Analytics*, 1(1), May 2, 2019. \[[Stark and Hoffman 2019 available online](https://culturalanalytics.org/article/11052-data-is-the-new-what-popular-metaphors-amp-professional-ethics-in-emerging-data-culture)]
+* Stokes, P., 2012, “Ghosts in the Machine: Do the Dead Live on in Facebook?,” *Philosophy and Technology*, 25(3): 363–379.
+* Sunstein, C., 2008, “Democracy and the Internet,” in *Information Technology and Moral Philosophy*, J. van den Hoven and J. Weckert (eds.), Cambridge UK: Cambridge University Press, pp. 93–110.
+* Tavani, H.T., 2005, “The Impact of the Internet on our Moral Condition: Do we Need a New Framework of Ethics?” in *The Impact of the Internet on our Moral Lives*, R.J. Cavalier (ed.), Albany, NY: SUNY Press, pp. 215–237.
+* –––, 2007, “Philosophical Theories of Privacy: Implications for an Adequate Online Privacy Policy,” *Metaphilosophy*, 38(1): 1–22.
+* Tosi, J. and B. Warmke, 2020, *Grandstanding: The Use and Abuse of Moral Talk*, New York: Oxford University Press.
+* Turkle, S., 1995, *Life on the Screen: Identity in the Age of the Internet*, New York: Simon and Schuster.
+* –––, 2011, *Alone Together: Why we Expect More from Technology and Less from Each Other*, New York: Basic Books.
+* –––, 2015, *Reclaiming Conversation: The Power of Talk in a Digital Age*, New York: Penguin Press.
+* Turp, M.-J. 2020., “Social Media, Interpersonal Relations and the Objective Attitude,” *Ethics and Information Technology*, 22: 269–279.
+* Vaidhyanathan, S., 2018, *Antisocial Media*\*: How Facebook Disconnects Us and Undermines Democracy\*, New York: Oxford University Press.
+* Vallor, S., 2010, “Social Networking Technology and the Virtues,” *Ethics and Information Technology*, 12 (2): 157–170.
+* –––, 2012, “Flourishing on Facebook: Virtue Friendship and New Social Media,” *Ethics and Information Technology*, 14(3): 185–199.
+* –––, 2016, *Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting*. New York: Oxford University Press.
+* van den Eede, Y., 2010, “‘Conversation of Mankind’ or ‘Idle Talk’?: A Pragmatist Approach to Social Networking Sites,” *Ethics and Information Technology*, 12(2): 195–206.
+* Véliz, C., 2021, *Privacy is Power*, New York: Penguin Press.
+* Verbeek, P., 2005, *What Things Do: Philosophical Reflections on Technology, Agency and Design*, University Park, PA: Pennsylvania State University Press.
+* Wagner, B., 2021. “Fact Check: Hilary Clinton was not Hanged at Guantanamo Bay,” *USA Today*, June 17 2021. \[[Wagner 2021 available online](https://eu.usatoday.com/story/news/factcheck/2021/06/17/fact-check-hillary-clinton-not-hanged-guantanamo-bay/7687922002/)]
 * Wandel, T. and A. Beavers, 2011, “Playing Around with Identity,” in _Facebook and Philosoph_y, D.E. Wittkower (ed.), Chicago: Open Court, pp. 89–96.
-* Westra, E., 2021, “Virtue Signaling and Moral Progress,” _Philosophy and Public Affairs_, 49(2). \[[Westra 2021 available online](https://onlinelibrary.wiley.com/doi/full/10.1111/papa.12187)]
-* Wilson, J., 2018, “Doxxing, assault, death threats: the new dangers facing US journalists covering extremism,” _The Guardian_, June 14, 2018. \[[Wilson 2018 available online](https://www.theguardian.com/world/2018/jun/14/doxxing-assault-death-threats-the-new-dangers-facing-us-journalists-covering-extremism)]
-* Wong, P.H., 2010, “The Good Life in Intercultural Information Ethics: A New Agenda,” _International Review of Information Ethics_, 13: 26–32.
-* –––, 2012, “Dao, Harmony and Personhood: Towards a Confucian Ethics of Technology,” _Philosophy and Technology_, 25(1): 67–86.
-* –––, 2013, “Confucian Social Media: An Oxymoron?” _Dao_, 12: 283–296.
-* Woodfield, K. (ed.), 2018, _The Ethics of Online Research_, Bingley, UK: Emerald Publishing.
-* Zuboff, S., 2019, _The Age of Surveillance Capitalism: The Fight for A Human Future at the New Frontier of Power_, New York: Public Affairs.
+* Westra, E., 2021, “Virtue Signaling and Moral Progress,” *Philosophy and Public Affairs*, 49(2). \[[Westra 2021 available online](https://onlinelibrary.wiley.com/doi/full/10.1111/papa.12187)]
+* Wilson, J., 2018, “Doxxing, assault, death threats: the new dangers facing US journalists covering extremism,” *The Guardian*, June 14, 2018. \[[Wilson 2018 available online](https://www.theguardian.com/world/2018/jun/14/doxxing-assault-death-threats-the-new-dangers-facing-us-journalists-covering-extremism)]
+* Wong, P.H., 2010, “The Good Life in Intercultural Information Ethics: A New Agenda,” *International Review of Information Ethics*, 13: 26–32.
+* –––, 2012, “Dao, Harmony and Personhood: Towards a Confucian Ethics of Technology,” *Philosophy and Technology*, 25(1): 67–86.
+* –––, 2013, “Confucian Social Media: An Oxymoron?” *Dao*, 12: 283–296.
+* Woodfield, K. (ed.), 2018, *The Ethics of Online Research*, Bingley, UK: Emerald Publishing.
+* Zuboff, S., 2019, *The Age of Surveillance Capitalism: The Fight for A Human Future at the New Frontier of Power*, New York: Public Affairs.
 
 ## Academic Tools
 
@@ -318,8 +318,8 @@ Doxing 提出了复杂的伦理挑战（Douglas 2016）。对于遭受 doxing �
 
 ## Other Internet Resources
 
-* Green, B., 2021, “[The Contestation of Tech Ethics: A Sociotechnical Approach to Ethics and Technology in Action,” manuscript available at _arXiv.org_.](https://arxiv.org/abs/2106.01784)
-* [Weinberg, J. 2020, “](https://arxiv.org/abs/2106.01784)[Illusion and Agreement in the Debate Over Intolerance](https://dailynous.com/2020/07/09/illusion-agreement-debate-intolerance/),” _Daily Noûs_, July 9, 2020.
+* Green, B., 2021, “[The Contestation of Tech Ethics: A Sociotechnical Approach to Ethics and Technology in Action,” manuscript available at *arXiv.org*.](https://arxiv.org/abs/2106.01784)
+* [Weinberg, J. 2020, “](https://arxiv.org/abs/2106.01784)[Illusion and Agreement in the Debate Over Intolerance](https://dailynous.com/2020/07/09/illusion-agreement-debate-intolerance/),” *Daily Noûs*, July 9, 2020.
 * [Social Networking](http://www.pewinternet.org/topics/Social-Networking.aspx), Pew Research Center, Internet and American Life Project.
 * [Electronic Privacy Information Center](http://epic.org/privacy/socialnet).
 
@@ -328,4 +328,4 @@ Doxing 提出了复杂的伦理挑战（Douglas 2016）。对于遭受 doxing �
 [Aristotle, General Topics: ethics](https://plato.stanford.edu/entries/aristotle-ethics/) | [character, moral](https://plato.stanford.edu/entries/moral-character/) | [computing: and moral responsibility](https://plato.stanford.edu/entries/computing-responsibility/) | [ethics: search engines and](https://plato.stanford.edu/entries/ethics-search/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Habermas, Jürgen](https://plato.stanford.edu/entries/habermas/) | [information technology: and moral values](https://plato.stanford.edu/entries/it-moral-values/) | [information technology: and privacy](https://plato.stanford.edu/entries/it-privacy/) | [information technology: phenomenological approaches to ethics and](https://plato.stanford.edu/entries/ethics-it-phenomenology/) | [personal identity: and ethics](https://plato.stanford.edu/entries/identity-ethics/) | [privacy](https://plato.stanford.edu/entries/privacy/) | [publicity](https://plato.stanford.edu/entries/publicity/) | [technology, philosophy of](https://plato.stanford.edu/entries/technology/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Shannon Vallor](https://www.ed.ac.uk/profile/shannon-vallor/) <[_svallor@ed.ac.uk_](mailto:svallor%40ed%2eac%2euk)>
+[Shannon Vallor](https://www.ed.ac.uk/profile/shannon-vallor/) <[*svallor@ed.ac.uk*](mailto:svallor%40ed%2eac%2euk)>

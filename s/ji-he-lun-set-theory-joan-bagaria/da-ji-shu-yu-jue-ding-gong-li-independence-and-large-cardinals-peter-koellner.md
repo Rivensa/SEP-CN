@@ -1,6 +1,6 @@
 # 大基数与独立性 independence and large cardinals (Peter Koellner)
 
-_首次发表于 2010 年 4 月 20 日_
+*首次发表于 2010 年 4 月 20 日*
 
 算术和集合论中的独立性结果导致了数学系统的大量出现。研究可能的数学系统的一种非常普遍的方法是通过解释关系。在这种关系下，可能的数学系统形成了一个复杂的层次结构，其中包含越来越强的系统。大基数公理提供了一种规范的方法来攀登这个层次结构，并且它们在比较概念上不同领域的系统时起着核心作用。
 
@@ -30,7 +30,7 @@ _首次发表于 2010 年 4 月 20 日_
 
 | _V_0    | = ∅          |
 | ------- | ------------ |
-| _V_α+1  | =_P_(_V_α)   |
+| _V_α+1  | =*P*(_V_α)   |
 | = P(Vα) | = ∪α < λ_V_α |
 
 集合论的宇宙 V 是所有这些阶段的并集：V=∪α∈On Vα，其中 On 是序数的类。第一个无限级别 Vω包括所有的继承有限集合\[3]，并且这个级别满足 ZFC-Infinity。这个级别上的集合可以用自然数编码，通过这种方式可以证明 PA 和 ZFC-Infinity 是相互可解释的\[4]。第二个无限级别 Vω+1 本质上是 P(ℕ)（或者等价地，ℝ），这个级别满足（与之相互可解释的）PA2。第三个无限级别 Vω+2 本质上是 P(P(ℕ))（或者等价地，实数函数的集合），这个级别满足（与之相互可解释的）PA3。因此，前三个无限级别涵盖了算术、分析和泛函分析，以及大部分标准数学。以这种方式，集合的层次结构和相关的集合论系统涵盖了标准数学的对象和系统。
@@ -84,7 +84,7 @@ _首次发表于 2010 年 4 月 20 日_
 
 > 结果发现每种可能性都被实现。对于第一种情况，只需取Π01-句子 Con(T)。对于第二种情况，很容易看出没有Π01 的例子；这种句子的最简单复杂度是Δ02，而且发现确实存在这样的例子；这种独立性的例子被称为 Orey 句子。对于第三种独立性，存在Π01 的实例。（这是 Lindström（2003）第 128-129 页引理 14 的推论。）
 
-It turns out that each of these possibilities is realized. For the first it suffices to take the Π01-sentence Con(T). For the second it is easy to see that there is no example that is Π01; the simplest possible complexity of such a sentence is Δ02 and it turns out that there are such examples; examples of this type of independence are called _Orey sentences_. For the third kind of independence there are Π01 instances. (This is a corollary of Lemma 14 on pages 128–129 of Lindström (2003).)
+It turns out that each of these possibilities is realized. For the first it suffices to take the Π01-sentence Con(T). For the second it is easy to see that there is no example that is Π01; the simplest possible complexity of such a sentence is Δ02 and it turns out that there are such examples; examples of this type of independence are called *Orey sentences*. For the third kind of independence there are Π01 instances. (This is a corollary of Lemma 14 on pages 128–129 of Lindström (2003).)
 
 这些都是元数学的例子，只有逻辑学家才会构造的例子。自然而然地会问是否存在“自然”的例子，大致上是指在数学的正常过程中出现的例子。在集合论的情况下，这样的例子在前两种情况下是丰富的。例如，PM 是第一种独立性的例子，CH 是第二种独立性的例子。目前没有已知的第三种独立性的“自然”例子。在算术的情况下，这样的例子很少。有第一种独立性的例子（其中最著名的是由巴黎和哈灵顿提出的经典例子），但没有第二种或第三种独立性的例子。
 
@@ -142,7 +142,7 @@ Z2 的标准模型具有 Vκ的形式，其中κ是一个正规基数，使得�
 
 通过在嵌入和 M 与 V 之间的相似程度之间建立联系，可以获得更强的大基数公理。例如，如果存在一个传递类 M 和一个非平凡的元素嵌入：V → M，使得 crit()=κ和 Vj(κ)⊆ M，则基数κ是超强的。如果κ是超强的，则κ是一个 Woodin 基数，并且在κ以下存在任意大的 Woodin 基数。
 
-通过对目标模型 M 施加闭包条件，也可以获得强大的大基数公理。例如，让γ ≥ κ成为一个基数κ的γ-超紧的条件，如果存在一个传递类 M 和一个非平凡的元素嵌入：V → M，使得 crit()=κ和γM⊆ M，即 M 在γ序列下是闭合的。（很容易看出，如果 M 在γ序列下是闭合的，则 H(γ _+_ )⊆ M；因此，这种方法包含了之前的方法。）如果一个基数κ对于所有γ ≥ κ都是γ-超紧的，则它是超紧的。现在，就像在之前的方法中一样，可以通过在嵌入和目标模型的闭包条件之间建立联系来加强这些公理。如果存在一个传递类 M 和一个非平凡的元素嵌入：V → M，使得 n(κ)M ⊆ M，其中κ=crit()，并且 i+1(κ)被定义为(i(κ))，则基数κ是 n-巨大的。
+通过对目标模型 M 施加闭包条件，也可以获得强大的大基数公理。例如，让γ ≥ κ成为一个基数κ的γ-超紧的条件，如果存在一个传递类 M 和一个非平凡的元素嵌入：V → M，使得 crit()=κ和γM⊆ M，即 M 在γ序列下是闭合的。（很容易看出，如果 M 在γ序列下是闭合的，则 H(γ *+* )⊆ M；因此，这种方法包含了之前的方法。）如果一个基数κ对于所有γ ≥ κ都是γ-超紧的，则它是超紧的。现在，就像在之前的方法中一样，可以通过在嵌入和目标模型的闭包条件之间建立联系来加强这些公理。如果存在一个传递类 M 和一个非平凡的元素嵌入：V → M，使得 n(κ)M ⊆ M，其中κ=crit()，并且 i+1(κ)被定义为(i(κ))，则基数κ是 n-巨大的。
 
 一个可以继续这种方式的人，要求 M 和 V 之间的更大一致性。当然，这个方向上的最终公理将要求 M = V。这个公理是由 Reinhardt 提出的，然后不久被 Kunen 证明在 ZFC 中是不一致的。事实上，Kunen 证明，在假设 ZFC 的情况下，可以存在一个传递类 M 和一个非平凡的元素嵌入：V → M，使得“λ ∈ M”，其中λ=supn < ω n(κ)和κ=crit()。特别地，不存在这样的 M 和这样的 Vλ+1⊆ M。这限制了目标模型的封闭程度（与嵌入相关）\[10]。
 
@@ -172,24 +172,24 @@ Z2 的标准模型具有 Vκ的形式，其中κ是一个正规基数，使得�
 
 ## Bibliography
 
-* Ackermann, Wilhelm, 1937, “Die Widerspruchsfreiheit der allgemeinen Mengenlehre,” _Mathematische Annalen_, 114: 305–315.
-* Barwise, Jon K., 1977, _Handbook of Mathematical Logic_ (Studies in Logic and the Foundations of Mathematics: 90), Amsterdam: North-Holland.
+* Ackermann, Wilhelm, 1937, “Die Widerspruchsfreiheit der allgemeinen Mengenlehre,” *Mathematische Annalen*, 114: 305–315.
+* Barwise, Jon K., 1977, *Handbook of Mathematical Logic* (Studies in Logic and the Foundations of Mathematics: 90), Amsterdam: North-Holland.
 * Buss, Samuel R., 1998a, “First-Order Proof Theory of Arithmetic,” in Buss 1998b, 79–147.
-* –––, 1998b, _Handbook of Proof Theory_ (Studies in Logic and the Foundations of Mathematics: 137), Amsterdam: North Holland.
-* Feferman, Solomon, 1960, “Arithmetization of metamathematics in a general setting,” _Fundamenta Mathematicae_, 49: 35–92.
-* Foreman, Matthew and Kanamori, Akihiro, 2009, _Handbook of Set Theory_, Berlin: Springer-Verlag.
+* –––, 1998b, *Handbook of Proof Theory* (Studies in Logic and the Foundations of Mathematics: 137), Amsterdam: North Holland.
+* Feferman, Solomon, 1960, “Arithmetization of metamathematics in a general setting,” *Fundamenta Mathematicae*, 49: 35–92.
+* Foreman, Matthew and Kanamori, Akihiro, 2009, *Handbook of Set Theory*, Berlin: Springer-Verlag.
 * Gödel, Kurt, 1946, “Remarks before the Princeton bicentennial conference on problems in mathematics,” in Gödel 1990, 150–153.
-* –––, 1986, _Collected Works I: Publications 1929–1936_, S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
-* –––, 1990, _Collected Works II: Publications 1938–1974_, S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
-* Jech, Thomas J., 2003, _Set Theory_ (Third Millennium Edition, Revised and Expanded), Berlin: Springer-Verlag.
-* Kanamori, Akihiro, 2003, _The Higher Infinite: Large Cardinals in Set Theory from their Beginnings_ (Springer Monographs in Mathematics), 2nd edition, Berlin: Springer.
-* Koellner, Peter, 2009, “On Reflection Principles,” _Annals of Pure and Applied Logic_, 157: 206–219.
-* Kunen, Kenneth, 1980, _Set theory: An Introduction to Independence Proofs_ (Studies in Logic and the Foundations of Mathematics: 102), Amsterdam: North-Holland.
-* Lindström, Per, 2003, _Aspects of Incompleteness_ (Lecture Notes in Logic: 10), 2nd edition, CITY: Association of Symbolic Logic.
-* Shelah, Saharon, 1984, “Can you take Solovay's inaccessible away?,” _Israel Journal of Mathematics_, 48(1): 1–47.
+* –––, 1986, *Collected Works I: Publications 1929–1936*, S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
+* –––, 1990, *Collected Works II: Publications 1938–1974*, S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
+* Jech, Thomas J., 2003, *Set Theory* (Third Millennium Edition, Revised and Expanded), Berlin: Springer-Verlag.
+* Kanamori, Akihiro, 2003, *The Higher Infinite: Large Cardinals in Set Theory from their Beginnings* (Springer Monographs in Mathematics), 2nd edition, Berlin: Springer.
+* Koellner, Peter, 2009, “On Reflection Principles,” *Annals of Pure and Applied Logic*, 157: 206–219.
+* Kunen, Kenneth, 1980, *Set theory: An Introduction to Independence Proofs* (Studies in Logic and the Foundations of Mathematics: 102), Amsterdam: North-Holland.
+* Lindström, Per, 2003, *Aspects of Incompleteness* (Lecture Notes in Logic: 10), 2nd edition, CITY: Association of Symbolic Logic.
+* Shelah, Saharon, 1984, “Can you take Solovay's inaccessible away?,” *Israel Journal of Mathematics*, 48(1): 1–47.
 * Smoryński, Craig A., 1977, “The Incompleteness Theorems,” in Barwise 1977, 821–865.
 * Tait, William W., 2005a, “Constructing cardinals from below,” in Tait 2005b, 133-154.
-* –––, 2005b, _The Provenance of Pure Reason: Essays in the Philosophy of Mathematics and Its History_, Oxford: Oxford University Press.
+* –––, 2005b, *The Provenance of Pure Reason: Essays in the Philosophy of Mathematics and Its History*, Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -208,4 +208,4 @@ Z2 的标准模型具有 Vκ的形式，其中κ是一个正规基数，使得�
 [choice, axiom of](https://plato.stanford.edu/entries/axiom-choice/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [Gödel, Kurt: incompleteness theorems](https://plato.stanford.edu/entries/goedel-incompleteness/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: alternative axiomatic theories](https://plato.stanford.edu/entries/settheory-alternative/) | [set theory: continuum hypothesis](https://plato.stanford.edu/entries/continuum-hypothesis/) | [set theory: large cardinals and determinacy](https://plato.stanford.edu/entries/large-cardinals-determinacy/)
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by\
-Peter Koellner <[_koellner@fas.harvard.edu_](mailto:koellner%40fas%2eharvard%2eedu)>
+Peter Koellner <[*koellner@fas.harvard.edu*](mailto:koellner%40fas%2eharvard%2eedu)>

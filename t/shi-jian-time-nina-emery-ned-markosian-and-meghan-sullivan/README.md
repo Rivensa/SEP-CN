@@ -305,7 +305,6 @@ B 理论家和永恒主义者倾向于喜欢的时间部分学说可以这样陈
 
 进一步阅读建议：Brink 2003; Suhler 和 Callender 2012; Parfit 1971; Paul 2010; Prosser 2016; Sullivan 2018.
 
-
 ## Bibliography
 
 * Adams, Robert Merrihew, 1986, “Time and Thisness”, *Midwest Studies in Philosophy*, 11: 315–329. doi:10.1111/j.1475-4975.1986.tb00501.x

@@ -1,6 +1,6 @@
 # 传统逻辑方阵 square of opposition (Terence Parsons)
 
-_首次发表于 1997 年 8 月 8 日，实质性修订于 2017 年 4 月 12 日_
+*首次发表于 1997 年 8 月 8 日，实质性修订于 2017 年 4 月 12 日*
 
 这篇文章追溯了逻辑方阵的历史发展，逻辑方阵是一种传统上体现在方形图中的一组逻辑关系。这一学说体系为逻辑工作提供了两千多年的基础。在大部分历史中，逻辑学家们认为否定的特殊命题（“某些 S 不是 P”）如果主语为空，则是虚假的。这验证了方阵中体现的逻辑定律，并保护了这一学说免受现代批评。除了方阵之外，有时还会采用一些额外的原则（“对偶”和“逆否”），它们确实会导致不一致。到了 19 世纪，一套不一致的学说被广泛采用。斯特劳森（Strawson）在 1952 年试图恢复方阵，但并不适用于传统学说；它确实挽救了 19 世纪的版本，但代价是在一系列推理中从真实性到虚假性的转变。
 
@@ -12,7 +12,7 @@ _首次发表于 1997 年 8 月 8 日，实质性修订于 2017 年 4 月 12 日
 
 逻辑方阵是一个以图表形式体现的一组命题。图表对于这些命题并非必要，只是一种有用的方式来保持它们的准确性。这些命题涉及四种逻辑形式之间的逻辑关系：
 
-| _NAME_ | _FORM_    | _TITLE_ |
+| *NAME* | *FORM*    | *TITLE* |
 | ------ | --------- | ------- |
 | **A**  | 每个 S 都是 P | 普遍肯定命题  |
 | **E**  | 没有 S 是 P  | 全部否定    |
@@ -55,11 +55,11 @@ _首次发表于 1997 年 8 月 8 日，实质性修订于 2017 年 4 月 12 日
 
 大多数当代逻辑教材将传统形式符号化如下：
 
-| 每个 S 都是 P | ∀_x_(_S\*\*x_→_P\*\*x_)   |
+| 每个 S 都是 P | ∀*x*(*S\*\*x*→*P\*\*x*)   |
 | --------- | ------------------------- |
-| 没有 S 是 P  | ∀_x_(_S\*\*x_→ ¬_P\*\*x_) |
-| 一些 S 是 P  | ∃_x_(_S\*\*x_&_P\*\*x_)   |
-| 一些 S 不是 P | ∃_x_(_S\*\*x_& ¬_P\*\*x_) |
+| 没有 S 是 P  | ∀*x*(*S\*\*x*→ ¬*P\*\*x*) |
+| 一些 S 是 P  | ∃*x*(*S\*\*x*&*P\*\*x*)   |
+| 一些 S 不是 P | ∃*x*(*S\*\*x*& ¬*P\*\*x*) |
 
 如果采用这种符号化方法，并结合对联结词和量词逻辑的标准观点，传统方阵所体现的关系大多会消失。现代的逻辑方阵如下所示：
 
@@ -255,55 +255,55 @@ _首次发表于 1997 年 8 月 8 日，实质性修订于 2017 年 4 月 12 日
 
 ## Bibliography
 
-* Abelardus, Petrus, 11th–12th century. _Dialectica_, L. M. de Rijk (ed.), Assen: Van Gorcum & Co., 1970.
-* Aldrich, Henry, 1692. _Artis Logicæ Compendium_, Oxonii: E. Theatro Sheldoniano.
-* Aristotle, 4th century B.C.E. _De Interpretatione_ and _Prior Analytics_, in Jonathan Barnes (ed.), _The Complete Works of Aristotle_, Princeton: Princeton University Press, 1984.
-* Ashworth, E. J., 1974. _Logic and Language in the Post-Medieval Period_, Dordrecht: Reidel.
-* –––, 1978. “Existential Assumptions in Late Medieval Logic,” _American Philosophical Quarterly_, 10: 141–47.
-* Bacon, Roger, 13th century. _The Art and Science of Logic_, translated by Thomas S. Maloney, Toronto: Pontifical Institute of Mediaeval Studies, 2009.
-* Brentano, Franz, 1874. _Psychologie vom Empirischen Standpunkte_, Leipzig: Dunker & Humbolt.
-* Buridan, John, 14th century. _Tractatus de Suppositionibus_, in Maria Elena Reina (ed.), “Giovanni Buridano: _Tractatus de Suppositionibus_,” _Rivista critica di storia della filosofia_, 12 (1957): 175–208. Translated in King 1985.
-* –––, 14th century. _Tractatus de Consequentiis_, in Hubert Hubien, _Iohannis Buridani tractatus de consequentiis: Édition critique_ (_Philosophes médiévaux_: Volume XVI), Louvain: Publications universitaires, 1976. Translated in King 1985.
-* –––, 14th century. _Summulae de Dialectica_, translated in Klima, Gyula, _John Buridan: Summulae de Dialectica_, Yale University Press, New Haven, 2001.
-* Burley, Walter, 14th century. “De Suppositionibus,” in Stephen Brown, “Walter Burleigh’s Treatise _De Suppositionibus_ and Its Influence on William of Ockham,” _Franciscan Studies_ 32 (1972): 15–64. Translated (part) in Spade 1997.
-* –––, 14th century. _De puritate artis logicae tractatus longior_, in Philotheus Boehner (ed.), _Walter Burleigh: De puritate artis logicae tractatus longior_ (with a Revised Edition of the Tractatus brevior), St. Bonaventure, NY: The Franciscan Institute, 1955. Translated in Spade 2000.
-* Cayley, Arthur, 1871. “Note on the Calculus of Logic,” _The Quarterly Journal of Pure and Applied Mathematics_, 11: 282–83.
-* Church, Alonzo, 1965. “The History of the Question of Existential Import of Categorical Propositions,” in Yehoshua Bar-Hillel (ed.), _Logic, Methodology, and Philosophy of Science_ (Proceedings of the 1964 International Congress). Amsterdam: North-Holland, 417–24.
-* Coppée, Henry, 1882. _Elements of Logic_, New York: American Book Co.
-* Davis, Noah, 1894. _Elements of Deductive Logic_. New York: Harper.
-* De Morgan, Augustus, 1847. _Formal Logic_, London: Open Court.
-* –––, 1860. _Syllabus of a Proposed System of Logic_, reprinted in A. De Morgan, _On the Syllogism and Other Logical Writings_, New Haven: Yale University Press, 1966.
-* De Rijk, L. M., 1967. _Logica Modernorum_ (Volume II Part 2), Assen: Koninklijke Van Gorcum & Company N.V.
-* –––, 1973. “The Development of Suppositio naturalis in Mediaeval Logic”, _Vivarium_, 11: 43–79.
-* Freddoso, Alfred J, and Henry Schuurman, 1980. _Ockham’s Theory of Propositions: Part II of the Summa Logicae_, Notre Dame: University of Notre Dame Press.
-* Geach, Peter, 1972. _Logic Matters_, Berkeley and Los Angeles: University of California Press.
-* Jevons, W. Stanley, 1888. _Elementary Lessons in Logic_, London and New York: Macmillan.
-* Joseph, H. W. B., 1916. _An Introduction to Logic_, London: Oxford University Press.
-* Keynes, John Neville, 1928. _Studies and Exercises in Formal Logic_, London: Macmillan.
-* King, Peter, 1985. _Jean Buridan’s Logic: The Treatise on Supposition, The Treatise on Consequences_, Dordrecht: D. Reidel.
-* Kneale, William and Martha Kneale, 1962. _The Development of Logic_, Oxford: Oxford University Press.
-* Kretzmann, Norman, 1966. _William of Sherwood’s Introduction to Logic_, Minneapolis: University of Minnesota Press.
-* –––, 1979. _Pauli Veneti Logica Magna_ (Prima Pars: Tractatus de Terminis), Oxford: Oxford University Press.
-* Kretzmann, Norman, Anthony Kenny, and Jan Pinborg, 1982. _The Cambridge history of Later Medieval Philosophy_, Cambridge: Cambridge University Press.
-* Kretzmann, Norman and Eleonore Stump, 1988. _The Cambridge Translations of Medieval Philosophical Texts_. Cambridge: Cambridge University Press.
-* Londey, David and Carmen Johanson, 1984. “Apuleius and the Square of Opposition,” _Phronesis_, 29: 165–73.
-* Loux, Michael, 1974. _Ockham’s Theory of Terms: Part I of the Summa Logicae_, Notre Dame: University of Notre Dame Press.
-* Lukasiewicz, J., 1929. _Elementy Logiki Matematycznej_, Nakl. Komisji wydawniczeij Kola matematyczno-fizycznego sluchaczow uniwersytetu warszawskiego, Warsaw.
-* –––, 1951, _Aristotle’s Syllogistic from the Standpoint of Modern Logic_, Oxford: Clarendon Press.
-* Ockham, William, 14th Century. _Summa Logicae_, in _Opera Philosophica_, St. Bonaventure, NY: The Franciscan Institute, 1974.
-* Paul of Venice, 14th century. _Logica Parva_ (1472 edition), Venice; reprinted Hildesheim: Georg Olms Verlag, 1970. Translated in Perreiah 1984.
-* Peirce, Charles, 1880. “On the Algebra of Logic,” _American Journal of Mathematics_, 3: 15–57.
-* Perreiah, Alan, 1984. _Logica Parva: Translation of the 1472 Edition_, Munich: Philosophia Verlag.
-* Peter of Spain, 13th century. _Tractatus_ (_Summule Logicales_), in L.M. De Rijk (ed.), _Tractatus Called Afterwards Summule Logicales_, Assen: Van Gorcum, 1972. Translated in _Tractatus (or Summule Logicales)_, by Brian Copenhaver, Oxford: Oxford University Press, forthcoming.
-* Sellars, Roy Wood, 1925. _The Essentials of Logic_, New York: Houghton Mifflin.
-* Smiley, Timothy, 1967. “Mr. Strawson on the Traditional Logic,” _Mind_, 76: 118–20.
-* Spade, Paul Vincent, 1997. Translation of the beginning of Walter Burley’s _Treatise on the Kinds of Supposition (De Suppositionibus)_, translated from Stephen Brown, “Walter Burleigh’s Treatise _De Suppositionibus_ and Its Influence on William of Ockham,” _Franciscan Studies_, 32 (1972): 15–64.
-* –––, 2000, _Walter Burley: On the Purity of the Art of Logic_ (The Shorter and the Longer Treatises), Yale University Press, New Haven.
-* Strawson, Peter, 1952. _Introduction to Logical Theory_, London: Methuen.
-* Wedin, Michael, 1990. “Negation and Quantification in Aristotle,” _History and Philosophy of Logic_, 11: 131–150.
-* Westerståhl, Dag, 2012. “Classical vs modern Squares of Opposition, and beyond”, in Jean-Yves Béziau & Gillman Payette (eds.), _The Square of Opposition: A General Framework for Cognition_, Bern: Peter Lang.
-* Whately, Richard, 1827. _Elements of Logic_, Delmar, NY: Scholar’s Facsimiles & Reprints, 1975.
-* William of Sherwood, 13th century. “Introductiones in Logic,”, in Charles H. Lohr, Peter Kunze and Bernhard Mussler (ed.), “William of Sherwood, ‘Introductiones in logicam’: Critical Text,” _Traditio_, 39 (1983): 219–299. An earlier edition is translated in Kretzmann 1966. See also _Introductiones in logicam_, Martin Grabman (ed.), _Sitzungsberichte der Bayersichen Akademie der Wissenschaften_, Philosophisch-historische Abteilung, Heft 10. Munich, 1937.
+* Abelardus, Petrus, 11th–12th century. *Dialectica*, L. M. de Rijk (ed.), Assen: Van Gorcum & Co., 1970.
+* Aldrich, Henry, 1692. *Artis Logicæ Compendium*, Oxonii: E. Theatro Sheldoniano.
+* Aristotle, 4th century B.C.E. *De Interpretatione* and *Prior Analytics*, in Jonathan Barnes (ed.), *The Complete Works of Aristotle*, Princeton: Princeton University Press, 1984.
+* Ashworth, E. J., 1974. *Logic and Language in the Post-Medieval Period*, Dordrecht: Reidel.
+* –––, 1978. “Existential Assumptions in Late Medieval Logic,” *American Philosophical Quarterly*, 10: 141–47.
+* Bacon, Roger, 13th century. *The Art and Science of Logic*, translated by Thomas S. Maloney, Toronto: Pontifical Institute of Mediaeval Studies, 2009.
+* Brentano, Franz, 1874. *Psychologie vom Empirischen Standpunkte*, Leipzig: Dunker & Humbolt.
+* Buridan, John, 14th century. *Tractatus de Suppositionibus*, in Maria Elena Reina (ed.), “Giovanni Buridano: *Tractatus de Suppositionibus*,” *Rivista critica di storia della filosofia*, 12 (1957): 175–208. Translated in King 1985.
+* –––, 14th century. *Tractatus de Consequentiis*, in Hubert Hubien, *Iohannis Buridani tractatus de consequentiis: Édition critique* (*Philosophes médiévaux*: Volume XVI), Louvain: Publications universitaires, 1976. Translated in King 1985.
+* –––, 14th century. *Summulae de Dialectica*, translated in Klima, Gyula, *John Buridan: Summulae de Dialectica*, Yale University Press, New Haven, 2001.
+* Burley, Walter, 14th century. “De Suppositionibus,” in Stephen Brown, “Walter Burleigh’s Treatise *De Suppositionibus* and Its Influence on William of Ockham,” *Franciscan Studies* 32 (1972): 15–64. Translated (part) in Spade 1997.
+* –––, 14th century. *De puritate artis logicae tractatus longior*, in Philotheus Boehner (ed.), *Walter Burleigh: De puritate artis logicae tractatus longior* (with a Revised Edition of the Tractatus brevior), St. Bonaventure, NY: The Franciscan Institute, 1955. Translated in Spade 2000.
+* Cayley, Arthur, 1871. “Note on the Calculus of Logic,” *The Quarterly Journal of Pure and Applied Mathematics*, 11: 282–83.
+* Church, Alonzo, 1965. “The History of the Question of Existential Import of Categorical Propositions,” in Yehoshua Bar-Hillel (ed.), *Logic, Methodology, and Philosophy of Science* (Proceedings of the 1964 International Congress). Amsterdam: North-Holland, 417–24.
+* Coppée, Henry, 1882. *Elements of Logic*, New York: American Book Co.
+* Davis, Noah, 1894. *Elements of Deductive Logic*. New York: Harper.
+* De Morgan, Augustus, 1847. *Formal Logic*, London: Open Court.
+* –––, 1860. *Syllabus of a Proposed System of Logic*, reprinted in A. De Morgan, *On the Syllogism and Other Logical Writings*, New Haven: Yale University Press, 1966.
+* De Rijk, L. M., 1967. *Logica Modernorum* (Volume II Part 2), Assen: Koninklijke Van Gorcum & Company N.V.
+* –––, 1973. “The Development of Suppositio naturalis in Mediaeval Logic”, *Vivarium*, 11: 43–79.
+* Freddoso, Alfred J, and Henry Schuurman, 1980. *Ockham’s Theory of Propositions: Part II of the Summa Logicae*, Notre Dame: University of Notre Dame Press.
+* Geach, Peter, 1972. *Logic Matters*, Berkeley and Los Angeles: University of California Press.
+* Jevons, W. Stanley, 1888. *Elementary Lessons in Logic*, London and New York: Macmillan.
+* Joseph, H. W. B., 1916. *An Introduction to Logic*, London: Oxford University Press.
+* Keynes, John Neville, 1928. *Studies and Exercises in Formal Logic*, London: Macmillan.
+* King, Peter, 1985. *Jean Buridan’s Logic: The Treatise on Supposition, The Treatise on Consequences*, Dordrecht: D. Reidel.
+* Kneale, William and Martha Kneale, 1962. *The Development of Logic*, Oxford: Oxford University Press.
+* Kretzmann, Norman, 1966. *William of Sherwood’s Introduction to Logic*, Minneapolis: University of Minnesota Press.
+* –––, 1979. *Pauli Veneti Logica Magna* (Prima Pars: Tractatus de Terminis), Oxford: Oxford University Press.
+* Kretzmann, Norman, Anthony Kenny, and Jan Pinborg, 1982. *The Cambridge history of Later Medieval Philosophy*, Cambridge: Cambridge University Press.
+* Kretzmann, Norman and Eleonore Stump, 1988. *The Cambridge Translations of Medieval Philosophical Texts*. Cambridge: Cambridge University Press.
+* Londey, David and Carmen Johanson, 1984. “Apuleius and the Square of Opposition,” *Phronesis*, 29: 165–73.
+* Loux, Michael, 1974. *Ockham’s Theory of Terms: Part I of the Summa Logicae*, Notre Dame: University of Notre Dame Press.
+* Lukasiewicz, J., 1929. *Elementy Logiki Matematycznej*, Nakl. Komisji wydawniczeij Kola matematyczno-fizycznego sluchaczow uniwersytetu warszawskiego, Warsaw.
+* –––, 1951, *Aristotle’s Syllogistic from the Standpoint of Modern Logic*, Oxford: Clarendon Press.
+* Ockham, William, 14th Century. *Summa Logicae*, in *Opera Philosophica*, St. Bonaventure, NY: The Franciscan Institute, 1974.
+* Paul of Venice, 14th century. *Logica Parva* (1472 edition), Venice; reprinted Hildesheim: Georg Olms Verlag, 1970. Translated in Perreiah 1984.
+* Peirce, Charles, 1880. “On the Algebra of Logic,” *American Journal of Mathematics*, 3: 15–57.
+* Perreiah, Alan, 1984. *Logica Parva: Translation of the 1472 Edition*, Munich: Philosophia Verlag.
+* Peter of Spain, 13th century. *Tractatus* (*Summule Logicales*), in L.M. De Rijk (ed.), *Tractatus Called Afterwards Summule Logicales*, Assen: Van Gorcum, 1972. Translated in *Tractatus (or Summule Logicales)*, by Brian Copenhaver, Oxford: Oxford University Press, forthcoming.
+* Sellars, Roy Wood, 1925. *The Essentials of Logic*, New York: Houghton Mifflin.
+* Smiley, Timothy, 1967. “Mr. Strawson on the Traditional Logic,” *Mind*, 76: 118–20.
+* Spade, Paul Vincent, 1997. Translation of the beginning of Walter Burley’s *Treatise on the Kinds of Supposition (De Suppositionibus)*, translated from Stephen Brown, “Walter Burleigh’s Treatise *De Suppositionibus* and Its Influence on William of Ockham,” *Franciscan Studies*, 32 (1972): 15–64.
+* –––, 2000, *Walter Burley: On the Purity of the Art of Logic* (The Shorter and the Longer Treatises), Yale University Press, New Haven.
+* Strawson, Peter, 1952. *Introduction to Logical Theory*, London: Methuen.
+* Wedin, Michael, 1990. “Negation and Quantification in Aristotle,” *History and Philosophy of Logic*, 11: 131–150.
+* Westerståhl, Dag, 2012. “Classical vs modern Squares of Opposition, and beyond”, in Jean-Yves Béziau & Gillman Payette (eds.), *The Square of Opposition: A General Framework for Cognition*, Bern: Peter Lang.
+* Whately, Richard, 1827. *Elements of Logic*, Delmar, NY: Scholar’s Facsimiles & Reprints, 1975.
+* William of Sherwood, 13th century. “Introductiones in Logic,”, in Charles H. Lohr, Peter Kunze and Bernhard Mussler (ed.), “William of Sherwood, ‘Introductiones in logicam’: Critical Text,” *Traditio*, 39 (1983): 219–299. An earlier edition is translated in Kretzmann 1966. See also *Introductiones in logicam*, Martin Grabman (ed.), *Sitzungsberichte der Bayersichen Akademie der Wissenschaften*, Philosophisch-historische Abteilung, Heft 10. Munich, 1937.
 
 ## Academic Tools
 

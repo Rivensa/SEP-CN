@@ -2,7 +2,7 @@
 
 ## 自然语言语义学的情境 in natural language semantics (Angelika Kratzer)
 
-_首次发表于 2007 年 2 月 12 日；实质性修订于 2021 年 10 月 13 日_
+*首次发表于 2007 年 2 月 12 日；实质性修订于 2021 年 10 月 13 日*
 
 情境语义学是作为可能世界语义学的一种替代而发展起来的。在情境语义学中，语言表达是相对于部分世界而不是完整世界进行评估的。关于情境的定义没有共识，就像关于可能世界或事件的定义一样。根据一些人的观点，情境是由关系和个体构成的结构化实体。根据其他人的观点，情境是个别的。尽管存在一些未解决的基础问题，情境语义学提供的部分性已经导致了一些真正新颖的方法来研究自然语言语义学中的各种现象。为了说明这一点，本文对情境语义学取得成功的几个领域进行了相对详细的概述：隐含的量词域限制、驴子代词和详尽解释。此外，本文还探讨了如何将戴维森事件语义学嵌入基于情境的语义学中的问题。情境语义学的观点在态度归属、问题、时态、体貌、名词化、隐含论证、观点、虚拟条件句和话语关系等领域也取得了进展。
 
@@ -88,7 +88,7 @@ b.
 
 (11)
 
-\[ _x_ | << bothering, _x_, Stella; no >>]
+\[ *x* | << bothering, *x*, Stella; no >>]
 
 参数吸收是情境理论中λ-抽象的情境。 (11) 对应于不打扰 Stella 的属性。还有其他操作可以从简单的情境中构建复杂的情境，包括合取、析取、存在量化和全称量化的类比（参见 Devlin 1991、2006 和 Ginzburg＆Sag 2000）。最终目标是提供一个信息内容理论所需的工具（参见词条“信息的语义概念”）。Barwise 1988 提到了广泛的应用领域，包括“一个信息理论，以解释信息捕捉在青蛙的生活中所起的作用，以及它所检测到的信息与其采取的行动之间的关系，例如舌头的甩动和跳跃”（Barwise 1988，257）。其他提到的应用包括视觉理论、数据库、机器人设计、数学证明、特定语言使用者之间的信息交流以及认知科学作为一个整体。最后，该理论应能够“对自身进行反思，并提供对使用该理论的理论家所做陈述的信息内容的解释”（Barwise 1988，258）。
 
@@ -136,7 +136,7 @@ b.
 
 (16)
 
-## 桌子上有一本书。它是俄语的。
+## 桌子上有一本书。它是俄语的
 
 转化为情境语义学（Klein 自己谈论的是主题时间，而不是主题情境），Klein 的解释是时态将话语情境与主题情境相关联，而这些情境不一定与句子的主要谓词所描述的情境相一致。在 Klein 的场景中，证人回答的第二部分的主题情境是她看到房间时的过去情境。由于主题情境是过去的，因此在（16）的第二个句子中的时态标记也必须是过去时。通过它们的时间位置，主题情境在时态和体貌的语义学中起着重要作用（参见时态和体貌的条目；还有 Smith 1991，Kamp＆Reyle 1993 和 Cipria＆Roberts 2000）。
 
@@ -168,9 +168,9 @@ b.
 
 (18)
 
-| a. | \[\[可能]]c     | λ_p_λ_s_∃_s_′\[Acc_c_(_s_)(_s_′) &_p_(_s_′)]                        |
+| a. | \[\[可能]]c     | λ_p_λ_s_∃*s*′\[Acc_c_(*s*)(*s*′) &*p*(*s*′)]                        |
 | -- | ------------- | ------------------------------------------------------------------- |
-| b. | \[\[(17)]]_c_ | λ_s_∃_s_′ \[Acc_c_(_s_)(_s_′) & grizzly(ι_x_bear(_x_)(_s_′))(_s_′)] |
+| b. | \[\[(17)]]*c* | λ_s_∃*s*′ \[Acc_c_(*s*)(*s*′) & grizzly(ι_x_bear(*x*)(*s*′))(*s*′)] |
 
 （18）假设具有基于可能情境的内涵语义学。在可能情境语义学中，命题是可能情境的集合，或者是这些集合的特征函数，并且所有谓词都是相对于可能情境进行评估的。18(b)是在上下文 c 中表达的（17）所表示的命题。该命题是一个性质，当且仅当存在一个从 s 可达的情境 s'，并且 s'中的唯一熊是 s'中的灰熊时，该性质对情境 s 成立。情态动词"might"引入了对从评估情境 s 可达的可能情境的存在量化（参见情态逻辑词条）。可达关系的类型由情态动词的词汇意义与话语上下文 c 的属性相互作用决定（参见指示词条）。在我们的例子中，情态性是一种特定类型的认知情态，它将上下文 c 中的两个情境 s 和 s'联系起来，当且仅当 s 和 s'在 c 中可获得的信息方面是等价的，也就是说，关于 s 在 c 中可获得的任何证据都不足以区分 s 和 s'（认知语境主义）。作为认知情态的可用证据可能包括话语参与者的分布式知识（参见 von Fintel＆Gillies 2011），其他可用的信息来源，如船舶日志或计算机打印输出（Hacking 1967，von Fintel＆Gillies 2011），但有趣的是，并不一定包括隐藏在视线之外的信息，例如密封信封中的测试结果（de Rose 1991），子宫中的胎儿（Teller 1972），帷幕后的天气条件（Gillies 2001）或被黑暗遮蔽的动物的细节。假设 Bear Sighting 中的实际熊实际上是一只黑熊，而不是灰熊。 由于现在是晚上，我们无法很好地看到熊，所以当我说出（17）时，我们对于熊的目击的证据无法区分真实情境和许多可能的情境，其中包括熊是灰熊而不是黑熊的情境。这就是我说出（17）是真实的原因。
 
@@ -186,7 +186,7 @@ Soames 对奥斯汀式方法中领域限制的第二个主要反对意见与以�
 
 (20)
 
-λ_s_ ∀_x_ \[ \[person(_x_)(_s_′) & _s_′ ≤_ps_] → \[asleep(_x_)(_s_) & ∃_y_ \[research-assistant(_y_)(_s_) & monitoring(_x_)(_y_)(_s_)] ] ]
+λ_s_ ∀*x* \[ \[person(*x*)(*s*′) & *s*′ ≤*ps*] → \[asleep(*x*)(*s*) & ∃*y* \[research-assistant(*y*)(*s*) & monitoring(*x*)(*y*)(*s*)] ] ]
 
 当睡眠实验室的医生说出（19）时，她声称（20）中的命题在一个特定的情境中是真实的，称之为“睡眠实验室”。睡眠实验室是奥斯汀式的主题情境，但它并不是选择睡眠者的情境。睡眠者可能是从一个与睡眠实验室通过部分关系≤p 相关的上下文中招募的，该上下文可能是一个资源情境，用于评估由量词短语 everyone 引入的谓词 person。例如，这种情况可能是实验室中的患者总和。
 
@@ -246,7 +246,7 @@ b.
 
 (26)
 
-λ_s_ ∀_s_′ \[ \[_s_′ ≤_ps_ & _s_′ ∈ Min(λ_s_ ∃_x_ \[donkey(_x_)(_s_) & appeared(_x_)(_s_)])] → ∃_s_″\[ _s_′ ≤_ps_″ & greeted-enthusiastically (ι_x_ donkey(_x_)(_s_′))(_s_″)] ]
+λ_s_ ∀*s*′ \[ \[*s*′ ≤*ps* & *s*′ ∈ Min(λ_s_ ∃*x* \[donkey(*x*)(*s*) & appeared(*x*)(*s*)])] → ∃*s*″\[ *s*′ ≤*ps*″ & greeted-enthusiastically (ι_x_ donkey(*x*)(*s*′))(*s*″)] ]
 
 (26)反映了可能性情境语义学中对量词副词和描述性代词的标准分析（Berman 1987; Heim 1990; Portner 1992; von Fintel 1994, 2004b; Elbourne 2002, 2005, 2013, 2016）。在（26）中引入的所有资源情境都与主题情境通过部分关系≤p 直接或间接相关。主题情境是所有资源情境的最终锚点。它间接限制了所讨论的驴只限于出现在驴子游行中的驴只。条件句的前提引入了进一步的限制：我们只考虑驴子游行的子情境，这些子情境是驴只出现的最小情境。这些情境中只有一只驴，因此可以用作定冠词“the donkey”或相应的描述性代词的资源情境。
 
@@ -326,7 +326,7 @@ a.
 
 b.
 
-λ_s_ ∃_x_ \[_x_ ≤_ps_ & |{_y_: _y_ ≤_px_ & teapot(_y_)(_w\*\*s_)}| = 3]
+λ_s_ ∃*x* \[*x* ≤*ps* & |{*y*: *y* ≤*px* & teapot(*y*)(*w\*\*s*)}| = 3]
 
 31(b)描述了具有至少三个茶壶（在 s 的世界中是茶壶的个体）的情境 s。31(b)中的命题似乎在情境茶壶（下面的第三种情况）中得到了体现。
 
@@ -357,7 +357,7 @@ a.
 
 b.
 
-λ_s_ ∃_x_ \[_x_ ≤_ps_ & |{_y_: _y_ ≤_px_ & numerical-teapot(_y_)(_w\*\*s_)}| = 3]
+λ_s_ ∃*x* \[*x* ≤*ps* & |{*y*: *y* ≤*px* & numerical-teapot(*y*)(*w\*\*s*)}| = 3]
 
 如果 Teapots 只包含实际世界中的三个数值茶壶，那么 Teapots 中的 33(b)是真的。但是，Teapots 的任何适当子情境都不能包含实际世界中的三个数值茶壶。任何这样的情境都至少包含一个是 Teapots 中某个茶壶的适当部分的茶壶，因此不能再包含三个数值茶壶。
 
@@ -378,7 +378,7 @@ a.
 
 b.
 
-λ_s_ ∃_x_ \[_x_ ≤_ps_ & |{_y_: _y_ ≤_px_ & teapot(_y_)(_w\*\*s_)}| = 2]
+λ_s_ ∃*x* \[*x* ≤*ps* & |{*y*: *y* ≤*px* & teapot(*y*)(*w\*\*s*)}| = 2]
 
 34(b)在茶壶中是真的，因为茶壶包含一个包含恰好两个茶壶的复数个体。然而，茶壶并不是 34(b)的实例。茶壶有部分情境中 34(b)不为真，而不是 34(b)为真的最小情境。更一般地说，如果形式为存在 n 个茶壶的句子表示由 34(b)所示的种类的命题，那么这些命题只能由恰好有 n 个茶壶的情境所实例化。同样，如果存在一个茶壶被解释为下面的 35(b)中的情况，那么它所表达的命题只能由恰好有一个茶壶的情境所实例化，即使它在有更多茶壶的情境中可能为真。
 
@@ -442,7 +442,7 @@ a.
 
 b.
 
-λ_s_ ∃_x_ \[mud(_x_)(_s_) & _f_ton(_x_) > 5]
+λ_s_ ∃*x* \[mud(*x*)(*s*) & _f_ton(*x*) > 5]
 
 每当有一个情境中有超过五吨泥土时，其中一些部分只有五吨或更少。但是，这些部分都不能成为任何超过五吨泥土的最小情境的一部分，因为没有这样的情境。
 
@@ -450,7 +450,7 @@ b.
 
 (41)
 
-λ_s_ ∃_x_ \[_x_ ≤_ps_ & \[_x_ = σ_z_ mud(_z_)(_s_′)] & _f_ton(_x_) > 5]
+λ_s_ ∃*x* \[*x* ≤*ps* & \[*x* = σ_z_ mud(*z*)(*s*′)] & _f_ton(*x*) > 5]
 
 (41) 如果情境 s 中包含了某个显著资源情境 s'（可能是整个实际世界），并且那些泥土的重量超过 5 吨，那么(41)在情境 s 中是真实的。如果 s'中的泥土重量超过五吨，那么(41)在 s'中得到了实例化。句子可以包含名词短语，为最大化条件提供锚点。 (42) 是一个问题的例子：
 
@@ -462,7 +462,7 @@ a.
 
 b.
 
-λ_s_ ∃_x_ \[_x_ ≤_ps_ & _x_ = σ_z_ \[mud(_z_)(_w\*\*s_) & in(this ditch)(_z_)(_w\*\*s_)] & _f_ton(_x_) > 5]
+λ_s_ ∃*x* \[*x* ≤*ps* & *x* = σ_z_ \[mud(*z*)(*w\*\*s*) & in(this ditch)(*z*)(*w\*\*s*)] & _f_ton(*x*) > 5]
 
 42(b)由这个沟渠里的泥土所体现，只要它的重量超过五吨。
 
@@ -536,7 +536,7 @@ a.
 
 b.
 
-λ_s_ ∃_x_ ∃_y_ \[cat(_x_)(_s_) & _f_day(_s_) = 1 & _y_ = σ_z_ \[Super-Supper(_z_)(_w\*\*s_) & eat(_z_)(_x_)(_s_)] & _f_can(_y_) > 1]
+λ_s_ ∃*x* ∃*y* \[cat(*x*)(*s*) & *f_day(*s*) = 1 & *y* = σ_z* \[Super-Supper(*z*)(*w\*\*s*) & eat(*z*)(*x*)(*s*)] & _f_can(*y*) > 1]
 
 48(b)限制了量化的情境，这些情境的时间延伸是一天，可以是一个日历日，或者更有可能是一个 24 小时的时间段。最大性条件可以选择出相关猫在这样一个时间段内吃的所有食物，无论它们是否只吃了比罐头多一点点还是多得多。没有压力要保持食物的份量小。然而，Fox＆Hackl（2006）已经注意到了一类情况，在这类情况中，对于具有超过 n 个名词短语的句子，有压力要保持数量小。下面的（49）将是这样一个情况：
 
@@ -594,7 +594,7 @@ b.
 
 (55)
 
-λ_s_ \[λ_x_ ∃_y_ caught(_y_)(_x_)(_s_) = λ_x_ ∃_y_ caught(_y_)(_x_)(_w_0)]
+λ_s_ \[λ_x_ ∃*y* caught(*y*)(*x*)(*s*) = λ_x_ ∃*y* caught(*y*)(*x*)(_w_0)]
 
 (55)描述了可能的情境，其中捕捉到某物的人的集合与实际世界中捕捉到某物的人的集合相同。由于问题扩展是命题，它们可以被举例说明。假设 Jason、Willie 和 Joseph 是实际世界中唯一捕捉到任何东西的人。那么(55)将被所有最小的情境所举例，其中 Jason、Willie 和 Joseph 捕捉到某物。如果实际世界中没有人捕捉到任何东西，那么任何实际情境都可以举例说明(55)。引入奥斯汀的观点，我们现在可以说，问题的答案总是被理解为关于举例说明问题扩展的实际情境的主张。通过它们的举例情境，问题扩展确定了可能的多个主题情境，人们理解答案是关于这些情境的主张。当答案被解释为详尽无遗时，它所表达的命题被理解为在主题情境中被举例说明。当答案被解释为非详尽无遗时，它所表达的命题被理解为在主题情境中仅仅是真实的。因此，我们有：
 
@@ -658,7 +658,7 @@ b.
 
 (60)
 
-λ_s_ \[past(_s_) & ∃_e_ \[_e_ ≤_ps_ & swim(Ewan)(_e_) & _f_hour(_e_) = 10] ]
+λ_s_ \[past(*s*) & ∃*e* \[*e* ≤*ps* & swim(Ewan)(*e*) & _f_hour(*e*) = 10] ]
 
 (60)中的公式包含了戴维森式事件断言的常见符号表示法。在情境语义学中，这种表示法只是一种传达 swim(Ewan)(e)应以实例化的方式解释的便捷方式：我们谈论的不是 Ewan 游泳的情境，而是实例化了命题“Ewan 游泳”的情境。
 
@@ -672,7 +672,7 @@ b.
 
 (62)
 
-λ_s_ ∃_x_ ∃_y_ \[man(_x_)(_s_) & donkey(_y_)(_s_) & ∃_e_ \[_e_ ≤_ps_ & ride(_y_)(_x_)(_e_)] ]
+λ_s_ ∃*x* ∃*y* \[man(*x*)(*s*) & donkey(*y*)(*s*) & ∃*e* \[*e* ≤*ps* & ride(*y*)(*x*)(*e*)] ]
 
 如果根据某种适当的计数标准建立事件量词的域，它可以量化最大的时空连接的骑驴事件。命题(62)可以通过包含一个男人 x、一个驴 y 和一个最大的时空连接的骑驴事件的最小情境来举例说明。
 
@@ -682,181 +682,181 @@ b.
 
 #### References mentioned in the text
 
-* Austin, J. L., 1950, _Truth. Philosophical Papers_ (3rd ed. 1979): 117–33. Oxford: Oxford University Press.
-* Bach, E., 1986, “The Algebra of Events,” _Linguistics and Philosophy_, 9: 5–16.
-* Barwise, J., 1981, “Scenes and Other Situations,” _The Journal of Philosophy_, 78: 369–97.
-* –––, 1988, _The Situation in Logic_. Stanford: CSLI.
-* Barwise, J. & Perry, J., 1983, _Situations and Attitudes_. Cambridge, MA: The MIT Press.
-* Barwise, J. & Etchemendy, J., 1987, _The Liar_. Oxford: Oxford University Press.
-* Barwise, J. & Seligman, J., 1997, _Information Flow_. _The Logic of Distributed Systems_. Cambridge: Cambridge University Press.
-* Benthem, J. F. A. K. van, 1977, “Tense Logic and Standard Logic,” _Logique et Analyse_, 80: 395–437.
-* Berman, S., 1987, “Situation-Based Semantics for Adverbs of Quantification,” _Issues in Semantics_ (University of Massachusetts Occasional Papers in Linguistics, Volume 12), J. Blevins & A. Vainikka (eds.), Amherst, MA: Graduate Linguistics Student Association (GSLA), University of Massachusetts/Amherst, 45–68.
-* Bonomi, A. & Casalegno, P., 1993, “_Only_: Association with Focus in Event Semantics,” _Natural Language Semantics_, 2: 1–45.
-* Carnap, R., 1947, _Meaning and Necessity_, Chicago: Chicago University Press.
-* Casati, R. & Varzi, A., 1999, _Parts and Places_. _The Structures of Spatial Representation_. Cambridge/Mass.: The MIT Press.
-* Cipria, A. and Roberts, C., 2000, “Spanish Imperfecto and Pretérito: Truth Conditions and Aktionsart Effects in a Situation Semantics,” _Natural Language Semantics_, 8: 297–347.
-* Cooper, R., 1996, “The Role of Situations in Generalized Quantifiers,” _Handbook of Contemporary Semantic Theory_, ed. by S. Lappin: 65–86. Oxford: Blackwell Publishers.
-* –––, 1997, “Austinian Propositions, Davidsonian Events and Perception Complements,” _The Tbilisi Symposium on Language, Logic and Computation: Selected Papers_, J. Ginzburg, Z. Khasidashvili, J. J. Levy & E. Vallduví (eds.), Stanford: CSLI Publications, 19–34.
-* Cresswell, M., 1990, _Entities and Indices_. Dordrecht: Kluwer Academic Publishers.
-* Cresswell, M. & Stechow, A. von, 1982, “_De re_ Belief Generalized,” _Linguistics and Philosophy_, 5: 503–35.
-* Davidson, D., 1967a, “The Logical Form of Action Sentences,” _The Logic of Decision and Action_, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press, 81–95.
-* –––, 1967b, “Causal Relations,” _Journal of Philosophy_, 64: 691–703.
-* –––, 1980, _Essays on Actions and Events_. Oxford: Clarendon Press.
-* Dekker, P., 2004, “Cases, Adverbs, Situations, and Events,” _Context Dependence in the Analysis of Linguistic Meaning_, Hans Kamp and Barbara Partee (eds.), Amsterdam: Elsevier, 383–404.
-* Devlin, K., 1991, _Logic and Information_. Cambridge: Cambridge University Press.
-* –––, 2006, “Situation Theory and Situation Semantics,” _Handbook of the History of Logic_. Volume 7, D. Gabbay and J. Woods (eds.), Amsterdam: Elsevier North-Holland, 601–64.
-* Elbourne, P., 2002, _Situations and Individuals_, (Ph.D. Thesis, Department of Linguistics and Philosophy, MIT), Cambridge, MA: MIT Press, 2005.
-* –––, 2005, _Situations and Individuals_. Cambridge/Mass: The MIT Press.
-* –––, 2013, _Definite Descriptions_, Oxford: Oxford University Press.
-* –––, 2016, “Incomplete Descriptions and Indistinguishable Participants,” _Natural Language Semantics_, 24: 1–43.
-* Evans, G., 1977, “Pronouns, Quantifiers, and Relative Clauses,” _Canadian Journal of Philosophy_, 7: 467–536.
-* Fintel, K. von., 1994, _Restrictions on Quantifier Domains_, Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst, [Preprint available online](http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf), and [reprint available](http://proquest.umi.com/pqdlink?Ver=1\&Exp=06-08-2014\&FMT=7\&DID=740968301\&RQT=309\&attempt=1) from ProQuest UMI.
-* –––, 2004a, “A Minimal Theory of Adverbial Quantification,” _Context Dependence in the Analysis of Linguistic Meaning_, H. Kamp & B. Partee (eds.), Amsterdam: Elsevier, 137–175.
-* –––, 2004b. “Minimal Replies to Dekker, Hajičová & Sgall, Berman and de Swart,” _Context-Dependence in the Analzsis of Linguistic Meaning_, H. Kamp and B. Partee (eds.), Amsterdam: Elsevier, 542–47.
-* Fintel, K. von & Gillies, A. S., 2011, “‘Might’ Made Right,” in _Epistemic Modality_, A. Egan and B. Weatherson (eds.), Oxford: Oxford University Press, 108–113.
-* Fox, D., 2007, “Free Choice and the Theory of Scalar Implicatures,” _Presupposition and Implicature in Compositional Semantics_, in U. Sauerland and D. Penka (eds.), New York: Palgrave, 542–47.
-* Fox, D. & Hackl, M., 2006, “The Universal Density of Measurement,” _Linguistics and Philosophy_, 29: 71–120.
-* Gawron, J. M. & Peters, S., 1990, _Anaphora and Quantification in Situation Semantics_, Stanford: CSLI.
-* Geach, P. T., 1980, _Reference and Generality_, 3rd edition. Ithaca: Cornell University Press.
-* Gillies, T., 2001, “A New Solution to Moore’s Paradox,” _Philosophical Studies_, 105: 237–50.
-* Ginzburg, J. & Sag, I., 2000, _Interrogative Investigations_. Stanford: CSLI.
-* Groenendijk, J. & Stokhof, M., 1984, _Studies on the Semantics of Questions and Pragmatics of Answers_. Ph.D. Thesis, University of Amsterdam, available online, [Chapters I–IV](http://dare.uva.nl/document/23983), [Chapters V–VI](http://dare.uva.nl/document/23984), from the University of Amsterdam Digital Academic Repository.
-* Hacking, I., 1967, “Possibility,” _The Philosophical Review_, 76: 143–68.
-* Heim, I., 1990, “E-Type Pronouns and Donkey Anaphora,” _Linguistics and Philosophy_, 13: 137–78.
-* Higginbotham, J., 1983, “The Logic of Perceptual Reports: An Extensional Alternative to Situation Semantics,” _The Journal of Philosophy_, 80: 100–27.
-* Jacobson, P., 1999, “Towards a Variable-Free Semantics,” _Linguistics and Philosophy_, 22: 117–84.
-* Kadmon, N., 1987, _On Unique and Non-Unique Reference and Asymmetric Quantification_, (Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst), New York: Garland, 1992.
-* –––, 1990, “Uniqueness,” _Linguistics and Philosophy_, 13: 273–324.
-* –––, 2001, _Formal Pragmatics_. Oxford: Blackwell Publishers.
-* Kamp, H., 1971, “Formal Properties of ‘now’,” _Theoria_, 37: 227–73.
-* Kamp, H. & Reyle, U., 1993, _From Discourse to Logic_. Dordrecht: Kluwer.
-* Keshet, E., 2008, _Good Intensions: Paving Two Roads to a Theory of the De re/De dicto Distinction_, Ph.D. Thesis, Department of Linguistics and Philosophy, MIT, [Preprint available online](https://dspace.mit.edu/bitstream/handle/1721.1/45622/320472279-MIT.pdf).
-* –––, 2010, “Situation Economy,” _Natural Language Semantics_, 18: 385–434.
-* Klein, W., 1994, _Time in Language_. London: Routledge.
-* Kratzer, A., 1989, “An Investigation of the Lumps of Thought,” _Linguistics and Philosophy_, 12: 607–53.
-* –––, 1998, “Scope or Pseudoscope? Are There Wide-Scope Indefinites?,” _Events and Grammar_, S. Rothstein (ed.), Dordrecht: Kluwer Academic Publishers, 163–96.
-* –––, 2002, “Facts: Particulars or Information Units?,” _Linguistics and Philosophy_, 25: 655–70.
-* –––, 2012, _Modals and Conditionals_, Oxford: Oxford University Press.
-* Krifka, M., 1992, “Thematic Relations as Links between Nominal Reference and Temporal Constitution,” _Lexical Matters_, I. Sag and A. Szabolcsi (eds.), Stanford: CSLI Publications, 29–53.
-* Landman, F., 2000, _Events and Plurality_. _The Jerusalem Lectures_. Dordrecht: Kluwer Academic Publishers.
-* –––, 2004, _Indefinites and the Type of Sets_. Oxford: Blackwell Publishers.
-* Lasersohn, P., 1988, _A Semantics for Groups and Events_, (Ph.D. Thesis, Ohio State University), New York: Garland, 1990.
-* –––, 1990, _A Semantics for Groups and Events_. New York: Garland Publishing.
-* Lewis, D., 1972, “General Semantics,” _Semantics of Natural Language_, D. Davidson and G. Harman (eds.), Dordrecht: Reidel, 169–218.
-* McKenzie, A., 2012, _The Role of Contextual Restriction in Reference Tracking_, Ph.D. Thesis, Department of Linguistics, U. Massachusetts/Amherst, [Preprint available online](http://scholarworks.umass.edu/open\_access\_dissertations/585/).
-* –––, 2015, “A Survey of Switch-Reference in North America,” _International Journal of American Linguistics_, 81: 409–448.
-* Neale, S., 2004, “This, That, and The Other,” _Descriptions and Beyond_, M. Reimer & A. Bezuidenhout (eds.), Oxford: Clarendon Press, 68–182.
-* Ogihara, T., 1996, _Tense, Attitudes and Scope_. Dordrecht: Kluwer Academic Publishers.
-* Partee, B., 1973, “Some Structural Analogies Between Tenses and Pronouns in English,” _The Journal of Philosophy_, 70: 601–09.
-* Percus, O., 2000, “Constraints on Some Other Variables in Syntax,” _Natural Language Semantics_, 8: 173–229.
-* Perry, J., 1986, “Thought without Representation,” _Proceedings of the Aristotelian Society_, Supplementary Volume 60: 263–83.
+* Austin, J. L., 1950, *Truth. Philosophical Papers* (3rd ed. 1979): 117–33. Oxford: Oxford University Press.
+* Bach, E., 1986, “The Algebra of Events,” *Linguistics and Philosophy*, 9: 5–16.
+* Barwise, J., 1981, “Scenes and Other Situations,” *The Journal of Philosophy*, 78: 369–97.
+* –––, 1988, *The Situation in Logic*. Stanford: CSLI.
+* Barwise, J. & Perry, J., 1983, *Situations and Attitudes*. Cambridge, MA: The MIT Press.
+* Barwise, J. & Etchemendy, J., 1987, *The Liar*. Oxford: Oxford University Press.
+* Barwise, J. & Seligman, J., 1997, *Information Flow*. *The Logic of Distributed Systems*. Cambridge: Cambridge University Press.
+* Benthem, J. F. A. K. van, 1977, “Tense Logic and Standard Logic,” *Logique et Analyse*, 80: 395–437.
+* Berman, S., 1987, “Situation-Based Semantics for Adverbs of Quantification,” *Issues in Semantics* (University of Massachusetts Occasional Papers in Linguistics, Volume 12), J. Blevins & A. Vainikka (eds.), Amherst, MA: Graduate Linguistics Student Association (GSLA), University of Massachusetts/Amherst, 45–68.
+* Bonomi, A. & Casalegno, P., 1993, “*Only*: Association with Focus in Event Semantics,” *Natural Language Semantics*, 2: 1–45.
+* Carnap, R., 1947, *Meaning and Necessity*, Chicago: Chicago University Press.
+* Casati, R. & Varzi, A., 1999, *Parts and Places*. *The Structures of Spatial Representation*. Cambridge/Mass.: The MIT Press.
+* Cipria, A. and Roberts, C., 2000, “Spanish Imperfecto and Pretérito: Truth Conditions and Aktionsart Effects in a Situation Semantics,” *Natural Language Semantics*, 8: 297–347.
+* Cooper, R., 1996, “The Role of Situations in Generalized Quantifiers,” *Handbook of Contemporary Semantic Theory*, ed. by S. Lappin: 65–86. Oxford: Blackwell Publishers.
+* –––, 1997, “Austinian Propositions, Davidsonian Events and Perception Complements,” *The Tbilisi Symposium on Language, Logic and Computation: Selected Papers*, J. Ginzburg, Z. Khasidashvili, J. J. Levy & E. Vallduví (eds.), Stanford: CSLI Publications, 19–34.
+* Cresswell, M., 1990, *Entities and Indices*. Dordrecht: Kluwer Academic Publishers.
+* Cresswell, M. & Stechow, A. von, 1982, “*De re* Belief Generalized,” *Linguistics and Philosophy*, 5: 503–35.
+* Davidson, D., 1967a, “The Logical Form of Action Sentences,” *The Logic of Decision and Action*, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press, 81–95.
+* –––, 1967b, “Causal Relations,” *Journal of Philosophy*, 64: 691–703.
+* –––, 1980, *Essays on Actions and Events*. Oxford: Clarendon Press.
+* Dekker, P., 2004, “Cases, Adverbs, Situations, and Events,” *Context Dependence in the Analysis of Linguistic Meaning*, Hans Kamp and Barbara Partee (eds.), Amsterdam: Elsevier, 383–404.
+* Devlin, K., 1991, *Logic and Information*. Cambridge: Cambridge University Press.
+* –––, 2006, “Situation Theory and Situation Semantics,” *Handbook of the History of Logic*. Volume 7, D. Gabbay and J. Woods (eds.), Amsterdam: Elsevier North-Holland, 601–64.
+* Elbourne, P., 2002, *Situations and Individuals*, (Ph.D. Thesis, Department of Linguistics and Philosophy, MIT), Cambridge, MA: MIT Press, 2005.
+* –––, 2005, *Situations and Individuals*. Cambridge/Mass: The MIT Press.
+* –––, 2013, *Definite Descriptions*, Oxford: Oxford University Press.
+* –––, 2016, “Incomplete Descriptions and Indistinguishable Participants,” *Natural Language Semantics*, 24: 1–43.
+* Evans, G., 1977, “Pronouns, Quantifiers, and Relative Clauses,” *Canadian Journal of Philosophy*, 7: 467–536.
+* Fintel, K. von., 1994, *Restrictions on Quantifier Domains*, Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst, [Preprint available online](http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf), and [reprint available](http://proquest.umi.com/pqdlink?Ver=1\&Exp=06-08-2014\&FMT=7\&DID=740968301\&RQT=309\&attempt=1) from ProQuest UMI.
+* –––, 2004a, “A Minimal Theory of Adverbial Quantification,” *Context Dependence in the Analysis of Linguistic Meaning*, H. Kamp & B. Partee (eds.), Amsterdam: Elsevier, 137–175.
+* –––, 2004b. “Minimal Replies to Dekker, Hajičová & Sgall, Berman and de Swart,” *Context-Dependence in the Analzsis of Linguistic Meaning*, H. Kamp and B. Partee (eds.), Amsterdam: Elsevier, 542–47.
+* Fintel, K. von & Gillies, A. S., 2011, “‘Might’ Made Right,” in *Epistemic Modality*, A. Egan and B. Weatherson (eds.), Oxford: Oxford University Press, 108–113.
+* Fox, D., 2007, “Free Choice and the Theory of Scalar Implicatures,” *Presupposition and Implicature in Compositional Semantics*, in U. Sauerland and D. Penka (eds.), New York: Palgrave, 542–47.
+* Fox, D. & Hackl, M., 2006, “The Universal Density of Measurement,” *Linguistics and Philosophy*, 29: 71–120.
+* Gawron, J. M. & Peters, S., 1990, *Anaphora and Quantification in Situation Semantics*, Stanford: CSLI.
+* Geach, P. T., 1980, *Reference and Generality*, 3rd edition. Ithaca: Cornell University Press.
+* Gillies, T., 2001, “A New Solution to Moore’s Paradox,” *Philosophical Studies*, 105: 237–50.
+* Ginzburg, J. & Sag, I., 2000, *Interrogative Investigations*. Stanford: CSLI.
+* Groenendijk, J. & Stokhof, M., 1984, *Studies on the Semantics of Questions and Pragmatics of Answers*. Ph.D. Thesis, University of Amsterdam, available online, [Chapters I–IV](http://dare.uva.nl/document/23983), [Chapters V–VI](http://dare.uva.nl/document/23984), from the University of Amsterdam Digital Academic Repository.
+* Hacking, I., 1967, “Possibility,” *The Philosophical Review*, 76: 143–68.
+* Heim, I., 1990, “E-Type Pronouns and Donkey Anaphora,” *Linguistics and Philosophy*, 13: 137–78.
+* Higginbotham, J., 1983, “The Logic of Perceptual Reports: An Extensional Alternative to Situation Semantics,” *The Journal of Philosophy*, 80: 100–27.
+* Jacobson, P., 1999, “Towards a Variable-Free Semantics,” *Linguistics and Philosophy*, 22: 117–84.
+* Kadmon, N., 1987, *On Unique and Non-Unique Reference and Asymmetric Quantification*, (Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst), New York: Garland, 1992.
+* –––, 1990, “Uniqueness,” *Linguistics and Philosophy*, 13: 273–324.
+* –––, 2001, *Formal Pragmatics*. Oxford: Blackwell Publishers.
+* Kamp, H., 1971, “Formal Properties of ‘now’,” *Theoria*, 37: 227–73.
+* Kamp, H. & Reyle, U., 1993, *From Discourse to Logic*. Dordrecht: Kluwer.
+* Keshet, E., 2008, *Good Intensions: Paving Two Roads to a Theory of the De re/De dicto Distinction*, Ph.D. Thesis, Department of Linguistics and Philosophy, MIT, [Preprint available online](https://dspace.mit.edu/bitstream/handle/1721.1/45622/320472279-MIT.pdf).
+* –––, 2010, “Situation Economy,” *Natural Language Semantics*, 18: 385–434.
+* Klein, W., 1994, *Time in Language*. London: Routledge.
+* Kratzer, A., 1989, “An Investigation of the Lumps of Thought,” *Linguistics and Philosophy*, 12: 607–53.
+* –––, 1998, “Scope or Pseudoscope? Are There Wide-Scope Indefinites?,” *Events and Grammar*, S. Rothstein (ed.), Dordrecht: Kluwer Academic Publishers, 163–96.
+* –––, 2002, “Facts: Particulars or Information Units?,” *Linguistics and Philosophy*, 25: 655–70.
+* –––, 2012, *Modals and Conditionals*, Oxford: Oxford University Press.
+* Krifka, M., 1992, “Thematic Relations as Links between Nominal Reference and Temporal Constitution,” *Lexical Matters*, I. Sag and A. Szabolcsi (eds.), Stanford: CSLI Publications, 29–53.
+* Landman, F., 2000, *Events and Plurality*. *The Jerusalem Lectures*. Dordrecht: Kluwer Academic Publishers.
+* –––, 2004, *Indefinites and the Type of Sets*. Oxford: Blackwell Publishers.
+* Lasersohn, P., 1988, *A Semantics for Groups and Events*, (Ph.D. Thesis, Ohio State University), New York: Garland, 1990.
+* –––, 1990, *A Semantics for Groups and Events*. New York: Garland Publishing.
+* Lewis, D., 1972, “General Semantics,” *Semantics of Natural Language*, D. Davidson and G. Harman (eds.), Dordrecht: Reidel, 169–218.
+* McKenzie, A., 2012, *The Role of Contextual Restriction in Reference Tracking*, Ph.D. Thesis, Department of Linguistics, U. Massachusetts/Amherst, [Preprint available online](http://scholarworks.umass.edu/open\_access\_dissertations/585/).
+* –––, 2015, “A Survey of Switch-Reference in North America,” *International Journal of American Linguistics*, 81: 409–448.
+* Neale, S., 2004, “This, That, and The Other,” *Descriptions and Beyond*, M. Reimer & A. Bezuidenhout (eds.), Oxford: Clarendon Press, 68–182.
+* Ogihara, T., 1996, *Tense, Attitudes and Scope*. Dordrecht: Kluwer Academic Publishers.
+* Partee, B., 1973, “Some Structural Analogies Between Tenses and Pronouns in English,” *The Journal of Philosophy*, 70: 601–09.
+* Percus, O., 2000, “Constraints on Some Other Variables in Syntax,” *Natural Language Semantics*, 8: 173–229.
+* Perry, J., 1986, “Thought without Representation,” *Proceedings of the Aristotelian Society*, Supplementary Volume 60: 263–83.
 * Portner, P., 1992, Situation Theory and the Semantics of Propositional Expressions, Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst, [Preprint available online](http://proquest.umi.com/pqdlink?did=745451881\&Fmt=14\&VType=PQD\&VInst=PROD\&RQT=309\&VName=PQD\&TS=1244523442\&clientId=79356), and [reprint available](http://proquest.umi.com/pqdlink?Ver=1\&Exp=06-08-2014\&FMT=7\&DID=745451881\&RQT=309\&attempt=1) from ProQuest UMI.
-* Récanati, F., 1986/87, “Contextual Dependence and Definite Descriptions,” _Proceedings of the Aristotelian Society_, 87: 57–73.
-* –––, 1993, _Direct Reference: From Language to Thought_. Oxford: Blackwell.
-* –––, 1996, “Domains of Discourse,” _Linguistics and Philosophy_, 19: 445–75.
-* –––, 2000, _Oratio Obliqua, Oratio Recta_. Cambridge/Mass: The MIT Press.
-* –––, 2002, Unarticulated Constituents, _Linguistics and Philosophy_, 25: 299–345.
-* –––, 2004a, “Descriptions and Situations,” _Descriptions and Beyond_, M. Reimer & A. Bezuidenhout (eds.), Oxford: Clarendon Press, 15–40.
-* –––, 2004b, _Literal Meaning_, Cambridge: Cambridge University Press.
-* Reinhart, T., 1986, “On the Interpretation of ‘Donkey’ sentences,” in _On Conditionals_, E. Cross Traugott, A. ter Meulen, J. Snitzer Reilly & C. A. Ferguson (eds.), Cambridge: Cambridge University Press, 103–22.
-* Rose, K. de, 1991, “Epistemic Possibilities,” _The Philosophical Review_, 100: 581–605.
-* Schein, B., 1993, _Plurals and Events_. Cambridge/Mass.: MIT Press.
-* Schulz, K. & Rooij, R. van, 2006, “Pragmatic Meaning and Non-Monotonic Reasoning: The Case of Exhaustive Interpretation,” _Linguistics and Philosophy_, 29: 205–50.
-* Schwarz, F., 2008, _Two Types of Definites in Natural Language_, Ph.D. Thesis, Department of Linguistics, U. Massachusetts/Amherst, [Preprint available online](http://scholarworks.umass.edu/open\_access\_dissertations/122/).
-* –––, 2012, “Situation Pronouns in Determiner Phrases,” _Natural Language Semantics_, 20: 431–75.
-* Sevi, A., 2005, _Exhaustivity. A Semantic Account of “Quantity” Implicatures_, Ph.D. Thesis, University of Tel Aviv, [available online](http://www.scribd.com/doc/8635537/Aldo-Sevi-Exhaustivity-A-Semantic-Account-of-Quantity-Implicatures-PHd-2005) at scribd.com.
-* Smith, C. S., 1991, _The Parameter of Aspect_. Dordrecht: Kluwer Academic Publishers.
-* Soames, S., 1986, “Incomplete Definite Descriptions,” _Notre Dame Journal of Formal Logic_, 27: 349–75.
-* Spector, B., 2006, _Aspects de la Pragmatique des Opérateurs Logiques_, Ph.D. Thesis, Linguistics Department, University of Paris 7 (Denis Diderot), [available online](https://sites.google.com/site/bspectorpage/dissertation), from the Cognitive Science Department, École Normal Supérieur.
-* Spelke, E., 1990, “Principles of Object Perception,” _Cognitive Science_, 14: 29–56.
-* Stojanovich, I., 2012, “Situation Semantics,” in _Identity, Language and Mind_: _An Introduction to the Philosophy of John Perry_, A. Newen & R. van Riel (eds.), Stanford: CSLI Publications, 67–86.
-* Teller, P., 1972, “Epistemic Possibility,” _Philosophia_, 2: 302–20.
-* Vlach, F., 1973, _“Now” and “Then”: A Formal Study in the Logic of Tense Anaphora_, Ph.D. Thesis, Philosophy Department, University of California/Los Angeles, [PDF preview available online](http://proquest.umi.com/pqdweb?index=1\&sid=2\&srchmode=2\&vinst=PROD\&fmt=14\&startpage=-1\&clientid=12498\&vname=PQD\&did=761281961\&scaling=FULL\&ts=1244527426\&vtype=PQD\&rqt=309\&TS=1244527437\&clientId=12498), [reprint available](http://proquest.umi.com/pqdweb?index=1\&did=761281961\&SrchMode=2\&sid=2\&Fmt=1\&VInst=PROD\&VType=PQD\&RQT=309\&VName=PQD\&TS=1244527426\&clientId=12498) from ProQuest UMI.
-* –––, 1983, “On Situation Semantics for Perception,” _Synthese_, 54: 129–52.
-* Westerståhl, D., 1985, “Determiners and Context Sets,” in _Generalized Quantifiers in Natural Language_, J. van Benthem and A. ter Meulen (eds.), Dordrecht: Foris, 45–71.
-* Zucchi, A., 1988, _The Language of Propositions and Events: Issues in the Syntax and Semantics of Nominalization_, (Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst), Dordrecht: Kluwer, 1993.
-* –––, 2015, “Events and Situations,” _Annual Review of Linguistics_, 1: 85–106.
+* Récanati, F., 1986/87, “Contextual Dependence and Definite Descriptions,” *Proceedings of the Aristotelian Society*, 87: 57–73.
+* –––, 1993, *Direct Reference: From Language to Thought*. Oxford: Blackwell.
+* –––, 1996, “Domains of Discourse,” *Linguistics and Philosophy*, 19: 445–75.
+* –––, 2000, *Oratio Obliqua, Oratio Recta*. Cambridge/Mass: The MIT Press.
+* –––, 2002, Unarticulated Constituents, *Linguistics and Philosophy*, 25: 299–345.
+* –––, 2004a, “Descriptions and Situations,” *Descriptions and Beyond*, M. Reimer & A. Bezuidenhout (eds.), Oxford: Clarendon Press, 15–40.
+* –––, 2004b, *Literal Meaning*, Cambridge: Cambridge University Press.
+* Reinhart, T., 1986, “On the Interpretation of ‘Donkey’ sentences,” in *On Conditionals*, E. Cross Traugott, A. ter Meulen, J. Snitzer Reilly & C. A. Ferguson (eds.), Cambridge: Cambridge University Press, 103–22.
+* Rose, K. de, 1991, “Epistemic Possibilities,” *The Philosophical Review*, 100: 581–605.
+* Schein, B., 1993, *Plurals and Events*. Cambridge/Mass.: MIT Press.
+* Schulz, K. & Rooij, R. van, 2006, “Pragmatic Meaning and Non-Monotonic Reasoning: The Case of Exhaustive Interpretation,” *Linguistics and Philosophy*, 29: 205–50.
+* Schwarz, F., 2008, *Two Types of Definites in Natural Language*, Ph.D. Thesis, Department of Linguistics, U. Massachusetts/Amherst, [Preprint available online](http://scholarworks.umass.edu/open\_access\_dissertations/122/).
+* –––, 2012, “Situation Pronouns in Determiner Phrases,” *Natural Language Semantics*, 20: 431–75.
+* Sevi, A., 2005, *Exhaustivity. A Semantic Account of “Quantity” Implicatures*, Ph.D. Thesis, University of Tel Aviv, [available online](http://www.scribd.com/doc/8635537/Aldo-Sevi-Exhaustivity-A-Semantic-Account-of-Quantity-Implicatures-PHd-2005) at scribd.com.
+* Smith, C. S., 1991, *The Parameter of Aspect*. Dordrecht: Kluwer Academic Publishers.
+* Soames, S., 1986, “Incomplete Definite Descriptions,” *Notre Dame Journal of Formal Logic*, 27: 349–75.
+* Spector, B., 2006, *Aspects de la Pragmatique des Opérateurs Logiques*, Ph.D. Thesis, Linguistics Department, University of Paris 7 (Denis Diderot), [available online](https://sites.google.com/site/bspectorpage/dissertation), from the Cognitive Science Department, École Normal Supérieur.
+* Spelke, E., 1990, “Principles of Object Perception,” *Cognitive Science*, 14: 29–56.
+* Stojanovich, I., 2012, “Situation Semantics,” in *Identity, Language and Mind*: *An Introduction to the Philosophy of John Perry*, A. Newen & R. van Riel (eds.), Stanford: CSLI Publications, 67–86.
+* Teller, P., 1972, “Epistemic Possibility,” *Philosophia*, 2: 302–20.
+* Vlach, F., 1973, *“Now” and “Then”: A Formal Study in the Logic of Tense Anaphora*, Ph.D. Thesis, Philosophy Department, University of California/Los Angeles, [PDF preview available online](http://proquest.umi.com/pqdweb?index=1\&sid=2\&srchmode=2\&vinst=PROD\&fmt=14\&startpage=-1\&clientid=12498\&vname=PQD\&did=761281961\&scaling=FULL\&ts=1244527426\&vtype=PQD\&rqt=309\&TS=1244527437\&clientId=12498), [reprint available](http://proquest.umi.com/pqdweb?index=1\&did=761281961\&SrchMode=2\&sid=2\&Fmt=1\&VInst=PROD\&VType=PQD\&RQT=309\&VName=PQD\&TS=1244527426\&clientId=12498) from ProQuest UMI.
+* –––, 1983, “On Situation Semantics for Perception,” *Synthese*, 54: 129–52.
+* Westerståhl, D., 1985, “Determiners and Context Sets,” in *Generalized Quantifiers in Natural Language*, J. van Benthem and A. ter Meulen (eds.), Dordrecht: Foris, 45–71.
+* Zucchi, A., 1988, *The Language of Propositions and Events: Issues in the Syntax and Semantics of Nominalization*, (Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst), Dordrecht: Kluwer, 1993.
+* –––, 2015, “Events and Situations,” *Annual Review of Linguistics*, 1: 85–106.
 
 #### References not mentioned in the text
 
 Additional suggestions are most welcome.
 
-* Alonso-Ovalle, L., 2002, “Aspect and Situations: a Situation Semantics Account of the Semantic Variability of Spanish _al_-clauses,” _From Words to Discourse_. _Trends in Spanish Semantics and Pragmatics_, J. Gutiérrez-Rexach (ed.), Amsterdam: Elsevier, 119-27.
-* Asher, N. & Bonevac, D., 1985, “Situations and Events,” _Philosophical Studies_, 47: 57–77.
-* –––, 1987, “Determiners and Resource Situations,” _Linguistics and Philosophy_, 10: 567–96.
-* Barwise, J., 1991, “Situationen und kleine Welten,” _Semantik/Semantics_, A. von Stechow & D. Wunderlich (eds.), Berlin: Walter de Gruyter, 80–89.
-* Barwise, J. & Perry, J., 1981a, “Situations and Attitudes,” _The Journal of Philosophy_, 78: 668–91.
-* –––, 1981b, “Semantic Innocence and Uncompromising Situations,” _Midwest Studies in the Philosophy of Language_ VI, P. French, T. Uehling, & H. Wettstein (eds.), Minneapolis: University of Minnesota Press, 387–403.
-* –––, 1985, “Shifting Situations and Shaken Attitudes,” _Linguistics and Philosophy_, 8: 105–61.
-* Barwise, J. & Cooper, R., 1993, “Extended Kamp Notation: A Graphical Notation for Situation Theory,” _Situation Theory and its Applications_. Volume 3, P. Aczel, D. Israel, Y. Katagiri & S. Peters (eds.), Stanford: CSLI Publications, 29–53.
-* Büring, D., 2004, “Crossover Situations,” _Natural Language Semantics_, 12: 23–62.
-* Cooper, R., 1986, “Tense and Discourse Location in Situation Semantics,” _Linguistics and Philosophy_, 9: 17–36.
-* –––, 1987a, “Preliminaries to the Treatment of Generalized Quantifiers in Situation Semantics,” _Generalized Quantifiers: Linguistic and Logical Approaches_, P. Gärdenfors (ed.), Dordrecht: D. Reidel, 73–91.
-* –––, 1987b, “Meaning Representation in Montague Grammar and Situation Semantics,” _Computational Intelligence_, 3: 35–44.
-* –––, 1988, “Facts in Situation Theory: Representation, Psychology or Reality?,” _Mental Representations: The Interface between Language and Reality_, R. Kempson (ed.), Cambridge: Cambridge University Press, 49–61.
-* –––, 1990, “Information in the Early Stages of Language Acquisition,” _Situation Theory and its Applications_, Volume 1, R. Cooper, K. Mukai & J. Perry (eds.), Stanford: CSLI Publications, 343–54.
-* –––, 1992, “A Working Person’s Guide to Situation Theory,” _Topics in Semantic Interpretation_, S. L. Hansen & F. Soerensen (eds.), Frederiksberg: Samfundslitteratur.
-* –––, 1993, “Generalized Quantifiers and Resource Situations,” _Situation Theory and its Applications_, Volume 3, P. Aczel, D. Israel, Y. Katagiri & S. Peters (eds.), Stanford: CSLI Publications.
-* –––, 1996, “The Attitudes in Discourse Representation Theory and Situation Semantics,” _Logic, Language, and Computation_, Volume 1, J. Seligman & D. Westerståhl (eds.), Stanford: CSLI Publications, 137–50.
-* –––, 1999, “Using Situations to Reason about Speech Events,” _Computing Meaning_, Volume 1, H. Bunt & R. Muskens (eds.), Dordrecht: Kluwer.
-* Cooper, R. & Kamp, H., 1991, “Negation in Situation Semantics and Discourse Representation Theory,” _Situation Theory and its Applications_, Volume II, J. Barwise, M. Gawron, G. Plotkin and S. Tutiya (eds.), Stanford: CSLI Publications, 311–33.
-* Cooper, R. & Barwise, J., 1993, “Extended Kamp Notation: a Graphical Notation for Situation Theory,” _Situation Theory and Its Applications_ 3, P. Aczel, D. Israel, Y. Katagiri & S. Peters (eds.), Stanford: CSLI Publications.
-* Cooper, R. & Ginzburg, J., 1996, “A Compositional Situation Semantics for Attitude Reports,” _Logic, Language, and Computation_, Volume 1, J. Seligman & D. Westerståhl (eds.), Stanford: CSLI Publications, 151–65.
-* –––, 2004, “Clarification, Ellipsis, and the Nature of Contextual Updates in Dialogue,” _Linguistics and Philosophy_, 27: 297–365.
-* Cresswell, M., 1991, “Die Weltsituation,” _Semantik/Semantics_, A. von Stechow & D. Wunderlich (eds.), Berlin: de Gruyter, 71–80.
-* Doron, E., 1990, “Situation semantics and free indirect discourse with examples from contemporary Hebrew fiction,” _Hebrew Linguistics_, 28: 21–29.
-* –––, 1991, “Point of View as a Factor of Content,” _Proceedings of SALT 1_, S. Moore & A. Z. Wyner (eds.), Ithaca: CLC Publications, 51–64.
-* Elbourne, P., 2001, “E-Type Anaphora as NP-Deletion,” _Natural Language Semantics_, 9: 241–88.
-* –––, 2009, “Bishop Sentences and Donkey Cataphora: A Response to Barker and Shan,” _Semantics & Pragmatics_, 2: 1–7.
-* Engdahl, E., 1990, “Argument Roles and Anaphora,” _Situation Theory and its Applications_, Volume 1, R. Cooper, K. Mukai & J. Perry (eds.), Stanford: CSLI Publications, 379–93.
-* Frazier, L. & Clifton, C., 2018, “Topic Situations: Coherence by Inclusion,” _Journal of Memory and Language_, 103: 176–190.
-* Fox, D. & Sauerland, U., 1997, “Illusive Wide Scope of Universal Quantifiers,” _Interfaces in Linguistic Theory_, G. Matos, _et al_. (eds.), Lisbon: Edições Colibri/Associação Portuguesa de Linguistica, 149–76.
-* Gawron, J. M., 1986, “Situations and Prepositions,” _Linguistics and Philosophy_, 9: 327–82.
-* –––, 1996, “Quantificational domains,” _The Handbook of Contemporary Semantic Theory_, S. Lappin (ed.), Oxford: Blackwell Publishers, 247–67.
-* Gawron, J. M. & Peters, S., 1990a, “Some Puzzles About Pronouns,” _Situation Theory and its Applications_, Volume 1, R. Cooper, K. Mukai & J. Perry (eds.), Stanford: CSLI Publications, 395–431.
-* Gawron, J. M., Nerbonne, J. & Peters, S., 1991, “The Absorption Principle and E-Type Anaphora,” _Situation Theory and its Applications_, volume 2, J. Barwise, J. M. Gawron, G. Plotkin & S. Tutiya (eds.), Stanford: CSLI Publications, 335–62.
-* Ginzburg, J., 1991, “Questions without Answers, _Wh_-Phrases without Scope: A Semantics for Direct _Wh_-Questions and their Responses,” _Situation Theory and its Applications_, volume 2, J. M. Gawron, G. Plotkin & S. Tutiya (eds.), Stanford: CSLI Publications, 363–404.
-* –––, 1996a, “Dynamics and the Semantics of Dialogue,” _Logic, Language and Computation_, volume 1, J. Seligman and D. Westerståhl (eds.), Stanford: CSLI Publications, 221–37.
-* –––, 1996b, “The Semantics of Interrogatives,” _Handbook of Contemporary Semantic Theory_, S. Lappin (ed.), Oxford: Blackwell, 385–22.
-* –––, 2011, “Situation Semantics and the Ontology of Natural Language,” in _Semantics. An International Handbook of Natural Language Meaning_ (Volume 1), C. Maienborn, K. von Heusinger & P. Portner (eds.), Berlin: de Gruyter, 830–51.
-* Glasbey, S., 1996a, “Towards a Channel-Theoretic Account of the Progressive,” _Logic, Language and Computation_, volume 1, J. Seligman & D. Westerståhl (eds.), Stanford: CSLI Publications, 239–54.
-* –––, 1996b, “The Progressive: a Channel-Theoretic Analysis,” _Journal of Semantics_, 13: 331–361.
-* –––, 1998, “A Situation-Theoretic Interpretation of Bare Plurals,” _The Tbilisi Symposium on Logic, Language and Computation: Selected Papers_, J. Ginzburg, Z. Khasidashvili, C. Vogel, J-J. Levy, & E. Vallduví (eds.), Stanford: CSLI Publications, 35–54.
-* –––, 1999, “Bare plurals, situations, and discourse context,” _Logic, Language and Computation_, volume 2, L. Moss, J. Ginzburg & M. de Rijke (eds.), Stanford: CSLI Publications, 85–105.
-* Hallman, P., 2009, “Proportions in time: interactions of quantification and aspect,” _Natural Language Semantics_, 17: 29–61.
-* Hinrichs, E., 1983, “The Semantics of the English Progressive: a Study in Situation Semantics,” _Proceedings of the 19th Regional Meeting of the Chicago Linguistics Society_, in J. Richardson _et al_. (eds.), Chicago: Chicago Linguistics Society, pp. 171–182.
-* Hinterwimmer, S., 2008, _Q-Adverbs as Selective Binders: The Quantificational Variability of Free Relatives and Definite DPs_, Berlin: Mouton de Gruyter.
-* Hinterwimmer, S. & Ebert, C., 2010, “Quantificational Variability Effects with Plural Definites: Quantification over Individuals or Situations?,” _Journal of Semantics_, 27: 139–176.
-* Hornstein, N., 1986, “Review of _Situations and Attitudes_,” _The Journal of Philosophy_, 83: 168–84.
-* Iida, M., 1996, _Context and Binding in Japanese_. Stanford: CSLI Publications.
-* Landman, F., 1986, _Towards a Theory of Information: The Status of Partial Objects in Semantics_. Dordrecht: Foris.
-* Larson, R. K., 1983, _Restrictive Modification: Relative Clauses and Adverbs_. University of Wisconsin PhD dissertation.
-* –––, 1988, “Implicit Arguments in Situation Semantics,” _Linguistics and Philosophy_, 11: 131–68.
-* Lasersohn, P., 1990, “Group Action and Spatio-Temporal Proximity,” _Linguistics and Philosophy_, 13: 179–206.
-* –––, 1995, _Plurality, Conjunction and Events_. Dordrecht: Kluwer Academic Publishers.
-* Lawlor, K., 2018, “Ordinary Language Philosophy Needs Situation Semantics (or, why Grice Needs Austin),” _Context, Truth, and Objectivity: Essays on Radical Contextualism,_ E. Marchesan & D. Zapero (eds.), London: Routledge, 35–58.
-* Mitchell, J., 1986, _The Formal Semantics of Point of View_, Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst, available [in PDF preview](http://proquest.umi.com/pqdlink?did=749589721\&Fmt=14\&VType=PQD\&VInst=PROD\&RQT=309\&VName=PQD\&TS=1244520560\&clientId=79356) from ProQuest UMI.
-* Moltmann, F., 1997, _Parts and Wholes in Semantics_. Oxford: Oxford University Press.
-* –––, 2005, “Part Structures in Situations: The Semantics of _Individual_ and _Whole_,” _Linguistics and Philosophy_, 28: 599–641.
-* Muskens, R., 1995, _Meaning and Partiality_. Stanford: CSLI Publications.
-* Partee, B., 1985, “Situations, Worlds, and Contexts,” _Linguistics and Philosophy_, 8: 53–58.
-* –––, 1989, “Binding Implicit Variables in Quantified Contexts,” _Papers from the 25th Regional Meeting of the Chicago Linguistic Society_, C. Wiltshire, B. Music, & R. Graczyk (eds.), Chicago: Chicago Linguistic Society, 342–365.
-* Perry, J., 1986a, “From Worlds to Situations,” _Journal of Philosophical Logic_, 15: 83–107.
-* –––, 2000, _The Problem of the Essential Indexical and Other Essays_. _Expanded Edition_. Stanford: CSLI Publications. (Contains several essays on situation semantics.)
-* Portner, P., 1997, “The Semantics of Mood, Complementation, and Conversational Force,” _Natural Language Semantics_, 5: 167–212.
-* Ramchand, G., 2018, _Situations and Syntactic Structures: Auxiliaries and Ordering in English_, Cambridge/Mass.: The MIT Press.
-* Romero, M., 2002, “Quantification over Situation Variables in LTAG: Some Constraints,” _Proceedings of the Sixth International Workshop on Tree Adjoining Grammar and Related Frameworks (TAG+6)_: 101–14. Università di Venezia.
-* Rooth, M., 1987, “Noun phrase interpretation in Montague Grammar, File Change Semantics, and Situation Semantics,” _Generalized Quantifiers_, P. Gärdenfors (ed.), Dordrecht: Reidel, 237–69.
-* Schaffer, J. & Szabo, Z., 2014, “Epistemic Comparativism: a Contextualist Semantics for Knowledge Ascriptions,” _Philosophical Studies_, 168: 491–543.
-* Schueler, D., 2008, _The Syntax and Semantics of Implicit Conditionals: Filling in the Antecedent_, Ph.D. Thesis, Department of Linguistics, UCLA, [Preprint available online](http://www.linguistics.ucla.edu/people/grads/daschuel/SchuelerDissertation.pdf).
-* Schwarz, B., 1998, “Reduced Conditionals in German,” _Natural Language Semantics_, 6: 271–301.
-* Soames, S., 1990, “Lost Innocence,” _Linguistics and Philosophy_, 8: 59–71.
-* Stalnaker, R., 1986, “Possible Worlds and Situations,” _Journal of Philosophical Logic_, 15: 109–23.
-* Stojnic, U., Stone, M. & Lepore, E., 2013, “Deixis (Even Without Pointing),” _Philosophical Perspectives_, 27 (Philosophy of Language): 1–24.
-* Wolter, L. K., 2006, _That’s That: The Semantics and Pragmatics of Demonstrative Phrases_, Ph.D. Dissertation, Department of Linguistics, University of California/Santa Cruz.
-* Zalta, E., 1993, “Twenty-Five Basic Theorems in Situation and World Theory,” _Journal of Philosophical Logic_, 22: 385–428.
-* Zucchi, S., 2015, “Events and Situations,” _Annual Review of Linguistics_, 1: 85–106.
-* Zweig, E., 2006, “When the Donkey lost its fleas: Persistence, Contextual Restriction, and Minimal Situations,” _Natural Language Semantics_, 14: 283–296.
+* Alonso-Ovalle, L., 2002, “Aspect and Situations: a Situation Semantics Account of the Semantic Variability of Spanish *al*-clauses,” *From Words to Discourse*. *Trends in Spanish Semantics and Pragmatics*, J. Gutiérrez-Rexach (ed.), Amsterdam: Elsevier, 119-27.
+* Asher, N. & Bonevac, D., 1985, “Situations and Events,” *Philosophical Studies*, 47: 57–77.
+* –––, 1987, “Determiners and Resource Situations,” *Linguistics and Philosophy*, 10: 567–96.
+* Barwise, J., 1991, “Situationen und kleine Welten,” *Semantik/Semantics*, A. von Stechow & D. Wunderlich (eds.), Berlin: Walter de Gruyter, 80–89.
+* Barwise, J. & Perry, J., 1981a, “Situations and Attitudes,” *The Journal of Philosophy*, 78: 668–91.
+* –––, 1981b, “Semantic Innocence and Uncompromising Situations,” *Midwest Studies in the Philosophy of Language* VI, P. French, T. Uehling, & H. Wettstein (eds.), Minneapolis: University of Minnesota Press, 387–403.
+* –––, 1985, “Shifting Situations and Shaken Attitudes,” *Linguistics and Philosophy*, 8: 105–61.
+* Barwise, J. & Cooper, R., 1993, “Extended Kamp Notation: A Graphical Notation for Situation Theory,” *Situation Theory and its Applications*. Volume 3, P. Aczel, D. Israel, Y. Katagiri & S. Peters (eds.), Stanford: CSLI Publications, 29–53.
+* Büring, D., 2004, “Crossover Situations,” *Natural Language Semantics*, 12: 23–62.
+* Cooper, R., 1986, “Tense and Discourse Location in Situation Semantics,” *Linguistics and Philosophy*, 9: 17–36.
+* –––, 1987a, “Preliminaries to the Treatment of Generalized Quantifiers in Situation Semantics,” *Generalized Quantifiers: Linguistic and Logical Approaches*, P. Gärdenfors (ed.), Dordrecht: D. Reidel, 73–91.
+* –––, 1987b, “Meaning Representation in Montague Grammar and Situation Semantics,” *Computational Intelligence*, 3: 35–44.
+* –––, 1988, “Facts in Situation Theory: Representation, Psychology or Reality?,” *Mental Representations: The Interface between Language and Reality*, R. Kempson (ed.), Cambridge: Cambridge University Press, 49–61.
+* –––, 1990, “Information in the Early Stages of Language Acquisition,” *Situation Theory and its Applications*, Volume 1, R. Cooper, K. Mukai & J. Perry (eds.), Stanford: CSLI Publications, 343–54.
+* –––, 1992, “A Working Person’s Guide to Situation Theory,” *Topics in Semantic Interpretation*, S. L. Hansen & F. Soerensen (eds.), Frederiksberg: Samfundslitteratur.
+* –––, 1993, “Generalized Quantifiers and Resource Situations,” *Situation Theory and its Applications*, Volume 3, P. Aczel, D. Israel, Y. Katagiri & S. Peters (eds.), Stanford: CSLI Publications.
+* –––, 1996, “The Attitudes in Discourse Representation Theory and Situation Semantics,” *Logic, Language, and Computation*, Volume 1, J. Seligman & D. Westerståhl (eds.), Stanford: CSLI Publications, 137–50.
+* –––, 1999, “Using Situations to Reason about Speech Events,” *Computing Meaning*, Volume 1, H. Bunt & R. Muskens (eds.), Dordrecht: Kluwer.
+* Cooper, R. & Kamp, H., 1991, “Negation in Situation Semantics and Discourse Representation Theory,” *Situation Theory and its Applications*, Volume II, J. Barwise, M. Gawron, G. Plotkin and S. Tutiya (eds.), Stanford: CSLI Publications, 311–33.
+* Cooper, R. & Barwise, J., 1993, “Extended Kamp Notation: a Graphical Notation for Situation Theory,” *Situation Theory and Its Applications* 3, P. Aczel, D. Israel, Y. Katagiri & S. Peters (eds.), Stanford: CSLI Publications.
+* Cooper, R. & Ginzburg, J., 1996, “A Compositional Situation Semantics for Attitude Reports,” *Logic, Language, and Computation*, Volume 1, J. Seligman & D. Westerståhl (eds.), Stanford: CSLI Publications, 151–65.
+* –––, 2004, “Clarification, Ellipsis, and the Nature of Contextual Updates in Dialogue,” *Linguistics and Philosophy*, 27: 297–365.
+* Cresswell, M., 1991, “Die Weltsituation,” *Semantik/Semantics*, A. von Stechow & D. Wunderlich (eds.), Berlin: de Gruyter, 71–80.
+* Doron, E., 1990, “Situation semantics and free indirect discourse with examples from contemporary Hebrew fiction,” *Hebrew Linguistics*, 28: 21–29.
+* –––, 1991, “Point of View as a Factor of Content,” *Proceedings of SALT 1*, S. Moore & A. Z. Wyner (eds.), Ithaca: CLC Publications, 51–64.
+* Elbourne, P., 2001, “E-Type Anaphora as NP-Deletion,” *Natural Language Semantics*, 9: 241–88.
+* –––, 2009, “Bishop Sentences and Donkey Cataphora: A Response to Barker and Shan,” *Semantics & Pragmatics*, 2: 1–7.
+* Engdahl, E., 1990, “Argument Roles and Anaphora,” *Situation Theory and its Applications*, Volume 1, R. Cooper, K. Mukai & J. Perry (eds.), Stanford: CSLI Publications, 379–93.
+* Frazier, L. & Clifton, C., 2018, “Topic Situations: Coherence by Inclusion,” *Journal of Memory and Language*, 103: 176–190.
+* Fox, D. & Sauerland, U., 1997, “Illusive Wide Scope of Universal Quantifiers,” *Interfaces in Linguistic Theory*, G. Matos, *et al*. (eds.), Lisbon: Edições Colibri/Associação Portuguesa de Linguistica, 149–76.
+* Gawron, J. M., 1986, “Situations and Prepositions,” *Linguistics and Philosophy*, 9: 327–82.
+* –––, 1996, “Quantificational domains,” *The Handbook of Contemporary Semantic Theory*, S. Lappin (ed.), Oxford: Blackwell Publishers, 247–67.
+* Gawron, J. M. & Peters, S., 1990a, “Some Puzzles About Pronouns,” *Situation Theory and its Applications*, Volume 1, R. Cooper, K. Mukai & J. Perry (eds.), Stanford: CSLI Publications, 395–431.
+* Gawron, J. M., Nerbonne, J. & Peters, S., 1991, “The Absorption Principle and E-Type Anaphora,” *Situation Theory and its Applications*, volume 2, J. Barwise, J. M. Gawron, G. Plotkin & S. Tutiya (eds.), Stanford: CSLI Publications, 335–62.
+* Ginzburg, J., 1991, “Questions without Answers, *Wh*-Phrases without Scope: A Semantics for Direct *Wh*-Questions and their Responses,” *Situation Theory and its Applications*, volume 2, J. M. Gawron, G. Plotkin & S. Tutiya (eds.), Stanford: CSLI Publications, 363–404.
+* –––, 1996a, “Dynamics and the Semantics of Dialogue,” *Logic, Language and Computation*, volume 1, J. Seligman and D. Westerståhl (eds.), Stanford: CSLI Publications, 221–37.
+* –––, 1996b, “The Semantics of Interrogatives,” *Handbook of Contemporary Semantic Theory*, S. Lappin (ed.), Oxford: Blackwell, 385–22.
+* –––, 2011, “Situation Semantics and the Ontology of Natural Language,” in *Semantics. An International Handbook of Natural Language Meaning* (Volume 1), C. Maienborn, K. von Heusinger & P. Portner (eds.), Berlin: de Gruyter, 830–51.
+* Glasbey, S., 1996a, “Towards a Channel-Theoretic Account of the Progressive,” *Logic, Language and Computation*, volume 1, J. Seligman & D. Westerståhl (eds.), Stanford: CSLI Publications, 239–54.
+* –––, 1996b, “The Progressive: a Channel-Theoretic Analysis,” *Journal of Semantics*, 13: 331–361.
+* –––, 1998, “A Situation-Theoretic Interpretation of Bare Plurals,” *The Tbilisi Symposium on Logic, Language and Computation: Selected Papers*, J. Ginzburg, Z. Khasidashvili, C. Vogel, J-J. Levy, & E. Vallduví (eds.), Stanford: CSLI Publications, 35–54.
+* –––, 1999, “Bare plurals, situations, and discourse context,” *Logic, Language and Computation*, volume 2, L. Moss, J. Ginzburg & M. de Rijke (eds.), Stanford: CSLI Publications, 85–105.
+* Hallman, P., 2009, “Proportions in time: interactions of quantification and aspect,” *Natural Language Semantics*, 17: 29–61.
+* Hinrichs, E., 1983, “The Semantics of the English Progressive: a Study in Situation Semantics,” *Proceedings of the 19th Regional Meeting of the Chicago Linguistics Society*, in J. Richardson *et al*. (eds.), Chicago: Chicago Linguistics Society, pp. 171–182.
+* Hinterwimmer, S., 2008, *Q-Adverbs as Selective Binders: The Quantificational Variability of Free Relatives and Definite DPs*, Berlin: Mouton de Gruyter.
+* Hinterwimmer, S. & Ebert, C., 2010, “Quantificational Variability Effects with Plural Definites: Quantification over Individuals or Situations?,” *Journal of Semantics*, 27: 139–176.
+* Hornstein, N., 1986, “Review of *Situations and Attitudes*,” *The Journal of Philosophy*, 83: 168–84.
+* Iida, M., 1996, *Context and Binding in Japanese*. Stanford: CSLI Publications.
+* Landman, F., 1986, *Towards a Theory of Information: The Status of Partial Objects in Semantics*. Dordrecht: Foris.
+* Larson, R. K., 1983, *Restrictive Modification: Relative Clauses and Adverbs*. University of Wisconsin PhD dissertation.
+* –––, 1988, “Implicit Arguments in Situation Semantics,” *Linguistics and Philosophy*, 11: 131–68.
+* Lasersohn, P., 1990, “Group Action and Spatio-Temporal Proximity,” *Linguistics and Philosophy*, 13: 179–206.
+* –––, 1995, *Plurality, Conjunction and Events*. Dordrecht: Kluwer Academic Publishers.
+* Lawlor, K., 2018, “Ordinary Language Philosophy Needs Situation Semantics (or, why Grice Needs Austin),” *Context, Truth, and Objectivity: Essays on Radical Contextualism,* E. Marchesan & D. Zapero (eds.), London: Routledge, 35–58.
+* Mitchell, J., 1986, *The Formal Semantics of Point of View*, Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst, available [in PDF preview](http://proquest.umi.com/pqdlink?did=749589721\&Fmt=14\&VType=PQD\&VInst=PROD\&RQT=309\&VName=PQD\&TS=1244520560\&clientId=79356) from ProQuest UMI.
+* Moltmann, F., 1997, *Parts and Wholes in Semantics*. Oxford: Oxford University Press.
+* –––, 2005, “Part Structures in Situations: The Semantics of *Individual* and *Whole*,” *Linguistics and Philosophy*, 28: 599–641.
+* Muskens, R., 1995, *Meaning and Partiality*. Stanford: CSLI Publications.
+* Partee, B., 1985, “Situations, Worlds, and Contexts,” *Linguistics and Philosophy*, 8: 53–58.
+* –––, 1989, “Binding Implicit Variables in Quantified Contexts,” *Papers from the 25th Regional Meeting of the Chicago Linguistic Society*, C. Wiltshire, B. Music, & R. Graczyk (eds.), Chicago: Chicago Linguistic Society, 342–365.
+* Perry, J., 1986a, “From Worlds to Situations,” *Journal of Philosophical Logic*, 15: 83–107.
+* –––, 2000, *The Problem of the Essential Indexical and Other Essays*. *Expanded Edition*. Stanford: CSLI Publications. (Contains several essays on situation semantics.)
+* Portner, P., 1997, “The Semantics of Mood, Complementation, and Conversational Force,” *Natural Language Semantics*, 5: 167–212.
+* Ramchand, G., 2018, *Situations and Syntactic Structures: Auxiliaries and Ordering in English*, Cambridge/Mass.: The MIT Press.
+* Romero, M., 2002, “Quantification over Situation Variables in LTAG: Some Constraints,” *Proceedings of the Sixth International Workshop on Tree Adjoining Grammar and Related Frameworks (TAG+6)*: 101–14. Università di Venezia.
+* Rooth, M., 1987, “Noun phrase interpretation in Montague Grammar, File Change Semantics, and Situation Semantics,” *Generalized Quantifiers*, P. Gärdenfors (ed.), Dordrecht: Reidel, 237–69.
+* Schaffer, J. & Szabo, Z., 2014, “Epistemic Comparativism: a Contextualist Semantics for Knowledge Ascriptions,” *Philosophical Studies*, 168: 491–543.
+* Schueler, D., 2008, *The Syntax and Semantics of Implicit Conditionals: Filling in the Antecedent*, Ph.D. Thesis, Department of Linguistics, UCLA, [Preprint available online](http://www.linguistics.ucla.edu/people/grads/daschuel/SchuelerDissertation.pdf).
+* Schwarz, B., 1998, “Reduced Conditionals in German,” *Natural Language Semantics*, 6: 271–301.
+* Soames, S., 1990, “Lost Innocence,” *Linguistics and Philosophy*, 8: 59–71.
+* Stalnaker, R., 1986, “Possible Worlds and Situations,” *Journal of Philosophical Logic*, 15: 109–23.
+* Stojnic, U., Stone, M. & Lepore, E., 2013, “Deixis (Even Without Pointing),” *Philosophical Perspectives*, 27 (Philosophy of Language): 1–24.
+* Wolter, L. K., 2006, *That’s That: The Semantics and Pragmatics of Demonstrative Phrases*, Ph.D. Dissertation, Department of Linguistics, University of California/Santa Cruz.
+* Zalta, E., 1993, “Twenty-Five Basic Theorems in Situation and World Theory,” *Journal of Philosophical Logic*, 22: 385–428.
+* Zucchi, S., 2015, “Events and Situations,” *Annual Review of Linguistics*, 1: 85–106.
+* Zweig, E., 2006, “When the Donkey lost its fleas: Persistence, Contextual Restriction, and Minimal Situations,” *Natural Language Semantics*, 14: 283–296.
 
 ### Academic Tools
 
@@ -868,7 +868,7 @@ Additional suggestions are most welcome.
 
 ### Other Internet Resources
 
-* Evans, W., 2005, [_Small Worlds of Discourse and the Spectrum of Accommodation_](http://semanticsarchive.net/Archive/TY5MjVkZ/Evans\_Smallworlds\_2005.pdf), Honors Thesis, Linguistics Department, University of Massachusetts/Amherst.
+* Evans, W., 2005, [*Small Worlds of Discourse and the Spectrum of Accommodation*](http://semanticsarchive.net/Archive/TY5MjVkZ/Evans\_Smallworlds\_2005.pdf), Honors Thesis, Linguistics Department, University of Massachusetts/Amherst.
 * Kratzer, A., 1990, “[How Specific is a Fact?](http://semanticsarchive.net/Archive/mQwZjBjO/facts.pdf),” delivered at the Conference on Theories of Partial Information, Austin, TX: Center for Cognitive Science, University of Texas/Austin.
 
 ### Related Entries
@@ -876,4 +876,4 @@ Additional suggestions are most welcome.
 [anaphora](https://plato.stanford.edu/entries/anaphora/) | [Austin, John Langshaw](https://plato.stanford.edu/entries/austin-jl/) | [contextualism, epistemic](https://plato.stanford.edu/entries/contextualism-epistemology/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [events](https://plato.stanford.edu/entries/events/) | [facts](https://plato.stanford.edu/entries/facts/) | [identity](https://plato.stanford.edu/entries/identity/) | [implicature](https://plato.stanford.edu/entries/implicature/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [information: semantic conceptions of](https://plato.stanford.edu/entries/information-semantic/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [many, problem of](https://plato.stanford.edu/entries/problem-of-many/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [ontological commitment](https://plato.stanford.edu/entries/ontological-commitment/) | [possible objects](https://plato.stanford.edu/entries/possible-objects/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [properties](https://plato.stanford.edu/entries/properties/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [states of affairs](https://plato.stanford.edu/entries/states-of-affairs/) | [tense and aspect](https://plato.stanford.edu/entries/tense-aspect/) | [time](https://plato.stanford.edu/entries/time/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Angelika Kratzer](http://people.umass.edu/kratzer/) <[_kratzer@linguist.umass.edu_](mailto:kratzer%40linguist%2eumass%2eedu)>
+[Angelika Kratzer](http://people.umass.edu/kratzer/) <[*kratzer@linguist.umass.edu*](mailto:kratzer%40linguist%2eumass%2eedu)>

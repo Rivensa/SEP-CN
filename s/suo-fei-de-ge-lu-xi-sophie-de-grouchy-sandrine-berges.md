@@ -1,6 +1,6 @@
 # 索菲·德·格鲁希 Sophie de Grouchy (Sandrine Berges)
 
-_首次发表于 2019 年 12 月 5 日，实质修订于 2023 年 11 月 9 日_
+*首次发表于 2019 年 12 月 5 日，实质修订于 2023 年 11 月 9 日*
 
 索菲·德·格鲁希（1764-1822 年）是一位法国哲学家，她的著作《同情的信札》对许多重要的道德、政治和法律哲学问题提供了清晰而独特的观点。除了这本书外，她还在 1798 年与翻译了斯密的《道德情感的理论》一起出版。格鲁希还以化名和匿名的方式发表了其他文章。特别是，格鲁希发表了捍卫共和主义的文章，并参与了她丈夫康多塞的最后一部著作《人类进步概述》的撰写和编辑。不幸的是，她的作品多年来一直默默无闻。如今，它在哲学界开始为人所知，这是过去二十年来努力恢复过去女性哲学家的作品的结果。格鲁希对于从事（女性主义的）共和主义、18 世纪哲学、亚当·斯密以及社会和法律哲学的哲学家来说尤为重要。
 
@@ -194,62 +194,62 @@ _首次发表于 2019 年 12 月 5 日，实质修订于 2023 年 11 月 9 日_
 
 ### Works by Sophie de Grouchy
 
-#### Editions of the _Letters on Sympathy_
+#### Editions of the *Letters on Sympathy*
 
-* 1798, _Théorie des Sentiments Moraux, suivi d’une Dissertation sur l’Origine des Langues, par Adam Smith, traduit de l’Anglais sur la septième et dernière édition, par S. Grouchy, Ve Condorcet. Elle y a joint huit Lettres sur la Sympathie_, Tome II, Paris: Buisson.
-* 1993, _Lettres sur la Sympathie suivies des Lettres d’Amour à Maillat Garat_, Jean-Paul Lagrave (ed.), Montreal: Presses de l’Universite du Quebec.
-* 2008, _Letters on Sympathy (1798): A Critical Edition_, Karin Brown (ed.) and James McClellan III (trans.), (_Transactions of the American Philosophical Society_, New Series, 98(4)), Philadelphia: American Philosophical Society.
-* 2010, _Les Lettres sur la Sympathies (1798) de Sophie de Grouchy: philosophie morale et reforme sociale_, Marc André Bernier and Deidre Dawson (eds), Oxford: Voltaire Foundation.
-* 2019, _Sophie de Grouchy’s “Letters on Sympathy”: A Critical Engagement with Adam Smith’s “The Theory of Moral Sentiments”_, Sandrine Bergès (trans./ed.) and Eric Schliesser (ed.), (Oxford New Histories of Philosophy), New York: Oxford University Press. doi:10.1093/oso/9780190637088.001.0001
+* 1798, *Théorie des Sentiments Moraux, suivi d’une Dissertation sur l’Origine des Langues, par Adam Smith, traduit de l’Anglais sur la septième et dernière édition, par S. Grouchy, Ve Condorcet. Elle y a joint huit Lettres sur la Sympathie*, Tome II, Paris: Buisson.
+* 1993, *Lettres sur la Sympathie suivies des Lettres d’Amour à Maillat Garat*, Jean-Paul Lagrave (ed.), Montreal: Presses de l’Universite du Quebec.
+* 2008, *Letters on Sympathy (1798): A Critical Edition*, Karin Brown (ed.) and James McClellan III (trans.), (*Transactions of the American Philosophical Society*, New Series, 98(4)), Philadelphia: American Philosophical Society.
+* 2010, *Les Lettres sur la Sympathies (1798) de Sophie de Grouchy: philosophie morale et reforme sociale*, Marc André Bernier and Deidre Dawson (eds), Oxford: Voltaire Foundation.
+* 2019, *Sophie de Grouchy’s “Letters on Sympathy”: A Critical Engagement with Adam Smith’s “The Theory of Moral Sentiments”*, Sandrine Bergès (trans./ed.) and Eric Schliesser (ed.), (Oxford New Histories of Philosophy), New York: Oxford University Press. doi:10.1093/oso/9780190637088.001.0001
 
 #### Other texts by Grouchy
 
-* Condorcet, Nicolas de, 1808, _Oeuvres_, Edited by Mme de Condorcet (Sophie de Grouchy), P.J.G Cabanis, and D.J. Garat.
-* Condorcet, Nicolas de and Thomas Paine, 1792, _Aux Origines de la Republique 1789–1792_, Volume III, _Le Républicain par Condorcet et Thomas Paine, 1791_, Paris: EDHIS, 1991 (Contains several articles attributed to Grouchy).
-* Condorcet, Nicolas de, 1795, _Esquisse d’un tableau historique des progrès de l’esprit humain_ , Paris: Agasse (edited posthumously by Grouchy).
-* Martin, Jean, 1927, “Achille du Chastellet et le Premier Mouvement Républicain en France d’Après des Lettres Inédites (1791–1792)”, _La Revolution Française, Revue Historique_, Nouvelle série, 33 (Janvier-Février-Mars 1927): 104–132. (Contains letters from Grouchy to Etienne Dumont.
-* Schandeler, Jean-Pierre and Pierre Crépel (eds.), 2004, _Notes sur le Tableau Historique des progrès de l’esprit humain, projets, Esquisse, Fragments et Notes (1772–1794)_, Paris: Institut National D’Etudes Démographiques. (Contains the original and edited text of the Sketch, which Grouchy worked on with Condorcet).
+* Condorcet, Nicolas de, 1808, *Oeuvres*, Edited by Mme de Condorcet (Sophie de Grouchy), P.J.G Cabanis, and D.J. Garat.
+* Condorcet, Nicolas de and Thomas Paine, 1792, *Aux Origines de la Republique 1789–1792*, Volume III, *Le Républicain par Condorcet et Thomas Paine, 1791*, Paris: EDHIS, 1991 (Contains several articles attributed to Grouchy).
+* Condorcet, Nicolas de, 1795, *Esquisse d’un tableau historique des progrès de l’esprit humain* , Paris: Agasse (edited posthumously by Grouchy).
+* Martin, Jean, 1927, “Achille du Chastellet et le Premier Mouvement Républicain en France d’Après des Lettres Inédites (1791–1792)”, *La Revolution Française, Revue Historique*, Nouvelle série, 33 (Janvier-Février-Mars 1927): 104–132. (Contains letters from Grouchy to Etienne Dumont.
+* Schandeler, Jean-Pierre and Pierre Crépel (eds.), 2004, *Notes sur le Tableau Historique des progrès de l’esprit humain, projets, Esquisse, Fragments et Notes (1772–1794)*, Paris: Institut National D’Etudes Démographiques. (Contains the original and edited text of the Sketch, which Grouchy worked on with Condorcet).
 
 ### Secondary Sources
 
-* Annas, Julia, 1995, _The Morality of Happiness_, New York: Oxford University Press. doi:10.1093/0195096525.001.0001
-* Beccaria, Cesare, 1764 \[2009], _Dei delitti e delle pene_. Translated as _On Crimes and Punishments_, Graeme R. Newman and Pietro Marongiu (trans.), fifth edition, New Brunswick, NJ: Transactions Publishers.
-* Belhoste, Bruno, 1994, “Condorcet, les arts utiles et leur enseignement”, in _Condorcet, Homme des Lumières et de la Révolution_, A.-M. Chouillet and Pierre Crépel (eds.), Paris: ENS, 121:136
-* Bergès, Sandrine, 2018a, “What’s It Got to Do with the Price of Bread? Condorcet and Grouchy on Freedom and Unreasonable Laws in Commerce”, _European Journal of Political Theory_, 17(4): 432–448. doi:10.1177/1474885118782391
-* –––, 2018b, “Family, Gender, and Progress: Sophie de Grouchy and Her Exclusion in the Publication of Condorcet’s Sketch of Human Progress”, _Journal of the History of Ideas_, 79(2): 267–283. doi:10.1353/jhi.2018.0016
-* –––, 2019, “Revolution and Republicanism: Women Political Philosophers of Late Eighteenth-Century France and Why They Matter”, _Australasian Philosophical Review_, 3(4): 351–370.
-* –––, 2022, _Liberty in Their Names: The Women Philosophers of the French Revolution_, New York: Bloomsbury.
-* Bergès, Sandrine and Alan M. S. J. Coffee (eds.), 2016, _The Social and Political Philosophy of Mary Wollstonecraft_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198766841.001.0001
-* Cabanis, Pierre-George, 1802, _Les Rapports du Physique et du Moral_, eighth edition, Paris: Baillère.
+* Annas, Julia, 1995, *The Morality of Happiness*, New York: Oxford University Press. doi:10.1093/0195096525.001.0001
+* Beccaria, Cesare, 1764 \[2009], *Dei delitti e delle pene*. Translated as *On Crimes and Punishments*, Graeme R. Newman and Pietro Marongiu (trans.), fifth edition, New Brunswick, NJ: Transactions Publishers.
+* Belhoste, Bruno, 1994, “Condorcet, les arts utiles et leur enseignement”, in *Condorcet, Homme des Lumières et de la Révolution*, A.-M. Chouillet and Pierre Crépel (eds.), Paris: ENS, 121:136
+* Bergès, Sandrine, 2018a, “What’s It Got to Do with the Price of Bread? Condorcet and Grouchy on Freedom and Unreasonable Laws in Commerce”, *European Journal of Political Theory*, 17(4): 432–448. doi:10.1177/1474885118782391
+* –––, 2018b, “Family, Gender, and Progress: Sophie de Grouchy and Her Exclusion in the Publication of Condorcet’s Sketch of Human Progress”, *Journal of the History of Ideas*, 79(2): 267–283. doi:10.1353/jhi.2018.0016
+* –––, 2019, “Revolution and Republicanism: Women Political Philosophers of Late Eighteenth-Century France and Why They Matter”, *Australasian Philosophical Review*, 3(4): 351–370.
+* –––, 2022, *Liberty in Their Names: The Women Philosophers of the French Revolution*, New York: Bloomsbury.
+* Bergès, Sandrine and Alan M. S. J. Coffee (eds.), 2016, *The Social and Political Philosophy of Mary Wollstonecraft*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198766841.001.0001
+* Cabanis, Pierre-George, 1802, *Les Rapports du Physique et du Moral*, eighth edition, Paris: Baillère.
 * –––, 1824, “Letter Postume et Inédite de Cabanis à M. F\*\*\* sur les Cause Premières” avec des notes par F. Bérard, Paris: Gabon et Companie.
-* Condorcet, Nicolas de, 1790 \[2012], “Sur l’admission des femmes au droit au cité”, _Journal de la Société de 1789_, 3 July 1790, number 5; translated as “On the Emancipation of Women”, in _Condorcet: Political Writings_, Steven Lukes and Nadia Urbinati (eds.), Cambridge: Cambridge University Press, 156–162. doi:10.1017/CBO9781139108119.008
-* Douglass, R., 2023, “Egalitarian sympathies? Adam Smith and Sophie de Grouchy on inequality and social order”, _European Journal of Philosophy_, first published 23 April 2023. doi:10.1111/ejop.12856
-* Dumont, Etienne, 1832, _Souvenirs sur Mirabeau et sur les deux premieres Assemblées Législatives_, Paris: Librairie de Charles Gosselin.
-* Fénelon, François de Salignac, 1699 \[1994], _Les Aventures de Télémaque_; translated as _Telemachus_, Patrick Riley (trans./ed.), Cambridge: Cambridge University Press.
-* Gouges, Olympe de, 1791 \[2014], _Femme reveille-toi! Declaration des droits de la femme et de la citoyenne et autres ecrits_, Martine Reid (ed.), Paris: Gallimard.
-* Guillois, Antoine, 1897, _La Marquise de Condorcet, sa Famille, son Salon, ses Amis 1764–1822_, Paris: Paul Ollendorff.
-* Halldenius, Lena, 2015, _Mary Wollstonecraft and Feminist Republicanism_, London: Routledge.
-* –––, 2019, “De Grouchy, Wollstonecraft, and Smith on Sympathy, Inequality, and Rights”, _Australasian Philosophical Review_, 3(4): 381–391.
-* Lukes, Steven and Nadia Urbinati (eds.), 2012, _Condorcet: Political Writings_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139108119
-* Lustila, Getty L., 2023, “Sophie de Grouchy on the Problem of Economic Inequality”, _Southern Journal of Philosophy_, 61(1): 112–132.
-* –––, 2023b, “Remorse and Moral Progress in Sophie de Grouchy’s _Letters on Sympathy_”. In Karen Detlefsen & Lisa Shapiro (eds.), _Routledge Handbook of Women and Early Modern European Philosophy_, New York: Routledge. pp. 584–596.
-* Markwart, Anna, 2022. “Changing Society and Institutions in the Theories of Adam Smith and Sophie de Grouchy”, _Journal of Scottish Philosophy_, 20(1): 55–72.
-* McCrudden Illert, Kathleen, 2023, ‘« Il serait aisé d’appliquer aux femmes tout ce que j’ai dit des hommes »: Le féminisme silencieux de Sophie de Grouchy’, _Annales historiques de la Révolution française_, 401 (janvier-mars): 123–140.
-* –––, 2023b,‘Sophie de Grouchy as an activist interpreter of Adam Smith’, _Interpreting Adam Smith: Critical Essays_, Paul Sagar (ed.), Cambridge: Cambridge University Press, pp. 214–231.
-* Montesquieu, Charles, 1748 \[1989], _De l’esprit des lois_, Geneva. Translated as _The Spirit of the Laws_, Anne M. Cohler, Basia C. Miller, and Harold S. Stone (eds.), Cambridge: Cambridge University Press.
-* Paine, Thomas, 1830, _The Political Writings of Thomas Paine_, New York: Solomon King.
-* Schliesser, Eric, 2017a, _Adam Smith: Systematic Philosopher and Public Thinker_, Oxford: Oxford University Press. doi:10.1093/oso/9780190690120.001.0001
-* –––, 2017b, “Sophie de Grouchy, The Tradition(s) of Two Liberties, and the Missing Mother(s) of Liberalism”, in _Women and Liberty, 1600–1800: Philosophical Essays_, Jacqueline Broad and Karen Detiefsen (eds.), Oxford: Oxford University Press, pp. 109–122. doi:10.1093/oso/9780198810261.003.0008
-* –––, 2019, “Sophie de Grouchy, Adam Smith, and the Politics of Sympathy”, in Eileen O’Neill & Marcy P. Lascano (eds.), _Feminist History of Philosophy: The Recovery and Evaluation of Women’s Philosophical Thought_, Cham: Springer, pp. 193–219.
-* Scurr, Ruth, 2009, “Inequality and political stability from Ancien Régime to revolution: The reception of Adam Smith’s Theory of Moral Sentiments in France”, _History of European Ideas_, 35(4): 441–449.
-* Smith, Adam, 1759, _The Theory of Moral Sentiments_, Edinburgh: Alexander Kincaid and J. Bell; seventh edition, London: A. Strahan, T. Cadell, 1792; reprinted in 2002, Knud Haakonsen (ed.). Cambridge: Cambridge University Press.
-* –––, 1776 \[1981], _An Inquiry into the Nature and Causes of the Wealth of Nations_, reprinted in _The Glasgow Edition of the Works and Correspondence of Adam Smith_, R.H. Campbell, A.S. Skinner and W.B. Todd eds), Indianapolis, IN: Liberty Fund.
-* Tasso, Torquato, 1581 \[2009], _The Liberation of Jerusalem (Gerusalemme Liberata)_, Max Wickert (trans.), (Oxford World’s Classics), Oxford/New York: Oxford University Press.
-* Tegos, Spiros, 2013, “Sympathie moral et tragédie sociale: Sophie Grouchy lectrice d’Adam Smith”, _Noesis_, 21: 265–292.
-* –––, 2014, “Friendship in Commercial Society Revisited: Adam Smith on Commercial Friendship”, in _Propriety and Prosperity: New Studies on the Philosophy of Adam Smith_, David F. Hardwick and Leslie Marsh (eds.), London: Palgrave Macmillan UK, 37–53. doi:10.1057/9781137321053\_3
-* –––, 2019, “Excluding Manners and Deference from the Post-Revolution Republic: Sophie de Grouchy’s Letters on Sympathy on the Conditions of Non-Domination”, _Australasian Philosophical Review_, 3(4): 413–421.
-* Wolfe, Charles T., 2013, “Sensibility as Vital Force or as Property of Matter in Mid-Eighteenth-Century Debates”, in _The Discourse of Sensibility: The Knowing Body in the Enlightenment_, Henry Martyn Lloyd (ed.), (Studies in History and Philosophy of Science 35), Cham: Springer International Publishing, 147–170. doi:10.1007/978-3-319-02702-9\_8
-* Wollstonecraft, Mary, 1790 & 1792 \[1992], _A Vindication of the Rights of Men, A Vindication of the Rights of Woman_, Janet Todd (ed.), Oxford: Oxford University Press.
+* Condorcet, Nicolas de, 1790 \[2012], “Sur l’admission des femmes au droit au cité”, *Journal de la Société de 1789*, 3 July 1790, number 5; translated as “On the Emancipation of Women”, in *Condorcet: Political Writings*, Steven Lukes and Nadia Urbinati (eds.), Cambridge: Cambridge University Press, 156–162. doi:10.1017/CBO9781139108119.008
+* Douglass, R., 2023, “Egalitarian sympathies? Adam Smith and Sophie de Grouchy on inequality and social order”, *European Journal of Philosophy*, first published 23 April 2023. doi:10.1111/ejop.12856
+* Dumont, Etienne, 1832, *Souvenirs sur Mirabeau et sur les deux premieres Assemblées Législatives*, Paris: Librairie de Charles Gosselin.
+* Fénelon, François de Salignac, 1699 \[1994], *Les Aventures de Télémaque*; translated as *Telemachus*, Patrick Riley (trans./ed.), Cambridge: Cambridge University Press.
+* Gouges, Olympe de, 1791 \[2014], *Femme reveille-toi! Declaration des droits de la femme et de la citoyenne et autres ecrits*, Martine Reid (ed.), Paris: Gallimard.
+* Guillois, Antoine, 1897, *La Marquise de Condorcet, sa Famille, son Salon, ses Amis 1764–1822*, Paris: Paul Ollendorff.
+* Halldenius, Lena, 2015, *Mary Wollstonecraft and Feminist Republicanism*, London: Routledge.
+* –––, 2019, “De Grouchy, Wollstonecraft, and Smith on Sympathy, Inequality, and Rights”, *Australasian Philosophical Review*, 3(4): 381–391.
+* Lukes, Steven and Nadia Urbinati (eds.), 2012, *Condorcet: Political Writings*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139108119
+* Lustila, Getty L., 2023, “Sophie de Grouchy on the Problem of Economic Inequality”, *Southern Journal of Philosophy*, 61(1): 112–132.
+* –––, 2023b, “Remorse and Moral Progress in Sophie de Grouchy’s *Letters on Sympathy*”. In Karen Detlefsen & Lisa Shapiro (eds.), *Routledge Handbook of Women and Early Modern European Philosophy*, New York: Routledge. pp. 584–596.
+* Markwart, Anna, 2022. “Changing Society and Institutions in the Theories of Adam Smith and Sophie de Grouchy”, *Journal of Scottish Philosophy*, 20(1): 55–72.
+* McCrudden Illert, Kathleen, 2023, ‘« Il serait aisé d’appliquer aux femmes tout ce que j’ai dit des hommes »: Le féminisme silencieux de Sophie de Grouchy’, *Annales historiques de la Révolution française*, 401 (janvier-mars): 123–140.
+* –––, 2023b,‘Sophie de Grouchy as an activist interpreter of Adam Smith’, *Interpreting Adam Smith: Critical Essays*, Paul Sagar (ed.), Cambridge: Cambridge University Press, pp. 214–231.
+* Montesquieu, Charles, 1748 \[1989], *De l’esprit des lois*, Geneva. Translated as *The Spirit of the Laws*, Anne M. Cohler, Basia C. Miller, and Harold S. Stone (eds.), Cambridge: Cambridge University Press.
+* Paine, Thomas, 1830, *The Political Writings of Thomas Paine*, New York: Solomon King.
+* Schliesser, Eric, 2017a, *Adam Smith: Systematic Philosopher and Public Thinker*, Oxford: Oxford University Press. doi:10.1093/oso/9780190690120.001.0001
+* –––, 2017b, “Sophie de Grouchy, The Tradition(s) of Two Liberties, and the Missing Mother(s) of Liberalism”, in *Women and Liberty, 1600–1800: Philosophical Essays*, Jacqueline Broad and Karen Detiefsen (eds.), Oxford: Oxford University Press, pp. 109–122. doi:10.1093/oso/9780198810261.003.0008
+* –––, 2019, “Sophie de Grouchy, Adam Smith, and the Politics of Sympathy”, in Eileen O’Neill & Marcy P. Lascano (eds.), *Feminist History of Philosophy: The Recovery and Evaluation of Women’s Philosophical Thought*, Cham: Springer, pp. 193–219.
+* Scurr, Ruth, 2009, “Inequality and political stability from Ancien Régime to revolution: The reception of Adam Smith’s Theory of Moral Sentiments in France”, *History of European Ideas*, 35(4): 441–449.
+* Smith, Adam, 1759, *The Theory of Moral Sentiments*, Edinburgh: Alexander Kincaid and J. Bell; seventh edition, London: A. Strahan, T. Cadell, 1792; reprinted in 2002, Knud Haakonsen (ed.). Cambridge: Cambridge University Press.
+* –––, 1776 \[1981], *An Inquiry into the Nature and Causes of the Wealth of Nations*, reprinted in *The Glasgow Edition of the Works and Correspondence of Adam Smith*, R.H. Campbell, A.S. Skinner and W.B. Todd eds), Indianapolis, IN: Liberty Fund.
+* Tasso, Torquato, 1581 \[2009], *The Liberation of Jerusalem (Gerusalemme Liberata)*, Max Wickert (trans.), (Oxford World’s Classics), Oxford/New York: Oxford University Press.
+* Tegos, Spiros, 2013, “Sympathie moral et tragédie sociale: Sophie Grouchy lectrice d’Adam Smith”, *Noesis*, 21: 265–292.
+* –––, 2014, “Friendship in Commercial Society Revisited: Adam Smith on Commercial Friendship”, in *Propriety and Prosperity: New Studies on the Philosophy of Adam Smith*, David F. Hardwick and Leslie Marsh (eds.), London: Palgrave Macmillan UK, 37–53. doi:10.1057/9781137321053\_3
+* –––, 2019, “Excluding Manners and Deference from the Post-Revolution Republic: Sophie de Grouchy’s Letters on Sympathy on the Conditions of Non-Domination”, *Australasian Philosophical Review*, 3(4): 413–421.
+* Wolfe, Charles T., 2013, “Sensibility as Vital Force or as Property of Matter in Mid-Eighteenth-Century Debates”, in *The Discourse of Sensibility: The Knowing Body in the Enlightenment*, Henry Martyn Lloyd (ed.), (Studies in History and Philosophy of Science 35), Cham: Springer International Publishing, 147–170. doi:10.1007/978-3-319-02702-9\_8
+* Wollstonecraft, Mary, 1790 & 1792 \[1992], *A Vindication of the Rights of Men, A Vindication of the Rights of Woman*, Janet Todd (ed.), Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -262,12 +262,12 @@ _首次发表于 2019 年 12 月 5 日，实质修订于 2023 年 11 月 9 日_
 ## Other Internet Resources
 
 * [First edition of Les Lettres sur la Sympathie](https://books.google.com.tr/books?id=c-M\_AAAAcAAJ\&printsec=frontcover\&dq=theorie+des+sentiments+moraux\&hl=en\&sa=X\&ved=0ahUKEwi25Nb-ua\_jAhUrxaYKHb5yCHwQ6AEIOjAC#v=onepage\&q=theorie%20des%20sentiments%20moraux\&f=false)
-* [“Reappearing Ink”](https://jhiblog.org/2018/06/25/reappearing-ink/) by Sandrine Berges. _Journal of the History of Ideas_ blog, 25 June 2018, on Grouchy’s collaboration with Condorcet
-* [Letters on Sympathy in _Some Texts from Early Modern Philosophy_ (pdf/epub/mobi/audio, in English)](https://www.earlymoderntexts.com/authors/degrouchy)
+* [“Reappearing Ink”](https://jhiblog.org/2018/06/25/reappearing-ink/) by Sandrine Berges. *Journal of the History of Ideas* blog, 25 June 2018, on Grouchy’s collaboration with Condorcet
+* [Letters on Sympathy in *Some Texts from Early Modern Philosophy* (pdf/epub/mobi/audio, in English)](https://www.earlymoderntexts.com/authors/degrouchy)
 
 ## Related Entries
 
 [Condillac, Étienne Bonnot de](https://plato.stanford.edu/entries/condillac/) | [Condorcet, Marie-Jean-Antoine-Nicolas de Caritat, Marquis de: in the history of feminism](https://plato.stanford.edu/entries/histfem-condorcet/) | [republicanism](https://plato.stanford.edu/entries/republicanism/) | [Wollstonecraft, Mary](https://plato.stanford.edu/entries/wollstonecraft/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Sandrine Berges](http://www.sandrineberges.com/) <[_berges@bilkent.edu.tr_](mailto:berges%40bilkent%2eedu%2etr)>
+[Sandrine Berges](http://www.sandrineberges.com/) <[*berges@bilkent.edu.tr*](mailto:berges%40bilkent%2eedu%2etr)>

@@ -1,6 +1,5 @@
 # 埃尔福特的托马斯 Thomas of Erfurt (Jack Zupko)
 
-
 *首次发表于 2002 年 5 月 6 日；实质性修订于 2023 年 9 月 11 日*
 
 埃尔福特的托马斯是一群后期中世纪哲学家中最有影响力的成员，他们被称为推测语法学家或 Modistae（Modists），因为他们在对人类言论进行分析时，将词的 modi significandi（表示方式）放在了核心位置。自 12 世纪以来，一个词一旦被赋予意义，就会带有其所有的句法模式或与其他词的可能组合。Modistae 所做的是将 modi significandi 的起源归因于 modi intelligendi（理解方式）和 modi essendi（存在方式）的平行理论。结果是一种奇特的哲学、语法和语言学的融合。埃尔福特的托马斯的《De modis significandi》成为 14 世纪的标准 Modist 教科书，尽管后来由于被错误地认定为邓斯·斯科特斯（Duns Scotus）的著作而享有更大的声誉。这篇文章出现在斯科特斯的《Opera Omnia》的早期印刷版本中，后来被查尔斯·S·皮尔斯（Charles S. Peirce）和马丁·海德格尔（Martin Heidegger）等后来的人物阅读和评论。他们的 1916 年博士论文《Die Kategorien- und Bedeutungslehre des Duns Scotus》本应该命名为《Die Kategorienlehre des Duns Scotus und die Bedeutungslehre des Thomas von Erfurt》。

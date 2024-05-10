@@ -289,7 +289,6 @@ P*的理解与一种关于陈述的理论相对应，根据这种理论，形式
 
 对 DDS 周围所有问题的处理也适用于 MCA。因此，这最后的小节是整个条目的合适结论。
 
-
 ## Bibliography
 
 * Andani, K., 2022, “Divine Simplicity and the Myth of Modal Collapse: An Islamic Neoplatonic Response,” *European Journal of Analytic Philosophy*, 18(2): 5–34.

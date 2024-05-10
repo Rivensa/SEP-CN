@@ -1,6 +1,6 @@
 # 策梅洛的公理化集合论 Zermelo’s axiomatization of (Michael Hallett)
 
-_首次发表于 2013 年 7 月 2 日_
+*首次发表于 2013 年 7 月 2 日*
 
 集合论的第一个公理化是由策梅洛在他的 1908 年论文《关于集合论基础的研究，I》（策梅洛 1908b）中提出的，这成为现代集合论的基础。本条目重点介绍 1908 年的公理化；另一条目将考虑 1920 年至 1940 年期间集合论的后续公理化，包括策梅洛在 1930 年提出的第二个公理化。
 
@@ -201,7 +201,7 @@ Hilbert 在几何学方面的大部分工作都涉及到对证明的分析，即
 
 使用一个固定的γ，策梅洛接着定义了所谓的γ-集合 Mγ。这些集合满足以下条件：
 
-1. _M_γ ⊆ _M_;
+1. _M_γ ⊆ *M*;
 2. Mγ由某个特定于 Mγ的排序≺进行良序;
 3. 如果 a ∈ Mγ，则 a 必须在≺下确定 Mγ的一个初始段 A; 但现在γ和≺必须以这样的方式相关联，即 a = γ(M − A)，即 a 是 M 中 A 的补集的“显著元素”（正如策梅洛所称）。
 
@@ -385,108 +385,108 @@ Hilbert 在几何学方面的大部分工作都涉及到对证明的分析，即
 
 Most of the original sources surrounding Zermelo's work were written in German, and some in French; when translations of these works into English are available, bibliographic information for the translations follows the citation of the original text. Similarly for older, relatively inaccessible texts that have been republished in more current works.
 
-* Bell, J., 2009, _The Axiom of Choice_, London: College Publications.
-* Benacerraf, P. and H. Putnam (eds.), 1964, _Philosophy of Mathematics: Selected Readings_, Oxford: Basil Blackwell.
-* ––– (eds.), 1983, _Philosophy of Mathematics: Selected Readings_, Second Edition, Cambridge: Cambridge University Press.
-* Bernstein, F., 1905, “Über die Reihe der transfiniten Ordnungszahlen”, _Mathematische Annalen_ 60: 187–193.
-* Borel, E., 1905, “Quelque remarques sur les principes de la théorie des ensembles”, _Mathematische Annalen_ 60: 194–195.
-* Browder, F. (ed.), 1976, _Mathematical Developments Arising from the Hilbert Problems_, Volume 28 of _Proceedings of Symposia in Pure Mathematics_, Providence: American Mathematical Society.
-* Cantor, G., 1883a, “Ueber unendliche, lineare Punktmannichfaltigkeiten” _Mathematische Annalen_ 21: 545–591. Reprinted in Cantor 1883b and in Cantor 1932: 165–209. English translation in Ewald 1996, Volume 2.
-* –––, 1883b, _Grundlagen einer allegemeinen Mannigfaltichkeitslehre. Ein mathematisch-philosophischer Versuch in der Lehre des Unendlichen_, Leipzig: B. G. Teubner.
-* –––, 1895, “Beiträge zur Begründung der transfiniten Mengenlehre, Erster Artikel”, _Mathematische Annalen_ 46: 481–512. Reprinted in Cantor 1932: 282–311. English translation in Cantor 1915.
-* –––, 1897, “Beiträge zur Begründung der transfiniten Mengenlehre, Zweiter Artikel”, _Mathematische Annalen_ 49: 207–246. Reprinted in Cantor 1932: 312–351. English translation in Cantor 1915.
-* –––, 1915, _Contributions to the Founding of the Theory of Transfinite Numbers_, La Salle: Open Court. English translation of Cantor 1895, 1897 by Philip E. B. Jourdain.
-* –––, 1932, _Gesammelte Abhandlungen mathematischen und philosophischen Inhalts, mit eläuternden Anmerkungen sowie mit Ergänzungen aus dem Briefwechsel Cantor-Dedekind herausgegeben von Ernst Zermelo_, Berlin: Springer.
-* –––, 1991, _Georg Cantor: Briefe. Herausgegeben von Herbert Meschkowski_, Berlin: Springer
-* Dedekind, R., 1888, _Was sind und was sollen die Zahlen?_, Braunschweig: Vieweg und Sohn. Also reprinted in Dedekind 1932: 335–391; English translation in Ewald 1996: 787–833.
-* –––, 1932, _Gesammelte mathematische Werke. Band 3. Herausgegeben von Robert Fricke, Emmy Noether and Öystein Ore_, Braunschweig: Friedrich Vieweg und Sohn. Reprinted with some omissions by Chelsea Publishing Co., New York, 1969.
-* Dreben, B. and A. Kanamori, 1997, “Hilbert and set theory”, _Synthese_, 110: 77–125.
-* Ebbinghaus, H.-D., 2007, _Ernst Zermelo: An Approach to His Life and Work_, Berlin: Springer.
-* –––, 2010, “Introductory note to _Über den Begriff von Definitheit in der Axiomatik_ \[Zermelo 1929]”, in Zermelo 2010: 352–357.
-* Ewald, W. (ed.), 1996, _From Kant to Hilbert_, Oxford: Oxford University Press.
-* Ewald, W., W. Sieg, and M. Hallett (eds.), 2013, _David Hilbert's Lectures on the Foundations of Logic and Arithmetic, 1917–1933_, Volume 3 of _Hilbert's Lectures on the Foundations of Mathematics and Physics, 1891–1933_, Berlin: Springer.
-* Felgner, U., 2010, “Introductory note to _Untersuchungen über die Grundlagen der Mengenlehre, I_ \[Zermelo 1908b]”, in Zermelo 2010: 160–188.
-* Ferreiros, J., 1999, _Labyrinth of Thought: A History of Set Theory and its Role in Modern Mathematics_, Science Networks Historical Studies, Basel: Birkhäuser. Second Revised Edition, 2007
-* Fraenkel, A., Y. Bar-Hillel, and A. Levy, 1973, _Foundations of Set Theory_. Amsterdam: North-Holland Publishing.
-* Fraenkel, A. A., 1922, “Zu den Grundlagen der Cantor-Zermeloschen Mengenlehre”, _Mathematische Annalen_ 86: 230–237.
-* –––, 1927, _Zehn Vorlesungen über die Grundlegung der Mengenlehre_, Leipzig: B. G. Teubner.
-* Frege, G., 1879, _Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens_, Halle: Louis Nebert. Reprinted in Frege 1964, English translation in van Heijenoort 1967: 1–82.
-* –––, 1893, _Grundgesetze der Arithmetik_, Band 1, Jena: Hermann Pohle. English translation by Philip Ebert and Marcus Rossberg, _Frege, The Basic Laws of Arithmetic, Derived using Concept-Script_, Oxford: Oxford University Press, forthcoming.
-* –––, 1903, _Grundgesetze der Arithmetik_, Band II, Jena: Hermann Pohle. English translation by Philip Ebert and Marcus Rossberg, _Frege, The Basic Laws of Arithmetic, Derived using Concept-Script_, Oxford: Oxford University Press, forthcoming.
-* –––, 1964, _Begriffsschrift und andere Aufsätze. Mit E. Husserls und H. Scholz’ Anmerkungen herausgegeben von Ignacio Angelelli_, Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Gödel, K., 1944, “Russell's mathematical logic”, in P. A. Schillp (ed.), _The Philosophy of Bertrand Russell_, pp. 125–153, La Salle: Open Court. Reprinted in Benacerraf and Putnam 1964: 211–232; Benacerraf and Putnam 1983: 447–469; and in Gödel 1990: 119–141.
-* –––, 1990, _Kurt Gödel: Collected Works_, Volume 2, edited by Solomon Feferman et al., Oxford: Oxford University Press.
-* Haaparanta, L. (ed.), 2009, _The Development of Modern Logic_, Oxford: Oxford University Press.
-* Hadamard, J. et al., 1905, “Cinq letters sur la théorie des ensembles”, _Bulletin de la société mathématique de France_, 33: 261–273. Letters between Baire, Borel, Lebesgue and Hadamard on objections to, and defense of, Zermelo's 1904 proof of the well-ordering theorem.
-* Hallett, M., 1981, “Russell, Jourdain and ‘limitation of size’”, _British Journal for the Philosophy of Science_, 32: 381–399.
-* –––, 1984, _Cantorian Set Theory and Limitation of Size_, Oxford: Clarendon Press.
-* –––, 2008, “The ‘purity of method’ in Hilbert's _Grundlagen der Geometrie_”, in P. Mancosu (ed.), _The Philosophy of Mathematical Practice_, pp. 198–255, Oxford: Clarendon Press.
-* –––, 2010a, “Frege and Hilbert”, in M. Potter and T. Ricketts (eds.), _The Cambridge Companion to Frege_, Cambridge: Cambridge University Press.
+* Bell, J., 2009, *The Axiom of Choice*, London: College Publications.
+* Benacerraf, P. and H. Putnam (eds.), 1964, *Philosophy of Mathematics: Selected Readings*, Oxford: Basil Blackwell.
+* ––– (eds.), 1983, *Philosophy of Mathematics: Selected Readings*, Second Edition, Cambridge: Cambridge University Press.
+* Bernstein, F., 1905, “Über die Reihe der transfiniten Ordnungszahlen”, *Mathematische Annalen* 60: 187–193.
+* Borel, E., 1905, “Quelque remarques sur les principes de la théorie des ensembles”, *Mathematische Annalen* 60: 194–195.
+* Browder, F. (ed.), 1976, *Mathematical Developments Arising from the Hilbert Problems*, Volume 28 of *Proceedings of Symposia in Pure Mathematics*, Providence: American Mathematical Society.
+* Cantor, G., 1883a, “Ueber unendliche, lineare Punktmannichfaltigkeiten” *Mathematische Annalen* 21: 545–591. Reprinted in Cantor 1883b and in Cantor 1932: 165–209. English translation in Ewald 1996, Volume 2.
+* –––, 1883b, *Grundlagen einer allegemeinen Mannigfaltichkeitslehre. Ein mathematisch-philosophischer Versuch in der Lehre des Unendlichen*, Leipzig: B. G. Teubner.
+* –––, 1895, “Beiträge zur Begründung der transfiniten Mengenlehre, Erster Artikel”, *Mathematische Annalen* 46: 481–512. Reprinted in Cantor 1932: 282–311. English translation in Cantor 1915.
+* –––, 1897, “Beiträge zur Begründung der transfiniten Mengenlehre, Zweiter Artikel”, *Mathematische Annalen* 49: 207–246. Reprinted in Cantor 1932: 312–351. English translation in Cantor 1915.
+* –––, 1915, *Contributions to the Founding of the Theory of Transfinite Numbers*, La Salle: Open Court. English translation of Cantor 1895, 1897 by Philip E. B. Jourdain.
+* –––, 1932, *Gesammelte Abhandlungen mathematischen und philosophischen Inhalts, mit eläuternden Anmerkungen sowie mit Ergänzungen aus dem Briefwechsel Cantor-Dedekind herausgegeben von Ernst Zermelo*, Berlin: Springer.
+* –––, 1991, *Georg Cantor: Briefe. Herausgegeben von Herbert Meschkowski*, Berlin: Springer
+* Dedekind, R., 1888, *Was sind und was sollen die Zahlen?*, Braunschweig: Vieweg und Sohn. Also reprinted in Dedekind 1932: 335–391; English translation in Ewald 1996: 787–833.
+* –––, 1932, *Gesammelte mathematische Werke. Band 3. Herausgegeben von Robert Fricke, Emmy Noether and Öystein Ore*, Braunschweig: Friedrich Vieweg und Sohn. Reprinted with some omissions by Chelsea Publishing Co., New York, 1969.
+* Dreben, B. and A. Kanamori, 1997, “Hilbert and set theory”, *Synthese*, 110: 77–125.
+* Ebbinghaus, H.-D., 2007, *Ernst Zermelo: An Approach to His Life and Work*, Berlin: Springer.
+* –––, 2010, “Introductory note to *Über den Begriff von Definitheit in der Axiomatik* \[Zermelo 1929]”, in Zermelo 2010: 352–357.
+* Ewald, W. (ed.), 1996, *From Kant to Hilbert*, Oxford: Oxford University Press.
+* Ewald, W., W. Sieg, and M. Hallett (eds.), 2013, *David Hilbert's Lectures on the Foundations of Logic and Arithmetic, 1917–1933*, Volume 3 of *Hilbert's Lectures on the Foundations of Mathematics and Physics, 1891–1933*, Berlin: Springer.
+* Felgner, U., 2010, “Introductory note to *Untersuchungen über die Grundlagen der Mengenlehre, I* \[Zermelo 1908b]”, in Zermelo 2010: 160–188.
+* Ferreiros, J., 1999, *Labyrinth of Thought: A History of Set Theory and its Role in Modern Mathematics*, Science Networks Historical Studies, Basel: Birkhäuser. Second Revised Edition, 2007
+* Fraenkel, A., Y. Bar-Hillel, and A. Levy, 1973, *Foundations of Set Theory*. Amsterdam: North-Holland Publishing.
+* Fraenkel, A. A., 1922, “Zu den Grundlagen der Cantor-Zermeloschen Mengenlehre”, *Mathematische Annalen* 86: 230–237.
+* –––, 1927, *Zehn Vorlesungen über die Grundlegung der Mengenlehre*, Leipzig: B. G. Teubner.
+* Frege, G., 1879, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle: Louis Nebert. Reprinted in Frege 1964, English translation in van Heijenoort 1967: 1–82.
+* –––, 1893, *Grundgesetze der Arithmetik*, Band 1, Jena: Hermann Pohle. English translation by Philip Ebert and Marcus Rossberg, *Frege, The Basic Laws of Arithmetic, Derived using Concept-Script*, Oxford: Oxford University Press, forthcoming.
+* –––, 1903, *Grundgesetze der Arithmetik*, Band II, Jena: Hermann Pohle. English translation by Philip Ebert and Marcus Rossberg, *Frege, The Basic Laws of Arithmetic, Derived using Concept-Script*, Oxford: Oxford University Press, forthcoming.
+* –––, 1964, *Begriffsschrift und andere Aufsätze. Mit E. Husserls und H. Scholz’ Anmerkungen herausgegeben von Ignacio Angelelli*, Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Gödel, K., 1944, “Russell's mathematical logic”, in P. A. Schillp (ed.), *The Philosophy of Bertrand Russell*, pp. 125–153, La Salle: Open Court. Reprinted in Benacerraf and Putnam 1964: 211–232; Benacerraf and Putnam 1983: 447–469; and in Gödel 1990: 119–141.
+* –––, 1990, *Kurt Gödel: Collected Works*, Volume 2, edited by Solomon Feferman et al., Oxford: Oxford University Press.
+* Haaparanta, L. (ed.), 2009, *The Development of Modern Logic*, Oxford: Oxford University Press.
+* Hadamard, J. et al., 1905, “Cinq letters sur la théorie des ensembles”, *Bulletin de la société mathématique de France*, 33: 261–273. Letters between Baire, Borel, Lebesgue and Hadamard on objections to, and defense of, Zermelo's 1904 proof of the well-ordering theorem.
+* Hallett, M., 1981, “Russell, Jourdain and ‘limitation of size’”, *British Journal for the Philosophy of Science*, 32: 381–399.
+* –––, 1984, *Cantorian Set Theory and Limitation of Size*, Oxford: Clarendon Press.
+* –––, 2008, “The ‘purity of method’ in Hilbert's *Grundlagen der Geometrie*”, in P. Mancosu (ed.), *The Philosophy of Mathematical Practice*, pp. 198–255, Oxford: Clarendon Press.
+* –––, 2010a, “Frege and Hilbert”, in M. Potter and T. Ricketts (eds.), *The Cambridge Companion to Frege*, Cambridge: Cambridge University Press.
 * –––, 2010b, “Introductory note to Zermelo's two papers on the well-ordering theorem”, in Zermelo 2010: 80–115.
-* Hallett, M. and U. Majer (eds.), 2004, _David Hilbert's Lectures on the Foundations of Geometry, 1891–1902_, Volume 1 of _Hilbert's Lectures on the Foundations of Mathematics and Physics, 1891–1933_, Berlin: Springer.
-* Hardy, G. H., 1904, “A theorem concerning the infinite cardinal numbers”, _Quarterly Journal of Pure and Applied Mathematics_ 35: 87–94.
-* Hartogs, F., 1915, “Über das Problem der Wohlordnung”, _Mathematische Annalen_, 76: 438–442.
-* Harward, A. E., 1905, “On the transfinite numbers”, _Philosophical Magazine_ 10(6): 439–460.
-* Hausdorff, F., 1914, _Grundzüge der Mengenlehre_, Leipzig: Von Veit.
-* Hawkins, T., 1970, _Lebesgue's Theory of Integration_. New York: Blaisdell. Reprinted by the Chelsea Publishing Company, New York, 1979.
-* van Heijenoort, J. (ed.), 1967, _From Frege to Gödel: A Source Book in Mathematical Logic_, Cambridge, Massachusetts: Harvard University Press.
-* Heinzmann, G., 1986, _Poincaré, Russell, Zermelo et Peano. Textes de la discusion (1906–1912) sur les fondements des mathématiques: des antinomies à la prédicativité_, Paris: Albert Blanchard.
-* Hessenberg, G., 1906, “Grundbegriffe der Mengenlehre”, _Abhandlungen der neuen Fries'schen Schule (Neue Folge)_ 1: 479–706.
-* Hilbert, D., 1899, “Grundlagen der Geometrie”, in _Festschrift zur Feier der Enthüllung des Gauss-Weber-Denkmals in Göttingen_, Leipzig: B. G. Teubner. Republished as Chapter 5 in Hallett and Majer 2004.
-* –––, 1900a, “Mathematische Probleme”, _Nachrichten von der königlichen Gesellschaft der Wissenschaften zu Göttingen, mathematisch-physikalische Klasse_, pp. 253–296. English translation by Mary Winston Newson, 1902, “Mathematical Problems” _Bulletin of the American Mathematical Society_ 8: 437–479.
-* –––, 1900b, “Über den Zahlbegriff”, _Jahresbericht der deutschen Mathematiker-Vereinigung_ 8: 180–185. Reprinted (with small modifications) in Second to Seventh Editions of Hilbert 1899.
+* Hallett, M. and U. Majer (eds.), 2004, *David Hilbert's Lectures on the Foundations of Geometry, 1891–1902*, Volume 1 of *Hilbert's Lectures on the Foundations of Mathematics and Physics, 1891–1933*, Berlin: Springer.
+* Hardy, G. H., 1904, “A theorem concerning the infinite cardinal numbers”, *Quarterly Journal of Pure and Applied Mathematics* 35: 87–94.
+* Hartogs, F., 1915, “Über das Problem der Wohlordnung”, *Mathematische Annalen*, 76: 438–442.
+* Harward, A. E., 1905, “On the transfinite numbers”, *Philosophical Magazine* 10(6): 439–460.
+* Hausdorff, F., 1914, *Grundzüge der Mengenlehre*, Leipzig: Von Veit.
+* Hawkins, T., 1970, *Lebesgue's Theory of Integration*. New York: Blaisdell. Reprinted by the Chelsea Publishing Company, New York, 1979.
+* van Heijenoort, J. (ed.), 1967, *From Frege to Gödel: A Source Book in Mathematical Logic*, Cambridge, Massachusetts: Harvard University Press.
+* Heinzmann, G., 1986, *Poincaré, Russell, Zermelo et Peano. Textes de la discusion (1906–1912) sur les fondements des mathématiques: des antinomies à la prédicativité*, Paris: Albert Blanchard.
+* Hessenberg, G., 1906, “Grundbegriffe der Mengenlehre”, *Abhandlungen der neuen Fries'schen Schule (Neue Folge)* 1: 479–706.
+* Hilbert, D., 1899, “Grundlagen der Geometrie”, in *Festschrift zur Feier der Enthüllung des Gauss-Weber-Denkmals in Göttingen*, Leipzig: B. G. Teubner. Republished as Chapter 5 in Hallett and Majer 2004.
+* –––, 1900a, “Mathematische Probleme”, *Nachrichten von der königlichen Gesellschaft der Wissenschaften zu Göttingen, mathematisch-physikalische Klasse*, pp. 253–296. English translation by Mary Winston Newson, 1902, “Mathematical Problems” *Bulletin of the American Mathematical Society* 8: 437–479.
+* –––, 1900b, “Über den Zahlbegriff”, *Jahresbericht der deutschen Mathematiker-Vereinigung* 8: 180–185. Reprinted (with small modifications) in Second to Seventh Editions of Hilbert 1899.
 * –––, 1902, “Grundlagen der Geometrie”. Ausarbeitung by August Adler for lectures in the Sommersemester of 1902 at the Georg-August Universität, Göttingen. Library of the Mathematisches Institut. Published as Chapter 6 in Hallett and Majer 2004.
-* –––, 1918, “Axiomatisches Denken”, _Mathematische Annalen_, 78: 405–415. Reprinted in Hilbert 1935: 146–156; English translation in Ewald 1996: volume 2, pp. 1105–1115.
+* –––, 1918, “Axiomatisches Denken”, *Mathematische Annalen*, 78: 405–415. Reprinted in Hilbert 1935: 146–156; English translation in Ewald 1996: volume 2, pp. 1105–1115.
 * –––, 1920, “Probleme der mathematischen Logik”, Lecture notes for a course held in the Wintersemester of 1920 at the Georg-August Universität, Göttingen, ausgearbeitet by Moses Schönfinkel and Paul Bernays. Library of the Mathematisches Institut, Universität Göttingen. Published in Ewald et al. 2013, Chapter 2.
-* –––, 1935, _Gesammelte Abhandlungen, Band 3_. Berlin: Julius Springer.
-* Jourdain, P. E. B., 1904, “On the transfinite cardinal numbers of well-ordered aggregates”, _Philosophical Magazine_ 7(6): 61–75.
-* –––, 1905a, “On a proof that every aggregate can be well-ordered”, _Mathematische Annalen_ 60: 465–470.
-* –––, 1905b, “On transfinite numbers of the exponential form”, _Philosophical Magazine_ 9(6): 42–56.
-* Kanamori, A., 1996, “The mathematical development of set theory from Cantor to Cohen”, _Bulletin of Symbolic Logic_ 2: 1–71.
-* –––, 1997, “The mathematical import of Zermelo's well-ordering theorem”, _Bulletin of Symbolic Logic_ 3: 281–311.
-* –––, 2003, “The empty set, the singleton, and the ordered pair”, _Bulletin of Symbolic Logic_ 9: 273–298.
-* –––, 2004, “Zermelo and set theory”, _Bulletin of Symbolic Logic_ 10: 487–553.
-* –––, 2012, “In praise of replacement”, _Bulletin of Symbolic Logic_, 18: 46–90.
-* Kuratowski, C., 1921, “Sur la notion de l'ordre dans la théorie des ensembles”, _Fundamenta Mathematicae_ 2: 161–171.
-* –––, 1922, “Une méthode d'élimination des nombres transfini des raisonnements mathématiques”, _Fundamenta Mathematicae_ 3: 76–108.
-* Mancosu, P., 2009, “Measuring the size of infinite collections of natural numbers: was Cantor's theory of infinite number inevitable?”, _Review of Symbolic Logic_ 2: 612–646.
-* –––, 2010, _The Adventure of Reason: Interplay Between Philosophy of Mathematics and Mathematical Logic, 1900–1940_. Oxford: Oxford University Press.
+* –––, 1935, *Gesammelte Abhandlungen, Band 3*. Berlin: Julius Springer.
+* Jourdain, P. E. B., 1904, “On the transfinite cardinal numbers of well-ordered aggregates”, *Philosophical Magazine* 7(6): 61–75.
+* –––, 1905a, “On a proof that every aggregate can be well-ordered”, *Mathematische Annalen* 60: 465–470.
+* –––, 1905b, “On transfinite numbers of the exponential form”, *Philosophical Magazine* 9(6): 42–56.
+* Kanamori, A., 1996, “The mathematical development of set theory from Cantor to Cohen”, *Bulletin of Symbolic Logic* 2: 1–71.
+* –––, 1997, “The mathematical import of Zermelo's well-ordering theorem”, *Bulletin of Symbolic Logic* 3: 281–311.
+* –––, 2003, “The empty set, the singleton, and the ordered pair”, *Bulletin of Symbolic Logic* 9: 273–298.
+* –––, 2004, “Zermelo and set theory”, *Bulletin of Symbolic Logic* 10: 487–553.
+* –––, 2012, “In praise of replacement”, *Bulletin of Symbolic Logic*, 18: 46–90.
+* Kuratowski, C., 1921, “Sur la notion de l'ordre dans la théorie des ensembles”, *Fundamenta Mathematicae* 2: 161–171.
+* –––, 1922, “Une méthode d'élimination des nombres transfini des raisonnements mathématiques”, *Fundamenta Mathematicae* 3: 76–108.
+* Mancosu, P., 2009, “Measuring the size of infinite collections of natural numbers: was Cantor's theory of infinite number inevitable?”, *Review of Symbolic Logic* 2: 612–646.
+* –––, 2010, *The Adventure of Reason: Interplay Between Philosophy of Mathematics and Mathematical Logic, 1900–1940*. Oxford: Oxford University Press.
 * Mancosu, P., R. Zach, and C. Badesa, 2009, “The development of mathematical logic from Russell to Tarski, 1900–1935”, in Haaparanta 2009: 318–470. Reprinted in Mancosu 2010: 5–119.
-* Mirimanoff, D., 1917a, “Les antinomies de Russell et de Burali-Forti et le problème fondamental de la théorie des ensembles”, _L'enseignement mathématique_ 19: 37–52.
-* –––, 1917b, “Remarques sur la théorie des ensembles et les antinomies Cantoriennes (I)”, _L'enseignement mathématique_ 19: 208–217.
-* –––, 1921, “Remarques sur la théorie des ensembles et les antinomies Cantoriennes (II)”, _L'enseignement mathématique_ 21: 29–52.
-* Moore, G., 1976, “Ernst Zemelo, A. E. Harward, and the axiomatisation of set theory”, _Historia Mathematica_ 3: 206–209.
-* –––, 1982, _Zermelo's Axiom of Choice: Its Origins, Development and Influence_. Berlin: Springer.
-* Peano, G., 1906, “Additione”, _Revista di mathematica_ 8: 143–157. Reprinted in Heinzmann 1986: 106–120.
-* Peckhaus, V., 1990, _Hilbertprogramm und kritische Philosophie: das Göttinger Modell interdisziplinärer Zusammenarbeit zwischen Mathematik und Philosophie_, Volume 7 of _Studien zur Wissenschafts- Sozial- und Bildungsgeschichte_, Göttingen: Vandenhoek and Ruprecht.
-* Poincaré, H., 1905, “Les mathématiques et la logique”, _Revue de métaphysique et de morale_ 13: 815–835. Reprinted with alterations in Poincaré 1908: Part II, Chapter 3; and, with these alterations noted, in Heinzmann 1986: 11–34. English translation in Ewald 1996: 1021–1038.
-* –––, 1906a, “Les mathématiques et la logique”, _Revue de métaphysique et de morale_ 14: 17–34. Reprinted with alterations in Poincaré 1908: Part II, Chapter 3; and, with these alterations noted, in Heinzmann 1986: 35–53. English translation in Ewald 1996: 1038–1052.
-* –––, 1906b, “Les mathématiques et la logique”, _Revue de métaphysique et de morale_ 14: 294–317. Reprinted with alterations in Poincaré 1908: Part II, Chapter 5; and, with these alterations noted, in Heinzmann 1986: 35–53. English translation in Ewald 1996: 1052–1071.
-* –––, 1908, _Science et méthode_, Paris: Ernst Flammarion. English translation in Poincaré 1913b, and retranslated by Francis Maitland as _Science and Method,_ New York: Dover Publications.
-* –––, 1909, “Le logique de l'infini”, _Revue de métaphysique et de morale_ 17: 462–482. Reprinted in Poincaré 1913a: 7–31.
-* –––, 1913a, _Dernières Pensées_, Paris: Ernest Flammarion. English translation published in 1963 as _Mathematics and Science: Last Essays,_ New York: Dover Publications.
-* –––, 1913b, _The Foundations of Science_, New York: Science Press. Preface by Poincaré and an Introduction by Josiah Royce. Contains English translation by G. B. Halsted of Poincaré 1908.
-* Ramsey, F. P., 1926, “The foundations of mathematics”, _Proceedings of the London Mathematical Society_ 25 (Second Series): 338–384. Reprinted in Ramsey 1931: 1–61, and Ramsey 1978: 152–212.
-* –––, 1931, _The Foundations of Mathematics and Other Logical Essays_, R. B. Braithwaite (ed.), London: Routledge and Kegan Paul, London.
-* –––, 1978, _Foundations: Essays in Philosophy, Logic, Mathematics and Economics_, D. H. Mellor (ed.), London: Routledge and Kegan Paul.
-* Richard, J., 1905, “Les principes des mathématiques et le problème des ensembles”, _Révue général des sciences pures et appliqués_ 16: 541. English translation in van Heijenoort 1967: 142–144.
+* Mirimanoff, D., 1917a, “Les antinomies de Russell et de Burali-Forti et le problème fondamental de la théorie des ensembles”, *L'enseignement mathématique* 19: 37–52.
+* –––, 1917b, “Remarques sur la théorie des ensembles et les antinomies Cantoriennes (I)”, *L'enseignement mathématique* 19: 208–217.
+* –––, 1921, “Remarques sur la théorie des ensembles et les antinomies Cantoriennes (II)”, *L'enseignement mathématique* 21: 29–52.
+* Moore, G., 1976, “Ernst Zemelo, A. E. Harward, and the axiomatisation of set theory”, *Historia Mathematica* 3: 206–209.
+* –––, 1982, *Zermelo's Axiom of Choice: Its Origins, Development and Influence*. Berlin: Springer.
+* Peano, G., 1906, “Additione”, *Revista di mathematica* 8: 143–157. Reprinted in Heinzmann 1986: 106–120.
+* Peckhaus, V., 1990, *Hilbertprogramm und kritische Philosophie: das Göttinger Modell interdisziplinärer Zusammenarbeit zwischen Mathematik und Philosophie*, Volume 7 of *Studien zur Wissenschafts- Sozial- und Bildungsgeschichte*, Göttingen: Vandenhoek and Ruprecht.
+* Poincaré, H., 1905, “Les mathématiques et la logique”, *Revue de métaphysique et de morale* 13: 815–835. Reprinted with alterations in Poincaré 1908: Part II, Chapter 3; and, with these alterations noted, in Heinzmann 1986: 11–34. English translation in Ewald 1996: 1021–1038.
+* –––, 1906a, “Les mathématiques et la logique”, *Revue de métaphysique et de morale* 14: 17–34. Reprinted with alterations in Poincaré 1908: Part II, Chapter 3; and, with these alterations noted, in Heinzmann 1986: 35–53. English translation in Ewald 1996: 1038–1052.
+* –––, 1906b, “Les mathématiques et la logique”, *Revue de métaphysique et de morale* 14: 294–317. Reprinted with alterations in Poincaré 1908: Part II, Chapter 5; and, with these alterations noted, in Heinzmann 1986: 35–53. English translation in Ewald 1996: 1052–1071.
+* –––, 1908, *Science et méthode*, Paris: Ernst Flammarion. English translation in Poincaré 1913b, and retranslated by Francis Maitland as *Science and Method,* New York: Dover Publications.
+* –––, 1909, “Le logique de l'infini”, *Revue de métaphysique et de morale* 17: 462–482. Reprinted in Poincaré 1913a: 7–31.
+* –––, 1913a, *Dernières Pensées*, Paris: Ernest Flammarion. English translation published in 1963 as *Mathematics and Science: Last Essays,* New York: Dover Publications.
+* –––, 1913b, *The Foundations of Science*, New York: Science Press. Preface by Poincaré and an Introduction by Josiah Royce. Contains English translation by G. B. Halsted of Poincaré 1908.
+* Ramsey, F. P., 1926, “The foundations of mathematics”, *Proceedings of the London Mathematical Society* 25 (Second Series): 338–384. Reprinted in Ramsey 1931: 1–61, and Ramsey 1978: 152–212.
+* –––, 1931, *The Foundations of Mathematics and Other Logical Essays*, R. B. Braithwaite (ed.), London: Routledge and Kegan Paul, London.
+* –––, 1978, *Foundations: Essays in Philosophy, Logic, Mathematics and Economics*, D. H. Mellor (ed.), London: Routledge and Kegan Paul.
+* Richard, J., 1905, “Les principes des mathématiques et le problème des ensembles”, *Révue général des sciences pures et appliqués* 16: 541. English translation in van Heijenoort 1967: 142–144.
 * Russell, B., 1902, Letter to Frege. In Heijenoort 1967: 124–125.
-* –––, 1903, _The Principles of Mathematics_, Volume 1, Cambridge: Cambridge University Press.
-* Schoenflies, A., 1905, “Über wohlgeordnete Mengen”, _Mathematische Annalen_ 60: 181–186.
-* Skolem, T., 1923, “Einige Bemerkungen zur axiomatischen Begründung der Mengenlehre”, _Matimatikerkrongressen i Helsingfors den 4–7 Juli 1922, Den femte skandinaiska matematikerkongressen, redogörelse, 1923_, pp. 217–232. Reprinted in Skolem 1970: 137–152 which also preserves the original pagination. English translation in Heijenoort 1967: 290–301.
-* –––, 1970, _Selected Papers in Logic_, Oslo: Universitetsforlaget. Edited by Jens Erik Fenstad.
-* von Neumann, J., 1923, “Zur Einführung der transfiniten Zahlen”, _Acta Litterarum ac Scientiarum Regiæ Universitatis Hungaricæ Francisco-Josephinæ. Sectio Scientiæ-Mathematicæ_ 1, pp. 199–208. Reprinted in von Neumann 1961: 24–33. English translation in van Heijenoort 1967: 346–354.
-* –––, 1928, “Über die Definition durch transfinite Induktion und verwandte Fragen der allgemeinen Mengenlehre”, _Mathematische Annalen_ 99: 373–391. Reprinted in von Neumann 1961: 320–338.
-* –––, 1961, _John von Neumann: Collected Works_, Volume 1, Oxford: Pergamon Press.
-* Weyl, H., 1910, “Über die Definitionen der mathematischen Grundbegriffe”, _Mathematisch-naturwissenschaftliche Blätter_ 7, pp. 93–95, 109–113. Reprinted in Weyl 1968, Volume 1, 298–304.
-* –––, 1968, _Gesammelte Abhandlungen_, 4 Volumes, Berlin: Springer.
-* Young, W. H. and G. C. Young, 1906, _The Theory of Sets of Points_, Cambridge: Cambridge University Press.
-* Zermelo, E., 1904, “Beweis, daß jede Menge wohlgeordnet werden kann”, _Mathematische Annalen_ 59: 514–516. Reprinted in Zermelo 2010: 114–119, with a facing-page English translation, and an Introduction by Michael Hallett (2010b). English translation also in van Heijenoort 1967: 139–141.
-* –––, 1908a, “Neuer Beweis für die Möglichkeit einer Wohlordnung”, _Mathematische Annalen_ 65: 107–128. Reprinted in Zermelo 2010: 120–159, with a facing-page English translation, and an Introduction by Michael Hallett (2010b). English translation also in van Heijenoort 1967: 183–198.
-* –––, 1908b, “Untersuchungen über die Grundlagen der Mengenlehre, I”, _Mathematische Annalen_ 65: 261–281. Reprinted in Zermelo 2010: 189–228, with a facing-page English translation, and an Introduction by Ulrich Felgner (2010). English translation also in van Heijenoort 1967: 201–215.
-* –––, 1929, “Über den Begriff von Definitheit in der Axiomatik”, _Fundamenta Mathematicae_ 14: 339–344. Reprinted with facing-page English translation in Zermelo 2010: 358–367, with an Introduction by Heinz-Dieter Ebbinghaus (2010).
-* –––, 1930, “Über Grenzzahlen und Mengenbereiche: Neue Untersuchungen über die Grundlagen der Mengenlehre”, _Fundamenta Mathematicae_ 16: 29–47. Reprinted with facing-page English translation in Zermelo 2010: 400–431, with an Introduction by Akihiro Kanamori. English translation also in Ewald 1996, Volume 2, pp. 1219–1233.
-* –––, 2010, _Collected Works. Volume I: Set Theory, Miscellanea_, H.-D. Ebbinghaus and A. Kanamori (eds.), Berlin: Springer.
+* –––, 1903, *The Principles of Mathematics*, Volume 1, Cambridge: Cambridge University Press.
+* Schoenflies, A., 1905, “Über wohlgeordnete Mengen”, *Mathematische Annalen* 60: 181–186.
+* Skolem, T., 1923, “Einige Bemerkungen zur axiomatischen Begründung der Mengenlehre”, *Matimatikerkrongressen i Helsingfors den 4–7 Juli 1922, Den femte skandinaiska matematikerkongressen, redogörelse, 1923*, pp. 217–232. Reprinted in Skolem 1970: 137–152 which also preserves the original pagination. English translation in Heijenoort 1967: 290–301.
+* –––, 1970, *Selected Papers in Logic*, Oslo: Universitetsforlaget. Edited by Jens Erik Fenstad.
+* von Neumann, J., 1923, “Zur Einführung der transfiniten Zahlen”, *Acta Litterarum ac Scientiarum Regiæ Universitatis Hungaricæ Francisco-Josephinæ. Sectio Scientiæ-Mathematicæ* 1, pp. 199–208. Reprinted in von Neumann 1961: 24–33. English translation in van Heijenoort 1967: 346–354.
+* –––, 1928, “Über die Definition durch transfinite Induktion und verwandte Fragen der allgemeinen Mengenlehre”, *Mathematische Annalen* 99: 373–391. Reprinted in von Neumann 1961: 320–338.
+* –––, 1961, *John von Neumann: Collected Works*, Volume 1, Oxford: Pergamon Press.
+* Weyl, H., 1910, “Über die Definitionen der mathematischen Grundbegriffe”, *Mathematisch-naturwissenschaftliche Blätter* 7, pp. 93–95, 109–113. Reprinted in Weyl 1968, Volume 1, 298–304.
+* –––, 1968, *Gesammelte Abhandlungen*, 4 Volumes, Berlin: Springer.
+* Young, W. H. and G. C. Young, 1906, *The Theory of Sets of Points*, Cambridge: Cambridge University Press.
+* Zermelo, E., 1904, “Beweis, daß jede Menge wohlgeordnet werden kann”, *Mathematische Annalen* 59: 514–516. Reprinted in Zermelo 2010: 114–119, with a facing-page English translation, and an Introduction by Michael Hallett (2010b). English translation also in van Heijenoort 1967: 139–141.
+* –––, 1908a, “Neuer Beweis für die Möglichkeit einer Wohlordnung”, *Mathematische Annalen* 65: 107–128. Reprinted in Zermelo 2010: 120–159, with a facing-page English translation, and an Introduction by Michael Hallett (2010b). English translation also in van Heijenoort 1967: 183–198.
+* –––, 1908b, “Untersuchungen über die Grundlagen der Mengenlehre, I”, *Mathematische Annalen* 65: 261–281. Reprinted in Zermelo 2010: 189–228, with a facing-page English translation, and an Introduction by Ulrich Felgner (2010). English translation also in van Heijenoort 1967: 201–215.
+* –––, 1929, “Über den Begriff von Definitheit in der Axiomatik”, *Fundamenta Mathematicae* 14: 339–344. Reprinted with facing-page English translation in Zermelo 2010: 358–367, with an Introduction by Heinz-Dieter Ebbinghaus (2010).
+* –––, 1930, “Über Grenzzahlen und Mengenbereiche: Neue Untersuchungen über die Grundlagen der Mengenlehre”, *Fundamenta Mathematicae* 16: 29–47. Reprinted with facing-page English translation in Zermelo 2010: 400–431, with an Introduction by Akihiro Kanamori. English translation also in Ewald 1996, Volume 2, pp. 1219–1233.
+* –––, 2010, *Collected Works. Volume I: Set Theory, Miscellanea*, H.-D. Ebbinghaus and A. Kanamori (eds.), Berlin: Springer.
 
 ## Academic Tools
 
@@ -505,4 +505,4 @@ Most of the original sources surrounding Zermelo's work were written in German, 
 [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: alternative axiomatic theories](https://plato.stanford.edu/entries/settheory-alternative/) | [set theory: early development](https://plato.stanford.edu/entries/settheory-early/)
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
-Michael Hallett <[_michael.hallett@mcgill.ca_](mailto:michael%2ehallett%40mcgill%2eca)>
+Michael Hallett <[*michael.hallett@mcgill.ca*](mailto:michael%2ehallett%40mcgill%2eca)>

@@ -1,6 +1,6 @@
 # 弗兰克·拉姆齐 Ramsey, Frank (Fraser MacBride, Mathieu Marion, María José Frápolli, Dorothy Edgington, Edward Elliott, Sebastian Lutz, and Jeffrey Paris)
 
-_首次发表于 2019 年 8 月 14 日星期三；实质性修订于 2023 年 10 月 23 日星期一_
+*首次发表于 2019 年 8 月 14 日星期三；实质性修订于 2023 年 10 月 23 日星期一*
 
 弗兰克·拉姆齐（1903-30）对哲学、数学和经济学做出了重要贡献。虽然他被同时代的人认为是一个天才，但他的一些最重要的思想直到几十年后才得到赏识；现在更好地被赏识，它们继续对当代哲学产生影响。他的历史意义在于引领了分析哲学的新阶段，最初是建立在伯特兰·罗素和路德维希·维特根斯坦的逻辑原子主义学说之上，将他们的思想提升到一个新的水平，但最终他成为了他们的继任者，而不仅仅是一个追随者。
 
@@ -188,7 +188,7 @@ and,
 * (4.2)从真前提得出的结论是真实的。
 * (4.3)进化论是真实的。
 
-要说真理的构成，并处理任何类型的真理归属，拉姆齐通过添加单个命题变量（'p'，'q'等）来丰富普通英语成为英语 _，这些变量涵盖陈述句的集合，并且有命题量词。在英语_中，真理谓词消失了，它的角色由命题变量和量词接管。半正式句子（4.1 _）-（4.3_）是（4.1）-（4.3）翻译成英语\*的结果：
+要说真理的构成，并处理任何类型的真理归属，拉姆齐通过添加单个命题变量（'p'，'q'等）来丰富普通英语成为英语 _，这些变量涵盖陈述句的集合，并且有命题量词。在英语_中，真理谓词消失了，它的角色由命题变量和量词接管。半正式句子（4.1 *）-（4.3*）是（4.1）-（4.3）翻译成英语\*的结果：
 
 * （4.1\*）对于所有的 p，如果琼认为 p，那么 p。
 * （4.2\*）对于所有的 p 和 q，如果 q 从 p 推导出来，并且 p 成立，则 q 成立。
@@ -202,7 +202,7 @@ and,
 
 这段文字可能是对真理的前句理论的第一个明确表达（Dokic 和 Engel 2002，19; Frápolli 2005a，113–138; 2013，61ff）。
 
-Ramsey（1929c，\[OT] 9）预见到了对他使用命题变量以及将（4.1）-（4.3）翻译为（4.1 _）-（4.3_）的可能反应。反对意见如下：（4.1 _）-（4.3_）不能作为英语句子的对应物，因为它们不是良构的。反对意见认为，变量“p”和“q”的独立实例不能填充真值函数的参数槽，例如合取和物质蕴涵，这些函数需要完整的句子作为参数。在“and p”和“then q”中使用独立的变量将缺乏一个动词，无法将这些子句完整地转化为语法范畴的真正实例。Ramsey 的回答坚持认为变量“p”和“q”具有句子的性质，它们代表已经包含动词并表达真值的项目（loc. cit.）。
+Ramsey（1929c，\[OT] 9）预见到了对他使用命题变量以及将（4.1）-（4.3）翻译为（4.1 *）-（4.3*）的可能反应。反对意见如下：（4.1 *）-（4.3*）不能作为英语句子的对应物，因为它们不是良构的。反对意见认为，变量“p”和“q”的独立实例不能填充真值函数的参数槽，例如合取和物质蕴涵，这些函数需要完整的句子作为参数。在“and p”和“then q”中使用独立的变量将缺乏一个动词，无法将这些子句完整地转化为语法范畴的真正实例。Ramsey 的回答坚持认为变量“p”和“q”具有句子的性质，它们代表已经包含动词并表达真值的项目（loc. cit.）。
 
 弗兰克·拉姆齐没有预料到他的观点会被归类为冗余论或代词理论。相反，他认为它会被解释为真理对应理论，尽管他并不接受许多版本的对应主义的形而上学承诺，但他也没有拒绝这个标签。事实上，他承认真理是与事实客观对应的（例如见 1929c，\[OT] 11; 1929d, 36）。Dokic 和 Engel（2002, 25）指出拉姆齐对真理条件和真理都持有现实主义态度，但这种现实主义受到他的实用主义的调节：“他的现实主义与完全的真理对应理论所基础的现实主义不同。它是一种实用主义的现实主义，将真理与信念习惯和行动联系在一起。”因此，拉姆齐对真理的看法具有实用主义背景，但并不是实用主义的真理观。它是一种关于真理条件的复杂冗余论，也包括了后来发展起来的一些代词理论的技术装置（见 Williams 1976，Grover 1992，Brandom 1994，Frápolli 2013）。
 
@@ -314,7 +314,7 @@ Ramsey 可能打算为部分信念提供类似的解释 - 部分信念要么是�
 弗兰克·拉姆齐在这里的观点是，根据一些背景心理学假设，一旦我们对她的偏好有足够的信息，就有可能（至少有时）准确地确定一个主体的信念程度和效用。然而，拉姆齐几乎完全没有详细说明这个“普遍心理学理论”的细节。我们可以代表他将这个理论分为三个部分来澄清问题：
 
 * 首先，存在一个将赌注与实数相关联的函数 φ，这样，主体对一个赌注 γ1 的偏好弱于另一个赌注 γ2，当且仅当 φ(γ1)≥φ(γ2)
-*   其次，这个函数 φ ‘分解’成两个进一步的实值函数 bel 和 des，即如果 γ 是二元赌博 ‘ω1 如果 p， ω2 如果 ¬p’，那么
+* 其次，这个函数 φ ‘分解’成两个进一步的实值函数 bel 和 des，即如果 γ 是二元赌博 ‘ω1 如果 p， ω2 如果 ¬p’，那么
 
     > φ(γ)=bel(p)⋅des(ω1\&p)+(1−bel(p))⋅des(ω2&¬p)
 
@@ -529,220 +529,220 @@ where θ is quantifier free, one could effectively decide if it was satisfiable 
 
 #### 1. Collections of Ramsey’s Works
 
-| \[FM] | _The Foundations of Mathematics and Other Logical Essays_, R.B. Braithwaite (ed.), with a preface by G.E. Moore, London: Kegan Paul, Trench, Trubner, & Co., 1931.                               |
+| \[FM] | *The Foundations of Mathematics and Other Logical Essays*, R.B. Braithwaite (ed.), with a preface by G.E. Moore, London: Kegan Paul, Trench, Trubner, & Co., 1931.                               |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| \[EP] | _Foundations: Essays in Philosophy, Logic, Mathematics and Economics_, D. H. Mellor (ed.), Atlantic Highlands, NJ: Humanities Press, 1978.                                                       |
-| \[PP] | _F.P. Ramsey: Philosophical Papers_, D. H. Mellor (ed.), Cambridge: Cambridge University Press, 1990.                                                                                            |
-| \[OT] | _On Truth_: _Original Manuscript Materials (1927–1929) from the Ramsey Collection at the University of Pittsburgh_, N. Rescher and U. Majer (eds.), Dordrecht: Kluwer Academic Publishers, 1991. |
-| \[NP] | _Notes on Philosophy, Probability, and Mathematics_, Maria Carla Galavotti (ed.), Naples: Bibliopolis, 1991.                                                                                     |
+| \[EP] | *Foundations: Essays in Philosophy, Logic, Mathematics and Economics*, D. H. Mellor (ed.), Atlantic Highlands, NJ: Humanities Press, 1978.                                                       |
+| \[PP] | *F.P. Ramsey: Philosophical Papers*, D. H. Mellor (ed.), Cambridge: Cambridge University Press, 1990.                                                                                            |
+| \[OT] | *On Truth*: *Original Manuscript Materials (1927–1929) from the Ramsey Collection at the University of Pittsburgh*, N. Rescher and U. Majer (eds.), Dordrecht: Kluwer Academic Publishers, 1991. |
+| \[NP] | *Notes on Philosophy, Probability, and Mathematics*, Maria Carla Galavotti (ed.), Naples: Bibliopolis, 1991.                                                                                     |
 
 #### 2. Cited Works by Ramsey
 
-* 1923, Critical Notice of L. Wittgenstein’s _Tractatus Logico-Philosophicus_, _Mind_, 32(128): 465–78.
-* 1925a, “The Foundations of Mathematics”, _Proceedings of the London Mathematical Society_ (Series 2), 25: 338–384; reprinted in \[FM], pp. 1–61, doi:10.1112/plms/s2-25.1.338.
-* 1925b, “Universals”, _Mind_, XXXIV: 401–17.
-* 1926a, “Truth and Probability”, in \[FM], 156–198; reprinted in \[PP], pp. 52–94; also reprinted in _Studies in Subjective Probability_, H. E. Kyburg, Jr. and H. E. Smokler (eds.), 2nd edition, New York: R. E. Krieger Publishing Company, 1980, 23–52.
-* 1926b, “Universals and the ‘Method of Analysis’”, _Proceedings of the Aristotelian Society_, 6: 17–26.
-* 1926c, “Mathematical Logic”, _The Mathematical Gazette_, 13(184): 185–94.
-* 1927a, “Facts and Propositions”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 7 (1927): 153–170; reprinted in \[FM], pp. 138–155; reprinted in \[PP], pp. 34–51.
-* 1927b, “A Contribution to the Theory of Taxation”, _The Economic Journal_, 37(145): 47–61.
-* 1928a, “A Mathematical Theory of Saving”, _The Economic Journal_, 38(152): 543–559.
+* 1923, Critical Notice of L. Wittgenstein’s *Tractatus Logico-Philosophicus*, *Mind*, 32(128): 465–78.
+* 1925a, “The Foundations of Mathematics”, *Proceedings of the London Mathematical Society* (Series 2), 25: 338–384; reprinted in \[FM], pp. 1–61, doi:10.1112/plms/s2-25.1.338.
+* 1925b, “Universals”, *Mind*, XXXIV: 401–17.
+* 1926a, “Truth and Probability”, in \[FM], 156–198; reprinted in \[PP], pp. 52–94; also reprinted in *Studies in Subjective Probability*, H. E. Kyburg, Jr. and H. E. Smokler (eds.), 2nd edition, New York: R. E. Krieger Publishing Company, 1980, 23–52.
+* 1926b, “Universals and the ‘Method of Analysis’”, *Proceedings of the Aristotelian Society*, 6: 17–26.
+* 1926c, “Mathematical Logic”, *The Mathematical Gazette*, 13(184): 185–94.
+* 1927a, “Facts and Propositions”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 7 (1927): 153–170; reprinted in \[FM], pp. 138–155; reprinted in \[PP], pp. 34–51.
+* 1927b, “A Contribution to the Theory of Taxation”, *The Economic Journal*, 37(145): 47–61.
+* 1928a, “A Mathematical Theory of Saving”, *The Economic Journal*, 38(152): 543–559.
 * 1928b, “Universals of Law and of Fact”, in \[EP], pp. 128–133; reprinted in \[PP], pp. 140–144.
 * 1928c, “Further Remarks (Postscripts) to Truth and Probability”, in \[FM], pp. 199–211 (‘Reasonable Degree of Belief’, ‘Statistics’, and ‘Chance’); reprinted with an additional 1929 postscript (‘Probability and Partial Belief’) in \[PP], pp. 95–109.
 * 1929a, “Theories”, in \[FM], pp. 212–236.
 * 1929b, “General Propositions and Causality”, in \[FM], 237–255; reprinted in \[PP], 145–163.
 * 1929c, “The Nature of Truth”, in \[OT], pp. 6–24.
 * 1929d, “Arguments for the Coherence Theory of Truth Refuted”, in \[OT], pp. 36–42.
-* 1930, “On a Problem of Formal Logic”, _Proceedings of the London Mathematical Society_ (Series 2), 30: 264–286; reprinted in \[FM], 82– 111, doi:10.1112/plms/s2-30.1.264
+* 1930, “On a Problem of Formal Logic”, *Proceedings of the London Mathematical Society* (Series 2), 30: 264–286; reprinted in \[FM], 82– 111, doi:10.1112/plms/s2-30.1.264
 * 1931, “Causal Qualities,” in \[FM], pp. 260–262; [original manuscript available online](https://www.repository.cam.ac.uk/bitstream/handle/1810/194723/CausalQualities.pdf?sequence=1\&isAllowed=y).
 
 #### 3. Other Published Works
 
-* “Mr. Keynes on Probability”, _The Cambridge Magazine_, 11(1) (1922): 3–5.
-* “The Douglas Proposal”, _The Cambridge Magazine_, 11(1) (1922): 74–6.
-* Review of W.E. Johnson’s _Logic_: _Part II_, _The New Statesman_, 19 (1922): 469–70.
-* Review of C. K. Ogden and I. A. Richard’ _The Meaning of Meaning_, _Mind_, 33(129) (1924): 108–9.
-* Review of A.N. Whitehead and B. Russell’ _Principia Mathematica_ (Volume I, 2nd edition), _Nature_, 116(2908) (1925): 127–8.
-* Review of A.N. Whitehead and B. Russell’ _Principia Mathematica_ (Volume I, 2nd edition), _Mind_, 34(136) (1925): 506–7.
-* “Mathematical Logic”, _The Encyclopædia Britannica_ (13th edition, supplementary volume 2), 1926, 830–2.
-* “Foundations of Mathematics”, _The Encyclopædia Britannica_, 14th edition, volume 15 (1929), 82–4.
-* “Bertrand Arthur William Russell” (coauthor), _The Encyclopædia Britannica_, 14th edition, volume 19 (1929), 678.
+* “Mr. Keynes on Probability”, *The Cambridge Magazine*, 11(1) (1922): 3–5.
+* “The Douglas Proposal”, *The Cambridge Magazine*, 11(1) (1922): 74–6.
+* Review of W.E. Johnson’s *Logic*: *Part II*, *The New Statesman*, 19 (1922): 469–70.
+* Review of C. K. Ogden and I. A. Richard’ *The Meaning of Meaning*, *Mind*, 33(129) (1924): 108–9.
+* Review of A.N. Whitehead and B. Russell’ *Principia Mathematica* (Volume I, 2nd edition), *Nature*, 116(2908) (1925): 127–8.
+* Review of A.N. Whitehead and B. Russell’ *Principia Mathematica* (Volume I, 2nd edition), *Mind*, 34(136) (1925): 506–7.
+* “Mathematical Logic”, *The Encyclopædia Britannica* (13th edition, supplementary volume 2), 1926, 830–2.
+* “Foundations of Mathematics”, *The Encyclopædia Britannica*, 14th edition, volume 15 (1929), 82–4.
+* “Bertrand Arthur William Russell” (coauthor), *The Encyclopædia Britannica*, 14th edition, volume 19 (1929), 678.
 
 #### 4. Other Posthumously Published Works
 
 Other short, posthumously-published works, all of which are reprinted in the collections listed in Subsection A.1 above:
 
-* “The ‘long’ and ‘short’ of it or a failure of logic”, _American Philosophical Quarterly_, 24(4) (1987): 357–59; reprinted in \[OT], p. 125–127.
-* “Principles of Finitist Mathematics”, _History of Philosophy Quarterly_, 6 (1989): 255–58; reprinted in \[NP], p. 197–202.
-* “Weight or the value of knowledge”, _The British Journal for the Philosophy of Science_, 41 (1990): 1–3; reprinted in \[NP], p. 285–287.
+* “The ‘long’ and ‘short’ of it or a failure of logic”, *American Philosophical Quarterly*, 24(4) (1987): 357–59; reprinted in \[OT], p. 125–127.
+* “Principles of Finitist Mathematics”, *History of Philosophy Quarterly*, 6 (1989): 255–58; reprinted in \[NP], p. 197–202.
+* “Weight or the value of knowledge”, *The British Journal for the Philosophy of Science*, 41 (1990): 1–3; reprinted in \[NP], p. 285–287.
 
 ### B. Secondary Sources
 
 * Acero, J., 2005, “Mind, Intentionality, and Language. The impact of Russell’s Pragmatism on Ramsey”, in Frápolli 2005b, pp. 7–40
-* Adams, E. W., 1965, “The Logic of Conditionals”, _Inquiry_, 8: 166–97.
-* –––, 1966, “Probability and the Logic of Conditionals”, in J. Hintikka and P. Suppes (eds.), _Aspects of Inductive Logic_, Amsterdam: North Holland, 256–316.
-* –––, 1970, “Subjunctive and Indicative Conditionals”, _Foundations of Language_, 6: 89–94.
-* –––, 1975, _The Logic of Conditionals_, Dordrecht: Reidel.
-* Andreas, H., 2017, “Theoretical Terms in Science”, in _The Stanford Encyclopedia of Philosophy_ (Fall 2017 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2017/entries/theoretical-terms-science/](https://plato.stanford.edu/archives/fall2017/entries/theoretical-terms-science/).
-* Anscombe, G.E.M., 1959, _An Introduction to Wittgenstein’s_ Tractatus, London: Hutchinson.
-* –––, 1965, “Retractation”, _Analysis_, 26: 33–6.
-* Anscombe, F. J., & Aumann, R. J., 1963, “A Definition of Subjective Probability”, _The Annals of Mathematical Statistics_, 34: 199–205.
-* Arlo-Costa, H., 2016, “The Logic of Conditionals”, in _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/logic-conditionals/](https://plato.stanford.edu/archives/win2016/entries/logic-conditionals/).
-* Barcan Marcus, R., 1993, “On Some Post-1920’s Views of Russell on Particularity, Identity and Individuation”, in R. Barcan Marcus, _Modalities: Philosophical Essays_, New York: Oxford University Press, pp. 177–88.
-* Bernays, P. & Schönfinkel, M., 1928, “Zum Entscheidungsproblem der mathematischen Logik”, _Mathematische Annalen_, >99: 342–372.
-* Bohnert, H. G., 1967, “Communication by Ramsey-Sentence Clause”, _Philosophy of Science_, 34(4): 341–347.
-* Bradley, R., 2001, “Ramsey and the Measurement of Belief”, in D. Corfield & J. Williamson (eds.), _Foundations of Bayesianism_, Dordrecht: Kluwer Academic Publishers, pp. 263–290.
-* Braithwaite, R., 1926, “Universals and ‘the Method of Analysis’”, _Proceedings of the Aristotelian Society_, 6: 27–38.
-* –––, 1930, “Frank Plumpton Ramsey”, _The Cambridge Review_, 31 January: 216.
+* Adams, E. W., 1965, “The Logic of Conditionals”, *Inquiry*, 8: 166–97.
+* –––, 1966, “Probability and the Logic of Conditionals”, in J. Hintikka and P. Suppes (eds.), *Aspects of Inductive Logic*, Amsterdam: North Holland, 256–316.
+* –––, 1970, “Subjunctive and Indicative Conditionals”, *Foundations of Language*, 6: 89–94.
+* –––, 1975, *The Logic of Conditionals*, Dordrecht: Reidel.
+* Andreas, H., 2017, “Theoretical Terms in Science”, in *The Stanford Encyclopedia of Philosophy* (Fall 2017 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2017/entries/theoretical-terms-science/](https://plato.stanford.edu/archives/fall2017/entries/theoretical-terms-science/).
+* Anscombe, G.E.M., 1959, *An Introduction to Wittgenstein’s* Tractatus, London: Hutchinson.
+* –––, 1965, “Retractation”, *Analysis*, 26: 33–6.
+* Anscombe, F. J., & Aumann, R. J., 1963, “A Definition of Subjective Probability”, *The Annals of Mathematical Statistics*, 34: 199–205.
+* Arlo-Costa, H., 2016, “The Logic of Conditionals”, in *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/logic-conditionals/](https://plato.stanford.edu/archives/win2016/entries/logic-conditionals/).
+* Barcan Marcus, R., 1993, “On Some Post-1920’s Views of Russell on Particularity, Identity and Individuation”, in R. Barcan Marcus, *Modalities: Philosophical Essays*, New York: Oxford University Press, pp. 177–88.
+* Bernays, P. & Schönfinkel, M., 1928, “Zum Entscheidungsproblem der mathematischen Logik”, *Mathematische Annalen*, >99: 342–372.
+* Bohnert, H. G., 1967, “Communication by Ramsey-Sentence Clause”, *Philosophy of Science*, 34(4): 341–347.
+* Bradley, R., 2001, “Ramsey and the Measurement of Belief”, in D. Corfield & J. Williamson (eds.), *Foundations of Bayesianism*, Dordrecht: Kluwer Academic Publishers, pp. 263–290.
+* Braithwaite, R., 1926, “Universals and ‘the Method of Analysis’”, *Proceedings of the Aristotelian Society*, 6: 27–38.
+* –––, 1930, “Frank Plumpton Ramsey”, *The Cambridge Review*, 31 January: 216.
 * –––, 1931, “Editor’s introduction,” in \[FM], pp. ix–xiv.
-* –––, 1953, _Scientific Explanation: A Study of the Function of Theory, Probability and Law in Science_, Cambridge: Cambridge University Press.
-* Brandom, R., 1994, _Making it Explicit. Reasoning, Representing, and Discursive Commitment_, Cambridge, MA: Harvard University Press.
-* Campbell, N., 1920, _Physics. The Elements_, Cambridge: Cambridge University Press.
-* Carnap, R., 1923, “On the Task of Physics and the Application of the Principle of Maximal Simplicity”, in A. W. Carus, _et al_. (eds.), _The Collected Works of Rudolf Carnap: Early Writings_ (Volume 1), Oxford: Oxford University Press, pp. 209–241.
-* –––, 1936, “Testability and Meaning”, _Philosophy of Science_, 3(4): 420–468.
-* –––, 1963, “Replies and Systematic Expositions”, in P.A. Schilpp (ed.), _The Philosophy of Rudolf Carnap_ (The Library of Living Philosophers: Volume 11), Chicago and LaSalle, IL: Open Court Publishing Company, pp. 859–1016.
-* Carroll, J. W., 2016, “Laws of Nature”, in _The Stanford Encyclopedia of Philosophy_ (Fall 2016 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/](https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/).
-* Church, A., 1936, “An Unsolvable Problem of Elementary Number Theory”, _American Journal of Mathematics_, 58(2): 345–363.
-* Chwistek, L., 1921, “Antynomie logiki formalnej”, _Przegla\*\*̧d Filozoficzny_, 24: 164–171; translated as “Antinomies of Formal Logic”, in _Polish Logic 1920–1939_, Storrs McCall (ed.), Oxford: Clarendon Press, 1967, 338–345.
-* de Finetti, B., 1931, “Sul Significato Soggettivo della Probabilità”, _Fundamenta Mathematicae_, 17: 298–329; [English translation available online](http://amshistorica.unibo.it/35/313).
-* –––, 1936, “La logique de la probabilité”, _Actes du congrès international de philosophie scientifique, Fasc. IV_, Paris: Hermann, 31–9; translated as “The Logic of Probability”, _Philosophical Studies_, 77 (1995): 181–90.
-* –––, 1937, “La Prévision: Ses Lois Logiques, Ses Sources Subjectives,” _Annales de l’Institut Henri Poincaré_, 7: 1–68; translated as “Foresight: Its Logical Laws, Its Subjective Sources,” in H. E. Kyburg, Jr. and H. E. Smokler (eds.), _Studies in Subjective Probability_, Huntington, NY: Robert E. Kreiger Publishing Co, 1964, 97–138; reprinted 1980.
-* Demopoulos, W., 2003, “On the Rational Reconstruction of our Theoretical Knowledge”, _The British Journal for the Philosophy of Science_, 54: 371–403.
-* –––, 2011, “Three Views of Theoretical Knowledge”, _The British Journal for the Philosophy of Science_, 62(1): 177–205. doi:10.1093/bjps/axq021
-* Dewar, N., 2019, “Ramsey Equivalence”, _Erkenntnis_, 84: 77–99. doi:10.1007/s10670-017-9948-5
-* Dokic, J. and Engel, P., 2002, _Frank Ramsey. Truth and Success_, London: Routledge.
-* Dummett, M., 1973, _Frege: Philosophy of Language_, London: Duckworth.
-* Edgington, Dorothy, 1995, “Conditionals and the Ramsey Test”, _Proceedings of the Aristotelian Society Supplementary Volume_, 69: 67–86.
-* –––, 2014, “Indicative Conditionals”, in _The Stanford Encyclopedia of Philosophy_ (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/conditionals/](https://plato.stanford.edu/archives/win2014/entries/conditionals/).
-* Elliott, E., 2017, “Ramsey Without Ethical Neutrality”, _Mind_, 126 (501): 1–51.
-* –––, 2021, “Betting Against the Zen Monk: On Preferences and Partial Belief”, _Synthese_, 198: 3733–3758.
-* Erdős, P. & Szekeres, G., 1935, “A Combinatorial Problem in Geometry”, _Compositio Mathematica_, 2: 464–470.
-* Eriksson, L., & Hájek, A., 2007, “What Are Degrees of Belief?” _Studia Logica_ (Special Issue, Formal Epistemology, ed. Branden Fitelson), 86(2): 185–215.
-* Eriksson, L., & Rabinowicz R., 2013, “The interference problem for the betting interpretation of degrees of belief”, _Synthese_, 190: 809–830.
-* Fishburn, P. C., 1981, “Subjective expected utility: A review of normative theories”, _Theory and Decision_, 13(2): 139–199.
+* –––, 1953, *Scientific Explanation: A Study of the Function of Theory, Probability and Law in Science*, Cambridge: Cambridge University Press.
+* Brandom, R., 1994, *Making it Explicit. Reasoning, Representing, and Discursive Commitment*, Cambridge, MA: Harvard University Press.
+* Campbell, N., 1920, *Physics. The Elements*, Cambridge: Cambridge University Press.
+* Carnap, R., 1923, “On the Task of Physics and the Application of the Principle of Maximal Simplicity”, in A. W. Carus, *et al*. (eds.), *The Collected Works of Rudolf Carnap: Early Writings* (Volume 1), Oxford: Oxford University Press, pp. 209–241.
+* –––, 1936, “Testability and Meaning”, *Philosophy of Science*, 3(4): 420–468.
+* –––, 1963, “Replies and Systematic Expositions”, in P.A. Schilpp (ed.), *The Philosophy of Rudolf Carnap* (The Library of Living Philosophers: Volume 11), Chicago and LaSalle, IL: Open Court Publishing Company, pp. 859–1016.
+* Carroll, J. W., 2016, “Laws of Nature”, in *The Stanford Encyclopedia of Philosophy* (Fall 2016 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/](https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/).
+* Church, A., 1936, “An Unsolvable Problem of Elementary Number Theory”, *American Journal of Mathematics*, 58(2): 345–363.
+* Chwistek, L., 1921, “Antynomie logiki formalnej”, *Przegla\*\*̧d Filozoficzny*, 24: 164–171; translated as “Antinomies of Formal Logic”, in *Polish Logic 1920–1939*, Storrs McCall (ed.), Oxford: Clarendon Press, 1967, 338–345.
+* de Finetti, B., 1931, “Sul Significato Soggettivo della Probabilità”, *Fundamenta Mathematicae*, 17: 298–329; [English translation available online](http://amshistorica.unibo.it/35/313).
+* –––, 1936, “La logique de la probabilité”, *Actes du congrès international de philosophie scientifique, Fasc. IV*, Paris: Hermann, 31–9; translated as “The Logic of Probability”, *Philosophical Studies*, 77 (1995): 181–90.
+* –––, 1937, “La Prévision: Ses Lois Logiques, Ses Sources Subjectives,” *Annales de l’Institut Henri Poincaré*, 7: 1–68; translated as “Foresight: Its Logical Laws, Its Subjective Sources,” in H. E. Kyburg, Jr. and H. E. Smokler (eds.), *Studies in Subjective Probability*, Huntington, NY: Robert E. Kreiger Publishing Co, 1964, 97–138; reprinted 1980.
+* Demopoulos, W., 2003, “On the Rational Reconstruction of our Theoretical Knowledge”, *The British Journal for the Philosophy of Science*, 54: 371–403.
+* –––, 2011, “Three Views of Theoretical Knowledge”, *The British Journal for the Philosophy of Science*, 62(1): 177–205. doi:10.1093/bjps/axq021
+* Dewar, N., 2019, “Ramsey Equivalence”, *Erkenntnis*, 84: 77–99. doi:10.1007/s10670-017-9948-5
+* Dokic, J. and Engel, P., 2002, *Frank Ramsey. Truth and Success*, London: Routledge.
+* Dummett, M., 1973, *Frege: Philosophy of Language*, London: Duckworth.
+* Edgington, Dorothy, 1995, “Conditionals and the Ramsey Test”, *Proceedings of the Aristotelian Society Supplementary Volume*, 69: 67–86.
+* –––, 2014, “Indicative Conditionals”, in *The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/conditionals/](https://plato.stanford.edu/archives/win2014/entries/conditionals/).
+* Elliott, E., 2017, “Ramsey Without Ethical Neutrality”, *Mind*, 126 (501): 1–51.
+* –––, 2021, “Betting Against the Zen Monk: On Preferences and Partial Belief”, *Synthese*, 198: 3733–3758.
+* Erdős, P. & Szekeres, G., 1935, “A Combinatorial Problem in Geometry”, *Compositio Mathematica*, 2: 464–470.
+* Eriksson, L., & Hájek, A., 2007, “What Are Degrees of Belief?” *Studia Logica* (Special Issue, Formal Epistemology, ed. Branden Fitelson), 86(2): 185–215.
+* Eriksson, L., & Rabinowicz R., 2013, “The interference problem for the betting interpretation of degrees of belief”, *Synthese*, 190: 809–830.
+* Fishburn, P. C., 1981, “Subjective expected utility: A review of normative theories”, *Theory and Decision*, 13(2): 139–199.
 * Frápolli, M. J., 2005a, “Ramsey’s Theory of Truth and the Origins of the pro-sentential account”, in Frápolli 2005b, pp. 113–138.
-* ––– (ed.), 2005b, _F. P. Ramsey. Critical Reassessments_, London: Thoemmes Continuum.
-* –––, 2013, _The Nature of Truth. An Updated Approach to the Meaning of Truth Ascriptions_, Dordrecht: Springer.
+* ––– (ed.), 2005b, *F. P. Ramsey. Critical Reassessments*, London: Thoemmes Continuum.
+* –––, 2013, *The Nature of Truth. An Updated Approach to the Meaning of Truth Ascriptions*, Dordrecht: Springer.
 * Galavotti, Maria Carla (ed.), 2006, Cambridge and Vienna: Frank P. Ramsey and the Vienna Circle. Dordrecht: Springer.
-* Gärdenfors, P., 1986, “Belief Revisions and the Ramsey Test for Conditionals”, _Philosophical Review_, 95: 81–93.
-* Geach, P.T., 1950, “Subject and Predicate”, _Mind_, 59: 461–82.
-* –––, 1975, “Names and Identity”, in S. Guttenplan (ed.), _Mind and Language_, Oxford: Clarendon Press, pp. 139–58.
+* Gärdenfors, P., 1986, “Belief Revisions and the Ramsey Test for Conditionals”, *Philosophical Review*, 95: 81–93.
+* Geach, P.T., 1950, “Subject and Predicate”, *Mind*, 59: 461–82.
+* –––, 1975, “Names and Identity”, in S. Guttenplan (ed.), *Mind and Language*, Oxford: Clarendon Press, pp. 139–58.
 * Glock, H.-J., 2005, “Ramsey and Wittgenstein: Mutual Influences”, in Frápolli 2005b, pp. 41–69.
-* Grover, D., 1992, _A Prosentential Theory of Truth_, Princeton: Princeton University Press.
-* Gupta, A., 2015, “Definitions”, in _The Stanford Encyclopedia of Philosophy,_ (Summer 2015 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/definitions/](https://plato.stanford.edu/archives/sum2015/entries/definitions/).
-* Hájek, A., 2008, “Arguments For, or Against, Probabilism?”, _The British Journal for the Philosophy of Science_, 59(4): 793–819.
-* Hansson, S.O., 1994. “In Defense of the Ramsey Test”, _Journal of Philosophy_, 89: 522–40.
-* –––, 2017, “Logic of Belief Revision”, in _The Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/logic-belief-revision/](https://plato.stanford.edu/archives/win2017/entries/logic-belief-revision/).
-* Harper, William, 1975. “Rational Belief Change, Popper Functions and Counterfactuals”, _Synthese_, 30: 221–62.
-* –––, 1976, “Ramsey Test Conditionals and Iterated Belief Change”, in W.L. Harper and C.A. Hooker (eds.), _Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science_ (Volume I), Dordrecht: Reidel, 1976, 117–135.
-* Harper, W.L., Stalnaker, R., and Pearce G. (eds.), 1981, _Ifs_, Dordrecht: Reidel.
-* Hertz, H., 1899, _The Principles of Mechanics Presented in a New Form_, London: MacMillan.
-* Hintikka, J., 1956, “Identity, Variables and Impredicative Definitions”, _Journal of Symbolic Logic_, 21: 225–245.
-* Hochberg, H., 2004, “Russell and Ramsey on Distinguishing Particulars from Universals”, _Grazer Philosophische Studien_, 67: 195–207.
-* Hodges, W., 1993, _Model Theory_, in _Encyclopedia of Mathematics and its Applications_ (Volume 42), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511551574
+* Grover, D., 1992, *A Prosentential Theory of Truth*, Princeton: Princeton University Press.
+* Gupta, A., 2015, “Definitions”, in *The Stanford Encyclopedia of Philosophy,* (Summer 2015 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/definitions/](https://plato.stanford.edu/archives/sum2015/entries/definitions/).
+* Hájek, A., 2008, “Arguments For, or Against, Probabilism?”, *The British Journal for the Philosophy of Science*, 59(4): 793–819.
+* Hansson, S.O., 1994. “In Defense of the Ramsey Test”, *Journal of Philosophy*, 89: 522–40.
+* –––, 2017, “Logic of Belief Revision”, in *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/logic-belief-revision/](https://plato.stanford.edu/archives/win2017/entries/logic-belief-revision/).
+* Harper, William, 1975. “Rational Belief Change, Popper Functions and Counterfactuals”, *Synthese*, 30: 221–62.
+* –––, 1976, “Ramsey Test Conditionals and Iterated Belief Change”, in W.L. Harper and C.A. Hooker (eds.), *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science* (Volume I), Dordrecht: Reidel, 1976, 117–135.
+* Harper, W.L., Stalnaker, R., and Pearce G. (eds.), 1981, *Ifs*, Dordrecht: Reidel.
+* Hertz, H., 1899, *The Principles of Mechanics Presented in a New Form*, London: MacMillan.
+* Hintikka, J., 1956, “Identity, Variables and Impredicative Definitions”, *Journal of Symbolic Logic*, 21: 225–245.
+* Hochberg, H., 2004, “Russell and Ramsey on Distinguishing Particulars from Universals”, *Grazer Philosophische Studien*, 67: 195–207.
+* Hodges, W., 1993, *Model Theory*, in *Encyclopedia of Mathematics and its Applications* (Volume 42), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511551574
 * Hookway, C., 2005, “Ramsey and Pragmatism: the influence of Peirce”, in Frápolli 2005b, pp. 182–193.
-* Jeffrey, R., 1965, _The Logic of Decision_, Chicago: University of Chicago Press.
-* Johnson, W.E., 1921, _Logic_: _Part I_, Cambridge: Cambridge University Press.
-* Joyce, J. M., 1999, _The Foundations of Causal Decision Theory_, New York: Cambridge University Press.
-* Kalmár, L. & Surányi, J., 1950, “On the reduction of the decision problem, third paper. Prepis Prefix a single binary predicate”, _Journal of Symbolic Logic_, 15(3): 161–173.
-* Katz, M. & Reimann, J., 2018, _An Introduction to Ramsey Theory: Fast Functions, Infinity, and Metamathematics_ (Student Mathematical Library: Volume 87), American Mathematical Society.
-* Kemeny, J.G., 1955, “Fair Bets and Inductive Probabilities”, _The Journal of Symbolic Logic_, 20(3): 263–273.
-* Keynes, J. M., 1921, _A Treatise on Probability_, London: Macmillan and Co.
-* Kienzler, W., 1997, _Wittgensteins Wende zu seiner Spätphilosophie 1930–1932_, Frankfurt: Suhrkamp.
-* Kolmogorov, A. N., 1933, _Grundbegriffe der Wahrscheinlichkeitrechnung, Ergebnisse Der Mathematik_, Berlin: J. Springer; translated as _Foundations of the Theory of Probability_, Nathan Morrison (trans.), New York: Chelsea Publishing Company, 1950; second edition, 1956.
+* Jeffrey, R., 1965, *The Logic of Decision*, Chicago: University of Chicago Press.
+* Johnson, W.E., 1921, *Logic*: *Part I*, Cambridge: Cambridge University Press.
+* Joyce, J. M., 1999, *The Foundations of Causal Decision Theory*, New York: Cambridge University Press.
+* Kalmár, L. & Surányi, J., 1950, “On the reduction of the decision problem, third paper. Prepis Prefix a single binary predicate”, *Journal of Symbolic Logic*, 15(3): 161–173.
+* Katz, M. & Reimann, J., 2018, *An Introduction to Ramsey Theory: Fast Functions, Infinity, and Metamathematics* (Student Mathematical Library: Volume 87), American Mathematical Society.
+* Kemeny, J.G., 1955, “Fair Bets and Inductive Probabilities”, *The Journal of Symbolic Logic*, 20(3): 263–273.
+* Keynes, J. M., 1921, *A Treatise on Probability*, London: Macmillan and Co.
+* Kienzler, W., 1997, *Wittgensteins Wende zu seiner Spätphilosophie 1930–1932*, Frankfurt: Suhrkamp.
+* Kolmogorov, A. N., 1933, *Grundbegriffe der Wahrscheinlichkeitrechnung, Ergebnisse Der Mathematik*, Berlin: J. Springer; translated as *Foundations of the Theory of Probability*, Nathan Morrison (trans.), New York: Chelsea Publishing Company, 1950; second edition, 1956.
 * Koslow, A., 2005, “Ramsey on Simplicity and Truth”, in N-E. Sahlin (ed.) 2005, pp. 89–117.
-* Ladyman, J., 2016, “Structural Realism”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/structural-realism/](https://plato.stanford.edu/archives/win2016/entries/structural-realism/).
-* Lehman, R.S., 1955, “On Confirmation and Rational Betting”, _Journal of Symbolic Logic_, 20(3): 251–262.
-* Levin, J., 2017, “Functionalism”, in _The Stanford Encyclopedia of Philosophy_ (Winter 2017 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/functionalism/](https://plato.stanford.edu/archives/win2017/entries/functionalism/).
-* Lewis, D., 1970, “How to Define Theoretical Terms”, _The Journal of Philosophy_, 67(13): 427–446. doi:10.2307/2023861
-* –––, 1973 \[1986], _Counterfactuals_, Oxford: Blackwell Publishers; reprinted with revisions, 1986.
-* –––, 1976, “Probabilities of Conditionals and Conditional Probabilities”, _Philosophical Review_, 85: 297–315.
-* –––, 1980, “A Subjectivist’s Guide to Objective Chance”, in R. C. Jeffrey (ed.), _Studies in Inductive Logic and Probability_ (Volume II), Berkeley and Los Angeles: University of California Press.
-* –––, 1986, _Philosophical Papers_ (Volume 2), Oxford: Oxford University Press.
-* Lewy, C., 1967, “A Note on the Text of the _Tractatus_”, _Mind_, 76: 416–423.
-* Lillehammer, H. and Mellor, D. H. (eds.), 2005, _Ramsey’s Legacy_, Oxford: Clarendon Press.
-* Liu, Y. & Price, H., 2020, “Ramsey and Joyce on deliberation and prediction”, _Synthese_, 197: 4365–4386.
-* Lowe, E.J., 2004, “Some Formal Ontological Relations”, _Dialectica_, 58: 297–316.
-* –––, 2006, _The Four Category Ontology: A Metaphysical Foundation for Natural Science_, Oxford: Oxford University Press.
-* MacBride, F., 2004: “Whence the Particular-Universal Distinction?”, _Grazer Philosophische Studien_, 67: pp. 181–194.
-* –––, 2005a, “Ramsey on Universals”, in H. Lillehammer and D.H. Mellor (eds.), _Ramsey’s Legacy_, Oxford: Clarendon, pp. 83–104.
-* –––, 2005b: “Negation & Predication: A Defence of Ramsey’s Thesis”, in N.E. Sahlin (ed.), _Metaphysica_: _International Journal for Ontology and Metaphysics_ (Special Issue 3: _Ramsey’s Ontology_), Heusenstamm: Ontos Verlag, pp. 61–87.
-* –––, 2005c: “The Particular-Universal Distinction: A Dogma of Metaphysics”, _Mind_, 114: 565–614.
-* –––, 2018, _On the Genealogy of Universals: The Metaphysical Origins of Analytic Philosophy_, Oxford: Oxford University Press.
-* Mach, E., 1905, _Die Analyse der Empfindungen und das Verhältnis des Physischen zum Psychischen_, Jena: G. Fischer.
-* –––, 1995, “F. P. Ramsey”, _Philosophy_, 70(272): 243–62.
-* Maher, P., 1993, _Betting on Theories_, Cambridge: Cambridge University Press.
-* Majer, U., 1989, “Ramsey’s Conception of Theories: An Intuitionistic Approach”, _History of Philosophy Quarterly_, 6: 233–258.
-* –––, 1991, “Ramsey’s Theory of Truth and the Truth of Theories: A Synthesis of Pragmatism and Intuitionism in Ramsey’s Last philosophy”, _Theoria_, 57: 162–195.
-* Marion, M., 1995, “Wittgenstein and Ramsey on Identity”, in J. Hintikka (ed.), _From Dedekind to Gödel_, Dordrecht: Kluwer, 343–372.
-* –––, 1998, _Wittgenstein, Finitism, and the Foundations of Mathematics_, Oxford: Clarendon Press.
-* –––, 2008, “Brouwer on Hypotheses and the Middle Wittgenstein”, in M. van Atten, P. Boldini, M. Bourdeau & G. Heinzmann (eds.), _One Hundred Years of Intuitionism 1907–2007_, Basel: Birkhäuser, 96–114.
-* –––, 2012, “Wittgenstein, Ramsey and British Pragmatism”, _European Journal of Pragmatism and American Philosophy_, 4(2): 54–80.
-* Maxwell, G., 1970, “Structural realism and the meaning of theoretical terms”, in Michael Radner and Stephen Winokur (eds.), _Analyses of Theories and Methods of Physics and Psychology_ (Minnesota Studies in the Philosophy of Science: Volume 4), Minneapolis, MN: University of Minnesota Press, pp. 181–192.
-* McGuinness, B. F., 2006, “Wittgenstein and Ramsey”, in M.-C. Galavotti (ed.), _Cambridge and Vienna. Frank P. Ramsey and the Vienna Circle_, Dordrecht: Springer, 19–28.
-* Meacham, C.J.G. & Weisberg, J., 2011, “Representation theorems and the foundations of decision theory”, _Australasian Journal of Philosophy_, 89(4): 641–663.
-* Mellor, D.H., 1992, “There are no Conjunctive Universals”, _Analysis_, 52: 97–103.
-* Methven, S. J., 2016, _Frank Ramsey and the Realistic Spirit_, Basingstoke: Palgrave Macmillan
-* –––, 2018, “Ramsey, ‘Universals’ and atomic propositions”, _British Journal for the History of Philosophy_, 27(1): 134–154.
-* Milne, P., 1997, “Bruno de Finetti and the Logic of Conditional Events”, _British Journal for the Philosophy of Science_, 48: 195–232.
-* Misak, C., 2016a, _Cambridge Pragmatism: From Peirce and James to Ramsey and Wittgenstein_, Oxford: Oxford University Press
-* –––, 2016b, “The Subterranean Influence of Pragmatism on the Vienna Circle”, _Journal for the History of Analytical Philosophy_, 4(5): 1–15.
-* –––, 2018, “Ramsey’s 1929 Pragmatism”, in C. Misak & H. Price (eds.), _The Practical Turn: Pragmatism in the British Long 20thCentury_ (Proceedings of the British Academy), Oxford: Oxford University Press.
-* –––, 2020, _Frank Ramsey: A Sheer Excess of Powers_, Oxford: Oxford University Press.
-* Moore, G.E., 1942, “An Autobiography”, in P. Schilpp (ed.), _The Philosophy of G.E. Moore_, Evanston and Chicago: Northwestern University, 3–29.
-* Morley, M., 1965, “Categoricity in Power”, _Transactions of the American Mathematical Society_, 114(2): 514–538.
-* Mortimer, M., 1975, “On languages with two variables”, _Zeitschrift für Mathematische Logik und Grundlagen der Mathematik_, 21: 135–140.
-* Mulligan, K., 2000: “Métaphysique et Ontolgie”, in P. Engel (ed.), _Précis de Philosophie Analytique_ (Collection Thémis), Paris: Presses Universitaires de France, pp. 5–33.
-* Neth, S., 2019, “Measuring Belief and Risk Attitude”, _Electronic Proceedings in Theoretical Computer Science_, 297: 354–364.
-* Nešetřil, J. & Rödl, V. (eds.), 1990, _Mathematics of Ramsey Theory_ (Algorithms and Combinatorics 5), Berlin, Heidelberger, New York: Springer-Verlag.
-* Papineau, D., 2016, “Naturalism”, in _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/naturalism/](https://plato.stanford.edu/archives/win2016/entries/naturalism/).
-* Paris, J. & Harrington, L., 1977, “A Mathematical Incompleteness in Peano Arithmetic”, _Handbook of Mathematical Logic_, J. Barwise (ed.), Amsterdam: North Holland, 1133–1142.
-* Paul, Margaret, 2012, _Frank Ramsey (1903–30): A Sister’s Memoir_, Huntingdon: Smith-Gordon.
-* Peirce, C. S., 1923, _Chance, Love and Logic_, New York: Harcourt, Brace & Co.
-* –––, 1992, _The Essential Peirce. Selected Philosophical Writings_ (Volume 1: 1867–1893), Bloomington & Indianapolis: Indiana University Press.
-* Przełęcki, M., 1969, _The Logic of Empirical Theories_ (Monographs in Modern Logic Series),; London, New York: Routledge & Kegan Paul/Humanities Press.
-* Rabinowicz, W., 2002, “Does Practical Deliberation Crowd out Self-Prediction”, _Erkenntnis_, 57: 91–122.
-* Read, Stephen, 1995, “Conditionals and the Ramsey Test”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 69: 47–56.
-* Russell, B., 1921, _Analysis of Mind_, London: George Allen & Unwin.
-* –––, 1924, _The Philosophy of Logical Atomism_, reprinted in B. Russell, _Logic and Knowledge_, R.C. Marsh (ed.), London: George Allen & Unwin, pp. 323–43.
-* Sahlin, N.E., 1990, _The Philosophy of F.P. Ramsey_, Cambridge: Cambridge University Press.
-* –––, 1995, “On the Philosophical Relations between Ramsey and Wittgenstein”, in J. Hintikka & K. Puhl (eds.), _The British Tradition in 20th Century Philosophy_ (Proceedings of the 17th International Wittgenstein-Symposium), Vienna: Hölder-Pichler-Tempsky, 150–163.
-* –––, 1997, “‘He is no good for my work’. On the Philosophical Relations Between Ramsey and Wittgenstein”, _Poznan Studies in the Philosophy of the Sciences and the Humanities_, 51: 61–84.
-* –––, 2005, “Ramsey’s Ontology”, _Metaphysica. International Journal for Ontology and Metaphysics_, Special Issue 3.
-* Savage, L.J., 1954, _The Foundations of Statistics_, New York: Wiley.
-* Schmidt, H.-J., 2014, “Structuralism in Physics”, in _The Stanford Encyclopedia of Philosophy_ (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/physics-structuralism/](https://plato.stanford.edu/archives/win2014/entries/physics-structuralism/).
-* Scholz, H., 1952, “Ein ungelöstes Problem in der symbolischen Logik”, _Journal of Symbolic Logic_, 17: 160.
-* Shimony, A., 1988, “An Adamite Derivation of the Calculus of Probability”, in J. H. Fetzer (ed.), _Probability and Causality_, Dordrecht: D. Reidel.
-* Simons, P., 1992, “Ramsey, Particulars and Universals”, _Theoria_, LVII: 150–61.
-* Skolem, T., 1923 \[1967], “The Foundations of Elementary Arithmetic Established by means of the Recursive Mode of Thought, Without the use of Apparent Variables Ranging Over Infinite Domains,” in J. van Heijenoort (ed.), _From Frege to Gödel. A Sourcebook in Mathematical Logic, 1879–1931_, Cambridge, MA: Harvard University Press, 303–333.
-* Skyrms, B., 1987, “Coherence”, in N. Rescher (ed.), _Scientific Inquiry in Philosophical Perspective_, Pittsburgh: University of Pittsburgh Press, pp. 225–242.
-* Sneed, J. D., 1971, _The Logical Structure of Mathematical Physics_, Dordrecht: D. Reidel Publishing Co.
-* Sobel, J.H., 1998, “Ramsey’s Foundations Extended to Desirabilities”, _Theory and Decision_, 44(3): 231–278.
-* Spencer, J.H & Graham, R.L., 1990, “Ramsey Theory”, _Scientific American_, 263(1): 112–117.
-* Stalnaker, R., 1968, _A Theory of Conditionals_, _American Philosophical Quarterly_ (Monograph Series, Volume 2), 98–112; page references to the reprint in Harper, Stalnaker, and Pearce (eds.) 1981, 41–55.
-* –––, 1970, “Probability and Conditionals”, _Philosophy of Science_, 37: 64–80: reprinted in Harper, Stalnaker, and Pearce (eds.) 1981, 107–28.
-* Stefánsson, H.O., 2017, “On the Ratio Challenge for Comparativism”, _Australasian Journal of Philosophy_, 96(2): 380–390.
-* Stegmüller, W., 1976, _The Structure and Dynamics of Theories_, New York: Springer.
-* Strawson, P.F., 1959, _Individuals: An Essay in Descriptive Metaphysics_, London: Methuen.
-* Sullivan, P., 1995, “Wittgenstein on The Foundations of Mathematics, June 1927”, _Theoria_, 61: 105–142.
-* –––, 2005, “What is Squiggle? Ramsey on Wittgenstein’s Theory of Judgement”, in H. Lillehammer & D. H. Mellor (eds.), _Ramsey’s Legacy_, Oxford: Clarendon Press, 53–70.
+* Ladyman, J., 2016, “Structural Realism”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/structural-realism/](https://plato.stanford.edu/archives/win2016/entries/structural-realism/).
+* Lehman, R.S., 1955, “On Confirmation and Rational Betting”, *Journal of Symbolic Logic*, 20(3): 251–262.
+* Levin, J., 2017, “Functionalism”, in *The Stanford Encyclopedia of Philosophy* (Winter 2017 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/functionalism/](https://plato.stanford.edu/archives/win2017/entries/functionalism/).
+* Lewis, D., 1970, “How to Define Theoretical Terms”, *The Journal of Philosophy*, 67(13): 427–446. doi:10.2307/2023861
+* –––, 1973 \[1986], *Counterfactuals*, Oxford: Blackwell Publishers; reprinted with revisions, 1986.
+* –––, 1976, “Probabilities of Conditionals and Conditional Probabilities”, *Philosophical Review*, 85: 297–315.
+* –––, 1980, “A Subjectivist’s Guide to Objective Chance”, in R. C. Jeffrey (ed.), *Studies in Inductive Logic and Probability* (Volume II), Berkeley and Los Angeles: University of California Press.
+* –––, 1986, *Philosophical Papers* (Volume 2), Oxford: Oxford University Press.
+* Lewy, C., 1967, “A Note on the Text of the *Tractatus*”, *Mind*, 76: 416–423.
+* Lillehammer, H. and Mellor, D. H. (eds.), 2005, *Ramsey’s Legacy*, Oxford: Clarendon Press.
+* Liu, Y. & Price, H., 2020, “Ramsey and Joyce on deliberation and prediction”, *Synthese*, 197: 4365–4386.
+* Lowe, E.J., 2004, “Some Formal Ontological Relations”, *Dialectica*, 58: 297–316.
+* –––, 2006, *The Four Category Ontology: A Metaphysical Foundation for Natural Science*, Oxford: Oxford University Press.
+* MacBride, F., 2004: “Whence the Particular-Universal Distinction?”, *Grazer Philosophische Studien*, 67: pp. 181–194.
+* –––, 2005a, “Ramsey on Universals”, in H. Lillehammer and D.H. Mellor (eds.), *Ramsey’s Legacy*, Oxford: Clarendon, pp. 83–104.
+* –––, 2005b: “Negation & Predication: A Defence of Ramsey’s Thesis”, in N.E. Sahlin (ed.), *Metaphysica*: *International Journal for Ontology and Metaphysics* (Special Issue 3: *Ramsey’s Ontology*), Heusenstamm: Ontos Verlag, pp. 61–87.
+* –––, 2005c: “The Particular-Universal Distinction: A Dogma of Metaphysics”, *Mind*, 114: 565–614.
+* –––, 2018, *On the Genealogy of Universals: The Metaphysical Origins of Analytic Philosophy*, Oxford: Oxford University Press.
+* Mach, E., 1905, *Die Analyse der Empfindungen und das Verhältnis des Physischen zum Psychischen*, Jena: G. Fischer.
+* –––, 1995, “F. P. Ramsey”, *Philosophy*, 70(272): 243–62.
+* Maher, P., 1993, *Betting on Theories*, Cambridge: Cambridge University Press.
+* Majer, U., 1989, “Ramsey’s Conception of Theories: An Intuitionistic Approach”, *History of Philosophy Quarterly*, 6: 233–258.
+* –––, 1991, “Ramsey’s Theory of Truth and the Truth of Theories: A Synthesis of Pragmatism and Intuitionism in Ramsey’s Last philosophy”, *Theoria*, 57: 162–195.
+* Marion, M., 1995, “Wittgenstein and Ramsey on Identity”, in J. Hintikka (ed.), *From Dedekind to Gödel*, Dordrecht: Kluwer, 343–372.
+* –––, 1998, *Wittgenstein, Finitism, and the Foundations of Mathematics*, Oxford: Clarendon Press.
+* –––, 2008, “Brouwer on Hypotheses and the Middle Wittgenstein”, in M. van Atten, P. Boldini, M. Bourdeau & G. Heinzmann (eds.), *One Hundred Years of Intuitionism 1907–2007*, Basel: Birkhäuser, 96–114.
+* –––, 2012, “Wittgenstein, Ramsey and British Pragmatism”, *European Journal of Pragmatism and American Philosophy*, 4(2): 54–80.
+* Maxwell, G., 1970, “Structural realism and the meaning of theoretical terms”, in Michael Radner and Stephen Winokur (eds.), *Analyses of Theories and Methods of Physics and Psychology* (Minnesota Studies in the Philosophy of Science: Volume 4), Minneapolis, MN: University of Minnesota Press, pp. 181–192.
+* McGuinness, B. F., 2006, “Wittgenstein and Ramsey”, in M.-C. Galavotti (ed.), *Cambridge and Vienna. Frank P. Ramsey and the Vienna Circle*, Dordrecht: Springer, 19–28.
+* Meacham, C.J.G. & Weisberg, J., 2011, “Representation theorems and the foundations of decision theory”, *Australasian Journal of Philosophy*, 89(4): 641–663.
+* Mellor, D.H., 1992, “There are no Conjunctive Universals”, *Analysis*, 52: 97–103.
+* Methven, S. J., 2016, *Frank Ramsey and the Realistic Spirit*, Basingstoke: Palgrave Macmillan
+* –––, 2018, “Ramsey, ‘Universals’ and atomic propositions”, *British Journal for the History of Philosophy*, 27(1): 134–154.
+* Milne, P., 1997, “Bruno de Finetti and the Logic of Conditional Events”, *British Journal for the Philosophy of Science*, 48: 195–232.
+* Misak, C., 2016a, *Cambridge Pragmatism: From Peirce and James to Ramsey and Wittgenstein*, Oxford: Oxford University Press
+* –––, 2016b, “The Subterranean Influence of Pragmatism on the Vienna Circle”, *Journal for the History of Analytical Philosophy*, 4(5): 1–15.
+* –––, 2018, “Ramsey’s 1929 Pragmatism”, in C. Misak & H. Price (eds.), *The Practical Turn: Pragmatism in the British Long 20thCentury* (Proceedings of the British Academy), Oxford: Oxford University Press.
+* –––, 2020, *Frank Ramsey: A Sheer Excess of Powers*, Oxford: Oxford University Press.
+* Moore, G.E., 1942, “An Autobiography”, in P. Schilpp (ed.), *The Philosophy of G.E. Moore*, Evanston and Chicago: Northwestern University, 3–29.
+* Morley, M., 1965, “Categoricity in Power”, *Transactions of the American Mathematical Society*, 114(2): 514–538.
+* Mortimer, M., 1975, “On languages with two variables”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 21: 135–140.
+* Mulligan, K., 2000: “Métaphysique et Ontolgie”, in P. Engel (ed.), *Précis de Philosophie Analytique* (Collection Thémis), Paris: Presses Universitaires de France, pp. 5–33.
+* Neth, S., 2019, “Measuring Belief and Risk Attitude”, *Electronic Proceedings in Theoretical Computer Science*, 297: 354–364.
+* Nešetřil, J. & Rödl, V. (eds.), 1990, *Mathematics of Ramsey Theory* (Algorithms and Combinatorics 5), Berlin, Heidelberger, New York: Springer-Verlag.
+* Papineau, D., 2016, “Naturalism”, in *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/naturalism/](https://plato.stanford.edu/archives/win2016/entries/naturalism/).
+* Paris, J. & Harrington, L., 1977, “A Mathematical Incompleteness in Peano Arithmetic”, *Handbook of Mathematical Logic*, J. Barwise (ed.), Amsterdam: North Holland, 1133–1142.
+* Paul, Margaret, 2012, *Frank Ramsey (1903–30): A Sister’s Memoir*, Huntingdon: Smith-Gordon.
+* Peirce, C. S., 1923, *Chance, Love and Logic*, New York: Harcourt, Brace & Co.
+* –––, 1992, *The Essential Peirce. Selected Philosophical Writings* (Volume 1: 1867–1893), Bloomington & Indianapolis: Indiana University Press.
+* Przełęcki, M., 1969, *The Logic of Empirical Theories* (Monographs in Modern Logic Series),; London, New York: Routledge & Kegan Paul/Humanities Press.
+* Rabinowicz, W., 2002, “Does Practical Deliberation Crowd out Self-Prediction”, *Erkenntnis*, 57: 91–122.
+* Read, Stephen, 1995, “Conditionals and the Ramsey Test”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 69: 47–56.
+* Russell, B., 1921, *Analysis of Mind*, London: George Allen & Unwin.
+* –––, 1924, *The Philosophy of Logical Atomism*, reprinted in B. Russell, *Logic and Knowledge*, R.C. Marsh (ed.), London: George Allen & Unwin, pp. 323–43.
+* Sahlin, N.E., 1990, *The Philosophy of F.P. Ramsey*, Cambridge: Cambridge University Press.
+* –––, 1995, “On the Philosophical Relations between Ramsey and Wittgenstein”, in J. Hintikka & K. Puhl (eds.), *The British Tradition in 20th Century Philosophy* (Proceedings of the 17th International Wittgenstein-Symposium), Vienna: Hölder-Pichler-Tempsky, 150–163.
+* –––, 1997, “‘He is no good for my work’. On the Philosophical Relations Between Ramsey and Wittgenstein”, *Poznan Studies in the Philosophy of the Sciences and the Humanities*, 51: 61–84.
+* –––, 2005, “Ramsey’s Ontology”, *Metaphysica. International Journal for Ontology and Metaphysics*, Special Issue 3.
+* Savage, L.J., 1954, *The Foundations of Statistics*, New York: Wiley.
+* Schmidt, H.-J., 2014, “Structuralism in Physics”, in *The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/physics-structuralism/](https://plato.stanford.edu/archives/win2014/entries/physics-structuralism/).
+* Scholz, H., 1952, “Ein ungelöstes Problem in der symbolischen Logik”, *Journal of Symbolic Logic*, 17: 160.
+* Shimony, A., 1988, “An Adamite Derivation of the Calculus of Probability”, in J. H. Fetzer (ed.), *Probability and Causality*, Dordrecht: D. Reidel.
+* Simons, P., 1992, “Ramsey, Particulars and Universals”, *Theoria*, LVII: 150–61.
+* Skolem, T., 1923 \[1967], “The Foundations of Elementary Arithmetic Established by means of the Recursive Mode of Thought, Without the use of Apparent Variables Ranging Over Infinite Domains,” in J. van Heijenoort (ed.), *From Frege to Gödel. A Sourcebook in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 303–333.
+* Skyrms, B., 1987, “Coherence”, in N. Rescher (ed.), *Scientific Inquiry in Philosophical Perspective*, Pittsburgh: University of Pittsburgh Press, pp. 225–242.
+* Sneed, J. D., 1971, *The Logical Structure of Mathematical Physics*, Dordrecht: D. Reidel Publishing Co.
+* Sobel, J.H., 1998, “Ramsey’s Foundations Extended to Desirabilities”, *Theory and Decision*, 44(3): 231–278.
+* Spencer, J.H & Graham, R.L., 1990, “Ramsey Theory”, *Scientific American*, 263(1): 112–117.
+* Stalnaker, R., 1968, *A Theory of Conditionals*, *American Philosophical Quarterly* (Monograph Series, Volume 2), 98–112; page references to the reprint in Harper, Stalnaker, and Pearce (eds.) 1981, 41–55.
+* –––, 1970, “Probability and Conditionals”, *Philosophy of Science*, 37: 64–80: reprinted in Harper, Stalnaker, and Pearce (eds.) 1981, 107–28.
+* Stefánsson, H.O., 2017, “On the Ratio Challenge for Comparativism”, *Australasian Journal of Philosophy*, 96(2): 380–390.
+* Stegmüller, W., 1976, *The Structure and Dynamics of Theories*, New York: Springer.
+* Strawson, P.F., 1959, *Individuals: An Essay in Descriptive Metaphysics*, London: Methuen.
+* Sullivan, P., 1995, “Wittgenstein on The Foundations of Mathematics, June 1927”, *Theoria*, 61: 105–142.
+* –––, 2005, “What is Squiggle? Ramsey on Wittgenstein’s Theory of Judgement”, in H. Lillehammer & D. H. Mellor (eds.), *Ramsey’s Legacy*, Oxford: Clarendon Press, 53–70.
 * Taylor, Gabriele, 2006, “Frank Ramsey: A Biographical Sketch” in Galavotti (ed.) 2006, 1–18.
-* Turing, A. M., 1937, “On Computable Numbers, with an Application to the Entscheidungsproblem”, _Proceedings of the London Mathematical Society_ (Series 2), 42: 230–265.
-* Uebel, T., 2016, “Vienna Circle”, in _The Stanford Encyclopedia of Philosophy,_ (Spring 2015 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2016/entries/vienna-circle/](https://plato.stanford.edu/archives/spr2016/entries/vienna-circle/).
-* Van Benthem, J., 1978, “Ramsey Eliminability”, _Studia Logica_, 37: 321–336.
-* Vineberg, S., 2016, “Dutch Book Arguments”, in _The Stanford Encyclopedia of Philosophy_ (Spring 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2016/entries/dutch-book/](https://plato.stanford.edu/archives/spr2016/entries/dutch-book/).
-* Wehmeier, K., 2008, “Wittgensteinian Tableaux, Identity, and Co-Denotation”, _Erkenntnis_, 69: 363–76.
-* –––, 2012, ‘How to Live Without Identity – and Why’, _Australasian Journal of Philosophy_, 90: 761–77.
-* Weyl, H., 1921 \[1998], “On the New Foundational Crisis in Mathematics”, in P. Mancosu (ed.), _From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s_, Oxford: Oxford University Press, 86–118.
-* Whitehead, A.N. & Russell, B., 1910–13, _Principia Mathematica_, first edition, Volume 1 (1910), Volume 2 (1912), Volume3 (1913), Cambridge: Cambridge University Press; second edition, Volume 1 (1925), Volume 2 (1927), Volume 3 (1927).
-* Williams, C.J.F., 1976, _What is Truth?_, Cambridge: Cambridge University Press.
-* Wittgenstein, L., 1922, _Tractatus Logico-Philosophicus_, London: Routledge & Kegan Paul.
-* –––, 1929, “Some Remarks on Logical Form”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 9: 161–171.
-* –––, 1953 \[PI], _Philosophische Untersuchungen_, Frankfurt am Main: Suhrkamp, 1953; English translation, _Philosophical Investigations_, G.E.M. Anscambe (trans.), London: Macmillan, 1953; page reference is to 4th edition of the English translation, P.M.S. Hacker and Joachim Schulte (eds. and trans.), Oxford: Wiley-Blackwell, 2009.
-* –––, \[LO], _Letters to C. K. Ogden_, Oxford: Blackwell, London: Routledge & Kegan Paul, 1973.
-* –––, \[PR], _Philosophical Remarks_, Oxford: Blackwell, 1975.
-* –––, \[BT], _The Big Typescript TS 213_, Oxford: Blackwell, 2005.
-* –––, \[LC], _Lectures, Cambridge 1930–1933. From the Notes of G. E. Moore_, Cambridge: Cambridge University Press, 2016.
+* Turing, A. M., 1937, “On Computable Numbers, with an Application to the Entscheidungsproblem”, *Proceedings of the London Mathematical Society* (Series 2), 42: 230–265.
+* Uebel, T., 2016, “Vienna Circle”, in *The Stanford Encyclopedia of Philosophy,* (Spring 2015 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2016/entries/vienna-circle/](https://plato.stanford.edu/archives/spr2016/entries/vienna-circle/).
+* Van Benthem, J., 1978, “Ramsey Eliminability”, *Studia Logica*, 37: 321–336.
+* Vineberg, S., 2016, “Dutch Book Arguments”, in *The Stanford Encyclopedia of Philosophy* (Spring 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2016/entries/dutch-book/](https://plato.stanford.edu/archives/spr2016/entries/dutch-book/).
+* Wehmeier, K., 2008, “Wittgensteinian Tableaux, Identity, and Co-Denotation”, *Erkenntnis*, 69: 363–76.
+* –––, 2012, ‘How to Live Without Identity – and Why’, *Australasian Journal of Philosophy*, 90: 761–77.
+* Weyl, H., 1921 \[1998], “On the New Foundational Crisis in Mathematics”, in P. Mancosu (ed.), *From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s*, Oxford: Oxford University Press, 86–118.
+* Whitehead, A.N. & Russell, B., 1910–13, *Principia Mathematica*, first edition, Volume 1 (1910), Volume 2 (1912), Volume3 (1913), Cambridge: Cambridge University Press; second edition, Volume 1 (1925), Volume 2 (1927), Volume 3 (1927).
+* Williams, C.J.F., 1976, *What is Truth?*, Cambridge: Cambridge University Press.
+* Wittgenstein, L., 1922, *Tractatus Logico-Philosophicus*, London: Routledge & Kegan Paul.
+* –––, 1929, “Some Remarks on Logical Form”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 9: 161–171.
+* –––, 1953 \[PI], *Philosophische Untersuchungen*, Frankfurt am Main: Suhrkamp, 1953; English translation, *Philosophical Investigations*, G.E.M. Anscambe (trans.), London: Macmillan, 1953; page reference is to 4th edition of the English translation, P.M.S. Hacker and Joachim Schulte (eds. and trans.), Oxford: Wiley-Blackwell, 2009.
+* –––, \[LO], *Letters to C. K. Ogden*, Oxford: Blackwell, London: Routledge & Kegan Paul, 1973.
+* –––, \[PR], *Philosophical Remarks*, Oxford: Blackwell, 1975.
+* –––, \[BT], *The Big Typescript TS 213*, Oxford: Blackwell, 2005.
+* –––, \[LC], *Lectures, Cambridge 1930–1933. From the Notes of G. E. Moore*, Cambridge: Cambridge University Press, 2016.
 
 ## Academic Tools
 
@@ -758,17 +758,17 @@ Other short, posthumously-published works, all of which are reprinted in the col
 
 ## Related Entries
 
-[belief](https://plato.stanford.edu/entries/belief/) | [conditionals](https://plato.stanford.edu/entries/conditionals/) | [decision theory](https://plato.stanford.edu/entries/decision-theory/) | [Dutch book arguments](https://plato.stanford.edu/entries/dutch-book/) | [epistemology: Bayesian](https://plato.stanford.edu/entries/epistemology-bayesian/) | [facts](https://plato.stanford.edu/entries/facts/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [logic: conditionals](https://plato.stanford.edu/entries/logic-conditionals/) | [logic: of belief revision](https://plato.stanford.edu/entries/logic-belief-revision/) | [logical atomism: Russell’s](https://plato.stanford.edu/entries/logical-atomism/) | [object](https://plato.stanford.edu/entries/object/) | [pragmatism](https://plato.stanford.edu/entries/pragmatism/) | [_Principia Mathematica_](https://plato.stanford.edu/entries/principia-mathematica/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [properties](https://plato.stanford.edu/entries/properties/) | [propositional function](https://plato.stanford.edu/entries/propositional-function/) | [Ramsey, Frank: and intergenerational welfare economics](https://plato.stanford.edu/entries/ramsey-economics/) | [theoretical terms in science](https://plato.stanford.edu/entries/theoretical-terms-science/) | [truth](https://plato.stanford.edu/entries/truth/) | [truth: deflationism about](https://plato.stanford.edu/entries/truth-deflationary/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/) | [type theory](https://plato.stanford.edu/entries/type-theory/) | [Wittgenstein, Ludwig: logical atomism](https://plato.stanford.edu/entries/wittgenstein-atomism/) | [Wittgenstein, Ludwig: philosophy of mathematics](https://plato.stanford.edu/entries/wittgenstein-mathematics/)
+[belief](https://plato.stanford.edu/entries/belief/) | [conditionals](https://plato.stanford.edu/entries/conditionals/) | [decision theory](https://plato.stanford.edu/entries/decision-theory/) | [Dutch book arguments](https://plato.stanford.edu/entries/dutch-book/) | [epistemology: Bayesian](https://plato.stanford.edu/entries/epistemology-bayesian/) | [facts](https://plato.stanford.edu/entries/facts/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [logic: conditionals](https://plato.stanford.edu/entries/logic-conditionals/) | [logic: of belief revision](https://plato.stanford.edu/entries/logic-belief-revision/) | [logical atomism: Russell’s](https://plato.stanford.edu/entries/logical-atomism/) | [object](https://plato.stanford.edu/entries/object/) | [pragmatism](https://plato.stanford.edu/entries/pragmatism/) | [*Principia Mathematica*](https://plato.stanford.edu/entries/principia-mathematica/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [properties](https://plato.stanford.edu/entries/properties/) | [propositional function](https://plato.stanford.edu/entries/propositional-function/) | [Ramsey, Frank: and intergenerational welfare economics](https://plato.stanford.edu/entries/ramsey-economics/) | [theoretical terms in science](https://plato.stanford.edu/entries/theoretical-terms-science/) | [truth](https://plato.stanford.edu/entries/truth/) | [truth: deflationism about](https://plato.stanford.edu/entries/truth-deflationary/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/) | [type theory](https://plato.stanford.edu/entries/type-theory/) | [Wittgenstein, Ludwig: logical atomism](https://plato.stanford.edu/entries/wittgenstein-atomism/) | [Wittgenstein, Ludwig: philosophy of mathematics](https://plato.stanford.edu/entries/wittgenstein-mathematics/)
 
 ### Acknowledgments
 
 The SEP editors would like to thank Fraser MacBride for helping us to organize the team of coauthors who contributed sections to this entry, and Sebastian Lutz for helping to organize a subsequent update. The contribution and acknowledgments of the coauthors are as follows. Section 1 (“Life and Work”) is by F. MacBride, who thanks Gary Kemp and Sam Lebens; Section 2 (“The Foundations of Logic and Mathematics”) is by M. Marion, who thanks Cheryl Misak and Jan von Plato for discussions related to his section; Section 3 (“Ontology”) is by F. MacBride, who thanks Frederique Janssen-Lauret, Cheryl Misak, Kevin Mulligan and Thomas Uebel; Section 4 (“Belief and Truth”) is by M. Frápolli; Section 5 (“Conditionals”) is by D. Edgington; Section 6 (“Partial Belief and Subjective Probability”) is by E. Elliott; Section 7 (“Laws and Theories”) is by S. Lutz; and Section 8 (“Contributions to Mathematics”) is by J. Paris.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Fraser MacBride](https://www.research.manchester.ac.uk/portal/fraser.macbride.html) <[_fraser.macbride@manchester.ac.uk_](mailto:fraser%2emacbride%40manchester%2eac%2euk)>\
-Mathieu Marion <[_marion.mathieu@uqam.ca_](mailto:marion%2emathieu%40uqam%2eca)>\
-María José Frápolli <[_frapolli@ugr.es_](mailto:frapolli%40ugr%2ees)>\
-Dorothy Edgington <[_d.edgington@bbk.ac.uk_](mailto:d%2eedgington%40bbk%2eac%2euk)>\
-[Edward Elliott](http://www.edwardjrelliott.com/) <[_e.j.r.elliott@leeds.ac.uk_](mailto:e%2ej%2er%2eelliott%40leeds%2eac%2euk)>\
-Sebastian Lutz <[_sebastian.lutz@gmx.net_](mailto:sebastian%2elutz%40gmx%2enet)>\
+[Fraser MacBride](https://www.research.manchester.ac.uk/portal/fraser.macbride.html) <[*fraser.macbride@manchester.ac.uk*](mailto:fraser%2emacbride%40manchester%2eac%2euk)>\
+Mathieu Marion <[*marion.mathieu@uqam.ca*](mailto:marion%2emathieu%40uqam%2eca)>\
+María José Frápolli <[*frapolli@ugr.es*](mailto:frapolli%40ugr%2ees)>\
+Dorothy Edgington <[*d.edgington@bbk.ac.uk*](mailto:d%2eedgington%40bbk%2eac%2euk)>\
+[Edward Elliott](http://www.edwardjrelliott.com/) <[*e.j.r.elliott@leeds.ac.uk*](mailto:e%2ej%2er%2eelliott%40leeds%2eac%2euk)>\
+Sebastian Lutz <[*sebastian.lutz@gmx.net*](mailto:sebastian%2elutz%40gmx%2enet)>\
 Jeffrey Paris

@@ -297,7 +297,6 @@ Putnam 的论证出现在《理性、真理和历史》的第一章中，他的�
 
 我们已经深入研究了先验论证在哲学中的作用，不仅用于反驳认识论怀疑论者，还用于伦理学、心理学哲学和知觉哲学。正如我们所见，这些论证在细节上面临挑战，而且在更一般的层面上，也存在着它们能够实现多少的问题。然而，虽然这些挑战确实重要，但夸大其重要性是错误的：因为，正如我们也看到的，这些论证的潜在用途范围很广，而它们引人入胜的力量和诱人的承诺意味着哲学家们将继续被吸引。因此，因此，那些从事这个领域的人似乎永远不会停止感受到康德和其他人灌输给他们的“对先验论证的温柔”（斯特劳森 1985 年：21）。
 
-
 ## Bibliography
 
 * Allen, K., 2017. “Bridging the gap: Naive realism and the problem of consciousness,” in H. Logue and L. Richardson (eds.), *Purpose and procedure in philosophy of perception*, Oxford: Oxford University Press.

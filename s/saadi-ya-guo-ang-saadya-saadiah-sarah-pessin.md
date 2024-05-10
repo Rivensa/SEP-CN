@@ -1,6 +1,6 @@
 # 萨阿迪亚·果昂 Saadya \[Saadiah] (Sarah Pessin)
 
-_首次发表于 2003 年 5 月 6 日星期二_
+*首次发表于 2003 年 5 月 6 日星期二*
 
 在他对理性和启示作为认识和生活的共同基础的哲学承诺中，萨阿迪亚创造了一个空间，用于信仰、理解、传统和法律的相互作用。萨阿迪亚在犹太传统中捍卫了圣经和拉宾尼克著作的真实性和合理性，与那些不尊重拉宾尼克权威的犹太社区成员进行辩论，并在认识论、道德和宗教问题上融合了独特的哲学和神学感性。萨阿迪亚以他对“理性法则”和“启示法则”之间差异的讨论而闻名，他在关注人类理性的重要性方面，也常被认为是追随伊斯兰（尤其是穆‘塔兹里派）卡拉姆神学的某些趋势。
 
@@ -146,44 +146,44 @@ _首次发表于 2003 年 5 月 6 日星期二_
 
 ### Cited Works
 
-* Saadya, _Amânât wal-i‘tiqâdât_ (The Book of Doctrines and Beliefs), Edition translated by Alexander Altmann in Lewy, H., Altmann, A. and Heinemann, I. Eds., _Three Jewish Philosophers_. New York: Atheneum, 1985.
-* Saadya, _Perush Sefer Yezira_, edited by J. Kafih. Jerusalem, 1972.
-* Altmann, Alexander. “Saadya's Theory of revelation:  Its Origin and Background,” in _Studies in Religious Philosophy and Mysticism_ by Alexander Altmann. Ithaca:  Cornell University Press, 1969.
-* Wolfson, Harry Austryn. “The Kalam Arguments for Creation in Saadia, Averroes, Maimonides and St. Thomas,” reprinted in _Saadia Anniversary Volume_ (_American Academy for Jewish Research_), pp. 198 - 245. New York, 1943.
+* Saadya, *Amânât wal-i‘tiqâdât* (The Book of Doctrines and Beliefs), Edition translated by Alexander Altmann in Lewy, H., Altmann, A. and Heinemann, I. Eds., *Three Jewish Philosophers*. New York: Atheneum, 1985.
+* Saadya, *Perush Sefer Yezira*, edited by J. Kafih. Jerusalem, 1972.
+* Altmann, Alexander. “Saadya's Theory of revelation:  Its Origin and Background,” in *Studies in Religious Philosophy and Mysticism* by Alexander Altmann. Ithaca:  Cornell University Press, 1969.
+* Wolfson, Harry Austryn. “The Kalam Arguments for Creation in Saadia, Averroes, Maimonides and St. Thomas,” reprinted in *Saadia Anniversary Volume* (*American Academy for Jewish Research*), pp. 198 - 245. New York, 1943.
 
 ### Primary Sources
 
-*   _Amânât wal-i‘tiqâdât_ (The Book of Doctrines and Beliefs)
+* *Amânât wal-i‘tiqâdât* (The Book of Doctrines and Beliefs)
 
     | (a) | <p>Edition translated by Alexander Altmann in Lewy, H., Altmann, A. and Heinemann, I. Eds., <em>Three Jewish Philosophers</em>. New York: Atheneum, 1985.<br>[This is an abridged English translation with notes; this version of Altmann's translation of Saadya's <em>Amânât</em> is also available in a volume by Hackett Publishing Company.]</p> |
     | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | (b) | <p>Edition translated by Samuel Rosenblatt. <em>Saadia Gaon, The Book of Beliefs and Opinions</em> . New Haven: Yale University Press, 1948.<br>[This is a complete English translation based on the Arabic and the Hebrew, and contains some useful indices.]</p>                                                                                    |
     | (c) | <p>Edition edited by L. Landauer. Leiden, 1880.<br>[Arabic text (in Arabic characters).]</p>                                                                                                                                                                                                                                                          |
     | (d) | <p>Edition edited by J. Kafih. Jerusalem, 1970.<br>[Arabic text (in Hebrew characters) with Hebrew translation).]</p>                                                                                                                                                                                                                                 |
-*   _Tafsîr Kitâb al-Mabâdî_ (Commentary on the _Book of Creation_)
+* *Tafsîr Kitâb al-Mabâdî* (Commentary on the *Book of Creation*)
 
     | (a) | <p><em>Perush Sefer Yezira</em>, edited by J. Kafih. Jerusalem, 1972.<br>[Arabic text (in Hebrew characters) with Hebrew translation.]</p>                              |
     | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | (b) | <p><em>Commentaire sur le Sefer Yesira par le Gaon Saadya</em>, edited by M. Lambert. Paris, 1891.<br>[Arabic text (in Arabic characters) with French translation.]</p> |
-* _Les Ouvres complètes de Saadia b. Josef al Fayyoumi_. Ed. J. and H. Derenbourh. Paris, 1893 —.\[5 volumes of Biblical commentaries; contrary to the name of the series, it is not the complete set of Saadya's Biblical commentaries; originally planned as a 13 volume set, only volumes 1, 3, 5, 6 and 9 were compiled.] \[The Arabic texts (in Hebrew characters) with Hebrew translations are available for the Song of Songs, Ruth, Ecclesiastes, Esther, Lamentations, Psalms, Job, and Proverbs in various Jerusalem published editions by J. Kafih, ranging from 1962 to 1976).]
-* _Saadia's Polemic Against Hiwi al-Balkhî_, edited by I. Davidson. New York, 1915.\[Saadya's polemic against Karaism.]
+* *Les Ouvres complètes de Saadia b. Josef al Fayyoumi*. Ed. J. and H. Derenbourh. Paris, 1893 —.\[5 volumes of Biblical commentaries; contrary to the name of the series, it is not the complete set of Saadya's Biblical commentaries; originally planned as a 13 volume set, only volumes 1, 3, 5, 6 and 9 were compiled.] \[The Arabic texts (in Hebrew characters) with Hebrew translations are available for the Song of Songs, Ruth, Ecclesiastes, Esther, Lamentations, Psalms, Job, and Proverbs in various Jerusalem published editions by J. Kafih, ranging from 1962 to 1976).]
+* *Saadia's Polemic Against Hiwi al-Balkhî*, edited by I. Davidson. New York, 1915.\[Saadya's polemic against Karaism.]
 
 ### Secondary Sources (in English)
 
-* Altmann, Alexander. “Saadya's Theory of Revelation:  Its Origin and Background,” in _Studies in Religious Philosophy and Mysticism_ by Alexander Altmann. Ithaca:  Cornell University Press, 1969.
-* Altmann, Alexander. “Saadya's Conception of the Law”. _BJRL_ 28 (1944): 320-9.
-* Ben-Shammai, Haggai. “Saadya's Goal in his Commentary on Sefer Yetzirah,” in Ruth Link-Salinger, Ed., _A Straight Path, Studies in Medieval Philosophy and Culture_, pp. 1 - 10.  Washington, D.C.:  The Catholic University Press, 1988.
-* Cohen, B. (ed.) _Saadia Anniversary Volume_. _PAAJR_, 1943.
-* Efros, I. “Saadya's Theory of Knowledge”. _JQR_ 33 (1942-3): 133-70.
-* Efros, I. “Saadya's Second Theory of Creation in its Relation to Pythagorism and Platonism”. In _Louis Ginzberg Jubilee Volume_, New York, 1945, pp. 133-42 (English section)
-* Heschel, A. J. “The Quest for Certainty in Saadia's Philosophy”. _JQR_ 33 (1942-3): 213-64.
-* Malter, H. _Saadia Gaon; His Life and Works_. New York, 1929.
-* Finkelstein, L (ed.) _Rav Saadia Gaon; Studies in his honor_. New York: Jewish Theological Seminary, 1944.
-* Rosenthal, E.I.J. (ed.) _Saadya Studies_. Manchester, 1943.
-* Sirat, Colette. s.v. Saadiah Gaon, in her _A History of Jewish Philosophy in the Middle Ages_, Cambridge University Press, 1985, pp. 18-37, and 416-18.
+* Altmann, Alexander. “Saadya's Theory of Revelation:  Its Origin and Background,” in *Studies in Religious Philosophy and Mysticism* by Alexander Altmann. Ithaca:  Cornell University Press, 1969.
+* Altmann, Alexander. “Saadya's Conception of the Law”. *BJRL* 28 (1944): 320-9.
+* Ben-Shammai, Haggai. “Saadya's Goal in his Commentary on Sefer Yetzirah,” in Ruth Link-Salinger, Ed., *A Straight Path, Studies in Medieval Philosophy and Culture*, pp. 1 - 10.  Washington, D.C.:  The Catholic University Press, 1988.
+* Cohen, B. (ed.) *Saadia Anniversary Volume*. *PAAJR*, 1943.
+* Efros, I. “Saadya's Theory of Knowledge”. *JQR* 33 (1942-3): 133-70.
+* Efros, I. “Saadya's Second Theory of Creation in its Relation to Pythagorism and Platonism”. In *Louis Ginzberg Jubilee Volume*, New York, 1945, pp. 133-42 (English section)
+* Heschel, A. J. “The Quest for Certainty in Saadia's Philosophy”. *JQR* 33 (1942-3): 213-64.
+* Malter, H. *Saadia Gaon; His Life and Works*. New York, 1929.
+* Finkelstein, L (ed.) *Rav Saadia Gaon; Studies in his honor*. New York: Jewish Theological Seminary, 1944.
+* Rosenthal, E.I.J. (ed.) *Saadya Studies*. Manchester, 1943.
+* Sirat, Colette. s.v. Saadiah Gaon, in her *A History of Jewish Philosophy in the Middle Ages*, Cambridge University Press, 1985, pp. 18-37, and 416-18.
 * Pines, S. “Points of Similarity between the exposition of the doctrine of the Sefirot in the Sefer Yezira and a Text of the Pseudo-Clementine Homilies: The implications of this resemblance,” Proceedings of the Israel Academy of Sciences and Humanities, VII (3) (1989): 63-141.
-* Wolfson, H. A. “The Kalam Arguments for Creation in Saadia, Averroes, Maimonides and St. Thomas,” reprinted in _Saadia Anniversary Volume_ (_American Academy for Jewish Research_). New York, 1943, pp. 198 - 245.
-* Wolfson, H. A. “The Kalam Problem of Nonexistence and Saadia's Second Theory of Creation”. In his _Studies in the History of Philosophy and Religion_, vol. II, Cambridge (Mass.), 1977, pp. 338-58.
+* Wolfson, H. A. “The Kalam Arguments for Creation in Saadia, Averroes, Maimonides and St. Thomas,” reprinted in *Saadia Anniversary Volume* (*American Academy for Jewish Research*). New York, 1943, pp. 198 - 245.
+* Wolfson, H. A. “The Kalam Problem of Nonexistence and Saadia's Second Theory of Creation”. In his *Studies in the History of Philosophy and Religion*, vol. II, Cambridge (Mass.), 1977, pp. 338-58.
 
 ## Academic Tools
 
@@ -202,4 +202,4 @@ _首次发表于 2003 年 5 月 6 日星期二_
 [faith](https://plato.stanford.edu/entries/faith/) | [Plato](https://plato.stanford.edu/entries/plato/)
 
 [Copyright © 2003](https://plato.stanford.edu/info.html#c) by\
-[Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[_spessin@du.edu_](mailto:spessin%40du%2eedu)>
+[Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[*spessin@du.edu*](mailto:spessin%40du%2eedu)>

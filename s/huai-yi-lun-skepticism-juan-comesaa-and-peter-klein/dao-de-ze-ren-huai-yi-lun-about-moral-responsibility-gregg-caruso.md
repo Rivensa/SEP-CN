@@ -1,6 +1,6 @@
 # 道德责任怀疑论 about moral responsibility (Gregg Caruso)
 
-_首次发表于 2018 年 1 月 18 日_
+*首次发表于 2018 年 1 月 18 日*
 
 怀疑论对道德责任的怀疑，或者更常被称为道德责任怀疑论，指的是一系列观点，它们都认真考虑到人类在某种特定但普遍的意义上从来没有对自己的行为负有道德责任的可能性。这种意义通常通过基本应得的概念来区分，并以行为控制的概念来定义，这种控制是一个行为体真正值得受到责备和赞扬的必要条件。一些道德责任怀疑论者完全否定了道德责任的这种概念，因为他们认为它是不连贯或不可能的。其他人认为，虽然可能存在，但我们关于世界的最佳哲学和科学理论提供了强有力的理由来支持对道德责任的怀疑。然而，所有形式的道德责任怀疑论都共享一个信念，即用于支持基本应得道德责任和与之相关的实践（如回顾性的赞扬和责备、惩罚和奖励（包括报复性惩罚）以及对愤怒和愤慨的反应态度）所需的证明是不足够的。历史上，道德责任怀疑论的版本曾被斯宾诺莎、伏尔泰、狄德罗、霍尔巴赫、普里斯特利、叔本华、尼采、克拉伦斯·达罗、B.F.斯金纳和保罗·爱德华兹辩护，最近还有加伦·斯特劳森、德克·佩雷布姆、布鲁斯·沃勒、尼尔·莱维、塔姆勒·萨默斯和格雷格·D·卡鲁索。
 
@@ -249,7 +249,7 @@ _首次发表于 2018 年 1 月 18 日_
 
 > 然而，批评者从不同的角度提出了反对意见。有些人指出，虽然道德教育可能是惩罚的一个合理目标，但它并不是 Hampton（1984 年：209）和其他人所声称的“完全正当化”的（参见 Dagger 2011）。还有人认为，对成年罪犯进行惩罚是否能够产生道德改善的结果远非显而易见（Pereboom 2001：162-3；2014a：161）。儿童和成年罪犯在很多方面存在显著差异——即，与儿童不同，成年罪犯通常理解其社会所接受的道德准则，并且儿童通常比成年罪犯更具心理可塑性（Pereboom 2014a：162；2001：163）。
 
-Critics, however, object on number of different grounds. Some point out that while moral education may be _one_ plausible aim of punishment, it is not the “full and complete justification” Hampton (1984: 209) and others claim it to be (see Dagger 2011). Others argue that it is far from evident that punishing adult criminals is similarly likely to result in moral improvements (Pereboom 2001: 162–3; 2014a: 161). Children and adult criminals differ in significant respects—i.e., adult criminals, unlike children, typically understand the moral code accepted in their society, and children are generally more psychologically malleable than adults criminals are (Pereboom 2014a: 162; 2001: 163).
+Critics, however, object on number of different grounds. Some point out that while moral education may be *one* plausible aim of punishment, it is not the “full and complete justification” Hampton (1984: 209) and others claim it to be (see Dagger 2011). Others argue that it is far from evident that punishing adult criminals is similarly likely to result in moral improvements (Pereboom 2001: 162–3; 2014a: 161). Children and adult criminals differ in significant respects—i.e., adult criminals, unlike children, typically understand the moral code accepted in their society, and children are generally more psychologically malleable than adults criminals are (Pereboom 2014a: 162; 2001: 163).
 
 无论道德教育理论是否屈服于这些反对意见（参见 Drucker 1986; Shook 2004; Shafer-Landau 1991; Dagger 2011），对于道德责任怀疑论者来说，还有另一种非报复性的选择：一种基于自卫权的无能力解释，类似于隔离的正当性解释。这是 Pereboom 和 Caruso 所青睐的方法，它基于对危险罪犯和危险疾病携带者的对比（Pereboom 2001, 2013b, 2014a, 2017a; Caruso 2016, 2017, forthcoming-a; Pereboom & Caruso forthcoming）。简单来说，它可以总结如下：（1）道德责任怀疑论者声称罪犯在基本应得意义上不对他们的行为负有道德责任；（2）显然，许多危险疾病的携带者在这个意义上或其他意义上都不对患上这些疾病负有责任；（3）然而，我们普遍认为有时隔离他们是可以接受的，而这样做的正当性解释是自我保护和预防对他人造成伤害的权利；（4）出于类似的原因，即使一个危险罪犯在基本应得意义上对他的犯罪行为不负道德责任（也许是因为没有人以这种方式负有道德责任），无能力化他和隔离一个不负责任的严重传染病携带者一样合法。
 
@@ -261,360 +261,360 @@ Critics, however, object on number of different grounds. Some point out that whi
 
 ## Bibliography
 
-* Aspinwall, Lisa G., Teneille R. Brown, and James Tabery, 2012, “The Double-Edged Sword: Does Biomechanism Increase or Decrease Judges’ Sentencing of Psychopaths?”, _Science_, 337(6096): 846–49. doi:10.1126/science.1219569
-* Athanassoulis, Nafsika, 2005, _Morality, Moral Luck, and Responsibility: Fortune’s Web_, New York: Palgrave Macmillan.
-* Babbitt, Susan E., 1999, “Freedom and Democracy in Cuba: A Problem of Understanding”, in Christine M. Koggel (ed.), _Moral Issues in Global Perspective_, 235–54, Peterborough, Ontario: Broadview Press.
-* Baer, John, James C. Kaufman, and Roy F. Baumeister (eds.), 2008, _Are We Free? Psychology and Free Will_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195189636.001.0001
-* Bagaric, Mirko and Kumar Amarasekara, 2000, “The Errors of Retributivism”, _Melbourne University Law Review_, 24: 1–66. \[[Bagaric & Amarasekara 2000 available online](http://www.austlii.edu.au/au/journals/MelbULawRw/2000/5.html)
-* Baker, Lynne Rudder, 2006, “Moral Responsibility without Libertarianism”, _Noûs_, 40(2): 307–30. doi:10.1111/j.0029-4624.2006.00611.x
-* Bargh, John A., 1997, “The Automaticity of Everyday Life”, in Robert S. Wyer, Jr. (ed.), _The Automaticity of Everyday Life_, (Advances in Social Cognition, 10), Mahwah, NJ: Erlbaum, pp. 1–61
+* Aspinwall, Lisa G., Teneille R. Brown, and James Tabery, 2012, “The Double-Edged Sword: Does Biomechanism Increase or Decrease Judges’ Sentencing of Psychopaths?”, *Science*, 337(6096): 846–49. doi:10.1126/science.1219569
+* Athanassoulis, Nafsika, 2005, *Morality, Moral Luck, and Responsibility: Fortune’s Web*, New York: Palgrave Macmillan.
+* Babbitt, Susan E., 1999, “Freedom and Democracy in Cuba: A Problem of Understanding”, in Christine M. Koggel (ed.), *Moral Issues in Global Perspective*, 235–54, Peterborough, Ontario: Broadview Press.
+* Baer, John, James C. Kaufman, and Roy F. Baumeister (eds.), 2008, *Are We Free? Psychology and Free Will*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195189636.001.0001
+* Bagaric, Mirko and Kumar Amarasekara, 2000, “The Errors of Retributivism”, *Melbourne University Law Review*, 24: 1–66. \[[Bagaric & Amarasekara 2000 available online](http://www.austlii.edu.au/au/journals/MelbULawRw/2000/5.html)
+* Baker, Lynne Rudder, 2006, “Moral Responsibility without Libertarianism”, *Noûs*, 40(2): 307–30. doi:10.1111/j.0029-4624.2006.00611.x
+* Bargh, John A., 1997, “The Automaticity of Everyday Life”, in Robert S. Wyer, Jr. (ed.), *The Automaticity of Everyday Life*, (Advances in Social Cognition, 10), Mahwah, NJ: Erlbaum, pp. 1–61
 * –––, 2008, “Free Will is Un-natural”, in Baer, Kaufman, and Baumeister 2008: 128–54
-* Bargh, John A. and Tanya L. Chartrand, 1999, “The Unbearable Automaticity of Being”, _American Psychologist_, 54(7): 462–79. doi:10.1037/0003-066X.54.7.462
-* Bargh, John A., and Melissa J. Ferguson, 2000, “Beyond Behaviorism: On the Automaticity of Higher Mental Processes”, _Psychological Bulletin_, 126(6): 925–45. doi:10.1037/0033-2909.126.6.925
-* Baumeister, Roy F., 2008, “Free Will in Scientific Psychology”, _Perspectives of Psychological Science_, 3(1): 14–19. doi:10.1111/j.1745-6916.2008.00057.x
-* Baumeister, Roy F., E.J. Masicampo, and C. Nathan DeWall, 2009, “Prosocial Benefits of Feeling Free: Disbelief in Free Will Increases Aggression and Reduces Helpfulness”, _Personality and Social Psychology Bulletin_, 35(2): 260–68. doi:10.1177/0146167208327217
-* Bentham, Jeremy, 1823 \[1948], _An Introduction to the Principles of Morals and Legislation_, New York: Macmillan.
-* Berman, Mitchell N., 2008, “Punishment and Justification”, _Ethics_, 118(2): 258–90. doi:10.1086/527424
-* –––, 2013, “Rehabilitating Retributivism”, _Law and Philosophy_, 32(1): 83–108. doi:10.1007/s10982-012-9146-1
-* Bernstein, Mark, 2005, “Can We Ever be Really, Truly, Ultimately Free?”, _Midwest Studies in Philosophy_, 29: 1–12. doi:10.1111/j.1475-4975.2005.00102.x
-* Bloom, Paul, 2004, _Descartes’ Baby: How the Science of Child Development Explains What Makes Us Human_, New York: Basic Books.
+* Bargh, John A. and Tanya L. Chartrand, 1999, “The Unbearable Automaticity of Being”, *American Psychologist*, 54(7): 462–79. doi:10.1037/0003-066X.54.7.462
+* Bargh, John A., and Melissa J. Ferguson, 2000, “Beyond Behaviorism: On the Automaticity of Higher Mental Processes”, *Psychological Bulletin*, 126(6): 925–45. doi:10.1037/0033-2909.126.6.925
+* Baumeister, Roy F., 2008, “Free Will in Scientific Psychology”, *Perspectives of Psychological Science*, 3(1): 14–19. doi:10.1111/j.1745-6916.2008.00057.x
+* Baumeister, Roy F., E.J. Masicampo, and C. Nathan DeWall, 2009, “Prosocial Benefits of Feeling Free: Disbelief in Free Will Increases Aggression and Reduces Helpfulness”, *Personality and Social Psychology Bulletin*, 35(2): 260–68. doi:10.1177/0146167208327217
+* Bentham, Jeremy, 1823 \[1948], *An Introduction to the Principles of Morals and Legislation*, New York: Macmillan.
+* Berman, Mitchell N., 2008, “Punishment and Justification”, *Ethics*, 118(2): 258–90. doi:10.1086/527424
+* –––, 2013, “Rehabilitating Retributivism”, *Law and Philosophy*, 32(1): 83–108. doi:10.1007/s10982-012-9146-1
+* Bernstein, Mark, 2005, “Can We Ever be Really, Truly, Ultimately Free?”, *Midwest Studies in Philosophy*, 29: 1–12. doi:10.1111/j.1475-4975.2005.00102.x
+* Bloom, Paul, 2004, *Descartes’ Baby: How the Science of Child Development Explains What Makes Us Human*, New York: Basic Books.
 * Bok, Hilary, 1998, Freedom and Responsibility. Princeton: Princeton University Press.
-* Boonin, David, 2008, _The Problem of Punishment_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511819254
-* Braithwaite, John and Philip Pettit, 1990, _Not Just Deserts: A Republican Theory of Criminal Justice_, New York: Oxford University Press.
-* Brink, David O., 2013, “Situationism, Responsibility, and Fair Opportunity”, _Social Philosophy and Policy_, 30(1–2): 121–49. doi:10.1017/S026505251300006X
-* Brooks, Thom, 2012, _Punishment_, New York: Routledge.
-* Buckwalter, Wesley and John Turri, 2015, “Inability and Obligation in Moral Judgment”, _PloS One_, 10(8): 1–20. doi:10.1371/journal.pone.0136589
-* Callender, John S., 2010, _Free Will and Responsibility: A Guide for Practitioners_, New York: Oxford University Press. doi:10.1093/med/9780199545551.001.1
-* Campbell, Charles Arthur, 1957, _On Selfhood and Godhood_, London: George Allen & Unwin.
-* Capes, Justin A., 2013, “Mitigating Soft Compatibilism”, _Philosophy and Phenomenological Research_, 87(3): 640–663. doi:10.1111/j.1933-1592.2012.00579.x
-* –––, forthcoming, “Manipulation and Direct Arguments”, in J. Campbell (ed.), _A Companion to Free Will_, New York: Wiley-Blackwell.
-* Carey, Benedict and Michael Roston, 2015, “Three Popular Psychology Studies That Didn’t Hold Up”, _New York Times_, 28 August 2015, Science Section.
-* Carey, Jasmine M., and Delroy L. Paulhus, 2013, “Worldview Implications of Believing in Free Will and/or Determinism: Politics, Morality, and Punitiveness”, _Journal of Personality_, 81(2): 130–41. doi:10.1111/j.1467-6494.2012.00799.x
-* Caruso, Gregg D., 2012, _Free Will and Consciousness: A Determinist Account of the Illusion of Free Will_, Lanham, MD: Lexington Books.
-* ––– (ed.), 2013, _Exploring the Illusion of Free Will and Moral Responsibility_, Lanham, MD: Lexington Books.
-* –––, 2015a, “If Consciousness is Necessary for Moral Responsibility, then People are Less Responsible than We Think”, _Journal of Consciousness Studies_, 22(7–8): 49–60.
-* –––, 2015b, “Free Will Eliminativism: Reference, Error, and Phenomenology”, _Philosophical Studies_, 172(10): 2823–2833. doi:10.1007/s11098-015-0453-x
-* –––, 2016, “Free Will Skepticism and Criminal Behavior: A Public Health-Quarantine Model”, _Southwest Philosophy Review_, 32(1): 25–48. doi:10.5840/swphilreview20163214 \[[Caruso 2016 available online from author](http://nebula.wsimg.com/6397241f2c023fab89889057fc21b735?AccessKeyId=57C0F200619988621A8D)]
+* Boonin, David, 2008, *The Problem of Punishment*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511819254
+* Braithwaite, John and Philip Pettit, 1990, *Not Just Deserts: A Republican Theory of Criminal Justice*, New York: Oxford University Press.
+* Brink, David O., 2013, “Situationism, Responsibility, and Fair Opportunity”, *Social Philosophy and Policy*, 30(1–2): 121–49. doi:10.1017/S026505251300006X
+* Brooks, Thom, 2012, *Punishment*, New York: Routledge.
+* Buckwalter, Wesley and John Turri, 2015, “Inability and Obligation in Moral Judgment”, *PloS One*, 10(8): 1–20. doi:10.1371/journal.pone.0136589
+* Callender, John S., 2010, *Free Will and Responsibility: A Guide for Practitioners*, New York: Oxford University Press. doi:10.1093/med/9780199545551.001.1
+* Campbell, Charles Arthur, 1957, *On Selfhood and Godhood*, London: George Allen & Unwin.
+* Capes, Justin A., 2013, “Mitigating Soft Compatibilism”, *Philosophy and Phenomenological Research*, 87(3): 640–663. doi:10.1111/j.1933-1592.2012.00579.x
+* –––, forthcoming, “Manipulation and Direct Arguments”, in J. Campbell (ed.), *A Companion to Free Will*, New York: Wiley-Blackwell.
+* Carey, Benedict and Michael Roston, 2015, “Three Popular Psychology Studies That Didn’t Hold Up”, *New York Times*, 28 August 2015, Science Section.
+* Carey, Jasmine M., and Delroy L. Paulhus, 2013, “Worldview Implications of Believing in Free Will and/or Determinism: Politics, Morality, and Punitiveness”, *Journal of Personality*, 81(2): 130–41. doi:10.1111/j.1467-6494.2012.00799.x
+* Caruso, Gregg D., 2012, *Free Will and Consciousness: A Determinist Account of the Illusion of Free Will*, Lanham, MD: Lexington Books.
+* ––– (ed.), 2013, *Exploring the Illusion of Free Will and Moral Responsibility*, Lanham, MD: Lexington Books.
+* –––, 2015a, “If Consciousness is Necessary for Moral Responsibility, then People are Less Responsible than We Think”, *Journal of Consciousness Studies*, 22(7–8): 49–60.
+* –––, 2015b, “Free Will Eliminativism: Reference, Error, and Phenomenology”, *Philosophical Studies*, 172(10): 2823–2833. doi:10.1007/s11098-015-0453-x
+* –––, 2016, “Free Will Skepticism and Criminal Behavior: A Public Health-Quarantine Model”, *Southwest Philosophy Review*, 32(1): 25–48. doi:10.5840/swphilreview20163214 \[[Caruso 2016 available online from author](http://nebula.wsimg.com/6397241f2c023fab89889057fc21b735?AccessKeyId=57C0F200619988621A8D)]
 * –––, 2017, Public Health and Safety: The Social Determinants of Health and Criminal Behavior. UK: ResearchLinksBooks.
-* –––, forthcoming-a, “The Public Health-Quarantine Model”, in Dana Nelkin and Derk Pereboom (eds.), _Oxford Handbook of Moral Responsibility_, New York: Oxford University Press.
-* –––, forthcoming-b, “Free Will Skepticism and Its Implications: An Agument for Optimism”, In E. Shaw, D. Pereboom, and G. Caruso (eds.), _Free Will Skepticism in Law and Society_, Cambridge: Cambridge University Press. \[[Caruso forthcoming-c preprint available online from the author](http://nebula.wsimg.com/b828161073a2678eb7f15ebd5ee53821?AccessKeyId=57C0F200619988621A8D\&disposition=0\&alloworigin=1)]
-* Caruso, Gregg D. and Owen Flanagan (eds.), forthcoming, _Neuroexistentialism: Meaning, Morals, and Purpose in the Age of Neuroscience_, New York: Oxford University Press.
-* Caruso, Gregg D. and Stephen G. Morris, 2017, “Compatibilism and Retributivist Desert Moral Responsibility: On What is of Central Philosophical and Practical Importance”, _Erkenntnis_, 82(4): 837–55. doi:10.1007/s10670-016-9846-2
-* Caspar, Emilie A., Laurène Vuillaume, Pedro A. Magalhães De Saldanha da Gama, and Axel Cleeremans, 2017, “The Influence of (Dis)belief in Free Will on Immoral Behavior”, _Frontiers in Psychology_, 8: 20. doi:10.3389/fpsyg.2017.00020
-* Chituc, Vladimir, Paul Henne, Walter Sinnott-Armstrong, and Felipe De Brigard, 2016, “Blame, Not Ability, Impacts Moral ‘Ought’ Judgments for Impossible Actions: Toward an Empirical Refutation of ‘Ought’ Implies ‘Can’”, _Cognition_, 150: 20–25. doi:10.1016/j.cognition.2016.01.013
-* Ciurria, Michelle, 2013, “Situationism, Moral Responsibility and Blame”, _Philosophia_, 41(1): 179–193. doi:10.1007/s11406-012-9382-5
-* Clark, Cory J., James B. Luguri, Peter H. Ditto, Joshua Knobe, Azim F. Shariff, and Roy F. Baumeister, 2014, “Free to Punish: A Motivated Account of Free Will Belief”, _Journal of Personality and Social Psychology_, 106(4): 501–13. doi:10.1037/a0035880
+* –––, forthcoming-a, “The Public Health-Quarantine Model”, in Dana Nelkin and Derk Pereboom (eds.), *Oxford Handbook of Moral Responsibility*, New York: Oxford University Press.
+* –––, forthcoming-b, “Free Will Skepticism and Its Implications: An Agument for Optimism”, In E. Shaw, D. Pereboom, and G. Caruso (eds.), *Free Will Skepticism in Law and Society*, Cambridge: Cambridge University Press. \[[Caruso forthcoming-c preprint available online from the author](http://nebula.wsimg.com/b828161073a2678eb7f15ebd5ee53821?AccessKeyId=57C0F200619988621A8D\&disposition=0\&alloworigin=1)]
+* Caruso, Gregg D. and Owen Flanagan (eds.), forthcoming, *Neuroexistentialism: Meaning, Morals, and Purpose in the Age of Neuroscience*, New York: Oxford University Press.
+* Caruso, Gregg D. and Stephen G. Morris, 2017, “Compatibilism and Retributivist Desert Moral Responsibility: On What is of Central Philosophical and Practical Importance”, *Erkenntnis*, 82(4): 837–55. doi:10.1007/s10670-016-9846-2
+* Caspar, Emilie A., Laurène Vuillaume, Pedro A. Magalhães De Saldanha da Gama, and Axel Cleeremans, 2017, “The Influence of (Dis)belief in Free Will on Immoral Behavior”, *Frontiers in Psychology*, 8: 20. doi:10.3389/fpsyg.2017.00020
+* Chituc, Vladimir, Paul Henne, Walter Sinnott-Armstrong, and Felipe De Brigard, 2016, “Blame, Not Ability, Impacts Moral ‘Ought’ Judgments for Impossible Actions: Toward an Empirical Refutation of ‘Ought’ Implies ‘Can’”, *Cognition*, 150: 20–25. doi:10.1016/j.cognition.2016.01.013
+* Ciurria, Michelle, 2013, “Situationism, Moral Responsibility and Blame”, *Philosophia*, 41(1): 179–193. doi:10.1007/s11406-012-9382-5
+* Clark, Cory J., James B. Luguri, Peter H. Ditto, Joshua Knobe, Azim F. Shariff, and Roy F. Baumeister, 2014, “Free to Punish: A Motivated Account of Free Will Belief”, *Journal of Personality and Social Psychology*, 106(4): 501–13. doi:10.1037/a0035880
 * Clark, Thomas W., 2013, “Experience and Autonomy: Why Consciousness Does and Doesn’t Matter”, in Caruso 2013: 239–254.
-* Clarke, Randolph, 2005a, “On an Argument for the Impossibility of Moral Responsibility”, _Midwest Studies in Philosophy_, 29: 13–24. doi:10.1111/j.1475-4975.2005.00103.x
-* –––, 2005b, “Agent Causation and the Problem of Luck”, _Pacific Philosophical Quarterly_, 86(3): 408–21. doi:10.1111/j.1468-0114.2005.00234.x
-* Coates, D. Justin, 2017, “The Basic Argument and Modest Moral Responsibility”, _Analytic Philosophy_, 58(2): 156–170. doi:10.1111/phib.12095
-* Coffman, E.J., 2007, “Thinking About Luck”, _Synthese_, 158(3): 385–98. doi:10.1007/s11229-006-9046-8
-* –––, 2015, _Luck: Its Nature and Significance for Human Knowledge and Agency_, New York: Palgrave Macmillan.
-* Cohen, Yishai, forthcoming, “An Analysis of Recent Empirical Data on ‘Ought’ Implies ‘Can’”, _Philosophia_, early online: 8 August 2017. doi:10.1007/s11406-017-9892-2
-* Copleston, F.C., 1965/1948, “The Existence of God: A Debate”, in Paul Edwards and Arthur Pap (eds.), _A Modern Introduction to Philosophy_, revised edition, New York: The Free Press. Original debate with B. Russell in 1948.
-* Corrado, Michael Louis, 1996, “Punishment, Quarantine, and Preventive Detention”, _Criminal Justice Ethics_, 15(2): 3–13. doi:10.1080/0731129X.1996.9992013
-* –––, 2001, “The Abolition of Punishment”, _Suffolk University Law Review_, 35(257): 1–15.
+* Clarke, Randolph, 2005a, “On an Argument for the Impossibility of Moral Responsibility”, *Midwest Studies in Philosophy*, 29: 13–24. doi:10.1111/j.1475-4975.2005.00103.x
+* –––, 2005b, “Agent Causation and the Problem of Luck”, *Pacific Philosophical Quarterly*, 86(3): 408–21. doi:10.1111/j.1468-0114.2005.00234.x
+* Coates, D. Justin, 2017, “The Basic Argument and Modest Moral Responsibility”, *Analytic Philosophy*, 58(2): 156–170. doi:10.1111/phib.12095
+* Coffman, E.J., 2007, “Thinking About Luck”, *Synthese*, 158(3): 385–98. doi:10.1007/s11229-006-9046-8
+* –––, 2015, *Luck: Its Nature and Significance for Human Knowledge and Agency*, New York: Palgrave Macmillan.
+* Cohen, Yishai, forthcoming, “An Analysis of Recent Empirical Data on ‘Ought’ Implies ‘Can’”, *Philosophia*, early online: 8 August 2017. doi:10.1007/s11406-017-9892-2
+* Copleston, F.C., 1965/1948, “The Existence of God: A Debate”, in Paul Edwards and Arthur Pap (eds.), *A Modern Introduction to Philosophy*, revised edition, New York: The Free Press. Original debate with B. Russell in 1948.
+* Corrado, Michael Louis, 1996, “Punishment, Quarantine, and Preventive Detention”, *Criminal Justice Ethics*, 15(2): 3–13. doi:10.1080/0731129X.1996.9992013
+* –––, 2001, “The Abolition of Punishment”, *Suffolk University Law Review*, 35(257): 1–15.
 * –––, 2013, “Why Do We Resist Hard Incompatibilism? Some Thoughts on Freedom and Determinism”, in Nadelhoffer 2013: 79–106. doi:10.1093/acprof:oso/9780199779208.003.0004
-* –––, 2014, “Withdrawal Pains: Giving Up Desert”, _UNC Legal Studies Research Paper_, SSRN 2599039. doi:10.2139/ssrn.2599039
-* –––, 2017a, “Doing Without Desert”, In A. McCay and M. Sevel (eds.), _Free Will and the Law: New Perspectives_, New York: Routledge.
-* –––, 2017b, “Punishment and the Burden of Proof”, _UNC Legal Studies Research Paper_ SSRN 2997654. doi:10.2139/ssrn.2997654
-* –––, forthcoming, _Punishment and Preventive Detention in American Law_, Toronto: University of Toronto.
-* Dagger, Richard, 2011, “Jean Hampton’s Theory of Punishment: A Critical Appreciation”, _APA Newsletter on Philosophy and Law_, 10(2): 6–11.
-* Dalbert, Claudia, and Lois A. Yamauchi, 1994, “Belief in a Just World and Attitudes Toward Immigrants and Foreign Workers: A Cultural Comparison Between Hawaii and Germany”, _Journal of Applied Social Psychology_, 24(18): 1612–1626. doi:10.1111/j.1559-1816.1994.tb01565.x
-* Deery, Oisín, 2015. “The Fall from Eden: Why Libertarianism Isn’t Justified by Experience”, _Australasian Journal of Philosophy_, 93(2): 319–334. doi:10.1080/00048402.2014.968596
+* –––, 2014, “Withdrawal Pains: Giving Up Desert”, *UNC Legal Studies Research Paper*, SSRN 2599039. doi:10.2139/ssrn.2599039
+* –––, 2017a, “Doing Without Desert”, In A. McCay and M. Sevel (eds.), *Free Will and the Law: New Perspectives*, New York: Routledge.
+* –––, 2017b, “Punishment and the Burden of Proof”, *UNC Legal Studies Research Paper* SSRN 2997654. doi:10.2139/ssrn.2997654
+* –––, forthcoming, *Punishment and Preventive Detention in American Law*, Toronto: University of Toronto.
+* Dagger, Richard, 2011, “Jean Hampton’s Theory of Punishment: A Critical Appreciation”, *APA Newsletter on Philosophy and Law*, 10(2): 6–11.
+* Dalbert, Claudia, and Lois A. Yamauchi, 1994, “Belief in a Just World and Attitudes Toward Immigrants and Foreign Workers: A Cultural Comparison Between Hawaii and Germany”, *Journal of Applied Social Psychology*, 24(18): 1612–1626. doi:10.1111/j.1559-1816.1994.tb01565.x
+* Deery, Oisín, 2015. “The Fall from Eden: Why Libertarianism Isn’t Justified by Experience”, *Australasian Journal of Philosophy*, 93(2): 319–334. doi:10.1080/00048402.2014.968596
 * Deery, Oisín, Matt S. Bedke, and Shaun Nichols, 2013, “Phenomenal Abilities: Incompatibilism and the Experience of Agency”, in Shoemaker 2013: 126–50. doi:10.1093/acprof:oso/9780199694853.003.0006
-* Deery, Oisín and Eddy Nahmias, 2017, “Defeating Manipulation Arguments: Interventionist Causation and Compatibilist Sourcehood”, _Philosophical Studies_, 174(5): 1255–1276. doi:10.1007/s11098-016-0754-8
-* Demertzi, Athena, Charlene Liew, Didier Ledoux, Marie-Aurélie Bruno, Michael Sharpe, Steven Laureys, and Adam Zeman, 2009, “Dualism Persists in the Science of Mind”, _Annals of the New York Academy of Sciences_, 1157: 1–9. doi:10.1111/j.1749-6632.2008.04117.x
-* Dennett, Daniel C., 2003, _Freedom Evolves_, New York: Viking Press.
-* d’Holbach, Paul-Henri Thiry, 1770, _The System of Nature_ (_Système de la Nature ou Des Loix du Monde Physique et du Monde Moral_), Amsterdam. Translated by M. De Mirabaud.
-* Doris, John M., 2002, _Lack of Character: Personality and Moral Behavior_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139878364
-* –––, 2015, _Talking to Our Selves: Reflection, Ignorance, and Agency_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199570393.001.0001
-* Driver, Julia, 2012, “Luck and Fortune in Moral Evaluation”, in Martijn Blaauw (ed.), _Contrastivism in Philosophy: New Perspectives_, New York: Routledge, pp. 154–72
-* Drucker, Merrit P., 1986, “How the Moral Education Theory of Punishment Can Be Used by Military Commanders”, _International Journal of Applied Philosophy_, 3(2): 61–68. doi:10.5840/ijap19863220
-* Duff, Anthony and Zachary Hoskins, 2017, “Legal Punishment”, _Stanford Encyclopedia of Philosophy_, (Fall 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2017/entries/legal-punishment/](https://plato.stanford.edu/archives/fall2017/entries/legal-punishment/)
+* Deery, Oisín and Eddy Nahmias, 2017, “Defeating Manipulation Arguments: Interventionist Causation and Compatibilist Sourcehood”, *Philosophical Studies*, 174(5): 1255–1276. doi:10.1007/s11098-016-0754-8
+* Demertzi, Athena, Charlene Liew, Didier Ledoux, Marie-Aurélie Bruno, Michael Sharpe, Steven Laureys, and Adam Zeman, 2009, “Dualism Persists in the Science of Mind”, *Annals of the New York Academy of Sciences*, 1157: 1–9. doi:10.1111/j.1749-6632.2008.04117.x
+* Dennett, Daniel C., 2003, *Freedom Evolves*, New York: Viking Press.
+* d’Holbach, Paul-Henri Thiry, 1770, *The System of Nature* (*Système de la Nature ou Des Loix du Monde Physique et du Monde Moral*), Amsterdam. Translated by M. De Mirabaud.
+* Doris, John M., 2002, *Lack of Character: Personality and Moral Behavior*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139878364
+* –––, 2015, *Talking to Our Selves: Reflection, Ignorance, and Agency*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199570393.001.0001
+* Driver, Julia, 2012, “Luck and Fortune in Moral Evaluation”, in Martijn Blaauw (ed.), *Contrastivism in Philosophy: New Perspectives*, New York: Routledge, pp. 154–72
+* Drucker, Merrit P., 1986, “How the Moral Education Theory of Punishment Can Be Used by Military Commanders”, *International Journal of Applied Philosophy*, 3(2): 61–68. doi:10.5840/ijap19863220
+* Duff, Anthony and Zachary Hoskins, 2017, “Legal Punishment”, *Stanford Encyclopedia of Philosophy*, (Fall 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2017/entries/legal-punishment/](https://plato.stanford.edu/archives/fall2017/entries/legal-punishment/)
 * Edmundson, William A., 2007, “Morality Without Responsibility”, Manuscript on file with author. doi:10.2139/ssrn.1004904. Available at SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=1004904](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=1004904)
-* Ekstrom, Laura Waddell, 2000, _Free Will: A Philosophical Study_, Boulder, CO: Westview.
-* Ellis, Anthony, 2003, “A Deterrence Theory of Punishment”, _The Philosophical Quarterly_, 53(212): 337–351. doi:10.1111/1467-9213.00316
-* –––, 2005, “Punishment as Deterrence: Reply to Sprague”, _The Philosophical Quarterly_, 55(218): 98–101. doi:10.1111/j.0031-8094.2005.00388.x
-* Eshleman, Andrew, 2014, “Moral Responsibility”, _Stanford Encyclopedia of Philosophy_, (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/moral-responsibility/](https://plato.stanford.edu/archives/win2016/entries/moral-responsibility/)
-* Fahrenberg, Jochen and Marcus Cheetham, 2000, “The Mind-Body Problem as Seen by Students of Different Disciplines”, _Journal of Consciousness Studies_, 7(5): 47–59.
-* Feltz, Adam, 2012, “Pereboom and Premises: Asking the Right Questions in the Experimental Philosophy of Free Will”, _Consciousness and Cognition_, 22(1): 53–63. doi:10.1016/j.concog.2012.11.007
-* Fischer, John Martin, 2004, “Free Will and Moral Responsibility”, in David Copp (ed.), _The Oxford Handbook of Ethical Theory_, New York: Oxford University Press: pp.321–56.
-* –––, 2006, “The Cards That Are Dealt You”, _The Journal of Ethics_, 10(1–2): 107–129. doi:10.1007/s10892-005-4594-6
+* Ekstrom, Laura Waddell, 2000, *Free Will: A Philosophical Study*, Boulder, CO: Westview.
+* Ellis, Anthony, 2003, “A Deterrence Theory of Punishment”, *The Philosophical Quarterly*, 53(212): 337–351. doi:10.1111/1467-9213.00316
+* –––, 2005, “Punishment as Deterrence: Reply to Sprague”, *The Philosophical Quarterly*, 55(218): 98–101. doi:10.1111/j.0031-8094.2005.00388.x
+* Eshleman, Andrew, 2014, “Moral Responsibility”, *Stanford Encyclopedia of Philosophy*, (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/moral-responsibility/](https://plato.stanford.edu/archives/win2016/entries/moral-responsibility/)
+* Fahrenberg, Jochen and Marcus Cheetham, 2000, “The Mind-Body Problem as Seen by Students of Different Disciplines”, *Journal of Consciousness Studies*, 7(5): 47–59.
+* Feltz, Adam, 2012, “Pereboom and Premises: Asking the Right Questions in the Experimental Philosophy of Free Will”, *Consciousness and Cognition*, 22(1): 53–63. doi:10.1016/j.concog.2012.11.007
+* Fischer, John Martin, 2004, “Free Will and Moral Responsibility”, in David Copp (ed.), *The Oxford Handbook of Ethical Theory*, New York: Oxford University Press: pp.321–56.
+* –––, 2006, “The Cards That Are Dealt You”, *The Journal of Ethics*, 10(1–2): 107–129. doi:10.1007/s10892-005-4594-6
 * –––, 2007, “Compatibilism” and “Responses to Kane, Pereboom, and Vargas”, in Fischer et al. 2007: 44–84; 184–90.
-* –––, 2011, “The Zygote Argument Remixed”, _Analysis_, 71(2): 267–272. doi:10.1093/analys/anr008
-* –––, 2014, “Review of _Free Will, Agency, and Meaning in Life_ by Derk Pereboom”, _Science, Religion and Culture_, 1(3): 202–08. \[[Fischer 2014 available online](http://researcherslinks.com/current-issues/Review-of-Free-Will-Agency-and-Meaning-in-Life-by-Derk-Pereboom/9/13/52)]
-* Fischer, John Martin, Robert Kane, Derk Pereboom, and Manuel Vargas (eds.) 2007, _Four Views on Free Will_, Oxford: Blackwell Publishers.
-* Fischer, John Martin and Mark Ravizza, 1998, _Responsibility and Control: A Theory of Moral Responsibility_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511814594
-* Flanagan, Owen, 2016, _The Geography of Morals: Varieties of Moral Possibility_, New York: Oxford University Press.
+* –––, 2011, “The Zygote Argument Remixed”, *Analysis*, 71(2): 267–272. doi:10.1093/analys/anr008
+* –––, 2014, “Review of *Free Will, Agency, and Meaning in Life* by Derk Pereboom”, *Science, Religion and Culture*, 1(3): 202–08. \[[Fischer 2014 available online](http://researcherslinks.com/current-issues/Review-of-Free-Will-Agency-and-Meaning-in-Life-by-Derk-Pereboom/9/13/52)]
+* Fischer, John Martin, Robert Kane, Derk Pereboom, and Manuel Vargas (eds.) 2007, *Four Views on Free Will*, Oxford: Blackwell Publishers.
+* Fischer, John Martin and Mark Ravizza, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511814594
+* Flanagan, Owen, 2016, *The Geography of Morals: Varieties of Moral Possibility*, New York: Oxford University Press.
 * Focquaert, Farah, Andrea Glenn, and Adrien Raine, 2013, “Free will, Responsibility and Punishment of Criminals”, in Nadelhoffer 2013: 247–274. doi:10.1093/acprof:oso/9780199779208.003.0012
 * –––, forthcoming, “Free Will, Freedom and Criminal Behavior”, in Caruso & Flanagan forthcoming.
-* Frankfurt, Harry G., 1971, “Freedom of the Will and the Concept of a Person”, _Journal of Philosophy_, 68(1): 5–20. doi:10.2307/2024717
-* Furnham, Adrian, 2003, “Belief in a Just World: Research Progress Over the Past Decade”, _Personality and Individual Differences_, 34(5): 795–817. doi:10.1016/S0191-8869(02)00072-7
-* Furnham, Adrian and Barrie Gunter, 1984, “Just World Beliefs and Attitudes Towards the Poor”, _British Journal of Social Psychology_, 23(3): 265–69. doi:10.1111/j.2044-8309.1984.tb00637.x
-* Graham, Peter A., 2011, “‘Ought’ and Ability”, _Philosophical Review_, 120(3): 337–382. doi:10.1215/00318108-1263674
-* Greene, Joshua and Jonathan Cohen, 2004, “For the Law, Neuroscience Changes Nothing and Everything”, _Philosophical Transactions of the Royal Society of London B_, 359(1451): 1775–1785. doi:10.1098/rstb.2004.1546
-* Greenwald, Anthony G., Debbie E. McGhee, and Jordan L.K. Schwartz, 1998, “Measuring Individual Differences in Implicit Cognition: The Implicit Association Test”, _Journal of Personality and Social Psychology_, 74( 6): 1464–1480. doi:10.1037/0022-3514.74.6.1464
-* Haggard, Patrick and Martin. Eimer, 1999, “On the Relation Between Brain Potentials and the Awareness of Voluntary Movements”, _Experimental Brain Research_, 126(1): 128–33. doi:10.1007/s002210050722
-* Haji, Ishtiyaque, 1998, _Moral Accountability_, New York: Oxford University Press.
-* –––, 2001, “Control Conundrums: Modest Libertarianism, Responsibility, and Explanation”, _Pacific Philosophical Quarterly_, 82(2): 178–200. doi:10.1111/1468-0114.00124
-* –––, 2002, _Deontic Morality and Control_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498794
-* –––, 2003, “Alternative Possibilities, Luck, and Moral Responsibility”, _The Journal of Ethics_, 7(3): 253–275. doi:10.1023/A:1024693312558
-* –––, 2004, “Active Control, Agent-Causation and Free Action”, _Philosophical Explorations_, 7(2): 131–148. doi:10.1080/13869790410001694480
-* –––, 2005, “Libertarianism, Luck, and Action Explanation”, _Journal of Philosophical Research_, 30: 321–340. doi:10.5840/jpr20053041
-* –––, 2014, “Event-Causal Libertarianism’s Control Conundrum”, _Grazer Philosophische Studien_, 88: 227–246.
-* –––, 2016, _Luck’s Mischief_, New York: Oxford University Press.
-* Haji, Ishtiyaque and Stefaan E. Cuypers, 2006, “Hard- and Soft-Line Responses to Pereboom’s Four-Case Manipulation Argument”, _Acta Analytica_, 21(4): 19–35.
-* Hales, Steven D., 2015, “A Problem for Moral Luck”, _Philosophical Studies_, 172(9): 2385–2403. doi:10.1007/s11098-014-0417-6
-* –––, 2016, “Why Every Theory of Luck is Wrong”, _Noûs_, 50(3): 490–508. doi:10.1111/nous.12076
-* Hampton, Jean, 1984, “The Moral Education Theory of Punishment”, _Philosophy and Public Affairs_, 13(3): 208–238.
+* Frankfurt, Harry G., 1971, “Freedom of the Will and the Concept of a Person”, *Journal of Philosophy*, 68(1): 5–20. doi:10.2307/2024717
+* Furnham, Adrian, 2003, “Belief in a Just World: Research Progress Over the Past Decade”, *Personality and Individual Differences*, 34(5): 795–817. doi:10.1016/S0191-8869(02)00072-7
+* Furnham, Adrian and Barrie Gunter, 1984, “Just World Beliefs and Attitudes Towards the Poor”, *British Journal of Social Psychology*, 23(3): 265–69. doi:10.1111/j.2044-8309.1984.tb00637.x
+* Graham, Peter A., 2011, “‘Ought’ and Ability”, *Philosophical Review*, 120(3): 337–382. doi:10.1215/00318108-1263674
+* Greene, Joshua and Jonathan Cohen, 2004, “For the Law, Neuroscience Changes Nothing and Everything”, *Philosophical Transactions of the Royal Society of London B*, 359(1451): 1775–1785. doi:10.1098/rstb.2004.1546
+* Greenwald, Anthony G., Debbie E. McGhee, and Jordan L.K. Schwartz, 1998, “Measuring Individual Differences in Implicit Cognition: The Implicit Association Test”, *Journal of Personality and Social Psychology*, 74( 6): 1464–1480. doi:10.1037/0022-3514.74.6.1464
+* Haggard, Patrick and Martin. Eimer, 1999, “On the Relation Between Brain Potentials and the Awareness of Voluntary Movements”, *Experimental Brain Research*, 126(1): 128–33. doi:10.1007/s002210050722
+* Haji, Ishtiyaque, 1998, *Moral Accountability*, New York: Oxford University Press.
+* –––, 2001, “Control Conundrums: Modest Libertarianism, Responsibility, and Explanation”, *Pacific Philosophical Quarterly*, 82(2): 178–200. doi:10.1111/1468-0114.00124
+* –––, 2002, *Deontic Morality and Control*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498794
+* –––, 2003, “Alternative Possibilities, Luck, and Moral Responsibility”, *The Journal of Ethics*, 7(3): 253–275. doi:10.1023/A:1024693312558
+* –––, 2004, “Active Control, Agent-Causation and Free Action”, *Philosophical Explorations*, 7(2): 131–148. doi:10.1080/13869790410001694480
+* –––, 2005, “Libertarianism, Luck, and Action Explanation”, *Journal of Philosophical Research*, 30: 321–340. doi:10.5840/jpr20053041
+* –––, 2014, “Event-Causal Libertarianism’s Control Conundrum”, *Grazer Philosophische Studien*, 88: 227–246.
+* –––, 2016, *Luck’s Mischief*, New York: Oxford University Press.
+* Haji, Ishtiyaque and Stefaan E. Cuypers, 2006, “Hard- and Soft-Line Responses to Pereboom’s Four-Case Manipulation Argument”, *Acta Analytica*, 21(4): 19–35.
+* Hales, Steven D., 2015, “A Problem for Moral Luck”, *Philosophical Studies*, 172(9): 2385–2403. doi:10.1007/s11098-014-0417-6
+* –––, 2016, “Why Every Theory of Luck is Wrong”, *Noûs*, 50(3): 490–508. doi:10.1111/nous.12076
+* Hampton, Jean, 1984, “The Moral Education Theory of Punishment”, *Philosophy and Public Affairs*, 13(3): 208–238.
 * Hare, R.M., 1981, “Moral Thinking: Its Levels, Methods, and Points”, New York: Oxford University Press.
-* Harper, David J. and Paul R. Manasse, 1992, “The Just World and the Third World: British Explanations for Poverty Abroad”, _Journal of Social Psychology_, 132(6): 783–785. doi:10.1080/00224545.1992.9712107
-* Harris, Sam, 2012, _Free Will_, New York: Free Press.
-* Hart, H.L.A., 1968, _Punishment and Responsibility_, New York: Oxford University Press.
-* Hartman, Robert J., 2017, _In Defense of Moral Luck: Why Luck Often Affects Praiseworthiness and Blameworthiness_, New York: Routledge.
-* Henne, Paul, Vladimir Chituc, Felipe De Brigard, and Walter Sinnott-Armstrong, 2016, “An Empirical Refutation of ‘Ought’ Implies ‘Can’”, _Analysis_, 76(3): 283–290. doi:10.1093/analys/anw041
-* Herdova, Marcela, 2016, “What You Don’t Know Can Hurt You: Situationism, Conscious Awareness, Control”, _Journal of Cognition and Neuroethics_, 4(1): 45–71. \[[Herdova 2016 available online (pdf)](http://jcn.cognethic.org/jcnv4i1\_Herdova.pdf)]
-* Hintz, Howard W., 1958, “Some Further Reflections on Moral Responsibility”, in Sidney Hook (ed.), _Determinism and Freedom in the Age of Modern Science_, New York: New York University Press, pp. 176–79.
-* Hodgson, David, 2005, “A Plain Person’s Free Will”, _Journal of Consciousness Studies_, 12(1): 1–19.
-* –––, 2012, _Rationality + Consciousness = Free Will_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199845309.001.0001
-* Honderich, Ted, 1988, _A Theory of Determinism: The Mind, Neuroscience, and Life-Hopes_, Oxford: Oxford University Press.
-* –––, 2002, _How Free Are You? The Determinism Problem_, 2nd ed., Oxford: Oxford University Press.
-* –––, 2006, _Punishment: The Supposed Justifications Revisited_, Revised Edition, London: Pluto Press.
-* Hoskins, Zachary, 2011, “Deterrent Punishment and Respect for Persons”, _Ohio State Journal of Criminal Law_, 8(2): 369–84.
-* Hurley, S.L., 2000, “Is Responsibility Essentially Impossible?”, _Philosophical Studies_, 99(2): 229–268. doi:10.1023/A:1018763930668
-* Istvan, Michael Anthony, 2011, “Concerning the Resilience of Galen Strawson’s Basic Argument”, _Philosophical Studies_, 155(3): 399–420. doi:10.1007/s11098-010-9578-0
-* James, William, 1884, “The Dilemma of Determinism”, _Unitarian Review_, September Issue.
-* Jeppsson, Sofia, 2016a, “Accountability, Answerability, and Freedom”, _Social Theory and Practice_, 42(4): 681–705.
-* –––, 2016b, “Reasons, Determinism and the Ability to Do Otherwise”, _Ethical Theory and Moral Practice_, 19(5): 1225–1240. doi:10.1007/s10677-016-9721-x
-* Kahneman, Daniel, 2011, _Thinking Fast and Slow_, New York: Farrar, Straus, and Giroux.
-* Kane, Robert, 1996, _The Significance of Free Will_, New York: Oxford University Press. doi:10.1093/0195126564.001.0001
-* –––, 1999, “Responsibility, Luck, and Chance: Reflections on Free Will and Indeterminism”, _Journal of Philosophy_, 96(5): 217–40. doi:10.2307/2564666
-* –––, 2000, “Responses to Bernard Berofsky, John Martin Fischer and Galen Strawson”, _Philosophy of Phenomenological Research_, 60(1): 157–167. doi:10.2307/2653436
-* Kang, Jerry and Kristin Lane, 2010, “Seeing Through Colorblindness: Implicit Bias and the Law”, _UCLA Law Review_, 58(2): 465–520.
-* Kant, Immanuel, 1781 \[1998], _Critique of Pure Reason_ (_Kritik der reinen Vernunft_), Paul Guyer and Allen W. Wood (trans/eds), Cambridge: Cambridge University Press.
-* –––, 1793 \[1998], _Religion Within the Boundaries of Mere Reason_, Allen W. Wood and George di Giovanni (trans/eds), Cambridge: Cambridge University Press.
-* King, Matt and Peter Carruthers, 2012, “Moral Responsibility and Consciousness”, _Journal of Moral Philosophy_, 9(2): 200–228. doi:10.1163/174552412X625682
-* Krueger, Frank, Morris Hoffman, Henrik Walter, and Jordan Grafman, 2014, “An fMRI Investigation of the Effects of Belief in Free Will on Third-Party Punishment”, _Social Cognitive and Affective Neuroscience_, 9(8): 1143–1149. doi:10.1093/scan/nst092
-* Kurthy, Miklos and Holly Lawford-Smith, 2015, “A Brief Note of Ambiguity of ‘ought’: Reply to Moti Mizrahi’s ‘Ought, Can, and Presuppositions: An Empirical Study’”, _Methode—Analytic Perspectives_, 4(6): 244–249.
-* Kurthy, Miklos, Holly Lawford-Smith, and Paulo Sousa, 2017, “Does Ought Imply Can?”, _PloS One_, 12(4): 1–24. doi:10.1371/journal.pone.0175206
-* Latus, Andrew, 2000, “Moral and Epistemic Luck”, _Journal of Philosophical Research_, 25: 149–72. doi:10.5840/jpr\_2000\_21
-* –––, 2003, “Constitutive Luck”, _Metaphilosophy_, 34(4): 460–475. doi:10.1111/1467-9973.00285
-* Lemos, John, 2015, “Self-forming Acts and the Grounds of Responsibility”, _Philosophia_, 43(1): 135–146. doi:10.1007/s11406-014-9561-7
-* –––, 2016, “Moral Concerns About Responsibility Denial and the Quarantine of Violent Criminals”, _Law and Philosophy_, 35(5): 461–83. doi:10.1007/s10982-016-9266-0
-* Lerner, Melvin J., 1965, “Evaluation of Performance as a Function of Performer’s Reward and Attractiveness”, _Journal of Personality and Social Psychology_, 1(4): 355–360. doi:10.1037/h0021806
-* –––, 1980, _The Belief in a Just World: A Fundamental Delusion_, New York: Plenum Press.
-* Lerner, Melvin J., and Dale T. Miller, 1978, “Just World Research and the Attribution Process: Looking Back and Ahead”, _Psychological Bulletin_, 85(5): 1030–51. doi:10.1037/0033-2909.85.5.1030
-* Lerner, Melvin J., and Carolyn H. Simmons, 1966, “Observer’s Reaction to the ‘Innocent Victim’: Compassion or Rejection?”, _Journal of Personality and Social Psychology_, 4:(2) 203–210. doi:10.1037/h0023562
-* Levy, Ken, 2015, “Does Situationism Excuse? The Implications of Situationism for Moral Responsibility and Criminal Responsibility”, _Arkansas Law Review_, 68: 731–787.
-* Levy, Neil, 2005, “Libet’s Impossible Demand”, _Journal of Consciousness Studies_, 12(12): 67–76.
-* –––, 2008, “Bad Luck Once Again”, _Philosophy and Phenomenological Research_, 77(3): 749–754. doi:10.1111/j.1933-1592.2008.00219.x
-* –––, 2009a, “Luck and History-Sensitive Compatibilism”, _Philosophical Quarterly_, 59(235): 237–51. doi:10.1111/j.1467-9213.2008.568.x
-* –––, 2009b, “Culpable Ignorance and Moral Responsibility: A Reply to Fitzpatrich”, _Ethics_, 119(4): 729–41. doi:10.1086/605018
-* –––, 2011, _Hard Luck: How Luck Undermines Free Will and Moral Responsibility_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199601387.001.0001
-* –––, 2012, “Skepticism and Sanction: The Benefit of Rejecting Moral Responsibility”, _Law and Philosophy_, 31(5): 477–93. doi:10.1007/s10982-012-9128-3
-* –––, 2014a, _Consciousness and Moral Responsibility_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198704638.001.0001
-* –––, 2014b, “Luck and Agent-Causation: A Response to Franklin”, _Criminal Law and Philosophy_, 9(4): 779–784. doi:10.1007/s11572-014-9306-5
-* –––, 2015, “Less blame, Less Crime? The Practical Implications of Moral Responsibility Skepticism”, _Journal of Practical Ethics_, 3(2): 1–17. \[[N. Levy 2015 available online](http://www.jpe.ox.ac.uk/papers/less-blame-less-crime-the-practical-implications-of-moral-responsibility-skepticism/)]
-* Libet, Benjamin, 1985, “Unconscious Cerebral Initiative and the Role of Conscious Will in Voluntary Action”, _Behavioral and Brain Science_, 8(4): 529–566. doi:10.1017/S0140525X00044903
-* –––, 1999, “Do We Have Free Will?”, _Journal of Consciousness Studies_, 6(8–9): 47–57.
-* Libet, Benjamin, Curtis A. Gleason, Elwood W. Wright, and Dennis K. Pearl, 1983, “Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential): The Unconscious Initiation of a Freely Voluntary Act”, _Brain_, 106(3): 623–642. doi:10.1093/brain/106.3.623
-* Lycan, William G., 1987, _Consciousness_, Cambridge, MA: MIT Press.
-* McCloskey, H. J., 1957, “An Examination of Restricted Utilitarianism”, _Philosophical Review_, 66(4): 466–485. doi:10.2307/2182745
-* McCormick, Kelly Anne, 2013, “Anchoring a Revisionist Account of Moral Responsibility”, _Journal of Ethics and Social Philosophy_, 7(3). doi:10.26556/jesp.v7i3.76
-* –––, 2016, “Why We Should(n’t) Be Discretionists About Free Will”, _Philosophical Studies_, 174(10): 2489–2498. doi:10.1007/s11098-016-0736-x
-* McKenna, Michael, 2008, “A Hard-Line Reply to Pereboom’s Four-Case Argument”, _Philosophy and Phenomenological Research_, 77(1): 142–159. doi:10.1111/j.1933-1592.2008.00179.x
-* –––, 2014, “Resisting the Manipulation Argument: A Hard-Liner Takes It On the Chin”, _Philosophy and Phenomenological Research_, 89(2): 467–484. doi:10.1111/phpr.12076
-* –––, 2017, “Manipulation Arguments, Basic Desert, and Moral Responsibility: Assessing Derk Pereboom’s _Free will, Agency, and Meaning in Life_”, _Criminal Law and Philosophy_, 11(3): 575–589. doi:10.1007/s11572-015-9388-8
-* McKenna, Michael and Brandon Warmke, forthcoming, “Does Situationism Threaten Free Will and Moral Responsibility?”, _Journal of Moral Philosophy_, early online: 27 January 2017. doi:10.1163/17455243-46810068
-* Mele, Alfred R., 1995, _Autonomous Agents: From Self-Control to Autonomy_, New York: Oxford University Press. doi:10.1093/0195150430.001.0001
-* –––, 1999a, “Kane, Luck, and the Significance of Free Will”, _Philosophical Explorations_, 2(2): 96–104. doi:10.1080/13869799908520970
-* –––, 1999b, “Ultimate Responsibility and Dumb Luck”, _Social Philosophy and Policy_, 16(2): 274–93. doi:10.1017/S0265052500002478
-* –––, 2005, “A Critique of Pereboom’s ‘Four-Case’ Argument for Incompatibilism”, _Analysis_ 65(1): 75–80. doi:10.1093/analys/65.1.75
-* –––, 2006, _Free Will and Luck_, New York: Oxford University Press. doi:10.1093/0195305043.001.0001
-* –––, 2008, “Manipulation, Compatibilism, and Moral Responsibility”, _The Journal of Ethics_, 12(3–4): 263–86. doi:10.1007/s10892-008-9035-x
-* –––, 2009, _Effective Intentions: The Power of Conscious Will_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195384260.001.0001
+* Harper, David J. and Paul R. Manasse, 1992, “The Just World and the Third World: British Explanations for Poverty Abroad”, *Journal of Social Psychology*, 132(6): 783–785. doi:10.1080/00224545.1992.9712107
+* Harris, Sam, 2012, *Free Will*, New York: Free Press.
+* Hart, H.L.A., 1968, *Punishment and Responsibility*, New York: Oxford University Press.
+* Hartman, Robert J., 2017, *In Defense of Moral Luck: Why Luck Often Affects Praiseworthiness and Blameworthiness*, New York: Routledge.
+* Henne, Paul, Vladimir Chituc, Felipe De Brigard, and Walter Sinnott-Armstrong, 2016, “An Empirical Refutation of ‘Ought’ Implies ‘Can’”, *Analysis*, 76(3): 283–290. doi:10.1093/analys/anw041
+* Herdova, Marcela, 2016, “What You Don’t Know Can Hurt You: Situationism, Conscious Awareness, Control”, *Journal of Cognition and Neuroethics*, 4(1): 45–71. \[[Herdova 2016 available online (pdf)](http://jcn.cognethic.org/jcnv4i1\_Herdova.pdf)]
+* Hintz, Howard W., 1958, “Some Further Reflections on Moral Responsibility”, in Sidney Hook (ed.), *Determinism and Freedom in the Age of Modern Science*, New York: New York University Press, pp. 176–79.
+* Hodgson, David, 2005, “A Plain Person’s Free Will”, *Journal of Consciousness Studies*, 12(1): 1–19.
+* –––, 2012, *Rationality + Consciousness = Free Will*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199845309.001.0001
+* Honderich, Ted, 1988, *A Theory of Determinism: The Mind, Neuroscience, and Life-Hopes*, Oxford: Oxford University Press.
+* –––, 2002, *How Free Are You? The Determinism Problem*, 2nd ed., Oxford: Oxford University Press.
+* –––, 2006, *Punishment: The Supposed Justifications Revisited*, Revised Edition, London: Pluto Press.
+* Hoskins, Zachary, 2011, “Deterrent Punishment and Respect for Persons”, *Ohio State Journal of Criminal Law*, 8(2): 369–84.
+* Hurley, S.L., 2000, “Is Responsibility Essentially Impossible?”, *Philosophical Studies*, 99(2): 229–268. doi:10.1023/A:1018763930668
+* Istvan, Michael Anthony, 2011, “Concerning the Resilience of Galen Strawson’s Basic Argument”, *Philosophical Studies*, 155(3): 399–420. doi:10.1007/s11098-010-9578-0
+* James, William, 1884, “The Dilemma of Determinism”, *Unitarian Review*, September Issue.
+* Jeppsson, Sofia, 2016a, “Accountability, Answerability, and Freedom”, *Social Theory and Practice*, 42(4): 681–705.
+* –––, 2016b, “Reasons, Determinism and the Ability to Do Otherwise”, *Ethical Theory and Moral Practice*, 19(5): 1225–1240. doi:10.1007/s10677-016-9721-x
+* Kahneman, Daniel, 2011, *Thinking Fast and Slow*, New York: Farrar, Straus, and Giroux.
+* Kane, Robert, 1996, *The Significance of Free Will*, New York: Oxford University Press. doi:10.1093/0195126564.001.0001
+* –––, 1999, “Responsibility, Luck, and Chance: Reflections on Free Will and Indeterminism”, *Journal of Philosophy*, 96(5): 217–40. doi:10.2307/2564666
+* –––, 2000, “Responses to Bernard Berofsky, John Martin Fischer and Galen Strawson”, *Philosophy of Phenomenological Research*, 60(1): 157–167. doi:10.2307/2653436
+* Kang, Jerry and Kristin Lane, 2010, “Seeing Through Colorblindness: Implicit Bias and the Law”, *UCLA Law Review*, 58(2): 465–520.
+* Kant, Immanuel, 1781 \[1998], *Critique of Pure Reason* (*Kritik der reinen Vernunft*), Paul Guyer and Allen W. Wood (trans/eds), Cambridge: Cambridge University Press.
+* –––, 1793 \[1998], *Religion Within the Boundaries of Mere Reason*, Allen W. Wood and George di Giovanni (trans/eds), Cambridge: Cambridge University Press.
+* King, Matt and Peter Carruthers, 2012, “Moral Responsibility and Consciousness”, *Journal of Moral Philosophy*, 9(2): 200–228. doi:10.1163/174552412X625682
+* Krueger, Frank, Morris Hoffman, Henrik Walter, and Jordan Grafman, 2014, “An fMRI Investigation of the Effects of Belief in Free Will on Third-Party Punishment”, *Social Cognitive and Affective Neuroscience*, 9(8): 1143–1149. doi:10.1093/scan/nst092
+* Kurthy, Miklos and Holly Lawford-Smith, 2015, “A Brief Note of Ambiguity of ‘ought’: Reply to Moti Mizrahi’s ‘Ought, Can, and Presuppositions: An Empirical Study’”, *Methode—Analytic Perspectives*, 4(6): 244–249.
+* Kurthy, Miklos, Holly Lawford-Smith, and Paulo Sousa, 2017, “Does Ought Imply Can?”, *PloS One*, 12(4): 1–24. doi:10.1371/journal.pone.0175206
+* Latus, Andrew, 2000, “Moral and Epistemic Luck”, *Journal of Philosophical Research*, 25: 149–72. doi:10.5840/jpr\_2000\_21
+* –––, 2003, “Constitutive Luck”, *Metaphilosophy*, 34(4): 460–475. doi:10.1111/1467-9973.00285
+* Lemos, John, 2015, “Self-forming Acts and the Grounds of Responsibility”, *Philosophia*, 43(1): 135–146. doi:10.1007/s11406-014-9561-7
+* –––, 2016, “Moral Concerns About Responsibility Denial and the Quarantine of Violent Criminals”, *Law and Philosophy*, 35(5): 461–83. doi:10.1007/s10982-016-9266-0
+* Lerner, Melvin J., 1965, “Evaluation of Performance as a Function of Performer’s Reward and Attractiveness”, *Journal of Personality and Social Psychology*, 1(4): 355–360. doi:10.1037/h0021806
+* –––, 1980, *The Belief in a Just World: A Fundamental Delusion*, New York: Plenum Press.
+* Lerner, Melvin J., and Dale T. Miller, 1978, “Just World Research and the Attribution Process: Looking Back and Ahead”, *Psychological Bulletin*, 85(5): 1030–51. doi:10.1037/0033-2909.85.5.1030
+* Lerner, Melvin J., and Carolyn H. Simmons, 1966, “Observer’s Reaction to the ‘Innocent Victim’: Compassion or Rejection?”, *Journal of Personality and Social Psychology*, 4:(2) 203–210. doi:10.1037/h0023562
+* Levy, Ken, 2015, “Does Situationism Excuse? The Implications of Situationism for Moral Responsibility and Criminal Responsibility”, *Arkansas Law Review*, 68: 731–787.
+* Levy, Neil, 2005, “Libet’s Impossible Demand”, *Journal of Consciousness Studies*, 12(12): 67–76.
+* –––, 2008, “Bad Luck Once Again”, *Philosophy and Phenomenological Research*, 77(3): 749–754. doi:10.1111/j.1933-1592.2008.00219.x
+* –––, 2009a, “Luck and History-Sensitive Compatibilism”, *Philosophical Quarterly*, 59(235): 237–51. doi:10.1111/j.1467-9213.2008.568.x
+* –––, 2009b, “Culpable Ignorance and Moral Responsibility: A Reply to Fitzpatrich”, *Ethics*, 119(4): 729–41. doi:10.1086/605018
+* –––, 2011, *Hard Luck: How Luck Undermines Free Will and Moral Responsibility*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199601387.001.0001
+* –––, 2012, “Skepticism and Sanction: The Benefit of Rejecting Moral Responsibility”, *Law and Philosophy*, 31(5): 477–93. doi:10.1007/s10982-012-9128-3
+* –––, 2014a, *Consciousness and Moral Responsibility*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198704638.001.0001
+* –––, 2014b, “Luck and Agent-Causation: A Response to Franklin”, *Criminal Law and Philosophy*, 9(4): 779–784. doi:10.1007/s11572-014-9306-5
+* –––, 2015, “Less blame, Less Crime? The Practical Implications of Moral Responsibility Skepticism”, *Journal of Practical Ethics*, 3(2): 1–17. \[[N. Levy 2015 available online](http://www.jpe.ox.ac.uk/papers/less-blame-less-crime-the-practical-implications-of-moral-responsibility-skepticism/)]
+* Libet, Benjamin, 1985, “Unconscious Cerebral Initiative and the Role of Conscious Will in Voluntary Action”, *Behavioral and Brain Science*, 8(4): 529–566. doi:10.1017/S0140525X00044903
+* –––, 1999, “Do We Have Free Will?”, *Journal of Consciousness Studies*, 6(8–9): 47–57.
+* Libet, Benjamin, Curtis A. Gleason, Elwood W. Wright, and Dennis K. Pearl, 1983, “Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential): The Unconscious Initiation of a Freely Voluntary Act”, *Brain*, 106(3): 623–642. doi:10.1093/brain/106.3.623
+* Lycan, William G., 1987, *Consciousness*, Cambridge, MA: MIT Press.
+* McCloskey, H. J., 1957, “An Examination of Restricted Utilitarianism”, *Philosophical Review*, 66(4): 466–485. doi:10.2307/2182745
+* McCormick, Kelly Anne, 2013, “Anchoring a Revisionist Account of Moral Responsibility”, *Journal of Ethics and Social Philosophy*, 7(3). doi:10.26556/jesp.v7i3.76
+* –––, 2016, “Why We Should(n’t) Be Discretionists About Free Will”, *Philosophical Studies*, 174(10): 2489–2498. doi:10.1007/s11098-016-0736-x
+* McKenna, Michael, 2008, “A Hard-Line Reply to Pereboom’s Four-Case Argument”, *Philosophy and Phenomenological Research*, 77(1): 142–159. doi:10.1111/j.1933-1592.2008.00179.x
+* –––, 2014, “Resisting the Manipulation Argument: A Hard-Liner Takes It On the Chin”, *Philosophy and Phenomenological Research*, 89(2): 467–484. doi:10.1111/phpr.12076
+* –––, 2017, “Manipulation Arguments, Basic Desert, and Moral Responsibility: Assessing Derk Pereboom’s *Free will, Agency, and Meaning in Life*”, *Criminal Law and Philosophy*, 11(3): 575–589. doi:10.1007/s11572-015-9388-8
+* McKenna, Michael and Brandon Warmke, forthcoming, “Does Situationism Threaten Free Will and Moral Responsibility?”, *Journal of Moral Philosophy*, early online: 27 January 2017. doi:10.1163/17455243-46810068
+* Mele, Alfred R., 1995, *Autonomous Agents: From Self-Control to Autonomy*, New York: Oxford University Press. doi:10.1093/0195150430.001.0001
+* –––, 1999a, “Kane, Luck, and the Significance of Free Will”, *Philosophical Explorations*, 2(2): 96–104. doi:10.1080/13869799908520970
+* –––, 1999b, “Ultimate Responsibility and Dumb Luck”, *Social Philosophy and Policy*, 16(2): 274–93. doi:10.1017/S0265052500002478
+* –––, 2005, “A Critique of Pereboom’s ‘Four-Case’ Argument for Incompatibilism”, *Analysis* 65(1): 75–80. doi:10.1093/analys/65.1.75
+* –––, 2006, *Free Will and Luck*, New York: Oxford University Press. doi:10.1093/0195305043.001.0001
+* –––, 2008, “Manipulation, Compatibilism, and Moral Responsibility”, *The Journal of Ethics*, 12(3–4): 263–86. doi:10.1007/s10892-008-9035-x
+* –––, 2009, *Effective Intentions: The Power of Conscious Will*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195384260.001.0001
 * –––, 2014, “Free Will and Substance Dualism: The Real Scientific Threat to Free Will?”, in Sinnott-Armstrong 2014: 195–234. doi:10.7551/mitpress/9780262026680.003.0006
-* –––, 2017, _Aspects of Agency: Decisions, Abilities, Explanations, and Free Will_, New York: Oxford University Press.
-* Mele, Alfred R. and Joshua Shepherd, 2013, “Situationism and Agency”, _Journal of Practical Ethics_, 1(1): 62–83. \[[Mele & Shepherd 2013 available online](http://www.jpe.ox.ac.uk/papers/situationism-and-agency/)]
-* Milam, Per-Erik, 2016, “Reactive Attitudes and Personal Relationships”, _Canadian Journal of Philosophy_, 46(1): 102–122. doi:10.1080/00455091.2016.1146032
-* –––, 2017, “In Defense of Non-Reactive Attitudes”, _Philosophical Explorations_, 20(3): 294–307. doi:10.1080/13869795.2017.1298830
-* Miles, James B., 2013, “‘Irresponsible and a disservice’: The Integrity of Social Psychology Turns on the Free Will Dilemma”, _British Journal of Social Psychology_, 52(2): 205–18. doi:10.1111/j.2044-8309.2011.02077.x
-* Mizrahi, Moti, 2015a, “Ought, Can, and Presupposition: An Experimental Study”, _Methode_, 4(6): 232–243.
-* –––, 2015b, “Ought, Can, and Presupposition: A Reply to Kurthy and Lawford-Smith”, _Methode_, 4(6): 250–56.
-* Montada, Leo, 1998, “Belief in a Just World: A Hybrid of Justice Motive and Self-Interest”, in Leo Montada and Melvin J. Lerner (eds.), _Reponses to Victimizations and Belief in the Just World_, New York: Plenum, pp. 217–45. doi:10.1007/978-1-4757-6418-5\_12
-* Moore, G.E., 1922, “The Nature of Moral Philosophy”, in his _Philosophical Studies_, 310-339. New York: Routledge and Kegan Paul.
-* Moore, Michael S., 1997, _Placing Blame: A Theory of the Criminal Law_, New York: Oxford University Pres. doi:10.1093/acprof:oso/9780199599493.001.0001
-* Morris, Stephen G., 2009, “The Impact of Neuroscience on the Free Will Debate”, _Florida Philosophical Review_, 9(2): 56–78.
-* –––, 2015, _Science and the End of Ethics_, New York: Palgrave Macmillan. doi:10.1057/9781137499820
-* –––, forthcoming, “The Implications of Rejecting Free Will: An Empirical Analysis”, _Philosophical Psychology_, early online 9 October 2017. doi:10.1080/09515089.2017.1385753
-* Moya, Carlos, 2010, _Moral Responsibility: The Ways of Skepticism_, London: Routledge.
-* Murphy, Jeffrie G., 1988, “Hatred: A Qualified Defense”, in Jeffrie G. Murphy and Jean Hampton (eds.), _Forgiveness and Mercy_, Cambridge: Cambridge University Press, pp. 88–110.
-* Murray, Dylan and Tania Lombrozo, 2017, “Effects of Manipulation on Attributions of Causation, Free Will, and Moral Responsibility”, _Cognitive Science_, 41(2): 447–481. doi:10.1111/cogs.12338
-* Murray, Dylan and Eddy Nahmias, 2014, “Explain Away Incompatibilist Intuitions”, _Philosophy and Phenomenological Research_, 88(2): 434–467. doi:10.1111/j.1933-1592.2012.00609.x
-* Murtagh, Kevin J., 2013, “Free Will Denial and Punishment”, _Social Theory and Practice_, 39(2): 223–240. doi:10.5840/soctheorpract201339213
-* Nadelhoffer, Thomas A., 2011, “The Threat of Shrinking Agency and Free Will Disillusionism”, in Walter Sinnott-Armstrong and Lynn Nadel (eds.), _Conscious Will and Responsibility: A Tribute to Benjamin Libet_, New York: Oxford University Press, p. 173–188. doi:10.1093/acprof:oso/9780195381641.003.0016
-* ––– (ed.), 2013, _The Future of Punishment_, (Oxford Series in Neuroscience, Law, and Philosophy), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199779208.001.0001
+* –––, 2017, *Aspects of Agency: Decisions, Abilities, Explanations, and Free Will*, New York: Oxford University Press.
+* Mele, Alfred R. and Joshua Shepherd, 2013, “Situationism and Agency”, *Journal of Practical Ethics*, 1(1): 62–83. \[[Mele & Shepherd 2013 available online](http://www.jpe.ox.ac.uk/papers/situationism-and-agency/)]
+* Milam, Per-Erik, 2016, “Reactive Attitudes and Personal Relationships”, *Canadian Journal of Philosophy*, 46(1): 102–122. doi:10.1080/00455091.2016.1146032
+* –––, 2017, “In Defense of Non-Reactive Attitudes”, *Philosophical Explorations*, 20(3): 294–307. doi:10.1080/13869795.2017.1298830
+* Miles, James B., 2013, “‘Irresponsible and a disservice’: The Integrity of Social Psychology Turns on the Free Will Dilemma”, *British Journal of Social Psychology*, 52(2): 205–18. doi:10.1111/j.2044-8309.2011.02077.x
+* Mizrahi, Moti, 2015a, “Ought, Can, and Presupposition: An Experimental Study”, *Methode*, 4(6): 232–243.
+* –––, 2015b, “Ought, Can, and Presupposition: A Reply to Kurthy and Lawford-Smith”, *Methode*, 4(6): 250–56.
+* Montada, Leo, 1998, “Belief in a Just World: A Hybrid of Justice Motive and Self-Interest”, in Leo Montada and Melvin J. Lerner (eds.), *Reponses to Victimizations and Belief in the Just World*, New York: Plenum, pp. 217–45. doi:10.1007/978-1-4757-6418-5\_12
+* Moore, G.E., 1922, “The Nature of Moral Philosophy”, in his *Philosophical Studies*, 310-339. New York: Routledge and Kegan Paul.
+* Moore, Michael S., 1997, *Placing Blame: A Theory of the Criminal Law*, New York: Oxford University Pres. doi:10.1093/acprof:oso/9780199599493.001.0001
+* Morris, Stephen G., 2009, “The Impact of Neuroscience on the Free Will Debate”, *Florida Philosophical Review*, 9(2): 56–78.
+* –––, 2015, *Science and the End of Ethics*, New York: Palgrave Macmillan. doi:10.1057/9781137499820
+* –––, forthcoming, “The Implications of Rejecting Free Will: An Empirical Analysis”, *Philosophical Psychology*, early online 9 October 2017. doi:10.1080/09515089.2017.1385753
+* Moya, Carlos, 2010, *Moral Responsibility: The Ways of Skepticism*, London: Routledge.
+* Murphy, Jeffrie G., 1988, “Hatred: A Qualified Defense”, in Jeffrie G. Murphy and Jean Hampton (eds.), *Forgiveness and Mercy*, Cambridge: Cambridge University Press, pp. 88–110.
+* Murray, Dylan and Tania Lombrozo, 2017, “Effects of Manipulation on Attributions of Causation, Free Will, and Moral Responsibility”, *Cognitive Science*, 41(2): 447–481. doi:10.1111/cogs.12338
+* Murray, Dylan and Eddy Nahmias, 2014, “Explain Away Incompatibilist Intuitions”, *Philosophy and Phenomenological Research*, 88(2): 434–467. doi:10.1111/j.1933-1592.2012.00609.x
+* Murtagh, Kevin J., 2013, “Free Will Denial and Punishment”, *Social Theory and Practice*, 39(2): 223–240. doi:10.5840/soctheorpract201339213
+* Nadelhoffer, Thomas A., 2011, “The Threat of Shrinking Agency and Free Will Disillusionism”, in Walter Sinnott-Armstrong and Lynn Nadel (eds.), *Conscious Will and Responsibility: A Tribute to Benjamin Libet*, New York: Oxford University Press, p. 173–188. doi:10.1093/acprof:oso/9780195381641.003.0016
+* ––– (ed.), 2013, *The Future of Punishment*, (Oxford Series in Neuroscience, Law, and Philosophy), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199779208.001.0001
 * –––, 2014, “Dualism, Libertarianism, and Scientific Skepticism About Free Will”, in Sinnott-Armstrong 2014: 209–216.
 * Nadelhoffer, Thomas A. and Daniela Goya Tocchetto, 2013, “The Potential Dark Side of Believing in Free Will (and Related Concepts): Some Preliminary Findings”, in Caruso 2013: 121–140.
-* Nahmias, Eddy, 2002, “When Consciousness Matters: A Critical Review of Daniel Wegner’s The Illusion of Conscious Will”, _Philosophical Psychology_, 15(4): 527–541. doi:10.1080/0951508021000042049
-* –––, 2011, “Intuitions About Free Will, Determinism, and Bypassing”, in Robert Kane (ed.), _The Oxford Handbook of Free Will, 2nd edition_, New York: Oxford University Press, pp. 555–576.
-* –––, 2012, “Free Will and Responsibility”, _WIREs Cognitive Science_, 3(4): 439–339. doi:10.1002/wcs.1181
+* Nahmias, Eddy, 2002, “When Consciousness Matters: A Critical Review of Daniel Wegner’s The Illusion of Conscious Will”, *Philosophical Psychology*, 15(4): 527–541. doi:10.1080/0951508021000042049
+* –––, 2011, “Intuitions About Free Will, Determinism, and Bypassing”, in Robert Kane (ed.), *The Oxford Handbook of Free Will, 2nd edition*, New York: Oxford University Press, pp. 555–576.
+* –––, 2012, “Free Will and Responsibility”, *WIREs Cognitive Science*, 3(4): 439–339. doi:10.1002/wcs.1181
 * –––, 2014, “Is Free Will an Illusion? Confronting Challenges from the Modern Mind Sciences”, in Sinnott-Armstrong 2014: 1–58. doi:10.7551/mitpress/9780262026680.003.0002
-* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, and Jason Turner, 2005, “Surveying Freedom: Folk Intuitions About Free Will and Moral Responsibility”, _Philosophical Psychology_, 18(5): 561–584. doi:10.1080/09515080500264180
-* Nahmias, Eddy, D. Justin Coates, and Trevor Kvaran, 2007, “Free Will, Moral Responsibility, and Mechanism: Experiments on Folk Intuitions”, _Midwest Studies in Philosophy_, 31(1): 214–42. doi:10.1111/j.1475-4975.2007.00158.x
-* Nagel, Thomas, 1979, “Moral luck”, in his _Mortal Questions_, 24–38. Cambridge: Cambridge University Press.
-* Nelkin, Dana K., 2005, “Freedom, Responsibility and the Challenge of Situationism”, _Midwest Studies in Philosophy_, 29(1): 181–206. doi:10.1111/j.1475-4975.2005.00112.x
-* –––, 2011, _Making Sense of Freedom and Responsibility_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199608560.001.0001
-* –––, 2014, “Free Will Skepticism and Obligation Skepticism: Comments on Derk Pereboom’s _Free will, Agency, and Meaning in Life_”, _Science, Religion and Culture_, 1(3): 209–217. \[[Nelkin 2014 available online](http://researcherslinks.com/current-issues/Free-Will-Skepticism-and-Obligation-Skepticism-Comments-on-Derk-Perebooms-Free-Will-Agency-and-Meaning-in-Life/9/13/53)]
-* Nichols, Shaun, 2004, “The Folk Psychology of Free Will: Fits and Starts”, _Mind and Language_, 19(5): 473–502. doi:10.1111/j.0268-1064.2004.00269.x
-* –––, 2007, “After Incompatibilism: A Naturalist Defense of the Reactive Attitudes”, _Philosophical Perspectives_, 21: 405–428. doi:10.1111/j.1520-8583.2007.00131.x
+* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, and Jason Turner, 2005, “Surveying Freedom: Folk Intuitions About Free Will and Moral Responsibility”, *Philosophical Psychology*, 18(5): 561–584. doi:10.1080/09515080500264180
+* Nahmias, Eddy, D. Justin Coates, and Trevor Kvaran, 2007, “Free Will, Moral Responsibility, and Mechanism: Experiments on Folk Intuitions”, *Midwest Studies in Philosophy*, 31(1): 214–42. doi:10.1111/j.1475-4975.2007.00158.x
+* Nagel, Thomas, 1979, “Moral luck”, in his *Mortal Questions*, 24–38. Cambridge: Cambridge University Press.
+* Nelkin, Dana K., 2005, “Freedom, Responsibility and the Challenge of Situationism”, *Midwest Studies in Philosophy*, 29(1): 181–206. doi:10.1111/j.1475-4975.2005.00112.x
+* –––, 2011, *Making Sense of Freedom and Responsibility*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199608560.001.0001
+* –––, 2014, “Free Will Skepticism and Obligation Skepticism: Comments on Derk Pereboom’s *Free will, Agency, and Meaning in Life*”, *Science, Religion and Culture*, 1(3): 209–217. \[[Nelkin 2014 available online](http://researcherslinks.com/current-issues/Free-Will-Skepticism-and-Obligation-Skepticism-Comments-on-Derk-Perebooms-Free-Will-Agency-and-Meaning-in-Life/9/13/53)]
+* Nichols, Shaun, 2004, “The Folk Psychology of Free Will: Fits and Starts”, *Mind and Language*, 19(5): 473–502. doi:10.1111/j.0268-1064.2004.00269.x
+* –––, 2007, “After Incompatibilism: A Naturalist Defense of the Reactive Attitudes”, *Philosophical Perspectives*, 21: 405–428. doi:10.1111/j.1520-8583.2007.00131.x
 * –––, 2013, “Free Will and Error”, in Caruso 2013: 203–18.
-* –––, 2015, _Bound: Essays on Free Will and Responsibility_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199291847.001.0001
-* Nichols, Shaun and Joshua Knobe, 2007, “Moral Responsibility and Determinism: The Cognitive Science of Folk Intuitions”, _Noûs_, 41(4): 663–85. doi:10.1111/j.1468-0068.2007.00666.x
-* Nichols, Shaun, N. Ángel Pinilos, and Ron Mallon, 2016, “Ambiguous Reference”, _Mind_, 125(497): 145–175. doi:10.1093/mind/fzv196
-* Nietzsche, Friedrich, 1886 \[1992], _Beyond Good and Evil_, in Walter Kaufmann (ed.), _The Basic Writings of Nietzsche_, 179–436, New York: Modern Library.
-* Nisbett, Richard E., and Timothy D. Wilson, 1997, “Telling More than We Can Know: Verbal Reports on Mental Processes”, _Psychological Review_, 84: 231–258. doi:10.1037/0033-295X.84.3.231
-* Nosek, Brian A., Frederick L. Smyth, Jeffrey J. Hansen, Thierry Devos, Nicole M Linder, Kate A. Ranganath, Colin Tucker Smith, Kristina R. Olson, Dolly Chugh, Anthony G. Greenwald, and Mahzarin R. Banaji, 2007. “Pervasiveness and Correlates of Implicit Attitudes and Stereotypes”, _European Review of Social Psychology_, 18: 36–88. doi:10.1080/10463280701489053
-* Nozick, Robert, 1974, _Anarchy, State, and Utopia_, New York: Basic Books.
-* Nussbaum, Martha C., 2016, _Anger and Forgiveness: Resentment, Generosity, Justice_, New York: Oxford University Press.
-* Obhi, Sukhvinder S. and Patrick Haggard, 2004, “Free Will and Free Won’t: Motor Activity in the Brain Precedes Our Awareness of the Intention to Move, So How is it that We Perceive Control?”, _American Scientist_, 92(July-August): 358–65.
-* Open Science Collaboration, 2015, “Estimating the Reproducibility of Psychological Science. _Science_, 349(6251): aac4716–aac4716. doi:10.1126/science.aac4716
+* –––, 2015, *Bound: Essays on Free Will and Responsibility*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199291847.001.0001
+* Nichols, Shaun and Joshua Knobe, 2007, “Moral Responsibility and Determinism: The Cognitive Science of Folk Intuitions”, *Noûs*, 41(4): 663–85. doi:10.1111/j.1468-0068.2007.00666.x
+* Nichols, Shaun, N. Ángel Pinilos, and Ron Mallon, 2016, “Ambiguous Reference”, *Mind*, 125(497): 145–175. doi:10.1093/mind/fzv196
+* Nietzsche, Friedrich, 1886 \[1992], *Beyond Good and Evil*, in Walter Kaufmann (ed.), *The Basic Writings of Nietzsche*, 179–436, New York: Modern Library.
+* Nisbett, Richard E., and Timothy D. Wilson, 1997, “Telling More than We Can Know: Verbal Reports on Mental Processes”, *Psychological Review*, 84: 231–258. doi:10.1037/0033-295X.84.3.231
+* Nosek, Brian A., Frederick L. Smyth, Jeffrey J. Hansen, Thierry Devos, Nicole M Linder, Kate A. Ranganath, Colin Tucker Smith, Kristina R. Olson, Dolly Chugh, Anthony G. Greenwald, and Mahzarin R. Banaji, 2007. “Pervasiveness and Correlates of Implicit Attitudes and Stereotypes”, *European Review of Social Psychology*, 18: 36–88. doi:10.1080/10463280701489053
+* Nozick, Robert, 1974, *Anarchy, State, and Utopia*, New York: Basic Books.
+* Nussbaum, Martha C., 2016, *Anger and Forgiveness: Resentment, Generosity, Justice*, New York: Oxford University Press.
+* Obhi, Sukhvinder S. and Patrick Haggard, 2004, “Free Will and Free Won’t: Motor Activity in the Brain Precedes Our Awareness of the Intention to Move, So How is it that We Perceive Control?”, *American Scientist*, 92(July-August): 358–65.
+* Open Science Collaboration, 2015, “Estimating the Reproducibility of Psychological Science. *Science*, 349(6251): aac4716–aac4716. doi:10.1126/science.aac4716
 * Parks, Brian D., 2009, “Ultimate Moral Responsibility is Impossible: A New Defense of the Basic Argument”, unpublished manuscript, 26 March 2009. \[[Parks 2009 available online](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.395.3763)]
-* Pereboom, Derk, 1995, “Determinism A_l Dente_”, _Noûs_, 29(1): 21–45. doi:10.2307/2215725
-* –––, 2001, _Living Without Free Will_, Cambridge: Cambridge University Press.
-* –––, 2002a, “Living Without Free Will: The Case for Hard Incompatibilism”, in Robert Kane (ed.), _The Oxford Handbook of Free Will_, New York: Oxford University Press, pp. 477–488.
-* –––, 2002b, “Meaning in Life Without Free Will”, _Philosophical Exchange_, 33: 18–34. \[[Pereboom 2002b available online](http://hdl.handle.net/20.500.12648/3213)]
-* –––, 2009, “Free Will, Love and Anger”, _Ideas y Valores_, 58(141): 169–189. \[[Pereboom 2009 available online](https://revistas.unal.edu.co/index.php/idval/article/view/36259)]
-* –––, 2011, “Free Will Skepticism and Meaning in Life”, in Robert Kane (ed.),_Oxford Handbook of Free Will_, Second edition, New York: Oxford University Press, pp. 407–24.
-* –––, 2012, “Free Will Skepticism, Blame, and Obligation”, in D. Justin Coates and Neal A. Tognazzini (eds.), _Blame: Its Nature and Norms_, New York: Oxford University Press, pp. 189–206. doi:10.1093/acprof:oso/9780199860821.003.0010
-* –––, 2013a, “Optimistic Skepticism About Free Will”, in Paul Russell and Oisín Deery (eds.), _The Philosophy of Free Will: Selected Contemporary Readings_, New York: Oxford University Press, pp. 421–49.
+* Pereboom, Derk, 1995, “Determinism A_l Dente_”, *Noûs*, 29(1): 21–45. doi:10.2307/2215725
+* –––, 2001, *Living Without Free Will*, Cambridge: Cambridge University Press.
+* –––, 2002a, “Living Without Free Will: The Case for Hard Incompatibilism”, in Robert Kane (ed.), *The Oxford Handbook of Free Will*, New York: Oxford University Press, pp. 477–488.
+* –––, 2002b, “Meaning in Life Without Free Will”, *Philosophical Exchange*, 33: 18–34. \[[Pereboom 2002b available online](http://hdl.handle.net/20.500.12648/3213)]
+* –––, 2009, “Free Will, Love and Anger”, *Ideas y Valores*, 58(141): 169–189. \[[Pereboom 2009 available online](https://revistas.unal.edu.co/index.php/idval/article/view/36259)]
+* –––, 2011, “Free Will Skepticism and Meaning in Life”, in Robert Kane (ed.),*Oxford Handbook of Free Will*, Second edition, New York: Oxford University Press, pp. 407–24.
+* –––, 2012, “Free Will Skepticism, Blame, and Obligation”, in D. Justin Coates and Neal A. Tognazzini (eds.), *Blame: Its Nature and Norms*, New York: Oxford University Press, pp. 189–206. doi:10.1093/acprof:oso/9780199860821.003.0010
+* –––, 2013a, “Optimistic Skepticism About Free Will”, in Paul Russell and Oisín Deery (eds.), *The Philosophy of Free Will: Selected Contemporary Readings*, New York: Oxford University Press, pp. 421–49.
 * –––, 2013b, “Free Will Skepticism and Criminal Punishment”, in Nadelhoffer 2013: 49–78. doi:10.1093/acprof:oso/9780199779208.003.0003
-* –––, 2014a, _Free Will, Agency, and Meaning in Life_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199685516.001.0001
-* –––, 2014b, “Respones to John Fischer and Dana Nelkin”, _Science, Religion, and Culture_, 1(3): 218–25. \[[Preboom 2014b available online](http://researcherslinks.com/current-issues/Responses-to-John-Martin-Fischer-and-Dana-Nelkin/9/13/54)]
-* –––, 2017a, “A Defense of Free Will Skepticism: Replies to Commentaries by Victor Tadros, Saul Smilansky, Michael McKenna, and Alfred R. Mele on _Free Will, Agency, and Meaning in Life_”, _Criminal Law and Philosophy_, 11(3): 617–636. doi:10.1007/s11572-017-9412-2
+* –––, 2014a, *Free Will, Agency, and Meaning in Life*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199685516.001.0001
+* –––, 2014b, “Respones to John Fischer and Dana Nelkin”, *Science, Religion, and Culture*, 1(3): 218–25. \[[Preboom 2014b available online](http://researcherslinks.com/current-issues/Responses-to-John-Martin-Fischer-and-Dana-Nelkin/9/13/54)]
+* –––, 2017a, “A Defense of Free Will Skepticism: Replies to Commentaries by Victor Tadros, Saul Smilansky, Michael McKenna, and Alfred R. Mele on *Free Will, Agency, and Meaning in Life*”, *Criminal Law and Philosophy*, 11(3): 617–636. doi:10.1007/s11572-017-9412-2
 * –––, 2017b, “Responsibility, Regress, and Protest”, in Shoemaker 2017: 121–40.
-* –––, 2017c, “Responsibility, Agency, and the Disappearing Agent Objection”, in Jean-Baptiste Guillon (ed.), _Le Libre-Arbitre: Approaches contemporaries_, Paris: College de France. \[[Available online](http://books.openedition.org/cdf/4942)]
+* –––, 2017c, “Responsibility, Agency, and the Disappearing Agent Objection”, in Jean-Baptiste Guillon (ed.), *Le Libre-Arbitre: Approaches contemporaries*, Paris: College de France. \[[Available online](http://books.openedition.org/cdf/4942)]
 * Pereboom, Derk and Gregg D. Caruso, forthcoming, “Hard-Incompatibilism Existentialism: Neuroscience, Punishment, and Meaning in Life”, in Caruso & Flanagan forthcoming.
-* Pizarro, David, Eric Uhlmann, and Peter Salovey, 2003, “Asymmetry in Judgments of Moral Blame and Praise: The Perceived Metadesires”, _Psychological Science_, 14(3): 267–272. doi:10.1111/1467-9280.03433
-* Primoratz, Igor, 1999, _Justifying Legal Punishment_, Amherst, MA: Humanity Books.
-* Pritchard, Duncan, 2005, _Epistemic Luck_, Oxford: Oxford University Press. doi:10.1093/019928038X.001.0001
-* –––, 2014, “The Modal Account of Luck”, _Metaphilosophy_, 45(4–5): 594–619. doi:10.1111/meta.12103
-* Pockett, Susan, 2004, “Does Consciousness Cause Behavior?”, _Journal of Consciousness Studies_, 11: 23–40.
-* Rawls, John, 1955, “Two Concepts of Rules”, _Philosophical Review_, 64(1): 3–32. doi:10.2307/2182230
-* Richards, Janet Radcliffe, 2000, _Human Nature After Darwin: A Philosophical Introduction_, New York: Routledge.
-* Riekki, Tapani, Marjaana Lindeman, and Jari Lipsanen, 2013, “Conceptions about the Mind-Body Problem and their Relations to Afterlife Beliefs, Paranormal Beliefs, Religiosity, and Ontological Confusions”, _Advances in Cognitive Psychology_, 9(3): 112–120. doi:10.5709/acp-0138-5
-* Rigoni, Davide, Gilles Pourtois, and Marcel Brass, 2015, “Why Should I Care? Challenging Free Will Attenuates Neural Reaction to Errors”, _Social Cognitive and Affective Neuroscience_, 10(2): 262–268. doi:10.1093/scan/nsu068
-* Robinson, Paul H., 2008, “Competing Conceptions of Modern Desert: Vengeful, Deontological, and Empirical”, _Cambridge Law Journal_, 67(1): 145–175. doi:10.1017/S000819730800010X
+* Pizarro, David, Eric Uhlmann, and Peter Salovey, 2003, “Asymmetry in Judgments of Moral Blame and Praise: The Perceived Metadesires”, *Psychological Science*, 14(3): 267–272. doi:10.1111/1467-9280.03433
+* Primoratz, Igor, 1999, *Justifying Legal Punishment*, Amherst, MA: Humanity Books.
+* Pritchard, Duncan, 2005, *Epistemic Luck*, Oxford: Oxford University Press. doi:10.1093/019928038X.001.0001
+* –––, 2014, “The Modal Account of Luck”, *Metaphilosophy*, 45(4–5): 594–619. doi:10.1111/meta.12103
+* Pockett, Susan, 2004, “Does Consciousness Cause Behavior?”, *Journal of Consciousness Studies*, 11: 23–40.
+* Rawls, John, 1955, “Two Concepts of Rules”, *Philosophical Review*, 64(1): 3–32. doi:10.2307/2182230
+* Richards, Janet Radcliffe, 2000, *Human Nature After Darwin: A Philosophical Introduction*, New York: Routledge.
+* Riekki, Tapani, Marjaana Lindeman, and Jari Lipsanen, 2013, “Conceptions about the Mind-Body Problem and their Relations to Afterlife Beliefs, Paranormal Beliefs, Religiosity, and Ontological Confusions”, *Advances in Cognitive Psychology*, 9(3): 112–120. doi:10.5709/acp-0138-5
+* Rigoni, Davide, Gilles Pourtois, and Marcel Brass, 2015, “Why Should I Care? Challenging Free Will Attenuates Neural Reaction to Errors”, *Social Cognitive and Affective Neuroscience*, 10(2): 262–268. doi:10.1093/scan/nsu068
+* Robinson, Paul H., 2008, “Competing Conceptions of Modern Desert: Vengeful, Deontological, and Empirical”, *Cambridge Law Journal*, 67(1): 145–175. doi:10.1017/S000819730800010X
 * Roediger III, Henry L., Michael K. Goode, and Franklin M. Zaromb, 2008, “Free Will and the Control of Action”, in Baer, Kaufman, and Baumeister 2008: 205–25.
-* Rosen, Gideon, 2003, “Culpability and Ignorance”, _Proceedings of the Aristotelian Society_, 103: 61–84.
-* –––, 2004, “Skepticism About Moral Responsibility”, _Philosophical Perspectives_, 18: 295–313. doi:10.1111/j.1520-8583.2004.00030.x
-* –––, 2008, “Kleinbart the Oblivious and Other Tales of Ignorance and Responsibility”, _Journal of Philosophy_, 105(10): 591–610. doi:10.5840/jphil20081051023
-* Rosenthal, David M., 2002, “The Timing of Conscious States”, _Consciousness and Cognition_, 11(2): 215–220. doi:10.1006/ccog.2002.0558
-* Roskies, Adina L., 2012. “Don’t Panic: Self-Authorship without Obscure Metaphysics”, _Philosophical Perspectives_, 26(1): 323–42. doi:10.1111/phpe.12016
-* Russell, Paul, 1992, “Strawson’s Way of Naturalizing Responsibility”, _Ethics_, 102(2): 287–302. doi:10.1086/293397
-* –––, 2004, “Responsibility and the Condition of Moral Sense”, _Philosophical Topics_, 32(1–2): 287–305. doi:10.5840/philtopics2004321/24
+* Rosen, Gideon, 2003, “Culpability and Ignorance”, *Proceedings of the Aristotelian Society*, 103: 61–84.
+* –––, 2004, “Skepticism About Moral Responsibility”, *Philosophical Perspectives*, 18: 295–313. doi:10.1111/j.1520-8583.2004.00030.x
+* –––, 2008, “Kleinbart the Oblivious and Other Tales of Ignorance and Responsibility”, *Journal of Philosophy*, 105(10): 591–610. doi:10.5840/jphil20081051023
+* Rosenthal, David M., 2002, “The Timing of Conscious States”, *Consciousness and Cognition*, 11(2): 215–220. doi:10.1006/ccog.2002.0558
+* Roskies, Adina L., 2012. “Don’t Panic: Self-Authorship without Obscure Metaphysics”, *Philosophical Perspectives*, 26(1): 323–42. doi:10.1111/phpe.12016
+* Russell, Paul, 1992, “Strawson’s Way of Naturalizing Responsibility”, *Ethics*, 102(2): 287–302. doi:10.1086/293397
+* –––, 2004, “Responsibility and the Condition of Moral Sense”, *Philosophical Topics*, 32(1–2): 287–305. doi:10.5840/philtopics2004321/24
 * –––, 2017, “Free Will Pessimism”, in Shoemaker 2017: 93–120.
-* Ryan, Sharon, 2003, “Doxastic Compatibilism and the Ethics of Belief”, _Philosophical Studies_, 114(1–2): 47–79. doi:10.1023/A:1024409201289
-* Rychlak, Joseph F., 1979, _Discovering Free Will and Personal Responsibility_, New York: Oxford University Press.
-* Sarkissian, Hagop, Amita Chatterjee, Felipe De Brigard, Joshua Knobe, Shaun Nichols, and Smita Sirker, 2010, “Is Belief in Free Will a Cultural Universal?”, _Mind and Language_, 25(3): 346–358. doi:10.1111/j.1468-0017.2010.01393.x
-* Sartorio, Carolina, 2016, _Causation and Free Will_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198746799.001.0001
-* Scanlon, T.M., 1998, _What We Owe to Each Other_, Boston, MA: Harvard University Press.
-* Searle, John R., 2000, “Consciousness, Free Action and the Brain”, _Journal of Consciousness Studies_, 7(10): 3–22.
-* –––, 2001, “Free Will as a Problem in Neurobiology”, _Philosophy_, 76(4): 491–514. doi:10.1017/S0031819101000535
-* Shaf-Landau, Russ, 1991, “Can punishment morally educate?”, _Law and Philosophy_, 10(2): 189–219. doi:10.1007/BF00143090
-* Shariff, Azim F., Joshua D. Greene, Johan C. Karremans, J. Luguri, Cory J. Clarke, Jonathan W. Schooler, Roy F. Baumeister, and Kathleen D. Vohs, 2014, “Free Will and Punishment: A Mechanistic View of Human Nature Reduces Retribution”, _Psychological Science_, 25(8): 1563–1570. doi:10.1177/0956797614534693
-* Shaw, Elizabeth, 2011, “Free Will, Punishment and Neurotechnologies”, in Bibi van den Berg and Laura Klaming (eds.), _Technologies on the Stand: Legal and Ethical Questions in Neuroscience and Robotics_, Nymegen: Wolf Legal Publishers, pp. 177–194.
-* Shepherd, Joshua, 2012, “Free Will and Consciousness: Experimental Studies”, _Consciousness and Cognition_, 21(2): 915–927. doi:10.1016/j.concog.2012.03.004
-* –––, 2015a, “Conscious Control Over Action”, _Mind and Language_, 30(3): 320–344. doi:10.1111/mila.12082
-* –––, 2015b, “Scientific Challenges to Free Will and Moral Responsibility”, _Philosophy Compass_, 10(3): 197–207. doi:10.1111/phc3.12200
-* –––, 2015c, “Consciousness, Free Will, and Moral Responsibility: Taking the Folk Seriously”, _Philosophical Psychology_, 28(7): 929–946. doi:10.1080/09515089.2014.962018
-* Sher, George, 2009, _Who Knew? Responsibility Without Awareness_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195389197.001.0001
-* Shoemaker, David, 2011, “Attributability, Answerability, and Accountability: Toward a Wider Theory of Moral Responsibility”, _Ethics_, 121(3): 602–32. doi:10.1086/659003
-* ––– (ed.), 2013, _Oxford Studies in Agency and Responsibility_, volume 1, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199694853.001.0001
-* –––, 2015, _Responsibility From the Margins_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198715672.001.0001
-* ––– (ed.), 2017, _Oxford Studies in Agency and Responsibility_, volume 4, New York: Oxford University Press.
-* Shook, John, 2004, “Dewey’s Rejection of Retributivism and his Moral-Education Theory of Punishment”, _Journal of Social Philosophy_, 35(1): 66–78. doi:10.1111/j.1467-9833.2004.00216.x
-* Sie, Maureen and Arno Wouters, 2010, “The BCN Challenge to Compatibilist Free Will and Personal Responsibility”, _Neuroethics_, 3(2): 121–33. doi:10.1007/s12152-009-9054-8
-* Sifferd, Katrina L., 2016, “Unconscious Mens Rea: Criminal Responsibility for Laps and Minimally Conscious States”, in Dennis Patterson and Michael S. Pardo (eds.), _Philosophical Foundations of Law and Neuroscience_, New York: Oxford University Press, pp. 161–178. doi:10.1093/acprof:oso/9780198743095.003.0009
-* Sinnott-Armstrong, Walter, 1984, “‘Ought’ Conversationally Implies ‘Can’”, _Philosophical Review_, 93(2): 249–61. doi:10.2307/2184585
-* Sinnott-Armstrong, Walter (ed.), 2014, _Moral Psychology, Volume 4: Free Will and Moral Responsibility_, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262026680.001.0001
-* Smart, J.J.C., 1973, “An Outline of a System of Utilitarian Ethics”, in J.J.C. Smart and Bernard Williams (eds.), _Utilitarianism: For and Against_, Cambridge: Cambridge University Press, pp. 1–74.
-* Smilansky, Saul, 1990, “Utilitarianism and the ‘Punishment’ of the Innocent: The General Problem”, _Analysis_, 50(4): 256–61. doi:10.1093/analys/50.4.256
-* –––, 1999, “Free Will: The Positive Role of Illusion”, _The Proceedings of the Twentieth World Congress of Philosophy_, Bowling Green: Philosophy Document Center, 2: 143–152.
-* –––, 2000, _Free Will and Illusion_, New York: Oxford University Press.
-* –––, 2002, “Free Will, Fundamental Dualism, and the Centrality of Illusion”, in Robert Kane (ed.), _The Oxford Handbook of Free Will_, New York: Oxford University Press, pp. 489–505.
-* –––, 2005, “Free Will and Respect for Persons”, _Midwest Studies in Philosophy_, 29: 248–61. doi:10.1111/j.1475-4975.2005.00115.x
-* –––, 2011, “Hard Determinism and Punishment: A Practical Reductio”, _Law and Philosophy_, 30(3): 353–67. doi:10.1007/s10982-011-9099-9
-* –––, 2012, “Review of Bruce N. Waller’s _Against Moral Responsibility_”, _Notre Dame Philosophical Reviews_, April 4, 2012. \[[Smilansky 2012 available online](http://ndpr.nd.edu/news/against-moral-responsibility/)]
+* Ryan, Sharon, 2003, “Doxastic Compatibilism and the Ethics of Belief”, *Philosophical Studies*, 114(1–2): 47–79. doi:10.1023/A:1024409201289
+* Rychlak, Joseph F., 1979, *Discovering Free Will and Personal Responsibility*, New York: Oxford University Press.
+* Sarkissian, Hagop, Amita Chatterjee, Felipe De Brigard, Joshua Knobe, Shaun Nichols, and Smita Sirker, 2010, “Is Belief in Free Will a Cultural Universal?”, *Mind and Language*, 25(3): 346–358. doi:10.1111/j.1468-0017.2010.01393.x
+* Sartorio, Carolina, 2016, *Causation and Free Will*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198746799.001.0001
+* Scanlon, T.M., 1998, *What We Owe to Each Other*, Boston, MA: Harvard University Press.
+* Searle, John R., 2000, “Consciousness, Free Action and the Brain”, *Journal of Consciousness Studies*, 7(10): 3–22.
+* –––, 2001, “Free Will as a Problem in Neurobiology”, *Philosophy*, 76(4): 491–514. doi:10.1017/S0031819101000535
+* Shaf-Landau, Russ, 1991, “Can punishment morally educate?”, *Law and Philosophy*, 10(2): 189–219. doi:10.1007/BF00143090
+* Shariff, Azim F., Joshua D. Greene, Johan C. Karremans, J. Luguri, Cory J. Clarke, Jonathan W. Schooler, Roy F. Baumeister, and Kathleen D. Vohs, 2014, “Free Will and Punishment: A Mechanistic View of Human Nature Reduces Retribution”, *Psychological Science*, 25(8): 1563–1570. doi:10.1177/0956797614534693
+* Shaw, Elizabeth, 2011, “Free Will, Punishment and Neurotechnologies”, in Bibi van den Berg and Laura Klaming (eds.), *Technologies on the Stand: Legal and Ethical Questions in Neuroscience and Robotics*, Nymegen: Wolf Legal Publishers, pp. 177–194.
+* Shepherd, Joshua, 2012, “Free Will and Consciousness: Experimental Studies”, *Consciousness and Cognition*, 21(2): 915–927. doi:10.1016/j.concog.2012.03.004
+* –––, 2015a, “Conscious Control Over Action”, *Mind and Language*, 30(3): 320–344. doi:10.1111/mila.12082
+* –––, 2015b, “Scientific Challenges to Free Will and Moral Responsibility”, *Philosophy Compass*, 10(3): 197–207. doi:10.1111/phc3.12200
+* –––, 2015c, “Consciousness, Free Will, and Moral Responsibility: Taking the Folk Seriously”, *Philosophical Psychology*, 28(7): 929–946. doi:10.1080/09515089.2014.962018
+* Sher, George, 2009, *Who Knew? Responsibility Without Awareness*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195389197.001.0001
+* Shoemaker, David, 2011, “Attributability, Answerability, and Accountability: Toward a Wider Theory of Moral Responsibility”, *Ethics*, 121(3): 602–32. doi:10.1086/659003
+* ––– (ed.), 2013, *Oxford Studies in Agency and Responsibility*, volume 1, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199694853.001.0001
+* –––, 2015, *Responsibility From the Margins*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198715672.001.0001
+* ––– (ed.), 2017, *Oxford Studies in Agency and Responsibility*, volume 4, New York: Oxford University Press.
+* Shook, John, 2004, “Dewey’s Rejection of Retributivism and his Moral-Education Theory of Punishment”, *Journal of Social Philosophy*, 35(1): 66–78. doi:10.1111/j.1467-9833.2004.00216.x
+* Sie, Maureen and Arno Wouters, 2010, “The BCN Challenge to Compatibilist Free Will and Personal Responsibility”, *Neuroethics*, 3(2): 121–33. doi:10.1007/s12152-009-9054-8
+* Sifferd, Katrina L., 2016, “Unconscious Mens Rea: Criminal Responsibility for Laps and Minimally Conscious States”, in Dennis Patterson and Michael S. Pardo (eds.), *Philosophical Foundations of Law and Neuroscience*, New York: Oxford University Press, pp. 161–178. doi:10.1093/acprof:oso/9780198743095.003.0009
+* Sinnott-Armstrong, Walter, 1984, “‘Ought’ Conversationally Implies ‘Can’”, *Philosophical Review*, 93(2): 249–61. doi:10.2307/2184585
+* Sinnott-Armstrong, Walter (ed.), 2014, *Moral Psychology, Volume 4: Free Will and Moral Responsibility*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262026680.001.0001
+* Smart, J.J.C., 1973, “An Outline of a System of Utilitarian Ethics”, in J.J.C. Smart and Bernard Williams (eds.), *Utilitarianism: For and Against*, Cambridge: Cambridge University Press, pp. 1–74.
+* Smilansky, Saul, 1990, “Utilitarianism and the ‘Punishment’ of the Innocent: The General Problem”, *Analysis*, 50(4): 256–61. doi:10.1093/analys/50.4.256
+* –––, 1999, “Free Will: The Positive Role of Illusion”, *The Proceedings of the Twentieth World Congress of Philosophy*, Bowling Green: Philosophy Document Center, 2: 143–152.
+* –––, 2000, *Free Will and Illusion*, New York: Oxford University Press.
+* –––, 2002, “Free Will, Fundamental Dualism, and the Centrality of Illusion”, in Robert Kane (ed.), *The Oxford Handbook of Free Will*, New York: Oxford University Press, pp. 489–505.
+* –––, 2005, “Free Will and Respect for Persons”, *Midwest Studies in Philosophy*, 29: 248–61. doi:10.1111/j.1475-4975.2005.00115.x
+* –––, 2011, “Hard Determinism and Punishment: A Practical Reductio”, *Law and Philosophy*, 30(3): 353–67. doi:10.1007/s10982-011-9099-9
+* –––, 2012, “Review of Bruce N. Waller’s *Against Moral Responsibility*”, *Notre Dame Philosophical Reviews*, April 4, 2012. \[[Smilansky 2012 available online](http://ndpr.nd.edu/news/against-moral-responsibility/)]
 * –––, 2013, “Free Will as a Case of “Crazy Ethics”, in Caruso 2013: 103–120.
-* –––, 2017, “Pereboom on Punishment: Funishment, Innocence, Motivation, and Other Difficulties”, _Criminal Law and Philosophy_, 11(3): 591–603. doi:10.1007/s11572-016-9396-3
-* Smith, Angela M., 2005, “Responsibility for Attitudes: Activity and Passivity in Mental Life”, _Ethics_, 115(2): 236–271. doi:10.1086/426957
-* –––, 2008, “Control, Responsibility, and Moral Assessment”, _Philosophical Studies_, 138(3): 367–392. doi:10.1007/s11098-006-9048-x
+* –––, 2017, “Pereboom on Punishment: Funishment, Innocence, Motivation, and Other Difficulties”, *Criminal Law and Philosophy*, 11(3): 591–603. doi:10.1007/s11572-016-9396-3
+* Smith, Angela M., 2005, “Responsibility for Attitudes: Activity and Passivity in Mental Life”, *Ethics*, 115(2): 236–271. doi:10.1086/426957
+* –––, 2008, “Control, Responsibility, and Moral Assessment”, *Philosophical Studies*, 138(3): 367–392. doi:10.1007/s11098-006-9048-x
 * Smuts, Aaron, 2014, “Love and Free Will”, unpublished manuscript, draft date 13 May 2014. \[[Smuts 2014 available from author online](https://philpapers.org/rec/SMUQAF)]
-* Sommers, Tamler, 2007a, “The Objective Attitude”, _The Philosophical Quarterly_, 57(28): 321–342. doi:10.1111/j.1467-9213.2007.487.x
-* –––, 2007b, “The Illusion of Freedom Evolves”, in Don Ross, David Spurrett, Harold Kincaid, and G. Lynn Stephens (eds.), _Distributed Cognition and the Will: Individual Volition and Social Context_, pp.61–75, Cambridge, MA: MIT Press.
-* –––, 2009, “More Work for Hard Incompatibilism”, _Philosophy and Phenomenological Research_, 79(3): 511–521. doi:10.1111/j.1933-1592.2009.00291.x
-* Soon, Chun Siong, Marcel Brass, Hans-Jochen Heinze, and John-Dylan Haynes, 2008, “Unconscious Determinants of Free Decisions in the Human Brain”, _Nature Neuroscience_, 11(5): 543–545. doi:10.1038/nn.2112
-* Spinoza, Benedictus de, 1677 \[1985], _Ethics_, in Edwin Curley (ed. and tr.), _The Collected Works of Spinoza_, Vol. 1, Princeton, NJ: Princeton University Press.
-* Stace, W.T., 1952, _Religion and the Modern Mind_, New York: Lippincott.
-* Stillman, Tyler F. and Roy F. Baumeister, 2010, “Guilty, Free, and Wise: Determinism and Psychopathy Diminish Learning from Negative Emotions”, _Journal of Experimental Social Psychology_, 46(6): 951–60. doi:10.1016/j.jesp.2010.05.012
-* Stillman, Tyler F., Roy F. Baumeister, Kathleen D. Vohs, Nathaniel M. Lambert, Frank D. Fincham, and Lauren E. Brewer, 2010, “Personal Philosophy and Personnel Achievement: Belief in Free Will Predicts Better Job Performance”, _Social Psychological and Personality Science_, 1(1): 43–50. doi:10.1177/1948550609351600
-* Strawson, Galen, 1986, _Freedom and Belief_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199247493.001.0001
-* –––, 1994, “The Impossibility of Moral Responsibility”, _Philosophical Studies_, 75(1–2): 5–24. doi:10.1007/BF00989879
-* –––, 2011, “The Impossibility of Ultimate Responsibility?”, in Richard Swinburn (ed.), _Free Will and Modern Science_, London: British Academy. doi:10.5871/bacad/9780197264898.003.0009
-* Strawson, Peter F., 1962, “Freedom and Resentment”, _Proceedings of the British Academy_, 48: 1–25. Reprinted in Gary Watson (ed.), _Free will_, New York: Oxford University Press, (1982): pp. 59–80
-* Tadros, Victor, 2011, _The Ends of Harm: The Moral Foundations of Criminal Law_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199554423.001.0001
-* –––, 2017, “Doing Without Desert”, _Criminal Law and Punishment_, 11(3): 605–616. doi:10.1007/s11572-016-9398-1
+* Sommers, Tamler, 2007a, “The Objective Attitude”, *The Philosophical Quarterly*, 57(28): 321–342. doi:10.1111/j.1467-9213.2007.487.x
+* –––, 2007b, “The Illusion of Freedom Evolves”, in Don Ross, David Spurrett, Harold Kincaid, and G. Lynn Stephens (eds.), *Distributed Cognition and the Will: Individual Volition and Social Context*, pp.61–75, Cambridge, MA: MIT Press.
+* –––, 2009, “More Work for Hard Incompatibilism”, *Philosophy and Phenomenological Research*, 79(3): 511–521. doi:10.1111/j.1933-1592.2009.00291.x
+* Soon, Chun Siong, Marcel Brass, Hans-Jochen Heinze, and John-Dylan Haynes, 2008, “Unconscious Determinants of Free Decisions in the Human Brain”, *Nature Neuroscience*, 11(5): 543–545. doi:10.1038/nn.2112
+* Spinoza, Benedictus de, 1677 \[1985], *Ethics*, in Edwin Curley (ed. and tr.), *The Collected Works of Spinoza*, Vol. 1, Princeton, NJ: Princeton University Press.
+* Stace, W.T., 1952, *Religion and the Modern Mind*, New York: Lippincott.
+* Stillman, Tyler F. and Roy F. Baumeister, 2010, “Guilty, Free, and Wise: Determinism and Psychopathy Diminish Learning from Negative Emotions”, *Journal of Experimental Social Psychology*, 46(6): 951–60. doi:10.1016/j.jesp.2010.05.012
+* Stillman, Tyler F., Roy F. Baumeister, Kathleen D. Vohs, Nathaniel M. Lambert, Frank D. Fincham, and Lauren E. Brewer, 2010, “Personal Philosophy and Personnel Achievement: Belief in Free Will Predicts Better Job Performance”, *Social Psychological and Personality Science*, 1(1): 43–50. doi:10.1177/1948550609351600
+* Strawson, Galen, 1986, *Freedom and Belief*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199247493.001.0001
+* –––, 1994, “The Impossibility of Moral Responsibility”, *Philosophical Studies*, 75(1–2): 5–24. doi:10.1007/BF00989879
+* –––, 2011, “The Impossibility of Ultimate Responsibility?”, in Richard Swinburn (ed.), *Free Will and Modern Science*, London: British Academy. doi:10.5871/bacad/9780197264898.003.0009
+* Strawson, Peter F., 1962, “Freedom and Resentment”, *Proceedings of the British Academy*, 48: 1–25. Reprinted in Gary Watson (ed.), *Free will*, New York: Oxford University Press, (1982): pp. 59–80
+* Tadros, Victor, 2011, *The Ends of Harm: The Moral Foundations of Criminal Law*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199554423.001.0001
+* –––, 2017, “Doing Without Desert”, *Criminal Law and Punishment*, 11(3): 605–616. doi:10.1007/s11572-016-9398-1
 * Talbert, Matthew, 2013, “Unwitting Wrongdoers and the Role of Moral Disagreement in Blame”, in Shoemaker 2013: 225–45. doi:10.1093/acprof:oso/9780199694853.003.0010
-* –––, 2016, _Moral Responsibility: An Introduction_, Cambridge: Polity.
-* Ten, Chin Liew, 1987, _Crime, Guilt and Punishment: A Philosophical Introduction_, New York: Oxford University Press.
-* Tierney, Hannah, 2013, “A Maneuver Around the Modified Manipulation Argument”, _Philosophical Studies_, 165(3): 753–763. doi:10.1007/s11098-012-9974-8
-* –––, 2014, “Tackling it Head On: How Best to Handle the Modified Manipulation Argument”, _Journal of Value Inquiry_, 48(4): 633–675. doi:10.1007/s10790-014-9461-x
-* Todd, Patrick, 2011, “A New Approach to Manipulation Arguments”, _Philosophical Studies_, 152(1): 127–133. doi:10.1007/s11098-009-9465-8
-* –––, 2013, “Defending (a Modified Version of) the Zygote Argument”, _Philosophical Studies_, 164(1): 189–203. doi:10.1007/s11098-011-9848-5
-* Turri, John, 2017, “Compatibilism and Incompatibilism in Social Cognition”, _Cognitive Science_, 41(S3): 403–424. doi:10.1111/cogs.12372
-* Uhlmann, Eric Luis and Geoffrey L. Cohen, 2005, “Constructed Criteria: Redefining Merit to Justify Discrimination”, _Psychological Science_, 16(6): 474–80.
-* Van Inwagen, Peter, 1983, _An Essay on Free Will_, Oxford: Clarendon Press.
-* –––, 2000, “Free Will Remains a Mystery”, _Philosophical Perspectives_, 14: 1–19.
-* Vargas, Manuel R., 2005a, “The Trouble with Tracing”, _Midwest Studies in Philosophy_, 29: 269–90. doi:10.1111/j.1475-4975.2005.00117.x
-* –––, 2005b, “The Revisionist’s Guide to Responsibility”, _Philosophical Studies_, 125(3): 399–429. doi:10.1007/s11098-005-7783-z
+* –––, 2016, *Moral Responsibility: An Introduction*, Cambridge: Polity.
+* Ten, Chin Liew, 1987, *Crime, Guilt and Punishment: A Philosophical Introduction*, New York: Oxford University Press.
+* Tierney, Hannah, 2013, “A Maneuver Around the Modified Manipulation Argument”, *Philosophical Studies*, 165(3): 753–763. doi:10.1007/s11098-012-9974-8
+* –––, 2014, “Tackling it Head On: How Best to Handle the Modified Manipulation Argument”, *Journal of Value Inquiry*, 48(4): 633–675. doi:10.1007/s10790-014-9461-x
+* Todd, Patrick, 2011, “A New Approach to Manipulation Arguments”, *Philosophical Studies*, 152(1): 127–133. doi:10.1007/s11098-009-9465-8
+* –––, 2013, “Defending (a Modified Version of) the Zygote Argument”, *Philosophical Studies*, 164(1): 189–203. doi:10.1007/s11098-011-9848-5
+* Turri, John, 2017, “Compatibilism and Incompatibilism in Social Cognition”, *Cognitive Science*, 41(S3): 403–424. doi:10.1111/cogs.12372
+* Uhlmann, Eric Luis and Geoffrey L. Cohen, 2005, “Constructed Criteria: Redefining Merit to Justify Discrimination”, *Psychological Science*, 16(6): 474–80.
+* Van Inwagen, Peter, 1983, *An Essay on Free Will*, Oxford: Clarendon Press.
+* –––, 2000, “Free Will Remains a Mystery”, *Philosophical Perspectives*, 14: 1–19.
+* Vargas, Manuel R., 2005a, “The Trouble with Tracing”, *Midwest Studies in Philosophy*, 29: 269–90. doi:10.1111/j.1475-4975.2005.00117.x
+* –––, 2005b, “The Revisionist’s Guide to Responsibility”, *Philosophical Studies*, 125(3): 399–429. doi:10.1007/s11098-005-7783-z
 * –––, 2007, “Revisionism”, in Fischer et al. 2007: ch. 4.
-* –––, 2009, “Revisionism About Free Will: A Statement & Defense”, _Philosophical Studies_, 144(1): 45–62. doi:10.1007/s11098-009-9366-x
-* –––, 2012a, _Building Better Beings: A Theory of Moral Responsibility_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199697540.001.0001
-* –––, 2012b, “Why the Luck Problem Isn’t”, _Philosophical Issues_, 22: 419–436. doi:10.1111/j.1533-6077.2012.00238.x
-* –––, 2013, “Situationism and Moral Responsibility: Free Will in Fragments”, in Andy Clark, Julian Kiverstein, and Tillmann Vierkant (eds.), _Decomposing the Will_, New York: Oxford University Press, 325–350. doi:10.1093/acprof:oso/9780199746996.003.0017
-* –––, 2015, “Desert, Responsibility, and Justification: A Reply to Doris, McGeer, and Robinson”, _Philosophical Studies_, 172(10): 2659–78. doi:10.1007/s11098-015-0480-7
-* Vilhauer, Benjamin, 2009a, “Free Will Skepticism and Personhood as a Desert Base”, _Canadian Journal of Philosophy_, 39(3): 489–511. doi:10.1353/cjp.0.0052
-* –––, 2009b, “Free Will and Reasonable Doubt”, _American Philosophical Quarterly_, 46(2): 131–140.
-* –––, 2012, “Taking Free Will Skepticism Seriously”, _The Philosophical Quarterly_, 62(249): 833–852. doi:10.1111/j.1467-9213.2012.00077.x
+* –––, 2009, “Revisionism About Free Will: A Statement & Defense”, *Philosophical Studies*, 144(1): 45–62. doi:10.1007/s11098-009-9366-x
+* –––, 2012a, *Building Better Beings: A Theory of Moral Responsibility*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199697540.001.0001
+* –––, 2012b, “Why the Luck Problem Isn’t”, *Philosophical Issues*, 22: 419–436. doi:10.1111/j.1533-6077.2012.00238.x
+* –––, 2013, “Situationism and Moral Responsibility: Free Will in Fragments”, in Andy Clark, Julian Kiverstein, and Tillmann Vierkant (eds.), *Decomposing the Will*, New York: Oxford University Press, 325–350. doi:10.1093/acprof:oso/9780199746996.003.0017
+* –––, 2015, “Desert, Responsibility, and Justification: A Reply to Doris, McGeer, and Robinson”, *Philosophical Studies*, 172(10): 2659–78. doi:10.1007/s11098-015-0480-7
+* Vilhauer, Benjamin, 2009a, “Free Will Skepticism and Personhood as a Desert Base”, *Canadian Journal of Philosophy*, 39(3): 489–511. doi:10.1353/cjp.0.0052
+* –––, 2009b, “Free Will and Reasonable Doubt”, *American Philosophical Quarterly*, 46(2): 131–140.
+* –––, 2012, “Taking Free Will Skepticism Seriously”, *The Philosophical Quarterly*, 62(249): 833–852. doi:10.1111/j.1467-9213.2012.00077.x
 * –––, 2013a, “The People Problem”, in Caruso 2013: 141–60.
-* –––, 2013b. “Persons, Punishment, and Free Will Skepticism”, _Philosophical Studies_, 162(2): 143–163. doi:10.1007/s11098-011-9752-z
-* Vohs, Kathleen D., and Jonathan W. Schooler, 2008, “The Value of Believing in Free Will: Encouraging a Belief in Determinism Increases Cheating”, _Psychological Science_, 19(1): 49–54. doi:10.1111/j.1467-9280.2008.02045.x
-* Wagstaff, Graham F., 1983, “Correlates of the Just World in Britain”, _Journal of Social Psychology_, 121(1): 145–146. doi:10.1080/00224545.1983.9924476
-* Walker, Nigel, 1991, _Why Punish?_ New York: Oxford University Press.
-* Waller, Bruce N., 1989, “Denying Responsibility: The Difference it Makes”, _Analysis_ 49(1): 44–47. doi:10.1093/analys/49.1.44
-* –––, 1990, _Freedom Without Responsibility_, New York: Temple University Press.
-* –––, 2004, “Virtue Unrewarded: Morality Without Moral Responsibility”,_Philosophia_, 31(3–4): 427–47. doi:10.1007/BF02385194
-* –––, 2006, “Denying Responsibility Without Making Excuses”, _American Philosophical Quarterly_, 43(1): 81–90.
-* –––, 2007, “Sincere Apology Without Moral Responsibility”, _Social Theory and Practice_, 33(3): 441–465. doi:10.5840/soctheorpract200733317
-* –––, 2011, _Against Moral Responsibility_, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262016599.001.0001
-* –––, 2014, _The Stubborn System of Moral Responsibility_, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262028165.001.0001
-* –––, 2015, _Restorative Free Will: Back to the Biological Base_, Lanham, MD: Lexington Books.
-* Watson, Gary, 1996, “Two Faces of Responsibility”, _Philosophical Topics_, 24(2): 227–248. doi:10.5840/philtopics199624222
-* Wegner, Daniel M., 2002, _The Illusion of Conscious Will_, Cambridge, MA: MIT Press.
-* Wilson, James Q., 1983, _Thinking About Crime_, revised edition, New York: Basic Books.
-* Wilson, Timothy, 2002, _Strangers to Ourselves: Discovering the Adaptive Unconscious_, Cambridge, MA: The Belknap Press of Harvard University Press.
-* Wolf, Susan, 1981, “The Importance of Free Will”, _Mind_, 90(359): 386–405. doi:10.1093/mind/XC.359.386
-* –––, 1990, _Freedom Within Reason_, New York: Oxford University Press.
-* –––, 2011, “Blame, Italian Style”, in R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T. M. Scanlon_, New York: Oxford University Press, pp. 332–48. doi:10.1093/acprof:oso/9780199753673.003.0014
+* –––, 2013b. “Persons, Punishment, and Free Will Skepticism”, *Philosophical Studies*, 162(2): 143–163. doi:10.1007/s11098-011-9752-z
+* Vohs, Kathleen D., and Jonathan W. Schooler, 2008, “The Value of Believing in Free Will: Encouraging a Belief in Determinism Increases Cheating”, *Psychological Science*, 19(1): 49–54. doi:10.1111/j.1467-9280.2008.02045.x
+* Wagstaff, Graham F., 1983, “Correlates of the Just World in Britain”, *Journal of Social Psychology*, 121(1): 145–146. doi:10.1080/00224545.1983.9924476
+* Walker, Nigel, 1991, *Why Punish?* New York: Oxford University Press.
+* Waller, Bruce N., 1989, “Denying Responsibility: The Difference it Makes”, *Analysis* 49(1): 44–47. doi:10.1093/analys/49.1.44
+* –––, 1990, *Freedom Without Responsibility*, New York: Temple University Press.
+* –––, 2004, “Virtue Unrewarded: Morality Without Moral Responsibility”,*Philosophia*, 31(3–4): 427–47. doi:10.1007/BF02385194
+* –––, 2006, “Denying Responsibility Without Making Excuses”, *American Philosophical Quarterly*, 43(1): 81–90.
+* –––, 2007, “Sincere Apology Without Moral Responsibility”, *Social Theory and Practice*, 33(3): 441–465. doi:10.5840/soctheorpract200733317
+* –––, 2011, *Against Moral Responsibility*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262016599.001.0001
+* –––, 2014, *The Stubborn System of Moral Responsibility*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262028165.001.0001
+* –––, 2015, *Restorative Free Will: Back to the Biological Base*, Lanham, MD: Lexington Books.
+* Watson, Gary, 1996, “Two Faces of Responsibility”, *Philosophical Topics*, 24(2): 227–248. doi:10.5840/philtopics199624222
+* Wegner, Daniel M., 2002, *The Illusion of Conscious Will*, Cambridge, MA: MIT Press.
+* Wilson, James Q., 1983, *Thinking About Crime*, revised edition, New York: Basic Books.
+* Wilson, Timothy, 2002, *Strangers to Ourselves: Discovering the Adaptive Unconscious*, Cambridge, MA: The Belknap Press of Harvard University Press.
+* Wolf, Susan, 1981, “The Importance of Free Will”, *Mind*, 90(359): 386–405. doi:10.1093/mind/XC.359.386
+* –––, 1990, *Freedom Within Reason*, New York: Oxford University Press.
+* –––, 2011, “Blame, Italian Style”, in R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), *Reasons and Recognition: Essays on the Philosophy of T. M. Scanlon*, New York: Oxford University Press, pp. 332–48. doi:10.1093/acprof:oso/9780199753673.003.0014
 * World Values Survey, 1999–2004, “The World Values Survey, Wave 4 1999–2004 Official Aggregate”, v.20140429, World Values Survey Association ([www.worldvaluessurvey.org](http://www.worldvaluessurvey.org/)). Aggregate File Producer: Asep/JDS, Madrid, Spain. [WVS 1999–2004 available online](http://www.worldvaluessurvey.org/WVSDocumentationWV4.jsp)]
-* Zhao, Xian, Li Liu, Xiao-xiao Zhang, Jia-xin Shi, and Zhen-wei Huang, 2014, “The Effects of Belief in Free Will on Prejudice”, _PLos ONE_, 9(3): e91572. doi:10.1371/journal.pone.0091572
-* Zimmerman, Michael J., 1987, “Luck and Moral Responsibility”, _Ethics_, 97(2): 374–86. doi:10.1086/292845
-* –––, 1996, _The Concept of Moral Obligation_, New York: Cambridge University Press.
-* –––, 1997, “Moral Responsibility and Ignorance”, _Ethics_, 107(3): 410–26. doi:10.1086/233742
-* –––, 2002, “Taking Luck Seriously”, _The Journal of Philosophy_, 99(11): 553–576. doi:10.2307/3655750
-* –––, 2009, _Living With Uncertainty_, Cambridge: Cambridge University Press.
+* Zhao, Xian, Li Liu, Xiao-xiao Zhang, Jia-xin Shi, and Zhen-wei Huang, 2014, “The Effects of Belief in Free Will on Prejudice”, *PLos ONE*, 9(3): e91572. doi:10.1371/journal.pone.0091572
+* Zimmerman, Michael J., 1987, “Luck and Moral Responsibility”, *Ethics*, 97(2): 374–86. doi:10.1086/292845
+* –––, 1996, *The Concept of Moral Obligation*, New York: Cambridge University Press.
+* –––, 1997, “Moral Responsibility and Ignorance”, *Ethics*, 107(3): 410–26. doi:10.1086/233742
+* –––, 2002, “Taking Luck Seriously”, *The Journal of Philosophy*, 99(11): 553–576. doi:10.2307/3655750
+* –––, 2009, *Living With Uncertainty*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
@@ -643,4 +643,4 @@ Critics, however, object on number of different grounds. Some point out that whi
 I would like to thank Derk Pereboom, Neil Levy, Bruce Waller, Manuel Vargas, Ishtiyaque Haji, Joseph Campbell, and Paul Russell for helpful comments on an earlier draft.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-Gregg Caruso <[_gcaruso@corning-cc.edu_](mailto:gcaruso%40corning-cc%2eedu)>
+Gregg Caruso <[*gcaruso@corning-cc.edu*](mailto:gcaruso%40corning-cc%2eedu)>

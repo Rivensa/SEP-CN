@@ -526,7 +526,6 @@ Menger 的论述的核心是货币的非故意出现（参见 Aydinonat 2008 年
 
 言语行为构成了另一个社会因素可能构成的领域。Austin 1962 和 Searle 1969 认为，任何言语行为的力量是与该类型言语行为相关的社会约定的产物。其他人使用“意向主义”方法，其中言语行为的力量仅取决于说话者的意图。还有人认为，这种力量是听者接受和说话者意图的产物（参见 Strawson 1964，Bach＆Harnish 1979，Clark＆Carlson 1982，García-Carpintero 2004a，以及言语行为、断言的条目）。
 
-
 ## Bibliography
 
 * Aarsleff, Hans, 1982, *From Locke to Saussure: Essays on the Study of Language and Intellectual History*, Minneapolis: University of Minnesota Press.

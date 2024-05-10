@@ -1,6 +1,6 @@
 # 韦斯利·萨尔蒙 Salmon, Wesley (Maria Carla Galavotti)
 
-_首次发表于 2018 年 7 月 13 日星期五；实质性修订于 2022 年 7 月 17 日星期日_
+*首次发表于 2018 年 7 月 13 日星期五；实质性修订于 2022 年 7 月 17 日星期日*
 
 韦斯利·查尔斯·萨尔蒙（1925-2001）是二十世纪科学哲学中的重要人物。萨尔蒙在休谟的传统下发展了一种复杂的经验主义版本，将真实性与理论实体相结合，采用了真正的概率方法。萨尔蒙的著作以系统性和清晰明了的风格为特点，涵盖了广泛的主题，包括逻辑、空间和时间的哲学、概率和科学推理的基础、理性、现实主义和科学解释等，这些是他三十多年来的主要关注点。与亨普尔的“接受观点”不同，萨尔蒙发展了一种解释概念，即解释意味着展示导致现象发生的因果机制。他坚信我们的知识是不确定的，因果关系应该用概率术语来定义，他追求一种概率机械主义的版本，开创了解释文献中的新研究趋势，被称为“新机械主义”。萨尔蒙对他所涉及的所有主题的观点仍然滋养着新的思考和持续的辩论。
 
@@ -44,7 +44,7 @@ _首次发表于 2018 年 7 月 13 日星期五；实质性修订于 2022 年 7 
 
 > 这使得概率成为了重要的问题。莱辛巴赫采用了经验主义方法来处理概率，并坚持认为概率值必须仅基于经验来确定。从经验中可以得出频率，而概率必须基于这些频率来确定。莱辛巴赫称这种获得概率值的方法为列举归纳法。这种方法包括计算在一系列观察的初始部分中给定属性的相对频率，并推断当这个序列无限延长时，这种频率将近似持续存在。这个过程构成了频率解释规定确定先验概率的内容，莱辛巴赫称之为归纳规则。
 
-This brought probability to the foreground. Reichenbach embraced an empirical approach to probability and maintained that probability values must be determined on the basis of experience alone. What can be extracted from experience are frequencies, and it is on their basis that probability must be fixed. Reichenbach called the method for obtaining probability values _induction by enumeration_. This consists in counting the relative frequency of a given attribute in the initial section of a sequence of observations and inferring that such frequency will persist approximately for the rest of the sequence when this is indefinitely prolonged. This procedure forms the content of the canon according to which the frequency interpretation prescribes fixing prior probabilities, a tenet Reichenbach called _Rule of induction_:
+This brought probability to the foreground. Reichenbach embraced an empirical approach to probability and maintained that probability values must be determined on the basis of experience alone. What can be extracted from experience are frequencies, and it is on their basis that probability must be fixed. Reichenbach called the method for obtaining probability values *induction by enumeration*. This consists in counting the relative frequency of a given attribute in the initial section of a sequence of observations and inferring that such frequency will persist approximately for the rest of the sequence when this is indefinitely prolonged. This procedure forms the content of the canon according to which the frequency interpretation prescribes fixing prior probabilities, a tenet Reichenbach called *Rule of induction*:
 
 > 如果序列有频率的限制，那么必定存在一个 n，从那里开始，频率 fi(i>n)将保持在区间 fn±δ内，其中δ是一个我们可以选择得越小越好的数量，但一旦选择了，就保持不变。现在，如果我们假设频率 fi 将保持在区间 fn±δ内，并且我们按照相同的规则对更大的 n 进行修正，我们最终必须得出正确的结果。（Reichenbach 1935 \[1949: 445]）
 
@@ -182,7 +182,7 @@ The shift in question involves an increase in information, although not necessar
 
 > 因此，在大多数情况下，我们使用认识上同质的参考类，即相对于给定的知识情境。
 
-Therefore, in most cases use is made of _epistemically_ homogeneous reference classes, namely those relative to a given knowledge situation.
+Therefore, in most cases use is made of *epistemically* homogeneous reference classes, namely those relative to a given knowledge situation.
 
 ### 5.3 解释/原理 vs. 论证
 
@@ -393,114 +393,114 @@ The reader is invited to see three collections of essays dealing with the variou
 
 ### Primary Literature: Works by Salmon
 
-* 1953, “The Uniformity of Nature”, _Philosophy and Phenomenological Research_, 14(1): 39–48. doi:10.2307/2104014
-* 1956, “Regular Rules of Induction”, _Philosophical Review_, 65(3): 385–388. doi:10.2307/2182147
-* 1957, “Should We Attempt to Justify Induction?”, _Philosophical Studies_, 8(3): 33–38. doi:10.1007/BF02308902
-* 1961, “Vindication of Induction”, in Herbert Feigl and Grover Maxwell (eds.), _Current Issues in the Philosophy of Science_, New York: Holt, Rinehart, and Winston, pp. 245–256.
-* 1963a, _Logic_, Englewood Cliffs, NJ: Prentice-Hall. Second edition 1973; third edition 1984.
-* 1963b, “Inductive Inference”, in Bernard H. Baumrin (ed.), _Philosophy of Science: The Delaware Seminar_ (Volume II), New York: Wiley, pp. 341–370.
-* 1963c, “On Vindicating Induction”, in _Philosophy of Science_, 30(3): 252–261, doi:10.1086/287939; reprinted in Henry Ely Kyburg Jr. and Ernest Nagel (eds.), _Induction: Some Current Issues_, Middletown, CT: Wesleyan University Press, pp. 27–41 (page references to the reprint).
-* 1965, “The Concept of Inductive Evidence”, _American Philosophical Quarterly_, 2(4): 1–6.
-* 1967a, _The Foundations of Scientific Inference_, Pittsburgh: University of Pittsburgh Press. 50th Anniversary edition, with a new introduction by Christopher Hitchcock, 2017.
-* 1967b, “Carnap’s Inductive Logic”, _Journal of Philosophy_, 64(21): 725–739. doi:10.2307/2023856
+* 1953, “The Uniformity of Nature”, *Philosophy and Phenomenological Research*, 14(1): 39–48. doi:10.2307/2104014
+* 1956, “Regular Rules of Induction”, *Philosophical Review*, 65(3): 385–388. doi:10.2307/2182147
+* 1957, “Should We Attempt to Justify Induction?”, *Philosophical Studies*, 8(3): 33–38. doi:10.1007/BF02308902
+* 1961, “Vindication of Induction”, in Herbert Feigl and Grover Maxwell (eds.), *Current Issues in the Philosophy of Science*, New York: Holt, Rinehart, and Winston, pp. 245–256.
+* 1963a, *Logic*, Englewood Cliffs, NJ: Prentice-Hall. Second edition 1973; third edition 1984.
+* 1963b, “Inductive Inference”, in Bernard H. Baumrin (ed.), *Philosophy of Science: The Delaware Seminar* (Volume II), New York: Wiley, pp. 341–370.
+* 1963c, “On Vindicating Induction”, in *Philosophy of Science*, 30(3): 252–261, doi:10.1086/287939; reprinted in Henry Ely Kyburg Jr. and Ernest Nagel (eds.), *Induction: Some Current Issues*, Middletown, CT: Wesleyan University Press, pp. 27–41 (page references to the reprint).
+* 1965, “The Concept of Inductive Evidence”, *American Philosophical Quarterly*, 2(4): 1–6.
+* 1967a, *The Foundations of Scientific Inference*, Pittsburgh: University of Pittsburgh Press. 50th Anniversary edition, with a new introduction by Christopher Hitchcock, 2017.
+* 1967b, “Carnap’s Inductive Logic”, *Journal of Philosophy*, 64(21): 725–739. doi:10.2307/2023856
 * 1968a, “The Justification of Inductive Rules of Inference”, in Lakatos (ed.) 1968: 24–43. “Reply”, in Lakatos (ed.) 1968: 74–97.
-* 1968b \[2005], “Inquiries into the Foundations of Science”, in David L. Arm (ed.), _Vistas in Science_, Albuquerque: University of New Mexico Press, pp. 1–24. Reprinted in Salmon 2005: 65–82.
-* 1969 \[2005], “Partial Entailment as a Basis for Inductive Logic”, in Nicholas Rescher (ed.), _Essays in Honor of Carl G. Hempel_, Dordrecht: Reidel, pp. 47–82. Reprinted in Salmon 2005: 184–209.
-* 1970a, _Zeno’s Paradoxes_, Indianapolis: Bobbs-Merrill (edited). Second edition, Indianapolis: Hackett Publishing Co., 2001.
-* 1970b \[1971], “Statistical Explanation”, in Robert Colodny (ed.), _The Nature and Function of Scientific Theories_, Pittsburgh: University of Pittsburgh Press, pp. 173–232. Reprinted in Salmon 1971: 29–87.
-* 1970c \[2005], “Bayes’s Theorem and the History of Science”, in Roger H. Stuewer (ed.), _Historical and Philosophical Perspectives of Science_, (_Minnesota Studies in the Philosophy of Science_, Volume 5), Minneapolis: University of Minnesota Press, pp. 68–86. Reprinted in Salmon 2005: 83–92. \[[Salmon 1970c available online](http://mcps.umn.edu/assets/pdf/5.3\_Salmon.pdf)]
-* 1971, _Statistical Explanation and Statistical Relevance_, Pittsburgh: University of Pittsburgh Press (with contributions by Richard C. Jeffrey and James G. Greeno).
-* 1973, “Confirmation”, _Scientific American_, 228(5): 75–83.
-* 1975a, _Space, Time, and Motion: A Philosophical Introduction_, Encino, CA: Dickenson Publishing Co. Second edition 1981.
-* 1975b \[2005], “Confirmation and Relevance”, in Grover Maxwell and Robert M. Anderson Jr. (eds.), _Induction, Probability, and Confirmation_, (_Minnesota Studies in the Philosophy of Science_, Volume 6), Minneapolis: University of Minnesota Press, pp. 3–36. Reprinted in Salmon 2005: 210–236. \[[Salmon 1975b available online](http://mcps.umn.edu/philosophy/6\_1Salmon.pdf)]
-* 1977a, “A Third Dogma of Empiricism”, in Robert E. Butts and Jaakko Hintikka (eds.), _Basic Problems in Methodology and Linguistics_, Dordrecht: Reidel, 149–166. Reprinted in Salmon 1998: 95–107. doi:10.1007/978-94-017-0837-1\_10
-* 1977b \[1998], “An ‘At-At’ Theory of Causal Influence”, _Philosophy of Science_, 44(2): 215–224. Reprinted in Salmon 1998: 193–199. doi:10.1086/288739
-* 1977c, “The Philosophical Significance of the One-Way Speed of Light”, _Noûs_, 11(3): 253–292. doi:10.2307/2214765
-* 1978a \[1998], “Why Ask ‘Why?’? An Inquiry Concerning Scientific Explanation”, _Proceedings and Addresses of the American Philosophical Association_, 51(6): 683–705. Reprinted in Salmon 1998: 125–141. doi:10.2307/3129654
-* 1978b, “Unfinished Business: The Problem of Induction”, _Philosophical Studies_, 33(1): 1–19. doi:10.1007/BF00354278
-* 1979a, _Hans Reichenbach: Logical Empiricist_, Dordrecht: Reidel, edited.
+* 1968b \[2005], “Inquiries into the Foundations of Science”, in David L. Arm (ed.), *Vistas in Science*, Albuquerque: University of New Mexico Press, pp. 1–24. Reprinted in Salmon 2005: 65–82.
+* 1969 \[2005], “Partial Entailment as a Basis for Inductive Logic”, in Nicholas Rescher (ed.), *Essays in Honor of Carl G. Hempel*, Dordrecht: Reidel, pp. 47–82. Reprinted in Salmon 2005: 184–209.
+* 1970a, *Zeno’s Paradoxes*, Indianapolis: Bobbs-Merrill (edited). Second edition, Indianapolis: Hackett Publishing Co., 2001.
+* 1970b \[1971], “Statistical Explanation”, in Robert Colodny (ed.), *The Nature and Function of Scientific Theories*, Pittsburgh: University of Pittsburgh Press, pp. 173–232. Reprinted in Salmon 1971: 29–87.
+* 1970c \[2005], “Bayes’s Theorem and the History of Science”, in Roger H. Stuewer (ed.), *Historical and Philosophical Perspectives of Science*, (*Minnesota Studies in the Philosophy of Science*, Volume 5), Minneapolis: University of Minnesota Press, pp. 68–86. Reprinted in Salmon 2005: 83–92. \[[Salmon 1970c available online](http://mcps.umn.edu/assets/pdf/5.3\_Salmon.pdf)]
+* 1971, *Statistical Explanation and Statistical Relevance*, Pittsburgh: University of Pittsburgh Press (with contributions by Richard C. Jeffrey and James G. Greeno).
+* 1973, “Confirmation”, *Scientific American*, 228(5): 75–83.
+* 1975a, *Space, Time, and Motion: A Philosophical Introduction*, Encino, CA: Dickenson Publishing Co. Second edition 1981.
+* 1975b \[2005], “Confirmation and Relevance”, in Grover Maxwell and Robert M. Anderson Jr. (eds.), *Induction, Probability, and Confirmation*, (*Minnesota Studies in the Philosophy of Science*, Volume 6), Minneapolis: University of Minnesota Press, pp. 3–36. Reprinted in Salmon 2005: 210–236. \[[Salmon 1975b available online](http://mcps.umn.edu/philosophy/6\_1Salmon.pdf)]
+* 1977a, “A Third Dogma of Empiricism”, in Robert E. Butts and Jaakko Hintikka (eds.), *Basic Problems in Methodology and Linguistics*, Dordrecht: Reidel, 149–166. Reprinted in Salmon 1998: 95–107. doi:10.1007/978-94-017-0837-1\_10
+* 1977b \[1998], “An ‘At-At’ Theory of Causal Influence”, *Philosophy of Science*, 44(2): 215–224. Reprinted in Salmon 1998: 193–199. doi:10.1086/288739
+* 1977c, “The Philosophical Significance of the One-Way Speed of Light”, *Noûs*, 11(3): 253–292. doi:10.2307/2214765
+* 1978a \[1998], “Why Ask ‘Why?’? An Inquiry Concerning Scientific Explanation”, *Proceedings and Addresses of the American Philosophical Association*, 51(6): 683–705. Reprinted in Salmon 1998: 125–141. doi:10.2307/3129654
+* 1978b, “Unfinished Business: The Problem of Induction”, *Philosophical Studies*, 33(1): 1–19. doi:10.1007/BF00354278
+* 1979a, *Hans Reichenbach: Logical Empiricist*, Dordrecht: Reidel, edited.
 * 1979b, “The Philosophy of Hans Reichenbach”, in Salmon 1979a: 1–84. doi:10.1007/978-94-009-9404-1\_1
-* 1979c, “Alternative Models of Scientific Explanation”, _American Anthropologist_, 81(1): 61–74 (with Merrilee H. Salmon). doi:10.1525/aa.1979.81.1.02a00050
+* 1979c, “Alternative Models of Scientific Explanation”, *American Anthropologist*, 81(1): 61–74 (with Merrilee H. Salmon). doi:10.1525/aa.1979.81.1.02a00050
 * 1979d, “Propensities: A Discussion Review”, _Erkenntnis_14(2): 183–216. doi:10.1007/BF00196732
-* 1980 \[1998], “Probabilistic Causality”, _Pacific Philosophical Quarterly_, 61(1–2): 50–74. Reprinted in Salmon 1998: 208–232. doi:10.1111/j.1468-0114.1980.tb00004.x
-* 1981 \[1988a], “Rational Prediction”, _British Journal for the Philosophy of Science_, 32(2): 115–125. Reprinted in Salmon 1988a: 47–60. doi:10.1093/bjps/32.2.115
-* 1982a \[1998], “Causality: Production and Propagation”, in Peter D. Asquith et al. (eds.), _PSA 1980_, East Lansing, Mich.: Philosophy of Science Association, volume 2, pp. 49–69. Reprinted in Salmon 1998: 285–301. doi:10.1086/psaprocbienmeetp.1980.2.192586
+* 1980 \[1998], “Probabilistic Causality”, *Pacific Philosophical Quarterly*, 61(1–2): 50–74. Reprinted in Salmon 1998: 208–232. doi:10.1111/j.1468-0114.1980.tb00004.x
+* 1981 \[1988a], “Rational Prediction”, *British Journal for the Philosophy of Science*, 32(2): 115–125. Reprinted in Salmon 1988a: 47–60. doi:10.1093/bjps/32.2.115
+* 1982a \[1998], “Causality: Production and Propagation”, in Peter D. Asquith et al. (eds.), *PSA 1980*, East Lansing, Mich.: Philosophy of Science Association, volume 2, pp. 49–69. Reprinted in Salmon 1998: 285–301. doi:10.1086/psaprocbienmeetp.1980.2.192586
 * 1982b \[1998], “Comets, Pollen, and Dreams: Some Reflections on Scientific Explanation”, in McLaughlin (ed.) 1982: 261–275. Reprinted in Salmon 1998: 50–67. doi:10.1007/978-94-009-7731-0\_7
 * 1982c, “Further Reflections”, in McLaughlin (ed.) 1982: 231–283. doi:10.1007/978-94-009-7731-0\_11
-* 1984, _Scientific Explanation and the Causal Structure of the World_, Princeton: Princeton University Press.
-* 1985a \[1998], “Scientific Explanation: Three Basic Conceptions”, in Peter D. Asquith and Philip Kitcher (eds.), _PSA 1984_, East Lansing, Mich.: Philosophy of Science Association, volume 2, pp. 293–305. Reprinted in Salmon 1998: 320–329. doi:10.1086/psaprocbienmeetp.1984.2.192510
-* 1985b \[2005], “Empiricism: The Key Question”, in Nicholas Rescher (ed.), _The Heritage of Logical Positivism_, Lanham, MD: University Press of America, pp. 1–21. Reprinted in Salmon 2005: 7–18.
-* 1988a, _The Limitations of Deductivism_, Berkeley/Los Angeles/London: University of California Press (co-edited with Adolf Grünbaum).
+* 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton: Princeton University Press.
+* 1985a \[1998], “Scientific Explanation: Three Basic Conceptions”, in Peter D. Asquith and Philip Kitcher (eds.), *PSA 1984*, East Lansing, Mich.: Philosophy of Science Association, volume 2, pp. 293–305. Reprinted in Salmon 1998: 320–329. doi:10.1086/psaprocbienmeetp.1984.2.192510
+* 1985b \[2005], “Empiricism: The Key Question”, in Nicholas Rescher (ed.), *The Heritage of Logical Positivism*, Lanham, MD: University Press of America, pp. 1–21. Reprinted in Salmon 2005: 7–18.
+* 1988a, *The Limitations of Deductivism*, Berkeley/Los Angeles/London: University of California Press (co-edited with Adolf Grünbaum).
 * 1988b, “Dynamic Rationality: Propensity, Probability, and Credence”, in Fetzer (ed.) 1988: 126–151. Reprinted in Salmon 2005: 126–151. doi:10.1007/978-94-009-3997-4\_1
 * 1988c, “Publications: An Annotated Bibliography”, in Fetzer (ed.) 1988: 271–336. doi:10.1007/978-94-009-3997-4\_14
-* 1989, _Scientific Explanation_, (_Minnesota Studies in the Philosophy of Science_, Volume 13), Minneapolis: University of Minnesota Press (co-edited with Philip Kitcher). \[[Salmon 1989 available online](http://mcps.umn.edu/philosophy/VolumeXIII.htm)]
-* 1990a, _Four Decades of Scientific Explanation_, Minneapolis: University of Minnesota Press. Reprinted with a foreword by Paul Humphreys, Pittsburgh: University of Pittsburgh Press, 2006.
-* 1990b \[1998], “Scientific Explanation: Causation _and_ Unification”, _Critica_, 22(66): 3–21. Reprinted in Salmon 1998: 68–78. \[[Salmon 1990b available online](http://critica.filosoficas.unam.mx/pg/en/numeros\_detalle\_articulo.php?id\_articulo=460\&id\_volumen=86)]
-* 1990c \[1998], “Causal Propensities: Statistical Causality vs. Aleatory Causality”, _Topoi_, 9(2): 95–100. Reprinted in Salmon 1998: 200–207. doi:10.1007/BF00135890
-* 1990d \[2005], “Rationality and Objectivity in Science, _or_ Tom Kuhn Meets Tom Bayes”, in C. Wade Savage (ed.), _Scientific Theories_, (_Minnesota Studies in the Philosophy of Science_, Volume 14), Minneapolis: University of Minnesota Press, pp. 175–204. Reprinted in Salmon 2005: 93–116. \[[Salmon 1990d available online](http://mcps.umn.edu/philosophy/14\_8Salmon.pdf)]
-* 1991, “Hans Reichenbach’s Vindication of Induction”, _Erkenntnis_, 35(1/3): 99–122.
-* 1994a \[2005], “Carnap, Hempel, and Reichenbach on Scientific Realism”, in Wesley C. Salmon and Gereon Wolters (eds.), _Logic, Language, and the Structure of Scientific Theories_, Pittsburgh/Konstanz: University of Pittsburgh Press/ Universitätsverlag Konstanz, pp. 237–254. Reprinted in Salmon 2005: 19–30.
-* 1994b, “Causality Without Counterfactuals”, _Philosophy of Science_, 61(2): 297–312. Reprinted in Salmon 1998: 248–260. doi:10.1086/289801
-* 1997, “Causality and Explanation: A Reply to Two Critiques”, _Philosophy of Science_, 64(3): 461–477. doi:10.1086/392561
-* 1998, _Causality and Explanation_, New York: Oxford University Press. doi:10.1093/0195108647.001.0001
-* 1999, “Ornithology in a Cubical World: Reichenbach on Scientific Realism”, in Daniel Greenberger et al. (eds.), _Epistemological and Experimental Perspectives on Quantum Physics_, Dordrecht: Kluwer, pp. 303–315. doi:10.1007/978-94-017-1454-9\_32
-* 2002, “A Realistic Account of Causation”, in Michele Marsonet (ed.), _The Problem of Realism_, Aldershot and Burlington, VT: Ashgate Publishing, pp. 106–134.
-* 2005, _Reality and Rationality_, Phil Dowe and Merrilee H. Salmon (eds.), New York: Oxford University Press.
-* 2010, “The Causal Structure of the World”, _Metatheoria_, 1(1): 1–13. \[[Salmon 2010 available online](http://www.metatheoria.com.ar/index.php/m/article/view/31)]
+* 1989, *Scientific Explanation*, (*Minnesota Studies in the Philosophy of Science*, Volume 13), Minneapolis: University of Minnesota Press (co-edited with Philip Kitcher). \[[Salmon 1989 available online](http://mcps.umn.edu/philosophy/VolumeXIII.htm)]
+* 1990a, *Four Decades of Scientific Explanation*, Minneapolis: University of Minnesota Press. Reprinted with a foreword by Paul Humphreys, Pittsburgh: University of Pittsburgh Press, 2006.
+* 1990b \[1998], “Scientific Explanation: Causation *and* Unification”, *Critica*, 22(66): 3–21. Reprinted in Salmon 1998: 68–78. \[[Salmon 1990b available online](http://critica.filosoficas.unam.mx/pg/en/numeros\_detalle\_articulo.php?id\_articulo=460\&id\_volumen=86)]
+* 1990c \[1998], “Causal Propensities: Statistical Causality vs. Aleatory Causality”, *Topoi*, 9(2): 95–100. Reprinted in Salmon 1998: 200–207. doi:10.1007/BF00135890
+* 1990d \[2005], “Rationality and Objectivity in Science, *or* Tom Kuhn Meets Tom Bayes”, in C. Wade Savage (ed.), *Scientific Theories*, (*Minnesota Studies in the Philosophy of Science*, Volume 14), Minneapolis: University of Minnesota Press, pp. 175–204. Reprinted in Salmon 2005: 93–116. \[[Salmon 1990d available online](http://mcps.umn.edu/philosophy/14\_8Salmon.pdf)]
+* 1991, “Hans Reichenbach’s Vindication of Induction”, *Erkenntnis*, 35(1/3): 99–122.
+* 1994a \[2005], “Carnap, Hempel, and Reichenbach on Scientific Realism”, in Wesley C. Salmon and Gereon Wolters (eds.), *Logic, Language, and the Structure of Scientific Theories*, Pittsburgh/Konstanz: University of Pittsburgh Press/ Universitätsverlag Konstanz, pp. 237–254. Reprinted in Salmon 2005: 19–30.
+* 1994b, “Causality Without Counterfactuals”, *Philosophy of Science*, 61(2): 297–312. Reprinted in Salmon 1998: 248–260. doi:10.1086/289801
+* 1997, “Causality and Explanation: A Reply to Two Critiques”, *Philosophy of Science*, 64(3): 461–477. doi:10.1086/392561
+* 1998, *Causality and Explanation*, New York: Oxford University Press. doi:10.1093/0195108647.001.0001
+* 1999, “Ornithology in a Cubical World: Reichenbach on Scientific Realism”, in Daniel Greenberger et al. (eds.), *Epistemological and Experimental Perspectives on Quantum Physics*, Dordrecht: Kluwer, pp. 303–315. doi:10.1007/978-94-017-1454-9\_32
+* 2002, “A Realistic Account of Causation”, in Michele Marsonet (ed.), *The Problem of Realism*, Aldershot and Burlington, VT: Ashgate Publishing, pp. 106–134.
+* 2005, *Reality and Rationality*, Phil Dowe and Merrilee H. Salmon (eds.), New York: Oxford University Press.
+* 2010, “The Causal Structure of the World”, *Metatheoria*, 1(1): 1–13. \[[Salmon 2010 available online](http://www.metatheoria.com.ar/index.php/m/article/view/31)]
 
 ### Secondary Literature
 
-* Batterman, Robert (ed.), 2013, _The Oxford Handbook of the Philosophy of Physics_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195392043.001.0001
-* Beebe, Helen, Christopher Hitchcock, and Peter Menzies (eds.), 2009, _The Oxford Handbook of Causation_, Oxford: Oxford University Press.
-* Carnap, Rudolf, 1950, _Logical Foundations of Probability_, Chicago: Chicago University Press, 2nd edition 1962.
+* Batterman, Robert (ed.), 2013, *The Oxford Handbook of the Philosophy of Physics*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195392043.001.0001
+* Beebe, Helen, Christopher Hitchcock, and Peter Menzies (eds.), 2009, *The Oxford Handbook of Causation*, Oxford: Oxford University Press.
+* Carnap, Rudolf, 1950, *Logical Foundations of Probability*, Chicago: Chicago University Press, 2nd edition 1962.
 * –––, 1968, “Inductive Logic and Inductive Intuition”, in Lakatos (ed.) 1968: 258–267.
 * Clendinnen, F. John, 1982, “Rational Expectation and Simplicity”, in McLaughlin (ed.) 1982: 1–25. doi:10.1007/978-94-009-7731-0\_1
-* Crupi, Vincenzo, 2013 \[2016], “Confirmation”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/confirmation/](https://plato.stanford.edu/archives/win2016/entries/confirmation/).
-* Damman, Olaf, 2020, _Etiological Explanations. Illness Causation Theory_, Boca Raton (FL): CRC Press.
-* Dowe, Phil, 1992, “Wesley Salmon’s Process Theory of Causality and the Conserved Quantity Theory”, _Philosophy of Science_, 59(2): 195–216. doi:10.1086/289662
-* –––, 1995, “Causality and Conserved Quantities: A Reply to Salmon”, _Philosophy of Science_, 62(2): 321–333. doi:10.1086/289859
-* –––, 2000, _Physical Causation_, Cambridge-New York: Cambridge University Press. doi:10.1017/CBO9780511570650
-* Feigl, Herbert, 1950, “De Principiis non Disputandum?”, in Max Black (ed.), _Philosophical Analysis: A Collection of Essays_, Ithaca, NY: Cornell University Press, pp. 119–156.
-* Fetzer, James H. (ed.), 1988, _Probability and Causality: Essays in Honor of Wesley C. Salmon_, Dordrecht: Reidel.
-* –––, 2010 \[2017], “Carl Hempel”, _The Stanford Encyclopedia of Philosophy_ (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2017/entries/hempel/>.](https://plato.stanford.edu/archives/fall2017/entries/hempel/)
-* Galavotti, Maria Carla, 2005, _Philosophical Introduction to Probability_, Stanford: CSLI.
-* Galavotti, Maria Carla and Alessandro Pagnini (eds.), 1999, _Experience, Reality, and Scientific Explanation. Essays in Honor of Merrilee and Wesley Salmon_, Dordrecht: Kluwer.
-* Gillies, Donald, 2000, _Philosophical Theories of Probability_, London-New York: Routledge.
-* Glennan, Stuart, 2017, _The New Mechanical Philosophy_, Oxford: Oxford University Press.
-* Glymour, Clark and Frederick Eberhardt, 2008 \[2016], “Hans Reichenbach”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/reichenbach/](https://plato.stanford.edu/archives/win2016/entries/reichenbach/).
-* Grünbaum, Adolf, 1973, _Philosophical Problems of Space and Time_, (2nd enlarged edition) Dordrecht: Reidel.
-* Hacking, Ian, 1965, “Salmon’s Vindication of Induction”, _Journal of Philosophy_, 62(10): 260–266. doi:10.2307/2023299
+* Crupi, Vincenzo, 2013 \[2016], “Confirmation”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/confirmation/](https://plato.stanford.edu/archives/win2016/entries/confirmation/).
+* Damman, Olaf, 2020, *Etiological Explanations. Illness Causation Theory*, Boca Raton (FL): CRC Press.
+* Dowe, Phil, 1992, “Wesley Salmon’s Process Theory of Causality and the Conserved Quantity Theory”, *Philosophy of Science*, 59(2): 195–216. doi:10.1086/289662
+* –––, 1995, “Causality and Conserved Quantities: A Reply to Salmon”, *Philosophy of Science*, 62(2): 321–333. doi:10.1086/289859
+* –––, 2000, *Physical Causation*, Cambridge-New York: Cambridge University Press. doi:10.1017/CBO9780511570650
+* Feigl, Herbert, 1950, “De Principiis non Disputandum?”, in Max Black (ed.), *Philosophical Analysis: A Collection of Essays*, Ithaca, NY: Cornell University Press, pp. 119–156.
+* Fetzer, James H. (ed.), 1988, *Probability and Causality: Essays in Honor of Wesley C. Salmon*, Dordrecht: Reidel.
+* –––, 2010 \[2017], “Carl Hempel”, *The Stanford Encyclopedia of Philosophy* (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2017/entries/hempel/>.](https://plato.stanford.edu/archives/fall2017/entries/hempel/)
+* Galavotti, Maria Carla, 2005, *Philosophical Introduction to Probability*, Stanford: CSLI.
+* Galavotti, Maria Carla and Alessandro Pagnini (eds.), 1999, *Experience, Reality, and Scientific Explanation. Essays in Honor of Merrilee and Wesley Salmon*, Dordrecht: Kluwer.
+* Gillies, Donald, 2000, *Philosophical Theories of Probability*, London-New York: Routledge.
+* Glennan, Stuart, 2017, *The New Mechanical Philosophy*, Oxford: Oxford University Press.
+* Glymour, Clark and Frederick Eberhardt, 2008 \[2016], “Hans Reichenbach”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/reichenbach/](https://plato.stanford.edu/archives/win2016/entries/reichenbach/).
+* Grünbaum, Adolf, 1973, *Philosophical Problems of Space and Time*, (2nd enlarged edition) Dordrecht: Reidel.
+* Hacking, Ian, 1965, “Salmon’s Vindication of Induction”, *Journal of Philosophy*, 62(10): 260–266. doi:10.2307/2023299
 * –––, 1968, “One Problem about Induction”, in Lakatos (ed.) 1968: 44–59.
-* Hájek, Alan, 2002 \[2012], “Interpretations of Probability”, _The Stanford Encyclopedia of Philosophy_, (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <[Interpretations of Probability (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/probability-interpret/)>.
-* Hájek, Alan and Christopher Hitchcock (eds.), 2016, _The Oxford Handbook of Probability and Philosophy_, Oxford: Oxford University Press.
-* Hempel, Carl Gustav, 1965, _Aspects of Scientific Explanation and Other Essays in the Philosophy of Science_, New York: The Free Press.
-* Henderson, Leah, “The Problem of Induction”, _The Stanford Encyclopedia of Philosophy_ (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/induction-problem/](https://plato.stanford.edu/archives/spr2020/entries/induction-problem/).
-* Hitchcock, Christopher Read, 1995, “Discussion: Salmon on Explanatory Relevance”, _Philosophy of Science_, 62(2): 304–320. doi:10.1086/289858
-* –––, 1997 \[2016], “Probabilistic Causation”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/causation-probabilistic/](https://plato.stanford.edu/archives/win2016/entries/causation-probabilistic/).
-* Huggett, Nick, Carl Hoefer, and James Read, 2022, “Absolute and Relational Space and Motion: Post-Newtonian Theories”, _The Stanford Encyclopedia of Philosophy_ (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/spacetime-theories/](https://plato.stanford.edu/archives/spr2022/entries/spacetime-theories/).
-* Humphreys, Paul, 1985, “Why Propensities Cannot be Probabilities”, _The Philosophical Review_, 94(4): 557–570. doi:10.2307/2185246
+* Hájek, Alan, 2002 \[2012], “Interpretations of Probability”, *The Stanford Encyclopedia of Philosophy*, (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <[Interpretations of Probability (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/probability-interpret/)>.
+* Hájek, Alan and Christopher Hitchcock (eds.), 2016, *The Oxford Handbook of Probability and Philosophy*, Oxford: Oxford University Press.
+* Hempel, Carl Gustav, 1965, *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science*, New York: The Free Press.
+* Henderson, Leah, “The Problem of Induction”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/induction-problem/](https://plato.stanford.edu/archives/spr2020/entries/induction-problem/).
+* Hitchcock, Christopher Read, 1995, “Discussion: Salmon on Explanatory Relevance”, *Philosophy of Science*, 62(2): 304–320. doi:10.1086/289858
+* –––, 1997 \[2016], “Probabilistic Causation”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/causation-probabilistic/](https://plato.stanford.edu/archives/win2016/entries/causation-probabilistic/).
+* Huggett, Nick, Carl Hoefer, and James Read, 2022, “Absolute and Relational Space and Motion: Post-Newtonian Theories”, *The Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/spacetime-theories/](https://plato.stanford.edu/archives/spr2022/entries/spacetime-theories/).
+* Humphreys, Paul, 1985, “Why Propensities Cannot be Probabilities”, *The Philosophical Review*, 94(4): 557–570. doi:10.2307/2185246
 * Kitcher, Philip, 1989, “Explanatory Unification and the Causal Structure of the World”, in Salmon \[with Kitcher] (eds.) 1989: 410–505. \[[Kitcher 1989 available online](http://mcps.umn.edu/philosophy/13\_13Kitcher.pdf)]
-* Lakatos, Imre (ed.), 1968, _The Problem of Inductive Logic: Proceedings of the International Colloquium in the Philosophy of Science, London, 1965_ (Volume II), Amsterdam: North-Holland.
-* Malament, David, 2012, _Topics in the Foundations of General Relativity and Newtonian Gravitation Theory_, Chicago: University of Chicago Press.
-* McLaughlin, Robert (ed.), 1982, _What? Where? When? Why?_, Dordrecht: Reidel. doi:10.1007/978-94-009-7731-0
-* Mitchell, Sandra D. (ed.), 2004. _PSA02, Part II: Symposia Papers, Philosophy of Science_, 71(5): 922–959.
-* Nicholson, Daniel J. and Dupré, John (eds.), 2018, _Everything Flows. Towards a Processual Philosophy of Biology_, Oxford: Oxford University Press.
-* Nye, Mary Jo, 1972, _Molecular Reality: A Perspective on the Scientific Work of Jean Perrin_, London: Macdonald.
-* Popper, Karl, 1959, “The Propensity Interpretation of Probability”, _British Journal for the Philosophy of Science_, 10(37): 25–42. doi:10.1093/bjps/X.37.25
-* Railton, Peter, 1981, “Probability, Explanation, and Information”, _Synthese_, 48(2): 233–256. doi:10.1007/BF01063889
-* Reichenbach, Hans, 1928 \[1957], _The Philosophy of Space and Time_, New York: Dover.
-* –––, 1935 \[1949], _The Theory of Probability_, Berkeley-Los Angeles: University of California Press, page reference is to the 2nd edition, 1971.
-* –––, 1936, “Logicist Empiricism in Germany and the Present State of its Problems”, _Journal of Philosophy_, 33(6): 141–160. doi:10.2307/2015405
-* –––, 1938, _Experience and Prediction_, Chicago: Chicago University Press.
-* –––, 1956, _The Direction of Time_, Berkeley: University of California Press.
-* Russell, Bertrand, 1929, _Our Knowledge of the External World_, New York: Norton & Company.
-* –––, 1948, _Human Knowledge. Its Scope and Limits_, New York: Simon and Schuster.
-* Schickore, Jutta, 2014, “Scientific Discovery”, _The Stanford Encyclopedia of Philosophy_ (Spring 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2014/entries/scientific-discovery/](https://plato.stanford.edu/archives/spr2014/entries/scientific-discovery/).
-* Talbott, William, 2001 \[2016], “Bayesian Epistemology”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/epistemology-bayesian/](https://plato.stanford.edu/archives/win2016/entries/epistemology-bayesian/).
-* van Fraassen, Bas, 1977, “The Pragmatics of Explanation”, _American Philosophical Quarterly_, 14(2): 143–150.
+* Lakatos, Imre (ed.), 1968, *The Problem of Inductive Logic: Proceedings of the International Colloquium in the Philosophy of Science, London, 1965* (Volume II), Amsterdam: North-Holland.
+* Malament, David, 2012, *Topics in the Foundations of General Relativity and Newtonian Gravitation Theory*, Chicago: University of Chicago Press.
+* McLaughlin, Robert (ed.), 1982, *What? Where? When? Why?*, Dordrecht: Reidel. doi:10.1007/978-94-009-7731-0
+* Mitchell, Sandra D. (ed.), 2004. *PSA02, Part II: Symposia Papers, Philosophy of Science*, 71(5): 922–959.
+* Nicholson, Daniel J. and Dupré, John (eds.), 2018, *Everything Flows. Towards a Processual Philosophy of Biology*, Oxford: Oxford University Press.
+* Nye, Mary Jo, 1972, *Molecular Reality: A Perspective on the Scientific Work of Jean Perrin*, London: Macdonald.
+* Popper, Karl, 1959, “The Propensity Interpretation of Probability”, *British Journal for the Philosophy of Science*, 10(37): 25–42. doi:10.1093/bjps/X.37.25
+* Railton, Peter, 1981, “Probability, Explanation, and Information”, *Synthese*, 48(2): 233–256. doi:10.1007/BF01063889
+* Reichenbach, Hans, 1928 \[1957], *The Philosophy of Space and Time*, New York: Dover.
+* –––, 1935 \[1949], *The Theory of Probability*, Berkeley-Los Angeles: University of California Press, page reference is to the 2nd edition, 1971.
+* –––, 1936, “Logicist Empiricism in Germany and the Present State of its Problems”, *Journal of Philosophy*, 33(6): 141–160. doi:10.2307/2015405
+* –––, 1938, *Experience and Prediction*, Chicago: Chicago University Press.
+* –––, 1956, *The Direction of Time*, Berkeley: University of California Press.
+* Russell, Bertrand, 1929, *Our Knowledge of the External World*, New York: Norton & Company.
+* –––, 1948, *Human Knowledge. Its Scope and Limits*, New York: Simon and Schuster.
+* Schickore, Jutta, 2014, “Scientific Discovery”, *The Stanford Encyclopedia of Philosophy* (Spring 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2014/entries/scientific-discovery/](https://plato.stanford.edu/archives/spr2014/entries/scientific-discovery/).
+* Talbott, William, 2001 \[2016], “Bayesian Epistemology”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/epistemology-bayesian/](https://plato.stanford.edu/archives/win2016/entries/epistemology-bayesian/).
+* van Fraassen, Bas, 1977, “The Pragmatics of Explanation”, *American Philosophical Quarterly*, 14(2): 143–150.
 * –––, 1982, “Rational Belief and the Common Cause Principle”, in McLaughlin (ed.) 1982: 193–209. doi:10.1007/978-94-009-7731-0\_9
-* Woodward, James, 1984, “A Theory of Singular Causal Explanation”, _Erkenntnis_, 21(3): 231–262. doi:10.1007/BF00169275
-* –––, 2003 \[2017], “Scientific Explanation”, _The Stanford Encyclopedia of Philosophy_ (Fall 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2017/entries/scientific-explanation/](https://plato.stanford.edu/archives/fall2017/entries/scientific-explanation/).
+* Woodward, James, 1984, “A Theory of Singular Causal Explanation”, *Erkenntnis*, 21(3): 231–262. doi:10.1007/BF00169275
+* –––, 2003 \[2017], “Scientific Explanation”, *The Stanford Encyclopedia of Philosophy* (Fall 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2017/entries/scientific-explanation/](https://plato.stanford.edu/archives/fall2017/entries/scientific-explanation/).
 
 ## Academic Tools
 
@@ -514,13 +514,13 @@ The reader is invited to see three collections of essays dealing with the variou
 
 * [Guide to the Wesley C. Salmon Papers, 1950–2003 ASP.2003.01](http://digital.library.pitt.edu/islandora/object/pitt%3AUS-PPiU-asp200301/manuscript/manuscripts), ULS Digital Collections
 * Salmon, Wesley C., [“Italian Science and Letters: Draft”](https://digital.library.pitt.edu/islandora/object/pitt%3A31735033465448/viewer#page/6/mode/2up), Doc. 31735033465448, Box 26, Folder 1.
-* [_Wesley C. Salmon_](https://en.wikipedia.org/w/index.php?title=Wesley\_C.\_Salmon\&oldid=839406219), entry in Wikipedia, dated 3 May, 2018.
-* [Wesley C. Salmon](http://www.utimes.pitt.edu/?p=1775), Obituary, _University Times_, University of Pittsburgh, May 3, 2001
-* Dowe, Phil, “Causal Processes,” _Stanford Encyclopedia of Philosophy_ (Summer 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2018/entries/causation-process/](https://plato.stanford.edu/archives/sum2018/entries/causation-process/).
+* [*Wesley C. Salmon*](https://en.wikipedia.org/w/index.php?title=Wesley\_C.\_Salmon\&oldid=839406219), entry in Wikipedia, dated 3 May, 2018.
+* [Wesley C. Salmon](http://www.utimes.pitt.edu/?p=1775), Obituary, *University Times*, University of Pittsburgh, May 3, 2001
+* Dowe, Phil, “Causal Processes,” *Stanford Encyclopedia of Philosophy* (Summer 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2018/entries/causation-process/](https://plato.stanford.edu/archives/sum2018/entries/causation-process/).
 
 ## Related Entries
 
 [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [causation: probabilistic](https://plato.stanford.edu/entries/causation-probabilistic/) | [confirmation](https://plato.stanford.edu/entries/confirmation/) | [empiricism: logical](https://plato.stanford.edu/entries/logical-empiricism/) | [epistemology: Bayesian](https://plato.stanford.edu/entries/epistemology-bayesian/) | [Hempel, Carl](https://plato.stanford.edu/entries/hempel/) | [induction: problem of](https://plato.stanford.edu/entries/induction-problem/) | [mechanism in science](https://plato.stanford.edu/entries/science-mechanisms/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [Reichenbach, Hans](https://plato.stanford.edu/entries/reichenbach/) | [Reichenbach, Hans: common cause principle](https://plato.stanford.edu/entries/physics-Rpcc/) | [scientific discovery](https://plato.stanford.edu/entries/scientific-discovery/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [space and time: absolute and relational space and motion, classical theories](https://plato.stanford.edu/entries/spacetime-theories-classical/) | [space and time: conventionality of simultaneity](https://plato.stanford.edu/entries/spacetime-convensimul/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Maria Carla Galavotti <[_mariacarla.galavotti@unibo.it_](mailto:mariacarla%2egalavotti%40unibo%2eit)>
+Maria Carla Galavotti <[*mariacarla.galavotti@unibo.it*](mailto:mariacarla%2egalavotti%40unibo%2eit)>

@@ -1,6 +1,6 @@
 # 自然神学与自然宗教 theology, natural and natural religion (Andrew Chignell and Derk Pereboom)
 
-_首次发表于 2015 年 7 月 6 日星期一；实质性修订于 2020 年 7 月 17 日星期五_
+*首次发表于 2015 年 7 月 6 日星期一；实质性修订于 2020 年 7 月 17 日星期五*
 
 “自然宗教”这个术语有时被理解为指一种泛神论的教义，即自然本身就是神圣的。“自然神学”，相比之下，最初是指（现在有时仍然指）基于观察到的自然事实来证明上帝存在的项目。
 
@@ -323,60 +323,60 @@ _首次发表于 2015 年 7 月 6 日星期一；实质性修订于 2020 年 7 �
 
 ## Bibliography
 
-* Abaci, Uygar, 2014, “Kant’s Only Possible Argument and Chignell’s Real Harmony”, _Kantian Review_, 19(1): 1–25.
-* –––, 2019, _Kant’s Revolutionary Theory of Modality_, New York, NY: Oxford University Press.
-* Adams, Marilyn McCord, 2000, _Horrendous Evils and the Goodness of God_, Ithaca, NY: Cornell University Press.
-* –––, 2006, _Christ and Horrors_, New York: Cambridge University Press.
-* Adams, Robert Merrihew, 1971, “The Logical Structure of Anselm’s Arguments”, _The Philosophical Review_, 80(1): 28–54.
-* –––, 1994, _Leibniz: Determinist, Theist, Idealist_, New York: Oxford University Press.
-* –––, 2000, “God, Possibility, and Kant”, _Faith and Philosophy_, 17(4): 425–40.
-* Adamson, Peter, 2013, “From the Necessary Existent to God”, in P. Adamson (ed.), _Interpreting Avicenna_, Cambridge: Cambridge University Press, pp. 170–189.
-* Al-Ghazali, 2000, _The Incoherence of the Philosophers_, M. E. Marmura (ed. and trans.), Provo: Brigham Young University Press.
-* Alston, William P., 1991, _Perceiving God: The Epistemology of Religious Experience_, Ithaca, NY: Cornell University Press.
-* Anselm, 2007, _Anselm: Basic Writings_, translated by Thomas Williams, Indianapolis: Hackett Publishing.
-* Avicenna (Ibn Sina), \[ISR], 2014, _Ibn Sina’s Remarks and Admonitions: ‘Physics’ and ‘Metaphysics’: An Analysis and Annotated Translation_, Shams C. Inati (ed. and trans.), New York: Columbia University Press.
-* Barth, Karl, 1934, _Nein! Antwort an Emil Brunner_, München: C. Kaiser.
-* Berkeley, George, 1710 \[1982], _A Treatise Concerning the Principles of Human Knowledge_, Kenneth Winkler (ed.), Indianapolis: Hackett Publishing.
-* Brooke, J. H., F. Watts, and R. R. Manning, 2013, _The Oxford Handbook of Natural Theology_, Oxford: Oxford University Press.
-* Brown, C.M., 2008, “The Design Argument in Classical Hindu Thought”, _International Journal of Hindu Studies_, 12(2): 103–151.
-* Carlson, Erik and Erik J. Olsson, 1998, “Is Our Existence in Need of Further Explanation?,” _Inquiry_, 41(3): 255–75.
-* Charleton, Walter, 1654, _The Darkness of Atheism Dispelled by the Light of Nature: A Physico-Theological Treatise_, London.
-* Chignell, Andrew, 2007, “Belief in Kant”, _Philosophical Review_, 116(3): 72–101.
-* –––, 2009, “Kant, Modality, and the Most Real Being”, _Archiv Für Geschichte Der Philosophie_, 91: 157–92.
-* –––, 2012, “Kant, Possibility, and the Threat of Spinoza”, _Mind_, 121(483): 635–75.
-* –––, 2014, “Kant and the ‘Monstrous’ Ground of Possibility”, _Kantian Review_, 19(1): 53–69.
-* Clarke, Samuel, 1998, _A Demonstration of the Being and Attributes of God and Other Writings_, Cambridge Texts in the History of Philosophy, Cambridge, New York: Cambridge University Press.
+* Abaci, Uygar, 2014, “Kant’s Only Possible Argument and Chignell’s Real Harmony”, *Kantian Review*, 19(1): 1–25.
+* –––, 2019, *Kant’s Revolutionary Theory of Modality*, New York, NY: Oxford University Press.
+* Adams, Marilyn McCord, 2000, *Horrendous Evils and the Goodness of God*, Ithaca, NY: Cornell University Press.
+* –––, 2006, *Christ and Horrors*, New York: Cambridge University Press.
+* Adams, Robert Merrihew, 1971, “The Logical Structure of Anselm’s Arguments”, *The Philosophical Review*, 80(1): 28–54.
+* –––, 1994, *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press.
+* –––, 2000, “God, Possibility, and Kant”, *Faith and Philosophy*, 17(4): 425–40.
+* Adamson, Peter, 2013, “From the Necessary Existent to God”, in P. Adamson (ed.), *Interpreting Avicenna*, Cambridge: Cambridge University Press, pp. 170–189.
+* Al-Ghazali, 2000, *The Incoherence of the Philosophers*, M. E. Marmura (ed. and trans.), Provo: Brigham Young University Press.
+* Alston, William P., 1991, *Perceiving God: The Epistemology of Religious Experience*, Ithaca, NY: Cornell University Press.
+* Anselm, 2007, *Anselm: Basic Writings*, translated by Thomas Williams, Indianapolis: Hackett Publishing.
+* Avicenna (Ibn Sina), \[ISR], 2014, *Ibn Sina’s Remarks and Admonitions: ‘Physics’ and ‘Metaphysics’: An Analysis and Annotated Translation*, Shams C. Inati (ed. and trans.), New York: Columbia University Press.
+* Barth, Karl, 1934, *Nein! Antwort an Emil Brunner*, München: C. Kaiser.
+* Berkeley, George, 1710 \[1982], *A Treatise Concerning the Principles of Human Knowledge*, Kenneth Winkler (ed.), Indianapolis: Hackett Publishing.
+* Brooke, J. H., F. Watts, and R. R. Manning, 2013, *The Oxford Handbook of Natural Theology*, Oxford: Oxford University Press.
+* Brown, C.M., 2008, “The Design Argument in Classical Hindu Thought”, *International Journal of Hindu Studies*, 12(2): 103–151.
+* Carlson, Erik and Erik J. Olsson, 1998, “Is Our Existence in Need of Further Explanation?,” *Inquiry*, 41(3): 255–75.
+* Charleton, Walter, 1654, *The Darkness of Atheism Dispelled by the Light of Nature: A Physico-Theological Treatise*, London.
+* Chignell, Andrew, 2007, “Belief in Kant”, *Philosophical Review*, 116(3): 72–101.
+* –––, 2009, “Kant, Modality, and the Most Real Being”, *Archiv Für Geschichte Der Philosophie*, 91: 157–92.
+* –––, 2012, “Kant, Possibility, and the Threat of Spinoza”, *Mind*, 121(483): 635–75.
+* –––, 2014, “Kant and the ‘Monstrous’ Ground of Possibility”, *Kantian Review*, 19(1): 53–69.
+* Clarke, Samuel, 1998, *A Demonstration of the Being and Attributes of God and Other Writings*, Cambridge Texts in the History of Philosophy, Cambridge, New York: Cambridge University Press.
 * Collins, Robin, 2009, “The Teleological Argument: An Exploration of the Fine-Tuning of the Cosmos,” in Craig and Moreland (eds.), pp. 202–81
-* Copan, Paul and Paul K. Moser (eds.), 2003, _The Rationality of Theism_, London: Routledge.
-* Craig, William Lane, 1979, _The Kalam Cosmological Argument_ (Library of Philosophy and Religion), New York: Barnes\&Noble Books.
-* –––, 2000, “Timelessness and Omnitemporality”, _Philosophia Christi_, 2: 29–33.
-* –––, 2003, “Design and the Anthropic Fine-Tuning of the Universe”, in _God and Design: The Teleological Argument and Modern Science_, Neil A. Manson (ed.), London: Routledge, pp. 155–177.
-* Craig, William Lane and J. P. Moreland (eds.), 2009, _Blackwell Companion to Natural Theology_, Malden, MA: Blackwell.
-* Davis, Caroline Franks, 1989, _The Evidential Force of Religious Experience_, Oxford: Clarendon Press.
-* DeCruz, Helen, and Johan DeSmedt, 2010, _A Natural History of Natural Theology_, Cambridge, MA: MIT Press.
-* Derham, William, 1713, _Physico-Theology_, Hildesheim: Georg Olms Verlag, 1976.
-* Descartes, René, \[AT], _Oeuvres de Descartes / Publiées Par Charles Adam & Paul Tannery Sous Les Auspices Du Minstère de L’instruction Publique_, Paris: Vrin, 1897.
-* Fisher, Mark, and Eric Watkins, 1998, “Kant on the Material Ground of Possibility: From ‘The Only Possible Argument’ to the ‘Critique of Pure Reason’”, _Review of Metaphysics_, 52(2): 369–95.
-* Flew, Antony, 2008, _There Is a God: How the World’s Most Notorious Atheist Changed His Mind_, New York: HarperOne.
-* Forgie, J. William, 2003, “The Alleged Dependency of the Cosmological Argument on the Ontological”, _Faith and Philosophy_, 20(3): 364–70.
-* Gaskin, J. C. A., 1978, _Hume’s Philosophy of Religion_, London: Macmillan.
-* Gauch Jr., Hugh, 2011, “Natural Theology’s Case for Jesus’ Resurrection: Methodological and Statistical Considerations”, _Philosophia Christi_, 13(2): 339–56.
-* –––, 2013, “The Methodology of Ramified Natural Theology”, _Philosophia Christi_, 15(2): 283–98.
-* Grotius, Hugo, 1627, _De veritate religionis Christianae_, Amsterdam: Henricum Wetstenium.
-* Hauerwas, Stanley, 2001, _With the Grain of the Universe: The Church’s Witness and Natural Theology_, Grand Rapids, MI: Brazos Press.
-* Hoffer, Noam, 2016, “The Relation Between God and the World in the PreCritical Kant: Was Kant a Spinozist?”, _Kantian Review_, 21(2): 185–210.
-* Hoffman, Joshua, and Gary Rosenkrantz, 2002, _The Divine Attributes_, Oxford: Blackwell.
-* Holder, Rodney, 2013, “Why We Need Ramified Natural Theology”, _Philosophia Christi_, 15(2): 271–82.
-* Howson, Colin, 1991, “The ‘Old Evidence’ Problem,” _British Journal for the Philosophy of Science_, 42(2): 547–55.
-* Hume, David, 1779 \[2007], _Dialogues Concerning Natural Religion and Other Writings_ (Cambridge Texts in the History of Philosophy), Dorothy Coleman (ed.), Cambridge, New York: Cambridge University Press.
-* Kant, Immanuel, 1763, _Der einzig mögliche Beweisgrund zu einer Demonstration des Daseins Gottes_ (_The Only Possible Basis for a Demonstration of the Existence of God_). Collected in AK 2, pp. 63–163.
-* –––, 1781/1787, _Critique of Pure Reason_, Paul Guyer and Allen W. Wood (eds.), (_The Cambridge Edition of the Works of Immanuel Kant_), New York: Cambridge University Press, 1998.
-* –––, \[LPT] 1817, _Vorlesungenüber die philosophische Religionslehre_ (Lectures on Philosophical Theology), publication of lecture notes from either 1783–84 or 1785–86, Leipzig: Franz, second edition 1830. Collected in AK 28, pp. 988–1529; all the quotations from these lectures cited in the above entry were translated by the authors.
+* Copan, Paul and Paul K. Moser (eds.), 2003, *The Rationality of Theism*, London: Routledge.
+* Craig, William Lane, 1979, *The Kalam Cosmological Argument* (Library of Philosophy and Religion), New York: Barnes\&Noble Books.
+* –––, 2000, “Timelessness and Omnitemporality”, *Philosophia Christi*, 2: 29–33.
+* –––, 2003, “Design and the Anthropic Fine-Tuning of the Universe”, in *God and Design: The Teleological Argument and Modern Science*, Neil A. Manson (ed.), London: Routledge, pp. 155–177.
+* Craig, William Lane and J. P. Moreland (eds.), 2009, *Blackwell Companion to Natural Theology*, Malden, MA: Blackwell.
+* Davis, Caroline Franks, 1989, *The Evidential Force of Religious Experience*, Oxford: Clarendon Press.
+* DeCruz, Helen, and Johan DeSmedt, 2010, *A Natural History of Natural Theology*, Cambridge, MA: MIT Press.
+* Derham, William, 1713, *Physico-Theology*, Hildesheim: Georg Olms Verlag, 1976.
+* Descartes, René, \[AT], *Oeuvres de Descartes / Publiées Par Charles Adam & Paul Tannery Sous Les Auspices Du Minstère de L’instruction Publique*, Paris: Vrin, 1897.
+* Fisher, Mark, and Eric Watkins, 1998, “Kant on the Material Ground of Possibility: From ‘The Only Possible Argument’ to the ‘Critique of Pure Reason’”, *Review of Metaphysics*, 52(2): 369–95.
+* Flew, Antony, 2008, *There Is a God: How the World’s Most Notorious Atheist Changed His Mind*, New York: HarperOne.
+* Forgie, J. William, 2003, “The Alleged Dependency of the Cosmological Argument on the Ontological”, *Faith and Philosophy*, 20(3): 364–70.
+* Gaskin, J. C. A., 1978, *Hume’s Philosophy of Religion*, London: Macmillan.
+* Gauch Jr., Hugh, 2011, “Natural Theology’s Case for Jesus’ Resurrection: Methodological and Statistical Considerations”, *Philosophia Christi*, 13(2): 339–56.
+* –––, 2013, “The Methodology of Ramified Natural Theology”, *Philosophia Christi*, 15(2): 283–98.
+* Grotius, Hugo, 1627, *De veritate religionis Christianae*, Amsterdam: Henricum Wetstenium.
+* Hauerwas, Stanley, 2001, *With the Grain of the Universe: The Church’s Witness and Natural Theology*, Grand Rapids, MI: Brazos Press.
+* Hoffer, Noam, 2016, “The Relation Between God and the World in the PreCritical Kant: Was Kant a Spinozist?”, *Kantian Review*, 21(2): 185–210.
+* Hoffman, Joshua, and Gary Rosenkrantz, 2002, *The Divine Attributes*, Oxford: Blackwell.
+* Holder, Rodney, 2013, “Why We Need Ramified Natural Theology”, *Philosophia Christi*, 15(2): 271–82.
+* Howson, Colin, 1991, “The ‘Old Evidence’ Problem,” *British Journal for the Philosophy of Science*, 42(2): 547–55.
+* Hume, David, 1779 \[2007], *Dialogues Concerning Natural Religion and Other Writings* (Cambridge Texts in the History of Philosophy), Dorothy Coleman (ed.), Cambridge, New York: Cambridge University Press.
+* Kant, Immanuel, 1763, *Der einzig mögliche Beweisgrund zu einer Demonstration des Daseins Gottes* (*The Only Possible Basis for a Demonstration of the Existence of God*). Collected in AK 2, pp. 63–163.
+* –––, 1781/1787, *Critique of Pure Reason*, Paul Guyer and Allen W. Wood (eds.), (*The Cambridge Edition of the Works of Immanuel Kant*), New York: Cambridge University Press, 1998.
+* –––, \[LPT] 1817, *Vorlesungenüber die philosophische Religionslehre* (Lectures on Philosophical Theology), publication of lecture notes from either 1783–84 or 1785–86, Leipzig: Franz, second edition 1830. Collected in AK 28, pp. 988–1529; all the quotations from these lectures cited in the above entry were translated by the authors.
 * –––, \[AK] 1900, Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter). References to this are by volume and page number.
-* –––, \[RRT] 1996, _Religion and Rational Theology_, Allen W. Wood (ed.) and George di Giovanni (trans.), _The Cambridge Edition of the Works of Immanuel Kant_, Cambridge; New York, NY: Cambridge University Press.
-* Kotzen, Matthew, 2012, “Selection Biases in Likelihood Arguments,” _British Journal for the Philosophy of Science_, 63(4): 825–39.
-* Kwan, Kai–Man, 2006, “Can Religious Experience Provide Justification for Belief in the Existence of God? The Debate in Contemporary Analytic Philosophy”, _Philosophy Compass_, 1(6): 640–61.
-* Leech, David, 2013, _The Hammer of the Cartesians: Henry More’s Philosophy of Spirit and the Origins of Modern Atheism_, Leuven: Peeters.
+* –––, \[RRT] 1996, *Religion and Rational Theology*, Allen W. Wood (ed.) and George di Giovanni (trans.), *The Cambridge Edition of the Works of Immanuel Kant*, Cambridge; New York, NY: Cambridge University Press.
+* Kotzen, Matthew, 2012, “Selection Biases in Likelihood Arguments,” *British Journal for the Philosophy of Science*, 63(4): 825–39.
+* Kwan, Kai–Man, 2006, “Can Religious Experience Provide Justification for Belief in the Existence of God? The Debate in Contemporary Analytic Philosophy”, *Philosophy Compass*, 1(6): 640–61.
+* Leech, David, 2013, *The Hammer of the Cartesians: Henry More’s Philosophy of Spirit and the Origins of Modern Atheism*, Leuven: Peeters.
 * Leibniz, Gottfried Wilhelm, 1676, “Two Notations for Discussion with Spinoza”, in Leibniz \[PP]: 167–8.
 * –––, 1677, “Letter to Arnold Eckhard”, in Leibniz \[PP]: 177–80.
 * –––, 1678, “Letter to Countess Elizabeth, On God and Formal Logic”, in Leibniz \[PE]: 237–39.
@@ -385,60 +385,60 @@ _首次发表于 2015 年 7 月 6 日星期一；实质性修订于 2020 年 7 �
 * –––, 1697, “On the Ultimate Origination of Things”, in Leibniz \[PE]: 149–55.
 * –––, 1699, “From the Letters to Thomas Burnett, On Substance”, in Leibniz \[PE]: 149–5.
 * –––, 1714, “Monadology”, in Leibniz \[PP]: 643–653.
-* –––, \[PP], _Philosophical Papers and Letters_, second edition, Leroy E. Loemker (ed.), Volume 8 (32), Dordrecht: D. Reidel, 1969.
-* –––, \[PE], _Philosophical Essays_, translated by Roger Ariew and Daniel Garber, 1st edition, Indianapolis: Hackett Publishing, 1989.
-* Leslie, John, 1998, _Universes_, London; New York: Routledge.
-* Lewis, David, 1970, “Anselm and Actuality”, _Noûs_, 4(2): 175–88.
-* Locke, John, 1695, _The Reasonableness of Christianity as Delivered in the Scriptures_, edited by John C Higgins-Biddle, Oxford: Clarendon Press.
-* MacDonald, Scott, 1998, “Natural Theology”, _Routledge Encyclopedia of Philosophy_, New York: Routledge.
-* Mackie, J., 1982, _The Miracle of Theism: Arguments for and against the Existence of God_, Oxford: Clarendon Press.
-* Manson, Neil A. (ed.), 2003, _God and Design: The Teleological Argument and Modern Science_, London: Routledge.
-* Mayer, Toby, 2001, “Avicenna’s Burhan al-Siddiqin,” _Journal of Islamic Studies_, 12: 18–39.
-* Montaigne, Michel de, 1580, “Apology for Raymond Sebond,” in _The Essays of Michel de Montaigne_, Bk II, Ch. XII, edited by M. A. Screech, London: Allen Lane: Penguin Press, 1991.
-* Monton, Bradley, 2006, “God, Fine-Tuning, and the Problem of Old Evidence,” _British Journal for the Philosophy of Science_, 57(2): 405–24.
-* Moreland, J. P., 2008, _Consciousness and the Existence of God: A Theistic Argument_, London: Routledge.
-* Murphy, Mark C., 2017, _God’s Own Ethics: Norms of Divine Agency and the Argument from Evil_, New York: Oxford University Press.
-* Newman, Robert C., John A. Bloom, and Hugh G. Gauch Jr., 2003, “Public Theology and Prophecy Data: Factual Evidence That Counts for the Biblical World View”, _Journal of the Evangelical Theological Society_, 46(1): 79–110.
-* O’Connor, Timothy, 2008, _Theism and Ultimate Explanation_, London: Wiley Blackwell.
-* Oberst, Michael, 2018, “Kant on Contradiction, Conceptual Content, and the Ens Realissimum,” _Kant Yearbook_, 10(1): 85–103.
-* –––, 2020, “The Possibility Proof is not what Remains from Kant’s Beweisgrund”, _Kantian Review_, 25(2):219–42.
-* Olding, Alan, 1990, _Modern Biology and Natural Theology_, New York: Routledge.
-* Oppy, Graham, 1996, _Ontological Arguments and Belief in God_, 1st edition, Cambridge: Cambridge University Press.
-* –––, 2003, “Modal Theistic Arguments”, _Sophia_, 32(2): 17–24.
-* –––, 2006, _Arguing About Gods_, New York: Cambridge University Press.
-* –––, 2009, “Cosmological Arguments”, _Noûs_, 33(1): 31–48.
-* Paley, William, 1794, _A View of the Evidences of Christianity_, London: J. Davis/R. Faulder.
-* –––, 1802, _Natural Theology; Or, Evidence of the Existence and Attributes of the Deity_, London: Wilks and Taylor.
-* Pasternack, Lawrence, 2001, “The Ens Realissimum and Necessary Being in the Critique of Pure Reason”, _Religious Studies_, 37(4): 467–74.
-* Pereboom, Derk, 1996, “Early Modern Philosophical Theology”, in _A Companion to the Philosophy of Religion_, Philip Quinn and Charles Taliaferro (eds.), 1st edition, Oxford: Blackwell, 103–10.
-* –––, 2010, “Early Modern Philosophical Theology”, in _A Companion to the Philosophy of Religion_, edited by Philip Quinn, Charles Taliaferro, and Paul Draper, 2nd edition, Oxford: Blackwell, 114–23.
-* Plantinga, Alvin, 1979, “Is Belief in God Rational?”, in _Rationality and Religious Belief_, Notre Dame, IN.: University of Notre Dame Press, 7–27.
-* –––, 1981, “Is Belief in God Properly Basic?” _Noûs_, 15(1): 41–51.
-* –––, 1984, “Reason and Belief in God”, in _Faith and Rationality: Reason and Belief in God_, Notre Dame, IN.: University of Notre Dame Press.
-* Plantinga, Alvin and Nicholas Wolterstorff (eds.), 1983, _Faith and Rationality: Reason and Belief in God_, Notre Dame, IN: University of Notre Dame Press.
-* Polkinghorne, John, 2009, _Theology in the Context of Science_, New Haven: Yale University Press.
-* Proops, Ian, 2014, “Kant on the Cosmological Argument”, _Philosophers’ Imprint_, 14(12): 1–21.
-* Pruss, Alexander, 2006, _The Principle of Sufficient Reason: A Reassessment_, New York: Cambridge University Press.
-* Rota, Michael, 2005, “Multiple Universes and the Fine-tuning Argument: A Response to Rodney Holder,” _Pacific Philosophical Quarterly_, 86: 556–76.
-* Rowe, William L., 1975, _The Cosmological Argument_, Princeton, N.J: Princeton University Press.
+* –––, \[PP], *Philosophical Papers and Letters*, second edition, Leroy E. Loemker (ed.), Volume 8 (32), Dordrecht: D. Reidel, 1969.
+* –––, \[PE], *Philosophical Essays*, translated by Roger Ariew and Daniel Garber, 1st edition, Indianapolis: Hackett Publishing, 1989.
+* Leslie, John, 1998, *Universes*, London; New York: Routledge.
+* Lewis, David, 1970, “Anselm and Actuality”, *Noûs*, 4(2): 175–88.
+* Locke, John, 1695, *The Reasonableness of Christianity as Delivered in the Scriptures*, edited by John C Higgins-Biddle, Oxford: Clarendon Press.
+* MacDonald, Scott, 1998, “Natural Theology”, *Routledge Encyclopedia of Philosophy*, New York: Routledge.
+* Mackie, J., 1982, *The Miracle of Theism: Arguments for and against the Existence of God*, Oxford: Clarendon Press.
+* Manson, Neil A. (ed.), 2003, *God and Design: The Teleological Argument and Modern Science*, London: Routledge.
+* Mayer, Toby, 2001, “Avicenna’s Burhan al-Siddiqin,” *Journal of Islamic Studies*, 12: 18–39.
+* Montaigne, Michel de, 1580, “Apology for Raymond Sebond,” in *The Essays of Michel de Montaigne*, Bk II, Ch. XII, edited by M. A. Screech, London: Allen Lane: Penguin Press, 1991.
+* Monton, Bradley, 2006, “God, Fine-Tuning, and the Problem of Old Evidence,” *British Journal for the Philosophy of Science*, 57(2): 405–24.
+* Moreland, J. P., 2008, *Consciousness and the Existence of God: A Theistic Argument*, London: Routledge.
+* Murphy, Mark C., 2017, *God’s Own Ethics: Norms of Divine Agency and the Argument from Evil*, New York: Oxford University Press.
+* Newman, Robert C., John A. Bloom, and Hugh G. Gauch Jr., 2003, “Public Theology and Prophecy Data: Factual Evidence That Counts for the Biblical World View”, *Journal of the Evangelical Theological Society*, 46(1): 79–110.
+* O’Connor, Timothy, 2008, *Theism and Ultimate Explanation*, London: Wiley Blackwell.
+* Oberst, Michael, 2018, “Kant on Contradiction, Conceptual Content, and the Ens Realissimum,” *Kant Yearbook*, 10(1): 85–103.
+* –––, 2020, “The Possibility Proof is not what Remains from Kant’s Beweisgrund”, *Kantian Review*, 25(2):219–42.
+* Olding, Alan, 1990, *Modern Biology and Natural Theology*, New York: Routledge.
+* Oppy, Graham, 1996, *Ontological Arguments and Belief in God*, 1st edition, Cambridge: Cambridge University Press.
+* –––, 2003, “Modal Theistic Arguments”, *Sophia*, 32(2): 17–24.
+* –––, 2006, *Arguing About Gods*, New York: Cambridge University Press.
+* –––, 2009, “Cosmological Arguments”, *Noûs*, 33(1): 31–48.
+* Paley, William, 1794, *A View of the Evidences of Christianity*, London: J. Davis/R. Faulder.
+* –––, 1802, *Natural Theology; Or, Evidence of the Existence and Attributes of the Deity*, London: Wilks and Taylor.
+* Pasternack, Lawrence, 2001, “The Ens Realissimum and Necessary Being in the Critique of Pure Reason”, *Religious Studies*, 37(4): 467–74.
+* Pereboom, Derk, 1996, “Early Modern Philosophical Theology”, in *A Companion to the Philosophy of Religion*, Philip Quinn and Charles Taliaferro (eds.), 1st edition, Oxford: Blackwell, 103–10.
+* –––, 2010, “Early Modern Philosophical Theology”, in *A Companion to the Philosophy of Religion*, edited by Philip Quinn, Charles Taliaferro, and Paul Draper, 2nd edition, Oxford: Blackwell, 114–23.
+* Plantinga, Alvin, 1979, “Is Belief in God Rational?”, in *Rationality and Religious Belief*, Notre Dame, IN.: University of Notre Dame Press, 7–27.
+* –––, 1981, “Is Belief in God Properly Basic?” *Noûs*, 15(1): 41–51.
+* –––, 1984, “Reason and Belief in God”, in *Faith and Rationality: Reason and Belief in God*, Notre Dame, IN.: University of Notre Dame Press.
+* Plantinga, Alvin and Nicholas Wolterstorff (eds.), 1983, *Faith and Rationality: Reason and Belief in God*, Notre Dame, IN: University of Notre Dame Press.
+* Polkinghorne, John, 2009, *Theology in the Context of Science*, New Haven: Yale University Press.
+* Proops, Ian, 2014, “Kant on the Cosmological Argument”, *Philosophers’ Imprint*, 14(12): 1–21.
+* Pruss, Alexander, 2006, *The Principle of Sufficient Reason: A Reassessment*, New York: Cambridge University Press.
+* Rota, Michael, 2005, “Multiple Universes and the Fine-tuning Argument: A Response to Rodney Holder,” *Pacific Philosophical Quarterly*, 86: 556–76.
+* Rowe, William L., 1975, *The Cosmological Argument*, Princeton, N.J: Princeton University Press.
 * Sebond, Raymond, 1436 \[1569], “La Theologie Naturelle de Raymond Sebond, Traduicte Nouvellement en François Par Messier Michel, Seigneur de Montaigne”, translated by Michel de Montaigne, 1569; translation edited by Dr Armaingaud, Paris: Conard, 1935.
-* Sedley, David, 2008, _Creationism and its Critics in Antiquity_, Berkeley and Los Angeles, CA: University of California Press.
+* Sedley, David, 2008, *Creationism and its Critics in Antiquity*, Berkeley and Los Angeles, CA: University of California Press.
 * Sober, Elliot, 2003, “The Design Argument”, in Manson (ed.) 2003: 27–54.
-* Speaks, Jeffrey, 2018, _The Greatest Possible Being_, New York: Oxford University Press.
-* Stang, Nicholas F., 2010, “Kant’s Possibility Proof”, _History of Philosophy Quarterly_, 27(3): 275–99.
-* Stang, Nicholas F., 2016, _Kant’s Modal Metaphysics_, Oxford: Oxford University Press.
-* Stump, Eleonore, 2010, _Wandering in Darkness: Narrative and the Problem of Suffering_, Oxford: Clarendon Press.
-* Sudduth, Michael, 2009, _The Reformed Objection to Natural Theology_, Ashgate Publishing, Ltd.
-* Swinburne, Richard, 2003, _The Resurrection of God Incarnate_, Oxford: Oxford University Press.
-* –––, 2004, _The Existence of God_, Oxford: Oxford University Press.
-* Taliaferro, Charles, 2005, _Evidence and Faith: Philosophy and Religion since the Seventeenth Century_, The Evolution of Modern Philosophy. New York: Cambridge University Press.
-* Van Cleve, James, 1999, _Problems from Kant_, New York: Oxford University Press.
-* Van Inwagen, Peter, 1977, “Ontological Arguments”, _Noûs_, 11(4): 375–95.
-* –––, 2009, “Some Remarks on the Modal Ontological Argument”, _Philo_, 12(2): 217–27.
-* –––, 2012, “Three Versions of the Ontological Argument”, in _Ontological Proofs Today_, edited by Miroslaw Szatkowski, Heusenstamm: Ontos Verlag, 143–162.
-* White, Roger, 2000, “Fine-Tuning and Multiple Universes”, _Noûs_, 34(2): 260–76.
-* Wolterstorff, Nicholas, 1984, “Introduction”, in _Faith and Rationality: Reason and Belief in God_, Notre Dame, IN.: University of Notre Dame Press, 1–15.
-* Yong, Peter, 2014, “God, Totality and Possibility in Kant’s Only Possible Argument”, _Kantian Review_, 19(1): 27–51.
+* Speaks, Jeffrey, 2018, *The Greatest Possible Being*, New York: Oxford University Press.
+* Stang, Nicholas F., 2010, “Kant’s Possibility Proof”, *History of Philosophy Quarterly*, 27(3): 275–99.
+* Stang, Nicholas F., 2016, *Kant’s Modal Metaphysics*, Oxford: Oxford University Press.
+* Stump, Eleonore, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Clarendon Press.
+* Sudduth, Michael, 2009, *The Reformed Objection to Natural Theology*, Ashgate Publishing, Ltd.
+* Swinburne, Richard, 2003, *The Resurrection of God Incarnate*, Oxford: Oxford University Press.
+* –––, 2004, *The Existence of God*, Oxford: Oxford University Press.
+* Taliaferro, Charles, 2005, *Evidence and Faith: Philosophy and Religion since the Seventeenth Century*, The Evolution of Modern Philosophy. New York: Cambridge University Press.
+* Van Cleve, James, 1999, *Problems from Kant*, New York: Oxford University Press.
+* Van Inwagen, Peter, 1977, “Ontological Arguments”, *Noûs*, 11(4): 375–95.
+* –––, 2009, “Some Remarks on the Modal Ontological Argument”, *Philo*, 12(2): 217–27.
+* –––, 2012, “Three Versions of the Ontological Argument”, in *Ontological Proofs Today*, edited by Miroslaw Szatkowski, Heusenstamm: Ontos Verlag, 143–162.
+* White, Roger, 2000, “Fine-Tuning and Multiple Universes”, *Noûs*, 34(2): 260–76.
+* Wolterstorff, Nicholas, 1984, “Introduction”, in *Faith and Rationality: Reason and Belief in God*, Notre Dame, IN.: University of Notre Dame Press, 1–15.
+* Yong, Peter, 2014, “God, Totality and Possibility in Kant’s Only Possible Argument”, *Kantian Review*, 19(1): 27–51.
 
 ## Academic Tools
 
@@ -461,5 +461,5 @@ _首次发表于 2015 年 7 月 6 日星期一；实质性修订于 2020 年 7 �
 Our thanks to Monica Burnett, Ryan Darr, Hugh Gauch, Chad McIntosh, Alejandro Naranjo Sandoval, and Daniel Rubio for helpful feedback on earlier drafts of this entry.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Andrew Chignell](https://chignell.net/) <[_chignell@princeton.edu_](mailto:chignell%40princeton%2eedu)>\
-[Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[_dp346@cornell.edu_](mailto:dp346%40cornell%2eedu)>
+[Andrew Chignell](https://chignell.net/) <[*chignell@princeton.edu*](mailto:chignell%40princeton%2eedu)>\
+[Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[*dp346@cornell.edu*](mailto:dp346%40cornell%2eedu)>

@@ -8,7 +8,6 @@
 
 [开源地址](https://github.com/taophilosophy/SEP-CN)
 
-
 ![微信公众号](./.gitbook/assets/wechat.png)
 
 ## 词条说明

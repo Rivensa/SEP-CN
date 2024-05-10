@@ -1,6 +1,6 @@
 # 自卫 self-defense (Helen Frowe and Jonathan Parry)
 
-_首次发表于 2021 年 6 月 29 日_
+*首次发表于 2021 年 6 月 29 日*
 
 杀害和伤害他人是典型的错误行为。然而，对于这个禁令至少有一个直观的例外，即自卫或保护他人时的杀害或伤害。考虑以下情况：
 
@@ -322,7 +322,7 @@ Kimberly Ferzan 认为，虽然 Rival 对 Enemy 进行拳击是不允许的，En
 
 > 然而，正如我们所见，责任辩护并不是唯一可能的造成伤害的辩护理由。有时，行为体可能侵犯他人不受伤害的权利，要么是因为这样做是较小的恶，要么是（更有争议的是）因为行为体有一个相对于行为体的辩护理由。在这些情况下，受害者面临的威胁是她不应该承担的。这些受害者被允许自卫吗？
 
-However, as we have seen, liability justifications are not the only the only possible justification for causing harm. Sometimes agents may _infringe_ others’ rights not to be harmed, either because doing so is the lesser-evil or (more controversially) because the agent has an agent-relative justification. In these cases, the victim faces a threat of harm to which she is not liable. Are these victims permitted to defend themselves?
+However, as we have seen, liability justifications are not the only the only possible justification for causing harm. Sometimes agents may *infringe* others’ rights not to be harmed, either because doing so is the lesser-evil or (more controversially) because the agent has an agent-relative justification. In these cases, the victim faces a threat of harm to which she is not liable. Are these victims permitted to defend themselves?
 
 考虑一个关于 Trolley 的变体：
 
@@ -396,145 +396,145 @@ PCR 面临的一个重要担忧是，它是否容易受到困扰多数派观点�
 
 ### Works cited
 
-* Alexander, Larry, 2005, “Lesser Evils: A Closer Look at the Paradigmatic Justification”, _Law and Philosophy_, 24(6): 611–643. doi:10.1007/s10982-005-0844-9
-* Altman, Andrew and Christopher Heath Wellman, 2008, “From Humanitarian Intervention to Assassination: Human Rights and Political Violence”, _Ethics_, 118(2): 228–257. doi:10.1086/526543
-* Barry, Christian, 2018, “Material Contribution, Responsibility, and Liability”, _Journal of Moral Philosophy_, 15(6): 637–650. doi:10.1163/17455243-20180001
-* Barry, Christian and Gerhard Øverland, 2016, _Responding to Global Poverty: Harm, Responsibility, and Agency_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139381758
-* Bazargan, Saba, 2013, “Complicitous Liability in War”, _Philosophical Studies_, 165(1): 177–195. doi:10.1007/s11098-012-9927-2
-* –––, 2014, “Killing Minimally Responsible Threats”, _Ethics_, 125(1): 114–136. doi:10.1086/677023
-* Bazargan-Forward, Saba, 2018, “Vesting Agent-Relative Permissions in a Proxy”, _Law and Philosophy_, 37(6): 671–695. doi:10.1007/s10982-018-9335-7
-* Bazargan, Saba and Samuel C. Rickless (eds.), 2017, _The Ethics of War: Essays_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199376148.001.0001
-* Beebee, Helen and Alex Kaiserman, 2020, “Causal Contribution in War”, _Journal of Applied Philosophy_, 37(3): 364–377. doi:10.1111/japp.12341
-* Bernstein, Sara, 2017, “Causal Proportions and Moral Responsibility”, _Oxford Studies in Agency and Responsibility, Volume 4_, David Shoemaker (ed.), Oxford: Oxford University Press, 165–182.
-* Bolinger, Renée Jorgensen, 2017, “Reasonable Mistakes and Regulative Norms: Racial Bias in Defensive Harm”, _Journal of Political Philosophy_, 25(2): 196–217. doi:10.1111/jopp.12120
-* –––, 2021, “Demographic Statistics in Defensive Decisions”, _Synthese_, 198(5): 4833–4850. doi:10.1007/s11229-019-02372-w
-* –––, forthcoming, “The Moral Grounds of Reasonably Mistaken Self‐Defense”, _Philosophy and Phenomenological Research_, first online: 29 June 2020. doi:10.1111/phpr.12705
-* Brownlee, Kimberley, 2019, “Acting Defensively for the Sake of Our Attacker”, _Journal of Moral Philosophy_, 16(2): 105–130. doi:10.1163/17455243-20180011
-* Burri, Susanne, 2020, “Morally Permissible Risk Imposition and Liability to Defensive Harm”, _Law and Philosophy_, 39(4): 381–408. doi:10.1007/s10982-019-09368-0
-* Christie, Lars, 2015, _Harming One to Save Another: Liability and Lethal Luck_, Oslo: University of Oslo Press.
-* –––, 2020, “Causation and Liability to Defensive Harm”, _Journal of Applied Philosophy_, 37(3): 378–392. doi:10.1111/japp.12377
-* Coons, Christian and Michael Weber (eds.), 2016, _The Ethics of Self-Defense_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190206086.001.0001
-* Davis, Nancy A., 1984, “Abortion and Self-Defense”, _Philosophy & Public Affairs_, 13(3): 175–207.
+* Alexander, Larry, 2005, “Lesser Evils: A Closer Look at the Paradigmatic Justification”, *Law and Philosophy*, 24(6): 611–643. doi:10.1007/s10982-005-0844-9
+* Altman, Andrew and Christopher Heath Wellman, 2008, “From Humanitarian Intervention to Assassination: Human Rights and Political Violence”, *Ethics*, 118(2): 228–257. doi:10.1086/526543
+* Barry, Christian, 2018, “Material Contribution, Responsibility, and Liability”, *Journal of Moral Philosophy*, 15(6): 637–650. doi:10.1163/17455243-20180001
+* Barry, Christian and Gerhard Øverland, 2016, *Responding to Global Poverty: Harm, Responsibility, and Agency*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139381758
+* Bazargan, Saba, 2013, “Complicitous Liability in War”, *Philosophical Studies*, 165(1): 177–195. doi:10.1007/s11098-012-9927-2
+* –––, 2014, “Killing Minimally Responsible Threats”, *Ethics*, 125(1): 114–136. doi:10.1086/677023
+* Bazargan-Forward, Saba, 2018, “Vesting Agent-Relative Permissions in a Proxy”, *Law and Philosophy*, 37(6): 671–695. doi:10.1007/s10982-018-9335-7
+* Bazargan, Saba and Samuel C. Rickless (eds.), 2017, *The Ethics of War: Essays*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199376148.001.0001
+* Beebee, Helen and Alex Kaiserman, 2020, “Causal Contribution in War”, *Journal of Applied Philosophy*, 37(3): 364–377. doi:10.1111/japp.12341
+* Bernstein, Sara, 2017, “Causal Proportions and Moral Responsibility”, *Oxford Studies in Agency and Responsibility, Volume 4*, David Shoemaker (ed.), Oxford: Oxford University Press, 165–182.
+* Bolinger, Renée Jorgensen, 2017, “Reasonable Mistakes and Regulative Norms: Racial Bias in Defensive Harm”, *Journal of Political Philosophy*, 25(2): 196–217. doi:10.1111/jopp.12120
+* –––, 2021, “Demographic Statistics in Defensive Decisions”, *Synthese*, 198(5): 4833–4850. doi:10.1007/s11229-019-02372-w
+* –––, forthcoming, “The Moral Grounds of Reasonably Mistaken Self‐Defense”, *Philosophy and Phenomenological Research*, first online: 29 June 2020. doi:10.1111/phpr.12705
+* Brownlee, Kimberley, 2019, “Acting Defensively for the Sake of Our Attacker”, *Journal of Moral Philosophy*, 16(2): 105–130. doi:10.1163/17455243-20180011
+* Burri, Susanne, 2020, “Morally Permissible Risk Imposition and Liability to Defensive Harm”, *Law and Philosophy*, 39(4): 381–408. doi:10.1007/s10982-019-09368-0
+* Christie, Lars, 2015, *Harming One to Save Another: Liability and Lethal Luck*, Oslo: University of Oslo Press.
+* –––, 2020, “Causation and Liability to Defensive Harm”, *Journal of Applied Philosophy*, 37(3): 378–392. doi:10.1111/japp.12377
+* Coons, Christian and Michael Weber (eds.), 2016, *The Ethics of Self-Defense*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190206086.001.0001
+* Davis, Nancy A., 1984, “Abortion and Self-Defense”, *Philosophy & Public Affairs*, 13(3): 175–207.
 * Dempsey, Michelle Madden, 2016, “Against Liability”, in Coons and Weber 2016: 211–232. doi:10.1093/acprof:oso/9780190206086.003.0011
-* Draper, Kai, 2009, “Defense”, _Philosophical Studies_, 145(1): 69–88. doi:10.1007/s11098-009-9387-5
-* –––, 2016, _War and Individual Rights: The Foundations of Just War Theory_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199388899.001.0001
-* Dworkin, Gerald, 2002 \[2020], “Paternalism”, _The Stanford Encyclopedia of Philosophy_ (Fall 2020 Edition), Edward N. Zalta (ed.), URL= < https://plato.stanford.edu/archives/fall2020/entries/paternalism/>
-* Fabre, Cécile, 2007, “Mandatory Rescue Killings”, _Journal of Political Philosophy_, 15(4): 363–384. doi:10.1111/j.1467-9760.2007.00282.x
-* –––, 2009a, “Guns, Food, and Liability to Attack in War”, _Ethics_, 120(1): 36–63. doi:10.1086/649218
-* –––, 2009b, “Permissible Rescue Killings”, _Proceedings of the Aristotelian Society_, 109(1pt2): 149–164. doi:10.1111/j.1467-9264.2009.00262.x
-* –––, 2012, _Cosmopolitan War_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199567164.001.0001
-* Ferzan, Kimberly Kessler, 2005, “Justifying Self-Defense”, _Law and Philosophy_, 24(6): 711–749. doi:10.1007/s10982-005-0833-z
-* –––, 2012, “Culpable Aggression: The Basis for Moral Liability to Defensive Killing”, _Ohio State Journal of Criminal Law_, 9(2): 669–697.
-* –––, 2013, “Provocateurs”, _Criminal Law and Philosophy_, 7(3): 597–622. doi:10.1007/s11572-013-9213-1
+* Draper, Kai, 2009, “Defense”, *Philosophical Studies*, 145(1): 69–88. doi:10.1007/s11098-009-9387-5
+* –––, 2016, *War and Individual Rights: The Foundations of Just War Theory*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199388899.001.0001
+* Dworkin, Gerald, 2002 \[2020], “Paternalism”, *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL= < https://plato.stanford.edu/archives/fall2020/entries/paternalism/>
+* Fabre, Cécile, 2007, “Mandatory Rescue Killings”, *Journal of Political Philosophy*, 15(4): 363–384. doi:10.1111/j.1467-9760.2007.00282.x
+* –––, 2009a, “Guns, Food, and Liability to Attack in War”, *Ethics*, 120(1): 36–63. doi:10.1086/649218
+* –––, 2009b, “Permissible Rescue Killings”, *Proceedings of the Aristotelian Society*, 109(1pt2): 149–164. doi:10.1111/j.1467-9264.2009.00262.x
+* –––, 2012, *Cosmopolitan War*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199567164.001.0001
+* Ferzan, Kimberly Kessler, 2005, “Justifying Self-Defense”, *Law and Philosophy*, 24(6): 711–749. doi:10.1007/s10982-005-0833-z
+* –––, 2012, “Culpable Aggression: The Basis for Moral Liability to Defensive Killing”, *Ohio State Journal of Criminal Law*, 9(2): 669–697.
+* –––, 2013, “Provocateurs”, *Criminal Law and Philosophy*, 7(3): 597–622. doi:10.1007/s11572-013-9213-1
 * –––, 2016, “Forfeiture and Self-Defense”, in Coons and Weber 2016: 233–253. doi:10.1093/acprof:oso/9780190206086.003.0012
-* Finlay, Christopher J., 2010, “Legitimacy and Non-State Political Violence”, _Journal of Political Philosophy_, 18(3): 287–312. doi:10.1111/j.1467-9760.2009.00345.x
-* Firth, Joanna Mary and Jonathan Quong, 2012, “Necessity, Moral Liability, and Defensive Harm”, _Law and Philosophy_, 31(6): 673–701. doi:10.1007/s10982-012-9135-4
-* Foot, Philippa, 1967, “The Problem of Abortion and the Doctrine of Double Effect”, _The Oxford Review_, 5: 5–15.
-* Frowe, Helen, 2010, “A Practical Account of Self-Defence”, _Law and Philosophy_, 29(3): 245–272. doi:10.1007/s10982-009-9062-1
-* –––, 2014a, _Defensive Killing_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199609857.001.0001
-* –––, 2014b, “Judging Armed Humanitarian Intervention”, in _The Ethics of Armed Humanitarian Intervention_, Don E. Scheid (ed.), Cambridge: Cambridge University Press, pp. 95–112.
-* –––, 2015, “Review of _The Ethics of Preventive War_, edited by Deen K. Chatterjee”, _Ethics_, 126(1): 215–220. doi:10.1086/682178
-* –––, 2018, “Lesser-Evil Justifications for Harming: Why We’re Required to Turn the Trolley”, _The Philosophical Quarterly_, 68(272): 460–480. doi:10.1093/pq/pqx065
-* –––, 2019, “Civilian Liability”, _Ethics_, 129(4): 625–650. doi:10.1086/702975
-* –––, forthcoming, “Intervening Agency and Civilian Liability”, _Criminal Law and Philosophy_, first online: 27 January 2021. doi:10.1007/s11572-020-09555-4
-* Frowe, Helen and Gerald Lang (eds.), 2014, _How We Fight: Ethics in War_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199673438.001.0001
-* Gardner, John, 2011, “What Is Tort Law For? Part 1. The Place of Corrective Justice”, _Law and Philosophy_, 30(1): 1–50. doi:10.1007/s10982-010-9086-6
-* –––, 2013, “Criminals in Uniform”, in _The Constitution of the Criminal Law_, R. A. Duff, Lindsay Farmer, S. E. Marshall, Massimo Renzo, and Victor Tadros (eds.), Oxford: Oxford University Press, 97–118. doi:10.1093/acprof:oso/9780199673872.003.0006
-* Gordon-Solmon, Kerah, 2017, “Self-Defence Against Multiple Threats”, _Journal of Moral Philosophy_, 14(2): 125–133. doi:10.1163/17455243-46810044
-* –––, 2018, “What Makes a Person Liable to Defensive Harm?”, _Philosophy and Phenomenological Research_, 97(3): 543–567. doi:10.1111/phpr.12369
-* –––, 2019, “Not as a Means: Killing as a Side Effect in Self‐defense”, _Pacific Philosophical Quarterly_, 100(4): 1074–1090. doi:10.1111/papq.12288
-* Hanna, Jason, 2015, “Enabling Harm, Doing Harm, and Undoing One’s Own Behavior”, _Ethics_, 126(1): 68–90. doi:10.1086/682190
-* Haque, Adil Ahmad, 2017, _Law and Morality at War_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199687398.001.0001
-* –––, 2019, “Reply to Parry and Viehoff, Finlay, Ferzan, and Frowe”, _Ethics_, 129(4): 651–683. doi: 10.1086/703126
-* Hecht, Lisa, 2019, “Provocateurs and Their Rights to Self-Defence”, _Criminal Law and Philosophy_, 13(1): 165–185. doi:10.1007/s11572-018-9464-y
+* Finlay, Christopher J., 2010, “Legitimacy and Non-State Political Violence”, *Journal of Political Philosophy*, 18(3): 287–312. doi:10.1111/j.1467-9760.2009.00345.x
+* Firth, Joanna Mary and Jonathan Quong, 2012, “Necessity, Moral Liability, and Defensive Harm”, *Law and Philosophy*, 31(6): 673–701. doi:10.1007/s10982-012-9135-4
+* Foot, Philippa, 1967, “The Problem of Abortion and the Doctrine of Double Effect”, *The Oxford Review*, 5: 5–15.
+* Frowe, Helen, 2010, “A Practical Account of Self-Defence”, *Law and Philosophy*, 29(3): 245–272. doi:10.1007/s10982-009-9062-1
+* –––, 2014a, *Defensive Killing*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199609857.001.0001
+* –––, 2014b, “Judging Armed Humanitarian Intervention”, in *The Ethics of Armed Humanitarian Intervention*, Don E. Scheid (ed.), Cambridge: Cambridge University Press, pp. 95–112.
+* –––, 2015, “Review of *The Ethics of Preventive War*, edited by Deen K. Chatterjee”, *Ethics*, 126(1): 215–220. doi:10.1086/682178
+* –––, 2018, “Lesser-Evil Justifications for Harming: Why We’re Required to Turn the Trolley”, *The Philosophical Quarterly*, 68(272): 460–480. doi:10.1093/pq/pqx065
+* –––, 2019, “Civilian Liability”, *Ethics*, 129(4): 625–650. doi:10.1086/702975
+* –––, forthcoming, “Intervening Agency and Civilian Liability”, *Criminal Law and Philosophy*, first online: 27 January 2021. doi:10.1007/s11572-020-09555-4
+* Frowe, Helen and Gerald Lang (eds.), 2014, *How We Fight: Ethics in War*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199673438.001.0001
+* Gardner, John, 2011, “What Is Tort Law For? Part 1. The Place of Corrective Justice”, *Law and Philosophy*, 30(1): 1–50. doi:10.1007/s10982-010-9086-6
+* –––, 2013, “Criminals in Uniform”, in *The Constitution of the Criminal Law*, R. A. Duff, Lindsay Farmer, S. E. Marshall, Massimo Renzo, and Victor Tadros (eds.), Oxford: Oxford University Press, 97–118. doi:10.1093/acprof:oso/9780199673872.003.0006
+* Gordon-Solmon, Kerah, 2017, “Self-Defence Against Multiple Threats”, *Journal of Moral Philosophy*, 14(2): 125–133. doi:10.1163/17455243-46810044
+* –––, 2018, “What Makes a Person Liable to Defensive Harm?”, *Philosophy and Phenomenological Research*, 97(3): 543–567. doi:10.1111/phpr.12369
+* –––, 2019, “Not as a Means: Killing as a Side Effect in Self‐defense”, *Pacific Philosophical Quarterly*, 100(4): 1074–1090. doi:10.1111/papq.12288
+* Hanna, Jason, 2015, “Enabling Harm, Doing Harm, and Undoing One’s Own Behavior”, *Ethics*, 126(1): 68–90. doi:10.1086/682190
+* Haque, Adil Ahmad, 2017, *Law and Morality at War*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199687398.001.0001
+* –––, 2019, “Reply to Parry and Viehoff, Finlay, Ferzan, and Frowe”, *Ethics*, 129(4): 651–683. doi: 10.1086/703126
+* Hecht, Lisa, 2019, “Provocateurs and Their Rights to Self-Defence”, *Criminal Law and Philosophy*, 13(1): 165–185. doi:10.1007/s11572-018-9464-y
 * Hosein, Adam Omar, 2014, “Are Justified Aggressors a Threat to the Rights Theory of Self-Defense?”, in Frowe and Lang 2014: 87–103. doi:10.1093/acprof:oso/9780199673438.003.0006
-* –––, 2019, “Spare No One? A Review Essay”, _Criminal Law and Philosophy_, 13(1): 187–203. doi:10.1007/s11572-018-9455-z
-* Hurka, Thomas, 2005, “Proportionality in the Morality of War”, _Philosophy & Public Affairs_, 33(1): 34–66. doi:10.1111/j.1088-4963.2005.00024.x
-* Kagan, Shelly, 1989, _The Limits of Morality_, New York: Oxford University Press. doi:10.1093/0198239165.001.0001
-* Kaiserman, Alex, 2017, “Partial Liability”, _Legal Theory_, 23(1): 1–26. doi:10.1017/S1352325217000040
-* –––, 2018, “‘More of a Cause’: Recent Work on Degrees of Causation and Responsibility”, _Philosophy Compass_, 13(7): e12498. doi:10.1111/phc3.12498
-* Kamm, F.M., 1992, _Creation and Abortion: A Study in Moral and Legal Philosophy_, New York: Oxford University Press.
-* –––, 2011, _Ethics for Enemies: Terror, Torture, and War_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199608782.001.0001
+* –––, 2019, “Spare No One? A Review Essay”, *Criminal Law and Philosophy*, 13(1): 187–203. doi:10.1007/s11572-018-9455-z
+* Hurka, Thomas, 2005, “Proportionality in the Morality of War”, *Philosophy & Public Affairs*, 33(1): 34–66. doi:10.1111/j.1088-4963.2005.00024.x
+* Kagan, Shelly, 1989, *The Limits of Morality*, New York: Oxford University Press. doi:10.1093/0198239165.001.0001
+* Kaiserman, Alex, 2017, “Partial Liability”, *Legal Theory*, 23(1): 1–26. doi:10.1017/S1352325217000040
+* –––, 2018, “‘More of a Cause’: Recent Work on Degrees of Causation and Responsibility”, *Philosophy Compass*, 13(7): e12498. doi:10.1111/phc3.12498
+* Kamm, F.M., 1992, *Creation and Abortion: A Study in Moral and Legal Philosophy*, New York: Oxford University Press.
+* –––, 2011, *Ethics for Enemies: Terror, Torture, and War*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199608782.001.0001
 * –––, 2014, “Self-Defense, Resistance, and Suicide: The Taliban Women”, in Frowe and Lang 2014: 75–86. doi:10.1093/acprof:oso/9780199673438.003.0005
-* Kutz, Christopher, 2000, _Complicity: Ethics and Law for a Collective Age_, (Cambridge Studies in Philosophy and Law), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511663758
+* Kutz, Christopher, 2000, *Complicity: Ethics and Law for a Collective Age*, (Cambridge Studies in Philosophy and Law), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511663758
 * Lang, Gerald, 2014, “Why Not Forfeiture?”, in Frowe and Lang 2014: 38–61. doi:10.1093/acprof:oso/9780199673438.003.0003
-* –––, 2017, “What Follows from Defensive Non-Liability?”, _Proceedings of the Aristotelian Society_, 117(3): 231–252. doi:10.1093/arisoc/aox013
-* Lazar, Seth, 2009, “Responsibility, Risk, and Killing in Self‐Defense”, _Ethics_, 119(4): 699–728. doi:10.1086/605727
-* –––, 2012, “Necessity in Self-Defense and War”, _Philosophy & Public Affairs_, 40(1): 3–44. doi:10.1111/j.1088-4963.2012.01214.x
-* –––, 2013, “Associative Duties and the Ethics of Killing in War”, _Journal of Practical Ethics_, 1(1): 3–48.
-* –––, 2015, _Sparing Civilians_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712985.001.0001
-* –––, 2016, “Authorization and The Morality of War”, _Australasian Journal of Philosophy_, 94(2): 211–226. doi:10.1080/00048402.2015.1050680
-* –––, 2018, “In Dubious Battle: Uncertainty and the Ethics of Killing”, _Philosophical Studies_, 175(4): 859–883. doi:10.1007/s11098-017-0896-3
-* –––, 2019a, “Deontological Decision Theory and the Grounds of Subjective Permissibility”, _Oxford Studies in Normative Ethics, Volume 9_, Mark Timmons (ed.), Oxford: Oxford University Press, 204–222.
-* –––, 2019b, “Risky Killing: How Risks Worsen Violations of Objective Rights”, _Journal of Moral Philosophy_, 16(1): 1–26. doi:10.1163/17455243-46810076
-* Levine, Susan, 1984, “The Moral Permissibility of Killing a ‘Material Aggressor’ In Self-Defense”, _Philosophical Studies_, 45(1): 69–78. doi:10.1007/BF00372991
-* Mapel, David R., 2010, “Moral Liability to Defensive Killing and  Symmetrical Self-defense”, _The_ _Journal of Political Philosophy_ 18(2): 198–217. doi: 10.1111/j.1467-9760.2009.00340.x
-* McMahan, Jeff, 1994, “Self-Defense and the Problem of the Innocent Attacker”, _Ethics_, 104(2): 252–290. doi:10.1086/293600
-* –––, 2005a, “The Basis of Moral Liability to Defensive Killing”, _Philosophical Issues_, 15: 386–405. doi:10.1111/j.1533–6077.2005.00073.x
-* –––, 2005b, “Self-Defense and Culpability”, _Law and Philosophy_, 24(6): 751–774. doi:10.1007/s10982-005-0841-z
-* –––, 2008, “Debate: Justification and Liability in War”, _Journal of Political Philosophy_, 16(2): 227–244. doi:10.1111/j.1467-9760.2007.00301.x
-* –––, 2009, _Killing in War_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199548668.001.0001
-* –––, 2010, “Humanitarian Intervention, Consent, and Proportionality”, in _Ethics and Humanity: Themes from the Philosophy of Jonathan Glover_, N. Ann Davis, Richard Keshen and Jeff McMahan (eds.), New York: Oxford University Press, 44–73.
-* –––, 2011a, “Who Is Morally Liable to Be Killed in War”, _Analysis_, 71(3): 544–559. doi:10.1093/analys/anr072
-* –––, 2011b, “Duty, Obedience, Desert, and Proportionality in War: A Response”, _Ethics_, 122(1): 135–167. doi:10.1086/662631
-* –––, 2013, “The Conditions of Liability to Preventive Attack”, in _The Ethics of Preventive War_, Deen K. Chatterjee (ed.), Cambridge: Cambridge University Press, 121–144. doi:10.1017/CBO9781139023948.011
-* –––, 2014a, “Proportionality and Just Cause: A Comment on Kamm”, _Journal of Moral Philosophy,_ 11(4): 428–453. doi: 10.1163/17455243-01104005
-* –––, 2014b, “Proportionate Defense”, _Journal of Transnational Law and Policy_, 23 :1–36.
+* –––, 2017, “What Follows from Defensive Non-Liability?”, *Proceedings of the Aristotelian Society*, 117(3): 231–252. doi:10.1093/arisoc/aox013
+* Lazar, Seth, 2009, “Responsibility, Risk, and Killing in Self‐Defense”, *Ethics*, 119(4): 699–728. doi:10.1086/605727
+* –––, 2012, “Necessity in Self-Defense and War”, *Philosophy & Public Affairs*, 40(1): 3–44. doi:10.1111/j.1088-4963.2012.01214.x
+* –––, 2013, “Associative Duties and the Ethics of Killing in War”, *Journal of Practical Ethics*, 1(1): 3–48.
+* –––, 2015, *Sparing Civilians*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712985.001.0001
+* –––, 2016, “Authorization and The Morality of War”, *Australasian Journal of Philosophy*, 94(2): 211–226. doi:10.1080/00048402.2015.1050680
+* –––, 2018, “In Dubious Battle: Uncertainty and the Ethics of Killing”, *Philosophical Studies*, 175(4): 859–883. doi:10.1007/s11098-017-0896-3
+* –––, 2019a, “Deontological Decision Theory and the Grounds of Subjective Permissibility”, *Oxford Studies in Normative Ethics, Volume 9*, Mark Timmons (ed.), Oxford: Oxford University Press, 204–222.
+* –––, 2019b, “Risky Killing: How Risks Worsen Violations of Objective Rights”, *Journal of Moral Philosophy*, 16(1): 1–26. doi:10.1163/17455243-46810076
+* Levine, Susan, 1984, “The Moral Permissibility of Killing a ‘Material Aggressor’ In Self-Defense”, *Philosophical Studies*, 45(1): 69–78. doi:10.1007/BF00372991
+* Mapel, David R., 2010, “Moral Liability to Defensive Killing and  Symmetrical Self-defense”, *The* *Journal of Political Philosophy* 18(2): 198–217. doi: 10.1111/j.1467-9760.2009.00340.x
+* McMahan, Jeff, 1994, “Self-Defense and the Problem of the Innocent Attacker”, *Ethics*, 104(2): 252–290. doi:10.1086/293600
+* –––, 2005a, “The Basis of Moral Liability to Defensive Killing”, *Philosophical Issues*, 15: 386–405. doi:10.1111/j.1533–6077.2005.00073.x
+* –––, 2005b, “Self-Defense and Culpability”, *Law and Philosophy*, 24(6): 751–774. doi:10.1007/s10982-005-0841-z
+* –––, 2008, “Debate: Justification and Liability in War”, *Journal of Political Philosophy*, 16(2): 227–244. doi:10.1111/j.1467-9760.2007.00301.x
+* –––, 2009, *Killing in War*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199548668.001.0001
+* –––, 2010, “Humanitarian Intervention, Consent, and Proportionality”, in *Ethics and Humanity: Themes from the Philosophy of Jonathan Glover*, N. Ann Davis, Richard Keshen and Jeff McMahan (eds.), New York: Oxford University Press, 44–73.
+* –––, 2011a, “Who Is Morally Liable to Be Killed in War”, *Analysis*, 71(3): 544–559. doi:10.1093/analys/anr072
+* –––, 2011b, “Duty, Obedience, Desert, and Proportionality in War: A Response”, *Ethics*, 122(1): 135–167. doi:10.1086/662631
+* –––, 2013, “The Conditions of Liability to Preventive Attack”, in *The Ethics of Preventive War*, Deen K. Chatterjee (ed.), Cambridge: Cambridge University Press, 121–144. doi:10.1017/CBO9781139023948.011
+* –––, 2014a, “Proportionality and Just Cause: A Comment on Kamm”, *Journal of Moral Philosophy,* 11(4): 428–453. doi: 10.1163/17455243-01104005
+* –––, 2014b, “Proportionate Defense”, *Journal of Transnational Law and Policy*, 23 :1–36.
 * –––, 2016, “The Limits of Self-Defense”, in Coons and Weber 2016: 185–210. doi: 10.1007/s42048-020-00062-8
 * –––, 2017, “Liability, Proportionality, and the Number of Aggressors”, in Bazargan and Rickless 2017: 3–27. doi:10.1093/acprof:oso/9780199376148.003.0001
-* Montague, Phillip, 1981, “Self-Defense and Choosing between Lives”, _Philosophical Studies_, 40(2): 207–219. doi:10.1007/BF00353792
-* Nozick, Robert, 1974, _Anarchy, State and Utopia_, New York: Basic Books.
-* Oberman, Kieran, 2019, “War and Poverty”, _Philosophical Studies_, 176(1): 197–217. doi:10.1007/s11098-017-1012-4
-* –––, 2020, “Killing and Rescuing: Why Necessity Must Be Rethought”, _The Philosophical Review_, 129(3): 433–463. doi:10.1215/00318108-8311248
-* Otsuka, Michael, 1994, “Killing the Innocent in Self-Defense”, _Philosophy & Public Affairs_, 23(1): 74–94. doi:10.1111/j.1088-4963.1994.tb00005.x
+* Montague, Phillip, 1981, “Self-Defense and Choosing between Lives”, *Philosophical Studies*, 40(2): 207–219. doi:10.1007/BF00353792
+* Nozick, Robert, 1974, *Anarchy, State and Utopia*, New York: Basic Books.
+* Oberman, Kieran, 2019, “War and Poverty”, *Philosophical Studies*, 176(1): 197–217. doi:10.1007/s11098-017-1012-4
+* –––, 2020, “Killing and Rescuing: Why Necessity Must Be Rethought”, *The Philosophical Review*, 129(3): 433–463. doi:10.1215/00318108-8311248
+* Otsuka, Michael, 1994, “Killing the Innocent in Self-Defense”, *Philosophy & Public Affairs*, 23(1): 74–94. doi:10.1111/j.1088-4963.1994.tb00005.x
 * –––, 2016, “The Moral-Responsibility Account of Liability to Defensive Killing”, in Coons and Weber 2016: 51–68. doi:10.1093/acprof:oso/9780190206086.003.0003
-* Øverland, Gerhard, 2011, “Moral Taint: On the Transfer of the Implications of Moral Culpability”, _Journal of Applied Philosophy_, 28(2): 122–136. doi:10.1111/j.1468-5930.2011.00521.x
-* Parfit, Derek, 2017, _On What Matters, Volume 3_, Oxford: Oxford University Press. doi:10.1093/oso/9780198778608.001.0001
-* Parry, Jonathan, 2017, “Defensive Harm, Consent, and Intervention”, _Philosophy & Public Affairs_, 45(4): 356–396. doi:10.1111/papa.12099
-* Quong, Jonathan, 2009, “Killing in Self‐Defense”, _Ethics_, 119(3): 507–537. doi:10.1086/597595
-* –––, 2012, “Liability to Defensive Harm”, _Philosophy & Public Affairs_, 40(1): 45–77. doi:10.1111/j.1088-4963.2012.01217.x
-* –––, 2016, “Agent-Relative Prerogatives to Do Harm”, _Criminal Law and Philosophy_, 10(4): 815–829. doi:10.1007/s11572-014-9345-y
-* –––, 2020, _The Morality of Defensive Force_, New York: Oxford University Press. doi:10.1093/oso/9780198851103.001.0001
-* Renzo, Massimo, 2017, “Rights Forfeiture and Liability to Harm”, _Journal of Political Philosophy_, 25(3): 324–342. doi:10.1111/jopp.12116
-* Rickless, Samuel C., 2011, “The Moral Status of Enabling Harm”, _Pacific Philosophical Quarterly_, 92(1): 66–86. doi:10.1111/j.1468-0114.2010.01385.x
-* Rodin, David, 2002, _War and Self-Defense_, New York: Oxford University Press. doi:10.1093/0199257744.001.0001
-* –––, 2008, “The Moral Inequality of Soldiers: Why Jus in Bello Asymmetry is Half Right,” in _Just and Unjust Warriors: The Moral and Legal Status of Soldiers_, David Rodin and Henry Shue (eds.), New York: Oxford University Press, 44–68.
-* –––, 2011a, “Justifying Harm”, _Ethics_, 122(1): 74–110. doi:10.1086/662295
-* –––, 2011b, “Morality and Law in War”, in _The Changing Character of War_, Hew Strachan and Sibylle Scheipers (eds.), Oxford: Oxford University Press, 446–463. doi:10.1093/acprof:osobl/9780199596737.003.0025
+* Øverland, Gerhard, 2011, “Moral Taint: On the Transfer of the Implications of Moral Culpability”, *Journal of Applied Philosophy*, 28(2): 122–136. doi:10.1111/j.1468-5930.2011.00521.x
+* Parfit, Derek, 2017, *On What Matters, Volume 3*, Oxford: Oxford University Press. doi:10.1093/oso/9780198778608.001.0001
+* Parry, Jonathan, 2017, “Defensive Harm, Consent, and Intervention”, *Philosophy & Public Affairs*, 45(4): 356–396. doi:10.1111/papa.12099
+* Quong, Jonathan, 2009, “Killing in Self‐Defense”, *Ethics*, 119(3): 507–537. doi:10.1086/597595
+* –––, 2012, “Liability to Defensive Harm”, *Philosophy & Public Affairs*, 40(1): 45–77. doi:10.1111/j.1088-4963.2012.01217.x
+* –––, 2016, “Agent-Relative Prerogatives to Do Harm”, *Criminal Law and Philosophy*, 10(4): 815–829. doi:10.1007/s11572-014-9345-y
+* –––, 2020, *The Morality of Defensive Force*, New York: Oxford University Press. doi:10.1093/oso/9780198851103.001.0001
+* Renzo, Massimo, 2017, “Rights Forfeiture and Liability to Harm”, *Journal of Political Philosophy*, 25(3): 324–342. doi:10.1111/jopp.12116
+* Rickless, Samuel C., 2011, “The Moral Status of Enabling Harm”, *Pacific Philosophical Quarterly*, 92(1): 66–86. doi:10.1111/j.1468-0114.2010.01385.x
+* Rodin, David, 2002, *War and Self-Defense*, New York: Oxford University Press. doi:10.1093/0199257744.001.0001
+* –––, 2008, “The Moral Inequality of Soldiers: Why Jus in Bello Asymmetry is Half Right,” in *Just and Unjust Warriors: The Moral and Legal Status of Soldiers*, David Rodin and Henry Shue (eds.), New York: Oxford University Press, 44–68.
+* –––, 2011a, “Justifying Harm”, *Ethics*, 122(1): 74–110. doi:10.1086/662295
+* –––, 2011b, “Morality and Law in War”, in *The Changing Character of War*, Hew Strachan and Sibylle Scheipers (eds.), Oxford: Oxford University Press, 446–463. doi:10.1093/acprof:osobl/9780199596737.003.0025
 * –––, 2017, “The Lesser Evil Obligation”, in Bazargan and Rickless 2017: 28–45. doi:10.1093/acprof:oso/9780199376148.003.0002
-* Sartorio, Carolina, 2020, “More of a Cause?”, _Journal of Applied Philosophy_, 37(3): 346–363. doi:10.1111/japp.12370
-* Scheffler, Samuel, 1982, _The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions_, Oxford: Oxford University Press. doi:10.1093/0198235119.001.0001
-* Schwartz, Daniel, 2020, “Necessity Historically Considered”, _Journal of Moral Philosophy_, 17(6): 591–605. doi:10.1163/17455243-20203185
-* Steinhoff, Uwe, 2008, “Debate: Jeff McMahan on the Moral Inequality of Combatants”, _Journal of Political Philosophy_, 16(2): 220–226. doi:10.1111/j.1467-9760.2007.00304.x
-* –––, 2019, _Self-Defense, Necessity, and Punishment: A Philosophical Analysis_, New York: Routledge. doi:10.4324/9780367814441
-* Tadros, Victor, 2011, _The Ends of Harm: The Moral Foundations of Criminal Law_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199554423.001.0001
-* –––, 2014a, “Resource Wars”, _Law and Philosophy_, 33(3): 361–389. doi:10.1007/s10982-013-9193-2
-* –––, 2014b, “Orwell’s Battle with Brittain: Vicarious Liability for Unjust Aggression”, _Philosophy & Public Affairs_, 42(1): 42–77. doi:10.1111/papa.12025
+* Sartorio, Carolina, 2020, “More of a Cause?”, *Journal of Applied Philosophy*, 37(3): 346–363. doi:10.1111/japp.12370
+* Scheffler, Samuel, 1982, *The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions*, Oxford: Oxford University Press. doi:10.1093/0198235119.001.0001
+* Schwartz, Daniel, 2020, “Necessity Historically Considered”, *Journal of Moral Philosophy*, 17(6): 591–605. doi:10.1163/17455243-20203185
+* Steinhoff, Uwe, 2008, “Debate: Jeff McMahan on the Moral Inequality of Combatants”, *Journal of Political Philosophy*, 16(2): 220–226. doi:10.1111/j.1467-9760.2007.00304.x
+* –––, 2019, *Self-Defense, Necessity, and Punishment: A Philosophical Analysis*, New York: Routledge. doi:10.4324/9780367814441
+* Tadros, Victor, 2011, *The Ends of Harm: The Moral Foundations of Criminal Law*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199554423.001.0001
+* –––, 2014a, “Resource Wars”, *Law and Philosophy*, 33(3): 361–389. doi:10.1007/s10982-013-9193-2
+* –––, 2014b, “Orwell’s Battle with Brittain: Vicarious Liability for Unjust Aggression”, *Philosophy & Public Affairs*, 42(1): 42–77. doi:10.1111/papa.12025
 * –––, 2016a, “Causation, Culpability, and Liability”, in Coons and Weber 2016: 110–130. doi:10.1093/acprof:oso/9780190206086.003.0006
-* –––, 2016b, “Unjust Wars Worth Fighting For”, _Journal of Practical Ethics_, 4(1): 52–78. \[[Tadros 2016b available online](https://www.jpe.ox.ac.uk/papers/unjust-wars-worth-fighting-for/)]
-* –––, 2016c, _Wrongs and Crimes_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199571376.001.0001
-* –––, 2018, “Causal Contributions and Liability”, _Ethics_, 128(2): 402–431. doi:10.1086/694275
-* Thomson, Judith Jarvis, 1985, “The Trolley Problem”, _Yale Law Journal_, 94(6): 1395–1415.
-* –––, 1991, “Self-Defense”, _Philosophy & Public Affairs_, 20(4): 283–310.
-* Tomlin, Patrick, 2019, “Subjective Proportionality”, _Ethics_, 129(2): 254–283. doi:10.1086/700031
-* –––, 2020, “Distributive Justice for Aggressors”, _Law and Philosophy_, 39(4): 351–379. doi:10.1007/s10982-019-09373-3
-* Uniacke, Suzanne, 2011, “Proportionality and Self-Defense”, _Law and Philosophy_, 30(3): 253–272. doi:10.1007/s10982-010-9090-x
-* van der Vossen, Bas, 2016, “Uncertain Rights against Defense”, _Social Philosophy and Policy_, 32(2): 129–145. doi:10.1017/S0265052516000133
-* Waldron, Jeremy, 2000, “Self-Defense: Agent-Neutral and Agent-Relative Accounts”, _California Law Review_, 88(3): 711–749. doi:10.2307/3481190
-* Walen, Alec and David Wasserman, 2012, “Agents, Impartiality, and the Priority of Claims over Duties: Diagnosing Why Thomson Still Gets the Trolley Problem Wrong by Appeal to the ‘Mechanics of Claims’”, _Journal of Moral Philosophy_, 9(4): 545–571. doi:10.1163/174552412X628959
-* Zohar, Noam J., 1993, “Collective War and Individualistic Ethics: Against the Conscription of ‘Self-Defense’”, _Political Theory_, 21(4): 606–622. doi:10.1177/0090591793021004003
+* –––, 2016b, “Unjust Wars Worth Fighting For”, *Journal of Practical Ethics*, 4(1): 52–78. \[[Tadros 2016b available online](https://www.jpe.ox.ac.uk/papers/unjust-wars-worth-fighting-for/)]
+* –––, 2016c, *Wrongs and Crimes*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199571376.001.0001
+* –––, 2018, “Causal Contributions and Liability”, *Ethics*, 128(2): 402–431. doi:10.1086/694275
+* Thomson, Judith Jarvis, 1985, “The Trolley Problem”, *Yale Law Journal*, 94(6): 1395–1415.
+* –––, 1991, “Self-Defense”, *Philosophy & Public Affairs*, 20(4): 283–310.
+* Tomlin, Patrick, 2019, “Subjective Proportionality”, *Ethics*, 129(2): 254–283. doi:10.1086/700031
+* –––, 2020, “Distributive Justice for Aggressors”, *Law and Philosophy*, 39(4): 351–379. doi:10.1007/s10982-019-09373-3
+* Uniacke, Suzanne, 2011, “Proportionality and Self-Defense”, *Law and Philosophy*, 30(3): 253–272. doi:10.1007/s10982-010-9090-x
+* van der Vossen, Bas, 2016, “Uncertain Rights against Defense”, *Social Philosophy and Policy*, 32(2): 129–145. doi:10.1017/S0265052516000133
+* Waldron, Jeremy, 2000, “Self-Defense: Agent-Neutral and Agent-Relative Accounts”, *California Law Review*, 88(3): 711–749. doi:10.2307/3481190
+* Walen, Alec and David Wasserman, 2012, “Agents, Impartiality, and the Priority of Claims over Duties: Diagnosing Why Thomson Still Gets the Trolley Problem Wrong by Appeal to the ‘Mechanics of Claims’”, *Journal of Moral Philosophy*, 9(4): 545–571. doi:10.1163/174552412X628959
+* Zohar, Noam J., 1993, “Collective War and Individualistic Ethics: Against the Conscription of ‘Self-Defense’”, *Political Theory*, 21(4): 606–622. doi:10.1177/0090591793021004003
 
 ### Other works
 
-* Arneson, Richard J., 2018, “Self-Defense and Culpability: Fault Forfeits First”, _San Diego Law Review_, 55(2): 231–264.
-* Benbaji, Yitzhak, 2005, “Culpable Bystanders, Innocent Threats and the Ethics of Self-Defense”, _Canadian Journal of Philosophy_, 35(4): 585–622. doi:10.1080/00455091.2005.10716603
-* Bowen, Joseph, 2016, “Necessity and Liability: On an Honour-Based Justification for Defensive Harming”, _The Journal of Practical Ethics_, 4(2): 79–93. \[[Bowen 2016 available online](https://www.jpe.ox.ac.uk/papers/necessity-and-liability-on-an-honour-based-justification-for-defensive-harming/)]
-* Burri, Susanne, 2015, “The Toss-Up Between a Profiting, Innocent Threat and His Victim”, _Journal of Political Philosophy_, 23(2): 146–165. doi:10.1111/jopp.12041
-* Doggett, Tyler, 2011, “Recent Work on the Ethics of Self-Defense”, _Philosophy Compass_, 6(4): 220–233. doi:10.1111/j.1747-9991.2010.00382.x
-* –––, 2018, “Killing Innocent People”, _Noûs_, 52(3): 645–666. doi:10.1111/nous.12188
-* Ferzan, Kimberly Kessler, 2017, “The Bluff: The Power of Insincere Actions”, _Legal Theory_, 23(3): 168–202. doi:10.1017/S135232521700026X
-* Gardner, John and François Tanguay-Renaud, 2011, “Desert and Avoidability in Self-Defense”, _Ethics_, 122(1): 111–134. doi:10.1086/662294
-* Statman, Daniel, 2008, “On the Success Condition for Legitimate Self‐Defense”, _Ethics_, 118(4): 659–686. doi:10.1086/589531
+* Arneson, Richard J., 2018, “Self-Defense and Culpability: Fault Forfeits First”, *San Diego Law Review*, 55(2): 231–264.
+* Benbaji, Yitzhak, 2005, “Culpable Bystanders, Innocent Threats and the Ethics of Self-Defense”, *Canadian Journal of Philosophy*, 35(4): 585–622. doi:10.1080/00455091.2005.10716603
+* Bowen, Joseph, 2016, “Necessity and Liability: On an Honour-Based Justification for Defensive Harming”, *The Journal of Practical Ethics*, 4(2): 79–93. \[[Bowen 2016 available online](https://www.jpe.ox.ac.uk/papers/necessity-and-liability-on-an-honour-based-justification-for-defensive-harming/)]
+* Burri, Susanne, 2015, “The Toss-Up Between a Profiting, Innocent Threat and His Victim”, *Journal of Political Philosophy*, 23(2): 146–165. doi:10.1111/jopp.12041
+* Doggett, Tyler, 2011, “Recent Work on the Ethics of Self-Defense”, *Philosophy Compass*, 6(4): 220–233. doi:10.1111/j.1747-9991.2010.00382.x
+* –––, 2018, “Killing Innocent People”, *Noûs*, 52(3): 645–666. doi:10.1111/nous.12188
+* Ferzan, Kimberly Kessler, 2017, “The Bluff: The Power of Insincere Actions”, *Legal Theory*, 23(3): 168–202. doi:10.1017/S135232521700026X
+* Gardner, John and François Tanguay-Renaud, 2011, “Desert and Avoidability in Self-Defense”, *Ethics*, 122(1): 111–134. doi:10.1086/662294
+* Statman, Daniel, 2008, “On the Success Condition for Legitimate Self‐Defense”, *Ethics*, 118(4): 659–686. doi:10.1086/589531
 
 ## Academic Tools
 
@@ -555,5 +555,5 @@ PCR 面临的一个重要担忧是，它是否容易受到困扰多数派观点�
 [causation: in the law](https://plato.stanford.edu/entries/causation-law/) | [doing vs. allowing harm](https://plato.stanford.edu/entries/doing-allowing/) | [double effect, doctrine of](https://plato.stanford.edu/entries/double-effect/) | [ethics: deontological](https://plato.stanford.edu/entries/ethics-deontological/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [paternalism](https://plato.stanford.edu/entries/paternalism/) | [punishment, legal](https://plato.stanford.edu/entries/legal-punishment/) | [war](https://plato.stanford.edu/entries/war/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Helen Frowe <[_helen.frowe@philosophy.su.se_](mailto:helen%2efrowe%40philosophy%2esu%2ese)>\
-Jonathan Parry <[_j.parry1@lse.ac.uk_](mailto:j%2eparry1%40lse%2eac%2euk)>
+Helen Frowe <[*helen.frowe@philosophy.su.se*](mailto:helen%2efrowe%40philosophy%2esu%2ese)>\
+Jonathan Parry <[*j.parry1@lse.ac.uk*](mailto:j%2eparry1%40lse%2eac%2euk)>

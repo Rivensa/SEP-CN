@@ -1,6 +1,5 @@
 # 欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian, Suzanne Sumner, Mehdi Aminrazavi, and Glen Van Brummelen)
 
-
 *首次发表于 2011 年 9 月 6 日；实质修订于 2023 年 4 月 18 日*
 
 > 知识中没有留下我不知道的东西，

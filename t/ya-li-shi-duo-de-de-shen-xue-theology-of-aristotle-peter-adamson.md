@@ -104,7 +104,6 @@ Zimmermann 假设阿拉伯的普罗提诺和普罗克鲁斯将成为金迪圈子
 
 最后，我们可以提到神学在萨非王朝时期的影响。我们的许多手稿都是在萨非王朝和卡扎尔王朝时期在伊朗制作的。从早期的萨非王朝时代开始，人们就热切地阅读这部作品，这可以从十六世纪重要哲学家吉亚特-阿尔-丁·达什塔基（Ghiyat-al-Din Dashtaki）在文本中添加的前言中看出来，他可能还写了一篇对该文本的评论（Di Branco 2014）。它还被达什塔基的学生 al-Nayrizi 使用（关于他，请参阅 Pourjavady 2011）。后来的萨非王朝思想家们也写了对该文本的评论：著名的穆拉·萨德拉（关于一部基于阿拉伯普罗提诺斯的作品，请参阅 Nasr 2014），以及十七世纪的赛义德·库米（关于后者，请参阅 Rizvi 2007）。
 
-
 ## Bibliography
 
 * Adamson, P., 2002, *The Arabic Plotinus: a Philosophical Study of the “Theology of Aristotle”*, London: Duckworth.

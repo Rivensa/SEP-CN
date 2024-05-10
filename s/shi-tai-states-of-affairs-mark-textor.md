@@ -1,6 +1,6 @@
 # 事态 states of affairs (Mark Textor)
 
-_首次发表于 2012 年 3 月 27 日，实质修订于 2021 年 5 月 12 日_
+*首次发表于 2012 年 3 月 27 日，实质修订于 2021 年 5 月 12 日*
 
 哲学家们用各种不同的事物来连接句子，比如思想、事实和事态。思想在绝对意义上要么是真的，要么是假的，从来不会既真又假，也不会既真又假。例如，“苏格拉底是聪明的”这样的句子之所以是真（假），是因为它表达了苏格拉底是聪明的真（假）思想。思想也是信念和欲望等命题态度的内容。例如，约翰相信火神是一颗行星，这是他与火神是行星这一思想之间的关系。由于没有这样的行星，火神是行星的思想不能由火神和行星的属性组成。它由其他事物之中的一种思维方式组成，这种思维方式试图抓住一颗行星。这种所谓的表达方式可以用“太阳和水星之间的行星”这样的确定描述来表达。
 
@@ -476,100 +476,100 @@ Reinach 1911 跟随 Husserl 的观点：事态是判断和断言的“对应物�
 
 ## Bibliography
 
-* Aquila, Richard E., 1971, “Intentionality and Possible Facts”, _Noûs_, 5(4): 411–417. doi:10.2307/2214387
-* Armstrong D.M., 1986, “In Defence of Structural Universals”, _Australasian Journal of Philosophy_, 64(1): 85–88. doi:10.1080/00048408612342261
-* –––, 1989, _A Combinatorial Theory of Possibility_, Cambridge: Cambridge University Press.
-* –––, 1993, “A World of States of Affairs”, _Philosophical Perspectives_, 7: 429–440.
-* –––, 1997, _A World of States of Affairs_, Cambridge: Cambridge University Press.
-* –––, 2004, _Truth and Truthmakers_, Cambridge: Cambridge University Press.
-* Barcan Marcus, Ruth, 1990 \[1993], “Some Revisionary Proposals about Belief and Believing”, _Philosophy and Phenomenological Research_, 50: 133–153. doi:10.2307/2108036 Reprinted in her _Modalities_, Oxford: Oxford University Press 1993: 233–255. doi:10.1093/0195096576.003.0015
-* Barwise, Jon, 1989, _The Situation in Logic_, CSLI Lecture Notes, Stanford, CA: CSLI Publications.
-* Barwise, Jon & John Perry, 1983, _Situations and Attitudes_, Cambridge, MA: MIT Press.
-* Betti, Arianna, 2015, _Against Facts_, Cambridge, MA: MIT Press.
-* Bigelow, John, 1988, “Real Possibilities”, _Philosophical Studies_, 53: 37–64.
-* Brentano, Franz, 1870ff, _Logik_ (EL 80), online: http://gams.uni-graz.at/archive/objects/o:bag.el.80-html-norm/methods/sdef:HTML/get
-* Bynoe, William, 2011, “Against the Compositional View of Facts”, _Australasian Journal of Philosophy_, 89(1): 91–100. doi:10.1080/00048400903521025
-* Chisholm, Roderick, 1970, “Events and Propositions”, _Nous_, 4(1): 15–24. doi:10.2307/2214288
-* –––, 1976, _Person and Object: A Metaphysical Study_, London: George Allen & Unwin.
-* Chisholm, Roderick, Sosa, Ernest, 1966. “On the Logic of ‘Intrinsically Better’”,  _American Philosophical Quarterly_, 3(3): 244–49.
-* Church, Jennifer, 2013, _Possibilities of Perception_, Oxford: Oxford University Press.
+* Aquila, Richard E., 1971, “Intentionality and Possible Facts”, *Noûs*, 5(4): 411–417. doi:10.2307/2214387
+* Armstrong D.M., 1986, “In Defence of Structural Universals”, *Australasian Journal of Philosophy*, 64(1): 85–88. doi:10.1080/00048408612342261
+* –––, 1989, *A Combinatorial Theory of Possibility*, Cambridge: Cambridge University Press.
+* –––, 1993, “A World of States of Affairs”, *Philosophical Perspectives*, 7: 429–440.
+* –––, 1997, *A World of States of Affairs*, Cambridge: Cambridge University Press.
+* –––, 2004, *Truth and Truthmakers*, Cambridge: Cambridge University Press.
+* Barcan Marcus, Ruth, 1990 \[1993], “Some Revisionary Proposals about Belief and Believing”, *Philosophy and Phenomenological Research*, 50: 133–153. doi:10.2307/2108036 Reprinted in her *Modalities*, Oxford: Oxford University Press 1993: 233–255. doi:10.1093/0195096576.003.0015
+* Barwise, Jon, 1989, *The Situation in Logic*, CSLI Lecture Notes, Stanford, CA: CSLI Publications.
+* Barwise, Jon & John Perry, 1983, *Situations and Attitudes*, Cambridge, MA: MIT Press.
+* Betti, Arianna, 2015, *Against Facts*, Cambridge, MA: MIT Press.
+* Bigelow, John, 1988, “Real Possibilities”, *Philosophical Studies*, 53: 37–64.
+* Brentano, Franz, 1870ff, *Logik* (EL 80), online: http://gams.uni-graz.at/archive/objects/o:bag.el.80-html-norm/methods/sdef:HTML/get
+* Bynoe, William, 2011, “Against the Compositional View of Facts”, *Australasian Journal of Philosophy*, 89(1): 91–100. doi:10.1080/00048400903521025
+* Chisholm, Roderick, 1970, “Events and Propositions”, *Nous*, 4(1): 15–24. doi:10.2307/2214288
+* –––, 1976, *Person and Object: A Metaphysical Study*, London: George Allen & Unwin.
+* Chisholm, Roderick, Sosa, Ernest, 1966. “On the Logic of ‘Intrinsically Better’”,  *American Philosophical Quarterly*, 3(3): 244–49.
+* Church, Jennifer, 2013, *Possibilities of Perception*, Oxford: Oxford University Press.
 * David, Marian, 2009, “Defending Existentialism?” in Reicher 2009: 167–209.
-* Ducasse, Curt J., 1940, “Propositions, Opinions, Sentences and Facts”, _Journal of Philosophy_, 37(26): 701–711. doi:10.2307/2018525
-* Fine, Kit, 1975, “Critical Notice of David Lewis _Counterfactuals_”, _Mind_, 84(335): 451–458. doi:10.1093/mind/LXXXIV.1.451
-* –––, 1982, “First-Order Modal Theories III: Facts”, _Synthese_, 53(1): 43–122. doi: 10.1007/BF00500112
-* –––, 1995, “Ontological Dependence”, _Proceedings of the Aristotelian Society_, 95: 269–290.
-* –––, 2010, “Towards a Theory of Part”, _Journal of Philosophy_, 107(11): 559–589. doi:10.5840/jphil20101071139
-* –––, 2012, “Counterfactuals without Possible Worlds”, _Journal of Philosophy_, 109(3): 221–246. doi:10.5840/jphil201210938
-* Forbes, Graeme, 1987, “Is there a Problem about Persistence? II”, _Proceedings of the Aristotelian Society_, _Supplementary Volume_, 61: 136–155.
-* –––, 1989, _Languages of Possibility_, Oxford: Basil Blackwell.
-* –––, 1992, “Worlds and States of Affairs: How Similar Can They Be?” in Kevin Mulligan (ed.) _Language, Truth and Ontology_, Dordrecht: Springer, 118–132.
-* Frege, Gottlob, 1879, _Conceptual Notation and Related Articles_, Oxford: Clarendon Press 1972.
-* –––, 1910–14, _Frege’s Lectures on Logic: Carnap’s Jena Notes, 1910–1914_, edited by Steve Awodey, Erich Reck, Gottfried Gabriel. Open Court: LaSalle 2004.
-* –––, 1919, “Letter to Wittgenstein 28.6.1919”, reprinted in _Grazer Philosophische Studien_, 33/34 (1989), 19–20.
-* Gaskin, Richard, 2008, _The Unity of the Proposition_, Oxford: Oxford University Press.
-* Gilmore, Cody, 2014, “Parts of Propositions”, in Shieva Kleinschmidt (ed.) _Mereology and Location_, Oxford: Oxford University Press, 156–208.
-* Horwich, Paul, 1990, _Truth_, Oxford: Basil Blackwell.
-* Hossack, Keith, 2007, _The Metaphysics of Knowledge_, Oxford: Oxford University Press.
-* Humberstone, I. Lloyd, 1981, “From Worlds to Possibilities”, _Journal of Philosophical Logic_, 10: 313–339.
-* Husserl, Edmund, 1900, _Logische Untersuchungen. Erster Band: Prolegomena zur Reinen Logik_, First Edition 1900, Reprint of the second (1913) edition, Tübingen: Niemeyer.
-* –––, 1901, _Logische Untersuchungen. Zweiter Band I: Untersuchungen zur Phänomenologie und Theorie der Erkenntnis,_ First Edition 1901,  Reprint of the second (1913) edition, Tübingen: Niemeyer.
-* Johnston, Mark, 2004. “The Obscure Object of Hallucination”, _Philosophical Studies,_ 120 (1/3): 113–83. doi/org/10.1023/B:Phil.0000033753.64202.21
-* –––, 2006, “Hylomorphism”, _Journal of Philosophy_, 103(12): 653–698. doi:10.5840/jphil2006103125
-* Keller, Lorraine, 2013, “The Metaphysics of Propositional Constituency”, _Canadian Journal of Philosophy_, 43(5–6): 655–678. doi:10.1080/00455091.2013.870735
-* Kim, Jaegwon, 1979, “States of Affairs, Events, and Propositions”, in E. Sosa (ed.) _Essays on the Philosophy of Roderick M. Chisholm_, _Grazer Philosophische Studien_, 7–8: 147–162. doi:10.5840/gps19797/821
-* King, Jeffrey C., 2009, “Questions of Unity”, _Proceedings of the Aristotelian Society_, 109: 257–277. doi:10.1111/j.1467-9264.2009.00267.x
-* Kripke, Saul, 1980, _Naming and Necessity_, Cambridge, MA: Harvard University Press.
-* Künne, Wolfgang, 1987, “The intentionality of thinking: the difference between State of Affairs and Propositional Matter”, in Kevin Mulligan (ed.), _Speech Act and Sachverhalt: Reinach and the foundations of realist phenomenology_, Dordrecht: Martinus Nijhoff Publishers, 175–187
-* –––, 2003, _Conceptions of Truth_, Oxford: Oxford University Press.
-* Lemos, Noah M., 1994. _Intrinsic Valu\*\*e: Concept and Warrant_. Cambridge: Cambridge University Press.
-* Levinson, Jerrold, 2006. “Why there are no tropes”, _Philosophy_ 81 (318): 563–79.
-* Lewis, David, 1973, _Counterfactuals_, Cambridge, MA: Harvard University Press.
-* –––, 1986, _On the Plurality of Worlds_, Oxford: Basil Blackwell.
-* –––, 1992, “Critical notice of David Armstrong, _A Combinatorial Theory of Possibility_”, _Australasian Journal of Philosophy_, 70: 211–224.
-* McDaniel, Kris, 2009, “Structure-Making”, _Australasian Journal of Philosophy_, 87: 251–274. doi:10.1080/00048400802587374
-* McDowell, John, 1982, “Criteria, Defeasibility and Knowledge”, _Proceedings of the British Academy_, 68: 455–79.
-* –––, 1994,  _Mind and World_, Cambridge, MA: Harvard University Press.
-* Meinertsen, Bo, 2020,  “Reinach and Armstrongian State of Affairs Ontology”, _Axiomathes,_ Online first.
-* Merricks, Trenton, 2015, _Propositions_, Oxford: Oxford University Press.
-* Moore, George E., 1910, _Some Main Problems of Philosophy_, London: Allen and Unwin 1953.
-* Neale, Stephen, 2001, _Facing Facts_, Oxford: Oxford University Press.
-* Oliver, Alex, 1992, “Could there be conjunctive universals?” _Analysis_, 52(2): 88–97. doi:10.2307/3328277
-* Plantinga, Alvin, 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
-* –––, 1983, “On Existentialism”, _Philosophical Studies_, 44(1): 1–21. doi:10.1007/BF00353411
-* –––, 1984, “Reply to John L. Pollock”, in J.E. Tomberlin and P. van Inwagen (eds.) _Alvin Plantinga_, Princeton: Princeton University Press, 313–329.
-* Pollock, John, 1982, “The logic of logical necessity”, _Logique et Analyse_, 10: 307–323.
-* –––, 1984a, _The Foundations of Philosophical Semantics_, Princeton: Princeton University Press.
-* –––, 1984b, “Plantinga on Possible Worlds”, in J.E. Tomberlin and P. van Inwagen (eds.) _Alvin Plantinga_, Princeton: Princeton University Press, 121–144.
-* Potter, Michael, 2011,  _Wittgenstein’s Notes on Logic._ Oxford: Oxford University Press.
-* Rabinowicz, Wlodek and Rønnow-Rasmussen, Toni, 2000, “A Distinction in Value: Intrinsic and for Its Own Sake”, _Proceedings of the Aristotelian Society_ 100: 33–49.
-* –––, 2003, “Tropic of Value”, _Philosophy and Phenomenological Research_ 66(2): 389–403.
-* Ramsey, Frank P., 1925, “Universals”, _Mind_, 34(136): 401–17. doi:10.1093/mind/XXXIV.136.401
-* Reicher, Maria Elisabeth (ed.), 2009, _States of Affairs_, Frankfurt A.M.: Ontos Verlag.
-* Reinach, Adolf, 1911, “Beiträge zur Theorie des Negativen Urteils”, in his _Gesammelte Schriften_, Halle: Max Niemeyer 1921. Transl. as _On the Theory of Negative Judgement_, by Barry Smith in _Parts and Moments: Studies in Logic and Formal Ontology_, Barry Smith (ed.), Munich: Philosophia 1982, 315–376.
-* Restall, Greg, 1996, “Truthmakers, Entailment and Necessity”, _Australasian Journal of Philosophy_, 74: 221–340. doi:10.1080/00048409612347331
-* Richard, Mark, 2013,  “What are Propositions?”, _Canadian Journal of Philosophy_ 43 (5/6): 702–19.
-* Ross, William D., 1930, _The Right and the Good_, ed. by. Philip Stratton-Lake, Oxford: Oxford University Press, 2002.
-* Rumfitt, Ian, 2015, _The Boundary Stones of Thought_, Oxford: Oxford University Press.
-* Russell, Bertrand, 1904, “Letter to Frege”, in Gottlob Frege, _Philosophical and Mathematical Correspondence_, Oxford: Blackwell, 1980, 38–41.
-* –––, 1912, _The Problems of Philosophy_, Oxford: Oxford University Press, 1998.
-* –––, 1913, _Theory of Knowledge: The 1913 Manuscript_, London: Routledge 1992.
-* –––, 1918, “The Philosophy of Logical Atomism”, in his _Logic and Knowledge_, London: George Allen & Unwin, 1968.
-* Sainsbury, R. M., 2005, _Reference without Referents_, Oxford: Oxford University Press.
-* Skyrms, Brian, 1981, “Tractarian nominalism”, _Philosophical Studies_, 40: 199–206.
-* Smith, Barry, 1989, “Logic and the _Sachverhalt_”, _The Monist_, 72: 52–69.
-* –––, 1992. “Sachverhalt”, in _Historisches Wörterbuch der Philosophie_, Volume 8, Basel: Schwabe, 1102–113.
-* Stalnaker, Robert, 1986, “Counterparts and Identity”, _Midwest Studies in Philosophy_, 11(1): 121–140. doi: 10.1111/j.1475-4975.1986.tb00490.x
-* Stumpf, Carl, 1907, _Erscheinungen und Ihre Psychischen Funktionen_, Berlin: Verlag der Königlichen Akademie der Wissenschaften.
-* Taylor, Barry, 1976, “States of Affairs”, in G. Evans and J. McDowell (eds.) _Truth and Meaning_, Oxford: Oxford University Press.
-* –––, 1985, _Modes of Occurrence. Verbs, Adverbs and Events_, Oxford: Basil Blackwell.
-* Vallicella, William F., 2000, “Three Conceptions of States of Affairs”, _Noûs_, 34: 237–259. doi:10.1111/0029-4624.00209
-* van Inwagen, Peter, 1986, “Two Concepts of Possible Worlds”, _Midwest Studies in Philosophy_, 11(1): 185–213.
-* Vendler, Zeno, 1967, “Causal Relations”, _Journal of Philosophy_, 64(21): 704–713. doi:10.2307/2023854
-* Wetzel, Thomas, 1998, “Possible States of Affairs”, _Philosophical Studies_, 91: 43–60.
-* Williamson, Timothy, 2002, “Necessary Existents”, in A. O’Hear (ed.) _Logic, Thought and Language_, Cambridge: Cambridge University Press, 233–251.
-* Wittgenstein, Ludwig, 1918, _Tractatus Logico-Philosophicus_, Trans. by D. Pears and B. McGuinness, London: Routledge, 1961.
-* Zalta, Edward N., 1993, “Twenty-Five Basic Theorems in Situation and World Theory”, _Journal of Philosophical Logic_, 22(4): 385–428. doi:10.1007/BF01052533
-* Zimmerman, Michael J., 2001, _The Nature of Intrinsic Value_, Lanham/Boulder/New York/Oxford: Rowman & Littlefield.
+* Ducasse, Curt J., 1940, “Propositions, Opinions, Sentences and Facts”, *Journal of Philosophy*, 37(26): 701–711. doi:10.2307/2018525
+* Fine, Kit, 1975, “Critical Notice of David Lewis *Counterfactuals*”, *Mind*, 84(335): 451–458. doi:10.1093/mind/LXXXIV.1.451
+* –––, 1982, “First-Order Modal Theories III: Facts”, *Synthese*, 53(1): 43–122. doi: 10.1007/BF00500112
+* –––, 1995, “Ontological Dependence”, *Proceedings of the Aristotelian Society*, 95: 269–290.
+* –––, 2010, “Towards a Theory of Part”, *Journal of Philosophy*, 107(11): 559–589. doi:10.5840/jphil20101071139
+* –––, 2012, “Counterfactuals without Possible Worlds”, *Journal of Philosophy*, 109(3): 221–246. doi:10.5840/jphil201210938
+* Forbes, Graeme, 1987, “Is there a Problem about Persistence? II”, *Proceedings of the Aristotelian Society*, *Supplementary Volume*, 61: 136–155.
+* –––, 1989, *Languages of Possibility*, Oxford: Basil Blackwell.
+* –––, 1992, “Worlds and States of Affairs: How Similar Can They Be?” in Kevin Mulligan (ed.) *Language, Truth and Ontology*, Dordrecht: Springer, 118–132.
+* Frege, Gottlob, 1879, *Conceptual Notation and Related Articles*, Oxford: Clarendon Press 1972.
+* –––, 1910–14, *Frege’s Lectures on Logic: Carnap’s Jena Notes, 1910–1914*, edited by Steve Awodey, Erich Reck, Gottfried Gabriel. Open Court: LaSalle 2004.
+* –––, 1919, “Letter to Wittgenstein 28.6.1919”, reprinted in *Grazer Philosophische Studien*, 33/34 (1989), 19–20.
+* Gaskin, Richard, 2008, *The Unity of the Proposition*, Oxford: Oxford University Press.
+* Gilmore, Cody, 2014, “Parts of Propositions”, in Shieva Kleinschmidt (ed.) *Mereology and Location*, Oxford: Oxford University Press, 156–208.
+* Horwich, Paul, 1990, *Truth*, Oxford: Basil Blackwell.
+* Hossack, Keith, 2007, *The Metaphysics of Knowledge*, Oxford: Oxford University Press.
+* Humberstone, I. Lloyd, 1981, “From Worlds to Possibilities”, *Journal of Philosophical Logic*, 10: 313–339.
+* Husserl, Edmund, 1900, *Logische Untersuchungen. Erster Band: Prolegomena zur Reinen Logik*, First Edition 1900, Reprint of the second (1913) edition, Tübingen: Niemeyer.
+* –––, 1901, *Logische Untersuchungen. Zweiter Band I: Untersuchungen zur Phänomenologie und Theorie der Erkenntnis,* First Edition 1901,  Reprint of the second (1913) edition, Tübingen: Niemeyer.
+* Johnston, Mark, 2004. “The Obscure Object of Hallucination”, *Philosophical Studies,* 120 (1/3): 113–83. doi/org/10.1023/B:Phil.0000033753.64202.21
+* –––, 2006, “Hylomorphism”, *Journal of Philosophy*, 103(12): 653–698. doi:10.5840/jphil2006103125
+* Keller, Lorraine, 2013, “The Metaphysics of Propositional Constituency”, *Canadian Journal of Philosophy*, 43(5–6): 655–678. doi:10.1080/00455091.2013.870735
+* Kim, Jaegwon, 1979, “States of Affairs, Events, and Propositions”, in E. Sosa (ed.) *Essays on the Philosophy of Roderick M. Chisholm*, *Grazer Philosophische Studien*, 7–8: 147–162. doi:10.5840/gps19797/821
+* King, Jeffrey C., 2009, “Questions of Unity”, *Proceedings of the Aristotelian Society*, 109: 257–277. doi:10.1111/j.1467-9264.2009.00267.x
+* Kripke, Saul, 1980, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* Künne, Wolfgang, 1987, “The intentionality of thinking: the difference between State of Affairs and Propositional Matter”, in Kevin Mulligan (ed.), *Speech Act and Sachverhalt: Reinach and the foundations of realist phenomenology*, Dordrecht: Martinus Nijhoff Publishers, 175–187
+* –––, 2003, *Conceptions of Truth*, Oxford: Oxford University Press.
+* Lemos, Noah M., 1994. *Intrinsic Valu\*\*e: Concept and Warrant*. Cambridge: Cambridge University Press.
+* Levinson, Jerrold, 2006. “Why there are no tropes”, *Philosophy* 81 (318): 563–79.
+* Lewis, David, 1973, *Counterfactuals*, Cambridge, MA: Harvard University Press.
+* –––, 1986, *On the Plurality of Worlds*, Oxford: Basil Blackwell.
+* –––, 1992, “Critical notice of David Armstrong, *A Combinatorial Theory of Possibility*”, *Australasian Journal of Philosophy*, 70: 211–224.
+* McDaniel, Kris, 2009, “Structure-Making”, *Australasian Journal of Philosophy*, 87: 251–274. doi:10.1080/00048400802587374
+* McDowell, John, 1982, “Criteria, Defeasibility and Knowledge”, *Proceedings of the British Academy*, 68: 455–79.
+* –––, 1994,  *Mind and World*, Cambridge, MA: Harvard University Press.
+* Meinertsen, Bo, 2020,  “Reinach and Armstrongian State of Affairs Ontology”, *Axiomathes,* Online first.
+* Merricks, Trenton, 2015, *Propositions*, Oxford: Oxford University Press.
+* Moore, George E., 1910, *Some Main Problems of Philosophy*, London: Allen and Unwin 1953.
+* Neale, Stephen, 2001, *Facing Facts*, Oxford: Oxford University Press.
+* Oliver, Alex, 1992, “Could there be conjunctive universals?” *Analysis*, 52(2): 88–97. doi:10.2307/3328277
+* Plantinga, Alvin, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
+* –––, 1983, “On Existentialism”, *Philosophical Studies*, 44(1): 1–21. doi:10.1007/BF00353411
+* –––, 1984, “Reply to John L. Pollock”, in J.E. Tomberlin and P. van Inwagen (eds.) *Alvin Plantinga*, Princeton: Princeton University Press, 313–329.
+* Pollock, John, 1982, “The logic of logical necessity”, *Logique et Analyse*, 10: 307–323.
+* –––, 1984a, *The Foundations of Philosophical Semantics*, Princeton: Princeton University Press.
+* –––, 1984b, “Plantinga on Possible Worlds”, in J.E. Tomberlin and P. van Inwagen (eds.) *Alvin Plantinga*, Princeton: Princeton University Press, 121–144.
+* Potter, Michael, 2011,  *Wittgenstein’s Notes on Logic.* Oxford: Oxford University Press.
+* Rabinowicz, Wlodek and Rønnow-Rasmussen, Toni, 2000, “A Distinction in Value: Intrinsic and for Its Own Sake”, *Proceedings of the Aristotelian Society* 100: 33–49.
+* –––, 2003, “Tropic of Value”, *Philosophy and Phenomenological Research* 66(2): 389–403.
+* Ramsey, Frank P., 1925, “Universals”, *Mind*, 34(136): 401–17. doi:10.1093/mind/XXXIV.136.401
+* Reicher, Maria Elisabeth (ed.), 2009, *States of Affairs*, Frankfurt A.M.: Ontos Verlag.
+* Reinach, Adolf, 1911, “Beiträge zur Theorie des Negativen Urteils”, in his *Gesammelte Schriften*, Halle: Max Niemeyer 1921. Transl. as *On the Theory of Negative Judgement*, by Barry Smith in *Parts and Moments: Studies in Logic and Formal Ontology*, Barry Smith (ed.), Munich: Philosophia 1982, 315–376.
+* Restall, Greg, 1996, “Truthmakers, Entailment and Necessity”, *Australasian Journal of Philosophy*, 74: 221–340. doi:10.1080/00048409612347331
+* Richard, Mark, 2013,  “What are Propositions?”, *Canadian Journal of Philosophy* 43 (5/6): 702–19.
+* Ross, William D., 1930, *The Right and the Good*, ed. by. Philip Stratton-Lake, Oxford: Oxford University Press, 2002.
+* Rumfitt, Ian, 2015, *The Boundary Stones of Thought*, Oxford: Oxford University Press.
+* Russell, Bertrand, 1904, “Letter to Frege”, in Gottlob Frege, *Philosophical and Mathematical Correspondence*, Oxford: Blackwell, 1980, 38–41.
+* –––, 1912, *The Problems of Philosophy*, Oxford: Oxford University Press, 1998.
+* –––, 1913, *Theory of Knowledge: The 1913 Manuscript*, London: Routledge 1992.
+* –––, 1918, “The Philosophy of Logical Atomism”, in his *Logic and Knowledge*, London: George Allen & Unwin, 1968.
+* Sainsbury, R. M., 2005, *Reference without Referents*, Oxford: Oxford University Press.
+* Skyrms, Brian, 1981, “Tractarian nominalism”, *Philosophical Studies*, 40: 199–206.
+* Smith, Barry, 1989, “Logic and the *Sachverhalt*”, *The Monist*, 72: 52–69.
+* –––, 1992. “Sachverhalt”, in *Historisches Wörterbuch der Philosophie*, Volume 8, Basel: Schwabe, 1102–113.
+* Stalnaker, Robert, 1986, “Counterparts and Identity”, *Midwest Studies in Philosophy*, 11(1): 121–140. doi: 10.1111/j.1475-4975.1986.tb00490.x
+* Stumpf, Carl, 1907, *Erscheinungen und Ihre Psychischen Funktionen*, Berlin: Verlag der Königlichen Akademie der Wissenschaften.
+* Taylor, Barry, 1976, “States of Affairs”, in G. Evans and J. McDowell (eds.) *Truth and Meaning*, Oxford: Oxford University Press.
+* –––, 1985, *Modes of Occurrence. Verbs, Adverbs and Events*, Oxford: Basil Blackwell.
+* Vallicella, William F., 2000, “Three Conceptions of States of Affairs”, *Noûs*, 34: 237–259. doi:10.1111/0029-4624.00209
+* van Inwagen, Peter, 1986, “Two Concepts of Possible Worlds”, *Midwest Studies in Philosophy*, 11(1): 185–213.
+* Vendler, Zeno, 1967, “Causal Relations”, *Journal of Philosophy*, 64(21): 704–713. doi:10.2307/2023854
+* Wetzel, Thomas, 1998, “Possible States of Affairs”, *Philosophical Studies*, 91: 43–60.
+* Williamson, Timothy, 2002, “Necessary Existents”, in A. O’Hear (ed.) *Logic, Thought and Language*, Cambridge: Cambridge University Press, 233–251.
+* Wittgenstein, Ludwig, 1918, *Tractatus Logico-Philosophicus*, Trans. by D. Pears and B. McGuinness, London: Routledge, 1961.
+* Zalta, Edward N., 1993, “Twenty-Five Basic Theorems in Situation and World Theory”, *Journal of Philosophical Logic*, 22(4): 385–428. doi:10.1007/BF01052533
+* Zimmerman, Michael J., 2001, *The Nature of Intrinsic Value*, Lanham/Boulder/New York/Oxford: Rowman & Littlefield.
 
 ## Academic Tools
 
@@ -581,7 +581,7 @@ Reinach 1911 跟随 Husserl 的观点：事态是判断和断言的“对应物�
 
 ## Other Internet Resources
 
-* Wetzel, Thomas, “States of Affairs”, _Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition), Edward N. Zalta (ed.) URL = <[States of Affairs (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/states-of-affairs/)>. \[This was the previous entry on states of affairs in the _Stanford Encyclopedia of Philosophy_ – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=states-of-affairs).]
+* Wetzel, Thomas, “States of Affairs”, *Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.) URL = <[States of Affairs (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/states-of-affairs/)>. \[This was the previous entry on states of affairs in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=states-of-affairs).]
 
 ## Related Entries
 
@@ -592,4 +592,4 @@ Reinach 1911 跟随 Husserl 的观点：事态是判断和断言的“对应物�
 I want to thank Arianna Betti, Will Bynoe, Chris Hughes, Fabrice Correia, Keith Hossack, Nick Jones and Jessica Leech, Dolf Rami and four anonymous referees for discussion and comments.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Mark Textor <[_mark.textor@kcl.ac.uk_](mailto:mark%2etextor%40kcl%2eac%2euk)>
+Mark Textor <[*mark.textor@kcl.ac.uk*](mailto:mark%2etextor%40kcl%2eac%2euk)>

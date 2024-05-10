@@ -367,7 +367,6 @@ Scruton（2009a，2009b；参见他的 1997 年）提出了一种非物理主义
 
 我们建议以声音的空间位置来分类文献中提出的各种声音解释/原理是一种有益的方式。如果我们听到的声音有空间位置，可以认为它们位于物质来源的位置（远距离理论），或者位于听者所在的位置（近距离理论），或者位于两者之间的某个位置（中间理论）。也有人否认声音有任何空间位置，这导致了第四类理论，即非空间理论。所有这些理论都具有有趣的不同现象学、认识论和形而上学的含义。
 
-
 ## Bibliography
 
 * Aristotle, *De Anima* (*On the Soul*), in *The Complete Works of Aristotle: The Revised Oxford Translation*, James Barnes (trans.), Oxford: Princeton University Press, 1991.

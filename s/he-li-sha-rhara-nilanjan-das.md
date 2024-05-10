@@ -1,6 +1,6 @@
 # 曷利沙 Śrīharṣa (Nilanjan Das)
 
-_首次发表于 2018 年 2 月 1 日_
+*首次发表于 2018 年 2 月 1 日*
 
 曷利沙是一位印度哲学家和诗人，生活在公元 12 世纪的印度北部。曷利沙并没有明确地归属于古代印度活跃的任何哲学文本传统。有人认为他是 Advaita Vedānta 的拥护者。Vedānta（字面意思是吠陀的终结）是对出现在吠陀末尾的被称为 Upaniṣads 的文本的竞争性哲学解释的家族。许多 Vedānta 的文本是对 Bādarāyaņa 的《梵经梗概》（Brahmasūtra）所做的评论。Advaita Vedānta（即非二元的 Vedānta）是对 Upaniṣads 和 Bādarāyaņa 的《梵经梗概》的解释，根据这种解释，只有自我、意识或梵才是最终真实的。印度哲学家Śaṃkara（公元 7 世纪）在他对 Bādarāyaṇa 的《梵经梗概》的评论中捍卫了这种非二元论形式。曷利沙唯一幸存的哲学作品《反驳的甜点》（Khaṇḍanakhaṇḍanakhādya）可以被视为对这种非二元论的辩护，尽管他并不完全与Śaṃkara 及其追随者的标准承诺相同。然而，对曷利沙的这种解读仍然存在争议。
 
@@ -340,94 +340,94 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 #### Critical Editions of the Text
 
-* _Khaṇḍanakhaṇḍakhādya._ Edited by Brahmadatta Dvivedī, 1990, in _Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītaṃ Śrīraghunāthaśiromaṇipraṇītayā Khaṇḍanabhūṣāmaṇivyākhyayā vibhūṣitam_, Varanasi: Sampūrṇānanda Saṃskr̥taviśvavidyālaya.
-* _Khaṇḍanakhaṇḍakhādya._ Edited by Esther A. Solomon, 1990, in _Khaṇḍanakhaṇḍakhādya_ of _Śrīharṣa with Śiṣyahitaiṣiṇī Ṭīkā of Anubhūtisvarūpācārya_, Ahmedabad: Gujarat University.
-* _Khaṇḍanakhaṇḍakhādya_. Edited by Ganganatha Jha, 1904–1914, in _Śrīharshapraṇītam Khaṇḍanakhaṇḍakhādyam Ānandapūrṇaviracitayā Khaṇḍanaphakkikāvibhajanākhyayā vyākhyayā ‘vidyāsāgarī’ ti prasiddhayā sametam Citsukha-Śaṇkaramiśra-Raghunāthakr̥taṭīkāvalambinyā tippaṇyā sanātham_, Benares: Chowkhamba Sanskrit Book Depot.
-* _Khaṇḍanakhaṇḍakhādya_. Edited by Navikānta Jhā, 1970, in _Mahakaviśrīharṣapraṇītaṃ Khaṇḍanakhaṇḍakhādyam Śrīśaṅkaramiśraviracita ‘Śāṅkarī’ sahita-'tattvabodhinī’-hindīvyākhyopetam. Hindīvyākhyākāraḥ Svāmī Hanumānadāsa ṣaṭśāstrī_, Varanasi: Kashi Sanskrit Series.
-* _Khaṇḍanakhaṇḍakhādya._ Edited by Sūrya Nārāyaṇa Śukla, 1936, in _Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītam; Śrīmaccitsukhācāryapraṇītayā Khaṇḍanabhāvadīpikayā, Śaṅkaramiśrapraṇītayā Śāṅkaryā, Raghunāthabhaṭṭācāryapraṇītayā Khaṇḍanabhūṣāmaṇiṭīkayā, Pragalbhamiśrapraṇītena Khaṇḍanadarpaṇena, Sūryanārāyaṇaśuklapraṇītayā Khaṇḍanaratnamālikayā ca sametam_, Varanasi: Chowkhamba Sanskrit Series.
-* \[KKh] _Khaṇḍanakhaṇḍakhādya._ Edited by Swāmī Yogīndrānanda, 1979, in _Kavitārkikacakracūḍāmaṇiśrīharṣapraṇītam; Śrīvidyāsāgaropahvānandapurṇamunīndraviracita-Khaṇḍanaphakkikavibhajanasamvalitam ; Śrīr̥ṣirāmaśiṣyasvāmiyogīndrānandakr̥ta-Khaṇḍanapañjikayopetam_, Varanasi: Saḍdarśana-prakāśana-pratiṣṭhāna, Varanasi: Chowkhamba Vidyābhavana. \[2010 reprinted edition referred to as _KKh_.]
+* *Khaṇḍanakhaṇḍakhādya.* Edited by Brahmadatta Dvivedī, 1990, in *Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītaṃ Śrīraghunāthaśiromaṇipraṇītayā Khaṇḍanabhūṣāmaṇivyākhyayā vibhūṣitam*, Varanasi: Sampūrṇānanda Saṃskr̥taviśvavidyālaya.
+* *Khaṇḍanakhaṇḍakhādya.* Edited by Esther A. Solomon, 1990, in *Khaṇḍanakhaṇḍakhādya* of *Śrīharṣa with Śiṣyahitaiṣiṇī Ṭīkā of Anubhūtisvarūpācārya*, Ahmedabad: Gujarat University.
+* *Khaṇḍanakhaṇḍakhādya*. Edited by Ganganatha Jha, 1904–1914, in *Śrīharshapraṇītam Khaṇḍanakhaṇḍakhādyam Ānandapūrṇaviracitayā Khaṇḍanaphakkikāvibhajanākhyayā vyākhyayā ‘vidyāsāgarī’ ti prasiddhayā sametam Citsukha-Śaṇkaramiśra-Raghunāthakr̥taṭīkāvalambinyā tippaṇyā sanātham*, Benares: Chowkhamba Sanskrit Book Depot.
+* *Khaṇḍanakhaṇḍakhādya*. Edited by Navikānta Jhā, 1970, in *Mahakaviśrīharṣapraṇītaṃ Khaṇḍanakhaṇḍakhādyam Śrīśaṅkaramiśraviracita ‘Śāṅkarī’ sahita-'tattvabodhinī’-hindīvyākhyopetam. Hindīvyākhyākāraḥ Svāmī Hanumānadāsa ṣaṭśāstrī*, Varanasi: Kashi Sanskrit Series.
+* *Khaṇḍanakhaṇḍakhādya.* Edited by Sūrya Nārāyaṇa Śukla, 1936, in *Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītam; Śrīmaccitsukhācāryapraṇītayā Khaṇḍanabhāvadīpikayā, Śaṅkaramiśrapraṇītayā Śāṅkaryā, Raghunāthabhaṭṭācāryapraṇītayā Khaṇḍanabhūṣāmaṇiṭīkayā, Pragalbhamiśrapraṇītena Khaṇḍanadarpaṇena, Sūryanārāyaṇaśuklapraṇītayā Khaṇḍanaratnamālikayā ca sametam*, Varanasi: Chowkhamba Sanskrit Series.
+* \[KKh] *Khaṇḍanakhaṇḍakhādya.* Edited by Swāmī Yogīndrānanda, 1979, in *Kavitārkikacakracūḍāmaṇiśrīharṣapraṇītam; Śrīvidyāsāgaropahvānandapurṇamunīndraviracita-Khaṇḍanaphakkikavibhajanasamvalitam ; Śrīr̥ṣirāmaśiṣyasvāmiyogīndrānandakr̥ta-Khaṇḍanapañjikayopetam*, Varanasi: Saḍdarśana-prakāśana-pratiṣṭhāna, Varanasi: Chowkhamba Vidyābhavana. \[2010 reprinted edition referred to as *KKh*.]
 
 #### English Translations of the Text
 
-* Granoff, Phyllis E., 1978, _Philosophy and Argument in Late Vedānta: Śrī Harṣa’s Khaṇḍanakhaṇḍakhādya_, Dodrecht: D. Reidel. \[Contains a translation of the introduction to _Khaṇḍanakhaṇḍakhādya_ on pages 71–208]. doi:10.1007/978-94-009-9822-3
-* Jha, Ganganatha, 1913 \[1986], _The Sweets of Refutation. An English Translation of the Khaṇdanakhaṇdakhāḍya of Shri-Harṣa_, Allahabad: “Indian Thought Series”. \[1986 Reprint Edition: Delhi: Satguru Publications].
-* Phillips, Stephen H., 1995, _Classical Indian Metaphysics: Refutations of Realism and the Emergence of “New Logic”_, Chicago: Open Court. \[Contains transations of the sections in _Khaṇḍanakhaṇḍakhādya_ on dialectical reasoning on pages 151–156, knowledge on pages164–172, and distinctness and relation regress on pages 221–222.]
+* Granoff, Phyllis E., 1978, *Philosophy and Argument in Late Vedānta: Śrī Harṣa’s Khaṇḍanakhaṇḍakhādya*, Dodrecht: D. Reidel. \[Contains a translation of the introduction to *Khaṇḍanakhaṇḍakhādya* on pages 71–208]. doi:10.1007/978-94-009-9822-3
+* Jha, Ganganatha, 1913 \[1986], *The Sweets of Refutation. An English Translation of the Khaṇdanakhaṇdakhāḍya of Shri-Harṣa*, Allahabad: “Indian Thought Series”. \[1986 Reprint Edition: Delhi: Satguru Publications].
+* Phillips, Stephen H., 1995, *Classical Indian Metaphysics: Refutations of Realism and the Emergence of “New Logic”*, Chicago: Open Court. \[Contains transations of the sections in *Khaṇḍanakhaṇḍakhādya* on dialectical reasoning on pages 151–156, knowledge on pages164–172, and distinctness and relation regress on pages 221–222.]
 
 #### Other Primary Texts
 
-* Jhā, Śaśīnātha (ed.), 1963, _Lakṣaṇamālā by Udayanācārya_, Darbhanga: Mithila Institute.
-* Kunhan Raja, Chittenoor and S. S. Suryanarayana Sastri (eds.), 1933, _Mānameyodaya: An Elementary Treatise On the Mīmāṁsā_, Madras: Theosophical Publishing House.
-* Kuppuswami Sastri, S. (ed.), 1984, _Brahmasiddhi by Ācārya Maṇḍanamiśra with commentary by Saṇkhapāni_, Delhi: Satguru Publications.
-* Matilal, B. K. (ed.), 1976, _Śaśadhara’s Nyāyasiddhāntadīpaḥ with Ṭippana of Guṇaratna_, Ahmedabad: L. D. Institute of Indology.
-* Sārvabhauma, Śiva Candra (ed.), 1911 \[1989], _Kiraṇāvalī by Udayanācārya with the Commentary of Vardhamānopādhyāya_, Fasc. I–II. Calcutta: Asiatic Society.
-* Śāstrī, Dhundhirāja (ed.), 1940, _The Ātmatattvaviveka of Udayanācārya with the Nārāyanī commentary of Nārāyaṇāchārya Ātreya and the Bauddhadhikāra Dīdhiti commentary of Raghunātha Śiromani, with Bauddhādhikāra Vivṛti of Gadādhara Bhaṭṭāchārya: Containing the opening portion of Kṣaṇabhanga Kurvadrupatvakhandana_, Benares: Chowkhamba Sanskrit Series.
-* Śāstrī, Kāśīnātha (ed.), 1915, _Tattvapradīpikā (Citsukhī) of Paramahaṅsa Citsukhacārya; with the commentary Nayanaprasādinī_, Bombay: Nirṇaya-Sāgar Press.
-* Shastri, Jagdish Lal (ed.), 1980, _Brahmasūtra-śāṅkarabhāṣya with the Commentaries Bhāṣyaratnaprabhā of Govindānanda, Bhāmatī of Vācaspati Miśra, and Nyāyanirṇaya of Ānandagiri_, Delhi: Motilal Banarasidass.
-* Steinkellner, Ernst, (ed.), 2007, _Dharmakīrti's Pramānaviniścaya_, Chapters 1 and 2. Beijing-Vienna: China Tibetology Publishing House.
-* Subramania Aiyar, K. A. (ed), 1976, _The Vākyapadīya of Bhartr̥hari With the commentaries Svopajñvṛtti by Harivṛṣabha & Ambākartri by Ragunātha Śarmā_, Volume 1: Brahmakāṇḍa. Varanasi: Sampurnanand Sanskrit University.
-* Śuklā Śāstrī, Harirāma (ed.), 1997, _Nyāyasiddhāntamuktāvali of Viśvanātha Pañcānana Bhaṭṭācārya with the commentaries ‘Dinakarī’ of Mahādeva Bhaṭṭācārya and Dīnakara Bhaṭṭācārya and ‘Rāmarudrī’ of Rāmarudra Bhaṭṭācārya and Rājeśvara Śāstri_, Varanasi: Chaukhamba Sanskrit Sansthan.
-* Tarkavāgīśa, Kāmākhyānātha (ed.), 1974, _The Tattvacintāmaṇi of Gaṅgeśa Upādhyāya with the commentary of Mathurānātha Tarkavāgīśa_, New Delhi: Motilal Banarasidass.
-  * 1974a, _Pratyakṣa Khaṇḍa_, Volume 1
-  * 1974b, _Anumāna Khaṇḍa_, Volume 2
-* Thakur, Anantalal (ed.), 1967, _Nyāyadarśana of Gautama; with the Bhāṣya of Vātsyāyana, the Vārttika of Uddyotakara, the Tātparyatīkā of Vācaspati, and the Pariśuddhi of Udayana_, Darbhanga: Mithila Institute.
-* Upādhyāya, Padmaprasāda and Dhundhirāja Śāstri (eds.), 1957, _The Nyāyakusumāñjali of Śrī Udayanācārya with Four Commentaries: The Bodhinī, Prakāśa, Prakāśikā (Jalada) and Makaranda by Varadarāja, Varddhamānopādhyāya, Mecha Thakkura and Rucidattopādhyāya and with Notes by Śrī Dharmadatta (Bachchā Jhā)_, Benares: Chowkhamba Sanskrit Series.
-* Svāmī Yogīndrānanda (ed.), 1968, _Nyāyabhūṣaṇa by Bhāsarvajña_, Varanasi: Ṣaḍdarśana Prakāśana Pratiṣṭhāna.
+* Jhā, Śaśīnātha (ed.), 1963, *Lakṣaṇamālā by Udayanācārya*, Darbhanga: Mithila Institute.
+* Kunhan Raja, Chittenoor and S. S. Suryanarayana Sastri (eds.), 1933, *Mānameyodaya: An Elementary Treatise On the Mīmāṁsā*, Madras: Theosophical Publishing House.
+* Kuppuswami Sastri, S. (ed.), 1984, *Brahmasiddhi by Ācārya Maṇḍanamiśra with commentary by Saṇkhapāni*, Delhi: Satguru Publications.
+* Matilal, B. K. (ed.), 1976, *Śaśadhara’s Nyāyasiddhāntadīpaḥ with Ṭippana of Guṇaratna*, Ahmedabad: L. D. Institute of Indology.
+* Sārvabhauma, Śiva Candra (ed.), 1911 \[1989], *Kiraṇāvalī by Udayanācārya with the Commentary of Vardhamānopādhyāya*, Fasc. I–II. Calcutta: Asiatic Society.
+* Śāstrī, Dhundhirāja (ed.), 1940, *The Ātmatattvaviveka of Udayanācārya with the Nārāyanī commentary of Nārāyaṇāchārya Ātreya and the Bauddhadhikāra Dīdhiti commentary of Raghunātha Śiromani, with Bauddhādhikāra Vivṛti of Gadādhara Bhaṭṭāchārya: Containing the opening portion of Kṣaṇabhanga Kurvadrupatvakhandana*, Benares: Chowkhamba Sanskrit Series.
+* Śāstrī, Kāśīnātha (ed.), 1915, *Tattvapradīpikā (Citsukhī) of Paramahaṅsa Citsukhacārya; with the commentary Nayanaprasādinī*, Bombay: Nirṇaya-Sāgar Press.
+* Shastri, Jagdish Lal (ed.), 1980, *Brahmasūtra-śāṅkarabhāṣya with the Commentaries Bhāṣyaratnaprabhā of Govindānanda, Bhāmatī of Vācaspati Miśra, and Nyāyanirṇaya of Ānandagiri*, Delhi: Motilal Banarasidass.
+* Steinkellner, Ernst, (ed.), 2007, *Dharmakīrti's Pramānaviniścaya*, Chapters 1 and 2. Beijing-Vienna: China Tibetology Publishing House.
+* Subramania Aiyar, K. A. (ed), 1976, *The Vākyapadīya of Bhartr̥hari With the commentaries Svopajñvṛtti by Harivṛṣabha & Ambākartri by Ragunātha Śarmā*, Volume 1: Brahmakāṇḍa. Varanasi: Sampurnanand Sanskrit University.
+* Śuklā Śāstrī, Harirāma (ed.), 1997, *Nyāyasiddhāntamuktāvali of Viśvanātha Pañcānana Bhaṭṭācārya with the commentaries ‘Dinakarī’ of Mahādeva Bhaṭṭācārya and Dīnakara Bhaṭṭācārya and ‘Rāmarudrī’ of Rāmarudra Bhaṭṭācārya and Rājeśvara Śāstri*, Varanasi: Chaukhamba Sanskrit Sansthan.
+* Tarkavāgīśa, Kāmākhyānātha (ed.), 1974, *The Tattvacintāmaṇi of Gaṅgeśa Upādhyāya with the commentary of Mathurānātha Tarkavāgīśa*, New Delhi: Motilal Banarasidass.
+  * 1974a, *Pratyakṣa Khaṇḍa*, Volume 1
+  * 1974b, *Anumāna Khaṇḍa*, Volume 2
+* Thakur, Anantalal (ed.), 1967, *Nyāyadarśana of Gautama; with the Bhāṣya of Vātsyāyana, the Vārttika of Uddyotakara, the Tātparyatīkā of Vācaspati, and the Pariśuddhi of Udayana*, Darbhanga: Mithila Institute.
+* Upādhyāya, Padmaprasāda and Dhundhirāja Śāstri (eds.), 1957, *The Nyāyakusumāñjali of Śrī Udayanācārya with Four Commentaries: The Bodhinī, Prakāśa, Prakāśikā (Jalada) and Makaranda by Varadarāja, Varddhamānopādhyāya, Mecha Thakkura and Rucidattopādhyāya and with Notes by Śrī Dharmadatta (Bachchā Jhā)*, Benares: Chowkhamba Sanskrit Series.
+* Svāmī Yogīndrānanda (ed.), 1968, *Nyāyabhūṣaṇa by Bhāsarvajña*, Varanasi: Ṣaḍdarśana Prakāśana Pratiṣṭhāna.
 
 ### Secondary Literature
 
-* Arnold, Dan, 2005, “Is _Svasaṃvitti_ Transcendental? A Tentative Reconstruction Following Śāntarakṣita”, _Asian Philosophy_, 15(1): 77–111. doi:10.1080/0955236052000341050
-* –––, 2010, “Self-Awareness (_svasaṃvitti_) and Related Doctrines of Buddhists Following Dignāga: Philosophical Characterizations of Some of the Main Issues”, _Journal of Indian Philosophy_, 38(3): 323–378. doi:10.1007/s10781-010-9095-7
-* Bhattacharyya, Sibajiban, 1990, _Gadādhara's Theory of Objectivity: Containing the Text of Gadādhara's Viṣayatāvāda With an English Translation, Explanatory Notes, and a General Introduction_, Volume 1, New Delhi: Indian Council of Philosophical Research, in association with Motilal Banarsidass.
-* Bradley, Francis Herbert, 1893, _Appearance and Reality: A Metaphysical Essay_, Oxford: Clarendon Press. \[[Bradley 1893 available online](http://archive.org/details/appearanceandrea00braduoft)]
-* Chatterjee, Amita, 2011, “Nyāya-Vaiśeṣika Philosophy”, in William Edelglass and Jay L. Garfield (eds.), _The Oxford Handbook of World Philosophy_, Oxford: Oxford University Press.
-* Carpenter, Amber & Jonardon Ganeri, 2010, “Can You Seek the Answer to This Question? (Meno in India)”, _Australasian Journal of Philosophy_, 88(4): 571–594. doi:10.1080/00048400903367833
-* Conee, Earl and Richard Feldman, 1998, “The Generality Problem for Reliabilism”, _Philosophical Studies_, 89(1): 1–29. doi:10.1023/A:1004243308503
-* Coseru, Christian, 2012, _Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199843381.001.0001
-* Dretske, Fred, 1981, “The Pragmatic Dimension of Knowledge”, _Philosophical Studies_, 40(3): 363–378. doi:10.1007/BF00646423
-* Feldman, Richard, 1985, “Reliability and Justification”, _The Monist_, 68(2): 159–174. doi:10.5840/monist198568226
-* Ganeri, Jonardon, 1995, “Self-Intimation, Memory and Personal Identity”, _Journal of Indian Philosophy_, 27(5): 469–483. doi:10.1023/A:1004490802605
-* –––, 2007, _The Concealed Art of the Soul: Theories of Self and Practices of Truth in Indian Ethics and Epistemology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199202416.001.0001
-* –––, 2011, _The Lost Age of Reason: Philosophy in Early Modern India 1450–1700_, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780199218745.001.0001
-* –––, 2012, _The Self: Naturalism, Consciousness, and the First-Person Stance_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199652365.001.0001
-* –––, 2016, “Śrīharṣa’s Dissident Epistemology”, in Jonardon Ganeri (ed.), _The Oxford Handbook of Indian Philosophy_, doi:10.1093/oxfordhb/9780199314621.013.49.
-* Garfield, Jay, 2006, “The Conventional Status of Reflexive Awareness: What's at Stake in the Tibetan Debate?”, _Philosophy East and West_, 56(2): 201–228. doi:10.1353/pew.2006.0020
-* Gettier, Edmund, 1963, “Is Justified True Belief Knowledge?”, _Analysis_, 23(6): 121–123. doi:10.1093/analys/23.6.121
-* Goldman, Alvin I., 1976, “Discrimination and Perceptual Knowledge”, _The Journal of Philosophy_, 73(20): 771–791. doi:10.2307/2025679
-* –––, 1979, “What Is Justified Belief?” in G.S. Pappas (ed.), _Justification and Knowledge_, Dordrecht: Reidel, 1–25; reprinted in A.I. Goldman, _Reliabilism and Contemporary Epistemology_, NewYork: Oxford University Press, 2012, 29–49.
-* Guha, Dinesh Chandra, 1979, _Navya Nyāya System of Logic: Basic Theories & Techniques_, Delhi: Motilal Banarsidass.
-* Halbfass, Wilhelm, 1983, _Studies in Kumārila and Śaṅkara_, Reinbek: Verlag für Orientalistiische Fachpublikationen.
-* Hume, David, 1748 \[2000], _An Enquiry Concerning Human Understanding_, edited by Tom L. Beauchamp, Oxford: Clarendon Press.
-* Jani, A.N., 1996, _Śrīharṣa_, New Delhi: Sahitya Akademi.
-* Kellner, Birgit, 2011, “Self-awareness (_svasaṃvedana_) and Infinite Regresses: A Comparison of Arguments by Dignāga and Dharmakīrti”, _Journal of Indian Philosophy_, 39: 411–426. doi:10.1007/s10781-011-9139-7
-* Kingsbury, Justine and Jonathan McKeown-Green, 2009, “Definitions: Does Disjunction Mean Dysfunction?” _The Journal of Philosophy_, 106(10): 568–585. doi:10.5840/jphil20091061034
-* Lasonen Aarnio, Maria, 2010, “Unreasonable Knowledge”, _Philosophical Perspectives_, 24: 1–21. doi:10.1111/j.1520-8583.2010.00183.x
-* Lewis, David Lewis, 1973, “Causation”, _Journal of Philosophy_, 70(17): 556–567. doi: 10.2307/2025310
-* –––, 1996, “Elusive Knowledge”, _Australasian Journal of Philosophy_, 74(4):549–567. doi:10.1080/09552360802440025
-* Machery, Edouard, Stephen Stich, David Rose, Amita Chatterjee, Kaori Karasawa, Noel Struchiner, Smita Sirker, Naoki Usui, and Takaaki Hashimoto, 2017, “Gettier Across Cultures”, _Noûs_, 51(3): 645–664. doi:10.1111/nous.12110
-* MacKenzie, Matthew D., 2007, “The Illumination of Consciousness: Approaches to Self-Awareness in the Indian and Western Traditions”, _Philosophy East and West_, 57(1): 40–62. doi:10.1353/pew.2007.0006
+* Arnold, Dan, 2005, “Is *Svasaṃvitti* Transcendental? A Tentative Reconstruction Following Śāntarakṣita”, *Asian Philosophy*, 15(1): 77–111. doi:10.1080/0955236052000341050
+* –––, 2010, “Self-Awareness (*svasaṃvitti*) and Related Doctrines of Buddhists Following Dignāga: Philosophical Characterizations of Some of the Main Issues”, *Journal of Indian Philosophy*, 38(3): 323–378. doi:10.1007/s10781-010-9095-7
+* Bhattacharyya, Sibajiban, 1990, *Gadādhara's Theory of Objectivity: Containing the Text of Gadādhara's Viṣayatāvāda With an English Translation, Explanatory Notes, and a General Introduction*, Volume 1, New Delhi: Indian Council of Philosophical Research, in association with Motilal Banarsidass.
+* Bradley, Francis Herbert, 1893, *Appearance and Reality: A Metaphysical Essay*, Oxford: Clarendon Press. \[[Bradley 1893 available online](http://archive.org/details/appearanceandrea00braduoft)]
+* Chatterjee, Amita, 2011, “Nyāya-Vaiśeṣika Philosophy”, in William Edelglass and Jay L. Garfield (eds.), *The Oxford Handbook of World Philosophy*, Oxford: Oxford University Press.
+* Carpenter, Amber & Jonardon Ganeri, 2010, “Can You Seek the Answer to This Question? (Meno in India)”, *Australasian Journal of Philosophy*, 88(4): 571–594. doi:10.1080/00048400903367833
+* Conee, Earl and Richard Feldman, 1998, “The Generality Problem for Reliabilism”, *Philosophical Studies*, 89(1): 1–29. doi:10.1023/A:1004243308503
+* Coseru, Christian, 2012, *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199843381.001.0001
+* Dretske, Fred, 1981, “The Pragmatic Dimension of Knowledge”, *Philosophical Studies*, 40(3): 363–378. doi:10.1007/BF00646423
+* Feldman, Richard, 1985, “Reliability and Justification”, *The Monist*, 68(2): 159–174. doi:10.5840/monist198568226
+* Ganeri, Jonardon, 1995, “Self-Intimation, Memory and Personal Identity”, *Journal of Indian Philosophy*, 27(5): 469–483. doi:10.1023/A:1004490802605
+* –––, 2007, *The Concealed Art of the Soul: Theories of Self and Practices of Truth in Indian Ethics and Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199202416.001.0001
+* –––, 2011, *The Lost Age of Reason: Philosophy in Early Modern India 1450–1700*, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780199218745.001.0001
+* –––, 2012, *The Self: Naturalism, Consciousness, and the First-Person Stance*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199652365.001.0001
+* –––, 2016, “Śrīharṣa’s Dissident Epistemology”, in Jonardon Ganeri (ed.), *The Oxford Handbook of Indian Philosophy*, doi:10.1093/oxfordhb/9780199314621.013.49.
+* Garfield, Jay, 2006, “The Conventional Status of Reflexive Awareness: What's at Stake in the Tibetan Debate?”, *Philosophy East and West*, 56(2): 201–228. doi:10.1353/pew.2006.0020
+* Gettier, Edmund, 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi:10.1093/analys/23.6.121
+* Goldman, Alvin I., 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73(20): 771–791. doi:10.2307/2025679
+* –––, 1979, “What Is Justified Belief?” in G.S. Pappas (ed.), *Justification and Knowledge*, Dordrecht: Reidel, 1–25; reprinted in A.I. Goldman, *Reliabilism and Contemporary Epistemology*, NewYork: Oxford University Press, 2012, 29–49.
+* Guha, Dinesh Chandra, 1979, *Navya Nyāya System of Logic: Basic Theories & Techniques*, Delhi: Motilal Banarsidass.
+* Halbfass, Wilhelm, 1983, *Studies in Kumārila and Śaṅkara*, Reinbek: Verlag für Orientalistiische Fachpublikationen.
+* Hume, David, 1748 \[2000], *An Enquiry Concerning Human Understanding*, edited by Tom L. Beauchamp, Oxford: Clarendon Press.
+* Jani, A.N., 1996, *Śrīharṣa*, New Delhi: Sahitya Akademi.
+* Kellner, Birgit, 2011, “Self-awareness (*svasaṃvedana*) and Infinite Regresses: A Comparison of Arguments by Dignāga and Dharmakīrti”, *Journal of Indian Philosophy*, 39: 411–426. doi:10.1007/s10781-011-9139-7
+* Kingsbury, Justine and Jonathan McKeown-Green, 2009, “Definitions: Does Disjunction Mean Dysfunction?” *The Journal of Philosophy*, 106(10): 568–585. doi:10.5840/jphil20091061034
+* Lasonen Aarnio, Maria, 2010, “Unreasonable Knowledge”, *Philosophical Perspectives*, 24: 1–21. doi:10.1111/j.1520-8583.2010.00183.x
+* Lewis, David Lewis, 1973, “Causation”, *Journal of Philosophy*, 70(17): 556–567. doi: 10.2307/2025310
+* –––, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4):549–567. doi:10.1080/09552360802440025
+* Machery, Edouard, Stephen Stich, David Rose, Amita Chatterjee, Kaori Karasawa, Noel Struchiner, Smita Sirker, Naoki Usui, and Takaaki Hashimoto, 2017, “Gettier Across Cultures”, *Noûs*, 51(3): 645–664. doi:10.1111/nous.12110
+* MacKenzie, Matthew D., 2007, “The Illumination of Consciousness: Approaches to Self-Awareness in the Indian and Western Traditions”, *Philosophy East and West*, 57(1): 40–62. doi:10.1353/pew.2007.0006
 * –––, 2008, “Self-Awareness Without a Self: Buddhism and the Reflexivity of Awareness”, _Asian Philosophy_18(3): 245–66. doi:10.1080/09552360802440025
-* Matilal, Bimal Krishna, 1986, _Perception: An Essay on Classical Indian Theories of Knowledge_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198239765.001.0001
-* –––, 1975, “Causality in the Nyāya-Vaiśeṣika School”, _Philosophy East and West_, 25(1) :41–48.
-* Murty, K. Satchidananda, 1959, _Reason and Revelation in Advaita Vedānta_, Waltair: Andhra University.
-* Nagel, Jennifer, 2012a, “Intuitions and Experiments: A Defense of the Case Method”, _Philosophy and Phenomenological Research_, 85(3) :495–527. doi:10.1111/j.1933-1592.2012.00634.x
-* –––, 2012b, “Mindreading in Gettier cases and Skeptical Pressure Cases” in Jessica Brown & Mikkel Gerken (eds.), _Knowledge Ascription_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199693702.003.0008
-* –––, 2013, “Defending the Evidential Value of Epistemic Intuitions: A Reply to Stich”, _Philosophy and Phenomenological Research_, 86(1) :179–199. doi:10.1111/phpr.12008
-* Nozick, Robert, 1981, _Philosophical Explanations_, Cambridge, MA: Harvard University Press.
-* Patel, Deven M., 2014, _Text to Tradition: The Naisadhiyacarita and Literary Community in South Asia_, New York: Columbia University Press.
-* Phillips, Stephen H., 1993, “Gaṅgeśa on Characterizing Veridical Awareness”, _Journal of Indian Philosophy_, 21(2): 107–168. doi:10.1007/BF01682176
-* Pritchard, Duncan, 2005, _Epistemic Luck_, Oxford: Oxford University Press. doi:10.1093/019928038X.001.0001
-* Ram-Prasad, Chakravarthi, 2002, _Advaita Epistemology and Metaphysics: An Outline of Indian Non-realism_, London: Routledge.
-* Sosa, Ernest, 1999, “How Must Knowledge Be Modally Related to What Is Known?”, _Philosophical Topics_, 26(1/2): 373–384.
-* Stine, Gail C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, _Philosophical Studies_, 29(4): 249–261. doi:10.1007/BF00411885
-* Stoltz, Jonathan, 2007, “Gettier and Factivity in Indo-Tibetan Epistemology”, _The Philosophical Quarterly_, 57(228): 394–415. doi:10.1111/j.1467-9213.2007.493.x
-* Taber, John, 2011, “Vedānta”, in William Edelglass and Jay L. Garfield (eds.), _The Oxford Handbook of World Philosophy_, Oxford: Oxford University Press.
-* Thrasher, Allen Wright, 1993, _The Advaita Vedānta of Brahma-siddhi_, Delhi: Motilal Banarsidass.
-* Thompson, Evan, 2011, “Self, No Self? Memory and Reflexive Awareness”, in Mark Siderits, Evan Thompson, and Dan Zahavi (eds.) (2011). _Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions_, Oxford: Oxford University Press.
-* Weinberg, Jonathan, 2007, “How to Challenge Intuitions Empirically Without Risking Skepticism”. _Midwest Studies in Philosophy_, 31(1): 318—343. doi:10.1111/j.1475-4975.2007.00157.x
-* Weinberg, Jonathan M., Nichols, Shaun, and Stich, Stephen, 2001, “Normativity and Epistemic Intuitions”, _Philosophical Topics_, 29(1–2): 429–460.
-* Williams, Paul, 1998, _The Reflexive Nature of Awareness: a Tibetan Madhyamaka Defence_, Richmond: Curzon.
-* Williamson, Timothy, 2000, _Knowledge and Its Limits_, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
-* Yao, Zhihua, 2005, _The Buddhist Theory of Self-Cognition_, London: Routledge.
+* Matilal, Bimal Krishna, 1986, *Perception: An Essay on Classical Indian Theories of Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198239765.001.0001
+* –––, 1975, “Causality in the Nyāya-Vaiśeṣika School”, *Philosophy East and West*, 25(1) :41–48.
+* Murty, K. Satchidananda, 1959, *Reason and Revelation in Advaita Vedānta*, Waltair: Andhra University.
+* Nagel, Jennifer, 2012a, “Intuitions and Experiments: A Defense of the Case Method”, *Philosophy and Phenomenological Research*, 85(3) :495–527. doi:10.1111/j.1933-1592.2012.00634.x
+* –––, 2012b, “Mindreading in Gettier cases and Skeptical Pressure Cases” in Jessica Brown & Mikkel Gerken (eds.), *Knowledge Ascription*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199693702.003.0008
+* –––, 2013, “Defending the Evidential Value of Epistemic Intuitions: A Reply to Stich”, *Philosophy and Phenomenological Research*, 86(1) :179–199. doi:10.1111/phpr.12008
+* Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
+* Patel, Deven M., 2014, *Text to Tradition: The Naisadhiyacarita and Literary Community in South Asia*, New York: Columbia University Press.
+* Phillips, Stephen H., 1993, “Gaṅgeśa on Characterizing Veridical Awareness”, *Journal of Indian Philosophy*, 21(2): 107–168. doi:10.1007/BF01682176
+* Pritchard, Duncan, 2005, *Epistemic Luck*, Oxford: Oxford University Press. doi:10.1093/019928038X.001.0001
+* Ram-Prasad, Chakravarthi, 2002, *Advaita Epistemology and Metaphysics: An Outline of Indian Non-realism*, London: Routledge.
+* Sosa, Ernest, 1999, “How Must Knowledge Be Modally Related to What Is Known?”, *Philosophical Topics*, 26(1/2): 373–384.
+* Stine, Gail C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, *Philosophical Studies*, 29(4): 249–261. doi:10.1007/BF00411885
+* Stoltz, Jonathan, 2007, “Gettier and Factivity in Indo-Tibetan Epistemology”, *The Philosophical Quarterly*, 57(228): 394–415. doi:10.1111/j.1467-9213.2007.493.x
+* Taber, John, 2011, “Vedānta”, in William Edelglass and Jay L. Garfield (eds.), *The Oxford Handbook of World Philosophy*, Oxford: Oxford University Press.
+* Thrasher, Allen Wright, 1993, *The Advaita Vedānta of Brahma-siddhi*, Delhi: Motilal Banarsidass.
+* Thompson, Evan, 2011, “Self, No Self? Memory and Reflexive Awareness”, in Mark Siderits, Evan Thompson, and Dan Zahavi (eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*, Oxford: Oxford University Press.
+* Weinberg, Jonathan, 2007, “How to Challenge Intuitions Empirically Without Risking Skepticism”. *Midwest Studies in Philosophy*, 31(1): 318—343. doi:10.1111/j.1475-4975.2007.00157.x
+* Weinberg, Jonathan M., Nichols, Shaun, and Stich, Stephen, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1–2): 429–460.
+* Williams, Paul, 1998, *The Reflexive Nature of Awareness: a Tibetan Madhyamaka Defence*, Richmond: Curzon.
+* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Yao, Zhihua, 2005, *The Buddhist Theory of Self-Cognition*, London: Routledge.
 
 ## Academic Tools
 
@@ -448,4 +448,4 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 [Bradley, Francis Herbert](https://plato.stanford.edu/entries/bradley/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [consciousness: higher-order theories](https://plato.stanford.edu/entries/consciousness-higher/) | [Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/) | [Early Modern India, analytic philosophy in](https://plato.stanford.edu/entries/early-modern-india/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Indian Philosophy (Classical): epistemology](https://plato.stanford.edu/entries/epistemology-india/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [Madhyamaka](https://plato.stanford.edu/entries/madhyamaka/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Nilanjan Das](http://www.dasnilanjan.com/) <[_nilanj.das@gmail.com_](mailto:nilanj%2edas%40gmail%2ecom)>
+[Nilanjan Das](http://www.dasnilanjan.com/) <[*nilanj.das@gmail.com*](mailto:nilanj%2edas%40gmail%2ecom)>

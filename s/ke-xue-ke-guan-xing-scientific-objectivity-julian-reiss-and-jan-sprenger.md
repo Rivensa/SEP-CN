@@ -1,6 +1,6 @@
 # 科学客观性 scientific objectivity (Julian Reiss and Jan Sprenger)
 
-_首次发表于 2014 年 8 月 25 日；实质性修订于 2020 年 10 月 30 日_
+*首次发表于 2014 年 8 月 25 日；实质性修订于 2020 年 10 月 30 日*
 
 科学客观性是科学的各个方面的属性。它表达了科学主张、方法、结果以及科学家本身不受特定观点、价值判断、社群偏见或个人利益等相关因素的影响，或者不应该受到这些影响的观念。客观性通常被认为是科学探究的理想，是重视科学知识的一个很好理由，也是科学在社会中具有权威的基础。
 
@@ -399,147 +399,147 @@ Koskinen 将她的解释视为对 Hacking（2015）的批评的回应，后者�
 
 ## Bibliography
 
-* Anderson, Elizabeth, 2004, “Uses of Value Judgments in Science: A General Argument, with Lessons from a Case Study of Feminist Research on Divorce”, _Hypatia_, 19(1): 1–24. doi:10.1111/j.1527-2001.2004.tb01266.x
-* Atkinson, Anthony B., 2001, “The Strange Disappearance of Welfare Economics”, _Kyklos_, 54(2‐3): 193–206. doi:10.1111/1467-6435.00148
-* Axtell, Guy, 2016, _Objectivity_, Cambridge: Polity Press.
-* Bakker, Marjan, Annette van Dijk, and Jelte M. Wicherts, 2012, “The Rules of the Game Called Psychological Science”, _Perspectives on Psychological Science_, 7(6): 543–554. doi:10.1177/1745691612459060
-* Bernardo, J.M., 2012, “Integrated Objective Bayesian Estimation and Hypothesis Testing”, in _Bayesian Statistics 9: Proceedings of the Ninth Valencia Meeting_, J.M. Bernardo et al. (eds.), Oxford: Oxford University Press, 1–68.
-* Betz, Gregor, 2013, “In Defence of the Value Free Ideal”, _European Journal for Philosophy of Science_, 3(2): 207–220. doi:10.1007/s13194-012-0062-x
-* Biddle, Justin B., 2013, “State of the Field: Transient Underdetermination and Values in Science”, _Studies in History and Philosophy of Science Part A_, 44(1): 124–133. doi:10.1016/j.shpsa.2012.09.003
-* Biddle, Justin B. and Rebecca Kukla, 2017, “The Geography of Epistemic Risk”, in _Exploring Inductive Risk: Case Studies of Values in Science_, Kevin C. Elliott and Ted Richards (eds.), New York: Oxford University Press, 215–238.
-* Bloor, David, 1982, “Durkheim and Mauss Revisited: Classification and the Sociology of Knowledge”, _Studies in History and Philosophy of Science Part A_, 13(4): 267–297. doi:10.1016/0039-3681(82)90012-7
-* Braithwaite, R. B., 1953, _Scientific Explanation_, Cambridge: Cambridge University Press.
-* Carnap, Rudolf, 1950 \[1962], _Logical Foundations of Probability_, second edition, Chicago: University of Chicago Press.
-* Cartwright, Nancy, 2007, “Are RCTs the Gold Standard?”, _BioSocieties_, 2(1): 11–20. doi:10.1017/S1745855207005029
-* Chang, Hasok, 2004, _Inventing Temperature: Measurement and Scientific Progress_, Oxford: Oxford University Press. doi:10.1093/0195171276.001.0001
-* Churchman, C. West, 1948, _Theory of Experimental Inference_, New York: Macmillan.
-* Collins, H. M., 1985, _Changing Order: Replication and Induction in Scientific Practice_, Chicago, IL: University of Chicago Press.
-* –––, 1994, “A Strong Confirmation of the Experimenters’ Regress”, _Studies in History and Philosophy of Science Part A_, 25(3): 493–503. doi:10.1016/0039-3681(94)90063-9
-* Cranor, Carl F., 1993, _Regulating Toxic Substances: A Philosophy of Science and the Law_, New York: Oxford University Press.
-* Crasnow, Sharon, 2013, “Feminist Philosophy of Science: Values and Objectivity: Feminist Philosophy of Science”, _Philosophy Compass_, 8(4): 413–423. doi:10.1111/phc3.12023
-* Daston, Lorraine, 1992, “Objectivity and the Escape from Perspective”, _Social Studies of Science_, 22(4): 597–618. doi:10.1177/030631292022004002
-* Daston, Lorraine and Peter Galison, 1992, “The Image of Objectivity”, _Representations_, 40(special issue: Seeing Science): 81–128. doi:10.2307/2928741
-* –––, 2007, _Objectivity_, Cambridge, MA: MIT Press.
-* Dilthey, Wilhelm, 1910 \[1981], _Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften_, Frankfurt am Main: Suhrkamp.
+* Anderson, Elizabeth, 2004, “Uses of Value Judgments in Science: A General Argument, with Lessons from a Case Study of Feminist Research on Divorce”, *Hypatia*, 19(1): 1–24. doi:10.1111/j.1527-2001.2004.tb01266.x
+* Atkinson, Anthony B., 2001, “The Strange Disappearance of Welfare Economics”, *Kyklos*, 54(2‐3): 193–206. doi:10.1111/1467-6435.00148
+* Axtell, Guy, 2016, *Objectivity*, Cambridge: Polity Press.
+* Bakker, Marjan, Annette van Dijk, and Jelte M. Wicherts, 2012, “The Rules of the Game Called Psychological Science”, *Perspectives on Psychological Science*, 7(6): 543–554. doi:10.1177/1745691612459060
+* Bernardo, J.M., 2012, “Integrated Objective Bayesian Estimation and Hypothesis Testing”, in *Bayesian Statistics 9: Proceedings of the Ninth Valencia Meeting*, J.M. Bernardo et al. (eds.), Oxford: Oxford University Press, 1–68.
+* Betz, Gregor, 2013, “In Defence of the Value Free Ideal”, *European Journal for Philosophy of Science*, 3(2): 207–220. doi:10.1007/s13194-012-0062-x
+* Biddle, Justin B., 2013, “State of the Field: Transient Underdetermination and Values in Science”, *Studies in History and Philosophy of Science Part A*, 44(1): 124–133. doi:10.1016/j.shpsa.2012.09.003
+* Biddle, Justin B. and Rebecca Kukla, 2017, “The Geography of Epistemic Risk”, in *Exploring Inductive Risk: Case Studies of Values in Science*, Kevin C. Elliott and Ted Richards (eds.), New York: Oxford University Press, 215–238.
+* Bloor, David, 1982, “Durkheim and Mauss Revisited: Classification and the Sociology of Knowledge”, *Studies in History and Philosophy of Science Part A*, 13(4): 267–297. doi:10.1016/0039-3681(82)90012-7
+* Braithwaite, R. B., 1953, *Scientific Explanation*, Cambridge: Cambridge University Press.
+* Carnap, Rudolf, 1950 \[1962], *Logical Foundations of Probability*, second edition, Chicago: University of Chicago Press.
+* Cartwright, Nancy, 2007, “Are RCTs the Gold Standard?”, *BioSocieties*, 2(1): 11–20. doi:10.1017/S1745855207005029
+* Chang, Hasok, 2004, *Inventing Temperature: Measurement and Scientific Progress*, Oxford: Oxford University Press. doi:10.1093/0195171276.001.0001
+* Churchman, C. West, 1948, *Theory of Experimental Inference*, New York: Macmillan.
+* Collins, H. M., 1985, *Changing Order: Replication and Induction in Scientific Practice*, Chicago, IL: University of Chicago Press.
+* –––, 1994, “A Strong Confirmation of the Experimenters’ Regress”, *Studies in History and Philosophy of Science Part A*, 25(3): 493–503. doi:10.1016/0039-3681(94)90063-9
+* Cranor, Carl F., 1993, *Regulating Toxic Substances: A Philosophy of Science and the Law*, New York: Oxford University Press.
+* Crasnow, Sharon, 2013, “Feminist Philosophy of Science: Values and Objectivity: Feminist Philosophy of Science”, *Philosophy Compass*, 8(4): 413–423. doi:10.1111/phc3.12023
+* Daston, Lorraine, 1992, “Objectivity and the Escape from Perspective”, *Social Studies of Science*, 22(4): 597–618. doi:10.1177/030631292022004002
+* Daston, Lorraine and Peter Galison, 1992, “The Image of Objectivity”, *Representations*, 40(special issue: Seeing Science): 81–128. doi:10.2307/2928741
+* –––, 2007, *Objectivity*, Cambridge, MA: MIT Press.
+* Dilthey, Wilhelm, 1910 \[1981], *Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften*, Frankfurt am Main: Suhrkamp.
 * Dorato, Mauro, 2004, “Epistemic and Nonepistemic Values in Science”, in Machamer and Wolters 2004: 52–77.
-* Douglas, Heather E., 2000, “Inductive Risk and Values in Science”, _Philosophy of Science_, 67(4): 559–579. doi:10.1086/392855
-* –––, 2004, “The Irreducible Complexity of Objectivity”, _Synthese_, 138(3): 453–473. doi:10.1023/B:SYNT.0000016451.18182.91
-* –––, 2009, _Science, Policy, and the Value-Free Ideal_, Pittsburgh, PA: University of Pittsburgh Press.
+* Douglas, Heather E., 2000, “Inductive Risk and Values in Science”, *Philosophy of Science*, 67(4): 559–579. doi:10.1086/392855
+* –––, 2004, “The Irreducible Complexity of Objectivity”, *Synthese*, 138(3): 453–473. doi:10.1023/B:SYNT.0000016451.18182.91
+* –––, 2009, *Science, Policy, and the Value-Free Ideal*, Pittsburgh, PA: University of Pittsburgh Press.
 * –––, 2011, “Facts, Values, and Objectivity”, Jarvie and Zamora Bonilla 2011: 513–529.
-* Duhem, Pierre Maurice Marie, 1906 \[1954], _La théorie physique. Son objet et sa structure_, Paris: Chevalier et Riviere; translated by Philip P. Wiener, _The Aim and Structure of Physical Theory_, Princeton, NJ: Princeton University Press, 1954.
+* Duhem, Pierre Maurice Marie, 1906 \[1954], *La théorie physique. Son objet et sa structure*, Paris: Chevalier et Riviere; translated by Philip P. Wiener, *The Aim and Structure of Physical Theory*, Princeton, NJ: Princeton University Press, 1954.
 * Dupré, John, 2007, “Fact and Value”, in Kincaid, Dupré, and Wylie 2007: 24–71.
-* Earman, John, 1992, _Bayes or Bust? A Critical Examination of Bayesian Confirmation Theory_, Cambridge/MA: The MIT Press.&#x20;
-* Elliott, Kevin C., 2011, “Direct and Indirect Roles for Values in Science”, _Philosophy of Science_, 78(2): 303–324. doi:10.1086/659222
-* Feyerabend, Paul K., 1962, “Explanation, Reduction and Empiricism”, in H. Feigl and G. Maxwell (ed.), _Scientific Explanation, Space, and Time_, (Minnesota Studies in the Philosophy of Science, 3), Minneapolis, MN: University of Minnesota Press, pp. 28–97.
-* –––, 1975, _Against Method_, London: Verso.
-* –––, 1978, _Science in a Free Society_, London: New Left Books.
-* Fine, Arthur, 1998, “The Viewpoint of No-One in Particular”, _Proceedings and Addresses of the American Philosophical Association_, 72(2): 7. doi:10.2307/3130879
-* Fisher, Ronald Aylmer, 1935, _The Design of Experiments_, Edinburgh: Oliver and Boyd.
-* –––, 1956, _Statistical Methods and Scientific Inference_, New York: Hafner.
-* Franklin, Allan, 1994, “How to Avoid the Experimenters’ Regress”, _Studies in History and Philosophy of Science Part A_, 25(3): 463–491. doi:10.1016/0039-3681(94)90062-0
-* –––, 1997, “Calibration”, _Perspectives on Science_, 5(1): 31–80.
-* Freese, Jeremy and David Peterson, 2018, “The Emergence of Statistical Objectivity: Changing Ideas of Epistemic Vice and Virtue in Science”, _Sociological Theory_, 36(3): 289–313. doi:10.1177/0735275118794987
-* Gadamer, Hans-Georg, 1960 \[1989], _Wahrheit und Methode_, Tübingen : Mohr. Translated as _Truth and Method_, 2nd edition, Joel Weinsheimer and Donald G. Marshall (trans), New York, NY: Crossroad, 1989.
-* Gelman, Andrew and Christian Hennig, 2017, “Beyond Subjective and Objective in Statistics”, _Journal of the Royal Statistical Society: Series A (Statistics in Society)_, 180(4): 967–1033. doi:10.1111/rssa.12276
-* Giere, Ronald N., 2006, _Scientific Perspectivism_, Chicago, IL: University of Chicago Press.
-* Good, Irving John, 1950, _Probability and the Weighing of Evidence_, London: Charles Griffin.
-* Gul, Faruk and Wolfgang Pesendorfer, 2008, “The Case for Mindless Economics”, in _The Foundations of Positive and Normative Economics: a Handbook_, Andrew Caplin and Andrew Schotter (eds), New York, NY: Oxford University Press, pp. 3–39.
-* Guyatt, Gordon, John Cairns, David Churchill, Deborah Cook, Brian Haynes, Jack Hirsh, Jan Irvine, Mark Levine, Mitchell Levine, Jim Nishikawa, et al., 1992, “Evidence-Based Medicine: A New Approach to Teaching the Practice of Medicine”, _JAMA: The Journal of the American Medical Association_, 268(17): 2420–2425. doi:10.1001/jama.1992.03490170092032
-* Haack, Susan, 2003, _Defending Science—Within Reason: Between Scientism and Cynicism_, Amherst, NY: Prometheus Books.
-* Hacking, Ian, 1965, _Logic of Statistical Inference_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316534960
+* Earman, John, 1992, *Bayes or Bust? A Critical Examination of Bayesian Confirmation Theory*, Cambridge/MA: The MIT Press.&#x20;
+* Elliott, Kevin C., 2011, “Direct and Indirect Roles for Values in Science”, *Philosophy of Science*, 78(2): 303–324. doi:10.1086/659222
+* Feyerabend, Paul K., 1962, “Explanation, Reduction and Empiricism”, in H. Feigl and G. Maxwell (ed.), *Scientific Explanation, Space, and Time*, (Minnesota Studies in the Philosophy of Science, 3), Minneapolis, MN: University of Minnesota Press, pp. 28–97.
+* –––, 1975, *Against Method*, London: Verso.
+* –––, 1978, *Science in a Free Society*, London: New Left Books.
+* Fine, Arthur, 1998, “The Viewpoint of No-One in Particular”, *Proceedings and Addresses of the American Philosophical Association*, 72(2): 7. doi:10.2307/3130879
+* Fisher, Ronald Aylmer, 1935, *The Design of Experiments*, Edinburgh: Oliver and Boyd.
+* –––, 1956, *Statistical Methods and Scientific Inference*, New York: Hafner.
+* Franklin, Allan, 1994, “How to Avoid the Experimenters’ Regress”, *Studies in History and Philosophy of Science Part A*, 25(3): 463–491. doi:10.1016/0039-3681(94)90062-0
+* –––, 1997, “Calibration”, *Perspectives on Science*, 5(1): 31–80.
+* Freese, Jeremy and David Peterson, 2018, “The Emergence of Statistical Objectivity: Changing Ideas of Epistemic Vice and Virtue in Science”, *Sociological Theory*, 36(3): 289–313. doi:10.1177/0735275118794987
+* Gadamer, Hans-Georg, 1960 \[1989], *Wahrheit und Methode*, Tübingen : Mohr. Translated as *Truth and Method*, 2nd edition, Joel Weinsheimer and Donald G. Marshall (trans), New York, NY: Crossroad, 1989.
+* Gelman, Andrew and Christian Hennig, 2017, “Beyond Subjective and Objective in Statistics”, *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4): 967–1033. doi:10.1111/rssa.12276
+* Giere, Ronald N., 2006, *Scientific Perspectivism*, Chicago, IL: University of Chicago Press.
+* Good, Irving John, 1950, *Probability and the Weighing of Evidence*, London: Charles Griffin.
+* Gul, Faruk and Wolfgang Pesendorfer, 2008, “The Case for Mindless Economics”, in *The Foundations of Positive and Normative Economics: a Handbook*, Andrew Caplin and Andrew Schotter (eds), New York, NY: Oxford University Press, pp. 3–39.
+* Guyatt, Gordon, John Cairns, David Churchill, Deborah Cook, Brian Haynes, Jack Hirsh, Jan Irvine, Mark Levine, Mitchell Levine, Jim Nishikawa, et al., 1992, “Evidence-Based Medicine: A New Approach to Teaching the Practice of Medicine”, *JAMA: The Journal of the American Medical Association*, 268(17): 2420–2425. doi:10.1001/jama.1992.03490170092032
+* Haack, Susan, 2003, *Defending Science—Within Reason: Between Scientism and Cynicism*, Amherst, NY: Prometheus Books.
+* Hacking, Ian, 1965, *Logic of Statistical Inference*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316534960
 * –––, 2015, “Let’s Not Talk About Objectivity”, in Padovani, Richardson, and Tsou 2015: 19–33. doi:10.1007/978-3-319-14349-1\_2
-* Hanson, Norwood Russell, 1958, _Patterns of Discovery: An Inquiry into the Conceptual Foundations of Science_, Cambridge: Cambridge University Press.
-* Haraway, Donna, 1988, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”, _Feminist Studies_, 14(3): 575–599. doi:10.2307/3178066
-* Harding, Sandra, 1991, _Whose Science? Whose Knowledge? Thinking from Women’s Lives_, Ithaca, NY: Cornell University Press.
-* –––, 1993, “Rethinking Standpoint Epistemology: What is Strong Objectivity?”, in _Feminist Epistemologies_, Linda Alcoff and Elizabeth Potter (ed.), New York, NY: Routledge, 49–82.
-* –––, 2015a, _Objectivity and Diversity: Another Logic of Scientific Research_, Chicago: University of Chicago Press.
-* –––, 2015b, “After Mr. Nowhere: What Kind of Proper Self for a Scientist?”, _Feminist Philosophy Quarterly_, 1(1): 1–22. doi:10.5206/fpq/2015.1.2
-* Hausman, Daniel M., 2012, _Preference, Value, Choice, and Welfare_, New York: Cambridge University Press. doi:10.1017/CBO9781139058537
-* Hempel, Carl G., 1965, _Aspects of Scientific Explanation_, New York: The Free Press.
-* Hesse, Mary B., 1980, _Revolutions and Reconstructions in the Philosophy of Science_, Bloomington, IN: University of Indiana Press.
-* Howson, Colin, 2000, _Hume’s Problem: Induction and the Justification of Belief_, Oxford: Oxford University Press.
-* Howson, Colin and Peter Urbach, 1993, _Scientific Reasoning: The Bayesian Approach_, second edition, La Salle, IL: Open Court.
-* Hrdy, Sarah Blaffer, 1977, _The Langurs of Abu: Female and Male Strategies of Reproduction_, Cambridge, MA: Harvard University Press.
-* Ioannidis, John P. A., 2005, “Why Most Published Research Findings Are False”, _PLoS Medicine_, 2(8): e124. doi:10.1371/journal.pmed.0020124
-* Janack, Marianne, 2002, “Dilemmas of Objectivity”, _Social Epistemology_, 16(3): 267–281. doi:10.1080/0269172022000025624
-* Jarvie, Ian C. and Jesús P. Zamora Bonilla (eds.), 2011, _The SAGE Handbook of the Philosophy of Social Sciences_, London: SAGE.
-* Jaynes, Edwin T., 1968, “Prior Probabilities”, _IEEE Transactions on Systems Science and Cybernetics_, 4(3): 227–241. doi:10.1109/TSSC.1968.300117
-* Jeffrey, Richard C., 1956, “Valuation and Acceptance of Scientific Hypotheses”, _Philosophy of Science_, 23(3): 237–246. doi:10.1086/287489
-* Jeffreys, Harold, 1939 \[1980], _Theory of Probability_, third edition, Oxford: Oxford University Press.
-* Kelvin, Lord (William Thomson), 1883, “Electrical Units of Measurement”, Lecture to the Institution of Civil Engineers on 3 May 1883, reprinted in 1889, _Popular Lectures and Addresses_, Vol. I, London: MacMillan and Co., p. 73.
-* Kincaid, Harold, John Dupré, and Alison Wylie (eds.), 2007, _Value-Free Science?: Ideals and Illusions_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195308969.001.0001
-* Kitcher, Philip, 2011a, _Science in a Democratic Society_, Amherst, NY: Prometheus Books.
-* –––, 2011b, _The Ethical Project_, Cambridge, MA: Harvard University Press.
-* Koskinen, Inkeri, forthcoming, “Defending a Risk Account of Scientific Objectivity”, _The British Journal for the Philosophy of Science_, first online: 3 August 2018. doi:10.1093/bjps/axy053
-* Kourany, Janet A., 2010, _Philosophy of Science after Feminism_, Oxford: Oxford University Press.
-* Kuhn, Thomas S., 1962 \[1970], _The Structure of Scientific Revolutions_, second edition, Chicago: University of Chicago Press.
-* –––, 1977, “Objectivity, Value Judgment, and Theory Choice”, in his _The Essential Tension. Selected Studies in Scientific Tradition and Change_, Chicago: University of Chicago Press: 320–39.
-* Lacey, Hugh, 1999, _Is Science Value-Free? Values and Scientific Understanding_, London: Routledge.
-* –––, 2002, “The Ways in Which the Sciences Are and Are Not Value Free”, in _In the Scope of Logic, Methodology and Philosophy of Science: Volume Two of the 11th International Congress of Logic, Methodology and Philosophy of Science, Cracow, August 1999_, Peter Gärdenfors, Jan Woleński, and Katarzyna Kijania-Placek (eds.), Dordrecht: Springer Netherlands, 519–532. doi:10.1007/978-94-017-0475-5\_9
-* Laudan, Larry, 1984, _Science and Values: An Essay on the Aims of Science and Their Role in Scientific Debate_, Berkeley/Los Angeles: University of California Press.
-* Levi, Isaac, 1960, “Must the Scientist Make Value Judgments?”, _The Journal of Philosophy_, 57(11): 345–357. doi:10.2307/2023504
-* Lloyd, Elisabeth A., 1993, “Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality”, _Philosophical Studies_, 69(2–3): 139–153. doi:10.1007/BF00990080
-* –––, 2005, _The Case of the Female Orgasm: Bias in the Science of Evolution_, Cambridge, MA: Harvard University Press.
-* Longino, Helen E., 1990, _Science as Social Knowledge: Values and Objectivity in Scientific Inquiry_, Princeton, NY: Princeton University Press.
-* –––, 1996, “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy”, in _Feminism, Science, and the Philosophy of Science_, Lynn Hankinson Nelson and Jack Nelson (eds.), Dordrecht: Springer Netherlands, 39–58. doi:10.1007/978-94-009-1742-2\_3
-* Machamer, Peter and Gereon Wolters (eds.), 2004, _Science, Values and Objectivity_, Pittsburgh: Pittsburgh University Press.
-* Mayo, Deborah G., 1996, _Error and the Growth of Experimental Knowledge_, Chicago & London: The University of Chicago Press.
-* McMullin, Ernan, 1982, “Values in Science”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association 1982_, 3–28.
-* –––, 2009, “The Virtues of a Good Theory”, in _The Routledge Companion to Philosophy of Science_, Martin Curd and Stathis Psillos (eds), London: Routledge.
-* Megill, Allan, 1994, “Introduction: Four Senses of Objectivity”, in _Rethinking Objectivity_, Allan Megill (ed.), Durham, NC: Duke University Press, 1–20.
-* Mill, John Stuart, 1859 \[2003], _On Liberty_, New Haven and London: Yale University Press.
+* Hanson, Norwood Russell, 1958, *Patterns of Discovery: An Inquiry into the Conceptual Foundations of Science*, Cambridge: Cambridge University Press.
+* Haraway, Donna, 1988, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”, *Feminist Studies*, 14(3): 575–599. doi:10.2307/3178066
+* Harding, Sandra, 1991, *Whose Science? Whose Knowledge? Thinking from Women’s Lives*, Ithaca, NY: Cornell University Press.
+* –––, 1993, “Rethinking Standpoint Epistemology: What is Strong Objectivity?”, in *Feminist Epistemologies*, Linda Alcoff and Elizabeth Potter (ed.), New York, NY: Routledge, 49–82.
+* –––, 2015a, *Objectivity and Diversity: Another Logic of Scientific Research*, Chicago: University of Chicago Press.
+* –––, 2015b, “After Mr. Nowhere: What Kind of Proper Self for a Scientist?”, *Feminist Philosophy Quarterly*, 1(1): 1–22. doi:10.5206/fpq/2015.1.2
+* Hausman, Daniel M., 2012, *Preference, Value, Choice, and Welfare*, New York: Cambridge University Press. doi:10.1017/CBO9781139058537
+* Hempel, Carl G., 1965, *Aspects of Scientific Explanation*, New York: The Free Press.
+* Hesse, Mary B., 1980, *Revolutions and Reconstructions in the Philosophy of Science*, Bloomington, IN: University of Indiana Press.
+* Howson, Colin, 2000, *Hume’s Problem: Induction and the Justification of Belief*, Oxford: Oxford University Press.
+* Howson, Colin and Peter Urbach, 1993, *Scientific Reasoning: The Bayesian Approach*, second edition, La Salle, IL: Open Court.
+* Hrdy, Sarah Blaffer, 1977, *The Langurs of Abu: Female and Male Strategies of Reproduction*, Cambridge, MA: Harvard University Press.
+* Ioannidis, John P. A., 2005, “Why Most Published Research Findings Are False”, *PLoS Medicine*, 2(8): e124. doi:10.1371/journal.pmed.0020124
+* Janack, Marianne, 2002, “Dilemmas of Objectivity”, *Social Epistemology*, 16(3): 267–281. doi:10.1080/0269172022000025624
+* Jarvie, Ian C. and Jesús P. Zamora Bonilla (eds.), 2011, *The SAGE Handbook of the Philosophy of Social Sciences*, London: SAGE.
+* Jaynes, Edwin T., 1968, “Prior Probabilities”, *IEEE Transactions on Systems Science and Cybernetics*, 4(3): 227–241. doi:10.1109/TSSC.1968.300117
+* Jeffrey, Richard C., 1956, “Valuation and Acceptance of Scientific Hypotheses”, *Philosophy of Science*, 23(3): 237–246. doi:10.1086/287489
+* Jeffreys, Harold, 1939 \[1980], *Theory of Probability*, third edition, Oxford: Oxford University Press.
+* Kelvin, Lord (William Thomson), 1883, “Electrical Units of Measurement”, Lecture to the Institution of Civil Engineers on 3 May 1883, reprinted in 1889, *Popular Lectures and Addresses*, Vol. I, London: MacMillan and Co., p. 73.
+* Kincaid, Harold, John Dupré, and Alison Wylie (eds.), 2007, *Value-Free Science?: Ideals and Illusions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195308969.001.0001
+* Kitcher, Philip, 2011a, *Science in a Democratic Society*, Amherst, NY: Prometheus Books.
+* –––, 2011b, *The Ethical Project*, Cambridge, MA: Harvard University Press.
+* Koskinen, Inkeri, forthcoming, “Defending a Risk Account of Scientific Objectivity”, *The British Journal for the Philosophy of Science*, first online: 3 August 2018. doi:10.1093/bjps/axy053
+* Kourany, Janet A., 2010, *Philosophy of Science after Feminism*, Oxford: Oxford University Press.
+* Kuhn, Thomas S., 1962 \[1970], *The Structure of Scientific Revolutions*, second edition, Chicago: University of Chicago Press.
+* –––, 1977, “Objectivity, Value Judgment, and Theory Choice”, in his *The Essential Tension. Selected Studies in Scientific Tradition and Change*, Chicago: University of Chicago Press: 320–39.
+* Lacey, Hugh, 1999, *Is Science Value-Free? Values and Scientific Understanding*, London: Routledge.
+* –––, 2002, “The Ways in Which the Sciences Are and Are Not Value Free”, in *In the Scope of Logic, Methodology and Philosophy of Science: Volume Two of the 11th International Congress of Logic, Methodology and Philosophy of Science, Cracow, August 1999*, Peter Gärdenfors, Jan Woleński, and Katarzyna Kijania-Placek (eds.), Dordrecht: Springer Netherlands, 519–532. doi:10.1007/978-94-017-0475-5\_9
+* Laudan, Larry, 1984, *Science and Values: An Essay on the Aims of Science and Their Role in Scientific Debate*, Berkeley/Los Angeles: University of California Press.
+* Levi, Isaac, 1960, “Must the Scientist Make Value Judgments?”, *The Journal of Philosophy*, 57(11): 345–357. doi:10.2307/2023504
+* Lloyd, Elisabeth A., 1993, “Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality”, *Philosophical Studies*, 69(2–3): 139–153. doi:10.1007/BF00990080
+* –––, 2005, *The Case of the Female Orgasm: Bias in the Science of Evolution*, Cambridge, MA: Harvard University Press.
+* Longino, Helen E., 1990, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, NY: Princeton University Press.
+* –––, 1996, “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy”, in *Feminism, Science, and the Philosophy of Science*, Lynn Hankinson Nelson and Jack Nelson (eds.), Dordrecht: Springer Netherlands, 39–58. doi:10.1007/978-94-009-1742-2\_3
+* Machamer, Peter and Gereon Wolters (eds.), 2004, *Science, Values and Objectivity*, Pittsburgh: Pittsburgh University Press.
+* Mayo, Deborah G., 1996, *Error and the Growth of Experimental Knowledge*, Chicago & London: The University of Chicago Press.
+* McMullin, Ernan, 1982, “Values in Science”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association 1982*, 3–28.
+* –––, 2009, “The Virtues of a Good Theory”, in *The Routledge Companion to Philosophy of Science*, Martin Curd and Stathis Psillos (eds), London: Routledge.
+* Megill, Allan, 1994, “Introduction: Four Senses of Objectivity”, in *Rethinking Objectivity*, Allan Megill (ed.), Durham, NC: Duke University Press, 1–20.
+* Mill, John Stuart, 1859 \[2003], *On Liberty*, New Haven and London: Yale University Press.
 * Mitchell, Sandra D., 2004, “The Prescribed and Proscribed Values in Science Policy”, in Machamer and Wolters 2004: 245–255.
-* Nagel, Thomas, 1986, _The View From Nowhere_, New York, NY: Oxford University Press.
+* Nagel, Thomas, 1986, *The View From Nowhere*, New York, NY: Oxford University Press.
 * Nixon, Richard, 1969, “Special Message to the Congress on Social Security”, 25 September 1969. \[[Nixon 1969 available online](https://www.presidency.ucsb.edu/node/239698)]
-* Norton, John D., 2003, “A Material Theory of Induction”, _Philosophy of Science_, 70(4): 647–670. doi:10.1086/378858
-* –––, 2008, “Must Evidence Underdetermine Theory?”, in _The Challenge of the Social and the Pressure of Practice_, Martin Carrier, Don Howard and Janet Kourany (eds), Pittsburgh, PA: Pittsburgh University Press: 17–44.
-* Oakeshott, Michael, 1933, _Experience and Its Modes_, Cambridge: Cambridge University Press.
-* Okruhlik, Kathleen, 1994, “Gender and the Biological Sciences”, _Canadian Journal of Philosophy Supplementary Volume_, 20: 21–42. doi:10.1080/00455091.1994.10717393
-* Open Science Collaboration, 2015, “Estimating the Reproducibility of Psychological Science”, _Science_, 349(6251): aac4716. doi:10.1126/science.aac4716
-* Padovani, Flavia, Alan Richardson, and Jonathan Y. Tsou (eds.), 2015, _Objectivity in Science: New Perspectives from Science and Technology Studies_, (Boston Studies in the Philosophy and History of Science 310), Cham: Springer International Publishing. doi:10.1007/978-3-319-14349-1
-* Page, Scott E., 2007, _The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies_, Princeton, NJ: Princeton University Press.
-* Paternotte, Cédric, 2011, “Rational Choice Theory”, in _The SAGE Handbook of The Philosophy of Social Sciences_, Jarvie and Zamora Bonilla 2011: 307–321.
-* Popper, Karl. R., 1934 \[2002], _Logik der Forschung_, Vienna: Julius Springer. Translated as _Logic of Scientific Discovery_, London: Routledge.
-* –––, 1963, _Conjectures and Refutations: The Growth of Scientific Knowledge_, New York: Harper.
-* –––, 1972, _Objective Knowledge: An Evolutionary Approach_, Oxford: Oxford University Press.
-* Porter, Theodore M., 1995, _Trust in Numbers: The Pursuit of Objectivity in Science and Public Life_, Princeton, NJ, Princeton University Press.
-* Putnam, Hilary, 2002, _The Collapse of the Fact/Value Dichotomy and Other Essays_, Cambridge, MA: Harvard University Press.
-* Putnam, Hilary and Vivian Walsh, 2007, “A Response to Dasgupta”, _Economics and Philosophy_, 23(3): 359–364. doi:10.1017/S026626710700154X
-* Reichenbach, Hans, 1938, “On Probability and Induction”, _Philosophy of Science_, 5(1): 21–45. doi:10.1086/286483
-* Reiss, Julian, 2008, _Error in Economics: The Methodology of Evidence-Based Economics_, London: Routledge.
-* –––, 2010, “In Favour of a Millian Proposal to Reform Biomedical Research”, _Synthese_, 177(3): 427–447. doi:10.1007/s11229-010-9790-7
-* –––, 2013, _Philosophy of Economics: A Contemporary Introduction_, New York, NY: Routledge.
-* –––, 2020, “What Are the Drivers of Induction? Towards a Material Theory+”, _Studies in History and Philosophy of Science Part A_ 83: 8–16.
-* Resnik, David B., 2007, _The Price of Truth: How Money Affects the Norms of Science_, Oxford: Oxford University Press.
-* Rickert, Heinrich, 1929, _Die Grenzen der naturwissenschaftlichen Begriffsbildung. Eine logische Einleitung in die historischen Wissenschaften_, 6th edition, Tübingen: Mohr Siebeck. First edition published in 1902.
-* Royall, Richard, 1997, _Scientific Evidence: A Likelihood Paradigm_, London: Chapman & Hall.
-* Rudner, Richard, 1953, “The Scientist _qua_ Scientist Makes Value Judgments”, _Philosophy of Science_, 20(1): 1–6. doi:10.1086/287231
-* Ruphy, Stéphanie, 2006, “‘Empiricism All the Way down’: A Defense of the Value-Neutrality of Science in Response to Helen Longino’s Contextual Empiricism”, _Perspectives on Science_, 14(2): 189–214. doi:10.1162/posc.2006.14.2.189
-* Sen, Amartya, 1993, “Internal Consistency of Choice”, _Econometrica_, 61(3): 495–521.
-* Shrader-Frechette, K. S., 1991, _Risk and Rationality_, Berkeley/Los Angeles: University of California Press.
-* Simonsohn, Uri, Leif D. Nelson, and Joseph P. Simmons, 2014, “P-Curve: A Key to the File-Drawer.”, _Journal of Experimental Psychology: General_, 143(2): 534–547. doi:10.1037/a0033242
-* Sprenger, Jan, 2016, “Bayesianism vs. Frequentism in Statistical Inference”, in _Oxford Handbook on Philosophy of Probability_, Alan Hájek and Christopher Hitchcock (eds), Oxford: Oxford University Press.
-* –––, 2018, “The Objectivity of Subjective Bayesianism”, _European Journal for Philosophy of Science_, 8(3): 539–558. doi:10.1007/s13194-018-0200-1
-* Sprenger, Jan and Stephan Hartmann, 2019, _Bayesian Philosophy of Science_, Oxford: Oxford University Press. doi:10.1093/oso/9780199672110.001.0001
-* Steel, Daniel, 2010, “Epistemic Values and the Argument from Inductive Risk”, _Philosophy of Science_, 77(1): 14–34. doi:10.1086/650206
-* Steele, Katie, 2012, “The Scientist _qua_ Policy Advisor Makes Value Judgments”, Philosophy of Science, 79(5): 893–904. doi:10.1086/667842
-* Stegenga, Jacob, 2011, “Is Meta-Analysis the Platinum Standard of Evidence?”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 42(4): 497–507. doi:10.1016/j.shpsc.2011.07.003
-* –––, 2018, _Medical Nihilism_, Oxford: Oxford University Press. doi:10.1093/oso/9780198747048.001.0001
-* Teira, David, 2010, “Frequentist versus Bayesian Clinical Trials”, in _Philosophy of Medicine_, Fred Gifford (ed.), (Handbook of the Philosophy of Science 16), Amsterdam: Elsevier, 255–297. doi:10.1016/B978-0-444-51787-6.50010-6
-* Teira, David and Julian Reiss, 2013, “Causality, Impartiality and Evidence-Based Policy”, in _Mechanism and Causality in Biology and Economics_, Hsiang-Ke Chao, Szu-Ting Chen, and Roberta L. Millstein (eds.), (History, Philosophy and Theory of the Life Sciences 3), Dordrecht: Springer Netherlands, 207–224. doi:10.1007/978-94-007-2454-9\_11
-* Weber, Max, 1904 \[1949], “Die ‘Objektivität’ sozialwissenschaftlicher und sozialpolitischer Erkenntnis”, _Archiv für Sozialwissenschaft und Sozialpolitik_, 19(1): 22–87. Translated as “‘Objectivity’ in Social Science and Social Policy”, in Weber 1949: 50–112.
-* –––, 1917 \[1949], “Der Sinn der ‘Wertfreiheit’ der soziologischen und ökonomischen Wissenschaften”. Reprinted in _Gesammelte Aufsätze zur Wissenschaftslehre_, Tübingen: UTB, 1988, 451–502. Translated as “The Meaning of ‘Ethical Neutrality’ in Sociology and Economics” in Weber 1949: 1–49.
-* –––, 1949, _The Methodology of the Social Sciences_, Edward A. Shils and Henry A. Finch (trans/eds), New York, NY: Free Press.
-* Wilholt, Torsten, 2009, “Bias and Values in Scientific Research”, _Studies in History and Philosophy of Science Part A_, 40(1): 92–101. doi:10.1016/j.shpsa.2008.12.005
-* –––, 2013, “Epistemic Trust in Science”, _The British Journal for the Philosophy of Science_, 64(2): 233–253. doi:10.1093/bjps/axs007
-* Williams, Bernard, 1985 \[2011], _Ethics and the Limits of Philosophy_, Cambridge, MA: Harvard University Press. Reprinted London and New York, NY: Routledge, 2011.
-* Williamson, Jon, 2010, _In Defence of Objective Bayesianism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199228003.001.0001
-* Windelband, Wilhelm, 1915, _Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte_, fifth edition, Tübingen: Mohr Siebeck.
-* Winsberg, Eric, 2012, “Values and Uncertainties in the Predictions of Global Climate Models”, _Kennedy Institute of Ethics Journal_, 22(2): 111–137. doi:10.1353/ken.2012.0008
-* Wittgenstein, Ludwig, 1953 \[2001], _Philosophical Investigations_, G. Anscombe (trans.), London: Blackwell.
-* Worrall, John, 2002, “_What_ Evidence in Evidence‐Based Medicine?”, _Philosophy of Science_, 69(S3): S316–S330. doi:10.1086/341855
-* Wylie, Alison, 2003, “Why Standpoint Matters”, in _Science and Other Cultures: Issues in Philosophies of Science and Technology_, Robert Figueroa and Sandra Harding (eds), New York, NY and London: Routledge, pp. 26–48.
-* Ziliak, Stephen Thomas and Deirdre N. McCloskey, 2008, _The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice and Lives_, Ann Arbor, MI: University of Michigan Press.
+* Norton, John D., 2003, “A Material Theory of Induction”, *Philosophy of Science*, 70(4): 647–670. doi:10.1086/378858
+* –––, 2008, “Must Evidence Underdetermine Theory?”, in *The Challenge of the Social and the Pressure of Practice*, Martin Carrier, Don Howard and Janet Kourany (eds), Pittsburgh, PA: Pittsburgh University Press: 17–44.
+* Oakeshott, Michael, 1933, *Experience and Its Modes*, Cambridge: Cambridge University Press.
+* Okruhlik, Kathleen, 1994, “Gender and the Biological Sciences”, *Canadian Journal of Philosophy Supplementary Volume*, 20: 21–42. doi:10.1080/00455091.1994.10717393
+* Open Science Collaboration, 2015, “Estimating the Reproducibility of Psychological Science”, *Science*, 349(6251): aac4716. doi:10.1126/science.aac4716
+* Padovani, Flavia, Alan Richardson, and Jonathan Y. Tsou (eds.), 2015, *Objectivity in Science: New Perspectives from Science and Technology Studies*, (Boston Studies in the Philosophy and History of Science 310), Cham: Springer International Publishing. doi:10.1007/978-3-319-14349-1
+* Page, Scott E., 2007, *The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies*, Princeton, NJ: Princeton University Press.
+* Paternotte, Cédric, 2011, “Rational Choice Theory”, in *The SAGE Handbook of The Philosophy of Social Sciences*, Jarvie and Zamora Bonilla 2011: 307–321.
+* Popper, Karl. R., 1934 \[2002], *Logik der Forschung*, Vienna: Julius Springer. Translated as *Logic of Scientific Discovery*, London: Routledge.
+* –––, 1963, *Conjectures and Refutations: The Growth of Scientific Knowledge*, New York: Harper.
+* –––, 1972, *Objective Knowledge: An Evolutionary Approach*, Oxford: Oxford University Press.
+* Porter, Theodore M., 1995, *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life*, Princeton, NJ, Princeton University Press.
+* Putnam, Hilary, 2002, *The Collapse of the Fact/Value Dichotomy and Other Essays*, Cambridge, MA: Harvard University Press.
+* Putnam, Hilary and Vivian Walsh, 2007, “A Response to Dasgupta”, *Economics and Philosophy*, 23(3): 359–364. doi:10.1017/S026626710700154X
+* Reichenbach, Hans, 1938, “On Probability and Induction”, *Philosophy of Science*, 5(1): 21–45. doi:10.1086/286483
+* Reiss, Julian, 2008, *Error in Economics: The Methodology of Evidence-Based Economics*, London: Routledge.
+* –––, 2010, “In Favour of a Millian Proposal to Reform Biomedical Research”, *Synthese*, 177(3): 427–447. doi:10.1007/s11229-010-9790-7
+* –––, 2013, *Philosophy of Economics: A Contemporary Introduction*, New York, NY: Routledge.
+* –––, 2020, “What Are the Drivers of Induction? Towards a Material Theory+”, *Studies in History and Philosophy of Science Part A* 83: 8–16.
+* Resnik, David B., 2007, *The Price of Truth: How Money Affects the Norms of Science*, Oxford: Oxford University Press.
+* Rickert, Heinrich, 1929, *Die Grenzen der naturwissenschaftlichen Begriffsbildung. Eine logische Einleitung in die historischen Wissenschaften*, 6th edition, Tübingen: Mohr Siebeck. First edition published in 1902.
+* Royall, Richard, 1997, *Scientific Evidence: A Likelihood Paradigm*, London: Chapman & Hall.
+* Rudner, Richard, 1953, “The Scientist *qua* Scientist Makes Value Judgments”, *Philosophy of Science*, 20(1): 1–6. doi:10.1086/287231
+* Ruphy, Stéphanie, 2006, “‘Empiricism All the Way down’: A Defense of the Value-Neutrality of Science in Response to Helen Longino’s Contextual Empiricism”, *Perspectives on Science*, 14(2): 189–214. doi:10.1162/posc.2006.14.2.189
+* Sen, Amartya, 1993, “Internal Consistency of Choice”, *Econometrica*, 61(3): 495–521.
+* Shrader-Frechette, K. S., 1991, *Risk and Rationality*, Berkeley/Los Angeles: University of California Press.
+* Simonsohn, Uri, Leif D. Nelson, and Joseph P. Simmons, 2014, “P-Curve: A Key to the File-Drawer.”, *Journal of Experimental Psychology: General*, 143(2): 534–547. doi:10.1037/a0033242
+* Sprenger, Jan, 2016, “Bayesianism vs. Frequentism in Statistical Inference”, in *Oxford Handbook on Philosophy of Probability*, Alan Hájek and Christopher Hitchcock (eds), Oxford: Oxford University Press.
+* –––, 2018, “The Objectivity of Subjective Bayesianism”, *European Journal for Philosophy of Science*, 8(3): 539–558. doi:10.1007/s13194-018-0200-1
+* Sprenger, Jan and Stephan Hartmann, 2019, *Bayesian Philosophy of Science*, Oxford: Oxford University Press. doi:10.1093/oso/9780199672110.001.0001
+* Steel, Daniel, 2010, “Epistemic Values and the Argument from Inductive Risk”, *Philosophy of Science*, 77(1): 14–34. doi:10.1086/650206
+* Steele, Katie, 2012, “The Scientist *qua* Policy Advisor Makes Value Judgments”, Philosophy of Science, 79(5): 893–904. doi:10.1086/667842
+* Stegenga, Jacob, 2011, “Is Meta-Analysis the Platinum Standard of Evidence?”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 42(4): 497–507. doi:10.1016/j.shpsc.2011.07.003
+* –––, 2018, *Medical Nihilism*, Oxford: Oxford University Press. doi:10.1093/oso/9780198747048.001.0001
+* Teira, David, 2010, “Frequentist versus Bayesian Clinical Trials”, in *Philosophy of Medicine*, Fred Gifford (ed.), (Handbook of the Philosophy of Science 16), Amsterdam: Elsevier, 255–297. doi:10.1016/B978-0-444-51787-6.50010-6
+* Teira, David and Julian Reiss, 2013, “Causality, Impartiality and Evidence-Based Policy”, in *Mechanism and Causality in Biology and Economics*, Hsiang-Ke Chao, Szu-Ting Chen, and Roberta L. Millstein (eds.), (History, Philosophy and Theory of the Life Sciences 3), Dordrecht: Springer Netherlands, 207–224. doi:10.1007/978-94-007-2454-9\_11
+* Weber, Max, 1904 \[1949], “Die ‘Objektivität’ sozialwissenschaftlicher und sozialpolitischer Erkenntnis”, *Archiv für Sozialwissenschaft und Sozialpolitik*, 19(1): 22–87. Translated as “‘Objectivity’ in Social Science and Social Policy”, in Weber 1949: 50–112.
+* –––, 1917 \[1949], “Der Sinn der ‘Wertfreiheit’ der soziologischen und ökonomischen Wissenschaften”. Reprinted in *Gesammelte Aufsätze zur Wissenschaftslehre*, Tübingen: UTB, 1988, 451–502. Translated as “The Meaning of ‘Ethical Neutrality’ in Sociology and Economics” in Weber 1949: 1–49.
+* –––, 1949, *The Methodology of the Social Sciences*, Edward A. Shils and Henry A. Finch (trans/eds), New York, NY: Free Press.
+* Wilholt, Torsten, 2009, “Bias and Values in Scientific Research”, *Studies in History and Philosophy of Science Part A*, 40(1): 92–101. doi:10.1016/j.shpsa.2008.12.005
+* –––, 2013, “Epistemic Trust in Science”, *The British Journal for the Philosophy of Science*, 64(2): 233–253. doi:10.1093/bjps/axs007
+* Williams, Bernard, 1985 \[2011], *Ethics and the Limits of Philosophy*, Cambridge, MA: Harvard University Press. Reprinted London and New York, NY: Routledge, 2011.
+* Williamson, Jon, 2010, *In Defence of Objective Bayesianism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199228003.001.0001
+* Windelband, Wilhelm, 1915, *Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte*, fifth edition, Tübingen: Mohr Siebeck.
+* Winsberg, Eric, 2012, “Values and Uncertainties in the Predictions of Global Climate Models”, *Kennedy Institute of Ethics Journal*, 22(2): 111–137. doi:10.1353/ken.2012.0008
+* Wittgenstein, Ludwig, 1953 \[2001], *Philosophical Investigations*, G. Anscombe (trans.), London: Blackwell.
+* Worrall, John, 2002, “*What* Evidence in Evidence‐Based Medicine?”, *Philosophy of Science*, 69(S3): S316–S330. doi:10.1086/341855
+* Wylie, Alison, 2003, “Why Standpoint Matters”, in *Science and Other Cultures: Issues in Philosophies of Science and Technology*, Robert Figueroa and Sandra Harding (eds), New York, NY and London: Routledge, pp. 26–48.
+* Ziliak, Stephen Thomas and Deirdre N. McCloskey, 2008, *The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice and Lives*, Ann Arbor, MI: University of Michigan Press.
 
 ## Academic Tools
 
@@ -551,13 +551,13 @@ Koskinen 将她的解释视为对 Hacking（2015）的批评的回应，后者�
 
 ## Other Internet Resources
 
-* Norton, John, manuscript, [_The Material Theory of Induction_](https://www.pitt.edu/\~jdnorton/homepage/research/ind\_material.html), retrieved on 9 January 2020.
-* [Objectivity](http://www.iep.utm.edu/objectiv/), entry by Dwayne H. Mulder in the _Internet Encyclopedia of Philosophy_.
+* Norton, John, manuscript, [*The Material Theory of Induction*](https://www.pitt.edu/\~jdnorton/homepage/research/ind\_material.html), retrieved on 9 January 2020.
+* [Objectivity](http://www.iep.utm.edu/objectiv/), entry by Dwayne H. Mulder in the *Internet Encyclopedia of Philosophy*.
 
 ## Related Entries
 
 [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [confirmation](https://plato.stanford.edu/entries/confirmation/) | [feminist philosophy, interventions: epistemology and philosophy of science](https://plato.stanford.edu/entries/feminism-epistemology/) | [feminist philosophy, interventions: philosophy of biology](https://plato.stanford.edu/entries/feminist-philosophy-biology/) | [Feyerabend, Paul](https://plato.stanford.edu/entries/feyerabend/) | [hermeneutics](https://plato.stanford.edu/entries/hermeneutics/) | [incommensurability: of scientific theories](https://plato.stanford.edu/entries/incommensurability/) | [Kuhn, Thomas](https://plato.stanford.edu/entries/thomas-kuhn/) | [logic: inductive](https://plato.stanford.edu/entries/logic-inductive/) | [physics: experiment in](https://plato.stanford.edu/entries/physics-experiment/) | [science: theory and observation in](https://plato.stanford.edu/entries/science-theory-observation/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [statistics, philosophy of](https://plato.stanford.edu/entries/statistics/) | [underdetermination, of scientific theories](https://plato.stanford.edu/entries/scientific-underdetermination/) | [Weber, Max](https://plato.stanford.edu/entries/weber/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Julian Reiss](http://jreiss.org/) <[_reissj@me.com_](mailto:reissj%40me%2ecom)>\
-[Jan Sprenger](http://www.laeuferpaar.de/) <[_jan.sprenger@unito.it_](mailto:jan%2esprenger%40unito%2eit)>
+[Julian Reiss](http://jreiss.org/) <[*reissj@me.com*](mailto:reissj%40me%2ecom)>\
+[Jan Sprenger](http://www.laeuferpaar.de/) <[*jan.sprenger@unito.it*](mailto:jan%2esprenger%40unito%2eit)>

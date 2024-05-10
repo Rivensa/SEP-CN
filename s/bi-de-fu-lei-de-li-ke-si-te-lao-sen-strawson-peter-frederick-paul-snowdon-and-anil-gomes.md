@@ -1,6 +1,6 @@
 # 彼得·弗雷德里克·斯特劳森 Strawson, Peter Frederick (Paul Snowdon and Anil Gomes)
 
-_首次发表于 2009 年 9 月 16 日；实质修订于 2023 年 5 月 4 日_
+*首次发表于 2009 年 9 月 16 日；实质修订于 2023 年 5 月 4 日*
 
 彼得·弗雷德里克·斯特劳森（1919 年-2006 年）是二十世纪末重要而有影响力的哲学家。他的著作涵盖了哲学逻辑、语言哲学、形而上学、认识论和哲学史。在这些讨论中，斯特劳森的目标是确定我们日常思维中涉及的最基本概念。他认为这些核心概念包括身体、人、空间、时间和因果关系等。斯特劳森的目标是同时展示对我们使用这些概念的怀疑挑战是虚假和不合理的，以及我们使用这些概念的权利并不依赖于将它们归纳为某种被经验主义者所接受的更自然的基础，或者是基础科学中涉及的概念。根据斯特劳森的观点，形而上学的适当任务是描述这些不可或缺的概念及其相互关系。他的工作对于将牛津哲学从 A.J.艾尔和 J.L.奥斯汀的反形而上学工作转向重新参与许多传统哲学问题具有影响力。斯特劳森的工作仍然受到关注。
 
@@ -54,7 +54,7 @@ G. J. Warnock（在 Warnock 1964 中）认为斯特劳森的解释存在问题�
 
 > \[T]here is a massive central core of human thinking which has no history—or none recorded in histories of human thought; there are categories and concepts which, in their most fundamental character, change not at all. Obviously these are not the specialities of the most refined thinking. They are the commonplaces of the least refined thinking; and yet are the indispensable core of the conceptual equipment of the most sophisticated human beings. (斯特劳森 1959, 10)
 
-The claim that there are a shared set of concepts which are at the indispensable core of human thinking is a recognisably Kantian thesis. (We say more about Strawson’s relation to Kant below.) Descriptive metaphysics aims to describe and analyse this universal conceptual scheme. In particular, Strawson aims to focus on _one_ part of that total structure, namely our ability to direct our thoughts, and speech, onto items in the world. It is possible therefore to see _Individuals_ as, in part, a development of Strawson’s interest in reference.
+The claim that there are a shared set of concepts which are at the indispensable core of human thinking is a recognisably Kantian thesis. (We say more about Strawson’s relation to Kant below.) Descriptive metaphysics aims to describe and analyse this universal conceptual scheme. In particular, Strawson aims to focus on *one* part of that total structure, namely our ability to direct our thoughts, and speech, onto items in the world. It is possible therefore to see *Individuals* as, in part, a development of Strawson’s interest in reference.
 
 《个体》是一本由两个部分组成的书。在前四章中，斯特劳森关注的是我们对环境中的事物，包括自己的指称和思考能力。在后四章中，他的目标是阐明主语表达和谓词表达之间的区别。这后一部分更属于哲学逻辑或语言哲学，而不是形而上学。但斯特劳森认为，两者之间的联系在于主语表达的核心案例是基本指称的实体，而第一部分的任务就是确定这些实体的特征。事实上，这本书之所以产生巨大而直接的影响，主要是因为它的前三章的才华横溢和独创性，我们将对这些章节进行比其他章节更详细的描述。事实上，在阅读这些章节中发展的论证时，会产生持续的智力兴奋，而后面的章节则无法完全匹配。同样，与主语-谓词区别有关的问题吸引的人比起前面部分的问题来说要少一些。
 
@@ -148,77 +148,77 @@ The claim that there are a shared set of concepts which are at the indispensable
 
 #### A. Books by Strawson
 
-* 1952, _Introduction to Logical Theory_, London: Methuen.
-* 1959, _Individuals_, London: Methuen.
-* 1966, _The Bounds of Sense_, London: Methuen.
-* 1971, _Logico-Linguistic Papers_, London: Methuen.
-* 1974a, _Freedom and Resentment and Other Essays_, London: Methuen.
-* 1974b, _Subject and Predicate in Logic and Grammar_, London: Methuen, reprinted in 2004 by the Ashgate Press.
-* 1985a , _Skepticism and Naturalism: Some Varieties_, London: Methuen, and New York: Columbia University Press.
-* 1985b, _Analyse et Metaphysique_, Paris: J. Vrin.
-* 1992, _Analysis and Metaphysics_, Oxford: Oxford University Press.
-* 1997, _Entity and Identity_, Oxford: Oxford University Press.
-* 2011, _Philosophical Writings_, Oxford: Oxford University Press.
+* 1952, *Introduction to Logical Theory*, London: Methuen.
+* 1959, *Individuals*, London: Methuen.
+* 1966, *The Bounds of Sense*, London: Methuen.
+* 1971, *Logico-Linguistic Papers*, London: Methuen.
+* 1974a, *Freedom and Resentment and Other Essays*, London: Methuen.
+* 1974b, *Subject and Predicate in Logic and Grammar*, London: Methuen, reprinted in 2004 by the Ashgate Press.
+* 1985a , *Skepticism and Naturalism: Some Varieties*, London: Methuen, and New York: Columbia University Press.
+* 1985b, *Analyse et Metaphysique*, Paris: J. Vrin.
+* 1992, *Analysis and Metaphysics*, Oxford: Oxford University Press.
+* 1997, *Entity and Identity*, Oxford: Oxford University Press.
+* 2011, *Philosophical Writings*, Oxford: Oxford University Press.
 
 #### B. Selected Articles by Strawson
 
-* 1950a, “On Referring”, _Mind_, 59: 320–344; reprinted in Strawson 1971.
+* 1950a, “On Referring”, *Mind*, 59: 320–344; reprinted in Strawson 1971.
 * 1950b, “Truth”, Proceedings of the Aristotelian Society, reprinted in Strawson 1971.
-* 1956, (with P. Grice), “In Defense of a Dogma”, _Philosophical Review_, 50: 141–158.
-* 1962, “Freedom and Resentment”, _Proceedings of the British Academy_, 48: 1–25; reprinted in Strawson 1974a.
-* 1964, “Identifying Reference and Truth-Values”, _Theoria_, 30(2): 96–118; page references to the reprint in Strawson 1971.
+* 1956, (with P. Grice), “In Defense of a Dogma”, *Philosophical Review*, 50: 141–158.
+* 1962, “Freedom and Resentment”, *Proceedings of the British Academy*, 48: 1–25; reprinted in Strawson 1974a.
+* 1964, “Identifying Reference and Truth-Values”, *Theoria*, 30(2): 96–118; page references to the reprint in Strawson 1971.
 * 1969, “Meaning and Truth”, reprinted in Strawson 1971
-* 1976, “Scruton and Wright on Anti-Realism”, _Proceedings of the Aristotelian Society_, 77: 15–21.
-* 1979, “Perception and its Objects”, in _Perception and Identity: Essays Presented to A. J. Ayer_, G. F. Macdonald (ed.) London: Macmillan.
+* 1976, “Scruton and Wright on Anti-Realism”, *Proceedings of the Aristotelian Society*, 77: 15–21.
+* 1979, “Perception and its Objects”, in *Perception and Identity: Essays Presented to A. J. Ayer*, G. F. Macdonald (ed.) London: Macmillan.
 
 ### Secondary Literature
 
-* Allais, L., 2014, “Freedom and Forgiveness” in _Oxford Studies in Agency and Responsibility, Volume 2: ‘Freedom and Resentment’ at 50_, D. Shoemaker and N. Tognazzini (eds.), Oxford: Oxford University Press.
-* Alvarez, M., 2021, “P. F. Strawson, Moral Theories and ‘The Problem of Blame’: ‘Freedom and Resentment’ Revisited”, _Proceedings of the Aristotelian Society Supplementary Volume_, 95(1): 183–203,
-* Austin, J. L., 1950, “Truth” reprinted in J. L. Austin, _Philosophical Papers_, Oxford: Clarendon Press 1961.
-* Ayer, A. J., 1963, “The Concept of a Person” in _The Concept of a Person and other essays_, London: Macmillan.
-* Bennett, J., 1966, _Kant’s Analytic_, Cambridge: Cambridge University Press.
-* Brown, C., 2006, _Peter Strawson_, Stocksfield: Acumen.
-* Campbell, J., 1994, _Past, Space and Self_, London: MIT Press.
-* Cassam, Q., 1997, _Self and World_, Oxford: Clarendon Press.
-* –––, 2005, “Space and Objective Experience” in _Thought, Reference and Experience: Themes from the Philosophy of Gareth Evans_, J. Bermúdez (ed.), Oxford: Oxford University Press.
-* _European Journal of Philosophy_, Volume 24 (2016) – a set of papers marking the 50th anniversary of _The Bounds of Sense_.
-* De Mensel, B., 2022,  “Taking the Straight Path. P.F. Strawson’s Later Work on Freedom and Responsibility”, _Philosophers_’ _Imprint_, 22(0) doi: 10.3998/phimp.782.
+* Allais, L., 2014, “Freedom and Forgiveness” in *Oxford Studies in Agency and Responsibility, Volume 2: ‘Freedom and Resentment’ at 50*, D. Shoemaker and N. Tognazzini (eds.), Oxford: Oxford University Press.
+* Alvarez, M., 2021, “P. F. Strawson, Moral Theories and ‘The Problem of Blame’: ‘Freedom and Resentment’ Revisited”, *Proceedings of the Aristotelian Society Supplementary Volume*, 95(1): 183–203,
+* Austin, J. L., 1950, “Truth” reprinted in J. L. Austin, *Philosophical Papers*, Oxford: Clarendon Press 1961.
+* Ayer, A. J., 1963, “The Concept of a Person” in *The Concept of a Person and other essays*, London: Macmillan.
+* Bennett, J., 1966, *Kant’s Analytic*, Cambridge: Cambridge University Press.
+* Brown, C., 2006, *Peter Strawson*, Stocksfield: Acumen.
+* Campbell, J., 1994, *Past, Space and Self*, London: MIT Press.
+* Cassam, Q., 1997, *Self and World*, Oxford: Clarendon Press.
+* –––, 2005, “Space and Objective Experience” in *Thought, Reference and Experience: Themes from the Philosophy of Gareth Evans*, J. Bermúdez (ed.), Oxford: Oxford University Press.
+* *European Journal of Philosophy*, Volume 24 (2016) – a set of papers marking the 50th anniversary of *The Bounds of Sense*.
+* De Mensel, B., 2022,  “Taking the Straight Path. P.F. Strawson’s Later Work on Freedom and Responsibility”, *Philosophers*’ *Imprint*, 22(0) doi: 10.3998/phimp.782.
 * Evans, G., 1980, “Things without the Mind”, in Van Straaten 1980.
-* –––, 1982, _The Varieties of Reference_, Oxford: Oxford University Press.
-* Glock, H. (ed.), 2003, _Strawson and Kant_, Oxford: Clarendon Press
-* Gomes, A., 2016, “Unity, Objectivity, and the Passivity of Experience”, _European Journal of Philosophy_, 24: 946–969.
-* –––, 2017a, “Perception and Reflection”, _Philosophical Perspectives_, 31: 131–152.
-* –––, 2017b, “Kant, the Philosophy of Mind, and Twentieth-Century Analytic Philosophy”, in A. Gomes & A. Stephenson (eds.), _Kant and the Philosophy of Mind_, Oxford: Oxford University Press.
-* Hacker, P. M., 2002, “Strawson’s Concept of a Person”, in _Proceedings of the Aristotelian Society_, 102(1): 21–40.
-* Hahn, L. E. (ed.), 1998, _The Philosophy of P. F. Strawson_, Chicago and Lasalle, Illinois: Open Court
-* Harrison, R., 1970, “Strawson on outer objects”, _Philosophical Quarterly_, 20: 213–221.
-* Hieronymi, P., 2020, _Freedom, Resentment, and the Metaphysics of Morals_, Princeton, NJ: Princeton University Press.
-* Huang, Y., 2007, _Pragmatics_, Oxford: Oxford University Press
-* Martin, C. B., 1969, “People” in _Contemporary Philosophy in Australia_ (eds.) Brown R. & Rollins C. D., London: Allen and Unwin.
-* Matthews, H., 1969, “Strawson on Transcendental Idealism”, _Philosophical Quarterly_, 19: 204–220.
-* _Philosophia_, Volume 10 (1981) – a special issue dedicated to the philosophy of P. F. Strawson.
-* McKenna, M., & Russell, P. (eds.), 2008, _Free Will and Reactive Attitudes: Perspectives on P.F. Strawson_’_s_ “_Freedom and resentment_”, Farnham: Ashgate.
+* –––, 1982, *The Varieties of Reference*, Oxford: Oxford University Press.
+* Glock, H. (ed.), 2003, *Strawson and Kant*, Oxford: Clarendon Press
+* Gomes, A., 2016, “Unity, Objectivity, and the Passivity of Experience”, *European Journal of Philosophy*, 24: 946–969.
+* –––, 2017a, “Perception and Reflection”, *Philosophical Perspectives*, 31: 131–152.
+* –––, 2017b, “Kant, the Philosophy of Mind, and Twentieth-Century Analytic Philosophy”, in A. Gomes & A. Stephenson (eds.), *Kant and the Philosophy of Mind*, Oxford: Oxford University Press.
+* Hacker, P. M., 2002, “Strawson’s Concept of a Person”, in *Proceedings of the Aristotelian Society*, 102(1): 21–40.
+* Hahn, L. E. (ed.), 1998, *The Philosophy of P. F. Strawson*, Chicago and Lasalle, Illinois: Open Court
+* Harrison, R., 1970, “Strawson on outer objects”, *Philosophical Quarterly*, 20: 213–221.
+* Hieronymi, P., 2020, *Freedom, Resentment, and the Metaphysics of Morals*, Princeton, NJ: Princeton University Press.
+* Huang, Y., 2007, *Pragmatics*, Oxford: Oxford University Press
+* Martin, C. B., 1969, “People” in *Contemporary Philosophy in Australia* (eds.) Brown R. & Rollins C. D., London: Allen and Unwin.
+* Matthews, H., 1969, “Strawson on Transcendental Idealism”, *Philosophical Quarterly*, 19: 204–220.
+* *Philosophia*, Volume 10 (1981) – a special issue dedicated to the philosophy of P. F. Strawson.
+* McKenna, M., & Russell, P. (eds.), 2008, *Free Will and Reactive Attitudes: Perspectives on P.F. Strawson*’*s* “*Freedom and resentment*”, Farnham: Ashgate.
 * Putnam, H., 1998, “Strawson and Scepticism” in Hahn 1998, pp. 273–287.
-* Rorty, R., 1970, “Strawson’s Objectivity Argument”, _Review of Metaphysics_, 24: 207–244.
-* Russell, B., 1905, “On Denoting”, reprinted in _Logic and Knowledge_, R. C. Marsh (ed.), London: Allen and Unwin.
-* Russell, P., 1992, “Strawson’s Way of Naturalizing Responsibility”, _Ethics,_ 102: 287–302.
+* Rorty, R., 1970, “Strawson’s Objectivity Argument”, *Review of Metaphysics*, 24: 207–244.
+* Russell, B., 1905, “On Denoting”, reprinted in *Logic and Knowledge*, R. C. Marsh (ed.), London: Allen and Unwin.
+* Russell, P., 1992, “Strawson’s Way of Naturalizing Responsibility”, *Ethics,* 102: 287–302.
 * Searle, J., 1998, “Truth: A reconsideration of Strawson’s Views” in Hahn 1998, pp. 385–401.
-* Sen, P. K., & Verma R. R. (eds.), 1995, _The Philosophy of P. F. Strawson_, New Dehli: Indian Council of Philosophical Research.
-* Shoemaker, D., & Tognazzini, N. (eds.), 2015, _Oxford Studies in Agency and Responsibility_ (Volume 2: ‘Freedom and Resentment’ at 50), Oxford: Oxford University Press.
+* Sen, P. K., & Verma R. R. (eds.), 1995, *The Philosophy of P. F. Strawson*, New Dehli: Indian Council of Philosophical Research.
+* Shoemaker, D., & Tognazzini, N. (eds.), 2015, *Oxford Studies in Agency and Responsibility* (Volume 2: ‘Freedom and Resentment’ at 50), Oxford: Oxford University Press.
 * Snowdon, P.F., 1998, “Strawson on the Concept of Perception” in Hahn 1998, pp. 293–310.
-* –––, 2006, “P.F. Strawson: _Individuals_”, in _Central Works of Philosophy_ (Volume 5: The Twentieth Century: Quine and After), J. Shand (ed.), London: Routledge.
-* –––, 2009, “‘Persons’ and Persons”, _Organon F_, 4: 449–476.
-* Stern, R. (ed.), 1999, _Transcendental Arguments: Problems and Prospects_, Oxford: Oxford University Press.
-* Stroud, B., 1968, “Transcendental Arguments”, _Journal of Philosophy_, 65(9): 241–256; reprinted in Stroud 2000.
-* –––, 2000, “The Synthetic A Priori in Strawson’s Kantianism” in B. Stroud, _Understanding Human Knowledge: Philosophical Essays_, Oxford: Oxford University Press; reprinted in Glock 2003.
-* –––, 2000 _Understanding Human Knowledge_, Oxford: Oxford University Press.
-* Van Straaten, Z. (ed.), 1980, _Philosophical Subjects; Essays Presented to P. F. Strawson_, Oxford: Clarendon Press.
-* Wallace, R., 1994, _Responsibility and the Moral Sentiments_. Cambridge, MA: Harvard University Press.
-* Warnock, G. J., 1964, “A Problem about Truth” in G. Pitcher (ed.), _Truth_, Englewood Cliffs: Prentice-Hall.
-* Watson, G., 2004, “Responsibility and the Limits of Evil: Variations on a Strawsonian Theme”, in G. Watson, _Agency and Answerability_, Oxford: Oxford University Press.
-* Wiggins, D., 1980, _Sameness and Substance_, London: Basil Blackwell.
-* Williams, B., 1961, “Mr. Strawson on Individuals”, _Philosophy_, 36(138): 309–332; reprinted in B. Williams, _Problems of the Self_, Cambridge: Cambridge University Press, 1973.
+* –––, 2006, “P.F. Strawson: *Individuals*”, in *Central Works of Philosophy* (Volume 5: The Twentieth Century: Quine and After), J. Shand (ed.), London: Routledge.
+* –––, 2009, “‘Persons’ and Persons”, *Organon F*, 4: 449–476.
+* Stern, R. (ed.), 1999, *Transcendental Arguments: Problems and Prospects*, Oxford: Oxford University Press.
+* Stroud, B., 1968, “Transcendental Arguments”, *Journal of Philosophy*, 65(9): 241–256; reprinted in Stroud 2000.
+* –––, 2000, “The Synthetic A Priori in Strawson’s Kantianism” in B. Stroud, *Understanding Human Knowledge: Philosophical Essays*, Oxford: Oxford University Press; reprinted in Glock 2003.
+* –––, 2000 *Understanding Human Knowledge*, Oxford: Oxford University Press.
+* Van Straaten, Z. (ed.), 1980, *Philosophical Subjects; Essays Presented to P. F. Strawson*, Oxford: Clarendon Press.
+* Wallace, R., 1994, *Responsibility and the Moral Sentiments*. Cambridge, MA: Harvard University Press.
+* Warnock, G. J., 1964, “A Problem about Truth” in G. Pitcher (ed.), *Truth*, Englewood Cliffs: Prentice-Hall.
+* Watson, G., 2004, “Responsibility and the Limits of Evil: Variations on a Strawsonian Theme”, in G. Watson, *Agency and Answerability*, Oxford: Oxford University Press.
+* Wiggins, D., 1980, *Sameness and Substance*, London: Basil Blackwell.
+* Williams, B., 1961, “Mr. Strawson on Individuals”, *Philosophy*, 36(138): 309–332; reprinted in B. Williams, *Problems of the Self*, Cambridge: Cambridge University Press, 1973.
 
 ## Academic Tools
 
@@ -242,4 +242,4 @@ The SEP editors would like to thank Jasper Pirasteh for sending us a list of edi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Paul Snowdon\
-[Anil Gomes](https://www.philosophy.ox.ac.uk/people/anil-gomes) <[_anil.gomes@trinity.ox.ac.uk_](mailto:anil%2egomes%40trinity%2eox%2eac%2euk)>
+[Anil Gomes](https://www.philosophy.ox.ac.uk/people/anil-gomes) <[*anil.gomes@trinity.ox.ac.uk*](mailto:anil%2egomes%40trinity%2eox%2eac%2euk)>

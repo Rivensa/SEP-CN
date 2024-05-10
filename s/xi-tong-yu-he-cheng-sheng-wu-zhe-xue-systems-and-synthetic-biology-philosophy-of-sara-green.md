@@ -1,6 +1,6 @@
 # 系统与合成生物哲学 systems and synthetic biology, philosophy of (Sara Green)
 
-_首次发表于 2017 年 6 月 8 日，实质修订于 2022 年 5 月 11 日_
+*首次发表于 2017 年 6 月 8 日，实质修订于 2022 年 5 月 11 日*
 
 本条目旨在阐明系统与合成生物学如何对科学哲学的讨论做出贡献并扩展。与发育生物学或分子生物学等领域不同，系统与合成生物学不容易通过对特定学科领域或组织层次的关注来界定。相反，它们以数学、计算和合成建模策略的发展和应用来应对生命科学中的复杂问题和挑战。系统与合成生物学的支持者经常强调超越分子生物学和基因工程范围的视角的必要性。通过强调系统和相互作用网络，这些方法明确参与了关于还原主义与整体主义的最古老的哲学讨论之一。此外，通过追求开发多尺度计算模型和合成生命形式等雄心勃勃的目标，它们为哲学分析开辟了新的领域。系统与合成生物学提出了关于通过计算方法推进研究的程度、生物和人工系统之间的关系以及跨学科研究对科学和社会的影响的基本问题。
 
@@ -234,306 +234,306 @@ ESB 不仅可以被视为系统生物学和进化生物学的交汇点，还可�
 
 ## Bibliography
 
-* Abrahamsen, Adele & William Bechtel, 2015, “Diagrams as Tools for Scientific Reasoning”, _Review of Philosophy and Psychology_, 6(1): 117–131. doi:10.1007/s13164-014-0215-2
-* Alberghina, Lilia & Hans V. Westerhoff, 2005, _Systems Biology: Definitions and Perspectives_, New York: Springer. doi:10.1007/b95175
-* Albert, Réka, Hawoong Jeong, & Albert-László Barabási, 2000, “Error and Attack Tolerance of Complex Networks”, _Nature_, 406(6794): 378–382. doi:10.1038/35019019
-* Allen, John F., 2001, “Bioinformatics and Discovery: Induction Beckons Again”, _BioEssays_, 23(1): 104–107. doi:10.1002/1521-1878(200101)23:1<104::AID-BIES1013>3.0.CO;2-2
-* Alon, Uri, 2007, _An Introduction to Systems Biology: Design Principles of Biological Circuits_, Boca Raton, FL: Chapman and Hall.
-* Alves, Rui & Albert Sorribas, 2011, “Special Issue on Biological Design Principles”, _Mathematical Biosciences_, 231: 1–2. doi:10.1016/j.mbs.2011.03.009
-* Andersen, Hanne, 2016, “Collaboration, Interdisciplinarity, and the Epistemology of Contemporary Science”, _Studies in History and Philosophy of Science Part A_, 56: 1–10. doi:10.1016/j.shpsa.2015.10.006
-* Andrianantoandro, Erenesto, Subhayu Basu, David K. Karig, & Ron Weiss, 2006, “Synthetic Biology: New Engineering Rules for an Emerging Discipline”, _Molecular Systems Biology_, 2: 2006.0028. doi:10.1038/msb4100073
-* Ankeny, Rachel A. & Sabina Leonelli, 2015, “Valuing Data in Postgenomic Biology: How Data Donation and Curation Practices Challenge the Scientific Publication System”, in _PostGenomics. Perspectives on Biology after the Genome_, Sarah S. Richardson & Hallam Stevens (eds.), Durham, NC: Duke University Press, pp. 126–149.
-* Baker, Alan, 2005, “Are There Genuine Mathematical Explanations of Physical Phenomena?”, _Mind_, 114(454): 223–238. doi:10.1093/mind/fzi223
-* Bapteste, Eric, and François Papale, 2021, “Modeling the Evolution of Interconnected Processes: It is the Song and the Singers: Tracking Units of Selection with Interaction Networks”, _BioEssays_, 43(1): 2000077.
-* Barabási, Albert-László, 2002, _Linked: How Everything is Connected to Everything Else and What it Means for Business, Science, and Everyday Life_, New York, NY: Basic Books/Perseus Publishing.
-* Barabási, Albert-László & Réka Albert, 1999, “Emergence of Scaling in Random Networks”, _Science_, 286(5439): 509–512. doi:10.1126/science.286.5439.509
-* Barabási, Albert-László & Zoltán N. Oltvai, 2004, “Network Biology: Understanding the Cell’s Functional Organization”, _Nature Reviews Genetics_, 5(2): 101–113. doi:10.1038/nrg1272
-* Barabási, Albert-László, Natali Gulbahce, & Joseph Loscalzo, 2011, “Network Medicine: a Network-based Approach to Human Disease”, _Nature Reviews Genetics_, 12(1): 56–68. doi:10.1038/nrg2918
-* Barrett, Christian L., Tae Yong Kim, Hyun Uk Kim, Bernhard Ø. Palsson, & Sang Yup Lee, 2006, “Systems Biology as a Foundation for Genome-scale Synthetic Biology”, _Current Opinion in Biotechnology_, 17(5): 488–492. doi:10.1016/j.copbio.2006.08.001
-* Bartol, Jordan, 2013, “Re-examining the Gene in Personalized Genomics”, _Science & Education_, 22(10): 2529–2546. doi:10.1007/s11191-012-9484-2
-* Bassingthwaighte, James, Peter Hunter, & Denis Noble, 2009, “The Cardiac Physiome: Perspectives for the Future”, _Experimental Physiology_, 94(5): 597–605. doi:10.1113/expphysiol.2008.044099
-* Batterman, Robert W., & Collin Rice, 2014, “Minimal model explanations”, _Philosophy of Science_, 81(3): 349–376.
-* Batterman, Robert W., and Sara Green. 2021, “Steel and Bone: Mesoscale Modeling and Middle-Out Strategies in Physics and Biology”, _Synthese_, 199(1): 1159–1184.
-* Bechtel, William, 2015a, “Can Mechanistic Explanation be Reconciled with Scale-free Constitution and Dynamics?”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 53: 84–93. doi:10.1016/j.shpsc.2015.03.006
+* Abrahamsen, Adele & William Bechtel, 2015, “Diagrams as Tools for Scientific Reasoning”, *Review of Philosophy and Psychology*, 6(1): 117–131. doi:10.1007/s13164-014-0215-2
+* Alberghina, Lilia & Hans V. Westerhoff, 2005, *Systems Biology: Definitions and Perspectives*, New York: Springer. doi:10.1007/b95175
+* Albert, Réka, Hawoong Jeong, & Albert-László Barabási, 2000, “Error and Attack Tolerance of Complex Networks”, *Nature*, 406(6794): 378–382. doi:10.1038/35019019
+* Allen, John F., 2001, “Bioinformatics and Discovery: Induction Beckons Again”, *BioEssays*, 23(1): 104–107. doi:10.1002/1521-1878(200101)23:1<104::AID-BIES1013>3.0.CO;2-2
+* Alon, Uri, 2007, *An Introduction to Systems Biology: Design Principles of Biological Circuits*, Boca Raton, FL: Chapman and Hall.
+* Alves, Rui & Albert Sorribas, 2011, “Special Issue on Biological Design Principles”, *Mathematical Biosciences*, 231: 1–2. doi:10.1016/j.mbs.2011.03.009
+* Andersen, Hanne, 2016, “Collaboration, Interdisciplinarity, and the Epistemology of Contemporary Science”, *Studies in History and Philosophy of Science Part A*, 56: 1–10. doi:10.1016/j.shpsa.2015.10.006
+* Andrianantoandro, Erenesto, Subhayu Basu, David K. Karig, & Ron Weiss, 2006, “Synthetic Biology: New Engineering Rules for an Emerging Discipline”, *Molecular Systems Biology*, 2: 2006.0028. doi:10.1038/msb4100073
+* Ankeny, Rachel A. & Sabina Leonelli, 2015, “Valuing Data in Postgenomic Biology: How Data Donation and Curation Practices Challenge the Scientific Publication System”, in *PostGenomics. Perspectives on Biology after the Genome*, Sarah S. Richardson & Hallam Stevens (eds.), Durham, NC: Duke University Press, pp. 126–149.
+* Baker, Alan, 2005, “Are There Genuine Mathematical Explanations of Physical Phenomena?”, *Mind*, 114(454): 223–238. doi:10.1093/mind/fzi223
+* Bapteste, Eric, and François Papale, 2021, “Modeling the Evolution of Interconnected Processes: It is the Song and the Singers: Tracking Units of Selection with Interaction Networks”, *BioEssays*, 43(1): 2000077.
+* Barabási, Albert-László, 2002, *Linked: How Everything is Connected to Everything Else and What it Means for Business, Science, and Everyday Life*, New York, NY: Basic Books/Perseus Publishing.
+* Barabási, Albert-László & Réka Albert, 1999, “Emergence of Scaling in Random Networks”, *Science*, 286(5439): 509–512. doi:10.1126/science.286.5439.509
+* Barabási, Albert-László & Zoltán N. Oltvai, 2004, “Network Biology: Understanding the Cell’s Functional Organization”, *Nature Reviews Genetics*, 5(2): 101–113. doi:10.1038/nrg1272
+* Barabási, Albert-László, Natali Gulbahce, & Joseph Loscalzo, 2011, “Network Medicine: a Network-based Approach to Human Disease”, *Nature Reviews Genetics*, 12(1): 56–68. doi:10.1038/nrg2918
+* Barrett, Christian L., Tae Yong Kim, Hyun Uk Kim, Bernhard Ø. Palsson, & Sang Yup Lee, 2006, “Systems Biology as a Foundation for Genome-scale Synthetic Biology”, *Current Opinion in Biotechnology*, 17(5): 488–492. doi:10.1016/j.copbio.2006.08.001
+* Bartol, Jordan, 2013, “Re-examining the Gene in Personalized Genomics”, *Science & Education*, 22(10): 2529–2546. doi:10.1007/s11191-012-9484-2
+* Bassingthwaighte, James, Peter Hunter, & Denis Noble, 2009, “The Cardiac Physiome: Perspectives for the Future”, *Experimental Physiology*, 94(5): 597–605. doi:10.1113/expphysiol.2008.044099
+* Batterman, Robert W., & Collin Rice, 2014, “Minimal model explanations”, *Philosophy of Science*, 81(3): 349–376.
+* Batterman, Robert W., and Sara Green. 2021, “Steel and Bone: Mesoscale Modeling and Middle-Out Strategies in Physics and Biology”, *Synthese*, 199(1): 1159–1184.
+* Bechtel, William, 2015a, “Can Mechanistic Explanation be Reconciled with Scale-free Constitution and Dynamics?”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 53: 84–93. doi:10.1016/j.shpsc.2015.03.006
 * –––, 2015b, “Generalizing Mechanistic Explanations Using Graph-theoretic Representations”, in Braillard & Malaterre 2015: 199–225. doi:10.1007/978-94-017-9822-8\_9
-* –––, 2016, “Mechanists Must be Holists Too! Perspectives from Circadian Biology”, _Journal of the History of Biology_, 49(4): 705–731. doi:10.1007/s10739-016-9439-6
-* –––, 2020, “Hierarchy and Levels: Analysing Networks to Study Mechanisms in Molecular Biology”, _Philosophical Transactions of the Royal Society B_, 375(1796): 20190320. doi:10.1098/rstb.2019.0320
-* Bechtel, William & Adele A. Abrahamsen, 2011, “Complex Biological Mechanisms: Cyclic, Oscillatory, and Autonomous”, in _Philosophy of Complex Systems_ (Handbook of the Philosophy of Science, 10), Cliff A. Hooker (ed.), Amsterdam: Elsevier, pp. 257–285.
-* –––, 2012, “Thinking Dynamically About Biological Mechanisms: Networks of Coupled Oscillators”, _Foundations of Science_, 18(4): 707–723. doi:10.1007/s10699-012-9301-z
-* Bechtel, William & Richard C. Richardson, 1993 \[2010], _Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research_, Princeton, NJ: Princeton University Press. Reprinted by the MIT Press in 2010.
-* Bedau, Mark A., 2009, “Living Technology Today and Tomorrow”, _Technoetic Arts_, 7(2): 199–206. doi:10.1386/tear.7.2.199/1
-* Bedau, Mark A. & Carol E. Cleland, 2010, _The Nature of Life: Classical and Contemporary Perspectives from Philosophy and Science_, Cambridge, MA: Cambridge University Press.
-* Benner, Steven A. & A. Michael Sismour, 2005, “Synthetic Biology”, _Nature Reviews Genetics_, 6(7): 533–543. doi:10.1038/nrg1637
-* Bensaude-Vincent, Bernadette, 2009, “The Chemists’ Style of Thinking”, _Berichte zur Wissenschaftsgeschichte_, 32(4): 365–378. doi:10.1002/bewi.200901385
-* –––, 2013, “Discipline-building in Synthetic Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 122–129. doi:10.1016/j.shpsc.2013.03.007
-* –––, 2015, “Life by Design: Philosophical Perspectives on Synthetic Biology”, _BIO Web of Conferences_, 4: 00015. doi:10.1051/bioconf/20150400015
+* –––, 2016, “Mechanists Must be Holists Too! Perspectives from Circadian Biology”, *Journal of the History of Biology*, 49(4): 705–731. doi:10.1007/s10739-016-9439-6
+* –––, 2020, “Hierarchy and Levels: Analysing Networks to Study Mechanisms in Molecular Biology”, *Philosophical Transactions of the Royal Society B*, 375(1796): 20190320. doi:10.1098/rstb.2019.0320
+* Bechtel, William & Adele A. Abrahamsen, 2011, “Complex Biological Mechanisms: Cyclic, Oscillatory, and Autonomous”, in *Philosophy of Complex Systems* (Handbook of the Philosophy of Science, 10), Cliff A. Hooker (ed.), Amsterdam: Elsevier, pp. 257–285.
+* –––, 2012, “Thinking Dynamically About Biological Mechanisms: Networks of Coupled Oscillators”, *Foundations of Science*, 18(4): 707–723. doi:10.1007/s10699-012-9301-z
+* Bechtel, William & Richard C. Richardson, 1993 \[2010], *Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research*, Princeton, NJ: Princeton University Press. Reprinted by the MIT Press in 2010.
+* Bedau, Mark A., 2009, “Living Technology Today and Tomorrow”, *Technoetic Arts*, 7(2): 199–206. doi:10.1386/tear.7.2.199/1
+* Bedau, Mark A. & Carol E. Cleland, 2010, *The Nature of Life: Classical and Contemporary Perspectives from Philosophy and Science*, Cambridge, MA: Cambridge University Press.
+* Benner, Steven A. & A. Michael Sismour, 2005, “Synthetic Biology”, *Nature Reviews Genetics*, 6(7): 533–543. doi:10.1038/nrg1637
+* Bensaude-Vincent, Bernadette, 2009, “The Chemists’ Style of Thinking”, *Berichte zur Wissenschaftsgeschichte*, 32(4): 365–378. doi:10.1002/bewi.200901385
+* –––, 2013, “Discipline-building in Synthetic Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 122–129. doi:10.1016/j.shpsc.2013.03.007
+* –––, 2015, “Life by Design: Philosophical Perspectives on Synthetic Biology”, *BIO Web of Conferences*, 4: 00015. doi:10.1051/bioconf/20150400015
 * Bertolaso, Marta, 2011, “Hierarchies and Causal Relationships in Interpretative Models of the Neoplastic Process”,
-* –––, 2016, _Philosophy of Cancer. A Dynamic and Relational View_, Rome: Springer International Publishing._History and Philosophy of the Life Sciences_, 33(4): 515–536.
-* Bich, Leonardo, 2010, “Biological Autonomy and Systemic Integration”, _Origins of Life and Evolution of Biospheres_, 40(4): 480–484. doi:10.1007/s11084-010-9213-2
-* –––, 2020, “Interactive Models in Synthetic Biology: Exploring Biological and Cognitive Inter-Identities”, _Frontiers in Psychology_, 11: 682. doi:10.3389/fpsyg.2020.00682
-* Bich, Leonardo & Luisa Damiano, 2007, “Question 9: Theoretical and Artificial Construction of the Living: Redefining the Approach from an Autopoietic Point of View”, _Origins of Life and Evolution of Biospheres_, 37(4): 459–464. doi:10.1007/s11084-007-9082-5
-* –––, 2008, “Order in the Nothing: Autopoiesis and the Organizational Characterization of the Living”, in _Physics of Emergence and Organization_, Ignazio Licata & Ammar Sakaji (eds.), Singapore: World Scientific, pp. 339–369. doi:10.1142/9789812779953\_0015
-* Bich, Leonardo & Sara Green, 2018, “Is Defining Life Pointless? Operational Definitions at the Frontiers of Biology”, _Synthese_, 195: 3919–3946. doi:10.1007/s11229-017-1397-9
+* –––, 2016, *Philosophy of Cancer. A Dynamic and Relational View*, Rome: Springer International Publishing.*History and Philosophy of the Life Sciences*, 33(4): 515–536.
+* Bich, Leonardo, 2010, “Biological Autonomy and Systemic Integration”, *Origins of Life and Evolution of Biospheres*, 40(4): 480–484. doi:10.1007/s11084-010-9213-2
+* –––, 2020, “Interactive Models in Synthetic Biology: Exploring Biological and Cognitive Inter-Identities”, *Frontiers in Psychology*, 11: 682. doi:10.3389/fpsyg.2020.00682
+* Bich, Leonardo & Luisa Damiano, 2007, “Question 9: Theoretical and Artificial Construction of the Living: Redefining the Approach from an Autopoietic Point of View”, *Origins of Life and Evolution of Biospheres*, 37(4): 459–464. doi:10.1007/s11084-007-9082-5
+* –––, 2008, “Order in the Nothing: Autopoiesis and the Organizational Characterization of the Living”, in *Physics of Emergence and Organization*, Ignazio Licata & Ammar Sakaji (eds.), Singapore: World Scientific, pp. 339–369. doi:10.1142/9789812779953\_0015
+* Bich, Leonardo & Sara Green, 2018, “Is Defining Life Pointless? Operational Definitions at the Frontiers of Biology”, *Synthese*, 195: 3919–3946. doi:10.1007/s11229-017-1397-9
 * Boogerd, Fred C., 2017, “Systems Biology in the Broad Sense”, in Green 2017: 49–58. doi:10.1007/978-3-319-47000-9\_4
-* Boogerd, Fred C., Frank J. Bruggeman, Jan-Hendrik S. Hofmeyr, & Hans V. Westerhoff, 2007 (eds.), _Systems Biology: Philosophical Foundations_, Amsterdam: Elsevier.
-* Boogerd, Fred C., Frank J. Bruggeman, & Robert C. Richardson, 2013, “Mechanistic Explanations and Models in Molecular Systems Biology”, _Foundations of Science_, 18(4): 725–744. doi:10.1007/s10699-012-9302-y
-* Boogerd, Fred C., Frank J. Bruggeman, Robert C. Richardson, A. Stephan, & Hans V. Westerhoff, 2005, “Emergence and Its Place in Nature: A Case Study of Biochemical Networks”, _Synthese_, 145(1): 131–164. doi:10.1007/s11229-004-4421-9
-* Boudry, Maarten & Massimo Pigliucci, 2013, “The Mismeasure of Machine: Synthetic Biology and the Trouble with Engineering Metaphors”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4): 660–668. doi:10.1016/j.shpsc.2013.05.013
-* Braillard, Pierre-Alain, 2010, “Systems Biology and the Mechanistic Framework”, _History and Philosophy of the Life Sciences_, 32(1): 43–62.
+* Boogerd, Fred C., Frank J. Bruggeman, Jan-Hendrik S. Hofmeyr, & Hans V. Westerhoff, 2007 (eds.), *Systems Biology: Philosophical Foundations*, Amsterdam: Elsevier.
+* Boogerd, Fred C., Frank J. Bruggeman, & Robert C. Richardson, 2013, “Mechanistic Explanations and Models in Molecular Systems Biology”, *Foundations of Science*, 18(4): 725–744. doi:10.1007/s10699-012-9302-y
+* Boogerd, Fred C., Frank J. Bruggeman, Robert C. Richardson, A. Stephan, & Hans V. Westerhoff, 2005, “Emergence and Its Place in Nature: A Case Study of Biochemical Networks”, *Synthese*, 145(1): 131–164. doi:10.1007/s11229-004-4421-9
+* Boudry, Maarten & Massimo Pigliucci, 2013, “The Mismeasure of Machine: Synthetic Biology and the Trouble with Engineering Metaphors”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4): 660–668. doi:10.1016/j.shpsc.2013.05.013
+* Braillard, Pierre-Alain, 2010, “Systems Biology and the Mechanistic Framework”, *History and Philosophy of the Life Sciences*, 32(1): 43–62.
 * –––, 2015, “Prospect and Limits of Explaining Biological Systems in Engineering Terms”, in Braillard & Malaterre 2015: 319–344. doi:10.1007/978-94-017-9822-8\_14
-* Braillard Pierre-Alain & Christophe Malaterre (eds.), 2015, _Explanation in Biology. An Enquiry into the Diversity of Explanatory Patterns in the Life Sciences_, Dordrecht: Springer. doi:10.1007/978-94-017-9822-8
-* Briat, Corentin, Ankit Gupta, & Mustafa Khammash, 2016, “Antithetic Integral Feedback Ensures Robust Perfect Adaptation in Noisy Biomolecular Networks”, _Cell Systems_, 2(1): 15–26. doi:10.1016/j.cels.2016.01.004
-* Brigandt, Ingo, 2013, “Systems Biology and the Integration of Mechanistic Explanation and Mathematical Explanation”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4): 477–492. doi:10.1016/j.shpsc.2013.06.002
+* Braillard Pierre-Alain & Christophe Malaterre (eds.), 2015, *Explanation in Biology. An Enquiry into the Diversity of Explanatory Patterns in the Life Sciences*, Dordrecht: Springer. doi:10.1007/978-94-017-9822-8
+* Briat, Corentin, Ankit Gupta, & Mustafa Khammash, 2016, “Antithetic Integral Feedback Ensures Robust Perfect Adaptation in Noisy Biomolecular Networks”, *Cell Systems*, 2(1): 15–26. doi:10.1016/j.cels.2016.01.004
+* Brigandt, Ingo, 2013, “Systems Biology and the Integration of Mechanistic Explanation and Mathematical Explanation”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4): 477–492. doi:10.1016/j.shpsc.2013.06.002
 * Brigandt, Ingo, 2015, “Evolutionary Developmental Biology and the Limits of Philosophical Accounts of Mechanistic Explanation”, in Braillard & Malaterre 2015: 135–173.
-* Brigandt, Ingo & Alan Love, 2017, “Reductionism in Biology”, _The Stanford Encyclopedia of Philosophy_ (Spring 2017 Edition), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/spr2017/entries/reduction-biology/](https://plato.stanford.edu/archives/spr2017/entries/reduction-biology/).
+* Brigandt, Ingo & Alan Love, 2017, “Reductionism in Biology”, *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/spr2017/entries/reduction-biology/](https://plato.stanford.edu/archives/spr2017/entries/reduction-biology/).
 * Brigandt, Ingo, Sara Green, & Maureen O’Malley, 2018, “Systems Biology and Mechanistic Explanation”, in Glennan & Illari 2018: 362–374.
-* Burian, Richard M., Robert C. Richardson, & Wim J. Van der Steen, 1996, “Against Generality: Meaning in Genetics and Philosophy”, _Studies in History and Philosophy of Science_, 27(1): 1–29. doi:10.1016/0039-3681(95)00034-8
-* Bursten, Julia R.S., 2021, ed., _Perspectives on Classification in Synthetic Sciences. Unnatural kinds_. Routledge.&#x20;
-* Calcott, Brett, 2014, “Engineering and Evolvability”, _Biology & Philosophy_, 29(3): 293–313. doi:10.1007/s10539-014-9425-3
-* Calcott, Brett, Arnon Levy, Mark L. Siegal, Orkun S. Soyer, & Andreas Wagner, 2015, “Engineering and Biology: Counsel for a Continued Relationship”, _Biological Theory_, 10(1): 50–59. doi:10.1007/s13752-014-0198-3
-* Calvert, Jane, 2010, “Systems Biology, Interdisciplinarity and Disciplinary Identity”, in _Collaboration in the New Life Sciences_, John N. Parker, Niki Vermeulen & Bart Penders (eds.), Farnham, Surrey: Ashgate, pp. 219–244.
-* –––, 2012, “Systems Biology, Synthetic Biology and Data-driven Research: a Commentary on Krohs, Callebaut, and O’Malley and Soyer”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 43(1): 81–84. doi:10.1016/j.shpsc.2011.10.008
-* Calvert, Jane & Emma Frow, 2015, “Synthetic Yeast Project as a Topic for Social Scientific Investigation”, _The Macquarie Law Journal_, 15: 27–37. \[[Calvert & Frow 2015 available online](http://www.austlii.edu.au/au/journals/MqLawJl/2015/3.html)]
-* Calvert, Jane & Joan H. Fujimura, 2011, “Calculating Life? Duelling Discourses in Interdisciplinary Systems Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 42(2): 155–163. doi:10.1016/j.shpsc.2010.11.022
-* Carrara, Paolo, Pasquale Stano, & Pier Luigi Luisi, 2012, “Giant Vesicles ‘Colonies’: a Model for Primitive Cell Communities”, _ChemBioChem_, 13(1): 1497–1502. doi:10.1002/cbic.201200133
-* Carusi, Annamaria, 2011, “Computational Biology and the Limits of Shared Vision”, _Perspectives on Science_, 19(3): 300–335. doi:10.1162/POSC\_a\_00044
-* –––, 2012, “Making the Visual Visible in Philosophy of Science”, _Spontaneous Generations: A Journal for the History and Philosophy of Science_, 6(1): 106–114. doi:10.4245/sponge.v6i1.16141
-* –––, 2014, “Validation and Variability: Dual Challenges on the Path from Systems Biology to Systems Medicine”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 48(part A): 28–37. doi:10.1016/j.shpsc.2014.08.008
-* Carusi, Annamaria, Kevin Burrage, & Bianca Rodríguez, 2012, “Bridging Experiments, Models and Simulations: An Integrative Approach to Validation in Computational Cardiac Electrophysiology”, _American Journal of Physiology—Heart and Circulatory Physiology_, 303(2): H144–H155. doi:10.1152/ajpheart.01151.2011
-* Chan, Leon Y., Sriram Kosuri, & Drew Endy, 2005, “Refactoring Bacteriophage T7”, _Molecular Systems Biology_, 1: 2005.0018. doi:10.1038/msb4100025
-* Choffnes, Eileen R., David A. Relman, & Leslie Pray, 2011, _The Science and Applications of Synthetic and Systems Biology: Workshop Summary_, Washington, DC: National Academies Press.
-* Christiansen, Andreas, 2016a, “Synthetic Biology and the Moral Significance of Artificial Life: A Reply to Douglas, Powell and Savulescu”, _Bioethics_, 30(5): 372–9. doi:10.1111/bioe.12248
-* –––, 2016b, _The Ethics of Synthetic Biology. Respecting Life and Managing Risk_, PhD thesis, Department of Media, Cognition and Communication, University of Copenhagen.
-* Cleland, Carol E., 2012, “Life Without Definitions”, _Synthese_, 185(1): 125–144. doi:10.1007/s11229-011-9879-7
-* Costanzo, Michael, Anastasia Baryshnikova, Jeremy Bellay, et al., 2010, “The Genetic Landscape of a Cell”, _Science_, 327(5964): 425–431. doi:10.1126/science.1180823
-* Cordero, Otto X. & Paulien Hogeweg, 2006, “Feed-forward Loop Circuits as a Side Effect of Genome Evolution”, _Molecular Biology and Evolution_, 23(1): 1931–1936. doi:10.1093/molbev/msl060
-* Cornish-Bowden, Athel, 2006, “Putting the Systems Back into Systems Biology”, _Perspectives in Biology and Medicine_, 49(4): 475–489. doi:10.1353/pbm.2006.0053
-* Craver, Carl F., 2016. “The Explanatory Power of Network Models”, _Philosophy of Science_, 83(5): 698–709. doi:10.1086/687856
-* Craver, Carl & James Tabery 2015, “Mechanisms in Science”, _The Stanford Encyclopedia of Philosophy_, Edward N. Zalta (ed.). URL= [https://plato.stanford.edu/archives/spr2017/entries/science-mechanisms/](https://plato.stanford.edu/archives/spr2017/entries/science-mechanisms/)
-* Csete, Marie E. & John C. Doyle, 2002, “Reverse Engineering of Biological Complexity”, _Science_, 295(5560): 1664–1669. doi:10.1126/science.1069981
-* Darden, Lindley, 2002, “Strategies for Discovering Mechanisms: Schema Instantiation, Modular Subassembly, Forward/Backward Chaining”, _Philosophy of Science_, 69(S3): S354–S365.
-* De Backer, Philippe, Danny De Waele, & Linda Van Speybroeck, 2010, “Ins and Outs of Systems Biology vis-à-vis Molecular Biology: Continuation or Clear Cut?”, _Acta Biotheoretica_, 58: 15–49. doi:10.1007/s10441-009-9089-6
-* de Lichtenberg, Ulrik, Lars Juhl Jensen, Søren Brunak, & Peer Bork, 2005, “Dynamic Complex Formation During the Yeast Cell Cycle”, _Science_, 307(5710): 724–727. doi:10.1126/science.1105103
-* de Souza, Teresa Pereira, Alfred Fahr, Pier Luigi Luisi, & Pasquale Stano, 2014, “Spontaneous Encapsulation and Concentration of Biological Macromolecules in Liposomes: An Intriguing Phenomenon and Its Relevance in Origins of Life”, _Journal of Molecular Evolution_, 79(5): 179–192. doi:10.1007/s00239-014-9655-7
-* Deulofeu, Roger, Javier Suárez, and Alberto Pérez-Cervera, 2021, “Explaining the Behaviour of Random Ecological Networks: The Stability of the Microbiome as a Case of Integrative Pluralism”, _Synthese_, 198(3): 2003–2025. doi:10.1007/s11229-019-02187-9
-* Deplazes, Anna, 2009, “Piecing Together a Puzzle”, _EMBO Reports_, 10(5): 428–432. doi:10.1038/embor.2009.76
-* Del Sol, Antonio, Rudi Balling, Leroy Hood, & David Galas, 2010, “Diseases as Network Perturbations”, _Current Opinion in Biotechnology_, 21(4): 566–571. doi:10.1016/j.copbio.2010.07.010
-* DiFrisco, James, & Johannes Jaeger, 2019, “Beyond Networks: Mechanism and Process in Evo-Devo”, _Biology & Philosophy_, 34(6): 1–24.
-* Douglas, Thomas, Russell Powell, & Julian Savulescu, 2013, “Is the Creation of Artificial Life Morally Significant?”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4, part B): 688–696. doi:10.1016/j.shpsc.2013.05.016
-* Doyle, Francis J. & Jörg Stelling, 2006, “Systems Interface Biology”, _Journal of the Royal Society Interface_, 3(10): 603–616. doi:10.1098/rsif.2006.0143
-* Drack, Manfred, 2015, “Ludwig von Bertalanffy’s Organismic View on the Theory of Evolution”, _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_, 324(2): 77–90. doi:10.1002/jez.b.22611
-* Drack, Manfred & Olaf Wolkenhauer, 2011, “System Approaches of Weiss and Bertalanffy and Their Relevance for Systems Biology Today”, _Seminars in Cancer Biology_, 21(3): 150–155. doi:10.1016/j.semcancer.2011.05.001
-* Dupré, John, & Maureen A. O’Malley, 2009, “Varieties of Living Things: Life at the Intersection of Lineage and Metabolism”, _Philosophy and Theory in Biology_, 1: e003. doi:10.3998/ptb.6959004.0001.003
-* Elowitz, Michael B. & Stanislas Leibler, 2000, “A Synthetic Oscillatory Network of Transcriptional Regulators”, _Nature_, 403(6767): 335–338. doi:10.1038/35002125
-* Emmeche, Claus, Simo Køppe, & Frederick Stjernfeldt, 2000, “Levels, Emergence, and Three Versions of Downward Causation”, in _Downward Causation. Minds, Bodies and Matter_, Peter Bøgh Andersen, Claus Emmeche, Niels Ole Finnemann & Peder Voetmann Christiansen (eds.), Aarhus, Denmark: Aarhus University Press, pp. 13–33.
-* Endy, Drew, 2005, “Foundations for Engineering Biology”, _Nature_, 438(7067): 449–453. doi:10.1038/nature04342
-* Fagan, Melinda Bonnie, 2012, “Waddington Redux: Models and Explanation in Stem Cell and Systems Biology”, _Biology & Philosophy_, 27(2): 179–213. doi:10.1007/s10539-011-9294-y
-* –––, 2015, “Collaborative Explanation and Biological Mechanisms”, _Studies in History and Philosophy of Science Part A_, 52: 67–78. doi:10.1016/j.shpsa.2015.03.004
-* –––, 2016, “Stem Cells and Systems Models: Clashing Views of Explanation”, _Synthese_, 193(3): 873–907. doi:10.1007/s11229-015-0776-3
-* Fang, Wei, 2020, “Multiple Realization in Systems Biology”, _Philosophy of Science_, 87: 663–684.
-* Gardner, Timothy S., Charles R. Cantor, & James J. Collins, 2000, “Construction of a Toggle Switch in _Escherichia coli_”, _Nature_, 403: 339–342(6767). doi:10.1038/35002131
-* Gelfert, Axel, 2013, “Synthetic Biology Between Technoscience and Thing Knowledge”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 141–149. doi:10.1016/j.shpsc.2013.03.009
-* Georgianna, D. Ryan & Stephen P. Mayfield, 2012, “Exploiting Diversity and Synthetic Biology for the Production of Algal Biofuels”, _Nature_, 488(7411): 329–335. doi:10.1038/nature11479
-* Gibson, Daniel G., John I. Glass, Carole Lartigue, Vladimir N. Noskov, Ray-Yuan Chuang, Mikkel A. Algire, et al., 2010, “Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome”, _Science_, 329(5987): 52–56. doi:10.1126/science.1190719
-* Ginsberg, Alexandra Daisy, Jane Calvert, Pablo Schyfter, Alistair Elfick, & Drew Endy 2015, _Synthetic Aesthetics. Investigating Synthetic Biology’s Designs on Nature_, Cambridge, MA: MIT press.
-* Glennan, Stuart, 2002, “Rethinking Mechanistic Explanation”, _Philosophy of Science_, 69(S3): 342–353. doi:10.1086/341857
-* Goodwin, Brian C., Stuart Kauffman, & J.D. Murray, 1993, “Is Morphogenesis An Intrinsically Robust Process?”, _Journal of Theoretical Biology_, 163(1): 135–144. doi:10.1006/jtbi.1993.1112
-* Gramelsberger, Gabriele, 2013, “The Simulation Approach in Synthetic Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 150–157. doi:10.1016/j.shpsc.2013.03.010
+* Burian, Richard M., Robert C. Richardson, & Wim J. Van der Steen, 1996, “Against Generality: Meaning in Genetics and Philosophy”, *Studies in History and Philosophy of Science*, 27(1): 1–29. doi:10.1016/0039-3681(95)00034-8
+* Bursten, Julia R.S., 2021, ed., *Perspectives on Classification in Synthetic Sciences. Unnatural kinds*. Routledge.&#x20;
+* Calcott, Brett, 2014, “Engineering and Evolvability”, *Biology & Philosophy*, 29(3): 293–313. doi:10.1007/s10539-014-9425-3
+* Calcott, Brett, Arnon Levy, Mark L. Siegal, Orkun S. Soyer, & Andreas Wagner, 2015, “Engineering and Biology: Counsel for a Continued Relationship”, *Biological Theory*, 10(1): 50–59. doi:10.1007/s13752-014-0198-3
+* Calvert, Jane, 2010, “Systems Biology, Interdisciplinarity and Disciplinary Identity”, in *Collaboration in the New Life Sciences*, John N. Parker, Niki Vermeulen & Bart Penders (eds.), Farnham, Surrey: Ashgate, pp. 219–244.
+* –––, 2012, “Systems Biology, Synthetic Biology and Data-driven Research: a Commentary on Krohs, Callebaut, and O’Malley and Soyer”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(1): 81–84. doi:10.1016/j.shpsc.2011.10.008
+* Calvert, Jane & Emma Frow, 2015, “Synthetic Yeast Project as a Topic for Social Scientific Investigation”, *The Macquarie Law Journal*, 15: 27–37. \[[Calvert & Frow 2015 available online](http://www.austlii.edu.au/au/journals/MqLawJl/2015/3.html)]
+* Calvert, Jane & Joan H. Fujimura, 2011, “Calculating Life? Duelling Discourses in Interdisciplinary Systems Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 42(2): 155–163. doi:10.1016/j.shpsc.2010.11.022
+* Carrara, Paolo, Pasquale Stano, & Pier Luigi Luisi, 2012, “Giant Vesicles ‘Colonies’: a Model for Primitive Cell Communities”, *ChemBioChem*, 13(1): 1497–1502. doi:10.1002/cbic.201200133
+* Carusi, Annamaria, 2011, “Computational Biology and the Limits of Shared Vision”, *Perspectives on Science*, 19(3): 300–335. doi:10.1162/POSC\_a\_00044
+* –––, 2012, “Making the Visual Visible in Philosophy of Science”, *Spontaneous Generations: A Journal for the History and Philosophy of Science*, 6(1): 106–114. doi:10.4245/sponge.v6i1.16141
+* –––, 2014, “Validation and Variability: Dual Challenges on the Path from Systems Biology to Systems Medicine”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 48(part A): 28–37. doi:10.1016/j.shpsc.2014.08.008
+* Carusi, Annamaria, Kevin Burrage, & Bianca Rodríguez, 2012, “Bridging Experiments, Models and Simulations: An Integrative Approach to Validation in Computational Cardiac Electrophysiology”, *American Journal of Physiology—Heart and Circulatory Physiology*, 303(2): H144–H155. doi:10.1152/ajpheart.01151.2011
+* Chan, Leon Y., Sriram Kosuri, & Drew Endy, 2005, “Refactoring Bacteriophage T7”, *Molecular Systems Biology*, 1: 2005.0018. doi:10.1038/msb4100025
+* Choffnes, Eileen R., David A. Relman, & Leslie Pray, 2011, *The Science and Applications of Synthetic and Systems Biology: Workshop Summary*, Washington, DC: National Academies Press.
+* Christiansen, Andreas, 2016a, “Synthetic Biology and the Moral Significance of Artificial Life: A Reply to Douglas, Powell and Savulescu”, *Bioethics*, 30(5): 372–9. doi:10.1111/bioe.12248
+* –––, 2016b, *The Ethics of Synthetic Biology. Respecting Life and Managing Risk*, PhD thesis, Department of Media, Cognition and Communication, University of Copenhagen.
+* Cleland, Carol E., 2012, “Life Without Definitions”, *Synthese*, 185(1): 125–144. doi:10.1007/s11229-011-9879-7
+* Costanzo, Michael, Anastasia Baryshnikova, Jeremy Bellay, et al., 2010, “The Genetic Landscape of a Cell”, *Science*, 327(5964): 425–431. doi:10.1126/science.1180823
+* Cordero, Otto X. & Paulien Hogeweg, 2006, “Feed-forward Loop Circuits as a Side Effect of Genome Evolution”, *Molecular Biology and Evolution*, 23(1): 1931–1936. doi:10.1093/molbev/msl060
+* Cornish-Bowden, Athel, 2006, “Putting the Systems Back into Systems Biology”, *Perspectives in Biology and Medicine*, 49(4): 475–489. doi:10.1353/pbm.2006.0053
+* Craver, Carl F., 2016. “The Explanatory Power of Network Models”, *Philosophy of Science*, 83(5): 698–709. doi:10.1086/687856
+* Craver, Carl & James Tabery 2015, “Mechanisms in Science”, *The Stanford Encyclopedia of Philosophy*, Edward N. Zalta (ed.). URL= [https://plato.stanford.edu/archives/spr2017/entries/science-mechanisms/](https://plato.stanford.edu/archives/spr2017/entries/science-mechanisms/)
+* Csete, Marie E. & John C. Doyle, 2002, “Reverse Engineering of Biological Complexity”, *Science*, 295(5560): 1664–1669. doi:10.1126/science.1069981
+* Darden, Lindley, 2002, “Strategies for Discovering Mechanisms: Schema Instantiation, Modular Subassembly, Forward/Backward Chaining”, *Philosophy of Science*, 69(S3): S354–S365.
+* De Backer, Philippe, Danny De Waele, & Linda Van Speybroeck, 2010, “Ins and Outs of Systems Biology vis-à-vis Molecular Biology: Continuation or Clear Cut?”, *Acta Biotheoretica*, 58: 15–49. doi:10.1007/s10441-009-9089-6
+* de Lichtenberg, Ulrik, Lars Juhl Jensen, Søren Brunak, & Peer Bork, 2005, “Dynamic Complex Formation During the Yeast Cell Cycle”, *Science*, 307(5710): 724–727. doi:10.1126/science.1105103
+* de Souza, Teresa Pereira, Alfred Fahr, Pier Luigi Luisi, & Pasquale Stano, 2014, “Spontaneous Encapsulation and Concentration of Biological Macromolecules in Liposomes: An Intriguing Phenomenon and Its Relevance in Origins of Life”, *Journal of Molecular Evolution*, 79(5): 179–192. doi:10.1007/s00239-014-9655-7
+* Deulofeu, Roger, Javier Suárez, and Alberto Pérez-Cervera, 2021, “Explaining the Behaviour of Random Ecological Networks: The Stability of the Microbiome as a Case of Integrative Pluralism”, *Synthese*, 198(3): 2003–2025. doi:10.1007/s11229-019-02187-9
+* Deplazes, Anna, 2009, “Piecing Together a Puzzle”, *EMBO Reports*, 10(5): 428–432. doi:10.1038/embor.2009.76
+* Del Sol, Antonio, Rudi Balling, Leroy Hood, & David Galas, 2010, “Diseases as Network Perturbations”, *Current Opinion in Biotechnology*, 21(4): 566–571. doi:10.1016/j.copbio.2010.07.010
+* DiFrisco, James, & Johannes Jaeger, 2019, “Beyond Networks: Mechanism and Process in Evo-Devo”, *Biology & Philosophy*, 34(6): 1–24.
+* Douglas, Thomas, Russell Powell, & Julian Savulescu, 2013, “Is the Creation of Artificial Life Morally Significant?”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4, part B): 688–696. doi:10.1016/j.shpsc.2013.05.016
+* Doyle, Francis J. & Jörg Stelling, 2006, “Systems Interface Biology”, *Journal of the Royal Society Interface*, 3(10): 603–616. doi:10.1098/rsif.2006.0143
+* Drack, Manfred, 2015, “Ludwig von Bertalanffy’s Organismic View on the Theory of Evolution”, *Journal of Experimental Zoology Part B: Molecular and Developmental Evolution*, 324(2): 77–90. doi:10.1002/jez.b.22611
+* Drack, Manfred & Olaf Wolkenhauer, 2011, “System Approaches of Weiss and Bertalanffy and Their Relevance for Systems Biology Today”, *Seminars in Cancer Biology*, 21(3): 150–155. doi:10.1016/j.semcancer.2011.05.001
+* Dupré, John, & Maureen A. O’Malley, 2009, “Varieties of Living Things: Life at the Intersection of Lineage and Metabolism”, *Philosophy and Theory in Biology*, 1: e003. doi:10.3998/ptb.6959004.0001.003
+* Elowitz, Michael B. & Stanislas Leibler, 2000, “A Synthetic Oscillatory Network of Transcriptional Regulators”, *Nature*, 403(6767): 335–338. doi:10.1038/35002125
+* Emmeche, Claus, Simo Køppe, & Frederick Stjernfeldt, 2000, “Levels, Emergence, and Three Versions of Downward Causation”, in *Downward Causation. Minds, Bodies and Matter*, Peter Bøgh Andersen, Claus Emmeche, Niels Ole Finnemann & Peder Voetmann Christiansen (eds.), Aarhus, Denmark: Aarhus University Press, pp. 13–33.
+* Endy, Drew, 2005, “Foundations for Engineering Biology”, *Nature*, 438(7067): 449–453. doi:10.1038/nature04342
+* Fagan, Melinda Bonnie, 2012, “Waddington Redux: Models and Explanation in Stem Cell and Systems Biology”, *Biology & Philosophy*, 27(2): 179–213. doi:10.1007/s10539-011-9294-y
+* –––, 2015, “Collaborative Explanation and Biological Mechanisms”, *Studies in History and Philosophy of Science Part A*, 52: 67–78. doi:10.1016/j.shpsa.2015.03.004
+* –––, 2016, “Stem Cells and Systems Models: Clashing Views of Explanation”, *Synthese*, 193(3): 873–907. doi:10.1007/s11229-015-0776-3
+* Fang, Wei, 2020, “Multiple Realization in Systems Biology”, *Philosophy of Science*, 87: 663–684.
+* Gardner, Timothy S., Charles R. Cantor, & James J. Collins, 2000, “Construction of a Toggle Switch in *Escherichia coli*”, *Nature*, 403: 339–342(6767). doi:10.1038/35002131
+* Gelfert, Axel, 2013, “Synthetic Biology Between Technoscience and Thing Knowledge”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 141–149. doi:10.1016/j.shpsc.2013.03.009
+* Georgianna, D. Ryan & Stephen P. Mayfield, 2012, “Exploiting Diversity and Synthetic Biology for the Production of Algal Biofuels”, *Nature*, 488(7411): 329–335. doi:10.1038/nature11479
+* Gibson, Daniel G., John I. Glass, Carole Lartigue, Vladimir N. Noskov, Ray-Yuan Chuang, Mikkel A. Algire, et al., 2010, “Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome”, *Science*, 329(5987): 52–56. doi:10.1126/science.1190719
+* Ginsberg, Alexandra Daisy, Jane Calvert, Pablo Schyfter, Alistair Elfick, & Drew Endy 2015, *Synthetic Aesthetics. Investigating Synthetic Biology’s Designs on Nature*, Cambridge, MA: MIT press.
+* Glennan, Stuart, 2002, “Rethinking Mechanistic Explanation”, *Philosophy of Science*, 69(S3): 342–353. doi:10.1086/341857
+* Goodwin, Brian C., Stuart Kauffman, & J.D. Murray, 1993, “Is Morphogenesis An Intrinsically Robust Process?”, *Journal of Theoretical Biology*, 163(1): 135–144. doi:10.1006/jtbi.1993.1112
+* Gramelsberger, Gabriele, 2013, “The Simulation Approach in Synthetic Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 150–157. doi:10.1016/j.shpsc.2013.03.010
 * –––, 2017, “Problems in Mathematizing Systems Biology”, in Green 2017: 99–108. doi:10.1007/978-3-319-47000-9\_9
-* Gramelsberger, Gabriele, Tarja Knuuttila, & Axel Gelfert, 2013, “Philosophical Perspectives on Synthetic Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 119–121. doi:10.1016/j.shpsc.2013.03.006
-* Green, Sara, 2014, “A Philosophical Evaluation of Adaptationism as a Heuristic Strategy”, _Acta Biotheoretica_, 62(4): 479–498. doi:10.1007/s10441-014-9232-x
-* –––, 2015a, “Can Biological Complexity be Reverse Engineered?”, _Studies in History and Philosophy of Biology and Biomedical Sciences_, 53: 73–83. doi:10.1016/j.shpsc.2015.03.008
-* –––, 2015b, “Revisiting Generality in the Life Sciences: Systems Biology and the Quest for Design Principles”, _Biology & Philosophy_, 30(5): 629–652. doi:10.1007/s10539-015-9496-9
-* –––, (ed.), 2017, _Philosophy of Systems Biology: Perspectives from Scientists and Philosophers_, Cham, Switzerland: Springer International Publishing. doi:10.1007/978-3-319-47000-9
-* –––, 2018, “Scale Dependency and Downward Causation in Biology”, _Philosophy of Science_, 85(5): 998–1011.
-* Green, Sara & Nicholaos Jones, 2016, “Constraint- Based Reasoning for Search and Explanation: Strategies for Understanding Variation and Patterns in Biology”, _Dialectica_, 70(3): 343–374. doi:10.1111/1746-8361.12145
-* Green, Sara & Olaf Wolkenhauer, 2013, “Tracing Organizing Principles: Learning from the History of Systems Biology”, _History and Philosophy of the Life Sciences_, 35(4): 553–576.
-* Green, Sara, Melinda Fagan, & Johannes Jaeger, 2015a, “Explanatory Integration Challenges in Evolutionary Systems Biology”, _Biological Theory_, 10(1): 18–35. doi:10.1007/s13752-014-0185-8
-* Green, Sara, Arnon Levy, & William Bechtel, 2015b, “Design Sans Adaptation”, _European Journal of Philosophy of Science_, 5(1): 15–29. doi:10.1007/s13194-014-0096-3
-* Green, Sara & Henrik Vogt, 2016, “Personalizing Medicine: Disease Prevention _in Silico_ and _in Socio_”, _Humana.Mente Journal of Philosophical Studies_, 30: 105–145.
-* Green, Sara, Maria Şerban, Raphael Scholl, Nicholaos Jones, Ingo Brigandt, & William Bechtel, 2018, “Network Analyses in Systems Biology: New Strategies for Dealing with Biological Complexity”, _Synthese_, 195: 1751–1777. doi:10.1007/s11229-016-1307-6
-* Gross, Fridolin, 2011, “What Systems Biology Can Tell Us About Disease”, _History and Philosophy of the Life Sciences_, 33(4): 477–496.
+* Gramelsberger, Gabriele, Tarja Knuuttila, & Axel Gelfert, 2013, “Philosophical Perspectives on Synthetic Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 119–121. doi:10.1016/j.shpsc.2013.03.006
+* Green, Sara, 2014, “A Philosophical Evaluation of Adaptationism as a Heuristic Strategy”, *Acta Biotheoretica*, 62(4): 479–498. doi:10.1007/s10441-014-9232-x
+* –––, 2015a, “Can Biological Complexity be Reverse Engineered?”, *Studies in History and Philosophy of Biology and Biomedical Sciences*, 53: 73–83. doi:10.1016/j.shpsc.2015.03.008
+* –––, 2015b, “Revisiting Generality in the Life Sciences: Systems Biology and the Quest for Design Principles”, *Biology & Philosophy*, 30(5): 629–652. doi:10.1007/s10539-015-9496-9
+* –––, (ed.), 2017, *Philosophy of Systems Biology: Perspectives from Scientists and Philosophers*, Cham, Switzerland: Springer International Publishing. doi:10.1007/978-3-319-47000-9
+* –––, 2018, “Scale Dependency and Downward Causation in Biology”, *Philosophy of Science*, 85(5): 998–1011.
+* Green, Sara & Nicholaos Jones, 2016, “Constraint- Based Reasoning for Search and Explanation: Strategies for Understanding Variation and Patterns in Biology”, *Dialectica*, 70(3): 343–374. doi:10.1111/1746-8361.12145
+* Green, Sara & Olaf Wolkenhauer, 2013, “Tracing Organizing Principles: Learning from the History of Systems Biology”, *History and Philosophy of the Life Sciences*, 35(4): 553–576.
+* Green, Sara, Melinda Fagan, & Johannes Jaeger, 2015a, “Explanatory Integration Challenges in Evolutionary Systems Biology”, *Biological Theory*, 10(1): 18–35. doi:10.1007/s13752-014-0185-8
+* Green, Sara, Arnon Levy, & William Bechtel, 2015b, “Design Sans Adaptation”, *European Journal of Philosophy of Science*, 5(1): 15–29. doi:10.1007/s13194-014-0096-3
+* Green, Sara & Henrik Vogt, 2016, “Personalizing Medicine: Disease Prevention *in Silico* and *in Socio*”, *Humana.Mente Journal of Philosophical Studies*, 30: 105–145.
+* Green, Sara, Maria Şerban, Raphael Scholl, Nicholaos Jones, Ingo Brigandt, & William Bechtel, 2018, “Network Analyses in Systems Biology: New Strategies for Dealing with Biological Complexity”, *Synthese*, 195: 1751–1777. doi:10.1007/s11229-016-1307-6
+* Gross, Fridolin, 2011, “What Systems Biology Can Tell Us About Disease”, *History and Philosophy of the Life Sciences*, 33(4): 477–496.
 * –––, 2015, “The Relevance of Irrelevance: Explanation in Systems Biology”, in Braillard & Malaterre 2015: 175–198. doi:10.1007/978-94-017-9822-8\_8
 * –––, 2017, “Towards a Methodology for Systems Biology”, in Green 2017: 109–116. doi:10.1007/978-3-319-47000-9\_10
-* –––, 2019, “Occam’s Razor in Molecular and Systems Biology”, _Philosophy of Science_, 86(5): 1134–1145.
-* Gross, Fridolin & Sara Green, 2017, “The Sum of the Parts: Large-scale Modeling in Systems Biology”, _Philosophy, Theory and Practice in Biology_, 9: 10.
-* Güttinger, Stephan, 2013, “Creating Parts that Allow for Rational Design: Synthetic Biology and the Problem of Context-sensitivity”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 199–207. doi:10.1016/j.shpsc.2013.03.015
-* Güttinger, Stephan, & John Dupré, 2016, “Genomics and Postgenomics”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2016/entries/genomics/](https://plato.stanford.edu/archives/win2016/entries/genomics/).
-* Hartwell, Leland H., John J. Hopfield, Stanislas Leibler, & Andrew W. Murray, 1999, “From Molecular to Modular Cell Biology”, _Nature_, 402(supp): C47–C52. doi:10.1038/35011540
-* Hey, Spencer Phillips, 2015, “Judging Quality and Coordination in Biomarker Diagnostic Development”, _THEORIA. Revista de Teoría, Historia y Fundamentos de la Ciencia_, 30(2): 207–227. doi:10.1387/theoria.12697
+* –––, 2019, “Occam’s Razor in Molecular and Systems Biology”, *Philosophy of Science*, 86(5): 1134–1145.
+* Gross, Fridolin & Sara Green, 2017, “The Sum of the Parts: Large-scale Modeling in Systems Biology”, *Philosophy, Theory and Practice in Biology*, 9: 10.
+* Güttinger, Stephan, 2013, “Creating Parts that Allow for Rational Design: Synthetic Biology and the Problem of Context-sensitivity”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 199–207. doi:10.1016/j.shpsc.2013.03.015
+* Güttinger, Stephan, & John Dupré, 2016, “Genomics and Postgenomics”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2016/entries/genomics/](https://plato.stanford.edu/archives/win2016/entries/genomics/).
+* Hartwell, Leland H., John J. Hopfield, Stanislas Leibler, & Andrew W. Murray, 1999, “From Molecular to Modular Cell Biology”, *Nature*, 402(supp): C47–C52. doi:10.1038/35011540
+* Hey, Spencer Phillips, 2015, “Judging Quality and Coordination in Biomarker Diagnostic Development”, *THEORIA. Revista de Teoría, Historia y Fundamentos de la Ciencia*, 30(2): 207–227. doi:10.1387/theoria.12697
 * Hofmeyr, Jan-Hendrik S., 2007, “The Biochemical Factory that Autonomously Fabricates Itself: a Systems Biological View of the Living Cell”, in Boogerd, Bruggeman, Hofmeyr, & Westerhoff 2007: 215–242.
 * –––, 2017, “Exploring the Metabolic Marketplace Through the Lens of Systems Biology”, in Green 2017: 117–124. doi:10.1007/978-3-319-47000-9\_11
 * Hogeweg, Paulien, 2012, “Toward a Theory of Multilevel Evolution: Long-term Information Integration Shapes the Mutational Landscape and Enhances Evolvability”, in Soyer 2012: 195–223. doi:10.1007/978-1-4614-3567-9\_10
-* Holm, Sune, 2012, “Biological Interests, Normative Functions, and Synthetic Biology”, _Philosophy & Technology_, 25(4): 525–541. doi:10.1007/s13347-012-0075-6
-* –––, 2013, “Health as a Property of Engineered Living Systems”, _Bioethics_, 27(8): 419–425. doi:10.1111/bioe.12053
-* –––, 2014, “Disease, Dysfunction, and Synthetic Biology”, _Journal of Medicine and Philosophy_, 39(4): 329–45. doi:10.1093/jmp/jhu025
-* –––, 2015, “Is Synthetic Biology Mechanical Biology?”, _History and Philosophy of the Life Sciences_, 37(4): 413–429. doi:10.1007/s40656-015-0081-y
-* Holm, Sune & Russell Powell, 2013, “Organism, Machine, Artifact: The Conceptual and Normative Challenges of Synthetic Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4, partB): 627–631. doi:10.1016/j.shpsc.2013.05.009
-* Hood, Leroy, Jennifer C. Lovejoy, & Nathan D. Price, 2015, “Integrating Big Data and Actionable Health Coaching to Optimize Wellness”, _BMC Medicine_, 13: 4. doi:10.1186/s12916-014-0238-7
-* Huang, Sui, 2011, “Systems Biology of Stem Cells: Three Useful Perspectives to Help Overcome the Paradigm of Linear Pathways”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 366(1575): 2247–2259. doi:10.1098/rstb.2011.0008
-* –––, 2012, “The Molecular and Mathematical Basis of Waddington’s Epigenetic Landscape: a Framework for Post-Darwinian Biology?”, _BioEssays_, 34(2): 149–157. doi:10.1002/bies.201100031
-* Huang, Sui, Ingemar Ernberg, & Stuart Kauffman, 2009, “Cancer Attractors: a Systems View of Tumors from a Gene Network Dynamics and Developmental Perspective”, _Seminars in Cell & Developmental Biology_, 20(7): 869–876. doi:10.1016/j.semcdb.2009.07.003
-* Humphreys, Paul, 2004, _Extending Ourselves: Computational Science, Empiricism, and Scientific Method_, Oxford, NY: Oxford University Press.
-* Huneman, Phillippe, 2010, “Topological Explanations and Robustness in Biological Sciences”, _Synthese_, 177(2): 213–245. doi:10.1007/s11229-010-9842-z
-* Hunter, Peter, Tara Chapman, Peter V. Coveney, et al., 2013, “A Vision and Strategy for the Virtual Physiological Human: 2012 Update”, _Interface Focus_, 3(2): 20130004. doi:10.1098/rsfs.2013.0004
-* Hutchison, Clyde A., Ray-Yuan Chuang, Vladimir N. Noskov, Nacyra Assad-Garcia, Thomas J. Deerinck, Mark H. Ellisman, et al., 2016, “Design and Synthesis of a Minimal Bacterial Genome”, _Science_, 351(6280): aad6253. doi:10.1126/science.aad6253
-* Isalan, Mark, Caroline Lemerle, Konstantionos Michalodimitrakis, Carsten Horn, Pedro Beltrao, Emanuele Raineri, Mireia Garriga-Canut, & Luis Serrano, 2008, “Evolvability and Hierarchy in Rewired Bacterial Gene Networks”, _Nature_, 452(7189): 840–846. doi:10.1038/nature06847
+* Holm, Sune, 2012, “Biological Interests, Normative Functions, and Synthetic Biology”, *Philosophy & Technology*, 25(4): 525–541. doi:10.1007/s13347-012-0075-6
+* –––, 2013, “Health as a Property of Engineered Living Systems”, *Bioethics*, 27(8): 419–425. doi:10.1111/bioe.12053
+* –––, 2014, “Disease, Dysfunction, and Synthetic Biology”, *Journal of Medicine and Philosophy*, 39(4): 329–45. doi:10.1093/jmp/jhu025
+* –––, 2015, “Is Synthetic Biology Mechanical Biology?”, *History and Philosophy of the Life Sciences*, 37(4): 413–429. doi:10.1007/s40656-015-0081-y
+* Holm, Sune & Russell Powell, 2013, “Organism, Machine, Artifact: The Conceptual and Normative Challenges of Synthetic Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4, partB): 627–631. doi:10.1016/j.shpsc.2013.05.009
+* Hood, Leroy, Jennifer C. Lovejoy, & Nathan D. Price, 2015, “Integrating Big Data and Actionable Health Coaching to Optimize Wellness”, *BMC Medicine*, 13: 4. doi:10.1186/s12916-014-0238-7
+* Huang, Sui, 2011, “Systems Biology of Stem Cells: Three Useful Perspectives to Help Overcome the Paradigm of Linear Pathways”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1575): 2247–2259. doi:10.1098/rstb.2011.0008
+* –––, 2012, “The Molecular and Mathematical Basis of Waddington’s Epigenetic Landscape: a Framework for Post-Darwinian Biology?”, *BioEssays*, 34(2): 149–157. doi:10.1002/bies.201100031
+* Huang, Sui, Ingemar Ernberg, & Stuart Kauffman, 2009, “Cancer Attractors: a Systems View of Tumors from a Gene Network Dynamics and Developmental Perspective”, *Seminars in Cell & Developmental Biology*, 20(7): 869–876. doi:10.1016/j.semcdb.2009.07.003
+* Humphreys, Paul, 2004, *Extending Ourselves: Computational Science, Empiricism, and Scientific Method*, Oxford, NY: Oxford University Press.
+* Huneman, Phillippe, 2010, “Topological Explanations and Robustness in Biological Sciences”, *Synthese*, 177(2): 213–245. doi:10.1007/s11229-010-9842-z
+* Hunter, Peter, Tara Chapman, Peter V. Coveney, et al., 2013, “A Vision and Strategy for the Virtual Physiological Human: 2012 Update”, *Interface Focus*, 3(2): 20130004. doi:10.1098/rsfs.2013.0004
+* Hutchison, Clyde A., Ray-Yuan Chuang, Vladimir N. Noskov, Nacyra Assad-Garcia, Thomas J. Deerinck, Mark H. Ellisman, et al., 2016, “Design and Synthesis of a Minimal Bacterial Genome”, *Science*, 351(6280): aad6253. doi:10.1126/science.aad6253
+* Isalan, Mark, Caroline Lemerle, Konstantionos Michalodimitrakis, Carsten Horn, Pedro Beltrao, Emanuele Raineri, Mireia Garriga-Canut, & Luis Serrano, 2008, “Evolvability and Hierarchy in Rewired Bacterial Gene Networks”, *Nature*, 452(7189): 840–846. doi:10.1038/nature06847
 * Issad,Tarik& Christophe Malaterre, 2015, “Are Dynamic Mechanistic Explanations Still Mechanistic?”, in Braillard & Malaterre 2015: 265–292. doi:10.1007/978-94-017-9822-8\_12
-* Jacob, François, 1977, “Evolution and Tinkering”, _Science_, 196(4295): 1161–1166. doi:10.1126/science.860134
-* Jaeger, Johannes & Anton Crombach, 2012, “Life’s Attractors: Understanding Developmental Systems Through Reverse Engineering and _in Silico_ Evolution”, in Soyer 2012: 93–119. doi:10.1007/978-1-4614-3567-9\_5
-* Jaeger, Johannes & Nick Monk, 2013, “Keeping the Gene it Its Place”, in _The Intuitive Way of Knowing. A Tribute to Brian Goodwin_, David Lambert & Chris Chetland (eds.), Glasgow: Floris Books, pp. 153–189.
-* Joaquim, Leyla Mariane, & Charbel N. El-Hani, 2019, “From Physics to Biology: Physicists in the Search for Systemic Biological Explanations”, _European Journal for Philosophy of Science_, 9(2): 1–32.
-* Jones, Nicholaos, 2014, “Bowtie Structures, Pathway Diagrams, and Topological Explanation”, _Erkenntnis_, 79(5): 1135–1155. doi:10.1007/s10670-014-9598-9
-* –––, 2018, “Strategies of Explanatory Abstraction in Molecular Systems Biology”, _Philosophy of Science_, 85: 955–968.
-* Jones, Nicholaos & Olaf Wolkenhauer, 2012, “Diagrams as Locality Aids for Explanation and Model Construction in Cell Biology”, _Biology & Philosophy_, 27(5): 705–721. doi:10.1007/s10539-012-9311-9
-* Karr, Jonathan R., Jayodita C. Sanghvi, Derek N Macklin, Miriam V. Gutschow, Jared M. Jacobs, Benjamin Bolival Jr., Nacyra Assad-Garcia, John I. Glass, & Markus W. Covert, 2012, “A Whole-Cell Computational Model Predicts Phenotype from Genotype”, _Cell_, 150(2): 389–401. doi:10.1016/j.cell.2012.05.044
-* Kastenhofer, Karen, 2007, “Converging Epistemic Cultures? A Discussion Drawing on Empirical Findings”, _Innovation: The European Journal of Social Science Research_, 20(4): 359–373. doi:10.1080/13511610701767908
-* –––, 2013a, “Synthetic Biology as Understanding, Control, Construction and Creation? Techno-Epistemic and Socio-Political Implications of Different Stances in Talking and Doing Technoscience”, _Futures_, 48: 13–22. doi:10.1016/j.futures.2013.02.001
-* –––, 2013b, “Two Sides of the Same Coin? The (Techno)Epistemic Cultures of Systems and Synthetic Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 130–140. doi:10.1016/j.shpsc.2013.03.008
-* Kauffman, Stuart, 2015, “What is Life?”, _Israel Journal of Chemistry_, 55(8): 875–879. doi:10.1002/ijch.201500003
-* Keasling, Jay D., 2010, “Manufacturing Molecules Through Metabolic Engineering”, _Science_, 330(6009): 1355–1358. doi:10.1126/science.1193990
-* Keller, Evelyn Fox, 2005, “Revisiting ‘Scale-free’ Networks”, _BioEssays_, 27(1): 1060–1068. doi:10.1002/bies.20294
-* Khalil, Ahmad S. & James J. Collins, 2010, “Synthetic Biology: Applications Come of Age”, _Nature Reviews Genetics_, 11(5): 367–379. doi:10.1038/nrg2775
-* Kim, Tae-Hwan, Junil Kim, Pat Heslop-Harrison, & Kwang-Hyun Cho, 2011, “Evolutionary Design Principles and Functional Characteristics Based on Kingdom-Specific Network Motifs”, _Bioinformatics_, 27(2): 245–251. doi:10.1093/bioinformatics/btq633
-* Kitano, Hiroaki, 2001 (ed.), _Foundations of Systems Biology_, Cambridge, MA: MIT press.
-* –––, 2002a, “Computational Systems Biology”, _Nature_, 420(6912): 206–210. doi:10.1038/nature01254
-* –––, 2002b, “Systems Biology: A Brief Overview”, _Science_, 295(5560): 1662–1664. doi:10.1126/science.1069492
-* –––, 2004, “Biological Robustness”, _Nature Reviews Genetics_, 5(11): 826–837. doi:10.1038/nrg1471
-* Kitano, Hiroaki & Kanae Oda, 2006, “Robustness Trade-offs and Host-Microbial Symbiosis in the Immune System”, _Molecular Systems Biology_, 2: 2006.0022. doi:10.1038/msb4100039
-* Knuuttila, Tarja & Andrea Loettgers, 2013a, “Basic Science Through Engineering? Synthetic Modeling and the Idea of Biology-inspired Engineering”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 158–169. doi:10.1016/j.shpsc.2013.03.011
-* –––, 2013b, “Synthetic Modeling and Mechanistic Account: Material Recombination and Beyond”, _Philosophy of Science_, 80(5): 874–885. doi:10.1086/673965
-* –––, 2014, “Varieties of Noise: Analogical Reasoning in Synthetic Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 48: 76–88. doi:10.1016/j.shpsa.2014.05.006
-* Knuuttila, Tarja, and Rami Koskinen, 2021, “Synthetic Fictions: Turning Imagined Biological Systems into Concrete Ones”, _Synthese_, 198 (9): 8233–8250.
-* Kohl, Peter & Denis Noble, 2009, “Systems Biology and the Virtual Physiological Human”, _Molecular Systems Biology_, 5: 292. doi:10.1038/msb.2009.51
-* Kogge, Werner & Michael Richter, 2013, “Synthetic Biology and Its Alternatives. Descartes, Kant and the Idea of Engineering Biological Machines”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 181–189. doi:10.1016/j.shpsc.2013.03.013
-* Kolodkin, Alexey N. & Hans V. Westerhoff, 2011, “Parsimony for Systems Biology: Shaving Occam’s Razor Away”, _European Communications in Mathematical and Theoretical Biology_, 14: 149–152.
-* Kolodkin, Alexey, Fred C. Boogerd, Nick Plant, Frank J. Bruggeman, Valeri Goncharuk, Jeantine Lunshof, Rafael Moreno-Sanchez, Nilgun Yilmaz, Barbara M. Bakker, Jacky L. Snoep, Rudi Balling, & Hans V. Westerhoff, 2011, “Emergence of the Silicon Human and Network Targeting Drugs”, _European Journal of Pharmaceutical Sciences_, 46(4): 190–197. doi:10.1016/j.ejps.2011.06.006
-* Kolodkin, Alexey, Evangelos Simeonidis, Rudi Balling, & Hans V. Westerhoff, 2012, “Understanding Complexity in Neurodegenerative Diseases: _in Silico_ Reconstruction of Emergence”, _Frontiers in Physiology_, 3: 291. doi:10.3389/fphys.2012.00291
-* Koonin, Eugene V., 2011, “Are There Laws of Genome Evolution?”, _PLoS Computational Biology_, 7: e1002173. doi:10.1371/journal.pcbi.1002173
-* Koonin, Eugene V. & Yuri I. Wolf, 2010, “Constraints and Plasticity in Genome and Molecular-Phenome Evolution”, _Nature Reviews Genetics_, 11(7): 487–498. doi:10.1038/nrg2810
-* Koskinen, Rami, 2017, “Synthetic Biology and the Search for Alternative Genetic Systems: Taking How-Possibly Models Seriously,” _European Journal for Philosophy of Science_, 7(3): 493–506. doi:10.1007/s13194-017-0176-2
-* Koskinen, Rami, 2019, “Multiple Realizability as a Design Heuristic in Biological Engineering”, _European Journal for Philosophy of Science_, 9: 15.
-* Kostić, Daniel, 2020, “General Theory of Topological Explanations and Explanatory Asymmetry,” _Philosophical Transactions of the Royal Society B_, 375(1796): 20190321.
-* Kostić, Daniel, Claus C. Hilgetag, and Marc Tittgemeyer, 2020, “Unifying the Essential Concepts of Biological Networks: Biological Insights and Philosophical Foundations,” _Philosophical Transactions of the Royal Society B_, 375(1796): 20190314. doi:10.1098/rstb.2019.0314
-* Krohs, Ulrich, 2009, “The Cost of Modularity”, in _Functions in Biological and Artificial Worlds: Comparative Philosophical Perspectives_, Ulrich Krohs & Peter Kroes (eds.), Cambridge, MA: MIT Press, 259–276. doi:10.7551/mitpress/9780262113212.003.0015
-* –––, 2012, “Convenience Experimentation”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 43(1): 52–57. doi:10.1016/j.shpsc.2011.10.005
+* Jacob, François, 1977, “Evolution and Tinkering”, *Science*, 196(4295): 1161–1166. doi:10.1126/science.860134
+* Jaeger, Johannes & Anton Crombach, 2012, “Life’s Attractors: Understanding Developmental Systems Through Reverse Engineering and *in Silico* Evolution”, in Soyer 2012: 93–119. doi:10.1007/978-1-4614-3567-9\_5
+* Jaeger, Johannes & Nick Monk, 2013, “Keeping the Gene it Its Place”, in *The Intuitive Way of Knowing. A Tribute to Brian Goodwin*, David Lambert & Chris Chetland (eds.), Glasgow: Floris Books, pp. 153–189.
+* Joaquim, Leyla Mariane, & Charbel N. El-Hani, 2019, “From Physics to Biology: Physicists in the Search for Systemic Biological Explanations”, *European Journal for Philosophy of Science*, 9(2): 1–32.
+* Jones, Nicholaos, 2014, “Bowtie Structures, Pathway Diagrams, and Topological Explanation”, *Erkenntnis*, 79(5): 1135–1155. doi:10.1007/s10670-014-9598-9
+* –––, 2018, “Strategies of Explanatory Abstraction in Molecular Systems Biology”, *Philosophy of Science*, 85: 955–968.
+* Jones, Nicholaos & Olaf Wolkenhauer, 2012, “Diagrams as Locality Aids for Explanation and Model Construction in Cell Biology”, *Biology & Philosophy*, 27(5): 705–721. doi:10.1007/s10539-012-9311-9
+* Karr, Jonathan R., Jayodita C. Sanghvi, Derek N Macklin, Miriam V. Gutschow, Jared M. Jacobs, Benjamin Bolival Jr., Nacyra Assad-Garcia, John I. Glass, & Markus W. Covert, 2012, “A Whole-Cell Computational Model Predicts Phenotype from Genotype”, *Cell*, 150(2): 389–401. doi:10.1016/j.cell.2012.05.044
+* Kastenhofer, Karen, 2007, “Converging Epistemic Cultures? A Discussion Drawing on Empirical Findings”, *Innovation: The European Journal of Social Science Research*, 20(4): 359–373. doi:10.1080/13511610701767908
+* –––, 2013a, “Synthetic Biology as Understanding, Control, Construction and Creation? Techno-Epistemic and Socio-Political Implications of Different Stances in Talking and Doing Technoscience”, *Futures*, 48: 13–22. doi:10.1016/j.futures.2013.02.001
+* –––, 2013b, “Two Sides of the Same Coin? The (Techno)Epistemic Cultures of Systems and Synthetic Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 130–140. doi:10.1016/j.shpsc.2013.03.008
+* Kauffman, Stuart, 2015, “What is Life?”, *Israel Journal of Chemistry*, 55(8): 875–879. doi:10.1002/ijch.201500003
+* Keasling, Jay D., 2010, “Manufacturing Molecules Through Metabolic Engineering”, *Science*, 330(6009): 1355–1358. doi:10.1126/science.1193990
+* Keller, Evelyn Fox, 2005, “Revisiting ‘Scale-free’ Networks”, *BioEssays*, 27(1): 1060–1068. doi:10.1002/bies.20294
+* Khalil, Ahmad S. & James J. Collins, 2010, “Synthetic Biology: Applications Come of Age”, *Nature Reviews Genetics*, 11(5): 367–379. doi:10.1038/nrg2775
+* Kim, Tae-Hwan, Junil Kim, Pat Heslop-Harrison, & Kwang-Hyun Cho, 2011, “Evolutionary Design Principles and Functional Characteristics Based on Kingdom-Specific Network Motifs”, *Bioinformatics*, 27(2): 245–251. doi:10.1093/bioinformatics/btq633
+* Kitano, Hiroaki, 2001 (ed.), *Foundations of Systems Biology*, Cambridge, MA: MIT press.
+* –––, 2002a, “Computational Systems Biology”, *Nature*, 420(6912): 206–210. doi:10.1038/nature01254
+* –––, 2002b, “Systems Biology: A Brief Overview”, *Science*, 295(5560): 1662–1664. doi:10.1126/science.1069492
+* –––, 2004, “Biological Robustness”, *Nature Reviews Genetics*, 5(11): 826–837. doi:10.1038/nrg1471
+* Kitano, Hiroaki & Kanae Oda, 2006, “Robustness Trade-offs and Host-Microbial Symbiosis in the Immune System”, *Molecular Systems Biology*, 2: 2006.0022. doi:10.1038/msb4100039
+* Knuuttila, Tarja & Andrea Loettgers, 2013a, “Basic Science Through Engineering? Synthetic Modeling and the Idea of Biology-inspired Engineering”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 158–169. doi:10.1016/j.shpsc.2013.03.011
+* –––, 2013b, “Synthetic Modeling and Mechanistic Account: Material Recombination and Beyond”, *Philosophy of Science*, 80(5): 874–885. doi:10.1086/673965
+* –––, 2014, “Varieties of Noise: Analogical Reasoning in Synthetic Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 48: 76–88. doi:10.1016/j.shpsa.2014.05.006
+* Knuuttila, Tarja, and Rami Koskinen, 2021, “Synthetic Fictions: Turning Imagined Biological Systems into Concrete Ones”, *Synthese*, 198 (9): 8233–8250.
+* Kohl, Peter & Denis Noble, 2009, “Systems Biology and the Virtual Physiological Human”, *Molecular Systems Biology*, 5: 292. doi:10.1038/msb.2009.51
+* Kogge, Werner & Michael Richter, 2013, “Synthetic Biology and Its Alternatives. Descartes, Kant and the Idea of Engineering Biological Machines”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 181–189. doi:10.1016/j.shpsc.2013.03.013
+* Kolodkin, Alexey N. & Hans V. Westerhoff, 2011, “Parsimony for Systems Biology: Shaving Occam’s Razor Away”, *European Communications in Mathematical and Theoretical Biology*, 14: 149–152.
+* Kolodkin, Alexey, Fred C. Boogerd, Nick Plant, Frank J. Bruggeman, Valeri Goncharuk, Jeantine Lunshof, Rafael Moreno-Sanchez, Nilgun Yilmaz, Barbara M. Bakker, Jacky L. Snoep, Rudi Balling, & Hans V. Westerhoff, 2011, “Emergence of the Silicon Human and Network Targeting Drugs”, *European Journal of Pharmaceutical Sciences*, 46(4): 190–197. doi:10.1016/j.ejps.2011.06.006
+* Kolodkin, Alexey, Evangelos Simeonidis, Rudi Balling, & Hans V. Westerhoff, 2012, “Understanding Complexity in Neurodegenerative Diseases: *in Silico* Reconstruction of Emergence”, *Frontiers in Physiology*, 3: 291. doi:10.3389/fphys.2012.00291
+* Koonin, Eugene V., 2011, “Are There Laws of Genome Evolution?”, *PLoS Computational Biology*, 7: e1002173. doi:10.1371/journal.pcbi.1002173
+* Koonin, Eugene V. & Yuri I. Wolf, 2010, “Constraints and Plasticity in Genome and Molecular-Phenome Evolution”, *Nature Reviews Genetics*, 11(7): 487–498. doi:10.1038/nrg2810
+* Koskinen, Rami, 2017, “Synthetic Biology and the Search for Alternative Genetic Systems: Taking How-Possibly Models Seriously,” *European Journal for Philosophy of Science*, 7(3): 493–506. doi:10.1007/s13194-017-0176-2
+* Koskinen, Rami, 2019, “Multiple Realizability as a Design Heuristic in Biological Engineering”, *European Journal for Philosophy of Science*, 9: 15.
+* Kostić, Daniel, 2020, “General Theory of Topological Explanations and Explanatory Asymmetry,” *Philosophical Transactions of the Royal Society B*, 375(1796): 20190321.
+* Kostić, Daniel, Claus C. Hilgetag, and Marc Tittgemeyer, 2020, “Unifying the Essential Concepts of Biological Networks: Biological Insights and Philosophical Foundations,” *Philosophical Transactions of the Royal Society B*, 375(1796): 20190314. doi:10.1098/rstb.2019.0314
+* Krohs, Ulrich, 2009, “The Cost of Modularity”, in *Functions in Biological and Artificial Worlds: Comparative Philosophical Perspectives*, Ulrich Krohs & Peter Kroes (eds.), Cambridge, MA: MIT Press, 259–276. doi:10.7551/mitpress/9780262113212.003.0015
+* –––, 2012, “Convenience Experimentation”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(1): 52–57. doi:10.1016/j.shpsc.2011.10.005
 * Krohs, Ulrich & Werner Callebaut, 2007, “Data Without Models Merging with Models Without Data”, in Boogerd, Bruggeman, Hofmeyr, & Westerhoff 2007: 181–212.
-* Laland, Kevin N., John Odling-Smee, Marcus W. Feldman, & Jeremy Kendel, 2009, “Conceptual Barriers to Progress Within Evolutionary Biology”, _Foundations of Science_, 14(3): 195–216. doi:10.1007/s10699-008-9153-8
-* Leonelli, Sabina, 2012, “Introduction: Making Sense of Data-driven Research in the Biological and Biomedical Sciences”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 43(1): 1–3. doi:10.1016/j.shpsc.2011.10.001
-* –––, 2013, “Why the Current Insistence on Open Access to Scientific Data? Big Data, Knowledge Production and the Political Economy of Contemporary Biology”, _Bulletin of Science, Technology and Society_, 33(1–2): 6–11. doi:10.1177/0270467613496768
-* –––, 2014, “What Difference Does Quantity Make? On the Epistemology of Big Data in Biology”, _Big Data & Society_, 1: 2053951714534395. doi:10.1177/2053951714534395
-* –––, 2016, _Data-Centric Biology: A Philosophical Study_, Chicago: University of Chicago Press.
-* Letelier, Juan-Carlos, María Luz Cárdenas, & Athel Cornish-Bowden, 2011, “From L’Homme Machine to Metabolic Closure: Steps Towards Understanding Life”, _Journal of Theoretical Biology_, 286: 100–113. doi:10.1016/j.jtbi.2011.06.033
-* Levy, Arnon & William Bechtel, 2013, “Abstraction and the Organization of Mechanisms”, _Philosophy of Science_, 80(2): 241–261. doi:10.1086/670300
-* Lewens, Tim, 2013, “From _Bricolage_ to BioBricks™: Synthetic Biology and Rational Design”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4, part B): 641–648. doi:10.1016/j.shpsc.2013.05.011
-* Lobkovsky, Alexander E. & Eugene V. Koonin, 2012, “Replaying the Tape of Life: Quantification of the Predictability of Evolution”, _Frontiers in Genetics_, 3: 246. doi:10.3389/fgene.2012.00246
-* Loscalzo, Joseph & Albert-László Barabási, 2011, “Systems Biology and the Future of Medicine”, _Wiley Interdisciplinary Reviews: Systems Biology and Medicine_, 3(6): 619–627. doi:10.1002/wsbm.144
-* Love, Alan C. & Marco J. Nathan, 2015, “The Idealization of Causation in Mechanistic Explanation”, _Philosophy of Science_, 82(5): 761–774. doi:10.1086/683263
-* Luisi, Pier Luigi, 1998, “About Various Definitions of Life”, _Origins of Life and Evolution of the Biosphere_, 28: 613–622
-* –––, 2006, _The Emergence of Life. From Chemical Origins to Synthetic Biology_, Cambridge: Cambridge University Press.
-* Lynch, Michael, 2007, “The Frailty of Adaptive Hypotheses for the Origins of Organismal Complexity”, _Proceedings of the National Academy of Sciences_, 104(S1): 8597–8604. doi:10.1073/pnas.0702207104
-* Machamer, Peter, Lindley Darden, & Carl F. Craver, 2000, “Thinking About Mechanisms”, _Philosophy of Science_, 67(1): 1–25. doi:10.1086/392759
-* MacLeod, Miles, 2018, “What Makes Interdisciplinarity Difficult? Some Consequences of Domain Specificity in Interdisciplinary Practice”, _Synthese_, 195(2): 697–720.
-* MacLeod, Miles & Nancy J. Nersessian, 2013a, “Building Simulations from the Ground Up: Modelling and Theory in Systems Biology”, _Philosophy of Science_, 80(4): 533–566. doi:10.1086/673209
-* –––, 2013b, “Coupling Simulation and Experiment: the Bimodal Strategy in Integrative Systems Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4, part A): 572–584. doi:10.1016/j.shpsc.2013.07.001
-* –––, 2015, “Modeling Systems-level Dynamics: Understanding Without Mechanistic Explanation in Integrative Systems Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 49: 1–11. doi:10.1016/j.shpsc.2014.10.004
-* McLeod, Carmen, & Brigitte Nerlich, 2017, “Synthetic Biology, Metaphors and Responsibility”, _Life Sciences, Society and Policy_, 13: 13.
-* Maher, Brendan, 2008, “Personal Genomes: The Case of the Missing Heritability”, _Nature_, 456(7218): 18–21. doi:10.1038/456018a
-* Mangan, Shmoolik, A. Zaslaver, & Uri Alon, 2003, “The Coherent Feedforward Loop Serves as a Sign-Sensitive Delay Element in Transcription Networks”, _Journal of Molecular Biology_, 334(2): 197–204. doi:10.1016/j.jmb.2003.09.049
-* Matthiessen, D., 2015, “Mechanistic Explanation in Systems Biology: Cellular Networks”, _The British Journal for the Philosophy of Science_, 68(1): 1–25. doi:10.1093/bjps/axv011
-* Maturana, Humberto R. & Francisco J. Varela, 1972/1980, _Autopoiesis and Cognition: The Realization of the Living_, Dordrecht: D. Reidel Publishing Company.
-* Mazzocchi, Fulvio, 2015, “Could Big Data be the End of Theory in Science?”, _EMBO Reports_, 16(10): 1250–1255. doi:10.15252/embr.201541001.
-* McPherson, Ruth & Anne Tybjaerg-Hansen, 2016, “Genetics of Coronary Artery Disease”, _Circulation Research_, 118(4): 564–578. doi:10.1161/CIRCRESAHA.115.306566
-* Mesarović, Mihajlo D., 1968, “Systems Theory and Biology—View of a Theoretician”, in _Systems Theory and Biology. Proceedings of the III Systems Symposium at Case Institute of Technology_, M.D. Mesarović (ed.), New York, NY: Springer, pp. 59–87. doi:10.1007/978-3-642-88343-9\_3
-* Mesarović, M., S.N. Sreenath, & J.D. Keene, 2004, “Search for Organizing Principles: Understanding in Systems Biology”, _Systems Biology_, 1: 19–27.
+* Laland, Kevin N., John Odling-Smee, Marcus W. Feldman, & Jeremy Kendel, 2009, “Conceptual Barriers to Progress Within Evolutionary Biology”, *Foundations of Science*, 14(3): 195–216. doi:10.1007/s10699-008-9153-8
+* Leonelli, Sabina, 2012, “Introduction: Making Sense of Data-driven Research in the Biological and Biomedical Sciences”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(1): 1–3. doi:10.1016/j.shpsc.2011.10.001
+* –––, 2013, “Why the Current Insistence on Open Access to Scientific Data? Big Data, Knowledge Production and the Political Economy of Contemporary Biology”, *Bulletin of Science, Technology and Society*, 33(1–2): 6–11. doi:10.1177/0270467613496768
+* –––, 2014, “What Difference Does Quantity Make? On the Epistemology of Big Data in Biology”, *Big Data & Society*, 1: 2053951714534395. doi:10.1177/2053951714534395
+* –––, 2016, *Data-Centric Biology: A Philosophical Study*, Chicago: University of Chicago Press.
+* Letelier, Juan-Carlos, María Luz Cárdenas, & Athel Cornish-Bowden, 2011, “From L’Homme Machine to Metabolic Closure: Steps Towards Understanding Life”, *Journal of Theoretical Biology*, 286: 100–113. doi:10.1016/j.jtbi.2011.06.033
+* Levy, Arnon & William Bechtel, 2013, “Abstraction and the Organization of Mechanisms”, *Philosophy of Science*, 80(2): 241–261. doi:10.1086/670300
+* Lewens, Tim, 2013, “From *Bricolage* to BioBricks™: Synthetic Biology and Rational Design”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4, part B): 641–648. doi:10.1016/j.shpsc.2013.05.011
+* Lobkovsky, Alexander E. & Eugene V. Koonin, 2012, “Replaying the Tape of Life: Quantification of the Predictability of Evolution”, *Frontiers in Genetics*, 3: 246. doi:10.3389/fgene.2012.00246
+* Loscalzo, Joseph & Albert-László Barabási, 2011, “Systems Biology and the Future of Medicine”, *Wiley Interdisciplinary Reviews: Systems Biology and Medicine*, 3(6): 619–627. doi:10.1002/wsbm.144
+* Love, Alan C. & Marco J. Nathan, 2015, “The Idealization of Causation in Mechanistic Explanation”, *Philosophy of Science*, 82(5): 761–774. doi:10.1086/683263
+* Luisi, Pier Luigi, 1998, “About Various Definitions of Life”, *Origins of Life and Evolution of the Biosphere*, 28: 613–622
+* –––, 2006, *The Emergence of Life. From Chemical Origins to Synthetic Biology*, Cambridge: Cambridge University Press.
+* Lynch, Michael, 2007, “The Frailty of Adaptive Hypotheses for the Origins of Organismal Complexity”, *Proceedings of the National Academy of Sciences*, 104(S1): 8597–8604. doi:10.1073/pnas.0702207104
+* Machamer, Peter, Lindley Darden, & Carl F. Craver, 2000, “Thinking About Mechanisms”, *Philosophy of Science*, 67(1): 1–25. doi:10.1086/392759
+* MacLeod, Miles, 2018, “What Makes Interdisciplinarity Difficult? Some Consequences of Domain Specificity in Interdisciplinary Practice”, *Synthese*, 195(2): 697–720.
+* MacLeod, Miles & Nancy J. Nersessian, 2013a, “Building Simulations from the Ground Up: Modelling and Theory in Systems Biology”, *Philosophy of Science*, 80(4): 533–566. doi:10.1086/673209
+* –––, 2013b, “Coupling Simulation and Experiment: the Bimodal Strategy in Integrative Systems Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4, part A): 572–584. doi:10.1016/j.shpsc.2013.07.001
+* –––, 2015, “Modeling Systems-level Dynamics: Understanding Without Mechanistic Explanation in Integrative Systems Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 49: 1–11. doi:10.1016/j.shpsc.2014.10.004
+* McLeod, Carmen, & Brigitte Nerlich, 2017, “Synthetic Biology, Metaphors and Responsibility”, *Life Sciences, Society and Policy*, 13: 13.
+* Maher, Brendan, 2008, “Personal Genomes: The Case of the Missing Heritability”, *Nature*, 456(7218): 18–21. doi:10.1038/456018a
+* Mangan, Shmoolik, A. Zaslaver, & Uri Alon, 2003, “The Coherent Feedforward Loop Serves as a Sign-Sensitive Delay Element in Transcription Networks”, *Journal of Molecular Biology*, 334(2): 197–204. doi:10.1016/j.jmb.2003.09.049
+* Matthiessen, D., 2015, “Mechanistic Explanation in Systems Biology: Cellular Networks”, *The British Journal for the Philosophy of Science*, 68(1): 1–25. doi:10.1093/bjps/axv011
+* Maturana, Humberto R. & Francisco J. Varela, 1972/1980, *Autopoiesis and Cognition: The Realization of the Living*, Dordrecht: D. Reidel Publishing Company.
+* Mazzocchi, Fulvio, 2015, “Could Big Data be the End of Theory in Science?”, *EMBO Reports*, 16(10): 1250–1255. doi:10.15252/embr.201541001.
+* McPherson, Ruth & Anne Tybjaerg-Hansen, 2016, “Genetics of Coronary Artery Disease”, *Circulation Research*, 118(4): 564–578. doi:10.1161/CIRCRESAHA.115.306566
+* Mesarović, Mihajlo D., 1968, “Systems Theory and Biology—View of a Theoretician”, in *Systems Theory and Biology. Proceedings of the III Systems Symposium at Case Institute of Technology*, M.D. Mesarović (ed.), New York, NY: Springer, pp. 59–87. doi:10.1007/978-3-642-88343-9\_3
+* Mesarović, M., S.N. Sreenath, & J.D. Keene, 2004, “Search for Organizing Principles: Understanding in Systems Biology”, *Systems Biology*, 1: 19–27.
 * Mekios, Constantinos, 2015, “Explanation in Systems Biology: Is it All About Mechanisms?”, in Braillard & Malaterre 2015: 47–72. doi:10.1007/978-94-017-9822-8\_3
-* –––, 2016, “Organizing Principles as Tools for Bridging the Gap Between System Theory and Biological Experimentation”, _History and Philosophy of the Life Sciences_, 38(1): 65–89. doi:10.1007/s40656-016-0095-0
-* Miller, Stanley L., 1953, “Production of Amino Acids Under Possible Primitive Earth Conditions”, _Science_, 117(3046): 528–529. doi:10.1126/science.117.3046.528
-* Morange, Michel, 2009, “A Critical Perspective on Synthetic Biology”, _HYLE: International Journal for Philosophy of Chemistry_, 15: 21–30. \[[Morange 2009 available online](http://www.hyle.org/journal/issues/15-1/morange.htm)]
-* Moreno, Alvaro & Matteo Mossio, 2015, _Biological Autonomy: A Philosophical and Theoretical Enquiry_, Dordrecht: Springer International Publishing. doi:10.1007/978-94-017-9837-2
+* –––, 2016, “Organizing Principles as Tools for Bridging the Gap Between System Theory and Biological Experimentation”, *History and Philosophy of the Life Sciences*, 38(1): 65–89. doi:10.1007/s40656-016-0095-0
+* Miller, Stanley L., 1953, “Production of Amino Acids Under Possible Primitive Earth Conditions”, *Science*, 117(3046): 528–529. doi:10.1126/science.117.3046.528
+* Morange, Michel, 2009, “A Critical Perspective on Synthetic Biology”, *HYLE: International Journal for Philosophy of Chemistry*, 15: 21–30. \[[Morange 2009 available online](http://www.hyle.org/journal/issues/15-1/morange.htm)]
+* Moreno, Alvaro & Matteo Mossio, 2015, *Biological Autonomy: A Philosophical and Theoretical Enquiry*, Dordrecht: Springer International Publishing. doi:10.1007/978-94-017-9837-2
 * Moreno, Alvaro & Javier Suárez, 2020, “Plurality of Explanatory Strategies in Biology: Mechanisms and Networks”, in Gonzales (ed.) 2020: 141–165.
-* Mossio, Matteo, Cristian Saborido, and Alvaro Moreno, 2009, “An Organizational Account of Biological Functions”, _The British Journal for the Philosophy of Science_, 60: 813–841.
-* Munsky, Brian, Brooke Trinh, & Mustafa Khammash, 2009, “Listening to the Noise: Random Fluctuations Reveal Gene Network Parameters”, _Molecular Systems Biology_, 5: 318. doi:10.1038/msb.2009.75
+* Mossio, Matteo, Cristian Saborido, and Alvaro Moreno, 2009, “An Organizational Account of Biological Functions”, *The British Journal for the Philosophy of Science*, 60: 813–841.
+* Munsky, Brian, Brooke Trinh, & Mustafa Khammash, 2009, “Listening to the Noise: Random Fluctuations Reveal Gene Network Parameters”, *Molecular Systems Biology*, 5: 318. doi:10.1038/msb.2009.75
 * Nersessian, Nancy J., 2017, “Systems Biology Modeling Practices: Reflections of a Philosopher-Ethnographer”, in Green 2017: 215–226. doi:10.1007/978-3-319-47000-9\_20
-* Nicholson, Daniel J., 2019, “Is the Cell Really a Machine?”, _Journal of Theoretical Biology_, 477: 108–126.
-* Noble, Denis, 2008, “Claude Bernard, the First Systems Biologist, and the Future of Physiology”, _Experimental Physiology_, 93(1): 16–26. doi:10.1113/expphysiol.2007.038695
-* –––, 2012, “A Theory of Biological Relativity: No Privileged Level of Causation”, _Interface Focus_, 2(1): 55–64. doi:10.1098/rsfs.2011.0067
-* Nordmann, Alfred, 2015, “Synthetic Biology at the Limits of Science”, in _Synthetic Biology_, Bernd Giese, Arnim von Gleich, Christian Pade, & Henning Wigger (eds.), Cham: Springer International Publishing, pp. 31–58. doi:10.1007/978-3-319-02783-8\_2
-* O’Malley, Maureen A., 2009, “Making Knowledge in Synthetic Biology: Design Meets Kludge”, _Biological Theory_, 4(4): 378–389. doi:10.1162/BIOT\_a\_00006
-* –––, 2011a, “Constructive Personalized Medicine: the Potential Integration of Synthetic Biology and Personalized Medicine”, _Current Pharmacogenomics and Personalized Medicine_, 9(3): 177–183. doi:10.2174/187569211796957593
-* –––, 2011b, “Exploration, Iterativity and Kludging in Synthetic Biology”, _Comptes Rendus Chimie_, 14(4): 406–412. doi:10.1016/j.crci.2010.06.021
-* O’Malley, Maureen A. & John Dupré, 2005, “Fundamental Issues in Systems Biology”, _BioEssays_, 27(12): 1270–1276. doi:10.1002/bies.20323
-* O’Malley, Maureen A., Alexander Powell, Jonathan F. Davies, & Jane Calvert, 2008, “Knowledge-Making Distinctions in Synthetic Biology”, _BioEssays_, 30(1): 57–65. doi:10.1002/bies.20664
-* O’Malley, Maureen A. & Orkun S. Soyer, 2012, “The Roles of Integration in Molecular Systems Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 43(1): 58–68. doi:10.1016/j.shpsc.2011.10.006
-* O’Malley, Maureen A., Orkun S. Soyer, & Mark L. Siegal, 2015, “A Philosophical Perspective on Evolutionary Systems Biology”, _Biological Theory_, 10(1): 6–17. doi:10.1007/s13752-015-0202-6
-* O’Malley, Maureen A., Michelle M. Leger, Jeremy G. Wideman, and Iñaki Ruiz-Trillo, 2019, “Concepts of the Last Eukaryotic Common Ancestor”, _Nature Ecology & Evolution_, 3(3): 338–344.
-* Orzack, Stephen H. & Patrick Forber, 2010, “Adaptationism”, _The Stanford Encyclopedia of Philosophy_ (Fall 2010), Edward N. Zalta (ed.), URL = <[Adaptationism (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/adaptationism/)>
-* Palmer, Adam C. & Roy Kishony, 2013, “Understanding, Predicting and Manipulating the Genotypic Evolution of Antibiotic Resistance”, _Nature Reviews Genetics_, 14(4): 243–248. doi:10.1038/nrg3351
-* Papp, Balázs, Richard A. Notebaart, & Csaba Pall, 2011, “Systems-Biology Approaches for Predicting Genomic Evolution”, _Nature Reviews Genetics_, 12(9): 591–602. doi:10.1038/nrg3033
-* Peter, Isabelle S. & Eric H. Davidson, 2015, _Genomic Control Process: Development and Evolution_, London, UK: Academic Press/Elsevier.
-* Pigliucci, Massimo, 2007, “Do We Need An Extended Evolutionary Synthesis?”, _Evolution_, 61(12): 2743–2749. doi:10.1111/j.1558-5646.2007.00246.x
-* Pio-Lopez, Léo, 2021, “The Rise of the Biocyborg: Synthetic Biology, Artificial Chimerism and Human Anhancement”, _New Genetics and Society_, 40(4): 599–619.
-* Plutynski, Anya, 2018, “What and How Do Cancer Systems Biologists Explain?”, _Philosophy of Science_, 85: 942–954. doi: 10.1086/699716
-* –––, 2021, “How is Cancer Complex?”, _European Journal for Philosophy of Science_, 11(55): 1–30. doi:10.1007/s13194-021-00371-8
-* Pradeu, Thomas, 2016, “Thirty Years of _Biology & Philosophy_: Philosophy of Which Biology?”, _Biology & Philosophy_, 32(2): 149–167. doi:10.1007/s10539-016-9558-7
-* Prainsack, Barbara, 2017, _Personalized Medicine: Empowered Patients in the 21st Century?_ New York: New York University Press.
-* Preston, Christopher J., 2008, “Synthetic Biology: Drawing a Line in Darwin’s Sand”, _Environmental Values_, 17(1): 23–39. doi:10.3197/096327108X271932
-* Preston, Beth, 2013, “Synthetic Biology as Red Herring”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4, part B): 649–659. doi:10.1016/j.shpsc.2013.05.012
-* Prill, Robert J., Daniel Marbach, Julio Saez-Rodriguez, Peter K. Sorger, Leonidas G. Alexopoulos, Xiaowei Xue, Neil D. Clarke, Gregoire Altan-Bonnet, & Gustavo Stolovitzky, 2010, “Towards a Rigorous Assessment of Systems Biology Models: the DREAM3 Challenges”, _PLoS One_, 5(3): e9202. doi:10.1371/journal.pone.0009202
-* Rashevsky, Nicolas, 1961, _Mathematical Principles in Biology and their Applications_ (American lecture series, 414), Springfield, IL: C.C. Thomas.
-* Rasmussen, Steen, Mark A. Bedau, Liachai Chen, David Deamer, David C. Krakauer, Norman H. Packard, & Peter F. Stadler, 2008, _Protocells: Bridging Nonliving and Living Matter_, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262182683.001.0001
-* Ratti, Emanuele, 2015, “Big Data Biology: Between Eliminative Inferences and Exploratory Experiments”, _Philosophy of Science_, 82(2): 198–218.
-* Ravasz, E., A.L. Somera, D.A. Mongru, Z.N. Oltvai, & Albert-László Barabási, 2002, “Hierarchical Organization of Modularity in Metabolic Networks”, _Science_, 297(5586): 1551–1555. doi:10.1126/science.1073374
-* Reydon, Thomas A.C., Kostas Kampourakis, & George P. Patrinos, 2012, “Genetics, Genomics and Society: the Responsibilities of Scientists for Science Communication”, _Personalized Medicine_, 9(6): 633–643. doi:10.2217/pme.12.69
+* Nicholson, Daniel J., 2019, “Is the Cell Really a Machine?”, *Journal of Theoretical Biology*, 477: 108–126.
+* Noble, Denis, 2008, “Claude Bernard, the First Systems Biologist, and the Future of Physiology”, *Experimental Physiology*, 93(1): 16–26. doi:10.1113/expphysiol.2007.038695
+* –––, 2012, “A Theory of Biological Relativity: No Privileged Level of Causation”, *Interface Focus*, 2(1): 55–64. doi:10.1098/rsfs.2011.0067
+* Nordmann, Alfred, 2015, “Synthetic Biology at the Limits of Science”, in *Synthetic Biology*, Bernd Giese, Arnim von Gleich, Christian Pade, & Henning Wigger (eds.), Cham: Springer International Publishing, pp. 31–58. doi:10.1007/978-3-319-02783-8\_2
+* O’Malley, Maureen A., 2009, “Making Knowledge in Synthetic Biology: Design Meets Kludge”, *Biological Theory*, 4(4): 378–389. doi:10.1162/BIOT\_a\_00006
+* –––, 2011a, “Constructive Personalized Medicine: the Potential Integration of Synthetic Biology and Personalized Medicine”, *Current Pharmacogenomics and Personalized Medicine*, 9(3): 177–183. doi:10.2174/187569211796957593
+* –––, 2011b, “Exploration, Iterativity and Kludging in Synthetic Biology”, *Comptes Rendus Chimie*, 14(4): 406–412. doi:10.1016/j.crci.2010.06.021
+* O’Malley, Maureen A. & John Dupré, 2005, “Fundamental Issues in Systems Biology”, *BioEssays*, 27(12): 1270–1276. doi:10.1002/bies.20323
+* O’Malley, Maureen A., Alexander Powell, Jonathan F. Davies, & Jane Calvert, 2008, “Knowledge-Making Distinctions in Synthetic Biology”, *BioEssays*, 30(1): 57–65. doi:10.1002/bies.20664
+* O’Malley, Maureen A. & Orkun S. Soyer, 2012, “The Roles of Integration in Molecular Systems Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(1): 58–68. doi:10.1016/j.shpsc.2011.10.006
+* O’Malley, Maureen A., Orkun S. Soyer, & Mark L. Siegal, 2015, “A Philosophical Perspective on Evolutionary Systems Biology”, *Biological Theory*, 10(1): 6–17. doi:10.1007/s13752-015-0202-6
+* O’Malley, Maureen A., Michelle M. Leger, Jeremy G. Wideman, and Iñaki Ruiz-Trillo, 2019, “Concepts of the Last Eukaryotic Common Ancestor”, *Nature Ecology & Evolution*, 3(3): 338–344.
+* Orzack, Stephen H. & Patrick Forber, 2010, “Adaptationism”, *The Stanford Encyclopedia of Philosophy* (Fall 2010), Edward N. Zalta (ed.), URL = <[Adaptationism (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/adaptationism/)>
+* Palmer, Adam C. & Roy Kishony, 2013, “Understanding, Predicting and Manipulating the Genotypic Evolution of Antibiotic Resistance”, *Nature Reviews Genetics*, 14(4): 243–248. doi:10.1038/nrg3351
+* Papp, Balázs, Richard A. Notebaart, & Csaba Pall, 2011, “Systems-Biology Approaches for Predicting Genomic Evolution”, *Nature Reviews Genetics*, 12(9): 591–602. doi:10.1038/nrg3033
+* Peter, Isabelle S. & Eric H. Davidson, 2015, *Genomic Control Process: Development and Evolution*, London, UK: Academic Press/Elsevier.
+* Pigliucci, Massimo, 2007, “Do We Need An Extended Evolutionary Synthesis?”, *Evolution*, 61(12): 2743–2749. doi:10.1111/j.1558-5646.2007.00246.x
+* Pio-Lopez, Léo, 2021, “The Rise of the Biocyborg: Synthetic Biology, Artificial Chimerism and Human Anhancement”, *New Genetics and Society*, 40(4): 599–619.
+* Plutynski, Anya, 2018, “What and How Do Cancer Systems Biologists Explain?”, *Philosophy of Science*, 85: 942–954. doi: 10.1086/699716
+* –––, 2021, “How is Cancer Complex?”, *European Journal for Philosophy of Science*, 11(55): 1–30. doi:10.1007/s13194-021-00371-8
+* Pradeu, Thomas, 2016, “Thirty Years of *Biology & Philosophy*: Philosophy of Which Biology?”, *Biology & Philosophy*, 32(2): 149–167. doi:10.1007/s10539-016-9558-7
+* Prainsack, Barbara, 2017, *Personalized Medicine: Empowered Patients in the 21st Century?* New York: New York University Press.
+* Preston, Christopher J., 2008, “Synthetic Biology: Drawing a Line in Darwin’s Sand”, *Environmental Values*, 17(1): 23–39. doi:10.3197/096327108X271932
+* Preston, Beth, 2013, “Synthetic Biology as Red Herring”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4, part B): 649–659. doi:10.1016/j.shpsc.2013.05.012
+* Prill, Robert J., Daniel Marbach, Julio Saez-Rodriguez, Peter K. Sorger, Leonidas G. Alexopoulos, Xiaowei Xue, Neil D. Clarke, Gregoire Altan-Bonnet, & Gustavo Stolovitzky, 2010, “Towards a Rigorous Assessment of Systems Biology Models: the DREAM3 Challenges”, *PLoS One*, 5(3): e9202. doi:10.1371/journal.pone.0009202
+* Rashevsky, Nicolas, 1961, *Mathematical Principles in Biology and their Applications* (American lecture series, 414), Springfield, IL: C.C. Thomas.
+* Rasmussen, Steen, Mark A. Bedau, Liachai Chen, David Deamer, David C. Krakauer, Norman H. Packard, & Peter F. Stadler, 2008, *Protocells: Bridging Nonliving and Living Matter*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262182683.001.0001
+* Ratti, Emanuele, 2015, “Big Data Biology: Between Eliminative Inferences and Exploratory Experiments”, *Philosophy of Science*, 82(2): 198–218.
+* Ravasz, E., A.L. Somera, D.A. Mongru, Z.N. Oltvai, & Albert-László Barabási, 2002, “Hierarchical Organization of Modularity in Metabolic Networks”, *Science*, 297(5586): 1551–1555. doi:10.1126/science.1073374
+* Reydon, Thomas A.C., Kostas Kampourakis, & George P. Patrinos, 2012, “Genetics, Genomics and Society: the Responsibilities of Scientists for Science Communication”, *Personalized Medicine*, 9(6): 633–643. doi:10.2217/pme.12.69
 * Richardson, Robert C. & Achim Stephan, 2007, “Mechanism and Mechanical Explanation in Systems Biology”, in Boogerd, Bruggeman, Hofmeyr, & Westerhoff 2007: 123–144.
-* Rosen, Robert, 1991, _Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life_, New York, NY: Columbia University Press.
-* Royal Society, 2012, “Science as an Open enterprise”, _The Royal Society Science Policy Centre report 02/12_, [available online](https://royalsociety.org/\~/media/policy/projects/sape/2012-06-20-saoe.pdf).
-* Rowbottom, Darrell P., 2011, “Approximations, Idealizations and ‘Experiments’ at the Physics-Biology Interface”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 42(2): 145–154. doi:10.1016/j.shpsc.2010.11.021
-* Ruiz-Mirazo, Kepa, Juli Peretó, & Alavaro Moreno, 2010, “Defining Life or Bringing Biology to Life”, _Origins of Life and Evolution of Biospheres_, 40(2): 203–213. doi:10.1007/s11084-010-9201-6
-* Savageau, Michael A., 1976, _Biochemical Systems Analysis: A Study of Function and Design in Molecular Biology_, Reading, MA: Addison-Wesley.
-* Schyfter, Pablo, 2013, “How a ‘Drive to Make’ Shapes Synthetic Biology”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4, part B): 632–640. doi:10.1016/j.shpsc.2013.05.010
-* Serban, Maria, 2020, “Exploring Modularity in Biological Networks”, _Philosophical Transactions of the Royal Society B_, 375(1796): 20190316.
+* Rosen, Robert, 1991, *Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life*, New York, NY: Columbia University Press.
+* Royal Society, 2012, “Science as an Open enterprise”, *The Royal Society Science Policy Centre report 02/12*, [available online](https://royalsociety.org/\~/media/policy/projects/sape/2012-06-20-saoe.pdf).
+* Rowbottom, Darrell P., 2011, “Approximations, Idealizations and ‘Experiments’ at the Physics-Biology Interface”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 42(2): 145–154. doi:10.1016/j.shpsc.2010.11.021
+* Ruiz-Mirazo, Kepa, Juli Peretó, & Alavaro Moreno, 2010, “Defining Life or Bringing Biology to Life”, *Origins of Life and Evolution of Biospheres*, 40(2): 203–213. doi:10.1007/s11084-010-9201-6
+* Savageau, Michael A., 1976, *Biochemical Systems Analysis: A Study of Function and Design in Molecular Biology*, Reading, MA: Addison-Wesley.
+* Schyfter, Pablo, 2013, “How a ‘Drive to Make’ Shapes Synthetic Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4, part B): 632–640. doi:10.1016/j.shpsc.2013.05.010
+* Serban, Maria, 2020, “Exploring Modularity in Biological Networks”, *Philosophical Transactions of the Royal Society B*, 375(1796): 20190316.
 * Serban, Maria, & Sara Green, 2020, “Biological Robustness: Design, Organization, and Mechanisms”, in Serban, Holt, & Holm (eds.) 2020: 141–164.
-* Shen-Orr, Shai S., Ron Milo, Shmoolik Mangan, & Uri Alon, 2002, “Network Motifs in the Transcriptional Regulation Network of _Escherichia coli_”, _Nature Genetics_, 31(1): 64–68. doi:10.1038/ng881
-* Shinar, Guy & Martin Feinberg, 2011, “Design Principles for Robust Biochemical Reaction Networks: What Works, What Cannot Work, and What Might Almost Work”, _Mathematical Biosciences_, 231: 39–48. doi:10.1016/j.mbs.2011.02.012
-* Simons, Massimiliano, 2021, “Synthetic Biology as a Technoscience: The Case of Minimal Genomes and Essential Genes”, _Studies in History and Philosophy of Science Part A_, 85: 127–136. doi:10.1016/j.shpsa.2020.09.012
-* Solé, Ricard, and Sergi Valverde, 2020, “Evolving Complexity: How Tinkering Shapes Cells, Software and Ecological Networks”, _Philosophical Transactions of the Royal Society B_, 375(1796): 20190325.
-* Soto, Ana M. & Carlos Sonnenschein, 2011, “The Tissue Organization Field Theory of Cancer: a Testable Replacement for the Somatic Mutation Theory”, _BioEssays_, 33(5): 322–340. doi:10.1002/bies.201100025
-* Soto, A.M., Carlos Sonnenschein, & Paul-Antoine Miquel, 2008, “On Physicalism and Downward Causation in Developmental and Cancer Biology”, _Acta Biotheoretica_, 56(4): 257–274. doi:10.1007/s10441-008-9052-y
-* Soyer, Orkun S., 2012 (ed.), _Evolutionary Systems Biology_, London: Springer. doi:10.1007/978-1-4614-3567-9
-* Soyer, Orkun & Maureen A. O’Malley, 2013, “Evolutionary Systems Biology: What it is and Why it Matters”, _BioEssays_, 35(8): 696–705. doi:10.1002/bies.201300029
+* Shen-Orr, Shai S., Ron Milo, Shmoolik Mangan, & Uri Alon, 2002, “Network Motifs in the Transcriptional Regulation Network of *Escherichia coli*”, *Nature Genetics*, 31(1): 64–68. doi:10.1038/ng881
+* Shinar, Guy & Martin Feinberg, 2011, “Design Principles for Robust Biochemical Reaction Networks: What Works, What Cannot Work, and What Might Almost Work”, *Mathematical Biosciences*, 231: 39–48. doi:10.1016/j.mbs.2011.02.012
+* Simons, Massimiliano, 2021, “Synthetic Biology as a Technoscience: The Case of Minimal Genomes and Essential Genes”, *Studies in History and Philosophy of Science Part A*, 85: 127–136. doi:10.1016/j.shpsa.2020.09.012
+* Solé, Ricard, and Sergi Valverde, 2020, “Evolving Complexity: How Tinkering Shapes Cells, Software and Ecological Networks”, *Philosophical Transactions of the Royal Society B*, 375(1796): 20190325.
+* Soto, Ana M. & Carlos Sonnenschein, 2011, “The Tissue Organization Field Theory of Cancer: a Testable Replacement for the Somatic Mutation Theory”, *BioEssays*, 33(5): 322–340. doi:10.1002/bies.201100025
+* Soto, A.M., Carlos Sonnenschein, & Paul-Antoine Miquel, 2008, “On Physicalism and Downward Causation in Developmental and Cancer Biology”, *Acta Biotheoretica*, 56(4): 257–274. doi:10.1007/s10441-008-9052-y
+* Soyer, Orkun S., 2012 (ed.), *Evolutionary Systems Biology*, London: Springer. doi:10.1007/978-1-4614-3567-9
+* Soyer, Orkun & Maureen A. O’Malley, 2013, “Evolutionary Systems Biology: What it is and Why it Matters”, *BioEssays*, 35(8): 696–705. doi:10.1002/bies.201300029
 * Steinacher, Arno & Orkun S. Soyer, 2012, “Evolutionary Principles. Underlying Structure and Response Dynamics of Cellular Networks”, in Soyer 2012: 225–247. doi:10.1007/978-1-4614-3567-9\_11
-* Steinle, Friedrich, 1997, “Entering New Fields: Exploratory Uses of Experimentation”, _Philosophy of Science_, S65–S74. doi:10.1086/392587
-* Stelling, Jörg, Uwe Sauer, Zoltan Szallasi, Francis J. Doyle III, & John Doyle, 2004, “Robustness of Cellular Functions”, _Cell_, 118(6): 675–685. doi:10.1016/j.cell.2004.09.008
-* Stricker, Jesse, Scott Cookson, Matthew R. Bennet, William H. Mather, Levi S. Tsimring, & Jeff Hasty, 2008, “A Fast, Robust and Tunable Synthetic Gene Oscillator”, _Nature_, 456(7221): 516–519. doi:10.1038/nature07389
-* Suárez, Javier, and Roger Deulofeu, 2019, “Equilibrium Explanation as Structural Non-Mechanistic Explanations,” _Teorema: Revista internacional de filosofía_, 38(3): 95–120.
-* Sung, Bong Hyun, Donghui Choe, Sun Chang Kim & Byung-Kwan Cho, 2016, “Construction of a Minimal Genome as a Chassis for Synthetic Biology”, _Essays in Biochemistry_, 60(4): 337–346. doi:10.1042/EBC20160024
-* Szostak, Jack W., David P. Bartel, & Pier Luigi Luisi, 2001, “Synthesizing Life”, _Nature_, 409(6818): 387–390. doi:10.1038/35053176
-* Tutton, Richard, 2014, _Genomics and the Reimagining of Personalized Medicine_, Farnham, UK: Ashgate Publishing.
-* Tyson, John J. & Béla Novák, 2010, “Functional Motifs in Biochemical Reaction Networks”, _Annual Review of Physical Chemistry_, 61: 219–240. doi:10.1146/annurev.physchem.012809.103457
-* Tyson, John J., Katherine C. Chen, & Béla Novak, 2003, “Sniffers, Buzzers, Toggles and Blinkers: Dynamics of Regulatory and Signaling Pathways in the Cell”, _Current Opinion in Cell Biology_, 15(2): 221–231. doi:10.1016/S0955-0674(03)00017-6
-* van Eck, Dingmar, and Cory Wright, 2021, “Mechanist Idealisation in Systems Biology”, _Synthese_, 199(1): 1555–1575.
-* van Regenmortel, Marc H.V., 2004, “Reductionism and Complexity in Molecular Biology”, _EMBO Reports_, 5(11): 1016–1020. doi:10.1038/sj.embor.7400284
-* Vermeulen, Niki, 2010, _Supersizing Science: On Building Large-scale Research Projects in Biology_, Boca Raton, Fl: Universal-Publishers.
-* –––, 2011, “Growing a Cell _in Silico_: on How the Creation of a Bio-object Transforms the Organisation of Science”, in _Bio-Objects. Life in the 21st Century_, Niki Vermeulen, Sakari Tamminen, & Andrew Webster (eds.), Aldershot: Ashgate, pp. 171–186.
-* Vickers, Claudia E. & Peter S. Freemont, 2022, “Pandemic Preparedness: Synthetic Biology and Publicly Funded Biofoundries Can Rapidly Accelerate Response Time”, _Nature Communications_, 13: 453. doi: 10.1038/s41467-022-28103-3
-* Vogt, Henrik, Elling Ulvestad, Thor Eirik Eriksen, & Linn Getz, 2014, “Getting Personal: Can Systems Medicine Integrate Scientific and Humanistic Conceptions of the Patient?”, _Journal of Evaluation in Clinical Practice_, 20(6): 942–952. doi:10.1111/jep.12251.
-* Vogt, Henrik, Bjørn Hofmann, & Linn Getz, 2016, “The New Holism: P4 Systems Medicine and the Medicalization of Health and Life Itself”, _Medicine, Health Care and Philosophy_, 19(2): 307–323. doi:10.1007/s11019-016-9683-8
-* Vogt, Henrik, Sara Green, Claus Thorn Ekstrøm, & John Brodersen, 2019, “How Precision Medicine and Screening with Big Data Could Increase Overdiagnosis”, _BMJ_, 366: l5270.
-* Voigt, Christopher A., 2020, “Synthetic Biology 2020–2030: Six Commercially-Available Products that are Changing our World”, _Nature Communications_, 11(1): 1-6.
-* Voit, Eberhard O., 2003, “Design Principles and Operating Principles: The Yin and Yang of Optimal Functioning”, _Mathematical Biosciences_, 182: 81–92. doi:10.1016/S0025-5564(02)00162-1
-* Voit, Eberhard O. & Kenneth L. Brigham, 2008, “The Role of Systems Biology in Predictive Health and Personalized Medicine”, _The Open Pathology Journal_, 2: 68–70. doi:10.2174/1874375700802010068
-* von Neumann, John, 1966, _The Theory of Self-Reproducing Automata_, Arthur W. Burks (ed.), Urbana, IL: University of Illinois Press.
+* Steinle, Friedrich, 1997, “Entering New Fields: Exploratory Uses of Experimentation”, *Philosophy of Science*, S65–S74. doi:10.1086/392587
+* Stelling, Jörg, Uwe Sauer, Zoltan Szallasi, Francis J. Doyle III, & John Doyle, 2004, “Robustness of Cellular Functions”, *Cell*, 118(6): 675–685. doi:10.1016/j.cell.2004.09.008
+* Stricker, Jesse, Scott Cookson, Matthew R. Bennet, William H. Mather, Levi S. Tsimring, & Jeff Hasty, 2008, “A Fast, Robust and Tunable Synthetic Gene Oscillator”, *Nature*, 456(7221): 516–519. doi:10.1038/nature07389
+* Suárez, Javier, and Roger Deulofeu, 2019, “Equilibrium Explanation as Structural Non-Mechanistic Explanations,” *Teorema: Revista internacional de filosofía*, 38(3): 95–120.
+* Sung, Bong Hyun, Donghui Choe, Sun Chang Kim & Byung-Kwan Cho, 2016, “Construction of a Minimal Genome as a Chassis for Synthetic Biology”, *Essays in Biochemistry*, 60(4): 337–346. doi:10.1042/EBC20160024
+* Szostak, Jack W., David P. Bartel, & Pier Luigi Luisi, 2001, “Synthesizing Life”, *Nature*, 409(6818): 387–390. doi:10.1038/35053176
+* Tutton, Richard, 2014, *Genomics and the Reimagining of Personalized Medicine*, Farnham, UK: Ashgate Publishing.
+* Tyson, John J. & Béla Novák, 2010, “Functional Motifs in Biochemical Reaction Networks”, *Annual Review of Physical Chemistry*, 61: 219–240. doi:10.1146/annurev.physchem.012809.103457
+* Tyson, John J., Katherine C. Chen, & Béla Novak, 2003, “Sniffers, Buzzers, Toggles and Blinkers: Dynamics of Regulatory and Signaling Pathways in the Cell”, *Current Opinion in Cell Biology*, 15(2): 221–231. doi:10.1016/S0955-0674(03)00017-6
+* van Eck, Dingmar, and Cory Wright, 2021, “Mechanist Idealisation in Systems Biology”, *Synthese*, 199(1): 1555–1575.
+* van Regenmortel, Marc H.V., 2004, “Reductionism and Complexity in Molecular Biology”, *EMBO Reports*, 5(11): 1016–1020. doi:10.1038/sj.embor.7400284
+* Vermeulen, Niki, 2010, *Supersizing Science: On Building Large-scale Research Projects in Biology*, Boca Raton, Fl: Universal-Publishers.
+* –––, 2011, “Growing a Cell *in Silico*: on How the Creation of a Bio-object Transforms the Organisation of Science”, in *Bio-Objects. Life in the 21st Century*, Niki Vermeulen, Sakari Tamminen, & Andrew Webster (eds.), Aldershot: Ashgate, pp. 171–186.
+* Vickers, Claudia E. & Peter S. Freemont, 2022, “Pandemic Preparedness: Synthetic Biology and Publicly Funded Biofoundries Can Rapidly Accelerate Response Time”, *Nature Communications*, 13: 453. doi: 10.1038/s41467-022-28103-3
+* Vogt, Henrik, Elling Ulvestad, Thor Eirik Eriksen, & Linn Getz, 2014, “Getting Personal: Can Systems Medicine Integrate Scientific and Humanistic Conceptions of the Patient?”, *Journal of Evaluation in Clinical Practice*, 20(6): 942–952. doi:10.1111/jep.12251.
+* Vogt, Henrik, Bjørn Hofmann, & Linn Getz, 2016, “The New Holism: P4 Systems Medicine and the Medicalization of Health and Life Itself”, *Medicine, Health Care and Philosophy*, 19(2): 307–323. doi:10.1007/s11019-016-9683-8
+* Vogt, Henrik, Sara Green, Claus Thorn Ekstrøm, & John Brodersen, 2019, “How Precision Medicine and Screening with Big Data Could Increase Overdiagnosis”, *BMJ*, 366: l5270.
+* Voigt, Christopher A., 2020, “Synthetic Biology 2020–2030: Six Commercially-Available Products that are Changing our World”, *Nature Communications*, 11(1): 1-6.
+* Voit, Eberhard O., 2003, “Design Principles and Operating Principles: The Yin and Yang of Optimal Functioning”, *Mathematical Biosciences*, 182: 81–92. doi:10.1016/S0025-5564(02)00162-1
+* Voit, Eberhard O. & Kenneth L. Brigham, 2008, “The Role of Systems Biology in Predictive Health and Personalized Medicine”, *The Open Pathology Journal*, 2: 68–70. doi:10.2174/1874375700802010068
+* von Neumann, John, 1966, *The Theory of Self-Reproducing Automata*, Arthur W. Burks (ed.), Urbana, IL: University of Illinois Press.
 * Wagner, Andreas, 2012, “Metabolic Networks and Their Evolution”, in Soyer 2012: 29–52. doi:10.1007/978-1-4614-3567-9\_2
-* –––, 2014, _Arrival of the Fittest: Solving Evolution’s Greatest Puzzle_, New York, NY: Penguin.
-* Watts, Duncan J. and Steven H. Strogatz, 1998, “Collective Dynamics of ‘Small Worlds’ Networks”, _Nature_, 393(6684): 440–442. doi:10.1038/30918
-* Weinreich, Daniel M., Nigel F. Delaney, Mark A. DePristo, and Daniel L. Hartl, 2006, “Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins”, _Science_, 312(5770): 111–114. doi:10.1126/science.1123539
-* Wiener, Norbert, 1948, _Cybernetics: Or Control and Communication in the Animal and the Machine_, Paris: MIT Press.
-* Wolkenhauer, Olaf and Sara Green, 2013, “The Search for Organizing Principles as a Cure Against Reductionism in Systems Medicine”, _FEBS Journal_, 280(23): 5938–48. doi:10.1111/febs.12311
-* Wolkenhauer, Olaf and Jan-Hendrik S. Hofmeyr, 2007, “An Abstract Cell Model that Describes the Self-Organization of Cell Function in Living Systems”, _Journal of Theoretical Biology_, 246(3): 461–476. doi:10.1016/j.jtbi.2007.01.005
-* Wolkenhauer, Olaf and Mihajlo Mesarović, 2005, “Feedback Dynamics and Cell Function: Why Systems Biology is Called Systems Biology”, _Molecular BioSystems_, 1: 14–16. doi:10.1039/b502088n
-* Wouters, Arno G., 2007, “Design Explanation: Determining the Constraints on What Can be Alive”, _Erkenntnis_, 67(1): 65–80. doi:10.1007/s10670-007-9045-2
-* Zepik, Helmut H., Eveline Blöchliger, and Pier Luigi Luisi, 2001, “A Chemical Model of Homeostasis”, _Angewandte Chemie_, 40(1): 199–202. doi:10.1002/1521-3773(20010105)40:1<199::AID-ANIE199>3.0.CO;2-H
+* –––, 2014, *Arrival of the Fittest: Solving Evolution’s Greatest Puzzle*, New York, NY: Penguin.
+* Watts, Duncan J. and Steven H. Strogatz, 1998, “Collective Dynamics of ‘Small Worlds’ Networks”, *Nature*, 393(6684): 440–442. doi:10.1038/30918
+* Weinreich, Daniel M., Nigel F. Delaney, Mark A. DePristo, and Daniel L. Hartl, 2006, “Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins”, *Science*, 312(5770): 111–114. doi:10.1126/science.1123539
+* Wiener, Norbert, 1948, *Cybernetics: Or Control and Communication in the Animal and the Machine*, Paris: MIT Press.
+* Wolkenhauer, Olaf and Sara Green, 2013, “The Search for Organizing Principles as a Cure Against Reductionism in Systems Medicine”, *FEBS Journal*, 280(23): 5938–48. doi:10.1111/febs.12311
+* Wolkenhauer, Olaf and Jan-Hendrik S. Hofmeyr, 2007, “An Abstract Cell Model that Describes the Self-Organization of Cell Function in Living Systems”, *Journal of Theoretical Biology*, 246(3): 461–476. doi:10.1016/j.jtbi.2007.01.005
+* Wolkenhauer, Olaf and Mihajlo Mesarović, 2005, “Feedback Dynamics and Cell Function: Why Systems Biology is Called Systems Biology”, *Molecular BioSystems*, 1: 14–16. doi:10.1039/b502088n
+* Wouters, Arno G., 2007, “Design Explanation: Determining the Constraints on What Can be Alive”, *Erkenntnis*, 67(1): 65–80. doi:10.1007/s10670-007-9045-2
+* Zepik, Helmut H., Eveline Blöchliger, and Pier Luigi Luisi, 2001, “A Chemical Model of Homeostasis”, *Angewandte Chemie*, 40(1): 199–202. doi:10.1002/1521-3773(20010105)40:1<199::AID-ANIE199>3.0.CO;2-H
 
 ## Academic Tools
 
@@ -569,4 +569,4 @@ ESB 不仅可以被视为系统生物学和进化生物学的交汇点，还可�
 Lucy Holt, Maria Serban, Sune Holm, William Bechtel, Fridolin Gross, Mikkel W. Johannsen, Line Andersen, Leonardo Bich, Javier Suarez, and an anonymous reviewer provided extremely valuable comments to an earlier version of this entry.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Sara Green](http://www.ind.ku.dk/english/staff-auto-list/?pure=en/persons/524942) <[_sara.green@ind.ku.dk_](mailto:sara%2egreen%40ind%2eku%2edk)>
+[Sara Green](http://www.ind.ku.dk/english/staff-auto-list/?pure=en/persons/524942) <[*sara.green@ind.ku.dk*](mailto:sara%2egreen%40ind%2eku%2edk)>

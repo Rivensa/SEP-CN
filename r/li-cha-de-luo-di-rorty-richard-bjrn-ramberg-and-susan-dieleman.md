@@ -1,8 +1,8 @@
 # 理查德·罗蒂 Rorty, Richard (Bjørn Ramberg and Susan Dieleman)
 
-_首次发表于 2001 年 2 月 3 日；实质性修订于 2023 年 6 月 22 日_
+*首次发表于 2001 年 2 月 3 日；实质性修订于 2023 年 6 月 22 日*
 
-理查德-罗蒂（Richard Rorty，1931-2007 年）提出了一种独特而有争议的实用主义，这种实用主义主要表现在两个方面。一个是消极的--对罗蒂认为是现代哲学的决定性项目进行批判性诊断。另一个是积极的--试图说明，一旦我们摆脱了思想和知识的统治性隐喻，知识文化可能会是什么样子，而认识论和形而上学的传统问题（在罗蒂看来，也就是现代哲学的自我概念）正是植根于这些隐喻之中。罗蒂批判的核心是《哲学与自然之镜》（_Philosophy and the Mirror of Nature_，1979年，以下简称《自然之镜》）一书中的挑衅性论述。在这本书中，以及在《实用主义的后果》_（1982年，以下简称CP）一书中收录的与之密切相关的文章中，罗蒂的主要矛头直指作为表征的知识、作为心智对外部世界的心智镜像的哲学思想。罗蒂试图将杜威、黑格尔和达尔文的里程碑式成就整合并应用于历史主义和自然主义的实用主义综合体中，为哲学提供了一个对比形象。对后认识论思想文化的描述和阐释，在《哲学与社会希望》（PMN）（第三部分）和《哲学与社会希望》（CP）（xxxvi-xliv）中都有体现，而在后来的著作中，如《权变、反讽与团结》（Contingency, Irony, and Solidarity，1989年，以下简称CIS）、《哲学与社会希望》（Philosophy and Social Hope，1999年，以下简称PSH）中收集的通俗随笔和文章，以及四卷本哲学论文集《客观性、相对主义与真理》（Objectivity, Relativism, and Truth，1991年，以下简称ORT），则得到了更丰富的发展； 关于海德格尔和其他人的论文集》（1991 年，以下简称 EHO）；《真理与进步_》（1998 年，以下简称 TP）；以及《作为文化政治的哲学\*》（2007 年，以下简称 PCP）。在这些著作中，罗蒂的思想领域异常广阔，他对思想、文化和政治提出了高度综合、多层面的观点，这种观点使他成为当代讨论最广泛的哲学家之一。
+理查德-罗蒂（Richard Rorty，1931-2007 年）提出了一种独特而有争议的实用主义，这种实用主义主要表现在两个方面。一个是消极的--对罗蒂认为是现代哲学的决定性项目进行批判性诊断。另一个是积极的--试图说明，一旦我们摆脱了思想和知识的统治性隐喻，知识文化可能会是什么样子，而认识论和形而上学的传统问题（在罗蒂看来，也就是现代哲学的自我概念）正是植根于这些隐喻之中。罗蒂批判的核心是《哲学与自然之镜》（*Philosophy and the Mirror of Nature*，1979年，以下简称《自然之镜》）一书中的挑衅性论述。在这本书中，以及在《实用主义的后果》*（1982年，以下简称CP）一书中收录的与之密切相关的文章中，罗蒂的主要矛头直指作为表征的知识、作为心智对外部世界的心智镜像的哲学思想。罗蒂试图将杜威、黑格尔和达尔文的里程碑式成就整合并应用于历史主义和自然主义的实用主义综合体中，为哲学提供了一个对比形象。对后认识论思想文化的描述和阐释，在《哲学与社会希望》（PMN）（第三部分）和《哲学与社会希望》（CP）（xxxvi-xliv）中都有体现，而在后来的著作中，如《权变、反讽与团结》（Contingency, Irony, and Solidarity，1989年，以下简称CIS）、《哲学与社会希望》（Philosophy and Social Hope，1999年，以下简称PSH）中收集的通俗随笔和文章，以及四卷本哲学论文集《客观性、相对主义与真理》（Objectivity, Relativism, and Truth，1991年，以下简称ORT），则得到了更丰富的发展； 关于海德格尔和其他人的论文集》（1991 年，以下简称 EHO）；《真理与进步*》（1998 年，以下简称 TP）；以及《作为文化政治的哲学\*》（2007 年，以下简称 PCP）。在这些著作中，罗蒂的思想领域异常广阔，他对思想、文化和政治提出了高度综合、多层面的观点，这种观点使他成为当代讨论最广泛的哲学家之一。
 
 ***
 
@@ -166,150 +166,150 @@ _首次发表于 2001 年 2 月 3 日；实质性修订于 2023 年 6 月 22 日
 
 \[PMN]
 
-1979, _Philosophy and the Mirror of Nature_, Princeton: Princeton University Press.
+1979, *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
 
 \[CP]
 
-1982, _Consequences of Pragmatism_, Minneapolis: University of Minnesota Press.
+1982, *Consequences of Pragmatism*, Minneapolis: University of Minnesota Press.
 
 \[CIS]
 
-1989, _Contingency, Irony, and Solidarity_, New York: Cambridge University Press.
+1989, *Contingency, Irony, and Solidarity*, New York: Cambridge University Press.
 
 \[ORT]
 
-1991, _Objectivity, Relativism, and Truth: Philosophical Papers, Volume 1_, New York: Cambridge University Press.
+1991, *Objectivity, Relativism, and Truth: Philosophical Papers, Volume 1*, New York: Cambridge University Press.
 
 \[EHO]
 
-1991, _Essays on Heidegger and Others: Philosophical Papers, Volume 2_, New York: Cambridge University Press.
+1991, *Essays on Heidegger and Others: Philosophical Papers, Volume 2*, New York: Cambridge University Press.
 
 \[TP]
 
-1998, _Truth and Progress: Philosophical Papers, Volume 3_, New York: Cambridge University Press.
+1998, *Truth and Progress: Philosophical Papers, Volume 3*, New York: Cambridge University Press.
 
 \[AOC]
 
-1998, _Achieving Our Country: Leftist Thought in Twentieth Century America_. Cambridge, MA: Harvard University Press.
+1998, *Achieving Our Country: Leftist Thought in Twentieth Century America*. Cambridge, MA: Harvard University Press.
 
 \[PSH]
 
-2000, _Philosophy and Social Hope_. New York: Penguin Books.
+2000, *Philosophy and Social Hope*. New York: Penguin Books.
 
 \[PCP]
 
-2007, _Philosophy as Cultural Politics_, _Philosophical Papers_, Volume 4, New York: Cambridge University Press.
+2007, *Philosophy as Cultural Politics*, *Philosophical Papers*, Volume 4, New York: Cambridge University Press.
 
 \[RR]
 
-2010, _The Rorty Reader_. Voparil, C. J., and R. J. Bernstein (eds), Oxford: Wiley-Blackwell.
+2010, *The Rorty Reader*. Voparil, C. J., and R. J. Bernstein (eds), Oxford: Wiley-Blackwell.
 
 \[MLM]
 
-2014, _Mind, Language, and Metaphilosophy: Early Philosophical Papers_. Leach, S., and J. Tartaglia (eds.). New York: Cambridge University Press.
+2014, *Mind, Language, and Metaphilosophy: Early Philosophical Papers*. Leach, S., and J. Tartaglia (eds.). New York: Cambridge University Press.
 
 \[OPP]
 
-2020, _On Philosophy and Philosophers: Unpublished Papers, 1960–2000_. Małecki, W. P., and C. Voparil (eds.). New York: Cambridge University Press.
+2020, *On Philosophy and Philosophers: Unpublished Papers, 1960–2000*. Małecki, W. P., and C. Voparil (eds.). New York: Cambridge University Press.
 
 #### Other Works by Rorty
 
 * 1952, “Whitehead’s Use of the Concept of Potentiality,” MA thesis, University of Chicago.
 * 1956, “The Concept of Potentiality,” PhD dissertation, Yale University.
-* 1961, “Recent Metaphilosophy,” _The Review of Metaphysics_, 15(2): 299–318.
-* 1972, “Functionalism, Machines, and Incorrigibility,” _Journal of Philosophy_, 69: 203–220.
-* 1973, “Criteria and Necessity,” _Noûs_, 7(4): 313–329.
-* 1976, “Realism and Reference,” _The Monist_, 59(3): 321–340.
-* 1977, “Derrida on Language, Being, and Abnormal Philosophy,” _Journal of Philosophy_, 74(11): 673–681.
-* 1979, “Transcendental Arguments, Self-Reference and Pragmatism,” in P. Bieri, R. P. Hortsman, and L. Kruger (eds.), _Transcendental Arguments and Science_, Dordrecht: D. Reidel, pp. 77–103.
-* 1982, “Contemporary Philosophy of Mind,” _Synthese_, 53(2): 323–348.
-* 1984, “The Historiography of Philosophy: Four Genres,” in R. Rorty, J. B. Schneewind, and Q. Skinner (eds.), _Philosophy in History_, Cambridge: Cambridge University Press, pp. 49–76.
-* 1986, “Beyond Realism and Anti-Realism,” in L. Nagl, and R. Heinrich (eds.), _Wo steht die Analytische Philosophie heute?_ Vienna: R. Oldenbourg Verlag, Munich, pp. 103–115.
-* 1996, “Who Are We?: Moral Universalism and Economic Triage,” _Diogenes_, 44(173): 5–15.
-* 1997, “Introduction,” in W. Sellars, _Empiricism and the Philosophy of Mind_. Cambridge, Mass. and London: Harvard University Press, pp. 1–12.
-* 1997, _Truth, Politics and ‘Post-Modernism.’ The 1997 Spinoza Lectures_. Amsterdam: Van Gorcum.
-* 1999, “Pragmatism as Anti-Authoritarianism,” _Revue Internationale de Philosophie_, 53(207): 7–20.
-* 2007, “Dewey and Posner on Pragmatism and Moral Progress,” _University of Chicago Law Review_, 74(3): 915–927.
+* 1961, “Recent Metaphilosophy,” *The Review of Metaphysics*, 15(2): 299–318.
+* 1972, “Functionalism, Machines, and Incorrigibility,” *Journal of Philosophy*, 69: 203–220.
+* 1973, “Criteria and Necessity,” *Noûs*, 7(4): 313–329.
+* 1976, “Realism and Reference,” *The Monist*, 59(3): 321–340.
+* 1977, “Derrida on Language, Being, and Abnormal Philosophy,” *Journal of Philosophy*, 74(11): 673–681.
+* 1979, “Transcendental Arguments, Self-Reference and Pragmatism,” in P. Bieri, R. P. Hortsman, and L. Kruger (eds.), *Transcendental Arguments and Science*, Dordrecht: D. Reidel, pp. 77–103.
+* 1982, “Contemporary Philosophy of Mind,” *Synthese*, 53(2): 323–348.
+* 1984, “The Historiography of Philosophy: Four Genres,” in R. Rorty, J. B. Schneewind, and Q. Skinner (eds.), *Philosophy in History*, Cambridge: Cambridge University Press, pp. 49–76.
+* 1986, “Beyond Realism and Anti-Realism,” in L. Nagl, and R. Heinrich (eds.), *Wo steht die Analytische Philosophie heute?* Vienna: R. Oldenbourg Verlag, Munich, pp. 103–115.
+* 1996, “Who Are We?: Moral Universalism and Economic Triage,” *Diogenes*, 44(173): 5–15.
+* 1997, “Introduction,” in W. Sellars, *Empiricism and the Philosophy of Mind*. Cambridge, Mass. and London: Harvard University Press, pp. 1–12.
+* 1997, *Truth, Politics and ‘Post-Modernism.’ The 1997 Spinoza Lectures*. Amsterdam: Van Gorcum.
+* 1999, “Pragmatism as Anti-Authoritarianism,” *Revue Internationale de Philosophie*, 53(207): 7–20.
+* 2007, “Dewey and Posner on Pragmatism and Moral Progress,” *University of Chicago Law Review*, 74(3): 915–927.
 
 #### Edited Volumes, Collaborations, Exchanges, and Interviews
 
-* Auxier, R. E., and L. E. Hahn (eds.), 2010, _The Philosophy of Richard Rorty_, Chicago: Open Court.
-* Balslev, A. N., 1999, _Cultural Otherness: Correspondence with Richard Rorty_, Atlanta: Scholars Press.
-* Brandom, R. B., (ed.), 2000, _Rorty and His Critics_. Malden: Blackwell.
-* Collini, S. (ed.), 1992, _Interpretation and Overinterpretation_, New York: Cambridge University Press.
-* Festenstein, M., and S. Thompson (eds.), 2001, _Richard Rorty: Critical Dialogues_. Cambridge: Polity Press.
-* Huang, Y. (ed.), 2009, _Rorty, Pragmatism, and Confucianism: With Responses by Richard Rorty_, Albany: State University of New York Press.
-* Kulp, C. B., (ed.), 1997, _Realism/Antirealism and Epistemology_. Lanham, MD: Rowman and Littlefield Publishers, Inc.
-* Lewis-Kraus, G., 2003, “An Interview with Richard Rorty,” _The Believer_ 3. \[[Available online](https://believermag.com/an-interview-with-richard-rorty/)].
-* Mendieta, E. (ed.), 2006, _Take Care of Freedom and Truth will Take Care of Itself: Interviews with Richard Rorty_, Stanford: Stanford University Press.
-* Mouffe, C. (ed.), 1996, _Deconstruction and Pragmatism_, New York: Routledge.
-* Niznik, J and J. T. Sanders (eds.), 1996, _Debating the State of Philosophy: Habermas, Rorty and Kołakowski_. Westport: Praeger Publishers.
-* Nystrom, D., and K. Puckett (eds.), 1998, _Against Bosses, Against Oligarchies: A Conversation with Richard Rorty_. Charlottesville, VA: Prickly Pear Pamphlets.
-* Rorty, R., E. Lee, and A. Mourelatos, (eds.), 1973, _Exegesis and Argument: Essays in Greek Philosophy presented to Gregory Vlastos_. Amsterdam: Van Gorcum.
-* Rorty, R. (ed.), 1992, _The Linguistic Turn: Essays in Philosophical Method with Two Retrospective Essays_. Chicago and London: The University of Chicago Press.
-* Rorty, R., and G. Vattimo, 2005, _The Future of Religion_, S. Zabala (ed.), New York: Columbia University Press.
-* Rorty, R., and P. Engel, 2007, _What’s the Use of Truth?_, W. McCuaig (trans.), New York: Columbia University Press.
-* Rorty, R., 2011, _An Ethics for Today: Finding Common ground between Philosophy and Religion_. New York: Columbia University Press.
-* Saatkamp, H. J. Jr. (ed.), 1995, _Rorty and Pragmatism: The Philosopher Responds to his Critics_. Nashville and London: Vanderbilt University Press.
+* Auxier, R. E., and L. E. Hahn (eds.), 2010, *The Philosophy of Richard Rorty*, Chicago: Open Court.
+* Balslev, A. N., 1999, *Cultural Otherness: Correspondence with Richard Rorty*, Atlanta: Scholars Press.
+* Brandom, R. B., (ed.), 2000, *Rorty and His Critics*. Malden: Blackwell.
+* Collini, S. (ed.), 1992, *Interpretation and Overinterpretation*, New York: Cambridge University Press.
+* Festenstein, M., and S. Thompson (eds.), 2001, *Richard Rorty: Critical Dialogues*. Cambridge: Polity Press.
+* Huang, Y. (ed.), 2009, *Rorty, Pragmatism, and Confucianism: With Responses by Richard Rorty*, Albany: State University of New York Press.
+* Kulp, C. B., (ed.), 1997, *Realism/Antirealism and Epistemology*. Lanham, MD: Rowman and Littlefield Publishers, Inc.
+* Lewis-Kraus, G., 2003, “An Interview with Richard Rorty,” *The Believer* 3. \[[Available online](https://believermag.com/an-interview-with-richard-rorty/)].
+* Mendieta, E. (ed.), 2006, *Take Care of Freedom and Truth will Take Care of Itself: Interviews with Richard Rorty*, Stanford: Stanford University Press.
+* Mouffe, C. (ed.), 1996, *Deconstruction and Pragmatism*, New York: Routledge.
+* Niznik, J and J. T. Sanders (eds.), 1996, *Debating the State of Philosophy: Habermas, Rorty and Kołakowski*. Westport: Praeger Publishers.
+* Nystrom, D., and K. Puckett (eds.), 1998, *Against Bosses, Against Oligarchies: A Conversation with Richard Rorty*. Charlottesville, VA: Prickly Pear Pamphlets.
+* Rorty, R., E. Lee, and A. Mourelatos, (eds.), 1973, *Exegesis and Argument: Essays in Greek Philosophy presented to Gregory Vlastos*. Amsterdam: Van Gorcum.
+* Rorty, R. (ed.), 1992, *The Linguistic Turn: Essays in Philosophical Method with Two Retrospective Essays*. Chicago and London: The University of Chicago Press.
+* Rorty, R., and G. Vattimo, 2005, *The Future of Religion*, S. Zabala (ed.), New York: Columbia University Press.
+* Rorty, R., and P. Engel, 2007, *What’s the Use of Truth?*, W. McCuaig (trans.), New York: Columbia University Press.
+* Rorty, R., 2011, *An Ethics for Today: Finding Common ground between Philosophy and Religion*. New York: Columbia University Press.
+* Saatkamp, H. J. Jr. (ed.), 1995, *Rorty and Pragmatism: The Philosopher Responds to his Critics*. Nashville and London: Vanderbilt University Press.
 
 ### Secondary Literature
 
 #### Anthologies about Rorty
 
-* Auxier, R., E. Kramer, and K. P. Skowroński (eds.), 2020, _Rorty and Beyond_, Lanham, MD: Lexington Books.
-* Dieleman, S., D. E. McClean, and P. Showler (eds.), 2022, _The Ethics of Richard Rorty: Moral Communities, Self-Transformation, and Imagination_, New York and London: Routledge.
-* Goodson, J. L., 2020, _The Dark Years? Philosophy, Politics, and the Problem of Predictions,_ Eugene, OR: Cascade Books.
-* Goodson, J. L., and B. E. Stone (eds.), 2012, _Rorty and the Religious: Christian Engagements with a Secular Philosopher_, Eugene, OR: Wipf and Stock Publishers.
-* Gröschner, A., C. Koopman, and M. Sandbothe (eds.), 2013, _Richard Rorty: From Pragmatist Philosophy to Cultural Politics_, London and New York: Bloomsbury.
-* Guignon, C., and D. R. Hiley (eds.), 2003, _Richard Rorty_, Cambridge: Cambridge University Press.
-* Janack, M. (ed.), 2010, _Feminist Interpretations of Richard Rorty_, University Park: The Pennsylvania State Press.
-* Langsdorf, L., and A. R. Smith (eds.), 1995, _Recovering Pragmatism’s Voice: The Classical Tradition, Rorty, and the Philosophy of Communication_, Albany: State University of New York Press.
-* Marchetti, G. (ed.), 2022, _The Ethics, Epistemology, and Politics of Richard Rorty._ New York and London: Routledge.
-* Malachowski, A. R. (ed.), 1990, _Reading Rorty: Critical Responses to Philosophy and the Mirror of Nature and Beyond_, Oxford and Cambridge, MA: Blackwell.
+* Auxier, R., E. Kramer, and K. P. Skowroński (eds.), 2020, *Rorty and Beyond*, Lanham, MD: Lexington Books.
+* Dieleman, S., D. E. McClean, and P. Showler (eds.), 2022, *The Ethics of Richard Rorty: Moral Communities, Self-Transformation, and Imagination*, New York and London: Routledge.
+* Goodson, J. L., 2020, *The Dark Years? Philosophy, Politics, and the Problem of Predictions,* Eugene, OR: Cascade Books.
+* Goodson, J. L., and B. E. Stone (eds.), 2012, *Rorty and the Religious: Christian Engagements with a Secular Philosopher*, Eugene, OR: Wipf and Stock Publishers.
+* Gröschner, A., C. Koopman, and M. Sandbothe (eds.), 2013, *Richard Rorty: From Pragmatist Philosophy to Cultural Politics*, London and New York: Bloomsbury.
+* Guignon, C., and D. R. Hiley (eds.), 2003, *Richard Rorty*, Cambridge: Cambridge University Press.
+* Janack, M. (ed.), 2010, *Feminist Interpretations of Richard Rorty*, University Park: The Pennsylvania State Press.
+* Langsdorf, L., and A. R. Smith (eds.), 1995, *Recovering Pragmatism’s Voice: The Classical Tradition, Rorty, and the Philosophy of Communication*, Albany: State University of New York Press.
+* Marchetti, G. (ed.), 2022, *The Ethics, Epistemology, and Politics of Richard Rorty.* New York and London: Routledge.
+* Malachowski, A. R. (ed.), 1990, *Reading Rorty: Critical Responses to Philosophy and the Mirror of Nature and Beyond*, Oxford and Cambridge, MA: Blackwell.
 * ––– (ed.), 2020, _A Companion to Rorty_k Hoboken, NJ: John Wiley and Sons Ltd.
-* Müller, M. (ed.), 2019, _Handbuch Richard Rorty_, Wiesbaden: Springer VS.
-* Peters, M. A., and P. Ghiraldelli, Jr. (eds.), 2002, _Richard Rorty: Education, Philosophy, and Politics_, Lanham, MD: Rowman & Littlefield.
-* Pettegrew, J. (ed.), 2000, _A Pragmatist’s Progress?: Richard Rorty and American Intellectual History_, Lanham, MD: Roman & Littlefield.
-* Rondel, D. (ed.), 2021, _The Cambridge Companion to Rorty._ New York: Cambridge University Press.
-* Saatkamp, H. J. (ed.), 1995, _Rorty and Pragmatism: The Philosopher Responds to His Critics_, Nashville, TN: Vanderbilt University Press.
+* Müller, M. (ed.), 2019, *Handbuch Richard Rorty*, Wiesbaden: Springer VS.
+* Peters, M. A., and P. Ghiraldelli, Jr. (eds.), 2002, *Richard Rorty: Education, Philosophy, and Politics*, Lanham, MD: Rowman & Littlefield.
+* Pettegrew, J. (ed.), 2000, *A Pragmatist’s Progress?: Richard Rorty and American Intellectual History*, Lanham, MD: Roman & Littlefield.
+* Rondel, D. (ed.), 2021, *The Cambridge Companion to Rorty.* New York: Cambridge University Press.
+* Saatkamp, H. J. (ed.), 1995, *Rorty and Pragmatism: The Philosopher Responds to His Critics*, Nashville, TN: Vanderbilt University Press.
 
 #### Monographs about Rorty
 
-* Arcilla, R. V., 1995, _For the Love of Perfection: Richard Rorty and Liberal Education_, New York and London: Routledge.
-* Bacon, M, 2007, _Richard Rorty: Pragmatism and Political Liberalism_, Lanham and Plymouth: Lexington Books.
-* Calcaterra, R. M., 2019, _Contingency and Normativity: The Challenges of Richard Rorty,_ Boston: Brill-Rodopi.
-* Calder, G., 2007, _Rorty’s Politics of Redescription_, Cardiff: University of Wales Press.
-* Casey, M. A., 2002, _Meaninglessness: The Solutions of Nietzsche, Freud, and Rorty_, Lanham: Lexington Books.
-* Chin, C., 2018, _The Practice of Political Theory: Rorty and Continental Thought_, New York: Columbia University Press.
-* Curtis, W. B., 2015, _Defending Rorty: Pragmatism and Liberal Virtue_, Cambridge: Cambridge University Press.
-* Farrell, F. B., 1994, _Subjectivity, Realism and Postmodernism: The Recovery of the World in Recent Philosophy_, Cambridge: Cambridge University Press.
-* Gander, E. M., 1999, _The Last Conceptual Revolution: A Critique of Richard Rorty’s Political Philosophy_, Albany: State University of New York Press, 1999.
-* Gascoigne, N., 2008, _Richard Rorty_, Cambridge and Malden: Polity.
-* Geras, N., 1995, _Solidarity in the Conversation of Humankind: The Ungroundable Liberalism of Richard Rorty_, London and New York: Verso.
-* Gross, N., 2008, _Richard Rorty: The Making of an American Philosopher_, Chicago and London: The University of Chicago Press.
-* Hall, D. L., 1994, _Richard Rorty: Poet and Prophet of the New Pragmatism_, Albany, NY: State University of New York Press.
-* Kolenda, K., 1990, _Rorty’s Humanistic Pragmatism: Philosophy Democratized_, Tampa: University of South Florida Press.
-* Kuipers, R. A., 1997, _Solidarity and the Stranger: Themes in the Social Philosophy of Richard Rorty_, Lanham: University Press of America.
-* –––, 2013, _Richard Rorty_, London and New York: Bloomsbury.
-* Llanera, T., 2020, _Richard Rorty: Outgrowing Modern Nihilism_, Palgrave MacMillan.
-* Malachowski, A. R., 2002, _Richard Rorty_, Princeton: Princeton University Press.
-* Voparil, C. J., 2006, _Richard Rorty: Politics and Vision_, Lanham: Rowman and Littlefield.
-* –––, 2022, _Reconstructing Pragmatism: Richard Rorty and the Classical Pragmatists._ New York: Oxford University Press.
+* Arcilla, R. V., 1995, *For the Love of Perfection: Richard Rorty and Liberal Education*, New York and London: Routledge.
+* Bacon, M, 2007, *Richard Rorty: Pragmatism and Political Liberalism*, Lanham and Plymouth: Lexington Books.
+* Calcaterra, R. M., 2019, *Contingency and Normativity: The Challenges of Richard Rorty,* Boston: Brill-Rodopi.
+* Calder, G., 2007, *Rorty’s Politics of Redescription*, Cardiff: University of Wales Press.
+* Casey, M. A., 2002, *Meaninglessness: The Solutions of Nietzsche, Freud, and Rorty*, Lanham: Lexington Books.
+* Chin, C., 2018, *The Practice of Political Theory: Rorty and Continental Thought*, New York: Columbia University Press.
+* Curtis, W. B., 2015, *Defending Rorty: Pragmatism and Liberal Virtue*, Cambridge: Cambridge University Press.
+* Farrell, F. B., 1994, *Subjectivity, Realism and Postmodernism: The Recovery of the World in Recent Philosophy*, Cambridge: Cambridge University Press.
+* Gander, E. M., 1999, *The Last Conceptual Revolution: A Critique of Richard Rorty’s Political Philosophy*, Albany: State University of New York Press, 1999.
+* Gascoigne, N., 2008, *Richard Rorty*, Cambridge and Malden: Polity.
+* Geras, N., 1995, *Solidarity in the Conversation of Humankind: The Ungroundable Liberalism of Richard Rorty*, London and New York: Verso.
+* Gross, N., 2008, *Richard Rorty: The Making of an American Philosopher*, Chicago and London: The University of Chicago Press.
+* Hall, D. L., 1994, *Richard Rorty: Poet and Prophet of the New Pragmatism*, Albany, NY: State University of New York Press.
+* Kolenda, K., 1990, *Rorty’s Humanistic Pragmatism: Philosophy Democratized*, Tampa: University of South Florida Press.
+* Kuipers, R. A., 1997, *Solidarity and the Stranger: Themes in the Social Philosophy of Richard Rorty*, Lanham: University Press of America.
+* –––, 2013, *Richard Rorty*, London and New York: Bloomsbury.
+* Llanera, T., 2020, *Richard Rorty: Outgrowing Modern Nihilism*, Palgrave MacMillan.
+* Malachowski, A. R., 2002, *Richard Rorty*, Princeton: Princeton University Press.
+* Voparil, C. J., 2006, *Richard Rorty: Politics and Vision*, Lanham: Rowman and Littlefield.
+* –––, 2022, *Reconstructing Pragmatism: Richard Rorty and the Classical Pragmatists.* New York: Oxford University Press.
 
 #### Citations and Other Relevant Works
 
-* Alexander, T. M., 1987, _John Dewey’s Theory of Art, Experience, and Nature: The Horizons of Feeling_, Albany: State University of New York Press.
-* Brodsky, G., 1982, “Rorty’s Interpretation of Pragmatism,” _Transactions of the Charles S. Peirce Society_, 18(4): 311–337.
-* Campbell, J., 1984, “Rorty’s Use of Dewey” _Southern Journal of Philosophy_, 22(2): 175–187.
-* Edel, A., 1985, “A Missing Dimension in Rorty’s Use of Pragmatism,” _Transactions of the Charles S. Peirce Society_, 21(1): 21–37.
-* Gouinlock, J., 1995, “What is the Legacy of Instrumentalism? Rorty’s Interpretation of Dewey” in H. J. Saatkamp (ed.), _Rorty and Pragmatism_, Nashville, TN: Vanderbilt University Press, pp. 72–90.
-* Haack, S., 1993, _Evidence and Inquiry: Towards Reconstruction in Epistemology_, Oxford and Cambridge, MA: Blackwell.
-* –––, 1998, _Manifesto of a Passionate Moderate_, Chicago and London: The University of Chicago Press.
-* Lavine, T. Z., 1995, “America & the Contestations of Modernity: Bentley, Dewey, Rorty,” in H. J. Saatkamp (ed.), _Rorty and Pragmatism_, Nashville, TN: Vanderbilt University Press, pp. 37–49.
-* McDowell, J., 1994, _Mind and World_, Cambridge, MA: Harvard University Press.
-* Misak, C., 2013, _The American Pragmatists_, Oxford and New York: Oxford University Press.
-* Quine, W. V. O., 1951 \[1953/1980], “Two Dogmas of Empiricism,” _Philosophical Review_, 60: 20–43; reprinted in _From a Logical Point of View_, 1953 (2nd Edition, 1980), Cambridge, MA: Harvard University Press, pp. 20–46.
-* Sleeper, R.W., 1986, _The Necessity of Pragmatism_, New Haven and London: Yale University Press.
+* Alexander, T. M., 1987, *John Dewey’s Theory of Art, Experience, and Nature: The Horizons of Feeling*, Albany: State University of New York Press.
+* Brodsky, G., 1982, “Rorty’s Interpretation of Pragmatism,” *Transactions of the Charles S. Peirce Society*, 18(4): 311–337.
+* Campbell, J., 1984, “Rorty’s Use of Dewey” *Southern Journal of Philosophy*, 22(2): 175–187.
+* Edel, A., 1985, “A Missing Dimension in Rorty’s Use of Pragmatism,” *Transactions of the Charles S. Peirce Society*, 21(1): 21–37.
+* Gouinlock, J., 1995, “What is the Legacy of Instrumentalism? Rorty’s Interpretation of Dewey” in H. J. Saatkamp (ed.), *Rorty and Pragmatism*, Nashville, TN: Vanderbilt University Press, pp. 72–90.
+* Haack, S., 1993, *Evidence and Inquiry: Towards Reconstruction in Epistemology*, Oxford and Cambridge, MA: Blackwell.
+* –––, 1998, *Manifesto of a Passionate Moderate*, Chicago and London: The University of Chicago Press.
+* Lavine, T. Z., 1995, “America & the Contestations of Modernity: Bentley, Dewey, Rorty,” in H. J. Saatkamp (ed.), *Rorty and Pragmatism*, Nashville, TN: Vanderbilt University Press, pp. 37–49.
+* McDowell, J., 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
+* Misak, C., 2013, *The American Pragmatists*, Oxford and New York: Oxford University Press.
+* Quine, W. V. O., 1951 \[1953/1980], “Two Dogmas of Empiricism,” *Philosophical Review*, 60: 20–43; reprinted in *From a Logical Point of View*, 1953 (2nd Edition, 1980), Cambridge, MA: Harvard University Press, pp. 20–46.
+* Sleeper, R.W., 1986, *The Necessity of Pragmatism*, New Haven and London: Yale University Press.
 
 ## Academic Tools
 
@@ -329,5 +329,5 @@ _首次发表于 2001 年 2 月 3 日；实质性修订于 2023 年 6 月 22 日
 [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [Dewey, John](https://plato.stanford.edu/entries/dewey/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [naturalism](https://plato.stanford.edu/entries/naturalism/) | [postmodernism](https://plato.stanford.edu/entries/postmodernism/) | [pragmatism](https://plato.stanford.edu/entries/pragmatism/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [Sellars, Wilfrid](https://plato.stanford.edu/entries/sellars/) | [truth: pragmatic theory of](https://plato.stanford.edu/entries/truth-pragmatic/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Bjørn Ramberg](http://www.hf.uio.no/csmn/english/people/core-group/bjoerntr/) <[_b.t.ramberg@ifikk.uio.no_](mailto:b%2et%2eramberg%40ifikk%2euio%2eno)>\
-Susan Dieleman <[_sdielem@siue.edu_](mailto:sdielem%40siue%2eedu)>
+[Bjørn Ramberg](http://www.hf.uio.no/csmn/english/people/core-group/bjoerntr/) <[*b.t.ramberg@ifikk.uio.no*](mailto:b%2et%2eramberg%40ifikk%2euio%2eno)>\
+Susan Dieleman <[*sdielem@siue.edu*](mailto:sdielem%40siue%2eedu)>

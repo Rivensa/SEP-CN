@@ -311,7 +311,6 @@ Other unthinkable sorites arguments use predicates that can only be grasped by i
 
 心理想象似乎也是模糊的。当我长时间蹲下后突然站起来时，我会“眼前闪烁星星”。我可以感觉到有超过十个这样的幻觉光点，但我无法确定有多少个。这种思维的不确定性是否可以归结为语言的不确定性？为什么不是反过来呢？语言是人类心理的产物。因此，将语言仅视为可访问的模糊中间媒介似乎是自然而然的。
 
-
 ## Bibliography
 
 * Asgeirsson, Hrafn, 2020, *The Nature and Value of Vagueness in the Law*. Oxford: Hart Publishing.

@@ -1,6 +1,6 @@
 # 科学进步 scientific progress (Ilkka Niiniluoto)
 
-_首次发表于 2002 年 10 月 1 日；实质性修订于 2024 年 1 月 22 日_
+*首次发表于 2002 年 10 月 1 日；实质性修订于 2024 年 1 月 22 日*
 
 科学通常通过其进步性与人类文化的其他领域区分开来：与艺术、宗教、哲学、道德和政治相比，科学存在明确的标准或规范性准则，用于确定科学中的改进和进步。例如，科学史学家乔治·萨顿（George Sarton）认为，“积极知识的获取和系统化是唯一真正累积和进步的人类活动”，“进步在科学领域以外的领域中没有明确和无可置疑的意义”（Sarton 1936）。然而，在 20 世纪 60 年代和 70 年代，许多科学哲学家有效地挑战了传统的科学知识累积观点，从而也对科学领域的进步概念提出了质疑。关于进步的规范概念的辩论同时涉及科学目标和目标的价值问题。哲学分析的任务是考虑对问题的替代答案：科学中的进步是什么意思？这个概念性问题可以通过方法论问题得到补充：我们如何认识科学中的进步发展？相对于进步的定义和最佳指标的解释，我们可以研究事实问题：科学在多大程度上以及在哪些方面是进步的？
 
@@ -232,149 +232,149 @@ Hanson, Popper, Kuhn, and Feyerabend 都认同所有观察都是理论负荷的�
 
 ## Bibliography
 
-* Alai, M., 2014, “Novel Predictions and the No Miracle Argument ,” _Erkenntnis_, 79: 297–326.
-* Aliseda, A., 2006, _Abductive Reasoning_, Dordrecht: Springer.
-* Almeder, R., 1983, “Scientific Progress and Peircean Utopian Realism,” _Erkenntnis_, 20: 253–280.
-* Ankeny, R. and Leonelli, S., 2016, “Repertoires: A Post-Kuhnian Perspective on Scientific Change and Collaborative Research,” _Studies in the History and the Philosophy of Science_ (Part A), 60: 18–28.
-* Aronson, J.L., Harré, R. and Way, E.C., 1994, _Realism Rescued: How Scientific Progress is Possible_, London: Duckworth.
+* Alai, M., 2014, “Novel Predictions and the No Miracle Argument ,” *Erkenntnis*, 79: 297–326.
+* Aliseda, A., 2006, *Abductive Reasoning*, Dordrecht: Springer.
+* Almeder, R., 1983, “Scientific Progress and Peircean Utopian Realism,” *Erkenntnis*, 20: 253–280.
+* Ankeny, R. and Leonelli, S., 2016, “Repertoires: A Post-Kuhnian Perspective on Scientific Change and Collaborative Research,” *Studies in the History and the Philosophy of Science* (Part A), 60: 18–28.
+* Aronson, J.L., Harré, R. and Way, E.C., 1994, *Realism Rescued: How Scientific Progress is Possible*, London: Duckworth.
 * Balzer, W., 2000, “On Approximate Reduction,” in Jonkisz and Koj (2000), pp. 153–170.
-* Balzer, W., Pearce, D., and Schmidt, H.J. (eds.), 1984, _Reduction in Science: Structure, Examples, Philosophical Problems_, Dordrecht: D. Reidel.
-* Balzer, W., Moulines, C.U., and Sneed, J.D., 1987, _An Architectonic for Science_, Dordrecht: D. Reidel.
-* Barrett, J. A., 2008, “Approximate Truth and Descriptive Nesting,” _Erkenntnis_, 68: 213–224.
-* Bird, A., 2007, “What Is Scientific Progress?” _Noûs_, 41: 92–117.
-* –––, 2008, “Scientific Progress as Accumulation of Knowledge: A Reply to Rowbottom,” _Studies in History and Philosophy of Science_, 39: 279–281.
-* –––, 2015, “Scientific Progress,” in P. Humphreys (ed.), _The Oxford Handbook of Philosophy of Science_, Oxford: Oxford University Press, pp. 544–563.
-* –––, 2022, _Knowing Science_, Oxford: Oxford University Press.
-* –––, 2023, “The Epistemic Approach: Scientific Progress as the Accumulation of Knowledge,” in Y. Shan (ed.), _New Philosophical Perspectives on Scientific Progress_, London: Routledge, pp. 13–26.
-* Böhme, G., 1977, “Models for the Development of Science,” in I. Spiegel-Rösing and D. de Solla Price (eds.), _Science, Technology, and Society_, London: Sage Publications, pp. 319–351.
-* Callebaut, W. and Pinxten, R. (eds.), 1987, _Evolutionary Epistemology_, Dordrecht: D. Reidel.
-* Cartwright, N., 1999, _The Dappled World: A Study of the Boundaries of Science_, Cambridge: Cambridge University Press.
-* Cartwright, N., Hardie, J., Montuschi, E., Soleiman, M. and Thresher, A. C., 2022, _The Tangle of Science: Reliability Beyond Method, Rigour, and Objectivity_, Oxford: Oxford University Press.
-* Chang, H., 2004, _Inventing Temperature: Measurement and Scientific Progress_, Oxford: Oxford University Press.
-* –––, 2012, _Is Water H2O? Evidence, Realism and Pluralism_, Dordrecht: Springer.
-* –––, 2022, _Realism for Realistic People: A New Pragmatist Philosophy of Science_, Cambridge: Cambridge University Press.
-* Cevolani, G. and Tambolo, L., 2013. “Progress as Approximation to the Truth: A Defence of the Verisimilitudinarian Approach,” _Erkenntnis_, 78: 921– 935.
-* Chotkowski La Follette, M. (ed.), 1982, _Quality in Science_, Cambridge, Mass.: The MIT Press.
-* Dilworth, C., 1981, _Scientific Progress: A Study Concerning the Nature of the Relation Between Successive Scientific Theories_, Dordrecht: Reidel.
-* Dellsén, F., 2016, “Scientific Progress: Knowledge versus Understanding,” _Studies in History and Philosophy of Science_ 56: 72–83.
-* –––, 2018a, “Scientific Progress, Understanding, and Knowledge: Reply to Park,” _Journal ofr General Philosophy of Science_, 49: 451–459.
-* –––, 2018b, “Scientific Progress: Four Accounts,” _Philosophy Compass_, 13: e12525.
-* –––, 2023, “The Noetic Approach: Scientific Progress as Enabling Understanding,” in Y. Shan (ed.), _New Philosophical Perspectives on Scientific Progress_, London: Routledge, pp. 62–81.
-* Donovan, A., Laudan, L., and Laudan, R. (eds.), 1988, _Scrutinizing Science: Empirical Studies of Scientific Change_, Dordrecht: Kluwer.
-* Doppelt, G., 1983, “Relativism and Recent Pragmatic Conceptions of Scientific Rationality,” in N. Rescher (ed.), _Scientific Explanation and Understanding_, Lanham: University Press of America, pp. 107–142.
-* Douglas, H., 2014, “Pure Science and the Problem of Progress,” _Studies in History and Philosophy of Science_ (Part A), 46: 55–63.
-* Duhem, P., 1954, _The Aim and Structure of Physical Theory_, Princeton: Princeton University Press.
-* Dupré, J., 1993, _The Disorder of Things: Metaphysical Foundations of the Disunity of Science_, Cambridge, MA: Harvard University Press.
-* Elkana, Y., _et al_. (eds.), 1978, _Toward a Metric of Science: The Advent of Science Indicators_, New York: Wiley and Sons.
-* Feyerabend, P., 1962, “Explanation, Reduction, and Empiricism,” in H. Feigl and G. Maxwell (eds.), _Minnesota Studies in the Philosophy of Science_, vol. II. Minneapolis: University of Minnesota Press, pp. 28–97.
-* –––, 1975 \[1993], _Against Method: Outline of an Anarchistic Theory of Knowledge_, London: New Left Books; third edition, London: Verso, 1993.
-* –––, 1984, _Wissenschaft als Kunst_, Frankfurt am Main: Suhrkamp
-* Foster, M.H.; Martin, M.L. (eds.), 1966, _Probability, Confirmation,and Simplicity_, New York: The Odyssey Press.
-* Garcia-Lapena, A., 2023, “Truthlikeness for Quantitative Deerministic Laws,” _The British Journal for the Philosophy of Science_, 74: 649–679.
-* Gärdenfors, P., 1988, _Knowledge in Flux: Modelling the Dynamics of Epistemic States_, Cambridge, MA: The MIT Press.
-* Gavroglu, K., Goudaroulis, Y. and Nicolacopoulos, P. (eds.), 1989, _Imre Lakatos and Theories of Scientific Change_, Dordrecht: Kluwer Academic Publishers.
-* Hacking, I. (ed.), 1981, _Scientific Revolutions_, Oxford: Oxford University Press.
-* Hanson, N.R., 1958, _Patterns of Discovery_, Cambridge: Cambridge University Press.
-* Harré, R. (ed.), 1975, _Problems of Scientific Revolutions: Progress and Obstacles to Progress in the Sciences_, Oxford: Oxford University Press.
-* Hempel, C.G., 1965, _Aspects of Scientific Explanation_, New York: The Free Press.
-* Hintikka, J., 1968, “The Varieties of Information and Scientific Explanation,” in B. van Rootselaar and J.E. Staal (eds.), _Logic, Methodology and Philosophy of Science III_, Amsterdam: North-Holland, pp. 151-171.
-* Howson, C. (ed.), 1976, _Method and Appraisal in the Physical Sciences: The Critical Background to Modern Science, 1800–1905_, Cambridge: Cambridge University Press.
-* Hoyningen-Huene, P. and Sankey, H. (eds.), 2001, _Incommensurability and Related Matters_, Dordrecht: Kluwer.
-* Hull, D.L., 1988, _Science as a Process: Evolutionary Account of the Social and Conceptual Development of Science_, Chicago: The University of Chicago Press.
+* Balzer, W., Pearce, D., and Schmidt, H.J. (eds.), 1984, *Reduction in Science: Structure, Examples, Philosophical Problems*, Dordrecht: D. Reidel.
+* Balzer, W., Moulines, C.U., and Sneed, J.D., 1987, *An Architectonic for Science*, Dordrecht: D. Reidel.
+* Barrett, J. A., 2008, “Approximate Truth and Descriptive Nesting,” *Erkenntnis*, 68: 213–224.
+* Bird, A., 2007, “What Is Scientific Progress?” *Noûs*, 41: 92–117.
+* –––, 2008, “Scientific Progress as Accumulation of Knowledge: A Reply to Rowbottom,” *Studies in History and Philosophy of Science*, 39: 279–281.
+* –––, 2015, “Scientific Progress,” in P. Humphreys (ed.), *The Oxford Handbook of Philosophy of Science*, Oxford: Oxford University Press, pp. 544–563.
+* –––, 2022, *Knowing Science*, Oxford: Oxford University Press.
+* –––, 2023, “The Epistemic Approach: Scientific Progress as the Accumulation of Knowledge,” in Y. Shan (ed.), *New Philosophical Perspectives on Scientific Progress*, London: Routledge, pp. 13–26.
+* Böhme, G., 1977, “Models for the Development of Science,” in I. Spiegel-Rösing and D. de Solla Price (eds.), *Science, Technology, and Society*, London: Sage Publications, pp. 319–351.
+* Callebaut, W. and Pinxten, R. (eds.), 1987, *Evolutionary Epistemology*, Dordrecht: D. Reidel.
+* Cartwright, N., 1999, *The Dappled World: A Study of the Boundaries of Science*, Cambridge: Cambridge University Press.
+* Cartwright, N., Hardie, J., Montuschi, E., Soleiman, M. and Thresher, A. C., 2022, *The Tangle of Science: Reliability Beyond Method, Rigour, and Objectivity*, Oxford: Oxford University Press.
+* Chang, H., 2004, *Inventing Temperature: Measurement and Scientific Progress*, Oxford: Oxford University Press.
+* –––, 2012, *Is Water H2O? Evidence, Realism and Pluralism*, Dordrecht: Springer.
+* –––, 2022, *Realism for Realistic People: A New Pragmatist Philosophy of Science*, Cambridge: Cambridge University Press.
+* Cevolani, G. and Tambolo, L., 2013. “Progress as Approximation to the Truth: A Defence of the Verisimilitudinarian Approach,” *Erkenntnis*, 78: 921– 935.
+* Chotkowski La Follette, M. (ed.), 1982, *Quality in Science*, Cambridge, Mass.: The MIT Press.
+* Dilworth, C., 1981, *Scientific Progress: A Study Concerning the Nature of the Relation Between Successive Scientific Theories*, Dordrecht: Reidel.
+* Dellsén, F., 2016, “Scientific Progress: Knowledge versus Understanding,” *Studies in History and Philosophy of Science* 56: 72–83.
+* –––, 2018a, “Scientific Progress, Understanding, and Knowledge: Reply to Park,” *Journal ofr General Philosophy of Science*, 49: 451–459.
+* –––, 2018b, “Scientific Progress: Four Accounts,” *Philosophy Compass*, 13: e12525.
+* –––, 2023, “The Noetic Approach: Scientific Progress as Enabling Understanding,” in Y. Shan (ed.), *New Philosophical Perspectives on Scientific Progress*, London: Routledge, pp. 62–81.
+* Donovan, A., Laudan, L., and Laudan, R. (eds.), 1988, *Scrutinizing Science: Empirical Studies of Scientific Change*, Dordrecht: Kluwer.
+* Doppelt, G., 1983, “Relativism and Recent Pragmatic Conceptions of Scientific Rationality,” in N. Rescher (ed.), *Scientific Explanation and Understanding*, Lanham: University Press of America, pp. 107–142.
+* Douglas, H., 2014, “Pure Science and the Problem of Progress,” *Studies in History and Philosophy of Science* (Part A), 46: 55–63.
+* Duhem, P., 1954, *The Aim and Structure of Physical Theory*, Princeton: Princeton University Press.
+* Dupré, J., 1993, *The Disorder of Things: Metaphysical Foundations of the Disunity of Science*, Cambridge, MA: Harvard University Press.
+* Elkana, Y., *et al*. (eds.), 1978, *Toward a Metric of Science: The Advent of Science Indicators*, New York: Wiley and Sons.
+* Feyerabend, P., 1962, “Explanation, Reduction, and Empiricism,” in H. Feigl and G. Maxwell (eds.), *Minnesota Studies in the Philosophy of Science*, vol. II. Minneapolis: University of Minnesota Press, pp. 28–97.
+* –––, 1975 \[1993], *Against Method: Outline of an Anarchistic Theory of Knowledge*, London: New Left Books; third edition, London: Verso, 1993.
+* –––, 1984, *Wissenschaft als Kunst*, Frankfurt am Main: Suhrkamp
+* Foster, M.H.; Martin, M.L. (eds.), 1966, *Probability, Confirmation,and Simplicity*, New York: The Odyssey Press.
+* Garcia-Lapena, A., 2023, “Truthlikeness for Quantitative Deerministic Laws,” *The British Journal for the Philosophy of Science*, 74: 649–679.
+* Gärdenfors, P., 1988, *Knowledge in Flux: Modelling the Dynamics of Epistemic States*, Cambridge, MA: The MIT Press.
+* Gavroglu, K., Goudaroulis, Y. and Nicolacopoulos, P. (eds.), 1989, *Imre Lakatos and Theories of Scientific Change*, Dordrecht: Kluwer Academic Publishers.
+* Hacking, I. (ed.), 1981, *Scientific Revolutions*, Oxford: Oxford University Press.
+* Hanson, N.R., 1958, *Patterns of Discovery*, Cambridge: Cambridge University Press.
+* Harré, R. (ed.), 1975, *Problems of Scientific Revolutions: Progress and Obstacles to Progress in the Sciences*, Oxford: Oxford University Press.
+* Hempel, C.G., 1965, *Aspects of Scientific Explanation*, New York: The Free Press.
+* Hintikka, J., 1968, “The Varieties of Information and Scientific Explanation,” in B. van Rootselaar and J.E. Staal (eds.), *Logic, Methodology and Philosophy of Science III*, Amsterdam: North-Holland, pp. 151-171.
+* Howson, C. (ed.), 1976, *Method and Appraisal in the Physical Sciences: The Critical Background to Modern Science, 1800–1905*, Cambridge: Cambridge University Press.
+* Hoyningen-Huene, P. and Sankey, H. (eds.), 2001, *Incommensurability and Related Matters*, Dordrecht: Kluwer.
+* Hull, D.L., 1988, *Science as a Process: Evolutionary Account of the Social and Conceptual Development of Science*, Chicago: The University of Chicago Press.
 * Jonkisz, A., 2000, “On Relative Progress in Science,” in Jonkisz and Koj (2000), pp. 199–234.
-* Jonkisz, A. and Koj, L. (eds.), 2000, _On Comparing and Evaluating Scientific Theories_, Amsterdam: Rodopi.
-* Kaila, E., 2014, _Human Knowledge: A Classic Statement of Logical Empiricism_, Chicago: Open Court
-* Kemeny, J. and Oppenheim, P., 1956, “On Reduction,” _Philosophical Studies_, 7: 6–19.
-* Kitcher, P., 1993, _The Advancement of Science: Science without Legend, Objectivity without Illusions_, Oxford: Oxford University Press.
-* Kitcher, P., 2001, _Science, Truth, and Democracy_, Oxford: Oxford University Press.
-* Kleiner, S.A., 1993, _The Logic of Discovery: A Theory of the Rationality of Scientific Research_, Dordrecht: Kluwer.
-* Krajewski, W., 1977, _Correspondence Principle and the Growth of Knowledge_, Dordrecht: D. Reidel.
-* Kuhn, T.S., 1970, _The Structure of Scientific Revolutions_, Chicago: University of Chicago Press, 1962. 2nd enlarged ed.
-* –––, 1977, _The Essential Tension_, Chicago: The University of Chicago Press.
-* Kuipers, T., 2000, _From Instrumentalism to Constructive Realism_, Dordrecht: D. Reidel.
-* –––, 2019, _Nomic Truth Approximation Revisited_, Cham: Springer.
-* Lakatos, I. and Musgrave, A. (eds.), 1970, _Criticism and the Growth of Knowledge_, Cambridge: Cambridge University Press.
-* Laudan, L., 1977, _Progress and Its Problems: Toward a Theory of Scientific Growth_, London: Routledge and Kegan Paul.
-* –––, 1984a, _Science and Values: The Aims of Science and Their Role in Scientific Debate_, Berkeley: University of California Press.
-* –––, 1984b, “Explaining the Success of Science: Beyond Epistemic Realism and Relativism,” in J.T. Cushing, C.F. Delaney, and G.M. Gutting (eds.), _Science and Reality_, Notre Dame, Indiana: University of Notre Dame Press, pp. 83–105.
-* –––, 1987, “Progress or Rationality? The Prospects for Normative Naturalism,” _American Philosophical Quarterly_ 24, 19–31.
-* –––, 1990, _Science and Relativism_, Berkeley: The University of California Press.
-* Laudan, L., _et al_., 1986, “Scientific Change: Philosophical Models and Historical Research,” _Synthese_, 69: 141–224.
-* Leplin, J. (ed.), 1984, _Scientific Realism_, Berkeley: University of California Press.
-* –––, 1997, _A Novel Defense of Scientific Realism_, Cambridge: Cambridge University Press.
-* Levi, I., 1967, _Gambling With Truth: An Essay on Induction and the Aims of Science_, New York: Harper & Row; 2nd edition, Cambridge, MA: The MIT Press, 1973.
-* –––, 1980, _The Enterprise of Knowledge_, Cambridge, MA: The MIT Press.
-* –––, 1985, “Messianic vs Myopic Realism,” in P.D. Asquith and P. Kitcher (eds.), _PSA 1984_ (Volume 2), East Lansing, MI: Philosophy of Science Association, pp. 617–636.
-* Lombrozo, T., 2016, “Explanatory Preference Shape Learning and Inference,” _Trends in Cognitive Sciences_, 20: 748–759.
-* Longino, H., 2002, _The Fate of Knowledge_, Princeton: Princeton University Press.
-* Martin, B. and Irvine, J., 1983, “Assessing Basic Research: Some Partial Indicators of Scientific Progress in Radio Astronomy,” _Research Policy_, 12: 61–90.
-* Maxwell, N., 2017, _Understanding Scientific Progress: Aim-Oriented Empiricism_, St. Paul, MN: Paragon House.
-* Mizrahi, M., 2013, “What is Scientific Progress? Lessons from Scientific Practice,” _Journal of General Philosophy of Science_, 44: 375–390.
+* Jonkisz, A. and Koj, L. (eds.), 2000, *On Comparing and Evaluating Scientific Theories*, Amsterdam: Rodopi.
+* Kaila, E., 2014, *Human Knowledge: A Classic Statement of Logical Empiricism*, Chicago: Open Court
+* Kemeny, J. and Oppenheim, P., 1956, “On Reduction,” *Philosophical Studies*, 7: 6–19.
+* Kitcher, P., 1993, *The Advancement of Science: Science without Legend, Objectivity without Illusions*, Oxford: Oxford University Press.
+* Kitcher, P., 2001, *Science, Truth, and Democracy*, Oxford: Oxford University Press.
+* Kleiner, S.A., 1993, *The Logic of Discovery: A Theory of the Rationality of Scientific Research*, Dordrecht: Kluwer.
+* Krajewski, W., 1977, *Correspondence Principle and the Growth of Knowledge*, Dordrecht: D. Reidel.
+* Kuhn, T.S., 1970, *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press, 1962. 2nd enlarged ed.
+* –––, 1977, *The Essential Tension*, Chicago: The University of Chicago Press.
+* Kuipers, T., 2000, *From Instrumentalism to Constructive Realism*, Dordrecht: D. Reidel.
+* –––, 2019, *Nomic Truth Approximation Revisited*, Cham: Springer.
+* Lakatos, I. and Musgrave, A. (eds.), 1970, *Criticism and the Growth of Knowledge*, Cambridge: Cambridge University Press.
+* Laudan, L., 1977, *Progress and Its Problems: Toward a Theory of Scientific Growth*, London: Routledge and Kegan Paul.
+* –––, 1984a, *Science and Values: The Aims of Science and Their Role in Scientific Debate*, Berkeley: University of California Press.
+* –––, 1984b, “Explaining the Success of Science: Beyond Epistemic Realism and Relativism,” in J.T. Cushing, C.F. Delaney, and G.M. Gutting (eds.), *Science and Reality*, Notre Dame, Indiana: University of Notre Dame Press, pp. 83–105.
+* –––, 1987, “Progress or Rationality? The Prospects for Normative Naturalism,” *American Philosophical Quarterly* 24, 19–31.
+* –––, 1990, *Science and Relativism*, Berkeley: The University of California Press.
+* Laudan, L., *et al*., 1986, “Scientific Change: Philosophical Models and Historical Research,” *Synthese*, 69: 141–224.
+* Leplin, J. (ed.), 1984, *Scientific Realism*, Berkeley: University of California Press.
+* –––, 1997, *A Novel Defense of Scientific Realism*, Cambridge: Cambridge University Press.
+* Levi, I., 1967, *Gambling With Truth: An Essay on Induction and the Aims of Science*, New York: Harper & Row; 2nd edition, Cambridge, MA: The MIT Press, 1973.
+* –––, 1980, *The Enterprise of Knowledge*, Cambridge, MA: The MIT Press.
+* –––, 1985, “Messianic vs Myopic Realism,” in P.D. Asquith and P. Kitcher (eds.), *PSA 1984* (Volume 2), East Lansing, MI: Philosophy of Science Association, pp. 617–636.
+* Lombrozo, T., 2016, “Explanatory Preference Shape Learning and Inference,” *Trends in Cognitive Sciences*, 20: 748–759.
+* Longino, H., 2002, *The Fate of Knowledge*, Princeton: Princeton University Press.
+* Martin, B. and Irvine, J., 1983, “Assessing Basic Research: Some Partial Indicators of Scientific Progress in Radio Astronomy,” *Research Policy*, 12: 61–90.
+* Maxwell, N., 2017, *Understanding Scientific Progress: Aim-Oriented Empiricism*, St. Paul, MN: Paragon House.
+* Mizrahi, M., 2013, “What is Scientific Progress? Lessons from Scientific Practice,” *Journal of General Philosophy of Science*, 44: 375–390.
 * Moulines, C.U., 2000, “Is There Genuinely Scientific Progress?,” in Jonkisz and Koj, 173–197.
-* Mulkay, M., 1975, “Three Models of Scientific Development,” _The Sociological Review_, 23: 509–526.
-* Nersessian, N., 2022, _Interdisciplinary in the Making: Models and Methods in Frontier Science_, Cambridge, MA: The MIT Press.
-* Nickles, T. (ed.), 1999, _Scientific Discovery: Case Studies_, Dordrecht: D. Reidel.
-* Niiniluoto, I., 1980, “Scientific Progress,” _Synthese_, 45: 427–464.
-* –––, 1984, _Is Science Progressive?_ Dordrecht: D. Reidel.
-* –––, 1987, _Truthlikeness_, Dordrecht: D. Reidel.
-* –––, 1995a, “Is There Progress in Science?,” in H. Stachowiak (ed.), _Pragmatik, Handbuch pragmatischen Denkens_, Band V, Hamburg: Felix Meiner Verlag, pp. 30–58.
-* –––, 1995b, “Emergence of Scientific Specialties: Six Models,” in W. Herfel _et al_. (eds.), _Theories and Models in Scientific Processes_, Amsterdam: Rodopi pp. 21–223.
-* –––, 1999a, _Critical Scientific Realism_, Oxford: Oxford University Press.
-* –––, 1999b, “Defending Abduction,” _Philosophy of Science (Proceedings)_, 66: S436–S451.
-* –––, 2011, “Revising Beliefs Towards the Truth,” _Erkenntis_, 75: 165–181.
-* –––, 2014, “Scientific Progress as Increasing Verisimilitude,” _Studies in History and Philosophy of Science_ (Part A), 75: 73–77.
-* –––, 2017, “Optimistic Realism about Scientific Progress,” _Synthese_, 194: 3291–3309.
-* –––, 2020, “Social Aspects of Scientific Knowledge,” _Synthese_, 197: 447–468.
-* Niiniluoto, I. and Tuomela, R. (eds.), 1979, _The Logic and Epistemology of Scientific Change_, Helsinki: Acta Philosophica Fennica (Volume 30).
-* Nisbet, R., 1980, _History of the Idea of Progress_, London: Heinemann.
-* Nowak, L., 1980, _The Structure of Idealization: Towards a Systematic Interpretation of the Marxian Idea of Science_, Dordrecht: D. Reidel.
-* Nowakowa, I. and Nowak, L., 2000, _The Richness of Idealization_, Amsterdam: Rodopi.
-* Oddie, G., 1986, _Likeness to Truth_, Dordrecht: D. Reidel.
-* Oddie, G. and Cevolani, G., 2022, “Truthlikeness,” _The Stanford Encyclopedia of Philosophy_ (Winter 2022 edition), Edward N. Zalta and Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/win2022/entries/truthlikeness/](https://plato.stanford.edu/archives/win2022/entries/truthlikeness/).
-* Park, S., 2017, “Does Scientific Progress Consist in Increasing Knoweledge or Understanding?,” _Journal for General Philosophy of Science_, 48: 569–579.
-* Pearce, D., 1987, _Roads to Commensurability_, Dordrecht: Reidel.
-* Pearce, D. and Rantala, V., 1984, “A Logical Study of the Correspondence Relation,” _Journal of Philosophical Logic_, 13: 47–84.
-* Pera, M., 1994, _The Discourse of Science_, Chicago: The University of Chicago Press.
-* Pestre, D., 2003, “Regimes of Knowledge Production in Society ,” _Minerva_, 41: 245–261.
-* Pitt, J.C., 1981, “Pictures, Images, and Conceptual Change: An Analysis of Wilfrid Sellars,” _Philosophy of Science_, Dordrecht: D. Reidel.
-* –––, (ed.), 1985, _Change and Progress in Modern Science_, Dordrecht: D. Reidel.
-* Popper, K., 1959, _The Logic of Scientific Discovery_, London: Hutchinson.
-* –––, 1963, _Conjectures and Refutations: The Growth of Scientific Knowledge_, London: Hutchinson.
-* –––, 1972, _Objective Knowledge: An Evolutionary Approach_, Oxford: Oxford University Press; 2nd enlarged edition, 1979.
-* Price, D. de Solla, 1963, _Little Science, Big Science_, New York: Columbia University Press.
-* Psillos, S., 1999, _Scientific Realism: How Science Tracks Truth_, London: Routledge.
-* Putnam, H., 1975, _Mind. Language, and Reality_, Cambridge: Cambridge University Press.
-* –––, 1978, _Meaning and the Moral Sciences_, London: Routledge and Kegan Paul.
-* Radnitzky, G.; Andersson, G. (eds.), 1978 _Progress and Rationality in Science_, Dordrecht-Boston: Reidel.
-* –––, (eds.), 1979, _The Structure and Development of Science_, Dordrecht: D. Reidel.
-* Radnitzky, G. and Bartley, W.W. III (eds.), 1987, _Evolutionary Epistemology, Rationality, and the Sociology of Knowledge_, Open Court, La Salle, Illinois.
-* Rantala, V., 2002, _Explanatory Translation: Beyond the Kuhnian Model of Conceptual Change_, Dordrecht: Kluwer.
-* Rheinberger, H. J., 1997, _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_, Stanford, CA: Stanford University Press.
-* Rescher, N., 1977, _Methodological Pragmatism_, Oxford: Blackwell.
-* –––, 1978, _Scientific Progress: A Philosophical Essay on the Economics of Research in Natural Science_, Oxford: Blackwell.
-* –––, 1984, _The Limits of Science_, Berkeley: The University of California Press.
-* Rowbottom, D. P., 2008, “N-rays and the Semantic View of Progress,” _Studies in History and Philosophy of Science_, 39: 277–278.
-* –––, 2015, “Scientific Progress without Increasing Verisimilitude: In Response to Niiniluoto,” _Studies in History and Philosophy of Science_, 51: 100–104.
-* –––, 2023, _Scientific Progress_, Cambridge: Cambridge University Press.
-* Saatsi, J. (ed.), 2018, _The Routledge Handbook of Scientific Realism_, London: Routledge,
-* –––, 2019, “What is Theoretical Progress in Science,” _Synthese_, 196: 611–631.
-* Sarton, G., 1936, _The Study of the History of Science_, Cambridge, MA: Harvard University Press.
-* Schäfer, W. (ed.), 1983, _Finalization in Science: The Social Orientation of Scientific Progress_, Dordrecht: Reidel.
-* Scheibe, E., 1976, “Conditions of Progress and Comparability of Theories,” in R.S. Cohen _et al_.\$$ (ed.), _Essays on Memory of Imre Lakatos_, D. Reidel, Dordrecht, pp. 547–568.
-* Schupbach, J. N. and Sprenger, J., 2011, “The Logic of Explanatory Power,” _Philosophy of Science_, 78: 105–127.
-* Schurz, G., 2011, “Structural Correspondence, Indirect Reference, and Partial Truth: Phlogiston Theory and Newtonian Mechanics,” _Synthese_, 180: 103–120.
-* –––, 2015, “Causality and Unification: How Causality Unifies Statistical Regularities,” _Theoria_, 30: 73–95.
-* Shan, Y., 2019, “A New Functional Approach to Scientific Progress,” _Philosophy of Science_. 86: 739–758
-* ––– (ed.), 2023, _New Philosophical Perspectives on Scientific Progress_, London: Routledge.
-* Sintonen, M., 1984, _The Pragmatics of Scientific Explanation_, Helsinki: Acta Philosophica Fennica (Volume 37).
-* Smith, P., 1981, _Realism and the Progress of Science_, Cambridge: Cambridge University Press.
-* Sober, E., 2008, _Evidence and Evolution: The Logic Behind the Science_, Cambridge: Cambridge University Press.
-* Stegmüller, W., 1976, _The Structure and Dynamics of Theories_, New York-Heidelberg-Berlin: Springer-Verlag.
-* Suppe, F. (ed.), 1977, _The Structure of Scientific Theories_, 2nd ed. Urbana: University of Illinois Press.
-* Toulmin, S., 1972, _Human Understanding_, vol. 1. Oxford: Clarendon Press.
-* Tuomela, R., 1985, _Science, Action, and Reality_, Dordrecht: Reidel.
-* van Fraassen, B., 1980, _The Scientific Image_, Oxford: Oxford University Press.
-* Wachbroit, R., 1986, “Progress: Metaphysical and Otherwise,” _Philosophy of Science_, 53: 354–371.
+* Mulkay, M., 1975, “Three Models of Scientific Development,” *The Sociological Review*, 23: 509–526.
+* Nersessian, N., 2022, *Interdisciplinary in the Making: Models and Methods in Frontier Science*, Cambridge, MA: The MIT Press.
+* Nickles, T. (ed.), 1999, *Scientific Discovery: Case Studies*, Dordrecht: D. Reidel.
+* Niiniluoto, I., 1980, “Scientific Progress,” *Synthese*, 45: 427–464.
+* –––, 1984, *Is Science Progressive?* Dordrecht: D. Reidel.
+* –––, 1987, *Truthlikeness*, Dordrecht: D. Reidel.
+* –––, 1995a, “Is There Progress in Science?,” in H. Stachowiak (ed.), *Pragmatik, Handbuch pragmatischen Denkens*, Band V, Hamburg: Felix Meiner Verlag, pp. 30–58.
+* –––, 1995b, “Emergence of Scientific Specialties: Six Models,” in W. Herfel *et al*. (eds.), *Theories and Models in Scientific Processes*, Amsterdam: Rodopi pp. 21–223.
+* –––, 1999a, *Critical Scientific Realism*, Oxford: Oxford University Press.
+* –––, 1999b, “Defending Abduction,” *Philosophy of Science (Proceedings)*, 66: S436–S451.
+* –––, 2011, “Revising Beliefs Towards the Truth,” *Erkenntis*, 75: 165–181.
+* –––, 2014, “Scientific Progress as Increasing Verisimilitude,” *Studies in History and Philosophy of Science* (Part A), 75: 73–77.
+* –––, 2017, “Optimistic Realism about Scientific Progress,” *Synthese*, 194: 3291–3309.
+* –––, 2020, “Social Aspects of Scientific Knowledge,” *Synthese*, 197: 447–468.
+* Niiniluoto, I. and Tuomela, R. (eds.), 1979, *The Logic and Epistemology of Scientific Change*, Helsinki: Acta Philosophica Fennica (Volume 30).
+* Nisbet, R., 1980, *History of the Idea of Progress*, London: Heinemann.
+* Nowak, L., 1980, *The Structure of Idealization: Towards a Systematic Interpretation of the Marxian Idea of Science*, Dordrecht: D. Reidel.
+* Nowakowa, I. and Nowak, L., 2000, *The Richness of Idealization*, Amsterdam: Rodopi.
+* Oddie, G., 1986, *Likeness to Truth*, Dordrecht: D. Reidel.
+* Oddie, G. and Cevolani, G., 2022, “Truthlikeness,” *The Stanford Encyclopedia of Philosophy* (Winter 2022 edition), Edward N. Zalta and Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/win2022/entries/truthlikeness/](https://plato.stanford.edu/archives/win2022/entries/truthlikeness/).
+* Park, S., 2017, “Does Scientific Progress Consist in Increasing Knoweledge or Understanding?,” *Journal for General Philosophy of Science*, 48: 569–579.
+* Pearce, D., 1987, *Roads to Commensurability*, Dordrecht: Reidel.
+* Pearce, D. and Rantala, V., 1984, “A Logical Study of the Correspondence Relation,” *Journal of Philosophical Logic*, 13: 47–84.
+* Pera, M., 1994, *The Discourse of Science*, Chicago: The University of Chicago Press.
+* Pestre, D., 2003, “Regimes of Knowledge Production in Society ,” *Minerva*, 41: 245–261.
+* Pitt, J.C., 1981, “Pictures, Images, and Conceptual Change: An Analysis of Wilfrid Sellars,” *Philosophy of Science*, Dordrecht: D. Reidel.
+* –––, (ed.), 1985, *Change and Progress in Modern Science*, Dordrecht: D. Reidel.
+* Popper, K., 1959, *The Logic of Scientific Discovery*, London: Hutchinson.
+* –––, 1963, *Conjectures and Refutations: The Growth of Scientific Knowledge*, London: Hutchinson.
+* –––, 1972, *Objective Knowledge: An Evolutionary Approach*, Oxford: Oxford University Press; 2nd enlarged edition, 1979.
+* Price, D. de Solla, 1963, *Little Science, Big Science*, New York: Columbia University Press.
+* Psillos, S., 1999, *Scientific Realism: How Science Tracks Truth*, London: Routledge.
+* Putnam, H., 1975, *Mind. Language, and Reality*, Cambridge: Cambridge University Press.
+* –––, 1978, *Meaning and the Moral Sciences*, London: Routledge and Kegan Paul.
+* Radnitzky, G.; Andersson, G. (eds.), 1978 *Progress and Rationality in Science*, Dordrecht-Boston: Reidel.
+* –––, (eds.), 1979, *The Structure and Development of Science*, Dordrecht: D. Reidel.
+* Radnitzky, G. and Bartley, W.W. III (eds.), 1987, *Evolutionary Epistemology, Rationality, and the Sociology of Knowledge*, Open Court, La Salle, Illinois.
+* Rantala, V., 2002, *Explanatory Translation: Beyond the Kuhnian Model of Conceptual Change*, Dordrecht: Kluwer.
+* Rheinberger, H. J., 1997, *Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube*, Stanford, CA: Stanford University Press.
+* Rescher, N., 1977, *Methodological Pragmatism*, Oxford: Blackwell.
+* –––, 1978, *Scientific Progress: A Philosophical Essay on the Economics of Research in Natural Science*, Oxford: Blackwell.
+* –––, 1984, *The Limits of Science*, Berkeley: The University of California Press.
+* Rowbottom, D. P., 2008, “N-rays and the Semantic View of Progress,” *Studies in History and Philosophy of Science*, 39: 277–278.
+* –––, 2015, “Scientific Progress without Increasing Verisimilitude: In Response to Niiniluoto,” *Studies in History and Philosophy of Science*, 51: 100–104.
+* –––, 2023, *Scientific Progress*, Cambridge: Cambridge University Press.
+* Saatsi, J. (ed.), 2018, *The Routledge Handbook of Scientific Realism*, London: Routledge,
+* –––, 2019, “What is Theoretical Progress in Science,” *Synthese*, 196: 611–631.
+* Sarton, G., 1936, *The Study of the History of Science*, Cambridge, MA: Harvard University Press.
+* Schäfer, W. (ed.), 1983, *Finalization in Science: The Social Orientation of Scientific Progress*, Dordrecht: Reidel.
+* Scheibe, E., 1976, “Conditions of Progress and Comparability of Theories,” in R.S. Cohen *et al*.\$$ (ed.), *Essays on Memory of Imre Lakatos*, D. Reidel, Dordrecht, pp. 547–568.
+* Schupbach, J. N. and Sprenger, J., 2011, “The Logic of Explanatory Power,” *Philosophy of Science*, 78: 105–127.
+* Schurz, G., 2011, “Structural Correspondence, Indirect Reference, and Partial Truth: Phlogiston Theory and Newtonian Mechanics,” *Synthese*, 180: 103–120.
+* –––, 2015, “Causality and Unification: How Causality Unifies Statistical Regularities,” *Theoria*, 30: 73–95.
+* Shan, Y., 2019, “A New Functional Approach to Scientific Progress,” *Philosophy of Science*. 86: 739–758
+* ––– (ed.), 2023, *New Philosophical Perspectives on Scientific Progress*, London: Routledge.
+* Sintonen, M., 1984, *The Pragmatics of Scientific Explanation*, Helsinki: Acta Philosophica Fennica (Volume 37).
+* Smith, P., 1981, *Realism and the Progress of Science*, Cambridge: Cambridge University Press.
+* Sober, E., 2008, *Evidence and Evolution: The Logic Behind the Science*, Cambridge: Cambridge University Press.
+* Stegmüller, W., 1976, *The Structure and Dynamics of Theories*, New York-Heidelberg-Berlin: Springer-Verlag.
+* Suppe, F. (ed.), 1977, *The Structure of Scientific Theories*, 2nd ed. Urbana: University of Illinois Press.
+* Toulmin, S., 1972, *Human Understanding*, vol. 1. Oxford: Clarendon Press.
+* Tuomela, R., 1985, *Science, Action, and Reality*, Dordrecht: Reidel.
+* van Fraassen, B., 1980, *The Scientific Image*, Oxford: Oxford University Press.
+* Wachbroit, R., 1986, “Progress: Metaphysical and Otherwise,” *Philosophy of Science*, 53: 354–371.
 
 ## Academic Tools
 
@@ -393,4 +393,4 @@ Hanson, Popper, Kuhn, and Feyerabend 都认同所有观察都是理论负荷的�
 [incommensurability: of scientific theories](https://plato.stanford.edu/entries/incommensurability/) | [Kuhn, Thomas](https://plato.stanford.edu/entries/thomas-kuhn/) | [logic: of belief revision](https://plato.stanford.edu/entries/logic-belief-revision/) | [Popper, Karl](https://plato.stanford.edu/entries/popper/) | [progress](https://plato.stanford.edu/entries/progress/) | [realism: and theory change in science](https://plato.stanford.edu/entries/realism-theory-change/) | scientific discovery | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [scientific revolutions](https://plato.stanford.edu/entries/scientific-revolutions/) | [truthlikeness](https://plato.stanford.edu/entries/truthlikeness/)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[Ilkka Niiniluoto](http://www.helsinki.fi/theoreticalphilosophy/staff/Niiniluoto.htm) <[_ilkka.niiniluoto@helsinki.fi_](mailto:ilkka%2eniiniluoto%40helsinki%2efi)>
+[Ilkka Niiniluoto](http://www.helsinki.fi/theoreticalphilosophy/staff/Niiniluoto.htm) <[*ilkka.niiniluoto@helsinki.fi*](mailto:ilkka%2eniiniluoto%40helsinki%2efi)>

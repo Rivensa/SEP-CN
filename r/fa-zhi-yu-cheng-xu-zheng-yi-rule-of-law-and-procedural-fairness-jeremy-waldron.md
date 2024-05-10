@@ -1,6 +1,6 @@
 # 法治与程序正义 rule of law and procedural fairness (Jeremy Waldron)
 
-_首次发表于 2016 年 6 月 22 日星期三_
+*首次发表于 2016 年 6 月 22 日星期三*
 
 “法治”这个词短语必须与“法律规则”这个短语区分开来。后者用于指代某些特定的法律规则，如永久禁止规则或规定我们必须在特定日期前申报税款的规则。这些都是法律规则，但“法治”是我们政治道德理想之一，它指的是法律本身以及法律制度在治理体系中的主导地位。
 
@@ -259,82 +259,82 @@ Joseph Raz 和 Lon Fuller 进一步提出了关于自由的观点。Raz（1979 \
 
 ## Bibliography
 
-* Aristotle, _The Politics_ (c. 350 BC), Stephen Everson (trans.), Cambridge: Cambridge University Press, 1988.
-* –––, _The Rhetoric_ (c. 350 BC), Rhys Roberts (trans.), New York: Cosimo Classics, 2010.
-* Barro, R., 2000, “Democracy and the Rule of Law”, in _Governing for Prosperity_, B. de Mesquita and H. Root (eds.), New Haven: Yale University Press.
-* Bentham, J., 1970 \[1782], _Of Laws in General_, H.L.A. Hart (ed.), London: Athlone Press.
-* –––, 1792, _Truth versus Ashhurst; or, Law as it is, Contrasted with what it is Said to be_. \[[Bentham 1792 available online](https://www.ucl.ac.uk/bentham-project/truth-versus-ashhurst) .
-* –––, 1931 \[1802, 1864], _The Theory of Legislation_, C.K. Ogden (ed.), London: Kegan Paul, Trench, Trubner & Co.. This was originally published in French translation (done by Etienne Dumont) in 1802 and translated back into English in 1864 (by Richard Hildreth), the latter is the translation used in the Ogden edition.
-* Bingham, T., 2010, _The Rule of Law_, London: Allen Lane.
-* Carothers, T., 1998, “The Rule-of-Law Revival”, _Foreign Affairs_, 77: 95–106.
-* –––, 2009, “Rule of Law Temptations”, _Fletcher Forum of World Affairs_, 33: 49–61.
-* Cass, R., 2001, _The Rule of Law in America_, Baltimore: Johns Hopkins University Press.
-* –––, 2004, “Property Rights Systems and the Rule of Law”, _The Elgar Companion to the Economics of Property Right_, E. Colombatto, (ed.), Oxford: Edward Elgar Publications, pp. 131–63.
-* Chesterman, S., 2008, “An International Rule of Law?” _American Journal of Comparative Law_, 56: 331–61.
-* Cooter, R., 1997, “The Rule of State Law versus the Rule-of-Law State: Economic Analysis of the Legal Foundations of Development”, in _Annual World Bank Conference on Development Economics_, Washington: World Bank, pp. 191–206.
-* Cover, R., 1975, _Justice Accused: Slavery and the Judicial Process_, New Haven: Yale University Press.
-* Craig, P., 1997, “Formal and Substantive Conceptions of the Rule of Law: An Analytical Framework” _Public Law_, \[1997]: 467–87.
-* Crawford, J., 2003, “The Rule of Law in International Law”, 24 _Adelaide Law Review_, 24: 3–12.
-* Davis, K.C., 1969, _Discretionary Justice: A Preliminary Inquiry_, Louisiana State University Press.
-* Dicey, A.V., 1982 \[1885], _Introduction to the Study of the Law of the Constitution_, London: McMillan and Co. Page numbers are from the 1982 version based on the 8th edition (1915), Indianapolis: Liberty Classics. \[[Dicey 1982 \[1885\] available online](http://files.libertyfund.org/files/1714/0125\_Bk.pdf)]
-* Dworkin, R., 1977, _Taking Rights Seriously_, Cambridge: Harvard University Press.
-* –––, 1985, “Political Judges and the Rule of Law”, in his _A Matter of Principle_, Cambridge, Harvard University Press, pp. 9–32.
-* –––, 2004, “Hart’s Postscript and the Character of Political Philosophy”, _Oxford Journal of Legal Studies_, 24: 1–37.
-* Ellickson, R., 1994, _Order without Law: How Neighbors Settle Disputes_, Cambridge: Harvard University Press.
-* Endicott, T., 1999, “The Impossibility of the Rule of Law”, _Oxford Journal of Legal Studies_, 19: 1–18.
-* Epstein, R.A., 2011, _Property Rights and the Rule of Law: Classical Liberalism Confronts the Modern Administrative State_, Cambridge: Harvard University Press.
-* Finnis, J., 1980, _Natural Law and Natural Rights_, Oxford: Clarendon Press.
-* Fortescue, J., 1997 \[1471], _On the Laws and Governance of England_, Shelley Lockwood (ed.), Cambridge: Cambridge University Press.
-* Fuller, L., 1958, “Positivism and Fidelity to Law: A Reply to Hart”, _Harvard Law Review_, 71(4): 630–72. doi:10.2307/1338226
-* –––, 1964, _The Morality of Law_, New Haven: Yale University Press.
-* –––, 1978, “Forms and Limits of Adjudication”, _Harvard Law Review_, 92(2): 353–409. doi:10.2307/1340368
-* Goodpaster, G., 2003, “Law Reform in Developing Countries”, 13 _Transnational Law and Contemporary Problems_, 13: 659–98.
-* Hamilton, A., J. Madison, and J. Jay, 1787, _The Federalist Papers_, New York: Signet Classics, 2003.
-* Harrington, James, 1656, _The Commonwealth of Oceana_, J.G.A. Pocock (ed.), Cambridge: Cambridge University Press, 1992.
-* Hart, H. and A. Sacks, 1958, _The Legal Process: Problems in the Making and Application of Law_, Westbury: Foundation Press, 1994.
-* Hart, H.L.A., 1965, “Book Review: Lon Fuller, _The Morality of Law_”, _Harvard Law Review_, 78: 1281–96.
-* –––, 1961, _The Concept of Law_, 3rd edition, Oxford: Clarendon Press, 2012.
-* Hayek, F.A., 1972 \[1944], _The Road to Serfdom_, Chicago: University Of Chicago Press.
-* –––, 1960, _The Constitution of Liberty_, Chicago: University of Chicago Press.
-* –––, 1973, _Rules and Order_, Volume 1 of_Law, Legislation and Liberty_, Chicago: University of Chicago Press.
-* Henderson, L., 1991, “Authoritarianism and the Rule of Law”, _Indiana Law Journal_, 66: 379–456.
-* Hobbes, T., 1983 \[1647], _De Cive: the English version_, H. Warrender (ed.), Oxford: Oxford University Press.
-* –––, 1991 \[1651], _Leviathan_, R. Tuck (ed.), Cambridge: Cambridge University Press.
-* Locke, J., 1689, _Two Treatises of Government_, P. Laslett (ed.), Cambridge: Cambridge University Press, 1988.
-* Machiavelli, N., 1517, _Discourses on Livy_, H. Mansfield and N. Tarcov (ed.), Chicago: University of Chicago Press, 1996.
-* Marmor, A., 2004, “The Rule of Law and Its Limits”, _Law and Philosophy_, 23: 1–43.
-* Montesquieu, C., 1748, _The Spirit of the Laws_, A. Cohler, C. Miller, and H. Stone (eds.), Cambridge: Cambridge University Press, 1989.
-* Nozick, R., 1974, _Anarchy, State and Utopia_, New York: Basic Books.
-* Oakeshott, M., 1983, “The Rule of Law”, in his _On History, and Other Essays_, Totowa, NJ: Barnes and Noble, 129-78.
-* Plato, _The Statesman_, (c. 370 BC), Julia Annas (trans.), Cambridge: Cambridge University Press, 1995.
-* Posner, E, and A. Vermeule, 2010, _The Executive Unbound: After the Madisonian Republic_, Oxford: Oxford University Press.
-* Posner, R., 1995, _Overcoming Law_, Cambridge: Harvard University Press.
-* Postema, G., 1986, _Bentham and the Common Law Tradition_, Oxford: Oxford University Press.
-* Raz, J., 1977, “The Rule of Law and its Virtue”, in his book, _The Authority of Law_, Oxford: Oxford University Press, 1979.
-* Rawls, J. 1999, _A Theory of Justice_, Cambridge: Harvard University Press.
-* Rubin, E., 1989, “Law and Legislation in the Administrative State”, _Columbia Law Review_, 89: 369–426.
-* Scalia, A., 1989, “The Rule of Law as a Law of Rules”, _University of Chicago Law Review_, 56: 1175–88.
-* Schauer, F., 1991, _Playing By the Rules: A Philosophical Examination of Rule-Based Decision-Making in Law and in Life_, Oxford: Oxford University Press.
-* Scheuerman, W., 2006, “Emergency Powers and the Rule of Law after 9/11”, _Journal of Political Philosophy_, 14: 61–84.
-* Schmitt, Carl, 1923, _The Crisis of Parliamentary Democracy_, Ellen Kennedy (trans.), Cambridge, MIT Press, 1985.
-* Simmonds, N.E., 2008, _Law as a Moral Idea_, Oxford: Oxford University Press.
-* Simon, W., 1983, “Legality, Bureaucracy and Class in the Welfare System”, _Yale Law Journal_, 92: 1198–1269.
-* Solum, L., 1994, “Equity and the Rule of Law”, in _Nomos XXXVI: The Rule of Law_, Ian Shapiro (ed.), New York: New York University Press, pp. 120–47.
+* Aristotle, *The Politics* (c. 350 BC), Stephen Everson (trans.), Cambridge: Cambridge University Press, 1988.
+* –––, *The Rhetoric* (c. 350 BC), Rhys Roberts (trans.), New York: Cosimo Classics, 2010.
+* Barro, R., 2000, “Democracy and the Rule of Law”, in *Governing for Prosperity*, B. de Mesquita and H. Root (eds.), New Haven: Yale University Press.
+* Bentham, J., 1970 \[1782], *Of Laws in General*, H.L.A. Hart (ed.), London: Athlone Press.
+* –––, 1792, *Truth versus Ashhurst; or, Law as it is, Contrasted with what it is Said to be*. \[[Bentham 1792 available online](https://www.ucl.ac.uk/bentham-project/truth-versus-ashhurst) .
+* –––, 1931 \[1802, 1864], *The Theory of Legislation*, C.K. Ogden (ed.), London: Kegan Paul, Trench, Trubner & Co.. This was originally published in French translation (done by Etienne Dumont) in 1802 and translated back into English in 1864 (by Richard Hildreth), the latter is the translation used in the Ogden edition.
+* Bingham, T., 2010, *The Rule of Law*, London: Allen Lane.
+* Carothers, T., 1998, “The Rule-of-Law Revival”, *Foreign Affairs*, 77: 95–106.
+* –––, 2009, “Rule of Law Temptations”, *Fletcher Forum of World Affairs*, 33: 49–61.
+* Cass, R., 2001, *The Rule of Law in America*, Baltimore: Johns Hopkins University Press.
+* –––, 2004, “Property Rights Systems and the Rule of Law”, *The Elgar Companion to the Economics of Property Right*, E. Colombatto, (ed.), Oxford: Edward Elgar Publications, pp. 131–63.
+* Chesterman, S., 2008, “An International Rule of Law?” *American Journal of Comparative Law*, 56: 331–61.
+* Cooter, R., 1997, “The Rule of State Law versus the Rule-of-Law State: Economic Analysis of the Legal Foundations of Development”, in *Annual World Bank Conference on Development Economics*, Washington: World Bank, pp. 191–206.
+* Cover, R., 1975, *Justice Accused: Slavery and the Judicial Process*, New Haven: Yale University Press.
+* Craig, P., 1997, “Formal and Substantive Conceptions of the Rule of Law: An Analytical Framework” *Public Law*, \[1997]: 467–87.
+* Crawford, J., 2003, “The Rule of Law in International Law”, 24 *Adelaide Law Review*, 24: 3–12.
+* Davis, K.C., 1969, *Discretionary Justice: A Preliminary Inquiry*, Louisiana State University Press.
+* Dicey, A.V., 1982 \[1885], *Introduction to the Study of the Law of the Constitution*, London: McMillan and Co. Page numbers are from the 1982 version based on the 8th edition (1915), Indianapolis: Liberty Classics. \[[Dicey 1982 \[1885\] available online](http://files.libertyfund.org/files/1714/0125\_Bk.pdf)]
+* Dworkin, R., 1977, *Taking Rights Seriously*, Cambridge: Harvard University Press.
+* –––, 1985, “Political Judges and the Rule of Law”, in his *A Matter of Principle*, Cambridge, Harvard University Press, pp. 9–32.
+* –––, 2004, “Hart’s Postscript and the Character of Political Philosophy”, *Oxford Journal of Legal Studies*, 24: 1–37.
+* Ellickson, R., 1994, *Order without Law: How Neighbors Settle Disputes*, Cambridge: Harvard University Press.
+* Endicott, T., 1999, “The Impossibility of the Rule of Law”, *Oxford Journal of Legal Studies*, 19: 1–18.
+* Epstein, R.A., 2011, *Property Rights and the Rule of Law: Classical Liberalism Confronts the Modern Administrative State*, Cambridge: Harvard University Press.
+* Finnis, J., 1980, *Natural Law and Natural Rights*, Oxford: Clarendon Press.
+* Fortescue, J., 1997 \[1471], *On the Laws and Governance of England*, Shelley Lockwood (ed.), Cambridge: Cambridge University Press.
+* Fuller, L., 1958, “Positivism and Fidelity to Law: A Reply to Hart”, *Harvard Law Review*, 71(4): 630–72. doi:10.2307/1338226
+* –––, 1964, *The Morality of Law*, New Haven: Yale University Press.
+* –––, 1978, “Forms and Limits of Adjudication”, *Harvard Law Review*, 92(2): 353–409. doi:10.2307/1340368
+* Goodpaster, G., 2003, “Law Reform in Developing Countries”, 13 *Transnational Law and Contemporary Problems*, 13: 659–98.
+* Hamilton, A., J. Madison, and J. Jay, 1787, *The Federalist Papers*, New York: Signet Classics, 2003.
+* Harrington, James, 1656, *The Commonwealth of Oceana*, J.G.A. Pocock (ed.), Cambridge: Cambridge University Press, 1992.
+* Hart, H. and A. Sacks, 1958, *The Legal Process: Problems in the Making and Application of Law*, Westbury: Foundation Press, 1994.
+* Hart, H.L.A., 1965, “Book Review: Lon Fuller, *The Morality of Law*”, *Harvard Law Review*, 78: 1281–96.
+* –––, 1961, *The Concept of Law*, 3rd edition, Oxford: Clarendon Press, 2012.
+* Hayek, F.A., 1972 \[1944], *The Road to Serfdom*, Chicago: University Of Chicago Press.
+* –––, 1960, *The Constitution of Liberty*, Chicago: University of Chicago Press.
+* –––, 1973, *Rules and Order*, Volume 1 of_Law, Legislation and Liberty_, Chicago: University of Chicago Press.
+* Henderson, L., 1991, “Authoritarianism and the Rule of Law”, *Indiana Law Journal*, 66: 379–456.
+* Hobbes, T., 1983 \[1647], *De Cive: the English version*, H. Warrender (ed.), Oxford: Oxford University Press.
+* –––, 1991 \[1651], *Leviathan*, R. Tuck (ed.), Cambridge: Cambridge University Press.
+* Locke, J., 1689, *Two Treatises of Government*, P. Laslett (ed.), Cambridge: Cambridge University Press, 1988.
+* Machiavelli, N., 1517, *Discourses on Livy*, H. Mansfield and N. Tarcov (ed.), Chicago: University of Chicago Press, 1996.
+* Marmor, A., 2004, “The Rule of Law and Its Limits”, *Law and Philosophy*, 23: 1–43.
+* Montesquieu, C., 1748, *The Spirit of the Laws*, A. Cohler, C. Miller, and H. Stone (eds.), Cambridge: Cambridge University Press, 1989.
+* Nozick, R., 1974, *Anarchy, State and Utopia*, New York: Basic Books.
+* Oakeshott, M., 1983, “The Rule of Law”, in his *On History, and Other Essays*, Totowa, NJ: Barnes and Noble, 129-78.
+* Plato, *The Statesman*, (c. 370 BC), Julia Annas (trans.), Cambridge: Cambridge University Press, 1995.
+* Posner, E, and A. Vermeule, 2010, *The Executive Unbound: After the Madisonian Republic*, Oxford: Oxford University Press.
+* Posner, R., 1995, *Overcoming Law*, Cambridge: Harvard University Press.
+* Postema, G., 1986, *Bentham and the Common Law Tradition*, Oxford: Oxford University Press.
+* Raz, J., 1977, “The Rule of Law and its Virtue”, in his book, *The Authority of Law*, Oxford: Oxford University Press, 1979.
+* Rawls, J. 1999, *A Theory of Justice*, Cambridge: Harvard University Press.
+* Rubin, E., 1989, “Law and Legislation in the Administrative State”, *Columbia Law Review*, 89: 369–426.
+* Scalia, A., 1989, “The Rule of Law as a Law of Rules”, *University of Chicago Law Review*, 56: 1175–88.
+* Schauer, F., 1991, *Playing By the Rules: A Philosophical Examination of Rule-Based Decision-Making in Law and in Life*, Oxford: Oxford University Press.
+* Scheuerman, W., 2006, “Emergency Powers and the Rule of Law after 9/11”, *Journal of Political Philosophy*, 14: 61–84.
+* Schmitt, Carl, 1923, *The Crisis of Parliamentary Democracy*, Ellen Kennedy (trans.), Cambridge, MIT Press, 1985.
+* Simmonds, N.E., 2008, *Law as a Moral Idea*, Oxford: Oxford University Press.
+* Simon, W., 1983, “Legality, Bureaucracy and Class in the Welfare System”, *Yale Law Journal*, 92: 1198–1269.
+* Solum, L., 1994, “Equity and the Rule of Law”, in *Nomos XXXVI: The Rule of Law*, Ian Shapiro (ed.), New York: New York University Press, pp. 120–47.
 * Sunstein, C.R., 1994, “Rules and Rulelessness”, (Coase-Sandor Institute for Law and Economics Working Paper No. 27), University of Chicago Law School. \[[Sunstein 1994 available online](http://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1434\&context=law\_and\_economics)]
-* Tamanaha, B., 2004, _On the Rule of Law: History, Politics, Theory_, Cambridge: Cambridge University Press.
-* Tashima, W., 2008, “The War on Terror and the Rule of Law”, _Asian American Law Journal_, 15: 245–65.
-* Thompson, E.P., 1975, _Whigs and Hunters: The Origin of the Black Act_, Harmondsworth: Penguin Books.
-* Tully, J., 1980, _A Discourse on Property: John Locke and his Adversaries_, Cambridge: Cambridge University Press.
-* Waldron, J., 1999, _The Dignity of Legislation_, Cambridge: Cambridge University Press.
-* –––, 2002, “Is the Rule of Law an Essentially Contested Concept (in Florida)?” _Law and Philosophy_, 21: 137–64.
-* –––, 2007, “Legislation and the Rule of Law”, _Legisprudence_, 1: 91–123.
-* –––, 2008, “The Concept and the Rule of Law”, _Georgia Law Review_, 43: 1–61.
-* –––, 2011a, “The Rule of Law and the Importance of Procedure”, in _Nomos 50: Getting to the Rule of Law_, James Fleming (ed.), New York: New York University Press, 3–31.
-* –––, 2011b, “Are Sovereigns Entitled to the Benefit of the Rule of Law?” _European Journal of International Law_, 22: 315–43.
-* –––, 2013, “Separation of Powers in Thought and Practice”, _Boston College Law Review_, 54: 433–68.
-* Weber, M., 1968 \[1922], _Economy and Society_, G. Roth and C. Wittich (eds.), Volume II, Berkeley: University of California Press.
-* Winston, K., 2005, “The Internal Morality of Chinese Legalism”, _Singapore Journal of Legal Studies_, 2005(Dec): 313–47.
-* World Justice Project, 2011, _Rule of Law Index_, (2011 edition), [available online](http://worldjusticeproject.org/publication/rule-law-index-reports/rule-law-index-2011-report), see also [Other Internet Resources](https://plato.stanford.edu/entries/rule-of-law/#Oth) below.
+* Tamanaha, B., 2004, *On the Rule of Law: History, Politics, Theory*, Cambridge: Cambridge University Press.
+* Tashima, W., 2008, “The War on Terror and the Rule of Law”, *Asian American Law Journal*, 15: 245–65.
+* Thompson, E.P., 1975, *Whigs and Hunters: The Origin of the Black Act*, Harmondsworth: Penguin Books.
+* Tully, J., 1980, *A Discourse on Property: John Locke and his Adversaries*, Cambridge: Cambridge University Press.
+* Waldron, J., 1999, *The Dignity of Legislation*, Cambridge: Cambridge University Press.
+* –––, 2002, “Is the Rule of Law an Essentially Contested Concept (in Florida)?” *Law and Philosophy*, 21: 137–64.
+* –––, 2007, “Legislation and the Rule of Law”, *Legisprudence*, 1: 91–123.
+* –––, 2008, “The Concept and the Rule of Law”, *Georgia Law Review*, 43: 1–61.
+* –––, 2011a, “The Rule of Law and the Importance of Procedure”, in *Nomos 50: Getting to the Rule of Law*, James Fleming (ed.), New York: New York University Press, 3–31.
+* –––, 2011b, “Are Sovereigns Entitled to the Benefit of the Rule of Law?” *European Journal of International Law*, 22: 315–43.
+* –––, 2013, “Separation of Powers in Thought and Practice”, *Boston College Law Review*, 54: 433–68.
+* Weber, M., 1968 \[1922], *Economy and Society*, G. Roth and C. Wittich (eds.), Volume II, Berkeley: University of California Press.
+* Winston, K., 2005, “The Internal Morality of Chinese Legalism”, *Singapore Journal of Legal Studies*, 2005(Dec): 313–47.
+* World Justice Project, 2011, *Rule of Law Index*, (2011 edition), [available online](http://worldjusticeproject.org/publication/rule-law-index-reports/rule-law-index-2011-report), see also [Other Internet Resources](https://plato.stanford.edu/entries/rule-of-law/#Oth) below.
 
 ## Academic Tools
 
@@ -347,11 +347,11 @@ Joseph Raz 和 Lon Fuller 进一步提出了关于自由的观点。Raz（1979 \
 ## Other Internet Resources
 
 * [The United Nations Rule of Law Indicators](http://www.un.org/en/events/peacekeepersday/2011/publications/un\_rule\_of\_law\_indicators.pdf)
-* [_World Justice Project Rule of Law Index_](http://worldjusticeproject.org/rule-of-law-index) ([WJP Rule of Law Index 2015 (static pdf version)](http://worldjusticeproject.org/sites/default/files/roli\_2015\_0.pdf))
+* [*World Justice Project Rule of Law Index*](http://worldjusticeproject.org/rule-of-law-index) ([WJP Rule of Law Index 2015 (static pdf version)](http://worldjusticeproject.org/sites/default/files/roli\_2015\_0.pdf))
 
 ## Related Entries
 
 [Bentham, Jeremy](https://plato.stanford.edu/entries/bentham/) | [constitutionalism](https://plato.stanford.edu/entries/constitutionalism/) | [Hayek, Friedrich](https://plato.stanford.edu/entries/friedrich-hayek/) | [law: and ideology](https://plato.stanford.edu/entries/law-ideology/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [limits of law](https://plato.stanford.edu/entries/law-limits/) | [nature of law](https://plato.stanford.edu/entries/lawphil-nature/) | [nature of law: legal positivism](https://plato.stanford.edu/entries/legal-positivism/)
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
-[Jeremy Waldron](http://its.law.nyu.edu/facultyprofiles/profile.cfm?personID=26993) <[_jeremy.waldron@nyu.edu_](mailto:jeremy%2ewaldron%40nyu%2eedu)>
+[Jeremy Waldron](http://its.law.nyu.edu/facultyprofiles/profile.cfm?personID=26993) <[*jeremy.waldron@nyu.edu*](mailto:jeremy%2ewaldron%40nyu%2eedu)>

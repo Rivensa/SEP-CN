@@ -1,6 +1,6 @@
 # 社会契约论的当代研究方法 contemporary approaches to (Fred D’Agostino, Gerald Gaus, and John Thrasher)
 
-_首次发表于 1996 年 3 月 3 日，实质性修订于 2021 年 9 月 27 日_
+*首次发表于 1996 年 3 月 3 日，实质性修订于 2021 年 9 月 27 日*
 
 社会契约的概念至少可以追溯到普罗泰戈拉斯和伊壁鸠鲁。然而，在其现代可辨认的形式中，这个概念由托马斯·霍布斯重新提出，并在不同的方式上由约翰·洛克、让-雅克·卢梭和伊曼努尔·康德进一步发展。康德之后，这个概念在政治哲学家中不再受欢迎，直到约翰·罗尔斯将其复兴。现在，它成为许多道德和政治哲学家工作的核心。
 
@@ -34,7 +34,7 @@ At the simplest level, models take something complex and make it simpler. Along 
 
 鉴于此，我们可以将社会契约理论视为具有一般框架形式的理论。社会契约理论是具有几个不同理论中设置不同的一般参数的正当化模型。契约论理论的区别在于它们如何指定这些一般参数（Thrasher 2019）。该模型的目标是通过展示在适当构建的选择情境中，我们在模型中的代表将同意一组给定的社会规则、原则或规范，从而代表我们支持和遵守某一组社会规则、原则或规范的理由。这里的“适当构建”意味着取决于模型中的其他参数。
 
-批判性地，有两组相关的个体（N 和 N _**）。第一组是代表性选择者（N），构建在“代表装置”中，如原始立场（Rawls 1996, 27）。第二组（N**_）由真实个体组成，其互动条款将由合同/协议指导。如果承包人（N）的讨论与实际参与者（N\*）相关，则前者的推理在某种程度上必须由后者共享。然而，关于在这个意义上共享理由是什么意思存在相当大的争议（参见公共理由和公共辩护）。模型中的另一个主要参数是决策环境（M），在该环境中，模型选择者（N）支持某些规则、原则或规范（R）。
+批判性地，有两组相关的个体（N 和 N ***）。第一组是代表性选择者（N），构建在“代表装置”中，如原始立场（Rawls 1996, 27）。第二组（N***）由真实个体组成，其互动条款将由合同/协议指导。如果承包人（N）的讨论与实际参与者（N\*）相关，则前者的推理在某种程度上必须由后者共享。然而，关于在这个意义上共享理由是什么意思存在相当大的争议（参见公共理由和公共辩护）。模型中的另一个主要参数是决策环境（M），在该环境中，模型选择者（N）支持某些规则、原则或规范（R）。
 
 鉴于这一切，我们可以确定社会契约理论的一般模型：
 
@@ -203,122 +203,122 @@ Rawls，以及 Gauthier 和 Buchanan，有时候也被吸引到这种解读中�
 
 ## Bibliography
 
-* Ackerman, Bruce, 1980. _Social Justice in the Liberal State_. New Haven, CT: Yale University Press (especially §66).
-* Alexander, Jason and Brian Skyrms, 1999. “Bargaining with Neighbors: Is Justice Contagious?” _The Journal of Philosophy_, 96(11): 588–598.
-* Alexander, Jason, 2007. _The Structural Evolution of Morality_, Cambridge: Cambridge University Press.
-* Berlin, Isaiah, 1958. _Two Concepts of Liberty_, Oxford: Clarendon Press.
-* Bicchieri, Cristina, 2016. _Norms in the Wild_, New York: Oxford University Press.
-* Binmore, Ken, 1998. _Game Theory and the Social Contract Vol. 2: Just Playing_, Cambridge, MA: MIT Press.
-* –––, 2005. _Natural Justice_, Oxford: Oxford University Press.
-* Braithwaite R.B., 1955. _Theory of Games as a Tool for the Moral Philosopher_, Cambridge: Cambridge University Press.
-* Brennan, Geoffrey and James Buchanan, 2000 \[1985]. _The Reason of Rules: Constitutional Political Economy_ (The Collected Works of James M. Buchanan: Volume 10), Indianapolis: Liberty Fund, Inc.
-* Broome, John, 1995. _Weighing Goods: Equality, Uncertainty and Time_, Oxford: Wiley-Blackwell.
-* Bruner, Justin, 2020. “Bargaining and the Dynamics of Divisional Norms,” _Synthese_, 197: 407–425.
-* Buchanan, James, 1965. “Marginal Notes on Reading Political Philosophy,” in _The Calculus of Consent_, Ann Arbor: University of Michigan Press, pp. 307–322.
-* –––, 2000 \[1975]. _The Limits of Liberty: Between Anarchy and Leviathan_ (The Collected Works of James M. Buchanan: Volume 7), Indianapolis: Liberty Fund, Inc.
-* Buchanan, James and Gordon Tullock, 1965 \[1962]. _The Calculus of Consent_, Ann Arbor: University of Michigan Press.
-* Cartwright, Nancy and Robin Le Poidevin, 1991. “Fables and Models,” _Proceedings of the Aristotelian Society, Supplementary Volumes_, 65: 55–82.
-* Coleman, Jules, 1985. “Market Contractarianism and the Unanimity Rule,” _Social Philosophy and Policy_, 2(2): 69–114.
-* D’Agostino, Fred, 1996. _Free Public Reason: Making It Up As We Go Along_, New York: Oxford University Press.
-* –––, 2003. _Incommensurability and Commensuration: The Common Denominator_, Burlington, VT: Ashgate.
-* Darwall, Stephen, 2006. _The Second-Person Standpoint: Morality, Respect, and Accountability_, Cambridge, MA: Harvard University Press.
-* Dworkin, Ronald, 1975. “The Original Position” in _Reading Rawls_, Norman Daniels (ed.), Oxford: Blackwell, pp. 16–53.
-* ––– 1981. “What is Equality? Part 2: Equality of Resources,” _Philosophy & Public Affairs_, 10(4): 283–345.
-* Freeman, Samuel, 2007a. _Justice and the Social Contract_, Oxford: Oxford University Press.
-* –––, 2007b. “The Burdens of Justification: Constructivism, Contractualism and Publicity,” _Politics, Philosophy & Economics_, 6 (February): 5–44.
-* Gaus, Gerald, 1990. _Value and Justification_, Cambridge: Cambridge University Press.
-* –––, 1996. _Justificatory Liberalism: An Essay on Epistemology and Political Theory_, New York: Oxford University Press.
-* –––, 2011a. _The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World_, New York: Cambridge University Press.
-* –––, 2011b. “Between Diversity and Choice: The General Will in a Diverse Society,” _Contemporary Readings in Law and Social Justice_, 3(2): 70–95.
-* –––, 2016. _The Tyranny of the Ideal: Justice in a Diverse Society_, Princeton: Princeton University Press.
-* Gaus, Gerald and John Thrasher, 2015. “Rational Choice and the Original Position: The (Many) Models of Rawls and Harsanyi,” in _The Original Position_, Timothy Hinton (ed.), Cambridge: Cambridge University Press, pp. 39–58.
-* –––, 2021. _Philosophy, Politics, and Economics: An Introduction_, Princeton: Princeton University Press.
-* Gauthier, David, 1986. _Morals by Agreement_, Oxford: Clarendon Press.
-* –––, 1991. “Why Contractarianism?” in _Contractarianism and Rational Choice_, Peter Vallentyne (ed.), Cambridge: Cambridge University Press, pp. 15–30
-* –––, 1993. “Uniting Separate Persons,” in _Rationality, Justice and the Social Contract: Themes from Morals by Agreement_, David Gauthier and Robert Sugden (eds.), Ann Arbor: University of Michigan Press, pp. 176–192.
-* –––, 2003. “Are We Moral Debtors?” _Philosophy and Phenomenological Research_, 66(1): 162–168.
-* –––, 2013. “Twenty-Five On,” _Ethics_, 123(4): 601–624.
-* Habermas, Jürgen, 1985. _The Theory of Communicative Action_ (Volume 1: Reason and the Rationalization of Society), Thomas McCarthy (trans.), Boston: Beacon Press.
-* Hamilton, Alexander, 2001 \[1788]. “Federalist No. 1,” in _The Federalist_ (Gideon Edition), George W. Carey and James McClellan (eds.), Indianapolis: Liberty Fund, pp. 1–5.
-* Hampton, Jean, 1986. _Hobbes and the Social Contract Tradition_, Cambridge: Cambridge University Press.
-* Hardin, Russell, 2003. _Indeterminacy and Society_, Princeton: Princeton University Press.
-* Harman, Gilbert, 1975. “Moral relativism defended,” _The Philosophical Review_, 84(1): 3–22.
-* Harsanyi, John, 1977. _Essays on Ethics, Social Behaviour and Scientific Explanation_, Boston: Reidel.
-* –––, 1982. “Morality and the Theory of Rational Behavior,” in _Utilitarianism and Beyond_, Amartya Sen and Bernard Williams (eds.), Cambridge: Cambridge University Press, pp. 39–62.
-* Harsanyi, John and Reinhard Selten, 1988. _A General Theory of Equilibrium Selection in Games_, Cambridge, MA: MIT Press.
-* Heath, Joseph, 2004. “Dworkin’s Auction,” _Politics, Philosophy & Economics_, 3(1): 313–335.
-* Hobbes, Thomas, 2012 \[1651]. _Leviathan_ (3 volumes), Noel Malcolm, (ed.), Oxford: Oxford University Press.
-* Hoffman, Elizabeth, Kevin McCabe, and Vernon Smith, 2000. “The Impact of Exchange Context on the Activation of Equity in Ultimatum Games,” _Experimental Economics_, 3(1): 5–9.
-* Hume, David, 1985 \[1741]. “Of the Independency of Parliament,” in _Essays Moral, Political, and Literary_, Eugene Miller (ed.), Indianapolis: Liberty Fund, pp. 42–46.
-* –––, 1985 \[1748]. “Of the Original Contract,” in _Essays Moral, Political, and Literary_, Eugene Miller (ed.), Indianapolis: Liberty Fund, pp. 465–487.
-* Kalai, Ehud and Meir Smorodinsky, 1975. “Other Solutions to Nash’s Bargaining Problem,” _Econometrica: Journal of the Econometric Society_, 43(3): 513–518.
-* Kant, Immanuel, 1999 \[1797]. _Metaphysical Elements of Justice_, second edition, John Ladd (trans.), Indianapolis: Hackett.
-* Kavka, Gregory S., 1984. “The Reconciliation Project,” in _Morality, Reason, and Truth: New Essays on the Foundations of Ethics_, David Copp and David Zimmerman (eds.), Totawa, NJ: Rowman and Allanheld, pp. 297–319.
-* –––, 1986. _Hobbesian Moral and Political Theory_, Princeton: Princeton University Press,
-* Klosko, George, 2000. _Democratic Procedures and Liberal Consensus_, Oxford: Oxford University Press.
-* Kogelmann, Brian, 2015. “Modeling the Individual for Constitutional Choice,” _Constitutional Political Economy_, 26: 455–474.
-* –––, 2017. “Aggregating Out of Indeterminacy: Social Choice Theory to the Rescue,” _Politics, Philosophy, & Economics_, 16(2): 210–232.
-* Kogelmann, Brian and Stephen Stich, 2016. “When Public Reason Fails Us: Convergence Discourse as Blood Oath,” _American Political Science Review_, 110(3): 717–730.
-* Lessnoff, Michael, 1986. _Social Contract_, London: Macmillan.
-* Lister, Andrew, 2010. “Public Justification and the Limits of State Action,” _Politics, Philosophy & Economics_, 9(2): 151–175.
-* Locke, John, 1960 \[1689]. _The Second Treatise of Government_, in _Two Treatises of Government_, Peter Laslett (ed.), Cambridge: Cambridge University Press, pp. 283–446.
-* Luce, Robert D. and Howard Raiffa, 1957. _Games and Decisions: Introduction and Critical Survey_, New York: Wiley.
-* Mack, Eric, 2007. “Scanlon as a Natural Rights Theorist,” _Politics, Philosophy & Economics_, 6 (February): 45–73.
-* Maynard Smith, John, 1982. _Evolution and the Theory of Games_, Cambridge: Cambridge University Press.
-* Moehler, Michael, 2010. “The (Stabilized) Nash Bargaining Solution as a Principle of Distributive Justice,” _Utilitas_, 22: 447–473.
-* –––, 2014. “The Scope of Instrumental Morality,” _Philosophical Studies_, 167(2): 431–451.
-* –––, 2018. _Minimal Morality: A Two-Level Contractarian Theory_, New York: Oxford University Press.
-* Mueller, Dennis C., 2005. _Public Choice III_, Cambridge: Cambridge University Press.
-* Muldoon, Ryan, 2017. _Social Contract Theory for a Diverse World: Beyond Tolerance_, New York: Routledge.
-* –––, 2017a. “Exploring Tradeoffs in Accommodating Moral Diversity,” _Philosophical Studies_, 174(7): 1871–1883.
-* Narveson, Jan. 1988. _The Libertarian Idea_, Philadelphia: Temple University Press.
-* Nash, John, 1950. “The Bargaining Problem,” _Econometrica: Journal of the Econometric Society_, 18(2): 155–162.
-* Nozick, Robert, 1974. _Anarchy, State, and Utopia_, New York: Basic Books.
-* Reiman, Jeffrey, 1990. _Justice and Modern Moral Philosophy_, New Haven: Yale University Press.
-* Raiffa, Howard, 1953. “Arbitration Schemes for Generalized Two-person Games,” _Annals of Mathematics Studies_, 28: 361–387.
-* Rawls, John, 1999 \[1958]. “Justice as Fairness,” _Philosophical Review_, 67(2): 164–194; reprinted in _John Rawls, Collected Papers_, Samuel Freeman (ed.), Cambridge, MA: Harvard University Press.
-* –––, 1995. “Reply to Habermas,” _The Journal of Philosophy_, 92(3): 132–180.
-* –––, 1996. _Political Liberalism_, New York: Columbia University Press.
-* –––, 1999. _A Theory of Justice_, Cambridge, MA: Belknap Press.
-* –––, 2007. _Lectures on the History of Political Philosophy_, Samuel Freeman (ed.), Cambridge, MA: Harvard University Press.
-* Rubinstein, Ariel, 1982. “Perfect Equilibrium in a Bargaining Model,” _Econometrica: Journal of the Econometric Society_, 50(1): 90–109.
-* –––, 2012. _Economic Fables_, Cambridge: Open Book Publishers.
-* Scanlon, Thomas, 1998. _What We Owe to Each Other_, Cambridge, MA: Harvard University Press.
-* –––, 2014. _Being Realistic About Reasons_, Oxford: Oxford University Press.
-* Schelling, Thomas C., 1959. “For the Abandonment of Symmetry in Game Theory,” _The Review of Economics and Statistics_, 41(3): 213–224.
-* –––, 1960. _The Strategy of Conflict_, Cambridge, MA: Harvard University Press.
-* Sen, Amartya, 1997. “Maximization and the Act of Choice,” _Econometrica_, 65(4): 745–779.
-* –––, 2009. _The Idea of Justice_, Cambridge, MA: Harvard University Press.
-* Skyrms, Brian, 1996. _Evolution of the Social Contract_, Cambridge: Cambridge University Press.
-* –––, 2004. _The Stag Hunt and the Evolution of Social Structure_, Cambridge: Cambridge University Press.
-* –––, 2014. _The Evolution of the Social Contract, Second Edition_, Cambridge: Cambridge University Press.
-* Smith, Michael. _The Moral Problem_, Oxford: Blackwell.
-* Smith, Vernon L., 1977. “The Principle of Unanimity and Voluntary Consent in Social Choice,” _Journal of Political Economy_, 85(6): 1125–1139.
-* –––, 1982. “Microeconomic Systems as an Experimental Science,” _The American Economic Review_, 72(5): 923–955.
-* –––, 2003. “Constructivist and Ecological Rationality in Economics,” _The American Economic Review_, 93(3): 465–508.
-* Southwood, Nicholas, 2010. _Contractualism and the Foundations of Morality_, New York: Oxford University Press.
-* –––, 2019. “Contractualism for Us As We Are,” _Philosophy and Phenomenological Research_, 99(3): 529–547.
-* Stark, Cynthia, 2000. “Hypothetical Consent and Justification,” _The Journal of Philosophy_, 97(6): 313–334.
-* Sugden, Robert, 1986. _The Economics of Rights, Cooperation and Welfare_, Oxford: Blackwell.
-* –––, 1990. “Contractarianism and Norms,” _Ethics_, 100(4): 768–786.
-* –––, 1991. “Rational Choice: A Survey of Contributions from Economics and Philosophy,” _The Economics Journal_, 101(407): 751–785.
-* –––, 2018. _The Community of Advantage: A Behavioural Economist’s Defence of the Market_, Oxford: Oxford University Press.
-* Suikkanen, Jussi, 2014. “Contractualism and the Conditional Fallacy,” _Oxford Studies in Normative Ethics_, 4: 113–37.
-* Thoma, Johanna, 2015. “Bargaining and the Impartiality of the Social Contract,” _Philosophical Studies_, 172(12): 3335–3355.
-* Thrasher, John, 2013. “Reconciling Justice and Pleasure in Epicurean Contractarianism,” _Ethical Theory and Moral Practice_, 16(2): 423–436.
-* –––, 2014. “Uniqueness and Symmetry in Bargaining Theories of Justice,” _Philosophical Studies_, 167(3): 683–699.
-* –––, 2015. “Adam Smith and The Social Contract,” _The Adam Smith Review_, 68: 195–216.
-* –––, 2019. “Constructivism, Representation, and Stability: Path-Dependence in Public Reason Theories of Justice,” _Synthese_, 196(1): 429–450.
-* –––, 2020. “Agreeing to Disagree: Diversity, Political Contractualism, and the Open Society,” _The Journal of Politics_, 82(3): 1142–1155.
-* Thrasher, John and Kevin Vallier, 2015. “The Fragility of Consensus: Public Reason, Diversity and Stability,” _The European Journal of Philosophy_, 23(4): 933–954.
-* –––, 2018. “Political Stability in the Open Society,” _American Journal of Political Science_, 62(2): 398–409.
-* Tomasi, John, 2012. _Free Market Fairness_, Princeton: Princeton University Press.
-* Vanderschraaf, Peter, 2005. “Game Theory, Evolution, and Justice,” _Philosophy and Public Affairs_, 28(4): 325–358.
-* –––, 2018. _Strategic Justice: Convention and Problems of Balancing Divergent Interests_, New York: Oxford University Press.
-* Weisberg, Michael, 2007a. “Who is a Modeler?” _The British Journal for the Philosophy of Science_, 58(2): 207–233.
-* –––, 2007b. “Three Kinds of Idealization,” _The Journal of Philosophy_, 104(12): 639–659.
-* –––, 2013. _Simulation and Similarity: Using Models to Understand the World_, Oxford: Oxford University Press.
-* Weisberg, Michael and Ryan Muldoon, 2009. “Epistemic Landscapes and the Division of Cognitive Labor,” _Philosophy of Science_, 76(2): 225–252.
+* Ackerman, Bruce, 1980. *Social Justice in the Liberal State*. New Haven, CT: Yale University Press (especially §66).
+* Alexander, Jason and Brian Skyrms, 1999. “Bargaining with Neighbors: Is Justice Contagious?” *The Journal of Philosophy*, 96(11): 588–598.
+* Alexander, Jason, 2007. *The Structural Evolution of Morality*, Cambridge: Cambridge University Press.
+* Berlin, Isaiah, 1958. *Two Concepts of Liberty*, Oxford: Clarendon Press.
+* Bicchieri, Cristina, 2016. *Norms in the Wild*, New York: Oxford University Press.
+* Binmore, Ken, 1998. *Game Theory and the Social Contract Vol. 2: Just Playing*, Cambridge, MA: MIT Press.
+* –––, 2005. *Natural Justice*, Oxford: Oxford University Press.
+* Braithwaite R.B., 1955. *Theory of Games as a Tool for the Moral Philosopher*, Cambridge: Cambridge University Press.
+* Brennan, Geoffrey and James Buchanan, 2000 \[1985]. *The Reason of Rules: Constitutional Political Economy* (The Collected Works of James M. Buchanan: Volume 10), Indianapolis: Liberty Fund, Inc.
+* Broome, John, 1995. *Weighing Goods: Equality, Uncertainty and Time*, Oxford: Wiley-Blackwell.
+* Bruner, Justin, 2020. “Bargaining and the Dynamics of Divisional Norms,” *Synthese*, 197: 407–425.
+* Buchanan, James, 1965. “Marginal Notes on Reading Political Philosophy,” in *The Calculus of Consent*, Ann Arbor: University of Michigan Press, pp. 307–322.
+* –––, 2000 \[1975]. *The Limits of Liberty: Between Anarchy and Leviathan* (The Collected Works of James M. Buchanan: Volume 7), Indianapolis: Liberty Fund, Inc.
+* Buchanan, James and Gordon Tullock, 1965 \[1962]. *The Calculus of Consent*, Ann Arbor: University of Michigan Press.
+* Cartwright, Nancy and Robin Le Poidevin, 1991. “Fables and Models,” *Proceedings of the Aristotelian Society, Supplementary Volumes*, 65: 55–82.
+* Coleman, Jules, 1985. “Market Contractarianism and the Unanimity Rule,” *Social Philosophy and Policy*, 2(2): 69–114.
+* D’Agostino, Fred, 1996. *Free Public Reason: Making It Up As We Go Along*, New York: Oxford University Press.
+* –––, 2003. *Incommensurability and Commensuration: The Common Denominator*, Burlington, VT: Ashgate.
+* Darwall, Stephen, 2006. *The Second-Person Standpoint: Morality, Respect, and Accountability*, Cambridge, MA: Harvard University Press.
+* Dworkin, Ronald, 1975. “The Original Position” in *Reading Rawls*, Norman Daniels (ed.), Oxford: Blackwell, pp. 16–53.
+* ––– 1981. “What is Equality? Part 2: Equality of Resources,” *Philosophy & Public Affairs*, 10(4): 283–345.
+* Freeman, Samuel, 2007a. *Justice and the Social Contract*, Oxford: Oxford University Press.
+* –––, 2007b. “The Burdens of Justification: Constructivism, Contractualism and Publicity,” *Politics, Philosophy & Economics*, 6 (February): 5–44.
+* Gaus, Gerald, 1990. *Value and Justification*, Cambridge: Cambridge University Press.
+* –––, 1996. *Justificatory Liberalism: An Essay on Epistemology and Political Theory*, New York: Oxford University Press.
+* –––, 2011a. *The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World*, New York: Cambridge University Press.
+* –––, 2011b. “Between Diversity and Choice: The General Will in a Diverse Society,” *Contemporary Readings in Law and Social Justice*, 3(2): 70–95.
+* –––, 2016. *The Tyranny of the Ideal: Justice in a Diverse Society*, Princeton: Princeton University Press.
+* Gaus, Gerald and John Thrasher, 2015. “Rational Choice and the Original Position: The (Many) Models of Rawls and Harsanyi,” in *The Original Position*, Timothy Hinton (ed.), Cambridge: Cambridge University Press, pp. 39–58.
+* –––, 2021. *Philosophy, Politics, and Economics: An Introduction*, Princeton: Princeton University Press.
+* Gauthier, David, 1986. *Morals by Agreement*, Oxford: Clarendon Press.
+* –––, 1991. “Why Contractarianism?” in *Contractarianism and Rational Choice*, Peter Vallentyne (ed.), Cambridge: Cambridge University Press, pp. 15–30
+* –––, 1993. “Uniting Separate Persons,” in *Rationality, Justice and the Social Contract: Themes from Morals by Agreement*, David Gauthier and Robert Sugden (eds.), Ann Arbor: University of Michigan Press, pp. 176–192.
+* –––, 2003. “Are We Moral Debtors?” *Philosophy and Phenomenological Research*, 66(1): 162–168.
+* –––, 2013. “Twenty-Five On,” *Ethics*, 123(4): 601–624.
+* Habermas, Jürgen, 1985. *The Theory of Communicative Action* (Volume 1: Reason and the Rationalization of Society), Thomas McCarthy (trans.), Boston: Beacon Press.
+* Hamilton, Alexander, 2001 \[1788]. “Federalist No. 1,” in *The Federalist* (Gideon Edition), George W. Carey and James McClellan (eds.), Indianapolis: Liberty Fund, pp. 1–5.
+* Hampton, Jean, 1986. *Hobbes and the Social Contract Tradition*, Cambridge: Cambridge University Press.
+* Hardin, Russell, 2003. *Indeterminacy and Society*, Princeton: Princeton University Press.
+* Harman, Gilbert, 1975. “Moral relativism defended,” *The Philosophical Review*, 84(1): 3–22.
+* Harsanyi, John, 1977. *Essays on Ethics, Social Behaviour and Scientific Explanation*, Boston: Reidel.
+* –––, 1982. “Morality and the Theory of Rational Behavior,” in *Utilitarianism and Beyond*, Amartya Sen and Bernard Williams (eds.), Cambridge: Cambridge University Press, pp. 39–62.
+* Harsanyi, John and Reinhard Selten, 1988. *A General Theory of Equilibrium Selection in Games*, Cambridge, MA: MIT Press.
+* Heath, Joseph, 2004. “Dworkin’s Auction,” *Politics, Philosophy & Economics*, 3(1): 313–335.
+* Hobbes, Thomas, 2012 \[1651]. *Leviathan* (3 volumes), Noel Malcolm, (ed.), Oxford: Oxford University Press.
+* Hoffman, Elizabeth, Kevin McCabe, and Vernon Smith, 2000. “The Impact of Exchange Context on the Activation of Equity in Ultimatum Games,” *Experimental Economics*, 3(1): 5–9.
+* Hume, David, 1985 \[1741]. “Of the Independency of Parliament,” in *Essays Moral, Political, and Literary*, Eugene Miller (ed.), Indianapolis: Liberty Fund, pp. 42–46.
+* –––, 1985 \[1748]. “Of the Original Contract,” in *Essays Moral, Political, and Literary*, Eugene Miller (ed.), Indianapolis: Liberty Fund, pp. 465–487.
+* Kalai, Ehud and Meir Smorodinsky, 1975. “Other Solutions to Nash’s Bargaining Problem,” *Econometrica: Journal of the Econometric Society*, 43(3): 513–518.
+* Kant, Immanuel, 1999 \[1797]. *Metaphysical Elements of Justice*, second edition, John Ladd (trans.), Indianapolis: Hackett.
+* Kavka, Gregory S., 1984. “The Reconciliation Project,” in *Morality, Reason, and Truth: New Essays on the Foundations of Ethics*, David Copp and David Zimmerman (eds.), Totawa, NJ: Rowman and Allanheld, pp. 297–319.
+* –––, 1986. *Hobbesian Moral and Political Theory*, Princeton: Princeton University Press,
+* Klosko, George, 2000. *Democratic Procedures and Liberal Consensus*, Oxford: Oxford University Press.
+* Kogelmann, Brian, 2015. “Modeling the Individual for Constitutional Choice,” *Constitutional Political Economy*, 26: 455–474.
+* –––, 2017. “Aggregating Out of Indeterminacy: Social Choice Theory to the Rescue,” *Politics, Philosophy, & Economics*, 16(2): 210–232.
+* Kogelmann, Brian and Stephen Stich, 2016. “When Public Reason Fails Us: Convergence Discourse as Blood Oath,” *American Political Science Review*, 110(3): 717–730.
+* Lessnoff, Michael, 1986. *Social Contract*, London: Macmillan.
+* Lister, Andrew, 2010. “Public Justification and the Limits of State Action,” *Politics, Philosophy & Economics*, 9(2): 151–175.
+* Locke, John, 1960 \[1689]. *The Second Treatise of Government*, in *Two Treatises of Government*, Peter Laslett (ed.), Cambridge: Cambridge University Press, pp. 283–446.
+* Luce, Robert D. and Howard Raiffa, 1957. *Games and Decisions: Introduction and Critical Survey*, New York: Wiley.
+* Mack, Eric, 2007. “Scanlon as a Natural Rights Theorist,” *Politics, Philosophy & Economics*, 6 (February): 45–73.
+* Maynard Smith, John, 1982. *Evolution and the Theory of Games*, Cambridge: Cambridge University Press.
+* Moehler, Michael, 2010. “The (Stabilized) Nash Bargaining Solution as a Principle of Distributive Justice,” *Utilitas*, 22: 447–473.
+* –––, 2014. “The Scope of Instrumental Morality,” *Philosophical Studies*, 167(2): 431–451.
+* –––, 2018. *Minimal Morality: A Two-Level Contractarian Theory*, New York: Oxford University Press.
+* Mueller, Dennis C., 2005. *Public Choice III*, Cambridge: Cambridge University Press.
+* Muldoon, Ryan, 2017. *Social Contract Theory for a Diverse World: Beyond Tolerance*, New York: Routledge.
+* –––, 2017a. “Exploring Tradeoffs in Accommodating Moral Diversity,” *Philosophical Studies*, 174(7): 1871–1883.
+* Narveson, Jan. 1988. *The Libertarian Idea*, Philadelphia: Temple University Press.
+* Nash, John, 1950. “The Bargaining Problem,” *Econometrica: Journal of the Econometric Society*, 18(2): 155–162.
+* Nozick, Robert, 1974. *Anarchy, State, and Utopia*, New York: Basic Books.
+* Reiman, Jeffrey, 1990. *Justice and Modern Moral Philosophy*, New Haven: Yale University Press.
+* Raiffa, Howard, 1953. “Arbitration Schemes for Generalized Two-person Games,” *Annals of Mathematics Studies*, 28: 361–387.
+* Rawls, John, 1999 \[1958]. “Justice as Fairness,” *Philosophical Review*, 67(2): 164–194; reprinted in *John Rawls, Collected Papers*, Samuel Freeman (ed.), Cambridge, MA: Harvard University Press.
+* –––, 1995. “Reply to Habermas,” *The Journal of Philosophy*, 92(3): 132–180.
+* –––, 1996. *Political Liberalism*, New York: Columbia University Press.
+* –––, 1999. *A Theory of Justice*, Cambridge, MA: Belknap Press.
+* –––, 2007. *Lectures on the History of Political Philosophy*, Samuel Freeman (ed.), Cambridge, MA: Harvard University Press.
+* Rubinstein, Ariel, 1982. “Perfect Equilibrium in a Bargaining Model,” *Econometrica: Journal of the Econometric Society*, 50(1): 90–109.
+* –––, 2012. *Economic Fables*, Cambridge: Open Book Publishers.
+* Scanlon, Thomas, 1998. *What We Owe to Each Other*, Cambridge, MA: Harvard University Press.
+* –––, 2014. *Being Realistic About Reasons*, Oxford: Oxford University Press.
+* Schelling, Thomas C., 1959. “For the Abandonment of Symmetry in Game Theory,” *The Review of Economics and Statistics*, 41(3): 213–224.
+* –––, 1960. *The Strategy of Conflict*, Cambridge, MA: Harvard University Press.
+* Sen, Amartya, 1997. “Maximization and the Act of Choice,” *Econometrica*, 65(4): 745–779.
+* –––, 2009. *The Idea of Justice*, Cambridge, MA: Harvard University Press.
+* Skyrms, Brian, 1996. *Evolution of the Social Contract*, Cambridge: Cambridge University Press.
+* –––, 2004. *The Stag Hunt and the Evolution of Social Structure*, Cambridge: Cambridge University Press.
+* –––, 2014. *The Evolution of the Social Contract, Second Edition*, Cambridge: Cambridge University Press.
+* Smith, Michael. *The Moral Problem*, Oxford: Blackwell.
+* Smith, Vernon L., 1977. “The Principle of Unanimity and Voluntary Consent in Social Choice,” *Journal of Political Economy*, 85(6): 1125–1139.
+* –––, 1982. “Microeconomic Systems as an Experimental Science,” *The American Economic Review*, 72(5): 923–955.
+* –––, 2003. “Constructivist and Ecological Rationality in Economics,” *The American Economic Review*, 93(3): 465–508.
+* Southwood, Nicholas, 2010. *Contractualism and the Foundations of Morality*, New York: Oxford University Press.
+* –––, 2019. “Contractualism for Us As We Are,” *Philosophy and Phenomenological Research*, 99(3): 529–547.
+* Stark, Cynthia, 2000. “Hypothetical Consent and Justification,” *The Journal of Philosophy*, 97(6): 313–334.
+* Sugden, Robert, 1986. *The Economics of Rights, Cooperation and Welfare*, Oxford: Blackwell.
+* –––, 1990. “Contractarianism and Norms,” *Ethics*, 100(4): 768–786.
+* –––, 1991. “Rational Choice: A Survey of Contributions from Economics and Philosophy,” *The Economics Journal*, 101(407): 751–785.
+* –––, 2018. *The Community of Advantage: A Behavioural Economist’s Defence of the Market*, Oxford: Oxford University Press.
+* Suikkanen, Jussi, 2014. “Contractualism and the Conditional Fallacy,” *Oxford Studies in Normative Ethics*, 4: 113–37.
+* Thoma, Johanna, 2015. “Bargaining and the Impartiality of the Social Contract,” *Philosophical Studies*, 172(12): 3335–3355.
+* Thrasher, John, 2013. “Reconciling Justice and Pleasure in Epicurean Contractarianism,” *Ethical Theory and Moral Practice*, 16(2): 423–436.
+* –––, 2014. “Uniqueness and Symmetry in Bargaining Theories of Justice,” *Philosophical Studies*, 167(3): 683–699.
+* –––, 2015. “Adam Smith and The Social Contract,” *The Adam Smith Review*, 68: 195–216.
+* –––, 2019. “Constructivism, Representation, and Stability: Path-Dependence in Public Reason Theories of Justice,” *Synthese*, 196(1): 429–450.
+* –––, 2020. “Agreeing to Disagree: Diversity, Political Contractualism, and the Open Society,” *The Journal of Politics*, 82(3): 1142–1155.
+* Thrasher, John and Kevin Vallier, 2015. “The Fragility of Consensus: Public Reason, Diversity and Stability,” *The European Journal of Philosophy*, 23(4): 933–954.
+* –––, 2018. “Political Stability in the Open Society,” *American Journal of Political Science*, 62(2): 398–409.
+* Tomasi, John, 2012. *Free Market Fairness*, Princeton: Princeton University Press.
+* Vanderschraaf, Peter, 2005. “Game Theory, Evolution, and Justice,” *Philosophy and Public Affairs*, 28(4): 325–358.
+* –––, 2018. *Strategic Justice: Convention and Problems of Balancing Divergent Interests*, New York: Oxford University Press.
+* Weisberg, Michael, 2007a. “Who is a Modeler?” *The British Journal for the Philosophy of Science*, 58(2): 207–233.
+* –––, 2007b. “Three Kinds of Idealization,” *The Journal of Philosophy*, 104(12): 639–659.
+* –––, 2013. *Simulation and Similarity: Using Models to Understand the World*, Oxford: Oxford University Press.
+* Weisberg, Michael and Ryan Muldoon, 2009. “Epistemic Landscapes and the Division of Cognitive Labor,” *Philosophy of Science*, 76(2): 225–252.
 
 ## Academic Tools
 
@@ -343,4 +343,4 @@ In September 2008, Gerald Gaus became a co-author of this entry for the purpose 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Fred D’Agostino](http://www.uq.edu.au/solutions/researcher/dagostinofb.html)\
 [Gerald Gaus](http://www.gaus.biz/)\
-[John Thrasher](https://www.johnjthrasher.com/) <[_thrasheriv@chapman.edu_](mailto:thrasheriv%40chapman%2eedu)>
+[John Thrasher](https://www.johnjthrasher.com/) <[*thrasheriv@chapman.edu*](mailto:thrasheriv%40chapman%2eedu)>

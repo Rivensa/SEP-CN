@@ -1,6 +1,5 @@
 # 丘奇类型论 Church’s type theory (Christoph Benzmüller and Peter Andrews)
 
-
 *首次发表于 2006 年 8 月 25 日，实质性修订于 2024 年 1 月 16 日*
 
 丘奇的类型论，又称为简单类型论，是一种形式逻辑语言，包括经典的一阶和命题逻辑，但在实际意义上更具表达力。它在大多数现代类型论应用中被使用，经过一些修改和增强。它特别适用于数学和其他学科的形式化，以及硬件和软件的规范和验证。它还在自然语言的形式语义学研究中起着重要作用。特别是当作为元逻辑用于语义嵌入表达式（量化）非经典逻辑时，它在人工智能和哲学中能够实现更多的主题应用。
@@ -78,7 +77,7 @@
 
 注意，例如，通过(a)是一个 wff，所以通过(b)如果是一个 wff，则是一个 wff。通常，后一个 wff 将简单地写为。通常方便起见，我们可以避免使用括号、方括号和类型符号，并使用省略它们的约定。对于公式，我们使用向右结合的约定，并且我们可以写而不是。对于类型，相应的约定是类似的。
 
-##### 缩写：
+##### 缩写
 
 * 代表 .
 * 代表 .
@@ -193,7 +192,7 @@ f 的不动点是一个元素 y，使得。
 
 由于描述被称为描述运算符。与此符号相关的是以下内容：
 
-##### 描述公理：
+##### 描述公理
 
 这个说法是当集合  有一个唯一的成员时，那么  就在  中，并且是那个唯一的成员。因此，这个公理断言  将单元素集映射到它们的唯一成员。
 
@@ -254,7 +253,7 @@ Tarski（1923）指出，在高阶逻辑的背景下，可以根据逻辑等价�
 * 逻辑常量的定义为  和  （对于每个类型符号α）。
 * 类型论中将 Wffs 定义为第 1.2.1 节中的内容。
 
-##### 缩写：
+##### 缩写
 
 * 代表
 * 代表 AB
@@ -738,4 +737,3 @@ Portions of this material are adapted from Andrews 2002 and Andrews 2001, with p
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Christoph Benzmüller](https://www.uni-bamberg.de/en/aise/team/benzmueller/) <[*christoph.benzmueller@uni-bamberg.de*](mailto:christoph%2ebenzmueller%40uni-bamberg%2ede)>  
 Peter Andrews
-

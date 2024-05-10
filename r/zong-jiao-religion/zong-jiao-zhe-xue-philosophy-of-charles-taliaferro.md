@@ -1,6 +1,6 @@
 # 宗教哲学 philosophy of (Charles Taliaferro)
 
-_首次发表于 2007 年 3 月 12 日；实质性修订于 2023 年 3 月 28 日_
+*首次发表于 2007 年 3 月 12 日；实质性修订于 2023 年 3 月 28 日*
 
 宗教哲学是对宗教传统中涉及的主题和概念进行哲学考察的学科，同时也是对宗教意义的事物进行反思的更广泛的哲学任务，包括宗教本身的性质、对上帝或终极现实的替代概念以及宇宙的一般特征（例如自然法则、意识的出现）和历史事件（例如 1755 年里斯本地震、大屠杀）的宗教意义。宗教哲学还包括对宗教世界观（如世俗自然主义）进行调查和评估。宗教哲学涉及哲学的所有主要领域：形而上学、认识论、价值理论（包括道德理论和应用伦理学）、语言哲学、科学、历史、政治、艺术等等。第 1 节概述了该领域及其重要性，随后的各节介绍了自 20 世纪中叶以来该领域的发展。这些节主要涉及宗教哲学在哲学和宗教研究部门中的实践（但不仅限于此），这些部门属于广义分析传统。该条目对有神论给予了重要关注，但最后强调了该领域的日益广泛，因为更多的传统（亚伯拉罕信仰，犹太教，基督教和伊斯兰教）已成为重要哲学工作的焦点。
 
@@ -42,7 +42,7 @@ _首次发表于 2007 年 3 月 12 日；实质性修订于 2023 年 3 月 28 �
 
 > 对这一立场的一个初步挑战是很难相信宗教从业者可以向一个完全难以理解的存在祈祷、崇拜或信任，或者一个我们无法以任何方式理解的存在。对于一个寻求理解否定神学力量的实在主义者，可以参考米凯尔·斯滕马克的《上帝的竞争观念：个人上帝与超越存在的上帝》（2015 年）。
 
-A _prima facie_ challenge to this position is that it is hard to believe that religious practitioners could pray or worship or trust in a being which was altogether inscrutable or a being that we cannot _in any way_ understand. For a realist, _via positiva_ philosophy of God that seeks to appreciate the force of apophatic theology, see Mikael Stenmark’s “Competing conceptions of God: the personal God versus the God beyond being” (2015).
+A *prima facie* challenge to this position is that it is hard to believe that religious practitioners could pray or worship or trust in a being which was altogether inscrutable or a being that we cannot *in any way* understand. For a realist, *via positiva* philosophy of God that seeks to appreciate the force of apophatic theology, see Mikael Stenmark’s “Competing conceptions of God: the personal God versus the God beyond being” (2015).
 
 现在让我们转向两个重要的哲学运动，挑战了对上帝的现实主义哲学。
 
@@ -354,247 +354,247 @@ Anderson（1997 年和 2012 年）试图质疑性别如何进入传统对上帝�
 
 ## Bibliography
 
-* Abraham, William J., 1998, _Canon and Criterion in Christian Theology_, Oxford: Oxford University Press. doi:10.1093/0199250030.001.0001
-* Abraham, William J. and Frederick D. Aquino (eds.), 2017, _The Oxford Handbook of the Epistemology of Theology_, (Oxford Handbooks in Religion and Theology), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199662241.001.0001
-* Adams, Marilyn McCord, 1999, _Horrendous Evils and the Goodness of God_, Ithaca, NY: Cornell University Press.
-* Adams, Robert Merrihew, 1987, _The Virtue of Faith and Other Essays in Philosophical Theology_, New York : Oxford University Press.
-* Almeida, Michael J. and Graham Oppy, 2003, “Sceptical Theism and Evidential Arguments from Evil”, _Australasian Journal of Philosophy_, 81(4): 496–516. doi:10.1080/713659758
+* Abraham, William J., 1998, *Canon and Criterion in Christian Theology*, Oxford: Oxford University Press. doi:10.1093/0199250030.001.0001
+* Abraham, William J. and Frederick D. Aquino (eds.), 2017, *The Oxford Handbook of the Epistemology of Theology*, (Oxford Handbooks in Religion and Theology), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199662241.001.0001
+* Adams, Marilyn McCord, 1999, *Horrendous Evils and the Goodness of God*, Ithaca, NY: Cornell University Press.
+* Adams, Robert Merrihew, 1987, *The Virtue of Faith and Other Essays in Philosophical Theology*, New York : Oxford University Press.
+* Almeida, Michael J. and Graham Oppy, 2003, “Sceptical Theism and Evidential Arguments from Evil”, *Australasian Journal of Philosophy*, 81(4): 496–516. doi:10.1080/713659758
 * Alston, William P., 2004, “Religious Experience Justifies Religious Belief” in Peterson and VanArragon 2004: 135–145.
-* –––, 1991a, _Perceiving God: The Epistemology of Religious Experience_, Ithaca, NY: Cornell University Press.
-* –––, 1991b, “The Inductive Argument From Evil and the Human Cognitive Condition”, _Philosophical Perspectives_, 5: 29–68. doi:10.2307/2214090
-* Anderson, Pamela Sue, 1997, _A Feminist Philosophy of Religion: The Rationality and Myths of Religious Belief_, Oxford: Blackwell.
+* –––, 1991a, *Perceiving God: The Epistemology of Religious Experience*, Ithaca, NY: Cornell University Press.
+* –––, 1991b, “The Inductive Argument From Evil and the Human Cognitive Condition”, *Philosophical Perspectives*, 5: 29–68. doi:10.2307/2214090
+* Anderson, Pamela Sue, 1997, *A Feminist Philosophy of Religion: The Rationality and Myths of Religious Belief*, Oxford: Blackwell.
 * –––, 2005, “What’s Wrong with the God’s Eye Point of View: A Constructive Feminist Critique of the Ideal Observer Theory”, in Harris and Insole 2005: 85–99.
-* –––, 2012, _Re-visioning Gender in Philosophy of Religion: Reason, Love, and Our Epistemic Locatedness_, Burlington: Ashgate.
-* Armstrong, Karen, 2009, _The Case for God_, New York: Anchor Books.
-* Audi, Robert, 2011, _Rationality and Religious Commitment_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199609574.001.0001
-* –––, 2013, “The Scientific Study of Religion and the Pillars of Human Dignity”, _Monist_, 96(3): 462–479. doi:10.5840/monist201396321
-* ––– (ed.), 2015, “Religious epistemology”, in _The Cambridge Dictionary of Philosophy_, third edition, Cambridge: Cambridge University Press, p. 925.
-* Augustine of Hippo, c. 413–427 CE, _The City of God_ (_De Civitate Dei_; quoted from the Henry Bettenson translation, Harmondsworth: Penguin, 1972.
-* Ayer, A.J., 1936, _Language, Truth and Logic_, London: Victor Gollancz
-* –––, 1973, _The Central Questions of Philosophy_, London: Weidenfeld and Nicolson.
-* Bagger, Matthew C., 1999, _Religious Experience, Justification, and History_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487637
-* Barrett, Justin 2004, _Why Would Anyone Believe in God?_, Lanham, MD: Altamira Press.
-* Beaty, Michael (ed.), 1990, _Christian Theism and the Problems of Philosophy_, Notre Dame: University of Notre Dame Press.
-* Beaty, Michael and Charles Taliaferro, 1990, “God and Concept Empiricism”, _Southwest Philosophy Review_, 6(2): 97–105. doi:10.5840/swphilreview19906222
-* Beilby, James (ed.), 2002, _Naturalism Defeated? Essays on Plantinga’s Evolutionary Argument Against Naturalism_, Ithaca, NY: Cornell University Press.
-* Bergmann, Gustav, 1954 \[1967], _The Metaphysics of Logical Positivism_, Madison, WI: University of Wisconsin Press. Second edition, 1967.
-* Bergmann, Michael, 2001, “Skeptical Theism and Rowe’s New Evidential Argument from Evil”, _Noûs_, 35(2): 278–296. doi:10.1111/0029-4624.00297
-* –––, 2012a, “Commonsense Skeptical Theism”, in _Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga_, Kelly James Clark and Michael Rea (eds.), Oxford: Oxford University Press, 9–30. doi:10.1093/acprof:oso/9780199766864.003.0002
-* –––, 2012b, “Rational Religious Belief without Arguments”, in _Philosophy of Religion: An Anthology_, Louis Pojman and Michael Rea (eds.), Boston: Wadsworth Publishing, pp. 534–49.
-* –––, 2015, “Religious Disagreement and Rational Demotion”, in _Oxford Studies in Philosophy of Religion_, Jonathan Kvanvig (ed.), Oxford: Oxford University Press, volume 6, 21–57. doi:10.1093/acprof:oso/9780198722335.003.0002
+* –––, 2012, *Re-visioning Gender in Philosophy of Religion: Reason, Love, and Our Epistemic Locatedness*, Burlington: Ashgate.
+* Armstrong, Karen, 2009, *The Case for God*, New York: Anchor Books.
+* Audi, Robert, 2011, *Rationality and Religious Commitment*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199609574.001.0001
+* –––, 2013, “The Scientific Study of Religion and the Pillars of Human Dignity”, *Monist*, 96(3): 462–479. doi:10.5840/monist201396321
+* ––– (ed.), 2015, “Religious epistemology”, in *The Cambridge Dictionary of Philosophy*, third edition, Cambridge: Cambridge University Press, p. 925.
+* Augustine of Hippo, c. 413–427 CE, *The City of God* (*De Civitate Dei*; quoted from the Henry Bettenson translation, Harmondsworth: Penguin, 1972.
+* Ayer, A.J., 1936, *Language, Truth and Logic*, London: Victor Gollancz
+* –––, 1973, *The Central Questions of Philosophy*, London: Weidenfeld and Nicolson.
+* Bagger, Matthew C., 1999, *Religious Experience, Justification, and History*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487637
+* Barrett, Justin 2004, *Why Would Anyone Believe in God?*, Lanham, MD: Altamira Press.
+* Beaty, Michael (ed.), 1990, *Christian Theism and the Problems of Philosophy*, Notre Dame: University of Notre Dame Press.
+* Beaty, Michael and Charles Taliaferro, 1990, “God and Concept Empiricism”, *Southwest Philosophy Review*, 6(2): 97–105. doi:10.5840/swphilreview19906222
+* Beilby, James (ed.), 2002, *Naturalism Defeated? Essays on Plantinga’s Evolutionary Argument Against Naturalism*, Ithaca, NY: Cornell University Press.
+* Bergmann, Gustav, 1954 \[1967], *The Metaphysics of Logical Positivism*, Madison, WI: University of Wisconsin Press. Second edition, 1967.
+* Bergmann, Michael, 2001, “Skeptical Theism and Rowe’s New Evidential Argument from Evil”, *Noûs*, 35(2): 278–296. doi:10.1111/0029-4624.00297
+* –––, 2012a, “Commonsense Skeptical Theism”, in *Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga*, Kelly James Clark and Michael Rea (eds.), Oxford: Oxford University Press, 9–30. doi:10.1093/acprof:oso/9780199766864.003.0002
+* –––, 2012b, “Rational Religious Belief without Arguments”, in *Philosophy of Religion: An Anthology*, Louis Pojman and Michael Rea (eds.), Boston: Wadsworth Publishing, pp. 534–49.
+* –––, 2015, “Religious Disagreement and Rational Demotion”, in *Oxford Studies in Philosophy of Religion*, Jonathan Kvanvig (ed.), Oxford: Oxford University Press, volume 6, 21–57. doi:10.1093/acprof:oso/9780198722335.003.0002
 * –––, 2017, “Foundationalism”, in Abraham and Aquino 2017. doi:10.1093/oxfordhb/9780199662241.013.8
-* Bergmann, Michael and Patrick Kain (eds.), 2014, _Challenges to Moral and Religious Belief: Disagreement and Evolution_, Oxford University Press. doi:10.1093/acprof:oso/9780199669776.001.0001
-* Bergmann, Michael and Michael Rea, 2005, “In Defence of Sceptical Theism: A Reply to Almeida and Oppy”, _Australasian Journal of Philosophy_, 83(2): 241–251. doi:10.1080/00048400500111147
-* Bergmann, Michael, Michael J. Murray, and Michael C. Rea (eds.), 2010, _Divine Evil? The Moral Character of the God of Abraham_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199576739.001.0001
-* Boyer, Pascal, 2001, _Religion Explained: The Evolutionary Origins of Religious Thought_, New York: Basic Books.
+* Bergmann, Michael and Patrick Kain (eds.), 2014, *Challenges to Moral and Religious Belief: Disagreement and Evolution*, Oxford University Press. doi:10.1093/acprof:oso/9780199669776.001.0001
+* Bergmann, Michael and Michael Rea, 2005, “In Defence of Sceptical Theism: A Reply to Almeida and Oppy”, *Australasian Journal of Philosophy*, 83(2): 241–251. doi:10.1080/00048400500111147
+* Bergmann, Michael, Michael J. Murray, and Michael C. Rea (eds.), 2010, *Divine Evil? The Moral Character of the God of Abraham*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199576739.001.0001
+* Boyer, Pascal, 2001, *Religion Explained: The Evolutionary Origins of Religious Thought*, New York: Basic Books.
 * Brody, Baruch, 1974, “Morality and Religion Reconsidered in Readings in Philosophy of Religion: An Analytical Approach”, B. Brody (ed.), Englewood Cliffs: Prentice-Hall, 592–603.
-* Brower, Jeffrey E., 2008, “Making Sense of Divine Simplicity”, _Faith and Philosophy_, 25(1): 3–30. doi:10.5840/faithphil20082511
-* –––, 2009, “Simplicity and Aseity”, in _The Oxford Handbook of Philosophical Theology_, Thomas P. Flint and Michael C. Rea (eds.), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199596539.013.0006
-* Brown, David, 1987, _Continental Philosophy and Modern Theology_, Oxford: Blackwell.
-* –––, 2004, _God and Enchantment of Place: Reclaiming Human Experience_, Oxford: Oxford University Press. doi:10.1093/0199271984.001.0001
-* –––, 2016, _God in a Single Vision: Integrating Philosophy and Theology_, Christopher R. Brewer and Robert MacSwain (eds.), London: Routledge.
-* Bruntrup, Godehard and Ludwig Jaskolla (eds.), 2016, _Panpsychism: Contemporary Perspectives_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199359943.001.0001
-* Buckareff, Andrei and Yujin Nagasawa (eds.), 2016, _Alternative Concepts of God: Essays on the Metaphysics of the Divine_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722250.001.0001
-* Burton, David, 2017, _Buddhism: A Contemporary Philosophical Investigation_, (Investigating Philosophy of Religion), London: Routledge.
-* Cain, Clifford Chalmers, 2015, “Cosmic Origins and Genesis: A Religious Response”, in _Re-Vision: A New Look at the Relationship between Science and Religion_, Clifford Chalmers Cain (ed.), Lanham, MD: University Press of America, 35–44.
-* Caputo, John D., 2001, _The Religious_, (Blackwell Readings in Continental Philosophy), Oxford: Wiley-Blackwell.
-* Chandler, Jake and Victoria S. Harrison (eds.), 2012, _Probability in the Philosophy of Religion_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199604760.001.0001
-* Chappell, Tim, 1996, “Why Is Faith a Virtue?”, _Religious Studies_, 32(1): 27–36. doi:10.1017/S0034412500024045
-* Clack, Beverley and Brian R. Clack, 1998 \[2008], _The Philosophy of Religion: A Critical Introduction_, Malden, MA: Polity Press. Revised and fully expanded second edition, 2008.
-* Clark, Kelly James, 2014, _Religion and the Sciences of Origins_, New York: Palgrave Macmillan US. doi:10.1057/9781137414816
-* Clark, Kelly James and Raymond J. VanArragon (eds.), 2011, _Evidence and Religious Belief_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199603718.001.0001
-* Clark, Stephen R. L., 1987, “Animals, Ecosystems and the Liberal Ethic”, _Monist_, 70(1): 114–133. doi:10.5840/monist19877016
-* –––, 1995, “Ecology and the Transformation of Nature”, _Theology in Green_, 3: 28–46.
-* –––, 2017, “Animals in Religion”, _Oxford Handbook of Animal Studies_, Linda Kalof (ed.), New York: Oxford University Press, 571–589. doi:10.1093/oxfordhb/9780199927142.013.19
-* Clayton, John, 2006, _Religions, Reasons and Gods: Essays in Cross-Cultural Philosophy of Religion_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511488399
-* Coakley, Sarah, 2002, _Powers and Submissions: Spirituality, Philosophy, and Gender_, (Challenges in Contemporary Theology), Malden, MA: Blackwell Publishers.
-* Collins, James, 1967, _The Emergence of Philosophy of Religion_, New Haven, CT: Yale University Press.
-* Collins, Robin, 2009, “The Teleological Argument: An explanation of the fine-tuning of the universe”, in _The Blackwell Companion to Natural Theology_, W.L. Craig and J.P. Morelanad (eds.), Oxford: Wiley Blackwell, 202–281.
-* Copleston, Frederick C., 1960, _Contemporary Philosophy: Studies of Logical Positivism and Existentialism_, London: Burns & Oates.
-* Cottingham, John, 2014, _Philosophy of Religion: Towards a More Humane Approach_, New York: Cambridge University Press. doi:10.1017/CBO9781139094627
-* Craig, William Lane, 1979, _The Kalām Cosmological Argument_, New York: Barnes and Noble.
-* –––, 1980, _The Cosmological Argument from Plato to Leibniz_, New York: Barnes and Noble.
-* Craig, William Lane and J. P. Moreland (eds.), 2009, _The Blackwell Companion to Natural Theology_, Oxford: Wiley-Blackwell. doi:10.1002/9781444308334
-* Craig, William Lane and Quentin Smith, 1993, _Theism, Atheism, and Big Bang Cosmology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198263838.001.0001
-* Creel, Richard E., 1995, _Divine Impassibility: An Essay in Philosophical Theology_, Cambridge: Cambridge University Press.
-* Crockett, Clayton, B. Keith Putt, and Jeffrey W. Robbins (eds.), 2014, _The Future of Continental Philosophy of Religion_ (Indiana Series in the Philosophy of Religion), Bloomington, IN: Indiana University Press.
-* Dasgupta, Surendranath, 1922–1955, _A History of Indian Philosophy_, 5 vols., Cambridge: Cambridge University Press.
-* Davies, Brian, 1993, _An Introduction to the Philosophy of Religion_, Oxford: Oxford University Press.
-* –––, 2006, _The Reality of God and the Problem of Evil_, London: Continuum.
-* Davis, Caroline Franks, 1989, _The Evidential Force of Religious Experience_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198250012.001.0001
-* De Cruz, Helen and Johan De Smedt, 2010, “Paley’s iPod: The Cognitive Basis of the Design Argument within Natural Theology”, _Zygon_, 45(3): 665–684. doi:10.1111/j.1467-9744.2010.01120.x
-* Dennett, Daniel C., 2006, _Breaking the Spell: Religion as a Natural Phenomenon_, New York: Viking.
-* Diller, Jeanine and Asa Kasher (eds.), 2013, _Models of God and Alternative Ultimate Realities_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-5219-1
-* Dombrowski, Daniel A., 2006, _Rethinking the Ontological Argument: A Neoclassical Theistic Response_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498916
-* Dore, Clement, 1984, _Theism_, Dordrecht: D. Reidel. doi:10.1007/978-94-009-6300-9
+* Brower, Jeffrey E., 2008, “Making Sense of Divine Simplicity”, *Faith and Philosophy*, 25(1): 3–30. doi:10.5840/faithphil20082511
+* –––, 2009, “Simplicity and Aseity”, in *The Oxford Handbook of Philosophical Theology*, Thomas P. Flint and Michael C. Rea (eds.), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199596539.013.0006
+* Brown, David, 1987, *Continental Philosophy and Modern Theology*, Oxford: Blackwell.
+* –––, 2004, *God and Enchantment of Place: Reclaiming Human Experience*, Oxford: Oxford University Press. doi:10.1093/0199271984.001.0001
+* –––, 2016, *God in a Single Vision: Integrating Philosophy and Theology*, Christopher R. Brewer and Robert MacSwain (eds.), London: Routledge.
+* Bruntrup, Godehard and Ludwig Jaskolla (eds.), 2016, *Panpsychism: Contemporary Perspectives*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199359943.001.0001
+* Buckareff, Andrei and Yujin Nagasawa (eds.), 2016, *Alternative Concepts of God: Essays on the Metaphysics of the Divine*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722250.001.0001
+* Burton, David, 2017, *Buddhism: A Contemporary Philosophical Investigation*, (Investigating Philosophy of Religion), London: Routledge.
+* Cain, Clifford Chalmers, 2015, “Cosmic Origins and Genesis: A Religious Response”, in *Re-Vision: A New Look at the Relationship between Science and Religion*, Clifford Chalmers Cain (ed.), Lanham, MD: University Press of America, 35–44.
+* Caputo, John D., 2001, *The Religious*, (Blackwell Readings in Continental Philosophy), Oxford: Wiley-Blackwell.
+* Chandler, Jake and Victoria S. Harrison (eds.), 2012, *Probability in the Philosophy of Religion*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199604760.001.0001
+* Chappell, Tim, 1996, “Why Is Faith a Virtue?”, *Religious Studies*, 32(1): 27–36. doi:10.1017/S0034412500024045
+* Clack, Beverley and Brian R. Clack, 1998 \[2008], *The Philosophy of Religion: A Critical Introduction*, Malden, MA: Polity Press. Revised and fully expanded second edition, 2008.
+* Clark, Kelly James, 2014, *Religion and the Sciences of Origins*, New York: Palgrave Macmillan US. doi:10.1057/9781137414816
+* Clark, Kelly James and Raymond J. VanArragon (eds.), 2011, *Evidence and Religious Belief*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199603718.001.0001
+* Clark, Stephen R. L., 1987, “Animals, Ecosystems and the Liberal Ethic”, *Monist*, 70(1): 114–133. doi:10.5840/monist19877016
+* –––, 1995, “Ecology and the Transformation of Nature”, *Theology in Green*, 3: 28–46.
+* –––, 2017, “Animals in Religion”, *Oxford Handbook of Animal Studies*, Linda Kalof (ed.), New York: Oxford University Press, 571–589. doi:10.1093/oxfordhb/9780199927142.013.19
+* Clayton, John, 2006, *Religions, Reasons and Gods: Essays in Cross-Cultural Philosophy of Religion*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511488399
+* Coakley, Sarah, 2002, *Powers and Submissions: Spirituality, Philosophy, and Gender*, (Challenges in Contemporary Theology), Malden, MA: Blackwell Publishers.
+* Collins, James, 1967, *The Emergence of Philosophy of Religion*, New Haven, CT: Yale University Press.
+* Collins, Robin, 2009, “The Teleological Argument: An explanation of the fine-tuning of the universe”, in *The Blackwell Companion to Natural Theology*, W.L. Craig and J.P. Morelanad (eds.), Oxford: Wiley Blackwell, 202–281.
+* Copleston, Frederick C., 1960, *Contemporary Philosophy: Studies of Logical Positivism and Existentialism*, London: Burns & Oates.
+* Cottingham, John, 2014, *Philosophy of Religion: Towards a More Humane Approach*, New York: Cambridge University Press. doi:10.1017/CBO9781139094627
+* Craig, William Lane, 1979, *The Kalām Cosmological Argument*, New York: Barnes and Noble.
+* –––, 1980, *The Cosmological Argument from Plato to Leibniz*, New York: Barnes and Noble.
+* Craig, William Lane and J. P. Moreland (eds.), 2009, *The Blackwell Companion to Natural Theology*, Oxford: Wiley-Blackwell. doi:10.1002/9781444308334
+* Craig, William Lane and Quentin Smith, 1993, *Theism, Atheism, and Big Bang Cosmology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198263838.001.0001
+* Creel, Richard E., 1995, *Divine Impassibility: An Essay in Philosophical Theology*, Cambridge: Cambridge University Press.
+* Crockett, Clayton, B. Keith Putt, and Jeffrey W. Robbins (eds.), 2014, *The Future of Continental Philosophy of Religion* (Indiana Series in the Philosophy of Religion), Bloomington, IN: Indiana University Press.
+* Dasgupta, Surendranath, 1922–1955, *A History of Indian Philosophy*, 5 vols., Cambridge: Cambridge University Press.
+* Davies, Brian, 1993, *An Introduction to the Philosophy of Religion*, Oxford: Oxford University Press.
+* –––, 2006, *The Reality of God and the Problem of Evil*, London: Continuum.
+* Davis, Caroline Franks, 1989, *The Evidential Force of Religious Experience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198250012.001.0001
+* De Cruz, Helen and Johan De Smedt, 2010, “Paley’s iPod: The Cognitive Basis of the Design Argument within Natural Theology”, *Zygon*, 45(3): 665–684. doi:10.1111/j.1467-9744.2010.01120.x
+* Dennett, Daniel C., 2006, *Breaking the Spell: Religion as a Natural Phenomenon*, New York: Viking.
+* Diller, Jeanine and Asa Kasher (eds.), 2013, *Models of God and Alternative Ultimate Realities*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-5219-1
+* Dombrowski, Daniel A., 2006, *Rethinking the Ontological Argument: A Neoclassical Theistic Response*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498916
+* Dore, Clement, 1984, *Theism*, Dordrecht: D. Reidel. doi:10.1007/978-94-009-6300-9
 * Draper, Paul, 1996, “The Skeptical Theist”, in Howard-Snyder 1996: 175–192.
-* –––, 2013, “The Limitations of Pure Skeptical Theism”, _Res Philosophica_, 90(1): 97–111. doi:10.11612/resphil.2013.90.1.6
-* –––, 2014, “Confirmation Theory and the Core of CORNEA”, in _Skeptical Theism: New Essays_, Trent Dougherty and Justin P. McBrayer (eds.), Oxford University Press, 132–141. doi:10.1093/acprof:oso/9780199661183.003.0010
-* Draper, Paul and J. L. Schellenberg (eds.), 2017, _Renewing Philosophy of Religion: Exploratory Essays_, Oxford: Oxford University Press. doi:10.1093/oso/9780198738909.001.0001
-* Dworkin, Ronald, 2013, _Religion without God_, Cambridge, MA: Harvard University Press.
-* Earman, John, 2000, _Hume’s Abject Failure: The Argument against Miracles_, New York: Oxford University Press. doi:10.1093/0195127382.001.0001
-* Einstein, Albert, 1954, _Ideas and Opinions_, New York: Crown Publishers; reprinted London: Souvenir Press, 1973.
-* Ekstrom, Laura, 2021, _God, Suffering, and the Value of Free Will_, Oxford: Oxford University Press.
-* Ellis, Fiona, 2014, _God, Values, and Nature_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198714125.001.0001
-* –––, 2018, _New Models of Religious Understanding_, Oxford: Oxford University Press. doi:10.1093/oso/9780198796732.001.0001
-* Evans, C. Stephen, 1982, _Philosophy of Religion: Thinking About Faith_, first edition, Downers Grove, IL: InterVarsity Press.
-* –––, 1996, _The Historical Christ and the Jesus of Faith: The Incarnational Narrative as History_, Oxford: Oxford University Press. doi:10.1093/019826397X.001.0001
-* –––, 2010, _Natural Signs and Knowledge of God: A New Look at Theistic Arguments_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199217168.001.0001
-* –––, 2013, _God and Moral Obligation_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199696680.001.0001
-* Evans, C. Stephen and R. Zachary Manis, 2006, _Philosophy of Religion: Thinking about Faith_, second edition, Downers Grove, IL: InterVarsity Press.
-* Everitt, Nicholas, 2004, _The Non-Existence of God_, London: Routledge.
+* –––, 2013, “The Limitations of Pure Skeptical Theism”, *Res Philosophica*, 90(1): 97–111. doi:10.11612/resphil.2013.90.1.6
+* –––, 2014, “Confirmation Theory and the Core of CORNEA”, in *Skeptical Theism: New Essays*, Trent Dougherty and Justin P. McBrayer (eds.), Oxford University Press, 132–141. doi:10.1093/acprof:oso/9780199661183.003.0010
+* Draper, Paul and J. L. Schellenberg (eds.), 2017, *Renewing Philosophy of Religion: Exploratory Essays*, Oxford: Oxford University Press. doi:10.1093/oso/9780198738909.001.0001
+* Dworkin, Ronald, 2013, *Religion without God*, Cambridge, MA: Harvard University Press.
+* Earman, John, 2000, *Hume’s Abject Failure: The Argument against Miracles*, New York: Oxford University Press. doi:10.1093/0195127382.001.0001
+* Einstein, Albert, 1954, *Ideas and Opinions*, New York: Crown Publishers; reprinted London: Souvenir Press, 1973.
+* Ekstrom, Laura, 2021, *God, Suffering, and the Value of Free Will*, Oxford: Oxford University Press.
+* Ellis, Fiona, 2014, *God, Values, and Nature*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198714125.001.0001
+* –––, 2018, *New Models of Religious Understanding*, Oxford: Oxford University Press. doi:10.1093/oso/9780198796732.001.0001
+* Evans, C. Stephen, 1982, *Philosophy of Religion: Thinking About Faith*, first edition, Downers Grove, IL: InterVarsity Press.
+* –––, 1996, *The Historical Christ and the Jesus of Faith: The Incarnational Narrative as History*, Oxford: Oxford University Press. doi:10.1093/019826397X.001.0001
+* –––, 2010, *Natural Signs and Knowledge of God: A New Look at Theistic Arguments*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199217168.001.0001
+* –––, 2013, *God and Moral Obligation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199696680.001.0001
+* Evans, C. Stephen and R. Zachary Manis, 2006, *Philosophy of Religion: Thinking about Faith*, second edition, Downers Grove, IL: InterVarsity Press.
+* Everitt, Nicholas, 2004, *The Non-Existence of God*, London: Routledge.
 * Fales, Evan, 2004, “Do Mystics See God?” in Peterson and VanArragon 2004: 145–148.
-* Firestone, Cris and Nathan Jacobs (eds.), 2012, _The Persistence of the Sacred in Modern Thought_, Notre Dame: University of Notre Dame Press.
-* Firth, Roderick, 1952 \[1970], “Ethical Absolutism and the Ideal Observer”, _Philosophy and Phenomenological Research_, 12(3): 317–345; reprinted in _Readings in Ethical Theory_, Wilfrid Sellars and John Hospers (eds.), Englewood Cliffs, NJ: Prentice-Hall, 1970: 200–221. doi:10.2307/2103988
-* Flew, Anthony G., 1955, “Theology and Falsification”, in Flew & MacIntyre 1955: 96–130; originally published 1950 in the first volume of a short lived student journal, _University_, at Oxford University; reprinted in Mitchell 1971: 1–2.
-* –––, 1984, _God, Freedom and Immortality_, Buffalo, NY: Prometheus Books.
-* –––, 2007, _There Is a God: How the World’s Most Notorious Atheist Changed His Mind_, Roy Abraham Varghese (ed.), New York: HarperOne.
-* Flew, Antony and Alasdair C. MacIntyre (eds.), 1955, _New Essays in Philosophical Theology_, London: SCM Press.
-* Forrest, Peter, 1996, _God without the Supernatural: A Defense of Scientific Theism_, Ithaca, NY: Cornell University Press.
-* Foster, John, 1985, _Ayer_, London: Routledge and Kegan Paul.
-* –––, 2004, _The Divine Lawmaker: Lectures on Induction, Laws of Nature, and the Existence of God_, Oxford: Oxford University Press. doi:10.1093/0199250596.001.0001
-* Geivett, R. Douglas and Brendan Sweetman (eds.), 1992, _Contemporary Perspectives on Religious Epistemology_, Oxford: Oxford University Press.
-* Gellman, Jerome, 1997, _Experience of God and the Rationality of Theistic Belief_, Ithaca, NY: Cornell University Press.
-* –––, 2001, _Mystical Experience of God: A Philosophical Inquiry_, London: Ashgate.
-* Goetz, Stewart, 2008, _Freedom, Teleology, and Evil_, London: Continuum.
-* Goetz, Stewart and Charles Taliaferro, 2008, _Naturalism_, (Interventions), Grand Rapids, MI: Eerdmans.
-* Gendler, Tamar and John Hawthorne (eds.), 2002, _Conceivability and Possibility_, Oxford: Oxford University Press.
-* Griffiths, Paul J., 1994, _On Being Buddha: The Classical Doctrine of Buddhahood_, Albany, NY: State University of New York Press.
-* Gutting, Gary, 1982, _Religious Belief and Religious Skepticism_, Notre Dame, IN: University of Notre Dame Press.
-* Hare, John E., 1996, _The Moral Gap: Kantian Ethics, Human Limits, and God’s Assistance_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198269571.001.0001
-* –––, 2015, _God’s Command_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199602018.001.0001
-* Harris, Harriet A. and Christopher J. Insole (eds.), 2005, _Faith and Philosophical Analysis: The Impact of Analytical Philosophy on the Philosophy of Religion_, (Heythrop Studies in Contemporary Philosophy, Religion and Theology), Aldershot, England: Ashgate.
-* Harrison, Victoria S., 2006, “Internal Realism and the Problem of Religious Diversity”, _Philosophia_, 34(3): 287–301. doi:10.1007/s11406-006-9029-5
-* –––, 2012, _Eastern Philosophy: The Basics_, London and New York: Routledge.
-* –––, 2015, “Religious Pluralism”, in _The Routledge Handbook of Contemporary Philosophy of Religion_, Graham Oppy (ed.), London and New York: Routledge, 257–269.
-* –––, 2022. _Eastern Philosophy of Religion_, Cambridge: Cambridge University Press.
-* Hasker, William, 1989, _God, Time, and Knowledge_, Ithaca, NY: Cornell University Press.
-* –––, 1999, _The Emergent Self_, Ithaca, NY: Cornell University Press.
-* Hedley, Douglas, 2016, _The Iconic Imagination_, London: Bloomsbury.
-* Helm, Paul, 1988, _Eternal God: A Study of God without Time_, Oxford: Clarendon Press. doi:10.1093/0198237251.001.0001
-* –––, 2000, _Faith with Reason_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199256631.001.0001
-* Hempel, Carl G., 1950 \[1959], “Problems and Changes in the Empiricist Criterion of Meaning”, _Revue Internationale de Philosophie_, 4(11): 41–63; reprinted as “The Empiricist Criterion of Meaning” in _Logical Positivism_, A.J. Ayer (ed.), Glencoe, IL: Free Press, 1959: 108–132.
-* Hepburn, Ronald W., 1963, “From World to God”, _Mind_, 72(285): 40–50. doi:10.1093/mind/LXXII.285.40
-* Hick, John, 1963 \[1990], _Philosophy of Religion_, fourth edition, Englewood Cliffs, NJ: Prentice-Hall.
-* ––– (ed.), 1964 \[1970], _Classical and Contemporary Readings in the Philosophy of Religion_, second edition, Englewood Cliffs, NJ: Prentice-Hall.
-* –––, 1966 \[1977], _Evil and the God of Love_, London: Macmillan. Second edition, 1977.
-* –––, 1971, “Rational Theistic Belief without Proofs”, in his _Arguments for the Existence of God_, New York: Herder and Herder.
+* Firestone, Cris and Nathan Jacobs (eds.), 2012, *The Persistence of the Sacred in Modern Thought*, Notre Dame: University of Notre Dame Press.
+* Firth, Roderick, 1952 \[1970], “Ethical Absolutism and the Ideal Observer”, *Philosophy and Phenomenological Research*, 12(3): 317–345; reprinted in *Readings in Ethical Theory*, Wilfrid Sellars and John Hospers (eds.), Englewood Cliffs, NJ: Prentice-Hall, 1970: 200–221. doi:10.2307/2103988
+* Flew, Anthony G., 1955, “Theology and Falsification”, in Flew & MacIntyre 1955: 96–130; originally published 1950 in the first volume of a short lived student journal, *University*, at Oxford University; reprinted in Mitchell 1971: 1–2.
+* –––, 1984, *God, Freedom and Immortality*, Buffalo, NY: Prometheus Books.
+* –––, 2007, *There Is a God: How the World’s Most Notorious Atheist Changed His Mind*, Roy Abraham Varghese (ed.), New York: HarperOne.
+* Flew, Antony and Alasdair C. MacIntyre (eds.), 1955, *New Essays in Philosophical Theology*, London: SCM Press.
+* Forrest, Peter, 1996, *God without the Supernatural: A Defense of Scientific Theism*, Ithaca, NY: Cornell University Press.
+* Foster, John, 1985, *Ayer*, London: Routledge and Kegan Paul.
+* –––, 2004, *The Divine Lawmaker: Lectures on Induction, Laws of Nature, and the Existence of God*, Oxford: Oxford University Press. doi:10.1093/0199250596.001.0001
+* Geivett, R. Douglas and Brendan Sweetman (eds.), 1992, *Contemporary Perspectives on Religious Epistemology*, Oxford: Oxford University Press.
+* Gellman, Jerome, 1997, *Experience of God and the Rationality of Theistic Belief*, Ithaca, NY: Cornell University Press.
+* –––, 2001, *Mystical Experience of God: A Philosophical Inquiry*, London: Ashgate.
+* Goetz, Stewart, 2008, *Freedom, Teleology, and Evil*, London: Continuum.
+* Goetz, Stewart and Charles Taliaferro, 2008, *Naturalism*, (Interventions), Grand Rapids, MI: Eerdmans.
+* Gendler, Tamar and John Hawthorne (eds.), 2002, *Conceivability and Possibility*, Oxford: Oxford University Press.
+* Griffiths, Paul J., 1994, *On Being Buddha: The Classical Doctrine of Buddhahood*, Albany, NY: State University of New York Press.
+* Gutting, Gary, 1982, *Religious Belief and Religious Skepticism*, Notre Dame, IN: University of Notre Dame Press.
+* Hare, John E., 1996, *The Moral Gap: Kantian Ethics, Human Limits, and God’s Assistance*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198269571.001.0001
+* –––, 2015, *God’s Command*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199602018.001.0001
+* Harris, Harriet A. and Christopher J. Insole (eds.), 2005, *Faith and Philosophical Analysis: The Impact of Analytical Philosophy on the Philosophy of Religion*, (Heythrop Studies in Contemporary Philosophy, Religion and Theology), Aldershot, England: Ashgate.
+* Harrison, Victoria S., 2006, “Internal Realism and the Problem of Religious Diversity”, *Philosophia*, 34(3): 287–301. doi:10.1007/s11406-006-9029-5
+* –––, 2012, *Eastern Philosophy: The Basics*, London and New York: Routledge.
+* –––, 2015, “Religious Pluralism”, in *The Routledge Handbook of Contemporary Philosophy of Religion*, Graham Oppy (ed.), London and New York: Routledge, 257–269.
+* –––, 2022. *Eastern Philosophy of Religion*, Cambridge: Cambridge University Press.
+* Hasker, William, 1989, *God, Time, and Knowledge*, Ithaca, NY: Cornell University Press.
+* –––, 1999, *The Emergent Self*, Ithaca, NY: Cornell University Press.
+* Hedley, Douglas, 2016, *The Iconic Imagination*, London: Bloomsbury.
+* Helm, Paul, 1988, *Eternal God: A Study of God without Time*, Oxford: Clarendon Press. doi:10.1093/0198237251.001.0001
+* –––, 2000, *Faith with Reason*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199256631.001.0001
+* Hempel, Carl G., 1950 \[1959], “Problems and Changes in the Empiricist Criterion of Meaning”, *Revue Internationale de Philosophie*, 4(11): 41–63; reprinted as “The Empiricist Criterion of Meaning” in *Logical Positivism*, A.J. Ayer (ed.), Glencoe, IL: Free Press, 1959: 108–132.
+* Hepburn, Ronald W., 1963, “From World to God”, *Mind*, 72(285): 40–50. doi:10.1093/mind/LXXII.285.40
+* Hick, John, 1963 \[1990], *Philosophy of Religion*, fourth edition, Englewood Cliffs, NJ: Prentice-Hall.
+* ––– (ed.), 1964 \[1970], *Classical and Contemporary Readings in the Philosophy of Religion*, second edition, Englewood Cliffs, NJ: Prentice-Hall.
+* –––, 1966 \[1977], *Evil and the God of Love*, London: Macmillan. Second edition, 1977.
+* –––, 1971, “Rational Theistic Belief without Proofs”, in his *Arguments for the Existence of God*, New York: Herder and Herder.
 * –––, 1973a, “The New Map of the Universe of Faiths”, in Hick 1973b \[1988: 133–147]. doi:10.1007/978-1-349-19049-2\_10
-* –––, 1973b \[1988], _God and the Universe of Faiths: Essays in the Philosophy of Religion_, London: Macmillan; reprinted 1988.
-* –––, 1989, _An Interpretation of Religion: Human Responses to the Transcendent_, New Haven, CT: Yale University Press.
-* –––, 2004, _The Fifth Dimension: An Exploration of the Spiritual Realm_, Oxford: Oneworld Publications.
-* –––, 2006, _The New Frontier of Religion and Science: Religious Experience, Neuroscience, and The Transcendent_, New York: Palgrave.
-* Hick, John and Arthur C. McGill (eds.), 1967, _The Many-Faced Argument: Recent Studies on the Ontological Argument for the Existence of God_, New York: Macmillan.
-* Hill, Daniel J., 2005, _Divinity and Maximal Greatness_, London: Routledge.
-* Howard-Snyder, Daniel (ed.), 1996, _The Evidential Argument from Evil_, Bloomington, IN: Indiana University Press.
-* Howard-Snyder, Daniel and Paul Moser (eds.), 2001, _Divine Hiddenness: New Essays_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511606090
-* Hughes, Christopher, 1989, _On a Complex Theory of a Simple God: An Investigation in Aquinas’ Philosophical Theology_, Ithaca, NY: Cornell University Press.
-* Hughes, Gerard J., 1995, _The Nature of God_, London: Routledge.
-* Jantzen, Grace M., 1994, “Feminists, Philosophers, and Mystics”, _Hypatia_, 9(4): 186–206. doi:10.1111/j.1527-2001.1994.tb00655.x
-* Jordan, Jeff (ed.), 1994, _Gambling on God: Essays on Pascal’s Wager_, Lanham, MD: Rowman & Littlefield.
-* Kelemen, Deborah, 2004, “Are Children ‘Intuitive Theists’? Reasoning About Purpose and Design in Nature”, _Psychological Science_, 15(5): 295–301. doi:10.1111/j.0956-7976.2004.00672.x
-* Kenny, Anthony, 1979, _The God of the Philosophers_, Oxford: Clarendon Press.
-* Kerr, Fergus, 1986, _Theology after Wittgenstein_, Oxford: Blackwell.
+* –––, 1973b \[1988], *God and the Universe of Faiths: Essays in the Philosophy of Religion*, London: Macmillan; reprinted 1988.
+* –––, 1989, *An Interpretation of Religion: Human Responses to the Transcendent*, New Haven, CT: Yale University Press.
+* –––, 2004, *The Fifth Dimension: An Exploration of the Spiritual Realm*, Oxford: Oneworld Publications.
+* –––, 2006, *The New Frontier of Religion and Science: Religious Experience, Neuroscience, and The Transcendent*, New York: Palgrave.
+* Hick, John and Arthur C. McGill (eds.), 1967, *The Many-Faced Argument: Recent Studies on the Ontological Argument for the Existence of God*, New York: Macmillan.
+* Hill, Daniel J., 2005, *Divinity and Maximal Greatness*, London: Routledge.
+* Howard-Snyder, Daniel (ed.), 1996, *The Evidential Argument from Evil*, Bloomington, IN: Indiana University Press.
+* Howard-Snyder, Daniel and Paul Moser (eds.), 2001, *Divine Hiddenness: New Essays*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511606090
+* Hughes, Christopher, 1989, *On a Complex Theory of a Simple God: An Investigation in Aquinas’ Philosophical Theology*, Ithaca, NY: Cornell University Press.
+* Hughes, Gerard J., 1995, *The Nature of God*, London: Routledge.
+* Jantzen, Grace M., 1994, “Feminists, Philosophers, and Mystics”, *Hypatia*, 9(4): 186–206. doi:10.1111/j.1527-2001.1994.tb00655.x
+* Jordan, Jeff (ed.), 1994, *Gambling on God: Essays on Pascal’s Wager*, Lanham, MD: Rowman & Littlefield.
+* Kelemen, Deborah, 2004, “Are Children ‘Intuitive Theists’? Reasoning About Purpose and Design in Nature”, *Psychological Science*, 15(5): 295–301. doi:10.1111/j.0956-7976.2004.00672.x
+* Kenny, Anthony, 1979, *The God of the Philosophers*, Oxford: Clarendon Press.
+* Kerr, Fergus, 1986, *Theology after Wittgenstein*, Oxford: Blackwell.
 * King, Nathan L. and Thomas Kelly, 2017, “Disagreement and the Epistemology of Theology”, in Abraham and Aquino 2017. doi:10.1093/oxfordhb/9780199662241.013.4
-* Kitcher, Philip, 2014, _Life after Faith: The Case for Secular Humanism_, New Haven, CT: Yale University Press.
-* Kraay, Klaas J. (ed.), 2015, _God and the Multiverse: Scientific, Philosophical, and Theological Perspectives_, (Routledge Studies in the Philosophy of Religion 10), New York: Routledge/Taylor & Francis Group.
-* Kvanvig, Jonathan L., 1986, _The Possibility of an All-Knowing God_, London: Macmillan.
-* Kwan, Kai-man, 2003, “Is the Critical Trust Approach to Religious Experience Incompatible with Religious Particularism?: A Reply to Michael Martin and John Hick”, _Faith and Philosophy_, 20(2): 152–169. doi:10.5840/faithphil200320229
-* –––, 2013, _Rainbow of Experience, Critical Trust, and God_, London: Continuum.
-* Leftow, Brian, 1991, _Time and Eternity_, Ithaca, NY: Cornell University Press.
-* –––, 2022, _Anselm’s Argument; Divine Necessity_, Oxford: Oxford University Press.
-* Leslie, John, 1989, _Universes_, London: Routledge.
-* –––, 2007, _Immortality Defended_, Oxford: Blackwell Publishing.
-* Lund, David H., 2005, _The Conscious Self: The Immaterial Center of Subjective States_, Amherst, NY: Humanity Books.
-* Lycan, William, 2019, _On Evidence in Philosophy_, Oxford: Oxford University Press.
-* MacDonald, Scott Charles (ed.), 1991, _Being and Goodness: The Concept of the Good in Metaphysics and Philosophical Theology_, Ithaca, NY: Cornell University Press.
-* Mackie, J.L., 1983, _The Miracle of Theism: Arguments for and Against the Existence of God_, Oxford: Clarendon Press.
-* MacSwain, Robert, 2013, _Solved by Sacrifice: Austin Farrer, Fideism, and the Evidence of Faith_, (Studies in Philosophical Theology, 51), Leuven: Peeters.
-* Malcolm, Norman, 1977, “The Groundlessness of Religious Beliefs”, in _Reason and Religion_, Stuart C. Brown (ed.), Ithaca, NY: Cornell University Press.
-* Manson, Neil, 2003, _God and Design: The teleological argument and modern science_, London: Routledge.
-* Marsh, Jason, 2013, “Darwin and the Problem of Natural Nonbelief”, _Monist_, 96(3): 349–376. doi:10.5840/monist201396316
-* –––, 2014, “Assessing the Third Way”, in _The Roots of Religion: Exploring the Cognitive Science of Religion_, Roger Trigg and Justin Barrett (eds.), Farnham, UK: Ashgate, 127–148.
-* –––, 2015, “Procreative Ethics and the Problem of Evil”, in _Permissible Progeny? The Morality of Procreation and Parenting_, Sarah Hannan, Samantha Brennan, and Richard Vernon (eds.), Oxford: Oxford University Press, 65–86. doi:10.1093/acprof:oso/9780199378111.003.0003
-* Martin, Michael, 1990, _Atheism: A Philosophical Analysis_, Philadelphia, PA: Temple University Press.
-* Mawson, T.J., 2016, _God and the Meanings of Life: What God Could and Couldn’t Do to Make Our Lives More Meaningful_, London: Bloomsbury Academic.
-* McKim, Robert, 2018, “Why Religious Pluralism is Not Evil and is in Some Respects Quite Good” in _The History of Evil from the Mid-Twentieth Century to Today_, (The History of Evil, 6), Jerome Gellman (ed.), London: Routledge, chapter 12.
-* Meister, Chad (ed.), 2010, _The Oxford Handbook of Religious Diversity_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195340136.001.0001
-* –––, 2018, _Evil: A Guide for the Perplexed_, second edition, London: Bloomsbury.
-* Meister, Chad and Paul Moser (eds.), 2017, _The Cambridge Companion to the Problem of Evil_, Cambridge: Cambridge University Press. doi:10.1017/9781107295278
-* Meister, Chad and Charles Taliaferro (series editors), 2018, _History of Evil_, London: Routledge, 6 volumes
-  * Angier, Tom P.S. (ed.), _The History of Evil in Antiquity: 2000 BCE – 450 CE_, (History of Evil, 1)
-  * Murray, Michael, 2008, _Nature Red in tooth and claw_, Oxford: Oxford University Press.
-  * Pinsent, Andrew (ed.), _The History of Evil in the Medieval Age: 450–1450 CE_, (History of Evil, 2)
-  * Robinson, Daniel (ed.), _The History of Evil in the Early Modern Age: 1450–1700 CE_, (History of Evil, 3)
-  * Hedley, Douglas (ed.), _The History of Evil in the Eighteenth and Nineteenth Centuries: 1700–1900 CE_, (History of Evil, 4)
-  * Harrison, Victoria S. (ed.), _The History of Evil in the Early Twentieth Century: 1900–1950 CE_, (History of Evil, 5)
-  * Gellman, Jerome (ed.), _The History of Evil from the Mid-Twentieth Century to Today: 1950–2018_, (History of Evil, 6)
-* Menssen, Sandra and Thomas Sullivan, 2007, _The Agnostic Inquirer: Revelation form a Philosophical Perspective_, Grand Rapids: Eerdmans.
+* Kitcher, Philip, 2014, *Life after Faith: The Case for Secular Humanism*, New Haven, CT: Yale University Press.
+* Kraay, Klaas J. (ed.), 2015, *God and the Multiverse: Scientific, Philosophical, and Theological Perspectives*, (Routledge Studies in the Philosophy of Religion 10), New York: Routledge/Taylor & Francis Group.
+* Kvanvig, Jonathan L., 1986, *The Possibility of an All-Knowing God*, London: Macmillan.
+* Kwan, Kai-man, 2003, “Is the Critical Trust Approach to Religious Experience Incompatible with Religious Particularism?: A Reply to Michael Martin and John Hick”, *Faith and Philosophy*, 20(2): 152–169. doi:10.5840/faithphil200320229
+* –––, 2013, *Rainbow of Experience, Critical Trust, and God*, London: Continuum.
+* Leftow, Brian, 1991, *Time and Eternity*, Ithaca, NY: Cornell University Press.
+* –––, 2022, *Anselm’s Argument; Divine Necessity*, Oxford: Oxford University Press.
+* Leslie, John, 1989, *Universes*, London: Routledge.
+* –––, 2007, *Immortality Defended*, Oxford: Blackwell Publishing.
+* Lund, David H., 2005, *The Conscious Self: The Immaterial Center of Subjective States*, Amherst, NY: Humanity Books.
+* Lycan, William, 2019, *On Evidence in Philosophy*, Oxford: Oxford University Press.
+* MacDonald, Scott Charles (ed.), 1991, *Being and Goodness: The Concept of the Good in Metaphysics and Philosophical Theology*, Ithaca, NY: Cornell University Press.
+* Mackie, J.L., 1983, *The Miracle of Theism: Arguments for and Against the Existence of God*, Oxford: Clarendon Press.
+* MacSwain, Robert, 2013, *Solved by Sacrifice: Austin Farrer, Fideism, and the Evidence of Faith*, (Studies in Philosophical Theology, 51), Leuven: Peeters.
+* Malcolm, Norman, 1977, “The Groundlessness of Religious Beliefs”, in *Reason and Religion*, Stuart C. Brown (ed.), Ithaca, NY: Cornell University Press.
+* Manson, Neil, 2003, *God and Design: The teleological argument and modern science*, London: Routledge.
+* Marsh, Jason, 2013, “Darwin and the Problem of Natural Nonbelief”, *Monist*, 96(3): 349–376. doi:10.5840/monist201396316
+* –––, 2014, “Assessing the Third Way”, in *The Roots of Religion: Exploring the Cognitive Science of Religion*, Roger Trigg and Justin Barrett (eds.), Farnham, UK: Ashgate, 127–148.
+* –––, 2015, “Procreative Ethics and the Problem of Evil”, in *Permissible Progeny? The Morality of Procreation and Parenting*, Sarah Hannan, Samantha Brennan, and Richard Vernon (eds.), Oxford: Oxford University Press, 65–86. doi:10.1093/acprof:oso/9780199378111.003.0003
+* Martin, Michael, 1990, *Atheism: A Philosophical Analysis*, Philadelphia, PA: Temple University Press.
+* Mawson, T.J., 2016, *God and the Meanings of Life: What God Could and Couldn’t Do to Make Our Lives More Meaningful*, London: Bloomsbury Academic.
+* McKim, Robert, 2018, “Why Religious Pluralism is Not Evil and is in Some Respects Quite Good” in *The History of Evil from the Mid-Twentieth Century to Today*, (The History of Evil, 6), Jerome Gellman (ed.), London: Routledge, chapter 12.
+* Meister, Chad (ed.), 2010, *The Oxford Handbook of Religious Diversity*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195340136.001.0001
+* –––, 2018, *Evil: A Guide for the Perplexed*, second edition, London: Bloomsbury.
+* Meister, Chad and Paul Moser (eds.), 2017, *The Cambridge Companion to the Problem of Evil*, Cambridge: Cambridge University Press. doi:10.1017/9781107295278
+* Meister, Chad and Charles Taliaferro (series editors), 2018, *History of Evil*, London: Routledge, 6 volumes
+  * Angier, Tom P.S. (ed.), *The History of Evil in Antiquity: 2000 BCE – 450 CE*, (History of Evil, 1)
+  * Murray, Michael, 2008, *Nature Red in tooth and claw*, Oxford: Oxford University Press.
+  * Pinsent, Andrew (ed.), *The History of Evil in the Medieval Age: 450–1450 CE*, (History of Evil, 2)
+  * Robinson, Daniel (ed.), *The History of Evil in the Early Modern Age: 1450–1700 CE*, (History of Evil, 3)
+  * Hedley, Douglas (ed.), *The History of Evil in the Eighteenth and Nineteenth Centuries: 1700–1900 CE*, (History of Evil, 4)
+  * Harrison, Victoria S. (ed.), *The History of Evil in the Early Twentieth Century: 1900–1950 CE*, (History of Evil, 5)
+  * Gellman, Jerome (ed.), *The History of Evil from the Mid-Twentieth Century to Today: 1950–2018*, (History of Evil, 6)
+* Menssen, Sandra and Thomas Sullivan, 2007, *The Agnostic Inquirer: Revelation form a Philosophical Perspective*, Grand Rapids: Eerdmans.
 * –––, 2017, “Revelation and Scripture”, in Abraham and Aquino 2017. doi:10.1093/oxfordhb/9780199662241.013.22
-* Matilal, B. K., 1982, _Logical and Ethical Issues of Religious Belief_, Calcutta: University of Calcutta Press.
-* Menuge, Angus J.L., 2004, _Agents under Fire: Materialism and the Rationality of Science_, Lanham, MD: Rowman and Littlefield.
-* Meynell, Hugo A., 1982, _The Intelligible Universe: A Cosmological Argument_, London: Macmillan.
-* Mitchell, Basil (ed.), 1971, _The Philosophy of Religion_, (Oxford Readings in Philosophy), Oxford: Oxford University Press.
-* –––, 1973, _The Justification of Religious Belief_, London: Macmillan.
-* –––, 1994, _Faith and Criticism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198267584.001.0001
-* Moreland, James Porter, 2008, _Consciousness and the Existence of God: A Theistic Argument_, (Routledge Studies in the Philosophy of Religion, 4), London: Routledge.
-* Morris, Thomas V., 1986, _The Logic of God Incarnate_, Ithaca, NY: Cornell University Press.
-* –––, 1987a, _Anselmian Explorations: Essays in Philosophical Theology_, Notre Dame, IN: University of Notre Dame Press.
-* ––– (ed.), 1987b, _The Concept of God_, (Oxford Readings in Philosophy), Oxford: Oxford University Press.
-* –––, 1991, _Our Idea of God: An Introduction to Philosophical Theology_, Downers Grove, IL: InterVarsity Press.
-* Moser, Paul K., 2008, _The Elusive God: Reorienting Religious Epistemology_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511499012
-* –––, 2010, _The Evidence for God: Religious Knowledge Reexamined_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511817731
-* –––, 2017, _The God Relationship: The Ethics for Inquiry about the Divine_, Cambridge: Cambridge University Press. doi:10.1017/9781108164009
-* Murphy, Mark C., 2017, _God’s Own Ethics: Norms of Divine Agency and the Argument from Evil_, Oxford: Oxford University Press. doi:10.1093/oso/9780198796916.001.0001
-* Murray, Michael J., 2008, _Nature Red in Tooth and Claw: Theism and the Problem of Animal Suffering_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199237272.001.0001
-* Murti, T.R.V., 1955, _Central Philosophy of Buddhism: A Study of the Mādhyamika System_, London: George Allen and Unwin.
-* Nagasawa, Yujin, 2017, _Maximal God: A New Defence of Perfect Being Theism_, Oxford: Oxford University Press. doi:10.1093/oso/9780198758686.001.0001
-* \[NASIM] National Academy of Sciences and Institute of Medicine, 2008, _Science, Evolution, and Creationism_, third edition, Washington, DC: National Academies Press. doi:10.17226/11876 \[[NASIM 2008 quote in this entry is also available online at the National Academy of Sciences](http://www.nas.edu/evolution/Compatibility.html)]
-* Nielsen, Kai, 1996, _Naturalism Without Foundations_, Buffalo, NY: Prometheus Press.
-* O’Connor, Timothy, 2008, _Theism and Ultimate Explanation: The Necessary Shape of Contingency_, Oxford: Blackwell. doi:10.1002/9781444345490
-* O’Hear, Anthony, 2020, _Transcendence, Creation, and Incarnation_, London: Routledge.
-* Oppy, Graham, 1995, _Ontological Arguments and Belief in God_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511663840
-* –––, 2006, _Arguing About Gods_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498978
-* –––, 2018, _Naturalism and Religion; A Contemporary Philosophical Investigation_, (Investigating Philosophy of Religion), London: Routledge.
-* Oppy, Graham Robert and Nick Trakakis (eds.), 2009, _The History of Western Philosophy of Religion_, 5 volumes, New York: Oxford University Press.
-* Padgett, Alan G., 1992, _God, Eternity and the Nature of Time_, New York: St. Martin’s Press.
-* Penelhum, Terence, 1983, _God and Skepticism: A Study in Skepticism and Fideism_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-009-7083-0
-* –––, 1989, _Faith_, New York: Macmillan.
-* Peterson, Michael L., William Hasker, Bruce Reichenbach, and David Basinger (eds.), 1991, _Reason and Religious Belief: An Introduction to the Philosophy of Religion_, first edition, New York: Oxford University Press. Fifth edition, 2012.
-* ––– (eds.), 1996, _Philosophy of Religion: Selected Readings_, first edition, New York: Oxford University Press. Fifth edition, 2014.
-* Peterson, Michael L. and Raymond J. VanArragon (eds.), 2004, _Contemporary Debates in Philosophy of Religion_, (Contemporary Debates in Philosophy), Malden, MA: Blackwell.
-* Philipse, Herman, 2012, _God in the Age of Science? A Critique of Religious Reason_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697533.001.0001
-* Phillips, D.Z., 1966, _the Concept of Prayer_, New York: Schocken Books.
-* –––, 1976, _Religion Without Explanation_, Oxford: Blackwell.
-* –––, 2001. “Theism Without Theodicy,” in S. Davis (ed.), _Encountering Evil: Live Options in Theodicy_, Louisville: Westminster John Knox Press.
-* –––, 2004, _The Problem of Evil and the Problem of God_, London: SCM Press.
-* –––, 1970, _Faith and Philosophical Inquiry_, London: Routledge.
-* Pike, Nelson, 1970 \[2002], _God and Timelessness_, New York: Schocken Books; reprinted Eugene, OR: Wipf and Stock Publishers, 2002.
-*   Pinker, Steven, 2013, “Science Is Not Your Enemy”, _The New Republic_, August 7. URL = <[The New Republic](https://newrepublic.com/article/114127/science-not-enemy-humanities)
+* Matilal, B. K., 1982, *Logical and Ethical Issues of Religious Belief*, Calcutta: University of Calcutta Press.
+* Menuge, Angus J.L., 2004, *Agents under Fire: Materialism and the Rationality of Science*, Lanham, MD: Rowman and Littlefield.
+* Meynell, Hugo A., 1982, *The Intelligible Universe: A Cosmological Argument*, London: Macmillan.
+* Mitchell, Basil (ed.), 1971, *The Philosophy of Religion*, (Oxford Readings in Philosophy), Oxford: Oxford University Press.
+* –––, 1973, *The Justification of Religious Belief*, London: Macmillan.
+* –––, 1994, *Faith and Criticism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198267584.001.0001
+* Moreland, James Porter, 2008, *Consciousness and the Existence of God: A Theistic Argument*, (Routledge Studies in the Philosophy of Religion, 4), London: Routledge.
+* Morris, Thomas V., 1986, *The Logic of God Incarnate*, Ithaca, NY: Cornell University Press.
+* –––, 1987a, *Anselmian Explorations: Essays in Philosophical Theology*, Notre Dame, IN: University of Notre Dame Press.
+* ––– (ed.), 1987b, *The Concept of God*, (Oxford Readings in Philosophy), Oxford: Oxford University Press.
+* –––, 1991, *Our Idea of God: An Introduction to Philosophical Theology*, Downers Grove, IL: InterVarsity Press.
+* Moser, Paul K., 2008, *The Elusive God: Reorienting Religious Epistemology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511499012
+* –––, 2010, *The Evidence for God: Religious Knowledge Reexamined*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511817731
+* –––, 2017, *The God Relationship: The Ethics for Inquiry about the Divine*, Cambridge: Cambridge University Press. doi:10.1017/9781108164009
+* Murphy, Mark C., 2017, *God’s Own Ethics: Norms of Divine Agency and the Argument from Evil*, Oxford: Oxford University Press. doi:10.1093/oso/9780198796916.001.0001
+* Murray, Michael J., 2008, *Nature Red in Tooth and Claw: Theism and the Problem of Animal Suffering*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199237272.001.0001
+* Murti, T.R.V., 1955, *Central Philosophy of Buddhism: A Study of the Mādhyamika System*, London: George Allen and Unwin.
+* Nagasawa, Yujin, 2017, *Maximal God: A New Defence of Perfect Being Theism*, Oxford: Oxford University Press. doi:10.1093/oso/9780198758686.001.0001
+* \[NASIM] National Academy of Sciences and Institute of Medicine, 2008, *Science, Evolution, and Creationism*, third edition, Washington, DC: National Academies Press. doi:10.17226/11876 \[[NASIM 2008 quote in this entry is also available online at the National Academy of Sciences](http://www.nas.edu/evolution/Compatibility.html)]
+* Nielsen, Kai, 1996, *Naturalism Without Foundations*, Buffalo, NY: Prometheus Press.
+* O’Connor, Timothy, 2008, *Theism and Ultimate Explanation: The Necessary Shape of Contingency*, Oxford: Blackwell. doi:10.1002/9781444345490
+* O’Hear, Anthony, 2020, *Transcendence, Creation, and Incarnation*, London: Routledge.
+* Oppy, Graham, 1995, *Ontological Arguments and Belief in God*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511663840
+* –––, 2006, *Arguing About Gods*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498978
+* –––, 2018, *Naturalism and Religion; A Contemporary Philosophical Investigation*, (Investigating Philosophy of Religion), London: Routledge.
+* Oppy, Graham Robert and Nick Trakakis (eds.), 2009, *The History of Western Philosophy of Religion*, 5 volumes, New York: Oxford University Press.
+* Padgett, Alan G., 1992, *God, Eternity and the Nature of Time*, New York: St. Martin’s Press.
+* Penelhum, Terence, 1983, *God and Skepticism: A Study in Skepticism and Fideism*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-009-7083-0
+* –––, 1989, *Faith*, New York: Macmillan.
+* Peterson, Michael L., William Hasker, Bruce Reichenbach, and David Basinger (eds.), 1991, *Reason and Religious Belief: An Introduction to the Philosophy of Religion*, first edition, New York: Oxford University Press. Fifth edition, 2012.
+* ––– (eds.), 1996, *Philosophy of Religion: Selected Readings*, first edition, New York: Oxford University Press. Fifth edition, 2014.
+* Peterson, Michael L. and Raymond J. VanArragon (eds.), 2004, *Contemporary Debates in Philosophy of Religion*, (Contemporary Debates in Philosophy), Malden, MA: Blackwell.
+* Philipse, Herman, 2012, *God in the Age of Science? A Critique of Religious Reason*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697533.001.0001
+* Phillips, D.Z., 1966, *the Concept of Prayer*, New York: Schocken Books.
+* –––, 1976, *Religion Without Explanation*, Oxford: Blackwell.
+* –––, 2001. “Theism Without Theodicy,” in S. Davis (ed.), *Encountering Evil: Live Options in Theodicy*, Louisville: Westminster John Knox Press.
+* –––, 2004, *The Problem of Evil and the Problem of God*, London: SCM Press.
+* –––, 1970, *Faith and Philosophical Inquiry*, London: Routledge.
+* Pike, Nelson, 1970 \[2002], *God and Timelessness*, New York: Schocken Books; reprinted Eugene, OR: Wipf and Stock Publishers, 2002.
+* Pinker, Steven, 2013, “Science Is Not Your Enemy”, *The New Republic*, August 7. URL = <[The New Republic](https://newrepublic.com/article/114127/science-not-enemy-humanities)
 
     The New Republic
 
-    * [LATEST](../../latest/)
-    * [BREAKING NEWS](../../feeds/168326/breaking-news/)
-    * [POLITICS](../../politics/)
-    * [CLIMATE](../../climate/)
-    * [CULTURE](../../culture/)
-    * [MAGAZINE](../../magazine/)
-    * NEWSLETTERS
-    * [PODCASTS](../../podcasts/)
-    * [GAMES](../../games/)
+  * [LATEST](../../latest/)
+  * [BREAKING NEWS](../../feeds/168326/breaking-news/)
+  * [POLITICS](../../politics/)
+  * [CLIMATE](../../climate/)
+  * [CULTURE](../../culture/)
+  * [MAGAZINE](../../magazine/)
+  * NEWSLETTERS
+  * [PODCASTS](../../podcasts/)
+  * [GAMES](../../games/)
 
     The New RepublicThe New Republic
 
-    * [LATEST](../../latest/)
-    * [BREAKING NEWS](../../feeds/168326/breaking-news/)
-    * [POLITICS](../../politics/)
-    * [CLIMATE](../../climate/)
-    * [CULTURE](../../culture/)
-    * [MAGAZINE](../../magazine/)
-    * NEWSLETTERS
-    * [PODCASTS](../../podcasts/)
-    * [GAMES](../../games/)
+  * [LATEST](../../latest/)
+  * [BREAKING NEWS](../../feeds/168326/breaking-news/)
+  * [POLITICS](../../politics/)
+  * [CLIMATE](../../climate/)
+  * [CULTURE](../../culture/)
+  * [MAGAZINE](../../magazine/)
+  * NEWSLETTERS
+  * [PODCASTS](../../podcasts/)
+  * [GAMES](../../games/)
 
-    [The New Republic >Plantinga, Alvin, 1967, _God and Other Minds: A Study of the Rational Justification of Belief in God_, Ithaca, NY: Cornell University Press.–––, 1974, _The Nature of Necessity_, Oxford: Oxford University Press. doi:10.1093/0198244142.001.0001–––, 1980, _Does God Have a Nature?_ Milwaukee, WI: Marquette University Press.–––, 1993, _Warrant: the Current Debate_, Oxford: Oxford University Press. doi:10.1093/0195078624.001.0001–––, 1993, _Warrant and Proper Function_, Oxford: Oxford University Press. doi:10.1093/0195078640.001.0001–––, 2000, _Warranted Christian Belief_, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001–––, 2011, _Where the Conflict Really Lies: Science, Religion, and Naturalism_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199812097.001.0001Plantinga, Alvin and Michael Bergmann, 2016, “Religion and Epistemology”, in _Routledge Encyclopedia of Philosophy_, Tim Crane (ed.), London: Routledge. doi:10.4324/9780415249126-K080-2Alvin Plantinga and Michael Tooley, 2008, _Knowledge of God_, Oxford: Wiley Blackwell.Popkin, Richard H., 1999, _The Pimlico History of Philosophy_, London: Pimlico.Proudfoot, Wayne, 1976, _God and the Self: Three Types of Philosophy of Religion_, Lewisburg, PA: Bucknell University Press.–––, 1985, _Religious Experience_, Berkeley, CA: University of California Press.Pruss, Alexander R. and Joshua L. Rasmussen, 2018, _Necessary Existence_, Oxford: Oxford University Press. doi:10.1093/oso/9780198746898.001.0001Putnam, Hilary, 1983, _Realism and Reason: Philosophical Papers_, Volume 3, Cambridge: Cambridge University Press.Ranganathan, Shyam, 2018, _Hinduism: A Contemporary Philosophical Investigation_, (Investigating Philosophy of Religion), London: Routledge.Re Manning, Russell (ed.), 2013, _The Oxford Handbook of Natural Theology_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199556939.001.0001Reichenbach, Bruce R., 1972, _The Cosmological Argument: A Reassessment_, Springfield, IL: Thomas Press.–––, 1982, _Evil and a Good God_, New York: Fordham University Press.Rescher, Nicholas, 1985, _Pascal’s Wager: A Study of Practical Reasoning in Philosophical Theology_, Notre Dame, IN: University of Notre Dame Press.Rhees, Rush, 1969, _Without Answers_, New York: Schocken Books.Rogers, Katherin A., 2007, “Anselmian Eternalism: The Presence of a Timeless God”, _Faith and Philosophy_, 24(1): 3–27. doi:10.5840/faithphil200724134–––, 2008, _Anselm on Freedom_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231676.001.0001Rota, Michael, 2016, _Taking Pascal’s wager_, Downers Grove: Intervarsity.Rowe, William L., 1975, _The Cosmological Argument_, Princeton: Princeton University Press.–––, 1978 \[1993\], _Philosophy of Religion: An Introduction_, Belmont: Wadsworth. Second Edition, 1993.–––, 2004, _Can God Be Free?_, Oxford: Oxford University Press.Rundle, Bede, 2004, _Why There Is Something Rather than Nothing_, Oxford: Oxford University Press. doi:10.1093/0199270503.001.0001Ruse, Michael, 2014, “Atheism and Science”, in _The Customization of Science: The Impact of Religious and Political Worldviews on Contemporary Science_ Steve Fuller, Mikael Stenmark, Ulf Zackariasson (eds), New York: Palgrave, 73–88. doi:10.1057/9781137379610\_5Schellenberg, J.L., 2005, _Prolegomena to Philosophy of Religion_, Ithaca, NY: Cornell University Press.–––, 2007, _The Wisdom to Doubt: A Justification of Religious Skepticism_, Ithaca, NY: Cornell University Press.–––, 2009, _The Will To Imagine: A Justification of Skeptical Religion_, Ithaca, NY: Cornell University Press.–––, 2013, _Evolutionary Religion_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199673766.001.0001–––, 2017, “Religion Without God (And Without Turning East): A New Western Alternative to Traditional Theistic Faith”, _World and Word_, 37(2): 118–127. \[\]Schlesinger, George N., 1977, _Religion and Scientific Method_, Dordrecht: Reidel. doi:10.1007/978-94-010-1235-5–––, 1988, _New Perspectives on Old-Time Religion_, New York: Oxford University Press.Schloss, Jeffrey and Michael J. Murray (eds.), 2009, _The Believing Primate: Scientific, Philosophical, and Theological Reflections on the Origin of Religion_, Oxford ; New York: Oxford University Press. doi:10.1093/acprof:oso/9780199557028.001.0001Sessions, William Lad, 1994, _The Concept of Faith: A Philosophical Investigation_, Ithaca, NY: Cornell University Press.Sharma, Arvind, 1990, _A Hindu Perspective on the Philosophy of Religion_, New York: St. Martin’s Press.–––, 1995, _Philosophy of Religion and Advaita Vedanta: A Comparative Study in Religion and Reason_, University Park, PA: The Pennsylvania State University Press.Smart, J.J.C. and J.J. Haldane, 1996, _Atheism and Theism_, Oxford: Blackwell. Second edition 2003. doi:10.1002/9780470756225Smart, Ninian, 1962 \[1986\], “Religion as a Discipline?”, _Higher Education Quarterly_, 17(1): 48–53; reprinted in his _Concept and Empathy: Essays in the Study of Religion_, Donald Wiebe (ed.), New York: New York University Press, 1986. doi:10.1111/j.1468-2273.1962.tb00978.xSobel, Jordan Howard, 2003, _Logic and Theism: Arguments For and Against Beliefs in God_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511497988Sorensen, Roy A., 1992, _Thought Experiments_, Oxford: Oxford University Press. doi:10.1093/019512913X.001.0001Soskice, Janet Martin, 1985, _Metaphor and Religious Language_, Oxford: Clarendon Press.Stenmark, Mikael, 2001, _Scientism: Science, Ethics, and Religion_, Aldershot, UK: Ashgate.–––, 2004, _How to Relate Science and Religion: A Multidimensional Model_, Grand Rapids, MI: Eerdmans.–––, 2015, “Competing Conceptions of God: The Personal God versus the God beyond Being”, _Religious Studies_, 51(2): 205–220. doi:10.1017/S0034412514000304Sterba, James, 2019, _Is a Good God Logically Possible?_ New York: Palgrave Macmillan.Stiver, Dan R., 1996, _The Philosophy of Religious Language: Sign, Symbol, and Story_, Cambridge, MA: Blackwell Publishers.Stump, Eleonore, 2010, _Wandering in Darkness: Narrative and the Problem of Suffering_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199277421.001.0001Stump, Eleonore and Norman Kretzmann, 1981, “Eternity”, _The Journal of Philosophy_, 78(8): 429–458; reprinted in Morris 1987b: pp. 219–52. doi:10.2307/2026047Swinburne, Richard, 1977, _The Coherence of Theism_, Oxford: Clarendon Press. doi:10.1093/0198240708.001.0001–––, 1979, _The Existence of God_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199271672.001.0001–––, 1981, _Faith and Reason_, Oxford: Clarendon Press. doi:10.1093/0198247257.001.0001–––, 1986, _The Evolution of the Soul_, Oxford: Clarendon Press. doi:10.1093/0198236980.001.0001–––, 1994, _The Christian God_, Oxford: Clarendon Press.–––, 1996, _Is There a God?_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198235446.001.0001–––, 1998, _Providence and the Problem of Evil_, Oxford: Oxford University Press. doi:10.1093/0198237987.001.0001Taliaferro, Charles, 1994, _Consciousness and the Mind of God_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511520693–––, 1998, _Contemporary Philosophy of Religion_, Oxford: Blackwell.–––, 2001, “Sensibility and Possibilia: A Defense of Thought Experiments”, _Philosophia Christi_, 3(2): 403–421.–––, 2002, “Philosophy of Religion”, in _The Blackwell Companion to Philosophy_, Nicholas Bunnin and E. P. Tsui-James (eds.), second edition, Oxford: Blackwell, 453–489. doi:10.1002/9780470996362.ch17–––, 2005a, “A God’s Eye Point of View: The Divine Ethic”, in Harris and Insole 2005: 76–84.–––, 2005b, _Evidence and Faith: Philosophy of Religion Since the Seventeenth Century_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511610370–––, 2009, _Philosophy of Religion: A Beginner’s Guide_, Oxford: Oneworld.–––,2021, _Religions: A Quick Immersion_, New York: Tibidabo Publishing Inc.Taliaferro, Charles and Jil Evans (eds.), 2011, _Turning Images in Philosophy, Science, and Religion: A New Book of Nature_, Oxford; New York: Oxford University Press. doi:10.1093/acprof:oso/9780199563340.001.0001–––, 2013, _The Image in Mind: Theism, Naturalism, and the Imagination_, London: Continuum.–––, 2021, _Is God Invisible?_ Cambridge: Cambridge University Press.Taliaferro, Charles and Chad Meister (eds.), 2009, _The Cambridge Companion to Christian Philosophical Theology_, Cambridge: Cambridge University Press. doi:10.1017/CCOL9780521514330Taliaferro, Charles, Paul Draper, and Philip L. Quinn, 2010, _A Companion to Philosophy of Religion_, second edition, (Blackwell Companions to Philosophy, 9), Hoboken, NJ: Wiley-Blackwell.Taliaferro, Charles, Victoria S. Harrison, and Stewart Goetz, 2012, _The Routledge Companion to Theism_, London: Routledge.Taliaferro, Charles and Elliot Knuths, 2017, “Thought Experiments in Philosophy of Religion: The Virtues of Phenomenological Realism and Values”, _Open Theology_, 3(1): 167–173. doi:10.1515/opth-2017-0013Taliaferro, Charles and Elsa J. Marty (eds.), 2010 \[2018\], _A Dictionary of Philosophy of Religion_, New York: Continuum. Second edition 2018.Taylor, Richard, 1963, _Metaphysics_, Englewood Cliffs, NJ: Prentice-Hall.Tennant, F.R., 1930, _Philosophical Theology_ (Volume II), Cambridge: Cambridge University Press.Tilghman, Benjamin R., 1994, _An Introduction to the Philosophy of Religion_, Oxford: Blackwell.Timpe, Kevin, 2014, _Free Will in Philosophical Theology_, London: Bloomsbury.Tracy, Thomas F. (ed.), 1994, _The God Who Acts: Philosophical and Theological Explorations_, University Park, PA: Pennsylvania State University Press.Trigg, Roger, 1989, _Reality at Risk_, London: Harvester.–––, 1993, _Rationality and Science: Can Science Explain Everything?_, Oxford: Blackwell.Van Cleve, James, 1999, _Problems from Kant_, Oxford: Oxford University Press.van Inwagen, Peter, 1983, _An Essay on Free Will_, Oxford: Clarendon Press.–––, 1995, _God, Knowledge and Mystery: Essays in Philosophical Theology_, Ithaca, NY: Cornell University Press.–––, 1998, “Modal Epistemology”, _Philosophical Studies_, 92(1/2): 67–84. doi:10.1023/A:1017159501073–––, 2006, _The Problem of Evil_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199245604.001.0001–––, 2017, _Thinking about Free Will_, Cambridge: Cambridge University Press. doi:10.1017/9781316711101Wainwright, William J., 1981, _Mysticism: A Study of Its Nature, Cognitive Value, and Moral Implications_, Madison, WI: University of Wisconsin Press.–––, 1988, _Philosophy of Religion_, (The Wadsworth Basic Issues in Philosophy Series), first edition, Belmont, CA: Wadsworth Publishing. Second edition, 1998.––– (ed.), 1996, _God, Philosophy, and Academic Culture_, Atlanta: Scholars PressWalls, Jerry L. (ed.), 2007, _The Oxford Handbook of Eschatology_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195170498.001.0001Ward, Keith, 1974, _The Concept of God_, Hoboken: Basil Blackwell.–––, 2002, _God, a Guide for the Perplexed_, London: Oneworld.–––, 2014, _The Evidence for God: The Case for the Existence of the Spiritual Dimension_, London: Darton, Longman & Todd.–––, 2017, _The Christian Idea of God: A Philosophical Foundation for Faith_, Cambridge: Cambridge University Press. doi:10.1017/9781108297431–––, 2006, _Is Religion Dangerous?_ Grand Rapids: William B. Eerdmans.Westphal, Merold, 1984, _God, Guilt, and Death: An Existential Phenomenology of Religion_, Bloomington, IN: Indiana University Press.Wettstein, Howard, 2012, _The Significance of Religious Experience_, Oxford: Oxford University Press doi:10.1093/acprof:oso/9780199841363.001.0001Whitehead, Alfred North, 1929 \[1978\], _Process and Reality: An Essay in Cosmology_, Cambridge: Cambridge University Press. Corrected edition, David Ray Griffin and Donald W. Sherburne (eds), New York: Free Press, 1978. Gifford lectures delivered in the University of Edinburgh during the session 1927–28.Wierenga, Edward R., 1989, _The Nature of God: An Inquiry into Divine Attributes_, Ithaca, NY: Cornell University Press.Wisdom, J., 1945, “Gods”, _Proceedings of the Aristotelian Society_, 45: 185–206. doi:10.1093/aristotelian/45.1.185Wittgenstein, Ludwig, 1953, _Philosophical Investigations_ (_Philosophische Untersuchungen_), G.E.M. Anscombe (trans.), Oxford: Blackwell.Wolterstorff, Nicholas, 1976, _Reason within the Bounds of Religion_, Grand Rapids, MI: Eerdmans.–––, 1982, “God Everlasting”, in _Contemporary Philosophy of Religion_, Steven M. Cahn and David Shatz (eds.), New York: Oxford University Press.Wykstra, Stephen J., 1984, “The Humean Obstacle to Evidential Arguments from Suffering: On Avoiding the Evils of ‘Appearance’”, _International Journal for Philosophy of Religion_, 16(2): 73–93. doi:10.1007/BF00136567Wynn, Mark R., 2013, _Renewing the Senses: A Study of the Philosophy and Theology of the Spiritual Life_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199669981.001.0001Wynn, Mark, 2020, _Spiritual Traditions and the Virtues_, Oxford: Oxford University Press.Yandell, Keith E., 1993, _The Epistemology of Religious Experience_, Cambridge: Cambridge University Press.Zagzebski, Linda Trinkaus, 1991, _The Dilemma of Freedom and Foreknowledge_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195107630.001.0001–––, 2004, _Divine Motivation Theory_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511606823–––, 2008, “Omnisubjectivity”, in _Oxford Studies in Philosophy of Religion_, Jonathan L. Kvanvig (ed.), Oxford: Oxford University Press, volume 1, 231–247.–––, 2012, _Epistemic Authority: A Theory of Trust, Authority, and Autonomy in Belief_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199936472.001.0001Zagzebski, Linda, 2022, _God, Knowledge, and the Good_, Oxford: Oxford University Press.Academic ToolsOther Internet Resources, a Biannual JournalRelated Entries |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | AcknowledgmentsI am indebted to John Deck, Cara Stevens, and Thomas Churchill for comments and assistance in preparing an earlier version of this entry. Portions of this entry appeared previously in C. Taliaferro, “Philosophy of Religion”, in N. Bunnin and E.P. Tsui-James (eds.), _The Blackwell Companion to Philosophy_, 2nd edition, Oxford: Blackwell, 2003. by\
+    [The New Republic >Plantinga, Alvin, 1967, *God and Other Minds: A Study of the Rational Justification of Belief in God*, Ithaca, NY: Cornell University Press.–––, 1974, *The Nature of Necessity*, Oxford: Oxford University Press. doi:10.1093/0198244142.001.0001–––, 1980, *Does God Have a Nature?* Milwaukee, WI: Marquette University Press.–––, 1993, *Warrant: the Current Debate*, Oxford: Oxford University Press. doi:10.1093/0195078624.001.0001–––, 1993, *Warrant and Proper Function*, Oxford: Oxford University Press. doi:10.1093/0195078640.001.0001–––, 2000, *Warranted Christian Belief*, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001–––, 2011, *Where the Conflict Really Lies: Science, Religion, and Naturalism*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199812097.001.0001Plantinga, Alvin and Michael Bergmann, 2016, “Religion and Epistemology”, in *Routledge Encyclopedia of Philosophy*, Tim Crane (ed.), London: Routledge. doi:10.4324/9780415249126-K080-2Alvin Plantinga and Michael Tooley, 2008, *Knowledge of God*, Oxford: Wiley Blackwell.Popkin, Richard H., 1999, *The Pimlico History of Philosophy*, London: Pimlico.Proudfoot, Wayne, 1976, *God and the Self: Three Types of Philosophy of Religion*, Lewisburg, PA: Bucknell University Press.–––, 1985, *Religious Experience*, Berkeley, CA: University of California Press.Pruss, Alexander R. and Joshua L. Rasmussen, 2018, *Necessary Existence*, Oxford: Oxford University Press. doi:10.1093/oso/9780198746898.001.0001Putnam, Hilary, 1983, *Realism and Reason: Philosophical Papers*, Volume 3, Cambridge: Cambridge University Press.Ranganathan, Shyam, 2018, *Hinduism: A Contemporary Philosophical Investigation*, (Investigating Philosophy of Religion), London: Routledge.Re Manning, Russell (ed.), 2013, *The Oxford Handbook of Natural Theology*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199556939.001.0001Reichenbach, Bruce R., 1972, *The Cosmological Argument: A Reassessment*, Springfield, IL: Thomas Press.–––, 1982, *Evil and a Good God*, New York: Fordham University Press.Rescher, Nicholas, 1985, *Pascal’s Wager: A Study of Practical Reasoning in Philosophical Theology*, Notre Dame, IN: University of Notre Dame Press.Rhees, Rush, 1969, *Without Answers*, New York: Schocken Books.Rogers, Katherin A., 2007, “Anselmian Eternalism: The Presence of a Timeless God”, *Faith and Philosophy*, 24(1): 3–27. doi:10.5840/faithphil200724134–––, 2008, *Anselm on Freedom*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231676.001.0001Rota, Michael, 2016, *Taking Pascal’s wager*, Downers Grove: Intervarsity.Rowe, William L., 1975, *The Cosmological Argument*, Princeton: Princeton University Press.–––, 1978 \[1993\], *Philosophy of Religion: An Introduction*, Belmont: Wadsworth. Second Edition, 1993.–––, 2004, *Can God Be Free?*, Oxford: Oxford University Press.Rundle, Bede, 2004, *Why There Is Something Rather than Nothing*, Oxford: Oxford University Press. doi:10.1093/0199270503.001.0001Ruse, Michael, 2014, “Atheism and Science”, in *The Customization of Science: The Impact of Religious and Political Worldviews on Contemporary Science* Steve Fuller, Mikael Stenmark, Ulf Zackariasson (eds), New York: Palgrave, 73–88. doi:10.1057/9781137379610\_5Schellenberg, J.L., 2005, *Prolegomena to Philosophy of Religion*, Ithaca, NY: Cornell University Press.–––, 2007, *The Wisdom to Doubt: A Justification of Religious Skepticism*, Ithaca, NY: Cornell University Press.–––, 2009, *The Will To Imagine: A Justification of Skeptical Religion*, Ithaca, NY: Cornell University Press.–––, 2013, *Evolutionary Religion*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199673766.001.0001–––, 2017, “Religion Without God (And Without Turning East): A New Western Alternative to Traditional Theistic Faith”, *World and Word*, 37(2): 118–127. \[\]Schlesinger, George N., 1977, *Religion and Scientific Method*, Dordrecht: Reidel. doi:10.1007/978-94-010-1235-5–––, 1988, *New Perspectives on Old-Time Religion*, New York: Oxford University Press.Schloss, Jeffrey and Michael J. Murray (eds.), 2009, *The Believing Primate: Scientific, Philosophical, and Theological Reflections on the Origin of Religion*, Oxford ; New York: Oxford University Press. doi:10.1093/acprof:oso/9780199557028.001.0001Sessions, William Lad, 1994, *The Concept of Faith: A Philosophical Investigation*, Ithaca, NY: Cornell University Press.Sharma, Arvind, 1990, *A Hindu Perspective on the Philosophy of Religion*, New York: St. Martin’s Press.–––, 1995, *Philosophy of Religion and Advaita Vedanta: A Comparative Study in Religion and Reason*, University Park, PA: The Pennsylvania State University Press.Smart, J.J.C. and J.J. Haldane, 1996, *Atheism and Theism*, Oxford: Blackwell. Second edition 2003. doi:10.1002/9780470756225Smart, Ninian, 1962 \[1986\], “Religion as a Discipline?”, *Higher Education Quarterly*, 17(1): 48–53; reprinted in his *Concept and Empathy: Essays in the Study of Religion*, Donald Wiebe (ed.), New York: New York University Press, 1986. doi:10.1111/j.1468-2273.1962.tb00978.xSobel, Jordan Howard, 2003, *Logic and Theism: Arguments For and Against Beliefs in God*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511497988Sorensen, Roy A., 1992, *Thought Experiments*, Oxford: Oxford University Press. doi:10.1093/019512913X.001.0001Soskice, Janet Martin, 1985, *Metaphor and Religious Language*, Oxford: Clarendon Press.Stenmark, Mikael, 2001, *Scientism: Science, Ethics, and Religion*, Aldershot, UK: Ashgate.–––, 2004, *How to Relate Science and Religion: A Multidimensional Model*, Grand Rapids, MI: Eerdmans.–––, 2015, “Competing Conceptions of God: The Personal God versus the God beyond Being”, *Religious Studies*, 51(2): 205–220. doi:10.1017/S0034412514000304Sterba, James, 2019, *Is a Good God Logically Possible?* New York: Palgrave Macmillan.Stiver, Dan R., 1996, *The Philosophy of Religious Language: Sign, Symbol, and Story*, Cambridge, MA: Blackwell Publishers.Stump, Eleonore, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199277421.001.0001Stump, Eleonore and Norman Kretzmann, 1981, “Eternity”, *The Journal of Philosophy*, 78(8): 429–458; reprinted in Morris 1987b: pp. 219–52. doi:10.2307/2026047Swinburne, Richard, 1977, *The Coherence of Theism*, Oxford: Clarendon Press. doi:10.1093/0198240708.001.0001–––, 1979, *The Existence of God*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199271672.001.0001–––, 1981, *Faith and Reason*, Oxford: Clarendon Press. doi:10.1093/0198247257.001.0001–––, 1986, *The Evolution of the Soul*, Oxford: Clarendon Press. doi:10.1093/0198236980.001.0001–––, 1994, *The Christian God*, Oxford: Clarendon Press.–––, 1996, *Is There a God?*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198235446.001.0001–––, 1998, *Providence and the Problem of Evil*, Oxford: Oxford University Press. doi:10.1093/0198237987.001.0001Taliaferro, Charles, 1994, *Consciousness and the Mind of God*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511520693–––, 1998, *Contemporary Philosophy of Religion*, Oxford: Blackwell.–––, 2001, “Sensibility and Possibilia: A Defense of Thought Experiments”, *Philosophia Christi*, 3(2): 403–421.–––, 2002, “Philosophy of Religion”, in *The Blackwell Companion to Philosophy*, Nicholas Bunnin and E. P. Tsui-James (eds.), second edition, Oxford: Blackwell, 453–489. doi:10.1002/9780470996362.ch17–––, 2005a, “A God’s Eye Point of View: The Divine Ethic”, in Harris and Insole 2005: 76–84.–––, 2005b, *Evidence and Faith: Philosophy of Religion Since the Seventeenth Century*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511610370–––, 2009, *Philosophy of Religion: A Beginner’s Guide*, Oxford: Oneworld.–––,2021, *Religions: A Quick Immersion*, New York: Tibidabo Publishing Inc.Taliaferro, Charles and Jil Evans (eds.), 2011, *Turning Images in Philosophy, Science, and Religion: A New Book of Nature*, Oxford; New York: Oxford University Press. doi:10.1093/acprof:oso/9780199563340.001.0001–––, 2013, *The Image in Mind: Theism, Naturalism, and the Imagination*, London: Continuum.–––, 2021, *Is God Invisible?* Cambridge: Cambridge University Press.Taliaferro, Charles and Chad Meister (eds.), 2009, *The Cambridge Companion to Christian Philosophical Theology*, Cambridge: Cambridge University Press. doi:10.1017/CCOL9780521514330Taliaferro, Charles, Paul Draper, and Philip L. Quinn, 2010, *A Companion to Philosophy of Religion*, second edition, (Blackwell Companions to Philosophy, 9), Hoboken, NJ: Wiley-Blackwell.Taliaferro, Charles, Victoria S. Harrison, and Stewart Goetz, 2012, *The Routledge Companion to Theism*, London: Routledge.Taliaferro, Charles and Elliot Knuths, 2017, “Thought Experiments in Philosophy of Religion: The Virtues of Phenomenological Realism and Values”, *Open Theology*, 3(1): 167–173. doi:10.1515/opth-2017-0013Taliaferro, Charles and Elsa J. Marty (eds.), 2010 \[2018\], *A Dictionary of Philosophy of Religion*, New York: Continuum. Second edition 2018.Taylor, Richard, 1963, *Metaphysics*, Englewood Cliffs, NJ: Prentice-Hall.Tennant, F.R., 1930, *Philosophical Theology* (Volume II), Cambridge: Cambridge University Press.Tilghman, Benjamin R., 1994, *An Introduction to the Philosophy of Religion*, Oxford: Blackwell.Timpe, Kevin, 2014, *Free Will in Philosophical Theology*, London: Bloomsbury.Tracy, Thomas F. (ed.), 1994, *The God Who Acts: Philosophical and Theological Explorations*, University Park, PA: Pennsylvania State University Press.Trigg, Roger, 1989, *Reality at Risk*, London: Harvester.–––, 1993, *Rationality and Science: Can Science Explain Everything?*, Oxford: Blackwell.Van Cleve, James, 1999, *Problems from Kant*, Oxford: Oxford University Press.van Inwagen, Peter, 1983, *An Essay on Free Will*, Oxford: Clarendon Press.–––, 1995, *God, Knowledge and Mystery: Essays in Philosophical Theology*, Ithaca, NY: Cornell University Press.–––, 1998, “Modal Epistemology”, *Philosophical Studies*, 92(1/2): 67–84. doi:10.1023/A:1017159501073–––, 2006, *The Problem of Evil*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199245604.001.0001–––, 2017, *Thinking about Free Will*, Cambridge: Cambridge University Press. doi:10.1017/9781316711101Wainwright, William J., 1981, *Mysticism: A Study of Its Nature, Cognitive Value, and Moral Implications*, Madison, WI: University of Wisconsin Press.–––, 1988, *Philosophy of Religion*, (The Wadsworth Basic Issues in Philosophy Series), first edition, Belmont, CA: Wadsworth Publishing. Second edition, 1998.––– (ed.), 1996, *God, Philosophy, and Academic Culture*, Atlanta: Scholars PressWalls, Jerry L. (ed.), 2007, *The Oxford Handbook of Eschatology*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195170498.001.0001Ward, Keith, 1974, *The Concept of God*, Hoboken: Basil Blackwell.–––, 2002, *God, a Guide for the Perplexed*, London: Oneworld.–––, 2014, *The Evidence for God: The Case for the Existence of the Spiritual Dimension*, London: Darton, Longman & Todd.–––, 2017, *The Christian Idea of God: A Philosophical Foundation for Faith*, Cambridge: Cambridge University Press. doi:10.1017/9781108297431–––, 2006, *Is Religion Dangerous?* Grand Rapids: William B. Eerdmans.Westphal, Merold, 1984, *God, Guilt, and Death: An Existential Phenomenology of Religion*, Bloomington, IN: Indiana University Press.Wettstein, Howard, 2012, *The Significance of Religious Experience*, Oxford: Oxford University Press doi:10.1093/acprof:oso/9780199841363.001.0001Whitehead, Alfred North, 1929 \[1978\], *Process and Reality: An Essay in Cosmology*, Cambridge: Cambridge University Press. Corrected edition, David Ray Griffin and Donald W. Sherburne (eds), New York: Free Press, 1978. Gifford lectures delivered in the University of Edinburgh during the session 1927–28.Wierenga, Edward R., 1989, *The Nature of God: An Inquiry into Divine Attributes*, Ithaca, NY: Cornell University Press.Wisdom, J., 1945, “Gods”, *Proceedings of the Aristotelian Society*, 45: 185–206. doi:10.1093/aristotelian/45.1.185Wittgenstein, Ludwig, 1953, *Philosophical Investigations* (*Philosophische Untersuchungen*), G.E.M. Anscombe (trans.), Oxford: Blackwell.Wolterstorff, Nicholas, 1976, *Reason within the Bounds of Religion*, Grand Rapids, MI: Eerdmans.–––, 1982, “God Everlasting”, in *Contemporary Philosophy of Religion*, Steven M. Cahn and David Shatz (eds.), New York: Oxford University Press.Wykstra, Stephen J., 1984, “The Humean Obstacle to Evidential Arguments from Suffering: On Avoiding the Evils of ‘Appearance’”, *International Journal for Philosophy of Religion*, 16(2): 73–93. doi:10.1007/BF00136567Wynn, Mark R., 2013, *Renewing the Senses: A Study of the Philosophy and Theology of the Spiritual Life*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199669981.001.0001Wynn, Mark, 2020, *Spiritual Traditions and the Virtues*, Oxford: Oxford University Press.Yandell, Keith E., 1993, *The Epistemology of Religious Experience*, Cambridge: Cambridge University Press.Zagzebski, Linda Trinkaus, 1991, *The Dilemma of Freedom and Foreknowledge*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195107630.001.0001–––, 2004, *Divine Motivation Theory*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511606823–––, 2008, “Omnisubjectivity”, in *Oxford Studies in Philosophy of Religion*, Jonathan L. Kvanvig (ed.), Oxford: Oxford University Press, volume 1, 231–247.–––, 2012, *Epistemic Authority: A Theory of Trust, Authority, and Autonomy in Belief*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199936472.001.0001Zagzebski, Linda, 2022, *God, Knowledge, and the Good*, Oxford: Oxford University Press.Academic ToolsOther Internet Resources, a Biannual JournalRelated Entries |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | AcknowledgmentsI am indebted to John Deck, Cara Stevens, and Thomas Churchill for comments and assistance in preparing an earlier version of this entry. Portions of this entry appeared previously in C. Taliaferro, “Philosophy of Religion”, in N. Bunnin and E.P. Tsui-James (eds.), *The Blackwell Companion to Philosophy*, 2nd edition, Oxford: Blackwell, 2003. by\
     Charles Taliaferro <>](../../)

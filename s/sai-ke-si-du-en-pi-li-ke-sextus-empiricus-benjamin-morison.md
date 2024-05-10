@@ -1,6 +1,6 @@
 # 塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)
 
-_首次发表于 2014 年 1 月 17 日，实质修订于 2019 年 7 月 12 日_
+*首次发表于 2014 年 1 月 17 日，实质修订于 2019 年 7 月 12 日*
 
 塞克斯都·恩披里克（Sextus Empiricus）可能生活在公元 2 或 3 世纪，是一位拜罗派怀疑论者，他的许多作品得以保存，包括《拜罗派概要》（Outlines of Pyrrhonism），这是我们对拜罗派怀疑论（一种以拜罗命名的怀疑论，详见古代怀疑论条目）最好、最完整的解释。拜罗派怀疑论涉及对哲学、科学或理论问题没有任何信念，而根据一些解释者的说法，甚至没有任何信念。现代怀疑论质疑知识的可能性，而拜罗派怀疑论质疑信念的合理性：拜罗派怀疑论者具备一种技能，即为每个论证找到一个相等且相反的论证，这种技能的运用将导致对任何被怀疑论者考虑的问题保持判断的悬置，最终达到宁静。
 
@@ -24,11 +24,11 @@ _首次发表于 2014 年 1 月 17 日，实质修订于 2019 年 7 月 12 日_
 
 （通常缩写为 M）该作品分为十一卷，分别称为 M I，II，III 等。这些卷有各自的标题：
 
-> _M_ I:
+> *M* I:
 >
 > * 反对文法学派\*
 >
-> _M_ II:
+> *M* II:
 >
 > * 反对修辞学派\*
 >
@@ -38,9 +38,9 @@ _首次发表于 2014 年 1 月 17 日，实质修订于 2019 年 7 月 12 日_
 >
 > M IV：
 >
-> _反对算术家们_
+> *反对算术家们*
 >
-> _M_ V:
+> *M* V:
 >
 > * 反对占星家们\*
 >
@@ -52,7 +52,7 @@ _首次发表于 2014 年 1 月 17 日，实质修订于 2019 年 7 月 12 日_
 >
 > * 反对逻辑学家\*
 >
-> _M_ IX & X:
+> *M* IX & X:
 >
 > * 反对物理学家\*
 >
@@ -107,7 +107,7 @@ _首次发表于 2014 年 1 月 17 日，实质修订于 2019 年 7 月 12 日_
 
 > 这意味着考虑是否 P 需要考虑到 P 的两面，即考虑支持 P 的论据和支持非 P（或更一般地，与 P 不相容的某个东西）的论据（参见 PH I 10）。例如，仅仅看一个支持 P 的论据然后将其作为无效的论据拒绝是不够的；虽然这样做确实不会使人相信 P 也不会相信非 P（假设没有其他证据），但这样做并没有考虑到问题的两面，因为还没有考虑到任何支持非 P 的论据。（当我们考虑怀疑主义的方式时，这个条件将在后面变得重要—参见下面的 3.5.2。）
 
-This means that considering whether or not _P_ requires that one consider _both sides of the question whether_ **P**, i.e., that one considers arguments in favour of\*\* _**P**_ \*\*and arguments in favour of not-\*\*​_P_ (or, more generally, of something incompatible with _P_; see _PH_ I 10). It would not be enough, for instance, to look at one argument in favour of _P_ and then reject that argument as invalid; while doing so would indeed leave one neither believing _P_ nor not-_P_ (assuming one had no further evidence either way), one would not have considered _both_ sides of the question, since one would not yet have considered any arguments in favour of not-_P_. (This condition will be important later when we consider the Modes of Skepticism—[see below, 3.5.2](https://plato.stanford.edu/entries/sextus-empiricus/#FivModI164).)
+This means that considering whether or not *P* requires that one consider *both sides of the question whether* **P**, i.e., that one considers arguments in favour of\*\* ***P*** \*\*and arguments in favour of not-\*\*​_P_ (or, more generally, of something incompatible with *P*; see *PH* I 10). It would not be enough, for instance, to look at one argument in favour of *P* and then reject that argument as invalid; while doing so would indeed leave one neither believing *P* nor not-*P* (assuming one had no further evidence either way), one would not have considered *both* sides of the question, since one would not yet have considered any arguments in favour of not-*P*. (This condition will be important later when we consider the Modes of Skepticism—[see below, 3.5.2](https://plato.stanford.edu/entries/sextus-empiricus/#FivModI164).)
 
 ### 3.3 宁静
 
@@ -153,7 +153,7 @@ This means that considering whether or not _P_ requires that one consider _both 
 
 如何解释这段小段落，从而解决怀疑论者是否持有任何信念的问题，是许多关于塞克斯都的当代学术研究所关注的问题（例如，参见 Burnyeat 和 Frede 1997 中收集的论文；Fine 2000；Barnes 2007；Perin 2010b），然而似乎没有共识。
 
-#### 3.4.1 是的，怀疑论者持有信念。
+#### 3.4.1 是的，怀疑论者持有信念
 
 1979 年，迈克尔·弗雷德（Michael Frede）认为
 
@@ -171,7 +171,7 @@ This means that considering whether or not _P_ requires that one consider _both 
 
 > （这里的幻象指的是我们的灵魂产生的对事物如何的印象。在 PH I 13 中，塞克斯都说怀疑论者同意“外貌强加给他们的感觉”；也可以将其翻译为“幻象的一种运用强加给他们的感觉”。）换句话说，怀疑论者和其他人一样，有代表世界以某种方式存在的印象，这些印象被强加给怀疑论者，所以无法避免，而这些印象又具有一定的吸引力，使怀疑论者倾向于同意它们，并且他不会反对。像 I 13、I 22 和 I 29-30 这样的文本强调印象是被强加给我们的。其他文本强调印象带来的吸引力足以引起同意，例如 I 19：
 
-(_Phantasia_ here refers to the faculty of our soul which produces in us impressions of how things are. In _PH_ I 13, Sextus says that Skeptics assent to ‘the feelings forced upon them by appearances’; one could also translate this as follows: ‘the feelings forced upon them by an exercise of _phantasia_’.) In other words, the Skeptic, like everyone, has impressions which represent the world as being a certain way, and these are _forced upon_ the Skeptic, so there is no avoiding them, and these impressions in turn have a certain pull which inclines the Skeptic to assent to them and which he does not counteract. Texts such as I 13, I 22, and I 29–30 emphasize that the impressions are forced on us. Other texts emphasize that impressions bring with them a pull which is sufficient to cause assent, e.g., I 19:
+(*Phantasia* here refers to the faculty of our soul which produces in us impressions of how things are. In *PH* I 13, Sextus says that Skeptics assent to ‘the feelings forced upon them by appearances’; one could also translate this as follows: ‘the feelings forced upon them by an exercise of *phantasia*’.) In other words, the Skeptic, like everyone, has impressions which represent the world as being a certain way, and these are *forced upon* the Skeptic, so there is no avoiding them, and these impressions in turn have a certain pull which inclines the Skeptic to assent to them and which he does not counteract. Texts such as I 13, I 22, and I 29–30 emphasize that the impressions are forced on us. Other texts emphasize that impressions bring with them a pull which is sufficient to cause assent, e.g., I 19:
 
 > 我们不会推翻任何使我们在被动的外观下无意识地同意的东西，
 
@@ -241,7 +241,7 @@ This means that considering whether or not _P_ requires that one consider _both 
 * 在发出这些短语时\[怀疑主义短语：见下文 3.6]，他们说的是对自己明显的事情，并报告自己的感受，而不持有任何观点（ἀδοξάστως），对外部对象不作任何肯定（PH I 15）。
 * 我们说的所有这些\[即关于支配行为的四重表象来源，列在 PH I 21–4 中]，都是没有任何观点的（ἀδοξάστως）（PH I 24）。
 
-#### 3.4.3 是的，再来一次。
+#### 3.4.3 是的，再来一次
 
 最后，值得注意的是一些学者持有的另一个立场：当怀疑论者承认事物对他们来说是这样的时，他们确实有信念，即“关于事物对他们来说似乎是什么样的信念”（Perin 2010b: 161，参考 Fine 2000: 104）。怀疑论者确实有信念：Burnyeat 错误地说承认事物对你来说是这样的并不是一种认为某事为真的方式，Barnes 错误地试图回避怀疑论者在说出“蜂蜜对我来说似乎是甜的”之类的句子时所承担的义务，通过谈论宣告。相反，Perin 和 Fine 认为，怀疑论者确实拥有你所期望的信念，因为他说出“蜂蜜对我来说似乎是甜的”之类的话：即事物对他来说似乎是这样的信念（在这种情况下，蜂蜜对他来说似乎是甜的信念）。需要注意的是，这些解释者所归因于怀疑论者的信念与 Frede 的解释允许怀疑论者拥有的信念完全不同。Frede 的立场允许怀疑论者拥有诸如“外面是白天”、“我饿了”、“图书馆下午 6 点关门”等普通信念，而讨论中的解释者只允许怀疑论者拥有诸如“似乎是白天”、“我感到饥饿”、“图书馆似乎在下午 6 点关门”等信念。
 
@@ -263,7 +263,7 @@ This means that considering whether or not _P_ requires that one consider _both 
 
 > 因此，她倾向于认为“在这里是否要谈论信念是一个术语选择的问题”（同上）。换句话说，根据巴恩斯/伯尼特对教条的解释，她认为是否称之为“信念”是一个术语选择的问题。但我们在这里感兴趣的是更大的问题，即拥有可接受类型的教条意味着什么。
 
-Hence she is inclined to think ‘it is a matter of terminological choice whether we want to speak of belief here or not’ (ibid). In other words, _given the Barnes/Burnyeat interpretation of what a_ dogma _is_, she thinks it is a matter of terminological choice whether we call it a ‘belief’. But what we are interested in here is the larger question of just what it means to have a _dogma_ of the acceptable kind.
+Hence she is inclined to think ‘it is a matter of terminological choice whether we want to speak of belief here or not’ (ibid). In other words, *given the Barnes/Burnyeat interpretation of what a* dogma *is*, she thinks it is a matter of terminological choice whether we call it a ‘belief’. But what we are interested in here is the larger question of just what it means to have a *dogma* of the acceptable kind.
 
 那么关于可接受的教条的正确性，谁是正确的？关于“怀疑论者同意被外观所迫使的感觉”的解释，谁是正确的？恐怕塞克斯都希望我们从哲学背景的角度来理解这个短语。弗雷德声称：
 
@@ -393,7 +393,7 @@ Barnes 对这三种模式所达到的目的的解释令人不满意，原因有�
 
 > 谴责一个教条主义者为 P 提供的论证并不涉及考虑不-P 的任何因素。（换句话说，Sextus 似乎认为 Pyrrhonists 在面对为 P 提供的论证和为不-P 提供的相反论证时暂缓判断，而不是当他们面对为 P 提供的论证和削弱该论证的考虑时——关于这种认识论的区别，请参见关于可废除推理和证据的条目。）第三，Sextus 从未明确表示互惠和假设性论证实际上是糟糕的论证。事实上，严格来说，他甚至没有说无限回归论证是糟糕的；他只是说在这样的论证中，“我们没有任何起点来建立任何东西”（PH I 166），这可以被理解为对无限回归论证的直接描述，而不是对其进行哲学上的谴责。
 
-Condemning a dogmatist’s argument for _P_ does not involve taking into account _any_ considerations for not-_P_. (Put it another way, Sextus seems to think that Pyrrhonists suspend judgment in the face of an argument for _P_ and an _opposing_ argument for not-_P_—not when they face an argument for _P_ and considerations which _undercut_ that argument—for this distinction in epistemology, see entries on [Defeasible Reasoning](https://plato.stanford.edu/entries/reasoning-defeasible/) and [Evidence](https://plato.stanford.edu/entries/evidence/).) Third, Sextus never comes out and says that reciprocal and hypothetical arguments are actually bad arguments. In fact, strictly speaking, he doesn’t even say that infinitely regressive arguments are bad; he merely says that in such an argument, ‘we have no point from which to begin to establish anything’ (_PH_ I 166), which could be taken as a straightforward _description_ of what an infinitely regressive argument is, rather than philosophical _condemnation_ of it.
+Condemning a dogmatist’s argument for *P* does not involve taking into account *any* considerations for not-*P*. (Put it another way, Sextus seems to think that Pyrrhonists suspend judgment in the face of an argument for *P* and an *opposing* argument for not-*P*—not when they face an argument for *P* and considerations which *undercut* that argument—for this distinction in epistemology, see entries on [Defeasible Reasoning](https://plato.stanford.edu/entries/reasoning-defeasible/) and [Evidence](https://plato.stanford.edu/entries/evidence/).) Third, Sextus never comes out and says that reciprocal and hypothetical arguments are actually bad arguments. In fact, strictly speaking, he doesn’t even say that infinitely regressive arguments are bad; he merely says that in such an argument, ‘we have no point from which to begin to establish anything’ (*PH* I 166), which could be taken as a straightforward *description* of what an infinitely regressive argument is, rather than philosophical *condemnation* of it.
 
 对于这些反对意见，有几种可能的回应。一个观点是，塞克斯都可能只是困惑了；他使用的五种模式与他的拜尔罗学派怀疑论不相容（毫无疑问，这是因为它们源自阿格里帕，而不是塞克斯都自己原创的）。或者，对于第一个反对意见，一个观点是，可以否认塞克斯都在个人立场上谴责这些类型的论证，而是认为他是在利用某些教条主义者对这三种类型的论证提出的批评，并将这些批评用于那些坚持以这些形式提出论证的教条主义者：塞克斯都的五种模式是
 
@@ -555,7 +555,7 @@ M VII-IX 引发的另一个紧迫的哲学问题是 M XI（“反对伦理学家
 
 避免让塞克斯都陷入矛盾的方法是要看到塞克斯都并不是在暗示怀疑论者必须相信自然界没有任何好坏之分，而是怀疑论者必须有同样令人信服的论据，得出结论认为自然界没有任何好坏之分-一旦我们做到了这一点，“我们将摆脱困扰，迎来宁静的生活”。（对此的反驳，请参见贝特 2018 年的 13n. 24。）
 
-## 5. _M_ I–VI
+## 5. *M* I–VI
 
 M I–VI 的六本书共同构成了对自由艺术的攻击。关于它们的总体目标，请参见巴恩斯 1988 年的论文。M I–VI 最重要的特点是可能会产生误导，即它们经常出现否定的教条主义的表象，即声称这个或那个艺术不存在。例如，看看 M I 90：“所以，让这个例子来证明语法的不存在，至少在语法学家的概念中是如此”。贝特 2018 年的 11-15 页敦促我们将这些时刻视为怀疑论先前阶段的痕迹。或者，与其将这些表面上的否定教条主义陈述解释为塞克斯都超越性的计划偶尔的偏离（无论如何，在 M I 6 等文本中仍然存在），我们可以将这些表面上的否定教条主义陈述视为“技术人员论证的等价对立”（Blank 1998 年：l，总结巴恩斯 1988 年的 72-7 页）。 （有关 M XI 的类似故事，请参见上面的 4.2 节。）
 
@@ -591,83 +591,83 @@ II.
 
 ### Primary Texts
 
-* Annas, J., and J. Barnes, 2000, _Sextus Empiricus: Outlines of Scepticism_ (Cambridge Texts in the History of Philosophy), Cambridge: Cambridge University Press, second edition.
-* Bett, R., 1997, _Sextus Empiricus: Against the Ethicists_ (Clarendon Later Ancient Philosophers), Oxford: Clarendon Press.
-* –––, 2005, _Sextus Empiricus: Against the Logicians_ (Cambridge Texts in the History of Philosophy), Cambridge: Cambridge University Press.
-* –––, 2012, _Sextus Empiricus: Against the Physicists_, Cambridge: Cambridge University Press.
-* –––, 2018, _Sextus Empiricus: Against Those in the Discplines_, Oxford: Oxford University Press.
-* Blank, D., 1998, _Sextus Empiricus: Against the Grammarians_ (Clarendon Later Ancient Philosophers), Oxford: Clarendon Press.
-* Bury, R.G., trans., 1939–49, _Sextus Empiricus_ (Loeb Classical Library), 4 volumes, Cambridge, MA: Harvard University Press.
-* Greaves, D. D., 1986, _Sextus Empiricus: Against the Musicians_ (Greek and Latin Music Theory), Lincoln and London: University of Nebraska Press.
-* Mates, B., 1996, _The Skeptic Way: Sextus Empiricus’s_ Outlines of Pyrrhonism, Oxford: Oxford University Press.
+* Annas, J., and J. Barnes, 2000, *Sextus Empiricus: Outlines of Scepticism* (Cambridge Texts in the History of Philosophy), Cambridge: Cambridge University Press, second edition.
+* Bett, R., 1997, *Sextus Empiricus: Against the Ethicists* (Clarendon Later Ancient Philosophers), Oxford: Clarendon Press.
+* –––, 2005, *Sextus Empiricus: Against the Logicians* (Cambridge Texts in the History of Philosophy), Cambridge: Cambridge University Press.
+* –––, 2012, *Sextus Empiricus: Against the Physicists*, Cambridge: Cambridge University Press.
+* –––, 2018, *Sextus Empiricus: Against Those in the Discplines*, Oxford: Oxford University Press.
+* Blank, D., 1998, *Sextus Empiricus: Against the Grammarians* (Clarendon Later Ancient Philosophers), Oxford: Clarendon Press.
+* Bury, R.G., trans., 1939–49, *Sextus Empiricus* (Loeb Classical Library), 4 volumes, Cambridge, MA: Harvard University Press.
+* Greaves, D. D., 1986, *Sextus Empiricus: Against the Musicians* (Greek and Latin Music Theory), Lincoln and London: University of Nebraska Press.
+* Mates, B., 1996, *The Skeptic Way: Sextus Empiricus’s* Outlines of Pyrrhonism, Oxford: Oxford University Press.
 
 ### Secondary Literature
 
 * Allen, J., 2010, “Pyrrhonism and Medicine”, in Bett 2010: 232–48.
-* Annas, J. and J. Barnes, 1985, _The Modes of Scepticism: Ancient Texts and Modern Interpretations_, Cambridge: Cambridge University Press.
-* Barnes, J., 1982, “The Beliefs of a Pyrrhonist”, _Proceedings of the Cambridge Philological Society_, N.S. 28: 1–29; reprinted in Burnyeat and Frede 1997: 58–91 (page references to reprint).
-* –––, 1988, “Scepticism and the Arts”, in R. J. Hankinson (ed.), _Method, Medicine, and Metaphysics: Studies in the Philosophy of Ancient Science_, _Apeiron_, 21(2): 53–77.
-* –––, 1990a, _The Toils of Scepticism_, Cambridge: Cambridge University Press.
-* –––, 1990b, “Some Ways of scepticism”, in S. Everson (ed.), _Epistemology_ (Companions to Ancient Thought I), Cambridge: Cambridge University Press, 204–224.
+* Annas, J. and J. Barnes, 1985, *The Modes of Scepticism: Ancient Texts and Modern Interpretations*, Cambridge: Cambridge University Press.
+* Barnes, J., 1982, “The Beliefs of a Pyrrhonist”, *Proceedings of the Cambridge Philological Society*, N.S. 28: 1–29; reprinted in Burnyeat and Frede 1997: 58–91 (page references to reprint).
+* –––, 1988, “Scepticism and the Arts”, in R. J. Hankinson (ed.), *Method, Medicine, and Metaphysics: Studies in the Philosophy of Ancient Science*, *Apeiron*, 21(2): 53–77.
+* –––, 1990a, *The Toils of Scepticism*, Cambridge: Cambridge University Press.
+* –––, 1990b, “Some Ways of scepticism”, in S. Everson (ed.), *Epistemology* (Companions to Ancient Thought I), Cambridge: Cambridge University Press, 204–224.
 * –––, 2000, “Introduction”, in Annas and Barnes 2000: xi–xxxi.
-* –––, 2007, “Sextan Scepticism”, in D. Scott (ed.), _Maieusis: Essays in Ancient Philosophy in Honour of Myles Burnyeat_, Oxford: Oxford University Press, 322–34.
-* Barney, R., 1992, “Appearances and Impressions”, _Phronesis_, 37(3): 283–313.
-* Bett, R. (ed.), 2010, _The Cambridge Companion to Ancient Scepticism_, Cambridge: Cambridge University Press.
-* –––, 2013, “A Sceptic Looks at Art (But Not Very Closely): Sextus Empiricus on Music”, _International Journal for the Study of Skepticism_, 3: 155–81.
-* Brennan, T., and J. J. Lee, 2014, “A Relative Improvement”, _Phronesis_, 59(3): 246–71.
-* Brochard, V., 1887, _Les sceptiques grecs_, Paris: Imprimerie Nationale.
-* Brunschwig, J., 1988, “Sextus Empiricus on the _kritêrion_: the Skeptic as conceptual legatee”, in J. Dillon and A. A. Long (eds.), _The Question of ‘Eclecticism’_, Berkeley/Los Angeles: University of California Press, 145–75; reprinted in Brunschwig 1994: 224–43 (page references to reprint).
-* –––, 1990, “The ὅσον ἐπὶ τῷ λόγῳ formula in Sextus Empiricus”, in A. J. Voelke (ed.), _Le scepticisme antique, Cahiers de la Revue de Théologie et de Philosophie_, 15: 107–21; reprinted in Brunschwig 1994: 244–58.
-* –––, 1994, _Papers in Hellenistic Philosophy_, Cambridge: Cambridge University Press.
-* Bullock, J., 2016, “The Challenges of the Modes of Agrippa”, _Apeiron_, 49(4): 409–35.
-* Burnyeat, M. F., 1980, “Can the Sceptic Live His Scepticism?”, in M. Schofield, M. F. Burnyeat, and J. Barnes (eds.), _Doubt and Dogmatism_, Oxford: Clarendon Press, 20–53; reprinted in Burnyeat and Frede 1997: 25–57 (page references to reprint).
-* ––– (ed.), 1983, _The Skeptical Tradition_, Berkeley: University of California Press.
-* –––, 1984, “The Sceptic in his Place and Time”, in R. Rorty, J. B. Schneewind, and Q. Skinner, _Philosophy in History: Essays on the Historiography of Philosophy_, Cambridge: Cambridge University Press, 225–54; reprinted in Burnyeat and Frede 1997: 92–126 (page references to reprint).
-* Burnyeat, M. F. and M. Frede (eds.), 1997, _The Original Sceptics: A Controversy_, Indianapolis: Hackett.
-* Castagnoli, L., 2010, _Ancient Self-Refutation: The Logic and History of the Self-Refutation Argument from Democritus to Augustine_, Cambridge: Cambridge University Press.
-* Cooper, J., 2012, _Pursuits of Wisdom_, Princeton: Princeton University Press.
-* Deichgräber, K., 1965, _Die griechische Empirikerschule_, second edition, Berlin/Zurich: Weidmann.
-* Dye, G. and B. Vitrac, 2009, “Le _Contre les géomètres_ de Sextus Empiricus: sources, cible, structure”, _Phronesis_ 54(2): 155–203.
-* Fine, G., 2000, “Sceptical _Dogmata_: _Outlines of Pyrrhonism_ I 13”, _Methexis_, 12: 81–105.
-* –––, 2003, “Subjectivity, Ancient and Modern: The Cyrenaics, Sextus, and Descartes”, in J. Miller and B. Inwood (eds.), _Hellenistic and Early Modern Philosophy_, Cambridge: Cambridge University Press, 192–231.
-* Floridi, L., 2002, _Sextus Empiricus: The Transmission and Recovery of Pyrrhonism_ (American Philological Association, American Classical Studies 46), New York: Oxford University Press.
+* –––, 2007, “Sextan Scepticism”, in D. Scott (ed.), *Maieusis: Essays in Ancient Philosophy in Honour of Myles Burnyeat*, Oxford: Oxford University Press, 322–34.
+* Barney, R., 1992, “Appearances and Impressions”, *Phronesis*, 37(3): 283–313.
+* Bett, R. (ed.), 2010, *The Cambridge Companion to Ancient Scepticism*, Cambridge: Cambridge University Press.
+* –––, 2013, “A Sceptic Looks at Art (But Not Very Closely): Sextus Empiricus on Music”, *International Journal for the Study of Skepticism*, 3: 155–81.
+* Brennan, T., and J. J. Lee, 2014, “A Relative Improvement”, *Phronesis*, 59(3): 246–71.
+* Brochard, V., 1887, *Les sceptiques grecs*, Paris: Imprimerie Nationale.
+* Brunschwig, J., 1988, “Sextus Empiricus on the *kritêrion*: the Skeptic as conceptual legatee”, in J. Dillon and A. A. Long (eds.), *The Question of ‘Eclecticism’*, Berkeley/Los Angeles: University of California Press, 145–75; reprinted in Brunschwig 1994: 224–43 (page references to reprint).
+* –––, 1990, “The ὅσον ἐπὶ τῷ λόγῳ formula in Sextus Empiricus”, in A. J. Voelke (ed.), *Le scepticisme antique, Cahiers de la Revue de Théologie et de Philosophie*, 15: 107–21; reprinted in Brunschwig 1994: 244–58.
+* –––, 1994, *Papers in Hellenistic Philosophy*, Cambridge: Cambridge University Press.
+* Bullock, J., 2016, “The Challenges of the Modes of Agrippa”, *Apeiron*, 49(4): 409–35.
+* Burnyeat, M. F., 1980, “Can the Sceptic Live His Scepticism?”, in M. Schofield, M. F. Burnyeat, and J. Barnes (eds.), *Doubt and Dogmatism*, Oxford: Clarendon Press, 20–53; reprinted in Burnyeat and Frede 1997: 25–57 (page references to reprint).
+* ––– (ed.), 1983, *The Skeptical Tradition*, Berkeley: University of California Press.
+* –––, 1984, “The Sceptic in his Place and Time”, in R. Rorty, J. B. Schneewind, and Q. Skinner, *Philosophy in History: Essays on the Historiography of Philosophy*, Cambridge: Cambridge University Press, 225–54; reprinted in Burnyeat and Frede 1997: 92–126 (page references to reprint).
+* Burnyeat, M. F. and M. Frede (eds.), 1997, *The Original Sceptics: A Controversy*, Indianapolis: Hackett.
+* Castagnoli, L., 2010, *Ancient Self-Refutation: The Logic and History of the Self-Refutation Argument from Democritus to Augustine*, Cambridge: Cambridge University Press.
+* Cooper, J., 2012, *Pursuits of Wisdom*, Princeton: Princeton University Press.
+* Deichgräber, K., 1965, *Die griechische Empirikerschule*, second edition, Berlin/Zurich: Weidmann.
+* Dye, G. and B. Vitrac, 2009, “Le *Contre les géomètres* de Sextus Empiricus: sources, cible, structure”, *Phronesis* 54(2): 155–203.
+* Fine, G., 2000, “Sceptical *Dogmata*: *Outlines of Pyrrhonism* I 13”, *Methexis*, 12: 81–105.
+* –––, 2003, “Subjectivity, Ancient and Modern: The Cyrenaics, Sextus, and Descartes”, in J. Miller and B. Inwood (eds.), *Hellenistic and Early Modern Philosophy*, Cambridge: Cambridge University Press, 192–231.
+* Floridi, L., 2002, *Sextus Empiricus: The Transmission and Recovery of Pyrrhonism* (American Philological Association, American Classical Studies 46), New York: Oxford University Press.
 * –––, 2010, “The rediscovery and posthumous influence of scepticism”, in Bett 2010: 267–87.
-* Frede, M., 1973, Review of Stough 1969, _Journal of Philosophy_, 70(21): 805–10.
-* –––, 1979, “Des Skeptikers Meinungen”, _Neue Hefte für Philosophie_, _Actualität der Antike_, Heft 15/16, 102–29. First appeared in English as “The Skeptic’s Beliefs” in Frede 1987: 179–200; reprinted as “The Sceptic’s Beliefs”, in Burnyeat and Frede 1997: 1–24 (page references to reprint).
+* Frede, M., 1973, Review of Stough 1969, *Journal of Philosophy*, 70(21): 805–10.
+* –––, 1979, “Des Skeptikers Meinungen”, *Neue Hefte für Philosophie*, *Actualität der Antike*, Heft 15/16, 102–29. First appeared in English as “The Skeptic’s Beliefs” in Frede 1987: 179–200; reprinted as “The Sceptic’s Beliefs”, in Burnyeat and Frede 1997: 1–24 (page references to reprint).
 * –––, 1983, “Stoics and Skeptics on Clear and Distinct Impressions”, in Burnyeat 1983: 65–93; reprinted in Frede 1987: 151–76 (page references to reprint).
-* –––, 1984, “The Sceptic’s Two Kinds of Assent and the Question of the Possibility of Knowledge”, in R. Rorty, J. B. Schneewind, and Q. Skinner, _Philosophy in History: Essays on the Historiography of Philosophy_, Cambridge: Cambridge University Press, 255–78; reprinted in Burnyeat and Frede 1997: 127–51 (page references to reprint).
-* –––, 1987, _Essays in Ancient Philosophy_, Oxford: Oxford University Press.
-* Hankinson, R. J., 1995, _The Sceptics_ (The Arguments of the Philosophers), London: Routledge.
+* –––, 1984, “The Sceptic’s Two Kinds of Assent and the Question of the Possibility of Knowledge”, in R. Rorty, J. B. Schneewind, and Q. Skinner, *Philosophy in History: Essays on the Historiography of Philosophy*, Cambridge: Cambridge University Press, 255–78; reprinted in Burnyeat and Frede 1997: 127–51 (page references to reprint).
+* –––, 1987, *Essays in Ancient Philosophy*, Oxford: Oxford University Press.
+* Hankinson, R. J., 1995, *The Sceptics* (The Arguments of the Philosophers), London: Routledge.
 * –––, 2010, “Aenesidemus and the rebirth of Pyrrhonism”, in Bett 2010: 105–19.
-* House, D. K., 1980, “The Life of Sextus Empiricus”, _Classical Quarterly_, 30(1): 227–38.
-* Ierodiakonou, K., 1993, “The Stoic Division of Philosophy”, _Phronesis_, 38: 57–74.
-* Ioppolo, A. M., 2009, _La Testimonianza di Sesto Empirico sull’Academia Scettica_, Naples: Bibliopolis.
-* Janacek, K., 1963, “Die Hauptschrift des Sextus Empiricus als Torso erhalten?”, _Philologus_, 107: 271–7; reprinted in his _Studien zu Sextus Empiricus, Diogenes Laertius und zur pyrrhonischen Skepsis_ (Beiträge zur Altertumskunde, 249), Berlin: De Gruyter, 2008, 124–31.
-* Morison, B., 2011, “The Logical Structure of the Sceptic’s Opposition”, _Oxford Studies in Ancient Philosophy_, XL (_Essays in Memory of Michael Frede_), 265–95.
-* –––, 2018, “The Sceptic’s Modes of Argumentation”, in T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_, Cambridge: Cambridge University Press, 283–319.
-* Palmer, J., 2000, “Skeptical Investigation”, _Ancient Philosophy_, 20: 351–75.
-* Perin, C., 2006, “Pyrrhonian Scepticism and the Search for Truth”, _Oxford Studies in Ancient Philosophy_, XXX: 337–60.
-* –––, 2010a, _The Demands of Reason: An Essay on Pyrrhonian Scepticism_, Oxford: Oxford University Press.
+* House, D. K., 1980, “The Life of Sextus Empiricus”, *Classical Quarterly*, 30(1): 227–38.
+* Ierodiakonou, K., 1993, “The Stoic Division of Philosophy”, *Phronesis*, 38: 57–74.
+* Ioppolo, A. M., 2009, *La Testimonianza di Sesto Empirico sull’Academia Scettica*, Naples: Bibliopolis.
+* Janacek, K., 1963, “Die Hauptschrift des Sextus Empiricus als Torso erhalten?”, *Philologus*, 107: 271–7; reprinted in his *Studien zu Sextus Empiricus, Diogenes Laertius und zur pyrrhonischen Skepsis* (Beiträge zur Altertumskunde, 249), Berlin: De Gruyter, 2008, 124–31.
+* Morison, B., 2011, “The Logical Structure of the Sceptic’s Opposition”, *Oxford Studies in Ancient Philosophy*, XL (*Essays in Memory of Michael Frede*), 265–95.
+* –––, 2018, “The Sceptic’s Modes of Argumentation”, in T. Bénatouïl and K. Ierodiakonou (eds.), *Dialectic after Plato and Aristotle*, Cambridge: Cambridge University Press, 283–319.
+* Palmer, J., 2000, “Skeptical Investigation”, *Ancient Philosophy*, 20: 351–75.
+* Perin, C., 2006, “Pyrrhonian Scepticism and the Search for Truth”, *Oxford Studies in Ancient Philosophy*, XXX: 337–60.
+* –––, 2010a, *The Demands of Reason: An Essay on Pyrrhonian Scepticism*, Oxford: Oxford University Press.
 * –––, 2010b, “Scepticism and Belief”, in Bett 2010: 145–64.
-* Sandbach, F. H., 1975, _The Stoics_, London: Chatto and Windus.
-* Schofield, M., 2007, “Aenesidemus: Pyrrhonist and ‘Heraclitean’”, in A. M. Ioppolo and D. Sedley (eds.), _Pyrrhonists, Patricians, Platonizers: Hellenistic Philosophy in the Period 155–86 BC_, Naples: Bibliopolis, 269–338.
-* Schwab, W., 2013, “Skepticism, Belief, and the Criterion of Truth”, _Apeiron_, 46(3): 327–44.
-* Stough, C., 1969, _Greek Scepticism: A Study in Epistemology_, Berkeley and Los Angeles: University of California Press.
-* –––, 1984, “Sextus Empiricus on non-assertion”, _Phronesis_, 29: 137–64.
-* Strawson, P. F., 1949, “Truth”, _Analysis_, 9(6): 83–97.
-* Striker, G., 1974, “κριτήριον τῆς ἀληθείας”, _Nachrichten der Akademie der Wissenschaften zu Göttingen_, I. Phil.-hist. Klasse 2, 48–110; translated into English in Striker 1996: 22–76 (page references to English translation).
-* –––, 1980, “Sceptical Strategies”, in M. Schofield, M. F. Burnyeat, and J. Barnes (eds.), _Doubt and Dogmatism_, Oxford: Clarendon Press, 54–83; reprinted in Striker 1996: 92–115 (page references to reprint).
-* –––, 1981, “Über den Unterschied zwischen den Pyrrhoneern und den Akademikern”, _Phronesis_, 26: 153–71; translated in English in Striker 1996: 135–49 (page references to English translation).
-* –––, 1990a, “_Ataraxia_: Happiness as Tranquility”, _The Monist_, 73: 97–110; reprinted in Striker 1996: 183–95 (page references to reprint).
-* –––, 1990b, “The Problem of the Criterion”, in S. Everson (ed.), _Epistemology_ (Companions to Ancient Thought I), Cambridge: Cambridge University Press, 143–60; reprinted in Striker 1996: 150–68 (page references to reprint).
+* Sandbach, F. H., 1975, *The Stoics*, London: Chatto and Windus.
+* Schofield, M., 2007, “Aenesidemus: Pyrrhonist and ‘Heraclitean’”, in A. M. Ioppolo and D. Sedley (eds.), *Pyrrhonists, Patricians, Platonizers: Hellenistic Philosophy in the Period 155–86 BC*, Naples: Bibliopolis, 269–338.
+* Schwab, W., 2013, “Skepticism, Belief, and the Criterion of Truth”, *Apeiron*, 46(3): 327–44.
+* Stough, C., 1969, *Greek Scepticism: A Study in Epistemology*, Berkeley and Los Angeles: University of California Press.
+* –––, 1984, “Sextus Empiricus on non-assertion”, *Phronesis*, 29: 137–64.
+* Strawson, P. F., 1949, “Truth”, *Analysis*, 9(6): 83–97.
+* Striker, G., 1974, “κριτήριον τῆς ἀληθείας”, *Nachrichten der Akademie der Wissenschaften zu Göttingen*, I. Phil.-hist. Klasse 2, 48–110; translated into English in Striker 1996: 22–76 (page references to English translation).
+* –––, 1980, “Sceptical Strategies”, in M. Schofield, M. F. Burnyeat, and J. Barnes (eds.), *Doubt and Dogmatism*, Oxford: Clarendon Press, 54–83; reprinted in Striker 1996: 92–115 (page references to reprint).
+* –––, 1981, “Über den Unterschied zwischen den Pyrrhoneern und den Akademikern”, *Phronesis*, 26: 153–71; translated in English in Striker 1996: 135–49 (page references to English translation).
+* –––, 1990a, “*Ataraxia*: Happiness as Tranquility”, *The Monist*, 73: 97–110; reprinted in Striker 1996: 183–95 (page references to reprint).
+* –––, 1990b, “The Problem of the Criterion”, in S. Everson (ed.), *Epistemology* (Companions to Ancient Thought I), Cambridge: Cambridge University Press, 143–60; reprinted in Striker 1996: 150–68 (page references to reprint).
 * –––, 1993, “The Ten Tropes of Aenesidemus”, in Burnyeat 1983: 95–115; reprinted in Striker 1996: 116–34 (page references to reprint).
-* –––, 1996, _Essays on Hellenistic Epistemology and Ethics_, Cambridge: Cambridge University Press.
-* –––, 2001, “Skepticism as a Way of Life”, _Archiv für Geschichte der Philosophie_, 83: 113–29.
-* –––, 2004, “Historical Reflections on Classical Pyrrhonism and Neo-Pyrrhonism”, in W. Sinott-Armstrong (ed.), _Pyrrhonian Skepticism_, Oxford: Oxford University Press, 13–24.
+* –––, 1996, *Essays on Hellenistic Epistemology and Ethics*, Cambridge: Cambridge University Press.
+* –––, 2001, “Skepticism as a Way of Life”, *Archiv für Geschichte der Philosophie*, 83: 113–29.
+* –––, 2004, “Historical Reflections on Classical Pyrrhonism and Neo-Pyrrhonism”, in W. Sinott-Armstrong (ed.), *Pyrrhonian Skepticism*, Oxford: Oxford University Press, 13–24.
 * –––, 2010, “Academics versus Pyrrhonists, reconsidered”, in Bett 2010: 195–207.
-* Vogt, K. M., 1998, _Skepsis und Lebenspraxis: Das pyrrhonische Leben ohne Meinungen_, Munich: Alber Verlag.
+* Vogt, K. M., 1998, *Skepsis und Lebenspraxis: Das pyrrhonische Leben ohne Meinungen*, Munich: Alber Verlag.
 * –––, 2010, “Scepticism and action”, in Bett 2010: 165–80.
-* ––– (ed.), 2015, _Pyrrhonian Skepticism in Diogenes Laertius_ (Sapere XXV), Tübingen: Mohr Siebeck.
+* ––– (ed.), 2015, *Pyrrhonian Skepticism in Diogenes Laertius* (Sapere XXV), Tübingen: Mohr Siebeck.
 * Woodruff, P., 2010, “The Pyrrhonian Modes”, in Bett 2010: 208–31.
 
 ## Academic Tools
@@ -688,4 +688,4 @@ II.
 [belief](https://plato.stanford.edu/entries/belief/) | [evidence](https://plato.stanford.edu/entries/evidence/) | [fallacies](https://plato.stanford.edu/entries/fallacies/) | [moral skepticism](https://plato.stanford.edu/entries/skepticism-moral/) | [rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) | [reasoning: defeasible](https://plato.stanford.edu/entries/reasoning-defeasible/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [skepticism: and content externalism](https://plato.stanford.edu/entries/skepticism-content-externalism/) | [skepticism: medieval](https://plato.stanford.edu/entries/skepticism-medieval/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/) | [truth](https://plato.stanford.edu/entries/truth/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Benjamin Morison](https://philosophy.princeton.edu/people/benjamin-morison) <[_bmorison@princeton.edu_](mailto:bmorison%40princeton%2eedu)>
+[Benjamin Morison](https://philosophy.princeton.edu/people/benjamin-morison) <[*bmorison@princeton.edu*](mailto:bmorison%40princeton%2eedu)>

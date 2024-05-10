@@ -26,7 +26,7 @@
 
 有关建立同步的各种提议的讨论，请参阅补充文件：
 
-> [ 时钟的运输](https://plato.stanford.edu/entries/spacetime-convensimul/transport-clocks.html)
+> [时钟的运输](https://plato.stanford.edu/entries/spacetime-convensimul/transport-clocks.html)
 
 目前唯一讨论的提议是基于 Malament（1977）的一个定理，他认为标准同步是唯一可以根据（对称的）因果连接性关系相对于给定的惯性参考系定义的同时性关系。让这个关系用κ表示，让事件 p 和 q 同时发生的陈述用 S(p,q)表示，让给定的惯性参考系由某个惯性观察者的世界线 O 指定。然后，Malament 的唯一性定理表明，如果 S 可以从κ和 O 定义，如果它是一个等价关系，如果存在 O 上的点 p 和不在 O 上的点 q 使得 S(p,q)成立，并且 S 不是普遍关系（适用于所有点），那么 S 就是标准同步关系。
 

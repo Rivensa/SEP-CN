@@ -1,6 +1,6 @@
 # 古代怀疑论 ancient (Katja Vogt)
 
-_首次发表于 2010 年 2 月 24 日，实质修订于 2022 年 9 月 21 日_
+*首次发表于 2010 年 2 月 24 日，实质修订于 2022 年 9 月 21 日*
 
 希腊词 skepsis 意为调查。字面上，“怀疑论者”是一个探究者。并非所有我们现在称之为“怀疑论者”的古代哲学家都自称为如此。然而，他们都拥抱致力于探究的生活方式。古代怀疑论既关注信仰，也关注知识。只要没有获得知识，怀疑论者的目标就是不肯定任何事情。这引发了他们最具争议的抱负：一种没有信仰的生活。
 
@@ -62,7 +62,7 @@ _首次发表于 2010 年 2 月 24 日，实质修订于 2022 年 9 月 21 日_
 
 在《蒂迈欧篇》中，柏拉图认为对自然世界的解释只能是“可能的”：它是一个类似的解释。总的来说，这里的想法是，某些需要解释的事物是这样的，以至于对它们进行理论化只能反映它们相对不足的本质。这个想法在克西诺芬和巴门尼德斯那里有前辈，并且在《蒂迈欧篇》中起着关键作用（Bryan 2012）。学院派怀疑论者使用了各种关于可信和令人信服的概念，从而进一步发展了这一传统，尽管不再假设不同领域需要不同类型的理论化。
 
-在《泰阿泰德》中，柏拉图探讨了与一些诡辩家相关的文化相对主义。在他的研究中，相对主义被扩展为一种普遍理论，不仅限于价值领域。苏格拉底（作为对话的主要发言人）将相对主义归因于普罗泰戈拉斯，他因说过“人是尺度”而闻名。苏格拉底将这一主张重新表述如下：对于 A 来说，看起来是真实的；对于 B 来说，看起来是真实的。基于这个前提，苏格拉底认为，我们无法在清醒时偏好于在睡眠时的感知，或者类似地，无法偏好于清醒的感知与醉酒或精神错乱的感知。在每种状态下，我们的感知对我们来说都是真实的。苏格拉底通过几个步骤分析了相对主义，指出了越来越激进的含义。在此过程中，他设想了一种适度的流变形而上学，其中物体没有稳定的属性。但最终他指出，相对主义致力于一种更激进的修正主义形而上学，即激进的流变。为了使对于 A 来说看起来是真实的，对于 B 来说看起来是真实的成为可能，A 和 B 不能同时指称一个稳定的世界。相反，“一切都是运动的”（《泰阿泰德》179c-184b）。怀疑论者使用了《泰阿泰德》中的一些论证，但并未得出相对主义的结论。从概略上讲，相对主义者认为，如果 X 对于 A 来说是 F，对于 B 来说是 F _，那么 X 对于 A 来说是 F-for-A，对于 B 来说是 F_-for-B。塞克斯所发现的皮浪怀疑论则通过持续调查 X 是否是 F 或 F\*（或两者都不是）来反击。
+在《泰阿泰德》中，柏拉图探讨了与一些诡辩家相关的文化相对主义。在他的研究中，相对主义被扩展为一种普遍理论，不仅限于价值领域。苏格拉底（作为对话的主要发言人）将相对主义归因于普罗泰戈拉斯，他因说过“人是尺度”而闻名。苏格拉底将这一主张重新表述如下：对于 A 来说，看起来是真实的；对于 B 来说，看起来是真实的。基于这个前提，苏格拉底认为，我们无法在清醒时偏好于在睡眠时的感知，或者类似地，无法偏好于清醒的感知与醉酒或精神错乱的感知。在每种状态下，我们的感知对我们来说都是真实的。苏格拉底通过几个步骤分析了相对主义，指出了越来越激进的含义。在此过程中，他设想了一种适度的流变形而上学，其中物体没有稳定的属性。但最终他指出，相对主义致力于一种更激进的修正主义形而上学，即激进的流变。为了使对于 A 来说看起来是真实的，对于 B 来说看起来是真实的成为可能，A 和 B 不能同时指称一个稳定的世界。相反，“一切都是运动的”（《泰阿泰德》179c-184b）。怀疑论者使用了《泰阿泰德》中的一些论证，但并未得出相对主义的结论。从概略上讲，相对主义者认为，如果 X 对于 A 来说是 F，对于 B 来说是 F *，那么 X 对于 A 来说是 F-for-A，对于 B 来说是 F*-for-B。塞克斯所发现的皮浪怀疑论则通过持续调查 X 是否是 F 或 F\*（或两者都不是）来反击。
 
 ### 2.3 亚里士多德
 
@@ -174,7 +174,7 @@ Aenesidemus（公元前 1 世纪）对他所在的学院讨论的观点感到不
 
 根据相互矛盾的表象，十种模式与相对主义不同，它们恰恰相反（Annas-Barnes 1985，97-8; Pellegrin 1997，552-3）。它们隐含地依赖于一种直觉，即存在着具有稳定属性的稳定事物。当然，怀疑论者并不承认相反的事物不能同时存在于同一物体，并且因此没有两个相互矛盾的表象可以同时为真。然而，这些模式假设了一种常识形而上学，无法容纳无误的分歧。在所有分歧的情况下，最多只有一个人是正确的。如果我们无法确定哪种观点是正确的，我们应该暂时搁置。这并不意味着怀疑论者承认一种常识形而上学。十种模式只是怀疑论者可以利用的几种工具之一。因此，它们可能隐含着一种形而上学，在其他时候，怀疑论者可能会对其提出质疑（参见 Fine 2003b，352）。
 
-因果不变性与冲突的表象在所引用的形而上学上有所不同。Aenesidemus 似乎探索了怀疑论与流变之间的关系。他指出，怀疑论导致了赫拉克利特哲学。一件事物似乎具有相反的属性（在不同的动物/人/感官中所呈现的属性），这导致了一件事物实际上具有相反的属性（PH 1.210; 参见 Schofield 2007 关于赫拉克利特和因果不变性的作用）。这个观点既可以被看作是适度的流变论，也可以被看作是相对主义的表达（Aenesidemus 似乎并不认为存在激进的流变，那里甚至不再可能引用任何东西）。事物的本质并没有稳定的现实（适度的流变）；X 在 A 看来是 F，在 B 看来是 F _，这对 A 来说是真实的，对 B 来说也是真实的（相对主义）。这个观点与上面提到的因果不变性解释模式不同。在那里，Aenesidemus 似乎认为事物并没有真正的稳定属性（它们既不是 F 也不是 F_）；他并没有说它们是 F 和 F\*（就像相对主义所说的那样）。
+因果不变性与冲突的表象在所引用的形而上学上有所不同。Aenesidemus 似乎探索了怀疑论与流变之间的关系。他指出，怀疑论导致了赫拉克利特哲学。一件事物似乎具有相反的属性（在不同的动物/人/感官中所呈现的属性），这导致了一件事物实际上具有相反的属性（PH 1.210; 参见 Schofield 2007 关于赫拉克利特和因果不变性的作用）。这个观点既可以被看作是适度的流变论，也可以被看作是相对主义的表达（Aenesidemus 似乎并不认为存在激进的流变，那里甚至不再可能引用任何东西）。事物的本质并没有稳定的现实（适度的流变）；X 在 A 看来是 F，在 B 看来是 F *，这对 A 来说是真实的，对 B 来说也是真实的（相对主义）。这个观点与上面提到的因果不变性解释模式不同。在那里，Aenesidemus 似乎认为事物并没有真正的稳定属性（它们既不是 F 也不是 F*）；他并没有说它们是 F 和 F\*（就像相对主义所说的那样）。
 
 第三种方法与怀疑论和相对主义相竞争，是伊壁鸠鲁认识论。再次，要解释的现象集是相同的。但是描述方式不同。伊壁鸠鲁坚持我们甚至不应该谈论相互冲突的表象。相反，我们应该谈论不同的感知。感知不能互相推翻，因为它们具有相同的重要性。伊壁鸠鲁在这里使用了怀疑论的核心术语：相等的重要性，等重性（DL 10.31-2）。感知不同的事实有着完全合理的解释：我从远处看，你从近处看；我感冒了，你身体健康；我是人类，另一个认知者是一只狗；等等。这些事实在解释我们的感知如何构成时起作用。因此，伊壁鸠鲁认为，所有感知，即使它们不同，都是真实的。它们都有一个物理学可以解释的因果历史。对这个提议的确切解释是有争议的。有人可能反对在这里使用真实的概念是非常令人困惑的。如果它们不能是真实或虚假的，描述所有感知为真实是什么意思也不清楚。
 
@@ -328,256 +328,256 @@ PH 1，在学术讨论中占据了最重要的位置，是一部杰作。塞克�
 
 ### Primary Sources
 
-* Annas, J. and J. Barnes (ed. and trans.), 2000, _Sextus Empiricus, Outlines of Scepticism_, Cambridge: Cambridge University Press, 2nd edition.
-* Bett, R. (ed. and trans. with commentary), 1997, _Sextus Empiricus: Against the Ethicists_ (Adversus Mathematicos XI), Oxford: Oxford University Press.
-* Bett, R. (ed. and trans. with commentary), 2005, _Sextus Empiricus: Against the Logicians_, Cambridge: Cambridge University Press.
-* Bett, R. (ed. and trans. with commentary), 2012, _Sextus Empiricus: Against the Physicists_, Cambridge: Cambridge University Press.
-* Bett, R. (trans. with an introduction and notes), 2018, _Sextus Empiricus: Against Those in the Disciplines_, Oxford: Oxford University Press.
-* Bettenson, H. (trans.), 2003, _Augustine: City of God_, London: Penguin.
-* Blank, D.L. (ed. and trans. with commentary), 1998, _Sextus Empiricus: Against the Grammarians_ (Adversus Mathematicos I), Oxford: Oxford University Press.
-* Brittain, C. (trans. with introduction), 2006, _Cicero: On Academic Scepticism_, Indianapolis and Cambridge, MA: Hackett.
-* Bury, R.G. (trans.), 1933–49, _Sextus Empiricus_ (Loeb Classical Library), 4 volumes, Cambridge, MA: Harvard University Press.
-* Chadwick, H. (trans.), 1991, _Augustine: Confessions_, Oxford: Oxford University Press.
-* Corti, L. (trans. with introduction and commentary) (forthcoming), _Sextus Empiricus: Against the Arithmeticians_,  Leiden: Brill.
-* Decleva Caizzi, F. (trans. and commentary), 1981, _Pirrone: Testimonianze_, Naples: Bibliopolis.
-* Diels, H. and W. Kranz (eds.), 1996, _Die Fragmente der Vorsokratiker_, 3 volumes., reprint of sixth edition (Berlin 1996), Berlin: Weidmann \[= **DK**].
-* Drake, S. (trans.), 1957, _Discoveries and Opinions of Galileo_, New York: Doubleday.
-* Hicks, R. (ed. and trans.), 1991, _Diogenes Laertius: Lives of Eminent Philosophers_ (Loeb Classical Library), 2 volumes, Cambridge MA: Harvard University Press, reprint of second edition \[= **DL**].
-* Hume, D., 1748, _An Enquiry Concerning Human Understanding_, London; reprinted in _Enquiries Concerning the Human Understanding and Concerning the Principles of Morals_, L. A. Selby-Bigge (ed.), revised P. H. Nidditch, Oxford: Oxford University Press, 1975.
-* Khalidi, M.A., K. Ameriks, and D. Clarke (eds.), 2005, _Medieval Islamic Philosophical Writings_, Cambridge: Cambridge University Press.
-* Long, A. A., and D.N. Sedley (eds. and trans.), 1987, _The Hellenistic Philosophers_, translation and philosophical commentary in vol 1, Greek and Latin texts, and philological commentary in vol. 2, Cambridge: Cambridge University Press \[= **LS**].
-* Mates, B., (trans. and commentary), 1996, _The Skeptic Way: Sextus Empiricus’ Outlines of Pyrrhonism_, New York: Oxford University Press.
-* Schoedinger, A. B. (ed. and trans.), 1996, _Readings in Medieval Philosophy_ , New York: Oxford University Press.
-* Vogt, K. (ed.) (co-trans. and co-commentator), 2015, _Pyrrhonian Skepticism in Diogenes Laertius_ (SAPERE: Volume 25), Tübingen: Mohr Siebeck.
-* Wittgenstein, L., 1922, _Tractatus Logico-Philosophicus_, C. K. Ogden (trans.), London: Routledge & Kegan Paul.
+* Annas, J. and J. Barnes (ed. and trans.), 2000, *Sextus Empiricus, Outlines of Scepticism*, Cambridge: Cambridge University Press, 2nd edition.
+* Bett, R. (ed. and trans. with commentary), 1997, *Sextus Empiricus: Against the Ethicists* (Adversus Mathematicos XI), Oxford: Oxford University Press.
+* Bett, R. (ed. and trans. with commentary), 2005, *Sextus Empiricus: Against the Logicians*, Cambridge: Cambridge University Press.
+* Bett, R. (ed. and trans. with commentary), 2012, *Sextus Empiricus: Against the Physicists*, Cambridge: Cambridge University Press.
+* Bett, R. (trans. with an introduction and notes), 2018, *Sextus Empiricus: Against Those in the Disciplines*, Oxford: Oxford University Press.
+* Bettenson, H. (trans.), 2003, *Augustine: City of God*, London: Penguin.
+* Blank, D.L. (ed. and trans. with commentary), 1998, *Sextus Empiricus: Against the Grammarians* (Adversus Mathematicos I), Oxford: Oxford University Press.
+* Brittain, C. (trans. with introduction), 2006, *Cicero: On Academic Scepticism*, Indianapolis and Cambridge, MA: Hackett.
+* Bury, R.G. (trans.), 1933–49, *Sextus Empiricus* (Loeb Classical Library), 4 volumes, Cambridge, MA: Harvard University Press.
+* Chadwick, H. (trans.), 1991, *Augustine: Confessions*, Oxford: Oxford University Press.
+* Corti, L. (trans. with introduction and commentary) (forthcoming), *Sextus Empiricus: Against the Arithmeticians*,  Leiden: Brill.
+* Decleva Caizzi, F. (trans. and commentary), 1981, *Pirrone: Testimonianze*, Naples: Bibliopolis.
+* Diels, H. and W. Kranz (eds.), 1996, *Die Fragmente der Vorsokratiker*, 3 volumes., reprint of sixth edition (Berlin 1996), Berlin: Weidmann \[= **DK**].
+* Drake, S. (trans.), 1957, *Discoveries and Opinions of Galileo*, New York: Doubleday.
+* Hicks, R. (ed. and trans.), 1991, *Diogenes Laertius: Lives of Eminent Philosophers* (Loeb Classical Library), 2 volumes, Cambridge MA: Harvard University Press, reprint of second edition \[= **DL**].
+* Hume, D., 1748, *An Enquiry Concerning Human Understanding*, London; reprinted in *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*, L. A. Selby-Bigge (ed.), revised P. H. Nidditch, Oxford: Oxford University Press, 1975.
+* Khalidi, M.A., K. Ameriks, and D. Clarke (eds.), 2005, *Medieval Islamic Philosophical Writings*, Cambridge: Cambridge University Press.
+* Long, A. A., and D.N. Sedley (eds. and trans.), 1987, *The Hellenistic Philosophers*, translation and philosophical commentary in vol 1, Greek and Latin texts, and philological commentary in vol. 2, Cambridge: Cambridge University Press \[= **LS**].
+* Mates, B., (trans. and commentary), 1996, *The Skeptic Way: Sextus Empiricus’ Outlines of Pyrrhonism*, New York: Oxford University Press.
+* Schoedinger, A. B. (ed. and trans.), 1996, *Readings in Medieval Philosophy* , New York: Oxford University Press.
+* Vogt, K. (ed.) (co-trans. and co-commentator), 2015, *Pyrrhonian Skepticism in Diogenes Laertius* (SAPERE: Volume 25), Tübingen: Mohr Siebeck.
+* Wittgenstein, L., 1922, *Tractatus Logico-Philosophicus*, C. K. Ogden (trans.), London: Routledge & Kegan Paul.
 
 ### Secondary Literature
 
-* Ainslie, D. C., 2003, “Hume’s Scepticism and Ancient Scepticisms,” in _Hellenistic and Early Modern Philosophy_, J. Miller and B. Inwood (eds.), Cambridge: Cambridge University Press, pp. 251–73.
-* Algra, K, J. Barnes, J. Mansfeld, and M. Schofield (eds.), 1999, _The Cambridge History of Hellenistic Philosophy_, Cambridge: Cambridge University Press.
-* Alesse, F., 1999, _La Stoa e la Tradizione Socratica_, Napoli: Bibliopolis.
-* Allen, J., 1994, “Academic probabilism and Stoic epistemology,” _Classical Quarterly_, 44: 85–113.
-* –––, 2001, _Inference From Signs: Ancient Debates About the Nature of Evidence_, Oxford: Oxford University Press.
-* –––, 2004, “Carneades,” _The Stanford Encyclopedia of Philosophy_ (Fall 2004 Edition), Edward N. Zalta (ed.), URL = <[Carneades (Stanford Encyclopedia of Philosophy/Fall 2004 Edition)](https://plato.stanford.edu/archives/fall2004/entries/carneades/)>.
-* –––, 2010, “Pyrrhonism and Medicine,” in _The Cambridge Companion to Ancient Scepticism_, R. Bett (ed.), Cambridge: Cambridge University Press, pp. 232–248.
-* –––, 2018, “Aporia and the New Academy,” in _The Aporetic Tradition in Ancient Philosophy_, G. Karamanolis and V. Politis (eds.), Cambridge: Cambridge University Press, pp. 172–191.
-* –––, 2022, “Radicalism and Moderation in the New Academy,” _Phronesis_, 67: 133–160.
-* Annas, J., 1996, “Scepticism, Old and New,” in _Rationality in Greek Thought_, M. Frede and G. Striker (eds.), Oxford: Oxford University Press, pp. 239–254.
-* Annas, J., 2000, “Hume and Scepticism,” in _Ancient Scepticism and the Sceptical Tradition_ (Acta Philosophica Fennica, Volume. 66), J. Sihvola (ed.), Helsinki: Academic Bookstore, pp. 271–285.
-* Annas, J. and J. Barnes, 1985, _The Modes of Scepticism: Ancient Texts and Modern Interpretations_, Cambridge: Cambridge University Press.
-* Arenson, K. (ed.), 2020. _The Routledge Handbook of Hellenistic Philosophy_, New York: Routledge.
-* Bailey, A., 2002, _Sextus Empiricus and Pyrrhonean Scepticism_, Oxford: Oxford University Press.
-* Barnes, J., 1982, “The beliefs of a Pyrrhonist,” _Proceedings of the Cambridge Philological Society_, 28: 1–29; reprinted in M. Burnyeat and M. Frede 1997, pp. 58–91.
-* –––, 1983, “Ancient Skepticism and Causation,” in _The Skeptical Tradition_, M. Burnyeat (ed.), Berkeley: University of California Press, pp. 149–203.
-* –––, 1990a, _The Toils of Scepticism_, Cambridge: Cambridge University Press.
-* –––, 1990b, “Pyrrhonism, Belief and Causation: Observations on the Scepticism of Sextus Empiricus,” _Aufstieg und Niedergang der Römischen Welt II_, 36 (4): 2608–95.
-* –––, 1992, “Diogenes Laertius IX 61–116: the Philosophy of Pyrrhonism,” in _Aufstieg und Niedergang der Römischen Welt II_, 36 (6): 4241–301.
-* Barnes, J., J. Brunschwig, M. Burnyeat, and M. Schofield (eds.), 1982, _Science and Speculation: Studies in Hellenistic Theory and Practice_, Cambridge: Cambridge University Press.
-* Barney, R., 1992, “Impressions and Appearances,” _Phronesis_, 37 (3): 283–313.
-* Berry, J., 2011. _Nietzsche and the Ancient Skeptical Tradition_, Oxford: Oxford University Press.
-* –––, 2020, “Sextan Skepticism and the Rise and Fall of German Idealism”, in _Epistemology After Sextus Empiricus_, K. M. Vogt and J. Vlasits (eds.), New York: Oxford University Press.
-* Bett, R., 1989, “Carneades’ _Pithanon_: A reappraisal of its Role and Status,” _Oxford Studies in Ancient Philosophy_, 7: 59–94.
-* –––, 1990, “Carneades’ Distinction between Assent and Approval,” _Monist_, 73 (3): 3–20.
-* –––, 1994, “What did Pyrrho think about ‘The Nature of the Divine and the Good’?”, _Phronesis_, 39: 303–37.
-* –––, 1994, “Sextus’s _Against the Ethicists_: Scepticism, Relativism, or Both?”, _Apeiron_, 27: 123–61.
-* –––, 2000, _Pyrrho, his Antecedents, and his Legacy_, Oxford: Oxford University Press.
-* –––, 2006a, “Pyrrho,” _The Stanford Encyclopedia of Philosophy_ (Summer 2006 edition), Edward N. Zalta (ed.), URL = <[Pyrrho (Stanford Encyclopedia of Philosophy/Summer 2006 Edition)](https://plato.stanford.edu/archives/sum2006/entries/pyrrho/)>
-* –––, 2006b, “Timon of Phlius,” _The Stanford Encyclopedia of Philosophy_ (Summer 2006 edition), Edward N. Zalta (ed.), URL = <[Timon of Phlius (Stanford Encyclopedia of Philosophy/Summer 2006 Edition)](https://plato.stanford.edu/archives/sum2006/entries/timon-phlius/)>
-* –––, “Le signe dans la tradition pyrrhonienne,” in José Kany-Turpin (ed.), _Signe et prédiction dans l’antiquité_ (Saint-Étienne: Publications de l’Université de Saint-Étienne, 2005), pp. 29–48.
-* –––, 2006, “Socrates and the Sceptics,” in _A Companion to Socrates_, S. Ahbel-Rappe and R. Kamtekar (eds.), Oxford: Oxford University Press, pp. 298–311.
-* ––– (ed.), 2010, _The Cambridge Companion to Ancient Scepticism_, Cambridge: Cambridge University Press.
+* Ainslie, D. C., 2003, “Hume’s Scepticism and Ancient Scepticisms,” in *Hellenistic and Early Modern Philosophy*, J. Miller and B. Inwood (eds.), Cambridge: Cambridge University Press, pp. 251–73.
+* Algra, K, J. Barnes, J. Mansfeld, and M. Schofield (eds.), 1999, *The Cambridge History of Hellenistic Philosophy*, Cambridge: Cambridge University Press.
+* Alesse, F., 1999, *La Stoa e la Tradizione Socratica*, Napoli: Bibliopolis.
+* Allen, J., 1994, “Academic probabilism and Stoic epistemology,” *Classical Quarterly*, 44: 85–113.
+* –––, 2001, *Inference From Signs: Ancient Debates About the Nature of Evidence*, Oxford: Oxford University Press.
+* –––, 2004, “Carneades,” *The Stanford Encyclopedia of Philosophy* (Fall 2004 Edition), Edward N. Zalta (ed.), URL = <[Carneades (Stanford Encyclopedia of Philosophy/Fall 2004 Edition)](https://plato.stanford.edu/archives/fall2004/entries/carneades/)>.
+* –––, 2010, “Pyrrhonism and Medicine,” in *The Cambridge Companion to Ancient Scepticism*, R. Bett (ed.), Cambridge: Cambridge University Press, pp. 232–248.
+* –––, 2018, “Aporia and the New Academy,” in *The Aporetic Tradition in Ancient Philosophy*, G. Karamanolis and V. Politis (eds.), Cambridge: Cambridge University Press, pp. 172–191.
+* –––, 2022, “Radicalism and Moderation in the New Academy,” *Phronesis*, 67: 133–160.
+* Annas, J., 1996, “Scepticism, Old and New,” in *Rationality in Greek Thought*, M. Frede and G. Striker (eds.), Oxford: Oxford University Press, pp. 239–254.
+* Annas, J., 2000, “Hume and Scepticism,” in *Ancient Scepticism and the Sceptical Tradition* (Acta Philosophica Fennica, Volume. 66), J. Sihvola (ed.), Helsinki: Academic Bookstore, pp. 271–285.
+* Annas, J. and J. Barnes, 1985, *The Modes of Scepticism: Ancient Texts and Modern Interpretations*, Cambridge: Cambridge University Press.
+* Arenson, K. (ed.), 2020. *The Routledge Handbook of Hellenistic Philosophy*, New York: Routledge.
+* Bailey, A., 2002, *Sextus Empiricus and Pyrrhonean Scepticism*, Oxford: Oxford University Press.
+* Barnes, J., 1982, “The beliefs of a Pyrrhonist,” *Proceedings of the Cambridge Philological Society*, 28: 1–29; reprinted in M. Burnyeat and M. Frede 1997, pp. 58–91.
+* –––, 1983, “Ancient Skepticism and Causation,” in *The Skeptical Tradition*, M. Burnyeat (ed.), Berkeley: University of California Press, pp. 149–203.
+* –––, 1990a, *The Toils of Scepticism*, Cambridge: Cambridge University Press.
+* –––, 1990b, “Pyrrhonism, Belief and Causation: Observations on the Scepticism of Sextus Empiricus,” *Aufstieg und Niedergang der Römischen Welt II*, 36 (4): 2608–95.
+* –––, 1992, “Diogenes Laertius IX 61–116: the Philosophy of Pyrrhonism,” in *Aufstieg und Niedergang der Römischen Welt II*, 36 (6): 4241–301.
+* Barnes, J., J. Brunschwig, M. Burnyeat, and M. Schofield (eds.), 1982, *Science and Speculation: Studies in Hellenistic Theory and Practice*, Cambridge: Cambridge University Press.
+* Barney, R., 1992, “Impressions and Appearances,” *Phronesis*, 37 (3): 283–313.
+* Berry, J., 2011. *Nietzsche and the Ancient Skeptical Tradition*, Oxford: Oxford University Press.
+* –––, 2020, “Sextan Skepticism and the Rise and Fall of German Idealism”, in *Epistemology After Sextus Empiricus*, K. M. Vogt and J. Vlasits (eds.), New York: Oxford University Press.
+* Bett, R., 1989, “Carneades’ *Pithanon*: A reappraisal of its Role and Status,” *Oxford Studies in Ancient Philosophy*, 7: 59–94.
+* –––, 1990, “Carneades’ Distinction between Assent and Approval,” *Monist*, 73 (3): 3–20.
+* –––, 1994, “What did Pyrrho think about ‘The Nature of the Divine and the Good’?”, *Phronesis*, 39: 303–37.
+* –––, 1994, “Sextus’s *Against the Ethicists*: Scepticism, Relativism, or Both?”, *Apeiron*, 27: 123–61.
+* –––, 2000, *Pyrrho, his Antecedents, and his Legacy*, Oxford: Oxford University Press.
+* –––, 2006a, “Pyrrho,” *The Stanford Encyclopedia of Philosophy* (Summer 2006 edition), Edward N. Zalta (ed.), URL = <[Pyrrho (Stanford Encyclopedia of Philosophy/Summer 2006 Edition)](https://plato.stanford.edu/archives/sum2006/entries/pyrrho/)>
+* –––, 2006b, “Timon of Phlius,” *The Stanford Encyclopedia of Philosophy* (Summer 2006 edition), Edward N. Zalta (ed.), URL = <[Timon of Phlius (Stanford Encyclopedia of Philosophy/Summer 2006 Edition)](https://plato.stanford.edu/archives/sum2006/entries/timon-phlius/)>
+* –––, “Le signe dans la tradition pyrrhonienne,” in José Kany-Turpin (ed.), *Signe et prédiction dans l’antiquité* (Saint-Étienne: Publications de l’Université de Saint-Étienne, 2005), pp. 29–48.
+* –––, 2006, “Socrates and the Sceptics,” in *A Companion to Socrates*, S. Ahbel-Rappe and R. Kamtekar (eds.), Oxford: Oxford University Press, pp. 298–311.
+* ––– (ed.), 2010, *The Cambridge Companion to Ancient Scepticism*, Cambridge: Cambridge University Press.
 * –––, 2010a, “Scepticism and Ethics,” in Bett (ed.) 2010, pp. 181–194.
-* –––, 2011, “How Ethical Can an Ancient Sceptic Be?,” in _Pyrrhonism in Ancient, Modern, and Contemporary Philosophy_, Diego Machuca (ed.), Dordrecht: Springer, pp. 3–17.
-* –––, 2013, “The Pyrrhonist’s Dilemma: What to Write if you Have Nothing to Say,” in _Argument und Literarischer Form in antiker Philosophie_, Akten des 3. Kongresses der Gesellschaft für antike Philosophie 2010, Michael Erler & Jan Erik Hessler (eds.), Berlin: De Gruyter, pp. 389–410.
-* –––, 2013b, “Ancient Scepticism,” in _Oxford Handbook of the History of Ethics_, Roger Crisp (ed.), Oxford: Oxford University Press, pp. 112–28.
-* –––, 2019, _How to be a Pyrrhonist: The Practice and Significance of Pyrrhonian Skepticism_, Cambridge: Cambridge University Press.
-* –––, 2020a, “Echoes of Sextus Empiricus in Nietzsche?,” in _Epistemology After Sextus Empiricus_, K. M. Vogt and J. Vlasits (eds.), New York: Oxford University Press.
-* –––, 2020b, “Gorgias’ Περὶ τοῦ μὴ ὄντος and Its Relation to Skepticism,” _International Journal for the Study of Skepticism_, 10 (3–4): 187–208.
-* Bobzien, S., 1998, _Determinism and Freedom in Stoic Philosophy_, Oxford: Oxford University Press.
-* –––, 2015, “Sextus on Time: Notes on Sceptical Method and Doxographical Transmission,” in _Sextus Empiricus and Ancient Physics_, K. Algra and K. Ierodiakonou (eds.), Cambridge: Cambridge University Press, pp. 275–323.
-* Brittain, C., 2001, _Philo of Larissa: The Last of the Academic Sceptics_, Oxford: Oxford University Press.
-* –––, 2005, “Arcesilaus,” _The Stanford Encyclopedia of Philosophy_ (Spring 2005 Edition), Edward N. Zalta (ed.), URL = <[Arcesilaus (Stanford Encyclopedia of Philosophy/Spring 2005 Edition)](https://plato.stanford.edu/archives/spr2005/entries/arcesilaus/)>
-* –––, 2005, “Common sense: concepts, definition and meaning in and out of the Stoa,” in _Language and Learning. Philosophy of Language in the Hellenistic Age_ (Proceedings of the Ninth Symposium Hellenisticum), D. Frede and B. Inwood (eds.), Cambridge: Cambridge University Press, pp. 164–209.
-* –––, 2014, “The Compulsions of Stoic Assent,”, in _Strategies of Argument: Essays in Ancient Ethics, Epistemology, and Logic_, Mi-Kyoung (Mitzi) Lee (ed.), New York: Oxford University Press, pp. 332–355.
-* Brittain, C. and J. Palmer, 2001, “The New Academy’s Appeals to the Presocratics,” _Phronesis_, 46: 38–72.
-* Broughton, J., 2002, _Descartes’s Method of Doubt_, Princeton: Princeton University Press.
-* Brunschwig, J., 1988, “Sextus Empiricus on the _kritêrion_: the sceptic as conceptual legatee,” in _The Question of ‘Eclecticism’: Studies in Later Greek Philosophy_, J. Dillon and A. Long (eds.), Berkeley: University of California Press, pp. 145–175.
-* –––, 1990, “La formule _hoson epi tôi logôi_ chez Sextus Empiricus,” in _Le Scepticisme Antique_, _Cahier de la Revue de Théologie et de Philosophie_, 15: 107–121, A.–J. Voelke (ed.); English translation in J. Brunschwig, 1994, _Papers in Hellenistic Philosophy_, Cambridge: Cambridge University Press, pp. 244–258.
-* Burnyeat, M. F., 1976, “Protagoras and Self-Refutation in Later Greek Philosophy,” _Philosophical Review_, 135: 44–69.
-* –––, 1978, “The Upside-Down Back-to-Front Sceptic of Lucretius IV 472,” _Philologus_, 122: 197–206.
-* –––, 1980, “Can the sceptic live his scepticism?” in _Doubt and Dogmatism: Studies in Hellenistic Epistemology_, M. Schofield, M. Burnyeat and J. Barnes (eds.), Oxford: Oxford University Press, pp. 20–53; reprinted in Burnyeat and Frede (eds.) 1997, pp. 25–57.
-* –––, 1980b, “Tranquillity without a Stop: Timon, Frag. 68,” _Classical Quarterly_, 30: 86–93.
-* –––, 1980c, “Socrates and the Jury: Paradoxes in Plato’s Distinction between Knowledge and True Belief, Part I,” _Proceedings of the Aristotelian Society_ (Supplement), 54: 173–191.
-* –––, 1982, “Idealism and Greek Philosophy: What Descartes Saw and Berkeley Missed,” _Philosophical Review_, 91: 3–40.
-* ––– (ed.), 1983, _The Skeptical Tradition_, Berkeley: University of California Press.
-* –––, 1984, “The sceptic in his place and time,” in _Philosophy in History_, R. Rorty, J.B. Schneewind, and Q. Skinner (eds.), Cambridge: Cambridge University Press, pp. 225–254; reprinted in Burnyeat and Frede (eds.), 1997, pp. 92–126.
-* –––, 2017, “All the World’s a Stage-Painting: Scenery, Optics, and Greek Epistemology,” _Oxford Studies in Ancient Philosophy_, 52: 33–75.
-* Burnyeat, M. and M. Frede (eds.), 1997, _The Original Sceptics_, Indianapolis and Cambridge, Mass.: Hackett.
-* Carriero, J., 2008, _Between Two Worlds: A Reading of Descartes’s Meditations_, Princeton: Princeton University Press.
-* Castagnoli, L., 2000, “Self-Bracketing Pyrrhonism,” _Oxford Studies in Ancient Philosophy_, 18: 263–328.
-* –––, 2010, _Ancient Self-Refutation: The Logic and History of the Self-Refutation Argument from Democritus to Augustine_, Cambridge: Cambridge University Press.
-* Clayman, D., 2009, _Timon of Phlius: Pyrrhonism into Poetry_, Berlin: De Gruyter.
-* Code, A., 2010, “Aristotle and the History of Skepticism,” in _Ancient Models of Mind: Studies in Human and Divine Rationality_, Andrea Nightingale and David Sedley (eds.), Cambridge: Cambridge University Press, pp. 97–109.
-* Cooper, J., 2002, “Method and Science in _On Ancient Medicine_,” in _Interpretation and Argument_, H. Linneweber-Lammerskitten and G. Mohr (eds.), Würzburg: Königshausen und Neumann; reprinted in Cooper 2004a, pp. 3–42.
-* –––, 2004a, _Knowledge, Nature, and the Good: Essays on Ancient Philosophy_, Princeton: Princeton University Press.
-* –––, 2004b, “Arcesilaus: Socratic and Sceptic” in _Year of Socrates 2001—Proceedings_, V. Karasmanis (ed.), Athens: European Cultural Center of Delphi; reprinted in Cooper 2004a, pp. 81–103.
+* –––, 2011, “How Ethical Can an Ancient Sceptic Be?,” in *Pyrrhonism in Ancient, Modern, and Contemporary Philosophy*, Diego Machuca (ed.), Dordrecht: Springer, pp. 3–17.
+* –––, 2013, “The Pyrrhonist’s Dilemma: What to Write if you Have Nothing to Say,” in *Argument und Literarischer Form in antiker Philosophie*, Akten des 3. Kongresses der Gesellschaft für antike Philosophie 2010, Michael Erler & Jan Erik Hessler (eds.), Berlin: De Gruyter, pp. 389–410.
+* –––, 2013b, “Ancient Scepticism,” in *Oxford Handbook of the History of Ethics*, Roger Crisp (ed.), Oxford: Oxford University Press, pp. 112–28.
+* –––, 2019, *How to be a Pyrrhonist: The Practice and Significance of Pyrrhonian Skepticism*, Cambridge: Cambridge University Press.
+* –––, 2020a, “Echoes of Sextus Empiricus in Nietzsche?,” in *Epistemology After Sextus Empiricus*, K. M. Vogt and J. Vlasits (eds.), New York: Oxford University Press.
+* –––, 2020b, “Gorgias’ Περὶ τοῦ μὴ ὄντος and Its Relation to Skepticism,” *International Journal for the Study of Skepticism*, 10 (3–4): 187–208.
+* Bobzien, S., 1998, *Determinism and Freedom in Stoic Philosophy*, Oxford: Oxford University Press.
+* –––, 2015, “Sextus on Time: Notes on Sceptical Method and Doxographical Transmission,” in *Sextus Empiricus and Ancient Physics*, K. Algra and K. Ierodiakonou (eds.), Cambridge: Cambridge University Press, pp. 275–323.
+* Brittain, C., 2001, *Philo of Larissa: The Last of the Academic Sceptics*, Oxford: Oxford University Press.
+* –––, 2005, “Arcesilaus,” *The Stanford Encyclopedia of Philosophy* (Spring 2005 Edition), Edward N. Zalta (ed.), URL = <[Arcesilaus (Stanford Encyclopedia of Philosophy/Spring 2005 Edition)](https://plato.stanford.edu/archives/spr2005/entries/arcesilaus/)>
+* –––, 2005, “Common sense: concepts, definition and meaning in and out of the Stoa,” in *Language and Learning. Philosophy of Language in the Hellenistic Age* (Proceedings of the Ninth Symposium Hellenisticum), D. Frede and B. Inwood (eds.), Cambridge: Cambridge University Press, pp. 164–209.
+* –––, 2014, “The Compulsions of Stoic Assent,”, in *Strategies of Argument: Essays in Ancient Ethics, Epistemology, and Logic*, Mi-Kyoung (Mitzi) Lee (ed.), New York: Oxford University Press, pp. 332–355.
+* Brittain, C. and J. Palmer, 2001, “The New Academy’s Appeals to the Presocratics,” *Phronesis*, 46: 38–72.
+* Broughton, J., 2002, *Descartes’s Method of Doubt*, Princeton: Princeton University Press.
+* Brunschwig, J., 1988, “Sextus Empiricus on the *kritêrion*: the sceptic as conceptual legatee,” in *The Question of ‘Eclecticism’: Studies in Later Greek Philosophy*, J. Dillon and A. Long (eds.), Berkeley: University of California Press, pp. 145–175.
+* –––, 1990, “La formule *hoson epi tôi logôi* chez Sextus Empiricus,” in *Le Scepticisme Antique*, *Cahier de la Revue de Théologie et de Philosophie*, 15: 107–121, A.–J. Voelke (ed.); English translation in J. Brunschwig, 1994, *Papers in Hellenistic Philosophy*, Cambridge: Cambridge University Press, pp. 244–258.
+* Burnyeat, M. F., 1976, “Protagoras and Self-Refutation in Later Greek Philosophy,” *Philosophical Review*, 135: 44–69.
+* –––, 1978, “The Upside-Down Back-to-Front Sceptic of Lucretius IV 472,” *Philologus*, 122: 197–206.
+* –––, 1980, “Can the sceptic live his scepticism?” in *Doubt and Dogmatism: Studies in Hellenistic Epistemology*, M. Schofield, M. Burnyeat and J. Barnes (eds.), Oxford: Oxford University Press, pp. 20–53; reprinted in Burnyeat and Frede (eds.) 1997, pp. 25–57.
+* –––, 1980b, “Tranquillity without a Stop: Timon, Frag. 68,” *Classical Quarterly*, 30: 86–93.
+* –––, 1980c, “Socrates and the Jury: Paradoxes in Plato’s Distinction between Knowledge and True Belief, Part I,” *Proceedings of the Aristotelian Society* (Supplement), 54: 173–191.
+* –––, 1982, “Idealism and Greek Philosophy: What Descartes Saw and Berkeley Missed,” *Philosophical Review*, 91: 3–40.
+* ––– (ed.), 1983, *The Skeptical Tradition*, Berkeley: University of California Press.
+* –––, 1984, “The sceptic in his place and time,” in *Philosophy in History*, R. Rorty, J.B. Schneewind, and Q. Skinner (eds.), Cambridge: Cambridge University Press, pp. 225–254; reprinted in Burnyeat and Frede (eds.), 1997, pp. 92–126.
+* –––, 2017, “All the World’s a Stage-Painting: Scenery, Optics, and Greek Epistemology,” *Oxford Studies in Ancient Philosophy*, 52: 33–75.
+* Burnyeat, M. and M. Frede (eds.), 1997, *The Original Sceptics*, Indianapolis and Cambridge, Mass.: Hackett.
+* Carriero, J., 2008, *Between Two Worlds: A Reading of Descartes’s Meditations*, Princeton: Princeton University Press.
+* Castagnoli, L., 2000, “Self-Bracketing Pyrrhonism,” *Oxford Studies in Ancient Philosophy*, 18: 263–328.
+* –––, 2010, *Ancient Self-Refutation: The Logic and History of the Self-Refutation Argument from Democritus to Augustine*, Cambridge: Cambridge University Press.
+* Clayman, D., 2009, *Timon of Phlius: Pyrrhonism into Poetry*, Berlin: De Gruyter.
+* Code, A., 2010, “Aristotle and the History of Skepticism,” in *Ancient Models of Mind: Studies in Human and Divine Rationality*, Andrea Nightingale and David Sedley (eds.), Cambridge: Cambridge University Press, pp. 97–109.
+* Cooper, J., 2002, “Method and Science in *On Ancient Medicine*,” in *Interpretation and Argument*, H. Linneweber-Lammerskitten and G. Mohr (eds.), Würzburg: Königshausen und Neumann; reprinted in Cooper 2004a, pp. 3–42.
+* –––, 2004a, *Knowledge, Nature, and the Good: Essays on Ancient Philosophy*, Princeton: Princeton University Press.
+* –––, 2004b, “Arcesilaus: Socratic and Sceptic” in *Year of Socrates 2001—Proceedings*, V. Karasmanis (ed.), Athens: European Cultural Center of Delphi; reprinted in Cooper 2004a, pp. 81–103.
 * –––, 2012, Pursuits of Wisdom: Six Ways of Life in Ancient Philosophy from Socrates to Plotinus, Princeton: Princeton University Press.
-* Corti, L., 2009, _Scepticisme et langage_, Paris: Vrin.
+* Corti, L., 2009, *Scepticisme et langage*, Paris: Vrin.
 * –––, 2010, “Scepticisme sans doute,” in ‘Quid est veritas?’ Hommage à Jonathan Barnes, A. Longo and M. Bonelli (eds.), Naples: Bibliopolis, pp. 157–77.
-* –––, 2011, “Skepticism and Hypothetical Method,” _Elenchos: Argument from Hypothesis in Ancient Philosophy_, Angela Longo and Davide del Forno (eds.), Naples: Bibliopolis, pp. 281–302.
-* –––, 2014, “Hidden Causes: Ancient Skeptics and Doctors and Modern Thinkers on the Perceivability of Causal Links,” in _Le débat sur les causes à l’âge hellénistique et imperial_, C. Natali and C. Viano (eds.), Louvain-la-Neuve, Peeters, pp. 95–117.
+* –––, 2011, “Skepticism and Hypothetical Method,” *Elenchos: Argument from Hypothesis in Ancient Philosophy*, Angela Longo and Davide del Forno (eds.), Naples: Bibliopolis, pp. 281–302.
+* –––, 2014, “Hidden Causes: Ancient Skeptics and Doctors and Modern Thinkers on the Perceivability of Causal Links,” in *Le débat sur les causes à l’âge hellénistique et imperial*, C. Natali and C. Viano (eds.), Louvain-la-Neuve, Peeters, pp. 95–117.
 * –––, 2015, “DL IX 74–77: Mind and Language of the Laërtian Pyrrhonist,” in K. Vogt (ed.), pp. 123–145.
-* –––, 2015b, “Scepticism, number and appearances: the ἀριθμητικὴ τέχνη and Sextus’ targets in M I-VI,” _Philosophie Antique_, 15: 123–147.
-* –––, 2015c, “Sextus, the number two and the Phaedo,” in _Ancient Readings of Plato’s Phaedo_, S. Delcomminette et al. (eds.), Leiden: Brill, pp. 90–106.
-* Couissin, P., 1983, “The Stoicism of the New Academy,” in Burnyeat (ed.) 1983, pp. 31–63. Translation of Couissin 1929, “Le stoicisme de la nouvelle Academie,” _Revue d’historie de la philosophie_, 3: 241–76.
-* Everson, S., 1990, “Epicurus on the Truth of the Senses,” in _Epistemology: Companions to Ancient Thought 1_, S. Everson (ed.), Cambridge: Cambridge University Press, pp. 161–83.
-* –––, 1990, _Epistemology: Companions to Ancient Thought 1_, Cambridge: Cambridge University Press.
-* –––, 1991, “The Objective Appearance of Pyrhonism,” _Psychology_: _Companions to Ancient Thought 2_, in S. Everson (ed.), Cambridge: Cambridge University Press, pp. 121–147.
-* Feeney, M. and S. Schellenberg, 2020, “Bayesian Liberalism,” in: _Epistemology After Sextus Empiricus_, J. Vlasits and K. Vogt (eds.), New York: Oxford University Press, pp. 75–88.
-* Fine, G., 2000a, “Sceptical Dogmata: _Outlines of Pyrrhonism I 13_,” _Methexis_, 13: 81–105.
-* –––, 2000b, “Descartes and Ancient Skepticism: Reheated Cabbage?”, _Philosophical Review_, 109: 195–234.
-* –––, 2003a, “Subjectivity, Ancient and Modern: The Cyrenaics, Sextus, and Descartes,” in _Hellenistic and Early Modern Philosophy_, J. Miller and B. Inwood (eds.), Cambridge: Cambridge University Press, pp. 192–231.
-* –––, 2003b, “Sextus and External World Scepticism,” _Oxford Studies in Ancient Philosophy_, 23: 341–385.
-* –––, 2008, “Does Socrates Claim To Know That He Knows Nothing?”, _Oxford Studies in Ancient Philosophy_, 35: 49–88.
-* –––, 2011, “Concepts and inquiry: Sextus and the Epicureans,” in _Episteme, etc.: Essays in Honour of Jonathan Barnes_, Ben Morison and Katerina Ierodiakonou (eds.), Oxford: Oxford University Press, pp. 90–113.
-* –––, 2014, _The Possibility of Inquiry: Meno’s Paradox from Socrates to Sextus_, Oxford: Oxford University Press.
-* –––, 2021, _Essays in Ancient Epistemology_, Oxford: Oxford University Press.
-* Frede, M., 1979, “Des Skeptikers Meinungen,” _Neue Hefte für Philosophie_, 15/16: 102–29; reprinted as “The Sceptic’s Beliefs,” in Burnyeat and Frede (eds.) 1997, pp. 1–24.
+* –––, 2015b, “Scepticism, number and appearances: the ἀριθμητικὴ τέχνη and Sextus’ targets in M I-VI,” *Philosophie Antique*, 15: 123–147.
+* –––, 2015c, “Sextus, the number two and the Phaedo,” in *Ancient Readings of Plato’s Phaedo*, S. Delcomminette et al. (eds.), Leiden: Brill, pp. 90–106.
+* Couissin, P., 1983, “The Stoicism of the New Academy,” in Burnyeat (ed.) 1983, pp. 31–63. Translation of Couissin 1929, “Le stoicisme de la nouvelle Academie,” *Revue d’historie de la philosophie*, 3: 241–76.
+* Everson, S., 1990, “Epicurus on the Truth of the Senses,” in *Epistemology: Companions to Ancient Thought 1*, S. Everson (ed.), Cambridge: Cambridge University Press, pp. 161–83.
+* –––, 1990, *Epistemology: Companions to Ancient Thought 1*, Cambridge: Cambridge University Press.
+* –––, 1991, “The Objective Appearance of Pyrhonism,” *Psychology*: *Companions to Ancient Thought 2*, in S. Everson (ed.), Cambridge: Cambridge University Press, pp. 121–147.
+* Feeney, M. and S. Schellenberg, 2020, “Bayesian Liberalism,” in: *Epistemology After Sextus Empiricus*, J. Vlasits and K. Vogt (eds.), New York: Oxford University Press, pp. 75–88.
+* Fine, G., 2000a, “Sceptical Dogmata: *Outlines of Pyrrhonism I 13*,” *Methexis*, 13: 81–105.
+* –––, 2000b, “Descartes and Ancient Skepticism: Reheated Cabbage?”, *Philosophical Review*, 109: 195–234.
+* –––, 2003a, “Subjectivity, Ancient and Modern: The Cyrenaics, Sextus, and Descartes,” in *Hellenistic and Early Modern Philosophy*, J. Miller and B. Inwood (eds.), Cambridge: Cambridge University Press, pp. 192–231.
+* –––, 2003b, “Sextus and External World Scepticism,” *Oxford Studies in Ancient Philosophy*, 23: 341–385.
+* –––, 2008, “Does Socrates Claim To Know That He Knows Nothing?”, *Oxford Studies in Ancient Philosophy*, 35: 49–88.
+* –––, 2011, “Concepts and inquiry: Sextus and the Epicureans,” in *Episteme, etc.: Essays in Honour of Jonathan Barnes*, Ben Morison and Katerina Ierodiakonou (eds.), Oxford: Oxford University Press, pp. 90–113.
+* –––, 2014, *The Possibility of Inquiry: Meno’s Paradox from Socrates to Sextus*, Oxford: Oxford University Press.
+* –––, 2021, *Essays in Ancient Epistemology*, Oxford: Oxford University Press.
+* Frede, M., 1979, “Des Skeptikers Meinungen,” *Neue Hefte für Philosophie*, 15/16: 102–29; reprinted as “The Sceptic’s Beliefs,” in Burnyeat and Frede (eds.) 1997, pp. 1–24.
 * –––, 1983, “Stoics and Sceptics on clear and distinct impressions,” in M. Burnyeat (ed.) 1983, pp. 65–94.
-* –––, 1984, “The Sceptic’s Two Kinds of Assent and the Question of the Possibility of Knowledge” in _Philosophy in History_, R. Rorty, J.B. Schneewind, and Q. Skinner (eds.), _Philosophy in History_, Cambridge: Cambridge University Press, pp. 255–78; reprinted in Burnyeat and Frede (eds.) 1997, pp. 127–151.
+* –––, 1984, “The Sceptic’s Two Kinds of Assent and the Question of the Possibility of Knowledge” in *Philosophy in History*, R. Rorty, J.B. Schneewind, and Q. Skinner (eds.), *Philosophy in History*, Cambridge: Cambridge University Press, pp. 255–78; reprinted in Burnyeat and Frede (eds.) 1997, pp. 127–151.
 * –––, 1990, “An Empiricist View of Knowledge: Memorism,” in S. Everson (ed.) 1990, pp. 225–250.
-* –––, 1994, “The Stoic Conception of Reason,” in _Hellenistic Philosophy_ (Volume 2), K. J. Boudouris (ed.), Athens: International Center for Greek Philosophy, pp. 50–61.
-* –––, 1996, “Introduction,” in _Rationality in Greek Thought_, M. Frede and G. Striker (eds.), Oxford: Oxford University Press, pp. 1–28.
-* –––, 1997, “The sceptics,” in _Routledge History of Philosophy. Volume II. From Aristotle to Augustine_, D. Furley (ed.), London: Routledge, pp. 253–86.
-* –––, 1999, “Stoic Epistemology,” in Algra _et al_. (eds.) 1999, pp. 295–322.
-* –––, 2008, “Aristotle on Thinking,” _Rhizai: A Journal for Ancient Philosophy and Science_, 2: 287–301.
-* Flintoff, E., 1980, “Pyrrho and India,” _Phronesis_, 25: 88–108.
-* Garrett, D., 2020, “Pyrrhonian Skepticism and Humean Skepticism: Belief, Evidence, and Causal Power,” in _Epistemology After Sextus Empiricus_, K. M. Vogt and J. Vlasits (eds.), New York: Oxford University Press, 213–236.
-* Glidden, D. K., 1983, “Skeptic Semiotics,” _Phronesis_, 28: 213–255.
-* Glüer, K., 2020, “Illusory Looks,” in _Epistemology After Sextus Empiricus_, J. Vlasits and K. Vogt (eds.), New York: Oxford University Press, pp. 48–74.
-* González Quintero, C., 2022, _Academic Skepticism in Hume and Kant_, Cham: Springer International Publishing.
-* Grgic, F., 2006, “Sextus Empiricus on the Goal of Skepticism,” _Ancient Philosophy_, 26: 141–60.
-* Hankinson, R.J., 1987, “Causes and Empiricism: A Problem in the Interpretation of Later Greek Medical Method,” _Phronesis_, 32: 329–48.
-* ––– (ed.), 1988, _Method, Medicine and Metaphysics: Studies in the Philosophy of Ancient Science_, _Apeiron_, XXI (2).
-* –––, 1994, “Values, objectivity and dialectic: the sceptical attack on ethics; its methods, aims and success,” _Phronesis_, 49: 45–6.
-* –––, 1995, _The Sceptics_, London: Routledge.
+* –––, 1994, “The Stoic Conception of Reason,” in *Hellenistic Philosophy* (Volume 2), K. J. Boudouris (ed.), Athens: International Center for Greek Philosophy, pp. 50–61.
+* –––, 1996, “Introduction,” in *Rationality in Greek Thought*, M. Frede and G. Striker (eds.), Oxford: Oxford University Press, pp. 1–28.
+* –––, 1997, “The sceptics,” in *Routledge History of Philosophy. Volume II. From Aristotle to Augustine*, D. Furley (ed.), London: Routledge, pp. 253–86.
+* –––, 1999, “Stoic Epistemology,” in Algra *et al*. (eds.) 1999, pp. 295–322.
+* –––, 2008, “Aristotle on Thinking,” *Rhizai: A Journal for Ancient Philosophy and Science*, 2: 287–301.
+* Flintoff, E., 1980, “Pyrrho and India,” *Phronesis*, 25: 88–108.
+* Garrett, D., 2020, “Pyrrhonian Skepticism and Humean Skepticism: Belief, Evidence, and Causal Power,” in *Epistemology After Sextus Empiricus*, K. M. Vogt and J. Vlasits (eds.), New York: Oxford University Press, 213–236.
+* Glidden, D. K., 1983, “Skeptic Semiotics,” *Phronesis*, 28: 213–255.
+* Glüer, K., 2020, “Illusory Looks,” in *Epistemology After Sextus Empiricus*, J. Vlasits and K. Vogt (eds.), New York: Oxford University Press, pp. 48–74.
+* González Quintero, C., 2022, *Academic Skepticism in Hume and Kant*, Cham: Springer International Publishing.
+* Grgic, F., 2006, “Sextus Empiricus on the Goal of Skepticism,” *Ancient Philosophy*, 26: 141–60.
+* Hankinson, R.J., 1987, “Causes and Empiricism: A Problem in the Interpretation of Later Greek Medical Method,” *Phronesis*, 32: 329–48.
+* ––– (ed.), 1988, *Method, Medicine and Metaphysics: Studies in the Philosophy of Ancient Science*, *Apeiron*, XXI (2).
+* –––, 1994, “Values, objectivity and dialectic: the sceptical attack on ethics; its methods, aims and success,” *Phronesis*, 49: 45–6.
+* –––, 1995, *The Sceptics*, London: Routledge.
 * –––, 2003, “Stoic Epistemology,” in B. Inwood (ed.) 2003, pp. 59–84.
 * –––, 2010, “Aenesidemus and the Rebirth of Pyrrhonism,” in Bett (ed.) 2010, pp. 105–119.
-* Hanner, O. (ed.), 2020, _Buddhism and Scepticism: Historical, Philosophical, and Comparative Perspectives_, Freiburg/Bochum: Project Verlag.
-* Heck, P., 2014, _Skepticism in Classical Islam: Moments of Confusion_, London: Routledge.
-* House, D.K., 1980, “The Life of Sextus Empiricus,” _Classical Quarterly_, 30: 227–238.
-* Inwood, B., 1985, _Ethics and Human Action in Early Stoicism_, Oxford: Oxford University Press.
-* ––– (ed.), 2003, _Cambridge Companion to the Stoics_, Cambridge: Cambridge University Press.
-* Inwood, B. and J. Mansfeld (eds.), 1997, _Assent and Argument_ (Studies in Cicero’s Academic Books), _Proceedings of the Seventh Symposium Hellenisticum_, Leiden: Brill.
-* Irwin, T. (ed.), 1995, _Classical Philosophy: Collected Papers_, 8 volumes, New York: Garland.
-* Janácek, K., 1948, _Prolegomena to Sextus Empiricus_, Olomouc: Nákladem Palackého University.
-* Janácek, K., 1972, _Sextus Empiricus’ Sceptical Methods_, Prague: Universita Karlova.
-* Johnson, B., 2001, “On the coherence of Pyrrhonian Skepticism,” _The Philosophical Review_, 110: 521–61.
+* Hanner, O. (ed.), 2020, *Buddhism and Scepticism: Historical, Philosophical, and Comparative Perspectives*, Freiburg/Bochum: Project Verlag.
+* Heck, P., 2014, *Skepticism in Classical Islam: Moments of Confusion*, London: Routledge.
+* House, D.K., 1980, “The Life of Sextus Empiricus,” *Classical Quarterly*, 30: 227–238.
+* Inwood, B., 1985, *Ethics and Human Action in Early Stoicism*, Oxford: Oxford University Press.
+* ––– (ed.), 2003, *Cambridge Companion to the Stoics*, Cambridge: Cambridge University Press.
+* Inwood, B. and J. Mansfeld (eds.), 1997, *Assent and Argument* (Studies in Cicero’s Academic Books), *Proceedings of the Seventh Symposium Hellenisticum*, Leiden: Brill.
+* Irwin, T. (ed.), 1995, *Classical Philosophy: Collected Papers*, 8 volumes, New York: Garland.
+* Janácek, K., 1948, *Prolegomena to Sextus Empiricus*, Olomouc: Nákladem Palackého University.
+* Janácek, K., 1972, *Sextus Empiricus’ Sceptical Methods*, Prague: Universita Karlova.
+* Johnson, B., 2001, “On the coherence of Pyrrhonian Skepticism,” *The Philosophical Review*, 110: 521–61.
 * Kirwan, C., 1983, “Augustine Against the Skeptics,” in Burnyeat (ed.) 1983, pp. 205–223.
-* Kukkonen, T., 2009, “Al-Ghazali’s Skepticism Revisited,”, in _A History of Skepticism in the Middle Ages_, Lagerlund (ed.), Leiden: Brill, pp. 29–59.
-* Lagerlund, H. (ed.), 2009, _A History of Skepticism in the Middle Ages_, Leiden: Brill.
-* Lagerlund, H., 2009, “Introduction,”, in _A History of Skepticism in the Middle Ages_, Lagerlund (ed.), Leiden: Brill, pp.1–28.
-* –––, 2020, _Skepticism in Philosophy: A Comprehensive, Historical Introduction_, New York: Routledge.
-* Lee, M., 2005, _Epistemology after Protagoras: Responses to Relativism in Plato, Aristotle, and Democritus_, Oxford: Oxford University Press.
+* Kukkonen, T., 2009, “Al-Ghazali’s Skepticism Revisited,”, in *A History of Skepticism in the Middle Ages*, Lagerlund (ed.), Leiden: Brill, pp. 29–59.
+* Lagerlund, H. (ed.), 2009, *A History of Skepticism in the Middle Ages*, Leiden: Brill.
+* Lagerlund, H., 2009, “Introduction,”, in *A History of Skepticism in the Middle Ages*, Lagerlund (ed.), Leiden: Brill, pp.1–28.
+* –––, 2020, *Skepticism in Philosophy: A Comprehensive, Historical Introduction*, New York: Routledge.
+* Lee, M., 2005, *Epistemology after Protagoras: Responses to Relativism in Plato, Aristotle, and Democritus*, Oxford: Oxford University Press.
 * –––, 2010, “Antecedents in Early Greek Philosophy,” in Bett (ed.) 2010, pp. 13–35.
-* Lesher, J. H., 1999, “Early Interest in Knowledge,” in _Cambridge Companion to Early Greek Philosophy_, A. A. Long (ed.), Cambridge: Cambridge University Press, pp. 225–249.
+* Lesher, J. H., 1999, “Early Interest in Knowledge,” in *Cambridge Companion to Early Greek Philosophy*, A. A. Long (ed.), Cambridge: Cambridge University Press, pp. 225–249.
 * Lévy, C., 2010, “The Sceptical Academy: Decline and Afterlife,” in Bett (ed.) 2010, pp. 81–104.
-* Long, A. A., 2006, _From Epicurus to Epictetus: Studies in Hellenistic and Roman Philosophy_, Oxford: Oxford University Press.
-* Machuca, D. E., 2006, “The Pyrrhonist’s _ataraxia_ and _philanthrôpia_,” _Ancient Philosophy_, 26: 111–139.
-* –––, D. E., 2019, “Sources of Doxastic Disturbance in Sextus Empiricus” _Oxford Studies in Ancient Philosophy_, 56: 193–214.
-* –––, D. E., 2022, _Pyrrhonism Past and Present: Inquiry, Disagreement, Self-Knowledge, and Rationality_, Cham: Springer International Press.
-* Machuca, D. and Reed, B., 2018, _Skepticism: From Antiquity to the Present_, London: Bloomsbury.
-* Machek, D. and Veres, M., 2021), “Expert Impressions in Stoicism,” _Archiv für Geschichte der Philosophie_. doi:10.1515/agph-2021-0038
-* Malink, M., 2020, “Hypothetical Syllogisms and Infinite Regress,” in _Epistemology after Sextus Empiricus_, K. Vogt and J. Vlasits (eds.), New York: Oxford University Press, pp. 129–151.
-* Marchand, S., 2015, “Sextus Empiricus: les effets politiques de la suspension du jugement” _Elenchos: Rivista di studi sul pensiero antico_, 35 (2): 311–342.
-* –––, 2021, “Pyrrhonism and the Value of Law,” _Polis: The Journal for Ancient Greek and Roman Political Thought_, 38 (3): 573–587.
-* McPherran, M., 1987, “Sceptical Homeopathy and Self-Refutation,” _Phronesis_, 32: 290–328.
-* McPherran, M., 1989, “_Ataraxia_ and _Eudaimonia_ in Ancient Pyrrhonism: Is the Sceptic Really Happy?,” in _Proceedings of the Boston Area Colloquium in Ancient Philosophy_, J. J. Cleary and D. C. Shartin (eds.), pp. 135–171.
-* McPherran, M., 1990, “Pyrrhonism’s Arguments against Value,” _Philosophical Studies_, 60: 127–142.
-* Menn, S., 1998, _Descartes and Augustine_, Cambridge: Cambridge University Press.
-* –––, 2003, “The Discourse on the Method and the Tradition of Intellectual Autobiography,” in _Hellenistic and Early Modern Philosophy_, J. Miller and B. Inwood (eds.), Cambridge: Cambridge University Press, pp. 141–191.
-* Mill, E., 2018, _Three Pillars of Skepticism in Classical India: Nāgārjuna, Jayarāśi, and Śrī Harṣa_, Lanham: Lexington Books.
-* Morison, B., 2011, “The Logical Structure of the Sceptic’s Opposition,” in Allen, Emilsson, Morison and Mann (eds.), _Essays in Memory of Michael Frede_, _Oxford Studies in Ancient Philosophy_, 40: 265–295.
-* –––, 2018, “The Sceptic’s Modes of Argumentation,” in _Dialectic after Plato and Aristotle_ (Proceedings of the 2013 Symposium Hellenisticum), T. Bénatouïl and K. Ierodiakonou (eds.), Cambridge: Cambridge University Press, pp. 283–317.
-* Moss, J. and W. Schwab, 2019, “The Birth of Belief,” _Journal of the History of Philosophy_, 57 (1): 1–32.
-* Nawar, T. 2014, “The Stoic Account of Apprehension,” _Philosophers’ Imprint_, 14 (29), \[[Nawar 2014 available online](http://hdl.handle.net/2027/spo.3521354.0014.029)].
-* –––, 2017, “The Stoics on Identity, Identiﬁcation, and Peculiar Qualities,” _Proceedings of the Boston Area Colloquium of Ancient Philosophy_, 32 (1): 113–59.
+* Long, A. A., 2006, *From Epicurus to Epictetus: Studies in Hellenistic and Roman Philosophy*, Oxford: Oxford University Press.
+* Machuca, D. E., 2006, “The Pyrrhonist’s *ataraxia* and *philanthrôpia*,” *Ancient Philosophy*, 26: 111–139.
+* –––, D. E., 2019, “Sources of Doxastic Disturbance in Sextus Empiricus” *Oxford Studies in Ancient Philosophy*, 56: 193–214.
+* –––, D. E., 2022, *Pyrrhonism Past and Present: Inquiry, Disagreement, Self-Knowledge, and Rationality*, Cham: Springer International Press.
+* Machuca, D. and Reed, B., 2018, *Skepticism: From Antiquity to the Present*, London: Bloomsbury.
+* Machek, D. and Veres, M., 2021), “Expert Impressions in Stoicism,” *Archiv für Geschichte der Philosophie*. doi:10.1515/agph-2021-0038
+* Malink, M., 2020, “Hypothetical Syllogisms and Infinite Regress,” in *Epistemology after Sextus Empiricus*, K. Vogt and J. Vlasits (eds.), New York: Oxford University Press, pp. 129–151.
+* Marchand, S., 2015, “Sextus Empiricus: les effets politiques de la suspension du jugement” *Elenchos: Rivista di studi sul pensiero antico*, 35 (2): 311–342.
+* –––, 2021, “Pyrrhonism and the Value of Law,” *Polis: The Journal for Ancient Greek and Roman Political Thought*, 38 (3): 573–587.
+* McPherran, M., 1987, “Sceptical Homeopathy and Self-Refutation,” *Phronesis*, 32: 290–328.
+* McPherran, M., 1989, “*Ataraxia* and *Eudaimonia* in Ancient Pyrrhonism: Is the Sceptic Really Happy?,” in *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, J. J. Cleary and D. C. Shartin (eds.), pp. 135–171.
+* McPherran, M., 1990, “Pyrrhonism’s Arguments against Value,” *Philosophical Studies*, 60: 127–142.
+* Menn, S., 1998, *Descartes and Augustine*, Cambridge: Cambridge University Press.
+* –––, 2003, “The Discourse on the Method and the Tradition of Intellectual Autobiography,” in *Hellenistic and Early Modern Philosophy*, J. Miller and B. Inwood (eds.), Cambridge: Cambridge University Press, pp. 141–191.
+* Mill, E., 2018, *Three Pillars of Skepticism in Classical India: Nāgārjuna, Jayarāśi, and Śrī Harṣa*, Lanham: Lexington Books.
+* Morison, B., 2011, “The Logical Structure of the Sceptic’s Opposition,” in Allen, Emilsson, Morison and Mann (eds.), *Essays in Memory of Michael Frede*, *Oxford Studies in Ancient Philosophy*, 40: 265–295.
+* –––, 2018, “The Sceptic’s Modes of Argumentation,” in *Dialectic after Plato and Aristotle* (Proceedings of the 2013 Symposium Hellenisticum), T. Bénatouïl and K. Ierodiakonou (eds.), Cambridge: Cambridge University Press, pp. 283–317.
+* Moss, J. and W. Schwab, 2019, “The Birth of Belief,” *Journal of the History of Philosophy*, 57 (1): 1–32.
+* Nawar, T. 2014, “The Stoic Account of Apprehension,” *Philosophers’ Imprint*, 14 (29), \[[Nawar 2014 available online](http://hdl.handle.net/2027/spo.3521354.0014.029)].
+* –––, 2017, “The Stoics on Identity, Identiﬁcation, and Peculiar Qualities,” *Proceedings of the Boston Area Colloquium of Ancient Philosophy*, 32 (1): 113–59.
 * –––, 2019, “Augustine’s Defense of Knowledge against the Skeptics,” O_xford Studies in Ancient Philosophy_, 56: 215–65.
-* Nussbaum, M., 1994, “Sceptic Purgatives: Disturbance and the Life Without Belief,” in _The Therapy of Desire: Theory and Practice in Hellenistic Ethics_, M. Nussbaum, Princeton: Princeton University Press, pp. 280–315.
-* Obdrzalek, S., 2006, “Living in Doubt: Carneades’ _Pithanon_ Reconsidered,” _Oxford Studies in Ancient Philosophy_, 31: 243–80.
-* –––, 2013, “From Skepticism to Paralysis,” _Ancient Philosophy_, 32 (2): 369–392.
-* Olfert, C., 2015, “Skeptical Investigation and its Perks,” in _Diogenes Laertius’s Lives of Philosophers IX.61–161_, Katja Vogt (ed.), SAPERE series by Mohr Siebeck, pp. 147–170.
-* –––, forthcoming, “Pyrrhonian Skepticism on Gender and Virtue,” in _The Routledge Handbook of Women and Ancient Greek Philosophy_, Sara Brill and Catherine McKeen (eds.).
-* Pagin, P., 2020, “The Force of Assumptions and Self-Attributions,” in: _Epistemology After Sextus Empiricus_, K. Vogt and J. Vlasits (eds.), New York: Oxford University Press, pp. 116–128.
-* Palmer, J., 2000, “Skeptical Investigation,” _Ancient Philosophy_, 20: 351–73.
+* Nussbaum, M., 1994, “Sceptic Purgatives: Disturbance and the Life Without Belief,” in *The Therapy of Desire: Theory and Practice in Hellenistic Ethics*, M. Nussbaum, Princeton: Princeton University Press, pp. 280–315.
+* Obdrzalek, S., 2006, “Living in Doubt: Carneades’ *Pithanon* Reconsidered,” *Oxford Studies in Ancient Philosophy*, 31: 243–80.
+* –––, 2013, “From Skepticism to Paralysis,” *Ancient Philosophy*, 32 (2): 369–392.
+* Olfert, C., 2015, “Skeptical Investigation and its Perks,” in *Diogenes Laertius’s Lives of Philosophers IX.61–161*, Katja Vogt (ed.), SAPERE series by Mohr Siebeck, pp. 147–170.
+* –––, forthcoming, “Pyrrhonian Skepticism on Gender and Virtue,” in *The Routledge Handbook of Women and Ancient Greek Philosophy*, Sara Brill and Catherine McKeen (eds.).
+* Pagin, P., 2020, “The Force of Assumptions and Self-Attributions,” in: *Epistemology After Sextus Empiricus*, K. Vogt and J. Vlasits (eds.), New York: Oxford University Press, pp. 116–128.
+* Palmer, J., 2000, “Skeptical Investigation,” *Ancient Philosophy*, 20: 351–73.
 * Pellegrin, P., 2010, “Sextus Empiricus,” in Bett (ed.) 2010, pp. 120–142.
-* Perin, C., 2006, “Pyrrhonian Scepticism and the Search for Truth,” _Oxford Studies in Ancient Philosophy_, 30: 337–360.
-* –––, 2013, “Making Sense of Arcesilaus,” _Oxford Studies in Ancient Philosophy_, 45: 313–338.
-* Powell, J. G. F., 2013, “The Embassy of the Three Philosophers to Rome in 155 bc,” in: _Hellenistic Oratory: Continuity and Change_, Christos Kremmydas and Kathryn Tempest (eds.), Oxford: Oxford University Press, pp. 219–247.
-* Powers, N., 2010, “The System of the Sceptical Modes in Sextus Empiricus,” _Apeiron_, 43: 157–171.
-* Ricken, F., 1984, _Antike Skeptiker_, Munich: Beck Verlag.
-* Sassi, M. M., 2011, “Senofane Fra I Sofisti. Dai Limiti Della Conoscenza (21B34 DK),” _Methexis_, 24: 7–20.
-* Schmitt, J., forthcoming, “Sextus versus Galen on Sophisms,” in _Sextus’ Logic in Context_, M. Veres and J. Vlasits (eds.), Cambridge: Cambridge University Press.
-* Schofield, M., M. Burnyeat, and J. Barnes (eds.), 1980, _Doubt and Dogmatism: Studies in Hellenistic Epistemology_, Oxford: Oxford University Press.
-* Schwab, W., 2016, “Understanding Episteme in Plato’s _Republic_,” in _Oxford Studies in Ancient Philosophy_, 51: 41–85.
-* –––, 2020, “Skeptical Defenses Against the Inaction Objection,” in Kelly Arenson (ed.), _The Routledge Handbook of Hellenistic Philosophy_, London: Routledge, pp. 184–198.
-* Sedley, D. N., 1982, “The Stoic Criterion of Identity,” _Phronesis_, 27 (3): 255–275.
+* Perin, C., 2006, “Pyrrhonian Scepticism and the Search for Truth,” *Oxford Studies in Ancient Philosophy*, 30: 337–360.
+* –––, 2013, “Making Sense of Arcesilaus,” *Oxford Studies in Ancient Philosophy*, 45: 313–338.
+* Powell, J. G. F., 2013, “The Embassy of the Three Philosophers to Rome in 155 bc,” in: *Hellenistic Oratory: Continuity and Change*, Christos Kremmydas and Kathryn Tempest (eds.), Oxford: Oxford University Press, pp. 219–247.
+* Powers, N., 2010, “The System of the Sceptical Modes in Sextus Empiricus,” *Apeiron*, 43: 157–171.
+* Ricken, F., 1984, *Antike Skeptiker*, Munich: Beck Verlag.
+* Sassi, M. M., 2011, “Senofane Fra I Sofisti. Dai Limiti Della Conoscenza (21B34 DK),” *Methexis*, 24: 7–20.
+* Schmitt, J., forthcoming, “Sextus versus Galen on Sophisms,” in *Sextus’ Logic in Context*, M. Veres and J. Vlasits (eds.), Cambridge: Cambridge University Press.
+* Schofield, M., M. Burnyeat, and J. Barnes (eds.), 1980, *Doubt and Dogmatism: Studies in Hellenistic Epistemology*, Oxford: Oxford University Press.
+* Schwab, W., 2016, “Understanding Episteme in Plato’s *Republic*,” in *Oxford Studies in Ancient Philosophy*, 51: 41–85.
+* –––, 2020, “Skeptical Defenses Against the Inaction Objection,” in Kelly Arenson (ed.), *The Routledge Handbook of Hellenistic Philosophy*, London: Routledge, pp. 184–198.
+* Sedley, D. N., 1982, “The Stoic Criterion of Identity,” *Phronesis*, 27 (3): 255–275.
 * –––, 1983, “The Motivation of Greek Skepticism,” in Burnyeat (ed.) 1983, pp. 9–29.
-* –––, 2002, “Zeno’s Deﬁnition of Phantasia Kataleptike,” in: _The Philosophy of Zeno_, T. Scaltsas and A. S. Mason (eds.), Larnaca: The Municipality of Larnaca, pp. 133–54.
+* –––, 2002, “Zeno’s Deﬁnition of Phantasia Kataleptike,” in: *The Philosophy of Zeno*, T. Scaltsas and A. S. Mason (eds.), Larnaca: The Municipality of Larnaca, pp. 133–54.
 * –––, 2015, “Diogenes Laertius on the Ten Pyrrhonist Modes,” in K. Vogt (ed.), pp. 171–185.
-* Shogry, S., 2018, “Creating a Mind Fit for Truth: the Stoic Account of the Kataleptic Impression,” _Ancient Philosophy_, 38 (2): 357–81.
-* –––, 2019, “What Do Our Impressions Say? The Stoic Theory of Perceptual Content and Belief Formation,” _Apeiron_, 52 (1): 29–63.
-* –––, 2021, “The Stoic Appeal to Expertise: Platonic Echoes in the Reply to Indistinguishability,” _Apeiron_, 54 (2): 129–59.
-* Sienkiewicz, S., 2019, _Five Modes of Scepticism: Sextus Empiricus and the Agrippan Modes_, Oxford: Oxford University Press.
+* Shogry, S., 2018, “Creating a Mind Fit for Truth: the Stoic Account of the Kataleptic Impression,” *Ancient Philosophy*, 38 (2): 357–81.
+* –––, 2019, “What Do Our Impressions Say? The Stoic Theory of Perceptual Content and Belief Formation,” *Apeiron*, 52 (1): 29–63.
+* –––, 2021, “The Stoic Appeal to Expertise: Platonic Echoes in the Reply to Indistinguishability,” *Apeiron*, 54 (2): 129–59.
+* Sienkiewicz, S., 2019, *Five Modes of Scepticism: Sextus Empiricus and the Agrippan Modes*, Oxford: Oxford University Press.
 * –––, 2021. “The Sceptic’s Art: Varieties of Expertise in Sextus Empiricus,” in Productive Knowledge in Ancient Philosophy, T. Johansen (ed.), Cambridge: Cambridge University Press, pp. 226–244.
-* –––, 2022, “Proof Against Proof: A reading of Sextus Empiricus’ Against the Logicians 8. 463– 81” _Oxford Studies in Ancient Philosophy_, 61 Winter 2021 (delayed publication in 2022)
-* Sihvola, J. (ed.), 2000, _Ancient Scepticism and the Sceptical Tradition_ (Acta Philosophica Fennica, Volume 66), Helsinki: Academic Bookstore.
-* Smith, P. J., 2022, _Sextus Empiricus’ Neo-Pyrrhonism: Skepticism as a Rationally Ordered Experience_, Cham: Springer, Synthese Library.
-* Sorensen, R., 2004, “Commercial Applications of Skepticism” in _Pyrrhonian Scepticism_, W. Sinnott-Armstrong (ed.), New York: Oxford University Press, pp. 208–32.
-* Striker, G., 1974, “_Kritêrion tês alêtheias_,” _Nachrichten der Akademie der Wissenschaften_ _zu Gottingen_, I. Phil.-hist. Klasse 2: 48–110; reprinted in Striker 1996, pp. 22–76.
-* –––, 1980, “Sceptical Strategies,” in Schofield _et al_. (eds.) 1980, pp. 54–83; reprinted in Striker 1996, pp. 92–115.
-* –––, 1981, “Über den Unterschied zwischen den Pyrrhoneern und den Akademikern,” _Phronesis_, 26: 353–69; English translation in Striker 1996, pp. 135–149.
+* –––, 2022, “Proof Against Proof: A reading of Sextus Empiricus’ Against the Logicians 8. 463– 81” *Oxford Studies in Ancient Philosophy*, 61 Winter 2021 (delayed publication in 2022)
+* Sihvola, J. (ed.), 2000, *Ancient Scepticism and the Sceptical Tradition* (Acta Philosophica Fennica, Volume 66), Helsinki: Academic Bookstore.
+* Smith, P. J., 2022, *Sextus Empiricus’ Neo-Pyrrhonism: Skepticism as a Rationally Ordered Experience*, Cham: Springer, Synthese Library.
+* Sorensen, R., 2004, “Commercial Applications of Skepticism” in *Pyrrhonian Scepticism*, W. Sinnott-Armstrong (ed.), New York: Oxford University Press, pp. 208–32.
+* Striker, G., 1974, “*Kritêrion tês alêtheias*,” *Nachrichten der Akademie der Wissenschaften* *zu Gottingen*, I. Phil.-hist. Klasse 2: 48–110; reprinted in Striker 1996, pp. 22–76.
+* –––, 1980, “Sceptical Strategies,” in Schofield *et al*. (eds.) 1980, pp. 54–83; reprinted in Striker 1996, pp. 92–115.
+* –––, 1981, “Über den Unterschied zwischen den Pyrrhoneern und den Akademikern,” *Phronesis*, 26: 353–69; English translation in Striker 1996, pp. 135–149.
 * –––, 1983, “The Ten Tropes of Aenesidemus,” in Burnyeat (ed.) 1983, pp. 95–115.
 * –––, 1990, “The Problem of the Criterion,” in Everson (ed.) 1990, pp. 143–60.
-* –––, 1990, “_Ataraxia_: Happiness as Tranquillity,” _Monist_, 73: 97–110; reprinted in Striker 1996, pp. 183–95.
-* –––, 1996, _Essays on Hellenistic Epistemology and Ethics_, Cambridge: Cambridge University Press.
-* –––, 1996, “_Ataraxia_: Happiness as Tranquillity,” in Striker 1996, pp. 183–195.
-* –––, 2001, “Scepticism as a Kind of Philosophy,” _Archiv für Geschichte der Philosophie_, 83: 113–129.
+* –––, 1990, “*Ataraxia*: Happiness as Tranquillity,” *Monist*, 73: 97–110; reprinted in Striker 1996, pp. 183–95.
+* –––, 1996, *Essays on Hellenistic Epistemology and Ethics*, Cambridge: Cambridge University Press.
+* –––, 1996, “*Ataraxia*: Happiness as Tranquillity,” in Striker 1996, pp. 183–195.
+* –––, 2001, “Scepticism as a Kind of Philosophy,” *Archiv für Geschichte der Philosophie*, 83: 113–129.
 * –––, 2004, “Historical Reflections on Classical Pyrrhonism and Neo-Pyrrhonism,” in Sinnott-Armstrong (ed.) 2004, pp. 13–24.
 * –––, 2010, “Academics Versus Pyrrhonists, Reconsidered,” in Bett (ed.) 2010, pp. 195–207.
-* Svavarsson, S. H., 2002, “Pyrrho’s Dogmatic Nature,” _Classical Quarterly_, 52 (1): 248–56.
-* –––, 2004, “Pyrrho’s Undecidable Nature,” _Oxford Studies in Ancient Philosophy_, 27: 249–95.
+* Svavarsson, S. H., 2002, “Pyrrho’s Dogmatic Nature,” *Classical Quarterly*, 52 (1): 248–56.
+* –––, 2004, “Pyrrho’s Undecidable Nature,” *Oxford Studies in Ancient Philosophy*, 27: 249–95.
 * –––, 2010, “Pyrrho and Early Pyrrhonism,” in Bett (ed.) 2010, pp. 36–57.
-* –––, 2014, “Sextus Empiricus on Persuasiveness and Equipollence, ” in _Strategies of Argument: Essays in Ancient Ethics, Epistemology, and Logic_, Mi-Kyoung (Mitzi) Lee (ed.), Oxford: Oxford University Press, pp. 356–374.
-* Taylor, C. C. W., 1980, “All Perceptions are True,” in Schofield _et al_. (eds.) 1980, pp. 105–24.
-* Thorsrud, H., 2009, _Ancient Scepticism_, Berkeley: University of California Press.
+* –––, 2014, “Sextus Empiricus on Persuasiveness and Equipollence, ” in *Strategies of Argument: Essays in Ancient Ethics, Epistemology, and Logic*, Mi-Kyoung (Mitzi) Lee (ed.), Oxford: Oxford University Press, pp. 356–374.
+* Taylor, C. C. W., 1980, “All Perceptions are True,” in Schofield *et al*. (eds.) 1980, pp. 105–24.
+* Thorsrud, H., 2009, *Ancient Scepticism*, Berkeley: University of California Press.
 * –––, 2010, “Arcesilaus and Carneades,” in Bett (ed.) 2010, pp. 58–80.
-* –––, 2018, “Arcesilaus: Socratic Skepticism in Plato's Academy” _Lexicon Philosophicum: International Journal for the History of Texts and Ideas_. doi:10.19283/lph-2018.568
-* –––, 2019, “Sextus Empiricus on the Siren Song of Reason and the Skeptical Defense of Ordinary Life,” _Logos and Episteme_, 10 (1): 15–29.
-* Vasiliou, I., 2019, “Ancient Philosophy and Disjunctivism: The Case of the Stoics,” in _New Issues in Epistemological Disjunctivism_, Casey Doyle, Joseph Milburn, and Duncan Pritchard (eds.), London and New York: Routledge, pp. 61–88.
-* Veres, M., 2020a, “Sextus Empiricus on Religious Dogmatism,” V. Caston (ed.), _Oxford Studies in Ancient Philosophy_, 58: 239–280.
-* –––, 2020b, “Keep Calm and Carry On: Sextus Empiricus on the Origins of Pyrrhonism,” _History of Philosophy and Logical Analysis_, 23 (1): 100–122.
-* –––, 2021, “How to Resist Musical Dogmatism: The Aim and Methods of Pyrrhonian Inquiry in Sextus Empiricus' Against the Musicologists (Math. 6),” in: _Music and Philosophy in the Roman Empire_, F. Pelosi and F. M. Petrucci (eds.), Cambridge: Cambridge University Press, pp. 108–130.
-* Vlasits, J., 2020a, “The First Riddle of Induction: Sextus Empiricus and the Formal Learning Theorists” in Vogt and Vlasits (eds.), _Epistemology After Sextus Empiricus_, New York: Oxford University Press, pp. 237–253.
-* –––, 2020b, “Pyrrhonism and the Dialectical Methods: The Aims and Argument of Outlines of Pyrrhonism II,” _History of Philosophy & Logical Analysis_, 23: 225–252.
+* –––, 2018, “Arcesilaus: Socratic Skepticism in Plato's Academy” *Lexicon Philosophicum: International Journal for the History of Texts and Ideas*. doi:10.19283/lph-2018.568
+* –––, 2019, “Sextus Empiricus on the Siren Song of Reason and the Skeptical Defense of Ordinary Life,” *Logos and Episteme*, 10 (1): 15–29.
+* Vasiliou, I., 2019, “Ancient Philosophy and Disjunctivism: The Case of the Stoics,” in *New Issues in Epistemological Disjunctivism*, Casey Doyle, Joseph Milburn, and Duncan Pritchard (eds.), London and New York: Routledge, pp. 61–88.
+* Veres, M., 2020a, “Sextus Empiricus on Religious Dogmatism,” V. Caston (ed.), *Oxford Studies in Ancient Philosophy*, 58: 239–280.
+* –––, 2020b, “Keep Calm and Carry On: Sextus Empiricus on the Origins of Pyrrhonism,” *History of Philosophy and Logical Analysis*, 23 (1): 100–122.
+* –––, 2021, “How to Resist Musical Dogmatism: The Aim and Methods of Pyrrhonian Inquiry in Sextus Empiricus' Against the Musicologists (Math. 6),” in: *Music and Philosophy in the Roman Empire*, F. Pelosi and F. M. Petrucci (eds.), Cambridge: Cambridge University Press, pp. 108–130.
+* Vlasits, J., 2020a, “The First Riddle of Induction: Sextus Empiricus and the Formal Learning Theorists” in Vogt and Vlasits (eds.), *Epistemology After Sextus Empiricus*, New York: Oxford University Press, pp. 237–253.
+* –––, 2020b, “Pyrrhonism and the Dialectical Methods: The Aims and Argument of Outlines of Pyrrhonism II,” *History of Philosophy & Logical Analysis*, 23: 225–252.
 * Vlasits, J. and K. M. Vogt (eds.), 2020, Epistemology After Sextus Empiricus, New York: Oxford University Press.
-* Vogt, K., 1998, _Skepsis und Lebenspraxis_, Stuttgart: Alber Verlag.
-* –––, 2008, _Law, Reason, and the Cosmic City: Political Philosophy in the Early Stoa_, New York: Oxford University Press.
+* Vogt, K., 1998, *Skepsis und Lebenspraxis*, Stuttgart: Alber Verlag.
+* –––, 2008, *Law, Reason, and the Cosmic City: Political Philosophy in the Early Stoa*, New York: Oxford University Press.
 * –––, 2010, “Scepticism and Action,” in Bett (ed.) 2010, pp. 165–180.
-* –––, 2012a, _Belief and Truth: A Skeptic Reading of Plato_, New York: Oxford University Press.
-* –––, 2012b, “Appearances and Assent: Skeptical Belief Reconsidered,” _Classical Quarterly_, 62: 648–663.
-* –––, 2013, “The Hellenistic Academy,” in _Routledge Companion to Ancient Philosophy_, Frisbee Sheffield and James Warren (eds.), Routledge: New York and London, pp. 482–495.
-* –––, 2015a, “From Investigation to Doubt: The Beginnings of Modern Skepticism,” in _Roman Reflections: Essays on Latin Philosophy_, G. Williams and K. Volk (eds.), Oxford: Oxford University Press, pp. 260–274.
-* –––, 2017, “All Sense-Perceptions are True: Epicurean Responses to Skepticism and Relativism,” in _Lucretius and Modernity_, Jacques Lezra (ed.), London: Palgrave, pp. 145–159.
-* –––, 2021, “No More This Than That: Pyrrhonian Indeterminacy,” _Midwest Studies in Philosophy Volume_, 45: 57–76.
-* –––, 2022, “Vagueness and Kataleptic Impressions,” _Proceedings of the Aristotelian Society_ (Supplement), XCVI: 165–183.
-* Vogt, K. (ed.) (co-trans. and co-commentator), 2015, _Pyrrhonian Skepticism in Diogenes Laertius_ (SAPERE: Volume 25), Tübingen: Mohr Siebeck.
-* Voelke, A.-J., 1990, “Soigner par le logos: La thérapeutique de Sextus Empiricus,” in A.-J. Voelke (ed.), _Le scepticisme antique: perspectives historiques et systématiques_, _Cahiers de la Revue de Théologie et de Philosophie_, 15: 181–92.
+* –––, 2012a, *Belief and Truth: A Skeptic Reading of Plato*, New York: Oxford University Press.
+* –––, 2012b, “Appearances and Assent: Skeptical Belief Reconsidered,” *Classical Quarterly*, 62: 648–663.
+* –––, 2013, “The Hellenistic Academy,” in *Routledge Companion to Ancient Philosophy*, Frisbee Sheffield and James Warren (eds.), Routledge: New York and London, pp. 482–495.
+* –––, 2015a, “From Investigation to Doubt: The Beginnings of Modern Skepticism,” in *Roman Reflections: Essays on Latin Philosophy*, G. Williams and K. Volk (eds.), Oxford: Oxford University Press, pp. 260–274.
+* –––, 2017, “All Sense-Perceptions are True: Epicurean Responses to Skepticism and Relativism,” in *Lucretius and Modernity*, Jacques Lezra (ed.), London: Palgrave, pp. 145–159.
+* –––, 2021, “No More This Than That: Pyrrhonian Indeterminacy,” *Midwest Studies in Philosophy Volume*, 45: 57–76.
+* –––, 2022, “Vagueness and Kataleptic Impressions,” *Proceedings of the Aristotelian Society* (Supplement), XCVI: 165–183.
+* Vogt, K. (ed.) (co-trans. and co-commentator), 2015, *Pyrrhonian Skepticism in Diogenes Laertius* (SAPERE: Volume 25), Tübingen: Mohr Siebeck.
+* Voelke, A.-J., 1990, “Soigner par le logos: La thérapeutique de Sextus Empiricus,” in A.-J. Voelke (ed.), *Le scepticisme antique: perspectives historiques et systématiques*, *Cahiers de la Revue de Théologie et de Philosophie*, 15: 181–92.
 * Warren, J., 2015, “Precursors of Pyrrhonism: Diog. Laert. 9.67–73,” in K. Vogt (ed.) 2015, pp. 105–121.
-* Williams, M., 1988, “Skepticism without Theory,” _The Review of Metaphysics_, 41 (3): 547–588.
+* Williams, M., 1988, “Skepticism without Theory,” *The Review of Metaphysics*, 41 (3): 547–588.
 * –––, 2010, “Descartes’ Transformation of the Sceptical Tradition,” in Bett (ed.) 2010, pp. 288–313.
-* Woodruff, P., 1986, “The sceptical side of Plato’s method,” _Revue Internationale de Philosophie_, 40: 22–37.
-* –––, 1988, “Aporetic Pyrrhonism”, _Oxford Studies in Ancient Philosophy_, 6: 139–68.
+* Woodruff, P., 1986, “The sceptical side of Plato’s method,” *Revue Internationale de Philosophie*, 40: 22–37.
+* –––, 1988, “Aporetic Pyrrhonism”, *Oxford Studies in Ancient Philosophy*, 6: 139–68.
 * –––, 2010, “The Pyrrhonian Modes,” in Bett (ed.) 2010, pp. 208–231.
 
 ## Academic Tools
@@ -590,7 +590,7 @@ PH 1，在学术讨论中占据了最重要的位置，是一部杰作。塞克�
 
 ## Other Internet Resources
 
-* Groarke, Leo, “Ancient Skepticism”, _Stanford Encyclopedia of Philosophy_ (Spring 2009 Edition), Edward N. Zalta (ed.), URL = <[Ancient Skepticism (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/skepticism-ancient/)>. \[This was the previous entry on ancient skepticism in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=skepticism-ancient).]
+* Groarke, Leo, “Ancient Skepticism”, *Stanford Encyclopedia of Philosophy* (Spring 2009 Edition), Edward N. Zalta (ed.), URL = <[Ancient Skepticism (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/skepticism-ancient/)>. \[This was the previous entry on ancient skepticism in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=skepticism-ancient).]
 * Podcasts on ancient skepticism by Peter Adamson:
   * [Beyond Belief: Pyrrho and Skepticism](http://www.historyofphilosophy.net/pyrrho)
   * [The Know Nothing Party: the Skeptical Academy](http://www.historyofphilosophy.net/skeptics-academy)
@@ -605,4 +605,4 @@ PH 1，在学术讨论中占据了最重要的位置，是一部杰作。塞克�
 I am grateful to John Cooper, Jens Haas, Chloe Layman, Wolfgang Mann, Christiana Olfert, Jim Pryor, and Carol Rovane for feedback on the 2010 version of this entry, and to Abigail Breuker for feedback on the 2022 version.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Katja Vogt](http://www.columbia.edu/cu/philosophy/fac-bios/vogt/faculty.html) <[_kv2101@columbia.edu_](mailto:kv2101%40columbia%2eedu)>
+[Katja Vogt](http://www.columbia.edu/cu/philosophy/fac-bios/vogt/faculty.html) <[*kv2101@columbia.edu*](mailto:kv2101%40columbia%2eedu)>

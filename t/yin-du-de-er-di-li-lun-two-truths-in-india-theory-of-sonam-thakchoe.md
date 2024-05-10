@@ -639,7 +639,7 @@ Note: In the citations like *Mngon pa* khu 166b–167a), *Tshad ma* che 108b
   
 * Jñānagarbha (Yeshes snying po), *Commentary Onf The Two Truths Distinction (Satyadvayavibhaṅgavṛtti / Bden Pa Gnyis Rnam Par ’byed Pa’i ’Grel Pa)*. Translated by Śīlendrabodhi and Yeshes sde. Degé Tangyur: Toh. 3882, dbu ma, sa: 3b-15b.
   
-* *–––, The Two Truths Distinction (Satyadvayavibhaṅgakārikā / Bden pa gnyis rnam par ’byed pa’i tshig le’ur byas)*. Translated into Tibetan by Śīlendrabodhi and Yeshes sde. Degé Tangyur: Toh. 3881, dbu ma, sa: 1b-3b. The English translation of Jñānagarbha’s text 
+* *–––, The Two Truths Distinction (Satyadvayavibhaṅgakārikā / Bden pa gnyis rnam par ’byed pa’i tshig le’ur byas)*. Translated into Tibetan by Śīlendrabodhi and Yeshes sde. Degé Tangyur: Toh. 3881, dbu ma, sa: 1b-3b. The English translation of Jñānagarbha’s text
   
 *        Malcolm David Eckel,1992. *Jñānagarbha’s commentary on the distinction between the two truths: an eighth century handbook of Madhyamaka philosophy*. Indian ed. Delhi: Motilal Banarsidass.
   
@@ -699,7 +699,6 @@ Note: In the citations like *Mngon pa* khu 166b–167a), *Tshad ma* che 108b
   
 * –––, *The Twenty Verses* (*Viṃśatikākārikā, Viṃ Sems tsam* shi 3a–4a). Sde dge edition of the Bstan ‘gyur. Dharmasala: Paljor Press. 1998.
   
-
 ### Secondary Literature
 
 * Changkya Rolpai Droje (*Lcang skya rol pa’i rdo rje*), 1989, *Philosophical Embellishment of the Buddha’s Teachings* (*Grub mtha’ thub bstan lhun po’i mdzes rgyan*), Xiling: Mtsho sngon mi rigs Press.
