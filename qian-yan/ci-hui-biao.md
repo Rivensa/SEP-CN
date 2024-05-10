@@ -72,7 +72,7 @@ The Sophie de Grouchy to 索菲·德·格鲁希 . The Grouchy  to 格鲁希 .
 
 The Skepticism to 怀疑论.   The  Pyrrho to 皮浪. The Pyrrhonism to 皮浪主义. The Justification to 证成. The Moral Responsibility to 道德责任. The Content Externalism to 内容外在主义. The Latin America to 拉丁美洲
 
-The Nyāya-Vaiśeṣika to 正理-胜论派. The Nyāya to 正理派. The Vaiśeṣika to 胜论派. The Śrīharṣa to 曷利沙.
+The Nyāya-Vaiśeṣika to 正理-胜论派. The Nyāya to 正理派. The Vaiśeṣika to 胜论派. The Śrīharṣa to 曷利沙. The Tsongkhapa to 宗喀巴. The Tsongkhapa Losang Drakpa to 宗喀巴·洛桑札巴.
 
  The  al-Farabi to 阿里·法拉比. The al-Baghdadi to 巴格达迪.  The ‘Abd al-Latif’ to 阿卜杜勒·拉蒂夫. The Abd al-Latif to 阿卜杜勒·拉蒂夫. The al-Ghazali to 安萨里. The   al-Kindi to 肯迪. The  al-Razi to 拉齐. The Avicenna to 阿维森纳. The Ibn Sina to 伊本·西那. The Al-Fârâbî  to 阿里·法拉比.  The Averroes to 阿威罗伊. The Ibn Rushd to 伊本·鲁世德. The Fakhr al-Din to 法赫尔丁·拉齐. The Isaac Albalag to 以撒·阿尔巴拉格. The Albalag to 阿尔巴拉格. The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社. The Rasâ’il to 《论文集》. The Ḥikmah to 智慧. The Ibn ‘Arabî to  伊本·阿拉比. The Ibn Bâjja to 伊本·巴哲. The Avempace to 伊本·巴哲.
  The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Latin West to 西方拉丁世界. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社.The Samuel Ibn Tibbon to 撒母耳·伊本·提本.
@@ -81,6 +81,14 @@ The Nyāya-Vaiśeṣika to 正理-胜论派. The Nyāya to 正理派. The Vaiśe
 
  empirical ——>实证的
  [1]汤茂林,黄展.Empirical Research到底是实证研究还是经验研究？——兼论学术研究的分类[J].地理研究,2020,39(12):2855-2860.
+
+The Underdetermination  to 非充分决定性. The Scientific Theory to 科学理论.The Understanding  to 理解.The universals  to 普遍性. The  problem of universals to 普遍性问题 .
+
+The Types to 类型. The Tokens to 个例. The type theory to 类型论.The Intuitionistic to 直觉主义.The constructive to 建构主义.
+
+The Utilitarianism to 功利主义.
+
+The Umar Khayyam to 欧玛尔·海亚姆.The  Khayyam to 海亚姆.
 
 The James Burnett to 詹姆斯·伯内特. The Hugh Blair to 休·布莱尔.  The Lord Monboddo to 蒙博多勋爵. The George  Campbell to 乔治·坎贝尔. The Gershom Carmichael to 格肖姆·卡迈克尔. The James Dunbar to 詹姆斯·邓巴. The Adam  Ferguson to 亚当·弗格森. The Alexander  Gerard to 亚历山大·杰拉德. The Henry Home to 亨利·霍姆. The Francis Hutcheson to 弗兰西斯·哈奇森. The James Hutton to 詹姆斯·赫顿. The James Beattie to 詹姆斯·比蒂. The Allan  Ramsay to 艾伦·拉姆齐. The Adam Smith to 亚当·斯密. The Dugald  Stewart to 杜格尔·斯图尔特. The George Turnbull to 乔治·特恩布尔.
 
@@ -103,6 +111,8 @@ The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Th
 The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.
 
 The States of Affairs to 事态.
+
+The Alan Turing to 艾伦·图灵. The Turing to 图灵. The Turing test to 图灵测试.The Turing machines to 图灵机.
 
 The Trust to 信任.
 
