@@ -26,6 +26,14 @@ The square of opposition to 逻辑方阵.
 
 The Charles Leslie Stevenson to 查尔斯·莱斯利·史蒂文森.The Stevenson to 史蒂文森.
 
+The Temporal Parts to 时间部分. The temporal consciousness to 时间意识.
+
+The Territorial Rights to 领土主权. The Territorial Justice to 领地正义.
+
+The Terrorism to 恐怖主义.
+
+The Properties of Terms to 词项属性. The Tense to 时态 .The Aspect to 体态 .
+
 The Max Stirner to 麦克斯·施蒂纳. The Stirner to 施蒂纳.
 
 The Peter Frederick Strawson to 彼得·弗雷德里克·斯特劳森. The Strawson to 斯特劳森.  The The Bounds of Sense to 感觉的界限. The Individuals to 个体.
@@ -34,11 +42,17 @@ The Structural Realism to 结构现实主义. The Epistemic Structural Realism t
 
 The Leo Strauss to 列奥·施特劳斯. The Strauss to 施特劳斯.
 
+The Alfred Tarski to 阿尔弗莱德·塔尔斯基 . The Tarski to 塔尔斯基 .The truth definitions to 真理定义.
+
 The Sounds to 声音.
 
-The Philosophy of Sport to 体育哲学.
+ The Nicolaus Taurellus to 尼古拉斯·塔雷路斯  . The Taurellus to 塔雷路斯  . 
+
+The Philosophy of Sport to 体育哲学.  The Philosophy of Technology to 技术哲学.The God’s Existence to 上帝存在. The Teleological to 目的论. The Teleological Arguments to 目的论论证. The Teleological Notions to 目的论观念.
 
 The Species to 物种.
+
+The Bernardino Telesio to 贝尔纳迪诺·特勒肖 . The  Telesio to 特勒肖.
 
 The St. Petersburg paradox to 圣彼得堡悖论. The St. Petersburg to 圣彼得堡.
 
