@@ -5,7 +5,7 @@ rules:
   # 0 - off, 1 - error, 2 - warning
   space-word: 1
   # Add space between some punctuations.
-  space-punctuation: 1
+  space-punctuation: 0
   # Add space between brackets (), [] when near the CJK.
   space-bracket: 0
   # Add space between ``, when near the CJK.
