@@ -429,7 +429,7 @@
 * [思想实验 thought experiments (James Robert Brown and Yiftach Fehige)](t/si-xiang-shi-yan-thought-experiments-james-robert-brown-and-yiftach-fehige.md)
 * [\*塞拉西马柯——见柏拉图：卡利克勒斯和塞拉西马柯 Thrasymachus — see Plato: Callicles and Thrasymachus](t/sai-la-xi-ma-ke-jian-bai-la-tu-ka-li-ke-le-si-he-sai-la-xi-ma-ke-thrasymachus-see-plato-callicles-an.md)
 * [撒母耳·伊本·提本 Tibbon, Samuel Ibn (James T. Robinson)](t/sa-mu-er-yi-ben-ti-ben-tibbon-samuel-ibn-james-t.-robinson.md)
-* [西藏认识论与语言哲学 Tibetan epistemology and philosophy of language (Pascale Hugon)](t/xi-cang-ren-shi-lun-yu-yu-yan-zhe-xue-tibetan-epistemology-and-philosophy-of-language-pascale-hugon.md)
+* [藏传认识论与语言哲学 Tibetan epistemology and philosophy of language (Pascale Hugon)](t/xi-cang-ren-shi-lun-yu-yu-yan-zhe-xue-tibetan-epistemology-and-philosophy-of-language-pascale-hugon.md)
 * [普通法系下的侵权法理论 torts, theories of the common law of (Arthur Ripstein)](t/pu-tong-fa-xi-xia-de-qin-quan-fa-li-lun-torts-theories-of-the-common-law-of-arthur-ripstein.md)
 * [酷刑 torture (Seumas Miller)](t/ku-xing-torture-seumas-miller.md)
 * [触觉 touch (Matthew Fulkerson)](t/chu-jue-touch-matthew-fulkerson.md)
