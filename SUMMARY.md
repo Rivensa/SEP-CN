@@ -377,7 +377,7 @@
 * [超义务 supererogation (David Heyd)](s/chao-yi-wu-supererogation-david-heyd.md)
 * [随附性 supervenience (Brian McLaughlin and Karen Bennett)](s/sui-fu-xing-supervenience-brian-mclaughlin-and-karen-bennett/README.md)
   * [道德随附性 in ethics (Tristram McPherson)](s/sui-fu-xing-supervenience-brian-mclaughlin-and-karen-bennett/dao-de-sui-fu-xing-in-ethics-tristram-mcpherson.md)
-* [无行为能力者的代理人决策 surrogate decision-making for incompetent individuals — see advance directives](s/wu-hang-wei-neng-li-zhe-de-dai-li-ren-jue-ce-surrogate-decisionmaking-for-incompetent-individuals-se.md)
+* [\*无行为能力者的代理人决策 surrogate decision-making for incompetent individuals — see advance directives](s/wu-hang-wei-neng-li-zhe-de-dai-li-ren-jue-ce-surrogate-decisionmaking-for-incompetent-individuals-se.md)
 * [玛格丽特·苏斯曼 Susman, Margarete (Willi Goetschel)](s/ma-ge-li-te-su-si-man-susman-margarete-willi-goetschel.md)
 * [悬疑悖论 suspense, paradox of (Aaron Smuts)](s/xuan-yi-bei-lun-suspense-paradox-of-aaron-smuts.md)
 * [\*三段论 syllogism](s/san-duan-lun-syllogism/README.md)
