@@ -55,3 +55,4 @@
   - 存在问题的条目
     - Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring) 不知道是谁
     - Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)  不知道是谁
+- 2024.05.09 T、U、V、W、X、Y、Z 部分条目的机器重译完成
