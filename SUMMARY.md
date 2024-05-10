@@ -371,7 +371,7 @@
   * [数学风格 in mathematics (Paolo Mancosu)](s/feng-ge-style/shu-xue-feng-ge-in-mathematics-paolo-mancosu.md)
 * [弗朗西斯科·苏亚雷斯 Suárez, Francisco (Christopher Shields and Daniel Schwartz)](s/fu-lang-xi-si-ke-su-ya-lei-si-surez-francisco-christopher-shields-and-daniel-schwartz.md)
 * [实体 substance (Howard Robinson and Ralph Weir)](s/shi-ti-substance-howard-robinson-and-ralph-weir.md)
-* [子结构逻辑 substructural logics — see logic: substructural](s/zi-jie-gou-luo-ji-substructural-logics-see-logic-substructural.md)
+* [\*子结构逻辑 substructural logics — see logic: substructural](s/zi-jie-gou-luo-ji-substructural-logics-see-logic-substructural.md)
 * [苏哈拉瓦迪 Suhrawardi (Roxanne Marcotte)](s/su-ha-la-wa-di-suhrawardi-roxanne-marcotte.md)
 * [自杀 suicide (Michael Cholbi)](s/zi-sha-suicide-michael-cholbi.md)
 * [超义务 supererogation (David Heyd)](s/chao-yi-wu-supererogation-david-heyd.md)
