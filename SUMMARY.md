@@ -233,7 +233,7 @@
 * [权威 authority (Tom Christiano)](a/quan-wei-authority-tom-christiano/README.md)
   * [\*法律——见法律义务和权威 legal — see legal obligation and authority](a/quan-wei-authority-tom-christiano/fa-lv-jian-fa-lv-yi-wu-he-quan-wei-legal-see-legal-obligation-and-authority.md)
 * [\*自动推理——见推理：自动推理 automated reasoning — see reasoning: automated](a/zi-dong-tui-li-jian-tui-li-zi-dong-tui-li-automated-reasoning-see-reasoning-automated.md)
-* [自主权 autonomy](a/zi-zhu-quan-autonomy/README.md)
+* [\*自主权 autonomy](a/zi-zhu-quan-autonomy/README.md)
   * [\*知情同意——见知情同意 and informed consent — see informed consent](a/zi-zhu-quan-autonomy/zhi-qing-tong-yi-jian-zhi-qing-tong-yi-and-informed-consent-see-informed-consent.md)
   * [伦理学和政治哲学中的自主权 in moral and political philosophy (John Christman)](a/zi-zhu-quan-autonomy/lun-li-xue-he-zheng-zhi-zhe-xue-zhong-de-zi-zhu-quan-in-moral-and-political-philosophy-john-christma.md)
   * [个人自主权 personal (Sarah Buss and Andrea Westlund)](a/zi-zhu-quan-autonomy/ge-ren-zi-zhu-quan-personal-sarah-buss-and-andrea-westlund.md)
