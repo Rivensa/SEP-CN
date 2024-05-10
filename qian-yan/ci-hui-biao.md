@@ -14,6 +14,12 @@ The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚
 
 The social construction to 社会建构. The Naturalistic Approaches to 自然主义方法.The social contract to 社会契约论.The contractarianism to 自利契约论. The contractualism  to 非自利契约论 .The Social Institutions to 社会制度. The Socialism to 社会主义.The social minimum to 社会最低保障.The Social Networking to 网络社交. The Social Norms to 社会规范.The Social Ontology to 社会本体论.The Formal Approaches to 形式化方法. The  Social Procedures to 社会程序 .The Sociobiology to 生物社会学. The Sovereignty to 主权.
 
+The Theoretical Terms to 理论术语. The Thick Ethical Concepts to 厚伦理概念. The thin to 瘦.
+
+The Henry David Thoreau to 亨利·戴维·梭罗, The A Week on the Concord and Merrimack Rivers to 在康科德与梅里马克河上一周. The Walden to 瓦尔登湖. The Faith in a Seed to 种子的信仰. The Wild Fruits to 野果.
+
+The Thomas of Erfurt to 埃尔福特的托马斯. 
+
 The Natural Theology to 自然神学. The Natural Religion to 自然宗教.
 
 The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.
