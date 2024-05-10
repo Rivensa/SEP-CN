@@ -12,9 +12,35 @@
 ```
 The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.The Theophrastus to 泰奥弗拉斯特. The Timon of Phlius to 斐利亚修斯的第蒙. The Timon to 第蒙. The Pyrrho to 皮浪.The Philo to  斐洛.
 
+The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅.
+
+ The Wilhelm Windelband to 威廉·文德尔班. The Windelband to 文德尔班.
+
+The Ludwig Wittgenstein to 路德维希·维特根斯坦 . The Wittgenstein to 维特根斯坦 . The  logical atomism to 逻辑原子主义.
+
+The Wisdom to 智慧.
+
+The Bernard Williams to 伯纳德·威廉姆斯  . The Williams to 威廉姆斯.
+
+The Donald Cary Williams to 唐纳德·卡里·威廉姆斯.
+
+The John Cook Wilson to 约翰·库克·威尔逊. The Wilson to 威尔逊.
+
+The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.
+
+The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德.
+
 The Watsuji Tetsurō to 和辻哲郎 . The Watsuji to 和辻. The Tetsurō to 哲郎 .
 
+The Alfred North Whitehead to 阿弗烈·诺夫·怀特海. The Whitehead to 怀特海.
+
 The Simone Weil to 西蒙娜·薇依  . The Weil to 薇依.
+
+The Hermann Weyl to 赫尔曼·外尔. The Weyl to 外尔.
+
+The William Whewell to 威廉·惠威尔. The Whewell to 惠威尔.
+
+The Well-Being to 福祉.
 
 The Weakness of Will to 意志薄弱 . The akrasia to 不自制.
 
