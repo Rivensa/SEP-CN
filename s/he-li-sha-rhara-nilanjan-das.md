@@ -1,16 +1,16 @@
 # 曷利沙 Śrīharṣa (Nilanjan Das)
 
-*首次发表于 2018 年 2 月 1 日*
+_首次发表于 2018 年 2 月 1 日_
 
 曷利沙是一位印度哲学家和诗人，生活在公元 12 世纪的印度北部。曷利沙并没有明确地归属于古代印度活跃的任何哲学文本传统。有人认为他是 Advaita Vedānta 的拥护者。Vedānta（字面意思是吠陀的终结）是对出现在吠陀末尾的被称为 Upaniṣads 的文本的竞争性哲学解释的家族。许多 Vedānta 的文本是对 Bādarāyaņa 的《梵经梗概》（Brahmasūtra）所做的评论。Advaita Vedānta（即非二元的 Vedānta）是对 Upaniṣads 和 Bādarāyaņa 的《梵经梗概》的解释，根据这种解释，只有自我、意识或梵才是最终真实的。印度哲学家Śaṃkara（公元 7 世纪）在他对 Bādarāyaṇa 的《梵经梗概》的评论中捍卫了这种非二元论形式。曷利沙唯一幸存的哲学作品《反驳的甜点》（Khaṇḍanakhaṇḍanakhādya）可以被视为对这种非二元论的辩护，尽管他并不完全与Śaṃkara 及其追随者的标准承诺相同。然而，对曷利沙的这种解读仍然存在争议。
 
 Śrīharṣa 的作品的更广泛吸引力与他是否是 Advaita Vedānta 的辩护者无关。在《辩驳的甜点》中，Śrīharṣa 的目标是展示哲学中理性探究的不稳定性。对于哲学家可能提出的任何论证来支持她的观点，总会有一个同样有说服力的反论来削弱其结论。由于理性的结果总是容易受到这种方式的理性失败的影响，它们不能构成任何哲学观点的良好证据。为了说明这个观点，Śrīharṣa 针对了一种哲学方法——我们可以称之为定义方法——该方法在非正式逻辑、认识论和形而上学中由 Nyāya-Vaiśeṣika 哲学家追求。Nyāya-Vaiśeṣika 哲学家使用这种定义方法来描述一些本体论范畴，这些范畴被认为捕捉了现实的结构，以及一些认识论和逻辑范畴，这些范畴被认为捕捉了理性探究的各个组成部分。Nyāya-Vaiśeṣika 哲学家最终希望肯定的是一种二元论本体论：现实由与自我或意识不同的众多事物组成，例如物质事物、它们的品质、它们之间的关系等等。Śrīharṣa 想要表明，任何试图定义对于二元论者的项目成功所必需的认识论、逻辑和本体论范畴的尝试都必将失败：Nyāya-Vaiśeṣika 哲学家采用的理性探究标准从内部削弱了他们的理论企图。
 
-曷利沙对正理-胜论派的非正式逻辑、认识论和形而上学的深入论证对于 Advaita Vedānta 和正理-胜论派哲学的辩护者产生了影响[6]。然而，这些论证对于当代读者也具有相当的兴趣。在二十世纪下半叶，英语哲学家们一直在应对关于认识论概念如知识和形而上学概念如因果性的各种困难。在批评正理-胜论派哲学家所追求的定义方法时，曷利沙预见到了许多这些困难。他对这些困难的反应是悲观的：他认为这些困难表明了为常识认识论和本体论范畴提供定义的徒劳。曷利沙对这个结论的论证对于我们当前的哲学关注仍然是相关的：如果他的论证成功，它们将表明在阐明基本的认识论和形而上学概念时，哲学探究实际上并没有带我们走得很远。
+曷利沙对正理-胜论派的非正式逻辑、认识论和形而上学的深入论证对于 Advaita Vedānta 和正理-胜论派哲学的辩护者产生了影响\[6]。然而，这些论证对于当代读者也具有相当的兴趣。在二十世纪下半叶，英语哲学家们一直在应对关于认识论概念如知识和形而上学概念如因果性的各种困难。在批评正理-胜论派哲学家所追求的定义方法时，曷利沙预见到了许多这些困难。他对这些困难的反应是悲观的：他认为这些困难表明了为常识认识论和本体论范畴提供定义的徒劳。曷利沙对这个结论的论证对于我们当前的哲学关注仍然是相关的：如果他的论证成功，它们将表明在阐明基本的认识论和形而上学概念时，哲学探究实际上并没有带我们走得很远。
 
 由于不可能涵盖曷利沙作品中涌现的所有哲学上有趣的主题，本文的大部分讨论将集中在一小部分能够展示曷利沙对哲学问题的一般方法的主题上。
 
----
+***
 
 ## 1. 方法
 
@@ -32,7 +32,7 @@
 
 在他的评注中，瓦契亚亚纳解释了这段文字如下。每个学科都关注自己的最高利益，并提供有助于实现这一利益的知识；例如，自我科学（adhyātmavidyā）关注解脱的目标，并通过引导我们了解自我真实本质的知识来帮助我们实现解脱（Thakur 1967: 5）。但是，为了获得任何学科所提供的知识，必须进行探究。一个正确进行的探究过程始于对一个假定在可知实体领域内的对象本质的不确定状态，涉及到应用各种认识方法（如感知、推理、证言等），并以最终结论结束，这构成了对相关对象本质的知识。列在（i）和（ii）下的项目是任何此类探究的组成部分。当探究由几方在言语中公开进行时，它就变成了辩论。列在（iii）下的项目描述了不同的辩论风格，以及在辩论场中对手可能采取的各种策略。
 
-Vātsyāyana 有助于明确了 Nyāya 系统在《探究论》中对待其主题的哲学方法。它分为三个步骤（Thakur 1967: 181）。第一步是列举（uddeśa），涉及提及理论中要处理的各种项目，例如上述的列表（i），（ii）和（iii）。第二步是定义（lakṣaṇa），涉及制定一个定义属性，即区分被定义事物（tattvavyavacchedaka-dharma）性质的属性（Ibid.）[7]。第三步是检查（parīkṣā），即检查某个定义是否足够。根据这个观点，哲学家的项目是通过明确 K 的必要和充分条件来定义一种 K，其中 K 可以是一种知识方法，一种可知实体，理性探究的组成部分，辩论风格或辩证策略。这个项目是由《探究论》的评注者和副评注者发展起来的，并最终被吸收到将 Nyāya 的认识论承诺与 Vaiśeṣika 哲学的本体论方案相结合的更大的综合传统中，因此被称为 Nyāya-Vaiśeṣika。
+Vātsyāyana 有助于明确了 Nyāya 系统在《探究论》中对待其主题的哲学方法。它分为三个步骤（Thakur 1967: 181）。第一步是列举（uddeśa），涉及提及理论中要处理的各种项目，例如上述的列表（i），（ii）和（iii）。第二步是定义（lakṣaṇa），涉及制定一个定义属性，即区分被定义事物（tattvavyavacchedaka-dharma）性质的属性（Ibid.）\[7]。第三步是检查（parīkṣā），即检查某个定义是否足够。根据这个观点，哲学家的项目是通过明确 K 的必要和充分条件来定义一种 K，其中 K 可以是一种知识方法，一种可知实体，理性探究的组成部分，辩论风格或辩证策略。这个项目是由《探究论》的评注者和副评注者发展起来的，并最终被吸收到将 Nyāya 的认识论承诺与 Vaiśeṣika 哲学的本体论方案相结合的更大的综合传统中，因此被称为 Nyāya-Vaiśeṣika。
 
 Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
@@ -48,7 +48,7 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 2. 确定定义术语的使用。在他的《光束之行》（Kiraṇāvalī）中，后来的正理-胜论派哲学家乌达亚纳（公元 10 世纪）描述了定义的另一个目的：
 
-> 或者，定义（或定义属性）的目的是确定定义术语的使用（vyavahārasiddhir vā lakṣaṇa-prayojanam）。 （Sarvabhouma 1911 [1989: 194]）
+> 或者，定义（或定义属性）的目的是确定定义术语的使用（vyavahārasiddhir vā lakṣaṇa-prayojanam）。 （Sarvabhouma 1911 \[1989: 194]）
 
 建立使用被定义术语的目的是指定通常适用于哪些实体的范围。至少在乌达亚纳的一种解释中，定义通过指定相关表达式被应用的原因（pravṛtti-nimitta），即该表达式的应用条件（Bhattacharyya 1990: 98–99; Granoff 1978: n. 74）来实现这一点。在这里，表达式的应用条件仅仅包括该表达式的所有指称者所具有的属性。以地球具有地球性为例的定义：这指定了“地球”这个表达式的应用条件，因为人们通常将该表达式应用于具有地球性的事物。因此，使用这个定义，可以进行以下类型的推理，
 
@@ -69,7 +69,7 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 在提出自己的论证时，曷利沙明确地呼吁三个定义的充分性标准，他认为这些标准是他与对手之间的共同基础。
 
 1. 第一个是外延充分性的标准：一个种类 K 的充分定义应该陈述成为 K 的实例所必需和充分的条件。首先，定义不应该未能适用于所有 K 的实例。其次，它不应该过于狭义，即在定义不适用的 K 的情况下。第三，它不应该过于广义，即在不属于 K 种类的事物上适用定义。
-2. 定义的充分性第二个标准——也被正理-胜论派哲学家广泛认同——是非循环性的标准：一个充分的定义不能是循环的，即，对于一种类型 K 的定义不能提及任何一种类型 K *，以便了解 K*是什么，一个行为体需要（直接或间接地）事先了解 K 是什么。
+2. 定义的充分性第二个标准——也被正理-胜论派哲学家广泛认同——是非循环性的标准：一个充分的定义不能是循环的，即，对于一种类型 K 的定义不能提及任何一种类型 K _，以便了解 K_是什么，一个行为体需要（直接或间接地）事先了解 K 是什么。
 3. Śrīharṣa 提出的充分性的第三个标准稍微有争议。这是一致性（anugama）的标准：一种类型 K 的充分定义应该确定一个单一的属性，统一地描述所有 K 的实例。这个标准要求一种类型 K 的充分定义应该是非分离的，即，它不应列出一些不同的属性 A、B、C，满足其中之一就足以成为 K 的实例，但满足任何一个属性可能并不是成为 K 的实例所必需的。
 
 充分性的后两个标准似乎吸引了上述两种不同的定义观念。
@@ -106,19 +106,19 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 在考虑了谢林之后，曷利沙考虑了对知识的“真实意识”解释的以下修改。
 
-* 知识 ii 如果一个意识事件是真实的、非回忆性的，并且是由一个从不产生错误意识事件的方法产生的，那么它具有知识的地位（avyabhicārikaraṇajanya）[11]。
+* 知识 ii 如果一个意识事件是真实的、非回忆性的，并且是由一个从不产生错误意识事件的方法产生的，那么它具有知识的地位（avyabhicārikaraṇajanya）\[11]。
 
-曷利沙进一步解释说，知识包括由一组因果条件（kāraṇa-sāmagrī）产生的非回忆性的真实意识，这些条件包括方法（karaṇa）以及背景因果条件，这些条件从不产生错误的意识（见脚注 11）。据推测，这个提议的辩护者可能会说，在意外真实意识的情况下，产生意识事件的因果条件很容易导致错误的意识。例如，在 Shells 中，导致相关意识事件的因果条件也可能导致意识到赌徒手中有五个贝壳，而实际上只有四个。在这方面，知识 ii 类似于安全性和敏感性等反运气条件，这两者都依赖于不会在附近可能性中产生错误信念的方法[12]。
+曷利沙进一步解释说，知识包括由一组因果条件（kāraṇa-sāmagrī）产生的非回忆性的真实意识，这些条件包括方法（karaṇa）以及背景因果条件，这些条件从不产生错误的意识（见脚注 11）。据推测，这个提议的辩护者可能会说，在意外真实意识的情况下，产生意识事件的因果条件很容易导致错误的意识。例如，在 Shells 中，导致相关意识事件的因果条件也可能导致意识到赌徒手中有五个贝壳，而实际上只有四个。在这方面，知识 ii 类似于安全性和敏感性等反运气条件，这两者都依赖于不会在附近可能性中产生错误信念的方法\[12]。
 
 曷利沙在这里看到了一个外延不足的危险：知识的定义中的新条款无法将意外真实的意识排除在知识的范围之外。曷利沙的论证依赖于以下原则。
 
-* 充分原则 如果一个意识事件是真实且非回忆性的，那么导致相关意识事件的因果条件在一起在因果上足以导致一个真实的意识事件，即它们不能导致一个错误的意识事件。[13]
+* 充分原则 如果一个意识事件是真实且非回忆性的，那么导致相关意识事件的因果条件在一起在因果上足以导致一个真实的意识事件，即它们不能导致一个错误的意识事件。\[13]
 
-实际上，这个原则是从曷利沙的正理-胜论派对手的观点中得出的。对于大多数正理-胜论派哲学家来说，一个意识事件作为知识的地位，因此它作为真实且非回忆性的地位，仅仅通过存在于导致它的因果条件中的某些认识美德（guṇa）来因果解释。[14]如果是这样的话，那么一个非回忆性的意识事件的真实性应该仅仅通过这些认识美德来解释。因此，如果一个意识事件是真实且非回忆性的，那么导致相关意识事件的因果条件——凭借存在于其中的认识美德——在每种情况下都足以导致一个真实的意识事件，即它们不能导致一个错误的意识事件。
+实际上，这个原则是从曷利沙的正理-胜论派对手的观点中得出的。对于大多数正理-胜论派哲学家来说，一个意识事件作为知识的地位，因此它作为真实且非回忆性的地位，仅仅通过存在于导致它的因果条件中的某些认识美德（guṇa）来因果解释。\[14]如果是这样的话，那么一个非回忆性的意识事件的真实性应该仅仅通过这些认识美德来解释。因此，如果一个意识事件是真实且非回忆性的，那么导致相关意识事件的因果条件——凭借存在于其中的认识美德——在每种情况下都足以导致一个真实的意识事件，即它们不能导致一个错误的意识事件。
 
 现在，如果充分原则是正确的，那么导致一个偶然真实的意识事件的同一组因果条件不可能导致一个错误的意识事件。否则，我们将承认一些荒谬的事情，即即使是错误的意识事件也是真实的。唯一的其他选择是承认导致一个真实的意识事件的因果条件只能导致真实的意识事件。在这种情况下，所提出的知识定义将无法排除偶然真实意识的实例。
 
-然而，人们可能怀疑充分性原则并非完全正确。例如，在像 Shells 这样的情况下，似乎因果条件不仅能产生主体的意识，还能产生虚假的意识。此外，实际上，Śrīharṣa 所说的并没有明确支持这个原则。[15]但值得指出的是，Śrīharṣa 并不需要像充分性原则那样强大的东西来表达他想要表达的观点。一般的反对意见似乎是这样的。假设我们通过诉诸相关因果机制的良好特征-尼亚亚-胜论派哲学家的假定认识美德来解释任何意识事件的状态，我们可以说这些认识美德是保证意识事件不会是虚假的那些美德。但是，偶然的真实意识事件是由缺乏所有这些有助于知识的认识美德的因果机制产生的，这就是为什么它不能保证是真实的原因。这解释了为什么这些意识事件似乎是幸运的真实。但问题是，无论这些保证真实的认识美德是什么，总是有可能找到由具备所有这些美德的因果机制产生的意识事件，但仍然只是偶然的真实。从这个意义上说，即使以有助于知识的认识美德来详细阐述知识的新定义，也无法排除破坏知识的认识幸运的情况。因此，尼亚亚-胜论派哲学家对永远不会产生虚假意识事件的因果条件的诉求似乎是错误的。
+然而，人们可能怀疑充分性原则并非完全正确。例如，在像 Shells 这样的情况下，似乎因果条件不仅能产生主体的意识，还能产生虚假的意识。此外，实际上，Śrīharṣa 所说的并没有明确支持这个原则。\[15]但值得指出的是，Śrīharṣa 并不需要像充分性原则那样强大的东西来表达他想要表达的观点。一般的反对意见似乎是这样的。假设我们通过诉诸相关因果机制的良好特征-尼亚亚-胜论派哲学家的假定认识美德来解释任何意识事件的状态，我们可以说这些认识美德是保证意识事件不会是虚假的那些美德。但是，偶然的真实意识事件是由缺乏所有这些有助于知识的认识美德的因果机制产生的，这就是为什么它不能保证是真实的原因。这解释了为什么这些意识事件似乎是幸运的真实。但问题是，无论这些保证真实的认识美德是什么，总是有可能找到由具备所有这些美德的因果机制产生的意识事件，但仍然只是偶然的真实。从这个意义上说，即使以有助于知识的认识美德来详细阐述知识的新定义，也无法排除破坏知识的认识幸运的情况。因此，尼亚亚-胜论派哲学家对永远不会产生虚假意识事件的因果条件的诉求似乎是错误的。
 
 这里是Śrīharṣa 稍后在文本中提出的另一种基于方法的解决方案（KKh 238）。
 
@@ -136,15 +136,15 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 ### 2.3 知识作为辨别
 
-曷利沙认为另一个提议，由乌达亚纳和巴萨瓦吉纳（公元 10 世纪）辩护，根据这个提议，知识是“适当的限定”（samyak-paricchitti）（Upādhyāya＆Śāstri 1957：475; Svāmī Yogīndrānanda 1968：11）。在解释这个定义时，曷利沙说，“适当的限定”不能仅仅意味着真实或正确的意识；因为那样的话，这个提议将继承“真实意识”知识解释所面临的所有问题。因此，他根据乌达亚纳在其他地方讨论自己的知识时所做的一些评论，重建了这个提议。[16]
+曷利沙认为另一个提议，由乌达亚纳和巴萨瓦吉纳（公元 10 世纪）辩护，根据这个提议，知识是“适当的限定”（samyak-paricchitti）（Upādhyāya＆Śāstri 1957：475; Svāmī Yogīndrānanda 1968：11）。在解释这个定义时，曷利沙说，“适当的限定”不能仅仅意味着真实或正确的意识；因为那样的话，这个提议将继承“真实意识”知识解释所面临的所有问题。因此，他根据乌达亚纳在其他地方讨论自己的知识时所做的一些评论，重建了这个提议。\[16]
 
 根据重建的提议，知识是对一个对象的适当限定，即它涉及对一个对象的意识，以及（或基于）它的独特标记（viśeṣasahita-dharmi-paricchitti）。这个提议的最佳版本——曷利沙在考虑了一系列初步的改进后得出的结论——似乎是这样的。
 
-* 知识是对一个对象的适当限定，即一个行为体知道一个对象 o 是 F，当且仅当她意识到 o 具有一个实际上具有的属性 X，该属性 X 将 o 与所有非 F 区分开来。[17]
+* 知识是对一个对象的适当限定，即一个行为体知道一个对象 o 是 F，当且仅当她意识到 o 具有一个实际上具有的属性 X，该属性 X 将 o 与所有非 F 区分开来。\[17]
 
 在这张图片上，知识涉及辨别：为了知道一个物体 o 是 F，人们必须能够将 o 与不是 F 的物体区分开来。知识使得行为体具备这种能力，因为它涉及一种意识事件，使得行为体能够接触到物体 o 的真实特征，从而能够区分 o 和非 F 的物体。我们可以看到，这个定义排除了像 Shells、Mist 和 Horns 这样的情况。在 Shells 中，由于行为体的意识事件是基于盲目猜测产生的，他或她并不知道任何能够告诉他或她赌徒手中贝壳数量是五个而不是三个或四个的独特标记 X。同样，在 Mist 中，行为体将雾误认为烟。尽管烟是火的一个独特标记，但她归因于山的烟并不是山实际具有的属性。最后，在 Horns 中，行为体根据动物有角这一事实推断出它面前的动物是一头牛。但角并不是牛的一个独特标记。
 
-Śrīharṣa 认为，这个对知识的定义未能满足统一性的标准；因为对于知识所必需的意识到的独特标记，在不同情况下会有所不同。例如，当涉及到将一块土壤意识为土壤时，独特属性 X 必须是土壤的一个特征属性，例如土壤性或具有气味等。但是，当涉及到将一头牛识别为牛时，独特属性 X 必须是其他的：一种是牛的特征属性，例如牛性或具有颈垂等。总的来说，Śrīharṣa 认为，没有一种统一的方式来描述行为体需要意识到的这个独特属性 X，以便拥有知识。[18]
+Śrīharṣa 认为，这个对知识的定义未能满足统一性的标准；因为对于知识所必需的意识到的独特标记，在不同情况下会有所不同。例如，当涉及到将一块土壤意识为土壤时，独特属性 X 必须是土壤的一个特征属性，例如土壤性或具有气味等。但是，当涉及到将一头牛识别为牛时，独特属性 X 必须是其他的：一种是牛的特征属性，例如牛性或具有颈垂等。总的来说，Śrīharṣa 认为，没有一种统一的方式来描述行为体需要意识到的这个独特属性 X，以便拥有知识。\[18]
 
 更重要的是，曷利沙（Śrīharṣa）认为，即使对于一个独特标记的概念有统一的描述，这些描述也必然是无信息量的。为了证明这一点，他考虑了一对最小的情况，我们可以具体描述如下。
 
@@ -188,19 +188,19 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 * 因果关系=不变的连接。与产生效果 e 相关的因果条件是一个实体 c，在 e 产生之前无条件地（anaupādhikatvena）存在。
 
-如果且仅当没有第三个条件 c *，使得只有在 c*存在时 c 才存在，但有时 e 在 c*之前产生而 c*不存在。换句话说，如果每当 e 被产生时，c 都在其之前存在，那么条件 e 就是无条件地由条件 c 先行的。[19]
+如果且仅当没有第三个条件 c _，使得只有在 c_存在时 c 才存在，但有时 e 在 c_之前产生而 c_不存在。换句话说，如果每当 e 被产生时，c 都在其之前存在，那么条件 e 就是无条件地由条件 c 先行的。\[19]
 
-曷利沙认为这个提议陷入了我们可以称之为伪相关性问题的困境。假设存在一个实体 c 和一个效果 e 共享一个共同的原因，例如，一种疾病的最初不明显的症状和后来更明显的症状。在这里，两组症状有一个共同的原因：疾病本身（或者可能是导致疾病的条件）。第一组症状无条件地伴随第二组症状。没有第三个条件 c *，只有在 c*存在时才会产生第一组症状，但是在第二组症状存在的情况下，c*有时会缺席。这使得两组症状之间的联系是无条件的，但这并不意味着第一组症状在第二组症状的因果关系中具有相关性。
+曷利沙认为这个提议陷入了我们可以称之为伪相关性问题的困境。假设存在一个实体 c 和一个效果 e 共享一个共同的原因，例如，一种疾病的最初不明显的症状和后来更明显的症状。在这里，两组症状有一个共同的原因：疾病本身（或者可能是导致疾病的条件）。第一组症状无条件地伴随第二组症状。没有第三个条件 c _，只有在 c_存在时才会产生第一组症状，但是在第二组症状存在的情况下，c\*有时会缺席。这使得两组症状之间的联系是无条件的，但这并不意味着第一组症状在第二组症状的因果关系中具有相关性。
 
 对于因果关系=不变的连接的另一种解释是使用情态词汇来解释“不变地”这个表达。
 
-* 因果关系=不变的连接 ii 与产生效果 e 相关的因果条件是一个实体 c，在 e 产生之前必然（avaśyambhāvitvena）存在。[20]
+* 因果关系=不变的连接 ii 与产生效果 e 相关的因果条件是一个实体 c，在 e 产生之前必然（avaśyambhāvitvena）存在。\[20]
 
 根据曷利沙的观点，这个定义不起作用，因为它存在无关性的问题（尽管这个问题似乎也存在于之前的提议中）。它会预测，即使是直观上与因果无关的因素，在产生效果之前必然存在，也与产生该效果有因果关系。例如，它预测，就像构成布料的线与布料的产生有因果关系一样，这些线的颜色与布料的产生也有因果关系，尽管直观上并没有。
 
 为了解决这类问题，可以按照以下方式修改这个提议（KKh 705）。
 
-* 因果关系=不变的连结 ii* 与效果 e 的产生相关的因果条件是一个实体 c，在 e 产生之前必然且非多余地（ananyathāsiddhatvena）存在。
+* 因果关系=不变的连结 ii\* 与效果 e 的产生相关的因果条件是一个实体 c，在 e 产生之前必然且非多余地（ananyathāsiddhatvena）存在。
 
 这种提议可能最早由Śaśadhara（公元 1125 年）辩护，并在后来的正理-胜论派哲学家中流行起来。非多余性（ananyathāsiddhi）被定义为不以其他方式建立的属性，即独立于效果（kāryād anyaprakāreṇa na siddhiḥ）。因果关系=不变的联结被认为解决了无关性的问题。一般的思想是，直观上与效果无关的因素不是基于效果本身而建立的，而是基于其他事物。例如，线的颜色是基于线本身而建立的，因此独立于效果而建立。
 
@@ -218,11 +218,11 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 然而，正理-胜论派哲学家可能会对这个挑战采取坚决的态度。她可能会说，并非所有的解释回归都是不好的，因此在假设一个无始的因果链的情况下并没有什么害处。对此，曷利沙很乐意承认，并非所有的解释回归都是恶性的。但是，如果涉及到偶然性和因果相关性的解释回归要起作用，我们必须至少引用一个案例，其中假定的效果 e 的偶然性实际上是由一个不同的实体 c 的因果相关性来解释的。正理-胜论派哲学家尚未展示出这一点；事实上，她正是在诉诸于无限的解释回归来证明这一主张。
 
-此外，即使有人否认解释原理，对于乌达亚纳的论证还有第二个更简短的回应。在乌达亚纳的论证中，假定效果的偶然性是被解释的对象，而因果条件的因果相关性是解释的原因。曷利沙问这两个属性之间是否存在关系。如果没有关系，那么被解释的对象确实可以在没有解释的原因的情况下发生。在这种情况下，解释实际上是无效的。如果存在关系，曷利沙可以提出另一个适用于一般关系的回归论证。思路是这样的。假设存在两个实体 a 和 b，每当 b 发生时，a 也发生。因此，必须存在一个关系 R 来解释这种共同发生的模式。问题是：R 与 a 和 b 之间的关系是什么？如果我们说没有进一步的关系 R*将 a 或 b 与 R 相关联，那么我们将无法解释 a 和 b 之间的相关性。如果我们承认存在这样的关系，我们可以再次问 a 或 b 与 R*之间的关系是什么。因此，无限回归是不可避免的。
+此外，即使有人否认解释原理，对于乌达亚纳的论证还有第二个更简短的回应。在乌达亚纳的论证中，假定效果的偶然性是被解释的对象，而因果条件的因果相关性是解释的原因。曷利沙问这两个属性之间是否存在关系。如果没有关系，那么被解释的对象确实可以在没有解释的原因的情况下发生。在这种情况下，解释实际上是无效的。如果存在关系，曷利沙可以提出另一个适用于一般关系的回归论证。思路是这样的。假设存在两个实体 a 和 b，每当 b 发生时，a 也发生。因此，必须存在一个关系 R 来解释这种共同发生的模式。问题是：R 与 a 和 b 之间的关系是什么？如果我们说没有进一步的关系 R_将 a 或 b 与 R 相关联，那么我们将无法解释 a 和 b 之间的相关性。如果我们承认存在这样的关系，我们可以再次问 a 或 b 与 R_之间的关系是什么。因此，无限回归是不可避免的。
 
 ### 3.2 不同性
 
-Śrīharṣa 对于不同之处的讨论——即使一个对象被认为与另一个对象不同的属性——与他对非二元论形式的承诺密切相关。在《驳斥的甜点》的第一章中，Śrīharṣa 提出了一个问题：人们如何知道自我才是最终的真实。答案很简单：根据奥义书，它们明确宣称世界上没有多个对象，这为这个主张提供了证据。但是这个答案很快遇到了麻烦：奥义书不能被信任，因为它们的字面内容与感知的结果相矛盾。我们所看到的世界是由多个对象构成的（KKh 74）。正是这个反对意见激发了Śrīharṣa 对对象的不同性的最终真实性进行辩论[22]。
+Śrīharṣa 对于不同之处的讨论——即使一个对象被认为与另一个对象不同的属性——与他对非二元论形式的承诺密切相关。在《驳斥的甜点》的第一章中，Śrīharṣa 提出了一个问题：人们如何知道自我才是最终的真实。答案很简单：根据奥义书，它们明确宣称世界上没有多个对象，这为这个主张提供了证据。但是这个答案很快遇到了麻烦：奥义书不能被信任，因为它们的字面内容与感知的结果相矛盾。我们所看到的世界是由多个对象构成的（KKh 74）。正是这个反对意见激发了Śrīharṣa 对对象的不同性的最终真实性进行辩论\[22]。
 
 Śrīharṣa 提出了几个反对不同性的论证，其中第一个也是最重要的一个出现在《驳斥的甜点》的第一章中（有关更详细的讨论，请参见 Phillips 1995: 103–110）。Śrīharṣa 声称，一个对象与另一个对象的不同性质必须是（a）对象的本质（svarūpa），（b）相互缺席（anyonyābhāva），（c）属性的差异（vaidharmya），以及（d）其他一些东西，如分离（pṛthaktva）。像 Udayana（Śāstrī 1940: 255）这样的 Nyāya-Vaiśeṣika 哲学家接受了（a），（b）和（c），而 Bhāsarvajña（Yogīndrānanda 1968: 160）和 Bhāṭṭa Mīmāṃsakas（Kunhan Raja＆Sastri 1933: 242）接受了（d）。Śrīharṣa 的观点是：无论我们如何定义不同性，没有意识（感知或其他）可以将一个对象呈现为与另一个对象不同，而不呈现它们为非不同（KKh 96–110）。这反过来表明，即使是对不同性的感知意识也不能与奥义书关于所有对象非不同性的证言相矛盾。
 
@@ -252,7 +252,7 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 作为回应，Śrīharṣa 提出了一个从以下原则出发的论证：
 
-* 意识存在原则：如果一个行为体不知道自己的意识事件 e，那么她无法理性地确定 e 所涉及的对象存在。[23]
+* 意识存在原则：如果一个行为体不知道自己的意识事件 e，那么她无法理性地确定 e 所涉及的对象存在。\[23]
 
 意识存在原理是关于理性的原理：它说一个理性的（prāmāṇika）行为体，即那些不超越她的证据（pramāṇa）的界限的人，如果她不意识到自己的意识存在，就不能确定她意识对象的存在。这是因为为了确定她意识对象的存在，理性的行为体将不得不引用该对象存在的证据。但在没有任何意识到自己意识的情况下，她将无法将自己的意识作为该对象存在的证据。因此，她将无法确定相关对象的存在。
 
@@ -278,9 +278,9 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 曷利沙对这个关于关联性的定义提出了主要的异议，涉及到唯识主义的威胁（KKh 650ff）。他指出，乌达亚纳所说的“那个性质”的部分可以分解为两个元素：由表达式“那个”所指出的部分，即意识对象 o，以及由“是的”所指出的部分，对应于意识事件与对象之间的关系 R。如果这两个元素都是意识事件的本质的一部分——这个定义声称的——那么对象 o 就不会是意识事件 e 的外部。因此，正理-胜论派的观点将会崩溃成为唯识主义！
 
-或许，正理-胜论派的哲学家可以声称，对象 o 并不是意识事件的本质的一部分，而只有关系 R 是。但这并不能满足曷利沙。他指出，由于 R 可以是具有多个实例的关系，因此可以在不同的意识事件 e*和不同的对象 o*之间成立，R 作为 e 的本质的一部分并不能解释为什么它构成了对 o 的意识。也许，我们可以说 R 也具有某种“那个性质”，因此它仅仅是 o 和意识事件 e 之间的关系。正如曷利沙似乎暗示的那样，这个提议试图通过假设与意识事件 e 和对象 o 之间连接的关系 R 中的另一种“那个性质”来解释意识事件所具有的“那个性质”。因此，可以预见的是，曷利沙问道，这第二种“那个性质”是否是关系 R 的本质的一部分，还是外部的。
+或许，正理-胜论派的哲学家可以声称，对象 o 并不是意识事件的本质的一部分，而只有关系 R 是。但这并不能满足曷利沙。他指出，由于 R 可以是具有多个实例的关系，因此可以在不同的意识事件 e_和不同的对象 o_之间成立，R 作为 e 的本质的一部分并不能解释为什么它构成了对 o 的意识。也许，我们可以说 R 也具有某种“那个性质”，因此它仅仅是 o 和意识事件 e 之间的关系。正如曷利沙似乎暗示的那样，这个提议试图通过假设与意识事件 e 和对象 o 之间连接的关系 R 中的另一种“那个性质”来解释意识事件所具有的“那个性质”。因此，可以预见的是，曷利沙问道，这第二种“那个性质”是否是关系 R 的本质的一部分，还是外部的。
 
-如果这种“那个性质”的存在是 R 的本质的一部分，那么类似于导致对唯心主义的担忧的推理线索可能会再次出现。如果“那个性质”是关系的本质的一部分，那么，由于“那个”在这里指的是对象，对象也应该是 R 的本质的一部分。而且由于 R 是意识事件 e 的本质的一部分，对象 o 也应该是 e 的本质的一部分。因此，唯心主义的威胁将再次出现！（此外，如果我们说 o 不是关系 R 的本质的一部分，而只有一些进一步的关系 R*是，那么同样的推理可以再次进行，从而使我们陷入无限回归）。
+如果这种“那个性质”的存在是 R 的本质的一部分，那么类似于导致对唯心主义的担忧的推理线索可能会再次出现。如果“那个性质”是关系的本质的一部分，那么，由于“那个”在这里指的是对象，对象也应该是 R 的本质的一部分。而且由于 R 是意识事件 e 的本质的一部分，对象 o 也应该是 e 的本质的一部分。因此，唯心主义的威胁将再次出现！（此外，如果我们说 o 不是关系 R 的本质的一部分，而只有一些进一步的关系 R\*是，那么同样的推理可以再次进行，从而使我们陷入无限回归）。
 
 但是假设 R 具有的这种“那个性质”是外在于 R 的。那是什么属性？它不能是与意识对象 o（的本质）不同的任何东西；如果是的话，那么另一个回归论证就可以进行。因此，让我们假设 R 具有的这种“那个性质”与 o 是相同的。问题再次是：这种“那个性质”与 R 之间的关系是什么？如果它不是通过自我链接关系相关联的，那么无限回归将是不可避免的。如果它是通过自我链接关系相关联的，那么对象 o 将成为 R 的本质的一部分，而 R 又是意识事件 e 的本质的一部分。因此，唯心主义的问题将再次出现。
 
@@ -292,7 +292,7 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 ## 5.1 追问的悖论
 
-让我们假设Śrīharṣa 的反驳论证实际上成功地削弱了正理-胜论派捍卫一个二元本体论的项目，即世界由与自我或意识不同的事物构成。那么Śrīharṣa 自己能否捍卫他所支持的非二元论呢？令人惊讶的是，Śrīharṣa 认为对非二元性的问题进行探究——即只有自我或意识最终是真实的问题——是徒劳的。他的论证是 Meno 的悖论的一个版本（Carpenter＆Ganeri 2010）[24]。他设想一个反对者问道：“如何了解非二元性，即一切与自我不同之处？”回答是：当被一个拒绝非二元论的人提问时，这个问题是没有意义的（KKh 69-73）。这个论证采取了两难的形式：要么反对者知道什么是非二元性，要么她不知道。
+让我们假设Śrīharṣa 的反驳论证实际上成功地削弱了正理-胜论派捍卫一个二元本体论的项目，即世界由与自我或意识不同的事物构成。那么Śrīharṣa 自己能否捍卫他所支持的非二元论呢？令人惊讶的是，Śrīharṣa 认为对非二元性的问题进行探究——即只有自我或意识最终是真实的问题——是徒劳的。他的论证是 Meno 的悖论的一个版本（Carpenter＆Ganeri 2010）\[24]。他设想一个反对者问道：“如何了解非二元性，即一切与自我不同之处？”回答是：当被一个拒绝非二元论的人提问时，这个问题是没有意义的（KKh 69-73）。这个论证采取了两难的形式：要么反对者知道什么是非二元性，要么她不知道。
 
 关注第二个问题。如果反对者不了解非二元性，她将无法进行她实际上提出的问题的言语行为。这是因为，Śrīharṣa 声称以下原则成立：
 
@@ -314,7 +314,7 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 在最后的评估中，曷利沙很乐意承认乌梅尼萨德经文——它们字面上宣称一切都与梵我或自我无异——是认识非二元性的手段。然而，曷利沙认为不能通过诉诸感知证据来质疑乌梅尼萨德的证言。正如我们在 3.2 节中已经看到的那样，普通的感知意识对于非二元性的意识是无法战胜的，而这种意识是由乌梅尼萨德的证言产生的。任何形式的推理都无法战胜这种非二元性的意识。对于曷利沙来说，这只是表明不能通过独立于乌梅尼萨德的证言的证据来进一步探究非二元性教义的真实性或虚假性。正如他所说，
 
-> 那种非二元性的意识[由乌梅尼萨德的句子产生]甚至无法被智者用一百个论证(tarka)来反驳。(KKh 118)
+> 那种非二元性的意识\[由乌梅尼萨德的句子产生]甚至无法被智者用一百个论证(tarka)来反驳。(KKh 118)
 
 因此，他对正理-胜论派哲学家的建议是退出探究项目，而是对乌梅尼萨德的句子内容采取信仰(śraddhā)的态度。
 
@@ -340,102 +340,102 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 #### Critical Editions of the Text
 
-* *Khaṇḍanakhaṇḍakhādya.* Edited by Brahmadatta Dvivedī, 1990, in *Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītaṃ Śrīraghunāthaśiromaṇipraṇītayā Khaṇḍanabhūṣāmaṇivyākhyayā vibhūṣitam*, Varanasi: Sampūrṇānanda Saṃskr̥taviśvavidyālaya.
-* *Khaṇḍanakhaṇḍakhādya.* Edited by Esther A. Solomon, 1990, in *Khaṇḍanakhaṇḍakhādya* of *Śrīharṣa with Śiṣyahitaiṣiṇī Ṭīkā of Anubhūtisvarūpācārya*, Ahmedabad: Gujarat University.
-* *Khaṇḍanakhaṇḍakhādya*. Edited by Ganganatha Jha, 1904–1914, in *Śrīharshapraṇītam Khaṇḍanakhaṇḍakhādyam Ānandapūrṇaviracitayā Khaṇḍanaphakkikāvibhajanākhyayā vyākhyayā ‘vidyāsāgarī’ ti prasiddhayā sametam Citsukha-Śaṇkaramiśra-Raghunāthakr̥taṭīkāvalambinyā tippaṇyā sanātham*, Benares: Chowkhamba Sanskrit Book Depot.
-* *Khaṇḍanakhaṇḍakhādya*. Edited by Navikānta Jhā, 1970, in *Mahakaviśrīharṣapraṇītaṃ Khaṇḍanakhaṇḍakhādyam Śrīśaṅkaramiśraviracita ‘Śāṅkarī’ sahita-'tattvabodhinī’-hindīvyākhyopetam. Hindīvyākhyākāraḥ Svāmī Hanumānadāsa ṣaṭśāstrī*, Varanasi: Kashi Sanskrit Series.
-* *Khaṇḍanakhaṇḍakhādya.* Edited by Sūrya Nārāyaṇa Śukla, 1936, in *Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītam; Śrīmaccitsukhācāryapraṇītayā Khaṇḍanabhāvadīpikayā, Śaṅkaramiśrapraṇītayā Śāṅkaryā, Raghunāthabhaṭṭācāryapraṇītayā Khaṇḍanabhūṣāmaṇiṭīkayā, Pragalbhamiśrapraṇītena Khaṇḍanadarpaṇena, Sūryanārāyaṇaśuklapraṇītayā Khaṇḍanaratnamālikayā ca sametam*, Varanasi: Chowkhamba Sanskrit Series.
-* [KKh] *Khaṇḍanakhaṇḍakhādya.* Edited by Swāmī Yogīndrānanda, 1979, in *Kavitārkikacakracūḍāmaṇiśrīharṣapraṇītam; Śrīvidyāsāgaropahvānandapurṇamunīndraviracita-Khaṇḍanaphakkikavibhajanasamvalitam ; Śrīr̥ṣirāmaśiṣyasvāmiyogīndrānandakr̥ta-Khaṇḍanapañjikayopetam*, Varanasi: Saḍdarśana-prakāśana-pratiṣṭhāna, Varanasi: Chowkhamba Vidyābhavana. [2010 reprinted edition referred to as *KKh*.]
+* _Khaṇḍanakhaṇḍakhādya._ Edited by Brahmadatta Dvivedī, 1990, in _Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītaṃ Śrīraghunāthaśiromaṇipraṇītayā Khaṇḍanabhūṣāmaṇivyākhyayā vibhūṣitam_, Varanasi: Sampūrṇānanda Saṃskr̥taviśvavidyālaya.
+* _Khaṇḍanakhaṇḍakhādya._ Edited by Esther A. Solomon, 1990, in _Khaṇḍanakhaṇḍakhādya_ of _Śrīharṣa with Śiṣyahitaiṣiṇī Ṭīkā of Anubhūtisvarūpācārya_, Ahmedabad: Gujarat University.
+* _Khaṇḍanakhaṇḍakhādya_. Edited by Ganganatha Jha, 1904–1914, in _Śrīharshapraṇītam Khaṇḍanakhaṇḍakhādyam Ānandapūrṇaviracitayā Khaṇḍanaphakkikāvibhajanākhyayā vyākhyayā ‘vidyāsāgarī’ ti prasiddhayā sametam Citsukha-Śaṇkaramiśra-Raghunāthakr̥taṭīkāvalambinyā tippaṇyā sanātham_, Benares: Chowkhamba Sanskrit Book Depot.
+* _Khaṇḍanakhaṇḍakhādya_. Edited by Navikānta Jhā, 1970, in _Mahakaviśrīharṣapraṇītaṃ Khaṇḍanakhaṇḍakhādyam Śrīśaṅkaramiśraviracita ‘Śāṅkarī’ sahita-'tattvabodhinī’-hindīvyākhyopetam. Hindīvyākhyākāraḥ Svāmī Hanumānadāsa ṣaṭśāstrī_, Varanasi: Kashi Sanskrit Series.
+* _Khaṇḍanakhaṇḍakhādya._ Edited by Sūrya Nārāyaṇa Śukla, 1936, in _Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītam; Śrīmaccitsukhācāryapraṇītayā Khaṇḍanabhāvadīpikayā, Śaṅkaramiśrapraṇītayā Śāṅkaryā, Raghunāthabhaṭṭācāryapraṇītayā Khaṇḍanabhūṣāmaṇiṭīkayā, Pragalbhamiśrapraṇītena Khaṇḍanadarpaṇena, Sūryanārāyaṇaśuklapraṇītayā Khaṇḍanaratnamālikayā ca sametam_, Varanasi: Chowkhamba Sanskrit Series.
+* \[KKh] _Khaṇḍanakhaṇḍakhādya._ Edited by Swāmī Yogīndrānanda, 1979, in _Kavitārkikacakracūḍāmaṇiśrīharṣapraṇītam; Śrīvidyāsāgaropahvānandapurṇamunīndraviracita-Khaṇḍanaphakkikavibhajanasamvalitam ; Śrīr̥ṣirāmaśiṣyasvāmiyogīndrānandakr̥ta-Khaṇḍanapañjikayopetam_, Varanasi: Saḍdarśana-prakāśana-pratiṣṭhāna, Varanasi: Chowkhamba Vidyābhavana. \[2010 reprinted edition referred to as _KKh_.]
 
 #### English Translations of the Text
 
-* Granoff, Phyllis E., 1978, *Philosophy and Argument in Late Vedānta: Śrī Harṣa’s Khaṇḍanakhaṇḍakhādya*, Dodrecht: D. Reidel. [Contains a translation of the introduction to *Khaṇḍanakhaṇḍakhādya* on pages 71–208]. doi:10.1007/978-94-009-9822-3
-* Jha, Ganganatha, 1913 [1986], *The Sweets of Refutation. An English Translation of the Khaṇdanakhaṇdakhāḍya of Shri-Harṣa*, Allahabad: “Indian Thought Series”. [1986 Reprint Edition: Delhi: Satguru Publications].
-* Phillips, Stephen H., 1995, *Classical Indian Metaphysics: Refutations of Realism and the Emergence of “New Logic”*, Chicago: Open Court. [Contains transations of the sections in *Khaṇḍanakhaṇḍakhādya* on dialectical reasoning on pages 151–156, knowledge on pages164–172, and distinctness and relation regress on pages 221–222.]
+* Granoff, Phyllis E., 1978, _Philosophy and Argument in Late Vedānta: Śrī Harṣa’s Khaṇḍanakhaṇḍakhādya_, Dodrecht: D. Reidel. \[Contains a translation of the introduction to _Khaṇḍanakhaṇḍakhādya_ on pages 71–208]. doi:10.1007/978-94-009-9822-3
+* Jha, Ganganatha, 1913 \[1986], _The Sweets of Refutation. An English Translation of the Khaṇdanakhaṇdakhāḍya of Shri-Harṣa_, Allahabad: “Indian Thought Series”. \[1986 Reprint Edition: Delhi: Satguru Publications].
+* Phillips, Stephen H., 1995, _Classical Indian Metaphysics: Refutations of Realism and the Emergence of “New Logic”_, Chicago: Open Court. \[Contains transations of the sections in _Khaṇḍanakhaṇḍakhādya_ on dialectical reasoning on pages 151–156, knowledge on pages164–172, and distinctness and relation regress on pages 221–222.]
 
 #### Other Primary Texts
 
-* Jhā, Śaśīnātha (ed.), 1963, *Lakṣaṇamālā by Udayanācārya*, Darbhanga: Mithila Institute.
-* Kunhan Raja, Chittenoor and S. S. Suryanarayana Sastri (eds.), 1933, *Mānameyodaya: An Elementary Treatise On the Mīmāṁsā*, Madras: Theosophical Publishing House.
-* Kuppuswami Sastri, S. (ed.), 1984, *Brahmasiddhi by Ācārya Maṇḍanamiśra with commentary by Saṇkhapāni*, Delhi: Satguru Publications.
-* Matilal, B. K. (ed.), 1976, *Śaśadhara’s Nyāyasiddhāntadīpaḥ with Ṭippana of Guṇaratna*, Ahmedabad: L. D. Institute of Indology.
-* Sārvabhauma, Śiva Candra (ed.), 1911 [1989], *Kiraṇāvalī by Udayanācārya with the Commentary of Vardhamānopādhyāya*, Fasc. I–II. Calcutta: Asiatic Society.
-* Śāstrī, Dhundhirāja (ed.), 1940, *The Ātmatattvaviveka of Udayanācārya with the Nārāyanī commentary of Nārāyaṇāchārya Ātreya and the Bauddhadhikāra Dīdhiti commentary of Raghunātha Śiromani, with Bauddhādhikāra Vivṛti of Gadādhara Bhaṭṭāchārya: Containing the opening portion of Kṣaṇabhanga Kurvadrupatvakhandana*, Benares: Chowkhamba Sanskrit Series.
-* Śāstrī, Kāśīnātha (ed.), 1915, *Tattvapradīpikā (Citsukhī) of Paramahaṅsa Citsukhacārya; with the commentary Nayanaprasādinī*, Bombay: Nirṇaya-Sāgar Press.
-* Shastri, Jagdish Lal (ed.), 1980, *Brahmasūtra-śāṅkarabhāṣya with the Commentaries Bhāṣyaratnaprabhā of Govindānanda, Bhāmatī of Vācaspati Miśra, and Nyāyanirṇaya of Ānandagiri*, Delhi: Motilal Banarasidass.
-* Steinkellner, Ernst, (ed.), 2007, *Dharmakīrti's Pramānaviniścaya*, Chapters 1 and 2. Beijing-Vienna: China Tibetology Publishing House.
-* Subramania Aiyar, K. A. (ed), 1976, *The Vākyapadīya of Bhartr̥hari With the commentaries Svopajñvṛtti by Harivṛṣabha & Ambākartri by Ragunātha Śarmā*, Volume 1: Brahmakāṇḍa. Varanasi: Sampurnanand Sanskrit University.
-* Śuklā Śāstrī, Harirāma (ed.), 1997, *Nyāyasiddhāntamuktāvali of Viśvanātha Pañcānana Bhaṭṭācārya with the commentaries ‘Dinakarī’ of Mahādeva Bhaṭṭācārya and Dīnakara Bhaṭṭācārya and ‘Rāmarudrī’ of Rāmarudra Bhaṭṭācārya and Rājeśvara Śāstri*, Varanasi: Chaukhamba Sanskrit Sansthan.
-* Tarkavāgīśa, Kāmākhyānātha (ed.), 1974, *The Tattvacintāmaṇi of Gaṅgeśa Upādhyāya with the commentary of Mathurānātha Tarkavāgīśa*, New Delhi: Motilal Banarasidass.
-  * 1974a, *Pratyakṣa Khaṇḍa*, Volume 1
-  * 1974b, *Anumāna Khaṇḍa*, Volume 2
-* Thakur, Anantalal (ed.), 1967, *Nyāyadarśana of Gautama; with the Bhāṣya of Vātsyāyana, the Vārttika of Uddyotakara, the Tātparyatīkā of Vācaspati, and the Pariśuddhi of Udayana*, Darbhanga: Mithila Institute.
-* Upādhyāya, Padmaprasāda and Dhundhirāja Śāstri (eds.), 1957, *The Nyāyakusumāñjali of Śrī Udayanācārya with Four Commentaries: The Bodhinī, Prakāśa, Prakāśikā (Jalada) and Makaranda by Varadarāja, Varddhamānopādhyāya, Mecha Thakkura and Rucidattopādhyāya and with Notes by Śrī Dharmadatta (Bachchā Jhā)*, Benares: Chowkhamba Sanskrit Series.
-* Svāmī Yogīndrānanda (ed.), 1968, *Nyāyabhūṣaṇa by Bhāsarvajña*, Varanasi: Ṣaḍdarśana Prakāśana Pratiṣṭhāna.
+* Jhā, Śaśīnātha (ed.), 1963, _Lakṣaṇamālā by Udayanācārya_, Darbhanga: Mithila Institute.
+* Kunhan Raja, Chittenoor and S. S. Suryanarayana Sastri (eds.), 1933, _Mānameyodaya: An Elementary Treatise On the Mīmāṁsā_, Madras: Theosophical Publishing House.
+* Kuppuswami Sastri, S. (ed.), 1984, _Brahmasiddhi by Ācārya Maṇḍanamiśra with commentary by Saṇkhapāni_, Delhi: Satguru Publications.
+* Matilal, B. K. (ed.), 1976, _Śaśadhara’s Nyāyasiddhāntadīpaḥ with Ṭippana of Guṇaratna_, Ahmedabad: L. D. Institute of Indology.
+* Sārvabhauma, Śiva Candra (ed.), 1911 \[1989], _Kiraṇāvalī by Udayanācārya with the Commentary of Vardhamānopādhyāya_, Fasc. I–II. Calcutta: Asiatic Society.
+* Śāstrī, Dhundhirāja (ed.), 1940, _The Ātmatattvaviveka of Udayanācārya with the Nārāyanī commentary of Nārāyaṇāchārya Ātreya and the Bauddhadhikāra Dīdhiti commentary of Raghunātha Śiromani, with Bauddhādhikāra Vivṛti of Gadādhara Bhaṭṭāchārya: Containing the opening portion of Kṣaṇabhanga Kurvadrupatvakhandana_, Benares: Chowkhamba Sanskrit Series.
+* Śāstrī, Kāśīnātha (ed.), 1915, _Tattvapradīpikā (Citsukhī) of Paramahaṅsa Citsukhacārya; with the commentary Nayanaprasādinī_, Bombay: Nirṇaya-Sāgar Press.
+* Shastri, Jagdish Lal (ed.), 1980, _Brahmasūtra-śāṅkarabhāṣya with the Commentaries Bhāṣyaratnaprabhā of Govindānanda, Bhāmatī of Vācaspati Miśra, and Nyāyanirṇaya of Ānandagiri_, Delhi: Motilal Banarasidass.
+* Steinkellner, Ernst, (ed.), 2007, _Dharmakīrti's Pramānaviniścaya_, Chapters 1 and 2. Beijing-Vienna: China Tibetology Publishing House.
+* Subramania Aiyar, K. A. (ed), 1976, _The Vākyapadīya of Bhartr̥hari With the commentaries Svopajñvṛtti by Harivṛṣabha & Ambākartri by Ragunātha Śarmā_, Volume 1: Brahmakāṇḍa. Varanasi: Sampurnanand Sanskrit University.
+* Śuklā Śāstrī, Harirāma (ed.), 1997, _Nyāyasiddhāntamuktāvali of Viśvanātha Pañcānana Bhaṭṭācārya with the commentaries ‘Dinakarī’ of Mahādeva Bhaṭṭācārya and Dīnakara Bhaṭṭācārya and ‘Rāmarudrī’ of Rāmarudra Bhaṭṭācārya and Rājeśvara Śāstri_, Varanasi: Chaukhamba Sanskrit Sansthan.
+* Tarkavāgīśa, Kāmākhyānātha (ed.), 1974, _The Tattvacintāmaṇi of Gaṅgeśa Upādhyāya with the commentary of Mathurānātha Tarkavāgīśa_, New Delhi: Motilal Banarasidass.
+  * 1974a, _Pratyakṣa Khaṇḍa_, Volume 1
+  * 1974b, _Anumāna Khaṇḍa_, Volume 2
+* Thakur, Anantalal (ed.), 1967, _Nyāyadarśana of Gautama; with the Bhāṣya of Vātsyāyana, the Vārttika of Uddyotakara, the Tātparyatīkā of Vācaspati, and the Pariśuddhi of Udayana_, Darbhanga: Mithila Institute.
+* Upādhyāya, Padmaprasāda and Dhundhirāja Śāstri (eds.), 1957, _The Nyāyakusumāñjali of Śrī Udayanācārya with Four Commentaries: The Bodhinī, Prakāśa, Prakāśikā (Jalada) and Makaranda by Varadarāja, Varddhamānopādhyāya, Mecha Thakkura and Rucidattopādhyāya and with Notes by Śrī Dharmadatta (Bachchā Jhā)_, Benares: Chowkhamba Sanskrit Series.
+* Svāmī Yogīndrānanda (ed.), 1968, _Nyāyabhūṣaṇa by Bhāsarvajña_, Varanasi: Ṣaḍdarśana Prakāśana Pratiṣṭhāna.
 
 ### Secondary Literature
 
-* Arnold, Dan, 2005, “Is *Svasaṃvitti* Transcendental? A Tentative Reconstruction Following Śāntarakṣita”, *Asian Philosophy*, 15(1): 77–111. doi:10.1080/0955236052000341050
-* –––, 2010, “Self-Awareness (*svasaṃvitti*) and Related Doctrines of Buddhists Following Dignāga: Philosophical Characterizations of Some of the Main Issues”, *Journal of Indian Philosophy*, 38(3): 323–378. doi:10.1007/s10781-010-9095-7
-* Bhattacharyya, Sibajiban, 1990, *Gadādhara's Theory of Objectivity: Containing the Text of Gadādhara's Viṣayatāvāda With an English Translation, Explanatory Notes, and a General Introduction*, Volume 1, New Delhi: Indian Council of Philosophical Research, in association with Motilal Banarsidass.
-* Bradley, Francis Herbert, 1893, *Appearance and Reality: A Metaphysical Essay*, Oxford: Clarendon Press. [[Bradley 1893 available online](http://archive.org/details/appearanceandrea00braduoft)]
-* Chatterjee, Amita, 2011, “Nyāya-Vaiśeṣika Philosophy”, in William Edelglass and Jay L. Garfield (eds.), *The Oxford Handbook of World Philosophy*, Oxford: Oxford University Press.
-* Carpenter, Amber & Jonardon Ganeri, 2010, “Can You Seek the Answer to This Question? (Meno in India)”, *Australasian Journal of Philosophy*, 88(4): 571–594. doi:10.1080/00048400903367833
-* Conee, Earl and Richard Feldman, 1998, “The Generality Problem for Reliabilism”, *Philosophical Studies*, 89(1): 1–29. doi:10.1023/A:1004243308503
-* Coseru, Christian, 2012, *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199843381.001.0001
-* Dretske, Fred, 1981, “The Pragmatic Dimension of Knowledge”, *Philosophical Studies*, 40(3): 363–378. doi:10.1007/BF00646423
-* Feldman, Richard, 1985, “Reliability and Justification”, *The Monist*, 68(2): 159–174. doi:10.5840/monist198568226
-* Ganeri, Jonardon, 1995, “Self-Intimation, Memory and Personal Identity”, *Journal of Indian Philosophy*, 27(5): 469–483. doi:10.1023/A:1004490802605
-* –––, 2007, *The Concealed Art of the Soul: Theories of Self and Practices of Truth in Indian Ethics and Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199202416.001.0001
-* –––, 2011, *The Lost Age of Reason: Philosophy in Early Modern India 1450–1700*, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780199218745.001.0001
-* –––, 2012, *The Self: Naturalism, Consciousness, and the First-Person Stance*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199652365.001.0001
-* –––, 2016, “Śrīharṣa’s Dissident Epistemology”, in Jonardon Ganeri (ed.), *The Oxford Handbook of Indian Philosophy*, doi:10.1093/oxfordhb/9780199314621.013.49.
-* Garfield, Jay, 2006, “The Conventional Status of Reflexive Awareness: What's at Stake in the Tibetan Debate?”, *Philosophy East and West*, 56(2): 201–228. doi:10.1353/pew.2006.0020
-* Gettier, Edmund, 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi:10.1093/analys/23.6.121
-* Goldman, Alvin I., 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73(20): 771–791. doi:10.2307/2025679
-* –––, 1979, “What Is Justified Belief?” in G.S. Pappas (ed.), *Justification and Knowledge*, Dordrecht: Reidel, 1–25; reprinted in A.I. Goldman, *Reliabilism and Contemporary Epistemology*, NewYork: Oxford University Press, 2012, 29–49.
-* Guha, Dinesh Chandra, 1979, *Navya Nyāya System of Logic: Basic Theories & Techniques*, Delhi: Motilal Banarsidass.
-* Halbfass, Wilhelm, 1983, *Studies in Kumārila and Śaṅkara*, Reinbek: Verlag für Orientalistiische Fachpublikationen.
-* Hume, David, 1748 [2000], *An Enquiry Concerning Human Understanding*, edited by Tom L. Beauchamp, Oxford: Clarendon Press.
-* Jani, A.N., 1996, *Śrīharṣa*, New Delhi: Sahitya Akademi.
-* Kellner, Birgit, 2011, “Self-awareness (*svasaṃvedana*) and Infinite Regresses: A Comparison of Arguments by Dignāga and Dharmakīrti”, *Journal of Indian Philosophy*, 39: 411–426. doi:10.1007/s10781-011-9139-7
-* Kingsbury, Justine and Jonathan McKeown-Green, 2009, “Definitions: Does Disjunction Mean Dysfunction?” *The Journal of Philosophy*, 106(10): 568–585. doi:10.5840/jphil20091061034
-* Lasonen Aarnio, Maria, 2010, “Unreasonable Knowledge”, *Philosophical Perspectives*, 24: 1–21. doi:10.1111/j.1520-8583.2010.00183.x
-* Lewis, David Lewis, 1973, “Causation”, *Journal of Philosophy*, 70(17): 556–567. doi: 10.2307/2025310
-* –––, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4):549–567. doi:10.1080/09552360802440025
-* Machery, Edouard, Stephen Stich, David Rose, Amita Chatterjee, Kaori Karasawa, Noel Struchiner, Smita Sirker, Naoki Usui, and Takaaki Hashimoto, 2017, “Gettier Across Cultures”, *Noûs*, 51(3): 645–664. doi:10.1111/nous.12110
-* MacKenzie, Matthew D., 2007, “The Illumination of Consciousness: Approaches to Self-Awareness in the Indian and Western Traditions”, *Philosophy East and West*, 57(1): 40–62. doi:10.1353/pew.2007.0006
-* –––, 2008, “Self-Awareness Without a Self: Buddhism and the Reflexivity of Awareness”, *Asian Philosophy*18(3): 245–66. doi:10.1080/09552360802440025
-* Matilal, Bimal Krishna, 1986, *Perception: An Essay on Classical Indian Theories of Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198239765.001.0001
-* –––, 1975, “Causality in the Nyāya-Vaiśeṣika School”, *Philosophy East and West*, 25(1) :41–48.
-* Murty, K. Satchidananda, 1959, *Reason and Revelation in Advaita Vedānta*, Waltair: Andhra University.
-* Nagel, Jennifer, 2012a, “Intuitions and Experiments: A Defense of the Case Method”, *Philosophy and Phenomenological Research*, 85(3) :495–527. doi:10.1111/j.1933-1592.2012.00634.x
-* –––, 2012b, “Mindreading in Gettier cases and Skeptical Pressure Cases” in Jessica Brown & Mikkel Gerken (eds.), *Knowledge Ascription*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199693702.003.0008
-* –––, 2013, “Defending the Evidential Value of Epistemic Intuitions: A Reply to Stich”, *Philosophy and Phenomenological Research*, 86(1) :179–199. doi:10.1111/phpr.12008
-* Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
-* Patel, Deven M., 2014, *Text to Tradition: The Naisadhiyacarita and Literary Community in South Asia*, New York: Columbia University Press.
-* Phillips, Stephen H., 1993, “Gaṅgeśa on Characterizing Veridical Awareness”, *Journal of Indian Philosophy*, 21(2): 107–168. doi:10.1007/BF01682176
-* Pritchard, Duncan, 2005, *Epistemic Luck*, Oxford: Oxford University Press. doi:10.1093/019928038X.001.0001
-* Ram-Prasad, Chakravarthi, 2002, *Advaita Epistemology and Metaphysics: An Outline of Indian Non-realism*, London: Routledge.
-* Sosa, Ernest, 1999, “How Must Knowledge Be Modally Related to What Is Known?”, *Philosophical Topics*, 26(1/2): 373–384.
-* Stine, Gail C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, *Philosophical Studies*, 29(4): 249–261. doi:10.1007/BF00411885
-* Stoltz, Jonathan, 2007, “Gettier and Factivity in Indo-Tibetan Epistemology”, *The Philosophical Quarterly*, 57(228): 394–415. doi:10.1111/j.1467-9213.2007.493.x
-* Taber, John, 2011, “Vedānta”, in William Edelglass and Jay L. Garfield (eds.), *The Oxford Handbook of World Philosophy*, Oxford: Oxford University Press.
-* Thrasher, Allen Wright, 1993, *The Advaita Vedānta of Brahma-siddhi*, Delhi: Motilal Banarsidass.
-* Thompson, Evan, 2011, “Self, No Self? Memory and Reflexive Awareness”, in Mark Siderits, Evan Thompson, and Dan Zahavi (eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*, Oxford: Oxford University Press.
-* Weinberg, Jonathan, 2007, “How to Challenge Intuitions Empirically Without Risking Skepticism”. *Midwest Studies in Philosophy*, 31(1): 318—343. doi:10.1111/j.1475-4975.2007.00157.x
-* Weinberg, Jonathan M., Nichols, Shaun, and Stich, Stephen, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1–2): 429–460.
-* Williams, Paul, 1998, *The Reflexive Nature of Awareness: a Tibetan Madhyamaka Defence*, Richmond: Curzon.
-* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
-* Yao, Zhihua, 2005, *The Buddhist Theory of Self-Cognition*, London: Routledge.
+* Arnold, Dan, 2005, “Is _Svasaṃvitti_ Transcendental? A Tentative Reconstruction Following Śāntarakṣita”, _Asian Philosophy_, 15(1): 77–111. doi:10.1080/0955236052000341050
+* –––, 2010, “Self-Awareness (_svasaṃvitti_) and Related Doctrines of Buddhists Following Dignāga: Philosophical Characterizations of Some of the Main Issues”, _Journal of Indian Philosophy_, 38(3): 323–378. doi:10.1007/s10781-010-9095-7
+* Bhattacharyya, Sibajiban, 1990, _Gadādhara's Theory of Objectivity: Containing the Text of Gadādhara's Viṣayatāvāda With an English Translation, Explanatory Notes, and a General Introduction_, Volume 1, New Delhi: Indian Council of Philosophical Research, in association with Motilal Banarsidass.
+* Bradley, Francis Herbert, 1893, _Appearance and Reality: A Metaphysical Essay_, Oxford: Clarendon Press. \[[Bradley 1893 available online](http://archive.org/details/appearanceandrea00braduoft)]
+* Chatterjee, Amita, 2011, “Nyāya-Vaiśeṣika Philosophy”, in William Edelglass and Jay L. Garfield (eds.), _The Oxford Handbook of World Philosophy_, Oxford: Oxford University Press.
+* Carpenter, Amber & Jonardon Ganeri, 2010, “Can You Seek the Answer to This Question? (Meno in India)”, _Australasian Journal of Philosophy_, 88(4): 571–594. doi:10.1080/00048400903367833
+* Conee, Earl and Richard Feldman, 1998, “The Generality Problem for Reliabilism”, _Philosophical Studies_, 89(1): 1–29. doi:10.1023/A:1004243308503
+* Coseru, Christian, 2012, _Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199843381.001.0001
+* Dretske, Fred, 1981, “The Pragmatic Dimension of Knowledge”, _Philosophical Studies_, 40(3): 363–378. doi:10.1007/BF00646423
+* Feldman, Richard, 1985, “Reliability and Justification”, _The Monist_, 68(2): 159–174. doi:10.5840/monist198568226
+* Ganeri, Jonardon, 1995, “Self-Intimation, Memory and Personal Identity”, _Journal of Indian Philosophy_, 27(5): 469–483. doi:10.1023/A:1004490802605
+* –––, 2007, _The Concealed Art of the Soul: Theories of Self and Practices of Truth in Indian Ethics and Epistemology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199202416.001.0001
+* –––, 2011, _The Lost Age of Reason: Philosophy in Early Modern India 1450–1700_, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780199218745.001.0001
+* –––, 2012, _The Self: Naturalism, Consciousness, and the First-Person Stance_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199652365.001.0001
+* –––, 2016, “Śrīharṣa’s Dissident Epistemology”, in Jonardon Ganeri (ed.), _The Oxford Handbook of Indian Philosophy_, doi:10.1093/oxfordhb/9780199314621.013.49.
+* Garfield, Jay, 2006, “The Conventional Status of Reflexive Awareness: What's at Stake in the Tibetan Debate?”, _Philosophy East and West_, 56(2): 201–228. doi:10.1353/pew.2006.0020
+* Gettier, Edmund, 1963, “Is Justified True Belief Knowledge?”, _Analysis_, 23(6): 121–123. doi:10.1093/analys/23.6.121
+* Goldman, Alvin I., 1976, “Discrimination and Perceptual Knowledge”, _The Journal of Philosophy_, 73(20): 771–791. doi:10.2307/2025679
+* –––, 1979, “What Is Justified Belief?” in G.S. Pappas (ed.), _Justification and Knowledge_, Dordrecht: Reidel, 1–25; reprinted in A.I. Goldman, _Reliabilism and Contemporary Epistemology_, NewYork: Oxford University Press, 2012, 29–49.
+* Guha, Dinesh Chandra, 1979, _Navya Nyāya System of Logic: Basic Theories & Techniques_, Delhi: Motilal Banarsidass.
+* Halbfass, Wilhelm, 1983, _Studies in Kumārila and Śaṅkara_, Reinbek: Verlag für Orientalistiische Fachpublikationen.
+* Hume, David, 1748 \[2000], _An Enquiry Concerning Human Understanding_, edited by Tom L. Beauchamp, Oxford: Clarendon Press.
+* Jani, A.N., 1996, _Śrīharṣa_, New Delhi: Sahitya Akademi.
+* Kellner, Birgit, 2011, “Self-awareness (_svasaṃvedana_) and Infinite Regresses: A Comparison of Arguments by Dignāga and Dharmakīrti”, _Journal of Indian Philosophy_, 39: 411–426. doi:10.1007/s10781-011-9139-7
+* Kingsbury, Justine and Jonathan McKeown-Green, 2009, “Definitions: Does Disjunction Mean Dysfunction?” _The Journal of Philosophy_, 106(10): 568–585. doi:10.5840/jphil20091061034
+* Lasonen Aarnio, Maria, 2010, “Unreasonable Knowledge”, _Philosophical Perspectives_, 24: 1–21. doi:10.1111/j.1520-8583.2010.00183.x
+* Lewis, David Lewis, 1973, “Causation”, _Journal of Philosophy_, 70(17): 556–567. doi: 10.2307/2025310
+* –––, 1996, “Elusive Knowledge”, _Australasian Journal of Philosophy_, 74(4):549–567. doi:10.1080/09552360802440025
+* Machery, Edouard, Stephen Stich, David Rose, Amita Chatterjee, Kaori Karasawa, Noel Struchiner, Smita Sirker, Naoki Usui, and Takaaki Hashimoto, 2017, “Gettier Across Cultures”, _Noûs_, 51(3): 645–664. doi:10.1111/nous.12110
+* MacKenzie, Matthew D., 2007, “The Illumination of Consciousness: Approaches to Self-Awareness in the Indian and Western Traditions”, _Philosophy East and West_, 57(1): 40–62. doi:10.1353/pew.2007.0006
+* –––, 2008, “Self-Awareness Without a Self: Buddhism and the Reflexivity of Awareness”, _Asian Philosophy_18(3): 245–66. doi:10.1080/09552360802440025
+* Matilal, Bimal Krishna, 1986, _Perception: An Essay on Classical Indian Theories of Knowledge_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198239765.001.0001
+* –––, 1975, “Causality in the Nyāya-Vaiśeṣika School”, _Philosophy East and West_, 25(1) :41–48.
+* Murty, K. Satchidananda, 1959, _Reason and Revelation in Advaita Vedānta_, Waltair: Andhra University.
+* Nagel, Jennifer, 2012a, “Intuitions and Experiments: A Defense of the Case Method”, _Philosophy and Phenomenological Research_, 85(3) :495–527. doi:10.1111/j.1933-1592.2012.00634.x
+* –––, 2012b, “Mindreading in Gettier cases and Skeptical Pressure Cases” in Jessica Brown & Mikkel Gerken (eds.), _Knowledge Ascription_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199693702.003.0008
+* –––, 2013, “Defending the Evidential Value of Epistemic Intuitions: A Reply to Stich”, _Philosophy and Phenomenological Research_, 86(1) :179–199. doi:10.1111/phpr.12008
+* Nozick, Robert, 1981, _Philosophical Explanations_, Cambridge, MA: Harvard University Press.
+* Patel, Deven M., 2014, _Text to Tradition: The Naisadhiyacarita and Literary Community in South Asia_, New York: Columbia University Press.
+* Phillips, Stephen H., 1993, “Gaṅgeśa on Characterizing Veridical Awareness”, _Journal of Indian Philosophy_, 21(2): 107–168. doi:10.1007/BF01682176
+* Pritchard, Duncan, 2005, _Epistemic Luck_, Oxford: Oxford University Press. doi:10.1093/019928038X.001.0001
+* Ram-Prasad, Chakravarthi, 2002, _Advaita Epistemology and Metaphysics: An Outline of Indian Non-realism_, London: Routledge.
+* Sosa, Ernest, 1999, “How Must Knowledge Be Modally Related to What Is Known?”, _Philosophical Topics_, 26(1/2): 373–384.
+* Stine, Gail C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, _Philosophical Studies_, 29(4): 249–261. doi:10.1007/BF00411885
+* Stoltz, Jonathan, 2007, “Gettier and Factivity in Indo-Tibetan Epistemology”, _The Philosophical Quarterly_, 57(228): 394–415. doi:10.1111/j.1467-9213.2007.493.x
+* Taber, John, 2011, “Vedānta”, in William Edelglass and Jay L. Garfield (eds.), _The Oxford Handbook of World Philosophy_, Oxford: Oxford University Press.
+* Thrasher, Allen Wright, 1993, _The Advaita Vedānta of Brahma-siddhi_, Delhi: Motilal Banarsidass.
+* Thompson, Evan, 2011, “Self, No Self? Memory and Reflexive Awareness”, in Mark Siderits, Evan Thompson, and Dan Zahavi (eds.) (2011). _Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions_, Oxford: Oxford University Press.
+* Weinberg, Jonathan, 2007, “How to Challenge Intuitions Empirically Without Risking Skepticism”. _Midwest Studies in Philosophy_, 31(1): 318—343. doi:10.1111/j.1475-4975.2007.00157.x
+* Weinberg, Jonathan M., Nichols, Shaun, and Stich, Stephen, 2001, “Normativity and Epistemic Intuitions”, _Philosophical Topics_, 29(1–2): 429–460.
+* Williams, Paul, 1998, _The Reflexive Nature of Awareness: a Tibetan Madhyamaka Defence_, Richmond: Curzon.
+* Williamson, Timothy, 2000, _Knowledge and Its Limits_, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Yao, Zhihua, 2005, _The Buddhist Theory of Self-Cognition_, London: Routledge.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=sriharsa). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/sriharsa/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=sriharsa&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/sriharsa/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=sriharsa).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/sriharsa/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=sriharsa\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/sriharsa/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
@@ -445,7 +445,7 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 ## Related Entries
 
-[Bradley, Francis Herbert](https://plato.stanford.edu/entries/bradley/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [consciousness: higher-order theories](https://plato.stanford.edu/entries/consciousness-higher/) | [Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/) | [Early Modern India, analytic philosophy in](https://plato.stanford.edu/entries/early-modern-india/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Indian Philosophy (Classical): epistemology](https://plato.stanford.edu/entries/epistemology-india/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [Madhyamaka](https://plato.stanford.edu/entries/madhyamaka/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/)
+[Bradley, Francis Herbert](https://plato.stanford.edu/entries/bradley/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [consciousness: higher-order theories](https://plato.stanford.edu/entries/consciousness-higher/) | [Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/) | [Early Modern India, analytic philosophy in](https://plato.stanford.edu/entries/early-modern-india/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Indian Philosophy (Classical): epistemology](https://plato.stanford.edu/entries/epistemology-india/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [Madhyamaka](https://plato.stanford.edu/entries/madhyamaka/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/)
 
-[Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
-[Nilanjan Das](http://www.dasnilanjan.com/) <[*nilanj.das@gmail.com*](mailto:nilanj%2edas%40gmail%2ecom)>
+[Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
+[Nilanjan Das](http://www.dasnilanjan.com/) <[_nilanj.das@gmail.com_](mailto:nilanj%2edas%40gmail%2ecom)>

@@ -1,7 +1,6 @@
 # 自然神学与自然宗教 theology, natural and natural religion (Andrew Chignell and Derk Pereboom)
 
-
-*首次发表于 2015 年 7 月 6 日星期一；实质性修订于 2020 年 7 月 17 日星期五*
+_首次发表于 2015 年 7 月 6 日星期一；实质性修订于 2020 年 7 月 17 日星期五_
 
 “自然宗教”这个术语有时被理解为指一种泛神论的教义，即自然本身就是神圣的。“自然神学”，相比之下，最初是指（现在有时仍然指）基于观察到的自然事实来证明上帝存在的项目。
 
@@ -9,13 +8,13 @@
 
 几乎每个时代和传统（近东、非洲、亚洲和欧洲）的哲学家和宗教思想家都参与了自然神学的项目，无论是作为支持者还是批评者。自然神学是否是一个可行的项目的问题是一些最深刻的宗教分歧的根源：什叶派思想家对理性证明各种神学和伦理真理的能力持乐观态度，而逊尼派则不然；罗马天主教神学家通常认为理性提供了上帝存在的证明，而许多新教神学家则不认同。与哲学百科全书中讨论的大多数主题不同，这个问题曾引发战争和流血冲突。
 
-在西方，自然神学的最活跃讨论发生在中世纪高峰时期（大约 1100-1400 年）和近代早期（1600-1800 年）。过去几十年，自然神学辩论在公共领域中重新兴起：现在有推广“智能设计理论”的研究所，流行的辩护课程，信徒和不可知论者之间的校园辩论，一个“新无神论”运动，YouTube 上关于自然神学新书的辩论（例如 Nathan Lewis 和 Bernie Dehler 在《自然神学伴侣》上的辩论）[2]，以及著名无神论者关于如何抵制自然宗教的 TED 演讲（例如 Richard Dawkins 在 2002 年 2 月的演讲）[3]。
+在西方，自然神学的最活跃讨论发生在中世纪高峰时期（大约 1100-1400 年）和近代早期（1600-1800 年）。过去几十年，自然神学辩论在公共领域中重新兴起：现在有推广“智能设计理论”的研究所，流行的辩护课程，信徒和不可知论者之间的校园辩论，一个“新无神论”运动，YouTube 上关于自然神学新书的辩论（例如 Nathan Lewis 和 Bernie Dehler 在《自然神学伴侣》上的辩论）\[2]，以及著名无神论者关于如何抵制自然宗教的 TED 演讲（例如 Richard Dawkins 在 2002 年 2 月的演讲）\[3]。
 
-在专业哲学家中（通常不参与这些更流行的辩论），关于我们能否对宗教问题给出肯定或否定的答案的争论已经变得相当技术化，通常使用复杂的逻辑技巧来推进讨论，而不是重蹈覆辙。然而，由苏格兰大学联合举办的著名吉福德讲座系列已经尝试在自然神学领域展示新的但仍然易于理解的工作已经有 100 多年的历史（它也有一个 YouTube 频道！）[4]。
+在专业哲学家中（通常不参与这些更流行的辩论），关于我们能否对宗教问题给出肯定或否定的答案的争论已经变得相当技术化，通常使用复杂的逻辑技巧来推进讨论，而不是重蹈覆辙。然而，由苏格兰大学联合举办的著名吉福德讲座系列已经尝试在自然神学领域展示新的但仍然易于理解的工作已经有 100 多年的历史（它也有一个 YouTube 频道！）\[4]。
 
 在本文中，我们的目标是避免大部分最近的复杂性，同时通过关注早期现代时期的一些核心发展来解释它们的起源，从而帮助构建当代自然神学的辩论。我们在这里只关注理论论证（包括先验和后验或经验性的论证）。关于道德论证是否也属于自然神学的争议很大，但我们在这里将其搁置（另请参阅上帝存在的论证条目：道德论证）。
 
----
+***
 
 ## 1. 序言性考虑
 
@@ -60,12 +59,12 @@
 1. 通过“上帝”我们理解的是没有比它更伟大的东西。【前提】
 2. 当我们理解“上帝”这个词时，上帝就在理解中。【前提】
 3. 因此，没有比它更伟大的东西就在理解中。【根据（1）和（2）】
-4. 在理解和现实中的东西比仅在理解中的东西更伟大。[前提]
-5. 因此，上帝存在于理解和现实中。[根据（3）和（4）]
+4. 在理解和现实中的东西比仅在理解中的东西更伟大。\[前提]
+5. 因此，上帝存在于理解和现实中。\[根据（3）和（4）]
 
 为了支持（2），安瑟姆指出
 
-> [T]he fool has said in his heart that "There is no God". But when this same Fool hears me say "something than which nothing greater can be thought", he surely understands what he hears; and what he understands exists in his understanding, even if he does not understand that it exists [in reality]. (Anselm 81–2)
+> \[T]he fool has said in his heart that "There is no God". But when this same Fool hears me say "something than which nothing greater can be thought", he surely understands what he hears; and what he understands exists in his understanding, even if he does not understand that it exists \[in reality]. (Anselm 81–2)
 
 所以根据安瑟姆的观点，即使是“愚蠢”的无神论者在争辩上帝不存在时也理解“上帝”这个词。安瑟姆的意思是，无神论者有上帝的概念，因此在他的理解中有上帝的存在。
 
@@ -75,14 +74,14 @@
 
 > 而那个没有更大的东西不能只存在于理解中。因为如果它只存在于理解中，那么它也可以被认为存在于现实中，而现实中的存在更大。（安塞尔姆 82）
 
- 更明确地说：
+更明确地说：
 
-1. 假设某个存在，B1，被构想成上帝在证明中的样子，并且 B1 仅存在于理解中。[还原法的假设]
-2. 但我们可以构想另一个存在，B2，它与 B1 完全相同，只是 B2 实际存在于现实中，也存在于理解中。[内省]
-3. 因此，B2 比 B1 更伟大。[根据（4）]
-4. 不可能构想出比 B1 更伟大的存在。[通过(a)和(1)]
-5. 矛盾。[通过(c)和(d)]
-6. 因此，(a)是错误的：如果 B1 被构想为上帝在证明中的存在，那么 B1 必须在现实中存在，也存在于理解中。[通过(e)]
+1. 假设某个存在，B1，被构想成上帝在证明中的样子，并且 B1 仅存在于理解中。\[还原法的假设]
+2. 但我们可以构想另一个存在，B2，它与 B1 完全相同，只是 B2 实际存在于现实中，也存在于理解中。\[内省]
+3. 因此，B2 比 B1 更伟大。\[根据（4）]
+4. 不可能构想出比 B1 更伟大的存在。\[通过(a)和(1)]
+5. 矛盾。\[通过(c)和(d)]
+6. 因此，(a)是错误的：如果 B1 被构想为上帝在证明中的存在，那么 B1 必须在现实中存在，也存在于理解中。\[通过(e)]
 
 历经几个世纪，哲学家和神学家们一直在努力复兴或推翻安瑟姆的论证。最有影响力的支持者包括勒内·笛卡尔、戈特弗里德·莱布尼茨、查尔斯·哈特肖恩、诺曼·马尔科姆、罗伯特·M·亚当斯和阿尔文·普兰廷加。主要的反对者包括安瑟姆的同时代对话者——一位名叫高尼洛的修士，以及托马斯·阿奎那、笛卡尔的通信对象约翰内斯·卡特鲁斯、马林·梅森和安托万·阿诺德、伊曼努尔·康德，以及最近的大卫·刘易斯（1970 年）、彼得·范·因瓦根（1977 年）和格雷厄姆·奥皮（1996 年，2009 年）。接下来，将考虑早期现代讨论中的一些相关观点，以及对 17 世纪模态论证的一些当代发展。
 
@@ -115,7 +114,7 @@
 
 #### 2.1.3 戈特弗里德·莱布尼兹（1646-1716）
 
-莱布尼茨针对笛卡尔的本体论论证提出了几个核心反对意见（例如，莱布尼茨 1676 年[PP]：167-8；1677 年[PP]：177-80；1684 年[PP]：292-3；1692 年[PP]：386；1678 年[PE]：237-39；1699 年[PE]：287-88；亚当斯 1994 年：135-56）。这些包括：
+莱布尼茨针对笛卡尔的本体论论证提出了几个核心反对意见（例如，莱布尼茨 1676 年\[PP]：167-8；1677 年\[PP]：177-80；1684 年\[PP]：292-3；1692 年\[PP]：386；1678 年\[PE]：237-39；1699 年\[PE]：287-88；亚当斯 1994 年：135-56）。这些包括：
 
 1. 声称最完美存在的本质包括其存在-存在是一种完美-尚未得到证实；
 2. 声称这个论证能够建立的只是条件性的“如果上帝的概念对象存在，则上帝存在”；
@@ -128,12 +127,12 @@
 1. 如果存在神圣的本质，那么神圣的本质涉及必然存在。【前提】
 2. 如果上帝是一个可能的存在，那么存在一个神圣的本质。【前提】
 3. 如果上帝是一个可能的存在，那么神圣的本质涉及必然存在。【根据（1），（2）】
-4. 如果上帝是一个可能的存在，那么上帝必然存在。[由（3）推导]
-5. 因此，如果上帝是一个可能的存在，那么上帝实际上存在。[由（4）推导]
+4. 如果上帝是一个可能的存在，那么上帝必然存在。\[由（3）推导]
+5. 因此，如果上帝是一个可能的存在，那么上帝实际上存在。\[由（4）推导]
 
 显然，尚未解决的问题是梅森的问题——（C），即最完美存在的真实可能性无法证明。莱布尼兹提出了几种反对意见。其中一种依赖于其他事物明显是可能的这一事实，再加上只有必然存在的存在才能为有限存在的可能性提供令人满意的基础或解释的主张。因此，在假设有限存在可能存在的情况下，上帝作为一个必然存在的存在至少可能存在（有关这种可能性论证的更多信息，请参见下面的第 2.3 节）。
 
-第二种莱布尼茨式的证明上帝真实可能性的论证回归到上帝是最完美的存在这一命题，并补充说完美是积极的和简单的，不可分析的品质。例如，考虑任何形式为“A 和 B 不相容”的命题，其中 A 和 B 是任意两个完美。只有当两个属性在逻辑上不相容时，它们才是不相容的，根据莱布尼茨的观点。因此，“A 和 B 不相容”只有在这些完美中的一个被证明是另一个的否定（例如全知和非全知），或者它们的分析揭示了更简单的属性，其中一个是另一个的否定时，才为真。但是在假设所有神圣的完美都是积极的、简单的和不可分析的的情况下，这两种情况都不可能发生。因此，对于任意两个完美，都可以说“A 和 B 是相容的”，因此具有所有完美的存在是真正可能的（莱布尼茨 1678 [PE]：238-39；亚当斯 1994：142-48）。
+第二种莱布尼茨式的证明上帝真实可能性的论证回归到上帝是最完美的存在这一命题，并补充说完美是积极的和简单的，不可分析的品质。例如，考虑任何形式为“A 和 B 不相容”的命题，其中 A 和 B 是任意两个完美。只有当两个属性在逻辑上不相容时，它们才是不相容的，根据莱布尼茨的观点。因此，“A 和 B 不相容”只有在这些完美中的一个被证明是另一个的否定（例如全知和非全知），或者它们的分析揭示了更简单的属性，其中一个是另一个的否定时，才为真。但是在假设所有神圣的完美都是积极的、简单的和不可分析的的情况下，这两种情况都不可能发生。因此，对于任意两个完美，都可以说“A 和 B 是相容的”，因此具有所有完美的存在是真正可能的（莱布尼茨 1678 \[PE]：238-39；亚当斯 1994：142-48）。
 
 第三个莱布尼茨对梅尔森反驳的回应是，我们可以构想的事物的真实可能性是合理的，至少在它们的不可能性被证明之前。
 
@@ -144,14 +143,14 @@
 解释该异议的一种方式如下：
 
 1. 假设 A 和 B 是两个实体，并且在 t1 时刻 A 大于 B。【前提】
-2. 如果 B 在 t2 时变得和 A 一样大，那么 B 发生了变化。[通过（1）]
+2. 如果 B 在 t2 时变得和 A 一样大，那么 B 发生了变化。\[通过（1）]
 3. 对于每个实体 x，如果 x 发生变化，则：
 4. 存在一个时间 t1，在该时间点 x 具有（或缺乏）某个属性 P，
 5. 在稍后的时间 t2，由于 x 的行动或被行动，x 缺乏（或具有）P。【前提】
 6. 对于每个实体 x，如果 x 在现实中出现，条件（3a）和（3b）不满足。【前提】
 7. 因此，当一个实体在现实中出现时，它不会改变。【根据（3），（4）】
-8. 因此，仅仅因为 B 在现实中存在而 B 不能变得像 A 一样伟大。[根据（2），（5）]
-9. 因此，仅仅因为在现实中存在，A 不能比 B 更伟大。[根据（6）]
+8. 因此，仅仅因为 B 在现实中存在而 B 不能变得像 A 一样伟大。\[根据（2），（5）]
+9. 因此，仅仅因为在现实中存在，A 不能比 B 更伟大。\[根据（6）]
 
 （4）是这个表述中的关键前提——存在是否涉及真正的变化？显然，在某种技术意义上，说一个概念适用于某物并不扩大该概念或改变我们对所指的存在的概念。但仍然可能存在这样一种情况：一个具有所有完美但不存在的存在不如一个具有所有完美并且也存在的存在伟大。
 
@@ -159,38 +158,38 @@
 
 在我们看来，康德最紧迫的批评回到了梅尔森提出的问题：我们无法确定上帝（被构想为具有必要存在与否）是否真正可能存在。康德承认莱布尼兹的观点，即最完美存在的概念可能不涉及逻辑矛盾，但他认为这还不足以表明它真正可能存在，因为有些不可能的方式并不涉及逻辑矛盾（A602/B630）。对于本体论论证来说，这意味着即使我们知道它们不涉及矛盾，我们也无法知道或理性地假设神圣完美可以共同实现。
 
-> 因为我的理性如何能够假设知道最高的实相如何运作，会有什么效果产生，以及所有这些实相之间会有什么样的关系？（康德 LPT [AK 28:1025–26]）
+> 因为我的理性如何能够假设知道最高的实相如何运作，会有什么效果产生，以及所有这些实相之间会有什么样的关系？（康德 LPT \[AK 28:1025–26]）
 
 #### 2.1.5 当代模态版本
 
 莱布尼兹和康德讨论的本体论论证版本已经被罗伯特·M·亚当斯（1971 年）、阿尔文·普兰廷加（1979 年）、彼得·范·因瓦根（1977 年、2009 年）等人详细阐述。这些版本采用当代模态语义和形而上学来推动以下两个假设：
 
- （假设 1）：
+（假设 1）：
 
 “上帝可能存在”意味着“存在某个可能的世界中上帝存在”。
 
- （假设 2）：
+（假设 2）：
 
 “上帝必然存在”意味着“上帝存在于每一个可能的世界中”（即，“不存在一个可能的世界中上帝不存在”）。
 
 然后，论证如下：
 
-1. 可能上帝存在。[前提]
-2. 因此，上帝存在于某个可能的世界（称之为 w*）。[根据（1），（假设 1）]
+1. 可能上帝存在。\[前提]
+2. 因此，上帝存在于某个可能的世界（称之为 w\*）。\[根据（1），（假设 1）]
 3. 如果上帝存在，那么上帝必然存在。【根据“上帝”的定义】
-4. 因此，在 w*中上帝必然存在。【根据（2），（3）】
-5. 因此，在 w*中上帝是这样的，即上帝在每一个可能的世界中存在。【根据（4），（假设 2）】
-6. 实际世界是可能世界之一 [前提]
-7. 因此，在 w*中，上帝是这样的，上帝存在于实际世界中 [根据(5)，(6)]
-8. 因此，上帝存在于实际世界中 [根据(7)]
+4. 因此，在 w\*中上帝必然存在。【根据（2），（3）】
+5. 因此，在 w\*中上帝是这样的，即上帝在每一个可能的世界中存在。【根据（4），（假设 2）】
+6. 实际世界是可能世界之一 \[前提]
+7. 因此，在 w\*中，上帝是这样的，上帝存在于实际世界中 \[根据(5)，(6)]
+8. 因此，上帝存在于实际世界中 \[根据(7)]
 
-批评家们对这个论点的许多方面表示了抵制（详见 Oppy 1996 进行全面讨论）。例如，推论（7）假设实际世界相对于 w*是可能的。但是这个假设只在某些关于可能性和必然性的讨论模型中才是合法的。因此，批评家声称，尚未证明 w*与实际世界之间存在关系，从而证明上帝实际存在。
+批评家们对这个论点的许多方面表示了抵制（详见 Oppy 1996 进行全面讨论）。例如，推论（7）假设实际世界相对于 w_是可能的。但是这个假设只在某些关于可能性和必然性的讨论模型中才是合法的。因此，批评家声称，尚未证明 w_与实际世界之间存在关系，从而证明上帝实际存在。
 
 然而，最重要的分歧再次出现在 Mersenne 对 Descartes 的质疑上。如何证明（1）中关于形而上学可能性的主张是合理的？Adams（1994 年：第 8 章）在 Leibniz 的基础上声称，我们在没有强有力的反对理由的情况下，有理性地假设大多数事物，包括上帝的真实可能性。其他人则认为，没有理由合理地假设形而上学可能性，尤其是关于超感官的事物。
 
 ### 2.2 从必然真理的论证
 
-莱布尼兹关于上帝存在的论证基于必然真理的存在，关键在于前提：所有真理之所以成立，是因为它们与它们本身不同的某种东西有关（当代形而上学家有时称之为“真理生成者”）。由于即使没有有限的思维来思考它们，必然真理仍然是真实的，因此这些真理不能是基于人类心理学的事实而成立。对于柏拉图的建议，即它们是基于存在于任何思维之外的形式而成立的，莱布尼兹认为一些真理是关于抽象实体的，而这些实体并不是能够具有独立于思维的存在的事物。因此，唯一剩下的可能性是这些真理是基于一个无限且必然存在的（神圣的）思维中的观念而成立（莱布尼兹 1714 年[PP]：647；亚当斯 1994 年：177ff.）。
+莱布尼兹关于上帝存在的论证基于必然真理的存在，关键在于前提：所有真理之所以成立，是因为它们与它们本身不同的某种东西有关（当代形而上学家有时称之为“真理生成者”）。由于即使没有有限的思维来思考它们，必然真理仍然是真实的，因此这些真理不能是基于人类心理学的事实而成立。对于柏拉图的建议，即它们是基于存在于任何思维之外的形式而成立的，莱布尼兹认为一些真理是关于抽象实体的，而这些实体并不是能够具有独立于思维的存在的事物。因此，唯一剩下的可能性是这些真理是基于一个无限且必然存在的（神圣的）思维中的观念而成立（莱布尼兹 1714 年\[PP]：647；亚当斯 1994 年：177ff.）。
 
 莱布尼兹的论证提出了一种关于必然真理基础的立场，但还有许多竞争观点并不涉及必然且永恒的神圣思维的存在。柏拉图主义者可能会回应说，尚未证明抽象实体没有独立于思维的存在，而休谟主义者则会认为必然真理都是分析的，因此只需要语言结构或我们的概念体系来确立它们的真实性。
 
@@ -198,9 +197,9 @@
 
 第三种先验证明的类型是从某事物（或某些事物的集合）的可能性来推断存在一个“可能性的基础”，以某种方式解释它们。这种论证的早期版本可以在奥古斯丁和新柏拉图主义传统中找到，但这种“可能性证明”的经典表述是在莱布尼兹的《单子论》（1714 年）中，以及更详细地在康德的长篇著作《上帝存在的唯一可能证明基础》（1763 年）中。请注意，如果关于可能性的真理是必然真理，正如它们似乎是的，那么这可能是必然真理的论证的一个更具体的版本（见 2.2 节）。
 
-康德的论证版本基于这样的主张：存在一些真实的可能性，它们并不以非矛盾原则为基础，但仍然必须有一个根据或解释（康德 1763 [AK 2: 63ff]）。如果它们不以非矛盾原则为基础，那么它们也不以上帝思考它们而不是它们的否定为基础，这正是莱布尼兹提出的所有这些可能性的基础。换句话说，康德认为一些不可能性不是基于非矛盾法则，而是基于两个或更多属性之间的一种非逻辑的“真实的不和谐”。康德认为，例如，物质存在意识是不可能的，尽管物质和意识之间不存在逻辑矛盾（康德 1763 [AK 2: 85–6]）。由此可见，这种不可能性并非基于神的思想，因为上帝可以思考任何不涉及矛盾的命题。因此，关于一些真实可能性和真实不可能性的事实只能以某种方式体现（而不仅仅是思考）每一种基本属性组合的必然存在为基础。当然，这个存在被认为是上帝（有关讨论，请参见 Fisher 和 Watkins 1998；Adams 2000；Chignell 2009, 2012, 2014；Stang 2010；Abaci 2014；Yong 2014；Hoffer 2016；Abaci 2019；Oberst 2018, 2020）。
+康德的论证版本基于这样的主张：存在一些真实的可能性，它们并不以非矛盾原则为基础，但仍然必须有一个根据或解释（康德 1763 \[AK 2: 63ff]）。如果它们不以非矛盾原则为基础，那么它们也不以上帝思考它们而不是它们的否定为基础，这正是莱布尼兹提出的所有这些可能性的基础。换句话说，康德认为一些不可能性不是基于非矛盾法则，而是基于两个或更多属性之间的一种非逻辑的“真实的不和谐”。康德认为，例如，物质存在意识是不可能的，尽管物质和意识之间不存在逻辑矛盾（康德 1763 \[AK 2: 85–6]）。由此可见，这种不可能性并非基于神的思想，因为上帝可以思考任何不涉及矛盾的命题。因此，关于一些真实可能性和真实不可能性的事实只能以某种方式体现（而不仅仅是思考）每一种基本属性组合的必然存在为基础。当然，这个存在被认为是上帝（有关讨论，请参见 Fisher 和 Watkins 1998；Adams 2000；Chignell 2009, 2012, 2014；Stang 2010；Abaci 2014；Yong 2014；Hoffer 2016；Abaci 2019；Oberst 2018, 2020）。
 
-这个争论的一个解决方法是简单地声称一些真实的可能性是原始的或无基础的。这似乎是康德在他的批判时期的一个选择，因为他不再坚持理性主义原则，如充分理由原则（见 Abaci 2019）。然而，即使在他的批判时期（即 1770 年左右之后），康德从未否认过早期的证明，并在 1780 年代的一次讲座中声称它“无论如何都不能被驳斥”（康德 LPT [AK 28: 1034]）。这表明在他的批判时期，康德仍然认为上帝的存在是真实可能性的唯一可用基础，但解释的观点可能仅仅可以证明一种理论信仰（Glaube），而不是完全的证明知识（见 Chignell 2009，Stang 2016 和 Oberst 2020）。
+这个争论的一个解决方法是简单地声称一些真实的可能性是原始的或无基础的。这似乎是康德在他的批判时期的一个选择，因为他不再坚持理性主义原则，如充分理由原则（见 Abaci 2019）。然而，即使在他的批判时期（即 1770 年左右之后），康德从未否认过早期的证明，并在 1780 年代的一次讲座中声称它“无论如何都不能被驳斥”（康德 LPT \[AK 28: 1034]）。这表明在他的批判时期，康德仍然认为上帝的存在是真实可能性的唯一可用基础，但解释的观点可能仅仅可以证明一种理论信仰（Glaube），而不是完全的证明知识（见 Chignell 2009，Stang 2016 和 Oberst 2020）。
 
 ## 3. 基于经验的论证
 
@@ -208,13 +207,13 @@
 
 后验论证至少涉及一个前提，其合理性基本上依赖于某种经验事实或经验。主要的演绎后验论证是康德所称的“宇宙论证”。它是由一个熟悉的问题“为什么有事物而不是没有事物？”所激发的，从存在某种事物的经验事实（或整个宇宙的存在，也许）到存在一个第一原因或宇宙的根源，该原因至少在某种程度上与宇宙本身不同。宇宙论证在几乎每个哲学传统中都有，而在西方哲学中，它在亚里士多德、阿维森纳、阿尔加扎里、梅蒙尼德、阿奎那、洛克、莱布尼茨、塞缪尔·克拉克和大卫·休谟的著作中占据重要地位。在这里，我们将从阿维森纳开始，然后主要关注早期现代时期。
 
-阿维森纳（980-1037），其阿拉伯名字是伊本·西那（Ibn Sina），在许多著作中提出了宇宙论证，但详细版本可在他的《论述与忠告》（Kitab al-Isharat wa l-Tanbihat）（阿维森纳[ISR]；Mayer 2001）中找到。他从关于有条件存在的事物的主张开始：由于有条件的事物可能存在也可能不存在，它是否存在取决于某种平衡。但是，如果有条件的事物确实存在，必须有某种外部的原因来解释它存在而不是不存在。这建立了论证的一个关键原则：“每个有条件存在的事物的存在都来自于它之外”。
+阿维森纳（980-1037），其阿拉伯名字是伊本·西那（Ibn Sina），在许多著作中提出了宇宙论证，但详细版本可在他的《论述与忠告》（Kitab al-Isharat wa l-Tanbihat）（阿维森纳\[ISR]；Mayer 2001）中找到。他从关于有条件存在的事物的主张开始：由于有条件的事物可能存在也可能不存在，它是否存在取决于某种平衡。但是，如果有条件的事物确实存在，必须有某种外部的原因来解释它存在而不是不存在。这建立了论证的一个关键原则：“每个有条件存在的事物的存在都来自于它之外”。
 
 阿维森纳接下来考虑了所有现有的偶然个体事物的总和，每个个体事物的存在都可以通过其因果前因来解释。然后，他提出并评估了四种解释总和存在的选项。第一种是总和的存在不需要原因。然而，根据任何偶然事物存在必须有原因的原则，总和将必然存在。但是，由于其中所有个体都是偶然事物，总和的必然存在被排除了。第二种选择是总和存在的原因是“所有个体一起”。但是，这样总和将导致自身存在，这与任何偶然事物的存在需要除它之外的原因的原则相矛盾。第三种选择是总和的原因是其中的一个个体。但是，所有这些个体都是由总和中的其他事物引起存在的，因此没有一个个体有资格成为整个总和存在的原因。唯一剩下的选择是总和的存在有一个外部于总和的原因。因为所有存在的偶然事物都在总和中，所以原因必须是一个必然存在的事物（Mayer 2001）。阿维森纳充分意识到这个论证不能就此结束，因为必须证明必然存在的事物就是上帝，并且他提供了一些支持这一主张的考虑（Adamson 2013）。
 
 阿维森纳的宇宙论证基于世界的偶然性，与伊斯兰自然神学中另一种主要的证明上帝存在的论证形式形成对比，该论证旨在从时间的开始证明上帝的存在。加齐（1056-1111）在《哲学家的无理性》中以两个步骤发展了这种类型的论证。第一步旨在针对突出的亚里士多德传统，证明世界不是永恒的，而是有一个时间的开始。第二步推理认为，对于任何在某个时间开始存在的存在，必须有某种决定它在那个时间开始存在的东西。因此，因为世界在某个时间开始存在，必须有某种决定它在那个时间开始存在的东西。正如加齐所说：“每一个开始的存在都有其开始的原因；现在世界是一个开始的存在；因此，它具有其开始的原因。”然后，他论证说，决定世界在特定时间存在的必然是上帝的自由选择，因此我们可以得出上帝的存在。这些论证主题是伊斯兰教中阿舍阿洛派神学传统的特征；近年来，威廉·克雷格（1979）为加齐的论证进行了辩护。
 
-莱布尼兹的宇宙论证（莱布尼兹 1697 年[PE]: 149–55; 1714 年[PP]: 646, [PE]: 218–19）并不假设或试图证明世界，即所有实际的偶然存在的集合，有一个时间的起点，从这个角度来看，它更接近于亚维齐纳的论证而不是阿尔加扎里的。莱布尼兹的论证如下：假设事实上世界没有时间的起点，并且世界中的每个存在都有一个在之前存在的存在中的解释。仍然可能出现两个解释的需求：为什么存在一个世界而不是不存在？以及：为什么存在这个世界而不是其他世界？这两个解释都不能仅通过对世界内部（或时间内部）的实体进行诉诸来提供。莱布尼兹的结论是必须存在一个不仅仅是假设性的，而是绝对必要的存在，并且其自身的解释包含在其内部。这个存在就是上帝。（同一时期塞缪尔·克拉克（1705 年）提出了类似的宇宙论证，详见塞缪尔·克拉克的条目）。
+莱布尼兹的宇宙论证（莱布尼兹 1697 年\[PE]: 149–55; 1714 年\[PP]: 646, \[PE]: 218–19）并不假设或试图证明世界，即所有实际的偶然存在的集合，有一个时间的起点，从这个角度来看，它更接近于亚维齐纳的论证而不是阿尔加扎里的。莱布尼兹的论证如下：假设事实上世界没有时间的起点，并且世界中的每个存在都有一个在之前存在的存在中的解释。仍然可能出现两个解释的需求：为什么存在一个世界而不是不存在？以及：为什么存在这个世界而不是其他世界？这两个解释都不能仅通过对世界内部（或时间内部）的实体进行诉诸来提供。莱布尼兹的结论是必须存在一个不仅仅是假设性的，而是绝对必要的存在，并且其自身的解释包含在其内部。这个存在就是上帝。（同一时期塞缪尔·克拉克（1705 年）提出了类似的宇宙论证，详见塞缪尔·克拉克的条目）。
 
 大卫·休谟对莱布尼兹和克拉克提出的宇宙学论证的三个主要反对意见（休谟 1779 年，第九部分，以及关于宗教的休谟条目）。第一个反对意见是（绝对）必然存在本身是有问题的。假设某个存在是绝对必要的-那么它的不存在应该是绝对不可想象的。但是，休谟说，对于我们可以想象其存在的任何存在，我们也可以想象其不存在，因此它不是一个必要的存在。休谟预见到了一个反对意见，即如果我们真正理解了神的本质，我们将无法想象上帝不存在。他回答说，关于物质也可以提出类似的观点：据我们所知，如果我们真正理解了物质的本质，我们将无法想象其不存在。这将表明物质的存在毕竟不是偶然的，并且不需要外部解释。因此，通过类比，宇宙学论证并没有证明上帝是负责其他宇宙的必要存在。
 
@@ -252,15 +251,15 @@
 休谟对目的论的攻击始于以下的表述（参考佩尔布姆 1996 年，2010 年）：
 
 1. 自然是一台伟大的机器，由许多较小的机器组成，所有这些机器都展示出秩序（尤其是手段与目的的适应）。【前提】
-2. 由人类思维引起的机器表现出秩序（尤其是手段与目的的适应）。[前提]
-3. 自然类似于由人类思维引起的机器。[根据（1），（2）]
-4. 如果效果相似，它们的原因也相似。[前提]
-5. 自然的原因类似于人类的思维。[由(3)，(4)推导]
-6. 更大的效果需要更大的原因（与效果相适应的原因）。[前提]
-7. 自然远远超过人类思维所引起的机器。[前提]
-8. 自然的原因类似于但远远超过人类的思维。[由(5)，(6)，(7)提供]
-9. 自然的原因是上帝。[由(8)提供]
-10. 因此，上帝存在。[由(9)提供]
+2. 由人类思维引起的机器表现出秩序（尤其是手段与目的的适应）。\[前提]
+3. 自然类似于由人类思维引起的机器。\[根据（1），（2）]
+4. 如果效果相似，它们的原因也相似。\[前提]
+5. 自然的原因类似于人类的思维。\[由(3)，(4)推导]
+6. 更大的效果需要更大的原因（与效果相适应的原因）。\[前提]
+7. 自然远远超过人类思维所引起的机器。\[前提]
+8. 自然的原因类似于但远远超过人类的思维。\[由(5)，(6)，(7)提供]
+9. 自然的原因是上帝。\[由(8)提供]
+10. 因此，上帝存在。\[由(9)提供]
 
 休谟对这个论证的反对意见包括依赖于它的类比不是完全准确的，因此宇宙中的秩序和明显的设计存在替代的解释。对这些反对意见的一个回应是，应该将目的论论证看作是一个最佳解释的论证，类似于许多科学论证的模式。在这种情况下，类比不必完全准确，但仍然可能表明神论解释是最好的（而且，可能是帕利自己也认识到了这一点）。休谟在他的角色菲洛的声音中承认
 
@@ -324,130 +323,130 @@
 
 ## Bibliography
 
-* Abaci, Uygar, 2014, “Kant’s Only Possible Argument and Chignell’s Real Harmony”, *Kantian Review*, 19(1): 1–25.
-* –––, 2019, *Kant’s Revolutionary Theory of Modality*, New York, NY: Oxford University Press.
-* Adams, Marilyn McCord, 2000, *Horrendous Evils and the Goodness of God*, Ithaca, NY: Cornell University Press.
-* –––, 2006, *Christ and Horrors*, New York: Cambridge University Press.
-* Adams, Robert Merrihew, 1971, “The Logical Structure of Anselm’s Arguments”, *The Philosophical Review*, 80(1): 28–54.
-* –––, 1994, *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press.
-* –––, 2000, “God, Possibility, and Kant”, *Faith and Philosophy*, 17(4): 425–40.
-* Adamson, Peter, 2013, “From the Necessary Existent to God”, in P. Adamson (ed.), *Interpreting Avicenna*, Cambridge: Cambridge University Press, pp. 170–189.
-* Al-Ghazali, 2000, *The Incoherence of the Philosophers*, M. E. Marmura (ed. and trans.), Provo: Brigham Young University Press.
-* Alston, William P., 1991, *Perceiving God: The Epistemology of Religious Experience*, Ithaca, NY: Cornell University Press.
-* Anselm, 2007, *Anselm: Basic Writings*, translated by Thomas Williams, Indianapolis: Hackett Publishing.
-* Avicenna (Ibn Sina), [ISR], 2014, *Ibn Sina’s Remarks and Admonitions: ‘Physics’ and ‘Metaphysics’: An Analysis and Annotated Translation*, Shams C. Inati (ed. and trans.), New York: Columbia University Press.
-* Barth, Karl, 1934, *Nein! Antwort an Emil Brunner*, München: C. Kaiser.
-* Berkeley, George, 1710 [1982], *A Treatise Concerning the Principles of Human Knowledge*, Kenneth Winkler (ed.), Indianapolis: Hackett Publishing.
-* Brooke, J. H., F. Watts, and R. R. Manning, 2013, *The Oxford Handbook of Natural Theology*, Oxford: Oxford University Press.
-* Brown, C.M., 2008, “The Design Argument in Classical Hindu Thought”, *International Journal of Hindu Studies*, 12(2): 103–151.
-* Carlson, Erik and Erik J. Olsson, 1998, “Is Our Existence in Need of Further Explanation?,” *Inquiry*, 41(3): 255–75.
-* Charleton, Walter, 1654, *The Darkness of Atheism Dispelled by the Light of Nature: A Physico-Theological Treatise*, London.
-* Chignell, Andrew, 2007, “Belief in Kant”, *Philosophical Review*, 116(3): 72–101.
-* –––, 2009, “Kant, Modality, and the Most Real Being”, *Archiv Für Geschichte Der Philosophie*, 91: 157–92.
-* –––, 2012, “Kant, Possibility, and the Threat of Spinoza”, *Mind*, 121(483): 635–75.
-* –––, 2014, “Kant and the ‘Monstrous’ Ground of Possibility”, *Kantian Review*, 19(1): 53–69.
-* Clarke, Samuel, 1998, *A Demonstration of the Being and Attributes of God and Other Writings*, Cambridge Texts in the History of Philosophy, Cambridge, New York: Cambridge University Press.
+* Abaci, Uygar, 2014, “Kant’s Only Possible Argument and Chignell’s Real Harmony”, _Kantian Review_, 19(1): 1–25.
+* –––, 2019, _Kant’s Revolutionary Theory of Modality_, New York, NY: Oxford University Press.
+* Adams, Marilyn McCord, 2000, _Horrendous Evils and the Goodness of God_, Ithaca, NY: Cornell University Press.
+* –––, 2006, _Christ and Horrors_, New York: Cambridge University Press.
+* Adams, Robert Merrihew, 1971, “The Logical Structure of Anselm’s Arguments”, _The Philosophical Review_, 80(1): 28–54.
+* –––, 1994, _Leibniz: Determinist, Theist, Idealist_, New York: Oxford University Press.
+* –––, 2000, “God, Possibility, and Kant”, _Faith and Philosophy_, 17(4): 425–40.
+* Adamson, Peter, 2013, “From the Necessary Existent to God”, in P. Adamson (ed.), _Interpreting Avicenna_, Cambridge: Cambridge University Press, pp. 170–189.
+* Al-Ghazali, 2000, _The Incoherence of the Philosophers_, M. E. Marmura (ed. and trans.), Provo: Brigham Young University Press.
+* Alston, William P., 1991, _Perceiving God: The Epistemology of Religious Experience_, Ithaca, NY: Cornell University Press.
+* Anselm, 2007, _Anselm: Basic Writings_, translated by Thomas Williams, Indianapolis: Hackett Publishing.
+* Avicenna (Ibn Sina), \[ISR], 2014, _Ibn Sina’s Remarks and Admonitions: ‘Physics’ and ‘Metaphysics’: An Analysis and Annotated Translation_, Shams C. Inati (ed. and trans.), New York: Columbia University Press.
+* Barth, Karl, 1934, _Nein! Antwort an Emil Brunner_, München: C. Kaiser.
+* Berkeley, George, 1710 \[1982], _A Treatise Concerning the Principles of Human Knowledge_, Kenneth Winkler (ed.), Indianapolis: Hackett Publishing.
+* Brooke, J. H., F. Watts, and R. R. Manning, 2013, _The Oxford Handbook of Natural Theology_, Oxford: Oxford University Press.
+* Brown, C.M., 2008, “The Design Argument in Classical Hindu Thought”, _International Journal of Hindu Studies_, 12(2): 103–151.
+* Carlson, Erik and Erik J. Olsson, 1998, “Is Our Existence in Need of Further Explanation?,” _Inquiry_, 41(3): 255–75.
+* Charleton, Walter, 1654, _The Darkness of Atheism Dispelled by the Light of Nature: A Physico-Theological Treatise_, London.
+* Chignell, Andrew, 2007, “Belief in Kant”, _Philosophical Review_, 116(3): 72–101.
+* –––, 2009, “Kant, Modality, and the Most Real Being”, _Archiv Für Geschichte Der Philosophie_, 91: 157–92.
+* –––, 2012, “Kant, Possibility, and the Threat of Spinoza”, _Mind_, 121(483): 635–75.
+* –––, 2014, “Kant and the ‘Monstrous’ Ground of Possibility”, _Kantian Review_, 19(1): 53–69.
+* Clarke, Samuel, 1998, _A Demonstration of the Being and Attributes of God and Other Writings_, Cambridge Texts in the History of Philosophy, Cambridge, New York: Cambridge University Press.
 * Collins, Robin, 2009, “The Teleological Argument: An Exploration of the Fine-Tuning of the Cosmos,” in Craig and Moreland (eds.), pp. 202–81
-* Copan, Paul and Paul K. Moser (eds.), 2003, *The Rationality of Theism*, London: Routledge.
-* Craig, William Lane, 1979, *The Kalam Cosmological Argument* (Library of Philosophy and Religion), New York: Barnes&Noble Books.
-* –––, 2000, “Timelessness and Omnitemporality”, *Philosophia Christi*, 2: 29–33.
-* –––, 2003, “Design and the Anthropic Fine-Tuning of the Universe”, in *God and Design: The Teleological Argument and Modern Science*, Neil A. Manson (ed.), London: Routledge, pp. 155–177.
-* Craig, William Lane and J. P. Moreland (eds.), 2009, *Blackwell Companion to Natural Theology*, Malden, MA: Blackwell.
-* Davis, Caroline Franks, 1989, *The Evidential Force of Religious Experience*, Oxford: Clarendon Press.
-* DeCruz, Helen, and Johan DeSmedt, 2010, *A Natural History of Natural Theology*, Cambridge, MA: MIT Press.
-* Derham, William, 1713, *Physico-Theology*, Hildesheim: Georg Olms Verlag, 1976.
-* Descartes, René, [AT], *Oeuvres de Descartes / Publiées Par Charles Adam & Paul Tannery Sous Les Auspices Du Minstère de L’instruction Publique*, Paris: Vrin, 1897.
-* Fisher, Mark, and Eric Watkins, 1998, “Kant on the Material Ground of Possibility: From ‘The Only Possible Argument’ to the ‘Critique of Pure Reason’”, *Review of Metaphysics*, 52(2): 369–95.
-* Flew, Antony, 2008, *There Is a God: How the World’s Most Notorious Atheist Changed His Mind*, New York: HarperOne.
-* Forgie, J. William, 2003, “The Alleged Dependency of the Cosmological Argument on the Ontological”, *Faith and Philosophy*, 20(3): 364–70.
-* Gaskin, J. C. A., 1978, *Hume’s Philosophy of Religion*, London: Macmillan.
-* Gauch Jr., Hugh, 2011, “Natural Theology’s Case for Jesus’ Resurrection: Methodological and Statistical Considerations”, *Philosophia Christi*, 13(2): 339–56.
-* –––, 2013, “The Methodology of Ramified Natural Theology”, *Philosophia Christi*, 15(2): 283–98.
-* Grotius, Hugo, 1627, *De veritate religionis Christianae*, Amsterdam: Henricum Wetstenium.
-* Hauerwas, Stanley, 2001, *With the Grain of the Universe: The Church’s Witness and Natural Theology*, Grand Rapids, MI: Brazos Press.
-* Hoffer, Noam, 2016, “The Relation Between God and the World in the PreCritical Kant: Was Kant a Spinozist?”, *Kantian Review*, 21(2): 185–210.
-* Hoffman, Joshua, and Gary Rosenkrantz, 2002, *The Divine Attributes*, Oxford: Blackwell.
-* Holder, Rodney, 2013, “Why We Need Ramified Natural Theology”, *Philosophia Christi*, 15(2): 271–82.
-* Howson, Colin, 1991, “The ‘Old Evidence’ Problem,” *British Journal for the Philosophy of Science*, 42(2): 547–55.
-* Hume, David, 1779 [2007], *Dialogues Concerning Natural Religion and Other Writings* (Cambridge Texts in the History of Philosophy), Dorothy Coleman (ed.), Cambridge, New York: Cambridge University Press.
-* Kant, Immanuel, 1763, *Der einzig mögliche Beweisgrund zu einer Demonstration des Daseins Gottes* (*The Only Possible Basis for a Demonstration of the Existence of God*). Collected in AK 2, pp. 63–163.
-* –––, 1781/1787, *Critique of Pure Reason*, Paul Guyer and Allen W. Wood (eds.), (*The Cambridge Edition of the Works of Immanuel Kant*), New York: Cambridge University Press, 1998.
-* –––, [LPT] 1817, *Vorlesungenüber die philosophische Religionslehre* (Lectures on Philosophical Theology), publication of lecture notes from either 1783–84 or 1785–86, Leipzig: Franz, second edition 1830. Collected in AK 28, pp. 988–1529; all the quotations from these lectures cited in the above entry were translated by the authors.
-* –––, [AK] 1900, Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter). References to this are by volume and page number.
-* –––, [RRT] 1996, *Religion and Rational Theology*, Allen W. Wood (ed.) and George di Giovanni (trans.), *The Cambridge Edition of the Works of Immanuel Kant*, Cambridge; New York, NY: Cambridge University Press.
-* Kotzen, Matthew, 2012, “Selection Biases in Likelihood Arguments,” *British Journal for the Philosophy of Science*, 63(4): 825–39.
-* Kwan, Kai–Man, 2006, “Can Religious Experience Provide Justification for Belief in the Existence of God? The Debate in Contemporary Analytic Philosophy”, *Philosophy Compass*, 1(6): 640–61.
-* Leech, David, 2013, *The Hammer of the Cartesians: Henry More’s Philosophy of Spirit and the Origins of Modern Atheism*, Leuven: Peeters.
-* Leibniz, Gottfried Wilhelm, 1676, “Two Notations for Discussion with Spinoza”, in Leibniz [PP]: 167–8.
-* –––, 1677, “Letter to Arnold Eckhard”, in Leibniz [PP]: 177–80.
-* –––, 1678, “Letter to Countess Elizabeth, On God and Formal Logic”, in Leibniz [PE]: 237–39.
-* –––, 1684, “Meditations on Knowledge, Truth, and Ideas”, in Leibniz [PP]: 292–3.
-* –––, 1692, “Critical Thoughts on the General Part of the Principles of Descartes”, in Leibniz [PP]: 386.
-* –––, 1697, “On the Ultimate Origination of Things”, in Leibniz [PE]: 149–55.
-* –––, 1699, “From the Letters to Thomas Burnett, On Substance”, in Leibniz [PE]: 149–5.
-* –––, 1714, “Monadology”, in Leibniz [PP]: 643–653.
-* –––, [PP], *Philosophical Papers and Letters*, second edition, Leroy E. Loemker (ed.), Volume 8 (32), Dordrecht: D. Reidel, 1969.
-* –––, [PE], *Philosophical Essays*, translated by Roger Ariew and Daniel Garber, 1st edition, Indianapolis: Hackett Publishing, 1989.
-* Leslie, John, 1998, *Universes*, London; New York: Routledge.
-* Lewis, David, 1970, “Anselm and Actuality”, *Noûs*, 4(2): 175–88.
-* Locke, John, 1695, *The Reasonableness of Christianity as Delivered in the Scriptures*, edited by John C Higgins-Biddle, Oxford: Clarendon Press.
-* MacDonald, Scott, 1998, “Natural Theology”, *Routledge Encyclopedia of Philosophy*, New York: Routledge.
-* Mackie, J., 1982, *The Miracle of Theism: Arguments for and against the Existence of God*, Oxford: Clarendon Press.
-* Manson, Neil A. (ed.), 2003, *God and Design: The Teleological Argument and Modern Science*, London: Routledge.
-* Mayer, Toby, 2001, “Avicenna’s Burhan al-Siddiqin,” *Journal of Islamic Studies*, 12: 18–39.
-* Montaigne, Michel de, 1580, “Apology for Raymond Sebond,” in *The Essays of Michel de Montaigne*, Bk II, Ch. XII, edited by M. A. Screech, London: Allen Lane: Penguin Press, 1991.
-* Monton, Bradley, 2006, “God, Fine-Tuning, and the Problem of Old Evidence,” *British Journal for the Philosophy of Science*, 57(2): 405–24.
-* Moreland, J. P., 2008, *Consciousness and the Existence of God: A Theistic Argument*, London: Routledge.
-* Murphy, Mark C., 2017, *God’s Own Ethics: Norms of Divine Agency and the Argument from Evil*, New York: Oxford University Press.
-* Newman, Robert C., John A. Bloom, and Hugh G. Gauch Jr., 2003, “Public Theology and Prophecy Data: Factual Evidence That Counts for the Biblical World View”, *Journal of the Evangelical Theological Society*, 46(1): 79–110.
-* O’Connor, Timothy, 2008, *Theism and Ultimate Explanation*, London: Wiley Blackwell.
-* Oberst, Michael, 2018, “Kant on Contradiction, Conceptual Content, and the Ens Realissimum,” *Kant Yearbook*, 10(1): 85–103.
-* –––, 2020, “The Possibility Proof is not what Remains from Kant’s Beweisgrund”, *Kantian Review*, 25(2):219–42.
-* Olding, Alan, 1990, *Modern Biology and Natural Theology*, New York: Routledge.
-* Oppy, Graham, 1996, *Ontological Arguments and Belief in God*, 1st edition, Cambridge: Cambridge University Press.
-* –––, 2003, “Modal Theistic Arguments”, *Sophia*, 32(2): 17–24.
-* –––, 2006, *Arguing About Gods*, New York: Cambridge University Press.
-* –––, 2009, “Cosmological Arguments”, *Noûs*, 33(1): 31–48.
-* Paley, William, 1794, *A View of the Evidences of Christianity*, London: J. Davis/R. Faulder.
-* –––, 1802, *Natural Theology; Or, Evidence of the Existence and Attributes of the Deity*, London: Wilks and Taylor.
-* Pasternack, Lawrence, 2001, “The Ens Realissimum and Necessary Being in the Critique of Pure Reason”, *Religious Studies*, 37(4): 467–74.
-* Pereboom, Derk, 1996, “Early Modern Philosophical Theology”, in *A Companion to the Philosophy of Religion*, Philip Quinn and Charles Taliaferro (eds.), 1st edition, Oxford: Blackwell, 103–10.
-* –––, 2010, “Early Modern Philosophical Theology”, in *A Companion to the Philosophy of Religion*, edited by Philip Quinn, Charles Taliaferro, and Paul Draper, 2nd edition, Oxford: Blackwell, 114–23.
-* Plantinga, Alvin, 1979, “Is Belief in God Rational?”, in *Rationality and Religious Belief*, Notre Dame, IN.: University of Notre Dame Press, 7–27.
-* –––, 1981, “Is Belief in God Properly Basic?” *Noûs*, 15(1): 41–51.
-* –––, 1984, “Reason and Belief in God”, in *Faith and Rationality: Reason and Belief in God*, Notre Dame, IN.: University of Notre Dame Press.
-* Plantinga, Alvin and Nicholas Wolterstorff (eds.), 1983, *Faith and Rationality: Reason and Belief in God*, Notre Dame, IN: University of Notre Dame Press.
-* Polkinghorne, John, 2009, *Theology in the Context of Science*, New Haven: Yale University Press.
-* Proops, Ian, 2014, “Kant on the Cosmological Argument”, *Philosophers’ Imprint*, 14(12): 1–21.
-* Pruss, Alexander, 2006, *The Principle of Sufficient Reason: A Reassessment*, New York: Cambridge University Press.
-* Rota, Michael, 2005, “Multiple Universes and the Fine-tuning Argument: A Response to Rodney Holder,” *Pacific Philosophical Quarterly*, 86: 556–76.
-* Rowe, William L., 1975, *The Cosmological Argument*, Princeton, N.J: Princeton University Press.
-* Sebond, Raymond, 1436 [1569], “La Theologie Naturelle de Raymond Sebond, Traduicte Nouvellement en François Par Messier Michel, Seigneur de Montaigne”, translated by Michel de Montaigne, 1569; translation edited by Dr Armaingaud, Paris: Conard, 1935.
-* Sedley, David, 2008, *Creationism and its Critics in Antiquity*, Berkeley and Los Angeles, CA: University of California Press.
+* Copan, Paul and Paul K. Moser (eds.), 2003, _The Rationality of Theism_, London: Routledge.
+* Craig, William Lane, 1979, _The Kalam Cosmological Argument_ (Library of Philosophy and Religion), New York: Barnes\&Noble Books.
+* –––, 2000, “Timelessness and Omnitemporality”, _Philosophia Christi_, 2: 29–33.
+* –––, 2003, “Design and the Anthropic Fine-Tuning of the Universe”, in _God and Design: The Teleological Argument and Modern Science_, Neil A. Manson (ed.), London: Routledge, pp. 155–177.
+* Craig, William Lane and J. P. Moreland (eds.), 2009, _Blackwell Companion to Natural Theology_, Malden, MA: Blackwell.
+* Davis, Caroline Franks, 1989, _The Evidential Force of Religious Experience_, Oxford: Clarendon Press.
+* DeCruz, Helen, and Johan DeSmedt, 2010, _A Natural History of Natural Theology_, Cambridge, MA: MIT Press.
+* Derham, William, 1713, _Physico-Theology_, Hildesheim: Georg Olms Verlag, 1976.
+* Descartes, René, \[AT], _Oeuvres de Descartes / Publiées Par Charles Adam & Paul Tannery Sous Les Auspices Du Minstère de L’instruction Publique_, Paris: Vrin, 1897.
+* Fisher, Mark, and Eric Watkins, 1998, “Kant on the Material Ground of Possibility: From ‘The Only Possible Argument’ to the ‘Critique of Pure Reason’”, _Review of Metaphysics_, 52(2): 369–95.
+* Flew, Antony, 2008, _There Is a God: How the World’s Most Notorious Atheist Changed His Mind_, New York: HarperOne.
+* Forgie, J. William, 2003, “The Alleged Dependency of the Cosmological Argument on the Ontological”, _Faith and Philosophy_, 20(3): 364–70.
+* Gaskin, J. C. A., 1978, _Hume’s Philosophy of Religion_, London: Macmillan.
+* Gauch Jr., Hugh, 2011, “Natural Theology’s Case for Jesus’ Resurrection: Methodological and Statistical Considerations”, _Philosophia Christi_, 13(2): 339–56.
+* –––, 2013, “The Methodology of Ramified Natural Theology”, _Philosophia Christi_, 15(2): 283–98.
+* Grotius, Hugo, 1627, _De veritate religionis Christianae_, Amsterdam: Henricum Wetstenium.
+* Hauerwas, Stanley, 2001, _With the Grain of the Universe: The Church’s Witness and Natural Theology_, Grand Rapids, MI: Brazos Press.
+* Hoffer, Noam, 2016, “The Relation Between God and the World in the PreCritical Kant: Was Kant a Spinozist?”, _Kantian Review_, 21(2): 185–210.
+* Hoffman, Joshua, and Gary Rosenkrantz, 2002, _The Divine Attributes_, Oxford: Blackwell.
+* Holder, Rodney, 2013, “Why We Need Ramified Natural Theology”, _Philosophia Christi_, 15(2): 271–82.
+* Howson, Colin, 1991, “The ‘Old Evidence’ Problem,” _British Journal for the Philosophy of Science_, 42(2): 547–55.
+* Hume, David, 1779 \[2007], _Dialogues Concerning Natural Religion and Other Writings_ (Cambridge Texts in the History of Philosophy), Dorothy Coleman (ed.), Cambridge, New York: Cambridge University Press.
+* Kant, Immanuel, 1763, _Der einzig mögliche Beweisgrund zu einer Demonstration des Daseins Gottes_ (_The Only Possible Basis for a Demonstration of the Existence of God_). Collected in AK 2, pp. 63–163.
+* –––, 1781/1787, _Critique of Pure Reason_, Paul Guyer and Allen W. Wood (eds.), (_The Cambridge Edition of the Works of Immanuel Kant_), New York: Cambridge University Press, 1998.
+* –––, \[LPT] 1817, _Vorlesungenüber die philosophische Religionslehre_ (Lectures on Philosophical Theology), publication of lecture notes from either 1783–84 or 1785–86, Leipzig: Franz, second edition 1830. Collected in AK 28, pp. 988–1529; all the quotations from these lectures cited in the above entry were translated by the authors.
+* –––, \[AK] 1900, Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter). References to this are by volume and page number.
+* –––, \[RRT] 1996, _Religion and Rational Theology_, Allen W. Wood (ed.) and George di Giovanni (trans.), _The Cambridge Edition of the Works of Immanuel Kant_, Cambridge; New York, NY: Cambridge University Press.
+* Kotzen, Matthew, 2012, “Selection Biases in Likelihood Arguments,” _British Journal for the Philosophy of Science_, 63(4): 825–39.
+* Kwan, Kai–Man, 2006, “Can Religious Experience Provide Justification for Belief in the Existence of God? The Debate in Contemporary Analytic Philosophy”, _Philosophy Compass_, 1(6): 640–61.
+* Leech, David, 2013, _The Hammer of the Cartesians: Henry More’s Philosophy of Spirit and the Origins of Modern Atheism_, Leuven: Peeters.
+* Leibniz, Gottfried Wilhelm, 1676, “Two Notations for Discussion with Spinoza”, in Leibniz \[PP]: 167–8.
+* –––, 1677, “Letter to Arnold Eckhard”, in Leibniz \[PP]: 177–80.
+* –––, 1678, “Letter to Countess Elizabeth, On God and Formal Logic”, in Leibniz \[PE]: 237–39.
+* –––, 1684, “Meditations on Knowledge, Truth, and Ideas”, in Leibniz \[PP]: 292–3.
+* –––, 1692, “Critical Thoughts on the General Part of the Principles of Descartes”, in Leibniz \[PP]: 386.
+* –––, 1697, “On the Ultimate Origination of Things”, in Leibniz \[PE]: 149–55.
+* –––, 1699, “From the Letters to Thomas Burnett, On Substance”, in Leibniz \[PE]: 149–5.
+* –––, 1714, “Monadology”, in Leibniz \[PP]: 643–653.
+* –––, \[PP], _Philosophical Papers and Letters_, second edition, Leroy E. Loemker (ed.), Volume 8 (32), Dordrecht: D. Reidel, 1969.
+* –––, \[PE], _Philosophical Essays_, translated by Roger Ariew and Daniel Garber, 1st edition, Indianapolis: Hackett Publishing, 1989.
+* Leslie, John, 1998, _Universes_, London; New York: Routledge.
+* Lewis, David, 1970, “Anselm and Actuality”, _Noûs_, 4(2): 175–88.
+* Locke, John, 1695, _The Reasonableness of Christianity as Delivered in the Scriptures_, edited by John C Higgins-Biddle, Oxford: Clarendon Press.
+* MacDonald, Scott, 1998, “Natural Theology”, _Routledge Encyclopedia of Philosophy_, New York: Routledge.
+* Mackie, J., 1982, _The Miracle of Theism: Arguments for and against the Existence of God_, Oxford: Clarendon Press.
+* Manson, Neil A. (ed.), 2003, _God and Design: The Teleological Argument and Modern Science_, London: Routledge.
+* Mayer, Toby, 2001, “Avicenna’s Burhan al-Siddiqin,” _Journal of Islamic Studies_, 12: 18–39.
+* Montaigne, Michel de, 1580, “Apology for Raymond Sebond,” in _The Essays of Michel de Montaigne_, Bk II, Ch. XII, edited by M. A. Screech, London: Allen Lane: Penguin Press, 1991.
+* Monton, Bradley, 2006, “God, Fine-Tuning, and the Problem of Old Evidence,” _British Journal for the Philosophy of Science_, 57(2): 405–24.
+* Moreland, J. P., 2008, _Consciousness and the Existence of God: A Theistic Argument_, London: Routledge.
+* Murphy, Mark C., 2017, _God’s Own Ethics: Norms of Divine Agency and the Argument from Evil_, New York: Oxford University Press.
+* Newman, Robert C., John A. Bloom, and Hugh G. Gauch Jr., 2003, “Public Theology and Prophecy Data: Factual Evidence That Counts for the Biblical World View”, _Journal of the Evangelical Theological Society_, 46(1): 79–110.
+* O’Connor, Timothy, 2008, _Theism and Ultimate Explanation_, London: Wiley Blackwell.
+* Oberst, Michael, 2018, “Kant on Contradiction, Conceptual Content, and the Ens Realissimum,” _Kant Yearbook_, 10(1): 85–103.
+* –––, 2020, “The Possibility Proof is not what Remains from Kant’s Beweisgrund”, _Kantian Review_, 25(2):219–42.
+* Olding, Alan, 1990, _Modern Biology and Natural Theology_, New York: Routledge.
+* Oppy, Graham, 1996, _Ontological Arguments and Belief in God_, 1st edition, Cambridge: Cambridge University Press.
+* –––, 2003, “Modal Theistic Arguments”, _Sophia_, 32(2): 17–24.
+* –––, 2006, _Arguing About Gods_, New York: Cambridge University Press.
+* –––, 2009, “Cosmological Arguments”, _Noûs_, 33(1): 31–48.
+* Paley, William, 1794, _A View of the Evidences of Christianity_, London: J. Davis/R. Faulder.
+* –––, 1802, _Natural Theology; Or, Evidence of the Existence and Attributes of the Deity_, London: Wilks and Taylor.
+* Pasternack, Lawrence, 2001, “The Ens Realissimum and Necessary Being in the Critique of Pure Reason”, _Religious Studies_, 37(4): 467–74.
+* Pereboom, Derk, 1996, “Early Modern Philosophical Theology”, in _A Companion to the Philosophy of Religion_, Philip Quinn and Charles Taliaferro (eds.), 1st edition, Oxford: Blackwell, 103–10.
+* –––, 2010, “Early Modern Philosophical Theology”, in _A Companion to the Philosophy of Religion_, edited by Philip Quinn, Charles Taliaferro, and Paul Draper, 2nd edition, Oxford: Blackwell, 114–23.
+* Plantinga, Alvin, 1979, “Is Belief in God Rational?”, in _Rationality and Religious Belief_, Notre Dame, IN.: University of Notre Dame Press, 7–27.
+* –––, 1981, “Is Belief in God Properly Basic?” _Noûs_, 15(1): 41–51.
+* –––, 1984, “Reason and Belief in God”, in _Faith and Rationality: Reason and Belief in God_, Notre Dame, IN.: University of Notre Dame Press.
+* Plantinga, Alvin and Nicholas Wolterstorff (eds.), 1983, _Faith and Rationality: Reason and Belief in God_, Notre Dame, IN: University of Notre Dame Press.
+* Polkinghorne, John, 2009, _Theology in the Context of Science_, New Haven: Yale University Press.
+* Proops, Ian, 2014, “Kant on the Cosmological Argument”, _Philosophers’ Imprint_, 14(12): 1–21.
+* Pruss, Alexander, 2006, _The Principle of Sufficient Reason: A Reassessment_, New York: Cambridge University Press.
+* Rota, Michael, 2005, “Multiple Universes and the Fine-tuning Argument: A Response to Rodney Holder,” _Pacific Philosophical Quarterly_, 86: 556–76.
+* Rowe, William L., 1975, _The Cosmological Argument_, Princeton, N.J: Princeton University Press.
+* Sebond, Raymond, 1436 \[1569], “La Theologie Naturelle de Raymond Sebond, Traduicte Nouvellement en François Par Messier Michel, Seigneur de Montaigne”, translated by Michel de Montaigne, 1569; translation edited by Dr Armaingaud, Paris: Conard, 1935.
+* Sedley, David, 2008, _Creationism and its Critics in Antiquity_, Berkeley and Los Angeles, CA: University of California Press.
 * Sober, Elliot, 2003, “The Design Argument”, in Manson (ed.) 2003: 27–54.
-* Speaks, Jeffrey, 2018, *The Greatest Possible Being*, New York: Oxford University Press.
-* Stang, Nicholas F., 2010, “Kant’s Possibility Proof”, *History of Philosophy Quarterly*, 27(3): 275–99.
-* Stang, Nicholas F., 2016, *Kant’s Modal Metaphysics*, Oxford: Oxford University Press.
-* Stump, Eleonore, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Clarendon Press.
-* Sudduth, Michael, 2009, *The Reformed Objection to Natural Theology*, Ashgate Publishing, Ltd.
-* Swinburne, Richard, 2003, *The Resurrection of God Incarnate*, Oxford: Oxford University Press.
-* –––, 2004, *The Existence of God*, Oxford: Oxford University Press.
-* Taliaferro, Charles, 2005, *Evidence and Faith: Philosophy and Religion since the Seventeenth Century*, The Evolution of Modern Philosophy. New York: Cambridge University Press.
-* Van Cleve, James, 1999, *Problems from Kant*, New York: Oxford University Press.
-* Van Inwagen, Peter, 1977, “Ontological Arguments”, *Noûs*, 11(4): 375–95.
-* –––, 2009, “Some Remarks on the Modal Ontological Argument”, *Philo*, 12(2): 217–27.
-* –––, 2012, “Three Versions of the Ontological Argument”, in *Ontological Proofs Today*, edited by Miroslaw Szatkowski, Heusenstamm: Ontos Verlag, 143–162.
-* White, Roger, 2000, “Fine-Tuning and Multiple Universes”, *Noûs*, 34(2): 260–76.
-* Wolterstorff, Nicholas, 1984, “Introduction”, in *Faith and Rationality: Reason and Belief in God*, Notre Dame, IN.: University of Notre Dame Press, 1–15.
-* Yong, Peter, 2014, “God, Totality and Possibility in Kant’s Only Possible Argument”, *Kantian Review*, 19(1): 27–51.
+* Speaks, Jeffrey, 2018, _The Greatest Possible Being_, New York: Oxford University Press.
+* Stang, Nicholas F., 2010, “Kant’s Possibility Proof”, _History of Philosophy Quarterly_, 27(3): 275–99.
+* Stang, Nicholas F., 2016, _Kant’s Modal Metaphysics_, Oxford: Oxford University Press.
+* Stump, Eleonore, 2010, _Wandering in Darkness: Narrative and the Problem of Suffering_, Oxford: Clarendon Press.
+* Sudduth, Michael, 2009, _The Reformed Objection to Natural Theology_, Ashgate Publishing, Ltd.
+* Swinburne, Richard, 2003, _The Resurrection of God Incarnate_, Oxford: Oxford University Press.
+* –––, 2004, _The Existence of God_, Oxford: Oxford University Press.
+* Taliaferro, Charles, 2005, _Evidence and Faith: Philosophy and Religion since the Seventeenth Century_, The Evolution of Modern Philosophy. New York: Cambridge University Press.
+* Van Cleve, James, 1999, _Problems from Kant_, New York: Oxford University Press.
+* Van Inwagen, Peter, 1977, “Ontological Arguments”, _Noûs_, 11(4): 375–95.
+* –––, 2009, “Some Remarks on the Modal Ontological Argument”, _Philo_, 12(2): 217–27.
+* –––, 2012, “Three Versions of the Ontological Argument”, in _Ontological Proofs Today_, edited by Miroslaw Szatkowski, Heusenstamm: Ontos Verlag, 143–162.
+* White, Roger, 2000, “Fine-Tuning and Multiple Universes”, _Noûs_, 34(2): 260–76.
+* Wolterstorff, Nicholas, 1984, “Introduction”, in _Faith and Rationality: Reason and Belief in God_, Notre Dame, IN.: University of Notre Dame Press, 1–15.
+* Yong, Peter, 2014, “God, Totality and Possibility in Kant’s Only Possible Argument”, _Kantian Review_, 19(1): 27–51.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=natural-theology). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/natural-theology/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=natural-theology&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/natural-theology/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=natural-theology).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/natural-theology/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=natural-theology\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/natural-theology/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -455,12 +454,12 @@
 
 ## Related Entries
 
-[Anselm of Canterbury [Anselm of Bec]](https://plato.stanford.edu/entries/anselm/) | [atheism and agnosticism](https://plato.stanford.edu/entries/atheism-agnosticism/) | [Augustine of Hippo](https://plato.stanford.edu/entries/augustine/) | [Berkeley, George](https://plato.stanford.edu/entries/berkeley/) | [Clarke, Samuel](https://plato.stanford.edu/entries/clarke/) | [cosmological argument](https://plato.stanford.edu/entries/cosmological-argument/) | [cosmology, philosophy of](https://plato.stanford.edu/entries/cosmology/) | [Descartes, René: ontological argument](https://plato.stanford.edu/entries/descartes-ontological/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [fideism](https://plato.stanford.edu/entries/fideism/) | [fine-tuning](https://plato.stanford.edu/entries/fine-tuning/) | [God, arguments for the existence of: moral arguments](https://plato.stanford.edu/entries/moral-arguments-god/) | [Hume, David: on religion](https://plato.stanford.edu/entries/hume-religion/) | [Kant, Immanuel: philosophy of religion](https://plato.stanford.edu/entries/kant-religion/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [ontological arguments](https://plato.stanford.edu/entries/ontological-arguments/) | [Pascal, Blaise](https://plato.stanford.edu/entries/pascal/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [pragmatic arguments and belief in God](https://plato.stanford.edu/entries/pragmatic-belief-god/) | [religion: epistemology of](https://plato.stanford.edu/entries/religion-epistemology/) | [teleology: teleological arguments for God’s existence](https://plato.stanford.edu/entries/teleological-arguments/)
+[Anselm of Canterbury \[Anselm of Bec\]](https://plato.stanford.edu/entries/anselm/) | [atheism and agnosticism](https://plato.stanford.edu/entries/atheism-agnosticism/) | [Augustine of Hippo](https://plato.stanford.edu/entries/augustine/) | [Berkeley, George](https://plato.stanford.edu/entries/berkeley/) | [Clarke, Samuel](https://plato.stanford.edu/entries/clarke/) | [cosmological argument](https://plato.stanford.edu/entries/cosmological-argument/) | [cosmology, philosophy of](https://plato.stanford.edu/entries/cosmology/) | [Descartes, René: ontological argument](https://plato.stanford.edu/entries/descartes-ontological/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [fideism](https://plato.stanford.edu/entries/fideism/) | [fine-tuning](https://plato.stanford.edu/entries/fine-tuning/) | [God, arguments for the existence of: moral arguments](https://plato.stanford.edu/entries/moral-arguments-god/) | [Hume, David: on religion](https://plato.stanford.edu/entries/hume-religion/) | [Kant, Immanuel: philosophy of religion](https://plato.stanford.edu/entries/kant-religion/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [ontological arguments](https://plato.stanford.edu/entries/ontological-arguments/) | [Pascal, Blaise](https://plato.stanford.edu/entries/pascal/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [pragmatic arguments and belief in God](https://plato.stanford.edu/entries/pragmatic-belief-god/) | [religion: epistemology of](https://plato.stanford.edu/entries/religion-epistemology/) | [teleology: teleological arguments for God’s existence](https://plato.stanford.edu/entries/teleological-arguments/)
 
 ### Acknowledgments
 
 Our thanks to Monica Burnett, Ryan Darr, Hugh Gauch, Chad McIntosh, Alejandro Naranjo Sandoval, and Daniel Rubio for helpful feedback on earlier drafts of this entry.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[Andrew Chignell](https://chignell.net/) <[*chignell@princeton.edu*](mailto:chignell%40princeton%2eedu)>  
-[Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[*dp346@cornell.edu*](mailto:dp346%40cornell%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[Andrew Chignell](https://chignell.net/) <[_chignell@princeton.edu_](mailto:chignell%40princeton%2eedu)>\
+[Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[_dp346@cornell.edu_](mailto:dp346%40cornell%2eedu)>

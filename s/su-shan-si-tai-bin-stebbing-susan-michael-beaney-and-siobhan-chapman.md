@@ -1,10 +1,10 @@
 # 苏珊·斯泰宾 Stebbing, Susan (Michael Beaney and Siobhan Chapman)
 
-*首次发表于 2017 年 5 月 8 日星期一；实质性修订于 2021 年 5 月 6 日星期四*
+_首次发表于 2017 年 5 月 8 日星期一；实质性修订于 2021 年 5 月 6 日星期四_
 
 苏珊·斯泰宾是第一次世界大战和第二次世界大战之间英国哲学界的重要人物。她对分析传统的发展做出了重要贡献，既在机构上确立了它，又展示了它的思想和技术如何在广泛领域中应用。她早期的工作集中在逻辑学上，在她的一生中，她以《现代逻辑导论》（1930 年）而闻名，该书既介绍了传统的亚里士多德逻辑，也介绍了与罗素和怀特海德的工作特别相关的新数学逻辑。她成为所谓的剑桥分析学派的重要倡导者，也是逻辑与日常问题和问题的相关性的倡导者。在她早期的逻辑学研究以及越来越多地涉及思维和推理的后期研究中，她强调了语言在普通交流中的使用和误用的方式，并主张哲学家必须注意这些使用和误用。斯泰宾越来越感到有必要参与实际的当代问题，并面向更广泛的公众。《哲学与物理学家》（1937 年）和《有所思考》（1939 年）分别对流行科学传播中使用的语言以及政治演讲、广告和报纸社论等日常文体进行了批判。在她生命的最后阶段，她对逻辑和语言的兴趣越来越多地与社会导向和政治参与相关。斯泰宾的工作预示了哲学本身和语言学中的一些重要后续发展。
 
----
+***
 
 ## 1. 生平
 
@@ -150,66 +150,64 @@
 
 斯泰宾在 20 世纪 30 年代的分析哲学发展中起到了重要作用，撰写了实际上是分析哲学的第一本教科书《现代逻辑导论》（1930 年）。尽管她是剑桥分析学派的主要成员，与摩尔对她的影响最大，但她也试图与逻辑实证主义接触，从而帮助将两者融合到我们现在所知的更广泛的分析哲学运动中。在她后来的著作中，她试图展示她的逻辑和分析工作对日常思维以及社会和政治辩论的相关性。《哲学与物理学家》（1937 年）和《有所思考》（1939 年），她面向更广泛受众的两本最重要的书籍，也可以被视为批判性思维的首批著作，预示了社会语言学、语用学和批判性话语分析的发展。她对“目的性思维”的主导思想以及她对思维和表达清晰度的强调在她的所有著作中都得到体现，这也是她的教学和组织活动所特点之一，而这些活动本身以及她的写作都表现出了非常高的知识诚实和道德正直。
 
-
-
 ## Bibliography
 
 ### Primary Sources: Works by Stebbing
 
-* 1914, *Pragmatism and French Voluntarism*, Cambridge: Cambridge University Press.
-* 1930, *A Modern Introduction to Logic*, London: Methuen.
-* 1932, “The Method of Analysis in Metaphysics”, *Proceedings of the Aristotelian Society*, 33: 65–94. doi:10.1093/aristotelian/33.1.65
-* 1933a, “Logical Positivism and Analysis”, *Proceedings of the British Academy*, pp. 53–87.
-* 1933b, *A Modern Introduction to Logic*, London: Methuen, 2nd edition.
-* 1934a, *Logic in Practice*, London: Methuen.
-* 1934b, “Analysis and Philosophy”, *The Philosopher*, XII: 149–155.
-* 1934c, “Constructions”, *Proceedings of the Aristotelian Society*, 34: 1–30. doi:10.1093/aristotelian/34.1.1
-* 1936, “Thinking”, in C. Day Lewis and L. Susan Stebbing, *Imagination and Thinking*, London: British Institute of Adult Education, pp. 14–29.
-* 1937, *Philosophy and the Physicists*, London: Methuen.
-* 1939, *Thinking to Some Purpose*, Harmondsworth: Penguin; reprinted 1959.
-* 1941, *Ideals and Illusions*, London: Watts and Co.
-* 1942, “Moore’s Influence”, in Paul Schilpp (ed.), *The Philosophy of G. E. Moore*, La Salle, Ill: Open Court, pp. 517–532.
-* 1943, *A Modern Elementary Logic*, London: Methuen; reprinted 1961, London: Barnes and Noble.
-* 1944, *Men and Moral Principles*, Oxford: Oxford University Press.
+* 1914, _Pragmatism and French Voluntarism_, Cambridge: Cambridge University Press.
+* 1930, _A Modern Introduction to Logic_, London: Methuen.
+* 1932, “The Method of Analysis in Metaphysics”, _Proceedings of the Aristotelian Society_, 33: 65–94. doi:10.1093/aristotelian/33.1.65
+* 1933a, “Logical Positivism and Analysis”, _Proceedings of the British Academy_, pp. 53–87.
+* 1933b, _A Modern Introduction to Logic_, London: Methuen, 2nd edition.
+* 1934a, _Logic in Practice_, London: Methuen.
+* 1934b, “Analysis and Philosophy”, _The Philosopher_, XII: 149–155.
+* 1934c, “Constructions”, _Proceedings of the Aristotelian Society_, 34: 1–30. doi:10.1093/aristotelian/34.1.1
+* 1936, “Thinking”, in C. Day Lewis and L. Susan Stebbing, _Imagination and Thinking_, London: British Institute of Adult Education, pp. 14–29.
+* 1937, _Philosophy and the Physicists_, London: Methuen.
+* 1939, _Thinking to Some Purpose_, Harmondsworth: Penguin; reprinted 1959.
+* 1941, _Ideals and Illusions_, London: Watts and Co.
+* 1942, “Moore’s Influence”, in Paul Schilpp (ed.), _The Philosophy of G. E. Moore_, La Salle, Ill: Open Court, pp. 517–532.
+* 1943, _A Modern Elementary Logic_, London: Methuen; reprinted 1961, London: Barnes and Noble.
+* 1944, _Men and Moral Principles_, Oxford: Oxford University Press.
 
 ### Secondary Sources
 
-* Aristotelian Society, 1948, *Philosophical Studies: Essays in Memory of L. Susan Stebbing*, London: Allen & Unwin.
-* Baldwin, Thomas, 2013, “G. E. Moore and the Cambridge School of Analysis”, in Michael Beaney (ed.), *The Oxford Handbook of the History of Analytic Philosophy*y, Oxford: Oxford University Press, pp. 430–50. doi:10.1093/oxfordhb/9780199238842.013.0010
-* Beaney, Michael, 2003, “Susan Stebbing on Cambridge and Vienna Analysis”, in Stadler 2003: 339–50. doi:10.1007/0-306-48214-2_27
-* –––, 2006, “Stebbing, Lizzie Susan (1885–1943)”, in A.C. Grayling, Andrew Pyle and Naomi Goulder (eds.), *The Continuum Encyclopedia of British Philosophy*, 4 vols. London: Thoemmes Continuum, IV, pp. 3023–8.
-* –––, 2016, “Susan Stebbing and the Early Reception of Logical Empiricism in Britain”, in Christian Damböck (ed.), *Influences on the Aufbau* (Vienna Circle Institute Yearbook 18), Switzerland: Springer, pp. 233–56. doi:10.1007/978-3-319-21876-2_12
-* Black, Max, 1933, “Philosophical Analysis”, *Proceedings of the Aristotelian Society*, 33: 237–58. doi:10.1093/aristotelian/33.1.237
-* Chapman, Siobhan, 2013, *Susan Stebbing and the Language of Common Sense*, Basingstoke: Palgrave Macmillan.
-* –––, 2020, “Susan Stebbing (1885–1943)” in Bary Lee (ed.), *Philosophy of Language: The Key Thinkers*, London: Bloomsbury, pp. 115–140
-* Eddington, Arthur, 1935, *The Nature of the Physical World*, London: J. M. Dent and Sons.
-* Janssen-Lauret, Frederique, 2017, “Susan Stebbing, Incomplete Symbols, and Foundherentist Meta-ontology”, *Journal for the History of Analytical Philosophy*, 5(2), URL = <https://jhaponline.org/jhap/article/view/2928>.
-* Körber, Silke, 2019, “Thinking About the ‘Common Reader’: Otto Neurath, L. Susan Stebbing and the (Modern) Picture-Text Style”, in Jordi Cat and Adam Tamas Toboly (eds.), *Neurath Reconsidered: New Source and Perspectives*, Cham: Switzerland, pp. 451–470.
-* Milkov, Nikolay, 2003, “Susan Stebbing’s Criticism of Wittgenstein’s *Tractatus*”, in Stadler 2003: 351–363. doi:10.1007/0-306-48214-2_28
-* Moore, G. E., 1925, “A Defence of Common Sense”, in J. H. Muirhead (ed.), *Contemporary British Philosophy: Personal Statements* (Second Series), London: George Allen & Unwin, pp. 193–223.
-* Stadler, Friedrich (ed.), 2003, *The Vienna Circle and Logical Empiricism* (Vienna Circle Institute Yearbook 10), Netherlands: Springer.
-* Toolan, Michael, 2002, “General Introduction”, in Michael Toolan (ed.), *Critical Discourse Analysis*, London: Routledge, pp. xxi–xxvi.
-* Tuboly, Adam Tamas, 2020, “Knowledge Missemination: L. Susan Stebbing, C. E. M. Joad, and Philipp Frank on the Philosophy of Physicists”, *Perspectives on Science*, 28(1): 1–34.
-* Urmson, J. O., 1953, “Some Questions Concerning Validity”, *Revue Internationale de Philosophie*, 7: 217–29; reprinted in Antony Flew (ed.) 1956, *Essays in Conceptual Analysis*, London: Macmillan, pp. 120–133.
-* Warnock, Mary (ed.), 1996, *Women Philosophers*, London: Everyman.
-* –––, 2004, “Stebbing, (Lizzie) Susan (1885–1943)”, *Oxford Dictionary of National Biography*, Oxford: Oxford University Press. doi:10.1093/ref:odnb/36259
+* Aristotelian Society, 1948, _Philosophical Studies: Essays in Memory of L. Susan Stebbing_, London: Allen & Unwin.
+* Baldwin, Thomas, 2013, “G. E. Moore and the Cambridge School of Analysis”, in Michael Beaney (ed.), _The Oxford Handbook of the History of Analytic Philosophy_y, Oxford: Oxford University Press, pp. 430–50. doi:10.1093/oxfordhb/9780199238842.013.0010
+* Beaney, Michael, 2003, “Susan Stebbing on Cambridge and Vienna Analysis”, in Stadler 2003: 339–50. doi:10.1007/0-306-48214-2\_27
+* –––, 2006, “Stebbing, Lizzie Susan (1885–1943)”, in A.C. Grayling, Andrew Pyle and Naomi Goulder (eds.), _The Continuum Encyclopedia of British Philosophy_, 4 vols. London: Thoemmes Continuum, IV, pp. 3023–8.
+* –––, 2016, “Susan Stebbing and the Early Reception of Logical Empiricism in Britain”, in Christian Damböck (ed.), _Influences on the Aufbau_ (Vienna Circle Institute Yearbook 18), Switzerland: Springer, pp. 233–56. doi:10.1007/978-3-319-21876-2\_12
+* Black, Max, 1933, “Philosophical Analysis”, _Proceedings of the Aristotelian Society_, 33: 237–58. doi:10.1093/aristotelian/33.1.237
+* Chapman, Siobhan, 2013, _Susan Stebbing and the Language of Common Sense_, Basingstoke: Palgrave Macmillan.
+* –––, 2020, “Susan Stebbing (1885–1943)” in Bary Lee (ed.), _Philosophy of Language: The Key Thinkers_, London: Bloomsbury, pp. 115–140
+* Eddington, Arthur, 1935, _The Nature of the Physical World_, London: J. M. Dent and Sons.
+* Janssen-Lauret, Frederique, 2017, “Susan Stebbing, Incomplete Symbols, and Foundherentist Meta-ontology”, _Journal for the History of Analytical Philosophy_, 5(2), URL = [https://jhaponline.org/jhap/article/view/2928](https://jhaponline.org/jhap/article/view/2928).
+* Körber, Silke, 2019, “Thinking About the ‘Common Reader’: Otto Neurath, L. Susan Stebbing and the (Modern) Picture-Text Style”, in Jordi Cat and Adam Tamas Toboly (eds.), _Neurath Reconsidered: New Source and Perspectives_, Cham: Switzerland, pp. 451–470.
+* Milkov, Nikolay, 2003, “Susan Stebbing’s Criticism of Wittgenstein’s _Tractatus_”, in Stadler 2003: 351–363. doi:10.1007/0-306-48214-2\_28
+* Moore, G. E., 1925, “A Defence of Common Sense”, in J. H. Muirhead (ed.), _Contemporary British Philosophy: Personal Statements_ (Second Series), London: George Allen & Unwin, pp. 193–223.
+* Stadler, Friedrich (ed.), 2003, _The Vienna Circle and Logical Empiricism_ (Vienna Circle Institute Yearbook 10), Netherlands: Springer.
+* Toolan, Michael, 2002, “General Introduction”, in Michael Toolan (ed.), _Critical Discourse Analysis_, London: Routledge, pp. xxi–xxvi.
+* Tuboly, Adam Tamas, 2020, “Knowledge Missemination: L. Susan Stebbing, C. E. M. Joad, and Philipp Frank on the Philosophy of Physicists”, _Perspectives on Science_, 28(1): 1–34.
+* Urmson, J. O., 1953, “Some Questions Concerning Validity”, _Revue Internationale de Philosophie_, 7: 217–29; reprinted in Antony Flew (ed.) 1956, _Essays in Conceptual Analysis_, London: Macmillan, pp. 120–133.
+* Warnock, Mary (ed.), 1996, _Women Philosophers_, London: Everyman.
+* –––, 2004, “Stebbing, (Lizzie) Susan (1885–1943)”, _Oxford Dictionary of National Biography_, Oxford: Oxford University Press. doi:10.1093/ref:odnb/36259
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=stebbing). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/stebbing/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=stebbing&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/stebbing/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=stebbing).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/stebbing/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=stebbing\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/stebbing/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the authors with suggestions.]
+\[Please contact the authors with suggestions.]
 
 ## Related Entries
 
-[analysis](https://plato.stanford.edu/entries/analysis/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [empiricism: logical](https://plato.stanford.edu/entries/logical-empiricism/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | logical positivism | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [Schlick, Moritz](https://plato.stanford.edu/entries/schlick/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
+[analysis](https://plato.stanford.edu/entries/analysis/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [empiricism: logical](https://plato.stanford.edu/entries/logical-empiricism/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | logical positivism | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [Schlick, Moritz](https://plato.stanford.edu/entries/schlick/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Michael Beaney](https://www.philosophie.hu-berlin.de/de/lehrbereiche/geschichte-analytische-phil) <[*michael.beaney@hu-berlin.de*](mailto:michael%2ebeaney%40hu-berlin%2ede)>  
-[Siobhan Chapman](https://siobhanchapman.co.uk/) <[*src@liverpool.ac.uk*](mailto:src%40liverpool%2eac%2euk)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Michael Beaney](https://www.philosophie.hu-berlin.de/de/lehrbereiche/geschichte-analytische-phil) <[_michael.beaney@hu-berlin.de_](mailto:michael%2ebeaney%40hu-berlin%2ede)>\
+[Siobhan Chapman](https://siobhanchapman.co.uk/) <[_src@liverpool.ac.uk_](mailto:src%40liverpool%2eac%2euk)>

@@ -1,15 +1,14 @@
 # 基督教思想中的罪 sin, in Christian thought (Kevin Timpe)
 
-
-*首次发布于 2021 年 4 月 15 日星期四*
+_首次发布于 2021 年 4 月 15 日星期四_
 
 虽然有些人试图用自然主义的方式解释罪（参见 Ruse 2002），但本文将罪视为一个宗教概念。罪在世界上许多主要宗教中起着核心作用（参见 Graham 2007），这可以说是它的核心涵义（参见 M. Adams 1991）。因此，对于宗教哲学中的罪这一主题的全面论述需要涵盖广泛的宗教传统，如犹太教和伊斯兰教（Watt 2009 和 McGinnis 2018）。由于基督教起源于犹太教，对基督教对罪的理解的历史讨论还需要仔细关注犹太教中对罪的理解（见 Anderson 2009，Katz 2006，Graves 2016 和 Bashevkin 2019）。本文专注于当代基督教分析神学传统中对罪的处理。
 
 即使仅限于当代基督教传统，“罪”是一个广泛的范畴，可以以多种方式进行细分。例如，可以根据对不同个体或群体的冒犯来分类罪，例如区分对上帝的罪、对他人的罪和对自己的罪（参见 Sweeney 2018: 351；关于这些方面的其他罪的细分，请参见 Couenhoven 2013 和 McCall 2019: 第 5 章）。还可以区分通过罪行所犯的道德错误（有时称为“过去罪的问题”）和一个人可能会犯的道德错误或罪（有时称为“未来罪的问题”；参见 Stump 1988: 64）。未来的罪可以进一步分为一个人可能会犯的道德错误，这是由于个人的倾向或性格所致，以及一个人可能会犯的道德错误，这是由于拥有堕落或有罪的人性所致。本文将探讨罪作为一种行为（第 2 节），罪作为一种倾向或恶习（第 3 节）以及罪作为一种状态或“处于罪中的状态”（第 4 节；参见 Plantinga 2000: 207）。
 
-值得注意的是，承诺其中一种罪的类别并不意味着承诺其他两种罪的存在；例如，承认有罪行并不意味着承认有罪性格或恶习。在基督教传统中，有些人认为邪恶并不意味着有罪（例如，奥卡姆的威廉；参见 Sweeney 2018）。此外，一个人可以肯定存在有罪行为和有罪性格，而不必承认罪作为一种存在状态，也就是说，不必承认原罪的教义。例如，康德肯定前两种类别，但否定后一种（康德《仅凭理性的限度内的宗教》[1793]；参见 Quinn 1990）。除了将罪看作行为、性格和状态之外，本文还讨论了罪的认识效应（第 5 节）和结构性罪的概念（第 6 节），即罪可以嵌入各种社会体系的结构中。
+值得注意的是，承诺其中一种罪的类别并不意味着承诺其他两种罪的存在；例如，承认有罪行并不意味着承认有罪性格或恶习。在基督教传统中，有些人认为邪恶并不意味着有罪（例如，奥卡姆的威廉；参见 Sweeney 2018）。此外，一个人可以肯定存在有罪行为和有罪性格，而不必承认罪作为一种存在状态，也就是说，不必承认原罪的教义。例如，康德肯定前两种类别，但否定后一种（康德《仅凭理性的限度内的宗教》\[1793]；参见 Quinn 1990）。除了将罪看作行为、性格和状态之外，本文还讨论了罪的认识效应（第 5 节）和结构性罪的概念（第 6 节），即罪可以嵌入各种社会体系的结构中。
 
----
+***
 
 ## 1. 在宗教传统中接近罪
 
@@ -67,7 +66,7 @@ Groenhout 在这里借鉴了至少可以追溯到奥古斯丁的传统观点，�
 
 对于这个邪恶问题版本，最著名的回应之一是阿尔文·普兰廷加所称的“自由意志辩护”。根据这个回应，上帝创造了拥有自由意志的人类（并且不干涉这种意志的自由），这使得道德邪恶/罪恶行为的存在至少是可能的，甚至可能是有可能的：
 
-> 对于上帝所创造的任何自由生物来说，堕入罪恶是显然可能的；上帝不能创造不能堕入罪恶的显著自由的生物[即，一个在道德上重要的行动上对他们来说是道德错误的，而对他们来说是道德正确的，或者反之亦然]。也许，对于那些以上帝形象创造的拥有自主权的自由生物（拥有自主权的生物）来说，堕落的可能性很高。上帝着手创造与他自己形象相似的存在：他们在意志和智力上与他相似，并且他们认识到上帝的地位的光辉美丽、荣耀和可取之处。上帝本身是宇宙的中心；他的创造物看到了那种状态的辉煌和令人向往之处。也许，只要一个人是自由的，并且看到了这个位置的荣耀和巨大的可取之处，就会有强烈的倾向希望自己成为其中心。也许，按照上帝形象创造的生物也有很大的可能性在这方面与他相似：他们希望看到并确实看到自己成为宇宙的中心。也许，堕入这种状态的相当大的可能性已经内在地融入了那些了解上帝荣耀地位并确实看到它是光荣和可取的自由生物的本质中。（普兰廷加 2000：212f；另见普兰廷加 1974 年、普兰廷加 1977 年和 M.亚当斯 1999 年）
+> 对于上帝所创造的任何自由生物来说，堕入罪恶是显然可能的；上帝不能创造不能堕入罪恶的显著自由的生物\[即，一个在道德上重要的行动上对他们来说是道德错误的，而对他们来说是道德正确的，或者反之亦然]。也许，对于那些以上帝形象创造的拥有自主权的自由生物（拥有自主权的生物）来说，堕落的可能性很高。上帝着手创造与他自己形象相似的存在：他们在意志和智力上与他相似，并且他们认识到上帝的地位的光辉美丽、荣耀和可取之处。上帝本身是宇宙的中心；他的创造物看到了那种状态的辉煌和令人向往之处。也许，只要一个人是自由的，并且看到了这个位置的荣耀和巨大的可取之处，就会有强烈的倾向希望自己成为其中心。也许，按照上帝形象创造的生物也有很大的可能性在这方面与他相似：他们希望看到并确实看到自己成为宇宙的中心。也许，堕入这种状态的相当大的可能性已经内在地融入了那些了解上帝荣耀地位并确实看到它是光荣和可取的自由生物的本质中。（普兰廷加 2000：212f；另见普兰廷加 1974 年、普兰廷加 1977 年和 M.亚当斯 1999 年）
 
 正如这个论点清楚地表明的那样，一个人对罪恶行为本质的看法将与一个人对人类自由本质的看法密切相关（参见麦克法迪恩 2016 年，蒂姆普 2014a 年和库恩霍文 2013 年）。在这里，普兰廷加假设了一个自由意志的、因此是不相容的理解。虽然所有基督教观点都必须解释上帝在罪恶中不是共谋的问题，考虑到保全和共同发生的教义（Kvanvig 2009 年；Vander Laan 2017 年；和 McCall 2019 年：第 7 章），但对于相容主义观点来说，上帝与罪恶人类行为的关系尤为紧迫，相容主义观点认为上帝本可以使人类行为者永远不自由地犯罪，以及神学决定论观点，认为上帝导致一切事件（参见 McCall 2019 年：第 3 章；Bignon 2018 年：第 2 部分；White 2016 年；Bruce 2016 年；McCall 2016 年；Rogers 2008 年；McCann 2005 年；和 Crisp 2005 年，特别是第 3 章）。
 
@@ -81,13 +80,13 @@ Groenhout 在这里借鉴了至少可以追溯到奥古斯丁的传统观点，�
 
 原罪的概念本身意味着有一个时期，创造是没有罪的。虽然有限的过去似乎需要一个时间上的第一个罪行，但关于原罪的讨论往往假设在堕落之前有一个完美创造的时期，这是更有争议的。正如克雷格·A·博伊德所认为，鉴于它与当代科学相冲突，
 
-> 创造最初在各个方面都是完美的这一说法——即在第一次人类[或天使]犯罪之前，存在着没有死亡、疾病、毒草或杂草的田园乐园——尤其具有问题性。（Boyd 2009: 111）
+> 创造最初在各个方面都是完美的这一说法——即在第一次人类\[或天使]犯罪之前，存在着没有死亡、疾病、毒草或杂草的田园乐园——尤其具有问题性。（Boyd 2009: 111）
 
 但是，一个人不需要字面上接受堕落的故事，也可以认为存在原罪。（关于堕落的历史性与罪的关系的讨论，请参见 McLeod-Harrison 2019；Smith 2017；和 McCall 2019，附录。）即使一个人拒绝了历史性堕落的概念，基督教仍然传统地认为上帝所创造的一切都是善良的。但是，如果人类和天使都是善良的创造物，那么为什么至少有一部分人会做恶呢？（这就是约翰·希克所说的“从虚无中产生邪恶的问题”；请参见希克 1968 年：595。）当然，对这个问题的答案是，一个行为体之所以做恶，是因为它愿意做恶。但是这个答案立即引出另一个问题：自由行为体的邪恶意愿从何而来？鉴于许多基督教传统认为自由行为体被创造时既能犯罪又能克制犯罪，这个问题尤为紧迫，这种状态有时被称为完全状态。虽然在完全状态下，一个创造物拥有自由意志可能会解释邪恶的可能性，但它并不足以解释为什么一个道德上没有玷污的创造物会实现这种可能性。因此，原罪可以被看作是彼得·基维所称的“世俗邪恶问题”的一个具体例子：“那些作恶行为的案例，行为者似乎追求没有真实或明显好处的东西”（基维 1980 年）。可以说，犯罪的最初选择涉及到一个被认为是好的东西，也许是以傲慢、自爱或嫉妒的行为断言自己与上帝的独立。令人困惑的是，为什么一个没有罪恶的存在会错误地但有罪地将这样的行为构想为好呢？一个没有罪恶的存在如何首先被吸引到一种有罪的行为中呢？
 
 一般来说，对于原罪的解释有两种不同的方法。由于对原罪的哲学研究主要是与中世纪人物进行对话，借鉴了复杂的道德心理学，其中智力和意志的能力起着重要作用，我也用这些术语讨论这两种方法。简而言之，没有智力和意志的参与就不会有罪（参见麦克卢斯基 2017 年：21 和 100）；两种方法的区别在于它们是否主要将罪行定位在意志或智力中。一方面，意志主义者认为人类主要是通过意志的能力自由行动，因此将原罪主要解释为对该能力的滥用。（罗伯特·布朗指出，在基督教神学的历史中，意志主义是占主导地位的观点；参见布朗 1978 年）。另一方面，知识主义者认为人类主要是通过智力的作用自由行动，因此原罪必须主要用智力术语来解释。
 
-在接下来的内容中，我将重点关注当代文献中两种最完善的原罪解释：凯瑟琳·罗杰斯对安瑟姆的意志主义观点的解释和斯科特·麦克唐纳对奥古斯丁的知识主义观点的解释。撇开罗杰斯和麦克唐纳对他们历史对象的解释是否准确的问题，这两种解释都提出了自由意志的解释，因为它们假设神学决定论的真理将使魔鬼在堕落中失去自由，因此不负责任。（值得注意的是，虽然安瑟姆被广泛认为是一个自由意志主义者[参见维瑟和威廉姆斯 2008 年和罗杰斯 2008 年]，但对于如何最好地解释奥古斯丁的自由意志观点存在争议[参见斯坦普 2001 年和库恩霍文 2017 年]。）
+在接下来的内容中，我将重点关注当代文献中两种最完善的原罪解释：凯瑟琳·罗杰斯对安瑟姆的意志主义观点的解释和斯科特·麦克唐纳对奥古斯丁的知识主义观点的解释。撇开罗杰斯和麦克唐纳对他们历史对象的解释是否准确的问题，这两种解释都提出了自由意志的解释，因为它们假设神学决定论的真理将使魔鬼在堕落中失去自由，因此不负责任。（值得注意的是，虽然安瑟姆被广泛认为是一个自由意志主义者\[参见维瑟和威廉姆斯 2008 年和罗杰斯 2008 年]，但对于如何最好地解释奥古斯丁的自由意志观点存在争议\[参见斯坦普 2001 年和库恩霍文 2017 年]。）
 
 根据罗杰斯的观点，安瑟姆认为自由意志包含两种倾向（或情感）：对利益的渴望和对正义的渴望。对利益的渴望是对认为拥有某些东西会带来幸福的事物的渴望。相反，对正义的渴望是对“为了自身而保持正确意愿”的渴望。因此，这是一个二阶渴望，即希望自己的一阶渴望能够得到适当的排序，符合应有的样子。（罗杰斯，2008 年：67）
 
@@ -117,21 +116,21 @@ Aquinas 的知识主义建立在但与奥古斯丁的不同（参见 Stump 2001�
 
 > 他后来在 2000 年的《保证与基督教信仰》中对基督教信仰的反驳做出了延伸回应，但其中也包含了他后来的“O Felix Culpa”神学辩护的要素。正如凯文·迪勒所评论的那样，
 
-His later 2000 *Warrant and Christian Belief* is an extended response to defeaters to Christian belief, but it also contains the elements of his later *O Felix Culpa* theodicy. As Kevin Diller comments,
+His later 2000 _Warrant and Christian Belief_ is an extended response to defeaters to Christian belief, but it also contains the elements of his later _O Felix Culpa_ theodicy. As Kevin Diller comments,
 
 > 这个论点是来自普兰廷加的一个新物种，属于对恶的问题的回应。这是一个神辩，不仅仅是一个辩护，也不仅仅是一个打败者的打败者，而是一个解释为什么上帝允许恶的原因，这并不能消除所有的困惑，但在一个总体层面上，让我们理解为什么恶存在。（Diller 2008: 90）
 
- 他继续说：
+他继续说：
 
-> 与自由意志神辩不同，在[O] Felix Culpa 神辩中，上帝渴望恶[也许不是为了恶本身，而是]作为实现他善意的手段。这种做法在道德和神学上具有危险的扭曲影响。我们不能再将恶和不公正完全视为与善相对立的东西。恶最终是上帝的意愿...在自由意志神辩中，允许恶是实现上帝意图的更大善的关键，在[O] Felix Culpa 神辩中，恶本身是实现更大善的关键。恶被合理地作为一种功能性善来看待。（Diller 2008: 96）
+> 与自由意志神辩不同，在\[O] Felix Culpa 神辩中，上帝渴望恶\[也许不是为了恶本身，而是]作为实现他善意的手段。这种做法在道德和神学上具有危险的扭曲影响。我们不能再将恶和不公正完全视为与善相对立的东西。恶最终是上帝的意愿...在自由意志神辩中，允许恶是实现上帝意图的更大善的关键，在\[O] Felix Culpa 神辩中，恶本身是实现更大善的关键。恶被合理地作为一种功能性善来看待。（Diller 2008: 96）
 
- 在这个观点上，
+在这个观点上，
 
 > 我们的世界还有一个偶然的使之成为美好的特征——这个特征并不在所有的世界中都存在——它高出我们世界中所有其他偶然事态的巨大好处：神圣化身和救赎的难以想象的伟大好处。（普兰廷加 2004: 7）
 
 鉴于他的其他承诺，包括玛丽莲·麦科德·亚当斯所称的上帝善良的“淹没效应”（M.亚当斯 2008: 126），普兰廷加认为每个可能的世界都是一个非常好的世界。上帝的存在不仅是必然的，而且是无限好的，上帝的存在超越了任何邪恶，因此每个可能的世界都是无限好的。但并非所有的无限都是相等的。在一些世界中，有一些额外的好处超过了罪恶的邪恶，即化身和救赎的好处。根据普兰廷加的观点，化身和救赎只在罪恶之后发生，而罪恶是偶然的，因此化身和救赎的（无限）好处也是偶然的。上帝愿意化身和救赎在逻辑上优先于上帝决定容许罪恶，因此罪恶成为实现这种辩护性善的手段。这种立场被称为“超堕落论”。普兰廷加对超堕落论的理解方式，
 
-> 拯救[至少]一些堕落者[通过道成肉身和救赎]的神圣旨意先于允许罪的旨意。(Plantinga 2004: 1)
+> 拯救\[至少]一些堕落者\[通过道成肉身和救赎]的神圣旨意先于允许罪的旨意。(Plantinga 2004: 1)
 
 (Diller 反对 Plantinga 以这种方式描述超堕落论/次堕落论辩论; 参见 Diller 2008: 94)。
 
@@ -139,7 +138,7 @@ Plantinga 提出了三种不同版本的论证，每种版本都基于对价值�
 
 > 任何具有化身和救赎的世界都比没有这些要好，或者至少比上帝在其中不做任何类似化身和救赎的事情的任何世界要好。（普兰廷加 2004: 1）
 
- 更详细地说：
+更详细地说：
 
 > 无论世界 W 包含多少罪恶和苦难和邪恶，它都被上帝的善良所远远超过，所以 W 是一个好的世界，实际上是一个非常好的世界。因此，每个可能的世界都是一个非常好的世界。但这并不意味着没有一个比其他更有价值。事实是：有些可能的世界比其他世界好得多。因为只有在一些可能的世界中才能找到一个特征，而不是所有可能的世界。这就是神圣化身和救赎的巍峨和壮丽的善……无论一个世界包含多少邪恶、罪恶和苦难，这些累积的恶将被化身和救赎的善所超越，以至于所讨论的世界是非常好的。因此，在这个意义上，任何具有化身和救赎的世界都具有无限的价值，因为它包含了两个无限价值的善：上帝的存在，以及化身和救赎。（普兰廷加 2004: 9f）
 
@@ -297,7 +296,7 @@ Rea 认为，原罪的教义的任何部分，包括原罪的罪责，都不与�
 
 最著名的现实主义观点可能是乔纳森·爱德华兹的观点，他认为所有人之所以是一个整体，是因为上帝宣告我们是如此：
 
-> 没有任何身份或统一性[不依赖于]造物主的任意构成...神的构成[上帝将所有人看作一个实体]是使真理成立的事物。（爱德华兹 1758: 第 4 部分，第 III 章 [1970: 404]）
+> 没有任何身份或统一性\[不依赖于]造物主的任意构成...神的构成\[上帝将所有人看作一个实体]是使真理成立的事物。（爱德华兹 1758: 第 4 部分，第 III 章 \[1970: 404]）
 
 受乔纳森·爱德华兹的影响，许多哲学家提出，持续论理论可能为现实主义提供基础。（参见 Wainwright 1988、Wyma 2004、Crisp 2005 和 2009、Rea 2007 和 Hudson 2014 的讨论。）
 
@@ -343,7 +342,7 @@ Rea 认为，原罪的教义的任何部分，包括原罪的罪责，都不与�
 
 罪带来的堕落被认为影响了人性的各个方面。除了罪作为行为、倾向和堕落状态之外，基督教哲学家还对罪的认识效应进行了重要研究，包括但不限于其认识论效应。特别是改革宗传统强调罪不仅对意志产生影响，还对人类智力产生影响。例如，阿尔文·普兰廷加（Alvin Plantinga）指出，“原罪涉及智力和意志；它既是认知的，也是情感的”（Plantinga 2000: 207）。在普兰廷加的观点中，罪的情感维度，尤其是对骄傲罪的偏向，可能是“罪的状况的最深层根源”，但对罪的全面解释还必须包括其对我们认识能力的影响：
 
-> 一方面，[罪]带有一种盲目、一种不可察觉、迟钝、愚蠢的特性。这是一种认知限制，首先阻止了其受害者对上帝及其美丽、荣耀和爱的正确认识；它还阻止了他看到什么值得爱和什么值得憎恶，什么应该追求和什么应该避免。因此，它包括事实知识和价值知识两方面。（Plantinga 2000: 207）
+> 一方面，\[罪]带有一种盲目、一种不可察觉、迟钝、愚蠢的特性。这是一种认知限制，首先阻止了其受害者对上帝及其美丽、荣耀和爱的正确认识；它还阻止了他看到什么值得爱和什么值得憎恶，什么应该追求和什么应该避免。因此，它包括事实知识和价值知识两方面。（Plantinga 2000: 207）
 
 Plantinga 发展了一种有影响力的保证观，他称之为扩展的阿奎那/加尔文（A/C）模型。虽然是关于保证的一般解释，但它是专门为了展示宗教信仰如何能够被证明（在内部和外部）；合理的；而且，如果这些信仰是真实的，它们可以具有保证。
 
@@ -375,9 +374,9 @@ Merold Westphal 是另一位探索罪的认识效应的当代基督教哲学家�
 
 > 如果神性感知受到严重损害而无法修复，我们很难看到我们对上帝或自己的任何真正重要的了解。Merold Westphal 在他非常有洞察力的文章中冒着这个风险。我们需要记住，在认识上和灵性上，罪恶越多，恩典就越多。（亚伯拉罕 2006 年：111 n. 17）
 
- 亚伯拉罕提出了一个更强大的[人类]认知能力和实践的愿景，如直觉、感知、理性、记忆、证言等等
+亚伯拉罕提出了一个更强大的\[人类]认知能力和实践的愿景，如直觉、感知、理性、记忆、证言等等
 
-> more robust vision of [human] cognitive capacities and practices, like intuition, percept, reason, memory, testimony, and the like
+> more robust vision of \[human] cognitive capacities and practices, like intuition, percept, reason, memory, testimony, and the like
 
 基于这样的认识，即使受到罪的影响，这些能力和实践也是“由上帝的力量和善良所支持的”（亚伯拉罕 2006 年：121）。
 
@@ -415,10 +414,9 @@ Merold Westphal 是另一位探索罪的认识效应的当代基督教哲学家�
 
 Katie Walker Grimes 认为，将对抗种族主义的回应主要框定为“白人特权”而不是白人至上主义或反黑主义是不够的，因为这种方法过于个人主义化，没有充分认识到罪的社会性质（参见 Grimes 2016: xxi）。Grimes 基于“集体美德理论”构建了一个反黑主义的解释，该理论关注社会团体的习惯和品格，而不是个人。导致反黑主义的力量本质上是社会性的（例如经济、隔离空间），因此反黑种族主义也应被视为本质上是社会性的。一些神学家还探讨以受制度压迫和不公正待遇的个人为焦点的救赎论，试图阐明在这些情境中和解的样子（参见 Hunsinger 2016 和 Hieb 2013）。
 
-一些女权主义学者还提出，性别歧视可以从结构性罪恶的角度来理解。例如，伊丽莎白·舒塞勒·菲奥伦扎将性别歧视描述为机构的非人性化趋势、不公正和歧视，以及合法化这些机构的神学和符号系统，以及性别歧视机构和意识形态在社会化和教育中内化的集体和个人的“虚假意识”。这种“虚假意识”使被压迫的人和群体接受他们的压迫，并内化压迫者的价值观。这种将父权制性别歧视理解为结构性罪恶和邪恶力量，并在社会和教会压迫结构中制度化的理解，类似于[圣]保罗将罪看作是超个人的、破坏性的力量，其最终表现是毁灭生命的力量。（舒塞勒·菲奥伦扎 1993 年：140）
+一些女权主义学者还提出，性别歧视可以从结构性罪恶的角度来理解。例如，伊丽莎白·舒塞勒·菲奥伦扎将性别歧视描述为机构的非人性化趋势、不公正和歧视，以及合法化这些机构的神学和符号系统，以及性别歧视机构和意识形态在社会化和教育中内化的集体和个人的“虚假意识”。这种“虚假意识”使被压迫的人和群体接受他们的压迫，并内化压迫者的价值观。这种将父权制性别歧视理解为结构性罪恶和邪恶力量，并在社会和教会压迫结构中制度化的理解，类似于\[圣]保罗将罪看作是超个人的、破坏性的力量，其最终表现是毁灭生命的力量。（舒塞勒·菲奥伦扎 1993 年：140）
 
 > 这些学者中的许多人认为，将罪看作是个人行为或倾向的传统方法对女性来说是有问题的，对她们有害（例如，Saiving 1992 年、Plaskow 1980 年和 Dunfee 1982 年的工作是历史上有影响力的例子）。瑞秋·索菲亚·巴德的工作就是这一批评的一个例子。巴德认为，罪恶言论对于共同实践有所贡献，塑造了我们的实践如何在何处复制自身。正如她所说，我们对罪的语言和理解创造了一个人们执行的脚本；例如，如果将罪仅仅理解为个人行为，那么它将鼓励我们不将父权制中涉及的社会结构视为罪恶，从而更有可能使这些结构继续存在，而不是将其视为问题加以解决。她继续说，传统的以骄傲为根源的罪恶理解，是许多基督教机构、文化信仰和实践的核心所在，
-
 
 > 创造一种社会氛围，在这种氛围中，性别暴力不仅是可以想象的，而且被容忍或接受为“正常”，实际上，它只是人类条件的一部分。（Baard 2019: 49; 另见 Jones 2000）
 
@@ -436,187 +434,187 @@ Katie Walker Grimes 认为，将对抗种族主义的回应主要框定为“白
 
 ## Bibliography
 
-* Abraham, William J., 2006, *Crossing the Threshold of Divine Revelation*, Grand Rapids, MI: William B. Eerdmans Publishing Company.
-* Adams, Marilyn McCord, 1988, “Problems of Evil: More Advice to Christian Philosophers”, *Faith and Philosophy*, 5(2): 121–143. doi:10.5840/faithphil19885219
-* –––, 1991, “Sin as Uncleanness”, *Philosophical Perspectives*, 5: 1–27. doi:10.2307/2214089
-* –––, 1999, *Horrendous Evils and the Goodness of God*, Ithaca, NY: Cornell University Press.
-* –––, 2004, “*Cur Deus Homo?* Priorities Among the Reasons?” *Faith and Philosophy*, 21(2): 141–158. doi:10.5840/faithphil20042121
-* –––, 2006, *Christ and Horrors: The Coherence of Christology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511607585
-* –––, 2008, “Plantinga on ‘Felix Culpa’: Analysis and Critique”, *Faith and Philosophy*, 25(2): 123–140. doi:10.5840/faithphil200825212
-* Adams, Robert Merrihew, 1985, “Involuntary Sins”, *The Philosophical Review*, 94(1): 3–31. doi:10.2307/2184713
-* Alexander, David E. and Daniel M. Johnson (eds.), 2016, *Calvinism and the Problem of Evil*, Eugene, OR: Wipf; Stock Publishers.
-* Almeida, Michael, 2016, “Compatibilism and the Free Will Defense”, in *Free Will and Classical Theism: The Significance of Free Will in Perfect Being Theology*, Hugh McCann (ed.), Oxford: Oxford University Press, pp. 56–70.
+* Abraham, William J., 2006, _Crossing the Threshold of Divine Revelation_, Grand Rapids, MI: William B. Eerdmans Publishing Company.
+* Adams, Marilyn McCord, 1988, “Problems of Evil: More Advice to Christian Philosophers”, _Faith and Philosophy_, 5(2): 121–143. doi:10.5840/faithphil19885219
+* –––, 1991, “Sin as Uncleanness”, _Philosophical Perspectives_, 5: 1–27. doi:10.2307/2214089
+* –––, 1999, _Horrendous Evils and the Goodness of God_, Ithaca, NY: Cornell University Press.
+* –––, 2004, “_Cur Deus Homo?_ Priorities Among the Reasons?” _Faith and Philosophy_, 21(2): 141–158. doi:10.5840/faithphil20042121
+* –––, 2006, _Christ and Horrors: The Coherence of Christology_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511607585
+* –––, 2008, “Plantinga on ‘Felix Culpa’: Analysis and Critique”, _Faith and Philosophy_, 25(2): 123–140. doi:10.5840/faithphil200825212
+* Adams, Robert Merrihew, 1985, “Involuntary Sins”, _The Philosophical Review_, 94(1): 3–31. doi:10.2307/2184713
+* Alexander, David E. and Daniel M. Johnson (eds.), 2016, _Calvinism and the Problem of Evil_, Eugene, OR: Wipf; Stock Publishers.
+* Almeida, Michael, 2016, “Compatibilism and the Free Will Defense”, in _Free Will and Classical Theism: The Significance of Free Will in Perfect Being Theology_, Hugh McCann (ed.), Oxford: Oxford University Press, pp. 56–70.
 * Alston, William P., 1988, “The Indwelling of the Holy Spirit”, in Morris 1988: 121–50.
-* Anderson, Gary A., 2009, *Sin: A History*, New Haven, CT: Yale University Press.
-* Anselm, [BW], *Basic Writings*, edited by Thomas Williams, Indianapolis, IN: Hackett, 1997.
-* Aquinas, *Summa theologiae*, translated by the Fathers of the English Dominican Province, second and revised edition, 1920.
-* Augustine, *On Free Choice of the Will* (*De libero arbitrio*), translated and edited by Thomas Williams, Indianapolis, IN: Hackett, 1993.
-* –––, *The City of God Against the Pagans* (*De civitate Dei*), translated and edited by R.W. Dyson, Cambridge: Cambridge University Press, 1998. doi:10.1017/CBO9780511802300
-* Baard, Rachel Sophia, 2019, *Sexism and Sin-Talk: Feminist Conversations on the Human Condition*, Louisville, KY: Westminster John Knox Press.
-* Barrett, Justin L., 2009, “Cognitive Science, Religion, and Theology”, in *The Believing Primate: Scientific, Philosophical, and Theological Reflections on the Origin of Religion*, Jeffrey Schloss and Michael J. Murray (eds.), Oxford: Oxford University Press, pp. 76–99.
-* Bashevkin, David, 2019, *Sin*a*gogue*, Boston, MA: Cherry Orchard Books.
+* Anderson, Gary A., 2009, _Sin: A History_, New Haven, CT: Yale University Press.
+* Anselm, \[BW], _Basic Writings_, edited by Thomas Williams, Indianapolis, IN: Hackett, 1997.
+* Aquinas, _Summa theologiae_, translated by the Fathers of the English Dominican Province, second and revised edition, 1920.
+* Augustine, _On Free Choice of the Will_ (_De libero arbitrio_), translated and edited by Thomas Williams, Indianapolis, IN: Hackett, 1993.
+* –––, _The City of God Against the Pagans_ (_De civitate Dei_), translated and edited by R.W. Dyson, Cambridge: Cambridge University Press, 1998. doi:10.1017/CBO9780511802300
+* Baard, Rachel Sophia, 2019, _Sexism and Sin-Talk: Feminist Conversations on the Human Condition_, Louisville, KY: Westminster John Knox Press.
+* Barrett, Justin L., 2009, “Cognitive Science, Religion, and Theology”, in _The Believing Primate: Scientific, Philosophical, and Theological Reflections on the Origin of Religion_, Jeffrey Schloss and Michael J. Murray (eds.), Oxford: Oxford University Press, pp. 76–99.
+* Bashevkin, David, 2019, _Sin_a_gogue_, Boston, MA: Cherry Orchard Books.
 * Bauerschmidt, Frederick Christian, 2016, “Thomas Aquinas”, in Johnson and Lauber 2016a: 199–216.
-* Bignon, Guillaume, 2018, *Excusing Sinners and Blaming God: A Calvinist Assessment of Determinism, Moral Responsibility, and Divine Involvement in Evil*, Eugene, OR: Pickwick Publications.
+* Bignon, Guillaume, 2018, _Excusing Sinners and Blaming God: A Calvinist Assessment of Determinism, Moral Responsibility, and Divine Involvement in Evil_, Eugene, OR: Pickwick Publications.
 * Black, C. Clifton, 2016, “Synoptic Gospels”, in Johnson and Lauber 2016a: 61–77.
-* Blocher, Henri, 1997, *Original Sin: Illuminating the Riddle*, Downer’s Grove, IL: InterVarsity Press.
-* Boyd, Craig A., 2009, “The Goodness of Creation and the Openness of God”, in *Creation Made Free: Open Theology Engaging Science*, Thomas J. Oord (ed.) Eugene, OR: Pickwick Publications, 111–24.
-* Brown, Robert F., 1978, “The First Evil Will Must Be Incomprehensible: A Critique of Augustine”, *Journal of the American Academy of Religion*, 46(3): 315–329.
-* Brownstein, Michael, Alex Madva, and Bertram Gawronski, 2020, “Understanding Implicit Bias: Putting the Criticism into Perspective”, *Pacific Philosophical Quarterly*, 101(2): 276–307. doi:10.1111/papq.12302
+* Blocher, Henri, 1997, _Original Sin: Illuminating the Riddle_, Downer’s Grove, IL: InterVarsity Press.
+* Boyd, Craig A., 2009, “The Goodness of Creation and the Openness of God”, in _Creation Made Free: Open Theology Engaging Science_, Thomas J. Oord (ed.) Eugene, OR: Pickwick Publications, 111–24.
+* Brown, Robert F., 1978, “The First Evil Will Must Be Incomprehensible: A Critique of Augustine”, _Journal of the American Academy of Religion_, 46(3): 315–329.
+* Brownstein, Michael, Alex Madva, and Bertram Gawronski, 2020, “Understanding Implicit Bias: Putting the Criticism into Perspective”, _Pacific Philosophical Quarterly_, 101(2): 276–307. doi:10.1111/papq.12302
 * Bruce, James E., 2016, “Not the Author of Evil: A Question of Providence, Not a Problem for Calvinism”, in Alexander and Johnson 2016: 96–122.
 * Burge, Gary M., 2016, “The Gospel and Epistles of John”, in Johnson and Lauber 2016a: 79–96.
-* *Catechism of the Catholic Church*, 2003, New York: Doubleday, second edition.
-* Cavanaugh, William T. and James K. A. Smith (eds.), 2017, *Evolution and the Fall*, Grand Rapids, MI: Wm. B. Eerdmans.
-* Copan, Paul, 2003, “Original Sin and Christian Philosophy”:, *Philosophia Christi*, 5(2): 519–541. doi:10.5840/pc20035252
-* Couenhoven, Jesse, 2013, *Stricken by Sin, Cured by Christ: Agency, Necessity, and Culpability in Augustinian Theology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199948697.001.0001
+* _Catechism of the Catholic Church_, 2003, New York: Doubleday, second edition.
+* Cavanaugh, William T. and James K. A. Smith (eds.), 2017, _Evolution and the Fall_, Grand Rapids, MI: Wm. B. Eerdmans.
+* Copan, Paul, 2003, “Original Sin and Christian Philosophy”:, _Philosophia Christi_, 5(2): 519–541. doi:10.5840/pc20035252
+* Couenhoven, Jesse, 2013, _Stricken by Sin, Cured by Christ: Agency, Necessity, and Culpability in Augustinian Theology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199948697.001.0001
 * –––, 2016, “Augustine”, in Johnson and Lauber 2016a: 181–198.
-* –––, 2017, “Augustine of Hippo”, in *The Routledge Companion to Free Will*, Kevin Timpe, Meghan Griffith, and Neil Levy (eds.), New York: Routledge, pp. 247–257.
-* Crisp, Oliver D., 2005, *Jonathan Edwards and the Metaphysics of Sin*, New York: Routledge. doi:10.4324/9781315251387
-* –––, 2009, “Original Sin and Atonement”, in *The Oxford Handbook of Philosophical Theology*, Thomas P. Flint and Michael C. Rea (eds), Oxford: Oxford University Press, pp. 430–451.
-* –––, 2019, *Analyzing Doctrine: Toward a Systematic Theology*, Waco, TX: Baylor University Press.
+* –––, 2017, “Augustine of Hippo”, in _The Routledge Companion to Free Will_, Kevin Timpe, Meghan Griffith, and Neil Levy (eds.), New York: Routledge, pp. 247–257.
+* Crisp, Oliver D., 2005, _Jonathan Edwards and the Metaphysics of Sin_, New York: Routledge. doi:10.4324/9781315251387
+* –––, 2009, “Original Sin and Atonement”, in _The Oxford Handbook of Philosophical Theology_, Thomas P. Flint and Michael C. Rea (eds), Oxford: Oxford University Press, pp. 430–451.
+* –––, 2019, _Analyzing Doctrine: Toward a Systematic Theology_, Waco, TX: Baylor University Press.
 * –––, 2020a, “A Moderate Reformed View”, in J. Stump and Meister 2020: 35–54.
-* –––, 2020b, “On Behalf of Augustinian Realism”, *Toronto Journal of Theology*, 35(2): 124–133.
-* Davis, Brian and W. Paul Franks, 2018, “Plantinga’s Defense and His Theodicy Are Incompatible”, in *Does God Matter? Essays on the Axiological Consequences of Theism*, Klaas Kraay (ed.), New York: Routledge, pp. 203–223.
-* de Lubac, Henri, 1988, *Catholicism: Christ and the Common Destiny of Man*, San Francisco: Ignatius Press.
-* De Cruz, Helen and Johan De Smedt, 2013, “Reformed and Evolutionary Epistemology and the Noetic Effects of Sin”, *International Journal for Philosophy of Religion*, 74(1): 49–66. doi:10.1007/s11153-012-9368-z
+* –––, 2020b, “On Behalf of Augustinian Realism”, _Toronto Journal of Theology_, 35(2): 124–133.
+* Davis, Brian and W. Paul Franks, 2018, “Plantinga’s Defense and His Theodicy Are Incompatible”, in _Does God Matter? Essays on the Axiological Consequences of Theism_, Klaas Kraay (ed.), New York: Routledge, pp. 203–223.
+* de Lubac, Henri, 1988, _Catholicism: Christ and the Common Destiny of Man_, San Francisco: Ignatius Press.
+* De Cruz, Helen and Johan De Smedt, 2013, “Reformed and Evolutionary Epistemology and the Noetic Effects of Sin”, _International Journal for Philosophy of Religion_, 74(1): 49–66. doi:10.1007/s11153-012-9368-z
 * Deane-Drummond, Celia, 2017, “In Adam All Die? Questions at the Boundary of Niche Construction, Community Evolution, and Original Sin”, in Cavanaugh and Smith 2017: 23–47.
-* DeYoung, Rebecca Konyndyk, 2020, *Glittering Vices: A New Look at the Seven Deadly Sins and Their Remedies*, Grand Rapids, MI: Brazos Press, second edition.
-* Diller, Kevin, 2008, “Are Sin and Evil Necessary for a Really Good World?: Questions for Alvin Plantinga’s Felix Culpa Theodicy”, *Faith and Philosophy*, 25(1): 87–101. doi:10.5840/faithphil20082516
-* –––, 2014, *Theology’s Epistemological Dilemma: How Karl Barth and Alvin Plantinga Provide a Unified Response*, Downer’s Grove, IL: InterVarsity Press.
-* Draper, Paul and Ryan Nichols, 2013, “Diagnosing Bias in Philosophy of Religion”:, *Monist*, 96(3): 420–446. doi:10.5840/monist201396319
-* Dunfee, Susan Nelson, 1982, “The Sin of Hiding: Feminist Critique of Reinhold Niebuhr’s Account of the Sin of Pride”, *Soundings*, 65(3): 316–327.
-* Edwards, Jonathan, 1758 [1970], *The Great Christian Doctrine of Original Sin Defended*, Boston, MA: S.. Kneeland. Reprinted in *The Works of Jonathan Edwards*, vol. 3, edited by Clyde A. Holbrook, New Haven, CT: Yale University Press, 1970.
-* Flint, Thomas P, 2009, “Fittingness and Divine Action in *Cur Deus Homo*”, in Timpe 2009: 97–111.
-* Franks, W. Paul, 2012, “Original Sin and Broad Free-Will Defense”:, *Philosophia Christi*, 14(2): 353–371. doi:10.5840/pc201214230
+* DeYoung, Rebecca Konyndyk, 2020, _Glittering Vices: A New Look at the Seven Deadly Sins and Their Remedies_, Grand Rapids, MI: Brazos Press, second edition.
+* Diller, Kevin, 2008, “Are Sin and Evil Necessary for a Really Good World?: Questions for Alvin Plantinga’s Felix Culpa Theodicy”, _Faith and Philosophy_, 25(1): 87–101. doi:10.5840/faithphil20082516
+* –––, 2014, _Theology’s Epistemological Dilemma: How Karl Barth and Alvin Plantinga Provide a Unified Response_, Downer’s Grove, IL: InterVarsity Press.
+* Draper, Paul and Ryan Nichols, 2013, “Diagnosing Bias in Philosophy of Religion”:, _Monist_, 96(3): 420–446. doi:10.5840/monist201396319
+* Dunfee, Susan Nelson, 1982, “The Sin of Hiding: Feminist Critique of Reinhold Niebuhr’s Account of the Sin of Pride”, _Soundings_, 65(3): 316–327.
+* Edwards, Jonathan, 1758 \[1970], _The Great Christian Doctrine of Original Sin Defended_, Boston, MA: S.. Kneeland. Reprinted in _The Works of Jonathan Edwards_, vol. 3, edited by Clyde A. Holbrook, New Haven, CT: Yale University Press, 1970.
+* Flint, Thomas P, 2009, “Fittingness and Divine Action in _Cur Deus Homo_”, in Timpe 2009: 97–111.
+* Franks, W. Paul, 2012, “Original Sin and Broad Free-Will Defense”:, _Philosophia Christi_, 14(2): 353–371. doi:10.5840/pc201214230
 * Gombis, Timothy G., 2016, “Paul”, in Johnson and Lauber 2016a: 97–110.
-* Graham, Gordon, 2007, “Sin and Salvation”, in *The Routledge Companion to Philosophy of Religion*, Chad Meister and Paul Copan (eds), New York: Routledge, 576–584.
+* Graham, Gordon, 2007, “Sin and Salvation”, in _The Routledge Companion to Philosophy of Religion_, Chad Meister and Paul Copan (eds), New York: Routledge, 576–584.
 * Graves, Michael, 2016, “Classic Rabbinic Perspectives”, in Johnson and Lauber 2016a: 129–147.
 * Green, Joel B., 2017, “‘Adam, What Have You Done?’ New Testament Voices on the Origins of Sin”, in Cavanaugh and Smith 2017: 98–116.
-* Grimes, Katie Walker, 2016, *Christ Divided: Antiblackness as Corporate Vice*, Minneapolis, MN: Fortress Press.
-* Groenhout, Ruth, 2006, “Not Without Hope: A Reformed Analysis of Sickness and Sin”, *Christian Bioethics*, 12(2): 133–150. doi:10.1080/13803600600805278
-* Harrison, Peter, 2007, *The Fall of Man and the Foundations of Science*, New York: Cambridge University Press. doi:10.1017/CBO9780511487750
-* Hasker, William, 2008, *The Triumph of God over Evil: Theodicy for a World of Suffering*, Downer’s Grove, IL: InterVarsity Press.
-* Helm, Paul, 1994, *The Providence of God*, Downer’s Grove, IL: InterVarsity Press.
-* Hick, John, 1966, *Evil and the Love of God*, New York: Harper & Row.
-* –––, 1968, “The Problem of Evil in the First and Last Things”, *The Journal of Theological Studies*, new series 19(2): 591–602.
-* Hieb, Nathan D., 2013, *Christ Crucified in a Suffering World: The Unity of Atonement and Liberation*, Minneapolis, MN: Fortress Press.
-* Hudson, Hud, 2014, *The Fall and Hypertime*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712695.001.0001
+* Grimes, Katie Walker, 2016, _Christ Divided: Antiblackness as Corporate Vice_, Minneapolis, MN: Fortress Press.
+* Groenhout, Ruth, 2006, “Not Without Hope: A Reformed Analysis of Sickness and Sin”, _Christian Bioethics_, 12(2): 133–150. doi:10.1080/13803600600805278
+* Harrison, Peter, 2007, _The Fall of Man and the Foundations of Science_, New York: Cambridge University Press. doi:10.1017/CBO9780511487750
+* Hasker, William, 2008, _The Triumph of God over Evil: Theodicy for a World of Suffering_, Downer’s Grove, IL: InterVarsity Press.
+* Helm, Paul, 1994, _The Providence of God_, Downer’s Grove, IL: InterVarsity Press.
+* Hick, John, 1966, _Evil and the Love of God_, New York: Harper & Row.
+* –––, 1968, “The Problem of Evil in the First and Last Things”, _The Journal of Theological Studies_, new series 19(2): 591–602.
+* Hieb, Nathan D., 2013, _Christ Crucified in a Suffering World: The Unity of Atonement and Liberation_, Minneapolis, MN: Fortress Press.
+* Hudson, Hud, 2014, _The Fall and Hypertime_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712695.001.0001
 * –––, 2019, “The Argument from Evil: Felix Culpa!” in Walls and Dougherty 2019: 277–289.
 * Hunsinger, George, 2016, “The Sinner and the Victim”, in Johnson and Lauber 2016a: 433–449.
-* Johnson, Keith L. and David Lauber (eds.), 2016a, *T&T Clark Companion to the Doctrine of Sin*, New York: T&T Clark Ltd.
+* Johnson, Keith L. and David Lauber (eds.), 2016a, _T\&T Clark Companion to the Doctrine of Sin_, New York: T\&T Clark Ltd.
 * –––, 2016b, “Introduction”, in Johnson and Lauber 2016a: ix–xiv.
-* Jones, Serene, 2000, *Feminist Theory and Christian Theology: Cartographies of Grace*, Minneapolis, MN: Fortress Press.
-* Kant, Immanuel, 1793 [1960], *Die Religion innerhalb der Grenzen der bloßen Vernunft)*, Konigsberg. Translated as *Religion Within the Limits of Reason Alone*, translated by Theodore M. Greene and Hoyt H. Hudson, New York: Harper Torchbooks, 1960.
-* Katz, Steven T., 2006, “Man, Sin, and Redemption in Rabbinic Judaism”, in *The Cambridge History of Judaism, Volume 4: The Late Roman-Rabbinic Period*, Steven T. Katz (ed.), Cambridge: Cambridge University Press, 925–945. doi:10.1017/CHOL9780521772488.038
-* Kivy, Peter, 1980, “Melville’s *Billy* and the Secular Problem of Evil: The Worm in the Bud”, *Monist*, 63(4): 480–493. doi:10.5840/monist198063429
-* Knepper, Timothy D., 2014, “The End of Philosophy of Religion?”, *Journal of the American Academy of Religion*, 82(1): 120–149. doi:10.1093/jaarel/lft072
+* Jones, Serene, 2000, _Feminist Theory and Christian Theology: Cartographies of Grace_, Minneapolis, MN: Fortress Press.
+* Kant, Immanuel, 1793 \[1960], _Die Religion innerhalb der Grenzen der bloßen Vernunft)_, Konigsberg. Translated as _Religion Within the Limits of Reason Alone_, translated by Theodore M. Greene and Hoyt H. Hudson, New York: Harper Torchbooks, 1960.
+* Katz, Steven T., 2006, “Man, Sin, and Redemption in Rabbinic Judaism”, in _The Cambridge History of Judaism, Volume 4: The Late Roman-Rabbinic Period_, Steven T. Katz (ed.), Cambridge: Cambridge University Press, 925–945. doi:10.1017/CHOL9780521772488.038
+* Kivy, Peter, 1980, “Melville’s _Billy_ and the Secular Problem of Evil: The Worm in the Bud”, _Monist_, 63(4): 480–493. doi:10.5840/monist198063429
+* Knepper, Timothy D., 2014, “The End of Philosophy of Religion?”, _Journal of the American Academy of Religion_, 82(1): 120–149. doi:10.1093/jaarel/lft072
 * Kvanvig, Jonathan L., 2009, “Conservation, Concurrence, and Counterfactuals of Freedom”, in Timpe 2009: 112–25.
-* Lewis, David, 1997, “Do We Believe in Penal Substitution?”, *Philosophical Papers*, 26(3): 203–209. doi:10.1080/05568649709506566
+* Lewis, David, 1997, “Do We Believe in Penal Substitution?”, _Philosophical Papers_, 26(3): 203–209. doi:10.1080/05568649709506566
 * Louth, Andrew, 2020, “An Eastern Orthodox View”, in J. Stump and Meister 2020: 78–100.
-* MacDonald, Scott, 1998, “Primal Sin”, in*The Augustinian Tradition*, Gareth Mathews (ed.), Berkeley, CA: The University of California Press, pp. 110–139.
+* MacDonald, Scott, 1998, “Primal Sin”, in_The Augustinian Tradition_, Gareth Mathews (ed.), Berkeley, CA: The University of California Press, pp. 110–139.
 * Madueme, Hans, 2020, “An Augustinian-Reformed View”, in J. Stump and Meister 2020: 11–34.
 * Mann, William E., 2001, “Augustine on Evil and Original Sin”, in Stump and Kretzmann 2001: 40–48. doi:10.1017/CCOL0521650186.004
 * McCall, Thomas H., 2016, “Divine Providence”, in Johnson and Lauber 2016a: 319–336.
-* –––, 2019, *Against God and Nature: The Doctrine of Sin*. Wheaton, IL: Crossway Books.
-* McCann, Hugh J., 2005, “The Author of Sin?”:, *Faith and Philosophy*, 22(2): 144–159. doi:10.5840/faithphil200522248
-* McCluskey, Colleen, 2017, *Thomas Aquinas on Moral Wrongdoing*, Cambridge: Cambridge University Press. doi:10.1017/9781316796917
+* –––, 2019, _Against God and Nature: The Doctrine of Sin_. Wheaton, IL: Crossway Books.
+* McCann, Hugh J., 2005, “The Author of Sin?”:, _Faith and Philosophy_, 22(2): 144–159. doi:10.5840/faithphil200522248
+* McCluskey, Colleen, 2017, _Thomas Aquinas on Moral Wrongdoing_, Cambridge: Cambridge University Press. doi:10.1017/9781316796917
 * McFadyen, Alistair, 2016, “Freedom”, in Johnson and Lauber 2016a: 337–350.
 * McFarland, Ian A., 2016, “Original Sin”, in Johnson and Lauber 2016a: 303–318
 * McGinnis, Jon, 2018, “Islamic Ethics”, in Williams 2018: 77–100. doi:10.1017/9781316711859.005
-* McLeod-Harrison, Mark S., 2019, *Saving the Neanderthals*, Lanham, MD: Fortress Academic.
+* McLeod-Harrison, Mark S., 2019, _Saving the Neanderthals_, Lanham, MD: Fortress Academic.
 * McMartin, Jason, 2016, “Reason”, in Johnson and Lauber 2016a: 351–367.
 * Merricks, Trenton, 2011, “Truth and Molinism”, in Perszyk 2011b: 50–72.
 * Moffitt, David M., 2016, “Hebrews and the General Epistles”, in Johnson and Lauber 2016a: 111–125.
-* Morris, Thomas V. (ed.), 1988, *Philosophy and the Christian Faith*, Notre Dame, IN: University of Notre Dame Press.
-* –––, 1992, *Making Sense of It All: Pascal and the Meaning of Life*, Grand Rapids, MI: William B. Eerdmans Publishing Company.
+* Morris, Thomas V. (ed.), 1988, _Philosophy and the Christian Faith_, Notre Dame, IN: University of Notre Dame Press.
+* –––, 1992, _Making Sense of It All: Pascal and the Meaning of Life_, Grand Rapids, MI: William B. Eerdmans Publishing Company.
 * Moser, Paul, 2019, “Christian Philosophy and Christ Crucified: Fragmentary Theory in Scandalous Power”, in Simmons 2019b: 209–228.
-* O’Connor, David, 1991, “Swinburne on Natural Evil from Natural Processes”, *International Journal for Philosophy of Religion*, 30(2): 77–87. doi:10.1007/BF00139048
-* Pawl, Timothy, 2016, *In Defense of Conciliar Christology: A Philosophical Essay*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198765929.001.0001
-* –––, 2019, *In Defense of Extended Conciliar Christology: A Philosophical Essay*, Oxford: Oxford University Press. doi:10.1093/oso/9780198834144.001.0001
+* O’Connor, David, 1991, “Swinburne on Natural Evil from Natural Processes”, _International Journal for Philosophy of Religion_, 30(2): 77–87. doi:10.1007/BF00139048
+* Pawl, Timothy, 2016, _In Defense of Conciliar Christology: A Philosophical Essay_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198765929.001.0001
+* –––, 2019, _In Defense of Extended Conciliar Christology: A Philosophical Essay_, Oxford: Oxford University Press. doi:10.1093/oso/9780198834144.001.0001
 * Perszyk, Ken, 2011a, “Introduction”, in Perszyk 2011b: 1–19.
-* –––, 2011b, *Molinism: The Contemporary Debate*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199590629.001.0001
-* Plantinga, Alvin, 1974, *The Nature of Necessity*, Oxford: Oxford University Press. doi:10.1093/0198244142.001.0001
-* –––, 1977, *God, Freedom, and Evil*, Grand Rapids, MI: Eerdmans.
-* –––, 1981, “Is Belief in God Properly Basic?”, *Noûs*, 15(1): 41–51. doi:10.2307/2215239
-* –––, 1985, “Self-Profile”, in *Alvin Plantinga*, James E. Tomberlin and Peter van Inwagen (eds.), Dordrecht: D. Reidel, 3–97. doi:10.1007/978-94-009-5223-2_1
-* –––, 2000, *Warranted Christian Belief*, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001
+* –––, 2011b, _Molinism: The Contemporary Debate_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199590629.001.0001
+* Plantinga, Alvin, 1974, _The Nature of Necessity_, Oxford: Oxford University Press. doi:10.1093/0198244142.001.0001
+* –––, 1977, _God, Freedom, and Evil_, Grand Rapids, MI: Eerdmans.
+* –––, 1981, “Is Belief in God Properly Basic?”, _Noûs_, 15(1): 41–51. doi:10.2307/2215239
+* –––, 1985, “Self-Profile”, in _Alvin Plantinga_, James E. Tomberlin and Peter van Inwagen (eds.), Dordrecht: D. Reidel, 3–97. doi:10.1007/978-94-009-5223-2\_1
+* –––, 2000, _Warranted Christian Belief_, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001
 * –––, 2004, “Supralapsarianism, or ‘O Felix Culpa’”, in van Inwagen 2004: 1–25.
-* Plaskow, Judith, 1980, *Sex, Sin, and Grace: Women’s Experience and the Theologies of Reinhold Niebuhr and Paul Tillich*, New York: University Press of America.
+* Plaskow, Judith, 1980, _Sex, Sin, and Grace: Women’s Experience and the Theologies of Reinhold Niebuhr and Paul Tillich_, New York: University Press of America.
 * Porter, Jean, 1997, “Virtue Ethics”, in Quinn and Taliaferro 1997: 466–472.
-* Porter, Steven L., 2004, “Swinburnian Atonement and the Doctrine of Penal Substitution”:, *Faith and Philosophy*, 21(2): 228–241. doi:10.5840/faithphil20042126
-* Porter, Steven L and Brandon Rickabaugh, 2018, “The Sanctifying Work of the Holy Spirit: Revisiting Alston’s Interpersonal Model”, *Journal of Analytic Theology*, 6: 112–130. doi:10.12978/jat.2018-6.181913151407a
-* Quinn, Philip L., 1986, “Christian Atonement and Kantian Justification”:, *Faith and Philosophy*, 3(4): 440–462. doi:10.5840/faithphil19863433
-* –––, 1990, “Symposia Papers: Does Anxiety Explain Original Sin?”, *Noûs*, 24(2): 227–244. doi:10.2307/2215525
+* Porter, Steven L., 2004, “Swinburnian Atonement and the Doctrine of Penal Substitution”:, _Faith and Philosophy_, 21(2): 228–241. doi:10.5840/faithphil20042126
+* Porter, Steven L and Brandon Rickabaugh, 2018, “The Sanctifying Work of the Holy Spirit: Revisiting Alston’s Interpersonal Model”, _Journal of Analytic Theology_, 6: 112–130. doi:10.12978/jat.2018-6.181913151407a
+* Quinn, Philip L., 1986, “Christian Atonement and Kantian Justification”:, _Faith and Philosophy_, 3(4): 440–462. doi:10.5840/faithphil19863433
+* –––, 1990, “Symposia Papers: Does Anxiety Explain Original Sin?”, _Noûs_, 24(2): 227–244. doi:10.2307/2215525
 * –––, 1997, “Sin and Original Sin”, in Quinn and Taliaferro 1997: 541–548.
-* Quinn, Philip L. and Charles Taliaferro (eds.), 1997, *A Companion to Philosophy of Religion*, Malden, MA: Blackwell.
+* Quinn, Philip L. and Charles Taliaferro (eds.), 1997, _A Companion to Philosophy of Religion_, Malden, MA: Blackwell.
 * Ray, Stephen, 2016, “Structural Sin”, in Johnson and Lauber 2016a: 417–432.
-* Rea, Michael C., 2007, “The Metaphysics of Original Sin”, in *Persons: Human and Divine*, Peter van Inwagen and Dean Zimmerman (eds.), Oxford: Oxford University Press, pp. 319–356.
-* Rogers, Katherin, 2008, *Anselm on Freedom*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231676.001.0001
-* Ruether, Rosemary Radford, 1993, *Sexism and God-Talk: Toward a Feminist Theology*, Boston: Beacon Press.
-* Ruse, Michael, 2002, “Darwinism and Christianity Redux: A Response to My Critics”, *Philosophia Christi*, 4(1): 189–194. doi:10.5840/pc20024115
-* Saiving, Valerie, 1992, “The Human Situation: A Feminine View”, in *Womanspirit Rising: A Feminist Reading in Religion*, Carol P. Christ and Judith Plaskow (eds), San Francisco, CA: Harper & Row, pp. 5–27.
-* Schilbrack, Kevin, 2014, *Philosophy and the Study of Religions: A Manifesto*, Malden, MA: Wiley-Blackwell.
-* Schüseller Fiorenza, Elisabeth, 1993, *Discipleship of Equals: A Critical Feminist Ekklesia-Logy of Liberation*, Freiburg: Herder & Herder.
+* Rea, Michael C., 2007, “The Metaphysics of Original Sin”, in _Persons: Human and Divine_, Peter van Inwagen and Dean Zimmerman (eds.), Oxford: Oxford University Press, pp. 319–356.
+* Rogers, Katherin, 2008, _Anselm on Freedom_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231676.001.0001
+* Ruether, Rosemary Radford, 1993, _Sexism and God-Talk: Toward a Feminist Theology_, Boston: Beacon Press.
+* Ruse, Michael, 2002, “Darwinism and Christianity Redux: A Response to My Critics”, _Philosophia Christi_, 4(1): 189–194. doi:10.5840/pc20024115
+* Saiving, Valerie, 1992, “The Human Situation: A Feminine View”, in _Womanspirit Rising: A Feminist Reading in Religion_, Carol P. Christ and Judith Plaskow (eds), San Francisco, CA: Harper & Row, pp. 5–27.
+* Schilbrack, Kevin, 2014, _Philosophy and the Study of Religions: A Manifesto_, Malden, MA: Wiley-Blackwell.
+* Schüseller Fiorenza, Elisabeth, 1993, _Discipleship of Equals: A Critical Feminist Ekklesia-Logy of Liberation_, Freiburg: Herder & Herder.
 * Simmons, J. Aaron, 2019a, “The Strategies of Christian Philosophy”, in Simmons 2019b: 187–207.
-* ––– (ed.), 2019b, *Christian Philosophy: Conceptions, Continuations, and Challenges*, Oxford: Oxford University Press. doi:10.1093/oso/9780198834106.001.0001
-* Smith, James K. A., 2016, *You Are What You Love: The Spiritual Power of Habit*, Grand Rapids, MI: Brazos Press.
+* ––– (ed.), 2019b, _Christian Philosophy: Conceptions, Continuations, and Challenges_, Oxford: Oxford University Press. doi:10.1093/oso/9780198834106.001.0001
+* Smith, James K. A., 2016, _You Are What You Love: The Spiritual Power of Habit_, Grand Rapids, MI: Brazos Press.
 * –––, 2017, “What Stands on the Fall? A Philosophical Exploration”, in Cavanaugh and Smith 2017: 48–64.
 * Stump, Eleonore, 1988, “Atonement According to Aquinas”, in Morris 1988: 61–91.
 * –––, 2001, “Augustine on Free Will”, in Stump and Kretzmann 2001: 124–147. doi:10.1017/CCOL0521650186.011
-* –––, 2003, *Aquinas*, London: Routledge. doi:10.4324/9780203928356
-* –––, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199277421.001.0001
-* –––, 2018, *Atonement*, Oxford: Oxford University Press. doi:10.1093/oso/9780198813866.001.0001
-* Stump, Eleonore and Norman Kretzmann (eds.), 2001, *The Cambridge Companion to Augustine*, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521650186
-* Stump, J. B. and Chad Meister (eds.), 2020, *Original Sin and the Fall: Five Views*, Downer’s Grove, IL: IVP Academic.
-* Suchocki, Marjorie Hewitt, 1994, *The Fall to Violence: Original Sin in Relational Theology*, New York. Continuum.
+* –––, 2003, _Aquinas_, London: Routledge. doi:10.4324/9780203928356
+* –––, 2010, _Wandering in Darkness: Narrative and the Problem of Suffering_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199277421.001.0001
+* –––, 2018, _Atonement_, Oxford: Oxford University Press. doi:10.1093/oso/9780198813866.001.0001
+* Stump, Eleonore and Norman Kretzmann (eds.), 2001, _The Cambridge Companion to Augustine_, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521650186
+* Stump, J. B. and Chad Meister (eds.), 2020, _Original Sin and the Fall: Five Views_, Downer’s Grove, IL: IVP Academic.
+* Suchocki, Marjorie Hewitt, 1994, _The Fall to Violence: Original Sin in Relational Theology_, New York. Continuum.
 * Sweeney, Eileen C., 2018, “Sin and Grace”, in Williams 2018: 348–372. doi:10.1017/9781316711859.017
-* Swinburne, Richard, 1978, “Natural Evil”, *American Philosophical Quarterly*, 15(4): 295–301.
+* Swinburne, Richard, 1978, “Natural Evil”, _American Philosophical Quarterly_, 15(4): 295–301.
 * –––, 1988, “The Christian Scheme of Salvation”, in Morris 1988: 15–30.
-* –––, 1989, *Responsibility and Atonement*, Oxford: Clarendon Press. doi:10.1093/0198248490.001.0001
-* –––, 2009, “Natural Evil and the Possibility of Knowledge”, in *Arguing About Religion*, Kevin Timpe (ed), New York: Routledge, pp. 236–245.
-* Timpe, Kevin (ed.), 2009, *Metaphysics and God: Essays in Honor of Eleonore Stump*, New York: Routledge. doi:10.4324/9780203875216
-* –––, 2014a, *Free Will in Philosophical Theology*, London: Bloomsbury.
-* –––, 2014b, “‘This Is Water’ and Religious Self-Deception”, in *Gesturing Towards Reality: David Foster Wallace and Philosophy*, Robert Bolger and Scott Korb(eds), London: Continuum, pp. 53–69.
-* –––, 2018, “‘Upright, Whole, and Free’: Eschatological Union with God”, *TheoLogica*, 2(2): 60–76. doi:10.14428/thl.v2i2.2123
-* –––, forthcoming, “Toward an Account of Lamenting Well”, in *Reaching for God: New Theological Essays on Prayer*, Oliver D. Crisp, James M. Arcadi, and Jordan Wessling (eds.), Oxford: Oxford University Press.
-* Timpe, Kevin and Blake Hereth, 2019, “Introduction”, in *The Lost Sheep in Philosophy of Religion: New Perspectives on Disability, Gender, Race, and Animals*, Blake Hereth and Kevin Timpe (eds), New York: Routledge, pp. 1–27.
-* Turner, Jason, 2013, “Compatibilism and the Free Will Defense”:, *Faith and Philosophy*, 30(2): 125–137. doi:10.5840/faithphil201330210
-* Vander Laan, David, 2017, “Creation and Conservation”, in *Stanford Encyclopedia of Philosophy* (Winter 2017), Edward N. Zalta (ed.). URL = <https://plato.stanford.edu/archives/win2017/entries/creation-conservation/>
-* Vanneste, Alfred, 1971, *The Dogma of Original Sin*, Paris: Louvain.
-* van Inwagen, Peter (ed.), 2004, *Christian Faith and the Problem of Evil*, Grand Rapids, MI: William B. Eerdmans.
-* –––, 2006, *The Problem of Evil*, Oxford: Oxford University Press.
-* Vicens, Leigh C, 2018, “Sin and Implicit Bias”, *Journal of Analytic Theology*, 6: 100–111. doi:10.12978/jat.2018-6.110407210818a
-* Visser, Sandra and Thomas Williams, 2008, *Anselm*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195309386.001.0001
+* –––, 1989, _Responsibility and Atonement_, Oxford: Clarendon Press. doi:10.1093/0198248490.001.0001
+* –––, 2009, “Natural Evil and the Possibility of Knowledge”, in _Arguing About Religion_, Kevin Timpe (ed), New York: Routledge, pp. 236–245.
+* Timpe, Kevin (ed.), 2009, _Metaphysics and God: Essays in Honor of Eleonore Stump_, New York: Routledge. doi:10.4324/9780203875216
+* –––, 2014a, _Free Will in Philosophical Theology_, London: Bloomsbury.
+* –––, 2014b, “‘This Is Water’ and Religious Self-Deception”, in _Gesturing Towards Reality: David Foster Wallace and Philosophy_, Robert Bolger and Scott Korb(eds), London: Continuum, pp. 53–69.
+* –––, 2018, “‘Upright, Whole, and Free’: Eschatological Union with God”, _TheoLogica_, 2(2): 60–76. doi:10.14428/thl.v2i2.2123
+* –––, forthcoming, “Toward an Account of Lamenting Well”, in _Reaching for God: New Theological Essays on Prayer_, Oliver D. Crisp, James M. Arcadi, and Jordan Wessling (eds.), Oxford: Oxford University Press.
+* Timpe, Kevin and Blake Hereth, 2019, “Introduction”, in _The Lost Sheep in Philosophy of Religion: New Perspectives on Disability, Gender, Race, and Animals_, Blake Hereth and Kevin Timpe (eds), New York: Routledge, pp. 1–27.
+* Turner, Jason, 2013, “Compatibilism and the Free Will Defense”:, _Faith and Philosophy_, 30(2): 125–137. doi:10.5840/faithphil201330210
+* Vander Laan, David, 2017, “Creation and Conservation”, in _Stanford Encyclopedia of Philosophy_ (Winter 2017), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2017/entries/creation-conservation/](https://plato.stanford.edu/archives/win2017/entries/creation-conservation/)
+* Vanneste, Alfred, 1971, _The Dogma of Original Sin_, Paris: Louvain.
+* van Inwagen, Peter (ed.), 2004, _Christian Faith and the Problem of Evil_, Grand Rapids, MI: William B. Eerdmans.
+* –––, 2006, _The Problem of Evil_, Oxford: Oxford University Press.
+* Vicens, Leigh C, 2018, “Sin and Implicit Bias”, _Journal of Analytic Theology_, 6: 100–111. doi:10.12978/jat.2018-6.110407210818a
+* Visser, Sandra and Thomas Williams, 2008, _Anselm_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195309386.001.0001
 * Wainwright, William J., 1988, “Original Sin”, in Morris 1988: 31–60.
-* Walls, Jerry L., and Trent Dougherty (eds.), 2018, *Two Dozen (or so) Arguments for God: The Plantinga Project*, Oxford: Oxford University Press. doi:10.1093/oso/9780190842215.001.0001
-* Watt, W. Montgomery, 2009, *Islamic Philosophy and Theology*, Piscataway, NJ: AldineTransaction.
-* Westphal, Merold, 1990, “Taking St. Paul Seriously: Sin as an Epistemological Category”, in *Christian Philosophy*, Thomas P. Flint (ed.), Notre Dame, IN: University of Notre Dame Press, pp. 200–226.
-* –––, 1993, *Suspicion and Faith: The Religious Uses of Modern Atheism*, Grand Rapids, MI: William B. Eerdmans Publishing Company.
+* Walls, Jerry L., and Trent Dougherty (eds.), 2018, _Two Dozen (or so) Arguments for God: The Plantinga Project_, Oxford: Oxford University Press. doi:10.1093/oso/9780190842215.001.0001
+* Watt, W. Montgomery, 2009, _Islamic Philosophy and Theology_, Piscataway, NJ: AldineTransaction.
+* Westphal, Merold, 1990, “Taking St. Paul Seriously: Sin as an Epistemological Category”, in _Christian Philosophy_, Thomas P. Flint (ed.), Notre Dame, IN: University of Notre Dame Press, pp. 200–226.
+* –––, 1993, _Suspicion and Faith: The Religious Uses of Modern Atheism_, Grand Rapids, MI: William B. Eerdmans Publishing Company.
 * White, Heath, 2016, “Theological Determinism and the ‘Authoring Sin’ Objection”, in Alexander and Johnson 2016: 78–95.
 * Wierenga, Edward, 2011, “Tilting at Molinism”, in Perszyk 2011b: 118–139.
-* Williams, Thomas (ed.), 2018, *The Cambridge Companion to Medieval Ethics*, Cambridge: Cambridge University Press. doi:10.1017/9781316711859
-* –––, forthcoming, “Atonement”, in *The Routledge Companion to Medieval Philosophy*, Richard Cross and J.T. Paasch (eds), New York: Routledge.
+* Williams, Thomas (ed.), 2018, _The Cambridge Companion to Medieval Ethics_, Cambridge: Cambridge University Press. doi:10.1017/9781316711859
+* –––, forthcoming, “Atonement”, in _The Routledge Companion to Medieval Philosophy_, Richard Cross and J.T. Paasch (eds), New York: Routledge.
 * Wyma, Keith D., 2004, “Innocent Sinfulness, Guilty Sin: Original Sin and Divine Justice”, in van Inwagen 2004: 263–276.
-* Yeo, Ray S, 2014, “Towards a Model of Indwelling: A Conversation with Jonathan Edwards and William Alston”, *Journal of Analytic Theology*, 2: 210–237. doi:10.12978/jat.2014-1.170024240414a
+* Yeo, Ray S, 2014, “Towards a Model of Indwelling: A Conversation with Jonathan Edwards and William Alston”, _Journal of Analytic Theology_, 2: 210–237. doi:10.12978/jat.2014-1.170024240414a
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=sin-christian). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/sin-christian/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=sin-christian&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/sin-christian/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=sin-christian).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/sin-christian/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=sin-christian\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/sin-christian/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Closer to Truth interviews on Why is Sin?](https://www.closertotruth.com/series/why-sin)
-* [Sin](https://www.newadvent.org/cathen/14004b.htm), in the *Catholic Encyclopedia*.
-* [Bibliography on Sin](https://philpapers.org/browse/sin) at philpapers.org.
-* [Bibliography on Evil](https://philpapers.org/browse/evil) at philpapers.org.
+* [Sin](https://www.newadvent.org/cathen/14004b.htm), in the _Catholic Encyclopedia_.
+* [Bibliography on Sin](https://philpapers.org/browse/sin) at philpapers.org.
+* [Bibliography on Evil](https://philpapers.org/browse/evil) at philpapers.org.
 * [Why Talk About Structural Sin?](https://www.thepublicdiscourse.com/2019/01/48918/), at www.thepublicdiscourse.com.
 
 ## Related Entries
 
-[Anselm of Canterbury [Anselm of Bec]](https://plato.stanford.edu/entries/anselm/) | [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [atonement](https://plato.stanford.edu/entries/atonement/) | [Augustine of Hippo](https://plato.stanford.edu/entries/augustine/) | [Christian theology, philosophy and](https://plato.stanford.edu/entries/christiantheology-philosophy/) | [compatibilism](https://plato.stanford.edu/entries/compatibilism/) | [creation and conservation](https://plato.stanford.edu/entries/creation-conservation/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [forgiveness](https://plato.stanford.edu/entries/forgiveness/) | [free will: divine foreknowledge and](https://plato.stanford.edu/entries/free-will-foreknowledge/) | [God: and other ultimates](https://plato.stanford.edu/entries/god-ultimates/) | [heaven and hell in Christian thought](https://plato.stanford.edu/entries/heaven-hell/) | [incompatibilism: (nondeterministic) theories of free will](https://plato.stanford.edu/entries/incompatibilism-theories/) | [incompatibilism: arguments for](https://plato.stanford.edu/entries/incompatibilism-arguments/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [providence, divine](https://plato.stanford.edu/entries/providence-divine/) | [social institutions](https://plato.stanford.edu/entries/social-institutions/) | [voluntarism, theological](https://plato.stanford.edu/entries/voluntarism-theological/)
+[Anselm of Canterbury \[Anselm of Bec\]](https://plato.stanford.edu/entries/anselm/) | [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [atonement](https://plato.stanford.edu/entries/atonement/) | [Augustine of Hippo](https://plato.stanford.edu/entries/augustine/) | [Christian theology, philosophy and](https://plato.stanford.edu/entries/christiantheology-philosophy/) | [compatibilism](https://plato.stanford.edu/entries/compatibilism/) | [creation and conservation](https://plato.stanford.edu/entries/creation-conservation/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [forgiveness](https://plato.stanford.edu/entries/forgiveness/) | [free will: divine foreknowledge and](https://plato.stanford.edu/entries/free-will-foreknowledge/) | [God: and other ultimates](https://plato.stanford.edu/entries/god-ultimates/) | [heaven and hell in Christian thought](https://plato.stanford.edu/entries/heaven-hell/) | [incompatibilism: (nondeterministic) theories of free will](https://plato.stanford.edu/entries/incompatibilism-theories/) | [incompatibilism: arguments for](https://plato.stanford.edu/entries/incompatibilism-arguments/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [providence, divine](https://plato.stanford.edu/entries/providence-divine/) | [social institutions](https://plato.stanford.edu/entries/social-institutions/) | [voluntarism, theological](https://plato.stanford.edu/entries/voluntarism-theological/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-Kevin Timpe <[*kt24@calvin.edu*](mailto:kt24%40calvin%2eedu)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+Kevin Timpe <[_kt24@calvin.edu_](mailto:kt24%40calvin%2eedu)>

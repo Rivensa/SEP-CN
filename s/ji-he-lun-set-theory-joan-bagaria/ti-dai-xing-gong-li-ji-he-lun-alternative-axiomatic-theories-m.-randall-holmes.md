@@ -1,10 +1,10 @@
-# 替代公理集合论 alternative axiomatic theories (M. Randall Holmes)
+# 替代性公理集合论 alternative axiomatic theories (M. Randall Holmes)
 
-*首次发表于 2006 年 5 月 30 日；实质修订于 2021 年 9 月 21 日*
+_首次发表于 2006 年 5 月 30 日；实质修订于 2021 年 9 月 21 日_
 
 通过“替代性集合论”我们指的是与主导的 ZF（策梅洛-弗兰克尔集合论）及其近亲有显著差异的集合论系统（尽管我们将在文章中回顾这些系统）。我们将回顾的系统包括类型化集合论、策梅洛集合论及其变体、新基础和相关系统、正集合论和构造主义集合论。对替代性集合论范围的兴趣并不意味着要用其中一种替代方案取代主导的集合论；熟悉以替代系统为基础的数学基础可以教导我们任何集合论（包括通常的集合论）应该为我们做什么。研究替代性集合论可以消除将“集合论”与“策梅洛-弗兰克尔集合论”轻易等同起来的观念；它们并不是同一回事。
 
----
+***
 
 ## 1. 为什么进行集合论？
 
@@ -22,11 +22,11 @@
 
 戴德金提出，实数可以与有理数的切割唯一对应，其中切割由一对集合（L，R）确定，具有以下属性：L 和 R 是有理数的集合。L 和 R 都非空，并且 L 的每个元素都小于 R 的每个元素（因此这两个集合是不相交的）。L 没有最大元素。L 和 R 的并集包含所有有理数。
 
-如果我们在切割之前理解实数的理论，我们可以说每个切割的形式为 L=(−∞,r)∩Q，R=[r,∞)∩Q，其中 Q 是所有有理数的集合，r 是唯一确定并由切割唯一确定的实数。很明显，每个实数 r 以这种方式唯一确定一个切割（但我们需要证明没有其他切割）。给定任意的切割（L，R），我们提出 r 将是 L 的上确界。通常实数理论的上确界公理告诉我们 L 有一个上确界（L 非空，R 的任何元素（也非空）都是 L 的上界，所以 L 有一个上确界）。因为 L 没有最大元素，它的上确界 r 不能属于 L。任何小于 r 的有理数很容易证明属于 L，任何大于或等于 r 的有理数很容易证明属于 R，所以我们看到我们任意选择的切割（因此任意切割）的形式为 L=(−∞,r)∩Q，R=[r,∞)∩Q。
+如果我们在切割之前理解实数的理论，我们可以说每个切割的形式为 L=(−∞,r)∩Q，R=\[r,∞)∩Q，其中 Q 是所有有理数的集合，r 是唯一确定并由切割唯一确定的实数。很明显，每个实数 r 以这种方式唯一确定一个切割（但我们需要证明没有其他切割）。给定任意的切割（L，R），我们提出 r 将是 L 的上确界。通常实数理论的上确界公理告诉我们 L 有一个上确界（L 非空，R 的任何元素（也非空）都是 L 的上界，所以 L 有一个上确界）。因为 L 没有最大元素，它的上确界 r 不能属于 L。任何小于 r 的有理数很容易证明属于 L，任何大于或等于 r 的有理数很容易证明属于 R，所以我们看到我们任意选择的切割（因此任意切割）的形式为 L=(−∞,r)∩Q，R=\[r,∞)∩Q。
 
 更大胆的举措（在有理数的理论但没有实数的先前理论的情况下）是将实数定义为切割。请注意，这要求我们不仅要有有理数的理论（不难发展），还要有有理数集合的理论：如果我们将实数理解为与有理数中的切割相对应，其中切割是一对有理数集合，我们确实需要理解有理数集合是什么。如果我们要证明特定实数的存在，我们需要对有理数集合有一些了解。
 
-一个例子：当我们定义了有理数，然后将实数定义为戴德金切割的集合时，我们如何定义 2 的平方根？可以相对容易地证明({x∈Q∣x<0∨x2<2},{x∈Q∣x>0&x2≥2})是一个切割，并且（一旦我们定义了算术运算）它是 2 的正平方根。当我们制定这个定义时，我们似乎预设了有理数的任何属性都确定了一个只包含具有该属性的有理数的集合。
+一个例子：当我们定义了有理数，然后将实数定义为戴德金切割的集合时，我们如何定义 2 的平方根？可以相对容易地证明({x∈Q∣x<0∨x2<2},{x∈Q∣x>0\&x2≥2})是一个切割，并且（一旦我们定义了算术运算）它是 2 的正平方根。当我们制定这个定义时，我们似乎预设了有理数的任何属性都确定了一个只包含具有该属性的有理数的集合。
 
 ### 1.2 自然数的弗雷格-罗素定义
 
@@ -50,19 +50,19 @@ A=B↔∀x(x∈A↔x∈B)
 
 也有理由假设存在一些不是集合但可以成为集合成员的东西（这些对象通常被称为原子或原始元素）。这些对象没有元素（就像空集一样），但彼此之间和空集不同。这暗示了替代性更弱的外延公理（也许更接近常识）。
 
-[集合(A)∩集合(B)∩∀x(x∈A↔x∈B)]→A=B
+\[集合(A)∩集合(B)∩∀x(x∈A↔x∈B)]→A=B
 
 伴随集合性公理
 
- x∈A→ 集合(A)
+x∈A→ 集合(A)
 
 有哪些集合？最简单的集合是通过列举给出的（例如，我在那边看到的男人的集合{汤姆，迪克，哈利}，或者更抽象地说，平方根为 4 的集合{-2，2}）。但即使对于有限集合，通常更方便的是给出集合元素的定义属性：考虑所有在爱达荷州博伊西市有合法住址的祖母的集合；这是一个有限集合，但列举其成员是不方便的。总的想法是，对于任何属性 P，都存在一个具有属性 P 的所有对象的集合。这可以形式化如下：对于任何公式 P(x)，都存在一个集合 A（变量 A 在 P(x)中不应该是自由的），使得
 
- ∀x(x∈A↔P(x))。
+∀x(x∈A↔P(x))。
 
 这被称为包含公理。如果我们有弱外延性和一个集合性谓词，我们可能想要说
 
- ∃A(集合(A)&∀x(x∈A↔P(x)))
+∃A(集合(A)&∀x(x∈A↔P(x)))
 
 具有这两个外延性和包含性公理（通常不包含集合性谓词）的理论被称为朴素集合论。
 
@@ -116,11 +116,11 @@ TST 的包含公理采用以下形式（对于任意类型 n 的选择，一个�
 
 有趣的是观察到 TST 的公理与朴素集合论的公理完全类似。
 
-这不是罗素的原始类型理论。暂且不论罗素使用“命题函数”而不是类和关系，数理哲学原理（怀特海德和罗素 1910-1913），以下简称 PM，不是一个集合论，因为它对于关系（元数大于 1 的命题函数）有单独的类型。直到诺伯特·维纳在 1914 年观察到可以将有序对定义为集合（他的定义<x，y>不是当前的{{x}，{x，y}}，而是由库拉托夫斯基（1921）提出的{{{x}，∅}，{{y}}}}），才清楚地表明可以将关系类型编码为集合类型。罗素经常用英语说关系可以理解为一对（或更长的元组）的集合，但他对这个想法没有实现（事实上，他在 PM 中将有序对定义为关系，而不是现在通常的反向定义！）关于这种简化类型理论的历史讨论，请参见王 1970 年的论文。
+这不是罗素的原始类型理论。暂且不论罗素使用“命题函数”而不是类和关系，数理哲学原理（怀特海德和罗素 1910-1913），以下简称 PM，不是一个集合论，因为它对于关系（元数大于 1 的命题函数）有单独的类型。直到诺伯特·维纳在 1914 年观察到可以将有序对定义为集合（他的定义\<x，y>不是当前的\{{x}，{x，y\}}，而是由库拉托夫斯基（1921）提出的\{{{x}，∅}，\{{y\}}\}}），才清楚地表明可以将关系类型编码为集合类型。罗素经常用英语说关系可以理解为一对（或更长的元组）的集合，但他对这个想法没有实现（事实上，他在 PM 中将有序对定义为关系，而不是现在通常的反向定义！）关于这种简化类型理论的历史讨论，请参见王 1970 年的论文。
 
 此外，罗素对于集合的定义中存在的循环性感到担忧（他认为这是悖论的原因），以至于他不允许通过涉及相同类型或更高类型的量化来定义给定类型的集合。这种可预测性限制极大地削弱了集合论的数学能力。
 
-在罗素的系统中，通过将类型不仅由其元素的类型来表征，还通过一个额外的整数参数来称为其“阶数”来实现限制。对于任何具有元素的对象，其类型的阶数高于其元素类型的阶数。此外，理解公理受到限制，以便定义类型为 n 阶的集合的条件只能包含阶数≤n 的参数，并且量词只能作用于阶数<n 的类型。正如我们上面所指出的，罗素的系统更加复杂，因为它不仅是一个集合论理论，还包含关系类型（这使得在此处对其进行全面解释是不合适的）。即使我们限制在集合类型上，如果类型具有阶数，那么简单的线性类型层次结构是不可能的，因为每个类型都有比其自身更高阶的“幂集”类型。
+在罗素的系统中，通过将类型不仅由其元素的类型来表征，还通过一个额外的整数参数来称为其“阶数”来实现限制。对于任何具有元素的对象，其类型的阶数高于其元素类型的阶数。此外，理解公理受到限制，以便定义类型为 n 阶的集合的条件只能包含阶数≤n 的参数，并且量词只能作用于阶数\<n 的类型。正如我们上面所指出的，罗素的系统更加复杂，因为它不仅是一个集合论理论，还包含关系类型（这使得在此处对其进行全面解释是不合适的）。即使我们限制在集合类型上，如果类型具有阶数，那么简单的线性类型层次结构是不可能的，因为每个类型都有比其自身更高阶的“幂集”类型。
 
 我们提出了一种带有可预测性限制的类型化集合理论（我们在 Marcel Crabbé的工作中看到过，但它可能更早）。在这个系统中，类型没有阶数，但是可以在其中解释具有阶数的罗素分层类型理论（这是一个技术结果，在此处我们不给出详细解释）。
 
@@ -130,7 +130,7 @@ TST 的包含公理采用以下形式（对于任意类型 n 的选择，一个�
 
 直觉主义数学不允许无限制的数学归纳：在非预测性类型理论中，我们可以像在朴素集合论中那样定义 0 和集合的“后继”A+（在给定的类型 n 中），然后定义自然数的集合：
 
-Nn+1={mn∣∀An+1[[0n∈An+1&∀Bn(Bn∈An+1→(B+)n∈An+1)]→mn∈An+1]}
+Nn+1={mn∣∀An+1\[\[0n∈An+1&∀Bn(Bn∈An+1→(B+)n∈An+1)]→mn∈An+1]}
 
 罗素会反对以关于所有集合 An+1 的事实来“定义”集合 Nn+1：只有当某物属于所有类型 n+1 归纳集合时，它才是一种 n+1 类型的自然数。但是，它被“定义”的那些类型 n+1 集合之一就是 Nn+1 本身。（独立于预测论者的顾虑，确实需要一个无穷公理来确保所有自然数的存在；这经常被添加到 TST 中，正如选择公理一样）。
 
@@ -156,11 +156,11 @@ Nn+1={mn∣∀An+1[[0n∈An+1&∀Bn(Bn∈An+1→(B+)n∈An+1)]→mn∈An+1]}
 
 对于任意对象 a 和 b，存在一个集合{a,b}={x∣x=a∨x=b}。（原始公理还提供了空集和单元素集合）。
 
-集合并：对于任意集合 A，存在一个集合∪A={x∣∃y(x∈y&y∈A)}。A 的并集包含 A 的所有元素的元素。
+集合并：对于任意集合 A，存在一个集合∪A={x∣∃y(x∈y\&y∈A)}。A 的并集包含 A 的所有元素的元素。
 
 幂集：对于任意集合 A，存在一个集合℘(A)={x∣∀y(y∈x→y∈A)}。A 的幂集是 A 的所有子集的集合。
 
-无穷：存在一个无穷集合。策梅洛的最初表述断言存在一个包含∅并且在单元素操作下封闭的集合：{∅,{∅},{{∅}},…}。现在更常见的是断言存在一个包含∅并且在冯·诺伊曼后继操作下封闭的集合 x↦x∪{x}。（在其他公理的存在下，这两个公理都不蕴含对方，尽管它们产生具有相同数学强度的理论）。
+无穷：存在一个无穷集合。策梅洛的最初表述断言存在一个包含∅并且在单元素操作下封闭的集合：{∅,{∅},\{{∅\}},…}。现在更常见的是断言存在一个包含∅并且在冯·诺伊曼后继操作下封闭的集合 x↦x∪{x}。（在其他公理的存在下，这两个公理都不蕴含对方，尽管它们产生具有相同数学强度的理论）。
 
 分离原理：对于任意对象的属性 P(x)和任意集合 A，存在一个集合{x∈A∣P(x)}，其中包含具有属性 P 的 A 的所有元素。
 
@@ -170,7 +170,7 @@ Nn+1={mn∣∀An+1[[0n∈An+1&∀Bn(Bn∈An+1→(B+)n∈An+1)]→mn∈An+1]}
 
 策梅洛集合论除了选择公理外，每个公理都是朴素集合论的公理。策梅洛选择了足够多的公理，以便进行集合论的数学应用，并且限制了公理，使得悖论似乎无法推导出来。
 
-Z 中最一般的包含公理是分离公理。如果我们尝试通过构造集合 R'={x∈A∣x∉x}来复制罗素悖论，我们会发现 R'∈R'↔R'∈A&R'∉R'，从中我们推断出 R'∉A。对于任何集合 A，我们可以构造一个不属于它的集合。换句话说，Z 证明了不存在普遍集合：如果我们有普遍集合 V，我们就会有朴素的包含，因为我们可以将{x∣P(x)}定义为{x∈V∣P(x)}，其中 P(x)是任何属性，包括致命的 x∉x。
+Z 中最一般的包含公理是分离公理。如果我们尝试通过构造集合 R'={x∈A∣x∉x}来复制罗素悖论，我们会发现 R'∈R'↔R'∈A\&R'∉R'，从中我们推断出 R'∉A。对于任何集合 A，我们可以构造一个不属于它的集合。换句话说，Z 证明了不存在普遍集合：如果我们有普遍集合 V，我们就会有朴素的包含，因为我们可以将{x∣P(x)}定义为{x∈V∣P(x)}，其中 P(x)是任何属性，包括致命的 x∉x。
 
 为了应用分离公理，我们需要有一些集合 A，以便使用属性来划分子集。其他公理允许构造许多集合（所有经典数学中集合论之外所需的集合，尽管并非康托尔甚至构造的所有集合都是安全的）。
 
@@ -184,7 +184,7 @@ Z 中最一般的包含公理是分离公理。如果我们尝试通过构造集
 
 非集合通常被放弃（因此外延性的表述更强），尽管 ZFA（带原子的策梅洛-弗兰克尔集合论）在选择公理的首个独立证明中被使用。
 
-弗兰克尔添加了替代公理方案，以便能够构造更大的集合（即使在策梅洛集合论中也无法证明ℵω的存在）。基本思想是，与集合大小相同的任何集合都是一个集合，可以逻辑上表述如下：如果ϕ(x,y)是一个函数公式∀x∀y∀z[(ϕ(x,y)&ϕ(x,z))→y=z]，而 A 是一个集合，则存在集合{y∣∃x∈A(ϕ(x,y))}。
+弗兰克尔添加了替代公理方案，以便能够构造更大的集合（即使在策梅洛集合论中也无法证明ℵω的存在）。基本思想是，与集合大小相同的任何集合都是一个集合，可以逻辑上表述如下：如果ϕ(x,y)是一个函数公式∀x∀y∀z\[(ϕ(x,y)&ϕ(x,z))→y=z]，而 A 是一个集合，则存在集合{y∣∃x∈A(ϕ(x,y))}。
 
 Foundation 公理方案被添加为集合宇宙的明确概念。集合的累积层次结构的思想是，我们按序号索引的阶段构造集合：在第 0 阶段，构造空集；在第α+1 阶段，构造所有第α阶段集合的子集；在极限阶段λ，构造所有索引小于λ的阶段的并集。替代性公理对于实现这个思想非常重要，因为 Z 只允许构造属于阶段 Vn 和 Vω+n（其中 n 是自然数）的集合（我们使用符号 Vα表示在阶段α构造的所有集合的集合）。Foundation 公理的意图是断言每个集合都属于某个 Vα；最常见的表述是神秘的断言，即对于任何非空集合 A，存在一个元素 x 属于 A，且 x 与 A 不相交。要看到这至少是由 Foundation 暗示的，考虑到必须存在最小的α使得 A 与 Vα相交，而在这个 Vα中的任何 x 的元素（如果有的话）只能是更小的秩，因此不属于 A。
 
@@ -222,7 +222,7 @@ ZFC 的主导地位在对这种没有基础公理的 ZFC 版本的微小变化�
 
 在接下来的段落中，我们将使用“图”一词表示关系，“外延图”表示满足
 
-(∀y,z∈field(R)[∀x(xRy≡xRz)→y=z]的关系 R。
+(∀y,z∈field(R)\[∀x(xRy≡xRz)→y=z]的关系 R。
 
 图 G 的装饰是具有属性 f(x)={f(y)∣yGx}的函数 f，其中 x 属于 G 的域。在 ZFC 中，所有良基关系都有唯一的装饰，而非良基关系没有装饰。Aczel 提出了他的反基础公理：每个集合图都有唯一的装饰。Maurice Boffa 提出了一个更强的公理：对于包含其所有元素的 G-前像的扩展集合图 G，每个部分的、单射的装饰都可以扩展为 G 的所有元素的单射装饰。
 
@@ -236,7 +236,7 @@ Aczel 系统与 Boffa 系统不同之处在于具有较少的非良基对象。�
 
 即使那些接受策梅洛式集合论作为标准的数学家（其中大部分！）也经常发现自己想要谈论“所有集合”，或者“所有序数”，或类似的概念。
 
-冯·诺伊曼（实际上制定了一个关于函数而非集合的理论），哥德尔和伯奈斯开发了与之密切相关的系统，除了 ZFC 中的集合外，还允许这些集合的一般集合。（在哈莱特 1984 年的论文中，有人认为冯·诺伊曼的系统是第一个正确实施替代公理的系统[弗兰克尔的表述存在技术问题]，因此它实际上可能是 ZFC 的第一个实施。）
+冯·诺伊曼（实际上制定了一个关于函数而非集合的理论），哥德尔和伯奈斯开发了与之密切相关的系统，除了 ZFC 中的集合外，还允许这些集合的一般集合。（在哈莱特 1984 年的论文中，有人认为冯·诺伊曼的系统是第一个正确实施替代公理的系统\[弗兰克尔的表述存在技术问题]，因此它实际上可能是 ZFC 的第一个实施。）
 
 我们提出了这种类型的理论。它的对象是类。在这些类中，我们确定了作为集合的元素的类。
 
@@ -268,7 +268,7 @@ Aczel 系统与 Boffa 系统不同之处在于具有较少的非良基对象。�
 
 外延公理：具有相同元素的类是相等的。
 
-类包含公理：对于任意公式ϕ，存在一个类{x∈V∣ϕ(x)}，其元素正好是满足ϕ(x)的集合 x（这里 V 表示所有集合的类）。[但请注意，这里并不是所有类的元素都是集合]。
+类包含公理：对于任意公式ϕ，存在一个类{x∈V∣ϕ(x)}，其元素正好是满足ϕ(x)的集合 x（这里 V 表示所有集合的类）。\[但请注意，这里并不是所有类的元素都是集合]。
 
 元素公理：集合的任何元素都是一个集合。
 
@@ -282,13 +282,13 @@ Aczel 系统与 Boffa 系统不同之处在于具有较少的非良基对象。�
 
 公式 x=a∨x=b（其中 a 和 b 是集合）不涉及集合性质，只有集合 a 和 b 作为参数，并且只对集合成立。因此它定义了一个集合，并且对于集合来说，成对公理成立。
 
-公式∃y(x∈y&y∈a)，其中 a 是一个集合，不提及集合性，只有集合 a 作为参数，并且仅对集合成立，根据元素公理（任何证人 y 属于集合 a，所以 y 是一个集合，且 x 属于集合 y，所以 x 是一个集合），因此并集对于集合成立。
+公式∃y(x∈y\&y∈a)，其中 a 是一个集合，不提及集合性，只有集合 a 作为参数，并且仅对集合成立，根据元素公理（任何证人 y 属于集合 a，所以 y 是一个集合，且 x 属于集合 y，所以 x 是一个集合），因此并集对于集合成立。
 
 公式∀y(y∈x→y∈a)，其中 a 是一个集合，不提及集合性，只有集合 a 作为参数，并且仅对集合成立，根据子集公理，幂集对于集合成立。
 
 令人惊讶的是，这个系统证明了无穷性。公式 x≠x 明确定义了一个集合，空集∅。考虑公式
 
-∀I[∅∈I&∀y(y∈I→y∪{y}∈I)→x∈I]
+∀I\[∅∈I&∀y(y∈I→y∪{y}∈I)→x∈I]
 
 这个公式没有提及集合性，并且没有参数（或者只有集合参数∅）。所有集合的类 V 都有∅作为成员，并且如果它包含 y，则包含 y∪{y}，通过对集合的成对和并运算（已经证明）。因此，满足这个公式的任何 x 都是一个集合，因此公式的扩展是一个集合（显然是冯·诺伊曼自然数的常规集合）。因此，无穷在阿克曼集合论的集合中是真的。
 
@@ -306,7 +306,7 @@ ZF 有一个称为反射原理的元定理，它断言宇宙 V 的任何一阶�
 
 ### 6.1 NF 的定义
 
-我们已经提到过，集合的简单类型理论 TST 可以证明与无类型理论等价（Mac Lane 集合论，又称有界策梅洛集合论）。我们简要说明如何做到这一点：在模型中选择任意的映射 f，它是一个从类型 0 对象的单例集到类型 1 的范围的单射（类型 0 对象的单例集上的恒等映射是一个例子）。将每个类型 0 对象 x0 与类型 1 对象 f({x0})等同；然后引入那些由外延性所要求的不同类型的对象之间的等同关系：每个类型 0 对象与一个类型 1 对象等同，而一个简单的元归纳可以证明每个类型 n 对象与某个类型 n+1 对象等同。得到的结构将满足策梅洛集合论的所有公理，除了分离公理，并且将满足分离公理的所有实例，其中每个量词都被限制在一个集合中（这种限制是因为 TST 中的每个包含式的每个量词都被限制在一个类型中，在 Mac Lane 集合论的解释中，这个类型成为该量词的一个限制集）。如果 TST 的原始模型满足这些公理，那么它将满足无穷公理和选择公理。最简单的映射 f 就是类型 0 对象的单例集上的恒等映射，它将导致每个类型 0 对象与其自身的单例集等同（这是一个基础性的失败）。可以安排结构满足基础性：例如，如果选择公理成立，那么类型 0 可以被良序，并且可以将类型 0 的每个元素与良序中的相应段等同，使得类型 0 成为一个冯·诺伊曼序数。（这种结构永远不会模拟替代公理，因为存在一个可数的序列[类型的基数]，它是可定义的并且在宇宙的基数之下是共极的。）详见 Mathias 2001a。
+我们已经提到过，集合的简单类型理论 TST 可以证明与无类型理论等价（Mac Lane 集合论，又称有界策梅洛集合论）。我们简要说明如何做到这一点：在模型中选择任意的映射 f，它是一个从类型 0 对象的单例集到类型 1 的范围的单射（类型 0 对象的单例集上的恒等映射是一个例子）。将每个类型 0 对象 x0 与类型 1 对象 f({x0})等同；然后引入那些由外延性所要求的不同类型的对象之间的等同关系：每个类型 0 对象与一个类型 1 对象等同，而一个简单的元归纳可以证明每个类型 n 对象与某个类型 n+1 对象等同。得到的结构将满足策梅洛集合论的所有公理，除了分离公理，并且将满足分离公理的所有实例，其中每个量词都被限制在一个集合中（这种限制是因为 TST 中的每个包含式的每个量词都被限制在一个类型中，在 Mac Lane 集合论的解释中，这个类型成为该量词的一个限制集）。如果 TST 的原始模型满足这些公理，那么它将满足无穷公理和选择公理。最简单的映射 f 就是类型 0 对象的单例集上的恒等映射，它将导致每个类型 0 对象与其自身的单例集等同（这是一个基础性的失败）。可以安排结构满足基础性：例如，如果选择公理成立，那么类型 0 可以被良序，并且可以将类型 0 的每个元素与良序中的相应段等同，使得类型 0 成为一个冯·诺伊曼序数。（这种结构永远不会模拟替代公理，因为存在一个可数的序列\[类型的基数]，它是可定义的并且在宇宙的基数之下是共极的。）详见 Mathias 2001a。
 
 奎因的集合论新基础（简称 NF，于 1937 年在他的论文“数理逻辑的新基础”中提出）也是基于一种识别连续类型中的对象的过程，以获得一个无类型的理论。然而，在 NF 和相关理论的情况下，思想是将类型 n+1 的全部与类型 n 等同起来；类型层次结构将完全折叠。显然，这样做的一个困难是康托尔的定理表明类型 n+1（作为类型 n 的“幂集”）在本质上应该比类型 n 更大（在某种意义上，这是可以证明的）。
 
@@ -364,7 +364,7 @@ NF3+无穷与二阶算术具有相同的强度。NFI 也是如此（它具有足
 
 一个 NFU 模型可以按照以下方式构建。模型理论的众所周知的结果允许构建一个 ZFC 的非标准模型（实际上，Mac Lane 集合论的模型就足够了），其中包含一个外部自同构 j，它移动一个秩 Vα。我们假定不失一般性地 j(α)<α。我们的 NFU 模型的宇宙将是 Vα，成员关系将被定义为
 
-x∈NFUy≡defj(x)∈y&y∈Vj(α)+1
+x∈NFUy≡defj(x)∈y\&y∈Vj(α)+1
 
 （其中∈是非标准模型的成员关系）。证明这是一个 NFU 模型并不长，但足够复杂，我们将读者引用到其他地方。基本思想是自同构允许我们将我们的宇宙 Vα的（表面上的）幂集 Vα+1 编码到“较小”的 Vj(α)+1 中，后者包含在我们的宇宙中；Vα−Vj(α)+1 中剩下的对象成为非元素。注意，从很强的意义上说，Vα−Vj(α)+1 是 NFU 模型的域的大部分：几乎整个宇宙由非元素组成（注意每个 Vβ+1 都是 Vβ的幂集，因此在大小上严格更大，并且在 Vj(α)+1（“集合”的集合）和 Vα（“宇宙”）之间不止一个阶段介入）。这个构造与 Jensen 使用的构造有关，但显然首次明确地在 Boffa 1988 中描述。
 
@@ -460,7 +460,7 @@ ZFC 可能被视为对集合论的推广，以扩展理论（作为有限集概�
 
 广义正包含：对于任何广义正公式ϕ，{x∣ϕ}存在。（请注意，由于我们将假公式⊥视为正的，因此我们不需要特殊的公理来断言空集的存在）。
 
-闭包: 对于任意公式ϕ(x)，存在一个集合 C，使得 x∈C≡[∀y∀z(ϕ(z)→z∈y)→x∈y]；C 是包含满足ϕ的所有对象的所有集合的交集：C 被称为类{x∣ϕ(x)}的闭包。
+闭包: 对于任意公式ϕ(x)，存在一个集合 C，使得 x∈C≡\[∀y∀z(ϕ(z)→z∈y)→x∈y]；C 是包含满足ϕ的所有对象的所有集合的交集：C 被称为类{x∣ϕ(x)}的闭包。
 
 无穷：冯·诺伊曼序数的闭包不是它自己的元素。（这排除了ω-超宇宙，其中冯·诺伊曼序数的类的闭包有它自己作为额外成员）。
 
@@ -524,7 +524,7 @@ CZF 省略了幂集。它用与上述相同的原因将 Foundation 替换为∈-
 
 强集合公理方案断言，如果对于每个 x∈A，存在 y 使得ϕ(x,y)，那么存在一个集合 B，对于每个 x∈A，存在 y∈B 使得ϕ(x,y)（与通常的方案相同），但是对于每个 y∈B，存在 x∈A 使得ϕ(x,y)（B 不包含任何冗余元素）。由于分离公理的较弱形式，附加的限制是有用的。
 
-子集集合方案可以被看作是包含了一个非常弱的幂集。它断言，对于每个公式ϕ(x,y,z)，对于每个 A 和 B，存在一个集合 C，对于每个 z，使得∀x∈A∃y∈B[ϕ(x,y,z)]，存在 Rz∈C，对于每个 x∈A，存在 y∈Rz 使得ϕ(x,y,z)，并且对于每个 y∈Rz，存在 x∈A 使得ϕ(x,y,z)（这与强集合公理中的限制相同；注意不仅构造了关系下的映像，而且将这些映像进一步收集到一个集合中）。
+子集集合方案可以被看作是包含了一个非常弱的幂集。它断言，对于每个公式ϕ(x,y,z)，对于每个 A 和 B，存在一个集合 C，对于每个 z，使得∀x∈A∃y∈B\[ϕ(x,y,z)]，存在 Rz∈C，对于每个 x∈A，存在 y∈Rz 使得ϕ(x,y,z)，并且对于每个 y∈Rz，存在 x∈A 使得ϕ(x,y,z)（这与强集合公理中的限制相同；注意不仅构造了关系下的映像，而且将这些映像进一步收集到一个集合中）。
 
 子集收集方案足够强大，可以将从集合 A 到集合 B 的所有函数构造为一个集合（这表明这个理论的经典版本与 ZF 一样强大，因为从 A 到{0,1}的函数集的存在在经典环境中与 A 的幂集的存在一样强大，而强大的收集应该允许在经典环境中证明强分离）。
 
@@ -568,13 +568,13 @@ CZF 省略了幂集。它用与上述相同的原因将 Foundation 替换为∈-
 
 这里需要注意的一点是，Hamkins 对于一些宇宙可能是 ZFC 之外的理论的模型持开放态度（比如策梅洛集合论或 Peano 算术等较弱的理论，甚至是 ZFA 或 NF/NFU 等不同的理论）。但从哲学上讲，确切界定何为“集合论概念”以定义一个宇宙似乎是困难的。这也是可以理解的，因为这里根本没有“宇宙的多元宇宙”作为一个完整的整体的概念——这将等同于再次通过后门引入单一的柏拉图宇宙！以下的一些公理假设讨论的宇宙是 ZFC 或非常相似的理论的模型。
 
-强制扩张原理：对于任何宇宙 V 和 V 中的任何强制概念 P，存在一个强制扩张 V[G]，其中 G⊂P 是 V-泛型的。
+强制扩张原理：对于任何宇宙 V 和 V 中的任何强制概念 P，存在一个强制扩张 V\[G]，其中 G⊂P 是 V-泛型的。
 
 这表明我们的强制扩张是具体的真实世界。Hamkins 在 Hamkins 2012 年中详细讨论了强制扩张的形而上学困难。
 
 反射公理：对于每个宇宙 V，存在一个更高的宇宙 W，其中存在一个序数θ，使得 V 在元素上等同于（或同构于）Wθ，W 中的累积层次结构的一个层次。
 
- 我们引用 Hamkins 的话：
+我们引用 Hamkins 的话：
 
 > 这个原理断言没有一个宇宙对序数的高度是正确的，并且每个宇宙看起来都像是一个更高的宇宙的初始段，这个更高的宇宙具有相同的真理。（2012: 438）
 
@@ -622,17 +622,17 @@ Pocket 集合论的对象是类。如果一个类是一个元素（与 ZFC 上�
 
 我们无法抵制证明主要结果（因为证明很有趣）。
 
-空集合：如果空集合是一个适当的类，则所有适当的类都将为空。特别地，Russell 类将为空。设 I 是一个无限集合。{I}将是一个集合，因为它不为空，{I,{I}}也将是一个集合（因为它不为空）。但是{I,{I}}属于 Russell 类（作为一个有两个元素的集合，它既不是戴德金无限集 I，也不是单元素集合{I}）。因此，∅是一个集合。
+空集合：如果空集合是一个适当的类，则所有适当的类都将为空。特别地，Russell 类将为空。设 I 是一个无限集合。{I}将是一个集合，因为它不为空，{I,{I\}}也将是一个集合（因为它不为空）。但是{I,{I\}}属于 Russell 类（作为一个有两个元素的集合，它既不是戴德金无限集 I，也不是单元素集合{I}）。因此，∅是一个集合。
 
 单元素集合：如果任何单元素集合{x}是一个适当的类，则所有单元素集合都是适当的类，而 Russell 类是一个单元素集合。{I,∅}是一个集合（两个元素都是集合，并且该类不是单元素集合），它不能是自己的成员，因此它属于 Russell 类。但是∅也属于 Russell 类；因此 Russell 类不是一个单元素集合，而所有单元素集合都是集合。
 
-无序对：Russell 类不是一个对，因为它有不同的元素∅,{∅},{{∅}}。
+无序对：Russell 类不是一个对，因为它有不同的元素∅,{∅},\{{∅\}}。
 
 关系：所有的 Kuratowski 有序对都存在，因此所有可定义的关系都可以实现为集合关系。
 
 康托尔定理（没有集合与其子集的类大小相同）和 Schröder-Bernstein 定理（如果两个类中的每个都有从另一个类的映射，那么它们之间存在一个双射）有它们的标准证明。
 
-可以使用 Schröder-Bernstein 定理证明 Russell 类与宇宙的大小相同：从 R 到 V 的映射是显然的，而 V 可以通过映射 x↦{{x},∅}嵌入到 R 中（显然没有集合{{x},∅}属于它自己）。因此，一个类是适当的当且仅当它与宇宙的大小相同（大小的限制）。
+可以使用 Schröder-Bernstein 定理证明 Russell 类与宇宙的大小相同：从 R 到 V 的映射是显然的，而 V 可以通过映射 x↦\{{x},∅}嵌入到 R 中（显然没有集合\{{x},∅}属于它自己）。因此，一个类是适当的当且仅当它与宇宙的大小相同（大小的限制）。
 
 将冯·诺伊曼序数定义为严格按成员关系进行良序的类。每个有限序数都可以证明是一个集合（因为它小于其后继序数，并且是罗素类的子类）。所有序数的类不是一个集合（但是是最后一个序数），出于通常的原因，所以与宇宙的大小相同，因此宇宙可以进行良序。
 
@@ -652,7 +652,7 @@ Petr Vopenka 提出了以下替代性集合论（1979）。
 
 外延性：具有相同元素的集合是相同的。
 
- 空集合：∅ 存在。
+空集合：∅ 存在。
 
 后继：对于任意集合 x 和 y，x∪{y} 存在。
 
@@ -728,69 +728,69 @@ Andrzej Kisielewicz（1998）最近提出的一个建议是，通过使用两个
 
 ## Bibliography
 
-* Aczel, Peter, 1978, “The Type Theoretic Interpretation of Constructive Set Theory”, in A. MacIntyre, L. Pacholski, J. Paris (eds.), *Logic Colloquium ‘77*, (Studies in Logic and the Foundations of Mathematics, 96), Amsterdam: North-Holland, pp. 55–66. doi:10.1016/S0049-237X(08)71989-X
-* –––, 1982, “The Type Theoretic Interpretation of Constructive Set Theory: Choice Principles”, in A.S. Troelstra and D. van Dalen (eds.), *The L.E.J. Brouwer Centenary Symposium*, (Studies in Logic and the Foundations of Mathematics, 110), Amsterdam: North-Holland, pp. 1–40. doi:10.1016/S0049-237X(09)70120-X
-* –––, 1986, “The Type Theoretic Interpretation of Constructive Set Theory: Inductive Definitions”, in Ruth Barcan Marcus, Georg J.W.Dorn, and Paul Weingartner (eds.), *Logic, Methodology, and Philosophy of Science VII*, (Studies in Logic and the Foundations of Mathematics, 114), Amsterdam: North-Holland, pp. 17–49. doi:10.1016/S0049-237X(09)70683-4
-* –––, 1988, *Non-Well-Founded Sets* (CSLI Lecture Notes, 14), Stanford: CSLI Publications.
-* St. Augustine, *De Civitate Dei*, Book 12, chapter 18.
-* Barwise, Jon, 1975, *Admissible Sets and Structures: An Approach to Definability Theory*, (Perspectives in Mathematical Logic, 7), Berlin: Springer-Verlag.
-* Boffa, M., 1988, “ZFJ and the Consistency Problem for NF”, *Jahrbuch der Kurt Gödel Gesellschaft*, Vienna, pp. 102–106
-* Burali-Forti, C., 1897, “Una questione sui numeri transfiniti”, *Rendiconti del Circolo matematico di Palermo*, 11(1): 154–164. A correction appears in “Sulle classi ben ordinate”, *Rendiconti del Circolo matematico di Palermo*, 11(1): 260. It is not clear that Burali-Forti ever correctly understood his paradox. doi:10.1007/BF03015911 and doi:10.1007/BF03015919
-* Cantor, Georg, 1872, “Über die Ausdehnung eines Satzes aus der Theorie der trigonometrischen Reihen”, *Mathematischen Annalen*, 5: 123–32.
-* –––, 1891, “Über eine elementare Frage der Mannigfaltigkeitslehre”, *Jahresbericht der deutschen Mathematiker-Vereiningung*, 1: 75–8.
-* Cocchiarella, Nino B., 1985, “Frege’s Double-Correlation Thesis and Quine’s Set Theories NF and ML”, *Journal of Philosophical Logic*, 14(1): 1–39. doi:10.1007/BF00542647
-* Crabbé, Marcel, 1982, “On the Consistency of an Impredicative Subsystem of Quine’s *NF*”, *Journal of Symbolic Logic*, 47(1): 131–36. doi:10.2307/2273386
-* –––, 2016, “*NFSI* is not included in *NF*3”, *Journal of Symbolic Logic*, 81(3): 948–950. doi:10.1017/jsl.2015.29
-* Dedekind, Richard, 1872, *Stetigkeit und irrationale Zahlen*, Brannschweig: Friedrich Vieweg und Sohn (second edition, 1892).
-* Esser, Olivier, 1999, “On the Consistency of a Positive Theory”, *Mathematical Logic Quarterly*, 45(1): 105–116. doi:10.1002/malq.19990450110
-* Feferman, Sol, 2006, “Enriched Stratified Systems for the Foundations of Category Theory” in Giandomenico Sica (ed.), *What is Category Theory?*, Milan: Polimetrica. [[Feferman 2006 preprint available online (PDF)](https://web.archive.org/web/20171211043750/http://math.stanford.edu/%7Efeferman/papers/ess.pdf)]
-* Frege, Gottlob, 1884, *Die Grundlagen der Arithmetik*, English translation by J.L. Austin, *The Foundations of Arithmetic*, Oxford: Blackwell, 1974.
-* Friedman, Harvey, 1973, “Some Applications of Kleene’s Methods for Intuitionistic Systems”, in A.R.D. Mathias and H. Rogers (eds.), *Cambridge Summer School in Mathematical Logic*, (Lecture Notes in Mathematics, 337), Berlin: Springer-Verlag, pp. 113–170. doi:10.1007/BFb0066773
-* Grishin, V.N., 1969, “Consistency of a Fragment of Quine’s *NF* System”, *Soviet Mathematics Doklady*, 10: 1387–1390.
-* Hallett, Michael, 1984, *Cantorian Set Theory and Limitation of Size*, Oxford: Clarendon, pp. 280–286.
-* Hamkins, Joel David, 2012, “The Set-Theoretic Multiverse”, *Review of Symbolic Logic*, 5(3): 416–449. doi:10.1017/S1755020311000359
-* Holmes, M. Randall, 1998, *Elementary Set Theory with a Universal Set*, (Cahiers du Centre de logique, 10), Louvain-la-Neuve: Academia. (See chapter 20 for the discussion of well-founded extensional relation types.) [[Holmes 1998 revised and corrected version available online (PDF)](https://randall-holmes.github.io/head.pdf)]
-* –––, 2012, “The Usual Model Construction for *NFU* Preserves Information”, *Notre Dame Journal of Formal Logic*, 53(4): 571–580. doi:10.1215/00294527-1722764
-* Jensen, Ronald Bjorn, 1968, “On the Consistency of a Slight (?) Modification of Quine’s ‘New Foundations’”, *Synthese*, 19(1): 250–63. doi:10.1007/BF00568059
-* Kisielewicz, Andrzej, 1998, “A Very Strong Set Theory?”, *Studia Logica*, 61(2): 171–178. doi:10.1023/A:1005048329677
-* Kuratowski, Casimir [Kazimierz], 1921, “Sur la notion de l’ordre dans la Théorie des Ensembles”, *Fundamenta Mathematicae*, 2(1): 161–171. [[Kuratowski 1921 available online](http://eudml.org/doc/212966)]
-* Lévy, Azriel, 1959, “On Ackermann’s Set Theory”, *Journal of Symbolic Logic*, 24(2): 154–166. doi:10.2307/2964757
-* Mac Lane, Saunders, 1986, *Mathematics, Form and Function*, Berlin: Springer-Verlag.
-* Mathias, A.R.D., 2001a, “The Strength of Mac Lane Set Theory”, *Annals of Pure and Applied Logic*, 110(1–3): 107–234. doi:10.1016/S0168-0072(00)00031-2
-* –––, 2001b, “Slim Models of Zermelo Set Theory”, *The Journal of Symbolic Logic*, 66(2): 487–496. doi:10.2307/2695026
-* McLarty, Colin, 1992, “Failure of Cartesian Closedness in *NF*”, *Journal of Symbolic Logic*, 57(2): 555–6. doi:10.2307/2275291
-* Nelson, Edward, 1977, “Internal Set Theory, a New Approach to Nonstandard Analysis”, *Bulletin of the American Mathematical Society*, 83(6): 1165–1198. doi:10.1090/S0002-9904-1977-14398-X
-* Quine, W.V.O., 1937, “New Foundations for Mathematical Logic”, *American Mathematical Monthly*, 44(2): 70–80. doi:10.2307/2300564
-* –––, 1945, “On Ordered Pairs”, *Journal of Symbolic Logic*, 10(3): 95–96. doi:10.2307/2267028
-* Reinhardt, William N., 1970, “Ackermann’s Set Theory Equals ZF”, *Annals of Mathematical Logic*, 2(2): 189–249. doi:10.1016/0003-4843(70)90011-2
-* Robinson, Abraham, 1966, *Non-standard Analysis*, Amsterdam: North-Holland.
-* Rosser, J. Barkley, 1973, *Logic for Mathematicians*, second edition, New York: Chelsea.
-* Russell, Bertrand, 1903, *The Principles of Mathematics*, London: George Allen and Unwin.
-* Specker, Ernst P., 1953, “The Axiom of Choice in Quine’s ‘New Foundations for Mathematical Logic’”, *Proceedings of the National Academy of Sciences of the United States of America*, 39(9): 972–5. [[Specker 1953 available online](http://www.pnas.org/content/39/9/972)]
-* Spinoza, Benedict de, 1677, *Ethics*, reprinted and translated in *A Spinoza Reader: the “Ethics” and Other Works*, Edwin Curley (ed. and trans.), Princeton: Princeton University Press, 1994.
-* Tupailo, Sergei, 2010, “Consistency of Strictly Impredicative **NF** and a Little More …”, *Journal of Symbolic Logic*, 75(4): 1326–1338. doi:10.2178/jsl/1286198149
-* Vopěnka, Petr, 1979, *Mathematics in the Alternative Set Theory*, Leipzig: Teubner-Verlag.
-* Wang, Hao, 1970, *Logic, Computers, and Sets*, New York: Chelsea, p. 406.
-* Whitehead, Alfred North and Bertrand Russell, [*PM*] 1910–1913, *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press.
-* Wiener, Norbert, 1914, “A Simplification of the Logic of Relations”, *Proceedings of the Cambridge Philosophical Society*, 17: 387–390.
-* Zermelo, Ernst, 1908, “Untersuchen über die Grundlagen der Mengenlehre I”, *Mathematische Annalen*, 65: 261–281.
+* Aczel, Peter, 1978, “The Type Theoretic Interpretation of Constructive Set Theory”, in A. MacIntyre, L. Pacholski, J. Paris (eds.), _Logic Colloquium ‘77_, (Studies in Logic and the Foundations of Mathematics, 96), Amsterdam: North-Holland, pp. 55–66. doi:10.1016/S0049-237X(08)71989-X
+* –––, 1982, “The Type Theoretic Interpretation of Constructive Set Theory: Choice Principles”, in A.S. Troelstra and D. van Dalen (eds.), _The L.E.J. Brouwer Centenary Symposium_, (Studies in Logic and the Foundations of Mathematics, 110), Amsterdam: North-Holland, pp. 1–40. doi:10.1016/S0049-237X(09)70120-X
+* –––, 1986, “The Type Theoretic Interpretation of Constructive Set Theory: Inductive Definitions”, in Ruth Barcan Marcus, Georg J.W.Dorn, and Paul Weingartner (eds.), _Logic, Methodology, and Philosophy of Science VII_, (Studies in Logic and the Foundations of Mathematics, 114), Amsterdam: North-Holland, pp. 17–49. doi:10.1016/S0049-237X(09)70683-4
+* –––, 1988, _Non-Well-Founded Sets_ (CSLI Lecture Notes, 14), Stanford: CSLI Publications.
+* St. Augustine, _De Civitate Dei_, Book 12, chapter 18.
+* Barwise, Jon, 1975, _Admissible Sets and Structures: An Approach to Definability Theory_, (Perspectives in Mathematical Logic, 7), Berlin: Springer-Verlag.
+* Boffa, M., 1988, “ZFJ and the Consistency Problem for NF”, _Jahrbuch der Kurt Gödel Gesellschaft_, Vienna, pp. 102–106
+* Burali-Forti, C., 1897, “Una questione sui numeri transfiniti”, _Rendiconti del Circolo matematico di Palermo_, 11(1): 154–164. A correction appears in “Sulle classi ben ordinate”, _Rendiconti del Circolo matematico di Palermo_, 11(1): 260. It is not clear that Burali-Forti ever correctly understood his paradox. doi:10.1007/BF03015911 and doi:10.1007/BF03015919
+* Cantor, Georg, 1872, “Über die Ausdehnung eines Satzes aus der Theorie der trigonometrischen Reihen”, _Mathematischen Annalen_, 5: 123–32.
+* –––, 1891, “Über eine elementare Frage der Mannigfaltigkeitslehre”, _Jahresbericht der deutschen Mathematiker-Vereiningung_, 1: 75–8.
+* Cocchiarella, Nino B., 1985, “Frege’s Double-Correlation Thesis and Quine’s Set Theories NF and ML”, _Journal of Philosophical Logic_, 14(1): 1–39. doi:10.1007/BF00542647
+* Crabbé, Marcel, 1982, “On the Consistency of an Impredicative Subsystem of Quine’s _NF_”, _Journal of Symbolic Logic_, 47(1): 131–36. doi:10.2307/2273386
+* –––, 2016, “_NFSI_ is not included in _NF_3”, _Journal of Symbolic Logic_, 81(3): 948–950. doi:10.1017/jsl.2015.29
+* Dedekind, Richard, 1872, _Stetigkeit und irrationale Zahlen_, Brannschweig: Friedrich Vieweg und Sohn (second edition, 1892).
+* Esser, Olivier, 1999, “On the Consistency of a Positive Theory”, _Mathematical Logic Quarterly_, 45(1): 105–116. doi:10.1002/malq.19990450110
+* Feferman, Sol, 2006, “Enriched Stratified Systems for the Foundations of Category Theory” in Giandomenico Sica (ed.), _What is Category Theory?_, Milan: Polimetrica. \[[Feferman 2006 preprint available online (PDF)](https://web.archive.org/web/20171211043750/http://math.stanford.edu/\~feferman/papers/ess.pdf)]
+* Frege, Gottlob, 1884, _Die Grundlagen der Arithmetik_, English translation by J.L. Austin, _The Foundations of Arithmetic_, Oxford: Blackwell, 1974.
+* Friedman, Harvey, 1973, “Some Applications of Kleene’s Methods for Intuitionistic Systems”, in A.R.D. Mathias and H. Rogers (eds.), _Cambridge Summer School in Mathematical Logic_, (Lecture Notes in Mathematics, 337), Berlin: Springer-Verlag, pp. 113–170. doi:10.1007/BFb0066773
+* Grishin, V.N., 1969, “Consistency of a Fragment of Quine’s _NF_ System”, _Soviet Mathematics Doklady_, 10: 1387–1390.
+* Hallett, Michael, 1984, _Cantorian Set Theory and Limitation of Size_, Oxford: Clarendon, pp. 280–286.
+* Hamkins, Joel David, 2012, “The Set-Theoretic Multiverse”, _Review of Symbolic Logic_, 5(3): 416–449. doi:10.1017/S1755020311000359
+* Holmes, M. Randall, 1998, _Elementary Set Theory with a Universal Set_, (Cahiers du Centre de logique, 10), Louvain-la-Neuve: Academia. (See chapter 20 for the discussion of well-founded extensional relation types.) \[[Holmes 1998 revised and corrected version available online (PDF)](https://randall-holmes.github.io/head.pdf)]
+* –––, 2012, “The Usual Model Construction for _NFU_ Preserves Information”, _Notre Dame Journal of Formal Logic_, 53(4): 571–580. doi:10.1215/00294527-1722764
+* Jensen, Ronald Bjorn, 1968, “On the Consistency of a Slight (?) Modification of Quine’s ‘New Foundations’”, _Synthese_, 19(1): 250–63. doi:10.1007/BF00568059
+* Kisielewicz, Andrzej, 1998, “A Very Strong Set Theory?”, _Studia Logica_, 61(2): 171–178. doi:10.1023/A:1005048329677
+* Kuratowski, Casimir \[Kazimierz], 1921, “Sur la notion de l’ordre dans la Théorie des Ensembles”, _Fundamenta Mathematicae_, 2(1): 161–171. \[[Kuratowski 1921 available online](http://eudml.org/doc/212966)]
+* Lévy, Azriel, 1959, “On Ackermann’s Set Theory”, _Journal of Symbolic Logic_, 24(2): 154–166. doi:10.2307/2964757
+* Mac Lane, Saunders, 1986, _Mathematics, Form and Function_, Berlin: Springer-Verlag.
+* Mathias, A.R.D., 2001a, “The Strength of Mac Lane Set Theory”, _Annals of Pure and Applied Logic_, 110(1–3): 107–234. doi:10.1016/S0168-0072(00)00031-2
+* –––, 2001b, “Slim Models of Zermelo Set Theory”, _The Journal of Symbolic Logic_, 66(2): 487–496. doi:10.2307/2695026
+* McLarty, Colin, 1992, “Failure of Cartesian Closedness in _NF_”, _Journal of Symbolic Logic_, 57(2): 555–6. doi:10.2307/2275291
+* Nelson, Edward, 1977, “Internal Set Theory, a New Approach to Nonstandard Analysis”, _Bulletin of the American Mathematical Society_, 83(6): 1165–1198. doi:10.1090/S0002-9904-1977-14398-X
+* Quine, W.V.O., 1937, “New Foundations for Mathematical Logic”, _American Mathematical Monthly_, 44(2): 70–80. doi:10.2307/2300564
+* –––, 1945, “On Ordered Pairs”, _Journal of Symbolic Logic_, 10(3): 95–96. doi:10.2307/2267028
+* Reinhardt, William N., 1970, “Ackermann’s Set Theory Equals ZF”, _Annals of Mathematical Logic_, 2(2): 189–249. doi:10.1016/0003-4843(70)90011-2
+* Robinson, Abraham, 1966, _Non-standard Analysis_, Amsterdam: North-Holland.
+* Rosser, J. Barkley, 1973, _Logic for Mathematicians_, second edition, New York: Chelsea.
+* Russell, Bertrand, 1903, _The Principles of Mathematics_, London: George Allen and Unwin.
+* Specker, Ernst P., 1953, “The Axiom of Choice in Quine’s ‘New Foundations for Mathematical Logic’”, _Proceedings of the National Academy of Sciences of the United States of America_, 39(9): 972–5. \[[Specker 1953 available online](http://www.pnas.org/content/39/9/972)]
+* Spinoza, Benedict de, 1677, _Ethics_, reprinted and translated in _A Spinoza Reader: the “Ethics” and Other Works_, Edwin Curley (ed. and trans.), Princeton: Princeton University Press, 1994.
+* Tupailo, Sergei, 2010, “Consistency of Strictly Impredicative **NF** and a Little More …”, _Journal of Symbolic Logic_, 75(4): 1326–1338. doi:10.2178/jsl/1286198149
+* Vopěnka, Petr, 1979, _Mathematics in the Alternative Set Theory_, Leipzig: Teubner-Verlag.
+* Wang, Hao, 1970, _Logic, Computers, and Sets_, New York: Chelsea, p. 406.
+* Whitehead, Alfred North and Bertrand Russell, \[_PM_] 1910–1913, _Principia Mathematica_, 3 volumes, Cambridge: Cambridge University Press.
+* Wiener, Norbert, 1914, “A Simplification of the Logic of Relations”, _Proceedings of the Cambridge Philosophical Society_, 17: 387–390.
+* Zermelo, Ernst, 1908, “Untersuchen über die Grundlagen der Mengenlehre I”, _Mathematische Annalen_, 65: 261–281.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=settheory-alternative). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/settheory-alternative/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=settheory-alternative&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/settheory-alternative/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=settheory-alternative).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/settheory-alternative/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=settheory-alternative\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/settheory-alternative/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Aczel, Peter, [“Notes on Constructive Set Theory”](http://www.cs.man.ac.uk/~petera/cst.ps.gz) (Gzipped Postscript), written with Michael Rathjen, Mittag-Leffler Technical Report No. 40, 2000/2001.
-* Holmes, Randall, [Review of D. Booth and R. Ziegler (eds.), “Finsler Set Theory: Platonism and Circularity](https://randall-holmes.github.io/Drafts/finslerreview.pdf) (PDF), manuscript, 19 September 2021.
+* Aczel, Peter, [“Notes on Constructive Set Theory”](http://www.cs.man.ac.uk/\~petera/cst.ps.gz) (Gzipped Postscript), written with Michael Rathjen, Mittag-Leffler Technical Report No. 40, 2000/2001.
+* Holmes, Randall, [Review of D. Booth and R. Ziegler (eds.), “Finsler Set Theory: Platonism and Circularity](https://randall-holmes.github.io/Drafts/finslerreview.pdf) (PDF), manuscript, 19 September 2021.
 
 ## Related Entries
 
-[Brouwer, Luitzen Egbertus Jan](https://plato.stanford.edu/entries/brouwer/) | [choice, axiom of](https://plato.stanford.edu/entries/axiom-choice/) | [continuity and infinitesimals](https://plato.stanford.edu/entries/continuity/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [logic: intuitionistic](https://plato.stanford.edu/entries/logic-intuitionistic/) | [mathematics: constructive](https://plato.stanford.edu/entries/mathematics-constructive/) | [*Principia Mathematica*](https://plato.stanford.edu/entries/principia-mathematica/) | [Quine, Willard Van Orman: New Foundations](https://plato.stanford.edu/entries/quine-nf/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [type theory](https://plato.stanford.edu/entries/type-theory/)
+[Brouwer, Luitzen Egbertus Jan](https://plato.stanford.edu/entries/brouwer/) | [choice, axiom of](https://plato.stanford.edu/entries/axiom-choice/) | [continuity and infinitesimals](https://plato.stanford.edu/entries/continuity/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [logic: intuitionistic](https://plato.stanford.edu/entries/logic-intuitionistic/) | [mathematics: constructive](https://plato.stanford.edu/entries/mathematics-constructive/) | [_Principia Mathematica_](https://plato.stanford.edu/entries/principia-mathematica/) | [Quine, Willard Van Orman: New Foundations](https://plato.stanford.edu/entries/quine-nf/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [type theory](https://plato.stanford.edu/entries/type-theory/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[M. Randall Holmes](https://randall-holmes.github.io/) <[*rholmes@boisestate.edu*](mailto:rholmes%40boisestate%2eedu)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[M. Randall Holmes](https://randall-holmes.github.io/) <[_rholmes@boisestate.edu_](mailto:rholmes%40boisestate%2eedu)>

@@ -1,13 +1,12 @@
 # 自杀 suicide (Michael Cholbi)
 
-
-*首次发表于 2004 年 5 月 18 日；实质性修订于 2021 年 11 月 9 日*
+_首次发表于 2004 年 5 月 18 日；实质性修订于 2021 年 11 月 9 日_
 
 自古以来，自杀引发了一系列令人惊讶的反应，包括困惑、否认、英勇赞美、同情、愤怒、道德或宗教谴责，但它从未没有争议。例如，自杀长期以来一直是许多学科的核心关注，包括社会学、人类学、心理学和精神病学。这些学科汇聚在跨学科的自杀学领域。但在自杀学中仍存在许多争议，包括哪种方法最适合确定自杀原因，以及自杀研究是否可以完全与研究人员的政治或机构承诺分离开来。（Maung 2020；关于自杀研究的政治维度的担忧，请参阅“批判性自杀学”中的作品，如 White 等人 2016 年）
 
 但也许围绕自杀最持久的争议是哲学上的。对于哲学家来说，自杀引发了一系列概念、道德和心理问题。其中包括：什么使一个人的行为成为自杀行为？是什么促使这种行为？自杀在道德上是可允许的，甚至在某些特殊情况下是道德上必需的吗？自杀行为是否合理？在某些特殊情况下，协助他人自杀在道德上是可允许的，甚至是必需的吗？本文将探讨围绕这些问题的历史和当代西方哲学思想的主要流派。
 
----
+***
 
 ## 1. 自杀的特征化
 
@@ -207,130 +206,130 @@
 
 ### A. Historical (pre-1900) Works Cited
 
-* Aquinas, St. Thomas, 1273, *Summa Theologica,* Fathers of the English Dominican Province (trans.), Notre Dame, IN: Christian Classics, 1981.
-* Aristotle, c. 330 BCE, *Nicomachean Ethics*, Roger Crisp (trans.), Cambridge: Cambridge University Press, 2000.
-* Augustine, St., c. 413–426 CE, *City of God*, Gerald G. Walsh, Demetrius B. Zema, Grace Monahan, Daniel J. Honan (trans.), Garden City, NY: Image Books, 1958.
-* Cicero, 45 BCE, *De Finibus*, H. Rackham (trans.), London: William Heinemann, 1914.
-* Confucius, 5th century BCE, *Analects*, E. Lang Harris (trans.), Indianapolis: Hackett, 2003.
-* Donne, J., 1608, *Biathanatos, A Declaration of that Paradoxe, or Thesis, that Selfe-homicide is not so naturally Sinne, that it may never be Otherwise*, London: Humphrey Moseley, 1648.
-* Durkheim, E., 1897, *Le Suicide*, Paris: G. Baillière.
-* d’Holbach, Baron, 1770, *The System of Nature, or Laws of the Moral and Physical World*, Volume 1, Robinson (trans.), New York: Burt Franklin, 1970.
-* Hume, D., 1783, *Of Suicide*, New York: Penguin, 2005. [[Available online](http://www.davidhume.org/texts/suis.html)].
-* Kant, I., 1785, *Metaphysics of Morals*, M. Gregor (trans.), Cambridge: Cambridge University Press, 1996.
-* Locke, J., 1690, *Two Treatises of Government*, Cambridge: Cambridge University Press, 1988.
-* Montaigne, M., 1595, *Essais* Fortunat Strowski *et al.* (eds.), 5 vols., Bordeaux: Pech, 1906–1933.
-* More, T., 1516, *Utopia*, George Logan and Robert Merrihew (eds.), Cambridge: Cambridge University Press, 2002.
-* Nietzsche, F. 1883. *Thus Spoke Zarathustra,* A. Del Caro and R. Pippin, (eds.), Cambridge: Cambridge University Press, 2006.
-* Plato, c. 340 BCE, *Phaedo*, David Gallop (trans.), Oxford, Oxford University Press, 1975.
-* –––, c. 340 BCE, *Laws*, 2 vols., R.G. Bury (trans.), New York: G.P. Putnam’s Sons, 1926.
-* Schopenhauer, A. 1819. *The World as Will and Representation*, Volume 1, J. Norman, A. Welchman, and C. Janaway, (eds.), (Cambridge Edition of the Works of Schopenhauer). Cambridge: Cambridge University Press, 2010.
-* Seneca, c. 60 CE, “On the Proper Time to Slip the Cable,” *L. Annaei Senecae Ad Lucilium Epistulae Morales*, L.D. Reynolds (ed.), Oxford: Oxford University Press, 1965.
-* Umaswati, A., 2nd-5th centuries CE, *Tattvartha Suttra*, S.A. Jain (trans.), *Reality: English Translation of Srimat Pujyapadacarya’s Sarvarthasiddhi*, Jwalamalini Trust, 1992.
+* Aquinas, St. Thomas, 1273, _Summa Theologica,_ Fathers of the English Dominican Province (trans.), Notre Dame, IN: Christian Classics, 1981.
+* Aristotle, c. 330 BCE, _Nicomachean Ethics_, Roger Crisp (trans.), Cambridge: Cambridge University Press, 2000.
+* Augustine, St., c. 413–426 CE, _City of God_, Gerald G. Walsh, Demetrius B. Zema, Grace Monahan, Daniel J. Honan (trans.), Garden City, NY: Image Books, 1958.
+* Cicero, 45 BCE, _De Finibus_, H. Rackham (trans.), London: William Heinemann, 1914.
+* Confucius, 5th century BCE, _Analects_, E. Lang Harris (trans.), Indianapolis: Hackett, 2003.
+* Donne, J., 1608, _Biathanatos, A Declaration of that Paradoxe, or Thesis, that Selfe-homicide is not so naturally Sinne, that it may never be Otherwise_, London: Humphrey Moseley, 1648.
+* Durkheim, E., 1897, _Le Suicide_, Paris: G. Baillière.
+* d’Holbach, Baron, 1770, _The System of Nature, or Laws of the Moral and Physical World_, Volume 1, Robinson (trans.), New York: Burt Franklin, 1970.
+* Hume, D., 1783, _Of Suicide_, New York: Penguin, 2005. \[[Available online](http://www.davidhume.org/texts/suis.html)].
+* Kant, I., 1785, _Metaphysics of Morals_, M. Gregor (trans.), Cambridge: Cambridge University Press, 1996.
+* Locke, J., 1690, _Two Treatises of Government_, Cambridge: Cambridge University Press, 1988.
+* Montaigne, M., 1595, _Essais_ Fortunat Strowski _et al._ (eds.), 5 vols., Bordeaux: Pech, 1906–1933.
+* More, T., 1516, _Utopia_, George Logan and Robert Merrihew (eds.), Cambridge: Cambridge University Press, 2002.
+* Nietzsche, F. 1883. _Thus Spoke Zarathustra,_ A. Del Caro and R. Pippin, (eds.), Cambridge: Cambridge University Press, 2006.
+* Plato, c. 340 BCE, _Phaedo_, David Gallop (trans.), Oxford, Oxford University Press, 1975.
+* –––, c. 340 BCE, _Laws_, 2 vols., R.G. Bury (trans.), New York: G.P. Putnam’s Sons, 1926.
+* Schopenhauer, A. 1819. _The World as Will and Representation_, Volume 1, J. Norman, A. Welchman, and C. Janaway, (eds.), (Cambridge Edition of the Works of Schopenhauer). Cambridge: Cambridge University Press, 2010.
+* Seneca, c. 60 CE, “On the Proper Time to Slip the Cable,” _L. Annaei Senecae Ad Lucilium Epistulae Morales_, L.D. Reynolds (ed.), Oxford: Oxford University Press, 1965.
+* Umaswati, A., 2nd-5th centuries CE, _Tattvartha Suttra_, S.A. Jain (trans.), _Reality: English Translation of Srimat Pujyapadacarya’s Sarvarthasiddhi_, Jwalamalini Trust, 1992.
 
 ### B. Works Cited, 1900–Present
 
-* Amundsen, D., 1989, “Suicide and Early Christian Values”, in *Suicide and Euthanasia: Historical and Contemporary Themes*, B. Brody (ed.), Dordrecht: Kluwer, pp. 77–153.
-* Barry, V., 2007, *Philosophical Thinking about Death and Dying*, Belmont: Wadsworth.
-* Beauchamp, T.L., 1992, “Suicide”, in *Matters of Life and Death*, T. Regan (ed.), New York: McGraw-Hill.
-* Beck, A.T., Kovacs, M., and Weissman A., 1979, “Assessment of Suicidal Ideation: The Scale for Suicidal Ideation”, *Journal of Consulting and Clinical Psychology*, 47(2): 343–352.
-* Benatar, D., 2021, “Suicide is *Sometimes* Rational and Morally Defensible”, in M. Cholbi and T. Timmerman (eds.), *Exploring the Philosophy of Death and Dying: Classical and Contemporary Perspectives*, New York: Routledge, pp. 217–223. 
-* Blauner, S.R., 2002, *How I Stayed Alive When My Brain Was Trying to Kill Me: One Person’s Guide to Suicide Prevention*, New York: HarperCollins.
-* Bogen, J., 1980, “Suicide and Virtue”, in M. Battin and D. Mayo (eds.), *Suicide: The Philosophical Issues*. New York: St. Martin’s.
-* Brandt, R., 1975, “The Morality and Rationality of Suicide”, in *A Handbook for the Study of Suicide*, S. Perlin (ed.) Oxford: Oxford University Press, pp. 66–76.
-* Campbell, R., and Collinson, D., 1988, *Ending Lives*, Oxford: Basil Blackwell.
-* Camus, A. 1975, *The Myth of Sisyphus*. New York: Penguin.
-* Cholbi, M., 2000, “Kant and the Irrationality of Suicide”, *History of Philosophy Quarterly*, 17(2): 159–176.
-* –––, 2002, “Suicide Intervention and Non-ideal Kantian Theory”, *Journal of Applied Philosophy*, 19: 245–259.
-* –––, 2007, “‘Self-manslaughter’ and the Forensic Classification of Self-inflicted Deaths,” *Journal of Medical Ethics*, 33: 155–157.
-* –––, 2010a, “A Kantian Defense of Prudential Suicide,” *Journal of Moral Philosophy*, 7: 489–515.
-* –––, 2010b, “The Duty to Die and the Burdensomeness of Living,” *Bioethics*, 24: 412–420.
-* –––, 2011, *Suicide: The Philosophical Dimensions*, Peterborough, Ontario: Broadview.
-* Cooper, J. M., 1989, “Greek Philosophers on Suicide and Euthanasia”, in *Suicide and Euthanasia: Historical and Contemporary Themes*, B. Brody (ed.), Dordrecht: Kluwer, pp. 9–38.
-* Cosculluela, V. 1994, “The Ethics of Suicide Prevention”, *International Journal of Applied Philosophy*, 9: 35–41.
-* –––, 1995, *The Ethics of Suicide*, New York: Garland.
-* Cowley, C., 2006, “Suicide Is Neither Rational Nor Irrational”, *Ethical Theory and Moral Practice*, 9: 495–504.
-* DeLancey, C., 2021, “Camus’s Absurd and the Argument against Suicide”, *Philosophia*, doi:10.1007/s11406-021-00333-7
-* Devine, P.E., 1978, “On Choosing Death”, in *The Ethics of Homicide*, Ithaca: Cornell University Press.
-* Donnelly, J., 1998, “Introduction,” in *Suicide: Right or Wrong?*, J. Donnelly (ed.), Amherst, NY: Prometheus, pp. 7–31.
-* Dowie, S., 2020, “What is Suicide? Classifying Self-Killing ”, *Medicine, Health Care, and Philosophy*, 23: 717–773.
-* Dworkin, G., Frey, R.G., and Bok, S., 1998, *Euthanasia and Physician-Assisted Suicide:For and Against*, Cambridge: Cambridge University Press.
-* Dworkin, R., 1993, *Life’s Dominion*, New York: Knopf.
-* Fairbairn, G., 1995, *Contemplating Suicide: The Language and Ethics of Self-Harm*, London: Routledge.
-* Fedden, H.R., 1938, *Suicide: A Social and Historical Study*, London: Peter Davies.
-* Frey, R.G., 1978, “Did Socrates Commit Suicide?”, *Philosophy*, 53: 106–108.
-* –––, 1981, “Suicide and Self-Inflicted Death”, *Philosophy*, 56: 193–202.
-* Friesen, P., 2020, “Medically Assisted Dying and Suicide: How Are They Different, and How Are They Similar?”, *Hastings Center Report*, 50: 32–43.
-* Gay-Willliams, J., 1996, “The Wrongfulness of Euthanasia”, in *Intervention and Reflection: Basic Issues in Medical Ethics*, R. Munson (ed.), Belmont: Wadsworth, pp. 156–163.
-* Glover, J., 1990, *Causing Death and Saving Lives*, London: Penguin.
-* Graber, G.C., 1981, “The Rationality of Suicide” in *Suicide and Euthanasia: The Rights of Personhood*, S. Wallace and A. Eser (eds.), Knoxville, TN: University of Tennessee Press, pp. 51–65.
-* Hayry, M., 1991, “Measuring the Quality of Life: Why, How and What?”, *Theoretical Medicine*, 2: 97–116.
-* Hardwig, J., 1996, “Dying at the Right Time: Reflections on Assisted and Unassisted Suicide,” in *Ethics in Practice*, H. LaFollette (ed.), New York: Blackwell.
-* –––, 1997, “Is There a Duty to Die?”, *Hastings Center Report*, 27: 34–42
-* Hardwig, J. *et al*., 2000, *Is There a Duty to Die?:And Other Essays in Bioethics*, New York: Routledge, pp. 48–58.
-* Hill, D.J., 2011, “What is It to Commit Suicide?”, *Ratio*, 24: 192–205.
-* Holley, D.M., 1989, “Voluntary Death, Property Rights, and the Gift of Life”, *Journal of Religious Ethics*, 17: 103–121.
-* Humber, J., and Almeder, R. (eds.), 2000, *Is There a Duty to Die?*, Totowa, NJ: Humana Press.
-* Joiner, T., 2010, *Myths about Suicide* , Cambridge: Cambridge University Press.
-* Kleinig, J., 1983,  *Paternalism*, Manchester: Manchester University Press.
-* Kluge, E.W., 1975, *The Practice of Death*, New Haven: Yale University Press.
-* Kupfer, Joseph, 1990, “Suicide: Its Nature and Moral Evaluation”, *Journal of Value Inquiry*, 24: 67–81.
-* Lecaldano, E., 2016, “Hume on Suicide”, in P.Russell, (ed.), *Oxford Handbook of Hume*, Oxford: Oxford University Press, pp. 660–668.
-* Lieberman, L., 2003, *Leaving You: The Cultural Meaning of Suicide*, Chicago: Ivan R. Dee.
-* Little , M., 1999, “Assisted Suicide, Suffering, and the Meaning of Life”, *Theoretical Medicine and Bioethics*, 20: 287–298.
-* Luper, S., 2009, *Philosophy of Death*, Cambridge: Cambridge University Press.
-* Martin, N., 2011, “Preserving Trust, Maintaining Care, and Saving Lives: Competing Feminist Values in Suicide Prevention,” *International Journal of Feminist Approaches to Bioethics*, 4: 164–187.
-* Martin, R.M., 1980, “Suicide and False Desires”, in *Suicide: The Philosophical Issues*, M. Battin and D. Mayo (eds.), New York: St. Martin’s, pp. 144–150.
-* Maung, H., 2020, “Pluralism and Incommensurability in Suicide Research”, *Studies in History and Philosophy of Science Part C* (Studies in History and Philosophy of Biological and Biomedical Sciences), 80 (April): 101247. doi:10.1016/j.shpsc.2019.101247
-* –––, 2021, “Mental Disorder and Suicide: What’s the Connection?” *Journal of Medicine and Philosophy*, doi:10.1093/jmp/jhab015
-* Menzel, P.T., 2000, “The Nature, Scope, and Implications of a Personal Moral Duty to Die,” in J. Humber and R. Almeder (eds.), *Is There a Duty to Die?*, Totowa, NJ: Humana Press, pp. 93–114.
-* McMahan, J., 2002, *The Ethics of Killing: Problems at the Margins of Life*, Oxford: Oxford University Press.
-* Minois, G., 1999, *History of Suicide: Voluntary Death in Western Culture*, Baltimore: Johns Hopkins University Press.
-* Moreland, J.P. and Geisler, N.L., 1990, *The Life and Death Debate*, Westport: Greenwood Press.
-* Narveson, J., 2000, “Is There a Duty to Die?” in J. Humber and R. Almeder (eds.), *Is There a Duty to Die?*, Totowa, NJ: Humana Press.
-* Ng, J., Sjöstrand, M., and Eyal, N., 2019, “ Adding Lithium to Drinking Water for Suicide Prevention: The Ethics”, *Public Health Ethics*, 12: 274–286.
-* O’Keeffe, T.M., 1981, “Suicide and Self-Starvation”, *Philosophy*, 56: 349–363.
-* Pabst Battin, M., 1996, *The Death Debate. Ethical Issues in Suicide*, Upper Saddle River, NJ: Prentice-Hall.
-* –––, 2003, “Euthanasia and Physician-Assisted Suicide,” in H. LaFollette (ed)., *Oxford Handbook of Practical Ethics*, Oxford: Oxford University Press, pp. 673–704.
-* –––, 2015, *The Ethics of Suicide: Historical Sources*, Oxford: Oxford University Press.
-* Paterson, C., 2003, “On Clarifying Terms in Applied Ethics Discourse: Suicide, Assisted Suicide and Euthanasia”, *International Philosophical Quarterly*, 43(3): 351–358.
-* Radden, J., 1982, “Diseases as Excuses:Durham and the Insanity Defense”, *Philosophical Studies*, 42(3): 349–362.
-* Reed, P., 2020, “Against Recategorizing Physician-Assisted Suicide”, *Public Affairs Quarterly*, 34: 50–71.
-* Ramsey, P., 1978, *Ethics at the Edges of Life*, New Haven: Yale University Press.
-* Shneidman, E., 1985, *Definition of Suicide*, New York: Wiley & Sons.
-* Singer, P., 1993, *Practical Ethics*, Cambridge: Cambridge University Press.
-* –––, 1994, *Rethinking Life and Death*, New York: St. Martin’s.
-* Sprott, S.E., 1961, *The English Debate on Suicide from Donne to Hume*, LaSalle, IL: Open Court.
-* Stellino, P., 2020, *Philosophical Perspectives on Suicide: Kant, Schopenhauer, Nietzsche, and Wittgenstein*, Cham: Palgrave Macmillan.
-* Stern-Gillett, S., 1987, “The Rhetoric of Suicide”, *Philosophy and Rhetoric*, 20(3): 160–170.
-* Szasz, T., 2002, *Fatal Freedom: The Ethics and Politics of Suicide*, Syracuse: Syracuse University Press.
-* Tolhurst, W.E., 1983, “Suicide, Self-sacrifice, and Coercion”, *Southern Journal of Philosophy*, 21: 109–121.
-* Tong, R., 2000, “Duty to Die,” in J. Humber and R. Almeder (eds.), *Is There a Duty to Die?*, Totowa, NJ: Humana Press.
-* van Zyl, L., 2000, *Death and Compassion: A Virtue-based Approach to Euthanasia*, London: Ashgate.
-* Varelius, J., 2013, “Ending Life, Morality, and Meaning”, *Ethical Theory and Moral Practice*, 16: 559–574.
-* Velleman, J.D., 1999, “Is There a Right of Self-Termination?”, *Ethics*, 109: 606–628.
-* White, J., Marsh, I., Kral, M.J., and Morris, J., 2016, *Critical Suicidology: Transforming Suicide Research and Prevention for the 21st Century*, Vancouver: University of British Columbia Press.
-* Windt, P., 1981, “The Concept of Suicide”, in *Suicide: The Philosophical Issues*, M. Pabst-Battin and D.J. Mayo (eds.), London: Peter Owen, pp. 42–43.
+* Amundsen, D., 1989, “Suicide and Early Christian Values”, in _Suicide and Euthanasia: Historical and Contemporary Themes_, B. Brody (ed.), Dordrecht: Kluwer, pp. 77–153.
+* Barry, V., 2007, _Philosophical Thinking about Death and Dying_, Belmont: Wadsworth.
+* Beauchamp, T.L., 1992, “Suicide”, in _Matters of Life and Death_, T. Regan (ed.), New York: McGraw-Hill.
+* Beck, A.T., Kovacs, M., and Weissman A., 1979, “Assessment of Suicidal Ideation: The Scale for Suicidal Ideation”, _Journal of Consulting and Clinical Psychology_, 47(2): 343–352.
+* Benatar, D., 2021, “Suicide is _Sometimes_ Rational and Morally Defensible”, in M. Cholbi and T. Timmerman (eds.), _Exploring the Philosophy of Death and Dying: Classical and Contemporary Perspectives_, New York: Routledge, pp. 217–223.&#x20;
+* Blauner, S.R., 2002, _How I Stayed Alive When My Brain Was Trying to Kill Me: One Person’s Guide to Suicide Prevention_, New York: HarperCollins.
+* Bogen, J., 1980, “Suicide and Virtue”, in M. Battin and D. Mayo (eds.), _Suicide: The Philosophical Issues_. New York: St. Martin’s.
+* Brandt, R., 1975, “The Morality and Rationality of Suicide”, in _A Handbook for the Study of Suicide_, S. Perlin (ed.) Oxford: Oxford University Press, pp. 66–76.
+* Campbell, R., and Collinson, D., 1988, _Ending Lives_, Oxford: Basil Blackwell.
+* Camus, A. 1975, _The Myth of Sisyphus_. New York: Penguin.
+* Cholbi, M., 2000, “Kant and the Irrationality of Suicide”, _History of Philosophy Quarterly_, 17(2): 159–176.
+* –––, 2002, “Suicide Intervention and Non-ideal Kantian Theory”, _Journal of Applied Philosophy_, 19: 245–259.
+* –––, 2007, “‘Self-manslaughter’ and the Forensic Classification of Self-inflicted Deaths,” _Journal of Medical Ethics_, 33: 155–157.
+* –––, 2010a, “A Kantian Defense of Prudential Suicide,” _Journal of Moral Philosophy_, 7: 489–515.
+* –––, 2010b, “The Duty to Die and the Burdensomeness of Living,” _Bioethics_, 24: 412–420.
+* –––, 2011, _Suicide: The Philosophical Dimensions_, Peterborough, Ontario: Broadview.
+* Cooper, J. M., 1989, “Greek Philosophers on Suicide and Euthanasia”, in _Suicide and Euthanasia: Historical and Contemporary Themes_, B. Brody (ed.), Dordrecht: Kluwer, pp. 9–38.
+* Cosculluela, V. 1994, “The Ethics of Suicide Prevention”, _International Journal of Applied Philosophy_, 9: 35–41.
+* –––, 1995, _The Ethics of Suicide_, New York: Garland.
+* Cowley, C., 2006, “Suicide Is Neither Rational Nor Irrational”, _Ethical Theory and Moral Practice_, 9: 495–504.
+* DeLancey, C., 2021, “Camus’s Absurd and the Argument against Suicide”, _Philosophia_, doi:10.1007/s11406-021-00333-7
+* Devine, P.E., 1978, “On Choosing Death”, in _The Ethics of Homicide_, Ithaca: Cornell University Press.
+* Donnelly, J., 1998, “Introduction,” in _Suicide: Right or Wrong?_, J. Donnelly (ed.), Amherst, NY: Prometheus, pp. 7–31.
+* Dowie, S., 2020, “What is Suicide? Classifying Self-Killing ”, _Medicine, Health Care, and Philosophy_, 23: 717–773.
+* Dworkin, G., Frey, R.G., and Bok, S., 1998, _Euthanasia and Physician-Assisted Suicide:For and Against_, Cambridge: Cambridge University Press.
+* Dworkin, R., 1993, _Life’s Dominion_, New York: Knopf.
+* Fairbairn, G., 1995, _Contemplating Suicide: The Language and Ethics of Self-Harm_, London: Routledge.
+* Fedden, H.R., 1938, _Suicide: A Social and Historical Study_, London: Peter Davies.
+* Frey, R.G., 1978, “Did Socrates Commit Suicide?”, _Philosophy_, 53: 106–108.
+* –––, 1981, “Suicide and Self-Inflicted Death”, _Philosophy_, 56: 193–202.
+* Friesen, P., 2020, “Medically Assisted Dying and Suicide: How Are They Different, and How Are They Similar?”, _Hastings Center Report_, 50: 32–43.
+* Gay-Willliams, J., 1996, “The Wrongfulness of Euthanasia”, in _Intervention and Reflection: Basic Issues in Medical Ethics_, R. Munson (ed.), Belmont: Wadsworth, pp. 156–163.
+* Glover, J., 1990, _Causing Death and Saving Lives_, London: Penguin.
+* Graber, G.C., 1981, “The Rationality of Suicide” in _Suicide and Euthanasia: The Rights of Personhood_, S. Wallace and A. Eser (eds.), Knoxville, TN: University of Tennessee Press, pp. 51–65.
+* Hayry, M., 1991, “Measuring the Quality of Life: Why, How and What?”, _Theoretical Medicine_, 2: 97–116.
+* Hardwig, J., 1996, “Dying at the Right Time: Reflections on Assisted and Unassisted Suicide,” in _Ethics in Practice_, H. LaFollette (ed.), New York: Blackwell.
+* –––, 1997, “Is There a Duty to Die?”, _Hastings Center Report_, 27: 34–42
+* Hardwig, J. _et al_., 2000, _Is There a Duty to Die?:And Other Essays in Bioethics_, New York: Routledge, pp. 48–58.
+* Hill, D.J., 2011, “What is It to Commit Suicide?”, _Ratio_, 24: 192–205.
+* Holley, D.M., 1989, “Voluntary Death, Property Rights, and the Gift of Life”, _Journal of Religious Ethics_, 17: 103–121.
+* Humber, J., and Almeder, R. (eds.), 2000, _Is There a Duty to Die?_, Totowa, NJ: Humana Press.
+* Joiner, T., 2010, _Myths about Suicide_ , Cambridge: Cambridge University Press.
+* Kleinig, J., 1983,  _Paternalism_, Manchester: Manchester University Press.
+* Kluge, E.W., 1975, _The Practice of Death_, New Haven: Yale University Press.
+* Kupfer, Joseph, 1990, “Suicide: Its Nature and Moral Evaluation”, _Journal of Value Inquiry_, 24: 67–81.
+* Lecaldano, E., 2016, “Hume on Suicide”, in P.Russell, (ed.), _Oxford Handbook of Hume_, Oxford: Oxford University Press, pp. 660–668.
+* Lieberman, L., 2003, _Leaving You: The Cultural Meaning of Suicide_, Chicago: Ivan R. Dee.
+* Little , M., 1999, “Assisted Suicide, Suffering, and the Meaning of Life”, _Theoretical Medicine and Bioethics_, 20: 287–298.
+* Luper, S., 2009, _Philosophy of Death_, Cambridge: Cambridge University Press.
+* Martin, N., 2011, “Preserving Trust, Maintaining Care, and Saving Lives: Competing Feminist Values in Suicide Prevention,” _International Journal of Feminist Approaches to Bioethics_, 4: 164–187.
+* Martin, R.M., 1980, “Suicide and False Desires”, in _Suicide: The Philosophical Issues_, M. Battin and D. Mayo (eds.), New York: St. Martin’s, pp. 144–150.
+* Maung, H., 2020, “Pluralism and Incommensurability in Suicide Research”, _Studies in History and Philosophy of Science Part C_ (Studies in History and Philosophy of Biological and Biomedical Sciences), 80 (April): 101247. doi:10.1016/j.shpsc.2019.101247
+* –––, 2021, “Mental Disorder and Suicide: What’s the Connection?” _Journal of Medicine and Philosophy_, doi:10.1093/jmp/jhab015
+* Menzel, P.T., 2000, “The Nature, Scope, and Implications of a Personal Moral Duty to Die,” in J. Humber and R. Almeder (eds.), _Is There a Duty to Die?_, Totowa, NJ: Humana Press, pp. 93–114.
+* McMahan, J., 2002, _The Ethics of Killing: Problems at the Margins of Life_, Oxford: Oxford University Press.
+* Minois, G., 1999, _History of Suicide: Voluntary Death in Western Culture_, Baltimore: Johns Hopkins University Press.
+* Moreland, J.P. and Geisler, N.L., 1990, _The Life and Death Debate_, Westport: Greenwood Press.
+* Narveson, J., 2000, “Is There a Duty to Die?” in J. Humber and R. Almeder (eds.), _Is There a Duty to Die?_, Totowa, NJ: Humana Press.
+* Ng, J., Sjöstrand, M., and Eyal, N., 2019, “ Adding Lithium to Drinking Water for Suicide Prevention: The Ethics”, _Public Health Ethics_, 12: 274–286.
+* O’Keeffe, T.M., 1981, “Suicide and Self-Starvation”, _Philosophy_, 56: 349–363.
+* Pabst Battin, M., 1996, _The Death Debate. Ethical Issues in Suicide_, Upper Saddle River, NJ: Prentice-Hall.
+* –––, 2003, “Euthanasia and Physician-Assisted Suicide,” in H. LaFollette (ed)., _Oxford Handbook of Practical Ethics_, Oxford: Oxford University Press, pp. 673–704.
+* –––, 2015, _The Ethics of Suicide: Historical Sources_, Oxford: Oxford University Press.
+* Paterson, C., 2003, “On Clarifying Terms in Applied Ethics Discourse: Suicide, Assisted Suicide and Euthanasia”, _International Philosophical Quarterly_, 43(3): 351–358.
+* Radden, J., 1982, “Diseases as Excuses:Durham and the Insanity Defense”, _Philosophical Studies_, 42(3): 349–362.
+* Reed, P., 2020, “Against Recategorizing Physician-Assisted Suicide”, _Public Affairs Quarterly_, 34: 50–71.
+* Ramsey, P., 1978, _Ethics at the Edges of Life_, New Haven: Yale University Press.
+* Shneidman, E., 1985, _Definition of Suicide_, New York: Wiley & Sons.
+* Singer, P., 1993, _Practical Ethics_, Cambridge: Cambridge University Press.
+* –––, 1994, _Rethinking Life and Death_, New York: St. Martin’s.
+* Sprott, S.E., 1961, _The English Debate on Suicide from Donne to Hume_, LaSalle, IL: Open Court.
+* Stellino, P., 2020, _Philosophical Perspectives on Suicide: Kant, Schopenhauer, Nietzsche, and Wittgenstein_, Cham: Palgrave Macmillan.
+* Stern-Gillett, S., 1987, “The Rhetoric of Suicide”, _Philosophy and Rhetoric_, 20(3): 160–170.
+* Szasz, T., 2002, _Fatal Freedom: The Ethics and Politics of Suicide_, Syracuse: Syracuse University Press.
+* Tolhurst, W.E., 1983, “Suicide, Self-sacrifice, and Coercion”, _Southern Journal of Philosophy_, 21: 109–121.
+* Tong, R., 2000, “Duty to Die,” in J. Humber and R. Almeder (eds.), _Is There a Duty to Die?_, Totowa, NJ: Humana Press.
+* van Zyl, L., 2000, _Death and Compassion: A Virtue-based Approach to Euthanasia_, London: Ashgate.
+* Varelius, J., 2013, “Ending Life, Morality, and Meaning”, _Ethical Theory and Moral Practice_, 16: 559–574.
+* Velleman, J.D., 1999, “Is There a Right of Self-Termination?”, _Ethics_, 109: 606–628.
+* White, J., Marsh, I., Kral, M.J., and Morris, J., 2016, _Critical Suicidology: Transforming Suicide Research and Prevention for the 21st Century_, Vancouver: University of British Columbia Press.
+* Windt, P., 1981, “The Concept of Suicide”, in _Suicide: The Philosophical Issues_, M. Pabst-Battin and D.J. Mayo (eds.), London: Peter Owen, pp. 42–43.
 
 ### C. Further Reading
 
-* Alvarez, A., 1982, *The Savage God: A Study of Suicide*. New York: Bantam.
-* Battin, M. and Mayo, D. (eds.), 1980, *Suicide: The Philosophical Issues*. New York: St. Martin’s.
-* Donnelly, J. (ed.), 1998, *Suicide: Right or Wrong?* Amherst, NY: Prometheus.
-* Hecht, J.M., 2013, *Stay: A History of Suicide and the Philosophies Against It*. New Haven: Yale University Press.
-* Joiner, T., 2005, *Why People Die by Suicide*. Cambridge, MA: Harvard University Press.
-* Maltsberger, J.T., and Goldblatt, M., 1996, *Essential Papers on Suicide*, New York: New York University Press.
-* Mayo, D., 1986, “The Concept of Rational Suicide”, *Journal of Medicine and Philosophy*, 2: 143–155.
-* Nagel, T., 1970, “Death”, *Noûs*, 4: 73–80.
-* Novak, D., 1976, *Suicide and Morality: The Theories of Plato, Aquinas, and Kant and Their Relevance for Suicidology*, Scholars Studies Press.
-* Shneidman, E.S., 1998, *The Suicidal Mind*, Oxford: Oxford University Press.
+* Alvarez, A., 1982, _The Savage God: A Study of Suicide_. New York: Bantam.
+* Battin, M. and Mayo, D. (eds.), 1980, _Suicide: The Philosophical Issues_. New York: St. Martin’s.
+* Donnelly, J. (ed.), 1998, _Suicide: Right or Wrong?_ Amherst, NY: Prometheus.
+* Hecht, J.M., 2013, _Stay: A History of Suicide and the Philosophies Against It_. New Haven: Yale University Press.
+* Joiner, T., 2005, _Why People Die by Suicide_. Cambridge, MA: Harvard University Press.
+* Maltsberger, J.T., and Goldblatt, M., 1996, _Essential Papers on Suicide_, New York: New York University Press.
+* Mayo, D., 1986, “The Concept of Rational Suicide”, _Journal of Medicine and Philosophy_, 2: 143–155.
+* Nagel, T., 1970, “Death”, _Noûs_, 4: 73–80.
+* Novak, D., 1976, _Suicide and Morality: The Theories of Plato, Aquinas, and Kant and Their Relevance for Suicidology_, Scholars Studies Press.
+* Shneidman, E.S., 1998, _The Suicidal Mind_, Oxford: Oxford University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=suicide). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/suicide/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=suicide&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/suicide/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=suicide).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/suicide/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=suicide\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/suicide/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -339,7 +338,7 @@
 
 ## Related Entries
 
-[autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [autonomy: personal](https://plato.stanford.edu/entries/personal-autonomy/) | [death](https://plato.stanford.edu/entries/death/) | [double effect, doctrine of](https://plato.stanford.edu/entries/double-effect/) | [euthanasia: voluntary](https://plato.stanford.edu/entries/euthanasia-voluntary/) | [libertarianism](https://plato.stanford.edu/entries/libertarianism/) | [mental disorder](https://plato.stanford.edu/entries/mental-disorder/) | [paternalism](https://plato.stanford.edu/entries/paternalism/) | [rights](https://plato.stanford.edu/entries/rights/) | [well-being](https://plato.stanford.edu/entries/well-being/)
+[autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [autonomy: personal](https://plato.stanford.edu/entries/personal-autonomy/) | [death](https://plato.stanford.edu/entries/death/) | [double effect, doctrine of](https://plato.stanford.edu/entries/double-effect/) | [euthanasia: voluntary](https://plato.stanford.edu/entries/euthanasia-voluntary/) | [libertarianism](https://plato.stanford.edu/entries/libertarianism/) | [mental disorder](https://plato.stanford.edu/entries/mental-disorder/) | [paternalism](https://plato.stanford.edu/entries/paternalism/) | [rights](https://plato.stanford.edu/entries/rights/) | [well-being](https://plato.stanford.edu/entries/well-being/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Michael Cholbi](http://michael.cholbi.com/) <[*mcholbi@ed.ac.uk*](mailto:mcholbi%40ed%2eac%2euk)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Michael Cholbi](http://michael.cholbi.com/) <[_mcholbi@ed.ac.uk_](mailto:mcholbi%40ed%2eac%2euk)>

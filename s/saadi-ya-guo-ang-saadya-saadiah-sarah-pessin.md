@@ -1,14 +1,14 @@
 # 萨阿迪亚·果昂 Saadya \[Saadiah] (Sarah Pessin)
 
-*首次发表于 2003 年 5 月 6 日星期二*
+_首次发表于 2003 年 5 月 6 日星期二_
 
 在他对理性和启示作为认识和生活的共同基础的哲学承诺中，萨阿迪亚创造了一个空间，用于信仰、理解、传统和法律的相互作用。萨阿迪亚在犹太传统中捍卫了圣经和拉宾尼克著作的真实性和合理性，与那些不尊重拉宾尼克权威的犹太社区成员进行辩论，并在认识论、道德和宗教问题上融合了独特的哲学和神学感性。萨阿迪亚以他对“理性法则”和“启示法则”之间差异的讨论而闻名，他在关注人类理性的重要性方面，也常被认为是追随伊斯兰（尤其是穆‘塔兹里派）卡拉姆神学的某些趋势。
 
----
+***
 
 ## 1. 生活
 
-萨阿迪亚·果昂（萨阿迪亚·本·约瑟夫，阿拉伯语中称为萨伊德·伊本·尤素夫·法尤米）于 882 年出生于费尤姆（上埃及），于 942 年在巴格达去世。作为神学家、哲学家和拉比，萨阿迪亚的遗产包括一些哲学和神学著作、两部阿拉伯语圣经翻译、一部[大部分已不存在]阿拉伯语圣经注释、各种拉宾尼克、数学和语法著作、一本希伯来语词典、礼拜诗和犹太祈祷书。
+萨阿迪亚·果昂（萨阿迪亚·本·约瑟夫，阿拉伯语中称为萨伊德·伊本·尤素夫·法尤米）于 882 年出生于费尤姆（上埃及），于 942 年在巴格达去世。作为神学家、哲学家和拉比，萨阿迪亚的遗产包括一些哲学和神学著作、两部阿拉伯语圣经翻译、一部\[大部分已不存在]阿拉伯语圣经注释、各种拉宾尼克、数学和语法著作、一本希伯来语词典、礼拜诗和犹太祈祷书。
 
 萨阿迪亚·果昂是犹太社区生活中的重要人物，他的拉比职业涉及有争议的犹太历法改革和争议性的晋升为苏拉学院院长的事务。
 
@@ -18,7 +18,7 @@
 
 正是对理性的重视以及其成果——知识和确定性——的坚守，构成了萨阿迪亚主要哲学著作《信仰与信条之书》（在塞缪尔·伊本·提本的希伯来语翻译中称为《信仰与见解之书》）的核心。接下来，我们将把这本书称为《信仰与信条》。在这部巨著中，萨阿迪亚的目标是使人们摆脱各种认识论和存在论的瘫痪状态，这些状态使他们始终只能生活在错误和怀疑的阴影之中。萨阿迪亚关心帮助治愈这种独特的人类疾病，希望给人们提供真理和确定性——正确生活的基础。因此，在对“以色列的主，真理绝对可知的上帝”进行认识论赞美的开篇之后，萨阿迪亚开始了《信仰与信条》，并阐述了他的作品的认识论目的：
 
-> …我将以一篇论述开始这本书，我打算写下的目的是解释为什么人们在寻求真理时会陷入错误，并且如何消除这些错误，以便能够完全达到他们调查的对象；此外，为什么其中一些错误对某些人有如此强大的影响，以至于他们将其肯定为真理，自欺欺人地认为自己知道一些东西…（阿尔特曼，27）[1]
+> …我将以一篇论述开始这本书，我打算写下的目的是解释为什么人们在寻求真理时会陷入错误，并且如何消除这些错误，以便能够完全达到他们调查的对象；此外，为什么其中一些错误对某些人有如此强大的影响，以至于他们将其肯定为真理，自欺欺人地认为自己知道一些东西…（阿尔特曼，27）\[1]
 
 萨阿迪亚认为，人们之间的不幸状况是他的工作动力，几行之后，他用错误的生活模式来描述这种状况，这些模式源于理性的各种失败：
 
@@ -34,11 +34,11 @@
 
 在这里，明确将经文视为传统（尽管在其他地方，他也将拉宾尼写作视为传统），他解释道：
 
-> [上帝] 知道他的法律和他奇迹的故事会随着时间的推移需要人们将它们传承给后代，以便它们对后代和早期的人们一样明显。因此，他在我们的思想中准备了一个接受可靠传统（al-kabar as-sâdiq）的地方，在我们的灵魂中准备了一个安静的角落来信任它，以便他的经文和故事能够安全地与我们在一起（Altmann，109）
+> \[上帝] 知道他的法律和他奇迹的故事会随着时间的推移需要人们将它们传承给后代，以便它们对后代和早期的人们一样明显。因此，他在我们的思想中准备了一个接受可靠传统（al-kabar as-sâdiq）的地方，在我们的灵魂中准备了一个安静的角落来信任它，以便他的经文和故事能够安全地与我们在一起（Altmann，109）
 
 可靠的传统，因此，是一个可以信任的报告。它是某种知识的直接来源。
 
-在讨论传统时，萨阿迪亚使用了词语“kabar”，我们已经知道它带有报告（但也包括知道）的意义。在关于传统作为报告的问题上，考虑另一个阿拉伯语词根“sami'a”（听）也是有用的。虽然这个词根本身的意思只是“听”，但我们可以注意到，它在概念上与报告的概念有联系，因为接收报告通常涉及听到。因此，在阿拉伯语中，“听”和萨阿迪亚关于传统的概念（kabar，作为“报告”）之间存在一个概念上的联系。实际上，阿拉伯语词根“听”以其构造形式（samâ'î）出现，其字面意思是“传统的”或“源自传统的”。因此，在萨阿迪亚的阿拉伯语言和概念空间中，听和传统的概念之间的这种联系对于帮助我们正确“恢复”萨阿迪亚关于“启示”的本质非常重要。与拉丁语词根“启示”相反，它字面上的意思是“恢复”（来自拉丁语 vêô，意为覆盖，因此“揭示”的字面意思是“恢复”），在萨阿迪亚的著作中被翻译为“启示”的阿拉伯语术语根植于阿拉伯语词根“听”。特别要考虑萨阿迪亚对一类圣经规定的重要讨论，通常被翻译为“启示的法律”。继已经在拉宾尼克来源中进行了区分之后，萨阿迪亚在犹太哲学文本中首次对这种区分进行了详细讨论，他提醒我们希伯来圣经中存在两类法律，最常被翻译为“理性法律”和“启示法律”。对于“理性法律”，萨阿迪亚使用了词语‘aqliyyât，来自词语‘aql（字面上是智力的能力），因此，我们可以说，这些法律是“人类智力所知道的（或者至少在理论上可以知道的）”或者“可以通过人类理性得出的（至少在理论上可以得出的）”。 至于“启示的法律”，萨阿迪亚在这里使用了词根 sam‘iyyât，来自 samī‘a，意为“听到”；因此，这些法律字面上是“被听到的”。因此，要意识到，在“理性法律”和“启示法律”之间翻译为“启示”的这个词的阿拉伯语词根，从语言学上来说，带有“被听到”的概念，并且因此与传统的概念（作为[被听到的]报告）有更直接的相关性，而不是拉丁语词根的“启示”一词。”
+在讨论传统时，萨阿迪亚使用了词语“kabar”，我们已经知道它带有报告（但也包括知道）的意义。在关于传统作为报告的问题上，考虑另一个阿拉伯语词根“sami'a”（听）也是有用的。虽然这个词根本身的意思只是“听”，但我们可以注意到，它在概念上与报告的概念有联系，因为接收报告通常涉及听到。因此，在阿拉伯语中，“听”和萨阿迪亚关于传统的概念（kabar，作为“报告”）之间存在一个概念上的联系。实际上，阿拉伯语词根“听”以其构造形式（samâ'î）出现，其字面意思是“传统的”或“源自传统的”。因此，在萨阿迪亚的阿拉伯语言和概念空间中，听和传统的概念之间的这种联系对于帮助我们正确“恢复”萨阿迪亚关于“启示”的本质非常重要。与拉丁语词根“启示”相反，它字面上的意思是“恢复”（来自拉丁语 vêô，意为覆盖，因此“揭示”的字面意思是“恢复”），在萨阿迪亚的著作中被翻译为“启示”的阿拉伯语术语根植于阿拉伯语词根“听”。特别要考虑萨阿迪亚对一类圣经规定的重要讨论，通常被翻译为“启示的法律”。继已经在拉宾尼克来源中进行了区分之后，萨阿迪亚在犹太哲学文本中首次对这种区分进行了详细讨论，他提醒我们希伯来圣经中存在两类法律，最常被翻译为“理性法律”和“启示法律”。对于“理性法律”，萨阿迪亚使用了词语‘aqliyyât，来自词语‘aql（字面上是智力的能力），因此，我们可以说，这些法律是“人类智力所知道的（或者至少在理论上可以知道的）”或者“可以通过人类理性得出的（至少在理论上可以得出的）”。 至于“启示的法律”，萨阿迪亚在这里使用了词根 sam‘iyyât，来自 samī‘a，意为“听到”；因此，这些法律字面上是“被听到的”。因此，要意识到，在“理性法律”和“启示法律”之间翻译为“启示”的这个词的阿拉伯语词根，从语言学上来说，带有“被听到”的概念，并且因此与传统的概念（作为\[被听到的]报告）有更直接的相关性，而不是拉丁语词根的“启示”一词。”
 
 通过报告和听闻的概念链，理解萨阿迪亚·果昂中传统与启示之间的联系是很重要的，有很多原因。首先，它本身就很重要，提醒我们翻译往往会使我们错过我们试图恢复的传统的概念含义。其次，这种联系直接表明了萨阿迪亚对犹太教拉比传统的承诺，它本身与启示经文具有同等的认识论地位（与犹太教卡拉伊派运动相反，在萨阿迪亚时代，卡拉伊派运动坚决否认拉比法律的任何约束力，而萨阿迪亚对此进行了辩护）。换句话说，通过理解阿拉伯语中启示和传统之间的概念联系（如上所示），可以帮助我们更好地理解萨阿迪亚对拉比传统（或口传法）作为神启示的处理。此外，通过理解启示和传统之间的这种“听闻联系”，还有助于阐明萨阿迪亚在这两个概念和预言之间的直接联系。对于萨阿迪亚来说，预言在某种程度上是先知所听到的神圣的“创造之言”。从这个观点来看，很明显——仅从阿拉伯语术语的概念空间来看——通过这种听闻的观念，启示、传统和预言都是密切相关的。尽管他对预言的概念还包括一个视觉元素，即“创造的荣耀”（有趣的是，对于萨阿迪亚来说，摩西的最终预言体验只是听觉的，没有包括这个视觉元素），但重要的是强调神圣言说和人类接受-作为听闻的直接联系，这本身对于启示和传统作为“可靠听闻的事物”（因此，被知晓）的共同存储库具有重要意义。
 
@@ -52,7 +52,7 @@
 
 ## 4. “理性法则”与“启示法则”
 
-对于萨阿迪亚来说，整本圣经都是启示的（特别是作为对摩西的听觉预言，然后由后代传承），但萨阿迪亚关注的“启示法律”并不包括所有启示的圣经，甚至不包括所有在启示的圣经中找到的法律，而只包括其中的一部分。为了更好地理解“启示法律”指的是什么，再次考虑对比类别，即“理性法律”（当然也可以在启示的圣经中找到）。如上所述，这两类圣经法律的区别已经在拉宾文学中提到过（参见巴比伦塔木德，约玛 67b）；然而，萨阿迪亚被视为第一个真正从哲学角度参与这个讨论的犹太作家。萨阿迪亚在他的《阿曼纳特》第三章中讨论了这个区别（这一章专门研究“命令和禁令”）。在那里，“理性法律”（再次，从“智力”一词的词根“智力”）被描述为圣经中的命令和禁令，其原因可以由任何理性的人独立得出。换句话说，这些法律应该对任何理性的人来说都“有意义”，因此它们是基本的（可以说是自然的）道德法律，如果我们依靠自己的设备，我们应该自己想出来。这类法律的例子包括对谋杀、通奸、偷窃和撒谎的禁止。萨阿迪亚将“理性法律”描述为在某些事情上立法，正如萨阿迪亚所说，上帝“在我们的理性中植入了赞同[或者在禁止的情况下，不赞同]”（Altmann，97）。相反，“启示法律”（再次，从“听到”一词的词根“听到”）被描述如下：
+对于萨阿迪亚来说，整本圣经都是启示的（特别是作为对摩西的听觉预言，然后由后代传承），但萨阿迪亚关注的“启示法律”并不包括所有启示的圣经，甚至不包括所有在启示的圣经中找到的法律，而只包括其中的一部分。为了更好地理解“启示法律”指的是什么，再次考虑对比类别，即“理性法律”（当然也可以在启示的圣经中找到）。如上所述，这两类圣经法律的区别已经在拉宾文学中提到过（参见巴比伦塔木德，约玛 67b）；然而，萨阿迪亚被视为第一个真正从哲学角度参与这个讨论的犹太作家。萨阿迪亚在他的《阿曼纳特》第三章中讨论了这个区别（这一章专门研究“命令和禁令”）。在那里，“理性法律”（再次，从“智力”一词的词根“智力”）被描述为圣经中的命令和禁令，其原因可以由任何理性的人独立得出。换句话说，这些法律应该对任何理性的人来说都“有意义”，因此它们是基本的（可以说是自然的）道德法律，如果我们依靠自己的设备，我们应该自己想出来。这类法律的例子包括对谋杀、通奸、偷窃和撒谎的禁止。萨阿迪亚将“理性法律”描述为在某些事情上立法，正如萨阿迪亚所说，上帝“在我们的理性中植入了赞同\[或者在禁止的情况下，不赞同]”（Altmann，97）。相反，“启示法律”（再次，从“听到”一词的词根“听到”）被描述如下：
 
 > 第二类法律涉及的事项，就其本质而言，理性不会对其进行赞同或不赞同的判断...（Altmann，97）
 
@@ -72,7 +72,7 @@
 
 2. 在进一步的推理中（在我们对萨阿迪亚对上帝发布“启示法律”的分析中更详细地概述），萨阿迪亚解释了通过将“理性法律”包括在神圣启示的诫命和禁令清单中，上帝实际上允许祂的臣民做他们本来就会做的事情（即根据基本的、以理性为基础的道德理念行事），但使他们能够额外获得“履行上帝命令”的奖励。
 
-> 当面对这个陈述时[即戒律和禁令是神的恩赐]，理性的第一个冲动将是反对上帝本应能够赐予人们完美的幸福，并在不加诸于他们戒律和禁令的情况下赐予他们永恒的幸福。此外，这样做似乎对他们的善意更有益处，因为他们将摆脱任何辛苦努力的必要性。我对这个反对意见的回答是，相反，上帝所设立的秩序，即通过人们遵守法律而实现永恒的幸福，更为可取。因为理性判断，一个通过自己的努力获得一些好处的人，比起没有做任何工作而接受恩典的人，享受到了双倍的幸福。理性认为将两者置于同一水平是不正确的。既然如此，我们的造物主为我们选择了更丰富的部分，即以奖励的形式赐予我们福祉，从而使其成为我们在没有努力的情况下所能期望的好处的两倍...（阿尔特曼，94）
+> 当面对这个陈述时\[即戒律和禁令是神的恩赐]，理性的第一个冲动将是反对上帝本应能够赐予人们完美的幸福，并在不加诸于他们戒律和禁令的情况下赐予他们永恒的幸福。此外，这样做似乎对他们的善意更有益处，因为他们将摆脱任何辛苦努力的必要性。我对这个反对意见的回答是，相反，上帝所设立的秩序，即通过人们遵守法律而实现永恒的幸福，更为可取。因为理性判断，一个通过自己的努力获得一些好处的人，比起没有做任何工作而接受恩典的人，享受到了双倍的幸福。理性认为将两者置于同一水平是不正确的。既然如此，我们的造物主为我们选择了更丰富的部分，即以奖励的形式赐予我们福祉，从而使其成为我们在没有努力的情况下所能期望的好处的两倍...（阿尔特曼，94）
 
 上帝通过使道德生活的明显规范成为神圣顺从的事项，为他的追随者提供了更多获得回报的机会。我们可以说，对于萨阿迪亚来说，上帝通过神圣命令理论来补充自然法伦理学（和/或德行理论伦理学），以增加人类的回报。这样，理性通过启示得到了帮助。然而，在对启示的合理性进行描述的过程中，萨阿迪亚在这里也显示出启示得到了帮助-至少在被支持的意义上-通过理性。
 
@@ -82,7 +82,7 @@
 
 从解释的第一个、更一般的层面开始，萨阿迪亚提供了上帝广泛命令“启示法律”的原因：首先，这是上帝的仁慈行为，旨在给予人类额外的机会来事奉他，从而给予他们额外的机会来增加他们的奖励和幸福：
 
-> 但我们的主赐予我们丰富的这类命令和禁令[即启示法律]，以便通过它们增加我们的奖励和幸福，正如所说，“耶和华因公义的缘故，喜悦使律法为大为尊”（以赛亚书 42.21）。属于上帝所命令之事物具有“善”的性质，属于上帝所禁止之事物具有“恶”的性质，因为通过这样的服务…”（Altmann, 97-98）
+> 但我们的主赐予我们丰富的这类命令和禁令\[即启示法律]，以便通过它们增加我们的奖励和幸福，正如所说，“耶和华因公义的缘故，喜悦使律法为大为尊”（以赛亚书 42.21）。属于上帝所命令之事物具有“善”的性质，属于上帝所禁止之事物具有“恶”的性质，因为通过这样的服务…”（Altmann, 97-98）
 
 通过有更多的机会事奉上帝，我们被赋予了更多的机会来获得神圣的奖励。对于萨阿迪亚来说，没有什么比这更合理的了。
 
@@ -126,84 +126,80 @@
 
 在考虑启示作为基础的可能性时，要考虑到萨阿迪亚认为启示涉及实践的意义。除了将知识描述为上帝放置在他内心的东西之外，萨阿迪亚在上述“拯救的潜水员”引语中看到，通过获得上帝赐予的知识，他已成为义务的中心：通过神圣地获得理性的果实，他同时被呼召承担起帮助拯救那些正在溺水的人的上帝赋予的责任。萨阿迪亚希望履行自己的责任，从怀疑和错误的水坟中抢救那些迷失的漂流者，他希望
 
-> [t]上帝和他的法律的知识将像水在海洋的各个部分扩散一样，在世界上传播，正如经上所说：“因为认识耶和华的知识要充满遍地，好像水充满洋海一般”（以赛亚书 11.9）（阿尔特曼，31）
+> \[t]上帝和他的法律的知识将像水在海洋的各个部分扩散一样，在世界上传播，正如经上所说：“因为认识耶和华的知识要充满遍地，好像水充满洋海一般”（以赛亚书 11.9）（阿尔特曼，31）
 
 正如在《阿曼纳特》一书的开头就已经明显地表现出来的这些情感，并且随着文本的进展变得更加清晰，对于萨阿迪亚来说，思考（或推理）能力与（a）对神圣赋予的接受能力以及（b）在面对他人时的道德回应义务之间总是存在着直接的关联。在他的这个观点（以及其他观点）中，我们发现了人类展现理性的能力、接受启示的能力和道德回应的责任之间的密切而不可分割的联系。从这个意义上讲，“接受启示”本身必须被理解为个人或社群共同决心听从并按照上帝的声音行动，这种声音本身在听从并按照传统的声音中得以体现。在这个意义上，传统在萨阿迪亚那里成为启示的共同容器，与接受上帝话语的个体先知的感受心相平行，只是规模更大。沿着这些思路，我们可以说，启示与传统结合成为萨阿迪亚对真理和确定性的认识论处方的关键要素，因此也成为萨阿迪亚对生活的处方，也就是说，如何以只有真理和确定性才能提供的充实度来生活，而只有信仰与理性才能希望达到这种充实度。
 
 ## 9. 上帝、统一、创造、灵魂
 
-萨阿迪亚坚持上帝的绝对统一，并坚决主张从无中创造。在这方面，萨阿迪亚与穆泰齐派神学家有共鸣，并展示了对伊斯兰圈子中关于这一主题的各种激烈辩论的了解。在创造问题上，萨阿迪亚捍卫了从无中创造的立场（尽管在这一点上与穆泰齐派有进一步的分歧，后者除了从无中创造外，还提出了一个连续[再]创造的原子主义教义）。事实上，在他的《安曼特》和《创世纪注释》中提出的各种论证中，萨阿迪亚捍卫了从无中创造的立场，反对其他 18 种理论，他逐一进行了批判。在这一系列的论证中，萨阿迪亚展示了对一些哲学和神学学说的熟悉，包括前苏格拉底派、柏拉图和毕达哥拉斯派的学说（尽管应注意到，他对这些思想家的了解主要基于文献和其他阿拉伯百科全书的来源）。
+萨阿迪亚坚持上帝的绝对统一，并坚决主张从无中创造。在这方面，萨阿迪亚与穆泰齐派神学家有共鸣，并展示了对伊斯兰圈子中关于这一主题的各种激烈辩论的了解。在创造问题上，萨阿迪亚捍卫了从无中创造的立场（尽管在这一点上与穆泰齐派有进一步的分歧，后者除了从无中创造外，还提出了一个连续\[再]创造的原子主义教义）。事实上，在他的《安曼特》和《创世纪注释》中提出的各种论证中，萨阿迪亚捍卫了从无中创造的立场，反对其他 18 种理论，他逐一进行了批判。在这一系列的论证中，萨阿迪亚展示了对一些哲学和神学学说的熟悉，包括前苏格拉底派、柏拉图和毕达哥拉斯派的学说（尽管应注意到，他对这些思想家的了解主要基于文献和其他阿拉伯百科全书的来源）。
 
 除了驳斥了 12 种宇宙起源观点（他在其他作品中还驳斥了更多观点），萨阿迪亚在《安曼特》中为上帝从无中创造世界提供了证明。他分为三个阶段进行：首先，他提出了四个关于世界创造的证明（分别被描述为有限性、组合性、偶然性和时间性的证明），然后转向三个原因，解释为什么这种创造必须根源于一个外在的创造者（而不是一些关于世界自我创造的想法），最后展示了这种创造必须被理解为从无中创造（而不是从某种预先存在的物质中创造）。正如哈里·沃尔夫森所示，萨阿迪亚的世界创造的四个证明是基于伊斯兰卡拉姆传统的（参见沃尔夫森，1943 年）。
 
-提供萨阿迪亚·果昂关于从无中创造的论证细节对我们当前的目的来说不那么有趣，而是对萨阿迪亚在这些讨论中对理性和启示的敏感性进行一些观察。在创造和上帝的统一的情况下，萨阿迪亚将理性的证明视为信仰的基石。至少在某些宗教信仰的情况下，理性独自能够得出相关的观念，并且还能证明它们是真实的。值得注意的是，在这方面与《阿曼纳特》中的其他章节（如第 6 章和第 7 章关于灵魂和复活）形成潜在对比，这些章节以短语“我们的主告诉我们…”开头。这是否暗示了对于萨阿迪亚来说，对某些宗教主题的分析是基于对理性作用的一种略有不同的方法论观点？无论我们如何回答这个问题，至少可以肯定的是，对于萨阿迪亚来说，在创造的情况下，理性能够证明宗教上的外在、从无中创造的观念。因此，萨阿迪亚在这里谈到了“我们试图建立的”这个论点（49），并以“通过论证成功地证明了[从无中创造的教义]…”（62）来结束这一部分。然而，尽管如此，他接着又补充说：“…正如先知的传统和奇迹所证实的…”（62）。启示在萨阿迪亚的思想中始终存在。除了在每个论证中补充引用圣经或塔木德（书面拉比传统）中的支持性文本外，他在理性的练习中以传统、先知和奇迹作为结束。
+提供萨阿迪亚·果昂关于从无中创造的论证细节对我们当前的目的来说不那么有趣，而是对萨阿迪亚在这些讨论中对理性和启示的敏感性进行一些观察。在创造和上帝的统一的情况下，萨阿迪亚将理性的证明视为信仰的基石。至少在某些宗教信仰的情况下，理性独自能够得出相关的观念，并且还能证明它们是真实的。值得注意的是，在这方面与《阿曼纳特》中的其他章节（如第 6 章和第 7 章关于灵魂和复活）形成潜在对比，这些章节以短语“我们的主告诉我们…”开头。这是否暗示了对于萨阿迪亚来说，对某些宗教主题的分析是基于对理性作用的一种略有不同的方法论观点？无论我们如何回答这个问题，至少可以肯定的是，对于萨阿迪亚来说，在创造的情况下，理性能够证明宗教上的外在、从无中创造的观念。因此，萨阿迪亚在这里谈到了“我们试图建立的”这个论点（49），并以“通过论证成功地证明了\[从无中创造的教义]…”（62）来结束这一部分。然而，尽管如此，他接着又补充说：“…正如先知的传统和奇迹所证实的…”（62）。启示在萨阿迪亚的思想中始终存在。除了在每个论证中补充引用圣经或塔木德（书面拉比传统）中的支持性文本外，他在理性的练习中以传统、先知和奇迹作为结束。
 
 在理性和启示之间微妙的相互作用之后，有趣的是注意到在萨阿迪亚·果昂对复活的处理中，创造的证据再次出现。尽管萨阿迪亚给出相信复活真理的理由主要与传统的可靠性有关，但他还引用了他基于理性的无中生有的创造证明来支持这种信仰至少在表面上是合理的。针对那些认为上帝使死者复活的想法在哲学上站不住脚的批评者，萨阿迪亚强调复活并不是“因为对于已经存在并已经消失的事物的第二次创造比无中生有的创造更容易被理性接受而被理性所拒绝”（158）。由于无中生有的创造的想法比重新创造的想法更不合理，而且无中生有的创造的想法已经被理性证明为真，因此，至少可以说相信复活是合理的。在这里，萨阿迪亚对无中生有的创造的证明在他对复活的信仰中得到了应用。
 
-在讨论复活之前，萨阿迪亚在分析创造几章之后，谈到了灵魂的性质。虽然拒绝了柏拉图的创造观点，但萨阿迪亚将自己的灵魂理论建立在柏拉图的三分心理学基础上。因此，在拒绝了其他一些关于灵魂的观点之后，萨阿迪亚将灵魂的三个能力描述为“辨别的能力、欲望的能力和勇气的能力”（147）。当然，除了这个柏拉图的基础之外，他还添加了一些根植于传统的灵魂描述。事实上，在对灵魂性质进行任何哲学思考之前，萨阿迪亚就引用了撒迦利亚书 12:1 中关于上帝“在人里面造了灵魂”的引文。在任何哲学思考之前，萨阿迪亚根据这个开篇的经文谈到上帝“设定了身体和灵魂共同存在的时间限制”（141），在死亡时“将身体和灵魂分开，直到他的智慧决定召唤出的灵魂数量完成”（141），以及“他将[灵魂]与各自的身体重新结合，并给予他们应得的报酬”的时间（141）。经文引用与复活和最后审判的教义为萨阿迪亚关于灵魂性质的论述铺平了道路，再次引导我们考虑他思想中理性和启示之间微妙的相互作用。这种相互作用在萨阿迪亚对灵魂的理解中进一步体现出来。除了将柏拉图的三分心理学与犹太教关于复活的信仰相结合之外，萨阿迪亚实际上将柏拉图的三个独立的灵魂功能与圣经中三个独立的希伯来语“灵魂”词汇联系起来（nefesh 对应于欲望功能，ruah 对应于激情和勇气的能力，neshamah 对应于知识的能力）（147）。 萨阿迪亚还引用了经文中同时提到“心灵”和“灵魂”的倾向（148），以支持他认为可以通过经验证明的观点（他对此进行了详细阐述），即“灵魂存在于人的心中”（148）。
+在讨论复活之前，萨阿迪亚在分析创造几章之后，谈到了灵魂的性质。虽然拒绝了柏拉图的创造观点，但萨阿迪亚将自己的灵魂理论建立在柏拉图的三分心理学基础上。因此，在拒绝了其他一些关于灵魂的观点之后，萨阿迪亚将灵魂的三个能力描述为“辨别的能力、欲望的能力和勇气的能力”（147）。当然，除了这个柏拉图的基础之外，他还添加了一些根植于传统的灵魂描述。事实上，在对灵魂性质进行任何哲学思考之前，萨阿迪亚就引用了撒迦利亚书 12:1 中关于上帝“在人里面造了灵魂”的引文。在任何哲学思考之前，萨阿迪亚根据这个开篇的经文谈到上帝“设定了身体和灵魂共同存在的时间限制”（141），在死亡时“将身体和灵魂分开，直到他的智慧决定召唤出的灵魂数量完成”（141），以及“他将\[灵魂]与各自的身体重新结合，并给予他们应得的报酬”的时间（141）。经文引用与复活和最后审判的教义为萨阿迪亚关于灵魂性质的论述铺平了道路，再次引导我们考虑他思想中理性和启示之间微妙的相互作用。这种相互作用在萨阿迪亚对灵魂的理解中进一步体现出来。除了将柏拉图的三分心理学与犹太教关于复活的信仰相结合之外，萨阿迪亚实际上将柏拉图的三个独立的灵魂功能与圣经中三个独立的希伯来语“灵魂”词汇联系起来（nefesh 对应于欲望功能，ruah 对应于激情和勇气的能力，neshamah 对应于知识的能力）（147）。 萨阿迪亚还引用了经文中同时提到“心灵”和“灵魂”的倾向（148），以支持他认为可以通过经验证明的观点（他对此进行了详细阐述），即“灵魂存在于人的心中”（148）。
 
 ## Bibliography
 
 ### Cited Works
 
-* Saadya, *Amânât wal-i‘tiqâdât* (The Book of Doctrines and Beliefs), Edition translated by Alexander Altmann in Lewy, H., Altmann, A. and Heinemann, I. Eds., *Three Jewish Philosophers*. New York: Atheneum, 1985.
-* Saadya, *Perush Sefer Yezira*, edited by J. Kafih. Jerusalem, 1972.
-* Altmann, Alexander. “Saadya's Theory of revelation:  Its Origin and Background,” in *Studies in Religious Philosophy and Mysticism* by Alexander Altmann. Ithaca:  Cornell University Press, 1969.
-* Wolfson, Harry Austryn. “The Kalam Arguments for Creation in Saadia, Averroes, Maimonides and St. Thomas,” reprinted in *Saadia Anniversary Volume* (*American Academy for Jewish Research*), pp. 198 - 245. New York, 1943.
+* Saadya, _Amânât wal-i‘tiqâdât_ (The Book of Doctrines and Beliefs), Edition translated by Alexander Altmann in Lewy, H., Altmann, A. and Heinemann, I. Eds., _Three Jewish Philosophers_. New York: Atheneum, 1985.
+* Saadya, _Perush Sefer Yezira_, edited by J. Kafih. Jerusalem, 1972.
+* Altmann, Alexander. “Saadya's Theory of revelation:  Its Origin and Background,” in _Studies in Religious Philosophy and Mysticism_ by Alexander Altmann. Ithaca:  Cornell University Press, 1969.
+* Wolfson, Harry Austryn. “The Kalam Arguments for Creation in Saadia, Averroes, Maimonides and St. Thomas,” reprinted in _Saadia Anniversary Volume_ (_American Academy for Jewish Research_), pp. 198 - 245. New York, 1943.
 
 ### Primary Sources
 
-* *Amânât wal-i‘tiqâdât* (The Book of Doctrines and Beliefs)
-  
-  | (a) | Edition translated by Alexander Altmann in Lewy, H., Altmann, A. and Heinemann, I. Eds., *Three Jewish Philosophers*. New York: Atheneum, 1985. <br>[This is an abridged English translation with notes; this version of Altmann's translation of Saadya's *Amânât* is also available in a volume by Hackett Publishing Company.] |
-  | --- | --- |
-  | (b) | Edition translated by Samuel Rosenblatt. *Saadia Gaon, *The Book of Beliefs and Opinions** . New Haven: Yale University Press, 1948.<br>[This is a complete English translation based on the Arabic and the Hebrew, and contains some useful indices.] |
-  | (c) | Edition edited by L. Landauer. Leiden, 1880.<br>[Arabic text (in Arabic characters).] |
-  | (d) | Edition edited by J. Kafih. Jerusalem, 1970.<br>[Arabic text (in Hebrew characters) with Hebrew translation).] |
-  
-* *Tafsîr Kitâb al-Mabâdî* (Commentary on the *Book of Creation*)
-  
-  | (a) | *Perush Sefer Yezira*, edited by J. Kafih. Jerusalem, 1972. <br>[Arabic text (in Hebrew characters) with Hebrew translation.] |
-  | --- | --- |
-  | (b) | *Commentaire sur le Sefer Yesira par le Gaon Saadya*, edited by M. Lambert. Paris, 1891.<br>[Arabic text (in Arabic characters) with French translation.] |
-  
-* *Les Ouvres complètes de Saadia b. Josef al Fayyoumi*. Ed. J. and H. Derenbourh. Paris, 1893 —.[5 volumes of Biblical commentaries; contrary to the name of the series, it is not the complete set of Saadya's Biblical commentaries; originally planned as a 13 volume set, only volumes 1, 3, 5, 6 and 9 were compiled.] [The Arabic texts (in Hebrew characters) with Hebrew translations are available for the Song of Songs, Ruth, Ecclesiastes, Esther, Lamentations, Psalms, Job, and Proverbs in various Jerusalem published editions by J. Kafih, ranging from 1962 to 1976).]
-  
-* *Saadia's Polemic Against Hiwi al-Balkhî*, edited by I. Davidson. New York, 1915.[Saadya's polemic against Karaism.]
-  
+*   _Amânât wal-i‘tiqâdât_ (The Book of Doctrines and Beliefs)
+
+    | (a) | <p>Edition translated by Alexander Altmann in Lewy, H., Altmann, A. and Heinemann, I. Eds., <em>Three Jewish Philosophers</em>. New York: Atheneum, 1985.<br>[This is an abridged English translation with notes; this version of Altmann's translation of Saadya's <em>Amânât</em> is also available in a volume by Hackett Publishing Company.]</p> |
+    | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | (b) | <p>Edition translated by Samuel Rosenblatt. <em>Saadia Gaon, The Book of Beliefs and Opinions</em> . New Haven: Yale University Press, 1948.<br>[This is a complete English translation based on the Arabic and the Hebrew, and contains some useful indices.]</p>                                                                                    |
+    | (c) | <p>Edition edited by L. Landauer. Leiden, 1880.<br>[Arabic text (in Arabic characters).]</p>                                                                                                                                                                                                                                                          |
+    | (d) | <p>Edition edited by J. Kafih. Jerusalem, 1970.<br>[Arabic text (in Hebrew characters) with Hebrew translation).]</p>                                                                                                                                                                                                                                 |
+*   _Tafsîr Kitâb al-Mabâdî_ (Commentary on the _Book of Creation_)
+
+    | (a) | <p><em>Perush Sefer Yezira</em>, edited by J. Kafih. Jerusalem, 1972.<br>[Arabic text (in Hebrew characters) with Hebrew translation.]</p>                              |
+    | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | (b) | <p><em>Commentaire sur le Sefer Yesira par le Gaon Saadya</em>, edited by M. Lambert. Paris, 1891.<br>[Arabic text (in Arabic characters) with French translation.]</p> |
+* _Les Ouvres complètes de Saadia b. Josef al Fayyoumi_. Ed. J. and H. Derenbourh. Paris, 1893 —.\[5 volumes of Biblical commentaries; contrary to the name of the series, it is not the complete set of Saadya's Biblical commentaries; originally planned as a 13 volume set, only volumes 1, 3, 5, 6 and 9 were compiled.] \[The Arabic texts (in Hebrew characters) with Hebrew translations are available for the Song of Songs, Ruth, Ecclesiastes, Esther, Lamentations, Psalms, Job, and Proverbs in various Jerusalem published editions by J. Kafih, ranging from 1962 to 1976).]
+* _Saadia's Polemic Against Hiwi al-Balkhî_, edited by I. Davidson. New York, 1915.\[Saadya's polemic against Karaism.]
 
 ### Secondary Sources (in English)
 
-* Altmann, Alexander. “Saadya's Theory of Revelation:  Its Origin and Background,” in *Studies in Religious Philosophy and Mysticism* by Alexander Altmann. Ithaca:  Cornell University Press, 1969.
-* Altmann, Alexander. “Saadya's Conception of the Law”. *BJRL* 28 (1944): 320-9.
-* Ben-Shammai, Haggai. “Saadya's Goal in his Commentary on Sefer Yetzirah,” in Ruth Link-Salinger, Ed., *A Straight Path, Studies in Medieval Philosophy and Culture*, pp. 1 - 10.  Washington, D.C.:  The Catholic University Press, 1988.
-* Cohen, B. (ed.) *Saadia Anniversary Volume*. *PAAJR*, 1943.
-* Efros, I. “Saadya's Theory of Knowledge”. *JQR* 33 (1942-3): 133-70.
-* Efros, I. “Saadya's Second Theory of Creation in its Relation to Pythagorism and Platonism”. In *Louis Ginzberg Jubilee Volume*, New York, 1945, pp. 133-42 (English section)
-* Heschel, A. J. “The Quest for Certainty in Saadia's Philosophy”. *JQR* 33 (1942-3): 213-64.
-* Malter, H. *Saadia Gaon; His Life and Works*. New York, 1929.
-* Finkelstein, L (ed.) *Rav Saadia Gaon; Studies in his honor*. New York: Jewish Theological Seminary, 1944.
-* Rosenthal, E.I.J. (ed.) *Saadya Studies*. Manchester, 1943.
-* Sirat, Colette. s.v. Saadiah Gaon, in her *A History of Jewish Philosophy in the Middle Ages*, Cambridge University Press, 1985, pp. 18-37, and 416-18.
+* Altmann, Alexander. “Saadya's Theory of Revelation:  Its Origin and Background,” in _Studies in Religious Philosophy and Mysticism_ by Alexander Altmann. Ithaca:  Cornell University Press, 1969.
+* Altmann, Alexander. “Saadya's Conception of the Law”. _BJRL_ 28 (1944): 320-9.
+* Ben-Shammai, Haggai. “Saadya's Goal in his Commentary on Sefer Yetzirah,” in Ruth Link-Salinger, Ed., _A Straight Path, Studies in Medieval Philosophy and Culture_, pp. 1 - 10.  Washington, D.C.:  The Catholic University Press, 1988.
+* Cohen, B. (ed.) _Saadia Anniversary Volume_. _PAAJR_, 1943.
+* Efros, I. “Saadya's Theory of Knowledge”. _JQR_ 33 (1942-3): 133-70.
+* Efros, I. “Saadya's Second Theory of Creation in its Relation to Pythagorism and Platonism”. In _Louis Ginzberg Jubilee Volume_, New York, 1945, pp. 133-42 (English section)
+* Heschel, A. J. “The Quest for Certainty in Saadia's Philosophy”. _JQR_ 33 (1942-3): 213-64.
+* Malter, H. _Saadia Gaon; His Life and Works_. New York, 1929.
+* Finkelstein, L (ed.) _Rav Saadia Gaon; Studies in his honor_. New York: Jewish Theological Seminary, 1944.
+* Rosenthal, E.I.J. (ed.) _Saadya Studies_. Manchester, 1943.
+* Sirat, Colette. s.v. Saadiah Gaon, in her _A History of Jewish Philosophy in the Middle Ages_, Cambridge University Press, 1985, pp. 18-37, and 416-18.
 * Pines, S. “Points of Similarity between the exposition of the doctrine of the Sefirot in the Sefer Yezira and a Text of the Pseudo-Clementine Homilies: The implications of this resemblance,” Proceedings of the Israel Academy of Sciences and Humanities, VII (3) (1989): 63-141.
-* Wolfson, H. A. “The Kalam Arguments for Creation in Saadia, Averroes, Maimonides and St. Thomas,” reprinted in *Saadia Anniversary Volume* (*American Academy for Jewish Research*). New York, 1943, pp. 198 - 245.
-* Wolfson, H. A. “The Kalam Problem of Nonexistence and Saadia's Second Theory of Creation”. In his *Studies in the History of Philosophy and Religion*, vol. II, Cambridge (Mass.), 1977, pp. 338-58.
+* Wolfson, H. A. “The Kalam Arguments for Creation in Saadia, Averroes, Maimonides and St. Thomas,” reprinted in _Saadia Anniversary Volume_ (_American Academy for Jewish Research_). New York, 1943, pp. 198 - 245.
+* Wolfson, H. A. “The Kalam Problem of Nonexistence and Saadia's Second Theory of Creation”. In his _Studies in the History of Philosophy and Religion_, vol. II, Cambridge (Mass.), 1977, pp. 338-58.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=saadya). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/saadya/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=saadya&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/saadya/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=saadya).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/saadya/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=saadya\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/saadya/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[faith](https://plato.stanford.edu/entries/faith/) | [Plato](https://plato.stanford.edu/entries/plato/)
+[faith](https://plato.stanford.edu/entries/faith/) | [Plato](https://plato.stanford.edu/entries/plato/)
 
-[Copyright © 2003](https://plato.stanford.edu/info.html#c) by  
-[Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[*spessin@du.edu*](mailto:spessin%40du%2eedu)>
+[Copyright © 2003](https://plato.stanford.edu/info.html#c) by\
+[Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[_spessin@du.edu_](mailto:spessin%40du%2eedu)>

@@ -1,12 +1,12 @@
 # 厚伦理概念 thick ethical concepts (Pekka Väyrynen)
 
-*首次发表于 2016 年 9 月 21 日星期三；实质性修订于 2021 年 2 月 9 日星期二*
+_首次发表于 2016 年 9 月 21 日星期三；实质性修订于 2021 年 2 月 9 日星期二_
 
 评价性的术语和概念通常被分为“瘦”和“厚”。我们评价行为和人不仅仅是好或坏，对或错，还有善良、勇敢、机智、自私、粗鲁和残忍等等。后者是厚概念的例子，这一类概念包括美德和恶习的概念，如慷慨和自私，实用概念如精明和不明智，认识概念如开明和易受骗，以及审美概念如平庸和优雅。这些概念与我们通常使用的瘦术语如正确、坏、可允许和应该等形成直观对比。（概念通常被视为非语言表征项，可以作为语言表达的意义和命题的组成部分；术语是可以用来表达概念的语言项。然而，概念和语言之间的精确关系可能很复杂。以下，小写大写字母表示概念，斜体表示术语。）通常当有人称某个行为为坏时，他们对其进行负面评价，而不需要承担太多或任何非评价性描述。坏的这种描述的瘦弱使其比自私或残忍更为普遍。即使称某事为自私评价其为坏在某种程度上或某种方面，但并不是任何坏行为都可以被视为自私；它还必须涉及行为体在某种程度上将自己置于他人之上。因此，厚术语和概念的应用似乎既涉及评价又涉及非评价性描述。
 
 主要是评价和非评价性描述的结合吸引了自 20 世纪中叶以来伦理学中厚伦理概念的哲学关注。人们认为厚伦理概念在关于评价性思维和言论本质的各种辩论中提供了支持，并阐明了一些问题，比如是否存在强有力的事实-价值区分，道德主张是否享有一种重要的客观性，以及评价性分类与非评价性分类之间的关系。公正地对待道德思维的多样性和复杂性也被认为需要更多关注厚伦理概念。在西方道德哲学的大部分历史中，对瘦概念的关注超过了对厚概念的关注，这在规范伦理学中也可能导致简化和误导，因为德性伦理学作为对义务论和后果论的主要替代方案的复兴与对元伦理学中厚术语和概念的关注增加相吻合。对厚伦理概念的兴趣也从伦理学扩展到其他哲学领域，如认识论和美学。所有这些关注厚概念的动机都涉及几个问题。我们有一个“组合问题”：厚术语和概念如何准确地结合评价和非评价性描述？我们有一个“定位问题”：评价是否在厚术语和概念中某种程度上固有，比如它们的意义的一个方面，还是仅仅是它们的使用的一个特征？我们有一个“界定问题”：厚术语与瘦术语以及其他种类的评价性术语（如贬义表达）有何不同？在回答这些问题的基础上，厚伦理概念在伦理学以及伦理学之外的应用中可能具有什么更广泛的意义？接下来是对各种试图回答这些问题的调查。
 
----
+***
 
 ## 1. 什么是厚伦理概念？背景和准备工作
 
@@ -32,31 +32,23 @@
 
 即使使用瘦术语如对和错无法从纯非伦理前提中推导出评价性结论，评价性陈述和非评价性陈述之间的概念差距要求使用厚术语的评价性结论也是如此。菲利帕·富特（Philippa Foot）认为，如粗鲁这样的厚术语削弱了是-应该之间的鸿沟：称某事粗鲁是评价性的，因为它以与坏和错一样的方式表达了谴责，但这种评价可以从非评价性描述中推导出来（富特，1958 年）。考虑以下推理：
 
-> O：x 通过表示缺乏尊重而冒犯
-> 所以，
-> R: x 是粗鲁的
+> O：x 通过表示缺乏尊重而冒犯 所以， R: x 是粗鲁的
 
 弗特声称，接受 O 但否认 R 是不一致的（弗特 1958 年：507-9）。但是，似乎厚伦理概念的一个分析结果是纯非伦理性主张的一部分：粗鲁的意思之一是任何通过表明缺乏尊重而引起冒犯的事物都是粗鲁的。（弗特将她的论证针对非认知主义者，如 R.M.哈尔，但无论何时，只要一个陈述使用厚伦理术语，就会被视为具有评价意义，这个问题就会出现。）
 
 一个常见的回答是，当将弗特的论证应用于被视为令人反感的厚伦理术语时，会导致荒谬的后果，因为这些术语体现了应该被拒绝的价值观。许多人认为贞洁和淫荡这些厚伦理术语是令人反感的，因为他们拒绝这些术语通常用来传达的性道德。无神论者可能会因为类似的原因认为亵渎和罪孽是令人反感的，而自由放任的资本主义者认为自私没有什么不好，可能会认为自私在其正常的负面使用中是令人反感的。一个概念是否被视为令人反感取决于该概念所关联的价值观是否被个人的价值观所排除；事实上，如果一个概念所体现的价值观确实应该被拒绝，那么这个概念实际上是令人反感的。现在考虑与弗特相同形式的推理，但使用令人反感的厚伦理术语：
 
-> O*: x 是公开的性展示
-> 所以，
-> L: x 是淫秽的
+> O\*: x 是公开的性展示 所以， L: x 是淫秽的
 
-如果 O 在分析上蕴含 R，并且 R 使我们对其对象表示谴责，那么 O 已经使我们对这种消极态度表示谴责。O*同样应该使我们对其对象表示消极态度。但是，接受某些行为是公开的性展示，却拒绝仅仅因为是公开的性展示而谴责任何事物，并不矛盾。如果厚伦理概念蕴含了更瘦的主张，即某事物以某种方式是好的或坏的，这一点更加清楚。
+如果 O 在分析上蕴含 R，并且 R 使我们对其对象表示谴责，那么 O 已经使我们对这种消极态度表示谴责。O\*同样应该使我们对其对象表示消极态度。但是，接受某些行为是公开的性展示，却拒绝仅仅因为是公开的性展示而谴责任何事物，并不矛盾。如果厚伦理概念蕴含了更瘦的主张，即某事物以某种方式是好的或坏的，这一点更加清楚。
 
-> x 通过表示缺乏尊重而冒犯他人。
-> 因此，x 是粗鲁的。
-> 所以，x 在某种程度上是不好的。
+> x 通过表示缺乏尊重而冒犯他人。 因此，x 是粗鲁的。 所以，x 在某种程度上是不好的。
 >
-> x 是公然的性展示。
-> 所以，x 是淫秽的。
-> 所以，x 在某种程度上是不好的。
+> x 是公然的性展示。 所以，x 是淫秽的。 所以，x 在某种程度上是不好的。
 
 如果这些蕴涵成立，那么根据蕴涵的传递性，非评价性的说法“x 是公然的性展示”会使接受它的人承认 x 在某种程度上是不好的。但接受前者并拒绝后者并不矛盾。最多似乎要求接受的是 x 在某种非评价性意义上是淫秽的。英语可能没有其他词来表达那种评价中立的意义，但有各种方式可以表明自己的意思是以那种方式淫秽，比如使用引号或一种特定的语气。对于粗鲁来说，情况完全相同。所以，富特对于“x 是粗鲁的”蕴涵的理解是错误的。（这个回答是以 R.M. Hare 的回答为模型，他认为富特的论证在涉及种族或民族侮辱性词语的形式上完全错误；参见 Hare 1963: 188–9，还有 Eklund 2011。用令人反感的厚概念替代侮辱性词语可以让我们暂时搁置侮辱性词语和厚概念是否以相同方式进行评价的问题。Hare 对富特的基本回答不需要假设它们是相同的。有关讨论，请参见补充文件“关于厚概念及其重要性的其他辩论”的第 4 节。）
 
-不清楚这个回答是否表明了弗特要我们考虑的是-应该推理是无效的。一个将淫秽视为可厌的人拒绝谴责公开的性展示，并不意味着 O*可能为真而 L 为假是不可能的。也许一个接受 O*但拒绝断言 L（除非清楚她是在以评价中性的意义使用淫秽一词）的人，就像一个拒绝说干梅子是已经接受的关于干李子的事实一样（弗特 1958 年：509）。拒绝称某物为梅子并不会使它不再是梅子。也许对于厚伦理概念和弗特声称可以用来替代它们的非评价性描述，也是如此。无论如何，这些复杂情况引发了厚伦理概念和瘦概念之间的紧密联系的问题。
+不清楚这个回答是否表明了弗特要我们考虑的是-应该推理是无效的。一个将淫秽视为可厌的人拒绝谴责公开的性展示，并不意味着 O_可能为真而 L 为假是不可能的。也许一个接受 O_但拒绝断言 L（除非清楚她是在以评价中性的意义使用淫秽一词）的人，就像一个拒绝说干梅子是已经接受的关于干李子的事实一样（弗特 1958 年：509）。拒绝称某物为梅子并不会使它不再是梅子。也许对于厚伦理概念和弗特声称可以用来替代它们的非评价性描述，也是如此。无论如何，这些复杂情况引发了厚伦理概念和瘦概念之间的紧密联系的问题。
 
 厚伦理概念是否有助于削弱“是-应该”鸿沟，取决于厚伦理概念的评价方式。如果至少有一些厚伦理概念是这样的，即它们所出现的句子是由非评价性句子蕴含的，并且它们所传达的评价属于它们的含义或真值条件，那么厚伦理概念将构成“是-应该”鸿沟的反例。不能是 O 为真而 R 为假。如果像粗鲁这样的厚伦理概念有评价中性的真值条件等价物 O，那么评价可能仅仅是作为语言约定而附加到粗鲁上，并不是由粗鲁所表达的命题蕴含的。如果厚伦理概念的评价内容在这种方式上可以“分离”于它们所表达的命题，那么它们最多会削弱厚伦理概念和句子层面上的语言“是-应该”鸿沟，但不会削弱厚概念和命题层面上的概念“是-应该”鸿沟。另一种可能的观点是，厚伦理概念甚至不是通过语言约定而具有评价性，而只是常用的评价性词语。那么厚伦理概念就不能被用来削弱甚至是语言层面上的“是-应该”鸿沟。（在这里需要注意一个术语问题。一些认为评价只是与勇敢或粗鲁等词语在语用上相关的人认为，没有厚概念，只有带有负荷的词语；参见 Blackburn 1992，以及关于这一普遍现象的 Stevenson 1938。如果厚概念必须在含义上既具有评价性又具有描述性，那么我们应该这样说。接受语用观点的其他人则乐于谈论勇敢或粗鲁等词语或概念作为厚概念，使用“厚”来指称那些在某种方式上典型地涉及评价和非评价描述的词语或概念；参见 Väyrynen 2013。本条目采用后一种用法。）) 这个关于厚概念如何与它们通常传达的评价相关的“位置问题”是第 4 节的主题。
 
@@ -68,11 +60,11 @@
 
 麦克道尔关注的是
 
-> 是否对应于任何价值概念，总是可以隔离出...一个特征，独立于任何人的价值经验是否如此。（麦克道尔 1981 年[1998 年]：200-1）
+> 是否对应于任何价值概念，总是可以隔离出...一个特征，独立于任何人的价值经验是否如此。（麦克道尔 1981 年\[1998 年]：200-1）
 
-他特别针对非认知主义，认为这种观点需要可能性来分离出这种非评价性特征。麦克道尔对这种可能性的论证通常被称为“分离论证”（1981 [1998]：202；参见 216）。
+他特别针对非认知主义，认为这种观点需要可能性来分离出这种非评价性特征。麦克道尔对这种可能性的论证通常被称为“分离论证”（1981 \[1998]：202；参见 216）。
 
- （D1）
+（D1）
 
 如果一个评价性概念 E 可以“分离”成与 E 同义且给出 E 的评价取向的非评价性描述 D 以及一个评价，那么就有可能掌握 E 的范围，并且准确地将能力用户应用 E 的项目归为一组，而不理解其评价取向。
 
@@ -84,7 +76,7 @@
 
 因此，E 不能被解释为与 E 具有共同范围的非评价性描述 D 加上给出 E 评价取向的评价。
 
-鉴于结论，"反解释论证"这个标签似乎更准确（Roberts 2011）。为了支持（D2），麦克道尔要求我们想象一个"在一个相对有凝聚力的道德共同体中流行的某种道德美德的具体概念"，然后考虑一个"局外人"对于那些使用这个概念的评价视角的人来说（麦克道尔 1981 [1998]：201）。一个例子可能是一个无法想象参与到通常通过将淫秽应用于公开的性展示来传达的性道德的人。许多人认为这样的局外人无法掌握淫秽的范围，即掌握一个非评价性的内容，该内容仅适用于那些被内部人称为淫秽的项目（假设存在这样一个内容），而且这在原则上是如此，不仅仅是因为我们语言的偶然限制。除非有一种方法可以在不参与内部人的评价视角的情况下掌握这个范围，否则评价性分类在原则上是无法用纯粹的非评价性表征资源来掌握的（麦克道尔 1981 [1998]：216）。
+鉴于结论，"反解释论证"这个标签似乎更准确（Roberts 2011）。为了支持（D2），麦克道尔要求我们想象一个"在一个相对有凝聚力的道德共同体中流行的某种道德美德的具体概念"，然后考虑一个"局外人"对于那些使用这个概念的评价视角的人来说（麦克道尔 1981 \[1998]：201）。一个例子可能是一个无法想象参与到通常通过将淫秽应用于公开的性展示来传达的性道德的人。许多人认为这样的局外人无法掌握淫秽的范围，即掌握一个非评价性的内容，该内容仅适用于那些被内部人称为淫秽的项目（假设存在这样一个内容），而且这在原则上是如此，不仅仅是因为我们语言的偶然限制。除非有一种方法可以在不参与内部人的评价视角的情况下掌握这个范围，否则评价性分类在原则上是无法用纯粹的非评价性表征资源来掌握的（麦克道尔 1981 \[1998]：216）。
 
 对于目前的目的来说，关键问题是反解释论证对于厚伦理术语和概念的影响如何。（关于论证本身，请参见 Lang 2001；Miller 2003：250-4；以及 Roberts 2011, 2013a。）这个问题并不简单。麦克道尔对评价性术语提出了一个普遍性的主张。但是许多作者认为它与厚伦理术语和概念如何将评价和非评价性描述结合起来有关，具体而言是通过偏好不可分割性而不是可分割性（Williams 1985；Kirchin 2010）：
 
@@ -150,9 +142,9 @@
 
 丹尼尔·埃尔斯坦和托马斯·赫卡提供了两种分析厚伦理概念的模式，作为“旨在说明还原观点在解决这些问题时的一般资源”的草图（埃尔斯坦和赫卡，2009 年：531）。每种模式都允许分离主义者接受瘦中心主义，同时解释为什么一个与相关评价实践无关的外部人无法理解给定厚伦理概念的范围。埃尔斯坦和赫卡的每种分析模式都将评价定位于厚伦理概念的含义中。在第一种模式中，厚伦理概念的非评价内容仅在其含义中部分指定：其含义指定了一般类型的具有好的（或坏的）非评价属性，但可能不指定这些好的属性具体是什么。他们给出的一个例子是，“x 是分配公正的”意味着 x 是好的，并且有一些属性 X、Y 和 Z（未指定），这些分配作为分配具有这些属性，或者因为它们的分配形状而具有这些属性，这样 x 就具有 X、Y 和 Z，而 X、Y 和 Z 使任何具有它们的分配都是好的（埃尔斯坦和赫卡，2009 年：522）。这种分析将非评价描述与评价分离开来，理解它需要理解好。但是，理解分配公正仅适用于分配的非评价信息将不足以知道哪些分配属于它的范围。这需要知道哪些分配属性是好的。同样，掌握内部人如何应用分配公正需要知道他们认为哪些属性使分配变好。通过这种方式，分离主义者可以同意“评价驱动范围”（来自布莱克本，1992 年的短语；另请参见吉巴德，1992 年）。因此，他们可以接受反解缠论证的第二个前提，同时拒绝其第一个前提（这预设了描述等价性）。
 
-> *x* is good, and there are properties *X*, *Y*, and *Z* (not specified) that distributions have as distributions, or in virtue of their distributive shape, such that *x* has *X*, *Y*, and *Z*, and *X*, *Y*, and *Z* make any distribution that has them good. (Elstein and Hurka 2009: 522)
+> _x_ is good, and there are properties _X_, _Y_, and _Z_ (not specified) that distributions have as distributions, or in virtue of their distributive shape, such that _x_ has _X_, _Y_, and _Z_, and _X_, _Y_, and _Z_ make any distribution that has them good. (Elstein and Hurka 2009: 522)
 
-This analysis separates non-evaluative description from evaluation, and grasping it requires grasping good. But grasping the non-evaluative information that *distributively just* only applies to distributions won’t be enough to know just which distributions fall into its extension. That requires knowing which properties of distributions are good making. Similarly, mastering how insiders apply *distributively just* requires knowing which properties they take to make distributions good. In this way, Separabilists can agree that “evaluation drives extension” (a phrase from Blackburn 1992; see also Gibbard 1992). Thus they can accept the second premise of the anti-disentangling argument while rejecting its first premise (which presupposes Descriptive Equivalence).
+This analysis separates non-evaluative description from evaluation, and grasping it requires grasping good. But grasping the non-evaluative information that _distributively just_ only applies to distributions won’t be enough to know just which distributions fall into its extension. That requires knowing which properties of distributions are good making. Similarly, mastering how insiders apply _distributively just_ requires knowing which properties they take to make distributions good. In this way, Separabilists can agree that “evaluation drives extension” (a phrase from Blackburn 1992; see also Gibbard 1992). Thus they can accept the second premise of the anti-disentangling argument while rejecting its first premise (which presupposes Descriptive Equivalence).
 
 在 Elstein 和 Hurka 的第一种分析模式中，厚伦理概念仅涉及“全局”评估，该评估“统治整个概念”：任何分布式适用的东西都是好的，并且我们可以独立于任何评估来确定它所属的一般非评估类型。他们的第二种分析模式旨在适应许多美德和恶习的概念，它通过嵌入在非评估描述中的进一步瘦评估来补充全局瘦评估。他们给出的一个例子是，“行为 x 是勇敢的”意味着
 
@@ -160,7 +152,7 @@ This analysis separates non-evaluative description from evaluation, and grasping
 
 对“好处”的引用是一种“嵌入式”评估：你甚至不能指定勇敢评估为全局好的那些行为的一般类型，而不知道什么被视为好的目标。但是确定这一点又需要评估，一个外部人无法仅通过了解勇敢的非评估内容就能获得这些评估（Elstein 和 Hurka 2009：526-7）。请注意全局评估和嵌入式评估的区别：您可以理解什么被视为好的目标的嵌入式评估，而无需对什么被视为勇敢（甚至无需拥有该概念）有任何看法，但对于全局评估则不然。（根据他们的分析，拥有对相关类型的任何具有这种属性的东西是好的的观点就是对什么被视为勇敢的看法。）以下“评估”除非另有说明，否则指的是全局评估。
 
-布伦特·凯尔提出了一种不同的方法，让分离主义者避免反解缠论证。根据他对厚概念意义的积极解释，即扩展观点，厚概念是瘦术语的扩展内容。扩展内容大致上是带有修饰语的谓词的语义内容：查克准备参加派对和查克准备工作是“查克准备”在不同言语背景下可以表达的扩展内容之一，同样适用于“沙克敏捷”和沙克作为篮球运动员敏捷的命题。凯尔提出，同样地，令人钦佩是值得的扩展内容，即值得-[被钦佩]，勇敢可以被分析为真实的某种扩展内容，即真实-[为了一个好事而冒险]，善良可以被分析为某种扩展内容，即善-[对某人作为目的]（凯尔 2020 年：918-22）。扩展观点认为，所有厚概念都有正确的分析，这些粗略的近似旨在说明。关于它的一个问题是如何以非循环的方式区分勇敢和至少某些鲁莽的言语。许多鲁莽的行为至少满足勇敢的玩具分析，即真实-[为了一个好事而冒险]。扩展观点是一种分离性，因为它要求厚概念在一定程度上由瘦概念组成（有关详细信息，请参见凯尔 2020 年：924-25）。但它并不意味着任何厚概念都可以被解缠成一个瘦的评价内容加上与厚概念相一致的非评价描述。
+布伦特·凯尔提出了一种不同的方法，让分离主义者避免反解缠论证。根据他对厚概念意义的积极解释，即扩展观点，厚概念是瘦术语的扩展内容。扩展内容大致上是带有修饰语的谓词的语义内容：查克准备参加派对和查克准备工作是“查克准备”在不同言语背景下可以表达的扩展内容之一，同样适用于“沙克敏捷”和沙克作为篮球运动员敏捷的命题。凯尔提出，同样地，令人钦佩是值得的扩展内容，即值得-\[被钦佩]，勇敢可以被分析为真实的某种扩展内容，即真实-\[为了一个好事而冒险]，善良可以被分析为某种扩展内容，即善-\[对某人作为目的]（凯尔 2020 年：918-22）。扩展观点认为，所有厚概念都有正确的分析，这些粗略的近似旨在说明。关于它的一个问题是如何以非循环的方式区分勇敢和至少某些鲁莽的言语。许多鲁莽的行为至少满足勇敢的玩具分析，即真实-\[为了一个好事而冒险]。扩展观点是一种分离性，因为它要求厚概念在一定程度上由瘦概念组成（有关详细信息，请参见凯尔 2020 年：924-25）。但它并不意味着任何厚概念都可以被解缠成一个瘦的评价内容加上与厚概念相一致的非评价描述。
 
 可分性承诺清楚地表明厚伦理概念既具有评价性又具有描述性。除非我们还接受描述性等价性，否则厚伦理概念的评价内容将由独立可理解的评价概念（瘦概念、情感概念或某种程度上好的概念）提供，并且它们的非评价含义将继承自不同的非评价信息。将可分性与瘦中心主义结合也将带来理论经济性：我们可以基于仅有几个基本的瘦概念和我们需要承认的非评价概念来阐明广泛的评价概念。（这种假设的优势假定了固有评价性。它并不是可分性本身所保证的；Kyle 的扩展观点产生了一种接受固有评价性但不需要瘦中心主义的可分性形式。）即使厚中心主义是真实的，从不可分性也不会得出相反的结论，因为厚伦理概念比瘦伦理概念更多。下面我们将讨论不可分性主义者是否能提供同样清晰的解释。
 
@@ -220,7 +212,7 @@ A 说话者：苏在公交车上对那个种族主义者说不是很勇敢吗？
 
 (3)
 
- 伊索尔德是贞洁的。
+伊索尔德是贞洁的。
 
 有趣的是，贞洁反对者在使用贞洁时也不愿意将其嵌入否定、疑问、可能性和可能等情态运算符以及条件句的前提中。
 
@@ -228,11 +220,11 @@ A 说话者：苏在公交车上对那个种族主义者说不是很勇敢吗？
 
 a.
 
- Isolde 不纯洁。
+Isolde 不纯洁。
 
 b.
 
- Isolde 贞洁吗？
+Isolde 贞洁吗？
 
 c.
 
@@ -276,8 +268,7 @@ d.
 
 (8)
 
-A: “我不后悔成为共产党的一员。”
- 假设：A 是共产党的成员。
+A: “我不后悔成为共产党的一员。” 假设：A 是共产党的成员。
 
 关于话语的前提与其真值条件的关系是一个复杂的话题。也许即使前提是错误的，A 的话语也可以是真实的：你不能为你从未做过的事情感到后悔。无论如何，语言学家普遍认为前提不是 A 的话语真值条件的一部分，而只是“共同基础”的一部分。在厚伦理概念的作家中，Allan Gibbard 和 Gopal Sreenivasan 将 T-话语所传达的评价称为前提，但没有详细阐述这个观点（Gibbard 1992; Sreenivasan 2001: 26）。更详细和复杂的发展可以在 Cepollaro 和 Stojanovic（2016）以及 Cepollaro（2020）中找到。关于这个观点的一个未解之问是，相关的前提是否更好地从语用学角度理解，即作为传达说话者对话的共同基础的信念，还是从语义学角度理解，即作为表达的一部分的内容。对前提观点的担忧是，当一些听话者发现厌恶的厚伦理概念时，通常传达的评价没有被添加到对话的共同基础中，而前提不在共同基础中的话，预计会被添加到其中，除非受到质疑。然而，在语言学中关于前提的复杂而微妙的当代研究中，可能有解决这些问题的资源（参见 Cepollaro 2020: ch. 4）。
 
@@ -285,8 +276,7 @@ A: “我不后悔成为共产党的一员。”
 
 (9)
 
-A：“沙克高大但敏捷。”
- 传统含义：沙克的敏捷性出乎意料，考虑到他的身高。
+A：“沙克高大但敏捷。” 传统含义：沙克的敏捷性出乎意料，考虑到他的身高。
 
 有很大的共识认为，“沙克高大但敏捷”和“沙克高大且敏捷”在所有情况下都是真实的。但后者并没有传达出身高和敏捷之间的对比。暗示的对比命题并不是 B 的话语的真值条件的一部分。这种含义被广泛认为是传统的，因为在英语中，但的对比似乎是其固有含义的一部分；一个认为 what 和 and 所传达的没有区别的说话者，在某种意义上并不完全熟练于 but。一个话语的含义暗示，不需要通过一个真值条件等价的句子的话语来传达，被称为“可分离的”（Grice 1975: 39）。在第 2.1 节中，我们看到根据 R.M. Hare 的观点，厚伦理术语的评价内容在这个意义上是可分离的。但他并没有说他是否认为厚伦理术语的评价内容是传统的含义。对于这个观点的一个问题是，传统的含义在评价通常通过 T-话语传达的方式上似乎是无法推翻的：“无论沙克的敏捷性是否出乎意料，沙克高大但敏捷”听起来非常奇怪。
 
@@ -294,9 +284,7 @@ A：“沙克高大但敏捷。”
 
 (10)
 
-A: 你要来杰克的派对吗？
- B: 我得工作。
- 会话含义：B 不能来参加派对。
+A: 你要来杰克的派对吗？ B: 我得工作。 会话含义：B 不能来参加派对。
 
 隐含并不像 B 的话语的真值条件的一部分。B 所说的只是她必须工作。如果 B 最终还是参加了派对，这并不会变成假的。隐含是对话性的，因为 A 必须通过依赖于语境观察和合作交流规则来理解 B 的话语，例如 B 不会说与 A 的问题无关的句子，除非她试图传达一些相关的信息，即她不会来参加派对（Grice 1975: 26–31）。在厚概念的写作中，Simon Blackburn 偶尔暗示厚术语通常传达的评价是对话性的隐含（Blackburn 1992；他的 1998 年的观点不太容易这样理解；另见 Zangwill 1995: 322）。但这个观点无法解释上面的投射数据：对话性隐含大多数情况下无法在否定、疑问等嵌入结构中保留下来，除非是巧合（如果 B 说“我不必工作”，她就不会暗示她不能来参加派对）。T-话语通常传达的评价也不像对话性隐含那样直接可否认：“我必须工作，但我并不意味着我不会来参加派对”听起来很好，不像上面的（1）和（2）中的类似直接否认。与大多数关于厚术语如何传达评价的观点不同，对话性隐含观点也经过了实证测试。Willemsen 和 Reuter（2020）进行了一项旨在测试厚概念的评价方面是否可分离于其非评价方面的研究，发现证据表明这两者并不像对话性隐含与其生成的话语内容可分离那样可分离。进一步的实证研究来测试厚术语与评价之间的语义和语用假设的其他关系将是辩论中一个受欢迎的发展。
 
@@ -348,129 +336,128 @@ Hare 的提议似乎非常普遍。如果你担心评价性和非评价性意义
 
 在哲学的各个领域中，对厚伦理概念的关注往往源于对主流研究的不满，并希望厚伦理概念能够重新引导这些领域的工作。我们已经看到，实现这一希望通常需要对反解缠论证、无形性、评价与描述的不可分割性以及评价在厚伦理术语的语义学和语用学中的位置等问题进行实质性的假设。一个合理的厚伦理概念理论可能不会赋予厚伦理概念其粉丝所认为的重要意义，而且无论如何，这些假设本身都会引起相当大的反对。另一方面，那些认为厚伦理概念没有明显意义的人必须确保评价和规范领域可以用瘦伦理概念来解释，以解决激发对厚伦理概念兴趣的问题。因此，任何关于规范性和价值的完整理论都必须以某种方式考虑与厚伦理概念相关的基本问题。
 
-
 ## Bibliography
 
-* Abend, Gabriel, 2011, “Thick Concepts and the Moral Brain”, *European Journal of Sociology*, 52(1): 143–72. doi:10.1017/S0003975611000051
-* –––, 2019, “Thick Concepts and Sociological Research”, *Sociological Theory*, 37(3): 209–33. doi:10.1177/0735275119869979
-* Annas, Julia, 2016, “Learning Virtue Rules: The Issue of Thick Concepts”, in J. Annas, D. Narvaez, and N.E. Snow (eds.), *Developing the Virtues: Integrating Perspectives*, New York: Oxford University Press, pp. 224–34.
-* Anscombe, G.E.M., 1958, “Modern Moral Philosophy”, *Philosophy*, 33(124): 1–19. doi:10.1017/S0031819100037943
-* Battaly, Heather D., 2001, “Thin Concepts to the Rescue: Thinning the Concepts of Epistemic Justification and Intellectual Virtue”, in A. Fairweather and L. Zagzebski (eds.), *Virtue Epistemology*, Oxford: Oxford University Press, pp. 98–116.
-* Beardsley, Monroe, 1982, *The Aesthetic Point of View*, Ithaca, NY: Cornell University Press.
-* Bergström, Lars, 2002, “Putnam on the Fact-Value Dichotomy”, *Croatian Journal of Philosophy*, 2: 1–13.
-* Blackburn, Simon, 1992, “Through Thick and Thin”, *Proceedings of the Aristotelian Society*, supplementary volume 66: 284–99.
-* –––, 1998, *Ruling Passions*, Oxford: Oxford University Press.
+* Abend, Gabriel, 2011, “Thick Concepts and the Moral Brain”, _European Journal of Sociology_, 52(1): 143–72. doi:10.1017/S0003975611000051
+* –––, 2019, “Thick Concepts and Sociological Research”, _Sociological Theory_, 37(3): 209–33. doi:10.1177/0735275119869979
+* Annas, Julia, 2016, “Learning Virtue Rules: The Issue of Thick Concepts”, in J. Annas, D. Narvaez, and N.E. Snow (eds.), _Developing the Virtues: Integrating Perspectives_, New York: Oxford University Press, pp. 224–34.
+* Anscombe, G.E.M., 1958, “Modern Moral Philosophy”, _Philosophy_, 33(124): 1–19. doi:10.1017/S0031819100037943
+* Battaly, Heather D., 2001, “Thin Concepts to the Rescue: Thinning the Concepts of Epistemic Justification and Intellectual Virtue”, in A. Fairweather and L. Zagzebski (eds.), _Virtue Epistemology_, Oxford: Oxford University Press, pp. 98–116.
+* Beardsley, Monroe, 1982, _The Aesthetic Point of View_, Ithaca, NY: Cornell University Press.
+* Bergström, Lars, 2002, “Putnam on the Fact-Value Dichotomy”, _Croatian Journal of Philosophy_, 2: 1–13.
+* Blackburn, Simon, 1992, “Through Thick and Thin”, _Proceedings of the Aristotelian Society_, supplementary volume 66: 284–99.
+* –––, 1998, _Ruling Passions_, Oxford: Oxford University Press.
 * –––, 2013, “Disentangling Disentangling”, in Kirchin 2013b: 121–35. doi:10.1093/acprof:oso/9780199672349.003.0007
-* Boisvert, Daniel R., 2008, “Expressive-Assertivism”, *Pacific Philosophical Quarterly*, 89(2): 169–203. doi:10.1111/j.1468-0114.2008.00315.x
-* Bolinger, Renée Jorgensen, 2017, “The Pragmatics of Slurs”, *Noûs*, 51(3): 439–62. doi:10.1111/nous.12090
-* Bonzon, Roman, 2009, “Thick Aesthetic Concepts”, *Journal of Aesthetics and Art Criticism*, 67(2): 191–9.
-* Brower, Bruce, 1988, “Virtue Concepts and Ethical Realism”, *Journal of Philosophy*, 85(12): 675–93. doi:10.2307/2026728
-* Burton, Stephan L., 1992, “‘Thick’ Concepts Revised”, *Analysis*, 52(1): 28–32. doi:10.2307/3328878
-* Cannon, N.D., 2020, “Irreducibly Thick Evaluation is not Thinly Evaluative”, *Ethical Theory and Moral Practice*, 23(3–4): 651–66. doi:10.1007/s10677-020-10108-w
-* Cepollaro, Bianca 2018, “Negative or Positive? Three Theories of Evaluation Reversal”, *Croatian Journal of Philosophy*, 18(3): 363–74.
-* –––, 2020, *Slurs and Thick Terms: When Language Encodes Values*, Lanham, MD: Lexington Books.
-* Cepollaro, Bianca and Isidora Stojanovic, 2016, “Hybrid Evaluatives: In Defense of a Presuppositional Account”, *Grazer Philosophische Studien*, 93(3): 458–88. doi:10.1163/18756735-09303007
+* Boisvert, Daniel R., 2008, “Expressive-Assertivism”, _Pacific Philosophical Quarterly_, 89(2): 169–203. doi:10.1111/j.1468-0114.2008.00315.x
+* Bolinger, Renée Jorgensen, 2017, “The Pragmatics of Slurs”, _Noûs_, 51(3): 439–62. doi:10.1111/nous.12090
+* Bonzon, Roman, 2009, “Thick Aesthetic Concepts”, _Journal of Aesthetics and Art Criticism_, 67(2): 191–9.
+* Brower, Bruce, 1988, “Virtue Concepts and Ethical Realism”, _Journal of Philosophy_, 85(12): 675–93. doi:10.2307/2026728
+* Burton, Stephan L., 1992, “‘Thick’ Concepts Revised”, _Analysis_, 52(1): 28–32. doi:10.2307/3328878
+* Cannon, N.D., 2020, “Irreducibly Thick Evaluation is not Thinly Evaluative”, _Ethical Theory and Moral Practice_, 23(3–4): 651–66. doi:10.1007/s10677-020-10108-w
+* Cepollaro, Bianca 2018, “Negative or Positive? Three Theories of Evaluation Reversal”, _Croatian Journal of Philosophy_, 18(3): 363–74.
+* –––, 2020, _Slurs and Thick Terms: When Language Encodes Values_, Lanham, MD: Lexington Books.
+* Cepollaro, Bianca and Isidora Stojanovic, 2016, “Hybrid Evaluatives: In Defense of a Presuppositional Account”, _Grazer Philosophische Studien_, 93(3): 458–88. doi:10.1163/18756735-09303007
 * Chappell, Timothy, 2013, “There Are No Thin Concepts”, in Kirchin 2013b: 182–96. doi:10.1093/acprof:oso/9780199672349.003.0010
-* Chierchia, Gennaro and Sally McConnell-Ginet, 2000, *Meaning and Grammar. An Introduction to Semantics*, 2nd edition, Cambridge, MA: MIT Press.
-* Cline, Brendan, 2015, “Moral Explanations: Thick and Thin”, *Journal of Ethics and Social Philosophy*, 9(2), September, [available online](http://www.jesp.org/PDF/moral-explanations-thick-and-thin.pdf).
-* Dancy, Jonathan, 1995, “In Defence of Thick Concepts”, *Midwest Studies in Philosophy*, 20: 263–79.
+* Chierchia, Gennaro and Sally McConnell-Ginet, 2000, _Meaning and Grammar. An Introduction to Semantics_, 2nd edition, Cambridge, MA: MIT Press.
+* Cline, Brendan, 2015, “Moral Explanations: Thick and Thin”, _Journal of Ethics and Social Philosophy_, 9(2), September, [available online](http://www.jesp.org/PDF/moral-explanations-thick-and-thin.pdf).
+* Dancy, Jonathan, 1995, “In Defence of Thick Concepts”, _Midwest Studies in Philosophy_, 20: 263–79.
 * –––, 2013, “Practical Concepts”, in Kirchin 2013b: 44–59. doi:10.1093/acprof:oso/9780199672349.003.0003
-* Eklund, Matti, 2011, “What Are Thick Concepts?”, *Canadian Journal of Philosophy*, 41(1): 25–49. doi:10.1353/cjp.2011.0007
+* Eklund, Matti, 2011, “What Are Thick Concepts?”, _Canadian Journal of Philosophy_, 41(1): 25–49. doi:10.1353/cjp.2011.0007
 * –––, 2013, “Evaluative Language and Evaluative Reality”, in Kirchin 2013b: 161–81. doi:10.1093/acprof:oso/9780199672349.003.0009
-* –––, 2017, “Thickness and Evaluation” (a review article of Väyrynen 2013), *Journal of Moral Philosophy*, 14(1): 89–104. doi:10.1163/17455243-01401001
-* Elstein, Daniel Y. and Thomas Hurka, 2009, “From Thick to Thin: Two Moral Reduction Plans”, *Canadian Journal of Philosophy*, 39(4): 515–36. doi:10.1353/cjp.0.0063
-* Enoch, David and Kevin Toh, 2013, “*Legal* as a Thick Concept”, in W. Waluchow and S. Sciaraffa (eds.), *Philosophical Foundations of the Nature of Law*, Oxford: Oxford University Press, pp. 257–78. doi:10.1093/acprof:oso/9780199675517.003.0012
-* FitzGerald, Chloë and Peter Goldie, 2012, “Thick Concepts and Their Role in Moral Psychology”, in (eds.), R. Langdon and C. Mackenzie *Emotions, Imagination, and Moral Reasoning*, New York: Psychology Press, pp. 219–36.
-* Foot, Philippa, 1958, “Moral Arguments”, *Mind*, 67(268): 502–13. doi:10.1093/mind/LXVII.268.502
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
-* Geertz, Clifford, 1973, “Thick Description: Toward an Interpretive Theory of Culture”, in his *The Interpretation of Cultures: Selected Essays*, New York: Basic Books, pp. 3–30.
-* Gibbard, Allan, 1992, “Thick Concepts and Warrant for Feelings”, *Proceedings of the Aristotelian Society*, supplementary volume 66: 267–83.
+* –––, 2017, “Thickness and Evaluation” (a review article of Väyrynen 2013), _Journal of Moral Philosophy_, 14(1): 89–104. doi:10.1163/17455243-01401001
+* Elstein, Daniel Y. and Thomas Hurka, 2009, “From Thick to Thin: Two Moral Reduction Plans”, _Canadian Journal of Philosophy_, 39(4): 515–36. doi:10.1353/cjp.0.0063
+* Enoch, David and Kevin Toh, 2013, “_Legal_ as a Thick Concept”, in W. Waluchow and S. Sciaraffa (eds.), _Philosophical Foundations of the Nature of Law_, Oxford: Oxford University Press, pp. 257–78. doi:10.1093/acprof:oso/9780199675517.003.0012
+* FitzGerald, Chloë and Peter Goldie, 2012, “Thick Concepts and Their Role in Moral Psychology”, in (eds.), R. Langdon and C. Mackenzie _Emotions, Imagination, and Moral Reasoning_, New York: Psychology Press, pp. 219–36.
+* Foot, Philippa, 1958, “Moral Arguments”, _Mind_, 67(268): 502–13. doi:10.1093/mind/LXVII.268.502
+* Fricker, Miranda, 2007, _Epistemic Injustice: Power and the Ethics of Knowing_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
+* Geertz, Clifford, 1973, “Thick Description: Toward an Interpretive Theory of Culture”, in his _The Interpretation of Cultures: Selected Essays_, New York: Basic Books, pp. 3–30.
+* Gibbard, Allan, 1992, “Thick Concepts and Warrant for Feelings”, _Proceedings of the Aristotelian Society_, supplementary volume 66: 267–83.
 * Grice, H.P., 1975, “Logic and Conversation”, in Grice 1989: 22–40.
 * –––, 1978, “Further Notes on Logic and Conversation”, in Grice 1989: 41–57.
-* –––, 1989, *Studies in the Way of Words*, Cambridge, MA: Harvard University Press.
+* –––, 1989, _Studies in the Way of Words_, Cambridge, MA: Harvard University Press.
 * Harcourt, Edward and Alan Thomas, 2013, “Thick Concepts, Analysis, and Reductionism”, in Kirchin 2013b: 20–43. doi:10.1093/acprof:oso/9780199672349.003.0002
-* Hare, R.M., 1952, *The Language of Morals*, Oxford: Clarendon Press.
-* –––, 1963, *Freedom and Reason*, Oxford: Clarendon Press.
-* –––, 1981, *Moral Thinking*, Oxford: Clarendon Press.
-* Hay, Ryan J., 2013, “Hybrid Expressivism and the Analogy between Pejoratives and Moral Language”, *European Journal of Philosophy*, 21(3): 450–74. doi:10.1111/j.1468-0378.2011.00455.x
-* Heuer, Ulrike, 2012, “Thick Concepts and Internal Reasons”, in Ulrike Heuer and Gerald Lang (eds.), *Luck, Value and Commitment: Themes from the Ethics of Bernard Williams*, Oxford: Oxford University Press, pp. 219–46. doi:10.1093/acprof:oso/9780199599325.003.0009
-* Hom, Christopher, 2008, “The Semantics of Racial Epithets”, *Journal of Philosophy*, 105(8): 416–40.
-* Hume, David, 1739–40, *A Treatise of Human Nature*, David Fate Noron and Mary J. Norton (eds.), Oxford: Oxford University Press, 2001.
-* Hurley, S.L., 1989, *Natural Reasons*, Oxford: Oxford University Press.
-* Hursthouse, Rosalind, 1996, “Normative Virtue Ethics”, in Roger Crisp (ed.), *How Should One Live? Essays on the Virtues*, Oxford: Oxford University Press, pp. 19–36. doi:10.1093/0198752342.003.0002
-* Jackson, Frank C., 1998, *From Metaphysics to Ethics*, Oxford: Clarendon Press.
-* Kirchin, Simon, 2010, “The Shapelessness Hypothesis”, *Philosophers’ Imprint*, 10(4) February, [available online](http://hdl.handle.net/2027/spo.3521354.0010.004).
+* Hare, R.M., 1952, _The Language of Morals_, Oxford: Clarendon Press.
+* –––, 1963, _Freedom and Reason_, Oxford: Clarendon Press.
+* –––, 1981, _Moral Thinking_, Oxford: Clarendon Press.
+* Hay, Ryan J., 2013, “Hybrid Expressivism and the Analogy between Pejoratives and Moral Language”, _European Journal of Philosophy_, 21(3): 450–74. doi:10.1111/j.1468-0378.2011.00455.x
+* Heuer, Ulrike, 2012, “Thick Concepts and Internal Reasons”, in Ulrike Heuer and Gerald Lang (eds.), _Luck, Value and Commitment: Themes from the Ethics of Bernard Williams_, Oxford: Oxford University Press, pp. 219–46. doi:10.1093/acprof:oso/9780199599325.003.0009
+* Hom, Christopher, 2008, “The Semantics of Racial Epithets”, _Journal of Philosophy_, 105(8): 416–40.
+* Hume, David, 1739–40, _A Treatise of Human Nature_, David Fate Noron and Mary J. Norton (eds.), Oxford: Oxford University Press, 2001.
+* Hurley, S.L., 1989, _Natural Reasons_, Oxford: Oxford University Press.
+* Hursthouse, Rosalind, 1996, “Normative Virtue Ethics”, in Roger Crisp (ed.), _How Should One Live? Essays on the Virtues_, Oxford: Oxford University Press, pp. 19–36. doi:10.1093/0198752342.003.0002
+* Jackson, Frank C., 1998, _From Metaphysics to Ethics_, Oxford: Clarendon Press.
+* Kirchin, Simon, 2010, “The Shapelessness Hypothesis”, _Philosophers’ Imprint_, 10(4) February, [available online](http://hdl.handle.net/2027/spo.3521354.0010.004).
 * –––, 2013a, “Thick Concepts and Thick Descriptions”, in Kirchin 2013b: 60–77. doi:10.1093/acprof:oso/9780199672349.003.0004
-* ––– (ed.), 2013b, *Thick Concepts*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199672349.001.0001
-* –––, 2017, *Thick Evaluation*, Oxford: Oxford University Press, [available online](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198803430.pdf).
-* Kotzee, Ben and Jeremy Wanderer (eds.), 2008, *Epistemology Through Thick and Thin*, a special issue of *Philosophical Papers*, 37(3).
-* Kyle, Brent G., 2013a, “How Are Thick Terms Evaluative?”, *Philosophers’ Imprint*, 13(1) January, [available online](http://hdl.handle.net/2027/spo.3521354.0013.001).
-* –––, 2013b, “Knowledge as a Thick Concept: Explaining Why the Gettier Problem Arises”, *Philosophical Studies*, 165: 1–27. doi:10.1007/s11098-012-9919-2
-* –––, 2020, “The Expansion View of Thick Concepts”, *Noûs*, 54(4): 914–44. doi:10.1111/nous.12289
-* Lang, Gerald, 2001, “The Rule-Following Considerations and Metaethics: Some False Moves”, *European Journal of Philosophy*, 9(2): 190–209. doi:10.1111/1468-0378.00135
-* Liao, Shen-Yi, Aaron Meskin, and Joshua Knobe, 2020, “Dual Character Art Concepts”, *Pacific Philosophical Quarterly* 101(1): 102–128. doi:10.1111/papq.12301
-* Little, Margaret Olivia, 2000, “Moral Generalities Revisited”, in B. Hooker and M.O. Little (eds.), *Moral Particularism*, Oxford: Oxford University Press, pp. 276–304.
-* MacIntyre, Alasdair, 1984, *After Virtue*, 2nd edition, Notre Dame, IN: University of Notre Dame Press.
-* McDowell, John, 1981 [1998], “Non-Cognitivism and Rule-Following”, in Steven H. Holtzman and Christopher M. Leich (eds.), *Wittgenstein: To Follow A Rule*, London: Routledge, pp. 141–162. Reprinted in his *Mind, Value, and Reality*, Cambridge, MA: Harvard University Press (1998), pp. 198–219.
-* Miller, Alexander, 2003, *Introduction to Contemporary Metaethics*, Cambridge: Polity Press.
-* Möller, Niklas, 2012, “The Concepts of Risk and Safety”, in Sabine Roeser, Rafaela Hillerbrand, Per Sandin, and Martin Peterson (eds.), *The Handbook of Risk Theory: Epistemology, Decision Theory, Ethics, and Social Implications of Risk*, Dordrecht: Springer, pp. 55–85. doi:10.1007/978-94-007-1433-5_3
-* Moore, A.W., 2003, “Williams on Ethics, Knowledge, and Reflection”, *Philosophy*, 78(305): 337–54.
-* –––, 2006, “Maxims and Thick Ethical Concepts”, *Ratio*, 19(2): 129–47. doi:10.1111/j.1467-9329.2006.00315.x
-* Murdoch, Iris, 1970, *The Sovereignty of Good*, London: Routledge.
-* Nunberg, Geoff, 2018, “The Social Life of Slurs”, in Daniel Fogal, Daniel Harris, and Matt Moss (eds.), *New Work on Speech Acts*, Oxford: Oxford University Press, pp. 237–95. doi:10.1093/oso/9780198738831.003.0010
-* Prior, A.N., 1960, “The Autonomy of Ethics”, *Australasian Journal of Philosophy*, 38(3): 199–206.
-* Putnam, Hilary, 2002, *The Collapse of the Fact/Value Dichotomy and Other Essays*, Cambridge, MA: Harvard University Press.
-* Quinn, Warren, 1987, “Reflection and the Loss of Moral Knowledge: Williams on Objectivity”, *Philosophy & Public Affairs*, 16(2): 195–209.
-* Reuter, Kevin, 2019, “Dual Character Concepts”, *Philosophy Compass*, 14(1): e12557. doi:10.1111/phc3.12557
-* Richard, Mark, 2008, *When Truth Gives Out*, Oxford: Oxford University Press.
-* Roberts, Debbie, 2011, “Shapelessness and the Thick”, *Ethics*, 121(3): 489–520. doi:10.1086/658898
-* –––, 2013a, “Thick Concepts”, *Philosophy Compass*, 8(8): 677–88. doi:10.1111/phc3.12055
+* ––– (ed.), 2013b, _Thick Concepts_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199672349.001.0001
+* –––, 2017, _Thick Evaluation_, Oxford: Oxford University Press, [available online](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198803430.pdf).
+* Kotzee, Ben and Jeremy Wanderer (eds.), 2008, _Epistemology Through Thick and Thin_, a special issue of _Philosophical Papers_, 37(3).
+* Kyle, Brent G., 2013a, “How Are Thick Terms Evaluative?”, _Philosophers’ Imprint_, 13(1) January, [available online](http://hdl.handle.net/2027/spo.3521354.0013.001).
+* –––, 2013b, “Knowledge as a Thick Concept: Explaining Why the Gettier Problem Arises”, _Philosophical Studies_, 165: 1–27. doi:10.1007/s11098-012-9919-2
+* –––, 2020, “The Expansion View of Thick Concepts”, _Noûs_, 54(4): 914–44. doi:10.1111/nous.12289
+* Lang, Gerald, 2001, “The Rule-Following Considerations and Metaethics: Some False Moves”, _European Journal of Philosophy_, 9(2): 190–209. doi:10.1111/1468-0378.00135
+* Liao, Shen-Yi, Aaron Meskin, and Joshua Knobe, 2020, “Dual Character Art Concepts”, _Pacific Philosophical Quarterly_ 101(1): 102–128. doi:10.1111/papq.12301
+* Little, Margaret Olivia, 2000, “Moral Generalities Revisited”, in B. Hooker and M.O. Little (eds.), _Moral Particularism_, Oxford: Oxford University Press, pp. 276–304.
+* MacIntyre, Alasdair, 1984, _After Virtue_, 2nd edition, Notre Dame, IN: University of Notre Dame Press.
+* McDowell, John, 1981 \[1998], “Non-Cognitivism and Rule-Following”, in Steven H. Holtzman and Christopher M. Leich (eds.), _Wittgenstein: To Follow A Rule_, London: Routledge, pp. 141–162. Reprinted in his _Mind, Value, and Reality_, Cambridge, MA: Harvard University Press (1998), pp. 198–219.
+* Miller, Alexander, 2003, _Introduction to Contemporary Metaethics_, Cambridge: Polity Press.
+* Möller, Niklas, 2012, “The Concepts of Risk and Safety”, in Sabine Roeser, Rafaela Hillerbrand, Per Sandin, and Martin Peterson (eds.), _The Handbook of Risk Theory: Epistemology, Decision Theory, Ethics, and Social Implications of Risk_, Dordrecht: Springer, pp. 55–85. doi:10.1007/978-94-007-1433-5\_3
+* Moore, A.W., 2003, “Williams on Ethics, Knowledge, and Reflection”, _Philosophy_, 78(305): 337–54.
+* –––, 2006, “Maxims and Thick Ethical Concepts”, _Ratio_, 19(2): 129–47. doi:10.1111/j.1467-9329.2006.00315.x
+* Murdoch, Iris, 1970, _The Sovereignty of Good_, London: Routledge.
+* Nunberg, Geoff, 2018, “The Social Life of Slurs”, in Daniel Fogal, Daniel Harris, and Matt Moss (eds.), _New Work on Speech Acts_, Oxford: Oxford University Press, pp. 237–95. doi:10.1093/oso/9780198738831.003.0010
+* Prior, A.N., 1960, “The Autonomy of Ethics”, _Australasian Journal of Philosophy_, 38(3): 199–206.
+* Putnam, Hilary, 2002, _The Collapse of the Fact/Value Dichotomy and Other Essays_, Cambridge, MA: Harvard University Press.
+* Quinn, Warren, 1987, “Reflection and the Loss of Moral Knowledge: Williams on Objectivity”, _Philosophy & Public Affairs_, 16(2): 195–209.
+* Reuter, Kevin, 2019, “Dual Character Concepts”, _Philosophy Compass_, 14(1): e12557. doi:10.1111/phc3.12557
+* Richard, Mark, 2008, _When Truth Gives Out_, Oxford: Oxford University Press.
+* Roberts, Debbie, 2011, “Shapelessness and the Thick”, _Ethics_, 121(3): 489–520. doi:10.1086/658898
+* –––, 2013a, “Thick Concepts”, _Philosophy Compass_, 8(8): 677–88. doi:10.1111/phc3.12055
 * –––, 2013b, “It’s Evaluation, Only Thicker”, in Kirchin 2013b: 78–98. doi:10.1093/acprof:oso/9780199672349.003.0005
-* –––, 2017, “Depending on the Thick”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 91: 197–220. doi:10.1093/arisup/akx006
-* –––, 2018a, “Thick Epistemic Concepts”, in Conor McHugh, Jonathan Way, and Daniel Whiting (eds.), *Metaepistemology*, Oxford: Oxford University Press, pp. 159–78. doi:10.1093/oso/9780198805366.001.0001
-* –––, 2018b,“Why Believe in Normative Supervenience?”, *Oxford Studies in Metaethics*, 13: 1–24.
-* Ryle, Gilbert, 1968, “The Thinking of Thoughts: What is ‘Le Penseur’ Doing?”, in his *Collected Papers, Volume 2*, London: Hutchinson, pp. 480–96.
-* Rynin, David, 1957, “The Autonomy of Morals”, *Mind*, 66(263): 308–317. doi:10.1093/mind/LXVI.263.308
-* Scanlon, T.M., 2003, “Thickness and Theory”, *Journal of Philosophy*, 100(6): 275–87.
-* Scheffler, Samuel, 1987, “Morality Through Thick and Thin: a Critical Notice of *Ethics and the Limits of Philosophy* [Williams 1985]”, *Philosophical Review*, 96(3): 411–34. doi:10.2307/2185227
-* Shockley, Kenneth, 2012, “Thinning the Thicket: Thick Evaluative Concepts and Environmental Value”, *Environmental Ethics*, 34(3): 227–46.
-* Sibley, Frank, 2001, *Approach to Aesthetics*, Oxford: Clarendon Press.
+* –––, 2017, “Depending on the Thick”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 91: 197–220. doi:10.1093/arisup/akx006
+* –––, 2018a, “Thick Epistemic Concepts”, in Conor McHugh, Jonathan Way, and Daniel Whiting (eds.), _Metaepistemology_, Oxford: Oxford University Press, pp. 159–78. doi:10.1093/oso/9780198805366.001.0001
+* –––, 2018b,“Why Believe in Normative Supervenience?”, _Oxford Studies in Metaethics_, 13: 1–24.
+* Ryle, Gilbert, 1968, “The Thinking of Thoughts: What is ‘Le Penseur’ Doing?”, in his _Collected Papers, Volume 2_, London: Hutchinson, pp. 480–96.
+* Rynin, David, 1957, “The Autonomy of Morals”, _Mind_, 66(263): 308–317. doi:10.1093/mind/LXVI.263.308
+* Scanlon, T.M., 2003, “Thickness and Theory”, _Journal of Philosophy_, 100(6): 275–87.
+* Scheffler, Samuel, 1987, “Morality Through Thick and Thin: a Critical Notice of _Ethics and the Limits of Philosophy_ \[Williams 1985]”, _Philosophical Review_, 96(3): 411–34. doi:10.2307/2185227
+* Shockley, Kenneth, 2012, “Thinning the Thicket: Thick Evaluative Concepts and Environmental Value”, _Environmental Ethics_, 34(3): 227–46.
+* Sibley, Frank, 2001, _Approach to Aesthetics_, Oxford: Clarendon Press.
 * Smith, Michael, 2013, “On the Nature and Significance of the Distinction between Thick and Thin Ethical Concepts”, in Kirchin 2013b: 97–120. doi:10.1093/acprof:oso/9780199672349.003.0006
-* Sreenivasan, Gopal, 2001, “Understanding Alien Morals”, *Philosophy and Phenomenological Research*, 62(1): 1–32. doi:10.2307/2653587
-* Stevenson, Charles Leslie, 1938, “Persuasive Definitions”, *Mind*, 47(187): 331–50.
-* Stojanovic, Isidora, 2016, “Expressing Aesthetic Judgments in Context”, *Inquiry*, 59(6): 663–85. doi:10.1080/0020174X.2016.1208922
-* Sundell, Timothy, 2016, “The Tasty, the Bold, and the Beautiful”, *Inquiry*, 59(6): 793–818. doi:10.1080/0020174X.2016.1208918
-* Tappolet, Christine, 2004, “Through Thick and Thin: Good and its Determinates”, *Dialectica*, 58(2): 207–21. doi:10.1111/j.1746-8361.2004.tb00297.x
+* Sreenivasan, Gopal, 2001, “Understanding Alien Morals”, _Philosophy and Phenomenological Research_, 62(1): 1–32. doi:10.2307/2653587
+* Stevenson, Charles Leslie, 1938, “Persuasive Definitions”, _Mind_, 47(187): 331–50.
+* Stojanovic, Isidora, 2016, “Expressing Aesthetic Judgments in Context”, _Inquiry_, 59(6): 663–85. doi:10.1080/0020174X.2016.1208922
+* Sundell, Timothy, 2016, “The Tasty, the Bold, and the Beautiful”, _Inquiry_, 59(6): 793–818. doi:10.1080/0020174X.2016.1208918
+* Tappolet, Christine, 2004, “Through Thick and Thin: Good and its Determinates”, _Dialectica_, 58(2): 207–21. doi:10.1111/j.1746-8361.2004.tb00297.x
 * Väyrynen, Pekka, 2008, “Slim Epistemology with a Thick Skin”, in Kotzee and Wanderer 2008: 389–412. doi:10.1080/05568640809485228
-* –––, 2011, “Thick Concepts and Variability”, *Philosophers’ Imprint*, 11(1) January, [available online](http://hdl.handle.net/2027/spo.3521354.0011.001).
-* –––, 2012, “Thick Concepts: Where’s Evaluation?”, *Oxford Studies in Metaethics*, Russ Shafer-Landau (ed.), 7: 235–70. doi:10.1093/acprof:oso/9780199653492.003.0008
-* –––, 2013, *The Lewd, the Rude and the Nasty*, New York: Oxford University Press.
-* –––, 2014, “Shapelessness in Context”, *Noûs*, 48(3): 573–93. doi:10.1111/j.1468-0068.2012.00877.x
-* Willemsen, Pascale and Kevin Reuter, 2020, “Separability and the Effect of Valence”, *Proceedings of the 42th Annual Conference of the Cognitive Science Society*, Austin, TX: Cognitive Science Society, pp. 794–800, [available online](https://cognitivesciencesociety.org/cogsci20/papers/0141/0141.pdf).
-* Williams, Bernard, 1981, “Internal and External Reasons”, in his *Moral Luck*, Cambridge: Cambridge University Press, pp. 101–13.
-* –––, 1985, *Ethics and the Limits of Philosophy*, Cambridge, MA: Harvard University Press.
-* –––, 1995, “Truth in Ethics”, *Ratio*, 8(3): 227–42. doi:10.1111/j.1467-9329.1995.tb00085.x
-* Williamson, Timothy, 2009, “Reference, Inference, and the Semantics of Pejoratives”, in Joseph Almog and Paolo Leonardi (eds.), *The Philosophy of David Kaplan*, Oxford: Oxford University Press, pp. 137–58. doi:10.1093/acprof:oso/9780195367881.003.0009
-* Yaffe, Gideon, 2000, “Free Will and Agency at Its Best”, *Philosophical Perspectives*, 14: 203–229. doi:10.1111/0029-4624.34.s14.11
-* Zangwill, Nick, 1995, “The Beautiful, the Dainty and the Dumpy”, *British Journal of Aesthetics*, 35(4): 317–29. doi:10.1093/bjaesthetics/35.4.317
+* –––, 2011, “Thick Concepts and Variability”, _Philosophers’ Imprint_, 11(1) January, [available online](http://hdl.handle.net/2027/spo.3521354.0011.001).
+* –––, 2012, “Thick Concepts: Where’s Evaluation?”, _Oxford Studies in Metaethics_, Russ Shafer-Landau (ed.), 7: 235–70. doi:10.1093/acprof:oso/9780199653492.003.0008
+* –––, 2013, _The Lewd, the Rude and the Nasty_, New York: Oxford University Press.
+* –––, 2014, “Shapelessness in Context”, _Noûs_, 48(3): 573–93. doi:10.1111/j.1468-0068.2012.00877.x
+* Willemsen, Pascale and Kevin Reuter, 2020, “Separability and the Effect of Valence”, _Proceedings of the 42th Annual Conference of the Cognitive Science Society_, Austin, TX: Cognitive Science Society, pp. 794–800, [available online](https://cognitivesciencesociety.org/cogsci20/papers/0141/0141.pdf).
+* Williams, Bernard, 1981, “Internal and External Reasons”, in his _Moral Luck_, Cambridge: Cambridge University Press, pp. 101–13.
+* –––, 1985, _Ethics and the Limits of Philosophy_, Cambridge, MA: Harvard University Press.
+* –––, 1995, “Truth in Ethics”, _Ratio_, 8(3): 227–42. doi:10.1111/j.1467-9329.1995.tb00085.x
+* Williamson, Timothy, 2009, “Reference, Inference, and the Semantics of Pejoratives”, in Joseph Almog and Paolo Leonardi (eds.), _The Philosophy of David Kaplan_, Oxford: Oxford University Press, pp. 137–58. doi:10.1093/acprof:oso/9780195367881.003.0009
+* Yaffe, Gideon, 2000, “Free Will and Agency at Its Best”, _Philosophical Perspectives_, 14: 203–229. doi:10.1111/0029-4624.34.s14.11
+* Zangwill, Nick, 1995, “The Beautiful, the Dainty and the Dumpy”, _British Journal of Aesthetics_, 35(4): 317–29. doi:10.1093/bjaesthetics/35.4.317
 * –––, 2013, “Moral Metaphor and Thick Concepts: What Moral Philosophy Can Learn from Aesthetics”, in Kirchin 2013b: 197–209. doi:10.1093/acprof:oso/9780199672349.003.0011
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=thick-ethical-concepts). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/thick-ethical-concepts/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=thick-ethical-concepts&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/thick-ethical-concepts/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=thick-ethical-concepts).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/thick-ethical-concepts/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=thick-ethical-concepts\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/thick-ethical-concepts/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Thick Concepts](http://www.iep.utm.edu/thick-co/), entry by Brent Kyle in the *Internet Encyclopedia of Philosophy*.
+* [Thick Concepts](http://www.iep.utm.edu/thick-co/), entry by Brent Kyle in the _Internet Encyclopedia of Philosophy_.
 * [Thick Aesthetic Concepts in Extreme Metal](https://ctrltomdel.wordpress.com/2012/09/14/meta-ethics-ist-kvlt/), blog post.
 
 ## Related Entries
 
-[cognitivism vs. non-cognitivism, moral](https://plato.stanford.edu/entries/moral-cognitivism/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [epistemology: virtue](https://plato.stanford.edu/entries/epistemology-virtue/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [metaethics](https://plato.stanford.edu/entries/metaethics/) | [pragmatics](https://plato.stanford.edu/entries/pragmatics/) | [reasoning: moral](https://plato.stanford.edu/entries/reasoning-moral/) | [reasons for action: internal vs. external](https://plato.stanford.edu/entries/reasons-internal-external/) | [supervenience: in ethics](https://plato.stanford.edu/entries/supervenience-ethics/) | [value theory](https://plato.stanford.edu/entries/value-theory/) | [Williams, Bernard](https://plato.stanford.edu/entries/williams-bernard/)
+[cognitivism vs. non-cognitivism, moral](https://plato.stanford.edu/entries/moral-cognitivism/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [epistemology: virtue](https://plato.stanford.edu/entries/epistemology-virtue/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [metaethics](https://plato.stanford.edu/entries/metaethics/) | [pragmatics](https://plato.stanford.edu/entries/pragmatics/) | [reasoning: moral](https://plato.stanford.edu/entries/reasoning-moral/) | [reasons for action: internal vs. external](https://plato.stanford.edu/entries/reasons-internal-external/) | [supervenience: in ethics](https://plato.stanford.edu/entries/supervenience-ethics/) | [value theory](https://plato.stanford.edu/entries/value-theory/) | [Williams, Bernard](https://plato.stanford.edu/entries/williams-bernard/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Pekka Väyrynen](http://www.leeds.ac.uk/arts/profile/20042/467/pekka_v%C3%A4yrynen) <[*p.vayrynen@leeds.ac.uk*](mailto:p%2evayrynen%40leeds%2eac%2euk)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Pekka Väyrynen](http://www.leeds.ac.uk/arts/profile/20042/467/pekka\_v%C3%A4yrynen) <[_p.vayrynen@leeds.ac.uk_](mailto:p%2evayrynen%40leeds%2eac%2euk)>

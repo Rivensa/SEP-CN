@@ -1,10 +1,10 @@
 # 斯宾诺莎的政治哲学 political philosophy (Justin Steinberg)
 
-*首次发表于 2008 年 4 月 21 日；实质修订于 2019 年 4 月 15 日*
+_首次发表于 2008 年 4 月 21 日；实质修订于 2019 年 4 月 15 日_
 
 至少在英语国家，斯宾诺莎作为一位政治思想家的声誉被他作为一位理性主义形而上学家的声誉所遮蔽。然而，斯宾诺莎是一位深入的政治理论家，他的著作具有持久的重要性。在他的两部政治论文中，斯宾诺莎提出了一系列有力而独创的论证，为民主治理、思想和表达自由以及宗教服从国家辩护。基于他的自然形而上学，斯宾诺莎还对普通的权利和义务观念提出了尖锐的批评。他对公民组织的描述也是对宪政和法治发展的重要贡献。
 
----
+***
 
 ## 1. 历史背景
 
@@ -42,7 +42,7 @@
 
 斯宾诺莎的自然主义排除了超越性上帝的可能性。那些相信超越性上帝的人“想象有两种力量，彼此不同，上帝的力量和自然事物的力量... 他们想象上帝的力量就像皇家威权，而自然的力量就像一种力量和推动力”（神学政治论 6/81）。当然，在斯宾诺莎的观点中，上帝不是超越性的立法者，上帝就是自然本身。因此，所有以上帝立法意愿为根基的权利解释都是虚假的。这不仅直接驳斥了捍卫君权神授的人，也驳斥了许多 17 世纪理论家所拥护的将自然权利视为权利要求的大多数解释。
 
-此外，这种自然主义还排除了事物的规范秩序或事物应该的方式与实际秩序不同的可能性。这破坏了自然法理论的目的论假设，无论是多马斯主义还是新教。即使那些希望将自然法与神学分开的人（例如普芬多夫），以及那些淡化上帝意愿作用的人（如格罗修斯在他著名的“etiam si daremus”一节中所做的），仍然认为有一种事物应该的方式，一种可以与实际秩序分离的规范自然秩序。根据这种观点，当人们违背正确理性的规定时，他们就是违背了自然。斯宾诺莎批评了这种观点，他认为“无知者违背了自然的秩序而不是遵守它；他们将人类在自然中看作是一个国家中的国家[imperium in imperio]”（TP 2/6）。这个短语“imperium in imperio”也出现在《伦理学》第三篇的前言中，斯宾诺莎在其中描述了他反对的非自然主义观点。在这两个段落中，斯宾诺莎批评了这样的假设：人类受自己一套理性的规范法律支配，而不是受支配其他自然规律的法律。正是斯宾诺莎在《伦理学》中写道“自然的法律和规则……在任何时候和任何地方都是相同的”（EIII 前言），以及在《神学政治论》中写道“无论人是由理性还是纯粹的欲望引导，他所做的一切都是符合自然的法律和规则的”（TP 2/5）的立场。
+此外，这种自然主义还排除了事物的规范秩序或事物应该的方式与实际秩序不同的可能性。这破坏了自然法理论的目的论假设，无论是多马斯主义还是新教。即使那些希望将自然法与神学分开的人（例如普芬多夫），以及那些淡化上帝意愿作用的人（如格罗修斯在他著名的“etiam si daremus”一节中所做的），仍然认为有一种事物应该的方式，一种可以与实际秩序分离的规范自然秩序。根据这种观点，当人们违背正确理性的规定时，他们就是违背了自然。斯宾诺莎批评了这种观点，他认为“无知者违背了自然的秩序而不是遵守它；他们将人类在自然中看作是一个国家中的国家\[imperium in imperio]”（TP 2/6）。这个短语“imperium in imperio”也出现在《伦理学》第三篇的前言中，斯宾诺莎在其中描述了他反对的非自然主义观点。在这两个段落中，斯宾诺莎批评了这样的假设：人类受自己一套理性的规范法律支配，而不是受支配其他自然规律的法律。正是斯宾诺莎在《伦理学》中写道“自然的法律和规则……在任何时候和任何地方都是相同的”（EIII 前言），以及在《神学政治论》中写道“无论人是由理性还是纯粹的欲望引导，他所做的一切都是符合自然的法律和规则的”（TP 2/5）的立场。
 
 简而言之，通过采纳自然是单一的观点，并且人类受到与自然中的一切其他事物相同的法律支配，斯宾诺莎拒绝了自然法传统（Curley 1991; A. Garrett 2003; 对于相反观点，参见 Kisner 2010 和 Miller 2012）。即使将斯宾诺莎的自然主义视为荷兰政治思想中更大自然主义趋势的一部分（Blom 1995），他对自然的规范概念的否认和目的论的拒绝表明了与传统的明确分野。为了理解斯宾诺莎的自然主义的深度和重要性，将他对自然权利和义务的观点与霍布斯进行比较将会有所帮助。
 
@@ -58,7 +58,7 @@
 
 然而，在《利维坦》中，霍布斯似乎提出了一个自然权利的解释，显然不受这种规范约束（第 14 章）。但是，尽管在后来的著作中霍布斯似乎剥夺了自然权利的所有规范内容，甚至在《利维坦》中表达的观点也可能与彻底的自然主义相矛盾。为了看清这一点，可以考虑斯宾诺莎对他的朋友雅里格·耶勒斯的回答，当被问及他的观点与霍布斯的观点有何不同时。
 
-> 关于政治理论，你所询问的霍布斯和我之间的区别在于，我始终保留自然权利的完整性[ego naturale jus semper sartum tectum conservo]，我认为国家的主权权力只有在超过一个主体的权力时才对其拥有权利（书信 50）。
+> 关于政治理论，你所询问的霍布斯和我之间的区别在于，我始终保留自然权利的完整性\[ego naturale jus semper sartum tectum conservo]，我认为国家的主权权力只有在超过一个主体的权力时才对其拥有权利（书信 50）。
 
 斯宾诺莎在这里批评的是霍布斯关于契约（公约）或转让自然权利的观点。自然权利的可转让性或可转让性是霍布斯政治理论的基础；它使他能够解释共和国的形成和主权的合法性。然而，在斯宾诺莎看来，霍布斯在这里违反了自然主义。通过将自然权利构想为一种可以转让的权利，从而导致他在共和国中在权利和权力之间产生分歧，霍布斯从未完全摆脱斯宾诺莎试图推翻的法律传统的痕迹。
 
@@ -110,7 +110,7 @@
 
 斯宾诺莎为他有限的思想和言论自由辩护的论据是什么？第一个论据是完全控制他人信仰是严格不可能的（20，250-51）。由于权力与权利相等，缺乏控制信仰的权力意味着缺乏这样做的权利。然而，斯宾诺莎承认信仰可以以多种方式受到影响，即使不能完全控制，这个论证只能算是对良心自由的一种相当有限的辩护。
 
-接下来，论证从考虑统治者能做什么转向考虑统治者应该做什么是实际的或明智的。斯宾诺莎提出了一系列实用理由来辩护不干涉。例如，他认为“一个国家在试图强迫人们按照统治者的命令说话方面永远不会取得很大成功”（TTP 20，251）。人们天生倾向于表达他们的信仰（同上），所以就像调节信仰的尝试失败一样，调节这些信仰的表达也会失败。此外，即使一个国家试图调节言论，这只会导致依赖于公民团体的善意[fides]的侵蚀，因为人们会“想一件事情而说另一件事情”（TTP 20，255）。因此，寻求调节所有言论是愚蠢的，即使给予言论自由是“非常危险的”（TTP 20，252）。
+接下来，论证从考虑统治者能做什么转向考虑统治者应该做什么是实际的或明智的。斯宾诺莎提出了一系列实用理由来辩护不干涉。例如，他认为“一个国家在试图强迫人们按照统治者的命令说话方面永远不会取得很大成功”（TTP 20，251）。人们天生倾向于表达他们的信仰（同上），所以就像调节信仰的尝试失败一样，调节这些信仰的表达也会失败。此外，即使一个国家试图调节言论，这只会导致依赖于公民团体的善意\[fides]的侵蚀，因为人们会“想一件事情而说另一件事情”（TTP 20，255）。因此，寻求调节所有言论是愚蠢的，即使给予言论自由是“非常危险的”（TTP 20，252）。
 
 斯宾诺莎还认为，一般来说，君主统治得越压迫，公民就越反抗，因为大多数人“天性如此，他们最不愿意忍受的就是他们认为是真理的观点被禁止”（神学政治论 20，255）。压迫的根源和对抗压迫的抵抗在斯宾诺莎的观点中有一个共同的根源，即野心，或者说希望别人赞同我们所做的事情（参见 EIIIP29；Rosenthal 2001 和 2003）。人们的构成使得当意见分歧出现时——它们必然会出现——他们倾向于把自己的标准强加给别人，并抵制别人试图做同样的事情。因此，无论多么普遍地试图规范他人的信仰、言论和行为，这样做在政治上都是不稳定的。此外，斯宾诺莎认为，往往是最不明智和最讨厌的人发起道德运动，而往往是最明智和最爱好和平的人成为这类运动的目标（神学政治论 20，256-58）。
 
@@ -118,7 +118,7 @@
 
 ### 3.6《神学政治论》中的社会契约
 
-斯宾诺莎在《神学政治论》中对社会契约的阐述引起了学术界的广泛关注。斯宾诺莎在第 16 章中介绍了契约，讨论人们如何摆脱未进入文明状态的条件。他声称“[人们]必须做出坚定的决定，并达成协议，决定一切都要完全按照理性的要求来进行”（TTP 16, 198），这要求每个人将自己决定如何生活和自卫的权利转让给君主（TTP 16, 199-200）；参见 EIVP37S2。他还引用了希伯来国家的建立，以摩西为绝对君主的历史例子来说明社会契约（TTP 19, 240）。社会契约似乎赋予君主几乎无限的权威。只要我们理性，就“必须绝对服从君主权力的所有命令，无论它们多么荒谬”（TTP 16, 200）。
+斯宾诺莎在《神学政治论》中对社会契约的阐述引起了学术界的广泛关注。斯宾诺莎在第 16 章中介绍了契约，讨论人们如何摆脱未进入文明状态的条件。他声称“\[人们]必须做出坚定的决定，并达成协议，决定一切都要完全按照理性的要求来进行”（TTP 16, 198），这要求每个人将自己决定如何生活和自卫的权利转让给君主（TTP 16, 199-200）；参见 EIVP37S2。他还引用了希伯来国家的建立，以摩西为绝对君主的历史例子来说明社会契约（TTP 19, 240）。社会契约似乎赋予君主几乎无限的权威。只要我们理性，就“必须绝对服从君主权力的所有命令，无论它们多么荒谬”（TTP 16, 200）。
 
 然而，如果斯宾诺莎真的依赖社会契约作为合法性的来源，就会出现几个问题。首先，这样的契约似乎很难形成，因为社会契约的合法性依赖于斯宾诺莎明显认为大多数人缺乏远见的理性（参见 Den Uyl 1983）。
 
@@ -136,7 +136,7 @@
 
 人们可能会想为什么斯宾诺莎在 1670 年出版了《神学政治论》后，他生命的最后几年（直到 1677 年去世）都在撰写第二部政治论文，其中涉及了与第一部相同的一些内容。人们很容易认为他一定已经放弃了他早期的许多观点。然而，除了他对社会契约的观点可能有所保留（见 4.1 节）外，几乎没有证据表明斯宾诺莎放弃了他早期论文的任何核心主张。相反，这部政治论文与早期论文的主要区别在于其目标和修辞风格。《神学政治论》是一篇偶然的作品，是为了回应烦人的加尔文主义神职人员提出的问题而写的，面向的是自由派基督教神学家的观众；而《政治论》则关注国家的一般组织，并为哲学家而写。在后一篇论文中，斯宾诺莎放弃了被描述为“流行说服的神学语言”，而采用了冷静客观的政治科学家风格（Feuer 1987，151；参见 Balibar 1998，50）。
 
-《政治论》是《伦理学》的合适续篇（Matheron 1969）。《伦理学》揭示了个体自由的路径，《政治论》揭示了个体自由在公民制度中的依赖程度（Steinberg 2018a）。我们不应该对斯宾诺莎的哲学在他生命的最后阶段转向公民的方向感到惊讶。从他最早的著作开始，他声称他关心的不仅仅是完善自己的本性，而且“要建立一种理想的社会，使尽可能多的人能够轻松而确定地获得[繁荣的生活]”（TdIE，§14）。《政治论》可以被看作是斯宾诺莎试图阐明这样一个社会可能性的一些条件的尝试。
+《政治论》是《伦理学》的合适续篇（Matheron 1969）。《伦理学》揭示了个体自由的路径，《政治论》揭示了个体自由在公民制度中的依赖程度（Steinberg 2018a）。我们不应该对斯宾诺莎的哲学在他生命的最后阶段转向公民的方向感到惊讶。从他最早的著作开始，他声称他关心的不仅仅是完善自己的本性，而且“要建立一种理想的社会，使尽可能多的人能够轻松而确定地获得\[繁荣的生活]”（TdIE，§14）。《政治论》可以被看作是斯宾诺莎试图阐明这样一个社会可能性的一些条件的尝试。
 
 这部作品可以分为三个部分。在第一部分（大约到第 4 章），斯宾诺莎讨论了国家的形而上学基础和国家权力的自然限制。在第二部分（第 5 章），斯宾诺莎阐述了国家的一般目标。在第三部分（第 6 章到最后），斯宾诺莎具体建议了各种政权形式（君主制、贵族制和民主制）的构建方式，以满足第二部分中规定的国家目标。
 
@@ -150,11 +150,11 @@
 
 ### 4.2 国家的总体目标
 
-在前几章中，斯宾诺莎已经确定了任何可以做的事情都是按照权利来做的，他在第五章直接讨论了主权应该如何行使权力的问题，指出按照权利做某事和以最佳方式做某事之间有重要区别（5/1）。在这里，他只关心根据国家的总体目标来勾画出更细致的政权形式建议（见 4.3）。斯宾诺莎认为，国家的根本目标是“和平与生命的安全”[pax vitaeque securitas]（5/2）。要理解斯宾诺莎在这里所说的和平是什么意思，我们必须试图理解他对和平的理解。斯宾诺莎拒绝了霍布斯将和平定义为“没有战争”的观点（《公民论》1, 12），而是称之为“一种源于心灵力量的美德”（5/4），或者是“心灵的统一或和谐”（6/4）。一个国家能够持续存在或避免战争的蹂躏是一回事，而一个国家能够繁荣发展则完全是另一回事。斯宾诺莎通过有机的隐喻来阐述这一观点：
+在前几章中，斯宾诺莎已经确定了任何可以做的事情都是按照权利来做的，他在第五章直接讨论了主权应该如何行使权力的问题，指出按照权利做某事和以最佳方式做某事之间有重要区别（5/1）。在这里，他只关心根据国家的总体目标来勾画出更细致的政权形式建议（见 4.3）。斯宾诺莎认为，国家的根本目标是“和平与生命的安全”\[pax vitaeque securitas]（5/2）。要理解斯宾诺莎在这里所说的和平是什么意思，我们必须试图理解他对和平的理解。斯宾诺莎拒绝了霍布斯将和平定义为“没有战争”的观点（《公民论》1, 12），而是称之为“一种源于心灵力量的美德”（5/4），或者是“心灵的统一或和谐”（6/4）。一个国家能够持续存在或避免战争的蹂躏是一回事，而一个国家能够繁荣发展则完全是另一回事。斯宾诺莎通过有机的隐喻来阐述这一观点：
 
 > 所以当我们说最好的国家是那些人们在和谐中度过一生的国家时，我指的是人类的生活，这不仅仅是指血液循环和其他动物共有的特征，而是特别指理性，即心灵的真正美德和生命。（5/5）
 
-但是，如果国家的目标是和平，而和平包括“心灵的统一”或理性活动，人们可能会想知道，在斯宾诺莎对人类理性持怀疑态度的情况下（1/5；2/5；6/1），国家如何希望在实现其目标时取得成功。国家如何促进和平所依赖的公民美德或“心灵力量”[fortitudo]（5/2，5/3）？这可能是《神学政治论》中的核心规范问题（参见斯坦伯格 2009；斯坦伯格 2018a）。斯宾诺莎通过为每种政权类型提供制度建议来回答这个问题。
+但是，如果国家的目标是和平，而和平包括“心灵的统一”或理性活动，人们可能会想知道，在斯宾诺莎对人类理性持怀疑态度的情况下（1/5；2/5；6/1），国家如何希望在实现其目标时取得成功。国家如何促进和平所依赖的公民美德或“心灵力量”\[fortitudo]（5/2，5/3）？这可能是《神学政治论》中的核心规范问题（参见斯坦伯格 2009；斯坦伯格 2018a）。斯宾诺莎通过为每种政权类型提供制度建议来回答这个问题。
 
 ### 4.3 宪政主义和模范政权
 
@@ -164,7 +164,7 @@
 
 #### 4.3.1 君主制
 
-鉴于国家的根本目标是和平，斯宾诺莎在《政治论》的第 6 章和第 7 章中探讨的问题是如何组织君主制以实现最大程度的和平。他首先重申了人们大多数是非理性和自私的观点。由于普通人的激情必须得到调节，人们很容易认为像霍布斯所说的那样，需要强硬的治理。但斯宾诺莎声称，即使一个暴君能够最大限度地减少暴力和异议，就像土耳其苏丹们一样（6/4），这只会产生“奴役、野蛮和荒凉”，而不是真正的和平或人们之间的协议，这才是国家真正的目标。事实上，斯宾诺莎声称，权力完全集中在一个人手中，每个人都会变得更糟，包括暴君自己（6/8）。这是因为国王很可能只关心自己的利益，忽视了公共福利，最终导致城邦的削弱。为了克服这种状况，有必要对君主的行为进行宪法约束。这些基本法律被理解为国王的“永久法令”[aeterna decreta]，表达了他的真实利益，不得违反。斯宾诺莎将这些“法令”比作尤利西斯的命令，要求他的桨手将他绑在船桅上，即使他被塞壬的歌声所吸引（7/1）。其中一个核心宪法约束是国王与一个由公民组成的大议会进行协商，并在某种程度上向其负责（6/15-30）。此外，由于议会成员也可能是自私和贪婪的，重要的是将他们的私人利益与公共利益联系在一起（7/4；参见 7/27-29）。正如麦克谢所说，一个适当构建的国家将会像一个“稳态机制”（1968 年，109），通过确保个人利益始终与他人的利益相联系，纠正分裂或破坏的倾向。例如，斯宾诺莎写道，在一个适当组织的国家中：
+鉴于国家的根本目标是和平，斯宾诺莎在《政治论》的第 6 章和第 7 章中探讨的问题是如何组织君主制以实现最大程度的和平。他首先重申了人们大多数是非理性和自私的观点。由于普通人的激情必须得到调节，人们很容易认为像霍布斯所说的那样，需要强硬的治理。但斯宾诺莎声称，即使一个暴君能够最大限度地减少暴力和异议，就像土耳其苏丹们一样（6/4），这只会产生“奴役、野蛮和荒凉”，而不是真正的和平或人们之间的协议，这才是国家真正的目标。事实上，斯宾诺莎声称，权力完全集中在一个人手中，每个人都会变得更糟，包括暴君自己（6/8）。这是因为国王很可能只关心自己的利益，忽视了公共福利，最终导致城邦的削弱。为了克服这种状况，有必要对君主的行为进行宪法约束。这些基本法律被理解为国王的“永久法令”\[aeterna decreta]，表达了他的真实利益，不得违反。斯宾诺莎将这些“法令”比作尤利西斯的命令，要求他的桨手将他绑在船桅上，即使他被塞壬的歌声所吸引（7/1）。其中一个核心宪法约束是国王与一个由公民组成的大议会进行协商，并在某种程度上向其负责（6/15-30）。此外，由于议会成员也可能是自私和贪婪的，重要的是将他们的私人利益与公共利益联系在一起（7/4；参见 7/27-29）。正如麦克谢所说，一个适当构建的国家将会像一个“稳态机制”（1968 年，109），通过确保个人利益始终与他人的利益相联系，纠正分裂或破坏的倾向。例如，斯宾诺莎写道，在一个适当组织的国家中：
 
 > 国王...无论是出于对人民的恐惧，还是出于他想要赢得武装民众大部分支持的愿望，或者是出于他高尚的精神使他考虑公共利益，他总是会批准得到大多数选票支持的意见，即（根据本章第 5 节），对于国家大多数人来说更有利的意见；否则，他将尽力调和提交给他的不同意见，以赢得所有人的欢心（7/11）。
 
@@ -210,7 +210,7 @@
 
 后期启蒙思想家重新提出了斯宾诺莎的观点，即思想和表达的自由应受到保护，但在行动问题上应服从君主的决定（TTP 20, 251-2）。这种观点的回响可以在摩西·门德尔松的《耶路撒冷》中找到，他在其中将行动和信念分开（门德尔松 1983 年，40 页；戈特利布 2011 年，50 页），一位学者认为《神学政治论》“即使不是作为模型，至少也是决定性的副文本”（戈切尔 2004 年，168 页）。这种分裂甚至被腓特烈大帝采纳，他的政策是人们可以就任何他们想要的事争论，只要他们服从（这一政策在康德的论文《什么是启蒙？》中被著名地赞扬）。
 
-最后，值得一提的是斯宾诺莎对法国启蒙思想的民主思想的影响。乔纳森·以色列（Jonathan Israel）研究了斯宾诺莎的哲学如何塑造了平等主义政治思想的多种方式，包括最重要的是百科全书派的政治思想（以色列 2011 年）。斯宾诺莎的影响主要是由于他的自然主义，这激发了法国民主思想的唯物主义形而上学，而不是他的政治论证。斯宾诺莎的现实主义和可以说是反革命的政治方法表明，即使斯宾诺莎的哲学影响了革命的民主思想，它可能与他的实际政治哲学关系不大（关于斯宾诺莎对革命态度的不同评估，请参见罗森塔尔 2013 年和夏普 2013 年）。然而，在卢梭（见埃克斯坦 1944 年；威廉姆斯 2010 年）和狄德罗（以色列 2011 年）的普遍意愿[volonté générale]的描述中，可以找到斯宾诺莎专制民主观念的影子。
+最后，值得一提的是斯宾诺莎对法国启蒙思想的民主思想的影响。乔纳森·以色列（Jonathan Israel）研究了斯宾诺莎的哲学如何塑造了平等主义政治思想的多种方式，包括最重要的是百科全书派的政治思想（以色列 2011 年）。斯宾诺莎的影响主要是由于他的自然主义，这激发了法国民主思想的唯物主义形而上学，而不是他的政治论证。斯宾诺莎的现实主义和可以说是反革命的政治方法表明，即使斯宾诺莎的哲学影响了革命的民主思想，它可能与他的实际政治哲学关系不大（关于斯宾诺莎对革命态度的不同评估，请参见罗森塔尔 2013 年和夏普 2013 年）。然而，在卢梭（见埃克斯坦 1944 年；威廉姆斯 2010 年）和狄德罗（以色列 2011 年）的普遍意愿\[volonté générale]的描述中，可以找到斯宾诺莎专制民主观念的影子。
 
 最近，斯宾诺莎的政治哲学在 1968 年后的法国左翼政治思想中占据了重要地位（有关调查，请参见范邦格 2012 年）。然而，在美国，很少有政治哲学家认真研究斯宾诺莎的作品，尽管学术兴趣有所增长。然而，有理由希望，随着斯宾诺莎继续从霍布斯的阴影中走出来，这里的政治哲学家们可能开始欣赏他的政治著作中所包含的丰富、一致和富有资源性的论证。
 
@@ -218,122 +218,122 @@
 
 ### Primary Sources
 
-Note: All English quotations from the TTP are from the Silverthorne and Israel translation. Citations refer to the chapter, followed by page number (e.g., TTP 20, 232 refers to chapter 20, page 232). All references to the TP are to Shirley’s translation. Citations of the TP refer to the chapters/sections (e.g., 5/4 refers to chapter 5, section 4). All references to the *Ethics* and to the *Treatise on the Emendation of the Intellect* are to *The Collected Works of Spinoza, vol. I.* ed. and trans. E.M. Curley (1985). I adopt the following abbreviations for the *Ethics*: Roman numerals refer to parts; “P” denotes proposition; “C” denotes corollary; “D” denotes definition; “dem.” denotes demonstration; “S” denotes scholium (e.g., *E*IIIP59S refers to *Ethics*, part III, proposition 59, scholium). All Latin passages refer to *Spinoza Opera*, ed. Carl Gebhardt, 4 vols. (Heidelberg: Carl Winter, 1925).
+Note: All English quotations from the TTP are from the Silverthorne and Israel translation. Citations refer to the chapter, followed by page number (e.g., TTP 20, 232 refers to chapter 20, page 232). All references to the TP are to Shirley’s translation. Citations of the TP refer to the chapters/sections (e.g., 5/4 refers to chapter 5, section 4). All references to the _Ethics_ and to the _Treatise on the Emendation of the Intellect_ are to _The Collected Works of Spinoza, vol. I._ ed. and trans. E.M. Curley (1985). I adopt the following abbreviations for the _Ethics_: Roman numerals refer to parts; “P” denotes proposition; “C” denotes corollary; “D” denotes definition; “dem.” denotes demonstration; “S” denotes scholium (e.g., _E_IIIP59S refers to _Ethics_, part III, proposition 59, scholium). All Latin passages refer to _Spinoza Opera_, ed. Carl Gebhardt, 4 vols. (Heidelberg: Carl Winter, 1925).
 
-* Hobbes, Thomas, 1994, *The Elements of Law*, Ed. J.C.A. Gaskin, Oxford: Oxford University Press
-* ––– 1996, *Leviathan*, Ed. Richard Tuck, Cambridge: Cambridge University Press.
-* ––– 1998, *On the Citizen,* Eds. and trans. Richard Tuck and Michael Silverthorne, Cambridge: Cambridge University Press.
-* Machiavelli, Niccolo, 1988, *The Prince*, Trans. Russell Price, Ed. Quentin Skinner, Cambridge: Cambridge, University Press.
-* Spinoza, Benedictus de. 1925. *Spinoza Opera*. Ed. Carl Gebhardt. 4 volumes. Heidelberg: Carl Winter Press.
-* Mendelssohn, Moses, 1983, *Jerusalem*, Trans. Allan Arkush, Hanover, NH: Brandeis University Press.
-* ––– 1958. *The Political Works.* Ed. and trans. A.G. Wernham. Oxford: Clarendon Press.
-* ––– 1985–2015. *The Collected Works of Spinoza, vol. I-II.* Ed. and trans. E.M. Curley. Princeton, N.J.: Princeton UP.
-* ––– 1994. *A Spinoza Reader*. Ed. and trans. Edwin Curley. Princeton, N.J.: Princeton UP.
-* ––– 1995. *The Letters*. Trans. Samuel Shirley. Intro. and notes Steven Barbone, Lee Rice, and Jacob Adler. Indianapolis: Hackett.
-* ––– 2000. *Political Treatise*. Trans. Samuel Shirley. Intro. and notes Steven Barbone and Lee Rice. Indianapolis: Hackett.
-* ––– 2007. *Theological-Political Treatise*. Ed. Jonathan Israel. Trans. Michael Silverthorne and Jonathan Israel. Cambridge: Cambridge UP.
+* Hobbes, Thomas, 1994, _The Elements of Law_, Ed. J.C.A. Gaskin, Oxford: Oxford University Press
+* ––– 1996, _Leviathan_, Ed. Richard Tuck, Cambridge: Cambridge University Press.
+* ––– 1998, _On the Citizen,_ Eds. and trans. Richard Tuck and Michael Silverthorne, Cambridge: Cambridge University Press.
+* Machiavelli, Niccolo, 1988, _The Prince_, Trans. Russell Price, Ed. Quentin Skinner, Cambridge: Cambridge, University Press.
+* Spinoza, Benedictus de. 1925. _Spinoza Opera_. Ed. Carl Gebhardt. 4 volumes. Heidelberg: Carl Winter Press.
+* Mendelssohn, Moses, 1983, _Jerusalem_, Trans. Allan Arkush, Hanover, NH: Brandeis University Press.
+* ––– 1958. _The Political Works._ Ed. and trans. A.G. Wernham. Oxford: Clarendon Press.
+* ––– 1985–2015. _The Collected Works of Spinoza, vol. I-II._ Ed. and trans. E.M. Curley. Princeton, N.J.: Princeton UP.
+* ––– 1994. _A Spinoza Reader_. Ed. and trans. Edwin Curley. Princeton, N.J.: Princeton UP.
+* ––– 1995. _The Letters_. Trans. Samuel Shirley. Intro. and notes Steven Barbone, Lee Rice, and Jacob Adler. Indianapolis: Hackett.
+* ––– 2000. _Political Treatise_. Trans. Samuel Shirley. Intro. and notes Steven Barbone and Lee Rice. Indianapolis: Hackett.
+* ––– 2007. _Theological-Political Treatise_. Ed. Jonathan Israel. Trans. Michael Silverthorne and Jonathan Israel. Cambridge: Cambridge UP.
 
 ### Secondary Sources
 
-* Armstrong, Aurelia, 2009, “Natural and Unnatural Communities: Spinoza Beyond Hobbes,” *British Journal for the History of Philosophy*, 17 (2): 279–305.
-* Barbone, Steven, 2001, “What Counts as an Individual for Spinoza?” in *Spinoza : Metaphysical Themes,* Eds. Olli I. Koistinen and John I. Biro, New York: Oxford University Press, pp. 89–112.
-* Barbone, Steven and Lee Rice, 2000, Introduction and Notes to Spinoza’s *Political Treatise*, trans. Samuel Shirley, Indianapolis: Hackett.
-* Balibar, Etienne, 1997, “Spinoza: from Individuality to Transindividuality,” *Mededelingen vanwege het Spinozahuis*, Vol. 71, Delft: Eburon.
-* ––– 1998, *Spinoza and Politics*, trans. Peter Snowdon, London: Verso.
-* Bartuschat, Wolfgang, 1984, “The Ontological Basis of Spinoza’s Theory of Politics,” *Spinoza’s Political and Theological Thought*, Ed. C. De Deugd, Amsterdam: North-Holland Publishing, pp. 30–36.
-* Bennett, Jonathan, 1984, *A Study of Spinoza’s Ethics*, Indianapolis: Hackett.
-* Berlin, Isaiah, 1969, “Two Concepts of Liberty.” *Four Essays on Liberty*, London: Oxford University Press, pp. 118–173.
-* Blom, Hans, 1993, “The Moral and Political Philosophy of Spinoza,” *The Renaissance and Seventeenth-century Rationalism*, Ed. G.H.R. Parkinson, London: Routledge & Kegan Paul, pp. 313–348.
-* ––– 1995, *Causality and Morality in Politics: The Rise of Naturalism in Dutch Seventeenth-Century Political Thought*, Utrecht: University of Utrecht (Thesis).
-* ––– 2007, “Spinoza on *Res Publica*, Republics and Monarchies,” *Monarchisms in the Age of Enlightenment: Liberty, Patriotism, and the Public Good*, Eds. Hans Blom, John Christian Laursen, and Luisa Simonutti, Toronto: University of Toronto Press, pp. 19–44.
-* Cohen, Joshua, 1986, “An Epistemic Basis of Democracy,” *Ethics* 97: 26–38.
-* Curley, Edwin, 1973, “Spinoza’s Moral Philosophy,” in *Spinoza, a collection of critical essays*, ed. Marjorie Grene, Garden City, NY: Anchor, pp. 354–376.
-* ––– 1991, “The State of Nature and Its Law in Hobbes and Spinoza,” *Philosophical Topics*, 19 (1): 97–117.
-* ––– 1995. “Samuel Pufendorf (1632–1694) as a Critic of Spinoza,” in *L’hérésie Spinoziste. La discussion sur le Tractatus Theologico-Politicus, 1670–1677, et la réception immédiate du Spinozisme*, Ed. P. Cristofolini. Amsterdam: Holland University Press, 89–96.
-* ––– 1996, “Kissinger, Spinoza, and Genghis Khan,” *Cambridge Companion to Spinoza*, Cambridge: Cambridge University Press, pp. 315–342.
-* Della Rocca, Michael, 1996, *Representation and the Mind-Body Problem in Spinoza*, New York: Oxford University Press.
-* Den Uyl, Douglas J, 1983, *Power, State and Freedom: An interpretation of Spinoza’s Political Philosophy,* Assen, The Netherlands: Van Gorcum & Company.
-* ––– 1985, “Sociality and Social Contract: A Spinozistic Perspective,” *Studia Spinozana*, 1: 19–51.
-* Eckstein, Walter, 1944, “Rousseau and Spinoza: Their Political Theories and Their Conception of Ethical Freedom,” *Journal of the History of Ideas*, 5 (3): 259 – 291.
-* Estlund, David, 1997, “Beyond Fairness and Deliberation: The Epistemic Dimension of Democratic Authority,” *Deliberative Democracy: Essays on Reason and Politics*, Eds. James Bohman and William Rehg, Cambridge, MA: The MIT Press.
-* Feuer, Lewis, 1987, *Spinoza and the Rise of Liberalism*, New Brunswick, NJ: Transaction Books.
-* Freudenthal, Jakob, 1899, *Die Lebensgeschichte Spinoza’s in Quellenschriften, Urkunden and Nichtamtlichen Nachrichten*, Leipzig: Verlag Von Veit.
-* Garrett, Aaron, 2003, “Was Spinoza a Natural Lawyer?” *Cardozo Law Review* 25 (2): 627–41.
-* Garrett, Don, 1994, “Spinoza’s Theory of Metaphysical Individuation,” in *Individuation in Early Modern Philosophy*, eds. Kenneth F. Barber and Jorge J.E. Gracia, Albany: State University of New York Press, pp. 73–101.
-* Goetschel, Willi, 2004, *Spinoza’s Modernity Mendelssohn, Lessing, and Heine*, Madison: University of Wisconsin Press.
-* Gottlieb, Michah, 2011, *Faith and Freedom: Moses Mendelssohn’s Theological-political Thought*, New York: Oxford University Press.
-* Haitsma Mulier, Eco, 1980, *The Myth of Venice and Dutch Republican Thought in the Seventeenth Century*, Trans. Gerard T. Moran, Assen: Van Gorcum.
-* ––– 1993. “A Controversial Republican: Dutch Views on Machiavelli in the Seventeenth and Eighteenth Centuries,” *Machiavelli and Republicanism*, Eds. Gisela Bock, Quentin Skinner, Maurizio Viroli, Cambridge: Cambridge University Press, pp. 247–263.
-* Israel, Jonathan I, 1995, *The Dutch Republic: its rise, greatness, and fall, 1477–1806*, Oxford: Clarendon Press.
-* ––– 2001, *Radical Enlightenment: Philosophy and the Making of Modernity 1650–1750*, Oxford: Oxford University Press.
-* ––– 2010, “The Early Dutch and German Reaction to the *Tractatus Theologico-Politicus*: Foreshadowing the Enlightenment’s More General Spinoza Reception,” in *Spinoza’s* Theological-Political Treatise*: A Critical Guide*, Eds. Yitzhak Melamed and Michael Rosenthal, Cambridge: Cambridge University Press, pp. 72–100.
-* ––– 2011, *Democratic Enlightenment: Philosophy, Revolution, and Human Rights 1750–1790*, Oxford: Oxford University Press.
-* James, Susan, 2012, *Spinoza on Philosophy, Religion, and Politics: The* Theologico-Political Treatise, Oxford: Oxford University Press.
-* Joachim, H.H, 1901, *A Study of the Ethics of Spinoza*, Oxford: Clarendon Press.
-* Kisner, Matthew, 2011, *Spinoza on Human Freedom: Reason, Autonomy and the Good Life*, Cambridge: Cambridge University Press.
-* Klever, Wim, 1996, “Spinoza’s Life and Works,” *Cambridge Companion to Spinoza*, Cambridge: Cambridge University Press, pp. 13–60.
-* Kossmann, E.H, 2000, *Political Thought in the Dutch Republic. Three Studies*, Amsterdam: Koninklijke Nederlandse Akademie van Wetenschappen.
-* Laerke, Mogens, 2010, “G.W. Leibniz’s two readings of the Tractatus Theologico-Politicus,” in *Spinoza’s* Theological-Political Treatise*: A Critical Guide*, Eds. Yitzhak Melamed and Michael Rosenthal, Cambridge: Cambridge University Press, pp. 101–127.
-* Malcolm, Noel, 1991, “Hobbes and Spinoza,” *The Cambridge History of Political Thought 1450–1700*, Ed. J.H. Burns, Cambridge: Cambridge University Press, pp. 530–560.
-* Matheron, Alexandre, 1969, *Individu et Communauté chez Spinoza*, Paris: Les Editions de Minuit.
-* ––– 1990, “Le problème de l’évolution de Spinoza du *Traité théologico-politique* au *Traité politique*,” *Spinoza: Issues and Directions*, Eds. Edwin Curley and P.F. Moreau, Leiden: Brill.
-* ––– 1997, “The Theoretical Function of Democracy in Spinoza and Hobbes,” *The New Spinoza*, Eds. Warren Montag and Ted Stolze, Minneapolis: University of Minnesota Press.
-* McShea, Robert, 1968, *The Political Philosophy of Spinoza*, New York: Columbia University Press.
-* Meinecke, Friedrich, 1965, *Machiavellism: The Doctrine of Raison D’Etat and Its Place in Modern History*, New York: Westview Press.
-* Melamed, Yitzhak, “Charitable Interpretations and the Political Domestication of Spinoza, or, Benedict in the Land of the Secular Imagination” in *The Methodology of the History of Philosophy, Mogens Lærke*, Eds. Justin E. H. Smith, and Eric Schliesser, Oxford: Oxford University Press, 258–77.
-* Melamed, Yitzhak and Hasana Sharp (Eds.), *Spinoza’s Political Treatise: A Critical Guide*, Cambridge: Cambridge University Press, 2018.
-* Miller, Jon, 2012, “Spinoza and Natural Law,” in *Reason, Religion, and Natural Law: From Plato to Spinoza*, Ed. Jonathan A. Jacobs, Oxford: Oxford University Press.
-* Moreau, Pierre-François, 1994, *Spinoza, l’expérience et l’éternité*, Paris: Presses universitaires de France.
-* Nadler, Steven, 1999, *Spinoza: A Life*, Cambridge: Cambridge University Press.
-* ––– 2011, *A Book Forged in Hell: Spinoza’s Scandalous Treatise and the Birth of the Secular Age*, Princeton: Princeton University Press.
-* Negri, Antonio, 1991, *The Savage Anomaly*, ed. and trans. Michael Hardt, Minneapolis: Minnesota University Press.
-* Nyden-Bullock, Tammy, 2007, *Spinoza’s Radical Cartesian Mind*, London: Continuum.
-* Petry, Michael, 1984, “Hobbes and the Early Dutch Spinozists,” *Spinoza’s Political and Theological Thought*, Ed. C. De Deugd, Amsterdam: North-Holland Publishing, pp. 63–72.
-* Pocock, J.G.A, 1975, *The Machiavellian Moment,* Princeton: Princeton University Press.
-* Prokhovnik, Raia, 2004, *Spinoza and Republicanism*, London and New York: Palgrave Macmillan.
-* Pufendorf, Samuel, 1934, *De Jure Naturae et Gentium Libri Octo*, Vol. 2, Trans. C.H. Oldfather and W.A. Oldfather, *Classics of international law,* Oxford: Clarendon Press
-* Rosenthal, Michael, 1998, “Two Collective Action Problems in Spinoza’s Social Contract Theory,” *History of Philosophy Quarterly*, 15 (4): 389–409.
-* ––– 2001, “Tolerance as a Virtue in Spinoza’s *Ethics*,” *Journal of the History of Philosophy*, 39 (4): 535–557.
-* ––– 2003, “Spinoza’s Republican Argument for Toleration,” *The Journal of Political Philosophy*, 11 (3): 320–337.
-* ––– 2013, “The Siren Song of Revolution: Spinoza on the Art of Political Change,” Eds. Erick Raphael Jimenez, Matthew Lampert, Christopher Roberts, and Rocío Zambrana, *Graduate Faculty Philosophy Journal*, 34 (1): 111–132.
-* Russell, Paul, 2010, *The Riddle of Hume’s Treatise: Skepticism, Naturalism, and Irreligion*, Oxford: Oxford University Press.
-* Rutherford, Donald, 2010, “Spinoza’s Conception of Law: Metaphysics and Ethics,” in *Spinoza’s Theological-Political Treatise: A Critical Guide*, Eds. Yitzhak Y. Melamed and Michael Rosenthal, Cambridge: Cambridge University Press, 143–67.
-* Sacksteder, William, 1980, “How Much Hobbes Might Spinoza Have Read?” *Southwestern Journal of Philosophy*, 11: 25–40.
-* Sharp, Hasana, 2011, *Spinoza and the Politics of Renaturalization*, Chicago: University of Chicago Press.
-* ––– 2013, “*Violenta Imperia Nemo Continuit Diu*: Spinoza and the Revolutionary Laws of Human Nature,” Eds. Erick Raphael Jimenez, Matthew Lampert, Christopher Roberts, and Rocío Zambrana, *Graduate Faculty Philosophy Journal*, 34 (1): 133–148.
-* Smith, Steven B, 1997, *Spinoza, Liberalism, and the Question of Jewish Identity,* New Haven: Yale University Press.
-* Steinberg, Justin, 2008, “On Being Sui Iuris: Spinoza and the Republican Idea of Liberty,” *History of European Ideas*, 34 (3): 239–249.
-* ––– 2009, “Spinoza on Civil Liberation,” *Journal of the History of Philosophy*, 47 (1): 35–58.
-* ––– 2010a, “Benedict Spinoza: Epistemic Democrat,” *History of Philosophy Quarterly*, 27 (2): 145 –164.
-* ––– 2010b, “Spinoza’s Curious Defense of Toleration,” in *Spinoza’s* Theological-Political Treatise*: A Critical Guide*, Eds. Yitzhak Melamed and Michael Rosenthal, Cambridge: Cambridge University Press, 210 – 230.
-* ––– 2018a, *Spinoza’s Political Psychology: The Taming of Fortune and Fear*, Cambridge: Cambridge University Press.
-* ––– 2018b, “Spinoza and Political Absolutism”, Eds. Yitzhak Melamed and Hasana Sharp, *Spinoza’s Political Treatise: A Critical Guide*, Cambridge: Cambridge University Press, 175–189.
-* Strauss, Leo, 1965, *Spinoza’s Critique of Religion*, Trans. E.M. Sinclair, Chicago: University of Chicago Press.
-* Tuck, Richard, 1979, *Natural Rights Theories: Their Origin and Development*, New York: Cambridge University Press.
-* van Bunge, Wiep, 2012, *Spinoza Past and Present: Essays on Spinoza, Spinozism, and Spinoza Scholarship*, Leiden-Boston: Brill.
-* Velthuysen van, Lambert, 1706, *A Dissertation: Wherein the Fundamentals of Natural or Moral Justice and Decorum are State, according to the Principles of Mr. Hobbes. By a Learned Pen*, Trans. anon, London.
-* Wernham, A. G, 1958, Notes and Introduction. *The Political Works*, Oxford: Clarendon Press.
-* Williams, David Lay, 2010, “Spinoza and the General Will,” *The Journal of Politics*, 72 (2): 341–356.
+* Armstrong, Aurelia, 2009, “Natural and Unnatural Communities: Spinoza Beyond Hobbes,” _British Journal for the History of Philosophy_, 17 (2): 279–305.
+* Barbone, Steven, 2001, “What Counts as an Individual for Spinoza?” in _Spinoza : Metaphysical Themes,_ Eds. Olli I. Koistinen and John I. Biro, New York: Oxford University Press, pp. 89–112.
+* Barbone, Steven and Lee Rice, 2000, Introduction and Notes to Spinoza’s _Political Treatise_, trans. Samuel Shirley, Indianapolis: Hackett.
+* Balibar, Etienne, 1997, “Spinoza: from Individuality to Transindividuality,” _Mededelingen vanwege het Spinozahuis_, Vol. 71, Delft: Eburon.
+* ––– 1998, _Spinoza and Politics_, trans. Peter Snowdon, London: Verso.
+* Bartuschat, Wolfgang, 1984, “The Ontological Basis of Spinoza’s Theory of Politics,” _Spinoza’s Political and Theological Thought_, Ed. C. De Deugd, Amsterdam: North-Holland Publishing, pp. 30–36.
+* Bennett, Jonathan, 1984, _A Study of Spinoza’s Ethics_, Indianapolis: Hackett.
+* Berlin, Isaiah, 1969, “Two Concepts of Liberty.” _Four Essays on Liberty_, London: Oxford University Press, pp. 118–173.
+* Blom, Hans, 1993, “The Moral and Political Philosophy of Spinoza,” _The Renaissance and Seventeenth-century Rationalism_, Ed. G.H.R. Parkinson, London: Routledge & Kegan Paul, pp. 313–348.
+* ––– 1995, _Causality and Morality in Politics: The Rise of Naturalism in Dutch Seventeenth-Century Political Thought_, Utrecht: University of Utrecht (Thesis).
+* ––– 2007, “Spinoza on _Res Publica_, Republics and Monarchies,” _Monarchisms in the Age of Enlightenment: Liberty, Patriotism, and the Public Good_, Eds. Hans Blom, John Christian Laursen, and Luisa Simonutti, Toronto: University of Toronto Press, pp. 19–44.
+* Cohen, Joshua, 1986, “An Epistemic Basis of Democracy,” _Ethics_ 97: 26–38.
+* Curley, Edwin, 1973, “Spinoza’s Moral Philosophy,” in _Spinoza, a collection of critical essays_, ed. Marjorie Grene, Garden City, NY: Anchor, pp. 354–376.
+* ––– 1991, “The State of Nature and Its Law in Hobbes and Spinoza,” _Philosophical Topics_, 19 (1): 97–117.
+* ––– 1995. “Samuel Pufendorf (1632–1694) as a Critic of Spinoza,” in _L’hérésie Spinoziste. La discussion sur le Tractatus Theologico-Politicus, 1670–1677, et la réception immédiate du Spinozisme_, Ed. P. Cristofolini. Amsterdam: Holland University Press, 89–96.
+* ––– 1996, “Kissinger, Spinoza, and Genghis Khan,” _Cambridge Companion to Spinoza_, Cambridge: Cambridge University Press, pp. 315–342.
+* Della Rocca, Michael, 1996, _Representation and the Mind-Body Problem in Spinoza_, New York: Oxford University Press.
+* Den Uyl, Douglas J, 1983, _Power, State and Freedom: An interpretation of Spinoza’s Political Philosophy,_ Assen, The Netherlands: Van Gorcum & Company.
+* ––– 1985, “Sociality and Social Contract: A Spinozistic Perspective,” _Studia Spinozana_, 1: 19–51.
+* Eckstein, Walter, 1944, “Rousseau and Spinoza: Their Political Theories and Their Conception of Ethical Freedom,” _Journal of the History of Ideas_, 5 (3): 259 – 291.
+* Estlund, David, 1997, “Beyond Fairness and Deliberation: The Epistemic Dimension of Democratic Authority,” _Deliberative Democracy: Essays on Reason and Politics_, Eds. James Bohman and William Rehg, Cambridge, MA: The MIT Press.
+* Feuer, Lewis, 1987, _Spinoza and the Rise of Liberalism_, New Brunswick, NJ: Transaction Books.
+* Freudenthal, Jakob, 1899, _Die Lebensgeschichte Spinoza’s in Quellenschriften, Urkunden and Nichtamtlichen Nachrichten_, Leipzig: Verlag Von Veit.
+* Garrett, Aaron, 2003, “Was Spinoza a Natural Lawyer?” _Cardozo Law Review_ 25 (2): 627–41.
+* Garrett, Don, 1994, “Spinoza’s Theory of Metaphysical Individuation,” in _Individuation in Early Modern Philosophy_, eds. Kenneth F. Barber and Jorge J.E. Gracia, Albany: State University of New York Press, pp. 73–101.
+* Goetschel, Willi, 2004, _Spinoza’s Modernity Mendelssohn, Lessing, and Heine_, Madison: University of Wisconsin Press.
+* Gottlieb, Michah, 2011, _Faith and Freedom: Moses Mendelssohn’s Theological-political Thought_, New York: Oxford University Press.
+* Haitsma Mulier, Eco, 1980, _The Myth of Venice and Dutch Republican Thought in the Seventeenth Century_, Trans. Gerard T. Moran, Assen: Van Gorcum.
+* ––– 1993. “A Controversial Republican: Dutch Views on Machiavelli in the Seventeenth and Eighteenth Centuries,” _Machiavelli and Republicanism_, Eds. Gisela Bock, Quentin Skinner, Maurizio Viroli, Cambridge: Cambridge University Press, pp. 247–263.
+* Israel, Jonathan I, 1995, _The Dutch Republic: its rise, greatness, and fall, 1477–1806_, Oxford: Clarendon Press.
+* ––– 2001, _Radical Enlightenment: Philosophy and the Making of Modernity 1650–1750_, Oxford: Oxford University Press.
+* ––– 2010, “The Early Dutch and German Reaction to the _Tractatus Theologico-Politicus_: Foreshadowing the Enlightenment’s More General Spinoza Reception,” in _Spinoza’s_ Theological-Political Treatise\*: A Critical Guide\*, Eds. Yitzhak Melamed and Michael Rosenthal, Cambridge: Cambridge University Press, pp. 72–100.
+* ––– 2011, _Democratic Enlightenment: Philosophy, Revolution, and Human Rights 1750–1790_, Oxford: Oxford University Press.
+* James, Susan, 2012, _Spinoza on Philosophy, Religion, and Politics: The_ Theologico-Political Treatise, Oxford: Oxford University Press.
+* Joachim, H.H, 1901, _A Study of the Ethics of Spinoza_, Oxford: Clarendon Press.
+* Kisner, Matthew, 2011, _Spinoza on Human Freedom: Reason, Autonomy and the Good Life_, Cambridge: Cambridge University Press.
+* Klever, Wim, 1996, “Spinoza’s Life and Works,” _Cambridge Companion to Spinoza_, Cambridge: Cambridge University Press, pp. 13–60.
+* Kossmann, E.H, 2000, _Political Thought in the Dutch Republic. Three Studies_, Amsterdam: Koninklijke Nederlandse Akademie van Wetenschappen.
+* Laerke, Mogens, 2010, “G.W. Leibniz’s two readings of the Tractatus Theologico-Politicus,” in _Spinoza’s_ Theological-Political Treatise\*: A Critical Guide\*, Eds. Yitzhak Melamed and Michael Rosenthal, Cambridge: Cambridge University Press, pp. 101–127.
+* Malcolm, Noel, 1991, “Hobbes and Spinoza,” _The Cambridge History of Political Thought 1450–1700_, Ed. J.H. Burns, Cambridge: Cambridge University Press, pp. 530–560.
+* Matheron, Alexandre, 1969, _Individu et Communauté chez Spinoza_, Paris: Les Editions de Minuit.
+* ––– 1990, “Le problème de l’évolution de Spinoza du _Traité théologico-politique_ au _Traité politique_,” _Spinoza: Issues and Directions_, Eds. Edwin Curley and P.F. Moreau, Leiden: Brill.
+* ––– 1997, “The Theoretical Function of Democracy in Spinoza and Hobbes,” _The New Spinoza_, Eds. Warren Montag and Ted Stolze, Minneapolis: University of Minnesota Press.
+* McShea, Robert, 1968, _The Political Philosophy of Spinoza_, New York: Columbia University Press.
+* Meinecke, Friedrich, 1965, _Machiavellism: The Doctrine of Raison D’Etat and Its Place in Modern History_, New York: Westview Press.
+* Melamed, Yitzhak, “Charitable Interpretations and the Political Domestication of Spinoza, or, Benedict in the Land of the Secular Imagination” in _The Methodology of the History of Philosophy, Mogens Lærke_, Eds. Justin E. H. Smith, and Eric Schliesser, Oxford: Oxford University Press, 258–77.
+* Melamed, Yitzhak and Hasana Sharp (Eds.), _Spinoza’s Political Treatise: A Critical Guide_, Cambridge: Cambridge University Press, 2018.
+* Miller, Jon, 2012, “Spinoza and Natural Law,” in _Reason, Religion, and Natural Law: From Plato to Spinoza_, Ed. Jonathan A. Jacobs, Oxford: Oxford University Press.
+* Moreau, Pierre-François, 1994, _Spinoza, l’expérience et l’éternité_, Paris: Presses universitaires de France.
+* Nadler, Steven, 1999, _Spinoza: A Life_, Cambridge: Cambridge University Press.
+* ––– 2011, _A Book Forged in Hell: Spinoza’s Scandalous Treatise and the Birth of the Secular Age_, Princeton: Princeton University Press.
+* Negri, Antonio, 1991, _The Savage Anomaly_, ed. and trans. Michael Hardt, Minneapolis: Minnesota University Press.
+* Nyden-Bullock, Tammy, 2007, _Spinoza’s Radical Cartesian Mind_, London: Continuum.
+* Petry, Michael, 1984, “Hobbes and the Early Dutch Spinozists,” _Spinoza’s Political and Theological Thought_, Ed. C. De Deugd, Amsterdam: North-Holland Publishing, pp. 63–72.
+* Pocock, J.G.A, 1975, _The Machiavellian Moment,_ Princeton: Princeton University Press.
+* Prokhovnik, Raia, 2004, _Spinoza and Republicanism_, London and New York: Palgrave Macmillan.
+* Pufendorf, Samuel, 1934, _De Jure Naturae et Gentium Libri Octo_, Vol. 2, Trans. C.H. Oldfather and W.A. Oldfather, _Classics of international law,_ Oxford: Clarendon Press
+* Rosenthal, Michael, 1998, “Two Collective Action Problems in Spinoza’s Social Contract Theory,” _History of Philosophy Quarterly_, 15 (4): 389–409.
+* ––– 2001, “Tolerance as a Virtue in Spinoza’s _Ethics_,” _Journal of the History of Philosophy_, 39 (4): 535–557.
+* ––– 2003, “Spinoza’s Republican Argument for Toleration,” _The Journal of Political Philosophy_, 11 (3): 320–337.
+* ––– 2013, “The Siren Song of Revolution: Spinoza on the Art of Political Change,” Eds. Erick Raphael Jimenez, Matthew Lampert, Christopher Roberts, and Rocío Zambrana, _Graduate Faculty Philosophy Journal_, 34 (1): 111–132.
+* Russell, Paul, 2010, _The Riddle of Hume’s Treatise: Skepticism, Naturalism, and Irreligion_, Oxford: Oxford University Press.
+* Rutherford, Donald, 2010, “Spinoza’s Conception of Law: Metaphysics and Ethics,” in _Spinoza’s Theological-Political Treatise: A Critical Guide_, Eds. Yitzhak Y. Melamed and Michael Rosenthal, Cambridge: Cambridge University Press, 143–67.
+* Sacksteder, William, 1980, “How Much Hobbes Might Spinoza Have Read?” _Southwestern Journal of Philosophy_, 11: 25–40.
+* Sharp, Hasana, 2011, _Spinoza and the Politics of Renaturalization_, Chicago: University of Chicago Press.
+* ––– 2013, “_Violenta Imperia Nemo Continuit Diu_: Spinoza and the Revolutionary Laws of Human Nature,” Eds. Erick Raphael Jimenez, Matthew Lampert, Christopher Roberts, and Rocío Zambrana, _Graduate Faculty Philosophy Journal_, 34 (1): 133–148.
+* Smith, Steven B, 1997, _Spinoza, Liberalism, and the Question of Jewish Identity,_ New Haven: Yale University Press.
+* Steinberg, Justin, 2008, “On Being Sui Iuris: Spinoza and the Republican Idea of Liberty,” _History of European Ideas_, 34 (3): 239–249.
+* ––– 2009, “Spinoza on Civil Liberation,” _Journal of the History of Philosophy_, 47 (1): 35–58.
+* ––– 2010a, “Benedict Spinoza: Epistemic Democrat,” _History of Philosophy Quarterly_, 27 (2): 145 –164.
+* ––– 2010b, “Spinoza’s Curious Defense of Toleration,” in _Spinoza’s_ Theological-Political Treatise\*: A Critical Guide\*, Eds. Yitzhak Melamed and Michael Rosenthal, Cambridge: Cambridge University Press, 210 – 230.
+* ––– 2018a, _Spinoza’s Political Psychology: The Taming of Fortune and Fear_, Cambridge: Cambridge University Press.
+* ––– 2018b, “Spinoza and Political Absolutism”, Eds. Yitzhak Melamed and Hasana Sharp, _Spinoza’s Political Treatise: A Critical Guide_, Cambridge: Cambridge University Press, 175–189.
+* Strauss, Leo, 1965, _Spinoza’s Critique of Religion_, Trans. E.M. Sinclair, Chicago: University of Chicago Press.
+* Tuck, Richard, 1979, _Natural Rights Theories: Their Origin and Development_, New York: Cambridge University Press.
+* van Bunge, Wiep, 2012, _Spinoza Past and Present: Essays on Spinoza, Spinozism, and Spinoza Scholarship_, Leiden-Boston: Brill.
+* Velthuysen van, Lambert, 1706, _A Dissertation: Wherein the Fundamentals of Natural or Moral Justice and Decorum are State, according to the Principles of Mr. Hobbes. By a Learned Pen_, Trans. anon, London.
+* Wernham, A. G, 1958, Notes and Introduction. _The Political Works_, Oxford: Clarendon Press.
+* Williams, David Lay, 2010, “Spinoza and the General Will,” _The Journal of Politics_, 72 (2): 341–356.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=spinoza-political). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/spinoza-political/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=spinoza-political&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/spinoza-political/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=spinoza-political).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/spinoza-political/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=spinoza-political\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/spinoza-political/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[authority](https://plato.stanford.edu/entries/authority/) | [contractarianism](https://plato.stanford.edu/entries/contractarianism/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [Hobbes, Thomas: moral and political philosophy](https://plato.stanford.edu/entries/hobbes-moral/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [toleration](https://plato.stanford.edu/entries/toleration/)
+[authority](https://plato.stanford.edu/entries/authority/) | [contractarianism](https://plato.stanford.edu/entries/contractarianism/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [Hobbes, Thomas: moral and political philosophy](https://plato.stanford.edu/entries/hobbes-moral/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [toleration](https://plato.stanford.edu/entries/toleration/)
 
 ### Acknowledgments
 
 I wish to thank Michael Rosenthal, Steven B. Smith, and an anonymous reviewer for many helpful comments and suggestions.
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-Justin Steinberg <[*jsteinberg@brooklyn.cuny.edu*](mailto:jsteinberg%40brooklyn%2ecuny%2eedu)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+Justin Steinberg <[_jsteinberg@brooklyn.cuny.edu_](mailto:jsteinberg%40brooklyn%2ecuny%2eedu)>

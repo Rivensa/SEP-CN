@@ -1,6 +1,6 @@
 # 社会制度 social institutions (Seumas Miller)
 
-*首次发表于 2007 年 1 月 4 日；实质修订于 2019 年 4 月 9 日*
+_首次发表于 2007 年 1 月 4 日；实质修订于 2019 年 4 月 9 日_
 
 “社会制度”这个术语在日常语言和哲学文献中都有些不清楚（见下文）。然而，当代社会学在使用这个术语时有些更加一致。通常，当代社会学家使用这个术语来指代能够自我复制的复杂社会形式，例如政府、家庭、人类语言、大学、医院、商业公司和法律系统。乔纳森·特纳（1997 年：6）提供了一个典型的定义：“社会制度是一种特定类型的社会结构中的职位、角色、规范和价值观的复杂，它们相对稳定地组织人类活动的模式，解决生产维持生命资源、繁衍个体和维持可行社会结构等基本问题。”安东尼·吉登斯（1984 年：24）再次说：“制度在定义上是社会生活中更持久的特征。”他（吉登斯 1984 年：31）继续列举了作为制度秩序的话语方式、政治制度、经济制度和法律制度。社会科学当代哲学家罗姆·哈雷（Rom Harre）在提供这种定义时（哈雷 1979 年：98）遵循了理论社会学家的观点：“制度被定义为人们作为角色持有者或职位承担者等的相互交织的双重结构，以及涉及表达和实践目标和结果的社会实践。”他举了学校、商店、邮局、警察部队、救济院和英国君主制作为例子（哈雷 1979 年：97）。在本文中，将遵循上述当代社会学的用法。这样做的好处是将哲学理论基于最显著的经验学科，即社会学。
 
@@ -16,7 +16,7 @@
 
 在第五部分中，讨论了行为体的问题。社会制度是否以某种意义上是行为体（French 1984；List 和 Pettit（2011）；Tollefsen 2015；Epstein 2015）？个体人类行为体的自治（或所谓的自治）与制度对个体性格和行为的普遍影响之间是否存在矛盾（Giddens 1984；Bhaskar 1979）？
 
----
+***
 
 ## 1. 社会制度：概述
 
@@ -68,7 +68,7 @@
 
 然而，具有内部关系的制度角色的存在并不意味着对社会制度的整体性解释。因为所讨论的内部关系可能不是不同制度中的制度角色之间的关系，而只是同一制度中不同制度角色之间的内部关系。另一方面，具有内部关系的制度角色的存在削弱了某些形式的原子主义个人主义试图将制度归结为碰巧构成它们的个体人类行为体的努力；根据假设，后者不是作为个体人类个体而在一定程度上通过与制度角色的关系来定义的。
 
-在讨论社会制度的原子论和整体论观点时，有必要区分一种观点，即社会制度不能简化为构成它们的个体人，以及一种观点，即社会制度本身是具有思维和推理能力的行为体（见第 5 节）。埃普斯坦（2015）提出了反对前一观点的详细论证，包括其在当代流行形式中的观点，即社会制度（以及其他集体实体）是基于占据其角色的个体人而存在的。因此，埃普斯坦指出（2015 年：46），关于公司星巴克的一些事实并不依赖于人们及其行为的事实，而是依赖于咖啡等事实。（参见鲁本 1985 年）。彼得·弗伦奇（1984 年）是后一观点的支持者，同样支持这一观点的还有利斯特和佩蒂特（2011 年）、托勒森（2015 年）和埃普斯坦（2015 年）（另请参见玛格丽特·吉尔伯特关于“复数主体”的概念[1989 年：200]）。西尔（1990 年）、米勒（2001 年）和卢德维希（2017 年）反对集体实体本身是具有心理状态的行为体的命题。例如，卢德维希提供了对似乎将心理状态归因于集体实体的句子（如“德国打算入侵波兰”）的分析，这些分析是基于这些实体的个体成员的意图，以及集体实体的行为是基于所讨论的集体群体的成员作为事件的行为体（卢德维希 2017 年）。
+在讨论社会制度的原子论和整体论观点时，有必要区分一种观点，即社会制度不能简化为构成它们的个体人，以及一种观点，即社会制度本身是具有思维和推理能力的行为体（见第 5 节）。埃普斯坦（2015）提出了反对前一观点的详细论证，包括其在当代流行形式中的观点，即社会制度（以及其他集体实体）是基于占据其角色的个体人而存在的。因此，埃普斯坦指出（2015 年：46），关于公司星巴克的一些事实并不依赖于人们及其行为的事实，而是依赖于咖啡等事实。（参见鲁本 1985 年）。彼得·弗伦奇（1984 年）是后一观点的支持者，同样支持这一观点的还有利斯特和佩蒂特（2011 年）、托勒森（2015 年）和埃普斯坦（2015 年）（另请参见玛格丽特·吉尔伯特关于“复数主体”的概念\[1989 年：200]）。西尔（1990 年）、米勒（2001 年）和卢德维希（2017 年）反对集体实体本身是具有心理状态的行为体的命题。例如，卢德维希提供了对似乎将心理状态归因于集体实体的句子（如“德国打算入侵波兰”）的分析，这些分析是基于这些实体的个体成员的意图，以及集体实体的行为是基于所讨论的集体群体的成员作为事件的行为体（卢德维希 2017 年）。
 
 到目前为止，我们已经讨论了社会制度的原子论和整体论解释。然而，还有第三种可能性，即所谓的分子论解释。粗略地说，对于一个制度的分子论解释不会试图将该制度简化为更简单的原子形式，比如惯例；也不会试图通过其与其他制度的关系和对整个社会的贡献来定义一个制度。相反，每个制度都类似于一个分子；它有构成要素（"原子"），但也有自己的结构和统一性。许多哲学上的社会制度理论在性质上明确或隐含地是分子论的（哈雷 1969 年；西尔 1995 年；米勒 2010 年）。此外，根据这种观念，每个社会制度在一定程度上与其他制度和整个社会独立；另一方面，一组制度本身在某些条件下可能形成一种统一的系统，例如由许多半自治的公共和私人制度组成的当代自由民主国家，这些制度在政府的元制度的背景下发挥作用。
 
@@ -98,7 +98,7 @@ Guala（2016 年第 14 章）还提出，他的单一主义平衡规则方法可
 
 社会行动的集体接受解释和目的论解释，以及特定的社会制度，都属于理性主义、个人主义的行动哲学传统，其根源可以追溯到亚里士多德、休谟和康德，并与当代社会行动分析哲学家如迈克尔·布拉特曼（1987）、约翰·西尔（1995）和雷莫·图梅拉（2002）等人相关联。然而，这种思路在社会学理论中也有一席之地。广义上说，这是与乔治·西梅尔（1971）、马克斯·韦伯（1949）、（早期的）塔尔科特·帕森斯（1968）和阿尔弗雷德·舒茨（舒茨和帕森斯 1978）等人相关联的社会行动意愿主义理论的起点。例如，帕森斯（1968: 229）在社会行动方面表达了以下观点：
 
-> 行动并不是分别发生，每个行动都与情境中的一个单独的目标无关，而是在长而复杂的“链条”中进行... [而且]整个手段-目标关系的复杂性不应被视为类似于许多平行线程，而是一个复杂的网络（如果不是一个纠结）。
+> 行动并不是分别发生，每个行动都与情境中的一个单独的目标无关，而是在长而复杂的“链条”中进行... \[而且]整个手段-目标关系的复杂性不应被视为类似于许多平行线程，而是一个复杂的网络（如果不是一个纠结）。
 
 然而，毫不奇怪的是，目的论解释在集体行动背景下对手段-目标关系更加强调，对集体接受的重视则较少。
 
@@ -198,99 +198,99 @@ List 和 Pettit 提出了一个基于判断聚合的论证，支持他们的观�
 
 ## Bibliography
 
-* Althusser, Louis, 1971, *Lenin and Philosophy and Other Essays* trans. Ben Brewster, London: New Left Books.
-* Austin, J., L., 1962, *How to Do Things with Words* trans. Ben Brewster, Oxford: Oxford University Press.
-* Barnes, Barry, 1995, *The Elements of Social Theory*, Princeton, N.J.: Princeton University Press.
-* Bhaskar, Roy, 1979, *The Possibility of Naturalism*, Brighton: Harvester.
-* Bloor, David, 1997, *Wittgenstein, Rules and Institutions*, London: Routledge.
-* Bradley, F. H., 1935, “Relations”, in his*Collected Essays Volume 2*, Oxford: Clarendon Press.
-* Bratman, Michael, 1987, *Intentions, Plans and Practical Reason*, Cambridge, Mass.: Harvard University Press.
-* –––, 2014, *Shared Agency: A Planning Theory of Acting Together*, Oxford: Oxford University Press.
-* Burman, Asa, 2018, “A Critique of the Status Function Account of Human Rights”, *Philosophy of Social Sciences*, 48/5: 463–473.
-* Cohen, G. A., 1978, *Karl Marx’s Theory of History: A Defence*, Oxford: Clarendon Press.
-* Copp, David, 2007, “The Collective Autonomy Thesis”, *Journal of Social Philosophy*, 38/3: 369–388.
-* Durkheim, Emile, 1992, *Professional Ethics and Civic Morals*, C. Brookfield (tr.), London: Routledge.
-* –––,1964, *Rules of Sociological Method*, New York: Free Press.
-* Elster, Jon, 1989, *Nuts and Bolts for the Social Sciences*, Cambridge: Cambridge University Press.
-* Epstein, Brian, 2015, *The Ant Trap: Rebuilding the Foundations of the Social Sciences*, Oxford: Oxford University Press.
-* French, Peter, 1984, *Collective and Corporate Responsibility*, New York: Columbia University Press.
-* Giddens, Anthony, 1976, *New Rules of Sociological Method*, London: Hutchinson.
-* –––, 1984, *The Constitution of Society: Outline of the Theory of Structuration*, Cambridge: Polity Press.
-* Gilbert, Margaret, 1989, *On Social Facts*, Princeton: Princeton University Press.
-* Erving Goffman, 1961, *Asylums*, Chicago: Aldine Publishing.
-* Grice, Paul, 1989, “Utterer’s Meaning, Sentence-meaning and Word-meaning”, in P. Grice, *Studies in the Way of Words*, Cambridge, MA: Harvard University Press.
-* Griffin, James, 2008, *On Human Rights*, Oxford: Oxford University Press.
-* Guala, Francesco, 2016, *Understanding Institutions: The Science and Philosophy of Living Together*, Princeton N. J.: Princeton University Press.
-* Habermas, Jürgen, 1978, *Knowledge and Human Interests*, Heinemann Educational.
-* Harre, Rom, 1979, *Social Being*, Oxford: Blackwell.
-* Hart, H.L.A., 1961, *Concept of Law*, Oxford: Clarendon Press.
-* Hindriks, Frank, 2009, “Constitutive Rules, Language and Ontology”, *Erkenntnis*, 71/2: 253–275.
-* Hirschman, Albert, O., 1970, *Exit, Voice and Loyalty: Responses to Decline in Firms, Organisations and States*, Cambridge, Mass.: Harvard University Press.
-* Honneth, Axel, 1995, *The Struggle for Recognition*, London: Polity Press.
-* Hume, David (1740), 1978, *Treatise of Human Nature*, L. A. Selby-Bigge and P. H. Nidditch (eds.), 2nd edition, New York: Oxford University Press.
-* Lamanna, Mary Ann, 2002, *Emile Durkheim on the Family*, London: Sage.
-* Lewis, David, 1969, *Convention: A Philosophical Study*, Harvard University Press.
-* List, Christian, and Pettit, Philip, 2011, *Group Agency*, Oxford University Press.
-* Ludwig, Kirk, 2016, *From Individual to Plural Agency: Collective Action I*, Oxford: Oxford University Press.
-* –––, 2017, *From Plural to Institutional Agency: Collective Action II*, Oxford: Oxford University Press.
-* Marx, Karl, 1867, *Das Kapital: Volume 1*, Hamburg: Verlag von Otto Meissner.
-* Merton, Robert, K., 1968, *Social Theory and Social Structure*, New York: Free Press.
-* Miller, Seumas, 2001, *Social Action: A Teleological Account*, New York: Cambridge University Press.
-* –––, 1984, “Performatives”, *Philosophical Studies*, 45/2: 247–260.
-* –––, 1986, “Conventions, Interdependence of Action and Collective Ends”, *Nous*, 20/2: 117–140.
-* –––, 2010, *The Moral Foundations of Social Institutions: A Philosophical Study*, New York: Cambridge University Press.
-* –––, 2018, “Joint Epistemic Action: Some Applications”, *Journal of Applied Philosophy*, 35/2: 300–318.
-* Mayntz, Renate, 2004, “Mechanisms in the Analysis of Social Macro-Phenomena”, *Philosophy of the Social Sciences*, 34/2: 237–259.
-* Munch, R., and Smelser, M. J. (eds.), 1993, *The Theory of Culture*, Berkeley, CA.: University of California Press.
-* North, Douglass, C., 1990, *Institutions, Institutional Change and Economic Performance*, New York: Cambridge University Press.
-* Ostrom, Elinor, 2005, *Understanding Institutional Diversity*, Princeton N. J.: Princeton University Press.
-* Parsons, Talcott, 1968, *The Structure of Social Action*, New York: Free Press.
-* –––, 1982, *On Institutions and Social Evolution*, Chicago: University of Chicago Press.
-* Pleasants, Nigel, 2019, “Free Will, Determinism and the ‘Problem’ of Structure and Agency in the Social Sciences”, *Philosophy of Social Sciences*, 49/1: 3–30.
-* Radcliffe-Brown, A. R., 1958, *Method in Social Anthropology*, N. Srinivas (ed.), Chicago: University of Chicago Press.
-* Rawls, John, 1972, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* –––, 1999, *The Law of Peoples*, Cambridge, MA: Harvard University Press.
-* Ruben, David-Hillel, 1985, *The Metaphysics of the Social World*, London: Routledge and Kegan Paul.
-* Ryan, Alan, 1970, *The Philosophy of the Social Sciences*, London: Macmillan.
-* Schmid, Hans Bernhard, 2009, *Plural Action*, Dordrecht: Springer.
-* Schoeman, David, 1980, “Rights of Families: Rights of Parents and the Moral Basis of the Family”, *Ethics*, 91: 6–19.
-* Schotter, A., 1981, *The Economic Theory of Institutions*, Cambridge: Cambridge University Press.
-* Schutz, Alfred and Parsons, Talcott, 1978, *The Theory of Social Action: The Correspondence of Alfred Schutz and Talcott Parsons,* (ed.) Richard Grathoff, Bloomington: Indiana University Press.
-* Schwayder, David, 1965, *Stratification of Behaviour*, London: Routledge and Kegan Paul.
-* Scott, Richard, 2001, *Institutions and Organisations*, London: Sage.
-* Searle, John, 1995, *The Construction of Social Reality*, London: Penguin.
-* –––, 1964,“How to Derive ”Is“ from ”Ought“”, *Philosophical Review*, 73: 43–58.
-* –––, 1969, *Speech Acts*, Cambridge: Cambridge University Press.
-* –––, 1990,“Collective Intentions and Action”, in P. Cohen, J. Moran and M. Pollock (ed.), *Intentions in Communication*, Cambridge, Mass.: MIT Press.
-* –––, 2007,“Social Ontology”, in Savas L. Tsohatzidis (ed.), *Intentional Acts and Institutional Facts: Essays on John Searle’s Ontology*, Dordrecht: Springer.
-* –––, 2008, “Language and Social Ontology”, *Theory and Society*, 37/5: 443–459.
-* –––, 2010, *Making the Social World: The Structure of Human Civilization*, Oxford: Oxford University Press.
-* –––, 2018,“Status Functions”, in M. Jankovic and Kirk Ludwig (eds.), *The Routledge Handbook of Collective Intentionality*, London: Routledge.
-* Simmel, Georg, 1971, *On Individuality and Social Forms: Selected Writings,* (ed.) D. L. Levine, Chicago: University of Chicago Press.
-* Skolnick, Jerome, 2008, “Enduring Issues of Police Culture and Demographics”, *Policing and Society*, 18/1: 35–45.
-* Spencer, Herbert, 1971, *Structure, Function and Evolution*, S. Andreski (ed.), London: Michael Joseph.
-* Szigeti, Andras, 2013, “Are Individualist Accounts of Collective Responsibility Morally Deficient?”, in A. Konzelmann Ziv and B. Schmid (eds.), *Institutions, Emotions and Group Agents*, Dordrecht: Springer.
-* Taylor, Charles, 1985, *Philosophy and the Human Sciences: Philosophical Papers 2*, Cambridge: Cambridge University Press.
-* Tollefsen, Deborah, 2015, *Groups as Agents*, London: Wiley.
-* Tylor, E. B., 1871, *Primitive Culture*, London: John Murray.
-* Tuomela, Raimo, 2002, *The Philosophy of Social Practices: A Collective Acceptance View*, Cambridge: Cambridge University Press.
-* –––, 2007, *The Philosophy of Sociality: The Shared Point of View*, Oxford: Oxford University Press.
-* –––, 2013, *Social Ontology*, Oxford: Oxford University Press.
-* Turner, Jonathan, 1997, *The Institutional Order*, New York: Longman.
-* Walzer, Michael, 1983, *Spheres of Justice*, New York: Basic Books.
-* Warwick, D.P., 1981, “Ethics of Administrative Discretion”, in J.L. Fleishman *et al*. (eds.), *Public Duties: The Moral Obligations of Public Officials*, Boston: Harvard University Press.
-* Weber, Max, 1949, *The Methodology of the Social Sciences*, Glencoe, Illinois: Free Press.
-* Wiggins, David, 1981, “Claims of Need”, in D. Wiggins (ed.), *Needs, Values, Truth: Essays in the Philosophy of Value*, Oxford: Blackwell.
-* Winch, Peter, 1958, *The Idea of a Social Science*, London: Routledge.
-* Zaibert, Leo and Smith, Barry, 2007, “The Varieties of Normativity: An Essay on Social Ontology”, in Savas L. Tsohatzidis (ed.), *Intentional Acts and Institutional Facts: Essays on John Searle’s Ontology*, Dordrecht: Springer.
+* Althusser, Louis, 1971, _Lenin and Philosophy and Other Essays_ trans. Ben Brewster, London: New Left Books.
+* Austin, J., L., 1962, _How to Do Things with Words_ trans. Ben Brewster, Oxford: Oxford University Press.
+* Barnes, Barry, 1995, _The Elements of Social Theory_, Princeton, N.J.: Princeton University Press.
+* Bhaskar, Roy, 1979, _The Possibility of Naturalism_, Brighton: Harvester.
+* Bloor, David, 1997, _Wittgenstein, Rules and Institutions_, London: Routledge.
+* Bradley, F. H., 1935, “Relations”, in his_Collected Essays Volume 2_, Oxford: Clarendon Press.
+* Bratman, Michael, 1987, _Intentions, Plans and Practical Reason_, Cambridge, Mass.: Harvard University Press.
+* –––, 2014, _Shared Agency: A Planning Theory of Acting Together_, Oxford: Oxford University Press.
+* Burman, Asa, 2018, “A Critique of the Status Function Account of Human Rights”, _Philosophy of Social Sciences_, 48/5: 463–473.
+* Cohen, G. A., 1978, _Karl Marx’s Theory of History: A Defence_, Oxford: Clarendon Press.
+* Copp, David, 2007, “The Collective Autonomy Thesis”, _Journal of Social Philosophy_, 38/3: 369–388.
+* Durkheim, Emile, 1992, _Professional Ethics and Civic Morals_, C. Brookfield (tr.), London: Routledge.
+* –––,1964, _Rules of Sociological Method_, New York: Free Press.
+* Elster, Jon, 1989, _Nuts and Bolts for the Social Sciences_, Cambridge: Cambridge University Press.
+* Epstein, Brian, 2015, _The Ant Trap: Rebuilding the Foundations of the Social Sciences_, Oxford: Oxford University Press.
+* French, Peter, 1984, _Collective and Corporate Responsibility_, New York: Columbia University Press.
+* Giddens, Anthony, 1976, _New Rules of Sociological Method_, London: Hutchinson.
+* –––, 1984, _The Constitution of Society: Outline of the Theory of Structuration_, Cambridge: Polity Press.
+* Gilbert, Margaret, 1989, _On Social Facts_, Princeton: Princeton University Press.
+* Erving Goffman, 1961, _Asylums_, Chicago: Aldine Publishing.
+* Grice, Paul, 1989, “Utterer’s Meaning, Sentence-meaning and Word-meaning”, in P. Grice, _Studies in the Way of Words_, Cambridge, MA: Harvard University Press.
+* Griffin, James, 2008, _On Human Rights_, Oxford: Oxford University Press.
+* Guala, Francesco, 2016, _Understanding Institutions: The Science and Philosophy of Living Together_, Princeton N. J.: Princeton University Press.
+* Habermas, Jürgen, 1978, _Knowledge and Human Interests_, Heinemann Educational.
+* Harre, Rom, 1979, _Social Being_, Oxford: Blackwell.
+* Hart, H.L.A., 1961, _Concept of Law_, Oxford: Clarendon Press.
+* Hindriks, Frank, 2009, “Constitutive Rules, Language and Ontology”, _Erkenntnis_, 71/2: 253–275.
+* Hirschman, Albert, O., 1970, _Exit, Voice and Loyalty: Responses to Decline in Firms, Organisations and States_, Cambridge, Mass.: Harvard University Press.
+* Honneth, Axel, 1995, _The Struggle for Recognition_, London: Polity Press.
+* Hume, David (1740), 1978, _Treatise of Human Nature_, L. A. Selby-Bigge and P. H. Nidditch (eds.), 2nd edition, New York: Oxford University Press.
+* Lamanna, Mary Ann, 2002, _Emile Durkheim on the Family_, London: Sage.
+* Lewis, David, 1969, _Convention: A Philosophical Study_, Harvard University Press.
+* List, Christian, and Pettit, Philip, 2011, _Group Agency_, Oxford University Press.
+* Ludwig, Kirk, 2016, _From Individual to Plural Agency: Collective Action I_, Oxford: Oxford University Press.
+* –––, 2017, _From Plural to Institutional Agency: Collective Action II_, Oxford: Oxford University Press.
+* Marx, Karl, 1867, _Das Kapital: Volume 1_, Hamburg: Verlag von Otto Meissner.
+* Merton, Robert, K., 1968, _Social Theory and Social Structure_, New York: Free Press.
+* Miller, Seumas, 2001, _Social Action: A Teleological Account_, New York: Cambridge University Press.
+* –––, 1984, “Performatives”, _Philosophical Studies_, 45/2: 247–260.
+* –––, 1986, “Conventions, Interdependence of Action and Collective Ends”, _Nous_, 20/2: 117–140.
+* –––, 2010, _The Moral Foundations of Social Institutions: A Philosophical Study_, New York: Cambridge University Press.
+* –––, 2018, “Joint Epistemic Action: Some Applications”, _Journal of Applied Philosophy_, 35/2: 300–318.
+* Mayntz, Renate, 2004, “Mechanisms in the Analysis of Social Macro-Phenomena”, _Philosophy of the Social Sciences_, 34/2: 237–259.
+* Munch, R., and Smelser, M. J. (eds.), 1993, _The Theory of Culture_, Berkeley, CA.: University of California Press.
+* North, Douglass, C., 1990, _Institutions, Institutional Change and Economic Performance_, New York: Cambridge University Press.
+* Ostrom, Elinor, 2005, _Understanding Institutional Diversity_, Princeton N. J.: Princeton University Press.
+* Parsons, Talcott, 1968, _The Structure of Social Action_, New York: Free Press.
+* –––, 1982, _On Institutions and Social Evolution_, Chicago: University of Chicago Press.
+* Pleasants, Nigel, 2019, “Free Will, Determinism and the ‘Problem’ of Structure and Agency in the Social Sciences”, _Philosophy of Social Sciences_, 49/1: 3–30.
+* Radcliffe-Brown, A. R., 1958, _Method in Social Anthropology_, N. Srinivas (ed.), Chicago: University of Chicago Press.
+* Rawls, John, 1972, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
+* –––, 1999, _The Law of Peoples_, Cambridge, MA: Harvard University Press.
+* Ruben, David-Hillel, 1985, _The Metaphysics of the Social World_, London: Routledge and Kegan Paul.
+* Ryan, Alan, 1970, _The Philosophy of the Social Sciences_, London: Macmillan.
+* Schmid, Hans Bernhard, 2009, _Plural Action_, Dordrecht: Springer.
+* Schoeman, David, 1980, “Rights of Families: Rights of Parents and the Moral Basis of the Family”, _Ethics_, 91: 6–19.
+* Schotter, A., 1981, _The Economic Theory of Institutions_, Cambridge: Cambridge University Press.
+* Schutz, Alfred and Parsons, Talcott, 1978, _The Theory of Social Action: The Correspondence of Alfred Schutz and Talcott Parsons,_ (ed.) Richard Grathoff, Bloomington: Indiana University Press.
+* Schwayder, David, 1965, _Stratification of Behaviour_, London: Routledge and Kegan Paul.
+* Scott, Richard, 2001, _Institutions and Organisations_, London: Sage.
+* Searle, John, 1995, _The Construction of Social Reality_, London: Penguin.
+* –––, 1964,“How to Derive ”Is“ from ”Ought“”, _Philosophical Review_, 73: 43–58.
+* –––, 1969, _Speech Acts_, Cambridge: Cambridge University Press.
+* –––, 1990,“Collective Intentions and Action”, in P. Cohen, J. Moran and M. Pollock (ed.), _Intentions in Communication_, Cambridge, Mass.: MIT Press.
+* –––, 2007,“Social Ontology”, in Savas L. Tsohatzidis (ed.), _Intentional Acts and Institutional Facts: Essays on John Searle’s Ontology_, Dordrecht: Springer.
+* –––, 2008, “Language and Social Ontology”, _Theory and Society_, 37/5: 443–459.
+* –––, 2010, _Making the Social World: The Structure of Human Civilization_, Oxford: Oxford University Press.
+* –––, 2018,“Status Functions”, in M. Jankovic and Kirk Ludwig (eds.), _The Routledge Handbook of Collective Intentionality_, London: Routledge.
+* Simmel, Georg, 1971, _On Individuality and Social Forms: Selected Writings,_ (ed.) D. L. Levine, Chicago: University of Chicago Press.
+* Skolnick, Jerome, 2008, “Enduring Issues of Police Culture and Demographics”, _Policing and Society_, 18/1: 35–45.
+* Spencer, Herbert, 1971, _Structure, Function and Evolution_, S. Andreski (ed.), London: Michael Joseph.
+* Szigeti, Andras, 2013, “Are Individualist Accounts of Collective Responsibility Morally Deficient?”, in A. Konzelmann Ziv and B. Schmid (eds.), _Institutions, Emotions and Group Agents_, Dordrecht: Springer.
+* Taylor, Charles, 1985, _Philosophy and the Human Sciences: Philosophical Papers 2_, Cambridge: Cambridge University Press.
+* Tollefsen, Deborah, 2015, _Groups as Agents_, London: Wiley.
+* Tylor, E. B., 1871, _Primitive Culture_, London: John Murray.
+* Tuomela, Raimo, 2002, _The Philosophy of Social Practices: A Collective Acceptance View_, Cambridge: Cambridge University Press.
+* –––, 2007, _The Philosophy of Sociality: The Shared Point of View_, Oxford: Oxford University Press.
+* –––, 2013, _Social Ontology_, Oxford: Oxford University Press.
+* Turner, Jonathan, 1997, _The Institutional Order_, New York: Longman.
+* Walzer, Michael, 1983, _Spheres of Justice_, New York: Basic Books.
+* Warwick, D.P., 1981, “Ethics of Administrative Discretion”, in J.L. Fleishman _et al_. (eds.), _Public Duties: The Moral Obligations of Public Officials_, Boston: Harvard University Press.
+* Weber, Max, 1949, _The Methodology of the Social Sciences_, Glencoe, Illinois: Free Press.
+* Wiggins, David, 1981, “Claims of Need”, in D. Wiggins (ed.), _Needs, Values, Truth: Essays in the Philosophy of Value_, Oxford: Blackwell.
+* Winch, Peter, 1958, _The Idea of a Social Science_, London: Routledge.
+* Zaibert, Leo and Smith, Barry, 2007, “The Varieties of Normativity: An Essay on Social Ontology”, in Savas L. Tsohatzidis (ed.), _Intentional Acts and Institutional Facts: Essays on John Searle’s Ontology_, Dordrecht: Springer.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=social-institutions). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/social-institutions/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=social-institutions&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/social-institutions/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=social-institutions).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/social-institutions/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=social-institutions\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/social-institutions/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -298,7 +298,7 @@ List 和 Pettit 提出了一个基于判断聚合的论证，支持他们的观�
 
 ## Related Entries
 
-[agency: shared](https://plato.stanford.edu/entries/shared-agency/) | [autonomy: personal](https://plato.stanford.edu/entries/personal-autonomy/) | [intentionality: collective](https://plato.stanford.edu/entries/collective-intentionality/) | [justice: distributive](https://plato.stanford.edu/entries/justice-distributive/) | [legal philosophy: economic analysis of law](https://plato.stanford.edu/entries/legal-econanalysis/) | [responsibility: collective](https://plato.stanford.edu/entries/collective-responsibility/) | [rights: human](https://plato.stanford.edu/entries/rights-human/)
+[agency: shared](https://plato.stanford.edu/entries/shared-agency/) | [autonomy: personal](https://plato.stanford.edu/entries/personal-autonomy/) | [intentionality: collective](https://plato.stanford.edu/entries/collective-intentionality/) | [justice: distributive](https://plato.stanford.edu/entries/justice-distributive/) | [legal philosophy: economic analysis of law](https://plato.stanford.edu/entries/legal-econanalysis/) | [responsibility: collective](https://plato.stanford.edu/entries/collective-responsibility/) | [rights: human](https://plato.stanford.edu/entries/rights-human/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-Seumas Miller <[*semiller@csu.edu.au*](mailto:semiller%40csu%2eedu%2eau)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+Seumas Miller <[_semiller@csu.edu.au_](mailto:semiller%40csu%2eedu%2eau)>

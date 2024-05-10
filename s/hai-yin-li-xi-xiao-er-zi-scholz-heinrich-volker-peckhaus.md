@@ -1,10 +1,10 @@
 # 海因里希·肖尔兹 Scholz, Heinrich (Volker Peckhaus)
 
-*首次发表于 2018 年 8 月 29 日星期三；实质性修订于 2022 年 12 月 19 日星期一*
+_首次发表于 2018 年 8 月 29 日星期三；实质性修订于 2022 年 12 月 19 日星期一_
 
 海因里希·肖尔兹（1884-1956）是德国的新实证主义科学世界观的支持者，他是一位德国新教神学家、哲学家和逻辑学家，同时也将其应用于科学形而上学。他帮助建立了“数理逻辑与基础研究”学术领域，并声称语言构建和语义学在解决基础问题方面具有优先性，即使在数学之外也是如此。他还是德国数理逻辑和基础研究机构化的推动力量，也是逻辑学史研究的先驱者。
 
----
+***
 
 ## 1. 引言
 
@@ -64,76 +64,76 @@
 
 ### Primary Literature
 
-* Hermes, H., and Scholz, H. 1952, *Mathematische Logik*, Leipzig: Teubner (*Enzyklopädie der mathematischen Wissenschaften*, 2nd edition, Volume 1, Part 1, Number 1).
-* Scholz, H., 1921, *Religionsphilosophie*, Berlin: Reuther & Reichard; 2nd revised edition 1922.
-* –––, 1931a, *Geschichte der Logik*, Berlin: Junker und Dünnhaupt; 2nd unaltered edition as *Abriß der Geschichte der Logik*, Alber: Freiburg i.Br., 3rd edition 1967.
-* –––, 1931b, “Über das Cogito, ergo sum,” *Kantstudien*, 36: 126–147; reprinted in Scholz 1961, 75–94.
+* Hermes, H., and Scholz, H. 1952, _Mathematische Logik_, Leipzig: Teubner (_Enzyklopädie der mathematischen Wissenschaften_, 2nd edition, Volume 1, Part 1, Number 1).
+* Scholz, H., 1921, _Religionsphilosophie_, Berlin: Reuther & Reichard; 2nd revised edition 1922.
+* –––, 1931a, _Geschichte der Logik_, Berlin: Junker und Dünnhaupt; 2nd unaltered edition as _Abriß der Geschichte der Logik_, Alber: Freiburg i.Br., 3rd edition 1967.
+* –––, 1931b, “Über das Cogito, ergo sum,” _Kantstudien_, 36: 126–147; reprinted in Scholz 1961, 75–94.
 * –––, 1938, “Memorandum about the New Mathematical Logic and Foundational Research” written for the Reichs- und Preußischen Minister für Wissenschaft, Erziehung und Volksbildung on January 15, 1938, copy in the papers of Helmut Hasse, Niedersächsische Staats- und Universitätsbibliothek Göttingen, Cod. Ms. H. Hasse 1: 1529, Beilage 11.
-* –––, 1941, *Metaphysik als strenge Wissenschaft*, Köln: Staufen-Verlag.
-* –––, 1942, “David Hilbert. Der Altmeister der mathematischen Grundlagenforschung”, *Kölnische Zeitung*, No. 32, Jan. 18, 1932; enlarged version in Scholz 1961, 279–290.
+* –––, 1941, _Metaphysik als strenge Wissenschaft_, Köln: Staufen-Verlag.
+* –––, 1942, “David Hilbert. Der Altmeister der mathematischen Grundlagenforschung”, _Kölnische Zeitung_, No. 32, Jan. 18, 1932; enlarged version in Scholz 1961, 279–290.
 * –––, 1943/44, “Einführung in die Kantische Philosophie,” lecture notes, reprinted in Scholz 1961, 152–218.
-* –––, 1944, “Logik, Grammatik, Metaphysik”, *Archiv für Rechts- und Sozialphilosophie*, 36 (1943/44): 393–493; reprinted in Scholz 1961, 399–436.
-* –––, 1950/51, “Der Anselmische Gottesbeweis,” part 1 of the lecture course *Einführung in die Philosophie*, reprinted in Scholz 1961, 62–74.
-* –––, 1961, *Mathesis Universalis. Abhandlungen zur Philosophie als strenger Wissenschaft*, ed. by H. Hermes, F. Kambartel, and J. Ritter, Basel and Stuttgart: Benno Schwabe & Co.
-* Scholz, H. (ed.), 1970, *Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften*, n.s., nos. 1–8, Hildesheim: Gerstenberg.
-* Scholz, H. and Bachmann, F., 1936, “Der wissenschaftliche Nachlass von Gottlob Frege”, in *Actes du congrès international de philosophie scientifique Sorbonne, Paris 1935*, Vol. VIII: *Histoire de la logique et de la philosophie scientifique*, Paris: Hermann, 24–30.
-* Scholz, H., and Hasenjaeger, G., 1961, *Grundzüge der mathematischen Logik*, Berlin/Göttingen/Heidelberg: Springer (*Grundlehren der mathematischen Wissenschaften*d,; 106).
-* Scholz, H., and Schweitzer, H., 1935, *Die sogenannten Definitionen durch Abstraktion. Eine Theorie der Definitionen durch Bildung von Gleichheitsverwandtschaften*, Leipzig: Kommission bei Felix Meiner (*Forschungen zur Logistik und zur Grundlegung der exakten Wissenschaften*, 3).
+* –––, 1944, “Logik, Grammatik, Metaphysik”, _Archiv für Rechts- und Sozialphilosophie_, 36 (1943/44): 393–493; reprinted in Scholz 1961, 399–436.
+* –––, 1950/51, “Der Anselmische Gottesbeweis,” part 1 of the lecture course _Einführung in die Philosophie_, reprinted in Scholz 1961, 62–74.
+* –––, 1961, _Mathesis Universalis. Abhandlungen zur Philosophie als strenger Wissenschaft_, ed. by H. Hermes, F. Kambartel, and J. Ritter, Basel and Stuttgart: Benno Schwabe & Co.
+* Scholz, H. (ed.), 1970, _Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften_, n.s., nos. 1–8, Hildesheim: Gerstenberg.
+* Scholz, H. and Bachmann, F., 1936, “Der wissenschaftliche Nachlass von Gottlob Frege”, in _Actes du congrès international de philosophie scientifique Sorbonne, Paris 1935_, Vol. VIII: _Histoire de la logique et de la philosophie scientifique_, Paris: Hermann, 24–30.
+* Scholz, H., and Hasenjaeger, G., 1961, _Grundzüge der mathematischen Logik_, Berlin/Göttingen/Heidelberg: Springer (_Grundlehren der mathematischen Wissenschaften_d,; 106).
+* Scholz, H., and Schweitzer, H., 1935, _Die sogenannten Definitionen durch Abstraktion. Eine Theorie der Definitionen durch Bildung von Gleichheitsverwandtschaften_, Leipzig: Kommission bei Felix Meiner (_Forschungen zur Logistik und zur Grundlegung der exakten Wissenschaften_, 3).
 
 ### Secondary Literature
 
-* Behmann, H., P. Bernays, and H. Scholz, 1937/38, “Bericht des Komitees zur Vereinheitlichung der logischen Symbolik”, *Erkenntnis*, 7(1): 386–390.
-* Bolewski, A., and Pierzchała, H., 1989, *Losy polskich pracowników nauki w latach 1939–1945. Straty osobowe*, Wrocław: Zakład narodowy imienia ossolińskich wydawnictwo.
-* Couturat, L., 1904, “Logique et philosophie des sciences”, *Revue de Métaphysique et de Morale*, 12: 1037–1077.
-* Elstrodt, J., and Schmitz, N., 2013, “Prof. Dr. theol. Dr. phil. Dr. theol. h.c. Heinrich Scholz (1884–1956)” in *Geschichte* [developing history of mathematics at the University of Münster], Ch. 5.2, pp. 111–118 ([link](https://www.uni-muenster.de/FB10/historie/kapitel52.pdf)).
-* Hasenjaeger, G., 1962, *Einführung in die Grundbegriffe und Probleme der modernen Logik*, Freiburg/München: Alber.
-* Hermes, H., 1958, “Heinrich Scholz. Die Persönlichkeit und sein Werk als Logiker,” in *Heinrich Scholz. Drei Vorträge gehalten bei der Gedächtnisfeier der Math.-Naturw. Fakultät der Universität Münster am 20. Dezember 1957*, Münster: Aschendorff, 25–45.
-* Meschkowski, H., 1984, “Heinrich Scholz. Zum 100. Geburtstag des Grundlagenforschers,” *Humanismus und Technik. Jahrbuch*, 27: 28–52.
-* Molendijk, A.L., 1991, *Aus dem Dunklen ins Helle. Wissenschaft und Theologie im Denken von Heinrich Scholz. Mit unveröffentlichten Thesenreihen von Heinrich Scholz und Karl Barth*, Amsterdam/Atlanta: Rodopi (*Amsterdam Studies in Theology*; 8).
+* Behmann, H., P. Bernays, and H. Scholz, 1937/38, “Bericht des Komitees zur Vereinheitlichung der logischen Symbolik”, _Erkenntnis_, 7(1): 386–390.
+* Bolewski, A., and Pierzchała, H., 1989, _Losy polskich pracowników nauki w latach 1939–1945. Straty osobowe_, Wrocław: Zakład narodowy imienia ossolińskich wydawnictwo.
+* Couturat, L., 1904, “Logique et philosophie des sciences”, _Revue de Métaphysique et de Morale_, 12: 1037–1077.
+* Elstrodt, J., and Schmitz, N., 2013, “Prof. Dr. theol. Dr. phil. Dr. theol. h.c. Heinrich Scholz (1884–1956)” in _Geschichte_ \[developing history of mathematics at the University of Münster], Ch. 5.2, pp. 111–118 ([link](https://www.uni-muenster.de/FB10/historie/kapitel52.pdf)).
+* Hasenjaeger, G., 1962, _Einführung in die Grundbegriffe und Probleme der modernen Logik_, Freiburg/München: Alber.
+* Hermes, H., 1958, “Heinrich Scholz. Die Persönlichkeit und sein Werk als Logiker,” in _Heinrich Scholz. Drei Vorträge gehalten bei der Gedächtnisfeier der Math.-Naturw. Fakultät der Universität Münster am 20. Dezember 1957_, Münster: Aschendorff, 25–45.
+* Meschkowski, H., 1984, “Heinrich Scholz. Zum 100. Geburtstag des Grundlagenforschers,” _Humanismus und Technik. Jahrbuch_, 27: 28–52.
+* Molendijk, A.L., 1991, _Aus dem Dunklen ins Helle. Wissenschaft und Theologie im Denken von Heinrich Scholz. Mit unveröffentlichten Thesenreihen von Heinrich Scholz und Karl Barth_, Amsterdam/Atlanta: Rodopi (_Amsterdam Studies in Theology_; 8).
 * –––, 2005, “Ein standfester Mensch. Bemerkungen zum Werdegang von Heinrich Scholz,” in Schmidt am Busch and Wehmeier (eds.) 2005, 13–45.
-* Neurath, O., 1937, “Die neue Enzyklopädie des wissenschaftlichen Empirismus”, *Scientia* (Milan), Dec. 1937, 309–320, reprinted in Neurath 1981, 801–811.
-* –––, 1981, *Gesammelte philosophische und methodologische*
-* *Schriften*, Vol. 2, ed. by R. Haller and H. Rutte, Vienna: Hölder-Pichler-Tempsky.
-* Peckhaus, V., 1993, Review of Molendijk 1991, *History and Philosophy of Logic*, 14: 101–107.
-* –––, 1998/99, “Moral Integrity During a Difficult Period: Beth and Scholz”, *Philosophia Scientiae*, 3(4): 151–173.
+* Neurath, O., 1937, “Die neue Enzyklopädie des wissenschaftlichen Empirismus”, _Scientia_ (Milan), Dec. 1937, 309–320, reprinted in Neurath 1981, 801–811.
+* –––, 1981, _Gesammelte philosophische und methodologische_
+* _Schriften_, Vol. 2, ed. by R. Haller and H. Rutte, Vienna: Hölder-Pichler-Tempsky.
+* Peckhaus, V., 1993, Review of Molendijk 1991, _History and Philosophy of Logic_, 14: 101–107.
+* –––, 1998/99, “Moral Integrity During a Difficult Period: Beth and Scholz”, _Philosophia Scientiae_, 3(4): 151–173.
 * –––, 2005, “Heinrich Scholz als Metaphysiker,” in Schmidt am Busch and Wehmeier (eds.) 2005, 69–83.
-* –––, 2008, “Logic and Metaphysics: Heinrich Scholz and the Scientific World View,” *Philosophia Mathematica* (III), 16: 78–99.
-* Ratschow, C.H., 1958, “Heinrich Scholz der Theologe und der Christ,” in *Heinrich Scholz. Drei Vorträge gehalten bei der Gedächtnisfeier der Math.-Naturw. Fakultät der Universität Münster am 20. Dezember 1957*, Münster: Aschendorff, 10–24.
+* –––, 2008, “Logic and Metaphysics: Heinrich Scholz and the Scientific World View,” _Philosophia Mathematica_ (III), 16: 78–99.
+* Ratschow, C.H., 1958, “Heinrich Scholz der Theologe und der Christ,” in _Heinrich Scholz. Drei Vorträge gehalten bei der Gedächtnisfeier der Math.-Naturw. Fakultät der Universität Münster am 20. Dezember 1957_, Münster: Aschendorff, 10–24.
 * Ritter, J., Hermes, H., and Kambartel, F., 1961, “Vorwort,” in Scholz 1961, 7–23.
 * Schmidt am Busch, H.-C., and Wehmeier, K.F., 2005a, “‘Es ist die einzige Spur, die ich hinterlasse’ – Dokumente zur Entstehungsgeschichte des Instituts für Mathematische Logik und Grundlagenforschung”, in Schmidt am Busch and Wehmeier (eds.) 2005, 93–101.
-* Schmidt am Busch, H.-C., and Wehmeier, K.F., 2005b, “Heinrich Scholz und Jan Łukasiewicz”, in Schmidt am Busch and Wehmeier (eds.) 2005, 119–131; English version as “On the relations between Heinrich Scholz and Jan Łukasiewicz,” in *History and Philosophy of Logic*, 28 (2007): 67–81.
-* Schmidt am Busch, H.-C., and Wehmeier, K.F. (eds.), 2005, *Heinrich Scholz. Logiker, Philosoph, Theologe*, Paderborn: mentis.
-* Schreiber, P., 1999, “Über Beziehungen zwischen Heinrich Scholz und polnischen Logikern”, *History and Philosophy of Logic*, 20: 97–109.
-* Stock, E., 1987, *Die Konzeption einer Metaphysik im Denken von Heinrich Scholz*, Berlin and New York: de Gruyter (*Theologische Bibliothek Töpelmann*; 44).
-* Steck, M., 1942, *Das Hauptproblem der Mathematik*, Berlin: Dr. Georg Lüttke Verlag.
+* Schmidt am Busch, H.-C., and Wehmeier, K.F., 2005b, “Heinrich Scholz und Jan Łukasiewicz”, in Schmidt am Busch and Wehmeier (eds.) 2005, 119–131; English version as “On the relations between Heinrich Scholz and Jan Łukasiewicz,” in _History and Philosophy of Logic_, 28 (2007): 67–81.
+* Schmidt am Busch, H.-C., and Wehmeier, K.F. (eds.), 2005, _Heinrich Scholz. Logiker, Philosoph, Theologe_, Paderborn: mentis.
+* Schreiber, P., 1999, “Über Beziehungen zwischen Heinrich Scholz und polnischen Logikern”, _History and Philosophy of Logic_, 20: 97–109.
+* Stock, E., 1987, _Die Konzeption einer Metaphysik im Denken von Heinrich Scholz_, Berlin and New York: de Gruyter (_Theologische Bibliothek Töpelmann_; 44).
+* Steck, M., 1942, _Das Hauptproblem der Mathematik_, Berlin: Dr. Georg Lüttke Verlag.
 * Sundholm, G., 2005, “Heinrich Scholz between Frege and Hilbert”, in Schmidt am Busch and Wehmeier (eds.) 2005, 103–117.
-* Wehmeier, K.F. and Schmidt am Busch, H.-C., 2000, “Auf der Suche nach Freges Nachlaß,” in Gottfried Gabriel and Uwe Dathe (eds.), *Gottlob Frege. Werk und Wirkung. Mit den unveröffentlichten Vorschlägen für ein Wahlgesetz von Gottlob Frege*, Paderborn: Mentis, 267–281. English version as “The Quest for Frege’s Nachlass,” in M. Beaney and E. Reck (eds.), *Critical Assessments of Leading Philosophers: Gottlob Frege*, vol. I, London: Routledge 2005, 54–67.
-* Wernick, G., 1944, “Heinrich Scholz als Philosoph. Eine entwicklungsgeschichtliche Studie,” *Archiv für Rechts- und Sozialphilosophie*, 37: 1–12.
-* Whitehead, A.N., and Russell, B., 1910–1913, *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; 2nd edition, 1925–1927.
+* Wehmeier, K.F. and Schmidt am Busch, H.-C., 2000, “Auf der Suche nach Freges Nachlaß,” in Gottfried Gabriel and Uwe Dathe (eds.), _Gottlob Frege. Werk und Wirkung. Mit den unveröffentlichten Vorschlägen für ein Wahlgesetz von Gottlob Frege_, Paderborn: Mentis, 267–281. English version as “The Quest for Frege’s Nachlass,” in M. Beaney and E. Reck (eds.), _Critical Assessments of Leading Philosophers: Gottlob Frege_, vol. I, London: Routledge 2005, 54–67.
+* Wernick, G., 1944, “Heinrich Scholz als Philosoph. Eine entwicklungsgeschichtliche Studie,” _Archiv für Rechts- und Sozialphilosophie_, 37: 1–12.
+* Whitehead, A.N., and Russell, B., 1910–1913, _Principia Mathematica_, 3 volumes, Cambridge: Cambridge University Press; 2nd edition, 1925–1927.
 * Wimmer, R., 2005, “Die Religionsphilosophie von Heinrich Scholz,” in Schmidt am Busch and Wehmeier (eds.) 2005, 47–68.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=scholz). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/scholz/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=scholz&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/scholz/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=scholz).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/scholz/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=scholz\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/scholz/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Heinrich Scholz (*Logiker*)](https://de.wikipedia.org/wiki/Heinrich_Scholz_(Logiker)), in the German Wikipedia.
-* [Heinrich Scholz](https://en.wikipedia.org/wiki/Heinrich_Scholz), entry in the English Wikipedia.
-* Elstrodt, J., and Schmitz, N., [*Geschichte*](https://www.uni-muenster.de/FB10/historie/), developing history of mathematics at the University of Münster, on Scholz Ch. 5.2, pp. 111–118).
-* [*Scholz-Archiv*](https://www.uni-muenster.de/IVV5WS/ScholzWiki/doku.php), *Westfälische Wilhelms-Universität Münster*.
+* [Heinrich Scholz (_Logiker_)](https://de.wikipedia.org/wiki/Heinrich\_Scholz\_\(Logiker\)), in the German Wikipedia.
+* [Heinrich Scholz](https://en.wikipedia.org/wiki/Heinrich\_Scholz), entry in the English Wikipedia.
+* Elstrodt, J., and Schmitz, N., [_Geschichte_](https://www.uni-muenster.de/FB10/historie/), developing history of mathematics at the University of Münster, on Scholz Ch. 5.2, pp. 111–118).
+* [_Scholz-Archiv_](https://www.uni-muenster.de/IVV5WS/ScholzWiki/doku.php), _Westfälische Wilhelms-Universität Münster_.
 
 ## Related Entries
 
-[empiricism: logical](https://plato.stanford.edu/entries/logical-empiricism/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [Neurath, Otto](https://plato.stanford.edu/entries/neurath/) | [religion: philosophy of](https://plato.stanford.edu/entries/philosophy-religion/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
+[empiricism: logical](https://plato.stanford.edu/entries/logical-empiricism/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [Neurath, Otto](https://plato.stanford.edu/entries/neurath/) | [religion: philosophy of](https://plato.stanford.edu/entries/philosophy-religion/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
 
 ### Acknowledgments
 
 The editors would like to thank Kai Wehmeier for his efforts as an external referee and an editor of this entry.
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Volker Peckhaus <[*volker.peckhaus@upb.de*](mailto:volker%2epeckhaus%40upb%2ede)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Volker Peckhaus <[_volker.peckhaus@upb.de_](mailto:volker%2epeckhaus%40upb%2ede)>
