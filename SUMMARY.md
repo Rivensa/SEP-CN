@@ -565,7 +565,7 @@
 * [克里斯蒂安·沃尔夫 Wolff, Christian (Matt Hettche and Corey Dyck)](w/ke-li-si-di-an-wo-er-fu-wolff-christian-matt-hettche-and-corey-dyck.md)
 * [玛丽·沃斯通克拉夫特 Wollstonecraft, Mary (Sylvana Tomaselli)](w/ma-li-wo-si-tong-ke-la-fu-te-wollstonecraft-mary-sylvana-tomaselli.md)
 * [\*词义——见意义：词义 word meaning — see meaning: of words](w/ci-yi-jian-yi-yi-ci-yi-word-meaning-see-meaning-of-words.md)
-* [工作和劳动 work and labor (Michael Cholbi)](w/gong-zuo-he-lao-dong-work-and-labor-michael-cholbi.md)
+* [工作和劳动的哲学研究方法 work and labor (Michael Cholbi)](w/gong-zuo-he-lao-dong-work-and-labor-michael-cholbi.md)
 * [世界政府 world government (Catherine Lu)](w/shi-jie-zheng-fu-world-government-catherine-lu.md)
 * [\*世界 worlds](w/shi-jie-worlds/README.md)
   * [\*不可能——见不可能世界 impossible — see impossible worlds](w/shi-jie-worlds/bu-ke-neng-jian-bu-ke-neng-shi-jie-impossible-see-impossible-worlds.md)
