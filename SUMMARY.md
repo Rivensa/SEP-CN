@@ -525,7 +525,7 @@
 * [良心 conscience (Alberto Giubilini)](c/liang-xin-conscience-alberto-giubilini/README.md)
   * [中世纪的良心理论 medieval theories of (Peter Eardley)](c/liang-xin-conscience-alberto-giubilini/zhong-shi-ji-de-liang-xin-li-lun-medieval-theories-of-peter-eardley.md)
 * [意识 consciousness (Robert Van Gulick)](c/yi-shi-consciousness-robert-van-gulick/README.md)
-  * [动物——见动物：动物意识 animal — see animal: consciousness](c/yi-shi-consciousness-robert-van-gulick/dong-wu-jian-dong-wu-dong-wu-yi-shi-animal-see-animal-consciousness.md)
+  * [\*动物——见动物：动物意识 animal — see animal: consciousness](c/yi-shi-consciousness-robert-van-gulick/dong-wu-jian-dong-wu-dong-wu-yi-shi-animal-see-animal-consciousness.md)
   * [意识的高阶理论 higher-order theories (Peter Carruthers and Rocco Gennaro)](c/yi-shi-consciousness-robert-van-gulick/yi-shi-de-gao-jie-li-lun-higherorder-theories-peter-carruthers-and-rocco-gennaro.md)
   * [意识与意向性 and intentionality (Charles Siewert)](c/yi-shi-consciousness-robert-van-gulick/yi-shi-yu-yi-xiang-xing-and-intentionality-charles-siewert.md)
   * [意识的神经科学 neuroscience of (Wayne Wu)](c/yi-shi-consciousness-robert-van-gulick/yi-shi-de-shen-jing-ke-xue-neuroscience-of-wayne-wu.md)
