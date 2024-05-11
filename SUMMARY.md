@@ -574,8 +574,8 @@
 * [创造力 creativity (Elliot Samuel Paul and Dustin Stokes)](c/chuang-zao-li-creativity-elliot-samuel-paul-and-dustin-stokes.md)
 * [哈斯代·克雷斯卡斯 Crescas, Hasdai (Shalom Sadik)](c/ha-si-dai-ben-ya-bo-la-han-ke-lei-si-ka-si-crescas-hasdai-shalom-sadik.md)
 * [刑法理论 criminal law, theories of (James Edwards)](c/xing-fa-li-lun-criminal-law-theories-of-james-edwards.md)
-* [种族批判哲学 critical philosophy of race (Linda Alcoff)](c/zhong-zu-pi-pan-zhe-xue-critical-philosophy-of-race-linda-alcoff.md)
-* [\*批判种族理论——见种族批判哲学 critical race theory — see critical philosophy of race](c/pi-pan-xing-zhong-zu-li-lun-jian-zhong-zu-pi-pan-zhe-xue-critical-race-theory-see-critical-philosoph.md)
+* [批判种族哲学 critical philosophy of race (Linda Alcoff)](c/zhong-zu-pi-pan-zhe-xue-critical-philosophy-of-race-linda-alcoff.md)
+* [\*批判种族理论——见批判种族哲学 critical race theory — see critical philosophy of race](c/pi-pan-xing-zhong-zu-li-lun-jian-zhong-zu-pi-pan-zhe-xue-critical-race-theory-see-critical-philosoph.md)
 * [批判理论（法兰克福学派）critical theory (Robin Celikates and Jeffrey Flynn)](c/pi-pan-li-lun-fa-lan-ke-fu-xue-pai-critical-theory-robin-celikates-and-jeffrey-flynn.md)
 * [批判性思维 critical thinking (David Hitchcock)](c/pi-pan-xing-si-wei-critical-thinking-david-hitchcock.md)
 * [\*贝内德托·克罗齐 Croce, Benedetto](c/bei-nei-de-tuo-ke-luo-qi-croce-benedetto/README.md)
@@ -2152,7 +2152,7 @@
 ## R
 
 * [种族 race (Michael James and Adam Burgos)](r/zhong-zu-race-michael-james-and-adam-burgos/README.md)
-  * [\*种族批判哲学——见种族批判哲学 critical philosophy of — see critical philosophy of race](r/zhong-zu-race-michael-james-and-adam-burgos/zhong-zu-pi-pan-zhe-xue-jian-zhong-zu-pi-pan-zhe-xue-critical-philosophy-of-see-critical-philosophy.md)
+  * [\*批判种族哲学——见批判种族哲学 critical philosophy of — see critical philosophy of race](r/zhong-zu-race-michael-james-and-adam-burgos/zhong-zu-pi-pan-zhe-xue-jian-zhong-zu-pi-pan-zhe-xue-critical-philosophy-of-see-critical-philosophy.md)
 * [拉杜尔弗斯·布里托 Radulphus Brito (Ana María Mora-Márquez and Iacopo Costa)](r/la-du-er-fu-si-bu-li-tuo-radulphus-brito-ana-mara-moramrquez-and-iacopo-costa.md)
 * [弗兰克·拉姆齐 Ramsey, Frank (Fraser MacBride, Mathieu Marion, María José Frápolli, Dorothy Edgington, Edward Elliott, Sebastian Lutz, and Jeffrey Paris)](r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/README.md)
   * [拉姆齐的代际福利经济学 and intergenerational welfare economics (Partha Dasgupta)](r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/la-mu-qi-de-dai-ji-fu-li-jing-ji-xue-and-intergenerational-welfare-economics-partha-dasgupta.md)
