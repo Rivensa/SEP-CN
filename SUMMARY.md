@@ -554,7 +554,7 @@
 * [非自利契约论 contractualism (Elizabeth Ashford and Tim Mulgan)](c/fei-zi-li-de-qi-yue-lun-contractualism-elizabeth-ashford-and-tim-mulgan.md)
 * [矛盾 contradiction (Laurence R. Horn)](c/mao-dun-contradiction-laurence-r.-horn.md)
 * [约定 convention (Michael Rescorla)](c/yue-ding-convention-michael-rescorla/README.md)
-  * [道德与约定区分——见道德与约定的区分 moral/conventional distinction — see moral/conventional distinction](c/yue-ding-convention-michael-rescorla/dao-de-yue-ding-qu-fen-jian-dao-de-yue-ding-de-qu-fen-moralconventional-distinction-see-moralconvent.md)
+  * [\*道德与约定区分——见道德与约定的区分 moral/conventional distinction — see moral/conventional distinction](c/yue-ding-convention-michael-rescorla/dao-de-yue-ding-qu-fen-jian-dao-de-yue-ding-de-qu-fen-moralconventional-distinction-see-moralconvent.md)
 * [安妮·康威 Conway, Lady Anne (Sarah Hutton)](c/an-ni-kang-wei-conway-lady-anne-sarah-hutton.md)
 * [安娜·朱莉娅·库珀 Cooper, Anna Julia (Kathryn Sophia Belle)](c/an-na-zhu-li-ya-ku-po-cooper-anna-julia-kathryn-sophia-belle.md)
 * [尼古拉·哥白尼 Copernicus, Nicolaus (Sheila Rabin)](c/ni-gu-la-ge-bai-ni-copernicus-nicolaus-sheila-rabin.md)
