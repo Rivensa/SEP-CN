@@ -587,6 +587,7 @@ II.
 
 关于文艺复兴时期塞克斯都著作的重新发现的引人入胜的故事，请参阅 Floridi 2002 年和 2010 年的著作。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Texts

@@ -1137,6 +1137,7 @@ Uj(¯¯¯¯¯Tix)=y
 
 信息的概念已经成为我们社会和科学中的核心。信息技术在我们组织生活方式方面起着关键作用。它也已经成为科学和人文学科中的基本范畴。信息哲学作为一门历史和系统的学科，为旧的哲学问题提供了新的视角，并提出了新的研究领域。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aaronson, Scott, 2013, “Why Philosophers Should Care About Computational Complexity”, in *Computability: Turing, Gödel, Church, and Beyond*, Brian Jack Copeland, Carl J. Posy, and Oron Shagrir (eds.), Cambridge, MA: The MIT Press. [[Aaronson 2013 preprint available online](http://philsci-archive.pitt.edu/8748/)]

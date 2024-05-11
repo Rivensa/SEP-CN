@@ -252,6 +252,7 @@ Monton 2011为帕斯卡的赌注辩护，反驳了这一反对意见。他认为
 
 帕斯卡的赌注是宗教哲学中的一个分水岭。正如我们所见，它还远不止于此。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allais, Maurice, 1953. “Le Comportment de l’Homme Rationnel Devant la Risque: Critique des Postulats et Axiomes de l’École Américaine”, *Econometrica*, 21: 503–546.

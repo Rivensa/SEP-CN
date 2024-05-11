@@ -213,6 +213,7 @@ Linehan（1982）认为，我们有义务审查指导我们行动的信念，这
 
 鉴于集体自我欺骗具有巩固错误信念和放大其后果的能力 - 有时会导致灾难性结果 - 集体自我欺骗不仅仅是一个哲学难题；它是一个需要关注的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ames, R.T., and W. Dissanayake (eds.), 1996, *Self and Deception*, New York: State University of New York Press.

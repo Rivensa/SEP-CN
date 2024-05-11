@@ -402,6 +402,7 @@ Langer（1953/2007）的独特反对意见是，“审美态度”过于苛求�
 
 哲学研究对审美规范性进行了新的繁荣，其中许多研究受益于对各种规范领域的交叉比较（Eaton 2001；Cross 2017，即将出版；Hanson 2018，Lopes 2018，2021，Gorodeisky 和 Marcus 2018；Gorodeisky 2019，2021，Kubala 2021，Dyck 2021，Whiting 2021，即将出版，Riggle，即将出版；有关概述，请参见 King 2022）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adorno, Theodor, 1970 [1997], *Aesthetic Theory*, Gretel Adorno and Rolf Tiedemann (eds.), Robert Hullot-Kentor (trans.), Minneapolis: University of Minnesota Press.

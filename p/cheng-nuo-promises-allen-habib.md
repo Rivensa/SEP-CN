@@ -414,6 +414,7 @@ Hodgson（1967: 38）和其他人提出的一个更复杂的问题是，承诺�
 
 对这些问题的研究仍在继续，参见 Sinnott-Armstrong（2009），Gill（2012），Melenovsky（2017）。关于这个问题的一个出色的当代调查，请参见 Alida Liberman 在《功利主义牛津手册》（2020）中的“功利主义和承诺”。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albrecht, Ingrid V., 2018, “Graveside and Other Asymmetrical Promises”, *Social Theory and Practice*, 44(4): 469–483. doi:10.5840/soctheorpract201891344

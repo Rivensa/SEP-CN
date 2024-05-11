@@ -223,6 +223,7 @@ Wildman 通过自己遵循这一计划来展示他的计划（2017）。有趣�
 
 当Wildman将他的竞争对手与这些标准进行比较时，自然主义的存在基础系统获胜。但显然，对于我们每个对这样的项目感兴趣的人来说，我们可以根据我们认为值得我们时间的模型，以及我们认为使模型具有真理性的比较标准，来进行我们自己的竞争，以找到我们能找到的最具哲学满足感的终极存在模型。然后，这个模型将成为我们用来对上帝与其他终极存在的存在的最有力论据进行审查的对象，以便以一种经过充分研究和现在澄清的方式，发现是否存在任何终极存在。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albahari, Miri, 2019, “Beyond Cosmopsychism and the Great I Am: How the World Might Be Grounded in Universal ‘Advaitic’ Consciousness”, in Seager 2019: 119–130.

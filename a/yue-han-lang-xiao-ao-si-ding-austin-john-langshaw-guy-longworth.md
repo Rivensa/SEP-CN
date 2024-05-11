@@ -393,6 +393,7 @@
 
 有关奥斯汀对自由和能力观点的讨论，请参阅 Ayers 1966; Clarke 2009; Kaufman 1963; Locke 1962; New 1966; Nowell-Smith 1960; Pears 1973; Thalberg 1969; Warnock 1989: 80–97。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

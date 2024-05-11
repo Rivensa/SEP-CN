@@ -188,6 +188,7 @@ Grünbaum 的回应虽然解决了一个悖论，但最近在古代和 19 世纪
 
 还可以参考 Huggett（1999 年，第 3 章）和 Huggett（2010 年，第 2-3 章）以获取更多的源文段和讨论。关于现代解决方案背后的数学思想的介绍，可以从 Salmon（2001）的附录或 Stewart（2017）开始；Russell（1919）和 Courant 等人（1996 年，第 2 章和第 9 章）也是很好的资源。最后，还有三本关于芝诺悖论的原始文献集：Lee（1936 [2015]）包含了已知的一切，Kirk 等人（1983 年，第 9 章）包含了大量材料（英文和希腊文），并附有有用的评论，Cohen 等人（1995 年）也包含了主要的段落。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abraham, W. E., 1972, ‘The Nature of Zeno’s Argument Against Plurality in DK 29 B I’, *Phronesis*, 17: 40–52.

@@ -274,6 +274,7 @@ It may be thought that such considerations have become pointless, given the trou
 
 看起来，尽管对最近修正主义学术的持续抵抗（这种抵抗不是争论，而是忽视其结果），维也纳学派哲学的命运再次转变。维也纳学派的教义在一代又一代的追随者和反对者中产生了许多扭曲，现在得到了恢复，被再次认可为具有相当哲学深度的力量。不仅仅是因为其成员深刻地影响了实际科学分析哲学的发展，通过典型的概念创新，这些创新通常一直持续到最后。而且，一些成员提出的建议和方法在当时并没有被广泛采纳（如果有的话），但现在又变得相关起来。就像它的前辈弗雷格、罗素和维特根斯坦，常规主义者庞加莱和杜埃姆，实用主义者皮尔斯和杜威，以及来自莱辛巴赫的柏林小组和华沙-利沃夫逻辑学派到新康德主义者卡西勒等同时代人一样，维也纳学派为当代经验和形式科学哲学提供了宝贵的观点。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Note: Bibliographies of the members of the Vienna Circle and selected associates are given, along with short biographies, in Stadler 1997 [2015b: 397–592].

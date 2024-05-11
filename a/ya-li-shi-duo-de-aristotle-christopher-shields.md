@@ -541,6 +541,7 @@
 
 今天，各种类型的哲学家继续在许多不同领域寻求亚里士多德的指导和启发，从心灵哲学到无限理论，尽管亚里士多德的影响在二十世纪下半叶的[德行伦理学](https://plato.stanford.edu/entries/ethics-virtue/)复兴中最为明显和公开。目前看来，可以安全地预测亚里士多德的地位在可预见的未来不太可能减弱。如果这是未来发展方向的任何迹象，对现在的百科全书进行快速搜索会发现对“亚里士多德”和“亚里士多德主义”的引用比对其他哲学家或哲学运动的引用更多。只有柏拉图接近。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 This bibliography limits itself to translations general works on Aristotle, and works cited in this entry. Please see the subjective-specific bibliographies in the entries under General and Special Topics for references to works pertinent to more specific areas of Aristotle’s philosophy.

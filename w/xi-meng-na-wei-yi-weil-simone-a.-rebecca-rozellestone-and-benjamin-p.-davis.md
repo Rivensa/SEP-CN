@@ -218,6 +218,7 @@ Weil’s concept of force, then, is also a development from Hobbes and Hegel: it
 
 关于薇依的英美次级文献强调了她对超自然正义的概念，包括贯穿她唯物主义和神秘主义的哲学张力（Winch 1989; Dietz 1988; Bell 1993, 1998; Rhees 2000）。其他考虑因素涉及她的基督教柏拉图主义（Springsted 1983; Doering & Springsted 2004）。关于薇依的最近的英文学术研究包括她对力量概念的探讨（Doering 2010），她的激进主义（Rozelle-Stone & Stone 2010），以及她思想中科学与神性之间、苦难与创伤之间、解构与伦理之间的关系（Morgan 2005; Nelson 2017; Cha 2017）。此外，她的概念还影响了对身份问题（Cameron 2007）、政治神学（Lloyd 2011）、动物性（Pick 2011）和国际关系（Kinsella 2021）的最新贡献。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Cited Works by Weil

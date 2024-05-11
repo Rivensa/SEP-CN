@@ -387,6 +387,7 @@ Thagard (2011)更关注强调谬误和偏见之间的差异，而不是找到它
 
 对于这些发现，人们可以承认它们与批判性思维的教学的相关性，但仍要记住导致错误和错误本身之间的区别。谬误的分析属于论证和辩论的规范研究，说明给定论证中的谬误将涉及参考某些论证规范。这将是对论证中错误的解释。偏见与理解为什么人们会犯谬误以及我们如何帮助他们克服这些谬误相关，但它们并不能帮助我们理解首先谬误错误是什么——这不是心理学问题。在这些兴趣交汇点上的持续研究有望更多地阐明偏见和谬误。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aberdein, A., 2013, “Fallacy and argumentational vice,” *Ontario Society for the Study of Argumentation* (OSSA Conference Archive: OSSA 10), [available online](https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=1973&context=ossaarchive).

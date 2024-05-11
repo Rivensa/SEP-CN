@@ -178,6 +178,7 @@ W.D.罗斯(Ross)（138）考虑了两个在快乐和性格方面都相等的世�
 
 心理享乐主义和伦理享乐主义都值得认真的哲学关注。它们各自在哲学上也具有更广泛的意义，尤其是在功利主义和利己主义伦理思想以及经验主义和科学自然主义哲学传统中。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alston, W.P. (1967), ‘Pleasure’ in P. Edwards (ed.) *The Encyclopaedia of Philosophy*, London: Macmillan.

@@ -296,6 +296,7 @@ Nicolas（2004 年，2010 年）表明，确实可以提出物质名词语义的
 
 总的来说，似乎可以为所有物质名词指定统一的解释。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Bale, A. & D. Barner, 2009, “The interpretation of functional heads: Using comparatives to explore the mass/count distinction”, *Journal of Semantics*, 26(3): 217–252.

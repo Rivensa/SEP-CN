@@ -76,6 +76,7 @@
 
 尽管舍伍德通过对西班牙的影响对逻辑和语义的发展产生了间接影响，但他在 13 世纪之后的直接影响更为有限，部分原因是西班牙的影响力如此之大。在 14 世纪，舍伍德对术语属性的方法可能仍然存在的任何影响几乎完全被奥卡姆的威廉、布里丹的约翰和萨克森的阿尔伯特等人所掩盖（Bos 2011, p. 773）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Boehner, Philotheus, 1952, *Medieval Logic: An Outline of Its Development from 1250 to c. 1400*, Manchester: Manchester University Press.

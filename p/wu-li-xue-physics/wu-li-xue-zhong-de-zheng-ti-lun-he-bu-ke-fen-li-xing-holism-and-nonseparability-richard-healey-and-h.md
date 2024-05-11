@@ -256,6 +256,7 @@ Wayne（2002）提出，量子场论最好解释为假设存在广泛的整体�
 
 非可分离性在量子化的弦场论中的地位并不容易评估，因为决定任何相对论量子场论的本体论应该是什么的一般问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aharonov, Y. and Bohm, D., 1959, “Significance of Electromagnetic Potentials in the Quantum Theory”, *Physical Review*, 115: 485–91.

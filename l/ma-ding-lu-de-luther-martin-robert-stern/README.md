@@ -232,6 +232,7 @@ However, this then means, Luther argues, that on Erasmus’s account, if a human
 
 马丁·路德的思想不仅对他自己的时代和当代人产生了相当大的影响，而且对那些在他之后出现的人也产生了影响。尽管他最重要的影响当然是在神学领域，而且错误地认为在哲学中有类似路德学派的存在是不正确的，然而路德对从霍布斯和莱布尼茨到海德格尔等一系列重要哲学家产生了重要影响。这种影响在另一篇文章中有更详细的论述，以及他对“现代性”的更广泛影响。有关更详尽的讨论，请参阅有关路德对哲学的影响的文章。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Abbreviations for references to Luther’s works

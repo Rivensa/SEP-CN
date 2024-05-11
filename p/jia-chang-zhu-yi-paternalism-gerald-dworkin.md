@@ -263,6 +263,7 @@ Sunstein 提出了他所称的透明条件：
 
 总之，似乎清楚的是，谎言干涉了被谎言欺骗的人的选择和行动中的重要事项，并因此在表面上是错误的。但要更清楚地了解家长主义谎言削弱了什么，以及什么不会削弱，需要进一步调查，以评估此类谎言的合法性。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alexander, Larry, 2010, “Voluntary Enslavement”, *San Diego Legal Studies Paper No. 10–042*, October 19, 2010. [[Alexander 2010 available online](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1694662)]

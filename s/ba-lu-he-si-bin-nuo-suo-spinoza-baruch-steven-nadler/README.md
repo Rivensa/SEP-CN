@@ -234,6 +234,7 @@
 
 很难想象有比斯宾诺莎更激情和理性的自由和宽容辩护。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Spinoza’s Works

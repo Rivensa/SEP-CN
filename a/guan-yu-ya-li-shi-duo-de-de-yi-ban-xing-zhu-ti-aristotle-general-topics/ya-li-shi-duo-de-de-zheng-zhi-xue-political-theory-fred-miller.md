@@ -126,6 +126,7 @@
 * without qualification: *haplôs* (also ‘absolute’)
 * without authority: *akuron*
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 **Note on Citations**. Passages in Aristotle are cited as follows: title of treatise (italics), book (Roman numeral), chapter (Arabic numeral), line reference. Line references are keyed to the 1831 edition of Immanuel Bekker which had two columns (“a” and “b”) on each page. *Politics* is abbreviated as *Pol.* and *Nicomachean Ethics* as *NE*. In this article, “*Pol*. I.2.1252b27”, for example, refers to *Politics* book I, chapter 2, page 1252, column b, line 27. Most translations include the Bekker page number with column letter in the margin followed by every fifth line number.

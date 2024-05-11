@@ -738,6 +738,7 @@ Boccuni 2011 为一种允许复数量化的语言提供了一种解释，Boccuni
 11. **理论不变性**
      自然数是普遍适用的；它们享有它们的算术属性，并且在算术关系中必然地参与其中，独立于可能存在的其他事物以及这些事物的方式。因此，自然数的抽象原则应该与关于任何话语领域的一致理论相一致。它们是吗？
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Lanier, 2004, “It Adds Up After All: Kant’s Philosophy of Arithmetic in Light of the Traditional Logic”, *Philosophy and Phenomenological Research*, LXIX(3): 501–540.

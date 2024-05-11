@@ -458,6 +458,7 @@ Jouko Väänänen（2007）提出了一种称为依赖逻辑（DL）的 IF 逻�
 
 在本条目中，我们对 IF 一阶逻辑和扩展 IF 一阶逻辑进行了概述。它们的元逻辑性质已经被解释，并且讨论了这些性质的哲学相关性。还涵盖了这些逻辑对哲学问题的建议性影响，例如自我应用真谓词的存在，逻辑主义计划，公理化集合论的哲学相关性以及自然语言中的信息独立性。与 IFL 密切相关并受其启发的斜杠逻辑和依赖逻辑也被简要考虑了一下。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Auxier, R. E. and Hahn, L. E. (eds.), 2006, *The Philosophy of Jaakko Hintikka*, (Library of Living Philosophers, Volume 30), Chicago: Open Court.

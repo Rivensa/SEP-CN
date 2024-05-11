@@ -229,6 +229,7 @@ Stegenga 主张“温和医学”，这是一种保守的治疗思维方式，�
 
 Valles 提供了一种替代方案——人群健康框架，这在一定程度上与 Stegenga 的结论相吻合，即“温和医学”应该伴随着将健康促进努力重新聚焦于社会健康决定因素，包括“清洁饮用水、更好的营养和更大的社会经济平等”（Stegenga 2018: 198）。Valles 详细阐述并捍卫了人群健康框架的优点，这是一种在 20 世纪 90 年代在加拿大作为替代理论框架而发展起来的观点，后来在国际上扩展开来（Evans, Barer, & Marmor 1994; Valles 2018）。人群健康框架对医疗护理并不持虚无主义态度，而是试图在追求整体健康的过程中使医学和医疗保健不再居中；大部分健康问题和最有希望的解决方案都超出了生物医学的范畴（更安全的工作场所，终结种族主义住房歧视，人们可以安全行走、社交和娱乐的社区等）（Valles 2018）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alexandrova, Anna, 2017, *A Philosophy for the Science of Well-Being*, Oxford: Oxford University Press. doi:10.1093/oso/9780199300518.001.0001

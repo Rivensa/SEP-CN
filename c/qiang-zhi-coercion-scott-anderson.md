@@ -383,6 +383,7 @@ Thomas Nagel 也以类似的推论进行推理，并将其扩展到为排斥移�
 
 > [强制理论的应用](https://plato.stanford.edu/entries/coercion/applications.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abizadeh, Arash (2008). “Democratic Theory and Border Coercion: No Right to Unilaterally Control Your Own Borders,” *Political Theory*, 36: 37–65.

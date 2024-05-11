@@ -694,6 +694,7 @@ Colin McGinn 曾经以一种完全轻蔑的方式对待泛心灵论：
 
 这一点也具有更一般的形而上学意义。如果心灵万物论为真，则宇宙中的一切都在享受某种形式的意识。如果（正如许多人所认为的）意识本质上是时间性的，那么如果心灵万物论为真，则宇宙中的一切都将享受一种时间性的意识。在这种情况下，关于时间经验结构的竞争性描述是关于整体现实性质的竞争性描述，就像一个世纪前伯格森所建议的那样。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albertazzi, Liliana, 1994, “The *Psychological* Whole. I: The Temporal Parts of Presentation”, *Axiomathes*, 5(1): 145–175. doi:10.1007/BF02228960

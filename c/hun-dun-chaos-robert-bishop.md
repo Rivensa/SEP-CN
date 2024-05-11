@@ -490,6 +490,7 @@ Joseph Ford 提供了对应原理的不同解释：“任何两个在其有效�
 
 ## [Appendix: Global Lyapunov Exponents](https://plato.stanford.edu/entries/chaos/global-lyapunov-exponents.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aihara, K. (2008), “Chaos in Neurons”, *Scholarpedia*, 3(5): 1768 [available online](http://www.scholarpedia.org/article/Chaos\in\neurons), referenced on 31 July 2014.

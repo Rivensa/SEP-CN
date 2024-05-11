@@ -217,6 +217,7 @@ Rahel Jaeggi 提供了这种异化的解释，并明确将其置于批判理论�
 
 我的目标不是在解决这些经验和准经验问题中取得重大进展，而是承认它们的存在和范围。由于异化的概念诊断了涉及自我和他者的一系列复杂社会问题，因此在对其适当的描述、历史范围和克服可能性的各种观点中，涉及了各种问题，这或许并不令人意外。尽管如此，承认这些经验和准经验线索的存在和复杂性仍然很重要，尤其是因为它们在广泛的哲学讨论中并不总是得到充分的认可或处理，而这些讨论是本文的重点。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, “Alienation and its Correlates: A Meta-Analysis,” *European Management Journal*, 32 (1): 24–36.

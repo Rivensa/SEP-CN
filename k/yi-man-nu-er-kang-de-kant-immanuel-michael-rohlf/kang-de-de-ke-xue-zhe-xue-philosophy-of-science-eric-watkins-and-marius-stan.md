@@ -172,6 +172,7 @@ Hatfield（1990 年，第 4 章）更详细地调查了这些康德后期的发�
 
 康德关于历史的观点由约维尔（1980）和最近的克莱因格尔德（1995 和 1999）讨论。康德的地理学被阿迪克斯（1911）讨论过。布兰特（1999）、伍德（1999）和马克里尔（2001）最近发表了关于康德人类学的重要讨论。斯图姆（2009）是一本关于康德心理学和人类学哲学的综合专著。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adickes, E., 1911, *Untersuchungen zu Kants Physischer Geographie*, Tübingen: Mohr.

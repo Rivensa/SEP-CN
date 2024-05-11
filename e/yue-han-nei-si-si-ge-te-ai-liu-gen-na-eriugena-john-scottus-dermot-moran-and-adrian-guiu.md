@@ -216,6 +216,7 @@ Eriugena’s cosmological account has been criticized for collapsing the differe
 
 爱留根纳是一位独创的哲学家，以一种既保留神圣超然性又保留普遍存在性的方式阐述上帝与创造之间的关系。他关于人性的理论是理性主义和知识主义的，但也是负面的。他关于地点和时间作为心灵定义结构的理论，预示了康德，他的辩证推理预示了黑格尔。但最重要的是，爱留根纳是一位强调人性最终统一以及通过它与整个创造与上帝统一的神秘主义者。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 The Theory and History of Ontology website provides an almost exhaustive bibliography in two parts:

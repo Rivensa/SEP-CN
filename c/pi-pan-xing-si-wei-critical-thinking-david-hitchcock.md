@@ -266,6 +266,7 @@ Alston（2001）报告说，她在一门妇女研究课上的学生能够看到�
 
 就创造性思维而言，它与批判性思维有重叠（Bailin 1987, 1988）。像在渡轮中思考某种现象或事件的解释一样，需要创造性想象力来构建合理的解释假设。同样，像在候选人中思考政策问题一样，需要创造性地提出选项。相反，任何领域的创造力都需要通过对草图绘画、小说或数学理论的批判性评估来平衡。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abrami, Philip C., Robert M. Bernard, Eugene Borokhovski, David I. Waddington, C. Anne Wade, and Tonje Person, 2015, “Strategies for Teaching Students to Think Critically: A Meta-analysis”, *Review of Educational Research*, 85(2): 275–314. doi:10.3102/0034654314551063

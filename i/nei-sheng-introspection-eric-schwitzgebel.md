@@ -341,6 +341,7 @@ Ericsson和Simon（1984/1993; Ericsson 2003）讨论和回顾了参与者在各�
 
 Irvine（2013，即将出版）认为，这一领域的方法论问题非常严重，以至于“意识”这个术语应该从科学讨论中被排除，因为无法有效地操作或测量。Feest（2014）和Timmermans和Cleeremans（2015）同样强调了在意识科学中使用内省报告所面临的重大方法论挑战，尽管没有像Irvine那样悲观。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alston, William P., 1971, “Varieties of privileged access”, *American Philosophical Quarterly*, 8: 223–241.

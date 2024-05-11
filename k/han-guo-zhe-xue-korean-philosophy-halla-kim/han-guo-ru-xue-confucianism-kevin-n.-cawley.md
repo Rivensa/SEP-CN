@@ -257,6 +257,7 @@ Tasan, 类似于利玛窦，将他的思想从这些被广泛接受的新儒家�
 
 儒学目前正处于十一世纪与其他传统相互交融的十字路口，它既与其他传统相互嵌入，又在其中渗透（Min 2016）。从某种意义上说，我们可以寻求恢复韩亨祚（Han Hyoung-jo）（2016）所描述的儒学伊学的失落艺术，这是一种修养心灵的方式，通过重新参与其中，我们可能更接近几个世纪以来对儒学的理解，并更接近其目标，这个目标不是民主，而是更高尚的圣人之道。韩（2016）认为，这有可能治愈我们“自我遗忘和以自我为中心”的文化缺陷和缺点，帮助我们重新发现我们与生俱来的人道共存的潜力，无论我们的政治或宗教观点如何。韩国儒学及其对圣人学习的强调，并非过时，而是一种可能重新连接我们与自己和他人的不可知道德行，尤其是在所有现代“发达”民主国家心理困扰日益增加的时代。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 See the supplementary document [(Figures and their Works)](https://plato.stanford.edu/entries/korean-confucianism/supplement.html) for a list of figures and works discussed in the entry.

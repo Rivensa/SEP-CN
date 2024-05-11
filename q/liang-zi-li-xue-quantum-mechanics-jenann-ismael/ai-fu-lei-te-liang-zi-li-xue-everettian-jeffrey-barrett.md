@@ -365,6 +365,7 @@ Assuming that she perfectly correlates her record with the x-spin of S in a way 
 
 纯波动力学的相对态表述存在一些经验问题，因为它既不能提供关于某个时间或未来记录的概率预测，也不能提供期望值。现在有一些纯波动力学的重建方法，通过添加辅助假设来提供更丰富的确定记录和量子概率的解释。方法论目标是在满足解释需求的前提下尽量少地添加内容，以得到一个令人满意的经验理论。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albert, D. Z. 1992, *Quantum Mechanics and Experience*, Cambridge, MA: Harvard University Press.

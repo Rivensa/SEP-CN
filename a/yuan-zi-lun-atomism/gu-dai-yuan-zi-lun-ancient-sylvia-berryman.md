@@ -190,6 +190,7 @@ Milton (2002)提供了一个有益的视角，解释了为什么古希腊的原�
 
 乔纳登·加内里（2011 年）认为，印度的早期现代时期是一个与欧洲相媲美的创新时期，尽管印度的知识界不像欧洲的"新科学"那样关注将自己呈现为与过去的彻底断裂。法国原子论者皮埃尔·加桑迪的门徒弗朗索瓦·贝尔尼耶于 1656 年前往印度，并在受过古代印度哲学经典时期原子论训练的梵文学者中找到了一个愿意接受的听众（加内里，2011 年）。早期现代印度原子论者贾亚拉玛在胜论派传统中工作，他提出了一个原子论理论，加内里认为这个理论更接近于丹尼尔·塞纳特的理论，而不是加桑迪的理论（加内里，2011 年，第 218 页）。在这个原子论的形而上学中，对于承认新兴属性的现实性做出了实质性的让步。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 For works on atomism in the Indian philosophical traditions, on Leucippus, Democritus, Epicurus, Lucretius, al-Rāzī, Islamic and Renaissance atomism, see primarily the relevant articles in this encyclopedia. This bibliography focuses on sources for alternative varieties of atomism, as well as sources that connect and compare different periods and traditions.

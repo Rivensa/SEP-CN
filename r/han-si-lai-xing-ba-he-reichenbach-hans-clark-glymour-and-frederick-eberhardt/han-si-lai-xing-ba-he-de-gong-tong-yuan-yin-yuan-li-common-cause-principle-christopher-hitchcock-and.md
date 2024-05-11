@@ -340,6 +340,7 @@ X→Y←Z
 
 在量子理论的背景下讨论 RCCP 的文献包括 Butterfield（1989，2007）；Chang 和 Cartwright（1992）；Kowalski 和 Placek（1999）；Penrose 和 Percival（1962）；Placek（2000a，b）；van Fraassen（1982a，1991）；Wüthrich（2004）；以及 Wiseman 和 Cavalcanti（2017）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Araki, Huzihiro, 1993 [1999], *Ryoshiba no Suri*, Toykyo: Iwanami Shoten. Translated as *Mathematical Theory of Quantum Fields*, Ursula Carow-Watamura (trans.), (International Series of Monograps in Physics 101), Oxford: Oxford University Pressm 1999.

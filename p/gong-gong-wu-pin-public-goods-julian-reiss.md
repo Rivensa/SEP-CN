@@ -247,6 +247,7 @@ Anderson 在她的书中讨论的例子，如道路、公园、初中和高中�
 
 在类似的观点中，Angela Kallhoff 认为，一些(但不是全部)公共物品提供了民主运作所必需的额外外部性(Kallhoff 2011, 2014)。一些公共物品构成了公民之间团结和社会公正的可见表达("中心物品")，一些支持连接性并作为共同利益的表征("连接物品")，一些作为共同公民意识的可见表达("认同物品")。缺乏这些物品将削弱公民参与公共讨论和发展自主意识的能力。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Elizabeth, 1993, *Value in Ethics and Economics*, Cambridge, MA: Harvard University Press.

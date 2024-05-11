@@ -274,6 +274,7 @@ Tang（2016）反对校准方法，理由是即使一个信念形成过程对相
 
 因此，有许多不同的方法来发展可靠主义和证据主义的混合体。这种混合体在克服可靠主义和证据主义所面临的一些问题方面具有相当大的潜力。鉴于这一潜力，这种混合体是一个潜在的有益的进一步研究领域。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alston, William P., 1980, “Level-Confusions in Epistemology”, *Midwest Studies in Philosophy*, 5: 135–150. doi:10.1111/j.1475-4975.1980.tb00401.x

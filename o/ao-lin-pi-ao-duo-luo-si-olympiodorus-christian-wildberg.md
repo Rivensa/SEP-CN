@@ -78,6 +78,7 @@
 
 《关于“活动”》一书是佐西莫斯的作品；赫尔墨斯和哲学家们所说的一切都应被视为伪作。有关版本请参见：Bertholet, M.和 Ruelle, C.-M.（1888）《古希腊炼金术士文集》，第三卷，巴黎：斯坦海尔，第 69-104 页。法文翻译见第二卷，第 75-113 页。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Beutler, R., 1949. “Olympiodorus”. In A.F.v. Pauly, and G. Wissowa (eds.), *Real-Encyclopaedie der Klassischen Altertumswissenschaft* 13, 18. 2, col. 207–228.

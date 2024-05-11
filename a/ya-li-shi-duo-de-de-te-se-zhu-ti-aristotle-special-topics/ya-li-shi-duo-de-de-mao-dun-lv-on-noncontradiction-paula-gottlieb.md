@@ -152,6 +152,7 @@
 
 这两种解释都存在困难。亚里士多德首先说，没有证明假设矛盾律，除非它得出结论 x 是 F 且不是非 F。根据第一种解释，亚里士多德关于主要术语和中间术语的解释是不必要的。然而，根据第二种解释，亚里士多德的主要观点与他关于矛盾律的评论之间的关系是晦涩的。这个文本需要进一步阐明。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Selected Primary Texts, Translations and Commentaries

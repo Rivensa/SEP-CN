@@ -110,6 +110,7 @@ Supplementary documents are available for the philosophers:
 * [Hutcheson](https://plato.stanford.edu/entries/emotions-17th18th/LD7Hutcheson.html)
 * [Hume](https://plato.stanford.edu/entries/emotions-17th18th/LD8Hume.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Works Cited

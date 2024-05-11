@@ -454,6 +454,7 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 
 在某些无意识的发生状态下，派生内容策略也是一个选择。Bourget（2010 年）通过主张这一策略来支持这一观点，他认为，据称支持无意识的发生意向状态的低层系统在被从它们所属的有机体中取出时，似乎并不具有意向性。Kriegel 的解释主义（2011a，b）也适用于无意识的发生状态（见第 6.2 节）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Barsalou, L.W., 1999, “Perceptual symbol systems”, *Behavioral and Brain Sciences*, 22(4): 577–660.

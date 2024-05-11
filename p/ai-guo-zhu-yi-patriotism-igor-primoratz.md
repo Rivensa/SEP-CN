@@ -175,6 +175,7 @@ Mason 继续声称：
 
 这种新的、强调政治的爱国主义版本既受到同情，也受到怀疑。那些对此持同情态度的人一直在讨论欧洲宪政爱国主义的前景（参见穆勒 2007 年，93-139 页）。怀疑者认为，与所有的前政治依恋和身份脱节的爱国主义只能产生一种过于薄弱的身份认同感和过于薄弱的政治参与动机-因此，“爱国主义是不够的”（卡诺万 2000 年）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Acton, Lord, 1972, “Nationality,” *Essays on Freedom and Power*, Gloucester: Peter Smith, 141–70.

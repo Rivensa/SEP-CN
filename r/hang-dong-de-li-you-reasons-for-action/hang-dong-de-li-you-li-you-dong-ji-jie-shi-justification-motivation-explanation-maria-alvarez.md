@@ -154,6 +154,7 @@ Dancy（2000：106ff.）考虑了一个可能的回应：行动出于一个好�
 
 上述是关于实践理由及其广泛意义的一系列问题的概述。它应足以显示这些问题及其许多影响如何渗透到我们生活的许多方面，并对我们理解自己作为理性能动者产生重要影响。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alvarez, M., 2007, “The Causalism / Anti-Causalism Debate in the Theory of Action: What it is and why it matters”, in *Action in Context*, A. Leist (ed.), Berlin/NY: De Gruyter, 103–123.

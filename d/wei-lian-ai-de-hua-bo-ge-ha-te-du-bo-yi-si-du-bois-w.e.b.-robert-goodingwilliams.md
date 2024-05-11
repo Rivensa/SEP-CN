@@ -325,6 +325,7 @@ Appiah 对杜波依斯的阅读的其他批评者不像 Outlaw 那样倾向于�
 
 对于上述提到的所有解释性观点都产生了真正的洞察和启示是错误的，但比没有更多，这一事实主要证明了杜波依斯哲学思想的广度、深度和多产性。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Books by Du Bois

@@ -236,6 +236,7 @@ Belot（2018）反对单一决策明确支持或反对 Leibniz 等价性。虽�
 
 空穴论证在物理哲学领域中对规范变换的重要性的认识日益增长。规范变换是指对我们物理理论中某些自由度的变换，这些变换被认为在物理现实中没有对应物。空穴论证的分析为物理哲学家提供了一个方便的模板，用于判断某个东西是否是规范自由。正如在引言中提到的，我们从空穴论证中得知，通过任何先验的或纯数学的规则（至少在假设上述对空穴论证的数学/形式主义回应不成功的情况下）都无法实现对多余数学结构的确定。相反，需要一些物理基础。空穴论证提供了两个可用的基础：（i）可验证性——候选多余结构的变化对观察中可以验证的内容没有影响；（ii）确定性——理论的定律无法确定候选多余结构。有关空穴论证和规范自由的更详细讨论，请参阅补充材料《空穴论证作为分析规范自由的模板》。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Bain, Jonathan, 1998, *Representations of Spacetime: Formalism and Ontological Commitment*, Ph.D. Dissertation, Department of History and Philosophy of Science, University of Pittsburgh.

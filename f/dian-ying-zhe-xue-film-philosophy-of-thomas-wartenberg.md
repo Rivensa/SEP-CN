@@ -156,6 +156,7 @@
 
 随着电影及其相关数字媒体在人类生活中的影响不断扩大，电影哲学作为哲学研究的一个重要领域将变得更加重要。在未来的几年里，我们可以期待对这个令人兴奋的研究领域的新的创新性贡献。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen, Richard, and Murray Smith (eds.), 1997. *Film Theory and Philosophy*, Oxford: Clarendon Press.

@@ -735,6 +735,7 @@ Lane 的下面的结论将受到许多皮尔士学者的欢迎：
 
 如果我们字面上接受皮尔斯的建议，他的三元逻辑并不是一种典型的非标准逻辑形式，而是皮尔斯扩展逻辑领域的另一种方式，与他的关系逻辑一起。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### A. Primary Sources: Works by C. S. Peirce cited in this entry

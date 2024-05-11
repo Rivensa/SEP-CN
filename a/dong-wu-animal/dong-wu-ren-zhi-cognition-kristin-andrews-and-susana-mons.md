@@ -255,6 +255,7 @@ Dennett 解释格赖斯的结论是只有那些能够持有第三阶信念（例
 
 动物心灵哲学是哲学的一个丰富且不断发展的领域。哲学家们通过与动物认知科学接触，分析科学本身的方法、假设和价值观。哲学家们还利用研究结果支持传统的形而上学、认识论、心灵哲学、语言和行动以及价值理论中的理论。最后，对动物认知的关注还可以凸显与文化、学习和教育性质相关的以前被忽视的哲学问题，并为考虑人类本性和我们在所有其他动物中的地位提供了新的视角。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen, Colin, 2013, “The Geometry of Partial Understanding”, *American Philosophical Quarterly*, 50(3): 249–262.

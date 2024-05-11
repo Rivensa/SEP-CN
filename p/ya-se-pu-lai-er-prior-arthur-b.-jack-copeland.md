@@ -407,6 +407,7 @@ Mike Dunn 和 Nuel Belnap 在 1975 年至 1976 年期间访问了惠灵顿小组
 
 到那时，新西兰逻辑学的创始人曾经对加利福尼亚所付出的赞美也适用于他自己的国家。新西兰已经成为世界上研究模态和时态最成熟的地方之一。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Works by Prior

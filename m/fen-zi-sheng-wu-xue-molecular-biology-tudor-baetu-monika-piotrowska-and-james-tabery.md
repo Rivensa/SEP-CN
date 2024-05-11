@@ -194,6 +194,7 @@ Tudor Baetu（2019）尝试使用炎症反应机制作为案例研究，对分�
 
 分子生物学的历史概述揭示了遗传学家、物理学家和结构化学家在一个共同问题上的最初汇聚：遗传的本质。每个学科领域的概念和方法论框架在最终确定 DNA 的双螺旋结构（被构想为一种信息分子）以及基因复制、突变和表达的机制方面达成了统一。有了这个最近的历史，分子生物学的哲学家们审视了该领域的关键概念：机制、信息和基因。此外，分子生物学为解决科学哲学中更一般的问题提供了案例，如还原、解释、推断和实验。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abir-Am, Pnina, 1985, “Themes, Genres and Orders of Legitimation in the Consolidation of New Scientific Disciplines: Deconstructing the Historiography of Molecular Biology”, *History of Science*, 23: 74–117.

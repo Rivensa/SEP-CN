@@ -142,6 +142,7 @@
 
 亚里士多德在动物行为的因果论中对欲望及其与实践理性的关系表现出一些犹豫。因此，有人认为他的处理方法最多可以被视为初步的，或者更糟糕的是，被视为混乱不清。然而，似乎没有任何理由对此进行如此严厉的评估。同样可能的是，亚里士多德只是对行动哲学中纠缠问题的复杂性敏感。与一些后来的休谟派不同，他显然意识到这一领域的数据和现象是不稳定的，在分类理论的接近下摇摆并后退。行动的先决条件，他正确地得出结论，涉及某种欲望的能力；但他不愿得出结论，认为欲望是解释目的行为的唯一或足够的能力。他得出结论，实践理性和想象力也有不可或缺的作用。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 All of the translations of quotations from Aristotle's work, in this main part of the entry and in the supplements, are by the author.

@@ -358,6 +358,7 @@ Sosa 将知识与恰当的信念等同起来，因此可以理解为[33]。在�
 
 像实用主义侵蚀一样，环境主义也备受争议。批评者认为，它假设了普通说话者中存在一种不可信的语义错误，他们不承认所谓的语境敏感性-参见 Schiffer 1996 和 Greenough＆Kindermann 即将出版-并且与涉及知识的合理理论原则相矛盾-参见 Hawthorne 2003，Williamson 2005 和 Worsnip 即将出版。此外，一些用于削弱实用主义侵蚀动机数据的论证也被认为削弱了环境主义的案例；再次参见 Rysiew 2001 和 Brown 2006。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Almeder, Robert, 1999, *Harmless Naturalism. The Limits of Science and the Nature of Philosophy*, Chicago and La Salle: Open Court.

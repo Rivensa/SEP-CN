@@ -111,6 +111,7 @@ Aëtius 的一栏文本现已出版（Mansfeld and Runia 2020），取代了 Die
 
 为了更好地理解古代失落哲学著作的可用证据的价值，因此应该尝试全面理解涉及的传统和传承。应该考虑现有概述的理由，并尝试发现使用学述的作者的意图。对可用的哲学片段集合的天真使用，暗示将大部分仍然存在的证据的可靠性放在同一水平上，并不总是产生良好的结果。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Algra, K. A., 1997, ‘Chrysippus, Carneades, Cicero. The ethical *divisiones* in Cicero’s *Lucullus*’, in B. Inwood & J. Mansfeld (eds.), *Assent & Argument. Studies in Cicero’s Academic Books* (Philosophia Antiqua: Volume 76), Leiden: E.J. Brill, 112–113.

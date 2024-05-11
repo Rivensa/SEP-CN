@@ -456,6 +456,7 @@ Aharonov＆Vaidman（1991）的三盒悖论与 Bell-Kochen-Specker 类似，只�
 
 放弃唯一性无疑是一个激进的提议，在科学史上可与我们的智慧祖先所采取的激进步骤相媲美，当时他们用现代概念替代了几个世纪以来的不可动地球观念，转而接受了一个围绕太阳运动的旋转星球的概念。在进行这一转变时，重要的是要发展对早期观念为何如此成功的理解；例如，为什么人们不觉得地球在运动。类比地，根据第6节的讨论，从量子的角度来看，日常经验中的宏观世界可以用一个单一的准经典框架来理解，对于所有或几乎所有实际目的而言都是如此。在这个框架内，唯一性原则成立，因此可以理解为什么在量子革命之前它是相当令人满意的，并且在不需要考虑特定量子效应的科学领域仍然如此。请参阅进一步阅读补充材料以获取更详细的讨论。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, S. L., 2003, “Why decoherence has not solved the measurement problem: a response to P. W. Anderson”, *Studies in History and Philosophy of Modern Physics*, 34: 135–142.

@@ -192,6 +192,7 @@ Pereboom 确定的另一个物质本质候选者是由约翰·洛克（1690 年�
 
 无论查尔默斯是否正确，许多心灵哲学家认为罗素一元论值得认真关注。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Robert Merrihew, 1994, *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press. doi:10.1093/0195126491.001.0001

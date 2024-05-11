@@ -527,6 +527,7 @@ Jarvstad 等人（2013 年）通过设计以下任务探讨了感知-认知差�
 
 因此，一旦控制了方法论上的差异，感知-认知差距似乎是对任务应用了两种不同规范标准的产物。如果将应用于评估感知-运动任务的标准应用于经典认知决策任务，那么两者似乎表现良好。如果相反，将用于评估经典认知任务的标准应用于感知-运动任务，那么两者都将表现不佳。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alexander, Jason McKenzie, 2007, *The Structural Evolution of Morality*, New York: Cambridge University Press. doi:10.1017/CBO9780511550997

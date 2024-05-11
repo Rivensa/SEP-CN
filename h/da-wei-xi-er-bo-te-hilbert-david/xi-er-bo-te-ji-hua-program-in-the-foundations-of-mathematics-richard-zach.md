@@ -130,6 +130,7 @@ Detlefsen（1986，附录；另见 1990）也为希尔伯特计划辩护。Detle
 
 由Friedman和Simpson等人开发的所谓逆向数学计划，是希尔伯特计划的另一个延续。面对哥德尔的结果表明并非所有经典数学都可以归结为有限性，他们试图回答一个问题：经典数学中有多少可以这样归结？逆向数学试图通过研究哪些经典数学定理可以在可归结为有限性数学的弱分析子系统中被证明来精确回答这个问题（在前一段讨论的意义上）。一个典型的结果是，泛函分析的Hahn-Banach定理可以在一个名为WKL0（“弱König引理”）的理论中被证明；WKL0对于Π02句子（即形如∀x∃yA(x,y)的句子）是保守的（有关概述，请参见Simpson 1988，有关技术处理，请参见Simpson 1999）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 An extended version of the first revision of this entry can be found in [Zach (2006)](https://plato.stanford.edu/entries/hilbert-program/#Zach:06).

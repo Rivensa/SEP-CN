@@ -313,6 +313,7 @@ Bielskis 2020; Broadie 2006; Chappell (ed.) 2006; Garver 2006; Gill (ed.) 2005; 
 
 Lockwood 2005.
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

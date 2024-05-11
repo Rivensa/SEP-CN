@@ -142,6 +142,7 @@ McFee（2011a，2013b 和 2018）否认关于肌肉感应反应的因果解释�
 
 写有关电影中的舞蹈（或关于电影或电影舞蹈）的舞蹈哲学家包括 Brannigan 2014；Carroll 2001；McFee 2018；以及 Salzer 和 Baer 2015。Hetty Blades（2015a 和 2015b）写过关于舞蹈、虚拟技术和配乐的文章，她的工作还涉及其他形式的舞蹈技术。关于舞蹈、伦理和技术的文章，请参阅 Mullis 2015。此外，还请参阅即将出版的由 Rebecca Farinas 和 Julie Van Camp 编辑，Craig Hanks 和 Aili Bresnahan 协助的《Bloomsbury 舞蹈与哲学手册》中关于舞蹈、电影和技术的部分，其中包括许多条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albright, Ann Cooper, 2011, “Situated Dancing: Notes from Three Decades in Contact with Phenomenology”, *Dance Research Journal*, 43(2): 5–18. doi:10.1017/S0149767711000027

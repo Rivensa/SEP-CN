@@ -250,6 +250,7 @@ Geach 广泛使用的一个概念，也是他的对手常用的一个概念，�
 
 大多数人似乎接受了刘易斯的观点（参见，例如，Akiba 2000，Hawthorne 2003，Noonan 2007，Noonan 和 Curtis 2018），但也有一些人持不同意见（Gallois 2005，Shumener 2020，Azzano 和 Carrara 2021）。如何以及为什么我们使用同一性的概念是维特根斯坦的一个核心关注点（参见 Fogelin 1983 的概述），并且最近也引起了其他人的关注（Burgess 2018）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Akiba, K., 2000. “Identity is Simple”, *American Philosophical Quarterly*, 37(4): 389–404.

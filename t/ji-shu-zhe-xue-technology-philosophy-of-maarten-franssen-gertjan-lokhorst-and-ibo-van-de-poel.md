@@ -264,6 +264,7 @@ Hansson 的提议在风险评估中引入了一些传统上未被关注或仅被
 
 一些作者批评了技术伦理学中对风险的关注。批评的一个方面认为，在新技术投入使用之前，我们经常缺乏可靠评估风险的知识。我们通常不知道某事可能出错的概率，有时甚至不知道可能出错的具体内容和可能的负面后果。为了解决这个问题，一些作者提出将新技术在社会中引入视为一种社会实验，并敦促思考这种实验在何种条件下是道德可接受的（Martin & Schinzinger 2022; van de Poel 2016）。另一方面的批评认为，对风险的关注导致了对技术影响的减少（Swierstra & te Molder 2012）。只有与安全和健康相关的影响被考虑为风险，而“软性”影响，例如社会或心理方面的影响被忽视，从而贫乏了对新技术的道德评价。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Rachel, 2021, “Can artificial intelligence be decolonized?”, *Interdisciplinary Science Reviews*, 46(1–2): 176–197. doi: 10.1080/03080188.2020.1840225.

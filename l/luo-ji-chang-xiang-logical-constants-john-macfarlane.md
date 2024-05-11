@@ -387,6 +387,7 @@ Hacking 1979 和 Peacocke 1987 是上述两种推理特征化方法的良好代�
 
 有关划定逻辑常项整个项目的批评，请参阅Coffa 1975、Etchemendy（1983；1990，第9章）和Read 1994。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Barwise, J. and S. Feferman (eds.), 1985. *Model-Theoretic Logics*, New York: Springer-Verlag.

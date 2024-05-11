@@ -387,6 +387,7 @@ Thagard引起了人们对统计证据的关注，这些证据表明溃疡与幽�
 
 新的机械哲学，更一般地说，对“机制”这一框架概念的关注，在过去的二十年中迅速扩展，带来了对科学哲学中一系列问题的新取向。然而，很明显，许多重要主题才刚刚开始发展，还有很多工作要由学者们来详细阐述这一框架的基本承诺，并考虑在该框架之外进行科学研究意味着什么。不久的将来，人们很可能会继续讨论这一框架对科学和科学实践思考的影响和限制。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aizawa, K. and C. Gillett, 2011, “The Autonomy of Psychology in the Age of Neuroscience”, in *Causality in the Sciences*, in Illari et al. 2011: 202–23.

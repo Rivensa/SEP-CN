@@ -407,6 +407,7 @@ Hal Roth 强调这种思路，并将其与早期法家文本《管子》中两�
 
 其他文本理论涉及到作者身份、日期和与两部经典道家文本以及上述后来的“宗教”文本的关系。基本上，他们大量借鉴了这两部经典文本，经常改变了上下文，并未理解其中的哲学观点。他们使用的引文嵌入在流行的宇宙观和宗教背景中。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * [Daoism in Histories of Philosophy](https://plato.stanford.edu/entries/daoism/#Histories)

@@ -122,6 +122,7 @@ Olson指出，诸如高速公路和公共安全等许多政府提供的商品，
 
 这里的概括论证是构成谬误的一种变体，从逻辑上讲是站不住脚的。然而，在集体行动的背景下，许多人声称这样的论证，他们很可能是被这个论证的明显道德权威所激励。这里的另一个问题可能是：“如果每个人都没有考虑到自己的选票对选举的影响会怎样？”答案是大约一半的美国人可能会忽视自己的选票对选举的影响，然后投票。其余的人则搭便车。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Andreoni, James, 1988, ‘Why Free Ride?: Strategies and Learning in Public Goods Experiments’, *Journal of Public Economics*, 37 (3): 291–304.

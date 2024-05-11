@@ -200,6 +200,7 @@ which contains sections on Descartes and Analytic Geometry, British Empiricism, 
 
 哲学的历史揭示了分析概念的丰富来源。它们的起源可能可以追溯到古希腊几何学，从这个意义上说，分析方法论的历史可以看作是对欧几里得的一系列注释。但是，分析在源自柏拉图和亚里士多德的两个传统中以不同但相关的方式发展，前者基于对定义的追求，后者基于回归到第一原因的思想。这两个传统所代表的两极在早期现代时期之前一直定义了方法论空间，并在某种程度上仍然反映在今天。17 世纪创立的分析几何引入了一种更为简化的分析形式，在 20 世纪初弗雷格和罗素的逻辑工作中引入了一种类似甚至更强大的形式。尽管概念分析从莱布尼茨和康德时代开始就被理解为分解的方式，并通过摩尔的工作进行了中介，常常被视为分析哲学的特征，但逻辑分析，即涉及到将其转化为逻辑系统的翻译，是开创了分析传统的。分析也经常被视为还原主义，但连接形式的分析同样重要。历史上有影响的连接分析似乎特别适用于理解分析本身。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 What follows here is a selection of thirty classic and recent works published over the last half-century that together cover the range of different conceptions of analysis in the history of philosophy. A fuller bibliography, which includes all references cited, is provided as a set of supplementary documents, divided to correspond to the sections of this entry:

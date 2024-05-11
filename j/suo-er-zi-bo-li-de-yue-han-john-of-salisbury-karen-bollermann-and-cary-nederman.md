@@ -264,6 +264,7 @@ Occupying the pinnacle of this throng, in John’s estimation, is his former tea
 
 通过约翰后期的作品追溯他思想的哲学渊源，可以看出他智力观点的基本统一性。他并没有在他的理论和实践工作之间进行根本性的区分。相反，他似乎热情地将哲学原理融入到他的日常生活以及对当代事件和人物的分析中。约翰认为哲学不应该仅仅停留在学校门口，因为它应该在整个世界中占据重要地位。哲学辩论的任务是帮助辨别善恶、真伪，从而通过航行公共生活的曲折道路来照亮通往幸福的道路。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

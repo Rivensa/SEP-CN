@@ -130,6 +130,7 @@
 
 深度理性理论不要求知识或完美。但它要求理性，并容纳智慧的程度。这是一个有前途的智慧理论。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aristotle, *Nichomachean Ethics*, in *The Basic Works of Aristotle*, Richard McKeon, New York: Random House, 1941, pp. 935–1112.

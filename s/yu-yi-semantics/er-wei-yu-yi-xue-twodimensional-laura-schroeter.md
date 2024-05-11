@@ -427,6 +427,7 @@ Stalnaker 对这个问题的回应是建议扩展信念报告的语境集，以�
 
 > *[对元语义解释的反对意见](https://plato.stanford.edu/entries/two-dimensional-semantics/objections-meta.html)*
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Åqvist, L., 1973, “Modal Logic with Subjunctive Conditionals and Dispositional Predicates”, *Journal of Philosophical Logic*, 1: 1–76.

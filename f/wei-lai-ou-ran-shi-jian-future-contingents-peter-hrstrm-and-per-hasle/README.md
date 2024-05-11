@@ -586,6 +586,7 @@ backn(nextnt(t))=t
 
 正如我们所看到的，关于未来偶然事件存在着持续的哲学辩论。图表中所代表的问题仍然是焦点，但也讨论了其他问题。一个引起了很多关注的问题是将未来偶然事件与分支时空以及物理学中的各种想法联系起来进行研究。在这方面，Belnap (1992, 2003, 2005), Müller (2007, Müller et al. 2008), 和 Placek (2000)都做出了重要贡献。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aristotle, *Aristotle in twenty-three volumes*, The Loeb Classical Library, London: Heinemann, Harvard University Press, 1963.

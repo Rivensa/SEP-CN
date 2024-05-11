@@ -354,6 +354,7 @@ aitia（“原因”或更好地说是“解释”），亚里士多德告诉我
 * universal: *katholou* (both of propositions and of individuals)
 * wisdom: *sophia*
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ackrill, J. L., 1963, *Aristotle: Categories and De Interpretatione*, Oxford: Clarendon Press.

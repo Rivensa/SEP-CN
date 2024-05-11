@@ -238,6 +238,7 @@
 
 文化财产文献的一些核心方面源自有关战争中文化遗产保护的讨论和政策，如海牙公约和利伯法典（Merryman 1986）。但是，关于战争中文化遗产保护伦理的更深层问题，比如为了保护文化遗产而造成或允许伤亡的可容忍性，或者人道主义干预保护文化遗产的义务（或可容忍性）迄今只受到少量哲学关注（Thompson 2010；Matthes 2018）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abizadeh, Arash, 2004, “Historical Truth, National Myths and Liberal Democracy: On the Coherence of Liberal Nationalism”, *The Journal of Political Philosophy*, 12(3): 291–313. doi:10.1111/j.1467-9760.2004.00201.x

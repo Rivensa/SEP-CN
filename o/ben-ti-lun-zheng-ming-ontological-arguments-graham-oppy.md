@@ -364,6 +364,7 @@ Szatkowski（2012）是一本关于本体论证的最新论文集。该论文集
 
 女性对本体论证的相对近期研究包括：Anscombe（1993 年），Antognazza（2018 年），Crocker（1972 年），Diamond（1977 年），Ferreira（1983 年），Garcia（2008 年），\[Haight 和] Haight（1970 年），\[Matthews 和] Baker（2011 年），Wilson（1978 年）和 Zagzebski（1984 年）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Texts

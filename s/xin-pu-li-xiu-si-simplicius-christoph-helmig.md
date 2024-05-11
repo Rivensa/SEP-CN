@@ -188,6 +188,7 @@ Baltussen 在他关于辛普利修斯的专著中引用了这个有意义的引�
 
 虽然在这里可以对辛普利修斯的遗产进行更多的讨论，但以下内容足以说明问题。如介绍中所提到的，他对《物理学评论》的评论是迪尔斯（Diels）对希腊学派学者（Doxographi graeci）和前苏格拉底哲学家（Fragmente der Vorsokratiker）基础研究的依据。亦可从辛普利修斯的著作中找到亚历山大·阿弗罗迪西亚斯（Alexander of Aphrodisias）的作品的大量失传评论（M. Rashed 2011），以及像波伊托斯（Boethos）等较为不知名的人物（Chiaradonna＆Rashed 即将出版）。与赫尔曼·迪尔斯（Hermann Diels）等人相比，我们现在对辛普利修斯如何处理他的来源以及他如何描绘希腊哲学的历史发展有了更好的理解。最近的几项研究还提供了辛普利修斯自己哲学议程的更清晰的轮廓。然而，他的评论中仍有相当部分尚未被深入研究，现在似乎是当代学者重新发现这位新柏拉图主义者作为与亚里士多德共同努力来理解的晚期古代同事的良机。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### List of abbreviations

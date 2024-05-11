@@ -108,6 +108,7 @@ Mattens（2017）认为哲学家在触觉研究中通常过于关注外部物体
 
 此外，Korsmeyer（2019 年，2020 年）最近探索了触觉的独特审美属性。特别是她探索了通过触觉介导的直接接触物体的方式，如何为物体赋予一种通过其他任何形式无法获得的真实感和价值。这与鼓励而不是禁止直接接触和探索的有形艺术装置的最新趋势相吻合。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Akins, K., 1996, “Of sensory systems and the ‘aboutness’ of mental states”, *The Journal of Philosophy*, 93(7): 337–372.

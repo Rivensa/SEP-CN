@@ -441,6 +441,7 @@ Gaptooth 对知道的不同概念的关注是庄子与惠施之间关于鱼乐�
 
 > 我的生命是有限的，而知识是无限的。用有限的追求无限是危险的。（庄子 3:1）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

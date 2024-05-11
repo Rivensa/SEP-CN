@@ -272,6 +272,7 @@ MacIntyre、Hursthouse和Nussbaum（Nussbaum 2006: 159f.）都致力于将人类
 
 这样的说法以令人钦佩的清晰度表明，“人性”的理论与形而上学的自然主义之间没有必然联系。它还强调了本文始终强调的事实，即对“人性”的讨论需要认真的概念性工作和对使用任何一个概念而不是另一个概念的明确证明。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aristotle, *Topics*, in *The Complete Works of Aristotle*, J. Barnes (ed.), Princeton, NJ: Princeton University Press, 1984, Vol. 1, 167–277.

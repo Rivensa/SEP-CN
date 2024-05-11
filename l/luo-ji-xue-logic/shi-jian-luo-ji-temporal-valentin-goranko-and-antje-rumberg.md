@@ -785,6 +785,7 @@ LTL 的一个变体，对于指定和推理并发系统具有有用的应用是 
 
 有关时间逻辑的进一步参考，请参见 Venema（2001）和 Müller（2011）中的概述，以及 Rescher 和 Urquhart（1971）中的详细参考书目；Øhrstrøm 和 Hasle（1995）；Gabbay 等（1994）；Fisher 等（2005）；Baier 和 Katoen（2008）；以及 Demri 等（2016）中的详细参考书目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen, J.F., 1983, “Maintaining Knowledge about Temporal Intervals”, *Communications of the ACM*, 26(11): 832–843.

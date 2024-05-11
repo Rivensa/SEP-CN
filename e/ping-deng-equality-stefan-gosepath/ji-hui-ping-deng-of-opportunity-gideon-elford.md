@@ -208,6 +208,7 @@ LE 观点下对合理化的不平等有不同的方法。有时人们将 LE 理�
 
 机会平等这个术语实际上用来指代几个不同的概念，它们在某种程度上通过允许基于某些因素对商品或职位进行差异化访问并谴责与其他因素相关的访问，从而在主题上实现统一。这种统一基础的薄弱有助于阐明明显广泛的（尽管并非普遍）对机会平等价值的一致看法。它还揭示了这种一致看法在本质上是虚幻的程度，以及关于个体应该在哪些方面彼此平等的尊重方面，机会平等的价值往往可以掩盖潜在的实质性分歧。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alexander, Larry, 1992, “What Makes Wrongful Discrimination Wrong Biases, Preferences, Stereotypes, and Proxies”, *University of Pennsylvania Law Review*, 141(1): 149–220.

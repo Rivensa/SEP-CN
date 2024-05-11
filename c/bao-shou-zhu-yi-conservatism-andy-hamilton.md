@@ -572,6 +572,7 @@ Cohen 在解释我们对保守特定事物的欲望时，回应了伯克
 
 建筑和美学领域的辩论与政治领域的辩论相呼应。在科恩（Cohen）的意义上，文化或艺术上的保守主义是否保留了过去的一切，还是只保留了好的部分？对于非相对主义的保守主义者，我认为这是更深刻的保守主义形式，过去事物必须有某种价值标准，部分涉及它们参与活跃传统的程度。发展和捍卫这样的标准是保守主义思想家在政治和文化领域面临的主要挑战之一。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abel, C. (ed.), 2010, *The Meanings of Michael Oakeshott’s Conservatism*, Imprint Academic.

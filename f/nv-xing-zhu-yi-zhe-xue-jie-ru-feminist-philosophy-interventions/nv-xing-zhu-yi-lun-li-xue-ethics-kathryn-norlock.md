@@ -159,6 +159,7 @@ Intersectionality 在女性主义伦理学中并非没有批评者。例如，Na
 
 请参阅下面相关条目中的条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Carol J., 1990, *The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory*, London: Bloomsbury.

@@ -283,6 +283,7 @@ Costa de Beauregard（1977, 1979）例如，建议当两个光子处于纠缠态
 
 如何以及是否因果倒推的概念在物理学中发挥作用尚未可知。但只要哲学家和物理学家之间对于物理世界的描述中何为我们日常因果观念的对应之处没有共识，那么什么算是因果倒推的实证例子仍将是理论争议的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aharonov, Y. and L. Vaidman, 1997, “Protective measurements of two-state vectors”, in Cohen, R.S., Horne, M., & Stachel, J. (eds.), *Potentiality, Entanglement and Passion-at-a-Distance: Quantum Mechanical Studies for Abner Shimony*, (Volume 2), Dordrecht: Springer, pp. 1–8.

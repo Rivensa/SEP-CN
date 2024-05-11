@@ -191,6 +191,7 @@
 
 总之，朱熹的思想深度和广度在中国智识传统和东亚地区是无与伦比的。全球范围内的朱熹研究仍然具有重要性、广泛性和争议性，并且在世界范围内越来越受到关注。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

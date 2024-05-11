@@ -520,6 +520,7 @@ Kleene 和 Vesley 的[1965]对直觉主义分析进行了仔细的公理化处�
 
 Troelstra 的[1973]，Beeson 的[1985]和 Troelstra 和 van Dalen 的[1988]（带有修正）是直觉主义和半直觉主义形式理论最全面的研究，使用了建设性和经典方法，并提供了有用的参考文献。Troelstra 和 Schwichtenberg [2000]以并行方式展示了经典、直觉主义和最小逻辑的证明理论，重点关注序列系统。Troelstra 的[1998]提供了命题逻辑和谓词逻辑的公式即类型和（Kleene 和 Aczel）斜线解释，以及多种应用的抽象和具体实现。Martin-Löf 的构造类型理论[1984]（参见构造数学条目的第 3.4 节）提供了另一个直觉推理持续发展的通用框架。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aczel, P., 1968, “Saturated intuitionistic theories,” in H.A. Schmidt, K. Schütte, and H.-J. Thiele (eds.), *Contributions to Mathematical Logic*, Amsterdam: North-Holland: 1–11.

@@ -390,6 +390,7 @@ S 应该相信 p，仅当 p 成立。
 
 此外，即使关于意义/内容的规范主义可能排除了（完全的）还原主义关于意义/内容的观点，但值得注意的是，采用规范主义似乎并不是反还原主义者的唯一选择（参见Mulligan 1999: 136f; Glüer & Wikforss 2009: 63ff）。规范主义所构建的意义/内容的规范或规则，如（CM）或推理规则如假言演绎，也可以以非常不同的方式来构建：如弗雷格所称的“真理法则”（Frege 1918 [1986: 30]）或类似的方式。同样地，胡塞尔将“逻辑法则”称为“理想的”（Husserl 1913: 56）。这些“法则”既不是思考的规定，也不是我们心理学的一般性规律。它们的“有效性”或必然性是独特的；如果有的话，它们可能是我们今天所称的形而上学的内容。[61]
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alston, William P., 1988, “The Deontological Conception of Epistemic Justification”, *Philosophical Perspectives*, 2: 257–294. doi:10.2307/2214077

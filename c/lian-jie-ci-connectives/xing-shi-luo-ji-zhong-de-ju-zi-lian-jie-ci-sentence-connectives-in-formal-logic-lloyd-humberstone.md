@@ -633,7 +633,8 @@ Id-归纳性在 Kaminski (1988)中被称为“正则性”；关于 Id-归纳性
 
 在特殊和普遍代表性连接词主题上感兴趣的材料可以在 Jankov (1969), Pahi (1971), de Jongh 和 Chagrova (1995)找到，另外还有第 3 节中引用的参考文献。关于直觉主义逻辑中头部连接关系是特殊的这一事实，请参见 Urquhart (1974) — 并非该术语在那里出现。
 
-### Bibliography
+#<!--md-padding-ignore-begin-->
+## Bibliography
 
 * Aloni, Maria, 2016, “Disjunction”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = < [https://plato.stanford.edu/archives/win2016/entries/disjunction/](https://plato.stanford.edu/archives/win2016/entries/disjunction/)>.
 * Avron, Arnon, 1988, “The Semantics and Proof Theory of Linear Logic”, *Theoretical Computer Science*, 57: 161–187.

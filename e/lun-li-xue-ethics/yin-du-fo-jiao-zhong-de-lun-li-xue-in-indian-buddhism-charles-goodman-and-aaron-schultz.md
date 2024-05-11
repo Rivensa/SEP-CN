@@ -242,6 +242,7 @@
 
 人工智能、社交媒体和其他形式的信息技术所带来的道德关切无疑会在范围和复杂性上不断增长，越来越多的学者和佛教修行者正在探讨这些问题，并寻求制定明智和富有同情心的回应。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Barnhart, Michael, 2012, “Theory and Comparison in the Discussion of Buddhist Ethics,” *Philosophy East and West*, 62(1): 16–43.

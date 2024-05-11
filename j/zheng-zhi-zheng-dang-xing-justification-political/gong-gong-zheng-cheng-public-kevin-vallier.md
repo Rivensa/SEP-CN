@@ -387,6 +387,7 @@ David Enoch（2013）反对 Gaus 的温和理想化。与 Gaus 相反，这种�
 
 我们还看到了新的形式方法引入公共理由，例如社会选择理论（Kogelmann 2017, 2019; Chung 2020），基于代理的建模（Muldoon 2019, Gaus 2021）和不动点定理（Schaefer 2022）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Badano, G. and M. Bonotti, 2020, “Rescuing Public Reason Liberalism’s Accessibility Requirement,” *Law and Philosophy*, 39 (1): 35–65.

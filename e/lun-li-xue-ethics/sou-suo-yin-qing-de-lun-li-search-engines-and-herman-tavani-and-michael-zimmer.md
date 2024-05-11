@@ -338,6 +338,7 @@ Goldfarb (2008)提供了对美国各州成年年龄的详尽讨论，特别关�
 
 其他互联网资源中可以找到更多信息。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Acquisti, Alessandro and Ralph Gross, 2006, “Imagined Communities: Awareness, Information Sharing, and Privacy on the Facebook”, in *Privacy Enhancing Technologies: PET 2006*, George Danezis and Philippe Golle (eds.), (Lecture Notes in Computer Science 4258), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 36–58. doi:10.1007/11957454_3

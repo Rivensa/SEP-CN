@@ -90,6 +90,7 @@
 
 关于德谟克利特原子论的接受和后续历史，请参见有关古代原子论的相关条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Texts

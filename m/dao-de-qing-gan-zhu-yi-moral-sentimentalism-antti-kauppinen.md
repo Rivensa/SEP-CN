@@ -398,6 +398,7 @@ Hutcheson 的回应是指出，即使道德感可能会误导，也并不意味�
 
 最后，认识论情感主义在原则上再次独立于其他形式：我们已经看到，一个人可以对道德属性持有独立于心灵的现实主义立场，同时认为一些适当的情感可以提供对道德真理的访问。但是，如果道德事实与我们的反应有构成性关联，而我们的判断又是关于这些事实的，我们将有一个很好的先验理由认为基于适当情感的信念不容易误导我们，因此可能构成知识。虽然不同形式的情感主义是可以相互分离的，但如果它们被同时持有，它们就是相互支持的。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aaltola, E., 2014, “Affective Empathy as Core Moral Agency: Psychopathy, Autism and Reason Revisited,” *Philosophical Explorations*, 17 (1): 76–92.

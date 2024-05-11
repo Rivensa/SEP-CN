@@ -104,6 +104,7 @@ Deutsch（1997）认为，量子计算的指数加速以及量子系统处理信
 
 在所谓的“广义概率理论”或“盒子世界”的框架下，对于“无信号传递”理论类中的信息论约束问题进行了大量研究，以确定量子理论的特征。有关这方面的有趣结果，请参阅 Brassard 2005、van Dam 2005、Skrzypczyk、Brunner 和 Popescu 2009、Pawlowski 等人 2009、Allcock 等人 2009、Navascues 和 Wunderlich 2009、Al-Safi 和 Short 2013、Ramanathan 等人 2010 以及 Ringbauer 等人（2014）。Chiribella 和 Spekkens 2016 是基于加拿大滑铁卢理论物理学研究所的一次会议的文章集，讨论了量子基础和量子信息领域的新研究。有关 QBism 的讨论，请参阅 Fuchs 2014 以及有关量子贝叶斯和实用主义观点的量子理论条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abhijith J. et al., (2022). “Quantum Algorithm Implementations for Beginners,” *ACM Transactions on Quantum Computing*, 3: 1–92.

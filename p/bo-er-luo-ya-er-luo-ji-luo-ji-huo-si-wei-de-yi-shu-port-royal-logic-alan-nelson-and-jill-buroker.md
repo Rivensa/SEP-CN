@@ -212,6 +212,7 @@ O:
 
 该书的结论再次强调，形式逻辑甚至科学最多只是实现良好生活目标的工具。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Recent Editions of the Port-Royal Logic

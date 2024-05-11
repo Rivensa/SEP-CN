@@ -343,6 +343,7 @@ Schmitt 等人（2010）开发了一种经过充分验证的正义敏感度测�
 
 在现实生活中，分配决策往往比简单的独裁者或最后通牒游戏复杂得多。但正如我们所见，这些游戏及其许多不同的变体可以为正义的道德心理学提供重要启示。显然，关于我们成为公正或公平的动机的简单故事是站不住脚的。我们是比那更为复杂的生物。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ashton, M. and K. Lee, 2001, “A Theoretical Basis for the Major Dimensions of Personality”, *European Journal of Personality*, 15: 327–353.

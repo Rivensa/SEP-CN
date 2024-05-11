@@ -89,6 +89,7 @@ Bayle 的《评注》是对归因于奥古斯丁（尤其是他对比喻“强�
 
 最后，鉴于歌德的言论，宽容也意味着侮辱，从宽容的批判理论角度出发，讨论权力如何通过不仅仅是拒绝宽容，而且在授予宽容时进行纪律约束的方式来行使。尽管宽容政治旨在表达相互尊重，但它也涉及分歧、相互批评和拒绝。我们仍然面临着审视宽容政治的基础和形式的挑战，将其作为一种解放性政治形式。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Augustine, 408, *Letters*, Vol. I (1–82), Vol. II (83–130), tr. S. Parsons, New York: Fathers of the Church, Inc., 1951 and 1953.

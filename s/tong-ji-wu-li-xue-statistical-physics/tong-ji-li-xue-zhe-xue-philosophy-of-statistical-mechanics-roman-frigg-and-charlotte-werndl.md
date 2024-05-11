@@ -350,6 +350,7 @@ Bub（2001 年）和 Bennett（2003 年）回应 Earman 和 Norton，如果假�
 
 当我们试图将热力学熵归约到 SM 熵之一时（Callender 1999; Dizadji-Bahmani 等人 2010; Myrvold 2011），当我们关注热力学中准静态过程的特殊性质时（Robertson 即将出版），当我们研究平衡化时（Myrvold 2020a），以及当我们放弃 SM 系统是孤立的理想化并考虑引力时（Callender 2011），类似的问题也会出现。关于归约的具体目标是什么也存在疑问。激进的归约主义者似乎期望一旦基本层次被解决，科学的其他部分就会作为推论从中得出（Weinberg 1992），这也是似乎推动 Mentaculus 的愿景。其他人则更加谨慎。Lavis，Kühn 和 Frigg（2021）和 Yi（2003）指出，即使归约成功，热力学仍然作为一个独立的理论存在：SM 需要热力学的框架，它作为从 SM 接收信息的接收者，但本身不能从 SM 中推导出来。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ainsworth, Peter, 2005, “The Spin-Echo Experiment and Statistical Mechanics”, *Foundations of Physics Letters*, 18(7): 621–635. doi:10.1007/s10702-005-1316-z

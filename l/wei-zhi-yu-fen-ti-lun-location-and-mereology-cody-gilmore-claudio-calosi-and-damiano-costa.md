@@ -720,6 +720,7 @@ We conclude by listing some important issues about which we have so far said lit
   * *relativistic* (Balashov 1999, 2000, 2008, 2010,2014a,b; Gibson & Pooley 2006; Gilmore 2006, 2008; Sattig 2006, 2015; Calosi & Fano 2015; Davidson 2014; Calosi 2015) and
   * *quantum physics* (Pashby 2013, 2016; Calosi 2022a).
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Armstrong, D. M., 1978, *Nominalism and Realism: Universals and Scientific Realism, Volume 1*, New York: Cambridge University Press.

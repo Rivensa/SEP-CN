@@ -210,6 +210,7 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 
 > [普罗克洛斯的完整著作（现存、失传和伪作）](https://plato.stanford.edu/entries/proclus/supplement2.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Proclus’ Main Extant Works (editions and translations)

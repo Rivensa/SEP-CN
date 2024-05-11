@@ -212,6 +212,7 @@ The Brief went on to argue that there is little moral difference between allowin
 
 哲学家们已经确定并讨论了在医学背景下使用的“隐私”的几种含义。尊重公认的隐私形式——信息（第 1 节）、身体（第 2 节）、联想（第 3 节）、所有权（第 4 节）和决策（第 5 节）——是生物医学伦理学的理想，用于临床研究和与身体和行为健康相关的行政实践。在所有健康环境中，医疗保密、谦虚和身体完整性的重要性有着广泛的哲学共识；但在涉及传染病、人类生殖和遗传学领域，个人自主权或个人选择的界限存在着实质性的哲学分歧。最近，与因羞耻和耻辱而引发的保密规范相比，自愿与家人朋友和公众分享医疗信息已经取代。此外，自愿分享医疗数据被研究人员和官员广泛鼓励，以促进公共卫生和精准医学。随着数字医疗数据技术、移动医疗应用程序、远程医疗、公共卫生监测和脑成像技术的扩展，医学领域中重要隐私问题的范围和复杂性也将扩大。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen, Anita, 1997, “Genetic Privacy: Emerging Concepts and Values”, in *Genetic Secrets: Protecting Privacy and Confidentiality in the Genetic Era*, M. Rothstein (ed.), New Haven: Yale University Press, pp. 31–59.

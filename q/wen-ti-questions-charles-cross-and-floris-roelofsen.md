@@ -495,6 +495,7 @@ Phillips 和 George（2018）提出了实验证据，支持知识-wh 的错误�
 
 关于知识-wh 的最新文献的详细批评，请参阅 Stanley 2011 的第 2 章。Parent（2014）围绕三个问题提供了关于知识-wh 的最新文献的调查：将知识-wh 归约为知识-那个的可行性，将知识-wh 相对于对比命题的相对性，以及知识-wh 的语境敏感性是作为语义还是语用现象来理解的问题。Uegaki（2019）概述了关于响应谓词语义学的最新研究，并围绕四个方法进行组织：将问题归约为命题，将命题归约为问题，统一性方法（即响应谓词的陈述和疑问补语具有相同的语义类型），以及模糊性方法（假设给定响应谓词具有不同的命题接受和问题接受的解读）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aloni, M., 2005, “A Formal Treatment of the Pragmatics of Questions and Attitudes”, *Linguistics and Philosophy*, 28 (5): 505–539.

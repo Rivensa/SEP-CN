@@ -247,6 +247,7 @@ Rawls 理论的基础在于必要性，如果我们探索一个公正的机构�
 
 最后，值得注意的是，如果成功的话，上述考虑的反对意见只能表明没有一个原则能够为国家声称权威的所有人建立政治义务。但为什么要认为一个健全的政治义务理论应该依靠一个单一的原则呢？也许我们对政治义务的最佳解释将使用不同的原则来证明国家在不同领域（Klosko 2005）和不同个体（Renzo 2012和2014）中要求我们服从的权利。克服对政治义务的怀疑的一种方法是对其持多元主义态度（J. Wolff 2000；Knowles 2010；Mokrosinska；2012）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, N. P., 2021, “In Defense of Exclusionary Reasons”, *Philosophical Studies*, 178(1): 235–253. doi:10.1007/s11098-020-01429-8

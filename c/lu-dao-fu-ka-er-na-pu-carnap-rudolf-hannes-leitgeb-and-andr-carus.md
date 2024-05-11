@@ -337,6 +337,7 @@ Quine 在 Carnap 身上看到的另一个“经验主义教条”是他坚持“
 * [Supplement G: *Logical Syntax of Language* (LSS)](https://plato.stanford.edu/entries/carnap/syntax.html)
 * [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Carnap’s Works

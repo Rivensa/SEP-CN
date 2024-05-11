@@ -292,6 +292,7 @@ FP 叙事是叙事的一个特殊子集——它们提及并展示心理状态�
 
 最终，NPH 认为 FP 能力——我们对 FP 形式和规范的熟练掌握——根植于未被表征的能力，这些能力是由社会互动和叙事构建的。这一提议拒绝了在主流认知科学中一贯假定的知识主义个人主义，而是提出 FP 能力是一种文化化的知识技能（McGeer 即将发表）。然而，有些学者，比如 Overgaard 和 Michael（2015），认为 NPH 为了作为 FP 能力的解释，别无选择，只能假定经过参与相关叙事实践获得了 ToM，而不仅仅是文化化的实际知识技能。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Michael L., 2014, *After Phrenology: Neural Reuse and the Interactive Brain*, Cambridge, MA: MIT Press.

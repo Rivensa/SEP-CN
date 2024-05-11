@@ -254,6 +254,7 @@ Clatterbuck（2015）同样提醒哲学界，仅关注 Wright-Fisher 模型是�
 
 对随机遗传漂变的哲学讨论一直是活跃而富有成果的。但由于它们仍然相对较新，还有许多问题有待探讨或充分探讨。尽管很多精力被转移到了统计主义的辩论上，但生物学家们正在进行许多关于漂变的辩论，哲学家们可以有益地参与其中，无论是历史性的还是当代的。特别是关于本文最后两节（关于漂变的经验问题和漂变模型），我们可能只是开始触及表面。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abrams, M., 2007, “How Do Natural Selection and Random Drift Interact?” *Philosophy of Science*, 74(5): 666–679.

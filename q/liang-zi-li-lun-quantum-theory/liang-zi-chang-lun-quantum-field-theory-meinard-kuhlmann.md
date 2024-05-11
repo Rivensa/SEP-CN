@@ -326,6 +326,7 @@ QFT 的粒子解释最直观地回答了粒子散射实验中发生的事情以�
 
 总之，必须记住解释量子场论的本体论是如此困难的一个原因是，首先很难确定公式中的哪些部分应该被视为代表任何物理实体。而且看起来这个问题将在相当长的一段时间内持续存在。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arageorgis, A., 1995, *Fields, Particles, and Curvature: Foundations and Philosophical Aspects of Quantum Field Theory in Curved Spacetime*, Ph.D. thesis, University of Pittsburgh.

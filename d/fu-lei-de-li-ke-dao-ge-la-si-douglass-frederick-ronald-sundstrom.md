@@ -224,6 +224,7 @@
 
 那些鼓舞人心、具有挑战性的话语是对我们的邀请，让我们密切研究道格拉斯的作品和遗产，实现我们的国家。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### A. Primary Sources

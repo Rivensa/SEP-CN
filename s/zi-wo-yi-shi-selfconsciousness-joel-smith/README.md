@@ -304,6 +304,7 @@ Tulving 本人认为只有人类具有情节记忆，而且只有在他们达到
 
 成功通过元认知退出测试被视为自我意识的观点并不是毫无争议的。例如，有人认为不确定性反应并不是元认知不确定性监测的指标，而是关于第三个类别的一阶环境判断（Kornell，Son 和 Terrace 2007; Hampton 2009; 另请参阅 Carruthers 2008; Kornell 2014; Musholt 2015: ch. 7）。根据这种解释，关于婴儿和非人类动物的元认知研究并没有提供关于自我意识的令人信服的证据（但请参阅 J.D. Smith 2005; J.D. Smith，Couchman 和 Beran 2014 进行批判性讨论；Proust（2013）提出的元认知“评价主义”和“属性主义”观点的区别也是相关的）。关于元认知退出测试对自我意识归因的意义的问题仍然存在争议。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Where applicable, page references are to reprinted versions.

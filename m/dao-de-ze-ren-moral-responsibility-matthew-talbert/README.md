@@ -300,6 +300,7 @@ Pereboom 的论点引发了许多反对意见。例如，可以争论，在案�
 
 更多内容，请参见有关道德责任认知条件的条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 The special issues of *Midwest Studies in Philosophy* cited in the Introduction are Volume 30 (2006) and Volume 38 (2014), Minneapolis: University of Minnesota Press.

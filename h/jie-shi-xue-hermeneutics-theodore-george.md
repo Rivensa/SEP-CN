@@ -210,6 +210,7 @@ Rorty 在他现在经典的《哲学与自然的镜子》中，提出了对现�
 
 最后，解释学现实主义还引发了对解释学经典人物的新研究。例如，Vattimo 认为，在 Gadamer 身上看到了他后现代解释学的萌芽（参见 Vattimo，“逗号的故事”），而 Figal 则将 Gadamer 对解释经验实质性（Sachlichkeit）的关注聚焦于现实主义（参见 Figal 2010 年，2）。此外，一些哲学家发现，解释学现实主义阐明了后期海德格尔的核心主题（Keiling 2018）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alcoff, Linda Martín, 2006, *Visible Identities: Race Gender, and the Self*, New York: Oxford University Press.

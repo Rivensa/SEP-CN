@@ -262,6 +262,7 @@ CP2 声称我们没有理由否定怀疑论的假设，换句话说，我们没�
 
 或许与皮浪怀疑论相关的最有趣的最近发展是，越来越多的认识论学家认为，回应阿格里帕三难问题的正确方式是将一些我们以互斥方式呈现的立场结合起来。因此，例如，许多当代认识论学家提出了既包含基础主义元素又包含连贯主义元素的理论（参见，例如，Haack 1993）。这证明了皮浪怀疑论的持久力，哲学家们继续以这种方式与之抗争。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aikin, Scott F., 2011, *Epistemology and the Regress Problem*, New York: Routledge.

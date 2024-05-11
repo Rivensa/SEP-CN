@@ -138,6 +138,7 @@ Rawls 自那时起试图从他的理论中消除普遍主义的假设。在《�
 
 总的来说，必须承认，无论在东亚还是西方，社群主义作为一种激励政治理想已经失去了影响力。我们有理由认为它可能会复兴吗？在东亚，我们可以预期社群主义主题将继续以儒家价值观的形式出现。然而，在西方，民粹主义的过度可能为受社群主义启发的政治活动家提供机会。可以说，民粹主义是对有价值的社群形式衰落的一种回应。像唐纳德·特朗普这样的强人抨击精英，并承诺恢复传统的意义来源，以此来帮助无权和被孤立的个体。但问题并不在于精英主义或等级制度本身。任何现代社会都需要等级制度，关键是要区分有利于强者并压迫弱者的不良等级制度，以及表达道德可辩护价值观的良好等级制度（Bell 和 Wang，2020）。社群生活的等级形式可以被重新诠释和现代化，使其与进步价值观相容。缺少的是一个能够恢复和重新诠释适合现代世界的社群生活形式的社会和政治运动。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * An-Naim, A., 1992, “Toward a Cross-Cultural Approach to Defining International Standards of Human Rights: The Meaning of Cruel, Inhuman, or Degrading Treatment or Punishment”, in *Human Rights in Cross-Cultural Perspectives: A Quest for Consensus*, A. An-Naim (ed.), Philadelphia: University of Pennsylvania Press.

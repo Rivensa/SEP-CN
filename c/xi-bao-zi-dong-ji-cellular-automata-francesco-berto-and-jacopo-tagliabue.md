@@ -658,6 +658,7 @@ CA 演化的观察导致了一项科学发现：“非常简单的规则会产�
 
 即使承认这两个前提的真实性（也就是，即使承认令人困扰的计算等价原则），仍然值得怀疑所期望的结论是否会得出。当然，元胞自动机为一系列现象提供了新的直觉和解释——沃尔夫勒姆相当成功地将他的“发现”应用于生物学、计算机科学、物理学、金融学。然而，并没有证据表明我们许多最佳科学解释很快会被归结为元胞自动机框架，事实上，复杂性本身的许多方面仍然超出了元胞自动机范式，看不到任何统一。范式转变通常需要新范式来解释旧范式解释的现象，以及更多的现象。元胞自动机是一个有前途的领域，但仍需要许多发展才能使（[NKS3](https://plato.stanford.edu/entries/cellular-automata/#NKS3)）成为真实。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Miller & Page 2007 and Mitchell 2009 both contain a chapter devoted to CA: they are accessible introductions written by notable scholars. Ilachinski 2001 is an excellent starting point for the exploration of the CA literature: although not up-to-date on some technical points, the volume nicely introduces the field and covers its most important applications. Wolfram 2002 took some twenty-years and 1200 pages to be finished and is a passionate journey including bold speculations on the role of CA for understanding the universe and our place in it.

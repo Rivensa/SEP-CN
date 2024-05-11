@@ -438,6 +438,7 @@ Jody Azzouni，《Ontology without Borders》（2017 年：143）
 
 所谓的对象之间没有世俗的本体论边界；世界上没有属性，没有关系 —— 也没有构成或等同于对象的世俗个体化条件的任何事物……我们将对象的边界投射到世界上。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abasnezhad, A., and Hosseini, D., 2014, ‘Vagueness in the World: A Supervaluationist Approach’, in K. Akiba and A. Abasnezhad (eds.), *Vague Objects and Vague Identity. New Essays on Ontic Vagueness*, Dordrecht: Springer, pp. 239–255.

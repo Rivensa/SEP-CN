@@ -72,6 +72,7 @@
 
 我们发现霍布斯在谈论种族（或我们现在称之为种族）时存在类似的模糊和紧张关系。一方面，他援引美洲的“野蛮人”来说明自然状态下的“野蛮”生活条件。另一方面，他简单地否认美洲土著和欧洲人之间存在固有或不可改变的差异。根据霍布斯的说法，享受科学进步的社会之所以能够取得进步，是因为存在“闲暇时间”，如果这一点被“假设消失”，他反问道：“我们与最野蛮的印第安人有何不同？”
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 The secondary literature on Hobbes’s moral and political philosophy (not to speak of his entire body of work) is vast, appearing across many disciplines and in many languages. The following is a narrow selection of fairly recent works by philosophers, political theorists, and intellectual historians, available in English, on main areas of inquiry in Hobbes’s moral and political thought. Very helpful for further reference is the critical bibliography of Hobbes scholarship to 1990 contained in Zagorin, P., 1990, “Hobbes on Our Mind”, *Journal of the History of Ideas*, 51(2).

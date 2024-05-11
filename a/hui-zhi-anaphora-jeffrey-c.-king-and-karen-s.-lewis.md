@@ -747,6 +747,7 @@ Brasoveanu（2006 年，2007 年，2008 年）指出，驴子句子也存在混�
 
 Schlenker 的研究的第二个重要结论是手语代词具有图像元素。例如，动词“问”在轨迹的下巴/颈部附近进行手势。如果轨迹表示一个站在树枝上的人，“问”手势会在轨迹的相对较高位置进行。如果轨迹表示一个倒挂在树枝上的人，“问”手势会在轨迹的较低位置进行。代词中的这个和许多其他图像性的例子表明，需要将图像性解释纳入形式语义学中。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Asher, Nicholas, 1987, “A Typology for Attitude Verbs and their Anaphoric Properties”, *Linguistics and Philosophy*, 10: 125–197.

@@ -445,6 +445,7 @@ xR(α∩β)y 当且仅当 xR(α)y 和 xR(β)y。
 
 本文重点关注命题动态逻辑及其一些重要的变体。目前已经有一些书籍——Goldblatt \[1982]，Goldblatt \[1992a]，Harel \[1979]和Harel，Kozen和Tiuryn \[2000]——以及调查论文——Harel \[1984]，Kozen和Tiuryn \[1990]，Parikh \[1983]——对PDL及其相关形式进行了研究。Pratt在Pratt \[2017]中提供了一个非正式和个人的发展动态逻辑的视角，这也具有历史价值。关于PDL的研究成果在发展许多系统动态的逻辑理论方面起到了重要作用。然而，这些理论可以说超出了本文的范围。Van Eijck和Stokhof \[2006]是对使用动态逻辑的主题的最新概述，涉及到一些对哲学家来说具有一定兴趣的主题，例如通信动态或自然语言语义学。最近的书籍对较新的主题进行了更详细的讨论，例如Van Ditmarsch，Van Der Hoek和Kooi \[2007]中的知识动态逻辑（动态认知逻辑）以及Platzer \[2010]中的连续和混合系统的动态逻辑（微分动态逻辑）。PDL最初是为了推理程序而设计的。模态逻辑在推理程序方面有许多其他应用。算法逻辑更接近PDL，因为它允许明确地讨论程序。请读者参考Mirkowska和Salwicki \[1987]中提出的工作。时间逻辑现在是理论计算机科学中的主要逻辑，并与程序逻辑有密切联系。它们允许使用一种抽象程序标签的语言来表达转换系统的时间行为。例如，Schneider \[2004]对这一研究领域的基础进行了概述。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Apt, K., 1981, “Ten years of Hoare’s logic: A survey — Part I”, *ACM Transactions on Programming Languages and Systems*, 3(4): 431–483.

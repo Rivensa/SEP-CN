@@ -82,6 +82,7 @@ Tempier 的大谴责经常被描绘为巴黎大学历史上最引人注目和重
 
 Wielockx 对于与托马斯·阿奎那相对立的观点在学术文献中被普遍接受。然而，最近历史证据已经重新审视，他的解释受到了约翰·威普尔和汉斯·泰森的质疑，后者在对吉尔斯·罗马的司法程序进行实质性修订的背景下提出了质疑。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Editions and translations

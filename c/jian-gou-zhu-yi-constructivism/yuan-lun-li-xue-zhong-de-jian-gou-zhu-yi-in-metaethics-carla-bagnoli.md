@@ -238,6 +238,7 @@ Korsgaard 指出了一个她认为现实主义者和反现实主义者共享的�
 
 在过去的三十年里，建构主义崭露头角，并确立自己作为元伦理学中一种可识别的形式。与其他元伦理理论一样，它面临严重的反对意见，但它也对许多辩论做出了重要贡献，其中一些辩论源自建构主义对传统元伦理学的挑战。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ameriks, Karl, 2003, “On Two Non-Realist Interpretations of Kant’s Ethics”, in *Interpreting Kant’s Critiques*, Oxford: Oxford University Press, 263–282. doi:10.1093/0199247315.003.0012

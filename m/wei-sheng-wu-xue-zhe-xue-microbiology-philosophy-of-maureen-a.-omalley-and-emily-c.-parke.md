@@ -187,6 +187,7 @@ DNA作为遗传物质的确立是在细菌和病毒实验系统中进行的（Av
 
 即使对于不是科学哲学家的哲学家来说，微生物学也可以应用于诸如身份、自我、人性和心灵等问题，以产生更广泛的见解和令人惊讶的结论。并非所有这些结论都是可辩护的，但是研究微生物如何对人类产生影响可能是一种有价值的练习。例如，考虑为什么数万亿个生活在人体内的微生物似乎更容易被视为身体的一部分，而同样如此的寄生虫则通常（但并不总是）被区分为单独的并理想地被驱逐。微生物还为哲学家提供了研究有关生命本质、因果关系和表示性的重大问题的可行方法。例如，微生物实验系统可以被视为哲学家在思维实验中操纵的心理结构的物质等价物。还有一些关于微生物和其他建模活动的差异的东西值得学习。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alegado, Rosanna A, Laura W Brown, Shugeng Cao, Renee K Dermenjian, Richard Zuzow, Stephen R Fairclough, Jon Clardy, and Nicole King, 2012, “A Bacterial Sulfonolipid Triggers Multicellular Development in the Closest Living Relatives of Animals”, *ELife*, 1: e00013. doi:10.7554/eLife.00013

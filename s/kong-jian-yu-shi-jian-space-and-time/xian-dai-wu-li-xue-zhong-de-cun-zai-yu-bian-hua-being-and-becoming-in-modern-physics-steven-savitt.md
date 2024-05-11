@@ -370,6 +370,7 @@ Rovelli（2019 年，1330 页）将“有限的泡沫现在”与“钻石现在
 
 在相对论之前的时空（和常识）中，人们很容易将时间的流逝与现在的连续性联系起来，就像上面第 2.3 节中 Kurt Gödel 的引用所示。因此，如果将闵可夫斯基时空中的现在看作是球体或因果菱形，人们可能会尝试将流逝视为沿着每条类时路径的这些菱形或球体的连续性，就像 Dorato 和 Wittman（2015 年）或 Savitt（2009 年，2020 年）中所述。然而，当这些时空区域的大小是可变的时，要对它们进行连续性排序并不容易。也许，我们不应该屈服于这种诱惑。我们应该从中吸取的教训是，在更加数学复杂的时空背景下重新考虑时态概念时，常识中重合的时间概念可能更清晰地被视为不同的概念。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arthur, R. 1982. “Exacting a Philosophy of Becoming from Modern Physics,” *Pacific Philosophical Quarterly*, 63: 101–110.

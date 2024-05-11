@@ -456,6 +456,7 @@ C.D.布罗德基于解释的理由提出了这个原则。在感知经验中，�
 
 虽然知觉数据理论家和副词主义者（以及其他理论之间）之间的辩论不如以前那么突出，但意向主义者和天真实在主义者的分离主义者之间的辩论是哲学知觉领域中一场重要的持续辩论：这是知觉问题的遗产，可以说是哲学知觉领域中“最大的鸿沟”（Crane（2006））。现在的问题不再是是否成为直接实在主义者，而是如何成为一个。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen, Keith, 2015, “Hallucination and Imagination”, *Australasian Journal of Philosophy*, 93: 287–302.

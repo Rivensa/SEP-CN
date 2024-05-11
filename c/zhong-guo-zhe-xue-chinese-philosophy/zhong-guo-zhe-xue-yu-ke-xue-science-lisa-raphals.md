@@ -152,6 +152,7 @@ Sivin 的描述有助于解释为什么许多科学创新的记录仅出现在�
 
 总的来说，这篇简要论述涉及了中国哲学与科学早期历史之间复杂关系中的重要问题，特别是它们对医学和天文学等定性科学以及与整体中国早期哲学的关系的影响。它表明，本文开头引用的对中国哲学的严厉评价过分简化了几个复杂问题。Joseph Needham、Nathan Sivin 等人的研究表明，中国哲学并非天生“反科学”。但可以说 - 并且在本文作者看来具有说服力 - 与备受争议的术语“儒家主义”相关联的优先事项通常（但并非总是）将中国哲学引向远离科学关切的方向。这里提出的第二个问题是，中国哲学是否以构成一种文化特定的与现代科学不同的“中国科学”的方式对科学做出贡献。这一点仍然是中国科学史学家之间存在强烈分歧的焦点。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Bodde, D., 1991, *Chinese Thought, Science, and Society: The Intellectual and Social Background of Science and Technology in Pre-Modern China*, Honolulu: University of Hawai‘i Press.

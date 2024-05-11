@@ -178,6 +178,7 @@
 
 > 当我说路德对现在比康德更有时代性，如果这个现在要有一个历史未来的话，你可能不会同意。（CR，第 145 页）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

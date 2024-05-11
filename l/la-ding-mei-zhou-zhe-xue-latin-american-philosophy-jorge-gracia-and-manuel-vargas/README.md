@@ -174,6 +174,7 @@
 
 尽管拉丁美洲女权主义哲学的未来尚不明确，但它的一系列突出关注点，包括活动主义哲学、对认识和文化特权的关注以及对跨学科解释框架的依赖，似乎相当可能在各种学术背景下得以保留。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abellán, José Luis, 1967, *Filosofía Española en América*, Madrid: Guadarrama.

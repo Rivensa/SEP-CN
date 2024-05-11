@@ -345,6 +345,7 @@ The standard English translation is given first, and, where appropirate, other m
 * unit (**monas**)
 * universal (*katholou*)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Collections of essays and journals referred to below with abbreviations

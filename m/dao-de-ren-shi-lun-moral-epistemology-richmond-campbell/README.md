@@ -285,6 +285,7 @@ Allen Buchanan 和 Russell Powell（2018）列举了十个道德进步的例子�
 
 本文讨论了威胁道德知识可能性的六个主要问题群集。在注意到的限制条件下，目的是以复杂性为重点，特别是相互关联性，审视这些问题，并探索哲学和跨学科文献中明显存在的可能解决途径。从这次调查中，我们可以看到，对于每个问题群集，都有值得进一步探索的解决途径，特别是考虑到跨学科研究暗示道德知识是深度社会性的。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allman, John and James Woodward, 2008, “What Are Moral Intuitions and Why Should We Care about Them? A Neurobiological Perspective”, *Philosophical Issues*, 18: 164–85.

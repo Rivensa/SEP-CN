@@ -316,6 +316,7 @@ Hutcheson 提出了一些论证，一般上是通过我们对幸福本质的直�
 
 在对哈奇森的享乐主义进行定量阅读时，与其说它是一种价值保证，即道德感的快乐更有价值，不如说这只是一个心理事实，即人类从道德感中获得更强烈和持久的快乐，足以抵消在低级道路上可能获得的任何快乐。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Alan Ross, 1967, “Some Nasty Problems in the Formal Logic of Ethics”, *Noûs*, 1(4): 345–360. doi:10.2307/2214623

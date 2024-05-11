@@ -590,6 +590,7 @@ K(φ→ψ)→[ψ!](Kψ→⟨φ⇑⟩Bφ,
 
 多模态逻辑及其应用的研究是一个持续进行的领域。虽然我们已经阐述了该领域的一些主要发展，但仍然有许多模态运算符的组合作为形式分析不同有趣现象的工具出现，并且其中许多仍在进一步探索中。一些例子与“旧”问题有关。一个例子是著名的逻辑全知问题（Hintikka 1962; Stalnaker 1991），其多模态讨论不仅涉及隐含和显性知识/信念的概念（例如，Levesque 1984; Lakemeyer 1986; Velázquez-Quesada 2013; Lorini 2020），还涉及知识和意识之间的关系（例如，Fagin and Halpern 1988; Halpern & Rêgo 2009, van Benthem & Velázquez-Quesada 2010; Belardinelli & Schipper 2023）。其他一些例子则源于新的发展。一个例子是组合模态运算符来推理量子信息的流动（Baltag and Smets 2022）。一个非常富有成果的领域是游戏（例如，Baltag, Li, & Pedersen 2022; van Benthem, Pacuit, & Roy 2011, van Benthem 2014），在这个领域中，许多不同的态度和概念（知识、信念、偏好、意图、意识、行动等）汇聚在一起。多模态逻辑的应用非常广泛，远远超出了与多智能体系统和哲学逻辑相关的研究方向在人工智能和哲学逻辑领域的范围。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ågotnes, Thomas, Hans van Ditmarsch, and Yanjing Wang, 2018, “True Lies”, *Synthese*, 195(10): 4581–4615. doi:10.1007/s11229-017-1423-y [[Ågotnes et al. 2018 available online](http://arxiv.org/abs/1606.08333)]

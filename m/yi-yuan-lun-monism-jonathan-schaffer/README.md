@@ -569,6 +569,7 @@ Horgan 和 Potrč随后认为拒绝本体模糊性迫使一个精确对象的本
 
 显然还有很多可以说的，但总的来说，可以公正地得出结论，优先一元论值得认真重新考虑，这种重新考虑正在开始。对于优先一元论没有击倒性的论证。或者至少，这里调查的对于优先一元论的论证在任何方面都不具有决定性。这可能会让那些认为一元论只能是一些晦涩或荒谬的想法的人感到惊讶。此外，甚至可能有一些优先一元论的合理论证。或者至少，这里调查的对于优先一元论的论证似乎有一些潜力，需要进一步培养。这片土地已经闲置了将近一百年。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albert, David, 1996, “Elementary Quantum Metaphysics,” in *Bohmian Mechanics and Quantum Theory: An Appraisal*, James T. Cushing, Arthur Stock, and Sheldon Goldstein (eds), Dordrecht: Kluwer Academic Publishers, 277–84.

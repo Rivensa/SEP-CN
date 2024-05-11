@@ -175,6 +175,7 @@ On the other hand, if God did not have access to the multiplicity of all that is
 
 事实上，亨利职业生涯中的一个中心关注点是辩护神学的绝对科学性质。此外，神学硕士有责任在请求时就任何主题发表权威意见；因此，亨利的 Quodlibeta 中涉及的许多关于牧师、社会、政治甚至经济等问题，使其成为整个经院哲学作品中最丰富、最生动的神学著作之一（Porro 2006；Marmursztejn 2007；König-Pralong 2011）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

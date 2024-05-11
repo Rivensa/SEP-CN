@@ -240,6 +240,7 @@
 
 关于怀疑论的后期历史概述，重点关注经典的近代哲学家，请参阅波普金（2003）的著作。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Texts and Translations

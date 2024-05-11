@@ -414,6 +414,7 @@ b.
 
 自然语言本体论正处于自己发展的初级阶段。围绕它的方法论问题仍待认真讨论，例如语言中反映的本体论与不同的现实观念以及与其他表征或认知功能相关的本体论之间的关系，自然语言本体论所涉及的隐含接受的特定概念，核心-边缘区分，与不同语义角色相关的本体论地位，最近的理论句法和跨语言研究所反映的本体论类别的方式，以及自然语言本体论与语法的功能部分和词汇部分的不同联系。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abney, Steven P., 1987, “The English Noun Phrase in Its Sentential Aspect”, PhD thesis, Massachusetts Institute of Technology, Cambridge, MA. \[[Abney 1987 available online](https://dspace.mit.edu/handle/1721.1/14638)]

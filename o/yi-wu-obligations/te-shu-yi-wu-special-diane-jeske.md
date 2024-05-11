@@ -210,6 +210,7 @@ Richard J. Arneson对于这种以心理联系为基础来解释特殊义务的�
 
 我们已经看到，我们是否有特殊义务的问题与当代伦理学的一些核心问题相关，包括后果主义作为一种道德理论的可行性，个体相关原因的可能性和性质，自愿行动或联合与义务或责任的获得之间的关系，以及自我、家庭、友谊和政治社区的性质。在试图确立特殊义务时，特殊义务的辩护者必须面对有关个人身份形而上学在确定道德特征和道德认识论中的问题，以及其他问题。因此，特殊义务的主题对于规范伦理学和元伦理学的辩论都是核心问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abizadeh, Arash, and Pablo Gilabert, 2008. “Is there a genuine tension between cosmopolitan egalitarianism and special responsibilities?,” *Philosophical Studies*, 138: 349–365.

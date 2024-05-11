@@ -382,6 +382,7 @@ Charbel El-Hani 的兴趣主要集中在生物哲学和生物教学方法论上�
 
 最后，值得强调的是，尽管拉丁美洲地区的哲学研究面临许多困难，如政治局势不稳定和经济危机循环等，这些都会影响研究政策，使学者们处于不稳定和不确定的位置。然而，不论困难如何，目前一批新一代的年轻科学哲学家使我们能够预见到，拉丁美洲产生的科学哲学将在数量和质量上继续增长，并增强其已经相当大的国际影响力。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abeledo, Horacio, 1995, “Lewis’s Causation: An Almost Fatal Example”, *Crítica: Revista Hispanoamericana de Filosofía*, 27(81): 79–100. doi:10.22201/iifs.18704905e.1995.1029

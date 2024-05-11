@@ -357,6 +357,7 @@ Honneth 和 Jaeggi 的方法都体现了一种内在批判的概念，紧密联�
 
 这些批判实践中涌现的新革命性主体和斗争是否确实会汇聚起来，从根本上挑战现有秩序，开辟通往解放的新途径，并发展解放的 - 更公正、民主和可持续 - 共同生活方式，这还有待观察。霍尔克海默的俏皮话仍然成立：“如果布丁的好坏取决于品尝，那么这里的品尝仍然在未来”（1937a \[1972，220-1]）。在这个背景下，对批判实践的理论探讨 - 在其形式、领域和参与者的多样性中 - 可以被视为试图将理论和实践结合在一起，以解放取向来应对时代的危机和斗争的持续尝试的一部分。这种方法从法兰克福学派的创始时期就已经存在，并一直是其持续（自我）转变的推动力量，使其成为当今社会哲学中最有影响力的范式之一。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abromeit, John, 2016, “Critical Theory and the Persistence of Right-Wing Populism”, *Logos: A Journal of Modern Society and Culture*, 15(2) \[[Abromeit 2016 available online](https://logosjournal.com/2016/abromeit/)].

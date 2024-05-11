@@ -460,6 +460,7 @@ Zurek（1986 年）是将量子测量与 Szilard 引擎相关联的最重要的�
 
 Szilard引擎和Landauer原理似乎都提出了一个关于知识和热力学熵之间关系的类似问题：如果我们能知道分子位于引擎的哪一侧，我们就能提取能量；如果我们能知道设备处于哪种逻辑状态，我们就能将其设置为零而不需要能量。没有这些知识，就需要设计一个能够独立于系统特定状态的过程。但很明显，这并不能告诉我们，即使没有这些知识，设计一个聪明的过程仍然可以从引擎中提取能量而不需要补偿，或者一个聪明的过程仍然可以在不需要能量的情况下重置位。哈密顿力学和Liouville定理似乎起着重要的作用，尽管这在很大程度上未被注意到。正如张和张的恶魔所证明的那样，通过非哈密顿流，明显存在对第二定律的无限制违反，而不需要借助信息理论或计算来避免这种情况。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 A comprehensive annotated bibliography of the subject, up until 2003, is included in the collection (Leff and Rex 2003), which also contains many key articles, mainly supporting the Landauer-Penrose-Bennett position. A detailed analysis of the history of Maxwell's demon, the Szilard engine and critiques of information theoretic exorcisms are in Earman and Norton (1998, 1999) with Norton (2005) providing a similar critique of Landauer's principle.

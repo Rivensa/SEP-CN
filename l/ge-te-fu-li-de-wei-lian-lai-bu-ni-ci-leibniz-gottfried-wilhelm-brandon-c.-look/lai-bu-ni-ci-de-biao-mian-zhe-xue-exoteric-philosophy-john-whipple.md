@@ -205,6 +205,7 @@ One way of accounting for divergent claims in different texts is to say that Lei
 
 在莱布尼茨的二次文献中，已经有一些关于特定表面策略的研究工作。然而，还有很多工作有待完成。对莱布尼茨作品表面特征的更详细的考察将有助于我们更充分地确定哪些文本（如果有的话）呈现了他的考虑观点以及他的哲学体系的程度。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

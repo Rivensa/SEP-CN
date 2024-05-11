@@ -354,6 +354,7 @@ Gärdenfors 和 Sahlin 的不可靠概率模型通过“可靠性指数”（见
 
 非精确概率提供了一种理性信念模型，它消除了正统精确概率方法所需的某些理想化要求。已经提出了许多这种转变的动机，并且已经讨论了许多关于非精确概率的观点。关于非精确概率仍然存在一些开放的哲学问题，这可能是未来几年的一个研究热点。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Al-Najjar, Nabil I., and Jonathan Weinstein, 2009, “The Ambiguity Aversion Literature: A Critical Assessment”, *Economics and Philosophy*, 25: 249–284.

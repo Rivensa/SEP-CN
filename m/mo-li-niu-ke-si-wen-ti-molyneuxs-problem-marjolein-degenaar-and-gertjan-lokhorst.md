@@ -84,6 +84,7 @@ Wheatstone 的发现，即通过视觉感知空间的第三维度是直接的，
 
 莫利纽克斯问题所涉及的问题的历史表明，这个问题并不像莫利纽克斯本人所认为的那样容易回答。相反，没有比莫利纽克斯在 1688 年提出的问题更引发思考的感知哲学问题。从这个意义上说，莫利纽克斯的问题是哲学史上提出的最富有成果的思维实验之一，至今仍然像莫利纽克斯首次提出它三个多世纪以前那样引人入胜。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Cassirer, E., 1955, *The Philosophy of the Enlightenment* (Chapter 3: Psychology and Epistemology), Boston: Beacon Press.

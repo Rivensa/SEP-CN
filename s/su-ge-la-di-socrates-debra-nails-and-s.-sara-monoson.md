@@ -166,6 +166,7 @@
 
 > [教学资源](https://plato.stanford.edu/entries/socrates/resources.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### General overviews and reference

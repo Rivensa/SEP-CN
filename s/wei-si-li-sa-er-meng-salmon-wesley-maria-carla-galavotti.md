@@ -387,6 +387,7 @@ p(A\&B∣C)>p(A∣C)×p(B∣C).
 
 进一步阅读：《现实与理性》（萨尔蒙 2005）一书包含了许多关于萨尔蒙对理性和现实主义观点的文章。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 The reader is invited to see three collections of essays dealing with the various aspects of Salmon’s work: McLaughlin (ed.) 1982 including Salmon’s “Further Reflections” provoked by the essays appearing in the volume and his “Autobiographical Note”; Fetzer (ed.) 1988 ending with an “Epilogue” containing a very useful “Publications: An Annotated Bibliography” (up to 1986); and Galavotti & Pagnini (eds.) 1999 containing “Comments” by Wesley and Merrilee Salmon on the articles published in the collection. For a complete bibliography of Salmon’s writings up to 2005 see Salmon 2005. The 2002 Biennial Meeting of the Philosophy of Science Association hosted “Wesley Salmon 1925–2001: A Symposium Honoring His Contribution to the Philosophy of Science” with papers by Adolf Grünbaum, Phil Dowe, Christopher Hitchcock, Paul Humphreys, and Lawrence Sklar: see Mitchell (ed.) 2004.

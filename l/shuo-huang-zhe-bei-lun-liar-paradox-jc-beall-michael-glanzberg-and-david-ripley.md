@@ -461,6 +461,7 @@ Scharp（2013）提倡了一种不同类型的不一致理论。Scharp 认为，
 
 关于说谎者悖论，我们还有很多要说的，远远超出了我们在这里所涵盖的范围：我们提到的说谎者变体有更多的方法，还有更多与其相关的悖论，比如指称、属性等等。还有更多重要的技术结果，以及更重要的哲学含义和应用。我们在这里的目标是更具启发性而非详尽无遗，我们希望能给读者一个对说谎者悖论是什么以及其可能的后果的指示。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Achourioti, Theodore, Henri Galinon, José Martinez Fernández, and Kentaro Fujimoto (eds), 2015, *Unifying the Philosophy of Truth*, Berlin: Springer.

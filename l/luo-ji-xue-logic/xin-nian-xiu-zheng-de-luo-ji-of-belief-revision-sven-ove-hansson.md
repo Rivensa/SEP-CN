@@ -611,6 +611,7 @@ AGM 模型和其他用于信念修正的逻辑框架基于一种二分法的信�
 
 然而，信念修正理论在处理具有概率为零条件的条件概率的问题限制情况中被证明是有用的。信念修正理论的洞见已被用于构建非标准的概率模型，在这些模型中，条件化也可以在这种限制情况下进行（Makinson 2011）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Citations annotated in smaller text refer to books or articles that are recommended for further introductory reading.

@@ -162,6 +162,7 @@
 
 在选择序列的早期引入和杆定理的证明之后，创造主体论证是直觉主义主观方面开发的新步骤。没有原则性的理由认为这应该是最后一步。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 A full bibliography of Brouwer’s writings can be found in

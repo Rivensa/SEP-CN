@@ -142,6 +142,7 @@ The claim that there are a shared set of concepts which are at the indispensable
 
 斯特劳森并不寻求招徒，也没有写太多来捍卫自己观点的文章（除非必要）。然而，他不断产生了原创而深刻、优雅表达的哲学作品，涉及了广泛的主题。因此，他对哲学产生了相当大的影响，无论是在他的有生之年还是在他去世后。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

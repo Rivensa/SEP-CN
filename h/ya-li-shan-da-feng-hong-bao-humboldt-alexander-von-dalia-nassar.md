@@ -292,6 +292,7 @@ US Congressman George Perkins Marsh read Humboldt’s writings before the US Con
 
 总的来说，很难想象 19 世纪没有洪堡以及他创立和支持的科学、艺术和哲学传统。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 I have provided references to English translations of Humboldt’s works following reference to the French and (or) German original. As noted above, however, translators were often liberal with their translations. Thus, although I reference English translations, the translations of passages provided here are my largely my own. Accordingly, exact replicas of the English renditions provided here may not be found in the translations referred to (this is especially the case with Otté’s *Cosmos* [CO] which remains the most easily accessible version of the work). Furthermore, in cases where a passage only appears in the German edition, I have only referred to the German.

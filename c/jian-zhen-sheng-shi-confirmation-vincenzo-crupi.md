@@ -491,6 +491,7 @@ blite(x)≡(ext≤T(x)→黑色(x))∧(¬ext≤T(x)→白色(x)).
 
 毫无疑问，(i) 和 (ii) 远远不能令人满意地解决这个布莱特悖论。然而，至少似乎是一个引人注目的最低要求，即一个令人信服的解决方案（如果存在的话）应该同时暗示这两点。有趣的是，坚定性确认与 (i) 不一致，而亨普尔式确认和 HD-确认与 (ii) 不一致。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Achinstein, P. (ed.), 2005, *Scientific Evidence: Philosophical Theories and Applications*, Baltimore: John Hopkins University Press.

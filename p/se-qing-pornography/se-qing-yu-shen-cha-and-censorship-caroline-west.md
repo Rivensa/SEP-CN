@@ -240,6 +240,7 @@ Dworkin 承认，也许言论自由权利如果要有意义，就需要每个人
 
 色情的危害是什么？自由社会应该如何应对有害色情的泛滥？自由主义者应该如何概念化和平衡平等和言论自由等重要价值观？国家在保护和促进自主权和平等等价值观方面应该扮演什么角色？自由主义理念能否与女权主义原则和目标相调和？对于这些重要问题的答案的寻求构成了对色情和审查问题持续哲学兴趣的大部分原因。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Altman, A. and L. Watson, 2018, *Debating Pornography*, New York: Oxford University Press.

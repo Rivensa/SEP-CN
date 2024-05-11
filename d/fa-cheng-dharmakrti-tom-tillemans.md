@@ -191,6 +191,7 @@ Dharmakīrti’s version of the *apoha* theory is developed in long sections in 
 
 《认识论论疏》的梵文和藏文诗句由 Miyasaka（1971/72）编辑。自注（Svavṛtti）的梵文由 Gnoli（1960）编辑。部分版本也出现在几种翻译中。第一章和自注部分被翻译成英文：I.1–10 加上自注在 Gillon 和 Hayes（1991）中翻译成英文；I.1–51 加上自注在 Mookerjee 和 Nagasaki（1964）中翻译成英文。有关第一章 40–185 加上自注的德文翻译，请参阅 Frauwallner（1932；1933）。Steinkellner（2013）是第一章各部分和有关逻辑原因理论的自注的德文翻译。Eltschinger（2007）提供了 I.213–268 的法文翻译。Eltschinger，Krasser 和 Taber（2012）包含了 I.312-340 和自注的英文翻译。Eltschinger，Taber，Much 和 Ratié（2018）是 I.40–91 和自注的英文翻译。Dunne（2004）提供了 I.34–37，68–75，137–142，214–223 和自注的英文翻译。第二章 1-6 以及 Devendrabuddhi 和Śākyabuddhi 的评论选集在 Dunne（2004）中翻译：II.1-7 在 van Bijlert（1989）中翻译；II.34-72 以及 Prajñākaragupta 的评论在 Franco（1997）中翻译成英文；Vetter（1990）提供了 II.131cd-285 的德文翻译。Pecchia（2015）包含了 II.190–216 和 Manorathanandin 的评论的英文翻译。Jackson（1993）包含了第二章和 rGyal tshab 的藏文评论的英文翻译。第三章在 Tosaki（1979；1985）中被翻译成日文；Dunne（2004）将 III.1–10，194–224 翻译成英文，并附有 Devendrabuddhi 和Śākyabuddhi 的评论选集；Franco 和 Notake（2014）将 III.1-63 翻译成英文。第四章 1–148 在 Tillemans（2000）中被翻译成英文。有关《认识论论疏》和其印度评论的部分翻译，请参阅 Dunne（2004）中的表格，第 333–334 页。有关佛教认识论和逻辑研究的早期但仍然重要的参考书目，请参阅 Steinkellner 和 Much（1995）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arnold, Dan A., 2003, “Candrakīrti on Dignāga on _Svalakṣaṇa_s,” *Journal of the International Association of Buddhist Studies*, 26(1): 139–174.

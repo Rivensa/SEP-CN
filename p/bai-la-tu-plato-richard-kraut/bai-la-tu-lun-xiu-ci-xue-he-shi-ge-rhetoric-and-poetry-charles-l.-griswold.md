@@ -187,6 +187,7 @@ Ion 是一位屡获殊荣的诗歌朗诵者，一位“吟游诗人”，尤其�
 
 可以说，柏拉图对诗歌和修辞的批评的最后一句话并没有在他的对话中说出，而是体现在他完善的对话形式的写作中。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, J. C., 1996, “The Rhetorical Significance of the Conversion of the Lover’s Soul in Plato’s *Phaedrus*,” *Rhetoric Society Quarterly*, 26: 7–16.

@@ -640,6 +640,7 @@ W. V. O Quine [1953] 曾经争论过，在模态运算符内部绑定量词是�
 
 当然，这里所呈现的小样本并不包括每个被提出作为古典一阶逻辑的竞争对手的逻辑系统，无论是作为唯一真正的逻辑的候选，还是作为逻辑多元主义的进一步实例。例如，请参阅关于子结构逻辑、模糊逻辑和其他许多逻辑的条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Alan and Nuel Belnap, 1975, *Entailment: The logic of relevance and necessity I*, Princeton: Princeton University Press.

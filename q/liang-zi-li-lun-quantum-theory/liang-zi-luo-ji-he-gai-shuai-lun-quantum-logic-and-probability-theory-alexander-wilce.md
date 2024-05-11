@@ -362,6 +362,7 @@ Pr(Q|WP)Pr(P|W) = Pr(PQP|W).
 
 J. van de Wetering（\[2019]）的一个显著最新结果表明，任何有限维次序单位空间，其次序区间\[0,u]在第一个变量中连续的二元运算下是 SEA，自然地成为一个欧几里德（等价地，形式实）约旦代数。\[22]
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abramsky, Samson and Bob Coecke, 2009, “Categorical Quantum Mechanics”, in Engesser, Gabbay, and Lehmann 2009: 261–323. doi:10.1016/B978-0-444-52869-8.50010-4

@@ -130,6 +130,7 @@ Páez 从哥伦比亚大学获得哲学学士学位，并从纽约市立大学�
 
 第二个项目是编辑《宗教研究》杂志的特刊（Alvarado & Portugal forthcoming），将汇集一些最近关于上帝的存在和本质，以及宗教信仰和实践的合理性或理由的研究项目的结果，这些项目得到了天普顿基金会的资助。这些项目得到了两项旨在促进西班牙语和葡萄牙语拉丁美洲系统性分析宗教哲学研究的大型资助的支持。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alchourrón, Carlos E., 1993, “Philosophical Foundations of Deontic Logic and the Logic of Defeasible Conditionals”, in J.-J. Meyer & R. J. Wieringa (eds.), *Deontic Logic in Computer Science: Normative System Specifications*, Chichester: Wiley and Sons, pp. 43–84.

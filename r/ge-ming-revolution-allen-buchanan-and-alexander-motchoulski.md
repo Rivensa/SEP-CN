@@ -150,6 +150,7 @@ Massimo Renzo 对 Buchanan 的论点提出了以下批评回应（Renzo 2018）�
 
 另一种表达这个基本观点的方式是，对革命道德进行理论化应该是“自然化”的，这并不意味着将规范问题归结为事实问题，而是指理论家应该认识到革命中实际发生的事实的相关性。在他们这样做之前，关于革命还是改革是道德进步的最佳途径的长期争论，这对于革命的正当化至关重要，将无法解决。这意味着对革命的规范理论化，如果要具体到足以指导行动，不仅需要哲学家传统技能，还需要借助相关社会科学理论来解释大规模变革是如何发生的（一个事实性问题），并结合对革命在不同背景下可能产生的道德进步的原则性评估。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 The citations to **MER** refer to *The Marx-Engels Reader*, Robert Tucker (ed.), New York: W.V. Norton, 2nd edition, 1978.

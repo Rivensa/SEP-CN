@@ -133,6 +133,7 @@ Karl Schuhmann 和 Barry Smith 对 Reinach 的作品进行了批判性的编辑�
 
 莱纳赫在形成和推动现象学运动方面的历史作用仍然没有得到充分的赞赏。但更重要的是，他的系统洞见也可以说是如此：他的许多思想仍在等待在当代辩论中重新激活，特别是在心灵哲学、行动哲学、价值论、法律哲学和社会本体论等领域。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### A. Works by Reinach

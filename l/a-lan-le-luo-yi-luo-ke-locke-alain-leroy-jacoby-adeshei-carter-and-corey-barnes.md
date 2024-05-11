@@ -337,6 +337,7 @@ Beyond this 阿兰·勒罗伊·洛克 thinks it a meaningful query to ask whethe
 
 洛克声称，种族偏见是由异常的心理倾向和习惯造成的。这些习惯通常在无意识中起作用，但并不免于控制和改善。此外，洛克认为种族信条是扭曲的概念体系，是我们对种族优越性和劣势性观念的根源。种族偏见和种族信条可以和应该作为种族实践的特征被消除。他的种族消除主义是部分的或有条件的，因为他主张摒弃我们种族实践中更有害的形式，并坚决主张用种族作为社会文化的观点来替代当前的种族概念。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Abbreviations of Principal Works

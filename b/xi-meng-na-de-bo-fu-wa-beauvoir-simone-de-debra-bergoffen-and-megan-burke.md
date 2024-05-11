@@ -208,6 +208,7 @@
 
 此外，波伏娃的作品激发了对各种生活经验的女性主义哲学分析，如具身和压迫（Young 1980; Bartky 1990; Burke 2019; Froidevaux-Mettiere 2021），父权制的爱（Mann 2009），男性气质和民族主义（Mann 2014），随便约会文化（Bauer 2017），#黑人女孩的快乐（Mason 2018），街头骚扰（Vera-Gray 2018），女性的屈从（Garcia 2018），身体积极性（Leboeuf 2019）；跨性别主体性（Antonopoulos 2017; Burke 2020），非一夫一妻制（Kean 2018; Anderson 2021），#MeToo（McKinney 2019; Melo Lopes 2021），产科暴力（Shabot 2021），老年（Stoller 2014; Kruks 2022）；强奸（Bergoffen 2017）；和真实性（Cleary 2022）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Works by Beauvoir

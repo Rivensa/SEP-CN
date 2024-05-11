@@ -222,6 +222,7 @@ Halfon（1989年，54页）认为苏格拉底致力于追求真理和知识，�
 
 任何追求诚信的努力都必须考虑到社会和政治背景的影响。更有利于诚信的社会是那种能够让人们发展和利用批判性反思能力的社会，不因性别、种族或其他任何原因而强迫人们扮演特定角色，并且不鼓励个人背叛彼此，无论是为了逃脱监狱还是为了提升自己的职业生涯。社会和政治结构既可以对诚信的发展不利，也可以对其有利，有时两者兼而有之。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alcoff, Linda Martín, 2002. ‘Does the Public Intellectual Have Intellectual Integrity?’ *Metaphilosophy*, 33: 521–534.

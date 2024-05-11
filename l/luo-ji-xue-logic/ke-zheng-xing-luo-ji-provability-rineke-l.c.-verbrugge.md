@@ -335,6 +335,7 @@ S5 ⊢ □A→A，（如果一个人知道 A，则 A 是真的）。
 
 总之，形式可证性是一个精确定义的概念，比真理和知识更加明确。因此，在可证性范围内的自我引用不会导致像谎言悖论那样的语义悖论。相反，它导致了一些关于数学的最重要的结果，比如哥德尔的不完全性定理。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### General references on provability logic

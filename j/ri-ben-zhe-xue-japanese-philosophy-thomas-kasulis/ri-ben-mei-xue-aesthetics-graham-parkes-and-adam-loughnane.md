@@ -235,6 +235,7 @@ Sesshū的生活和作品是日本美学的典范，因为他的实践不仅仅�
 
 对于每个切换，小津安二郎都安排了至少一个形式元素来提供相邻场景之间的连续性（切割续接）。小津的不显眼的切换仍然是世界电影中最时尚的切割之一，他的作品仍然是灵感的源泉。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Berthier, François, 2000, *Reading Zen in the Rocks: The Japanese Dry Landscape Garden*, Graham Parkes (trans.), Chicago and London: University of Chicago Press.

@@ -430,6 +430,7 @@ Chalmers (2012)认为功能概念忽视了计算的重要特征。正如他所�
 
 计算主义者回应说，计算理论允许对认知的具身性给予应有的认可。计算模型可以考虑到心灵、身体和环境的持续互动。毕竟，计算模型可以纳入感觉输入和运动输出。没有明显的理由认为对代理-环境动力学的强调排斥了对内部心理计算的双重强调（Clark 2014: 140–165; Rupert 2009）。计算主义者坚持认为计算理论可以纳入具身认知运动提供的任何合法见解。他们还坚持认为计算理论仍然是我们解释众多核心心理现象的最佳框架。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aitchison, L. and Lengyel, M., 2016, “The Hamiltonian Brain: Efficient Probabilistic Inference with Excitatory-Inhibitory Neural Circuit Dynamics”, *PloS Computational Biology*, 12: e1005186.

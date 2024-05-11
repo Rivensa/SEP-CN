@@ -229,6 +229,7 @@ Meillassoux 得出结论，就在于它将绝对（曾被形而上学所宣称�
 
 鉴于其对几乎整个现代哲学的反对态度，梅拉苏的思想至少与其挑战的“信仰主义”一样具有争议性，其可信度取决于一个人对一系列基本问题的立场，而这些问题超出了本文讨论的范围。（有关梅拉苏思想的有用批判性讨论，请参见 Sparrow 和 Watkin。）在这方面，它有助于展示信仰主义问题，远非在宗教哲学中的边缘问题，而是直接引入了现代形而上学和认识论的最深层次问题。鉴于其对几乎整个现代哲学的反对态度，梅拉苏的思想至少与其挑战的“信仰主义”一样具有争议性，其可信度取决于一个人对一系列基本问题的立场，而这些问题超出了本文讨论的范围。（有关梅拉苏思想的有用批判性讨论，请参见 Sparrow 和 Watkin。）在这方面，它有助于展示信仰主义问题，远非在宗教哲学中的边缘问题，而是直接引入了现代形而上学和认识论的最深层次问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Barth, Karl, 1957. *Dogmatics, Vol. 2: The Doctrine of God, Part 1*, T.H.L. Parker et al. (trans.), G.W. Bromiley and T.F. Torrance (eds.) London: T&T Clark International.

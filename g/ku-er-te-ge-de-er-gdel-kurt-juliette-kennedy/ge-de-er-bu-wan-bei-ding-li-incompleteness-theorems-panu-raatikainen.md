@@ -495,6 +495,7 @@ Finally, there is an open-source e-book that contains a presentation of the inco
 
 * Zach, Richard, 2019, [*Incompleteness and Computability*](https://ic.openlogicproject.org/), e-Book published by the Open Logic Project.
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Auerbach, David, 1985, “Intensionality and the Gödel theorems,” *Philosophical Studies*, 48 (3):337–51.

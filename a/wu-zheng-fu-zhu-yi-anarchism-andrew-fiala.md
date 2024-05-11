@@ -276,6 +276,7 @@
 
 回复：针对这个反对意见，人们可以捍卫哲学思考的重要性。在采取行动之前，明确原则和观念是很重要的。而在无政府主义中，风险相当高。哲学无政府主义所引发的难题是深刻的。它们引导我们质疑传统的主权观念、政治义务等等。它们引导我们思考文化和伦理惯例，包括我们关于社会生活的理论和组织的首要原则。鉴于许多这些问题难以解决，哲学无政府主义者可能认为谨慎是必要的。此外，哲学无政府主义者还可能捍卫惊奇的重要性。无政府主义的批判使我们有理由对我们所理所当然的事物感到惊奇。惊奇可能不会立即改变世界或导致直接行动。但惊奇是思考和道德行动的重要一步。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, William C. and Zoé Samudzi, 2017, “The Anarchism of Blackness” at *The Anarchist Library* [[Anderson and Samudzi 2017 available online](https://theanarchistlibrary.org/library/william-c-anderson-zoe-samudzi-the-anarchism-of-blackness)]

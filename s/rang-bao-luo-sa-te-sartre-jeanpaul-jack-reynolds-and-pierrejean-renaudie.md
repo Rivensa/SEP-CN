@@ -197,6 +197,7 @@
 
 我们不能简单地总结一个公共知识分子和文学家，像萨特那样的人。然而，我们认为，可以争论的是，在回顾的基础上，萨特的一些干预是预见性的，而不是 19 世纪的过时残余（如同福柯）。它们确实预示了当今关于阶级、种族和性别的重要问题。当然，这并不意味着萨特完全正确，无论对于社会政治生活的复杂现实意味着什么。事实上，如果一个人像萨特那样对自己时代的许多重大社会政治问题表态，历史不会对他们都持好意是不可避免的。因此，萨特的生活和著作提出了一个复杂而困难的解释任务，但它们仍然是今天思考和行动的强大激励。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 This bibliography presents a selection of the works from Sartre and secondary literature that are relevant for this article. For a complete annotated bibliography of Sartre’s works see

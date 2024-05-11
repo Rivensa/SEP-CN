@@ -634,6 +634,7 @@ Cappelen 和 Hawthorne 将新相对主义（他们称之为分析相对主义）
 
 相对主义以各种形式存在，这些形式本身根植于不同的哲学动机。没有所谓的“纯粹相对主义”，也没有一个单一的论证可以证明或驳斥所有已提出的相对主义立场。然而，尽管存在这种多样性，但有共同之处和家族相似之处，这使得我们可以使用“相对主义”这个标签来描述我们所讨论的各种观点。相对主义仍然是一个备受争议的话题，尽管有各种尝试将其从哲学讨论中排除。然而，最令人惊讶的是，在至少某些分析哲学领域中，这种学说的某些版本最近变得非常流行。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arageorgis, A., 2017, “Relativism, translation, and the metaphysics of realism”, *Philosophical Studies*, 174(3): 659–680.

@@ -168,6 +168,7 @@ Larry May 是一位女性主义者，专门探讨男性社会化在培养男性�
 
 女性主义道德心理学的主题受到了结束妇女压迫的女性主义目标的推动。尽管所有女性主义者的共同点是他们分享这一目标，但正如我们所看到的，女性主义者在如何最好实现这一目标上存在分歧。具体而言，在道德心理学的主题上，女性主义者在以下问题上存在分歧：情感在道德理论中的作用；妇女是否拥有畸形欲望以及畸形欲望在多大程度上干扰了妇女的自主权；主导群体男性对参与妇女压迫的责任程度；主导群体成员是否能够站在非特权群体的角度看问题；次要群体成员的社会化或背景情况是否减轻了他们对与压迫无关的不道德行为的责任或应受责备程度；以及妇女是否有责任抵抗自己的压迫。我们不应该得出这些分歧表明女性主义哲学学术是如此分裂以至于无用的结论。相反，我们应该得出相反的结论，即女性主义的洞察力通过引起哲学家对以前被忽视或未被充分审查的问题的关注，极大地丰富了道德心理学领域。女性主义者在这些问题上取得的进展是消除妇女压迫的关键。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Asefa, Semra, 1998. “Female Genital Mutilation: Violence in the Name of Tradition, Religion, and Social Imperative,” in *Violence Against Women: Philosophical Perspectives*, Stanley G. French, Wanda Teays, and Laura M. Purdy (eds.), Ithaca, NY: Cornell University Press, pp. 92–104; previously published in *Interpersonal Violence, Health, and Gender Politics*, 2nd edition, S. G. French (ed.), Dubuque, Iowa: Brown & Benchmark, 1994.

@@ -382,6 +382,7 @@ Jack 想要一件羊毛衫
 
 然而，即使暗中操作者理论可能会受到质疑，理由是在其范围内，我们仍然将“生活在奥林匹斯山上”这一概念应用于一个抽象对象上，这是无法理解的。仅仅在无法理解的前面加上“根据神话”并不能使其变得可理解。但显而易见的事实是，（25）既可理解又正确。因此，要么在无法理解的前面加上“根据神话”可以使其变得可理解，要么嵌入句中所发生的事情不能被解释为标准的断言。有关这些问题的进一步讨论，请参见van Inwagen 1977、Parsons 1980、Zalta 1988、Thomasson 1998和Salmon 2002等文献。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Almog, J., 1998, “The Subject Verb Object Class I”, *Philosophical Perspectives*, 12: 39–76.

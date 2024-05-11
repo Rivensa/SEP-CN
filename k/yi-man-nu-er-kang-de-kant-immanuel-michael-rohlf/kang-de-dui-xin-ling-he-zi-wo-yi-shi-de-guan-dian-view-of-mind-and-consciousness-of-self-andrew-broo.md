@@ -381,6 +381,7 @@ CPR 包含了关于心灵的其他论述，这些论述在两个版本中保持�
 
 简而言之，当代认知科学中关于心智的主导模型是康德式的，但他最独特的贡献之一并未被纳入其中（Brook, 2004）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

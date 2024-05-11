@@ -458,6 +458,7 @@ Huddleston和Payne在《剑桥英语语法》（Huddleston和Pullum（编），2
 
 物质类别仍处于发展初期，似乎与几十年前的事件类别相似。物质和物质论述代表着以下两种可能：（i）一个重要的本体论类别，尚未被充分理解；或者（ii）一种独特的对物体进行构思或讨论的方式，其与物体论述的接口同样不为人所理解。在关于质量表达的指称对象和逻辑语言机制缺乏共识的情况下，关于物质的争议注定会继续存在。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arntzenius, F., 2014, *Space, Time, and Stuff*. London, England: Oxford University Press.

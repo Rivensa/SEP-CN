@@ -1122,6 +1122,7 @@ Mizar 的目标是帮助从业者形式化证明并检查其正确性；其他�
 
 最初，计算机被用来辅助科学家进行复杂而常常乏味的数值计算。随后，机器的能力从数字领域扩展到了符号领域，通过计算机代数程序进行无限精度计算已经成为日常事务。自动推理的目标是进一步扩展机器在推理领域的能力，使它们能够作为推理助手帮助用户通过证明来建立真理。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alama, J., P. Oppenheimer, and E. Zalta, “Automating Leibniz’s Theory of Concepts”, *CADE 25: Proceedings of the 25th International Conference on Automated Deduction*, (Lecture Notes in Artificial Intelligence: Volume 9195), A. Felty and A. Middeldorp (eds.), Berlin: Springer, pp. 73–97.

@@ -219,6 +219,7 @@ Barry 等人（2014）使用实证研究支持安全网案例的第三类方法�
 
 最近的研究提出了如何解释消除障碍（McMahan 1993，Rickless 2011，Hanser 1999，Hall 2008），过去行为（Persson 2013，Hanna 2014，2015）以及经验研究的重要性（Kahneman and Tversky 1983，Horowitz 1998，Sinnott-Armstrong 2008，Cushman et al 2008，Barry et al 2014）方面的新挑战。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Cited Works

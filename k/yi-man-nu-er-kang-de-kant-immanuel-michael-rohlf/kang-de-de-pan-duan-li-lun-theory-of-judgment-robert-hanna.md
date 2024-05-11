@@ -206,6 +206,7 @@ Longuenesse恰当地将这个康德主题称为“对表象对象的内化表象
 
 正如我们在4.1至4.3节中所看到的，康德的判断理论在与他的概念主义与非概念主义问题（在补充部分《共同性原则、康德的概念主义和康德的非概念主义》中）以及他的强先验唯心主义形而上学（第3.1节和补充部分《完善康德判断形而上学的图景》）相结合时，会出现至少三个严重问题。这是否意味着他的判断理论在哲学上是不可接受的，最多只是18世纪德国哲学的古董奇闻？不是这样的。这是因为康德的判断理论中的问题似乎主要是由于他将中心论和命题优先论与先验唯心主义论结合在一起。但假设最强版本的先验唯心主义是错误的，并且先验唯心主义论要么逻辑上与其他两个论题分离，要么保留但基于一个明显较弱的先验唯心主义版本（Hanna 2006b，第5章）：那么剩下什么呢？我们得到了一个基本上以判断为导向的康德式人类理性的一般理论，然后进一步得到了关于判断的性质以及各种不可约简的不同类型的判断的具体康德式论述，这些论述基本上以人类中心的经验意义和命题的真实性为导向。因此，康德的判断理论完全是认知主义的，但也是反心理主义和反柏拉图主义的，从而将判断的几个“面孔”融合成一个统一的教义。因此，康德的非概念主义（见补充部分《共同性原则、康德的概念主义和康德的非概念主义》）对B推论（第4节）造成了严重的困扰。1) 再加上进一步的事实，即先验唯心主义的最强版本很可能是错误的——因为当无限制的先验虚构论命题与中心论和命题优先论结合在一起时，会导致康德理论中的矛盾，而这些矛盾不仅仅是由其他两个命题的结合所导致的——最终并不会损害康德判断理论中其他基本部分的哲学兴趣、当代相关性和批判性的可辩护性。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Internal references to Kant’s *Critique of Pure Reason* contain page numbers from both the A (1781) and B (1787) German editions. All other internal references to Kant’s writings are cited using the relevant volume and page number from the standard “Akademie” edition of Kant’s works: *Kants Gesammelte Schriften*, edited by the Königlich Preussischen (now Deutschen) Akademie der Wissenschaften (Berlin: G. Reimer \[now de Gruyter], 1902–).

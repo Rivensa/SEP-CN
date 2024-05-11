@@ -461,6 +461,7 @@ Haecceitism 是一种观点，认为身份属性（如成为科菲·安南或成
 
 但是关键问题不是任何形式的监督是否成立，而是那些成立的形式是否构成对基础问题的令人满意的答案。对于积极答案的辩护，请参见 Sider 1999 年；对于否定答案的辩护，请参见 Bennett 2004b 年。有关新的观点，请参见 Sider 2008 年。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Armstrong, David, 1978, *A Theory of Universals, Vol.2 of Universals and Scientific Realism*, Cambridge: Cambridge University Press.

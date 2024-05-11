@@ -192,6 +192,7 @@ Doxing 提出了复杂的伦理挑战（Douglas 2016）。对于遭受 doxing �
 
 一旦我们认识到与许多应用伦理学家理所当然地经常关注的“生死”伦理困境（例如堕胎、安乐死和死刑）不同，新兴的信息技术如 SNS 在很短的时间内已经融入了我们生活的日常道德结构，改变了社交景观和我们在其中航行的道德习惯和实践，这项任务的深切紧迫性就变得明显起来。这里所揭示的伦理关切在实质上绝非“学术”的，哲学家和更广泛的人类社群都无法奢侈地将其视为学术问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Axon, S. 2021, “96% of US Users Opt-Out of App Tracking in iOS 14.5, Analytics Find,” *Ars Technica*, May 7, 2021. \[[Axion 2021 available online](https://arstechnica.com/gadgets/2021/05/96-of-us-users-opt-out-of-app-tracking-in-ios-14-5-analytics-find/)]

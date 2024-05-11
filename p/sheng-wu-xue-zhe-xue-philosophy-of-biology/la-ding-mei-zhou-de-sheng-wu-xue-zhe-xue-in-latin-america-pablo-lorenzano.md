@@ -254,6 +254,7 @@ Caponi（2020）给出的答案与López Beltrán（2000-2001）或Pena（Pena�
 
 这里介绍的第一代甚至第二代拉丁美洲生物学哲学家的工作现在被新一代学者所研究，许多学者也接受了这种科学哲学的方法培训，为新兴传统奠定了基础。目前，生物学哲学在拉丁美洲科学哲学的发展中起着重要作用。此外，这一领域的工作可能有助于科学的教学、教育和传播，以及科学政策和管理。它甚至可能有助于发展一个具有社会敏感性和道德责任的科学社区和社会。虽然拉丁美洲生物学哲学的未来很难预测，但我们可以说，如果有适当的政治和经济条件，它将进一步发展和蓬勃发展。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alleva, Karina, Díez, José Antonio and Lucía Federico, 2017, “Models, Theory Structure and Mechanisms in Biochemistry: The Case of Allosterism”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 63: 1–14. doi:10.1016/j.shpsc.2017.03.004

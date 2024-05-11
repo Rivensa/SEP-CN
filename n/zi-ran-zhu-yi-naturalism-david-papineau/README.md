@@ -266,6 +266,7 @@ G.E. Moore 的著名的“开放问题”论证旨在表明道德事实不可能
 
 这使我们得出了关于数学和模态知识的非自然主义现实主义解释。正如我们之前所看到的，这里最好的选择是借鉴新弗雷格纳计划，将数学和模态领域的知识基于先验分析原则。如果这个计划能够得到证明，那么它确实会违反方法论自然主义的要求。但是，正如之前观察到的，分析原则是否有能力带领我们获得数学和模态领域的现实主义知识，至少是一个悬而未决的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alter, T. and Pereboom, D., 2019, “Russellian Monism”, *The Stanford Encyclopedia of Philosophy* (Fall 2019 edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2019/entries/russellian-monism/>.

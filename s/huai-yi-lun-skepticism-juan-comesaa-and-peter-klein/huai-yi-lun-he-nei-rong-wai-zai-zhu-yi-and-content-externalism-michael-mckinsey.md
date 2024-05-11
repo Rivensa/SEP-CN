@@ -233,6 +233,7 @@ Brueckner (2016)建议，前提 B 是在提问，因为它的真实性需要树�
 
 最后，我们看到普特南的因果约束，如果成立，确实对基于 BIV 情景和（CP）的形式（SA）的怀疑论论证提出了严重问题。问题在于，当怀疑论论证应用于特定个体时，因果约束为这些个体提供了证明怀疑论论证至少有一个假前提的依据。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alston, William P., 1986 \[1989], “Epistemic Circularity”, *Philosophy and Phenomenological Research*, 47(1): 1–30; reprinted in his *Epistemic Justification: Essays in the Theory of Knowledge*, Ithaca, NY: Cornell University Press, pp. 319–350. doi:10.2307/2107722.

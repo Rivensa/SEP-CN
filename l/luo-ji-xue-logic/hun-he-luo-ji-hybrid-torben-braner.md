@@ -196,6 +196,7 @@ Prior 有时不是将名词作为第二种命题符号引入，而是使用命�
 
 自 1990 年代中期以来，混合逻辑的研究蓬勃发展。我们将读者参考参考书目中的出版物以获取更多参考资料。此外，请参阅下面的互联网资源。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Areces, C., 2000. *Logic Engineering. The Case of Description and Hybrid Logics*, Ph.D. thesis, Institute for Logic, Language and Computation, University of Amsterdam.

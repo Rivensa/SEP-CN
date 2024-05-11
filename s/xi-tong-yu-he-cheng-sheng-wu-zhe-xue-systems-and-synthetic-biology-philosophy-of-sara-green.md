@@ -232,6 +232,7 @@ ESB 不仅可以被视为系统生物学和进化生物学的交汇点，还可�
 
 由于本文考察了系统生物学和合成生物学的哲学意义，因此对工程方法的影响，包括所谓的设计原则的追求，受到了广泛关注。然而，重要的是要注意，系统生物学和合成生物学涵盖了广泛的研究实践，其中一些实践受到化学或物理学的启发，而不是工程学。因此，本文应被视为试图涵盖这些研究领域所涉及的广阔哲学领域的一部分。随着这两种方法的快速发展和它们明确的目标是解决重大的科学和社会挑战，生物学哲学将迎来令人兴奋的时代。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abrahamsen, Adele & William Bechtel, 2015, “Diagrams as Tools for Scientific Reasoning”, *Review of Philosophy and Psychology*, 6(1): 117–131. doi:10.1007/s13164-014-0215-2

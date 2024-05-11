@@ -72,6 +72,7 @@
 
 已经注意到，波菲利似乎致力于一种关于人类对感知对象知识获取的抽象主义观点。他在《托勒密的和声学评论》中有一节关于认识论的内容（11, 5–22, 7），其中主题是感知和理性（logos）在知识获取中的各自作用的问题。在这个讨论过程中，他描述了一个从感知开始，通过理解（antilepsis）和假设（doxastike hypolepsis）到灵魂中概念（epinoia）的接受的过程，这个概念与对象的形式相同；因此产生了知识（episteme），最终达到了理解（nous）。波菲利在这里所说的很多内容与中期柏拉图主义和亚里士多德学派的教义以及普罗提诺斯（对这个过程的细节相当模糊）和亚里士多德的观点是相容的。然而，关于智力方面，波菲利的解释中明显提到了柏拉图的第七封信，这与他纯粹接受亚里士多德关于感知对象知识获取的解释相矛盾（参见Chase 2010）。对于波菲利思想的这些方面需要进一步研究。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Porphyry’s works can now be found in an electronic version in the original Greek in the [*Thesaurus Linguae Graecae*](http://www.tlg.uci.edu/) collection. Below is a list of editions and translations of single works and fragment works followed by a selected list of secondary literature.

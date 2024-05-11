@@ -262,6 +262,7 @@ Here too it becomes apparent that Hegel, taking up themes from the Phenomenology
 
 > 尝试展示这一系列精神构想如何必然地相互衍生，以至于每种哲学都必然假定前一种哲学。我们的立场是精神的认知，是将理念视为精神、绝对精神，作为绝对精神与另一个精神、有限精神相对立的认识。认识到绝对精神可以为其是这个有限精神的原则和使命。（LHP 1825-6，III：212）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### German Works

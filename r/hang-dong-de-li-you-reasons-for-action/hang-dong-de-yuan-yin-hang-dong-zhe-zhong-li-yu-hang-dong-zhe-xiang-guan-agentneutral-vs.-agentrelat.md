@@ -209,6 +209,7 @@ p 的行将促进 N 的事实[其中 N 是某个事态，没有使用‘p’的�
 
 行动者相关/行动者中立的区分对于规范哲学中的广泛辩论非常重要。然而，这个区分经常以非常不同的方式进行划分，存在哲学家互相无法理解的风险。在本文中，我们区分了不同的划分方式，并捍卫了基于原则的方法的修改版本的优点。所做的区分与其他可能容易混淆的区分不同；这些区分在这里列出，以帮助防止混淆。最后，所做的区分在规范理论的核心辩论中起着重要的作用，例如如何理解功利主义者和义务论者之间的分歧。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Broome, John, 1995. “Skorupski on agent-neutrality”, *Utilitas*, 7: 315–17. [[Preprint available online](http://www.brown.edu/Departments/Philosophy/bears/9511broo.html)]

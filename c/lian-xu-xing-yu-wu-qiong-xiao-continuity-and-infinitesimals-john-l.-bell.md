@@ -590,6 +590,7 @@ K中可逆元的逆元自然地被识别为可逆无穷小。作为“无限大�
 
 最后，简要谈一下SIA的模型。这些被称为光滑拓扑的模型是一种特定类型的范畴（参见范畴论条目），其中可以执行所有常规的数学运算，但其内部逻辑是直觉主义的，并且空间之间的每个映射都是光滑的，即无限可微的。正是这种“普遍光滑性”使得存在诸如Δ这样的无穷小对象成为可能。光滑拓扑的构造（Moerdijk & Reyes 1991）确保了SIA与直觉主义逻辑的一致性。尽管SIA与经典逻辑不一致，但事实上仍然如此。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aristotle, *Physics*, 2 volumes (Loeb Classical Library, 228 and 255), P. H. Wickstead and F. M. Cornford (trans), Cambridge, MA: Harvard University Press and Heinemann, 1980.

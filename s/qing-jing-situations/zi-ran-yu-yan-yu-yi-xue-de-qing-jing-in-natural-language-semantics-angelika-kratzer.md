@@ -678,7 +678,8 @@ b.
 
 至少在某些领域，将情境语义学和戴维森事件语义学结合起来的目标在许多作品中得到追求，包括 Lasersohn (1988, 1990)，Zucchi (1988)，Portner (1992)，Cooper (1997)和 Kratzer (1998)。
 
-### Bibliography
+#<!--md-padding-ignore-begin-->
+## Bibliography
 
 #### References mentioned in the text
 

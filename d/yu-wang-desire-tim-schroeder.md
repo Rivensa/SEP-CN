@@ -231,6 +231,7 @@ Another evaluatively loaded theory of desire has been proposed by T.M. Scanlon. 
 
 在康德（Kant）和阿帕利（Arpaly）截然不同的观点之间，有许多美德伦理学家的观点，其中亚里士多德（Aristotle）（也许）是其中之一，他们认为，为了使一个行为值得称赞，除了行为本身外，还需要有做正确事情的欲望和对正确的认识（例如，亚里士多德 1999 年，赫斯特豪斯（Hursthouse）1999 年）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ainslie, G., 1992. *Picoeconomics: The Strategic Interaction of Successive Motivational States Within the Person*, New York: Cambridge University Press.

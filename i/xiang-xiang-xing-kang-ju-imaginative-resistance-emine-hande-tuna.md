@@ -248,6 +248,7 @@ Gendler (2008a, 2008b)声称，她提出的 alief 是一种天生的倾向，能
 
 正如我们所见，在“想象性抗拒之谜”中，到目前为止只有“of”一词是无争议的。然而，这不应被视为陷入僵局的迹象。辩论的活跃程度不仅不会引发混乱和迷失方向，反而指向了这一主题的丰富性，并为想象性抗拒研究开辟了新的领域。这一研究领域仍处于初级阶段，需要进一步研究上述所有主题。其中一些最紧迫的研究问题包括：是否存在无根据/不合理的想象性抗拒反应？如何克服无根据/不合理的想象性抗拒反应？如何修订现有理论以解释抗拒反应的变化和抗拒触发主张的多样性？通过进一步的实证研究，我们可以从这个主题中获得更多的信息，并且在道德心理学、美学心理学、认知架构、评价性术语的语义学和语用学、模态认识论等领域进一步研究的机会也很多（借鉴了Levy 2005、Driver 2008、Levin 2012等学者的工作）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Barnes, Jennifer and Jessica E. Black, 2016, “Impossible or Improbable: The Difficulty of Imagining Morally Deviant Worlds”, *Imagination, Cognition and Personality: Consciousness in Theory, Research, and Clinical Practice*, 36(1): 27–40. doi:10.1177/0276236616643268

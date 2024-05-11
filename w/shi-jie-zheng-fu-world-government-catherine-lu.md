@@ -367,6 +367,7 @@ Coulthard also understands the political project of Indigenous “resurgence” 
 
 然而，从批判和后殖民主义的角度来看，国际关系理论的许多自然状态参考点是一个模糊的规范性神话，它掩盖了结构性统治的等级制度，这些等级制度渗透了世界秩序的发展（Jahn 2000; Lu 2017: 120）。后殖民主义和批判理论家通常与规范理论家分享道德关切和道德承诺（Kohn 2013）-正义，平等，自由，非统治-但他们的理论关注于分析当代结构和制度发展的原因和特征，以及使其成为可能的全球过程和条件的诊断任务。他们认为，当代全球秩序以阶级，种族和性别为基础的历史性和持续性结构性不公正所产生的激进不平衡和差异为某些功能和利益服务，就其所自然化，使能，压制和掩盖而言。在 2020 年和 2021 年，一个被深层政治，社会和经济结构性不平等划分的世界面临着流行病条件，经济衰退和环境恶化的发展，关于谁的世界共同体感和谁的全球需求将定义全球政治议程和秩序的问题比以往任何时候都更加突出。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abizadeh, Arash, 2008, “Democratic Theory and Border Coercion: No Right to Unilaterally Control Your Own Borders”, *Political Theory*, 36(1): 37–65. doi:10.1177/0090591707310090

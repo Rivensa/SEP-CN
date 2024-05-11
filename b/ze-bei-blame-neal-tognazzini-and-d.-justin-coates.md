@@ -217,6 +217,7 @@ G. A. Cohen 从不同的角度表达了同样的观点：
 
 此外，责备似乎只是我们对不当行为做出反应的众多方式之一，责备与承担责任、要求答案、惩罚等活动之间的关系仍然是一个悬而未决的问题。（有关一些尝试的分类，请参见麦克纳马拉 2011 年；休梅克 2011 年；史密斯 2012 年；托格纳齐尼 2015 年。）因此，对于上述关于责备伦理的问题的回答并不会自动成为对于这些其他互动方式伦理问题的类似问题的回答。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arpaly, N., 2006, *Merit, Meaning, and Human Bondage: An Essay on Free Will*, Princeton: Princeton University Press.

@@ -377,6 +377,7 @@ Cudworth 通过反思 Plotinus 的《恩涠集》来发展他的理论，在这�
 
 （有关莱布尼茨的意识主题，请参阅 Barth 2011; Bolton 2011; de Gaudemar 2004; Furth 1967; Jorgensen 2009, 2011a 和 2011b; Kulstad 1990; Thiel 2011（第 9 章第 3 节）; 以及 Simmons 2001 和 2011。）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

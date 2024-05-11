@@ -78,6 +78,7 @@ Positivism 的基本吸引力在于其“进步”的概念。基于奥古斯特
 
 自 1990 年恢复文职统治以来，哲学领域面临着诸多挑战，如新的国家优先事项（人权、经济增长、宪法改革、机构合法性的侵蚀），由于新私立大学的蓬勃发展，领域的分裂，以及国家教育委员会未能成功将哲学从中学课程中移除（2018 年）。与此同时，在其他方面，哲学在某些方面蓬勃发展，这要归功于前一代人的持续贡献（Roberto Torretti、Carla Cordua、Renato Cristi 和 Marcos García de la Huerta）或者后来出版的 Jorge Millas、Juan Rivano 和 Humberto Giannini 的著作。直到 2017 年去世，出生于 1927 年的 Jorge Eduardo Rivera 仍然是海德格尔最重要的专家。Pablo Oyarzún（1950 年出生）在美学和文学批评方面做出了重要贡献。最近，Andrés Claro（1968 年出生）已成为一个强大的新哲学声音，关注语言的诗意维度，如《Las vasijas quebradas》（2012 年）和《Tiempos sin fin》（2018 年）等作品。一种新趋势正在兴起，即对现代经济哲学基础的审查，最好的例证是 Leonidas Montes（1966 年出生）的《亚当·斯密在背景下》（2017 年）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

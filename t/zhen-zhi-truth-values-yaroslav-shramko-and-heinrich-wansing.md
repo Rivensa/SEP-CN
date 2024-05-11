@@ -335,6 +335,7 @@ Joseph Camp 在 2002 年的文章中（第 125-160 页）通过发展他所称�
 
 戈特洛布·弗雷格（Gottlob Frege）关于真值的概念已成为标准哲学和逻辑术语的一部分。真值的概念是现实主义、模型论语义学方法中不可或缺的工具。事实上，真值在模型论语义学的应用中起着至关重要的作用，例如在知识表示和基于语义表格的定理证明中，这些应用无法在本条目中进行讨论。此外，对真值的思考引发了关于其本质、事实本体论的可行性以及真值在这些本体论理论中的作用的深刻本体论问题。还存在着有充分动机的广义真值理论，远远超出了弗雷格的经典真值"真"和"假"。（有关真值领域进一步逻辑和哲学研究的各种方向，请参见 Shramko＆Wansing 2009b，2009c。）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Alan R. and Nuel D. Belnap, 1975, *Entailment: The Logic of Relevance and Necessity* (Volume I), Princeton, NJ: Princeton University Press.

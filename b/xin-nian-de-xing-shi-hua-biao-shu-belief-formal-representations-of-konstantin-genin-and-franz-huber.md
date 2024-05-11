@@ -764,6 +764,7 @@ AGM 的粉丝们会遗憾地发现，Shoham 修订不满足 AGM 保持性（合�
 
 当代对决策理论传统的贡献与 Levi 的观点有所不同。最近的研究并不认为认知效用主要是内容的函数。大多数这些提议并不涉及上下文中的问题。许多提议，如 Easwaran（2015）、Dorst（2017），等同于洛克式命题的一个版本，其中阈值由代理人对真实和错误信念的效用确定。由于这些本质上是洛克式的提议，它们会受到类似彩票的悖论的影响。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alchourrón, Carlos E. & Gärdenfors, Peter & Makinson, David, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions,” *Journal of Symbolic Logic*, 50: 510–530.

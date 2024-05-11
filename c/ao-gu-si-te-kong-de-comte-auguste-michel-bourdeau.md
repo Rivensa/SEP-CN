@@ -172,6 +172,7 @@ The year 1844 also marked his first encounter with Clotilde de Vaux. What follow
 
 对孔德哲学的充分评估还必须考虑到他的追随者的工作，这是一个近来受到重新关注的话题，尤其是对于英格兰（Wilson 2019, 2021）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

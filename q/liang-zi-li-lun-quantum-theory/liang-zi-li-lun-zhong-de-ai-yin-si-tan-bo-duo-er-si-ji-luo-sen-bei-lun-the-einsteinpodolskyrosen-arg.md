@@ -166,6 +166,7 @@ EPR 周围的文献中包含了另一个版本的论证，这个版本是一个�
 
 回到EPR关于局域性和完备性的困境，从贝尔定理来看，爱因斯坦在牺牲完备性的情况下偏向于局域性可能是错误的选择。尽管贝尔定理并不能最终排除局域性条件，但它确实应该让人们对假设局域性持谨慎态度。另一方面，由于爱因斯坦的爆炸火药论证（或薛定谔的猫）以及他后来对宏观系统的论证支持了不完备性而不假设局域性，人们应该谨慎采纳困境的另一方，即认为量子态描述是完备的，因此理论是非局域的。很可能最终会发现两个选择都需要被拒绝：状态函数不能提供完整的描述，而且理论也是非局域的（尽管可能仍然是可分离的；参见Winsberg和Fine 2003）。至少有一种众所周知的量子理论方法做出了这样的选择，即德布罗意-玻姆方法（玻姆力学）。当然，通过质疑其它一些假设（如可分离性、约化假设、特征值-特征态联系或测量独立性），也有可能合理地打破EPR论证的困境。这可能会使剩下的选择得到解放，将理论视为既局域又完备。也许埃弗雷特诠释的某个版本会占据这一解释树的分支，或者是关系性量子力学。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Bacciagaluppi, G., 2015, “Did Bohr understand EPR?” in F. Aaserud and H. Kragh (eds.), *One Hundred Years of the Bohr Atom* (Scientia Danica, Series M, Mathematica et physica, Volume 1), Copenhagen: Royal Danish Academy of Sciences and Letters, pp. 377–396.

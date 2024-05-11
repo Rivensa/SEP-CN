@@ -104,6 +104,7 @@
 
 在知识生活中寻求幸福的态度（参见 Endress 2014）以及依靠古人的遗产作为寻求“事物真相科学（ʿilm al-ashyaʿi bi-haqa’iqiha）”和个人成就的指导，弥合了 al-Kindi 时代伪科学的起点和穆斯林西方的发展之间的鸿沟，当时阿威罗伊提出了他对亚里士多德文集的评论计划（Endress 1998; 2004）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Abbreviations

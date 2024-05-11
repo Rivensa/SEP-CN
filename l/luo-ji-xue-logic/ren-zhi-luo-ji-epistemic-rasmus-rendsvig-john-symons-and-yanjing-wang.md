@@ -583,6 +583,7 @@ Hintikka 的早期认知逻辑可以理解为一种推理方式，用于推理�
 
 关于认知逻辑中涉及的各种理想化的讨论在哲学和跨学科背景下仍在进行中。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aloni, Maria, 2001, *Quantification Under Conceptual Covers*, Ph.D. Thesis, University of Amsterdam. [[Aloni 2001 available online](https://dare.uva.nl/search?identifier=990d4c6c-268c-41a5-9bfa-f89208405677)]

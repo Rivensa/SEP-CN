@@ -459,6 +459,7 @@ Knill 和 Pouget 对比了这两种方法：
 
 一种富有成效的意识神经科学需要我们在正确的分析水平上理解相关的神经特性。对于一般意识来说，这将涉及以一种可以避免访问/现象混淆的方式操纵相关特性，最近的工作侧重于将我们考虑过的许多理论相互对比。对于特定意识来说，关键问题将是理解神经表征内容，并找到将实验性神经内容与现象内容联系起来的方法。我们有工具来操纵神经内容以影响现象内容，通过这样做，我们可以开始揭示意识内容的神经基础。在哲学和实证方面还有许多有趣的工作有待完成，我们可以期待一个富有成效的跨学科研究计划。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aglioti, Salvatore, Joseph F.X. DeSouza, and Melvyn A. Goodale, 1995, “Size-Contrast Illusions Deceive the Eye but Not the Hand”, *Current Biology*, 5(6): 679–685. doi:10.1016/S0960-9822(95)00133-3

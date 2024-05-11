@@ -425,6 +425,7 @@ Tessler 和 Goodman（2019）提出了一种基于贝叶斯计算方法的一般
 
 Mahrad Almotahari（2022）对哈拉姆宇宙论证也采用了类似的策略：凡是开始存在的事物都有其存在的原因；宇宙开始存在；因此，宇宙有其存在的原因。 Almotahari 认为，论证的第一个前提受到一般过度泛化效应的影响。在日常生活中，我们所遇到的任何开始存在的事物都有一个原因，接受相应的一般一切开始存在的事物都有存在原因是完全合理的。但是哈拉姆宇宙论证需要一个普适一般化，而不是一个一般概念，Almotahari 认为我们不应该跨越这一步。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Almotahari, M., 2022, “Kalām and Cognition”. In Muhammad Saleh Zarepour, ed., Islamic Philosophy of Religion: Analytic Perspectives Routledge: Taylor and Francis Group.

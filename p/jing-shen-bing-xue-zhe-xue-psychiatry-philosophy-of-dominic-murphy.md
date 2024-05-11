@@ -236,6 +236,7 @@ Hoffman（2016）认为，扩展心智论对我们如何评判代理人的心理
 
 网络模型的直观吸引力依赖于这样一个观点：标准的医学疾病概念，将潜在状况与可见症状分开，在精神病学中毫无意义，并且过于简化（Borsboom et al 2019，Borsboom 2017）。然而，有人认为，对此进行回应时，（Bringmann and Eronen 2018）网络和潜变量模型并不容易区分，而且在它们之间的选择与还原主义的问题无关。此外，尽管像抑郁症这样的疾病不能作为网络的一部分，但我们可以将被视为潜在状态的神经学或遗传过程纳入网络中，以使网络和传统模型之间的界线变得模糊。Bringmann 和 Eronen 对文献的综述表明，模型选择不应该基于对疾病的背景图像，而应该基于其他因素，尤其是网络理论家强调的动态关系。单独一个精神疾病概念的哲学吸引力并不能合理化任何模型的选择。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aggarwal N.K., 2013. “Cultural Psychiatry, Medical Anthropology, and the DSM-5 Field Trials,” *Medical Anthropology*, 32: 393–398

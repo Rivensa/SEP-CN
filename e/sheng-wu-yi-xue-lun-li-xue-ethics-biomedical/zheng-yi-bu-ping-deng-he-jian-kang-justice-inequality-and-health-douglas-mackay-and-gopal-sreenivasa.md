@@ -266,6 +266,7 @@ Daniels (2008)发展了一种全球健康正义的制度主义方法。他拒绝
 
 戈帕尔·斯里尼瓦桑（2007b: 221）在全球分配正义的上述辩论中绕过，而是提出了全球健康正义的非理想解释，这一解释预期“任何合理和完整的正义理论将包括的最低要求”。他认为，最富裕的国家有义务将国民生产总值的 1%转移给最贫困的国家，优先用于支出健康的决定因素，包括医疗保健和公共卫生、收入和营养支持以及教育。这种转移既不过分苛刻，也不过于微不足道，因为如果用于健康的决定因素，它承诺将大幅提高世界上最贫困人口的预期寿命（斯里尼瓦桑 2007b）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, Nancy E. and Katherine Newman, 2002, “Socioeconomic Disparities In Health: Pathways And Policies”, *Health Affairs*, 21(2): 60–76. doi:10.1377/hlthaff.21.2.60

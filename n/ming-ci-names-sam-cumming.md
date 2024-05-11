@@ -371,6 +371,7 @@ b.
 
 这些差异的自然解释是，对于“the Alice”来说，一个构成性语义学，其中适当的名词贡献了一个元语言属性是正确的，但对于“Alice”来说不正确。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abbott, Barbara, 2002, “Definiteness and Proper Names: Some Bad News for the Description Theory”, *Journal of Semantics*, 19(2): 191–201. doi:10.1093/jos/19.2.191

@@ -698,6 +698,7 @@ Gärdenfors (2006) 和更一般的 Dietrich and List (2008) 以及 Dokow and Hol
 
 正如明显的，社会选择理论是一个广阔的领域。本文未涵盖或仅提及的领域包括：在风险和不确定性下的偏好和福利聚合（如何将个体偏好或个体福利聚合为社会偏好，当要排名的前景具有风险或不确定的结果时，最多可以分配概率；例如，Mongin 和 Pivato 2016）；公平分配理论（如何在几个索赔人之间分配一个或多个可分割或不可分割的物品，如蛋糕或房屋；例如，Brams 和 Taylor 1996 和 Moulin 2004）；匹配理论（如何将大学名额分配给申请人或将捐赠的器官分配给患者；例如，Gale 和 Shapley 1963；Roth 和 Sotomayor 1992；Klaus，Malove 和 Rossi 2016）；行为社会选择理论（分析各种聚合规则下的投票行为的经验证据；例如，Regenwetter 等人 2006）；经验社会选择理论（分析有关分配公正的调查和实验的人们直觉；例如，Gaertner 和 Schokkaert 2012）；拓扑社会选择理论（使用数学拓扑工具研究社会选择理论问题；例如，Chichilnisky 1980；Heal 1997）；计算社会选择理论（分析聚合规则的计算特性，包括它们的计算复杂性；例如，Bartholdi，Tovey 和 Trick 1989；Brandt，Conitzer 和 Endriss 2013）；非人类动物的集体决策研究（研究从社会昆虫到灵长类动物的各种动物物种的群体决策；参见，例如，Conradt 和 Roper 2003）；以及超越康多塞的陪审团定理和判断聚合的社会认识论应用（例如，对群体信念状态及其与个体信念状态的关系的分析；例如，Goldman 2004, 2010；Lackey 2016）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aczél, J. and C. Wagner, 1980, “A characterization of weighted arithmetic means,” *SIAM Journal of Algebraic Discrete Methods*, 1: 259–260.

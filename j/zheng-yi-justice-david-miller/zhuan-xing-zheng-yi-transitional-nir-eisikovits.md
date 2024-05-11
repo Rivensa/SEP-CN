@@ -384,6 +384,7 @@ Gutmann 和 Thompson（2000）认为，真相委员会的正当化需要满足�
 
 当一切都说完了，似乎国内和国际案件之间的主要区别在于是否使用法院的决定所产生的后果。在国内领域，不起诉可能会导致对法律的愈加愤世嫉俗（最终削弱法治），而在战争后追究责任可能会在某些情况下重新引发暴力。在这种情况下坚持公正，让人想起了1772年索默塞特案中曼斯菲尔德勋爵的名言：“即使天塌下来，也必须实现正义。” 当然，这个康德式的声明的问题在于，天塌下来后没有人能够享受到正义的果实。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abrahamsen, T. & H. van der Merwe, 2005, “Reconciliation through Amnesty? Amnesty Applicants' Views of the South African Truth and Reconciliation Commission”, Research report written for the Centre for the Study of Violence and Reconciliation. [[Abrahamsen and van der Merwe 2005 available online (pdf)](http://www.csvr.org.za/docs/trc/reconciliationthroughamnesty.pdf)]

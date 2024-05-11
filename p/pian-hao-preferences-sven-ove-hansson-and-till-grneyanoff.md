@@ -472,6 +472,7 @@ Jeffrey 的模型有两个限制。首先，它需要一个定义在命题空间
 
 批评者们对于理性选择这种间接偏好修改策略的可能性提出了质疑。Millgram（1998 年）认为，了解这些意愿驱动的方式使它们无法真正发挥其预期的作用。他举了一个汽车销售员的例子，为了在工作中取得成功，他使自己更喜欢他所代表的品牌为汽车提供的各种无用的小玩意。当销售员被解雇时，汽车经销商给他提供了一辆带有所有无用附件的汽车。因为他记得自己是如何获得这些偏好的，所以他选择不去采取行动。因此，Millgram 认为，意愿驱动的欲望并不是真实的。他指出，缺少的是真实偏好所带来的向后推理承诺。只有当一个人忘记自己是如何意愿选择特定偏好的，或者当一个人也获得了这种偏好的推理承诺时，意愿驱动的偏好才能成功。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abbas, Moncef, 1995. “Any Complete Preference Structure Without Circuits Admits an Interval Representation”, *Theory and Decision*, 39: 115–126.

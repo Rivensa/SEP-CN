@@ -612,6 +612,7 @@ C.
 | 感质是无法言喻的。                | 在同一社群中，使用与实际使用类似的感质术语的倒转和非倒转主体。                        |
 | 内容外在主义、再现主义和感质内在主义是不一致的。 | 完全重复的倒转主体；不假设这种情景是可能的。                                 |
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen, K., 2010, “Locke and the Nature of Ideas”, *Archiv für Geschichte der Philosophie*, 92: 236–255.

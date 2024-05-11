@@ -284,6 +284,7 @@ AI 在监视中的伦理问题不仅仅涉及数据的积累和注意力的引�
 
 因此，奇点再次引发了对人工智能概念的问题。令人注目的是，自从“达特茅斯夏季研究项目”（McCarthy 等人，1955 年[OIR]；Simon 和 Newell，1958 年）开始，想象力或“视野”一直在起着核心作用。而对这一愿景的评估则经历了戏剧性的变化：几十年间，我们从“人工智能是不可能的”（Dreyfus，1972 年）和“人工智能只是自动化”（Lighthill，1973 年）的口号，转变为“人工智能将解决所有问题”（Kurzweil，1999 年）和“人工智能可能会杀死我们所有人”（Bostrom，2014 年）。这引起了媒体的关注和公共关系的努力，但也引发了一个问题，即这种“人工智能的哲学和伦理”到底是关于人工智能还是关于一种想象中的技术。正如我们在开头所说，人工智能和机器人引发了关于我们应该如何处理这些系统、系统本身应该做什么以及它们在长期内存在的风险的根本问题。它们还挑战了人类作为地球上智慧和主导物种的观点。我们已经看到了被提出的问题，并将密切关注技术和社会发展，以及及早发现新问题、进行哲学分析并从传统哲学问题中学习。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 NOTE: Citations in the main text annotated “[OIR]” may be found in the [Other Internet Resources](https://plato.stanford.edu/entries/ethics-ai/#Oth) section below, not in the Bibliography.

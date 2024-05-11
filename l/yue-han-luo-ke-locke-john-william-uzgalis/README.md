@@ -382,6 +382,7 @@ William Uzgalis在他2017年的章节《约翰·洛克、奴隶制和印第安�
 
 最后，关于洛克著作的影响，请参阅附加文件：[“洛克著作的影响附录”。](https://plato.stanford.edu/entries/locke/influence.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

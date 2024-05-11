@@ -344,6 +344,7 @@ E. J. Lowe (1996) 辩护这一论点，并如下辩称(2)。
 
 伯克利的概念再次在这里起到帮助作用。我们可以将伯克利解释为暗示自我不仅仅是内省所能捕捉到的，或者我们可以将他解释为说，尽管概念呈现的实体比思想更奇怪，但它们同样完全捕捉到了它们。后者是“不需要解释”的观点。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Almog, J., 2001, *What am I? Descartes and the Mind-Body Problem*, Oxford: Oxford University Press.

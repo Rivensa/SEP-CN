@@ -533,6 +533,7 @@ Korsgaard（2009）认为，通过考虑卡罗尔悖论的工具理性类比，�
 
 但这个论点并不能提供一个理由，要求在适用工具原则的每个情况下都遵守工具原则。相反，它只在伴随着足够多的不遵守情况威胁到一个人作为一个行动者的地位时，才提供一个理由这样做（Kolodny 2005, 544; Shaver 2006, 342）。因此，就像前面的康德主义论证和第 4.3 节讨论的休谟的怀疑论一样，这个论点也未能解释为什么工具理性适用于每个情况。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Andreou, C., 2005, “The Voices of Reason,” *American Philosophical Quarterly*, 42(1): 33–45.

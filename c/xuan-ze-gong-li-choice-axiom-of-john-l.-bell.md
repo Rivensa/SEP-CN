@@ -397,6 +397,7 @@ x∈U↔f(r(x,0))=f(r(x,1))…by (\*\*)↔π1(f(r(x,0)))=π1(f(r(x,1)))∧π2(f(
 
 > [选择公理和类型理论](https://plato.stanford.edu/entries/axiom-choice/choice-and-type-theory.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aczel, P., 1978. “The type-theoretic interpretation of constructive set theory,” in A. ManIntyre, L. Pacholski, and J. Paris (eds.), *Logic Colloquium 77*, Amsterdam: North-Holland, pp. 55–66.

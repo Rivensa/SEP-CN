@@ -382,6 +382,7 @@ following a number of others, like Wendy Brown (2015). Here the analysis draws h
 
 这篇文章的目的不是确定“新自由主义”的唯一真正含义，而是阐明新自由主义作为一种一致的哲学学说，被通常被称为新自由主义者的人所接受。该条目还优先考虑了近期历史研究中对该术语更公正和不带有贬义的使用。这并不是要否定对新自由主义更具历史性和动态性的理解。它们包含了深刻的见解。但是，本条目的目标是将新自由主义描述为一种哲学立场。如果我们这样做，我们可以将新自由主义理解为一种支持强大的自由资本主义、宪政民主和适度福利国家的政治经济学说。[11]
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Elizabeth, 2019, *Private Government: How Employers Rule Our Lives (and Why We Don’t Talk about It)*, Princeton, NJ: Princeton University Press.

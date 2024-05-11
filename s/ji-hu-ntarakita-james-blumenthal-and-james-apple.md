@@ -127,6 +127,7 @@ The point that Śāntarakṣita is attempting to make here is that no phenomena,
 
 寂护对印度教批评者关于词义笔和由此产生的解释创新的回应，代表了佛教逻辑认识论思想的一个关键时刻。虽然我们看到了将证明论思想融入到中观哲学家的思想中的例子，尤其是与婆罗门派的思想家巴维韦卡，但直到寂护，我们才看到这两种思想的结合完全融合并以复杂的方式阐述出来。很难过分强调寂护将印度晚期哲学思想的这两个主要流派的结合对西藏哲学传统产生的巨大影响。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Blumenthal, J., 2009. “The ‘Neither-One-Nor-Many’ Argument of Śāntarakṣita: A Classical Buddhist Argument on the Ontological Status of Phenomena,” in J. Garfield and W. Edelglass (eds.), *Buddhist Philosophy: Essential Writings*, New York: Oxford University Press, pp. 46–60.

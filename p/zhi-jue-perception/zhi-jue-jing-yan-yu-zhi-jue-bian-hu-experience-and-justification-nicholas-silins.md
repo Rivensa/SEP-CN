@@ -476,6 +476,7 @@ Mind4
 
 另一种策略是提出进一步的论证，即吉尔在相信杰克对她生气的问题上并没有通过她的经验得到合理辩护。关于通过类比来解释在没有合理辩护的信念基础上形成信念的论证，请参阅麦格拉斯（2013）和西格尔（2013）（滕2021进行了批判性回应）。关于通过类比来解释基于情感形成信念的无合理辩护的论证，请参阅范斯（2014）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Beck, Jacob, 2012, “The Generality Constraint and the Structure of Thought”, *Mind*, 121(483): 563–600.

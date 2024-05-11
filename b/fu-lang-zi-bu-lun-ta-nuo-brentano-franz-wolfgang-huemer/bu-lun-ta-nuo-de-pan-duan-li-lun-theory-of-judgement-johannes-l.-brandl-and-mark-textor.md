@@ -396,6 +396,7 @@ It turns out that I make two judgements in one—a “double judgement”—when
 
 总之，布伦塔诺的双重判断理论阐明了为什么将所有范畴命题归约为存在性判断是不可能的。另一方面，布伦塔诺没有办法将存在性命题归约为表达双重判断的命题。因此，布伦塔诺被迫放弃在他的理论约束下统一处理所有判断的项目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Works by Brentano

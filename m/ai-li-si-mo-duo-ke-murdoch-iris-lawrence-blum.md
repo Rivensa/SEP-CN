@@ -308,6 +308,7 @@ a key criticism of [point 4](https://plato.stanford.edu/entries/murdoch/#point4)
 
 力场思想中道德的多元化概念超越了拒绝单一原则统治行为的观点，例如功利主义、康德主义或某些版本的德行理论。这些唯一主义观点只涉及行为，而它们的拒绝（在与麦克道威尔的默多克式亚里士多德主义相关的早期讨论中讨论过）在主权中保留了与道德观念/意识净化相关的统一性。形而上学中伦理存在方式的多元主义也拒绝了这种类型的统一性，将意识净化仅视为我们伦理存在的整体“力场”中的一个方面，尽管是最重要的一个方面（Hopwood 2019）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### A. Primary Literature: Books and Papers by Iris Murdoch

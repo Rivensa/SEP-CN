@@ -133,6 +133,7 @@
 
 此外，一位 9 世纪的基督教阿拉伯作者的一部次要哲学作品《论灵魂与心灵的区别》（Kitab al-fasl bayna l-ruh wa-l-nafs）也被翻译成了希伯来语，中世纪时期被一些犹太中世纪作家引用（Steinschneider 1893, 289）。最后，在 10 世纪上半叶，阿里·法拉比的追随者圈子中就某些形而上学教义进行了“意见交流”，其中涉及了基督教阿拉伯哲学家 Yahya Ibn 'Adi 和两位次要的犹太学者 Ibn Abi Sa'id al-Mawsili 和 Bishr ibn Sam'an ibn 'Irs，如 Shlomo Pines 所示（Pines 1955）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

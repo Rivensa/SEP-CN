@@ -368,6 +368,7 @@ Gx=df∼Gx
 
 关于这些主题的更详细的论述，请参见 Gupta 1988/89，Gupta 和 Belnap 1993 以及 Chapuis 和 Gupta 1999。另请参阅有关真理修订理论的条目。关于修订理论的批评讨论，请参见 Villanueva 1997 中 Vann McGee 和 Donald A. Martin 的论文以及 Gupta 的回复。另请参阅 Shapiro 2006。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Belnap, N., 1993, “On Rigorous Definitions,” *Philosophical Studies*, 72: 115–146.

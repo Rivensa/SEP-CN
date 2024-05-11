@@ -333,6 +333,7 @@ PTS 的概念最初被定义为赋予某些逻辑以递归和可接受的语义�
 
 这些例子说明了使用范畴论及其工具来定义组合过程作为通用构造的优势：相同的构造（在本例中为代数纤维）可以在具有不同特征的逻辑系统范畴中进行，从而获得更强或更弱的逻辑系统。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Avron, A. and I. Lev, 2001, “Canonical propositional Gentzen-type systems”, in R. Goré, A. Leitsch and T. Nipkow (eds), *Proceedings of the 1st International Joint Conference on Automated Reasoning (IJCAR 2001)*, volume 2083 of *Lecture Notes in Artificial Intelligence*, Berlin: Springer Verlag, pp. 529–544.

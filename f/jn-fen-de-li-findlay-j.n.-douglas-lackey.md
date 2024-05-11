@@ -269,6 +269,7 @@ And again:
 
 > 他对我非常亲切，或许主要是因为他看到了我身上一种与他自己相似的无关紧要的不属于感。他给了我他当时唯一的一本《哲学研究》的前 150 节让我阅读！正是基于他的许多好意，我希望这本对他教导的高度批判性的书被视为不仅仅是一种批评，而且也是一种致敬。（W: 22）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Note: In this article, the following book abbreviations are employed (all by Findlay unless otherwise indicated):

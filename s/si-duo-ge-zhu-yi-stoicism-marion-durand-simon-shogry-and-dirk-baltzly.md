@@ -306,6 +306,7 @@ These three clauses are construed by the Stoics as providing individually-necess
 
 虽然斯多葛主义文本在 19 世纪和 20 世纪初并不广泛阅读或易于获取，但其中一些观点在选集和历史调查中得到了呈现，例如普兰特尔（Prantl）1855 年的《西方逻辑史》，其中第一卷包含了一章关于斯多葛逻辑的长篇。S. Bobzien（2021 年）最近的一项研究表明，后者可能已经传到了 20 世纪的哲学家戈特洛布·弗雷格（Gottlob Frege）手中，他被许多人认为是分析哲学的创始人。在这项工作中，Bobzien 提供了证据，表明弗雷格自己的一些工作源自这些斯多葛主义文本，并且深受其影响。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 A note on citations in this entry: where possible, we refer to primary texts using the author’s name, followed by the notation given in Long and Sedley 1987. For example, “Aetius, 26A” refers to chapter 26 of Long and Sedley’s collection, text A, whose author is Aetius. We use Long and Sedley’s translation unless otherwise noted.

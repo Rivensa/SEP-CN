@@ -76,6 +76,7 @@ Molina 声称上帝对世界的主宰控制以一种关键的方式涉及到中�
 
 有几种方法可以尝试解决大多数哲学辩论关注的预言问题，这些问题出现在预测未来偶然事件的情况下。这里讨论的方法具有各种优点和缺点。随着关于上帝知识范围的辩论在宗教哲学的最新研究中越来越广泛地讨论，预言问题引起了越来越多的关注。因此，可以合理地预测（预言？）关于这些问题的哲学论证将会无限期地继续下去。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Robert M., 1977, “Middle Knowledge and the Problem of Evil,” *American Philosophical Quarterly*, 14: 109–117; reprinted in *The Virtue of Faith and Other Essays*, Oxford: Oxford University Press, 1987.

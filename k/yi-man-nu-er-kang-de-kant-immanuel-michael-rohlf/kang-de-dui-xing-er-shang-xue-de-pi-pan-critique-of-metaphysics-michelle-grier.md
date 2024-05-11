@@ -184,6 +184,7 @@
 
 关于理论和实践理性的“统一”的重要讨论，请再次参见 Forster（2000）。另请参阅 Velkley（1989）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Relevant Works by Kant (includes German editions and translations)

@@ -217,6 +217,7 @@ MWI 的坚定支持者可以在宇宙学家中找到，例如 Tipler 1986b，Agu
 
 Berenstain 2020认为，多世界诠释是连续科学革命的最新例子，迫使人类放弃了自认为处于宇宙中心特权地位的偏见。太阳系的日心说模型、达尔文的进化论和相对论的特殊理论都遵循了这种模式。多世界诠释在不同宇宙波函数分支上的观察者视角之间提供了形而上学的中立性，与单世界理论相反，后者将对现实的特权视角赋予一个观察者。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adlam, E., 2014, ‘The Problem of Confirmation in the Everett Interpretation’, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 47: 21–32.

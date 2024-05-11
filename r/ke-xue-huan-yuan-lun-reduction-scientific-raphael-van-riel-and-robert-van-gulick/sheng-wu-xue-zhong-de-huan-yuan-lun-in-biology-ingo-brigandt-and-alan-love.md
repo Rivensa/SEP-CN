@@ -214,6 +214,7 @@ Lindley Darden 和 Nancy Maull 在这个讨论中处于前沿，提出了一个�
 
 在所有这些情况下，似乎很明显，生物学中关于还原主义的辩论尚未达到一个结局，而是预示着激烈的哲学讨论，因为与其本体论、认识论和方法论类型相关的问题的多样性被应用于永恒的生物学主题。生物学中关注还原主义的哲学家的任务将是分析这些推理的多样性，并寻求发展不同的还原解释，以捕捉科学家实际上所做的和对生物学知识和科学探究的更一般的观点的贡献。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abrahamsen, A., B. Sheredos, and W. Bechtel, 2018, “Explaining visually using mechanism diagrams”, in S. Glennan, and P. Illari (eds.), *The Routledge handbook of mechanisms and mechanical philosophy*, New York: Routledge, 238–254.

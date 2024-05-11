@@ -300,6 +300,7 @@ D'Cruz 尚未完全发展出这个理论，但一旦他这样做，它几乎肯�
 
 由于可以通过参考信任的各个方面来回答“何时值得信任”的问题，对于这个问题的完整哲学回答是复杂的。对于何时不信任的问题也是如此，因为同样的方面（不信任的认识论、价值等）与之相关。对于信任和不信任这些广泛问题的完整回答在哲学上是令人兴奋的，也具有社会重要性。它们之所以令人兴奋，既因为其复杂性，也因为它们涉及到许多不同的哲学领域，包括认识论、心灵哲学和价值理论。这些答案之所以重要，是因为值得信任和不信任有助于建立一个良好社会的基础，在这个社会中，人们通过与他人的健康合作而蓬勃发展，成为道德成熟的人类，并不受暴政或压迫等社会弊病的影响。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, Jonathan, 2006 [2017], “Epistemological Problems of Testimony”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/>.

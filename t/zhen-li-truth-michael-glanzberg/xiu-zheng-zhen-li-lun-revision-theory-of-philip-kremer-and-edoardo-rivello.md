@@ -620,6 +620,7 @@ Standefer（2015a）研究了修正论循环定义与特定模态逻辑 RT（“
 
 我们以一个关于 T∗和 T#的未解之谜作为结束。回顾上文第 3.11 定义，该定义通过 T∗或 T#来定义一个真理语言 L 中的句子 A 在基础模型 M 中是否有效。我们将说，如果对于每个基础模型 M，A 通过 T∗[或者 T#]是有效的，那么 A 通过 T∗[或者 T#]在基础模型 M 中是有效的。我们的未解之谜是：通过 T∗[T#]有效的句子集合的复杂性是多少？
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Antonelli, G.A., 1994a, “The complexity of revision”, *Notre Dame Journal of Formal Logic*, 35: 204–218.

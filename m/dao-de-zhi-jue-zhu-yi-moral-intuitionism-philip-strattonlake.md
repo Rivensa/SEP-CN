@@ -241,6 +241,7 @@ Moore 是直觉主义者中最强调道德属性的非自然性质的人，尽�
 
 然而，可以提出一个问题，道德属性的因果无能会对智力感觉与知觉感觉的类比造成问题。从感知上来看，事物似乎是某种方式，比如红色或方形，是因为这些事物及其属性与我们的知觉系统产生因果作用。但是，如果道德属性在因果上无能，那么因果作用就无法解释为什么某些事物在智力上似乎是真实的。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Andow, J., 2018, “Are Intuitions About Moral Relevance Susceptible to Framing Effects?”, *Review of Philosophy and Psychology*, 1: 1–27.

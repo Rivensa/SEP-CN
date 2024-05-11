@@ -172,6 +172,7 @@ J.O.厄姆森（Urmson）通过对传统的道德行为三重分类（即义务�
 
 这些对超义务范畴的复杂性和可能的扩展挑战了超义务的“标准模型”，质疑了关于超义务的特定道德性质和义务与超义务之间的明确界定的假设。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Monographs and Collections

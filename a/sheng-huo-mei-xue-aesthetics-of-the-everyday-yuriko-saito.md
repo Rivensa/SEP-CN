@@ -160,6 +160,7 @@
 
 生活美学以包容性的精神开始其任务，通过扩大讨论的材料。该论述继续以同样的包容性精神继续其任务，鼓励文化特定、学科特定和未来推测性的探索，同时寻求一个理论基础，以促进主体间、跨文化和跨学科的交流。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 This bibliography includes only contemporary works in English. For classical philosophical works and non-Western traditions, consult respective entries.

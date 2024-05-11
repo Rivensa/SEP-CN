@@ -181,6 +181,7 @@
 
 目前还不清楚在一个发现迫使科学认识或者一个决定使需求消失之前，当前情况将持续多久。目前，辩论仍在继续。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aristotle, *De Anima* (selections), in M.A. Bedau & C.E. Cleland (eds.), *The Nature of Life: Classical and Contemporary Perspectives from Philosophy and Science*, New York: Cambridge University Press, 2010, pp. 9–14.

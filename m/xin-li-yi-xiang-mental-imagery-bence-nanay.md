@@ -240,6 +240,7 @@ Ta-Ta-Ta-Taaam 的例子有点简化，所以这里有一个真实而非常引�
 
 并非所有的概念艺术作品都能唤起心理意象。一个例外是罗伯特·巴里的《我所知道的一切》，它只是用简单的方块字母写在画廊墙上的以下句子：“我所知道的一切，但此刻我并未思考的事物 - 下午1:36；1969年6月15日”。很难争辩说这个作品对于引发观者的心理意象有多大兴趣。但是很难找到一个概念艺术作品的例子，其中心理意象不起任何作用。因此，在绝大多数概念艺术作品中，心理意象是欣赏作品的必要特征。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Amsel, B. D., M. Kutas and S. Coulson, 2017, “Projectors, Associators, Visual Imagery and the Time Course of Visual Processing in Grapheme-color Synesthesia,” *Cognitive Neuroscience*, 8 (4): 206–223. doi:10.1080/17588928.2017.1353492

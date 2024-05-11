@@ -143,6 +143,7 @@ Etymologically Sakya characterizes ultimate (parama) as a qualification of trans
 
 根据格鲁派的观点，认识到两谛的行为体可能是同一个个体。每个行为体可能具备所有必要的认知资源，潜在地能够认识到两谛。凡夫只能通过概念来认识到终极真理，而正在修行的高贵者则能够直接但间歇地认识到终极真理。然而，觉者则同时能够同时认识到两谛。非格鲁派的观点认为，对应于两谛的认知体是分开的。凡夫只能直接认识到相对真理，但完全无法认识到终极真理。正在修行的高贵者在修行平等禅定时能够直接认识到终极真理，而在修行后的状态中则能够认识到相对真理。而完全觉醒的佛陀则只能接触到终极真理。觉者从觉醒的角度来看无法接触到相对真理，尽管他们可以从未觉醒的凡夫的角度来接触到相对真理。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Candrakīrti, 1998. *Mūlamadhyamakavṛttiprasannapadā* (*Clear-word Commentary on the Fundamental Verses of the Middle Way*) (Dbu ma ‘a 1b-200a), Sde dge edition of the Bstan gyur, Dharamasala: Paljor Press.

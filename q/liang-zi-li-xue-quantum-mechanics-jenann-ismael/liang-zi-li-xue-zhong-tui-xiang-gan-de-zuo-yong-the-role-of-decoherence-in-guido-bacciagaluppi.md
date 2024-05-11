@@ -242,6 +242,7 @@ QBism（最初缩写为“量子贝叶斯主义”）是由克里斯·福克斯�
 
 最后，有人建议退相干应该成为量子引力理论中的一个有用组成部分（参见量子引力条目），如Kiefer（1994）所讨论的。首先，因为将退相干理论推广到完整的量子引力理论应该导致不同经典时空之间的干涉抑制（参见Giulini等人1996年第4.2节）。其次，有人推测退相干可能解决所谓的时间问题，这在（“规范”方法中的）量子引力中是一个突出的难题。这个问题是候选的基本方程（在这种方法中）——Wheeler-DeWitt方程——是一个类似于无时间的薛定谔方程的模拟，根本不包含时间，因此时间需要以某种方式出现。在退相干理论的背景下，例如可以构建玩具模型，其中Wheeler-DeWitt波函数的模拟分解为不相干的组分（对于一个合适的子系统），每个组分满足一个时间相关的薛定谔方程，因此退相干实际上成为时间的源头。Ridderbos（1999）给出了对这些模型的易懂介绍和哲学讨论，并引用了原始论文。还可以参考Halliwell和Thorwart（2002）的较新模型。[41]
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, S. L., 2003, ‘Why Decoherence has not Solved the Measurement Problem: A Response to P. W. Anderson’, *Studies in History and Philosophy of Modern Physics*, 34 B: 135–142 [[preprint available online](http://arxiv.org/abs/quant-ph/0112095)].

@@ -171,6 +171,7 @@ Of course there may be other ways to pin down similarity, and one of these can b
 
 因此，意义整体论带来了许多成本（特别是与不稳定性和客观性相关的成本），虽然有多种策略可用于使这些成本更容忍，但没有一种单一的方法似乎是没有问题的。也就是说，这些策略可以相互补充，可能情况是它们的组合可以以一种单一的方法所不能做到的方式来完成工作。无论如何，对于一个哲学理论来说，完全没有问题是一个非常高的标准，意义整体论者可以自由地争论，他们的观点所带来的好处超过了成本，并且原子论和分子论同样面临严重的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, F. & K. Aizawa, 2010, “Causal Theories of Mental Content”, *The Stanford Encyclopedia of Philosophy (Spring 2010 Edition)*, Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2010/entries/content-causal/>.

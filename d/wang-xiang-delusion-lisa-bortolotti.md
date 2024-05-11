@@ -243,6 +243,7 @@ McKay 2012 对 Coltheart 和同事的解释提出了一些批评，并提出了�
 
 总之，这里总结的观点表明，很难明确区分妄想和自欺欺人，以及妄想和阴谋论信仰之间的明显区别。在诊断和科学上，保持临床病症和日常非理性表现之间的区别是有用的，但也应该承认真正重叠的元素。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aimola Davies, A.M. and Davies, M., 2009. “Explaining pathologies of belief,” in M.R. Broome and L. Bortolotti (eds.) *Psychiatry as Cognitive Neuroscience: Philosophical Perspectives*, Oxford: Oxford University Press, 285–326.

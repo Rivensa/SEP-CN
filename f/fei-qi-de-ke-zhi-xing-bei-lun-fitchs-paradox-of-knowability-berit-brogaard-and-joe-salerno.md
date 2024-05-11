@@ -355,6 +355,7 @@ Chalmers（2002，2012：第 2 章）例如，辩护了这样一个观点：只�
 
 不适合放在上述任何部分的悖论的专题讨论包括 Salerno（2018）关于幸福的新悖论；Kvanvig（2010）关于悖论威胁到基督教本身的论证，因为基督的化身教义；以及 Cresto（2017）关于可知性悖论对反思原则作为理性要求的质疑的论证。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alexander, S., 2013. “An Axiomatic Version of Fitch’s Paradox,” *Synthese*, 190: 2015–2020.

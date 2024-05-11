@@ -327,6 +327,7 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 然而，或许最合适的结论方式是以一种完全不同的问题。换句话说，我们应该如何回应这种怀疑性攻击，如果需要的话？因此，在我们不得不想到弗雷德里克·道格拉斯在他 1852 年的“七月四日”演讲中发出的警告时，很难不这样想，警告人们不要要求任何人为他们的平等和基本人类价值或地位辩护——尤其是当如此多的人仍然不仅仅是受压迫，而且在一个不断宣称信仰和承诺人类尊严理想的世界中暴露于刻薄的仇恨之中。“在这样的时刻”，道格拉斯说，“需要的是刺骨的讽刺，而不是令人信服的论证”（1852: 20）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Addis, Adeno, 2013, “The Role of Human Dignity in a World of Plural Values and Ethical Commitments”, *Netherlands Quarterly of Human Rights*, 31(4): 403–444. doi:10.1177/016934411303100403

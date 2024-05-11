@@ -255,6 +255,7 @@ Feest 和 Sturm 在他们的专题介绍中确定的历史认识论的第二个�
 
 在长期来看，我们可以期待历史认识论有多大的重要性？历史将会作出判断！
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Andersen, Hanne, Peter Barker, & Xiang Chen, [ABC] 2006, *The Cognitive Structure of Scientific Revolutions*, New York: Cambridge University Press. doi:10.1017/CBO9780511498404

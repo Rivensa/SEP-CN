@@ -752,6 +752,7 @@ P[oku∣hj⋅b⋅ck]P[oku∣hi⋅b⋅ck]
 * [将结果空间划分得更细对 EQI 的影响——包括 EQI 非负性的证明](https://plato.stanford.edu/entries/logic-inductive/sup-eqi-effect.html)
 * [概率反驳定理的证明](https://plato.stanford.edu/entries/logic-inductive/sup-prt.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Boole, George, 1854, *The Laws of Thought*, London: MacMillan. Republished in 1958 by Dover: New York.

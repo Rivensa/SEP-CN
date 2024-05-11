@@ -192,6 +192,7 @@ Cooper在1930年回应查尔斯·约翰逊分发给黑人大学毕业生的调�
 > A Graduate Of St. Augustine’s College  
 > Erected 1979.
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature: Works by Anna Julia Cooper

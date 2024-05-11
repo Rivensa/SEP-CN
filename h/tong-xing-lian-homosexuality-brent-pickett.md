@@ -100,6 +100,7 @@ Other figures played important roles in the development of natural law theory. A
 
 然而，正如前文所清楚显示的那样，围绕同性恋的政策和法律辩论涉及到道德和正义的根本问题。或许最核心的问题是涉及到个人身份和自我定义的问题。因此，这些辩论中存在着另一组更深层次的原因，这也是导致两极分化的原因。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alderson, David, 2016, *Sex, Needs & Queer Culture: From liberation to the Postgay*, London: Zed Books.

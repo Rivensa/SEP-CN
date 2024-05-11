@@ -404,6 +404,7 @@ Lamarche (1992) 和 Curien (1994) 首次注意到了与具体数据结构的联�
 
 最后，在介绍 PCF 和其他语言的游戏语义学方面，我们建议参阅 Abramsky 1997；Abramsky & McCusker 1999。后者还包括了对游戏语义学在命令式语言，特别是理想化的 Algol 中的应用的描述。其他关于游戏语义学的优秀介绍包括 Hyland 1997 和 Curien 2006。Jürjens 2002 提供了一个广泛的描述，涉及到在编程语言语义学中使用游戏的许多指向 Lorenzen 游戏的内容，面向哲学读者。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abramsky, Samson, 1994, “Interaction Categories and Communicating Sequential Processes”, in A. William Roscoe (ed.), *A Classical Mind: Essays in Honour of C.A.R. Hoare*, New York: Prentice Hall International, pp. 1–16.

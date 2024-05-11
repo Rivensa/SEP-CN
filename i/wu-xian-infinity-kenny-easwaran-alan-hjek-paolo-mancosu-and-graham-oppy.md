@@ -854,6 +854,7 @@ p⋅f2+(1−p)⋅f3= 一个有限值.
 
 还有许多在某种程度上涉及无限的哲学上重要的悖论和谜题；我们只是给出了一个小样本。而且，涉及无限的新悖论似乎以越来越快的速度出现（毫无疑问，这个事实本身又可以制造出另一个悖论！）。然而，我们理解无限的工具也在不断发展。当然，我们无法对现状做出明确的评估，但我们所概述的理论发展和引用的参考文献使我们对我们与无限的关系前景感到乐观：我们确实可以与之共存。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abrams, M., 2016, “Infinite Populations and Counterfactual Frequencies in Evolutionary Theory”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 37: 256–268.

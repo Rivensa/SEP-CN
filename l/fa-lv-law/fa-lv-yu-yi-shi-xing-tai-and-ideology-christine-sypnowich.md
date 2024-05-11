@@ -90,6 +90,7 @@
 
 将法律视为具有道德来源或制度机构来源的观念，可以独立于对法律意识形态功能或制定法律的意识形态过程的现实评估。事实上，西方政府对“反恐战争”的激进批评者指出了自由法律理念（如人权和法治）的价值，同时也指出了这些理念所用于的意识形态目的（参见巴托洛缪2007年，斯特格2007年）。只要实证主义者和自然法学派不坚持他们对法律的理解是对法律现实的穷尽，他们都可以允许意识形态的影响，即使是在更激进的解释中。法律既可以是意识形态，也可以是其他道德或制度现象；事实上，除非法律在这种多维度的方式下，否则很可能无法成功作为意识形态。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Althusser, Louis, 1971, ‘Ideology and Ideological State Apparatuses’, in *Lenin and Philosophy and Other Essays*, London: New Left Books.

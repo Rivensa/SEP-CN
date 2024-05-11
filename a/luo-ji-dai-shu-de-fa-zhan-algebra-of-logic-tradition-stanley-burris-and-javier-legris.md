@@ -175,6 +175,7 @@ a+b(a+b)+c(a′+b′)′+(a′+b)′=b+a=a+(b+c)=a.
 
 此外，圆柱代数是在 1948 年至 1952 年间由 Tarski 与他的学生 Louise Chin 和 Frederick Thompson 引入的，它本质上是布尔代数配备了捕捉存在量词（∃x）的一元圆柱操作 Cx，以创建一个捕捉二元关系一阶理论表达能力的逻辑代数（参见 Henkin＆Tarski 1961）。多元代数是另一种用于一阶逻辑的逻辑代数方法，它由 Halmos（1956c）创建。这些系统的工作重点再次是看到在多大程度上可以与上世纪 30 年代布尔代数的著名结果相媲美。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

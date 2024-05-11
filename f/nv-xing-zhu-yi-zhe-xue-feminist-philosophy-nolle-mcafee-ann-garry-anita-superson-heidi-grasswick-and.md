@@ -120,6 +120,7 @@
 
 请参阅下面相关条目中的条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ahmed, Sara, 2006, *Queer Phenomenology: Orientations, Objects, Others*, Durham, NC: Duke University Press.

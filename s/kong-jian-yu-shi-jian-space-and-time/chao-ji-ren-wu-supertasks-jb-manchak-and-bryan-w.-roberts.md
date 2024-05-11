@@ -274,6 +274,7 @@ Misra 和 Sudarshan 将这个序列用作连续测量的模型，假设上述序
 
 我们最后得出一个潜在问题，它威胁着使所有的 Malament-Hogarth 时空在物理上不合理。Penrose（1979）猜测所有在物理上合理的时空都不会出现某种类型的“裸奇点”和它们带来的确定性崩溃。Penrose 的猜想是否正确是一个备受争议的问题（Earman 1995）。但事实证明，每个 Malament-Hogarth 时空都存在这些裸奇点（Hogarth 1992）。即使如此，在这样的时空中保证了确定性的崩溃，似乎也不排除从初始数据中可能实现 Malament-Hogarth“机器”带来超级任务的可能性（Earman 等人 2016; Manchak 2018）。回顾一下，我们发现 Malament-Hogarth 时空是否只是广义相对论形式主义的产物，或者它们所暗示的分叉超级任务是否可以在我们自己的宇宙中实现，这仍然是一个悬而未决的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Andréka, H., Madarász, J., Németi, I., Németi, P. and G. Székely, 2018, “Relativistic Computation”, in M. Cuffaro and S. Fletcher (eds.), *Physical Perspectives on Computation, Computational Perspectives on Physics*, Cambridge: Cambridge University Press, 195–215.

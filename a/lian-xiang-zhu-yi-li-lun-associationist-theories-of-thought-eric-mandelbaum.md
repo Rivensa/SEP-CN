@@ -176,6 +176,7 @@ Garcia 的工作也揭示了联想主义的普遍性方面存在的问题。在�
 
 另一个担忧源于观察到有时属性未被实例化是所学内容的一个组成部分。为了解决缺失属性的问题，当代联想主义者在理论中引入了一个重要元素：抑制。例如，如果一个美国（US）和一个条件刺激（CS）只在对方不存在时出现，生物体将学习到它们之间存在负关系；也就是说，生物体将学习到 CS 的缺失预测了 US 的出现[40]。在这里，CS 成为 US 的“条件抑制物”。抑制，使用关联作为调节因子而不仅仅是激活因子，是当前联想主义思维的核心部分。例如，在连接主义网络中，抑制是通过某些节点的激活来抑制其他节点的激活来实现的。连接权重可以是正数或负数，负权重代表关联的抑制强度。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, J., K. Spoehr, and D. Bennett, 1994, “A Study in Numerical Perversity: Teaching Arithmetic to a Neural Network”, in *Neural Networks for Knowledge Representation and Inference*, D. Levine and M. Aparicio IV (eds.), East Sussex: Psychology Press, pp. 311–335.

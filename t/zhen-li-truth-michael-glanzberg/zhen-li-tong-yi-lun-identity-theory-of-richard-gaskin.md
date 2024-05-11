@@ -276,6 +276,7 @@ S
 
 Candlish（1999b：208）认为内在主义和同一论是竞争对手，但这种观点可能并非强制性的。内在主义认为真理是命题的一个简单且不可分析的属性；同一论认为真命题与事实（以及正确的事实）是相同的。只有当将同一论视为对真理进行深入分析时，这些陈述才会似乎产生冲突。但是，如果我们按照该理论的最新倡导者的观点，将其仅仅视为阐明我们本来就在本体论中拥有的两个实体之间的联系，即真命题和事实，并且这些实体（如 Hesperus 和 Phosphorus）基于一个认识到像苏格拉底是聪明这样的实体既是真命题又是事实的实现而相同，那么内在主义和同一论之间的任何潜在冲突似乎都将被避免。根据这种方法，一个自然的说法将是同一论描述了真理作为一个简单且不可分析的属性的方式。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anscombe, G. E. M., 2000, “Making True”, in *Logic, Cause, and Action: Essays in Honour of Elizabeth Anscombe*, Roger Teichmann (ed.), Cambridge: Cambridge University Press, pp. 1–8.

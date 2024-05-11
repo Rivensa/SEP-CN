@@ -140,6 +140,7 @@ ZA 如何避免罗素悖论？起初，人们可能认为它无法避免。毕�
 
 所有这些都提醒我们，富有成果的工作可以从最不可能的观察中产生。正如 Dana Scott 所说：“从一开始就应该明白，罗素悖论不应被视为一场灾难。它和相关的悖论表明，天真的全包集合观念是站不住脚的。这是一个有趣的结果，毫无疑问”（1974 年，207 页）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, C. Anthony, 1989. “Russellian Intensional Logic,” in Joseph Almog, John Perry and Howard Wettstein (eds), *Themes from Kaplan*, Oxford: Oxford University Press, 67–103.

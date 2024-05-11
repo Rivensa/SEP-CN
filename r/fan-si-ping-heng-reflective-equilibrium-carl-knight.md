@@ -220,6 +220,7 @@ Indeed, the objection seems directed more at narrow reflective equilibrium, wher
 
 > 鉴于与反思平衡相悖的许多方法和理论，很难维持它没有内容或几乎没有内容的观点。如果看起来是这样，可能是因为它的假设在道德和政治哲学中被广泛接受，成为自己成功的受害者。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Elizabeth, 2015, “Moral Bias and Corrective Practices: A Pragmatist Perspective”, *Proceedings and Addresses of the American Philosophical Association*, 89: 21–47.

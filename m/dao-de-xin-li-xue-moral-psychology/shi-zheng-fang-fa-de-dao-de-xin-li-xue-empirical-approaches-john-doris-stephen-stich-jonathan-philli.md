@@ -276,6 +276,7 @@ Nisbett 小组的研究可以被看作是将认知社会心理学的工具应用
 
 道德理论的进展往往需要对人类在道德环境中的功能如何进行困难心理问题的进展。因此，道德心理学是哲学伦理学中的一个核心研究领域并不足为奇。同样，心理学系等部门进行的实证研究可能会大大促进这种探究。因此，道德心理学研究在方法上已经多元化，利用各学科的资源，并努力为各学科做出贡献也就不足为奇了。在这里，我们已经说明了这种跨学科研究如何处理哲学伦理学中的核心问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abarbanell, Linda and Marc D. Hauser, 2010, “Mayan Morality: An Exploration of Permissible Harms”, *Cognition*, 115(2): 207–224. doi:10.1016/j.cognition.2009.12.007

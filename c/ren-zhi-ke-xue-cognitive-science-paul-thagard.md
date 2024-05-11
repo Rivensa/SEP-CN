@@ -254,6 +254,7 @@
 
 认知心理学与神经科学日益融合，为心脑同一理论提供了证据，即心理过程是神经、表征和计算的。其他哲学家基于心智是生物系统中具体化并延伸至世界的观点，对这种认同提出异议。然而，关于具体化的温和主张与同一理论是一致的，因为大脑表征在多种模式（例如视觉和运动）中运作，使心智能够处理世界。对于心脑同一的另一种唯物主义替代方案是认识到心智的解释不仅涉及神经和表征机制，还包括分子和社会机制。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, J. R., 2007. *How Can the Mind Occur in the Physical Universe?*, Oxford: Oxford University Press.

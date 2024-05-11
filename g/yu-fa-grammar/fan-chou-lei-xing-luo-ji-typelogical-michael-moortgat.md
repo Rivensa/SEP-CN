@@ -336,6 +336,7 @@ Pregroup grammars. Pregroups是紧凑双线性逻辑（Lambek 1993）的代数�
 
 从这个描述中可以清楚地看出，ACG架构与在本文中讨论的范畴类型逻辑的组合解释密切相关。一个关键区别在于“抽象语法”的性质，即解释是同态地导出的源演算。在标准Lambek系统和上文第3节讨论的扩展系统的情况下，抽象语法是一个方向性类型逻辑；在ACG的情况下，LP和线性λ演算在源端和目标端都可以找到。关于语言的结构属性是否必须在抽象语法层面加以解释的争论有着悠久的历史，始于Curry 1961；有关讨论请参见Muskens 2007。范畴类型观点解释了其逻辑常量的层面上的语序普遍规律，即类型形成操作和管理它们的规则。ACG观点在这方面更加自由：表层形式的推导可以基于逐词指定。关于抽象语法和表层实现之间这种更加宽松的联系是否可取，存在争议。ACG的一个吸引人的特点，在范畴类型设置中尚未系统研究的是表达能力与源常量和解释映射的顺序限制之间的联系。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Note: In addition to the regular text references, the bibliography contains some items that can place the entry in a broader context.

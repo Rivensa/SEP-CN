@@ -262,6 +262,7 @@ Xu 认为德治和无为是传统儒家政治思想的基础，并且仍然适�
 
 现代儒家思想的基础可以在这些其他哲学家那里找到：对现代性的兴趣以及它对中国意味着什么，以及受到西方哲学的影响，无论是在词汇还是思想上，或者两者兼而有之。现在，东亚的任何中国哲学家都必须了解西方哲学以及中国哲学，比较无处不在。在很大程度上，影响仍然是单向的。东亚哲学家对西方哲学了解得比西方哲学家了解任何亚洲哲学都要多。幸运的是，最近一些翻译已经问世，希望这种情况会持续下去。现代儒家哲学家相信他们有重要的东西可以提供给世界，他们的观点开始在东亚以外引起一些兴趣。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Bai, Tongdong, 2020, *Against Political Equality: The Confucian Case*, (The Princeton-China Series 2), Princeton, NJ: Princeton University Press. doi:10.1515/9780691197463

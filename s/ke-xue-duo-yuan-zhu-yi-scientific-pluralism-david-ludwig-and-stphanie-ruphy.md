@@ -185,6 +185,7 @@ Longino 的标准说明了女性主义经验主义对科学多元主义的贡献
 
 相比之下，“合作生产”模式（Macnaghten 2020）反映了 STS 中更为激进的多元主义传统，强调研究的认识论和社会方面的不可分割性。例如，Jasanoff 和 Simmet（2017）的合作生产模式认为，科学议程和应用不仅需要被理解为公共规范，科学事实也需要如此。根据 Jasanoff 和 Simmet 的观点，公共事实总是与社会协商相互作用，涉及到哪些现实和价值观在民主过程中可以争议，以及在给定的社会技术想象中可以表达什么。尽管这些观点与立场理论（Wylie 2003）和女性主义经验主义（Longino 2002a）在前一节中所描述的相吻合，但其中许多联系仍然是隐含的，并指向了将多元主义科学哲学与科学治理的跨学科研究更明确地整合的挑战。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abel, Günter, 1993, *Interpretationswelten Gegenwartsphilosophie Jenseits von Essentialismus und Relativismus*, Frankfurt: Suhrkamp.

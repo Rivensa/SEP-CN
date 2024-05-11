@@ -122,6 +122,7 @@
 
 查阅《伽利略审判文件》，请参阅Finocchiaro 1989; Mayer 2012。要了解伽利略事件的漫长、曲折和迷人的后续发展，请参阅Finocchiaro 2005；至于教皇约翰·保罗二世于1992年对伽利略的恢复，请参阅Coyne 2005。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources: Galileo’s Works

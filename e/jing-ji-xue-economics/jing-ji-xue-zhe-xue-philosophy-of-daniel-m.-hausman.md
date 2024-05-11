@@ -298,6 +298,7 @@ Imre Lakatos（1970 年）在他的大部分哲学生涯中都是波普的追随
 
 经济学和哲学之间的边界涉及方法论、理性、伦理学和规范社会政治哲学，充满活力。这种活动多种多样，涉及非常不同的问题。尽管其中许多问题相关，经济学哲学并非一个统一的企业。它是一系列独立的调查，通过问题之间的联系和主流经济模型和技术的主导影响相互联系。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 The following bibliography is not comprehensive. It generally avoids separate citations for methodological essays in collections. It does not list separately the essays on economic methodology from special issues on philosophy and economics. A large number of essays on philosophy of economics can be found in the journals, *Economics and Philosophy*, *The Journal of Economic Methodology* and the annual series *Research in the History of Economic Thought and Methodology*.

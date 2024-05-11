@@ -138,6 +138,7 @@ Vermeule 的宪法理论在他的《共同利益宪政主义》中得到进一�
 
 无论偏爱哪种解决方案，所有反对宪政主义的批评者似乎都同意，只有当围绕宪法保护的神话（原始理解、意图、历史、普通法的约束力等）都被揭露，以及宪法实践中真正的政治力量被承认并公开处理时，才能取得进展。宪政主义的理念能否经受住这种批判性审查的考验，这是一个非常好的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ackerman, Bruce, 1991, *We The People: Foundations*, Cambridge, MA: Harvard University Press.

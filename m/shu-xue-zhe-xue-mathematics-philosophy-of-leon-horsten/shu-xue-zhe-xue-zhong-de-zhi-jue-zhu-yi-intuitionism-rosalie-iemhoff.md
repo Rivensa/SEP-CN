@@ -375,6 +375,7 @@ Veldman（即将出版）讨论了布劳尔和维特根斯坦之间的几个（�
 
 各种形式的有限主义基于与邓美特表达的观点类似的观点，但是在这种观点中，被允许用来证明数学命题的构造不仅要在原则上存在，而且还要在实践中存在。根据后一概念的具体实施，人们得到不同形式的有限主义，例如亚历山大·叶谢宁-沃尔平（1970年）发展的超直觉主义和克里斯平·赖特（1982年）发展的严格有限主义。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aczel, P., 1978, ‘The type-theoretic interpretation of constructive set theory,’ in A. Macintyre, L. Pacholski, J. Paris (eds.), *Logic Colloquium ’77*, special issue of *Studies in Logic and the Foundations of Mathematics*, 96: 55–66.

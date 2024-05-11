@@ -104,6 +104,7 @@
 
 解释阿多诺哲学的持续评估中，解决这些段落至关重要。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Section 1 lists many of Adorno's books in English, including several he co-authored, in the order of their abbreviations. Section 2 lists some anthologies of Adorno's writings in English. Books listed in section 1 without abbreviations were originally published in English; all others were originally published in German. A date in parentheses following a title indicates either the first German edition or, in the case of posthumous publications, the date of the original lectures. Often the translations cited above have been silently modified. The abbreviation “GS” or “NS” after an entry below tells where this book can be found in Adorno's collected writings. “GS” indicates writings published during Adorno's lifetime and collected in the 20 volumes of Theodor W. Adorno, *Gesammelte Schriften*, edited by Rolf Tiedemann et al. (Frankfurt am Main: Suhrkamp, 1970–1986). “NS” indicates posthumous works that are appearing as editions of the Theodor W. Adorno Archive in the collection *Nachgelassene Schriften* (Frankfurt: Suhrkamp, 1993–).

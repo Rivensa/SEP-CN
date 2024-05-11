@@ -188,6 +188,7 @@ c) 最后，捍卫良心自由的第三个论点是我上面所称的“合法�
 
 远非对话终结者，良心只有在其哲学和心理方面被剖析、定义和评估后，才能在哲学和公共讨论中找到其适当位置。对良心的呼吁只有被视为讨论的开始，而非结束，才能成为哲学、政治和法律讨论的一部分。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aharoni, E., W. Sinnott-Armstrong, and K.A. Kiehl, 2012, “Can psychopathic offenders discern moral wrongs? A new look at the moral/conventional distinction”, *Journal of Abnormal Psychology*, 121(2): 484–497. doi:10.1037/a0024796

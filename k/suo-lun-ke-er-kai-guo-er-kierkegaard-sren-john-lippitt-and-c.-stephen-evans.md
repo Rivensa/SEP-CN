@@ -281,6 +281,7 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
   
 * *The Changelessness of God: A Discourse* by S. Kierkegaard (*Guds Uforanderlighed. En Tale*)
   
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### A. Primary Literature: Works by Kierkegaard

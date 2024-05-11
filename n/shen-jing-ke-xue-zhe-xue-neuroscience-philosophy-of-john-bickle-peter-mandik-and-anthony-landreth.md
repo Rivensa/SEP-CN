@@ -222,6 +222,7 @@ Silva、Landreth 和 Bickle 的方法有三个目标。首先，他们从细胞�
 
 最近，Bickle和Kostko（2018）将Silva、Landreth和Bickle的框架扩展到了学习和记忆的神经生物学之外。他们的案例研究来自发育和社会神经科学，研究了Michael Meaney和Moshe Szyf关于啮齿动物母亲哺乳行为对后代应激反应的表观遗传学。他们利用这个案例研究详细阐述了Silva、Landreth和Bickle未充分发展的一个概念，即明确设计实验的结果，如果成功，将直接整合到已有的已建立结果的背景中。他们认为，这样的实验“通过设计可整合”与其他实验旨在建立神经科学种类之间的个体因果关系的证据不同，而是旨在构建连接多个现象的整个因果路径。他们对因果路径的强调与Lauren Ross（即将出版）的相关工作有关。在这个背景下，Ross的工作尤其有趣，因为她使用因果路径的概念来解决“因果选择”，这与区分背景条件和某个感兴趣结果的“真正”（触发）原因有关。对于Silva、Landreth和Bickle（2014）来说，解释这种区别同样至关重要，他们依赖于一种特定类型的连接实验，“正向操纵”，来进行解释。Bickle和Kostko在最近的发育神经生物学的详细案例研究中对因果路径的引用可能有助于将Silva、Landreth和Bickle在神经生物学实验方面的广泛工作与Ross从更一般的生物学中得出的工作联系起来。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Akins, Kathleen A., 1993a, “What Is It Like to Be Boring and Myopic?”, in *Dennett and His Critics: Demystifying Mind*, Bo Dahlbom (ed.), Cambridge, MA: Blackwell, 124–160.

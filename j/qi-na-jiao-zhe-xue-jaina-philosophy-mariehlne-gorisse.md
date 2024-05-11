@@ -337,6 +337,7 @@
 * 我们的知识能力，如感知、推理和辩论技巧，一直延伸到超自然的知识能力范围。在这里，一个知识主张需要通过不同类型的观点进行分析。
 * 对我们内在更高层次存在的开放，尤其是通过冥想。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### General introductions

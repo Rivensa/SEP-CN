@@ -490,6 +490,7 @@ Karp \[1965]首次证明了 Karp 的部分同构定理；另请参阅 Barwise \[
 
 有关无穷语言的进一步阅读，请参阅Aczel \[1973]，Dickmann \[1975]，Karp \[1964]，Keisler \[1974]和Makkai \[1977]。关于无穷语言与大基数之间的联系的有用解释可以在Drake \[1974]的第10章中找到。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aczel, P., 1973, “Infinitary Logic and the Barwise Compactness Theorem”, *Proceedings of the 1971 Bertrand Russell Memorial Logic Conference* (Uldum, Denmark), J. Bell, J. Cole, G. Priest, and A. Slomson (eds.), Leeds: Bertrand Russell Memorial Logic Conference, 234–277.

@@ -478,6 +478,7 @@ Chvátal 的定理给出了答案：对于一个有 n 堵墙的画廊，└n/3�
 
 视觉思维可能以多种方式促进理解。视觉插图在提供分析概念的例子和非例子方面非常有用，从而帮助我们更好地掌握这些概念。此外，在证明过程中伴随的视觉思维可能加深我们对证明的理解，使我们意识到证明的方向，以便像赫尔曼·韦尔所说的那样，我们不必盲目地一步一步地穿越，通过触摸来感知。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, C., 2001, *The Knot Book*, Providence, Rhode Island: American Mathematical Society.

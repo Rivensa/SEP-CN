@@ -399,6 +399,7 @@ E.I.J.罗森塔尔已经指出了阿尔法拉比和阿维森纳对“杂草”�
 
 即使不接受对阿尔巴拉格思想的形而上学解释，他的伦理学说仍然是无可争议的。阿尔巴拉格显然关注人的脆弱本质和死亡的不断威胁（Alwuzad 1994），但他相信人可以凭借自己的智力能力和决心掌控自己的命运。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 For more information about the sources for (Ibn Bâjja) Avempace’s biography, see the supplement on “[Sources for Ibn Bâjja’s Biography](https://plato.stanford.edu/entries/ibn-bajja/ibn-bajja-biography.html).”

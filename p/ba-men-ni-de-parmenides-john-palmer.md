@@ -176,6 +176,7 @@ Mourelatos、Nehamas和Curd都认为巴门尼德关注的是以抽象的方式�
 
 尽管巴门尼德的《什么是》在这些神圣原则中有其最接近的类似物，但巴门尼德本人在现存的片段中从未将《什么是》称为神圣的，也从未暗示它是一个神。相反，他通过系统地追求一个基本思想，即《什么是》必须具备的属性，来发展一个详尽的概念，即《什么是》既必须存在，又必须是它自身，不仅在时间上，而且在空间上。无论它可能具有什么其他属性，如果不能理解为它以这些方式之一属于它，那么这些属性就不会进入巴门尼德对《什么是》的概念中。因此，尽管在其他方面与之相似，但它没有宗教传统中天上神的任何特征，这些特征在泽诺芬尼斯最伟大的神中仍然存在。如果泽诺芬尼斯可以被视为理性神学的奠基人，那么巴门尼德对存在的主要方式进行区分以及他对《什么是》必须具备的属性的推导，仅仅作为这样的推导，使他有资格被视为形而上学或本体论的奠基人，作为一个与神学不同的研究领域。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 References to items prior to 1980 are much more selective than those to more recent items. For a nearly exhaustive, annotated listing of Parmenidean scholarship down to 1980, consult L. Paquet, M. Roussel, and Y. Lafrance, *Les Présocratiques: Bibliographie analytique (1879–1980)*, vol. 2, Montreal: Bellarmin/Paris: Les Belles Lettres, 1989, pp. 19–104.

@@ -432,6 +432,7 @@ Alexius Meinong 以他的观点而闻名，即一些不存在的对象仍然具�
 
 Henry S. Leonard（1956）是第一个开发自由逻辑的人，尽管他使用了一个有缺陷的“E！”的定义。Karel Lambert在1958年开始了他对该领域的大量贡献，批评了Leonard的定义，然后在1960年创造了“自由逻辑”这个术语。早期的自由逻辑系统是积极的。Rolf Schock在1960年代的一系列论文中发展了负自由逻辑，最终在1968年达到顶峰。Timothy Smiley在1960年提出了中立自由逻辑的概念，但第一部全面论述该概念的著作出现在1994年的Lehman中。Mehlberg在1958年的256-260页中描述了超值论，作为处理模糊性而不是中立自由逻辑的一种工具。但是，他们在自由逻辑中的形式化和应用始于1966年的van Fraassen，其中引入了“超值论”这个术语。双域语义在Lambert、Nuel Belnap等人的讲座中早在1950年代末就被讨论过，但似乎Church 1965和Cocchiarella 1966是第一篇发表的解释。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Antonelli, Gian Aldo, 2000, “Proto-Semantics for Positive Free Logic,” *Journal of Philosophical Logic*, 29 (3): 277–294.

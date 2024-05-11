@@ -256,6 +256,7 @@ al-Ghazālī的阿舍'派前辈倾向于否定亚里士多德的本质的存在�
 
 这一论点是否表明 al-Ghazālī 认为身体可能具有性质存在争议（Marmura 1981b；Frank 1992；Griffel 2009）。 亚里士多德认为这一论点承认了哲学家的观点，即身体具有性质，通过这些性质它们作为变化的原因（亚里士多德 ITI: 330）。 然而，al-Ghazālī 的观点与哲学家的观点之间仍然存在重要差异。 即使 al-Ghazālī 承认身体可能具有性质，他也认为神的选择和行动统治着亚月界世界中的特定事件。 上帝可以计划并执行与自然规律偏离或加速的特定事件。 他观点的后一方面与哲学家对上帝的描述不相容，如前文 [§3.3](https://plato.stanford.edu/entries/arabic-islamic-causation/#AveCauNecNat) 中所讨论的。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary literature

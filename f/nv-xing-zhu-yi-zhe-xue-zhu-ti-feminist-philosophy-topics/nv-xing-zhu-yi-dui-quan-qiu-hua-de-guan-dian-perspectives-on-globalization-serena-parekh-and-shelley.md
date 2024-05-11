@@ -172,6 +172,7 @@
 
 总的来说，全球化对寻求发展能够回应男性和女性生活现实的正义和责任概念的女性主义政治哲学家提出了许多挑战。随着全球化的持续发展，这些挑战在未来几十年可能会增加。正如我们上面所概述的，女性主义政治哲学家已经在理解这一复杂现象方面取得了巨大进展。然而，如何使全球化更加公平的挑战仍然存在于女性主义哲学家以及所有其他追求平等和正义的人之中。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ackerly, B., 2009, “Feminist Theory, Global Gender Justice, and the Evaluation of Grant Making,” *Philosophical Topics*, 37(2): 179–198.

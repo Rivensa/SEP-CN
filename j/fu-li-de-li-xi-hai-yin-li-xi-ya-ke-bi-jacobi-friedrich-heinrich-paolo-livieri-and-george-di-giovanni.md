@@ -124,6 +124,7 @@
 
 雅可比强调理解需要从两个不同的感知能力中获取知识内容，一个由感官代表（有限事物），另一个由理性代表（神圣事物）。如果雅可比似乎在《论神圣事物》中离开了神论的理论，其中理性在有限和神圣的两个视野中都起着基本作用（JWA 3: 85），他最终确认理性是监督我们思考和认识能力的能力。然而，这种至高性并不撤销理解的认识论功能，理解通过其中介和连接的方式赋予知识其主题，并通过这样做验证自我身份。这段文字之所以重要，正是因为它赋予了理解在自我意识的构建中一个特定的角色，更新了雅可比对理解的分析（雅可比，1994（2）：547-548和JWA 2, 1: 386。参见伊瓦尔多，2003: 122）。在1819年的《前言》中，理性和理解在定义“我”的整体项目中的合作再次成为核心，通过定义科学本身的性质进一步阐述了这种合作。科学并不排斥上帝的概念或神圣事物的概念；相反，它将知识限制在有限的对象上，而不排斥对更高和原初存在的认识，后者必须成为所有认知的前提。因此，人类发现自己在寻找上帝，因为他承认自己知识的局限性。回顾苏格拉底和圣保罗的教导，雅可比以康德式的承认我们自我发现的基本宗教结果来结束他的知识生涯，最终展示了更高秩序现实的必要性。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 An important development is the near completion of the critical editions of Jacobi’s Correspondence (Briefausgabe) and Works (Werke. Gesamtausgabe) which were initiated as far back as the early 1980s. All together, there will be forty-three volumes, thirteen of Works (texts and appendices) and thirty of Correspondence (texts and commentaries), all published by Meiner (Hamburg) and frommann–holzboog (Stuttgart-Bad Cannstatt).

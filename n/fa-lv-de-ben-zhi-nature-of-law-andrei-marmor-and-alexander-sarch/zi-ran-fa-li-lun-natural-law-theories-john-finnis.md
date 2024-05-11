@@ -170,6 +170,7 @@ Raz、Dickson 和其他人承认这种评价是必要的，但否认它是道德
 
 自然法理论的不无批判的现实主义，在对意图与预见和不注意之间的现实性以及自我优先选择和（i）违法者与守法者和（ii）侵权者与受害者之间的不同关系的处理上得到了证明，同样使其能够在广义上理解的法律理论中对能够维持和部分由法律体系有序的社区类型进行批判性反思。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alexy, Robert, 2002, *The Argument from Injustice: A Reply to Legal Positivism*, Oxford: Clarendon Press.

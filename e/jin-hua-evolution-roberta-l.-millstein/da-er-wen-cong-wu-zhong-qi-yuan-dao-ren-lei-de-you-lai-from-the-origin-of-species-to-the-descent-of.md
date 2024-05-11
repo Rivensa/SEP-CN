@@ -244,6 +244,7 @@ Jenkin's multi-pronged argument gave Darwin considerable difficulties and set th
 
 与进化论相关的更一般的哲学问题——围绕自然目的论、伦理学、进化自然主义与宗教传统主张的关系、人类与有机世界其他部分的关系的问题——继续作为学术探究的议题。达尔文对人类心智能力和道德属性的描述的地位仍然是哲学辩论的问题。他对性选择的依赖是否足够解释人类社会中的性别角色形成了一些女性主义学术中激烈的讨论话题。这些发展表明，仍然存在着可能改变未来对进化论重要理解方式的重要理论问题（Sloan, McKenny, & Eggleson [eds] 2015）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Amundson, Ron, 2005, *The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139164856

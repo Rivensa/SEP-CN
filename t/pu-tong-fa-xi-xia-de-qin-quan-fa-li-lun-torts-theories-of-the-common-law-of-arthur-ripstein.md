@@ -158,6 +158,7 @@ Some critics of civil recourse theory have charged it with focusing on revenge i
 
 在某些情况下，被告可以采取多种预防措施来确保其行为足够安全（无论如何确定）。其中一些预防措施可能会防止原告遭受特定的伤害，而其他预防措施则不会（尽管所有预防措施都会将风险降低到可接受的水平）。例如，两种医疗预防措施可能会使某个程序足够安全，但是通过减少其特定风险的不同方面来实现。如果被告医生采取了其中一种预防措施，但是另一种预防措施可以防止原告遭受的伤害，那么伤害就是风险的实现，但被告并没有疏忽。作为法律和哲学问题，“如果被告没有疏忽，原告是否会遭受相同的伤害？”似乎没有一个确定的答案，而是取决于哪种未采取的预防措施构成相关对比案例（Gilboa 2019）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alexander, Larry A., 1987, “Causation and Corrective Justice: Does Tort Law Make Sense?”, *Law and Philosophy*, 6(1): 1–23. doi:10.1007/BF00142638

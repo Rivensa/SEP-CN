@@ -270,6 +270,7 @@ P(Scene∣Image)=P(Image∣Scene)P(Scene)P(Image)
 
 总之，在第2节中我们调查的研究提供了令人信服的证据，即我们一直低估了婴儿和幼儿对世界的理解程度。与此同时，成年人的能力在几乎每个领域都远远超过了孩子的能力。我们在第3节讨论的贝叶斯框架有潜力同时解决这两个问题。它提供了一种系统和可量化的发展方法，并且同时可以纳入先天因素。它是否能成功将认知发展的学习理论方法与先天主义者偏爱的内置表示统一起来，还有待观察。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aguiar, A., & R. Baillargeon, 1999, 2.5-month-old infants’ reasoning about when objects should and should not be occluded. *Cognitive Psychology*, 39: 116–57.

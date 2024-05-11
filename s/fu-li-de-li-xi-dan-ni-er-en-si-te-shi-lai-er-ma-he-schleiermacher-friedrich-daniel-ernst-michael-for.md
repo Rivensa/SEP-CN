@@ -331,6 +331,7 @@ Beiser 2020 (a helpful though controversial account of Schleiermacher’s relati
 
 Brandt [1941] 1968; Lamm 1996; Niebuhr 1964. Also helpful is Richard Crouter’s introduction to *On Religion: Speeches to Its Cultured Despisers* (**OR**: xi–xxxix).
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

@@ -191,6 +191,7 @@ Ibn Tibbon 翻译的另一个重要来源是 Saadia Gaon 的《圣经》阿拉�
 
 在这三个例子中，伊本·提本强调沉思而非实践。他使用了梅蒙尼德所挑选出的同样圣经经文，但得出了不同的哲学立场。正是这种有趣的哲学-解经的互动，固定的圣经框架内的自由思想讨论，构成了梅蒙尼德哲学和解经传统的特点，这一传统由伊本·提本创立，并由他的后裔、弟子和崇拜者继续传承。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Translations by Samuel Ibn Tibbon

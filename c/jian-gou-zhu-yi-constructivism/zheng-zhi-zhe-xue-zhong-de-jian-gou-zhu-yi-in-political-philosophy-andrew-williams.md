@@ -400,6 +400,7 @@ Rawls 对机会平等的复杂言论表明我们面临选择。我们可以接�
 
 我们需要对政治建构主义提出类似的问题。鉴于罗尔斯在当代政治哲学中的核心地位，可以合理地期望在回答这些问题方面取得一些进展。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, Matthew D., 2012, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, New York/Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195384994.001.0001

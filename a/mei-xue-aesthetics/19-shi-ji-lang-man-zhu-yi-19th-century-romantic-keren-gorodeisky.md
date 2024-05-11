@@ -429,6 +429,7 @@ The romantics, then, sought to *supplement* but not to supplant reason with the 
 
 > 浪漫主义...是一场想象力革命的第一个重要阶段，一直延续到我们的时代，并且尚未完全完成。 (Frye 1968: 15; 另见 Larmore 1996)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

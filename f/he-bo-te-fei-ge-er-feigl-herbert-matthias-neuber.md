@@ -142,6 +142,7 @@
 
 这一诊断，尽管具有挑衅性，但至今仍然准确。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature: Selected Works by Feigl

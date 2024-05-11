@@ -310,6 +310,7 @@ D5 只将“通过委托”（Chisholm 和 Feehan 1977，143-144）的欺骗案�
 
 对于 D5 的反对意见，即负面欺骗不是欺骗，也适用于 D6 和 D7。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, J., 1997. ‘Lying, deceiving, or falsely implicating’, *Journal of Philosophy*, 94: 435–452.

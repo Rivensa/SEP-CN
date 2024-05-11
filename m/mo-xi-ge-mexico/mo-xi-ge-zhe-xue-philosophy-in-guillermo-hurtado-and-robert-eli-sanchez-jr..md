@@ -252,6 +252,7 @@ José Sánchez Villaseñor（1911 年至 1961 年）、Fernando Sodi Pallares（
 
 如今，墨西哥哲学是一个专业、多元化且不断发展的研究领域。这在很大程度上要归功于墨西哥和美国哲学家之间的合作，使得推进研究所需的资源现在在西班牙语和英语中都很容易获取。随着新的翻译、评论和历史的不断涌现，以及定期的双边会议，现在可以合理地期望墨西哥产生的哲学和有关墨西哥（或墨西哥裔美国人）经验的哲学将继续吸引新的学者，并很快因其对世界哲学的卓越贡献而得到认可。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary and Secondary Sources in Spanish

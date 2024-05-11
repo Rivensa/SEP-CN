@@ -200,6 +200,7 @@ Meinong 对对象的理论最好可以理解为对布伦塔诺解释中本体论
 
 这是相当有趣的一点，然而，在过去的二十年里，弗朗兹·布伦塔诺的哲学贡献获得了新的生命，因为越来越多来自不同领域的哲学家重新发现并阐述了布伦塔诺作品中的不同主题。他在心灵哲学方面的贡献被接纳并在关于意识本质和[意识与指向性](https://plato.stanford.edu/entries/consciousness-intentionality/)、[意识的统一性](https://plato.stanford.edu/entries/consciousness-unity/)和[时间意识](https://plato.stanford.edu/entries/consciousness-temporal/)之间的关系的辩论中发挥着核心作用；他在伦理学上的观点启发了[价值的适当态度理论](https://plato.stanford.edu/entries/fitting-attitude-theories/)，这些理论从正确或不正确的赞同或反对形式来分析伦理价值。此外，布伦塔诺去世一百周年（2017 年）的纪念引发了一系列会议和出版物，将布伦塔诺的贡献置于关注的中心（例如，Kriegel 2017）。这表明对布伦塔诺在哲学中的系统贡献的兴趣仍然强烈而生动。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Works by Brentano

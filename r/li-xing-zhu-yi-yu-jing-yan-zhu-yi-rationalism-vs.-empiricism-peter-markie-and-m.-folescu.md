@@ -214,6 +214,7 @@ Carruthers 声称我们的先天知识是通过进化选择来确定的（第 11
 
 像一般的哲学辩论一样，理性主义者/经验主义者之争最终关乎我们在世界中的位置，也就是我们作为理性探究者的位置。我们的理性和经验能力在多大程度上支持我们了解和理解我们的处境？
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, R., 1975, “Where Do Our Ideas Come From? Descartes vs Locke”, reprinted in Stitch S. (ed.) *Innate Ideas*, Berkeley, CA: California University Press.

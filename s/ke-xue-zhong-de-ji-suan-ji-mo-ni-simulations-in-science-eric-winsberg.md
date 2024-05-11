@@ -232,6 +232,7 @@ Paul Humphreys（2004）和 Mark Bedau（1997，2011）认为，对于对涌现�
 
 Gordon Purves（即将出版）认为在计算模型中有小说的例子（他的例子是所谓的“想象中的裂缝”），以及其他地方，这些例子不符合上述严格要求。然而，与 Toon 不同，他还希望将虚构建模元素与非虚构建模元素区分开来。他的主要批评是关于社会使用规范中的虚构性标准，Purves 认为我们应该能够在没有这些规范的情况下确定某个建模部分是否是虚构的。因此，他希望找到科学小说的内在特征描述。他的提议认为，模型小说的构成要素是它们没有 Laymon（1985）所称的“逐段改进”（PI）特征。PI 是许多理想化模型的特征；它表示随着你去理想化，你的模型变得越来越准确。但是，当你去理想化一个硅原子时，你并不会得到一个越来越准确的硅裂缝模拟。但是 Purves 认为这种 PI 的失败是虚构的构成要素，而不仅仅是它们的症状。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Barberousse, A., and P. Ludwig, 2009. “Models as Fictions,” in *Fictions in Science. Philosophical Essays in Modeling and Idealizations*, London: Routledge, 56–73.

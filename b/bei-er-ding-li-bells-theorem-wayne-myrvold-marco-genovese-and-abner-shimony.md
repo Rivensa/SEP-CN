@@ -528,6 +528,7 @@ Shimony 在他的几篇著作中（Shimony 1978, 1983, 1984a,b, 1986, 1988, 1989
 
 在贝尔生命的最后一年在的里雅斯特发表的一次讲座中，贝尔讨论了真正相对论版本的动力学崩溃理论的前景，并得出结论，Ghirardi，Grassi 和 Pearle 在制作一个真正相对论版本的连续自发定位理论（CSL）时遇到的困难是“二等困难”，即技术困难，而不是深层概念上的困难。这似乎已经得到了已经提到的完全相对论崩溃理论的建设的证实。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abellán, C., *et al*., 2018, “Challenging local realism with human choices,” *Nature*, 577: 212–216.

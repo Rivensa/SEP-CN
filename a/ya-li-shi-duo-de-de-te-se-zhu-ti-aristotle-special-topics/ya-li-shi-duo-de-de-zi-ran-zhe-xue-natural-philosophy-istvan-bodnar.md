@@ -141,6 +141,7 @@
 * substance: *ousia*
 * time: *pote* (as one of the categories, literally: when) or *chronos*
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

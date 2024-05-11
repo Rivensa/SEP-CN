@@ -257,6 +257,7 @@ STR 对于持续论的第二个论证通过关于时间的辩论进行（见第 
 
 Dodd（2004）、Thomasson（2004）、Caplan 和 Matheson（2006）、Tillman（2011）、Aliyev（2017）、Moruzzi（2018）、Alward（2019）、Friedell（2020）讨论了音乐作品的持久性。Slater 和 Varzi（2007）、Jansen（2008）、Hansson Wahlberg（2014a）、Epstein（2015 ch.12）、Hawley（2017）、Faller（2019）、Hansson Wahlberg（2019）和 Wilhelm（2020）讨论了社会实体的持久性。Merkouris（2014）讨论了法律条约的持久性。Reydon（2008）讨论了生物物种。Nicholson 和 Dupre eds.（2018）是一个开放获取的集合，包括许多有关生物实体的持久性和更广泛的形而上学的有趣文章，从“过程”角度来看。最后一个非常特殊的案例：Baber（2002）讨论了上帝的时间部分；有关讨论，请参阅三位一体的条目。布法罗本体论网站上有许多应用本体论的资源（请参阅其他互联网资源），而 Bittner、Donnelly 和 Smith（2004）明确讨论了应用本体论背景下的持久性和持续性。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aliyev, Alexey, 2017, “Musical Perdurantism and the Problem of Intermittent Existence”, *Grazer Philosophische Studien*, 94: 83–100.

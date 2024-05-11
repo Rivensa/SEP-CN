@@ -537,6 +537,7 @@ Cohen and Callender (2009, 2010)、Schrenk (2007a, 2014)和Unterhuber (2014)介�
 
 在 Cohen 和 Callender（2009, 2010）、Schrenk（2007a, 2014）和 Unterhuber（2014）中提出了关于其他条件不变律的休谟更好最佳系统解释。Wheeler（2018：第 3.2 章）对各种版本进行了简明易懂的阐述；Reutlinger（2009）和 Backmann 和 Reutlinger（2014）提供了批判性讨论。Hicks，Jaag 和 Loew（2023）是一本介绍最佳系统解释实用版本最新发展的专题集。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, E. W., 1975, *The Logic of Conditionals*, Dordrecht: Reidel.

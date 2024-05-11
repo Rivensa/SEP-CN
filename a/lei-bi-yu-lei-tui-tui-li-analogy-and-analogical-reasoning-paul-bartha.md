@@ -1394,6 +1394,7 @@ Knuttila 和 Loettgers（2014）研究了类比推理在合成生物学中的作
 
 因此，Linneman 和 Visser 为每个新兴引力模型制定了明确的类比论证，并使用评估个别类比论证的熟悉标准对它们进行评估。可以说，即使是最雄心勃勃的启发式目标仍然依赖于考虑合理性的因素，这些因素通过类比论证的方式表达和审查会更有益。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Achinstein, P., 1964, “Models, Analogies and Theories,” *Philosophy of Science*, 31: 328–349.

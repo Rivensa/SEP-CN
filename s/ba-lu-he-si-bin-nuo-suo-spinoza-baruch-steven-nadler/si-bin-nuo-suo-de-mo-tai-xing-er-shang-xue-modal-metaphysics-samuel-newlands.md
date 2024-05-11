@@ -290,6 +290,7 @@ Curley 提出了一个更为详细和优雅的解决方案，以调和 Ip28 和�
 
 斯宾诺莎提出了一种替代的基础论和一个挑战，而不是将创造性可能性简化为上帝的实际完美（正如唯心主义者对待扩展性一样）。让每一个可能性通过实际体现在上帝中得到基础，即使这需要将神性的范围扩展到传统边界之外。对于那些不愿意跟随斯宾诺莎进行这种扩展的人来说，斯宾诺莎的挑战是要求那些提出附近替代方案的人以非隐喻的方式解释上帝如何基础某些基本的可能性，而不是实际和直接地体现它们。在提供这样一个解释之前，斯宾诺莎尖锐的结论提出了一个未解决的挑战：“但是通过什么神圣的力量可以创造[扩展性或上帝不体现的任何属性]？他们对此完全无知。这表明他们不理解他们自己所说的”（Ip15s）。至少，斯宾诺莎的挑战突显了他的模态形而上学超越了必然主义的主题，并继续邀请更广泛的研究。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 [All references to Spinoza’s *Ethics* use the form of PartTypeNumberSubtype (so “EIp4d” means Part One, Proposition Four, Demonstration). Other variants of types include “d” for definition, “a” for axiom, and “le” for lemma. Other subtypes include “s” for scholium and “c” for corollary. Spinoza’s letters are cited as Ep, using their standard numbering. All other citations from Spinoza’s corpus are cited by volume/page of Edwin Curley’s *Collected Works*, from which all translations are also taken.

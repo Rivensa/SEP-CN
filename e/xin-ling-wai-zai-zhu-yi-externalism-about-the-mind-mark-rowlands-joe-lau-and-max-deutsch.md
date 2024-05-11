@@ -150,6 +150,7 @@ Fodor (1987)采取了一种不同的策略。他同意，在不同的语境中�
 
 心灵外在主义以多种形式出现（Chemero 2009; Hutto & Myin 2012, 2017; Noë 2004）。但是，对于生物体之间动态、紧密耦合的相互作用的强调贯穿于所有形式的心灵外在主义，并且至少在以过程为导向的延伸心智的版本中找到明显的共鸣。因此，虽然在强调方面可能存在差异，但一些心灵外在主义的版本很可能与一些延伸心智的版本相吻合。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Frederick, 2010, “Why We Still Need a Mark of the Cognitive”, *Cognitive Systems Research*, 11(4): 324–331. doi:10.1016/j.cogsys.2010.03.001

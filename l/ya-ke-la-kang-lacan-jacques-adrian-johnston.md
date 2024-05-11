@@ -140,6 +140,7 @@ a 代表小客体，即作为“欲望的对象原因”的客体 a。拉康之�
 
 此外，镜像阶段的a和客体a之间确实存在一种连续性：自我（作为a）和幻想（带有其a）都是主体对问题“其他人想要什么？”和“我如何与其他人的欲望定位自己？”（见上文2.3）的无意识命定性回答。拉康的a，就像他的其他数学符号一样，被故意处理为类似于代数变量。它是特定类型决定因素的占位符：其他人的欲望，我必须成为什么样的人才能成为其他人欲望的对象，最终能够平息我不安的奋斗和渴望，能够为我依附的重要他者所做的事情等等。但是，在所有情况下，a反映了拉康的黑格尔-科耶夫口号：“人的欲望是他人的欲望”。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Several remarks are warranted about the bibliographies of primary and secondary Lacanian literature below. As regards primary sources, only fifteen of Lacan’s twenty-six annual seminars have been published by Jacques-Alain Miller through the Champ freudien series. As of the end of 2012, the following seminars are available in official editions: I, II, III, IV, V, VII, VIII, X, XI, XVI, XVII, XVIII, XIX, XX, and XXIII. Of these, only seven have been published as authorized English translations by W.W. Norton and Company: I, II, III, VII, XI, XVII, and XX. The primary sources listed below are the available book-length texts by Lacan. These lists do not include various separate essay-length pieces scattered across numerous places.

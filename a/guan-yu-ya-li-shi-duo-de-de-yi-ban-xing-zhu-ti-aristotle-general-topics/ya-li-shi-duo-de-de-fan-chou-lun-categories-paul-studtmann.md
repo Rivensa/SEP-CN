@@ -231,6 +231,7 @@ J.L.阿克里尔（1963 年）是问题方法的最杰出的辩护者。他以�
 
 Haaparanta 和 Koskinen（eds.）2012 以 Michael Loux（2012b）对亚里士多德的范畴论结构的论文开始，即存在以多种方式被说（pollachôs legomenon）。许多评论家认为这样的论点存在深层次的问题。Loux 在某种程度上同意这种观点，认为这个论点使得单义但超范畴的引用成为不可能，从而使得存在以多种方式被说的论点也成为不可能。然而，Loux 找到了一种拯救亚里士多德论点的方法，即否认它是关于普遍术语的意义或意义的主张。该卷继续讨论逐渐远离现在的议题，但这也显示了他的范畴论的持久影响。Kukkonen（2012），Knuttilla（2012）和 Normore（2012）在单独的论文中讨论了亚里士多德的范畴对中世纪哲学的影响。在该卷的后半部分，论文开始关注其他哲学家，如黑格尔，皮尔斯，博尔扎诺和迈农，他们每个人都公开表明对亚里士多德及其范畴论有明确而深刻的债务。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ackrill, J. L., 1963. *Aristotle: Categories and De Interpretatione*, Oxford: Clarendon Press.

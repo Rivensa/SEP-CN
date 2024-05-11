@@ -182,6 +182,7 @@
 
 二十多年来，女性主义哲学与残疾的事实和理论有着富有成效但有时不稳定的交流。一些从残疾角度看待女性主义理论的女性主义者，如莫里斯和温德尔，对证据表明女性主义尚未克服对正常的残余忠诚感到不安。事实上，一些女性主义者对残疾的讨论似乎是通过搁置女性主义自身与解放、自我肯定和包容的关联来进行的。然而，总的来说，哲学受益于将女性主义的理论视角应用于更好地理解残疾。用残疾人生活的布料擦拭这些镜头有望实现更加微妙和透彻的哲学描述，以及比哲学忽视残疾时期更广泛和更远见的理论。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abrams, K., 2011. “Performing Interdependence: Judith Butler and Sunaura Taylor in the Examined Life”, *Columbia Journal of Gender & Law*, 21(2): 72–89 [[available online](http://scholarship.law.berkeley.edu/facpubs/464)].

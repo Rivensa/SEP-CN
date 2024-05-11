@@ -116,6 +116,7 @@ HBEs，像研究非人类动物的行为生态学家一样，倾向于使用最�
 
 生物社会学周围的其他辩论仍在进行中。例如，虽然方法论适应主义已成为行为生态学中的标准方法，但并非所有哲学家都相信这是一种完全无害的做法 - 对于这种方法所需的假设仍然存在一些担忧（例如，参见 Lewens，2009; Lloyd，2005）。同样，对文化在人类行为的性质和历史中的作用越来越感兴趣；自 Lumsden 和 Wilson（1981）出版他们的书以来，研究文化演化的工作有所增加。哲学家和科学家仍在探讨文化特征如何以及在多大程度上可以说是进化的问题；并且，如上所述，以这种方式进化的特征是否可以在任何意义上被视为适应（Driscoll，2011; Fracchia 和 Lewontin，1999, 2005; Henrich 等，2008; Sperber，2006; Sterelny，2006）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alexander, R. D., 1990, Epigenetic Rules and Darwinian Algorithms: The Adaptive Study of Learning and Development. *Ethology and Sociobiology*, 11: 241–303.

@@ -274,6 +274,7 @@ Longino 只是众多试图捕捉色情作品在道德上存在问题的作者之
 
 总之，很明显，对情色艺术的认真思考会引发关于美学的本质、表现的道德影响和地位以及艺术的界限的根本问题。因此，毫无疑问，这个话题将对进一步的哲学研究产生丰硕的成果。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ahmad, Adil Mustafa, 1994, “The Erotic and the Pornographic in Arab Culture”, *British Journal of Aesthetics*, 34: 278–284.

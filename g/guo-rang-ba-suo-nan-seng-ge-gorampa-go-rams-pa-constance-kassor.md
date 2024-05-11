@@ -140,6 +140,7 @@
 
 噶举派和宁玛派学者设法吸收了果让巴的一些哲学观点，并将其纳入自己的体系中。果让巴不仅提供了对宗喀巴对中观派的特定理解的令人信服的驳斥，而且他的哲学论证也与噶举派和宁玛派的修行风格相容。如今，噶举派和宁玛派学者在萨迦寺院学习果让巴的哲学著作，甚至有些人在自己的寺院教授果让巴的哲学。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Cabezon, Jose Ignacio, and Geshe Lobsang Dargyay, 2007, *Freedom from Extremes: Gorampa’s “Distinguishing the Views” and the Polemics of Emptiness*, Boston: Wisdom Publications.

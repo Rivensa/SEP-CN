@@ -201,6 +201,7 @@ Iris Young（1994）区分了三种处理妊娠期滥用药物的方法：惩罚
 
 在一些罕见的情况下，比如一些晚期癌症，对于怀孕妇女的治疗决策需要在拯救她的生命和胎儿的生命之间做出选择，或者其他戏剧性的权衡。在这种情况下，有普遍共识（特别是在上述讨论的安吉拉·卡德尔案之后），首要考虑应该是拯救母亲的生命（即参见Puls、Terry和Hunter 1997）。然而，查尔斯·韦杰尔（1998）指出，在某些情况下，怀孕妇女拒绝治疗并为了她的孩子而牺牲自己的决定应该被视为一种值得尊重的自主决定，并且我们不应该假设只有自私的决定才能是自主的决定。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Amundson,Ron, 2005, “Disability, ideology, and quality of life: a bias in biomedical ethics”, in Wasserman, Bickenbach, and Wachbroit (eds.), *Quality of Life and Human Difference: Genetic Testing, Health Care and Disability*, New York: Cambridge University Press, 101–120.

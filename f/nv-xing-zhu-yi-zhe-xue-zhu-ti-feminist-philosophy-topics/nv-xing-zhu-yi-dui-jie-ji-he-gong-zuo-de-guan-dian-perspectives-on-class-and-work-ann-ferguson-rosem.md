@@ -124,6 +124,7 @@ Sylvia Walby 处理了经济阶级的模糊性，将其应用于未受薪的家�
 
 关于女性与阶级和工作关系的理论和实证辩论，以及这些关系对男性统治和女性压迫理论以及其他社会统治系统的影响，仍然是女性和性别研究领域、以及历史、社会学、人类学和经济学中性别认同、角色和权力理论和调查的重要来源。它们对哲学学科中的认识论、形而上学和政治理论，以及人文学科和社会科学中的其他学科也具有重要影响。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Addams, Jane, 1914, “Women and Public Housekeeping,” in *Women and Public Life*, in James P. Lichtenberger (ed.), *Annuals of the American Academy of Political and Social Science, v. 56*.

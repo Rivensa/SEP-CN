@@ -461,6 +461,7 @@ On the contrary, Malebranche insists that “God is the sole cause of everything
 
 阿尔诺在 1682 年至 1694 年间的工作证明了他的智力活力。令人注目的是，他在 82 岁去世之前一直忙于一系列相关的争议和问题，既包括哲学问题，也包括神学问题，涉及创造、恩典和自由意志。尽管他没有构建一个哲学体系，但在一个天才辈出的世纪中，他以积极而深入的方式处理了当时许多重要的哲学家和哲学问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 The citations abbreviation *OA* is identified below, in the first reference of Principle Editions. The citations abbreviations *LA* and *OM* are identified in the section Related Early Modern Works below.

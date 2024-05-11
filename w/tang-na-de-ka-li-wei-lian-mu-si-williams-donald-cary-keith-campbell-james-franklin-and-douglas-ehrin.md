@@ -202,6 +202,7 @@ Maher 还反对属性本身，比如“蓝色”，可能与样本中的比例�
 
 威廉姆斯对归纳的辩护因此有资源来回应对它的批评。它仍然是最客观和雄心勃勃的归纳的辩护。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary literature

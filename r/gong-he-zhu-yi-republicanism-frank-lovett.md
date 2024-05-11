@@ -164,6 +164,7 @@
 
 在许多方面，公民共和主义仍然是一个尚未充分发展的政治学说。在上述所有讨论的领域，还需要进一步的工作，当代公民共和主义者只是最近才开始研究当代政治理论家和哲学家关注的许多问题。其中，多元文化主义（Laborde 2008; Lovett 2010; Honohan 2013; Bachvarova 2014）、教育政策（Peterson 2011; Hinchliffe 2014; Macleod 2015）和代际公正（Beckman 2016; Katz 2017; Pinto 2019）至少已经有了初步的研究，但仍然需要进行大量的工作。尽管如此，公民共和主义是一个充满活力且不断发展的领域，将继续为当代社会和政治理论的辩论做出积极的贡献。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arendt, Hannah, 1958. *The Human Condition*, Chicago: University of Chicago Press.

@@ -181,6 +181,7 @@
 
 最后，值得注意的是，并非所有信息技术的社会效应都涉及隐私（Pieters 2017）。例如，社交网络网站对友谊的影响以及电子选举结果的可验证性。因此，信息技术的价值敏感设计方法和影响评估不应仅关注隐私，因为信息技术还会影响许多其他价值观。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abelson, H., Anderson, R., Bellovin, S. M., Benaloh, J., Blaze, M., Diffie, W., & Rivest, R. L., 2015, “Keys under doormats: mandating insecurity by requiring government access to all data and communications”, *Journal of Cybersecurity*, 1(1): 69–79.

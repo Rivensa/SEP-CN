@@ -240,6 +240,7 @@ J.L. Schellenberg，例如，认为哲学必须寻求原则上“可共享”的
 
 尽管言辞激烈，但分析哲学家和他们的神学对手在这些问题上几乎没有直接的交流。T. Williams (2005)、Cross (2008) 辩护单义断言，Adams (2014) 试图修复本体神学。其他分析思想家提出了他们自己关于神圣超越的积极观点 (Crisp 和 Rea \[eds.] 2009: 9–11; Rea 2015, 2020; Jacobs 2015)。总的来说，分析哲学家和神学家有各种策略来避免单义性和本体神学的有害后果 (Wood 2021: 130–74)。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Marilyn McCord, 1991, “Sin as Uncleanness”, in special issue *Philosophy of Religion* of *Philosophical Perspectives*, 5: 1–27. doi:10.2307/2214089

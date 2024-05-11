@@ -532,6 +532,7 @@ p1（p2，p3，p4）p3（T−R）（R−S）p4（T−R）（R−P）=1，≠（1
 
 > 干草堆囚徒困境变成了狩猎鹿游戏。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Akin, Ethan, 2013, “The Iterated Prisoner’s Dilemma: Good Strategies and Their Dynamics,” arXiv:1211.0969v3 \[math.DS].

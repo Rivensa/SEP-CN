@@ -242,6 +242,7 @@ Scheibe 方法的一个独特特点是对物理文献中几乎所有重要的简
 
 我们勾勒了自1970年代以来发展起来的三个结构主义项目，以解决物理哲学中的问题，其中一些问题对物理学本身也有相关性。任何使用庞大的形式装置来描述一个领域并解决特定问题的项目都必须在工具的经济性方面进行审查：这个装置在实现其目标方面真正必要吗？还是主要关注自我产生的问题？我们试图为读者提供一些论据和材料，最终由读者自己来回答这些问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 This bibliography is mainly restricted to a selection of a few books which are of some importance for the three structuralistic programs. An extended ‘Bibliography of Structuralism’ connected to Sneed’s program appeared in *Erkenntnis*, Volume 44 (1994). Another recent volume of *Erkenntnis* (79(8), 2014) is devoted to new perspectives on structuralism. We will cite below a few articles of this volume and other articles that are of relevance for the present entry. Unfortunately, the central books of Ludwig (1978) and Scheibe (1997, 1999) are not yet translated into English, but see Ludwig and Thurler (2006). For an introduction into the respective theories, English readers could consult chapter XIII of Ludwig (1987) and chapter V of Scheibe (2001).

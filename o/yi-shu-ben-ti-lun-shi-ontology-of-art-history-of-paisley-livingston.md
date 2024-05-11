@@ -272,6 +272,7 @@ Stecker（2009）认为 Davies 的认识论论证不能证明选择性能理论�
 
 鉴于艺术领域的实践是矛盾的、变化的，并受到混乱的理论影响，仅凭实践本身无法告诉我们哪些实践方面能够可靠地回答艺术本体论问题。因此，公平地问一下，哲学家对实践的理性反思如何能够得出准确的艺术本体论问题的答案（Livingston 2005b）。在这方面，两个显著的问题是哲学家如何收集关于艺术相关态度和行为的足够证据，以及如何解释这些证据，使其能够可靠地支持一般本体论主张。艺术本体论者需要一种可靠、有原则的方法来选择和解释旨在支持他们理论的实践。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abercrombie, Lascelles, 1922, *An Essay Towards a Theory of Art*, London: Martin Secker.

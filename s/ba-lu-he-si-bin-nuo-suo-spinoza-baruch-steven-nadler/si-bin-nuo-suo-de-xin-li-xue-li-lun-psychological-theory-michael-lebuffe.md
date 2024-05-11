@@ -198,6 +198,7 @@ IIIp28，这个命题确立了斯宾诺莎的理论，即人类渴望带来快�
 
 进一步阅读：Curley 1988、Delahunty 1985、Garrett 1996、Yovel 1999、LeBuffe 2010a 的第 8 章和第 9 章以及 Kisner 2010 提供了关于斯宾诺莎的伦理语言与他的心理学之间关系的解释。关于斯宾诺莎对完美的观点的讨论，请参阅 Garrett 1996、Allison 1987、Wolfson 1934、LeBuffe 2010c 和 Carriero 2011。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

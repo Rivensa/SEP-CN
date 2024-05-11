@@ -181,6 +181,7 @@
 | 9:    | 致提多书，关于象征神学                                                                                           |
 | 10:   | 致约翰书，关于邪恶和苦难                                                                                         |
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Text and Translations

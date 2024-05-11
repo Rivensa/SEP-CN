@@ -213,6 +213,7 @@
 
 结果是一种“以问题为中心的教学法”，它以实用主义认识论作为其结构的研究方法。教师首先促进与某些现象的接触，这些现象对学生来说确实令人困惑，然后引导他们进行一系列的研究，以解决问题并使所有人满意（如果一切顺利的话）。这个研究过程包括以下几个阶段：阐明问题和可能需要回答的问题，收集数据，提出可能解决问题的假设，以及测试或评估这些假设。将课堂开放给这种“活跃”的思考会产生不可预测性，对教师来说可能是具有挑战性的，但如果能够成功地应对问题的不确定性，回报将是学生不仅学会了如何知道，还学会了如何思考。在这方面，杜威声称他关于教育的著作总结了他的整个哲学立场（Hildebrand 2008: 124）。对杜威来说，所有哲学都是教育哲学。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 As well as identifying some of the primary texts of pragmatism and listing works referred to in the article, the bibliography also contains some books which can be studied to supplement the current article.

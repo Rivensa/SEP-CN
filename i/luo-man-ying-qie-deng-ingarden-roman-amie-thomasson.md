@@ -107,6 +107,7 @@
 
 感谢艾拉·理查森（Ira Richardson）在 2020 年更新版本的研究中提供的研究帮助。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 A bibliography (compiled in 1985) of Ingarden’s works in English, French, German and Polish and of secondary sources is available in the edition of Ingarden’s *Selected Papers in Aesthetics* cited below.

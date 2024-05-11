@@ -377,6 +377,7 @@ n+32Sn+28Si→33S+γ→29Si+γ
 
 在这篇文章中，我们介绍了物质能量等价的物理学，这是物理学家和哲学家广泛理解的。我们还概述了各种哲学对质能等价的解释。在此过程中，我们提出了每种解释的优缺点。我们还简要介绍了质能等价的推导历史，以强调质能等价是由于相对论对时空结构的改变而直接导致的结果。最后，我们简要而有选择性地讨论了质能等价的实证确认。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Baierlein, R., 1991, “Teaching E=mc2: An Exploration of Some Issues,” *The Physics Teacher*, 29: 170–175

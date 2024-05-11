@@ -298,6 +298,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 尽管自然、道德和神秘的非行为起源观念是大多数传统关于恶的起源讨论的焦点，但似乎一些激进邪恶的变体有着完全不同的起源——这种起源并非完全可理解。这引发了贾斯珀斯式的担忧：一个（非康德式的）激进邪恶普遍存在的世界，是一个越来越难以进行道德责任归因的世界。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Marilyn McCord, 1998, *Horrendous Evil and the Goodness of God*, Ithaca, NY: Cornell University Press.

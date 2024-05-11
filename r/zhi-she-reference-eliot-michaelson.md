@@ -240,6 +240,7 @@ Kripke 似乎认为真正的语言指涉，或者他所称的“语义指涉”�
 
 在这一点上，自然会想知道那些激发了对虚无主义、特殊主义和语言指涉多元主义探索的考虑是否也会延伸到其他类型的指涉上。很容易想象，乌格尔和吉奇提出的问题在图像或感知指涉方面可能会出现，但很难看出赫克的挑战如何适用于后者。因此，可能会发现有理由对语言指涉持多元主义立场，但对感知指涉则不然。然而，要更清楚地了解这一点，可能需要在“语言、感知和图像指涉是否有统一之处，是否属于同一类别”的问题上取得进展。到目前为止，这个问题仍然很少被探索。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abbott, B., 2008. ‘Issues in the Semantics and Pragmatics of Definite Descriptions in English,’ in J. Gundel & N. Hedberg (eds.), *Reference: Interdisciplinary Perspectives*, Oxford: Oxford University Press.

@@ -208,6 +208,7 @@ Russell 主义单元论（RM）得名于伯特兰·罗素在 1927 年持有的�
 
 上述推理可以用来证明，尽管感质并不延伸到植物和草履虫，但感质在自然界中非常广泛分布（参见 Tye 1997, 2000）。当然，这样的论证需要对更简单的生物进行信仰和欲望（或类似信仰和欲望状态）的归属做出决策。在某些情况下，这样的决策可能具有争议性。此外，表征主义本身就是一个非常有争议的立场。关于感质起源的一般主题并没有被哲学家们广泛讨论。（关于这个问题的一般性、广泛性讨论，对感质的本质持中立态度，请参见 Tye 2016 年的著作。）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Block, N., 1980, “Troubles with Functionalism,” in *Readings in the Philosophy of Psychology* (Volume 1), N. Block (ed.), Cambridge, MA: Harvard University Press, 268–305.

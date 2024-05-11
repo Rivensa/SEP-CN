@@ -114,6 +114,7 @@ Williamson (2000) 和 Turri (2016) 拒绝断言的确定性规范。尽管 Moore
 
 捍卫关于知识的可错误论的哲学家对这一结果不会感到不安（参见 Hetherington 2001；Reed 2013；Brown 2018）。其他人可能会为确定性作为认识理想的消退而感到惋惜，同时辩称放弃确定性仍然比陷入认识失败要好（Pasnau 2017）。少数坚定不移的人可能会继续前进，像笛卡尔一样，试图“攀登人类知识的高峰”（PW 1，第 11 页；Klein 1981）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albertini, Tamara, 2005. “Crisis and Certainty of Knowledge in Al-Ghazālī (1058–1111) and Descartes (1596–1650),” *Philosophy East and West*, 55: 1–14.

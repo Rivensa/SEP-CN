@@ -264,6 +264,7 @@ BDMI 和 SDMI 解释面临的另一个问题与退化有关。当复合系统（
 
 这些各种提议和发展是在详细的技术调查的背景下出现的。这说明了模态方法的两个特点：一方面，它使用了精确的数学框架；另一方面，它是灵活和开放的，可以适应关于确定值可观测量集合规则的不同观点。可以预期会出现新的分支；例如，似乎有可能将许多世界诠释中用于定义不同“分支”的策略也纳入模态方法中，以定义单世界的可能性。无论展望如何，至少可以说模态方法已经引发了一系列关于量子理论结构的富有成果的研究。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albert, D. and B. Loewer, 1990, “Wanted dead or alive: two attempts to solve Schrödinger’s paradox,” in *Proceedings of the PSA 1990*, Vol. 1, A. Fine, M. Forbes, and L. Wessels (eds.), East Lansing, Michigan: Philosophy of Science Association, pp. 277–285.

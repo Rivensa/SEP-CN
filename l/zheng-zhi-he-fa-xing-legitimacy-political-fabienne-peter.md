@@ -250,6 +250,7 @@ Näsström 提出的问题，在有关民主体制的文献中也有讨论（Goo
 
 科恩和萨贝尔（2005）试图从文献中更为怀疑的倾向中拯救全球民主的理想。他们通过倡导强调协商性方面的全球民主概念来回应这些考虑。他们承认，对于可行性和道德原因，民主决策机制可能存在问题，但他们认为，解决全球治理机构面临的合法性赤字，首先需要某种形式的协商（参见阿皮亚 2007；利斯特和科尼格-阿奇布吉 2010）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abizadeh, Arash, 2008. “Democratic Theory and Border Coercion No Right to Unilaterally Control Your Own Borders,” *Political Theory*, 36(1): 37–65.

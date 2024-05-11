@@ -220,6 +220,7 @@ Humanists 对于将患有严重障碍的人类的完整道德地位建立在其�
 
 尽管两种方法面临严峻挑战，达成任何共识的障碍重重，但对于患有严重认知障碍的人类的道德地位的讨论是应用伦理学中的一个核心问题。这一讨论需要继续。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * American Association on Intellectual and Developmental Disabilities. (2011). “Definition of Intellectual Disability.” [available online](http://www.aamr.org/content\100.cfm?navID=21) \[accessed 12 August 2011].

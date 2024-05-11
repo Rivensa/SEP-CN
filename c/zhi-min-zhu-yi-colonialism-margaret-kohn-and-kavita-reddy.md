@@ -102,6 +102,7 @@ Coulthard 的书名暗示了 Frantz Fanon 的开创性作品《黑皮肤，白�
 
 原住民政治理论已经发展成为一个强大的学术领域，呼吁原住民国家对自身自决负起根本责任。这一学术领域主张新价值观的出现，并非通过偏袒欧洲的普遍主义概念，而是通过勾勒出一种普遍主义概念，这种概念是从许多特定事物的共存中产生的。这种新兴的普遍主义通过解决围绕土地权利和文化独特性的问题，汇集了不同世界和文明观念。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ahmad, Aijaz, 1994. *In Theory: Classes, Nations, Literatures*, London: Verso.

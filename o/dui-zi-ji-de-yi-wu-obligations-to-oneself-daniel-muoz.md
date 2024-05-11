@@ -328,6 +328,7 @@ Cíbik 认为 Amy 的行为是错误的。她的纹身对她未来的自己来�
 
 想要理解自我义务的更深层次原因是为了理解我们与自己的关系似乎具有特殊性质的意义。仅关注自我关系中最强势的方面——责任和要求、索赔和命令——可能会错过我们内心生活中丰富的道德内涵。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen, Anita L., 2013. “An Ethical Duty to Protect One’s Own Information Privacy?” *Alabama Law Review*, 64(4): 845–66.

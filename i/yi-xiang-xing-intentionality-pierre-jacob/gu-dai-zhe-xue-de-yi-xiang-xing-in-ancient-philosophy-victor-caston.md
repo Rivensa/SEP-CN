@@ -94,6 +94,7 @@
 
 每当一个对象产生一个表征时，就会有一个相应的lekton，它指定了对象对灵魂的完全确定影响：不仅仅是它是一个表征，而且是一种表征，它代表世界上的对象具有各种特征和各种关系，可能以非常丰富的细节呈现。在这个复杂的lekton中，将嵌入一个完全表达内容的子句：如果所有这些lekta都可以用模式“...形成一个表征，它...”，第二个空格填入的内容将表达表征的全部内容。所有这些都不需要概念的拥有或者概念能力：一个表征属于哪个lekton是由特定对象和特定主体在特定条件下的因果相互作用决定的，只要主体在受到适当对象的影响时能够形成一个表征。感知表征即使在非理性动物中通常也具有非常详细的内容，这些内容不能通过简单的命题来完全表达，作为相应lekton的一部分。然而，人类可以进一步超越非理性动物，通过选择性地关注这些内容的个别部分并以不同方式做出反应，同意某些部分，拒绝其他部分，并对其他部分保持保留。这种考虑孤立内容的能力使得理性动物能够思考抽象的表征，其全部内容可以用简单的命题来表达；或者确实思考由这些内容进行逻辑运算形成的任何内容（可能是递归的）。因此，只有通过参考理性表征的内容，我们才能捕捉到lekta的全部领域，正如Diogenes Laertius和Sextus Empiricus的定义所暗示的那样，以包括抽象和感知表征。 但这并不排除非理性动物也具有与它们的表征相对应的lektas，从而使得对它们行为的有意识的解释成为可能，也使心理学更加普遍。（有关斯多葛派表征的更多信息和对上述解释的更充分的辩护，请参见即将发表的Caston的文章。）)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Brentano, Franz, 1874 \[1995], *Psychology from an Empirical Standpoint*, ed. by Linda L. McAlister, trans. by Antos C. Rancurello, D. B. Terrell, and Linda McAlister (from the second edition of 1924, ed. by Oskar Kraus). Second edition, with a new introduction by Peter Simons. London: Routledge, 1995. (First German edition, 1874; first edition of English translation, 1973.)

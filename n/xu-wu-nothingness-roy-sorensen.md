@@ -385,6 +385,7 @@ Frank Wilczek（1980年），Stephen Hawking和Leonard Mlodinow（2010年，180�
 
 无论如何，这个问题（或伪问题）已经帮助我们磨练了应用于它的诊断工具。随着我们对“是”的理解、量化和解释标准的进一步发展，这个问题不断被塑造和重塑，我们逐渐意识到这些诊断工具的价值并不仅仅在于揭示伪问题。因为当我们能够将真正的问题与它们的伪装者区分开来时，真正的问题变得更加容易理解。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Armstrong, David, 1989, *A Combinatorial Theory of Possibility*, Cambridge: Cambridge University Press.

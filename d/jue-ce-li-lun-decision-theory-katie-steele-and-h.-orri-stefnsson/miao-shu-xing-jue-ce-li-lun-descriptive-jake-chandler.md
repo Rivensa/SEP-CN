@@ -362,6 +362,7 @@ Goodman 的讨论很简短，至少在我们的阅读中，还存在一些问题
 
 尽管关于这个主题的哲学文献仍然相对稀少，但在经济学和心理学文献中有很多一流的总结。关于第 1 节中提到的技术结果的详细介绍，请参阅 Fishburn（1970：第 14 章）或稍微不太详细的 Kreps（1988：第 9 章）。Joyce（1999）的第 3 章在这里也很有帮助。关于特定的独立性文献，讨论在第 2 节中，参见 Machina（1987），Starmer（2000）和 Weber＆Camerer（1987）。关于特定的概率信念问题，讨论在第 3 节中，请参阅 Camerer＆Weber（1992），Etner 等（2012），Gilboa＆Marinacci（2013），Machina＆Siniscalchi（2014）和 Trautmann＆van de Kuilen（2015）。一些更广泛的调查涵盖了上述问题以及其他一些问题。其中最重要的是 Camerer（1995）和出色的 Sugden（2004）。最后，关于决策实验文献发展的清晰而详细的历史记录，请参阅 Heukelom（2014）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allais, Maurice, 1953a, “Le Comportement de l’Homme Rationnel devant le Risque: Critique des Postulats et Axiomes de l’Ecole Américaine”, *Econometrica*, 21(4): 503–546. doi:10.2307/1907921

@@ -337,6 +337,7 @@ Pike 的第二种可能解决方案是可能的，而无需提及事实的柔软
 
 因此，宿命论和亚里士多德的解决方案都可能是错误的。当然，尽管说了这么多，宿命论是正确的可能性始终存在。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Marilyn McCord, 1987, *William Ockham*, Notre Dame, Ind.: University of Notre Dame Press.

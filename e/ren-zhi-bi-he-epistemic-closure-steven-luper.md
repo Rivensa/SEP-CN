@@ -405,6 +405,7 @@ Dretske 的案例并不反对 J，而是反对以下原则（证据的可传递�
 
 JD 显然面临两个致命的反对意见。首先，我们可能会不相信我们的信念所暗示的一些事情。其次，我们可能有非常可敬的理由相信某个 p，然而，我们可能没有意识到 p 蕴含 q，我们可能不知道任何相信 q 的理由，或者更糟糕的是，我们可能因为虚假的理由相信 q。但是，这两个困难都不会威胁到 JP。首先，命题的合理化并不意味着相信。其次，S 可能在基于 p 相信 q 的命题上获得合理化，无论 S 是否意识到 p 蕴含 q，甚至如果 S 因虚假理由相信 q。作为对 JP 的进一步支持，我们可以引用这样一个事实，即如果 p 蕴含 q，任何反对 q 的因素也适用于 p。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alston, W., 1993, *The Reliability of Sense Perception*, Ithaca: Cornell University Press.

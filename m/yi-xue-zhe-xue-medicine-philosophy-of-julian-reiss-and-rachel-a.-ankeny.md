@@ -292,6 +292,7 @@ DALYs 背后的主要思想很简单。如果危地马拉的一名女性在 63 �
 
 世界卫生组织非常明确地指出，在构建DALY指标时做出的许多选择都是基于价值观的（Murray 1994; Prüss-Üstün et al. 2003）。显然，无法确定截瘫是否比失明更严重地影响了某人的功能能力，更不用说它对疾病负担的具体程度了。同样，早逝导致的时间损失、年龄权重和时间偏好也是如此。虽然由于其价值性质，任何给定的选择都会引起争议，但世界卫生组织在代表社会偏好方面做出了一些努力，而不是基于先验的哲学论证。例如，2003年世界卫生调查中使用的残疾权重是基于来自70多个国家的大型代表性人口样本的健康状态评估（Prüss-Üstün et al. 2003: Ch. 3）。同样，年龄权重是基于经验证明，社会普遍偏好年轻成年人的一年生活价值高于年幼儿童或老年人的一年（Murray 1996）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Amundson, R., 2000, “Against Normal Function”, *Studies in History and Philosophy of the Biological and Biomedical Sciences*, 31: 33–53.

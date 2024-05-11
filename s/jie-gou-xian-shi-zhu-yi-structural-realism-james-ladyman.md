@@ -391,6 +391,7 @@ Arenhart 和 Bueno（2015）认为结构概念不明确，并且当其被明确�
 
 如上所述，本体的结构实在论已经被许多信息论的实在论者采纳为本体论的方法。Dunlap（2022）探讨了量子力学信息论解释与本体的结构实在论之间的联系。Floridi（2008）在计算机科学基础领域中辩护了一种不同形式的信息结构实在论，并在 Bynum（2014）和 Wheeler（2022）中进行了分析。关于数字本体论的想法，还可以参考 Beni（2016）和 Long（2020）。Bueno（2010）认为，信息结构主义可以作为一种经验主义结构主义来发展。结构主义首先在分析形而上学中以因果本质主义的形式流行起来。这是一种观点，即属性之间的因果关系完全揭示了它们的本质（例如，参见 Shoemaker 1980 和 Hawthorne 2001）。Steven Mumford（2004）为倾向性属性辩护了一种结构主义理论，Alexander Bird（2007）的倾向性理论在某种程度上也是结构主义的。Anjan Chakravartty（2007）在捍卫科学实在论时采用了倾向性本质主义。Michael Esfeld（2009）讨论了关于能力的结构主义。Verity Harte（2002）讨论了一种有趣的柏拉图式结构主义。Alistair Isaac（2014）为次要性质辩护了结构实在论。Ted Sider（2020）在他对形而上学和哲学逻辑的方法中发展了一种结构主义形式。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adlam, Emily, 2022, “Operational Theories as Structural Realism”, *Studies in History and Philosophy of Science*, 94: 99–111. doi:10.1016/j.shpsa.2022.05.007

@@ -362,6 +362,7 @@ Chalmers（2012）抱怨说，语义渗透个体化牺牲了使 LOTH 一开始�
 
 还没有人提供了一个在 Mentalese 中广泛认同的个体化方案。这个话题需要持续的研究，因为思维语言假说在其支持者澄清 Mentalese 类型的相同性和差异性之前仍然是高度概括的。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arjo, Dennis, 1996, “Sticking Up for Oedipus: Fodor on Intentional Generalizations and Broad Content”, *Mind & Language*, 11(3): 231–245. doi:10.1111/j.1468-0017.1996.tb00044.x

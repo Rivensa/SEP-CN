@@ -333,6 +333,7 @@ ITL 和 Muskens 风格的组合 DRT 并不相互排斥；例如，参见 Bittner
 
 希望以上内容能让读者对动态语义作为一种富有成果和灵活的意义和信息处理方法有所了解。动态语义提供了一套灵活的工具，并且有一系列“杀手级应用”，例如对驴子句的组合处理，对先行链接的解释，对预设投射的解释，对认知更新和不同类型（非问题）更新之间的细微区别的解释。动态语义是形式语义学的一个非常活跃的子领域，动态方法正在以越来越快的速度扩展到跨语言现象的范围。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * AnderBois, Scott, Adrian Brasoveanu, and Robert Henderson, 2015, “At-issue Proposals and Appositive Impositions in Discourse”, *Journal of Semantics*, 32: 93–138. doi:10.1093/jos/fft014

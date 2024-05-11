@@ -304,6 +304,7 @@
 
 （关于意识，请参见 2.3；关于对身体的想象认知，请参见 2.2 和 3.2.2。关于心灵的永恒，请参见例如 Garrett 2018 的第 9 章。关于斯宾诺莎对中世纪犹太观点的债务，请参见例如 Klein 2014，Nadler 2002，Ravven 和 Goodman 2002。）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Spinoza’s Works

@@ -328,6 +328,7 @@ Rawls 为了证明他的观点的几个特点，包括正义原则应该统治�
 
 最后，我们简要介绍了罗尔斯对宣传概念的运用。他对宣传的多种引用方式无疑显示了在严格的概念层面上需要进行更加实质性的映射工作。这反过来可能表明有理由在新的方向上发展哲学论证。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Benson, Lawrence E., 1941, “Studies in Secret-Ballot Technique”, *Public Opinion Quarterly*, 5(1): 79–82.

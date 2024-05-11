@@ -80,6 +80,7 @@
 
 新一代学者为康德的数学哲学的解释和遗产做出了活跃、富有成果且持续的讨论，这源自于3.1和3.2中提到的文献。然而，最近的研究不容易被归类为站在某一种解释性辩论的一边，大多数学者都将该领域的基础讨论作为一个跳板，从中探索数学在批判哲学中发挥作用的各种方式。2020年，卡尔·波西和奥弗拉·雷希特出版了波西1992年的著作的续集的第一卷，题为《康德的数学哲学，第一卷：批判哲学及其根源》。这一卷包括了十二篇论文，涵盖了从康德数学哲学的前批判起源到他对数学方法、逻辑、几何和算术的批判思考的各个主题。即将出版的第二卷将重点关注康德数学哲学的接受和影响。还值得注意的是，加拿大哲学杂志的一个特刊中首次发表的一系列文章《康德：批判哲学中的数学研究》，由艾米莉·卡森和丽莎·沙贝尔编辑（卡森和沙贝尔2014）。这里收集的九篇文章旨在探索数学在康德整体哲学体系中的核心地位。丹尼尔·萨瑟兰最近写了一本关于康德数学哲学的专著《康德的数学世界：数学、认知和经验》（萨瑟兰2021），他将焦点放在康德关于量的理论上，这是理解我们对世界的认知和经验的关键。第二卷即将出版。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 References to Kant’s texts follow the pagination of the Academy edition (*Gesammelte Schriften*, Akademie der Wissenschaften (ed.), Berlin: Reimer/DeGruyter, 1910ff.) References to the *Critique of Pure Reason* employ the usual A/B convention. Translations are from the Cambridge Edition of the Works of Immanuel Kant.

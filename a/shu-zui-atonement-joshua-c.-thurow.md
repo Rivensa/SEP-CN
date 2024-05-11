@@ -526,6 +526,7 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 
 女权主义和女性主义批评所展示的一点是，有必要进一步思考基督教赎罪教义应该如何与人类的赎罪实践相结合和影响。（参见 McKnight 2007 和 Swamy 2018，了解最近在这个问题上的研究。）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Abbreviations

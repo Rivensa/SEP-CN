@@ -273,6 +273,7 @@ Cline (1992)Nordhaus (1994)Stern (2007)σ=1.5andδ=0σ=1andδ=0.03 (每年 3%)σ
 
 线性技术（方程 11a）和等弹性 U 函数（方程 11b）的结合，即使我们在这里只限于纸上计算，也提供了深刻的见解。这些函数形式并不可信，然而拉姆齐却利用了它们。他的论文表明，虽然简化到难以构建甚至无法定量回答的问题，但只要建模基于强大的直觉，那么这些难以置信的简化模型仍然能够阐明。这是拉姆齐对理论经济学的持久贡献。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Arrow, K.J., P. Dasgupta, L.H. Goulder, K.J. Mumford, and K. Oleson (2012), “Sustainability and the Measurement of Wealth,” *Environment and Development Economics*, 17(3), 317–355.

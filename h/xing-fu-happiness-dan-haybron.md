@@ -226,6 +226,7 @@
 
 然而，基于幸福的政策推动是最近才出现的。在未来几年，这些问题可能会在哲学文献中得到更多关注。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, Matthew D., 2019, *Measuring Social Welfare: An Introduction*, New York: Oxford University Press.

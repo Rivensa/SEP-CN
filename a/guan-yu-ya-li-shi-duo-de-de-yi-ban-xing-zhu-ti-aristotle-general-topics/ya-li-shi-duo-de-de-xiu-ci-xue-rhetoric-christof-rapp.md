@@ -302,6 +302,7 @@
 * Style: *lexis*
 * Specific *topoi*: *idioi* *topoi* (Aristotle refers to them also by ‘*idiai protaseis*’ or ‘*eidê*’)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Translations, Editions and Commentaries

@@ -198,6 +198,7 @@ Sesardic最近的工作批评了那些援引Lewontin风格论点反对遗传度�
 
 最后，遗传度与生物伦理学密不可分。双生遗传度估计在70年代至90年代的种族科学辩论中发挥了核心作用，SNP-遗传度的出现需要进行重新评估。正如双生遗传度一样，SNP-遗传度现在被用来评估关于种族智力和认知能力遗传基础的旧有争议问题。由于双生遗传度和SNP-遗传度在概念上和方法上是不同的，因此需要哲学家和科学家重新评估那些依赖于SNP-遗传度的群体差异调查的合法性。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Beurton, P. J., R. Falk, *et al*. (eds.), 2000. *The Concept of the Gene in Development and Evolution*, Cambridge: Cambridge University Press.

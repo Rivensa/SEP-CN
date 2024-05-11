@@ -232,6 +232,7 @@ Sandilands 认为，传统对民主、公共领域、政治言论和联盟构建
 
 这些新的或不断发展的女性主义环境哲学观点的抽样表明，女性主义环境哲学是一个不断扩展的学术领域，充满了关于女性、动物和自然的新思考可能性。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, C., 1990, *The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory*, New York: Continuum.

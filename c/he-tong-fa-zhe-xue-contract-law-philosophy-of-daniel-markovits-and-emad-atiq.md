@@ -242,6 +242,7 @@ However, a few contract law doctrines address distributive concerns more directl
 
 最终分析，广泛的分配考虑理论上应该塑造谈判行为，上述讨论并非详尽无遗。正如理论家之间缺乏一致性所表明的那样，合同核心的转移正义道德问题仍未得到解决。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Articles and Books

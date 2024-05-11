@@ -318,6 +318,7 @@ David Shoemaker（2011）对于根据布莱尔的研究得出精神病患者的�
 
 本节的要点是，引用使用道德/习俗任务的研究来支持哲学结论的作者应该非常谨慎。这个任务有许多不同的版本，远远不能确定其中任何一个能够给我们关于道德认知的本质或者儿童、精神病患者或其他哲学研究对象的道德认知提供可靠的信息。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aharoni, Eyal, Walter Sinnott-Armstrong, and Kent A. Kiehl, 2012, “Can Psychopathic Offenders Discern Moral Wrongs? A New Look at the Moral/Conventional Distinction”, *Journal of Abnormal Psychology*, 121(2): 484–497. doi:10.1037/a0024796

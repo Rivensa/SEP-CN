@@ -282,6 +282,7 @@ A different line of argument (Horgan 1984; Loar 1990; Lycan 1990; Hill 1997, Hil
 
 功能主义理论的复杂性自提出以来已经增加，但对功能主义的反对意见的复杂性也在增加，特别是对心理因果关系的功能主义解释（第5.2节）、内省知识（第5.3节）以及经验状态的定性特征（第5.5节）的反对意见。然而，对于那些对二元论的合理性持怀疑态度，并且不愿将心理状态局限于与我们自身在物理上相似的生物的人来说，功能主义最初的吸引力仍然存在。因此，未来功能主义者的主要挑战将是应对这些对该理论的反对意见，要么通过详细阐述功能主义理论以增加其说服力，要么通过展示如何解释这些反对意见所激发的直觉。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, F. and K. Aizawa, 2008, *The Bounds of Cognition*, Oxford: Wiley-Blackwell.

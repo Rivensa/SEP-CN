@@ -440,6 +440,7 @@ TNP获得。
 
 预知和宿命的问题存在已久，但自1965年以来，它所吸引的哲学关注之多确实令人瞩目。这一问题的文献数量庞大，并且不断增长。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Marilyn, 1967, “Is the Existence of God a ‘Hard’ Fact?” *Philosophical Review*, 76(4): 492–503.

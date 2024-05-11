@@ -294,6 +294,7 @@ LP 的一个需要注意的特点是，在 LP 中，推理模态不成立。因�
 
 还有基于 Dunn 对 FDE 的关系语义的相关逻辑的世界语义版本。然后否定是外延的。现在，条件连接词需要同时给出真和假的条件。因此，我们有：在 w 处 A→B 为真，当且仅当对于所有的 x,y，使得 Rwxy，如果 A 在 x 处为真，B 在 y 处为真；在 w 处 A→B 为假，当且仅当存在一些 x,y，使得 Rwxy，如果 A 在 x 处为真，B 在 y 处为假。在三元关系上添加各种约束条件可以提供更强的逻辑。然而，这些逻辑不是由 Anderson 和 Belnap 开发的标准相关逻辑。要获得标准的相关逻辑系列，需要邻域框架（参见 Mares 2004）。有关详细信息，请参阅相关逻辑条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 [Bibliography Sorted by Topic](https://plato.stanford.edu/entries/logic-paraconsistent/readings-by-topic.html)

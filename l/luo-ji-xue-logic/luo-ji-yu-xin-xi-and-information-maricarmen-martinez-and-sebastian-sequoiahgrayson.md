@@ -537,6 +537,7 @@ Wansing（2016）利用子结构逻辑的信息解释来对上述负面信息问
 
 包括直觉逻辑、贝斯和克里普克模型，以及代数和其他模态信息理论及相关领域的方法。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abramsky, S., 2008, “Information, Processes, and Games”, in Adriaans and van Benthem 2008, 483–550.

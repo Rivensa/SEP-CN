@@ -414,6 +414,7 @@ In allowing to discharge in order to infer *A*, this rule undermines the *subfor
 
 对于证明论语义各个方面的贡献，请参阅 Piecha 和 Wehmeier 编辑的读者（2024 年，开放获取）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aczel, Peter (1977). “An Introduction to Inductive Definitions”, in *Handbook of Mathematical Logic*, John Barwise (ed.), Amsterdam: North-Holland, pp. 739–782.

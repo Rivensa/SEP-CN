@@ -218,6 +218,7 @@
 
 > 我毫不怀疑，如果宇宙中的某个像我们一样有组织的生物能够进行观察……它会感知到一个与我们所描述的宇宙类似的运作方式……至于原子的实际存在：我毫不怀疑，如果原子理论与感官所给出的现实相符，由此得出的结论也将与事实有某种关系——尽管这种关系仍不清楚。在反射光中，第一个暗环距离玻璃的距离相当于牛顿的“光斑”周期的一半，但相当于杨和菲涅尔的“波长”的四分之一。同样，原子理论的发现也可以经历各种方便的重新解释，即使我们并不急于将它们视为现实。【恩斯特·马赫1910年：36-37】
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Thiele (1963) and Blackmore (1972) contain exhaustive bibliographies of the German editions of Mach’s books, articles, newspaper writings, and correspondence. [Mach’s archive](http://www.deutsches-museum.de/archiv/bestaende/nachlaesse/verzeichnis/m/mach-ernst/) is located in the Deutches Museum in Munich.

@@ -311,6 +311,7 @@ Kripke 没有讨论 Prior 证明的细节。Prior 对于 Barcan 公式的证明�
 
 对 Barcan 公式及其逆命题的讨论伴随着量化模态逻辑的发展，因为这些公式既与如何将经典量化理论与模态逻辑相结合的技术问题，又与量化模态系统的有效性定义以及域的可变性和量词的解释等哲学问题相关。从证明的角度来看，最直接的经典量化理论和模态逻辑的组合使得 Barcan 公式及其逆命题成为定理。从模型论的角度来看，模型内域的可变性是一个受欢迎的概括。我们在这里不讨论逻辑学家们希望建立对于可变域具有声音的系统的技术解决方案，即像 Kripke 的系统一样，不允许证明 Barcan 公式及其逆命题（Deutsch 1994 和 Linsky 和 Zalta 1994 包含了各种技术选项的有用概述；另请参阅 SEP 关于可能主义-实在论辩论的条目）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Please note that the distinction in the bibliography between introductory texts, primary, and secondary literature is partially artificial.

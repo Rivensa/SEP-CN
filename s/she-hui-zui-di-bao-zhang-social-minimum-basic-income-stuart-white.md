@@ -304,6 +304,7 @@
 
 第三，即使在考虑一个国家内的经济和社会安排时，我们需要区分社会最低保障是否合理以及为什么合理的具体问题，与社会正义的内容和要求的更广泛问题。实施社会最低保障可能是社会正义的要求。事实上，它可能是社会正义最紧迫的要求之一。但是，尽管这个要求具有挑战性，社会正义可能对我们提出的要求远远超过这个。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ackerman, Bruce and Anne Alstott, 1999, *The Stakeholder Society*, New Haven, CT: Yale University Press.

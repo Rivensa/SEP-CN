@@ -210,6 +210,7 @@ Davidson 似乎在将概念归因于动物时采用了非常严格的标准。�
 
 在概念分析家和自然主义者之间的辩论中涉及很多利益，这很可能会成为可预见未来概念理论中的一个核心话题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, F. & Campbell, K. (1999). Modality and Abstract Concepts. *Behavioral and Brain Sciences*, 22: 610.

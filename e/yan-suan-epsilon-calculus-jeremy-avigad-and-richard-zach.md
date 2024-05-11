@@ -197,6 +197,7 @@ Ackermann 的程序应用于二阶算术系统，其中，然而，二阶项被�
 
 进一步阅读。以下是一些与 epsilon 演算及其应用领域相关的语言学出版物列表。特别指出读者可参考 von Heusinger & Egli（编）2000 和 von Heusinger & Kempson（编）2004 进行进一步讨论和参考：Bell 1993a, 1993b; Chierchia 1992; DeVidi 1995; Egli & von Heusinger 1995; Fine 1985; Fitting 1975; von Heusinger 1994, 1997, 2000, 2004; von Heusinger & Egli（编）2000; von Heusinger & Kempson（编）2004; Hintikka & Kulas 1985; Kempson, Meyer Viol, & Gabbay 2001; Meyer Viol 1995a, 1995b, Neale 1990; Mostowski 1963; Reinhart 1992, 1997; Slater 1986, 1988, 1994, 2000; 以及 Winter 1997.
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aguilera, J.P., Baaz, M., 2019, ‘Unsound inferences make proofs shorter’. *Journal of Symbolic Logic* 84: 102–122.

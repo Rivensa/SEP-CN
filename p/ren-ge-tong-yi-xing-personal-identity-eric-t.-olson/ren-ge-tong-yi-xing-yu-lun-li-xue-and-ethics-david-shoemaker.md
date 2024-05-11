@@ -284,6 +284,7 @@ Parfit 的理论常被称为“修正性的”，部分原因是因为像这样�
 
 这些草图表明了同一性和伦理之间的多种关系的可能性。如果是这样，也许继续进行的方式是一次集中在一个特定的与人有关的实际关注点上，并在移动到其他关注点之前，弄清楚它与同一性的确切关系（如果有的话）。虽然这种方法可能不会减少同一性和伦理之间关系的复杂性，但也许至少会在一些有限的领域提供我们迄今为止缺乏的稳定观点。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Robert Merrihew, 1989, “Should Ethics Be More Impersonal?” *The Philosophical Review*, 98: 439–484, reprinted in Dancy 1997, pp. 251–289.

@@ -272,6 +272,7 @@ Craver 和 Bechtel 认为真正的自上而下或向下的因果关系并不存�
 
 尽管“组织层级”自 20 世纪初以来一直是生物学及其哲学中的一个关键概念，但对该概念的性质和重要性仍然没有共识。在哲学和生物学的不同领域，我们发现对层级的理解存在着很大的差异，而且没有任何一个提出的解释得到广泛接受。然而，关于组织层级的新兴研究表明，从这个概念中获得的洞见远未被耗尽。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abercrombie, M., J.E.M. Heaysman, and H.M. Karthauser, 1957, “Social Behaviour of Cells in Tissue Culture: III. Mutual Influence of Sarcoma Cells and Fibroblasts”, *Experimental Cell Research*, 13(2): 276–291. doi:10.1016/0014-4827(57)90007-1

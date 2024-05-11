@@ -433,6 +433,7 @@ Genin和Kelly提供了一个表征定理，为一组统计假设提供了在机�
 
 ## Supplementary Document: Basic Formal Definitions
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abramsky, S., 1987. *Domain Theory and the Logic of Observable Properties*, Ph.D. Dissertation, University of London.

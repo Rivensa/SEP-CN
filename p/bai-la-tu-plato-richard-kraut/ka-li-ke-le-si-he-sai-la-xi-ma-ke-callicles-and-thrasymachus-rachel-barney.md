@@ -99,6 +99,7 @@
 
 这也是Sophist Antiphon提出的挑战，在他关于正义的讨论中，在《真理论》中的幸存片段中（有关Antiphon的文本，请参见Pendrick 2002，有关翻译，请参见Gagarin和Woodruff 1995或Dillon和Gergel 2003）。Antiphon认为，正义只是遵循自己社区法律的问题；当可以毫无恐惧地违反这些法律而不受惩罚时，没有任何理由让任何人遵守这些法律。因为自然也有自己的法则，这些法则与社会的法则相冲突，违反这些法则会受到无可辩驳的惩罚。Antiphon的文本和意义在一些关键点上不清楚，但这个想法似乎是社会的法律要求我们违背自己的利益，通过限制我们的动物本性和限制我们的自然欲望和快乐来约束我们；当我们可以逃避这些法律而遵循自然时，遵守这些法律是愚蠢的。虽然我们不想否认其他当代人在类似领域工作，但我们可以将柏拉图的卡利克勒斯，塞拉西马柯和格劳孔解读为对Antiphon思想的三种可能立场的澄清和消除歧义，以澄清广义不道德立场可能采取的各种哲学形式。塞拉西马柯代表了不道德立场的本质上消极、愤世嫉俗和揭穿一面，基于对世界运行方式的经验观察。与此同时，他对“真正统治者”的理想化表明，这是一个不稳定和不完整的立场，可能进展到卡利克勒斯的“英雄式”不道德主义形式。卡利克勒斯将不道德主义作为一种新的道德观，依赖于自然与约定、强者与弱者之间的对比。格劳孔表明，不道德主义的挑战不需要后者（也不需要塞拉西马柯对真正统治者的理想）。 道德无所谓是每个人的：我们都在社会契约中共同参与，将法律作为自利的制约，并且我们都有理由在能够时欺骗它。柏拉图的陈述表明，这最终是道德无所谓立场中最具挑战性的形式，也可能是与安提丰本人历史上最接近的形式。关于《理想国》整个论证是否足以击败它，仍然是一个活跃的哲学辩论问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 For general accounts of the *Republic*, see the Bibliography to the entry, [Plato’s Ethics and Politics in the *Republic*](https://plato.stanford.edu/entries/plato-ethics-politics/). The following are works cited in or having particular relevance to the present entry:

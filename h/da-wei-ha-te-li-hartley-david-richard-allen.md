@@ -212,6 +212,7 @@ The formation of such novel associations of stimuli to physiological responses m
 
 然而，这个模型并不是静态的，自我不会僵化成为“一个不活跃的凝聚块”。由于联想和反联想的相互作用，这六种取向既“模拟”又“新模拟”彼此。心理身体就像哈尔斯所说的植物和动物身体一样，在“不断地生产和溶解”的循环中——直到某个时候，哈特利相信，当所有人在那个“神秘的身体”中发现他们的身份时，“所有人对彼此的[幸福]都同样关心；所有人在爱中增长，并通过每一个关节的供应达到完美的成熟，达到完美的成年人之境”（OM 2，pro. 68；参见以弗所书 4.16）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

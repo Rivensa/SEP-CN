@@ -311,6 +311,7 @@
 
 因此，可以说，14 世纪标志着中世纪范式在关系情境的适当分析和关系的适当描述方面的转变。然而，需要补充的是，这些转变不能完全用中世纪关系讨论中的发展来解释，而是中世纪关于心智、语言和现实之间关系的更广泛理论转变的一部分，这些转变与晚期中世纪名义主义的兴起密切相关。[48]
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 [Note: This bibliography contains only items referred to in the notes and a few other selected items of interest. For a general introduction to some of the main historical and philosophical issues surrounding relations, see Heil 2009 and Marmodoro and Yates 2016. For discussion of specifically medieval theories, as well as further bibliographical references, see Brower 2016, Henninger 1989, Marenbon 2016, Olson 1987, Penner 2016, and Weinberg 1965. For more contemporary defenses of the view we have been calling ‘realism without polyadic properties,’ see Campbell 1990, Fisk 1973, Mulligan 1998, Parsons 2008, and Schaffer 2010.]

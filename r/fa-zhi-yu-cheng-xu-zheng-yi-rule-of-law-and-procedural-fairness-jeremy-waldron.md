@@ -257,6 +257,7 @@ Joseph Raz 和 Lon Fuller 进一步提出了关于自由的观点。Raz（1979 \
 
 然而，这并不是普遍接受的观点。根据约瑟夫·拉兹（1977 年）和其他人的观点，除非你已经独立地理解了法律是什么以及法律可能引发的特定问题（法治试图防止这些问题），否则你无法理解法治的含义。根据这种观点，合法性代表了我们文明中出现的一系列关于法律的关切。尽管这些关切无疑具有道德性质（尽管它们并非全面的道德关切），但在拉兹看来，最好将它们与法律本身的概念分开，以免引入道德因素。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aristotle, *The Politics* (c. 350 BC), Stephen Everson (trans.), Cambridge: Cambridge University Press, 1988.

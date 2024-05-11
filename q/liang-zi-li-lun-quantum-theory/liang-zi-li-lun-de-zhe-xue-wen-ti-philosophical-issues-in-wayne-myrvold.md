@@ -288,6 +288,7 @@ Dürr，Goldstein 和 Zanghì（1992）引入了“原始本体论”一词，�
 
 对于从具有明确操作内容的公理中推导量子理论的项目的兴趣，由Hardy（2001 \[2008]，其他互联网资源）的工作重新引起。在这方面取得的重要结果包括Masanes和Müller（2011）以及Chiribella，D’Ariano和Perinotti（2011）的公理化。有关这一蓬勃发展的研究领域的概述，请参阅Chiribella和Spekkens（2015）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Albert, David Z., 1996, “Elementary quantum metaphysics”, in J.T. Cushing, A. Fine, & S. Goldstein (eds.), *Bohmian Mechanics and Quantum Mechanics: An appraisal*, Dordrecht: Kluwer, 277–284.

@@ -440,6 +440,7 @@ Richard 对 Kripke 的难题提出了类似的解决方案。在 Kripke 风格�
 
 Kripke 关于 Pierre 和 Paderewski 以及 Richard 的难题，就像 Frege 的难题一样，为任何关于态度归因句子的充分解释提供了更多的数据。最终，任何这样的解释都必须与更广泛的人类互动理论相吻合。人们传达他们的信念，当他们分享一个信念时他们会达成一致，而信念在激励和解释行动中起着作用。任何关于信念归因的解释都必须说明命题态度归因句子如何对所有这些起作用，并且该解释必须将其贡献分为语义和语用两个方面。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Bach, K., 2016. ‘The essential indexicality of intentional action’, *Philosophical Quarterly*, 66: 439–457.

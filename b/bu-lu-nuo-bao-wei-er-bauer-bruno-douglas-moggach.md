@@ -70,6 +70,7 @@
 
 关于马克思可能合作的相关文献详见康加尔 2020 年的注释 9 和 16。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Major Works by Bruno Bauer, 1829–1882

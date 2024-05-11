@@ -449,6 +449,7 @@ The neo-classical correspondence theory, and Armstrong, cast facts as the approp
 
 有关真理和断言的更多信息，请参阅 Brown 和 Cappelen（2011）中的论文以及关于断言的条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alston, William P., 1996, *A Realist Conception of Truth*, Ithaca: Cornell University Press.

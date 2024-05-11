@@ -116,6 +116,7 @@ Montesquieu's emphasis on the connection between liberty and the details of the 
 
 如果一个国家有几种宗教的信徒，这些宗教应该被国家和公民都容忍。法律应该“要求各种宗教不仅不纠缠国家，而且不在宗教内部引起骚乱”（SL 25.9）。虽然可以通过给予积极的诱因来劝说人们改变宗教信仰，但强迫他人改变信仰的尝试是无效和不人道的。在一段非常尖锐的文字中，孟德斯鸠还认为这些尝试是不值得基督教的，并写道：“如果将来有人敢断言，在我们生活的时代，欧洲人民是文明的，你们（宗教审判所）将被引用来证明他们是野蛮人；人们对你们的看法将会使你们的时代蒙羞，并在你们所有的同代人中散播仇恨”（SL 25.13）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Works by Montesquieu

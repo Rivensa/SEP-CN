@@ -226,6 +226,7 @@ Girgis 等人认为，婚姻的结合解释反映了其真正的本质，但自 
 * [U.S. v. Reese 92 U.S. 214 (1875) available online](https://supreme.justia.com/cases/federal/us/92/214/).
 * Voting Rights Act 42 U.S.C. §§1973–1973aa-6.
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ackerman, Bruce, 2014, *The Civil Rights Revolution*, Cambridge, MA: Harvard University Press.

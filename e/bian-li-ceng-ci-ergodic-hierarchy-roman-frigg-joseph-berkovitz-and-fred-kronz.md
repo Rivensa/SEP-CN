@@ -384,6 +384,7 @@ EH 经常被认为与解释确定性动力系统中随机性的本质相关。�
 
 遍历理论在统计物理学中扮演着重要角色，EH 或其某种修改形式构成了汉密尔顿系统和耗散系统中随机性的重要度量。有时有人认为 EH 在物理学中基本上是无关紧要的，因为真实的物理系统并非遍历的。但是，这种指责是没有根据的，对非遍历系统的进一步研究揭示了一个相当不同的画面，因为 EH 可以在统计力学基础、随机性分析和混沌理论中得到富有成效的应用。最近，它还在理解自然规律方面发挥了作用（Filomeno 2019，List and Pivato 2019）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alekseev, V. M., and Yakobson, M. V., 1981, “Symbolic dynamics and hyperbolic dynamical systems,” *Physics Reports*, 75: 287–325.

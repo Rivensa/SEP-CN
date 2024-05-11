@@ -223,6 +223,7 @@ _Xing_成为动机理论的基础，但其根源在于形而上学。_Xing_源�
 
 如果我们转向 20 世纪及以后的形而上学，就有必要区分“中国的哲学”和“中国哲学”。就像世界上几乎所有其他地方一样，20 世纪的中国以吸收来自其他文化的思想为特征，最明显的是来自欧洲的思想。通过翻译，术语“哲学”和“形而上学”被引入作为不同的概念，因此它们成为有意识反思的对象。即使是致力于“中国哲学”的学者也在与西方展开对话，以至于几乎所有的哲学都或多或少是跨文化的。来自欧洲的主要影响包括康德、黑格尔和马克思，但还涵盖了包括尼采、柏格森、杜威和海德格尔在内的广泛哲学家。中国的几乎所有主要哲学家——从熊十力（1885–1968）到冯友兰（1895–1990）再到牟宗三（1909–1995）——都致力于为中国哲学奠定形而上学基础。\[[13](https://plato.stanford.edu/entries/chinese-metaphysics/notes.html#note-13)] 这些哲学家借鉴了多种文化和传统的资源，更适合在“形而上学”条目中介绍，而不是在“中国哲学中的形而上学”条目中介绍。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, Joseph A., 1999, “Zhou Dunyi: The Metaphysics and Practice of Sagehood,” in *Sources of Chinese Tradition*, William Theodore De Bary and Irene Bloom (eds.), 2nd edition, 2 volumes, New York: Columbia University Press.

@@ -407,6 +407,7 @@ Ryle（1946年，1949年）在批评“知识主义传说”（有关讨论，�
 
 最后一个感兴趣的话题是知识与信仰之间的关系。虽然大多数关于信仰的观点都集中在其认识方面，但 Sliwa（2018）认为，信仰本质上涉及代理人在与他们的信仰对象有关的事物上以正确的方式行动。例如，对一个人的信仰需要知道如何与他们互动，以便信任他们，帮助他们，并确保他们的自主权。类似地，宗教信仰要求忠诚的代理人知道如何执行相关的实践，如参加弥撒，宣告自己的信仰和祈祷。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abbott, Barbara, 2013, “Linguistic Solutions to Philosophical Problems: The Case of Knowing How”, *Philosophical Perspectives*, 27(1): 1–21. doi:10.1111/phpe.12019

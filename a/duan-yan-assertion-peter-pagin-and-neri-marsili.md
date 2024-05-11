@@ -848,6 +848,7 @@ Hawley（2019）还在断言和承诺之间建立了强烈的联系，但方向�
 
 一些作者质疑这个测试是否真的削弱了关于断言的承诺解释（以及更一般的社会解释）。Pegan（2009）认为，可以通过仔细修正理论来阻止反例；参见 Pagin（2009）的回应。MacFarlane（2011）和 García-Carpintero（2013）认为，如果我们区分所说的话和所断言的话，我们可以将（37）视为断言所有天鹅都是黑色的说法。Marsili＆Green（2021）认为，这种测试是不可靠的，质疑了（37）作为反例所需的一些关键假设。然而，他们承认，断言并不能完全归结为其社会效应。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, Jonathan E., 2002, *Belief’s Own Ethics*, Cambridge, MA: MIT Press.

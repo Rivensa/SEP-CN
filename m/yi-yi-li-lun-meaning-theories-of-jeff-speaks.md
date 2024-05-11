@@ -663,6 +663,7 @@ Horwich 的核心思想是我们对句子的接受受到某些法则的支配，
 
 有关详细信息，请参阅布兰多姆（1994），其中详细阐述了这种观点；关于布兰多姆试图完成上述第二个任务的批判性讨论，请参阅罗森（1997）。关于规范性在基础意义理论中的作用（或缺乏作用），请参阅哈蒂安加迪（2007）、格卢尔和威尔克福斯（2009）以及有关意义规范性的条目。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ayer, Alfred Jules, 1936, *Language, Truth, and Logic*, London: Victor Gollancz.

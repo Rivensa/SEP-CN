@@ -929,6 +929,7 @@ DEL 风格的模型变换算子已经被许多研究者应用于偏好、偏好�
 * [M. Preference dynamics](https://plato.stanford.edu/entries/dynamic-epistemic/appendix-M-preferences.html)
 * [N. Temporal aspects of Dynamic Epistemic Logic](https://plato.stanford.edu/entries/dynamic-epistemic/appendix-N-time.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Please note that the [enhanced bibliography for this entry](http://philpapers.org/sep/dynamic-epistemic/) at PhilPapers includes direct links to those articles below that include digital object identifiers (DOIs).

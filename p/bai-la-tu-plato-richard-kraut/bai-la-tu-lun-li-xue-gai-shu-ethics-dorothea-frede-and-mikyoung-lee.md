@@ -181,6 +181,7 @@
 
 * *
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Translations

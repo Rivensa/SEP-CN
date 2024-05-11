@@ -174,6 +174,7 @@
 
 如果发散论者能够找到一个有力的回答来解决自举的问题，那将更好。但如果她不能，她可能会选择在所有抽象事物中成为一个发散论者，除了那些与上帝有关的事物。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adams, Robert Merrihew, 1983, “Divine Necessity”, *The Journal of Philosophy*, 80(11): 741–752. doi:10.2307/2026018

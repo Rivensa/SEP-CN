@@ -354,6 +354,7 @@ Rey (1992) 提出，内省错误地将其提供的缺乏细节误认为是对简
 
 幻觉主义受到 Strawson (2006), Prinz (2016), Balog (2016), Nida-Rümelin (2016), Schwitzgebel (2016)和 Chalmers (2018)的批评。尽管对幻觉主义持高度同情态度，但 Kammerer (2018)认为没有先前的解释能够解释幻觉的强度。有关一般讨论，请参阅 Frankish (2017)中收集的论文，有关进一步辩护，请参阅 Shabasson (2022)。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen, K., 2013. ‘Blur’, *Philosophical Studies*, 162: 257–73.

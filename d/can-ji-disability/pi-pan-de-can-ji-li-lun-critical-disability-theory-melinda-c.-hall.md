@@ -304,6 +304,7 @@ Lydia X. Z. Brown, an activist, community organizer, and legal advocate, maintai
 
 批判的残疾理论理论家明确邀请关于批判的残疾理论未来方向的对话（例如，Minich 2016）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adorno, Theodor W., 1966 [1973], *Negative Dialektik*, Frankfurt: Suhrkamp Verlag. Translated as *Negative Dialectics*, E. B. Ashton (trans.), London: Routledge, 1973.

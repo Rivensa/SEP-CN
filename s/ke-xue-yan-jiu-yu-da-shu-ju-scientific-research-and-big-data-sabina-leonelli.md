@@ -245,6 +245,7 @@ A better characterisation of the relation between data and evidence, predicated 
 
 大数据分析可能构成分布式认知系统的最终实例。这给问责问题留下了什么？许多个人、团体和机构最终共同承担起对特定数据使用的概念解释和社会结果的责任。大数据治理面临的一个关键挑战是找到机制，以在这个复杂网络中分配责任，以便能够找出错误和不合理的决策，以及明确指出、纠正和适当制裁明显的欺诈、不道德、滥用、歧视或误导行为。思考数据的复杂历史、处理和使用可以鼓励哲学家避免对证据问题采取非历史性、非情境化的方法，而是考虑处理数据（尤其是大数据）所涉及的方法、技能、技术和实践对于理解经验知识生成至关重要。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Achinstein, Peter, 2001, *The Book of Evidence*, Oxford: Oxford University Press. doi:10.1093/0195143892.001.0001

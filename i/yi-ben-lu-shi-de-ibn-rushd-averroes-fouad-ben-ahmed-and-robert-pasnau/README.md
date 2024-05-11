@@ -253,6 +253,7 @@
 
 有关阿拉伯和伊斯兰哲学对拉丁西方的影响，请参阅相关条目。在 Niewöhner 和 Sturlese（1994）中可以找到一系列特别有价值的论文。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 For a brief narrative sketch of Ibn Rushd’s literary output, see [§1.2](https://plato.stanford.edu/entries/ibn-rushd/#Work). Here we provide bibliographical details regarding all of Ibn Rushd’s surviving work. In each case we list the best Arabic text where that is available, or otherwise the best surviving witnesses to the original, in Hebrew or Latin. In parentheses, where possible, we suggest dates of composition. Sometimes these are a matter of conjecture; in other cases, the text itself provides a precise date. (For a detailed inventory of texts and dating see Al-ʿAlawī 1986a.)

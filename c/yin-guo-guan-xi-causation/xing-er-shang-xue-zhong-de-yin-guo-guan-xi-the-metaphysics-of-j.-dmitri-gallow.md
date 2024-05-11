@@ -380,6 +380,7 @@ Woodward（2003）专注于_类型_影响系统。他提出了一系列非简约
 
 这个定义吸引了（类型）影响的概念；因此，它不会让我们对影响进行还原分析。但请注意，它并没有涉及_X_和_Y_之间的影响——这正是伍德沃德试图表征的关系。因此，虽然这一系列定义并非还原的，但它们并不是_恶性_循环的。它们告诉我们关于_X_和_Y_之间的影响如何与除了_X_和_Y_之外的变量之间的影响相关的一些信息。（有关更多信息，请参阅[因果关系和可操纵性](https://plato.stanford.edu/entries/causation-mani/#CircProb)。）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Achinstein, Peter, 1975, “Causation, Transparency, and Emphasis”, *Canadian Journal of Philosophy*, 5(1): 1–23. doi:10.1080/00455091.1975.10716094

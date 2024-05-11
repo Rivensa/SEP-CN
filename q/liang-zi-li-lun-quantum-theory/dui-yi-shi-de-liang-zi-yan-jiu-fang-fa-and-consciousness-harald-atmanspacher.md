@@ -308,6 +308,7 @@ Pauli 和 Jung 以及 Bohm 和 Hiley 的双方面方法在概念上更透明、�
 
 或许在本概述中描述的例子中，未来成功的最佳预测，至少在可预见的时间范围内，是在不首先关注相关脑活动的情况下研究心智量子特征。已经开发了许多相应的方法，包括具体情况的具体模型，并且已经进行了成功的实证测试和进一步的预测。另一方面，一个统一的理论，涉及个体模型并将不同类型的方法联系起来，仍然需要详细解决。就科学实践而言，一个特别有前景的方面是形成了一个科学社区，包括会议、相互合作，并对年轻科学家加入该领域产生了一定的吸引力。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aerts, D., Durt, T., Grib, A., Van Bogaert, B., and Zapatrin, A., 1993, “Quantum structures in macroscopical reality,” *International Journal of Theoretical Physics*, 32: 489–498.

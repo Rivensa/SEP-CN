@@ -663,6 +663,7 @@ Schoenfield 考虑了最简单的情况，即我们的个体只对一个命题�
 
 还有许多工作要做。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alchourrón, C.E., P. Gärdenfors, & D. Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, *Journal of Symbolic Logic*, 50: 510–530.

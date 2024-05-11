@@ -346,6 +346,7 @@ Van Cleve 在两个方面详细阐述了性质解释。首先，他指出 Reid �
 
 范·克利夫报告了他的信念，即里德的意思是，SQ 是一种无法被理解为展示某些感觉的性质的倾向。因此，SQs 本质上是显著的或人类反应依赖的（范·克利夫 2016 年：107-9）。除了声称里德可以被解读为提倡 SQ 的倾向性理论的论据之外，没有提供其他论证。在解释问题上似乎没有共识。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alanen, Lilli, 2003, *Descartes’s Concept of Mind*, Cambridge, MA: Harvard University Press

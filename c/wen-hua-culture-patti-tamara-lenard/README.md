@@ -210,6 +210,7 @@ For example, some Sikhs request exemption from laws that require wearing motorcy
 
 本条目试图提供必要资源来裁决这些冲突，以认真对待那些要求文化权利的人和那些抵制尊重这些权利的人。希望未来的政治理论能够利用这一分类法，在这些冲突出现时找到令人满意的结论。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abizadeh, Arash, 2002, “Does Liberal Democracy Presuppose a Cultural Nation? Four Arguments”, *American Political Science Review*, 96(3): 495–509. doi:10.1017/S000305540200028X

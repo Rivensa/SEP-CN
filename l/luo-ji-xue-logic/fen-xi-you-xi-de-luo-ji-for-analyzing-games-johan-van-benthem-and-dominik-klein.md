@@ -629,6 +629,7 @@ Goranko 和 Ju 2022 年指出，后一种运算符可以用来表达一种特定
 
 回到我们的例子，一些国家可能对其他国家的投票方式有偏好，这可能会影响它们的决策，改变游戏的整体均衡点。如果是这种情况，那么更丰富的语言就很重要。否则，如果我们可以安全地排除这种可能性，更简洁的语言似乎是合适的选择。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abdou, Joseph and Hans Keiding, 1991, *Effectivity Functions in Social Choice*, (Theory and Decision Library 8), Dordrecht: Springer Netherlands, doi:10.1007/978-94-011-3448-4

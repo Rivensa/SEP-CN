@@ -359,6 +359,7 @@ should be taken more seriously by more of Hume’s readers. The Dialogues are Hu
 
 这就是为什么“不仅在诗歌和音乐中，我们必须遵循我们的品味和感受，而且在哲学中也是如此”（THN 1.3.8.12）。虽然类比推理的主观性是创造力和洞察力的源泉，但它也使牛顿的认识理想的客观性和确定性变得无法达到。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

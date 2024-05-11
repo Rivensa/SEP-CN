@@ -202,6 +202,7 @@ Okasha 的关系本质论存在一个潜在问题，即如果作为物种身份�
 
 这篇百科全书条目始于观察，直觉上物种的本质似乎相当明显。但是，对生物学和哲学文献的回顾表明，我们对物种的理解远未定论。关于物种本质的争论涉及多个问题。其中一个问题是它们的本体论地位：物种是自然种类还是个体？第二个问题涉及多元论：我们应该采用物种唯一论还是物种多元论？第三个问题是“物种”一词是否指的是自然界中的一个真实类别。甚至达尔文似乎也怀疑“物种”是否指的是自然界中的一个真实类别。最后，我们看了社会价值如何影响生物学家使用“物种”定义。在整个条目中，我们看到许多关于生物物种的问题在一定程度上是哲学性的。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Attenborough, R., 2015, “What are species and why does it matter? Anopheline taxonomy and the transmission of malaria”, in A. Behie and M. Oxemham (eds.), *Taxonomic Tapestries: The Threads of Evolutionary, Behavioral and Conservation Research*, Canberra: Australia National University Press, pp. 129–151.

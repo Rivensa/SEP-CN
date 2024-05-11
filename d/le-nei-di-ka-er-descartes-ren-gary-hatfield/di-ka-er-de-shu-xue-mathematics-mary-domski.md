@@ -287,6 +287,7 @@ neusis 前提是维埃特解决问题的有力工具：通过假设 neusis 问�
 
 > 在《几何学》中，我已经确定了在每种类型的问题中可以实现的一切，并指出了如何解决它们，我声称人们不仅应该相信我比我的前辈做得更多，而且还应该相信后人在这个领域中永远不会发现我不能发现的任何东西，只要我愿意去寻找它（给梅尔森，1637 年 12 月底；AT 1, 478；CSMK, 78-79）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Beeckman, Isaac, 1604–1634, *Journal tenu par Isaac Beeckman de 1604 a 1634*, 4 volumes, introduction and notes by C. de Waard. La Haye: M. Nijhoff, 1939–1953.

@@ -144,6 +144,7 @@
 
 这些是受欢迎的进展，但还需要进一步思考。特别是伊本·凯姆那提出的论点通常未被编辑们考虑在内，他们必须在手稿的变体之间做出决定，或者由评论家审查版本。仅仅注意到一个或多个编辑忽略的变体，即使这些变体似乎很重要，也是不够的；我们希望看到对样例段落的讨论，并对不同阅读的含义进行全面分析。有时，在语法、句法或词汇上，没有先验的理由选择一个变体而不是另一个变体。如果不完全理解所讨论的段落，可能会出现错误；Langermann 在 2009 年的一篇文章中给出了一个例子（第 282 页）。除非能提供例子证明这种极端说法，否则早期版本不应被认为是毫无价值的。此外，在没有任何理由的情况下（例如，大家都同意伊本·凯姆那本人没有给所谓的《新智慧》这部作品命名），在中途更改书名会引起混淆，而没有任何补偿。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Note: We cite here the most important works, mainly in English. Pourjavady & Schmidtke has a very extensive bibliography. Additional materials are found in the preceding section (Recent Editions) as well as the internet resources listed in the following section.

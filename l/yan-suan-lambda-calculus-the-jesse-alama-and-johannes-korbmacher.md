@@ -642,6 +642,7 @@ pn(λx1,…xn[A],t1,…,tn)↔A[x1,…xn:=t1,…,tn]
 
 在数学基础的背景下，Zalta 和 Oppenheimer（2011）主张将λ-项的关系解释置于功能解释之上，具有概念上的优先性。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Baader, Franz and Tobias Nipkow, 1999, *Term Rewriting and All That*, Cambridge: Cambridge University Press.

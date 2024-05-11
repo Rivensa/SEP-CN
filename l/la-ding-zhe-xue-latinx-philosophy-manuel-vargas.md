@@ -168,6 +168,7 @@ Renzo Llorente（2013）提出了一个引人注目的建议，即 Gracia 关于
 
 然而，有理由谨慎。关于方法论的哲学争论对于界定一个领域内外的范围具有后果。此外，学者们指出，哲学边界往往特别受到严密监控，更糟糕的是，这在拉丁哲学（Ortega 2016: 4–5）和拉丁美洲哲学（Vargas 2007: 61–63）的研究中尤为如此。因此，什么被视为“好”的工作，甚至作为该领域的一部分，很可能仍然是一个有争议的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Alberdi, Juan Bautista, 1842 [1978], “Ideas para un curso de filosofía contemporánea” (“Ideas for a Course in Philosophy”), presented at *Curso de Filosofía Contemporánea*, Montevideo. Reprinted in *Latinoamerica: Cuadernos de Cultura Latinoamericana*, 9, México, D.F.: Universidad Nacional Autónoma de México, 1978. [[Alberdi 1842 [1978] available online](http://ru.ffyl.unam.mx//handle/10391/2953)]

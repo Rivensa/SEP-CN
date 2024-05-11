@@ -447,6 +447,7 @@ BIV-Epistemic Possibility Argument (BEPA)
 
 但一些有影响力的作家，尤其是罗杰斯·奥尔布里顿（Rogers Albritton）和汤普森·克拉克（Thompson Clarke）（见 Albritton 2011 和 Clarke 1972），并不声称前提（1）是错误的。相反，他们否认我们有理由相信前提（1）是真实的。根据这些作家的观点，通常使我们相信某事在认识上可能的理由是我们可以构想发现它是真实的。例如，使我相信唐纳德·特朗普已经辞职是可能的理由是我可以清楚地构想发现唐纳德·特朗普已经辞职。但如果我试图构想发现我是一个 BIV，我并不清楚我能否成功。我可能构想到找到一些证据表明我是一个 BIV，但是，因为这些证据支持我是一个 BIV 的假设，它是否也会削弱自身的可信度呢？在这种情况下，是否有任何东西可以算作“我的证据”呢？（见 Neta forthcoming 以详细阐述这一观点）。如果无法肯定地回答这个问题，那么我并不清楚我能构想到任何可以发现我是一个 BIV 的事情。当然，从我无法构想到任何可以发现我是一个 BIV 的事情这一事实，并不意味着我不是一个 BIV——因此，甚至不意味着我不可能是一个 BIV。但是，无论我是否可能是一个 BIV，我都不能有理由认为是这样。这就是说，我不能有理由接受 BEPA 的前提（1）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 The abbreviations CDE-1 and CDE-2 refer to Steup & Sosa 2005 and Steup, Turri, & Sosa 2013, respectively. For more information, see the listings for these two works in the alphabetical list of references below.

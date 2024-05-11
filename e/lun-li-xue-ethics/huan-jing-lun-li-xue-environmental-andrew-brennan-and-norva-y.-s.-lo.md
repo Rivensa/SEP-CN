@@ -201,6 +201,7 @@ Meadows’ 和 Daly’s 论述关于需要认识到地球资源是有限的这�
 
 > 补充文件: [环境危机的病理学：理论与实证研究](https://plato.stanford.edu/entries/ethics-environmental/theories-research.html)
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aaltola, Elisa, 2021. “Defensive over Climate Change? Climate Shame as a Method of Moral Cultivation”, *Journal of Agricultural and Environmental Ethics*, 34. doi:10.1007/s10806-021-09844-5

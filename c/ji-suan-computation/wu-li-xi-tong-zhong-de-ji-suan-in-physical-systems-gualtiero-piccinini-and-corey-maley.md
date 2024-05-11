@@ -372,6 +372,7 @@ Gandy (1980) 是最早讨论谦虚物理 CTT 版本之一，认为具有离散�
 
 总之，迄今为止提出的候选超级计算机尚未被证明可以在物理上构建并且可靠。目前而言，谦逊的物理计算理论仍然是可信的。很可能，对于所有实际目的而言，任何可以在物理上计算的函数都是图灵可计算的。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Andréka, H., Németi, I., and P. Németi, 2009, “General Relativistic Hypercomputing and Foundation of Mathematics,” *Natural Computing*, 8(3): 499–516.

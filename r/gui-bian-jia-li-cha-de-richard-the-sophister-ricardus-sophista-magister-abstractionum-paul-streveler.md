@@ -84,6 +84,7 @@
 
 对这些问题的完整回答不仅需要详细考察在《抽象论》中使用这一区分来解决诡辩的情况，还需要考察理查德对“断言非存在”的术语以及他对否定和否定概念的解释/原理的立场[15]。这些任务显然超出了本文的范围。关于第一个问题，我们只能在这里记录一下，在《抽象论》中，理查德只有三处使用这一区分来解决诡辩问题，并且在这些地方都不清楚这是否是他首选的解决方案[16]。更重要的是，理查德在解决诡辩问题时使用这一区分似乎与谢尔伍德的使用方式相匹配（用术语“esse habituale/esse actuale”表示），即作为标记假设和范畴命题之间区别的一种方式[17]。Braakhuis 成功地论证了罗杰·培根对谢尔伍德使用这一区分的批评并不适用，尽管到目前为止，只有谢尔伍德的术语与培根使用的术语完全相同[18]。因此，如果培根所批判的教义不能归因于谢尔伍德，那么也不能归因于诡辩家理查德。因此，理查德·鲁弗斯和诡辩家理查德不能被认定为同一人，至少不能基于这些所谓的教义和术语上的相似之处。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Braakhuis, H.A.G., 1981, “English Tracts on Syncategorematic Terms from Robert Bacon to Walter Burley” in *English Logic and Semantics*, Artistarium, Supplementa 1, Nijmegen.

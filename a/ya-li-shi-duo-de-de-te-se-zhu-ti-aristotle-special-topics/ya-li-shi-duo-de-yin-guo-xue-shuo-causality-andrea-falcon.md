@@ -121,6 +121,7 @@
 * why: *dia ti, dioti*
 * wisdom: *sophia*
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### General survey

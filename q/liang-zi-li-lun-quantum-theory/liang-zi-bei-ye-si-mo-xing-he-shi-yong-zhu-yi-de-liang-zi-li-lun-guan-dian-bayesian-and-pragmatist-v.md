@@ -288,6 +288,7 @@ Brukner（2018）最近使用了 Wigner 的朋友悖论的扩展（Wigner 1962�
 
 自从量子理论接近其现在的形式以来，已经提出了各种量子贝叶斯主义和实用主义的观点。近年来，这一领域一直是哲学意识强烈的物理学家在量子基础研究中的一个活跃领域。哲学家们倾向于对这些方法加以否定，反对它们的工具主义和/或反实在论。但是，对这些反驳的回应有很多值得学习的地方，也有很好的哲学理由更加认真地对待这些观点。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Bacciagaluppi, Guido, 2014, “A Critic Looks at QBism”, in M.C. Galavotti, S. Hartmann, M. Weber, W. Gonzalez, D. Dieks, and T. Uebel (eds.), *New Directions in the Philosophy of Science*, Switzerland: Springer International, pp. 403–415.

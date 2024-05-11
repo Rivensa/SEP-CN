@@ -261,6 +261,7 @@ In his longest polemical work, More satirizes what Tyndale calls his “feeling 
 
 托马斯·莫尔在他生命的最后十六个月被监禁，并于 1535 年 7 月 6 日因叛国罪被处决。他最后的作品和日子考验了他早期关于哲学作为死亡准备的理论。他的理论和实践如何在他的生活和思想中保持一致，是研究这位文艺复兴人物的一个引人入胜的部分，他被伊拉斯谟形容为“四季皆宜的人”。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### A. Primary Sources

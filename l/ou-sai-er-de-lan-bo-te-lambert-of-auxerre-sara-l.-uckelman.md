@@ -125,6 +125,7 @@ Sinkler 认为，兰伯特对组合和分割的讨论影响了罗杰·培根在�
 
 这些 12 世纪和 13 世纪早期的来源可能是兰伯特和彼得观点一致的地方的原因，比如他们对“关系”的定义（参见上文）和他们对扩大的看法（Lagerlund 2000: fn. 90）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Sources

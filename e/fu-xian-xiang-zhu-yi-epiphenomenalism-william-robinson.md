@@ -166,6 +166,7 @@ Wegner 和 Wheatley（1999 年）的研究，Wegner（2002 年）以及 Linser �
 
 早在詹姆斯（1890）討論自動化時，他提到了一些關於他的思想發展的評論，並提到他早期對醫學的研究。在這個領域，“副現象”一詞有一個用途，意思是一種與疾病進程同時出現但不是病因的症狀。一些二十世紀初的詞典僅列出這個詞的這個意義；到了二十世紀中葉，這個詞的哲學意義成為標準。我目前的推測是，“副現象主義”這個術語可能是在十九世紀末從醫學領域進入哲學的，可能是通過威廉·詹姆斯在他具有影響力的《心理學原理》（1890）中使用這個術語，但這一點不太確定。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Two extensive bibliographies are available on line under entries for epiphenomenalism in (1) the PhilPapers’s bibliography (Other Internet Resources) and (2) *The Philosopher’s Index*. (The latter restricts entry to subscribers.) The following list contains all items referred to in the foregoing article, and a few other sources that offer particularly helpful discussions.

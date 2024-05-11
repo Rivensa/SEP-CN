@@ -397,6 +397,7 @@ Koskinen 将她的解释视为对 Hacking（2015）的批评的回应，后者�
 
 不管是什么，科学客观性的积极特征难以找到并不足为奇。如果我们知道答案，我们将不会少于解决归纳问题（因为我们将知道哪些程序或组织形式是科学成功的原因）。解决这个问题是一个持续进行的项目，理解科学客观性的探索也是如此。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Elizabeth, 2004, “Uses of Value Judgments in Science: A General Argument, with Lessons from a Case Study of Feminist Research on Divorce”, *Hypatia*, 19(1): 1–24. doi:10.1111/j.1527-2001.2004.tb01266.x

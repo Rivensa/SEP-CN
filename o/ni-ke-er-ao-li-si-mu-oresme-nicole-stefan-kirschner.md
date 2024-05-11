@@ -98,6 +98,7 @@ a/mn−a/mn+1a/mn=m−1m。
 
 奥里斯姆对经济问题的兴趣和参与不应被视为他知识生活中的孤立主题。正如 Kaye（1998 年，2 页）所指出的，奥里斯姆和他所处时期的自然哲学对测量、分级和定量化质量的关注，受到了当时欧洲社会快速货币化的强烈影响。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

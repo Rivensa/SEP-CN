@@ -175,6 +175,7 @@
 
 因此，透过 emanation（流出）的概念，阿维森纳解释了上帝与世界的关系，更一般地说，解释了有效因果关系。运动（*taḥrīk*）和影响（*taʾaṯṯur*）的因果性都被添加到并纳入了 emanation 的因果性之下，后者受到了赠予和接受的观念的支撑。通过他的形而上学，阿维森纳为他理论的每个层次提供了基础：物理学，然后是心理学，认识论或认知论，预言（*Ilāhiyyāt*，X，2-3）甚至是末世论（*Ilāhiyyāt*，IX，7；Michot 1986）都在形而上学的形式流动的概念中找到了最终的解释。因此，如果《疗法》、《注解》、《科学》、《指导》等其他 *summae* 中的《神学》部分以及《注释之书》和其他著作（如《起源与归宿之书》）对形而上学的研究至关重要，那么可以毫不夸张地说，阿维森纳为哲学所奉献的每一部作品都与理解他的形而上学思想有关，而形而上学作品也澄清了阿维森纳系统的其他部分：形而上学是全面的。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Roman ciphers after the title (e.g., *Ilāhiyyāt*) indicate the treatise/book; Arabic ciphers indicate the section/chapter, then the pages and finally the lines:

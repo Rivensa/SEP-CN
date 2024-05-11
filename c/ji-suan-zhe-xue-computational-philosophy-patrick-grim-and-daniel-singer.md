@@ -495,6 +495,7 @@ OSCAR 的理性核心是实施可废除的非单调逻辑，采用表面理由�
 
 溶解这些学科界限本身在某些方面可能是有益的。上面提出的例子清楚地表明，通过吸收（并促进）在其他领域发展的计算技术，计算哲学长期以来一直是跨学科的。如果我们的收获是对长期吸引我们的主题有更好的理解，那么在学科界限上做出妥协并改变我们对哲学的概念似乎是一个微不足道的代价。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abe, Jair Minoro, Seiki Akama, and Kazumi Nakamatsu, 2015, *Introduction to Annotated Logics: Foundations for Paracomplete and Paraconsistent Reasoning*, (Intelligent Systems Reference Library 88), Cham: Springer International Publishing. doi:10.1007/978-3-319-17912-4

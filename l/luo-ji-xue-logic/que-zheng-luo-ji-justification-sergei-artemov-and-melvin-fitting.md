@@ -596,6 +596,7 @@ BHK-语义对直觉主义逻辑 IPC 的自指性问题已由于俊华（Yu 2014�
 
 关于确证逻辑的前两本专著于 2019 年出版（Artemov 和 Fitting 2019，Kuznets 和 Studer 2019）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Antonakos, E., 2007. “Justified and Common Knowledge: Limited Conservativity”, in S. Artemov and A. Nerode (eds.), *Logical Foundations of Computer Science, International Symposium, LFCS 2007, New York, NY, USA, June 4–7, 2007, Proceedings* (Lecture Notes in Computer Science: Volume 4514), Berlin: Springer, pp. 1–11.

@@ -210,6 +210,7 @@ James seems to claim that being verified is what makes an idea true, just as hav
 
 如果是这样的话，那么实用主义理论具有保留各种类型的探究和论述的可能性和重要性的优势。虽然这并不能保证探究总能达到令人满意或明确的结论，但这确实表明实用主义真理理论有所不同：以皮尔斯的“理性第一法则”的精神，它们“不阻碍探究的道路”（1898 [1992: 178]）。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Allen-Hermanson, Sean, 2001, “The Pragmatist’s Troubles with Bivalence and Counterfactuals”, *Dialogue*, 40(4): 669–690. doi:10.1017/S0012217300004935

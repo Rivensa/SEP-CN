@@ -186,6 +186,7 @@ Hick 在形而上学或认识论的基础上为救赎多元主义辩护。然而
 
 正如我们所见，对宗教多样性的讨论并没有简单的答案。问题很多，论点复杂，回应各异。然而，很难过分强调这个话题的实际意义。虽然哲学家讨论的一些问题对我们如何看待自己和对待他人有实际影响，但在当今社会，没有比宗教多样性的问题更相关的了。宗教信仰不仅在过去激发了激情的行为，这些行为对许多人的生活产生了重大影响，而且这种信仰显然在今天仍然如此。因此，继续对宗教多样性进行哲学讨论，澄清问题并评估论点，具有巨大的实际价值。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ahmad, S.F. and Ahmad, S.S., 2004, *God, Islam, and the Skeptic Mind: A Study on Faith, Religious Diversity, Ethics, and the Problem of Evil*, Blue Nile Publishing, 2nd edition.

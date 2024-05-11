@@ -368,6 +368,7 @@ Enframing, then, is the ordaining of destining that ushers in the modern technol
 
 马丁·海德格尔 与纳粹主义的关联给他的一生投下了阴影。关于这一点，以及在多大程度上，它是否更集中地投射在他的一些哲学作品上，是一个更为棘手的问题。忽视马丁·海德格尔 哲学与政治之间的关系是不负责任的。但可以肯定地以一种批判性的方式深入并引发思考地参与他对存在进行的持续探讨，发现他对人类生活进行深刻思考的价值，有益地探讨他关于我们失去栖身之地的言论，并欣赏他对思想和思维的巨大而仍在不断展开的贡献，而不是在他铺设的哲学道路的每一个转折点上寻找纳粹主义的证据。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Literature

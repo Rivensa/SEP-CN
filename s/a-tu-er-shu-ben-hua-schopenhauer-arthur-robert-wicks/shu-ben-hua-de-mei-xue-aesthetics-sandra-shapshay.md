@@ -200,6 +200,7 @@ Finally, for Schopenhauer, “to the man who gives himself up entirely to the im
 
 当然，还有另一种选择：在自我认知的光明下肯定生命意志。对于叔本华来说，这必须是一个真正的选择，否则肯定或否定的选择就不构成真正的选择。有趣的是，叔本华很少花时间探索这个选择。也许他认为，任何具有真正自我认知的人都会经历一种悲剧性的认知或瞬间，对他内心的生命意志感到羞愧和恐惧，通常会选择否定而不是肯定。尼采和他对悲剧和悲观主义的探索，才提出了肯定可能仍然是一种可辩护的选择的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Primary Works

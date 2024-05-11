@@ -223,6 +223,7 @@ Practitioners outside of ritual contexts also try to return by inwardly cultivat
 
 当 Wildman 将他的竞争对手与这些标准进行比较时，自然主义的基础系统获胜。但显然，对于我们每个对这样的项目感兴趣的人来说，我们可以根据我们认为值得我们时间的模型，在我们认为使模型具有真理导向性的比较标准下进行我们自己的竞争，以找到我们能找到的最具哲学满足感的最终模型。然后，该模型将成为我们用来对上帝和其他终极存在的最佳论据进行检验的对象，以便以一种经过充分研究和现在澄清的方式发现是否存在任何终极事物。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### A. Primary Works (in Aesthetics)

@@ -128,6 +128,7 @@ Kotzee 2013 和 Baehr 2016 中收集的论文突出了社会认识论者、德�
 
 在过去的三十年左右，幸运的是，已经有了一些资源可以显著缓解这些问题。已经涌现了大量百科全书条目，既涵盖了整个领域，也涵盖了许多在本文中未充分涵盖的具体主题（请参见，例如，Burbules 1994; Chambliss 1996b; Curren 1998, 2018; Phillips 1985, 2010; Siegel 2007; Smeyers 1994），两部“百科全书”（Chambliss 1996a; Phillips 2014），一本“指南”（Blake, Smeyers, Smith, & Standish 2003），一本“同伴”（Curren 2003），两本“手册”（Siegel 2009; Bailey, Barrow, Carr, & McCarthy 2010），一部综合选集（Curren 2007），一本该领域关键概念词典（Winch & Gingell 1999），以及一两本优秀的教材（Carr 2003; Noddings 2015）。此外，还有许多重新印刷选集和专门委托撰写的有关特定主题的文章集，其中一些在这里被忽视了（另请参阅 A. Rorty 1998, Stone 1994），以及几本国际期刊，包括《教育理论与研究》、《教育哲学杂志》、《教育理论》、《哲学与教育研究》和《教育哲学与理论》。因此，有足够的材料可供感兴趣的读者研究。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, Jonathan E., 2002, *Belief’s Own Ethics*, Cambridge, MA: MIT Press.

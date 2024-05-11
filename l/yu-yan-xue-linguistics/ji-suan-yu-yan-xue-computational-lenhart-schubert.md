@@ -960,6 +960,7 @@ NL 用户界面的主题涵盖了各种各样的 NL 应用，从最小程度依�
 
 虽然面向任务的机器人对话涉及所有这些挑战，但我们应该注意到，与“说话”的机器人进行的一些潜在有用的交互对于语言技能要求很少。例如，(Movellan等人，2009)描述的Rubi机器人在配备屏幕的“胸部”上展示物体给幼儿，要求他们触摸并命名物体。尽管交互的简单性，这导致幼儿的词汇学习得到了改善。另一个没有真正语言技能但非常成功的说话机器人的例子是“博物馆导游”Rhino(Burgard等人，1999)。与Rubi不同，它能够在不可预测的移动人群中导航，并通过屏幕上显示的当前目标和预先录制的信息吸引观众。同样，世界各地的许多人形机器人（例如本田的Asimo）在过去和现在的开发中仍然对语言了解很少，主要依赖于脚本输出。毫无疑问，由于上述技术（游戏、伴侣代理系统、基于语音的应用程序、导师等）的存在，它们的实用性和吸引力将继续增长；这些发展也将推动对感知、运动、操作和有意义对话的更深层次的进展。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aist, G. & J. Mostow, 2009, “Predictable and educational spoken dialogues: Pilot results,” in *Proceedings of the 2009 ISCA Workshop on Speech and Language Technology in Education* (SLaTE 2009). Birmingham, UK: University of Birmingham. \[[Aist & Mostow 2009 available online (pdf)](http://www.eee.bham.ac.uk/SLaTE2009/papers/SLaTE2009-39-v2.pdf)]

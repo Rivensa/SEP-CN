@@ -407,6 +407,7 @@ This is an odd assertion as Lakatos explicitly endorses the correspondence theor
 
 结果是，如果有一个伊姆雷·拉卡托斯对费耶拉本德困境的答案，那就是必须为他而设计的答案。我们中的一个人在 Musgrave 1976 中尝试了一下，但对于科学研究计划方法论来说，这仍然是一个非常棘手的问题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Works by Lakatos

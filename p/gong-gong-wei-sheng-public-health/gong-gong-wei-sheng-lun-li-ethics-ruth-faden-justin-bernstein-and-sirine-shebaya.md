@@ -420,6 +420,7 @@ A4R 的基本假设是，在面对有关卫生资源适当分配的实质性道�
 
 每个实质性的道德考虑都可以为实施或拒绝一项政策提供初步的正当理由。然而，当这些考虑发生冲突时，我们必须评估它们在相关的公共卫生政策中的相对重要性。最终，公共卫生伦理学家和公共卫生决策者都需要运用相当的实践判断力，在特定的公共卫生背景下权衡这些不同类型的考虑，以确定是否应该实施何种政策。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Adler, M., 2012, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, New York: Oxford University Press.

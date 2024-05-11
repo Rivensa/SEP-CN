@@ -301,6 +301,7 @@ Restall (2015)认为，接受/拒绝问题使得间隙理论和过剩理论变�
 
 自亚里士多德以来，一致性是真理、有效性、意义和理性的要求的假设一直未受到挑战。对双面真理主义的现代调查，通过推动那些尽管不一致但仍具有意义、有效、理性和真实性的理论的可能性，质疑了这一假设。如果一致性最终被证明是这些概念的任何一个的必要条件，双面真理主义促使我们阐明为什么；仅仅通过推动哲学家为以前不容置疑的信念找到论据，就提供了宝贵的服务（Scharp 2007，第 544 页）。如果一致性最终不是所有理论的基本要求，那么哲学和科学领域中传统上被封闭的领域的理性探索之路就会开放。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 We break up the references into sections corresponding to those of the text. Where a reference is not explicitly referred to in the text, we add a sentence concerning its relevance.

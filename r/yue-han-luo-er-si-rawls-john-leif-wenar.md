@@ -469,6 +469,7 @@ Galisanka (2019)是一部关于《正义论》之前的知识史，也详细描�
 
 能够获得 Kukathas (2003, 4 卷)或 Richardson 和 Weithman (1999, 5 卷)的读者（通常通过图书馆）将找到许多关于罗尔斯作品的早期学术文章，按照特定主题（例如，最小最大化推理，公共理由）和批评类型（例如，保守派批评，女性主义批评）进行划分。没有获得 Richardson 和 Weithman 卷册的读者可以在下面的其他互联网资源部分中的链接中找到它们的目录，然后可以找到文章在原始出版物中的位置。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 ### Works by Rawls Cited in this Entry

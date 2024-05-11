@@ -130,6 +130,7 @@ LeBar（2013, 2014）在试图将康德和后康德的见解融入亚里士多�
 
 对于正义这一美德，存在许多不同的理解，其中只有一些是与美德伦理学有关的。许多非美德伦理学的方法提出了关于美德的理论，与美德伦理学的区别在于，美德的理论在解释中的顺序较晚，而不是作为理解道德的基础。这在正义这一点上尤为明显，因为（正如我们所见），很自然地会首先解释正义的规范，然后根据这些规范得出对美德的解释。正义规范的优先性问题或正义美德的优先性问题很可能会继续引发探索和辩论，我们作为社会和政治动物的生活如何有助于理解正义美德的问题也是如此。这些复杂的问题激发了各种观点的涌现，毫无疑问，将继续如此。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Anderson, Elizabeth, 2010, “The Fundamental Disagreement between Luck Egalitarians and Relational Egalitarians,” *Canadian Journal of Philosophy* (Supplemental Volume), 36: 1–24.

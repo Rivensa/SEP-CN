@@ -200,6 +200,7 @@ Zerilli 呼吁“以自由为中心的女性主义”
 
 女性主义政治哲学是一个仍在发展的思想领域，对主流政治哲学有很多贡献。在过去的二十年中，它已经开始对主流政治理论产生更强烈的影响，提出了一些主流哲学家不得不回应的异议，尽管并不总是非常令人信服。在其最新的发展中，它承诺将走得更远。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Abbey, Ruth, 2011, *The Return of Feminist Liberalism*, Durham, UK: Acumen.

@@ -212,6 +212,7 @@ Carnap 和 Bar-Hillel（1952）关于形式语言的语义信息理论具有直�
 
 Barwise 主要提出的信息通道的语义理论已经得到改进，以便将其适应于对丰富的哲学现象进行建模。最初设计用于以其自身术语对语言工艺品进行建模的逻辑已被用于捕捉信息流的属性。这迅速导致了对这些语言工艺品进行严格定义的语义模型，以及以信息流本身为基础的认知现象模型。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aczel, Peter, David Israel, Yasuhiro Katagin, and Stanley Peters (eds.), 1993, *Situation Theory and Its Applications, Volume 3: Proceedings of the First-Third Conference on Situation Theory and Its Applications. Third Conference Held in Kanagawa, Japan, November 1991*, (CSLI Lecture Notes 37), Stanford, CA: CSLI Publications.

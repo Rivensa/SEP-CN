@@ -245,6 +245,7 @@ Lawvere 从早期开始就提倡了一个想法，即范畴的范畴可以被用
 
 范畴论因此提供了许多哲学挑战，这些挑战有望在未来几年得到解决。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 Readers may find the following useful:

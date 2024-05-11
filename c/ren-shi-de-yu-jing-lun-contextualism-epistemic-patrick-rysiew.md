@@ -380,6 +380,7 @@ Several objections to this argument have been made. First, it is worth consideri
 
 这些观点各自的优势和劣势，无论是独立考虑还是与其他观点、EC以及传统（不敏感的）不变论相比较，都是最近许多辩论的主题。对于EC本身的讨论也在继续进行。（例如，参见Ichikawa 2017b中收集的论文。）
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 \[Pagination of in-text citations follows that of the reprint, where given.]

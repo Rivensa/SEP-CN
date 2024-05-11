@@ -178,6 +178,7 @@ PC 模型还显示出解释更高层认知现象的潜力。一个经常被引�
 * 深度学习研究是否改变了激进联结主义者与那些认为符号处理模型是必要的来解释更高层次认知功能之间的冲突条件？
 * 深度网络（如 AlphaZero）是否证明了关于高级推理的经典经验主义？或者它们最终必须复制更多人类偏见和特定领域知识，以像人类那样推理？
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Aizawa, Kenneth, 1994, “Representations without Rules, Connectionism and the Syntactic Argument”, *Synthese*, 101(3): 465–492. doi:10.1007/BF01063898

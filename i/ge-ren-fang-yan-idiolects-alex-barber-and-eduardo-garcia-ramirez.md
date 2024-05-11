@@ -231,6 +231,7 @@ McGilvray 1999 和 Smith 和 Allott 2016 都提供了对 Chomsky 的语言哲学
 
 Hoff和Shatz在2007年提供了对语言发展领域的优秀概述，包括基础问题以及婴幼儿期、幼儿期和非典型发展中的句法、语义和语用主题。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Akhtar, Nameera, Frances Dunham, and Philip J. Dunham, 1991, “Directive Interactions and Early Vocabulary Development: The Role of Joint Attentional Focus”, *Journal of Child Language*, 18(1): 41–49. doi:10.1017/S0305000900013283

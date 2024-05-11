@@ -265,6 +265,7 @@ Kim Sterelny（2001年）提出了一组遗传系统（他称之为“复制系�
 
 非遗传性传承可以对进化产生短期影响，并且可以影响遗传进化（例如，通过遗传同化）。然而，非遗传性传承的长期和宏观进化意义，特别是其对种群对选择的响应方式的影响仍在争论中（例如，Helanterä和 Uller，2010 年：4）。Jablonka 和 Lamb 的进化观强调“软性遗传”或后天特征的遗传，这是许多非遗传性传承系统所表现出来的。部分原因是因为这一点，他们是那些提出需要修订和扩展现代进化综合理论的人之一（Pigliucci 和 Müller，2010 年）。现代综合理论将软性遗传边缘化，并认为显著的进化变化仅是渐进选择作用于随机变异的结果。这一观点的假设受到了关于非遗传性传承的研究的挑战。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Ancel, L. W. (1999). A Quantitative Model of the Simpson–Baldwin Effect. *Journal of Theoretical Biology* 196 (2): 197–209.

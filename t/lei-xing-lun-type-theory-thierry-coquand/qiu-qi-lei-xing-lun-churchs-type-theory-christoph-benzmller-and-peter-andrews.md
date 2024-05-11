@@ -533,6 +533,7 @@ Duper 是一个基于叠加的依赖类型论定理证明器，旨在证明证�
 
 丘奇的类型论也非常适合支持元逻辑研究，包括对其他逻辑形式的编码以及形式化的完备性和一致性研究（参见 Schlichtkrull 等人 2020 年，Halkjær 等人 2023 年以及 Benzmüller 2019 年中提供的其他指引）。特别是，丘奇的类型论可以作为一个独立的形式进行正式研究，例如 Kumar 等人（2016 年），Schlichtkrull（2023 年）和 Díaz（2023 年）的研究已经证明了这一点。
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 * Andrews, Peter B., 1963, “A Reduction of the Axioms for the Theory of Prepositional Types”, *Fundamenta Mathematicae*, 52(3): 345–350. doi:10.4064/fm-52-3-345-350

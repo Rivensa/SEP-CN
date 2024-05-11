@@ -92,6 +92,7 @@
 
 > * 马尔基亚的弗朗西斯，《回应生成论书一，第 39，42-44，45-48 章》
 
+<!--md-padding-ignore-begin-->
 ## Bibliography
 
 A complete Marchia bibliography can be found in Friedman-Schabel (2006, 15–20).
