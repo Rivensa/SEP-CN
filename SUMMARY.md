@@ -401,7 +401,7 @@
 * [童年哲学 childhood, the philosophy of (Gareth Matthews and Amy Mullin)](c/tong-nian-zhe-xue-childhood-the-philosophy-of-gareth-matthews-and-amy-mullin.md)
 * [儿童哲学 children, philosophy for (Michael Pritchard)](c/er-tong-zhe-xue-children-philosophy-for-michael-pritchard.md)
 * [\*智利 Chile](c/zhi-li-chile/README.md)
-  * [智利哲学 philosophy in (Ivan Jaksic)](c/zhi-li-chile/zhi-li-zhe-xue-philosophy-in-ivan-jaksic.md)
+  * [19 和 20 世纪智利哲学 philosophy in (Ivan Jaksic)](c/zhi-li-chile/zhi-li-zhe-xue-philosophy-in-ivan-jaksic.md)
 * [\*嵌合体、人类与非人类——见生物医学伦理学：人类与非人类嵌合体 chimeras, human/non-human — see ethics, biomedical: chimeras, human/non-human](c/qian-he-ti-ren-lei-fei-ren-lei-jian-sheng-wu-yi-xue-lun-li-xue-ren-lei-fei-ren-lei-qian-he-ti-chimer.md)
 * [\*中国儒学 Chinese Confucianism](c/zhong-guo-ru-xue-chinese-confucianism/README.md)
   * [现代儒学 Modern Confucianism (David Elstein)](c/zhong-guo-ru-xue-chinese-confucianism/xian-dai-ru-xue-modern-confucianism-david-elstein.md)
