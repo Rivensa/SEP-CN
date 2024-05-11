@@ -359,7 +359,7 @@
 * [吉罗拉莫·卡尔达诺 Cardano, Girolamo \[Geronimo\] (Guido Giglioni and Jonathan Regier)](c/ji-luo-la-mo-ka-er-da-nuo-cardano-girolamo-geronimo-guido-giglioni-and-jonathan-regier.md)
 * [\*格肖姆·卡迈克尔——见苏格兰哲学：18 世纪苏格兰哲学 Carmichael, Gershom — see Scottish Philosophy: in the 18th Century](c/ge-xiao-mu-ka-mai-ke-er-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-carmichael-gershom-see-sc.md)
 * [鲁道夫·卡尔纳普 Carnap, Rudolf (Hannes Leitgeb and André Carus)](c/lu-dao-fu-ka-er-na-pu-carnap-rudolf-hannes-leitgeb-and-andr-carus.md)
-* [卡涅阿德斯 Carneades](c/ka-nieade-si-carneades.md)
+* [卡涅阿德斯 Carneades (James Allen)](c/ka-nieade-si-carneades.md)
 * [恩斯特·卡西尔 Cassirer, Ernst (Michael Friedman)](c/en-si-te-ka-xi-er-cassirer-ernst-michael-friedman.md)
 * [\*决疑论——见推理：道德推理 casuistry — see reasoning: moral](c/jue-yi-lun-jian-tui-li-dao-de-tui-li-casuistry-see-reasoning-moral.md)
 * [范畴 categories (Amie Thomasson)](c/fan-chou-categories-amie-thomasson/README.md)
