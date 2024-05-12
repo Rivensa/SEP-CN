@@ -332,3 +332,4 @@
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 Anita Silvers
+<!--md-padding-ignore-end-->

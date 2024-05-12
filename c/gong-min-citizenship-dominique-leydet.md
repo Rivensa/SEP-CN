@@ -440,3 +440,4 @@ Donaldson 和 Kymlicka 的主要目标是保护动物免受人类对它们的统
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Dominique Leydet <[*leydet.dominique@uqam.ca*](mailto:leydet%2edominique%40uqam%2eca)>
+<!--md-padding-ignore-end-->

@@ -352,3 +352,4 @@ Thanks to Chris Howard, Shyam Nair, Drew Schroeder, and especially an anonymous 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Douglas W. Portmore](https://sites.google.com/site/dwportmore/) <[*dwportmore@gmail.com*](mailto:dwportmore%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -284,3 +284,4 @@ Many thanks to the participants in The Philosophical Underclass. Without your he
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Christopher McCammon <[*rmccammon@tcc.edu*](mailto:rmccammon%40tcc%2eedu)>
+<!--md-padding-ignore-end-->

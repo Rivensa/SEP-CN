@@ -270,3 +270,4 @@ Thanks to Edward Wierenga, Timothy Simmons, Anthony Macias, and an anonymous ref
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Matthew Davidson](http://rocket.csusb.edu/\~mld/) <[*mdavidson@csusb.edu*](mailto:mdavidson%40csusb%2eedu)>
+<!--md-padding-ignore-end-->

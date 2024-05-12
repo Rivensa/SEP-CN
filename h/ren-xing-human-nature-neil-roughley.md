@@ -436,3 +436,4 @@ I would like to thank Michelle Hooge, Maria Kronfeldner, Nick Laskowski and Hich
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Neil Roughley <[*neil.roughley@uni-due.de*](mailto:neil%2eroughley%40uni-due%2ede)>
+<!--md-padding-ignore-end-->

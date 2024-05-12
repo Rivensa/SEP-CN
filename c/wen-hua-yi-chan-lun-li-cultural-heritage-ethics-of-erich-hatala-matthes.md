@@ -409,3 +409,4 @@ Thanks to Fani Ntavelou Baum for research assistance, and to two anonymous revie
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Erich Hatala Matthes](http://sites.google.com/wellesley.edu/ehatmat) <[*ematthes@wellesley.edu*](mailto:ematthes%40wellesley%2eedu)>
+<!--md-padding-ignore-end-->

@@ -334,3 +334,4 @@ Cline (1992)Nordhaus (1994)Stern (2007)σ=1.5andδ=0σ=1andδ=0.03 (每年 3%)σ
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Partha Dasgupta <[*pd10000@cam.ac.uk*](mailto:pd10000%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

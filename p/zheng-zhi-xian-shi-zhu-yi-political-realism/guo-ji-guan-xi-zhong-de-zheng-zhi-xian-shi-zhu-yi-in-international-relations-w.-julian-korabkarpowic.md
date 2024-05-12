@@ -295,3 +295,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 W. Julian Korab-Karpowicz <[*sopot_plato@hotmail.com*](mailto:sopot_plato%40hotmail%2ecom)>
+<!--md-padding-ignore-end-->

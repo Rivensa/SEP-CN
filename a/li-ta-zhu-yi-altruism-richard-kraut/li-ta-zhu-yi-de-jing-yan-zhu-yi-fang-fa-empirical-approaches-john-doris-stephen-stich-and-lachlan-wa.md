@@ -438,3 +438,4 @@ For helpful suggestions, we are grateful to Mark Alfano, C. Daniel Batson, Willi
 [John Doris](https://philosophy.cornell.edu/john-m-doris) <[*jmd378@cornell.edu*](mailto:jmd378%40cornell%2eedu)>  
 [Stephen Stich](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/635-stich-stephen) <[*stich.steve@gmail.com*](mailto:stich%2esteve%40gmail%2ecom)>  
 Lachlan Walmsley <[*ldw917@gmail.com*](mailto:ldw917%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

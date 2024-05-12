@@ -480,3 +480,4 @@ following a number of others, like Wendy Brown (2015). Here the analysis draws h
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Kevin Vallier](http://www.kevinvallier.com/) <[*kevinvallier@gmail.com*](mailto:kevinvallier%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -383,3 +383,4 @@ We use [FHS&G] to refer to:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Katerina Ierodiakonou <[*katerina.ierodiakonou@unige.ch*](mailto:katerina%2eierodiakonou%40unige%2ech)>
+<!--md-padding-ignore-end-->

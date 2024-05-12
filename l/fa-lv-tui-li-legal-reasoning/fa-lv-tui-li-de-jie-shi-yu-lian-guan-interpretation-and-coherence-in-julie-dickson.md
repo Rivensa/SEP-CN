@@ -213,3 +213,4 @@ Levenbook 1984是地方连贯性的支持者，并批评那些像Sartorius（196
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by  
 [Julie Dickson](http://www.law.ox.ac.uk/people/profile.php?who=dicksonj) <[*julie.dickson@law.ox.ac.uk*](mailto:julie%2edickson%40law%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

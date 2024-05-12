@@ -407,3 +407,4 @@ Bealer 的例子表明，我们可以对错误的命题和不是自明的命题�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Michael DePaul <[*depaul.1@nd.edu*](mailto:depaul%2e1%40nd%2eedu)>  
 Amelia Hicks <[*ahicks2@ksu.edu*](mailto:ahicks2%40ksu%2eedu)>
+<!--md-padding-ignore-end-->

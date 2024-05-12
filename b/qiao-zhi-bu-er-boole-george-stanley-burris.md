@@ -851,3 +851,4 @@ y1(1−y2)(1−y3)=0
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Stanley Burris](http://www.math.uwaterloo.ca/\~snburris/)
+<!--md-padding-ignore-end-->

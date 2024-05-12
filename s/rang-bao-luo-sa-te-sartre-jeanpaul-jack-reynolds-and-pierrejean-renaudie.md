@@ -398,3 +398,4 @@ Jack would like to acknowledge Marion Tapper, who taught him Sartre as an underg
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Jack Reynolds <[*jack.reynolds@deakin.edu.au*](mailto:jack%2ereynolds%40deakin%2eedu%2eau)>  
 [Pierre-Jean Renaudie](http://www.renaudiephilosophy.com/) <[*pierre-jean.renaudie@univ-lyon3.fr*](mailto:pierre-jean%2erenaudie%40univ-lyon3%2efr)>
+<!--md-padding-ignore-end-->

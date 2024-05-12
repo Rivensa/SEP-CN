@@ -531,3 +531,4 @@ Note: In order to be useful to readers, this bibliography includes both general 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Patricia Curd](https://www.cla.purdue.edu/philosophy/directory/?p=Patricia_Curd)
+<!--md-padding-ignore-end-->

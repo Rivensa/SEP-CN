@@ -211,3 +211,4 @@ Two Gadamer bibliographies are worthy of note. Lewis Edwin Hahn’s *The Philos
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Nicholas Davey  
 [Cynthia Nielsen](https://udallas.academia.edu/CynthiaNielsen) <[*cynthia.nielsen@gmail.com
+<!--md-padding-ignore-end-->

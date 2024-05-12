@@ -194,3 +194,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Mark Murphy](http://www9.georgetown.edu/faculty/murphym/) <[*murphym@georgetown.edu*](mailto:murphym%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

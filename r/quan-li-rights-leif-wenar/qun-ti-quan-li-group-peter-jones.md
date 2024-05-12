@@ -305,3 +305,4 @@ List 和 Pettit（2011, 170–85）也分享了这种担忧。虽然他们认为
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Peter Jones](http://www.ncl.ac.uk/gps/staff/profile/peterjones.html) <[*peter.jones@ncl.ac.uk*](mailto:peter%2ejones%40ncl%2eac%2euk)>
+<!--md-padding-ignore-end-->

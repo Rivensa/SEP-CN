@@ -485,3 +485,4 @@ The journal [*Moreana*](https://www.euppublishing.com/loi/more) (1963– ) is 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Gerard B. Wegemer](https://udallas.edu/constantin/academics/programs/english/faculty/wegemer-gerard.php) <[*wegemer@udallas.edu*](mailto:wegemer%40udallas%2eedu)>
+<!--md-padding-ignore-end-->

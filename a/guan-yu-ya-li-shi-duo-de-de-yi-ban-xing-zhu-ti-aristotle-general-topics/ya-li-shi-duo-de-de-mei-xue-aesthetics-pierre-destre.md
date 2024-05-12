@@ -354,3 +354,4 @@ The author is very grateful to E. Belfiore, M. Johnson, M.E. Peláez, and C. Shi
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Pierre Destrée <[*Destree@sofi.ucl.ac.be*](mailto:Destree%40sofi%2eucl%2eac%2ebe)>
+<!--md-padding-ignore-end-->

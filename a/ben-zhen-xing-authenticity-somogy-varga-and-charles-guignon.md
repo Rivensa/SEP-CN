@@ -286,3 +286,4 @@ Varga（2011a）分享了一个基本假设，即本真性具有一定的潜力�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Somogy Varga <[*varga@cas.au.dk*](mailto:varga%40cas%2eau%2edk)>  
 Charles Guignon
+<!--md-padding-ignore-end-->

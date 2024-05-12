@@ -196,3 +196,4 @@ De Rijk（1982 年，第 165-6 页）确定了词项属性理论发展的三个�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Stephen Read](http://www.st-andrews.ac.uk/~slr/read.html) <[*slr@st-and.ac.uk*](mailto:slr%40st-and%2eac%2euk)>
+<!--md-padding-ignore-end-->

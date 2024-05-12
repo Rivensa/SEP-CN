@@ -905,3 +905,4 @@ I am grateful to the editors, their reviewers, Franz Dietrich, Iain McLean, and 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Christian List](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/list/index.html) <[*c.list@lmu.de*](mailto:c%2elist%40lmu%2ede)>
+<!--md-padding-ignore-end-->

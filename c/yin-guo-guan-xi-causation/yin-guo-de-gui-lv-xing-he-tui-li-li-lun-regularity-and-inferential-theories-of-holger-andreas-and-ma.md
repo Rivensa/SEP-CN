@@ -1227,3 +1227,4 @@ We would like to thank Michael Baumgartner, Sander Beckers, Wolfgang Spohn, Mich
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Holger Andreas](https://holgerandreas.wordpress.com/) <[*holger.andreas@ubc.ca*](mailto:holger%2eandreas%40ubc%2eca)>\
 [Mario Guenther](http://www.mario-guenther.com/) <[*Mario.Guenther111188@gmail.com*](mailto:Mario%2eGuenther111188%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

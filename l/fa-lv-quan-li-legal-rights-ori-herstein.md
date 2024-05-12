@@ -544,3 +544,4 @@ Hohfeldian 的相关性表明（索赔）权利在分析上或形式上与义务
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Ori Herstein <[*ori.herstein@mail.huji.ac.il*](mailto:ori%2eherstein%40mail%2ehuji%2eac%2eil)>
+<!--md-padding-ignore-end-->

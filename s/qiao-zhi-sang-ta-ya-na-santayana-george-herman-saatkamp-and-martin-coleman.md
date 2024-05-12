@@ -330,3 +330,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Herman Saatkamp <[*hermes3798@outlook.com*](mailto:hermes3798%40outlook%2ecom)>  
 Martin Coleman <[*martcole@iupui.edu*](mailto:martcole%40iupui%2eedu)>
+<!--md-padding-ignore-end-->

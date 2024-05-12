@@ -296,3 +296,4 @@ This suggests to me that he wants his primitive signs to be *by stipulation* una
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Wilfrid Hodges](http://wilfridhodges.co.uk/) <[*wilfrid.hodges@btinternet.com*](mailto:wilfrid%2ehodges%40btinternet%2ecom)>
+<!--md-padding-ignore-end-->

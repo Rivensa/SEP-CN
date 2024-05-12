@@ -114,3 +114,4 @@
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 David Sedley
+<!--md-padding-ignore-end-->

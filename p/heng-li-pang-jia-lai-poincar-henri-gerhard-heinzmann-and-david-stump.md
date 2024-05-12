@@ -421,3 +421,4 @@ Thanks go to Scott A. Walter and to an anonymous referee for helpful comments on
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Gerhard Heinzmann <[*Gerhard.Heinzmann@univ-lorraine.fr*](mailto:Gerhard%2eHeinzmann%40univ-lorraine%2efr)>  
 David Stump <[*stumpd@usfca.edu*](mailto:stumpd%40usfca%2eedu)>
+<!--md-padding-ignore-end-->

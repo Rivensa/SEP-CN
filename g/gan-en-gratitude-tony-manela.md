@@ -312,3 +312,4 @@ Reasons aside, philosophers are also concerned with the way in which grateful be
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Tony Manela](https://www.siena.edu/faculty-and-staff/person/tony-manela/) <[*amanela@siena.edu*](mailto:amanela%40siena%2eedu)>
+<!--md-padding-ignore-end-->

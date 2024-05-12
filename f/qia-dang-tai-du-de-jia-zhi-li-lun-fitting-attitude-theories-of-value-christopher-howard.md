@@ -278,3 +278,4 @@ FA 理论的捍卫者以各种方式对这些案例做出了回应 (Orsi 2013a; 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Christopher Howard <[*chris.howard@mcgill.ca*](mailto:chris%2ehoward%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

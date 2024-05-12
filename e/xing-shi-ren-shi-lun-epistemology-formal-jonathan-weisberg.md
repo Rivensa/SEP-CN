@@ -864,3 +864,4 @@ Thanks to Elena Derksen, Frank Hong, Emma McClure, Julia Smith, and Micah Smith 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Jonathan Weisberg](http://www.philosophy.utoronto.ca/directory/jonathan-weisberg/) <[*jonathan.weisberg@utoronto.ca*](mailto:jonathan%2eweisberg%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

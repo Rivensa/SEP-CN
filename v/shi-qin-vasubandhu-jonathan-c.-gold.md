@@ -406,3 +406,4 @@ Lévi, Sylvain (ed.), 1925. *Vijñaptimātratāsiddhi: Deux Traités de Vasuban
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Jonathan C. Gold <[*jcgold@princeton.edu*](mailto:jcgold%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

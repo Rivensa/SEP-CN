@@ -567,3 +567,4 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Gary Hatfield](https://www.sas.upenn.edu/~hatfield/) <[*hatfield@phil.upenn.edu*](mailto:hatfield%40phil%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

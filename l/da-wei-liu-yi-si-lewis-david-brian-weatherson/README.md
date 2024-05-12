@@ -714,3 +714,4 @@ I’ve learned a lot over the years from talking about Lewis’s philosophy with
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Brian Weatherson](http://brian.weatherson.org/) <[*brian@weatherson.org*](mailto:brian%40weatherson%2eorg)>
+<!--md-padding-ignore-end-->

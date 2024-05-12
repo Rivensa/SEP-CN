@@ -261,3 +261,4 @@ In first composing this entry (in 2002-3) and then revising the main entry and b
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Michael Beaney](https://www.philosophie.hu-berlin.de/de/lehrbereiche/geschichte-analytische-phil) <[*michael.beaney@hu-berlin.de*](mailto:michael%2ebeaney%40hu-berlin%2ede)>
+<!--md-padding-ignore-end-->

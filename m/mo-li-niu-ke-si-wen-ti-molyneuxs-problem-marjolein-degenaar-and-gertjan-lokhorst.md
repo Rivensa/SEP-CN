@@ -136,3 +136,4 @@ Wheatstone 的发现，即通过视觉感知空间的第三维度是直接的，
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Marjolein Degenaar](http://mjldegenaar.nl/) <[*marjoleindegenaar@gmail.com*](mailto:marjoleindegenaar%40gmail%2ecom)>  
 [Gert-Jan Lokhorst](http://gjclokhorst.nl/)
+<!--md-padding-ignore-end-->

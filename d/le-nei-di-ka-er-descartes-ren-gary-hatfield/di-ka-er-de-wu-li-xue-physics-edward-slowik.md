@@ -185,3 +185,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Edward Slowik <[*eslowik@winona.edu*](mailto:eslowik%40winona%2eedu)>
+<!--md-padding-ignore-end-->

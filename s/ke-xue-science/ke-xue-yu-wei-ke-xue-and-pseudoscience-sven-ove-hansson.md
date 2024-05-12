@@ -412,3 +412,4 @@ Paul Hoyninengen-Huene (2013)将科学与系统性知识联系起来，并提出
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Sven Ove Hansson](http://people.kth.se/~soh/) <[*soh@kth.se*](mailto:soh%40kth%2ese)>
+<!--md-padding-ignore-end-->

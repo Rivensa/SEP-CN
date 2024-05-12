@@ -660,3 +660,4 @@ Pico对卡巴拉与基督教以及包括毕达哥拉斯主义在内的异教哲�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Carl Huffman
+<!--md-padding-ignore-end-->

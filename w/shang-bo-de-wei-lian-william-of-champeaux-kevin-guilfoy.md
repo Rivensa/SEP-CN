@@ -275,3 +275,4 @@ Shorter excerpts from some of William's commentaries can be found in Iwakuma 200
 
 [Copyright © 2005](https://plato.stanford.edu/info.html#c) by  
 [Kevin Guilfoy](http://www.carrollu.edu/faculty/guilfoy-kevin-s-phd)
+<!--md-padding-ignore-end-->

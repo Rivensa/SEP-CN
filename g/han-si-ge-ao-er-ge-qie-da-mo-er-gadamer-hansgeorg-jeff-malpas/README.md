@@ -242,3 +242,4 @@ Other works not included in the *Gesammelte Werke* or *Kleine Schriften*:
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Jeff Malpas](https://jeffmalpas.com/) <[*Jeff.Malpas@utas.edu.au*](mailto:Jeff%2eMalpas%40utas%2eedu%2eau)>
+<!--md-padding-ignore-end-->

@@ -310,3 +310,4 @@ The International Hamann-Colloquium meets every few years. Collections of its pa
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Gwen Griffith-Dickson](https://www.kcl.ac.uk/artshums/depts/trs/people/staff/associates/visit/griffith-dickson.aspx) <[*ggd@lokahi.org.uk*](mailto:ggd%40lokahi%2eorg%2euk)>
+<!--md-padding-ignore-end-->

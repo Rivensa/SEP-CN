@@ -507,3 +507,4 @@ Most of the original sources surrounding Zermelo's work were written in German, 
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 Michael Hallett <[*michael.hallett@mcgill.ca*](mailto:michael%2ehallett%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

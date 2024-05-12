@@ -385,3 +385,4 @@ More specialized readings include:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jenann Ismael](https://www.jenanni.com/) <[*ji2266@columbia.edu*](mailto:ji2266%40columbia%2eedu)>
+<!--md-padding-ignore-end-->

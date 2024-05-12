@@ -250,3 +250,4 @@ Ellacuría 与西班牙哲学家 Zubiri 密切合作，他的工作旨在通过�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Eduardo Mendieta <[*ezm5325@psu.edu*](mailto:ezm5325%40psu%2eedu)>
+<!--md-padding-ignore-end-->

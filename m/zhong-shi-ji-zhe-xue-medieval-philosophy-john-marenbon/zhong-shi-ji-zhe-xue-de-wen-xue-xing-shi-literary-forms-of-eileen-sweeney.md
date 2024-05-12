@@ -365,3 +365,4 @@ These are in English translation where available; see individual author entries 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Eileen Sweeney](http://www.bc.edu/schools/cas/philosophy//faculty/sweeney.html) <[*eileen.sweeney@bc.edu*](mailto:eileen%2esweeney%40bc%2eedu)>
+<!--md-padding-ignore-end-->

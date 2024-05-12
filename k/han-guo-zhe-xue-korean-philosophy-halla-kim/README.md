@@ -276,3 +276,4 @@ The author would like to express his deepest gratitude to Don Baker, In Bang, Ro
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Halla Kim](https://www.unomaha.edu/college-of-arts-and-sciences/philosophy/about-us/directory/halla-kim.php) <[*kantdoc@sogang.ac.kr*](mailto:kantdoc%40sogang%2eac%2ekr)>
+<!--md-padding-ignore-end-->

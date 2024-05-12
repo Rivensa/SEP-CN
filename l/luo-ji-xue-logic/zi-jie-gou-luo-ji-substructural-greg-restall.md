@@ -257,3 +257,4 @@ A comprehensive bibliography on relevant logic was put together by Robert Wolff 
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Greg Restall](http://consequently.org/) <[*gr69@st-andrews.ac.uk*](mailto:gr69%40st-andrews%2eac%2euk)>
+<!--md-padding-ignore-end-->

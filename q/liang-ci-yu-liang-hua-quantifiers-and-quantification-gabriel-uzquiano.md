@@ -725,3 +725,4 @@ Quine 对本体论争议的规范化和解决策略在当代本体论中起到�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Gabriel Uzquiano <[*uzquiano@usc.edu*](mailto:uzquiano%40usc%2eedu)>
+<!--md-padding-ignore-end-->

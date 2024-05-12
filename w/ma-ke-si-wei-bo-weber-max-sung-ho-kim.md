@@ -279,3 +279,4 @@ In English, new translations have appeared since the turn of the century. Most n
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Sung Ho Kim <[*sunghokim@yonsei.ac.kr*](mailto:sunghokim%40yonsei%2eac%2ekr)>
+<!--md-padding-ignore-end-->

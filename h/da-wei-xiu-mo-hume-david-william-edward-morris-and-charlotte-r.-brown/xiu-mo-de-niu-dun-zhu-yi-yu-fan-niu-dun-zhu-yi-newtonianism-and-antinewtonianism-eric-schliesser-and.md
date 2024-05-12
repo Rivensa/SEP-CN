@@ -472,3 +472,4 @@ should be taken more seriously by more of Hume’s readers. The Dialogues are Hu
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Eric Schliesser <[*nescio2@yahoo.com*](mailto:nescio2%40yahoo%2ecom)>  
 Tamás Demeter <[*tsd2333@gmail.com*](mailto:tsd2333%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

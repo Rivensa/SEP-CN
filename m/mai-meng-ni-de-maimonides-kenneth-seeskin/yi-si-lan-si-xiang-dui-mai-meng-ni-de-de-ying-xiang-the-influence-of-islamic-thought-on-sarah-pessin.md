@@ -648,3 +648,4 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[*spessin@du.edu*](mailto:spessin%40du%2eedu)>
+<!--md-padding-ignore-end-->

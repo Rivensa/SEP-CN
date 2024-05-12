@@ -328,3 +328,4 @@ NOTE: Works cited in the text might be located in any one of the 4 subsections b
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Scott Edgar <[*scott.edgar@smu.ca*](mailto:scott%2eedgar%40smu%2eca)>
+<!--md-padding-ignore-end-->

@@ -445,3 +445,4 @@ MA×(VA before)2+MB×(VB before)2=MB×(VB after)2+MA×(VA after)2
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jeffrey K. McDonough](https://philosophy.fas.harvard.edu/people/jeffrey-mcdonough) <[*jkmcdonough@gmail.com*](mailto:jkmcdonough%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

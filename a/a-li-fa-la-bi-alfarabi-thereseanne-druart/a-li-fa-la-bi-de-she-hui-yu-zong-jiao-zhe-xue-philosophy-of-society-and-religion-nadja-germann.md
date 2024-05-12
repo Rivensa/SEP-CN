@@ -253,3 +253,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Nadja Germann <[*nadja.germann@philosophie.uni-freiburg.de*](mailto:nadja%2egermann%40philosophie%2euni-freiburg%2ede)>
+<!--md-padding-ignore-end-->

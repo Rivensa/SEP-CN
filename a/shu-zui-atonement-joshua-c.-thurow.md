@@ -795,3 +795,4 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Joshua C. Thurow <[*Joshua.Thurow@utsa.edu*](mailto:Joshua%2eThurow%40utsa%2eedu)>
+<!--md-padding-ignore-end-->

@@ -385,3 +385,4 @@ Weber（2005年）和Rosenberg（2006年）独立声称DNA包含一个在发育�
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
 Ken Waters
+<!--md-padding-ignore-end-->

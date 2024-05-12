@@ -491,3 +491,4 @@ Craver 和 Bechtel 认为真正的自上而下或向下的因果关系并不存�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Markus I. Eronen](http://markuseronen.com/) <[*markusilkka@gmail.com*](mailto:markusilkka%40gmail%2ecom)>  
 Daniel Stephen Brooks <[*daniel.stephen.brooks@gmail.com*](mailto:daniel%2estephen%2ebrooks%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

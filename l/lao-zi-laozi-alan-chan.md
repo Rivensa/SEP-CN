@@ -516,3 +516,4 @@ Transliteration of Chinese terms in this article follows the *hanyu pinyin* ro
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Alan Chan <[*alanchan@cuhk.edu.hk*](mailto:alanchan%40cuhk%2eedu%2ehk)>
+<!--md-padding-ignore-end-->

@@ -456,3 +456,4 @@ Uniform Commercial Code, 2003.
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Daniel Markovits <[*daniel.markovits@yale.edu*](mailto:daniel%2emarkovits%40yale%2eedu)>  
 [Emad Atiq](http://emadatiq.net/) <[*eatiq@cornell.edu*](mailto:eatiq%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

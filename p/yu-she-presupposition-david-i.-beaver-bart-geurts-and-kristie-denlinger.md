@@ -1177,3 +1177,4 @@ The authors would like to thank Leah Velleman for initially converting the artic
 [David I. Beaver](http://www.utexas.edu/cola/linguistics/faculty/profile.php?id=dib97) <[*dib@mail.utexas.edu*](mailto:dib%40mail%2eutexas%2eedu)>  
 [Bart Geurts](http://www.ru.nl/ncs/bart/) <[*brtgrts@gmail.com*](mailto:brtgrts%40gmail%2ecom)>  
 Kristie Denlinger <[*kdenlinger@utexas.edu*](mailto:kdenlinger%40utexas%2eedu)>
+<!--md-padding-ignore-end-->

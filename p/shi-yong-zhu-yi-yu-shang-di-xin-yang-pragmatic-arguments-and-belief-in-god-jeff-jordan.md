@@ -437,3 +437,4 @@ Kahane的论证大部分是通过比较存在上帝的可能世界（“有上�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Jeff Jordan <[*jjjordan@udel.edu*](mailto:jjjordan%40udel%2eedu)>
+<!--md-padding-ignore-end-->

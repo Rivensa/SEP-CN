@@ -416,3 +416,4 @@ For extensive further references on reflective equilibrium see the entry on [re
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Julian Lamont](https://hapi.uq.edu.au/profile/429/julian-lamont) <[*j.lamont@uq.edu.au*](mailto:j%2elamont%40uq%2eedu%2eau)>  
 Christi Favor <[*c.favor@uq.edu.au*](mailto:c%2efavor%40uq%2eedu%2eau)>
+<!--md-padding-ignore-end-->

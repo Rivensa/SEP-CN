@@ -394,3 +394,4 @@ Schier 的基本思想随后被 Dominic Lopes（1996）纳入了一种折衷的�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 John Hyman <[*john.hyman@queens.ox.ac.uk*](mailto:john%2ehyman%40queens%2eox%2eac%2euk)>  
 Katerina Bantinaki <[*bantinaki@fks.uoc.gr*](mailto:bantinaki%40fks%2euoc%2egr)>
+<!--md-padding-ignore-end-->

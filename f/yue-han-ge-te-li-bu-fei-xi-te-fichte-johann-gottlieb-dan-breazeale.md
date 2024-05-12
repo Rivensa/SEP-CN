@@ -302,3 +302,4 @@ See also the journal *Fichte-Studien*, Amsterdam and Atlanta: Editions Rodopi, 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Dan Breazeale](https://philosophy.as.uky.edu/users/breazeal)
+<!--md-padding-ignore-end-->

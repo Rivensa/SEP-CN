@@ -533,3 +533,4 @@ I am grateful to Thomas Pogge and to Greg Fried for their comments and encourage
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 Nir Eisikovits <[*nir.eisikovits@umb.edu*](mailto:nir%2eeisikovits%40umb%2eedu)>
+<!--md-padding-ignore-end-->

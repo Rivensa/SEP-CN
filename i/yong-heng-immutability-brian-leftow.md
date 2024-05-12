@@ -150,3 +150,4 @@ Edward Wierenga（1989年，175-90页）对（1）-（4）提出了两个回答�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Brian Leftow](https://www.philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/954-leftow-brian) <[*brian.leftow@rutgers.edu*](mailto:brian%2eleftow%40rutgers%2eedu)>
+<!--md-padding-ignore-end-->

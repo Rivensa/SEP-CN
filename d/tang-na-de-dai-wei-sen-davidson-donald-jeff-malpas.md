@@ -251,3 +251,4 @@ An extensive bibliography of primary and secondary material was compiled by Davi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jeff Malpas](https://jeffmalpas.com/) <[*Jeff.Malpas@utas.edu.au*](mailto:Jeff%2eMalpas%40utas%2eedu%2eau)>
+<!--md-padding-ignore-end-->

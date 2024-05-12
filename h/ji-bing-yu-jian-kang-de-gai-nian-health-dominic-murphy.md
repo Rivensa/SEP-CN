@@ -302,3 +302,4 @@ The editors would like to thank Patrick S. O’Donnell for bringing several typo
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Dominic Murphy <[*dominic.murphy@sydney.edu.au*](mailto:dominic%2emurphy%40sydney%2eedu%2eau)>
+<!--md-padding-ignore-end-->

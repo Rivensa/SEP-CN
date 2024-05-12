@@ -533,3 +533,4 @@ Some of the passages in this entry are borrowed from Klein 2008.
 
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by\
 Jürgen Klein
+<!--md-padding-ignore-end-->

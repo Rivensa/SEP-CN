@@ -427,3 +427,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Clyde Lee Miller <[*clyde.miller@stonybrook.edu*](mailto:clyde%2emiller%40stonybrook%2eedu)>
+<!--md-padding-ignore-end-->

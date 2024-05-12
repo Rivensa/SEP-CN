@@ -452,3 +452,4 @@ The update published on August 4, 2017 contains new Section 3, written by T. Par
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Axel Gosseries](https://uclouvain.be/fr/chercher/hoover/axel-gosseries.html)  
 [Tom Parr](https://warwick.ac.uk/fac/soc/pais/people/parr/) <[*t.parr@warwick.ac.uk*](mailto:t%2eparr%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

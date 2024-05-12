@@ -353,3 +353,4 @@ Gibbard 关注的是要表明这个弱伦理原则对健康政策有重要影响
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Norman Daniels](http://www.hsph.harvard.edu/faculty/norman-daniels/)
+<!--md-padding-ignore-end-->

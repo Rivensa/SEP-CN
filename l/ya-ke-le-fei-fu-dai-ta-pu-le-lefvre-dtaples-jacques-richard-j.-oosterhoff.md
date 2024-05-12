@@ -361,3 +361,4 @@ The author would like to thank Jill Kraye and Lodi Nauta, who offered especially
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Richard J. Oosterhoff <[*richard.oosterhoff@gmail.com*](mailto:richard%2eoosterhoff%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

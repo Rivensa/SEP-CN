@@ -315,3 +315,4 @@ Listed are the two most commonly available editions of the *Observations on Man
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Richard Allen <[*r.c.allen2@gmail.com*](mailto:r%2ec%2eallen2%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

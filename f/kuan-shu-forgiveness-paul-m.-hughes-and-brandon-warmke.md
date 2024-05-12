@@ -464,3 +464,4 @@ Kekes’ 论点依赖于至少两个关键假设。首先，它假定宽恕需�
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Paul M. Hughes  
 Brandon Warmke <[*bwarmke@bgsu.edu*](mailto:bwarmke%40bgsu%2eedu)>
+<!--md-padding-ignore-end-->

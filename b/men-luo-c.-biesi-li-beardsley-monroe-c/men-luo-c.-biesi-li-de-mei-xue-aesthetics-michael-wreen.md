@@ -697,3 +697,4 @@ Acknowledgement goes here.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Michael Wreen](http://www.marquette.edu/phil/faculty_wreen.shtml) <[*michael.wreen@marquette.edu*](mailto:michael%2ewreen%40marquette%2eedu)>
+<!--md-padding-ignore-end-->

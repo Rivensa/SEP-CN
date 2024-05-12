@@ -549,3 +549,4 @@ I wish to thank Carlos Eduardo Suprinyak for his feedback, and Zoe Zhiyu Luo and
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Margaret Schabas <[*margaret.schabas@ubc.ca*](mailto:margaret%2eschabas%40ubc%2eca)>
+<!--md-padding-ignore-end-->

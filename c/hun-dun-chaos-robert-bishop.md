@@ -652,3 +652,4 @@ Joseph Ford 提供了对应原理的不同解释：“任何两个在其有效�
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Robert Bishop](http://www.wheaton.edu/physics/faculty/bishop/bishop.html) <[*Robert.C.Bishop@wheaton.edu*](mailto:Robert%2eC%2eBishop%40wheaton%2eedu)>
+<!--md-padding-ignore-end-->

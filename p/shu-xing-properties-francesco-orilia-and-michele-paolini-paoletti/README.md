@@ -656,3 +656,4 @@ This work was supported by the Italian Ministry of Education, University and Res
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Francesco Orilia <[*orilia@unimc.it*](mailto:orilia%40unimc%2eit)>  
 [Michele Paolini Paoletti](http://michelepaolinipaoletti.academia.edu/) <[*michele.paolinip@gmail.com*](mailto:michele%2epaolinip%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

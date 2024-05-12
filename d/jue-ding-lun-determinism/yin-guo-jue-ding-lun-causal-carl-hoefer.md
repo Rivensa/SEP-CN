@@ -317,3 +317,4 @@ The author would like to acknowledge the invaluable help of John Norton in the p
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Carl Hoefer](https://www.icrea.cat/Web/ScientificStaff/Carl-Hoefer-175) <[*carl.hoefer@ub.edu*](mailto:carl%2ehoefer%40ub%2eedu)>
+<!--md-padding-ignore-end-->

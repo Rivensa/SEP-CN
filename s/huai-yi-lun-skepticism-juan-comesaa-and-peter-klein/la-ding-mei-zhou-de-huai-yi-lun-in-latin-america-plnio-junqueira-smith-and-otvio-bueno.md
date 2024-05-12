@@ -541,3 +541,4 @@ We are grateful to Fernando Bahr (Argentina), José Tomás Alvarado (Chile), Mau
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Plínio Junqueira Smith <[*plinio.smith@gmail.com*](mailto:plinio%2esmith%40gmail%2ecom)>  
 [Otávio Bueno](http://www.as.miami.edu/personal/obueno/Site/Otavio_Bueno.html) <[*otaviobueno@mac.com*](mailto:otaviobueno%40mac%2ecom)>
+<!--md-padding-ignore-end-->

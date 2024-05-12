@@ -356,3 +356,4 @@ I am indebted to Eric Pacuit and to an anonymous reviewer of the updated entry, 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Gabriella Pigozzi](http://www.pigozzi.org/) <[*gabriella.pigozzi@lamsade.dauphine.fr*](mailto:gabriella%2epigozzi%40lamsade%2edauphine%2efr)>
+<!--md-padding-ignore-end-->

@@ -233,3 +233,4 @@ For a complete bibliography of Strauss’s writings see the [Leo Strauss Center
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Leora Batnitzky <[*batnitzk@princeton.edu*](mailto:batnitzk%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

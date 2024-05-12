@@ -190,3 +190,4 @@ An extensive bibliography on reism (current to 1990) is to be found in Woleński
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Jan Woleński <[*jan.wolenski@uj.edu.pl*](mailto:jan%2ewolenski%40uj%2eedu%2epl)>
+<!--md-padding-ignore-end-->

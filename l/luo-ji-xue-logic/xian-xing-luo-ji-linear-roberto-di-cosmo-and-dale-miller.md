@@ -391,3 +391,4 @@ We thank an anonymous reviewer at the SEP for many comments that have helped us 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Roberto Di Cosmo](http://www.dicosmo.org/) <[*roberto@dicosmo.org*](mailto:roberto%40dicosmo%2eorg)>  
 [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/) <[*dale.miller@inria.fr*](mailto:dale%2emiller%40inria%2efr)>
+<!--md-padding-ignore-end-->

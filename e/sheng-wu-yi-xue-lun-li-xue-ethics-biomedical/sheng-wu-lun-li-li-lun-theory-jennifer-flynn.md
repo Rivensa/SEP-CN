@@ -299,3 +299,4 @@ Arras 提出的第二个批评涉及 Beauchamp 和 Childress 对广泛反思均�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jennifer Flynn](https://www.mun.ca/bioethics/faculty/jenniferflynn/) <[*jflynn@mun.ca*](mailto:jflynn%40mun%2eca)>
+<!--md-padding-ignore-end-->

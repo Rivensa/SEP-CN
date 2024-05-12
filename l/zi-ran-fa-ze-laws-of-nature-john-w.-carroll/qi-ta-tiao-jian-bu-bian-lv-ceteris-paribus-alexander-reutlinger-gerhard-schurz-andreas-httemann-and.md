@@ -779,3 +779,4 @@ We would like to thank Alexander Bird, Carl Craver, Matthias Hösch, Beate Krick
 Gerhard Schurz <[*gerhard.schurz@phil-fak.uni-duesseldorf.de*](mailto:gerhard%2eschurz%40phil-fak%2euni-duesseldorf%2ede)>\
 Andreas Hüttemann <[*ahuettem@uni-koeln.de*](mailto:ahuettem%40uni-koeln%2ede)>\
 Siegfried Jaag <[*siegfried.jaag@hhu.de*](mailto:siegfried%2ejaag%40hhu%2ede)>
+<!--md-padding-ignore-end-->

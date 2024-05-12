@@ -764,3 +764,4 @@ This entry has benefited greatly from the feedback and information we received f
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Diana Ines Perez](https://iif.conicet.gov.ar/researchers-en/researchers-conicet-en/diana-perez-en/) <[*dperez@gmail.com*](mailto:dperez%40gmail%2ecom)>  
 [Santiago Echeverri](https://www.secheverri.com/) <[*santiago.echeverri@filosoficas.unam.mx*](mailto:santiago%2eecheverri%40filosoficas%2eunam%2emx)>
+<!--md-padding-ignore-end-->

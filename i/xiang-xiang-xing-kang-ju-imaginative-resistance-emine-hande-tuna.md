@@ -332,3 +332,4 @@ Gendler (2008a, 2008b)声称，她提出的 alief 是一种天生的倾向，能
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Emine Hande Tuna <[*ehtuna@ucsc.edu*](mailto:ehtuna%40ucsc%2eedu)>
+<!--md-padding-ignore-end-->

@@ -487,3 +487,4 @@ This entry was prepared with the help of funds from the IST-2002-002114 Enactive
 [Roberto Casati](http://roberto.casati.free.fr/casati/roberto.htm) <[*casati@ehess.fr*](mailto:casati%40ehess%2efr)>  
 [Jerome Dokic](http://www.institutnicod.org/) <[*Jerome.Dokic@ehess.fr*](mailto:Jerome%2eDokic%40ehess%2efr)>  
 [Elvira Di Bona](https://www.dfe.unito.it/do/docenti.pl/Alias?elvira.dibona#tab-ricerca) <[*elvira.dibona@unito.it*](mailto:elvira%2edibona%40unito%2eit)>
+<!--md-padding-ignore-end-->

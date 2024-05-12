@@ -335,3 +335,4 @@ Cranz 和 Schmitt（1984）通过一系列印刷版本的文献记录了亚里�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 David Lines <[*D.A.Lines@warwick.ac.uk*](mailto:D%2eA%2eLines%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

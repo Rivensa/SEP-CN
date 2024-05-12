@@ -292,3 +292,4 @@ Hick 在形而上学或认识论的基础上为救赎多元主义辩护。然而
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 David Basinger <[*basingerd@roberts.edu*](mailto:basingerd%40roberts%2eedu)>
+<!--md-padding-ignore-end-->

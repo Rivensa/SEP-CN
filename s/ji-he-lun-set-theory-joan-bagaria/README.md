@@ -381,3 +381,4 @@ MA 有许多不同的等价表述，并且已经被非常成功地用于解决�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Joan Bagaria <[*joan.bagaria@icrea.cat*](mailto:joan%2ebagaria%40icrea%2ecat)>
+<!--md-padding-ignore-end-->

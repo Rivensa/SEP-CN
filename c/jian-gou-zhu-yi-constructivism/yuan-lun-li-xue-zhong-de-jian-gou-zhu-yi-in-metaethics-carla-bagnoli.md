@@ -531,3 +531,4 @@ I would like to thank Caroline Arruda, Robert Audi, Christine M. Korsgaard, Luca
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Carla Bagnoli <[*carla.bagnoli@unimore.it*](mailto:carla%2ebagnoli%40unimore%2eit)>
+<!--md-padding-ignore-end-->

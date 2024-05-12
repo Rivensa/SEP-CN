@@ -724,3 +724,4 @@ The texts contained in these anthologies are not listed here separately. (For a 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Bret W. Davis](https://www.loyola.edu/academics/philosophy/faculty/davis) <[*bwdavis@loyola.edu*](mailto:bwdavis%40loyola%2eedu)>
+<!--md-padding-ignore-end-->

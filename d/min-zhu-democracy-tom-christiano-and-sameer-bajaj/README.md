@@ -561,3 +561,4 @@ Riker 认为，该定理表明，在一个社会中，普遍意愿可以成为�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Tom Christiano](http://www.u.arizona.edu/~thomasc/) <[*thomasc@u.arizona.edu*](mailto:thomasc%40u%2earizona%2eedu)>  
 Sameer Bajaj <[*sameer.bajaj1@gmail.com*](mailto:sameer%2ebajaj1%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

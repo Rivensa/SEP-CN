@@ -267,3 +267,4 @@ Skinner 指责说，由于心理活动是一种行为形式（虽然是内在的
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [George Graham](https://philpeople.org/profiles/george-graham) <[*ggrhm@yahoo.com*](mailto:ggrhm%40yahoo%2ecom)>
+<!--md-padding-ignore-end-->

@@ -227,3 +227,4 @@ Thanks to Dr. Martine Lejeune of the Department for Applied Linguistics, College
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Gary Kemp](http://www.gla.ac.uk/schools/humanities/staff/garykemp/) <[*gary.kemp@glasgow.ac.uk*](mailto:gary%2ekemp%40glasgow%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -279,3 +279,4 @@ The authors wish to thank Trent Dougherty and Mark Linville for reading a draft 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [C. Stephen Evans](http://www.baylor.edu/philosophy/index.php?id=871791) <[*C_Stephen_Evans@baylor.edu*](mailto:C_Stephen_Evans%40baylor%2eedu)>  
 David Baggett <[*dbaggett@hbu.edu*](mailto:dbaggett%40hbu%2eedu)>
+<!--md-padding-ignore-end-->

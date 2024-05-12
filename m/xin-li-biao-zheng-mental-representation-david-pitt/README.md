@@ -406,3 +406,4 @@ Thanks to Brad Armour-Garb, Mark Balaguer, Dave Chalmers, Jim Garson, John Heil,
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 David Pitt <[*dalanpitt@gmail.com*](mailto:dalanpitt%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

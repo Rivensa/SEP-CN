@@ -211,3 +211,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Eva Del Soldato <[*evadel@sas.upenn.edu*](mailto:evadel%40sas%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

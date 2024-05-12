@@ -506,3 +506,4 @@ I am grateful to Ray Turner for advice and encouragement, and to Luca Paolini fo
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Felice Cardone](http://www.di.unito.it/~felice/) <[*felice.cardone@unito.it*](mailto:felice%2ecardone%40unito%2eit)>
+<!--md-padding-ignore-end-->

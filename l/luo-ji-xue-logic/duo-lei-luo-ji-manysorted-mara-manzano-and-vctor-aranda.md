@@ -943,3 +943,4 @@ Väänänen（2014: 181）将多类逻辑应用于《数学基础》。他提出
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 María Manzano <[*mara@usal.es*](mailto:mara%40usal%2ees)>  
 Víctor Aranda <[*vicarand@ucm.es*](mailto:vicarand%40ucm%2ees)>
+<!--md-padding-ignore-end-->

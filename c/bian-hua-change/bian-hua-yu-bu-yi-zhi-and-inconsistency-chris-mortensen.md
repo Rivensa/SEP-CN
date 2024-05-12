@@ -210,3 +210,4 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[*Chris.Mortensen@adelaide.edu.au*](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>
+<!--md-padding-ignore-end-->

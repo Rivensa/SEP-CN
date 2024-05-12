@@ -302,3 +302,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Frank Lovett](http://polisci.wustl.edu/Frank_Lovett) <[*flovett@wustl.edu*](mailto:flovett%40wustl%2eedu)>
+<!--md-padding-ignore-end-->

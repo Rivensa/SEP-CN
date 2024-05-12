@@ -341,3 +341,4 @@ The authors would like to thank Samara Casewell for assistance with the original
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Leslie Francis <[*francisl@law.utah.edu*](mailto:francisl%40law%2eutah%2eedu)>  
 Patricia Smith
+<!--md-padding-ignore-end-->

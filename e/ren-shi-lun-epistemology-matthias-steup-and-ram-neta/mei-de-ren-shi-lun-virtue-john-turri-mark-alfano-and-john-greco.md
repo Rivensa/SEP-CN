@@ -496,3 +496,4 @@ We are grateful to Adam Carter, Dennis Whitcomb, Miranda Fricker, and Jose Medin
 [John Turri](http://john.turri.org/) <[*john.turri@gmail.com*](mailto:john%2eturri%40gmail%2ecom)>  
 [Mark Alfano](http://www.tbm.tudelft.nl/en/about-faculty/departments/values-technology-and-innovation/sections/ethicsphilosophy-of-technology/staff/mark-alfano/) <[*mark.alfano@gmail.com*](mailto:mark%2ealfano%40gmail%2ecom)>  
 [John Greco](https://sites.google.com/georgetown.edu/johngreco)
+<!--md-padding-ignore-end-->

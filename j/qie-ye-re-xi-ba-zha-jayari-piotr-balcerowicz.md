@@ -223,3 +223,4 @@ Sukhlāljī Saṁghavī和 Rasiklāl C. Pārīkh（1940 年：xi-xii）认为该
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Piotr Balcerowicz <[*piotrbalcerowicz1@gmail.com*](mailto:piotrbalcerowicz1%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

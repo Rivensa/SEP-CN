@@ -581,3 +581,4 @@ Volker Halbach 和 Albert Visser（2014a，2014b）对算术中的自我指涉�
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Thomas Bolander](http://www.imm.dtu.dk/~tb) <[*tb@imm.dtu.dk*](mailto:tb%40imm%2edtu%2edk)>
+<!--md-padding-ignore-end-->

@@ -307,3 +307,4 @@ Carruthers（2006）的核心是对于模块性的三个论证：设计论证、
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Philip Robbins](http://philosophy.missouri.edu/index.php/people/15-/40-philip-robbins) <[*robbinsp@missouri.edu*](mailto:robbinsp%40missouri%2eedu)>
+<!--md-padding-ignore-end-->

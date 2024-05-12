@@ -210,3 +210,4 @@ All translations are my own.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Thomas Williams](https://www.profthomaswilliams.com/) <[*thomas.williams@georgetown.edu*](mailto:thomas%2ewilliams%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

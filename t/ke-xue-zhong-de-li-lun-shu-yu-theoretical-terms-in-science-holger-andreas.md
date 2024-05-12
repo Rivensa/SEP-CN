@@ -371,3 +371,4 @@ Lewis（1970）引入了一些修改，涉及 Carnap 句子的语言和解释，
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Holger Andreas](https://holgerandreas.wordpress.com/) <[*holger.andreas@ubc.ca*](mailto:holger%2eandreas%40ubc%2eca)>
+<!--md-padding-ignore-end-->

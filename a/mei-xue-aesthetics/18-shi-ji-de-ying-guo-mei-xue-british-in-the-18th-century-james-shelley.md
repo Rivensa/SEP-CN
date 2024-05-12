@@ -284,3 +284,4 @@ Just how material qualities come to be associated, and hence to signify, such qu
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[*shelljr@auburn.edu*](mailto:shelljr%40auburn%2eedu)>
+<!--md-padding-ignore-end-->

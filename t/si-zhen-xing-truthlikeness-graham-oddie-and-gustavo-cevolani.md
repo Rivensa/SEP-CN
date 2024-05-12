@@ -644,3 +644,4 @@ Wallace 和 Greaves（2005）断言加权二次测度“可以考虑到似真性
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Graham Oddie](http://spot.colorado.edu/~oddie/) <[*oddie@colorado.edu*](mailto:oddie%40colorado%2eedu)>  
 [Gustavo Cevolani](http://www.gustavocevolani.it/) <[*gustavo.cevolani@imtlucca.it*](mailto:gustavo%2ecevolani%40imtlucca%2eit)>
+<!--md-padding-ignore-end-->

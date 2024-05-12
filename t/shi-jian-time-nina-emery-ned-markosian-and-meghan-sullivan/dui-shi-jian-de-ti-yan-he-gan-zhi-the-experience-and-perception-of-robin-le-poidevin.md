@@ -211,3 +211,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Robin Le Poidevin](http://www.leeds.ac.uk/arts/profile/20048/198/robin_le_poidevin)
+<!--md-padding-ignore-end-->

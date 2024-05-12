@@ -263,3 +263,4 @@ The secondary literature on this topic is enormous. The following list is highly
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Stewart Candlish](http://members.iinet.net.au/\~stewartcandlish/)\
 [George Wrisley](http://www.georgewrisley.com/) <[*gwrisley3@gmail.com*](mailto:gwrisley3%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

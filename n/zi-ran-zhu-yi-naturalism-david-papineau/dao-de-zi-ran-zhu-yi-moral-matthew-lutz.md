@@ -505,3 +505,4 @@ Many thanks to Spencer Case, Steve Finlay, Nick Laskowski, Tristram McPherson, T
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Matthew Lutz <[*mattlutz326@gmail.com*](mailto:mattlutz326%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

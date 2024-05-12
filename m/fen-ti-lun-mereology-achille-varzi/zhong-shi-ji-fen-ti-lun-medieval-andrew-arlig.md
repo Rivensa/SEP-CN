@@ -423,3 +423,4 @@ Buridan 的解释似乎使他认为即使是微小且看似无关紧要的部分
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Andrew Arlig](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=641) <[*aarlig@brooklyn.cuny.edu*](mailto:aarlig%40brooklyn%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

@@ -690,3 +690,4 @@ Hills（1997 年，2008 年）和 Walton（2000 年）对沃尔顿的解释进�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 David Hills <[*dhills@stanford.edu*](mailto:dhills%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

@@ -1269,3 +1269,4 @@ There are now a large number of blogs by prominent economists. Though not predom
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Daniel M. Hausman](https://ifh.rutgers.edu/faculty\staff/daniel-m-hausman/) <[*dhausman@cplb.rutgers.edu*](mailto:dhausman%40cplb%2erutgers%2eedu)>
+<!--md-padding-ignore-end-->

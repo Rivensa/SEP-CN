@@ -430,3 +430,4 @@ McGinn（1996：8）声称：“身体感觉不像知觉经验那样具有意向
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Frédérique de Vignemont](http://fvignemont.googlepages.com/) <[*frederique.de.vignemont@ens.fr*](mailto:frederique%2ede%2evignemont%40ens%2efr)>
+<!--md-padding-ignore-end-->

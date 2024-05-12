@@ -295,3 +295,4 @@ Richard J. Arneson对于这种以心理联系为基础来解释特殊义务的�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Diane Jeske <[*diane-jeske@uiowa.edu*](mailto:diane-jeske%40uiowa%2eedu)>
+<!--md-padding-ignore-end-->

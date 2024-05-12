@@ -340,3 +340,4 @@ Alanen 的观点很巧妙，但对它的一个严重担忧是，笛卡尔似乎�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [David Cunning](http://myweb.uiowa.edu/cunni/) <[*david-cunning@uiowa.edu*](mailto:david-cunning%40uiowa%2eedu)>
+<!--md-padding-ignore-end-->

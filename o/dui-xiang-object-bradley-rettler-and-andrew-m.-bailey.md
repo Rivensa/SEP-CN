@@ -622,3 +622,4 @@ Thanks to Henry Laycock, author of the original SEP entry for ‘Object’; we l
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Bradley Rettler](https://bradleyrettler.wixsite.com/home) <[*rettlerb@gmail.com*](mailto:rettlerb%40gmail%2ecom)>  
 [Andrew M. Bailey](https://www.andrewmbailey.com/) <[*wrathius@gmail.com*](mailto:wrathius%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

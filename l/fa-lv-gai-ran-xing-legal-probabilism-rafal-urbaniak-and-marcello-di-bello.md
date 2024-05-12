@@ -1028,3 +1028,4 @@ For comments on an earlier version of this entry, many thanks to Ronald Allen, A
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Rafal Urbaniak](https://ugent.academia.edu/RafalUrbaniak) <[*rfl.urbaniak@gmail.com*](mailto:rfl%2eurbaniak%40gmail%2ecom)>  
 [Marcello Di Bello](http://www.marcellodibello.com/) <[*mdibello@asu.edu*](mailto:mdibello%40asu%2eedu)>
+<!--md-padding-ignore-end-->

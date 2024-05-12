@@ -541,3 +541,4 @@ For helpful comments or discussions, I am grateful to Paula Casal, Tom Christian
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Andrew Williams](https://www.icrea.cat/Web/ScientificStaff/Andrew-Williams-503) <[*andrew.williams@icrea.cat*](mailto:andrew%2ewilliams%40icrea%2ecat)>
+<!--md-padding-ignore-end-->

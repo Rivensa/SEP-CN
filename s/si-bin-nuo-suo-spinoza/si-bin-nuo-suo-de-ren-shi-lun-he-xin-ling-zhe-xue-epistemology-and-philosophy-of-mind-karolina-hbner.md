@@ -391,3 +391,4 @@ All references to Spinoza’s *Ethics* start with *E* and Part number, follo
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Karolina Hübner](http://karolinahubner.org/) <[*kh753@cornell.edu*](mailto:kh753%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

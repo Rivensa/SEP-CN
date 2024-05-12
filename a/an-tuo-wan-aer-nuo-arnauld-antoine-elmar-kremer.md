@@ -606,3 +606,4 @@ The author would like to thank Alfred J. Freddoso for his help with Section 6.2.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Elmar Kremer <[*elmar.kremer@utoronto.ca*](mailto:elmar%2ekremer%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

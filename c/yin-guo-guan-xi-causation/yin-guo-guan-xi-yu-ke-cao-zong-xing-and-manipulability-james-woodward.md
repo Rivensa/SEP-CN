@@ -326,3 +326,4 @@ YZ=aX+cZ=bX
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [James Woodward](https://www.hps.pitt.edu/people/james-woodward) <[*jfw@pitt.edu*](mailto:jfw%40pitt%2eedu)>
+<!--md-padding-ignore-end-->

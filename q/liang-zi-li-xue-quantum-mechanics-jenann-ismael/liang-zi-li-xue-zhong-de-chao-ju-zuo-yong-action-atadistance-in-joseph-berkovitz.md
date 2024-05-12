@@ -765,3 +765,4 @@ For comments on earlier versions of this entry, I am very grateful to Guido Bacc
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by\
 Joseph Berkovitz <[*jzberkovitz@yahoo.com*](mailto:jzberkovitz%40yahoo%2ecom)>
+<!--md-padding-ignore-end-->

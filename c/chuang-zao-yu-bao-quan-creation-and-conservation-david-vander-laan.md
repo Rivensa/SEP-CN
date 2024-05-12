@@ -196,3 +196,4 @@ Pavelich 暗示时间与连续创造之间的紧张关系甚至更深。根据�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 David Vander Laan <[*vanderla@westmont.edu*](mailto:vanderla%40westmont%2eedu)>
+<!--md-padding-ignore-end-->

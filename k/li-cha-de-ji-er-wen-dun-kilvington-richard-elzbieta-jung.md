@@ -337,3 +337,4 @@ List of Abbreviations
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Elzbieta Jung](http://filozof.uni.lodz.pl/staff/prof-dr-hab-elzbieta-jung/) <[*elzbieta.jung@uni.lodz.pl*](mailto:elzbieta%2ejung%40uni%2elodz%2epl)>
+<!--md-padding-ignore-end-->

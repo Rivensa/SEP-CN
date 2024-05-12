@@ -403,3 +403,4 @@ Thanks to David Billings, Rebecca Konyndyk DeYoung, Kevin Vallier, Paul Weithman
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Chris Eberle <[*eberle@usna.edu*](mailto:eberle%40usna%2eedu)>  
 [Terence Cuneo](http://www.uvm.edu/~phildept/?Page=Cuneo.php) <[*tcuneo@uvm.edu*](mailto:tcuneo%40uvm%2eedu)>
+<!--md-padding-ignore-end-->

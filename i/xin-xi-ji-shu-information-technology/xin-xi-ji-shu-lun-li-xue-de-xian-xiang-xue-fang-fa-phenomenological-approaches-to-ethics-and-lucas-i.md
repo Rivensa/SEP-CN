@@ -230,3 +230,4 @@ Coyne（1995年）在海德格尔的工作基础上，认为社区的亲近与�
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Lucas Introna <[*l.introna@lancaster.ac.uk*](mailto:l%2eintrona%40lancaster%2eac%2euk)>
+<!--md-padding-ignore-end-->

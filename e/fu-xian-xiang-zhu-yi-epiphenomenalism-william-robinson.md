@@ -289,3 +289,4 @@ Two extensive bibliographies are available on line under entries for epiphenomen
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 William Robinson <[*wsrob@iastate.edu*](mailto:wsrob%40iastate%2eedu)>
+<!--md-padding-ignore-end-->

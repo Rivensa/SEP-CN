@@ -284,3 +284,4 @@ Francis Kamm 几乎完全依赖于像这样的个体对比例子来探讨在分�
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Jerome Bickenbach <[*jerome.bickenbach@paraplegie.ch*](mailto:jerome%2ebickenbach%40paraplegie%2ech)>
+<!--md-padding-ignore-end-->

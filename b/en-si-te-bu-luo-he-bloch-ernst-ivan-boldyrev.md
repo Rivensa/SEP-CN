@@ -288,3 +288,4 @@ English translations and other primary sources cited in the text (here listed by
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Ivan Boldyrev <[*ivan.boldyrev@ru.nl*](mailto:ivan%2eboldyrev%40ru%2enl)>
+<!--md-padding-ignore-end-->

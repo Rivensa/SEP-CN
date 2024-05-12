@@ -393,3 +393,4 @@ Special thanks to Branden Fitelson, Alan Hájek, and an anonymous SEP referee fo
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Susan Vineberg <[*susan.vineberg@wayne.edu*](mailto:susan%2evineberg%40wayne%2eedu)>
+<!--md-padding-ignore-end-->

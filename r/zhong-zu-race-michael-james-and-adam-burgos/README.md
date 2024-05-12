@@ -325,3 +325,4 @@ Ladelle McWhorter 使用福柯的讲座来对更近期和地点的种族主义�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Michael James](https://www.bucknell.edu/fac-staff/michael-james) <[*mjames@bucknell.edu*](mailto:mjames%40bucknell%2eedu)>  
 [Adam Burgos](https://www.adamburgos.com/) <[*adam.burgos@bucknell.edu*](mailto:adam%2eburgos%40bucknell%2eedu)>
+<!--md-padding-ignore-end-->

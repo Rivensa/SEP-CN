@@ -278,3 +278,4 @@
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Mitchell Aboulafia <[*mitchell.aboulafia@manhattan.edu*](mailto:mitchell%2eaboulafia%40manhattan%2eedu)>  
 Scott Taylor <[*staylor2@njcu.edu*](mailto:staylor2%40njcu%2eedu)>
+<!--md-padding-ignore-end-->

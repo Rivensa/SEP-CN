@@ -550,3 +550,4 @@ We would like to thank Tim Bayne and Avery Kolers, the authors of the previous v
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Elizabeth Brake](https://elizabethbrake.com/) <[*elizabeth.brake@rice.edu*](mailto:elizabeth%2ebrake%40rice%2eedu)>  
 [Joseph Millum](https://www.josephmillum.com/) <[*jrm39@st-andrews.ac.uk*](mailto:jrm39%40st-andrews%2eac%2euk)>
+<!--md-padding-ignore-end-->

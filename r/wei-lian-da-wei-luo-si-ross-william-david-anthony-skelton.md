@@ -461,3 +461,4 @@ The author wishes to thank John Cooper, Thomas Hurka, David Phillips, and Robert
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Anthony Skelton](http://publish.uwo.ca/\~askelto4/) <[*askelto4@uwo.ca*](mailto:askelto4%40uwo%2eca)>
+<!--md-padding-ignore-end-->

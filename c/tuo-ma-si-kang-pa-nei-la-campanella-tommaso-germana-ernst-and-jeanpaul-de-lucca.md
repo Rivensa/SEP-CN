@@ -219,3 +219,4 @@ The author and principal editor would like to express their indebtedness to the 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Germana Ernst\
 Jean-Paul De Lucca <[*jean-paul.delucca@um.edu.mt*](mailto:jean-paul%2edelucca%40um%2eedu%2emt)>
+<!--md-padding-ignore-end-->

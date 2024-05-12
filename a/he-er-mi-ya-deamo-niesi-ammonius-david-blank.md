@@ -266,3 +266,4 @@ Sorabji 的猜测在学者中已经达成了一种共识（例如，Hadot 2015, 
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 David Blank <[*blank@ucla.edu*](mailto:blank%40ucla%2eedu)>
+<!--md-padding-ignore-end-->

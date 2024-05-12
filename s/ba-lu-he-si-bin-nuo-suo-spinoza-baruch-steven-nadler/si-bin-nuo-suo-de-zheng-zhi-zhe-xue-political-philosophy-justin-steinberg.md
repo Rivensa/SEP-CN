@@ -338,3 +338,4 @@ I wish to thank Michael Rosenthal, Steven B. Smith, and an anonymous reviewer fo
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Justin Steinberg <[*jsteinberg@brooklyn.cuny.edu*](mailto:jsteinberg%40brooklyn%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

@@ -771,3 +771,4 @@ I thank Graham Moore who has assisted me in the early stages of preparation of t
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Roberta Ballarin <[*rballari@mail.ubc.ca*](mailto:rballari%40mail%2eubc%2eca)>
+<!--md-padding-ignore-end-->

@@ -393,3 +393,4 @@ Rupert（2004）分享了类似的担忧，指出奥托和英嘉定位 MoMA 的�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Lawrence Shapiro <[*lshapiro@wisc.edu*](mailto:lshapiro%40wisc%2eedu)>\
 Shannon Spaulding <[*shannon.spaulding@okstate.edu*](mailto:shannon%2espaulding%40okstate%2eedu)>
+<!--md-padding-ignore-end-->

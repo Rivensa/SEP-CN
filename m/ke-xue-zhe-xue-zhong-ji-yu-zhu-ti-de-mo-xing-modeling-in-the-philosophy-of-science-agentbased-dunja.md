@@ -630,3 +630,4 @@ Many thanks to Wybo Houkes, Matteo Michelini, Samuli Reijula, Christian Straßer
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Dunja Šešelja](https://rub.academia.edu/DunjaSeselja) <[*dunja.seselja@ruhr-uni-bochum.de*](mailto:dunja%2eseselja%40ruhr-uni-bochum%2ede)>
+<!--md-padding-ignore-end-->

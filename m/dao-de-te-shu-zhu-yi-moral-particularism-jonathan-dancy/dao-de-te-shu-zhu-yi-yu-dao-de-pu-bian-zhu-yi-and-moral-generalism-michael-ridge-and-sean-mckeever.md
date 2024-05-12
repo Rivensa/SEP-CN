@@ -318,3 +318,4 @@ T.M. Scanlon的“我们彼此应该做什么”契约主义理论的修改版�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Michael Ridge](http://www.philosophy.ed.ac.uk/people/full-academic/michael-ridge.html)  
 [Sean McKeever](https://www.davidson.edu/academics/philosophy/faculty-and-staff/sean-mckeever)
+<!--md-padding-ignore-end-->

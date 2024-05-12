@@ -307,3 +307,4 @@ This entry was originally written by Mauro Zonta. After his untimely passing, th
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Mauro Zonta  
 [Charles Manekin](http://www.philosophy.umd.edu/people/faculty/manekin_charles/) <[*manekinc@umd.edu*](mailto:manekinc%40umd%2eedu)>
+<!--md-padding-ignore-end-->

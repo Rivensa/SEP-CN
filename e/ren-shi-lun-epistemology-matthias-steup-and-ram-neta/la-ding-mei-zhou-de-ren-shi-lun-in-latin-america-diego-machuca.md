@@ -292,3 +292,4 @@ For their comments, I am grateful to an anonymous reviewer, Otávio Bueno, and E
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Diego Machuca](https://sites.google.com/site/diegomachuca/home) <[*diegomachuca@gmail.com*](mailto:diegomachuca%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -449,3 +449,4 @@ I thank Paolo Mancosu and Richard Zach for helpful comments on an earlier versio
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Mario Gómez-Torrente](http://www.filosoficas.unam.mx/~mariogt/home-eng.html) <[*mariogt@unam.mx*](mailto:mariogt%40unam%2emx)>
+<!--md-padding-ignore-end-->

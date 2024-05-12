@@ -268,3 +268,4 @@ I would like to thank Riksbanken Jubileumsfond (Sweden) and the Knut and Alice W
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Ana María Mora-Márquez <[*ana.maria.mora.marquez@gu.se*](mailto:ana%2emaria%2emora%2emarquez%40gu%2ese)>
+<!--md-padding-ignore-end-->

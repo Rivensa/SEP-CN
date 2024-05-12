@@ -291,3 +291,4 @@ Kobi Peterzil 和 Sergei Starchenko 发展了一种 o-极小复分析理论。�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Wilfrid Hodges](http://wilfridhodges.co.uk/)\
 Thomas Scanlon <[*scanlon@math.berkeley.edu*](mailto:scanlon%40math%2eberkeley%2eedu)>
+<!--md-padding-ignore-end-->

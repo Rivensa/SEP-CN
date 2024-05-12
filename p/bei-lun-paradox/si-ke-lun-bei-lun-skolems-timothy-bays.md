@@ -326,3 +326,4 @@ Button（2011）认为，尽管这种技术批评对于明确引用下降的 Lö
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
 [Timothy Bays](http://www.nd.edu/\~tbays) <[*timothy.bays.5@nd.edu*](mailto:timothy%2ebays%2e5%40nd%2eedu)>
+<!--md-padding-ignore-end-->

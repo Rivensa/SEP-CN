@@ -319,3 +319,4 @@ Meillassoux 得出结论，就在于它将绝对（曾被形而上学所宣称�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Richard Amesbury](https://isearch.asu.edu/profile/3496841) <[*richard.amesbury@asu.edu*](mailto:richard%2eamesbury%40asu%2eedu)>
+<!--md-padding-ignore-end-->

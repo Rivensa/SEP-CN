@@ -339,3 +339,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jon McGinnis](https://www.umsl.edu/~philo/People/Faculty/index.html) <[*mcginnis@umsl.edu*](mailto:mcginnis%40umsl%2eedu)>
+<!--md-padding-ignore-end-->

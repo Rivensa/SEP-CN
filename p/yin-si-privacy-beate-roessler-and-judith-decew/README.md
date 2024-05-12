@@ -771,3 +771,4 @@ Sharon demonstrates that
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Beate Roessler](https://www.uva.nl/profiel/r/o/b.roessler/b.roessler.html) <[*b.roessler@uva.nl*](mailto:b%2eroessler%40uva%2enl)>  
 [Judith DeCew](http://www.clarku.edu/departments/philosophy/facultybio.cfm?id=396) <[*JDeCew@clarku.edu*](mailto:JDeCew%40clarku%2eedu)>
+<!--md-padding-ignore-end-->

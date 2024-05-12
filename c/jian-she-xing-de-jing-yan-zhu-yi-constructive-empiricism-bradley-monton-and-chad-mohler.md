@@ -447,3 +447,4 @@ Rowbottom 在这里当然是在描述理论的接受。然而，只要一个理�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Bradley Monton <[*bradley.monton@colorado.edu*](mailto:bradley%2emonton%40colorado%2eedu)>  
 Chad Mohler <[*chmohler@truman.edu*](mailto:chmohler%40truman%2eedu)>
+<!--md-padding-ignore-end-->

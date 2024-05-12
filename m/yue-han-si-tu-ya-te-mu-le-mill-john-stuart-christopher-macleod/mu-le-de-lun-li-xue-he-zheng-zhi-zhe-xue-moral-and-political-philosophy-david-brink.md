@@ -956,3 +956,4 @@ I would like to thank the Academic Senate of the University of California, San D
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [David Brink](http://davidobrink.com/) <[*dbrink@ucsd.edu*](mailto:dbrink%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

@@ -253,3 +253,4 @@ A fuller bibliography can be found in Feigl 1981.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Matthias Neuber <[*matthias.neuber@uni-tuebingen.de*](mailto:matthias%2eneuber%40uni-tuebingen%2ede)>
+<!--md-padding-ignore-end-->

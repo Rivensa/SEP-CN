@@ -433,3 +433,4 @@ The author would like to thank Margaret DeWeese-Boyd, Douglas Young, and the edi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Ian Deweese-Boyd](http://www.gordon.edu/page.cfm?iPageID=974&iCategoryID=99&Philosophy&Dr._DeWeese-Boyd) <[*ian.deweese-boyd@gordon.edu*](mailto:ian%2edeweese-boyd%40gordon%2eedu)>
+<!--md-padding-ignore-end-->

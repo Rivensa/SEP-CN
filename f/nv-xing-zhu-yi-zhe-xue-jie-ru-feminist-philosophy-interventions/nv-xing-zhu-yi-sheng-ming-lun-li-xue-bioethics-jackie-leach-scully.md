@@ -398,3 +398,4 @@ Jackie Leach Scully would like to extend gratitude and remembrance to Anne Donch
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Jackie Leach Scully <[*jackie.leach.scully@unsw.edu.au*](mailto:jackie%2eleach%2escully%40unsw%2eedu%2eau)>
+<!--md-padding-ignore-end-->

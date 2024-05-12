@@ -723,3 +723,4 @@ A number of scholars supported this work by providing comments on drafts or expe
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Thomas Mulligan](http://www.thomasmulligan.net/) <[*thomas.mulligan@georgetown.edu*](mailto:thomas%2emulligan%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

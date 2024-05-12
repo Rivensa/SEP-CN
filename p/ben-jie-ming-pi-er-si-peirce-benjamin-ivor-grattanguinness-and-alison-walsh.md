@@ -95,3 +95,4 @@ This list includes some valuable items not cited in the text.
 [Copyright © 2008](https://plato.stanford.edu/info.html#c) by  
 Ivor Grattan-Guinness  
 Alison Walsh
+<!--md-padding-ignore-end-->

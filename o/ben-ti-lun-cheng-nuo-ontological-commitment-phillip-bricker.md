@@ -562,3 +562,4 @@ Hirsch 的现实主义与 Carnap 的反现实主义形成鲜明对比。对于 C
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
 [Phillip Bricker](https://www.umass.edu/philosophy/faculty/faculty-pages/bricker.htm) <[*bricker@philos.umass.edu*](mailto:bricker%40philos%2eumass%2eedu)>
+<!--md-padding-ignore-end-->

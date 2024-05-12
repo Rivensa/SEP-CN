@@ -503,3 +503,4 @@ Boltzmann, Ludwig | [Mach, Ernst](https://plato.stanford.edu/entries/ernst-mac
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Jos Uffink](http://www.philosophy.umn.edu/people/FacultyProfile.php?UID=jbuffink) <[*jbuffink@umn.edu*](mailto:jbuffink%40umn%2eedu)>
+<!--md-padding-ignore-end-->

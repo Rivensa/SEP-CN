@@ -347,3 +347,4 @@ Theorists are to use those assumptions as calculating tools without committing t
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Nora Mills Boyd](https://facultyweb.siena.edu/~nboyd/) <[*nboyd@siena.edu*](mailto:nboyd%40siena%2eedu)>  
 James Bogen
+<!--md-padding-ignore-end-->

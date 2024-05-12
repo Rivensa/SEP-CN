@@ -678,3 +678,4 @@ Thanks to Saul Kripke, Nuel Belnap, Jørgen Albretsen, Torben Braüner, Alex Mal
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Peter Øhrstrøm](http://personprofil.aau.dk/107079?lang=en) <[*poe@id.aau.dk*](mailto:poe%40id%2eaau%2edk)>  
 [Per Hasle](http://iva.ku.dk/english/employees/?pure=en/persons/166016) <[*per.hasle@hum.ku.dk*](mailto:per%2ehasle%40hum%2eku%2edk)>
+<!--md-padding-ignore-end-->

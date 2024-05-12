@@ -279,3 +279,4 @@ Hutton (2006), Sarkissian (2010) 和 Slingerland (2011) 基于儒家道德心理
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [David Wong](http://fds.duke.edu/db/aas/Philosophy/faculty/dbwong) <[*dbwong@duke.edu*](mailto:dbwong%40duke%2eedu)>
+<!--md-padding-ignore-end-->

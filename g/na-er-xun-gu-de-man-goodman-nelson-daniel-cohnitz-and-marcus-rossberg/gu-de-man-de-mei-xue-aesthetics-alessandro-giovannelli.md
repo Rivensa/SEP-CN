@@ -501,3 +501,4 @@ Also, there are 3 supplementary documents in the Summer 2015 archived version of
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 [Alessandro Giovannelli](http://sites.lafayette.edu/giovannelli/) <[*giovannelli@lafayette.edu*](mailto:giovannelli%40lafayette%2eedu)>
+<!--md-padding-ignore-end-->

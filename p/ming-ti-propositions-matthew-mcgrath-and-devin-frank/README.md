@@ -489,3 +489,4 @@ Thanks to Berit Brogaard, Marian David, Shane Duarte, Anthony Everett, Thomas Ho
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Matthew McGrath](https://sites.wustl.edu/matthewmcgrath/) <[*matthew.m@wustl.edu*](mailto:matthew%2em%40wustl%2eedu)>  
 Devin Frank <[*dwfrank@eiu.edu*](mailto:dwfrank%40eiu%2eedu)>
+<!--md-padding-ignore-end-->

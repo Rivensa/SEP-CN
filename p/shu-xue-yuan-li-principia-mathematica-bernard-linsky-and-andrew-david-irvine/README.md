@@ -1101,3 +1101,4 @@ Thanks are due to Kenneth Blackwell, Fred Kroon, Jim Robinson and several anonym
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Bernard Linsky](https://www.ualberta.ca/arts/about/people-collection/bernard-linsky) <[*bernard.linsky@ualberta.ca*](mailto:bernard%2elinsky%40ualberta%2eca)>  
 [Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html)
+<!--md-padding-ignore-end-->

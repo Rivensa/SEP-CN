@@ -702,3 +702,4 @@ The author would like to thank Eric Quackenbush for his invaluable mathematical 
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 Alan Kim
+<!--md-padding-ignore-end-->

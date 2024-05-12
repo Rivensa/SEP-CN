@@ -389,3 +389,4 @@ More comprehensive bibliographies of Green’s published and unpublished writing
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [David Brink](http://davidobrink.com/) <[*dbrink@ucsd.edu*](mailto:dbrink%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

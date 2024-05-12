@@ -325,3 +325,4 @@ It should be noted that the quotations from texts in Baur 1912 and Dales 1963a a
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Neil Lewis
+<!--md-padding-ignore-end-->

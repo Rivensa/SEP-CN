@@ -147,3 +147,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Christine Sypnowich](http://www.queensu.ca/philosophy/people/faculty/sypnowich-christine) <[*christine.sypnowich@queensu.ca*](mailto:christine%2esypnowich%40queensu%2eca)>
+<!--md-padding-ignore-end-->

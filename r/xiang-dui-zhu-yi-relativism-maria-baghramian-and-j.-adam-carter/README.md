@@ -886,3 +886,4 @@ We would like to thank Paul Boghossian, Annalisa Coliva, Steven Hales, Max Kölb
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Maria Baghramian <[*maria.baghramian@ucd.ie*](mailto:maria%2ebaghramian%40ucd%2eie)>  
 [J. Adam Carter](https://www.gla.ac.uk/schools/humanities/staff/jadamcarter/) <[*jadamcarter@gmail.com*](mailto:jadamcarter%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

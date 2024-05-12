@@ -324,3 +324,4 @@
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Linda Radzik <[*lradzik@philosophy.tamu.edu*](mailto:lradzik%40philosophy%2etamu%2eedu)>  
 [Colleen Murphy](http://faculty.las.illinois.edu/colleenm/) <[*colleenm@illinois.edu*](mailto:colleenm%40illinois%2eedu)>
+<!--md-padding-ignore-end-->

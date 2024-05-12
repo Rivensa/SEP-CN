@@ -556,3 +556,4 @@ We would like to thank Johan van Benthem, Joe Halpern, Jan Heylen, Jan-Willem Ro
 [Lorenz Demey](https://sites.google.com/site/lorenzdemey/)  
 [Barteld Kooi](https://www.rug.nl/staff/b.p.kooi/)  
 [Joshua Sack](http://www.joshuasack.info/) <[*joshua.sack@gmail.com*](mailto:joshua%2esack%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -400,3 +400,4 @@ Many thanks to Colin Allen and Kristin Andrews for helpful comments on previous 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Marta Halina](https://www.hps.cam.ac.uk/directory/halina) <[*mh801@cam.ac.uk*](mailto:mh801%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

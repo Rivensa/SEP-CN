@@ -357,3 +357,4 @@ I wish to thank the editors of The Stanford Encyclopedia of Philosophy, the anon
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Kasper Lippert-Rasmussen](http://pure.au.dk/portal/da/lippert@ps.au.dk) <[*lippert@ps.au.dk*](mailto:lippert%40ps%2eau%2edk)>
+<!--md-padding-ignore-end-->

@@ -810,3 +810,4 @@ It is my honor to offer this replacement for the previous SEP entry on Poulain w
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Martina Reuter](https://www.jyu.fi/hytk/fi/laitokset/yfi/en/staff/reuter-martina) <[*anna.m.reuter@jyu.fi*](mailto:anna%2em%2ereuter%40jyu%2efi)>
+<!--md-padding-ignore-end-->

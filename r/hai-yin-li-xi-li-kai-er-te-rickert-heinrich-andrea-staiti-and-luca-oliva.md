@@ -300,3 +300,4 @@ The main entry above is by Andrea Staiti. For the 2022 update, a [supplement on
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Andrea Staiti <[*andrea.staiti@bc.edu*](mailto:andrea%2estaiti%40bc%2eedu)>  
 Luca Oliva <[*loliva@uh.edu*](mailto:loliva%40uh%2eedu)>
+<!--md-padding-ignore-end-->

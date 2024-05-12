@@ -470,3 +470,4 @@ Davidson 的其他辩护者（参见 Macdonalds 1986）对这个问题的回应�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Steven Yalowitz <[*yalowitz@umbc.edu*](mailto:yalowitz%40umbc%2eedu)>
+<!--md-padding-ignore-end-->

@@ -178,3 +178,4 @@ Bayle 的《评注》是对归因于奥古斯丁（尤其是他对比喻“强�
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Rainer Forst <[*forst@em.uni-frankfurt.de*](mailto:forst%40em%2euni-frankfurt%2ede)>
+<!--md-padding-ignore-end-->

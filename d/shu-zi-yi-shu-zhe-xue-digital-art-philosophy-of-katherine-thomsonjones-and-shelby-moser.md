@@ -281,3 +281,4 @@ To articulate the above more clearly, Dominic Preston says,
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Katherine Thomson-Jones](http://oberlin.edu/faculty/kthomson) <[*Katherine.Thomson-Jones@oberlin.edu*](mailto:Katherine%2eThomson-Jones%40oberlin%2eedu)>  
 Shelby Moser <[*shelby.moser@gmail.com*](mailto:shelby%2emoser%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

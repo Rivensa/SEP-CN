@@ -464,3 +464,4 @@ Jack 想要一件羊毛衫
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Graeme Forbes](http://www.colorado.edu/philosophy/people/graeme-forbes) <[*graeme.forbes@colorado.edu*](mailto:graeme%2eforbes%40colorado%2eedu)>
+<!--md-padding-ignore-end-->

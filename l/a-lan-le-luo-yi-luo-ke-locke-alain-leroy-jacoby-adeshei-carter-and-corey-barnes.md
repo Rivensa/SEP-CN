@@ -433,3 +433,4 @@ Beyond this 阿兰·勒罗伊·洛克 thinks it a meaningful query to ask whethe
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Jacoby Adeshei Carter <[*jacoby.carter@howard.edu*](mailto:jacoby%2ecarter%40howard%2eedu)>  
 Corey Barnes <[*coreybarnes@sandiego.edu*](mailto:coreybarnes%40sandiego%2eedu)>
+<!--md-padding-ignore-end-->

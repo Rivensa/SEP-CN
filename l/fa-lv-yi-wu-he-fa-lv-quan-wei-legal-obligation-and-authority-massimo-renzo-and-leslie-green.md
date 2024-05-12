@@ -402,3 +402,4 @@ Rawls 理论的基础在于必要性，如果我们探索一个公正的机构�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Massimo Renzo <[*massimo.renzo@kcl.ac.uk*](mailto:massimo%2erenzo%40kcl%2eac%2euk)>\
 [Leslie Green](http://www.competition-law.ox.ac.uk/members/profile.phtml?lecturer\code=leslie.green)
+<!--md-padding-ignore-end-->

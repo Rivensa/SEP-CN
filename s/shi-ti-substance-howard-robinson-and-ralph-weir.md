@@ -557,3 +557,4 @@ The editors would like to thank Sally Ferguson for carefully reading this entry 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Howard Robinson](http://philosophy.ceu.edu/people/howard-robinson) <[*robinson@ceu.hu*](mailto:robinson%40ceu%2ehu)>  
 [Ralph Weir](https://staff.lincoln.ac.uk/3f39e531-23d9-4094-a70f-4267413df1b8) <[*rweir@lincoln.ac.uk*](mailto:rweir%40lincoln%2eac%2euk)>
+<!--md-padding-ignore-end-->

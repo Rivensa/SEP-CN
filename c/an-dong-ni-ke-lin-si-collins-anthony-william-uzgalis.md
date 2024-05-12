@@ -670,3 +670,4 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [William Uzgalis](http://oregonstate.edu/cla/philosophy/uzgalis) <[*buzgalis@gmail.com*](mailto:buzgalis%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -409,3 +409,4 @@ A comprehensive list of critical editions of Olivi’s works has been published 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Robert Pasnau](http://spot.colorado.edu/~pasnau/) <[*pasnau@colorado.edu*](mailto:pasnau%40colorado%2eedu)>  
 Juhana Toivanen <[*juhana.toivanen@jyu.fi*](mailto:juhana%2etoivanen%40jyu%2efi)>
+<!--md-padding-ignore-end-->

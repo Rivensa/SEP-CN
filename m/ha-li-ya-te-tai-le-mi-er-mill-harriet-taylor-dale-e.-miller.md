@@ -219,3 +219,4 @@ The author gratefully acknowledge the assistance that I have received from Matth
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Dale E. Miller](http://www.drdaleemiller.net/) <[*demiller@odu.edu*](mailto:demiller%40odu%2eedu)>
+<!--md-padding-ignore-end-->

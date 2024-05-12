@@ -648,3 +648,4 @@ The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Lawrence Pasternack\
 Courtney Fugate <[*courtney.fugate@gmail.com*](mailto:courtney%2efugate%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

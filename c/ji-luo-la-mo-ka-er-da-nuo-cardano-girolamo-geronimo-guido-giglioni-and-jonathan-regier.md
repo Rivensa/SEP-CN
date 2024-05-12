@@ -214,3 +214,4 @@ Additional bibliographic information about studies on Cardano can be found in Sc
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Guido Giglioni <[*guidomaria.giglioni@unimc.it*](mailto:guidomaria%2egiglioni%40unimc%2eit)>\
 [Jonathan Regier](https://www.unive.it/data/persone/24160259/pubblicazioni) <[*jonathan.regier@unive.it*](mailto:jonathan%2eregier%40unive%2eit)>
+<!--md-padding-ignore-end-->

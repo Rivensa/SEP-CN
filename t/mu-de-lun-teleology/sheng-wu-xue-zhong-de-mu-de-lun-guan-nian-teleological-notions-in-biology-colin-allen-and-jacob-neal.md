@@ -221,3 +221,4 @@ The authors would like to thank Jim Lennox and Justin Garson for helpful comment
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Colin Allen](https://colinallen.dnsalias.org/) <[*colinallen@ucsb.edu*](mailto:colinallen%40ucsb%2eedu)>  
 [Jacob Neal](http://www.jacobpneal.com/) <[*jpn17@pitt.edu*](mailto:jpn17%40pitt%2eedu)>
+<!--md-padding-ignore-end-->

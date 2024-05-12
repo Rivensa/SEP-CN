@@ -424,3 +424,4 @@ I owe a debt to Frederick Beiser, who sent a box of books on Neo-Kantianism (two
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Nadeem J. Z. Hussain](https://philosophy.stanford.edu/people/nadeem-jz-hussain)  
 [Lydia Patton](http://www.phil.vt.edu/lpatton/lpatton.html) <[*critique@vt.edu*](mailto:critique%40vt%2eedu)>
+<!--md-padding-ignore-end-->

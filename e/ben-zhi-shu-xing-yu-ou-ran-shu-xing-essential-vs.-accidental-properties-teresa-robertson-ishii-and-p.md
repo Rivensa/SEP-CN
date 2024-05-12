@@ -307,3 +307,4 @@ The authors would like to thank to Nathan Wildman, Peter Montecuollo, Clark Sext
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Teresa Robertson Ishii <[*trobertson@philosophy.ucsb.edu*](mailto:trobertson%40philosophy%2eucsb%2eedu)>  
 Philip Atkins <[*philip.atkins@temple.edu*](mailto:philip%2eatkins%40temple%2eedu)>
+<!--md-padding-ignore-end-->

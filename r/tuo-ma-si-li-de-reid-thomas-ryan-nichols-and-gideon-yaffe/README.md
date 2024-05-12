@@ -654,3 +654,4 @@ Other works by Reid include:
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Ryan Nichols](http://philosophy.fullerton.edu/people/profile/ryan_nichols.aspx)  
 Gideon Yaffe
+<!--md-padding-ignore-end-->

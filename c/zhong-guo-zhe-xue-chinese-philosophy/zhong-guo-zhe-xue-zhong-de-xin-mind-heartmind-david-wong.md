@@ -454,3 +454,4 @@ Great thanks go to Chad Hansen for extensively editing this entry.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [David Wong](http://fds.duke.edu/db/aas/Philosophy/faculty/dbwong) <[*dbwong@duke.edu*](mailto:dbwong%40duke%2eedu)>
+<!--md-padding-ignore-end-->

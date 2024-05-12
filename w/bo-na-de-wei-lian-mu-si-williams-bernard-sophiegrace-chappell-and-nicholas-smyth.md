@@ -306,3 +306,4 @@ Thanks for their help to Daniel Calcutt, Christopher Coope, Roger Crisp, Wojdjec
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Sophie-Grace Chappell](http://www.open.ac.uk/people/tc2973)  
 Nicholas Smyth <[*nick.a.smyth@gmail.com*](mailto:nick%2ea%2esmyth%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

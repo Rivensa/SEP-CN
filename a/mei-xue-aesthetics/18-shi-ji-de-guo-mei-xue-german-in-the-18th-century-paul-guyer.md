@@ -1024,3 +1024,4 @@ Work on this entry was facilitated by a Laurance S. Rockefeller Visiting Fellows
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Paul Guyer](http://www.brown.edu/academics/philosophy/paul-guyer) <[*paul_guyer@brown.edu*](mailto:paul_guyer%40brown%2eedu)>
+<!--md-padding-ignore-end-->

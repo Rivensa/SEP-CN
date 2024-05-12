@@ -321,3 +321,4 @@ The abbreviations used for references to, or quotations of, A.W. Schlegel are in
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 Katia D. Hay <[*katia\_hay@yahoo.fr*](mailto:katia\_hay%40yahoo%2efr)>
+<!--md-padding-ignore-end-->

@@ -544,3 +544,4 @@ A different line of argument (Horgan 1984; Loar 1990; Lycan 1990; Hill 1997, Hil
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Janet Levin](http://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003452) <[*levin@usc.edu*](mailto:levin%40usc%2eedu)>
+<!--md-padding-ignore-end-->

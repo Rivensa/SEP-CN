@@ -452,3 +452,4 @@ The author wishes to acknowledge the valuable comments on this version of the ar
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Phillip Sloan](http://pls.nd.edu/faculty/phillip-sloan/) <[*sloan.1@nd.edu*](mailto:sloan%2e1%40nd%2eedu)>
+<!--md-padding-ignore-end-->

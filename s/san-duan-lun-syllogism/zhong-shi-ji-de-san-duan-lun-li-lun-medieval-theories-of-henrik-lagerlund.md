@@ -885,3 +885,4 @@ Campsall 认为这些术语表示事物现在的实际情况。如果句子 "A �
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Henrik Lagerlund](https://www.su.se/english/profiles/hlage-1.313716) <[*henrik.lagerlund@philosophy.su.se*](mailto:henrik%2elagerlund%40philosophy%2esu%2ese)>
+<!--md-padding-ignore-end-->

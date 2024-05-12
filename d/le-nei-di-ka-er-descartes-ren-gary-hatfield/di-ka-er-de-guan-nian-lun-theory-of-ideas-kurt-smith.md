@@ -250,3 +250,4 @@ I thank Alan Nelson for helpful comments on earlier drafts of this entry, and I 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Kurt Smith <[*smithkurtsmith@gmail.com*](mailto:smithkurtsmith%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

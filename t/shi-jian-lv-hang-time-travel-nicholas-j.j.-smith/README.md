@@ -300,3 +300,4 @@ Sider (2005)回应说，将现在论与刘易斯的时间旅行概念相调和�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Nicholas J.J. Smith](http://phi.njjsmith.com/) <[*nicholas.smith@sydney.edu.au*](mailto:nicholas%2esmith%40sydney%2eedu%2eau)>
+<!--md-padding-ignore-end-->

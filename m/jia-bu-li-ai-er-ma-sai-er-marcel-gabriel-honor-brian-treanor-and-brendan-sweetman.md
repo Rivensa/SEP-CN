@@ -304,3 +304,4 @@ Marcel was a very prolific writer, whose work ranges over philosophy, drama, cri
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Brian Treanor](http://faculty.lmu.edu/briantreanor/)\
 [Brendan Sweetman](http://www.rockhurst.edu/directory/faculty/brendan-sweetman/) <[*brendan.sweetman@rockhurst.edu*](mailto:brendan%2esweetman%40rockhurst%2eedu)>
+<!--md-padding-ignore-end-->

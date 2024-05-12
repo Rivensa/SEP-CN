@@ -312,3 +312,4 @@ This list comprises the bibliographical entries for the works by Lukács that ar
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Titus Stahl](http://www.titus-stahl.de/) <[*titus.stahl@rug.nl*](mailto:titus%2estahl%40rug%2enl)>
+<!--md-padding-ignore-end-->

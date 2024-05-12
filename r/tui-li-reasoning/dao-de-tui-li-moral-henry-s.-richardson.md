@@ -314,3 +314,4 @@ The author is grateful for help received from Gopal Sreenivasan and the students
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Henry S. Richardson](http://explore.georgetown.edu/people/richardh/?action=viewgeneral) <[*richardh@georgetown.edu*](mailto:richardh%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

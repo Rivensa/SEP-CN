@@ -118,3 +118,4 @@ Rynasiewicz（2012）提出了对约定性的有力辩护。他认为他的方�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Allen Janis](https://www.physicsandastronomy.pitt.edu/people/allen-i-janis)
+<!--md-padding-ignore-end-->

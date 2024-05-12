@@ -645,3 +645,4 @@ Since 2018, Ronny Desmet has taken over responsibility for updating and maintain
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Ronald Desmet <[*ronny-desmet@skynet.be*](mailto:ronny-desmet%40skynet%2ebe)>  
 [Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html)
+<!--md-padding-ignore-end-->

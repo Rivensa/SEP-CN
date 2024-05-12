@@ -523,3 +523,4 @@ I am grateful to Fabrizio Cariani, Kosta Došen, Solomon Feferman, Mario Gómez-
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [John MacFarlane](http://johnmacfarlane.net/) <[*jgm@berkeley.edu*](mailto:jgm%40berkeley%2eedu)>
+<!--md-padding-ignore-end-->

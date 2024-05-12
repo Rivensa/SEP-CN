@@ -513,3 +513,4 @@ Nietzsche’s works are cited as follows, unless otherwise noted: roman numerals
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Brian Leiter](http://brianleiter.net/) <[*bleiter@uchicago.edu*](mailto:bleiter%40uchicago%2eedu)>
+<!--md-padding-ignore-end-->

@@ -540,3 +540,4 @@ The majority of secondary literature on Chatton is in English, Italian, and Fren
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Rondo Keele](https://my.nsula.edu/my/mobile/faculty/facprofile.php?fid=keeler)\
 [Jenny Pelletier](https://hiw.kuleuven.be/dwmc/people/00054349) <[*jenny.pelletier@kuleuven.be*](mailto:jenny%2epelletier%40kuleuven%2ebe)>
+<!--md-padding-ignore-end-->

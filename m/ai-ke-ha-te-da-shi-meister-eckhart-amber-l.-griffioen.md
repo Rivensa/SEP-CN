@@ -444,3 +444,4 @@ TP
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Amber L. Griffioen <[*amber.griffs@gmail.com*](mailto:amber%2egriffs%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

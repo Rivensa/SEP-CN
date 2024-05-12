@@ -203,3 +203,4 @@ The author thanks Jennifer McRobert for sharing some of her research on Shepherd
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Martha Bolton <[*mbolton@rci.rutgers.edu*](mailto:mbolton%40rci%2erutgers%2eedu)>
+<!--md-padding-ignore-end-->

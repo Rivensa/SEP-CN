@@ -519,3 +519,4 @@ Harman和Street提出了对道德属性的解释挑战，这可以与对数学�
 [Paolo Mancosu](http://philosophy.berkeley.edu/mancosu/) <[*mancosu@socrates.Berkeley.EDU*](mailto:mancosu%40socrates%2eBerkeley%2eEDU)>  
 Francesca Poggiolesi <[*poggiolesi@gmail.com*](mailto:poggiolesi%40gmail%2ecom)>  
 [Christopher Pincock](https://wescholars.org/) <[*pincock.1@osu.edu*](mailto:pincock%2e1%40osu%2eedu)>
+<!--md-padding-ignore-end-->

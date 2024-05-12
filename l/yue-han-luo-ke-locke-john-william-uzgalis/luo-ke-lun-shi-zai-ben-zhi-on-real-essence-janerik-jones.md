@@ -369,3 +369,4 @@ P. Kyle Stanford（1998）则提出，实在本质和名义本质之间的类比
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Jan-Erik Jones <[*je.jones@svu.edu*](mailto:je%2ejones%40svu%2eedu)>
+<!--md-padding-ignore-end-->

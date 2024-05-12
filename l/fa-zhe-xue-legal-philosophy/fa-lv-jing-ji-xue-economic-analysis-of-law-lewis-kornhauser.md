@@ -619,3 +619,4 @@ Research for this entry was supported by the Filomen d’Agostino and Max E. Gre
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Lewis Kornhauser <[*lewis.kornhauser@nyu.edu*](mailto:lewis%2ekornhauser%40nyu%2eedu)>
+<!--md-padding-ignore-end-->

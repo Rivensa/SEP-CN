@@ -634,3 +634,4 @@ Equity feminists recommend strategies for success for women in education and emp
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Amy R. Baehr](https://www.hofstra.edu/faculty/fac_profiles.cfm?id=60) <[*amy.baehr@hofstra.edu*](mailto:amy%2ebaehr%40hofstra%2eedu)>
+<!--md-padding-ignore-end-->

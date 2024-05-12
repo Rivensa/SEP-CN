@@ -332,3 +332,4 @@ The authors would like to thank Scott Ritner and Catherine Fullarton for their g
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 A. Rebecca Rozelle-Stone <[*adrian.rozelle@und.edu*](mailto:adrian%2erozelle%40und%2eedu)>  
 [Benjamin P. Davis](https://benjaminpdavis.com/about/) <[*ben.davis@utoronto.ca*](mailto:ben%2edavis%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

@@ -939,3 +939,4 @@ Some passages in this entry first appeared in W. Sieg, *Hilbert’s Programs and
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Michael Rathjen](http://www1.maths.leeds.ac.uk/\~rathjen/rathjen.html) <[*rathjen@maths.leeds.ac.uk*](mailto:rathjen%40maths%2eleeds%2eac%2euk)>\
 Wilfried Sieg <[*sieg@cmu.edu*](mailto:sieg%40cmu%2eedu)>
+<!--md-padding-ignore-end-->

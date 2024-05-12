@@ -251,3 +251,4 @@ Kuhn 对于科学理论不可通约的观念的另一个重要来源是格式塔
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Eric Oberheim <[*eric.oberheim@gmail.com*](mailto:eric%2eoberheim%40gmail%2ecom)>  
 [Paul Hoyningen-Huene](http://www.philos.uni-hannover.de/hoyningen.html) <[*hoyningen@ww.uni-hannover.de*](mailto:hoyningen%40ww%2euni-hannover%2ede)>
+<!--md-padding-ignore-end-->

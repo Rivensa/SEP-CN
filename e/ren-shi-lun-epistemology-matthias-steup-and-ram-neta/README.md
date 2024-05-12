@@ -875,3 +875,4 @@ The abbreviations CDE-1 and CDE-2 refer to Steup & Sosa 2005 and Steup, Turri, &
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Matthias Steup <[*matthias.steup@colorado.edu*](mailto:matthias%2esteup%40colorado%2eedu)>  
 Ram Neta <[*neta@email.unc.edu*](mailto:neta%40email%2eunc%2eedu)>
+<!--md-padding-ignore-end-->

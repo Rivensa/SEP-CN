@@ -417,3 +417,4 @@ Tang（2016）反对校准方法，理由是即使一个信念形成过程对相
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Alvin Goldman](http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=102&Itemid=210)  
 [Bob Beddor](http://www.bobbeddor.com/) <[*rbeddor@gmail.com*](mailto:rbeddor%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

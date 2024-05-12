@@ -250,3 +250,4 @@ The secondary literature on Hobbes’s moral and political philosophy (not to sp
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Sharon A. Lloyd](http://weblaw.usc.edu/contact/contactInfo.cfm?detailID=231) <[*lloyd@usc.edu*](mailto:lloyd%40usc%2eedu)>  
 Susanne Sreedhar <[*sreedhar@bu.edu*](mailto:sreedhar%40bu%2eedu)>
+<!--md-padding-ignore-end-->

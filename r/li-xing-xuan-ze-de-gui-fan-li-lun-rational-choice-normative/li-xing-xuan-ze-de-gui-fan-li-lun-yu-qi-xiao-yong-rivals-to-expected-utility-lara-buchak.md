@@ -594,3 +594,4 @@ REU 的表示定理结合了两个现有定理的条件（Machina＆Schmeidler 1
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Lara Buchak <[*lbuchak@princeton.edu*](mailto:lbuchak%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

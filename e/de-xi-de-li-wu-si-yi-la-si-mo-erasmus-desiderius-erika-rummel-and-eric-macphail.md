@@ -293,3 +293,4 @@ Texts not (or not yet) included in these editions:
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Erika Rummel\
 Eric MacPhail <[*macphai@indiana.edu*](mailto:macphai%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

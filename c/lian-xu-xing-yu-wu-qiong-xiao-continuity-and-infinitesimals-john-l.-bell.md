@@ -804,3 +804,4 @@ For a comprehensive account of the evolution of the concepts of continuity and t
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [John L. Bell](http://publish.uwo.ca/~jbell/)
+<!--md-padding-ignore-end-->

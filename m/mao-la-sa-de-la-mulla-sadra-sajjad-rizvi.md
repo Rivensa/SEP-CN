@@ -480,3 +480,4 @@ There are a few other critical editions:
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Sajjad Rizvi](https://socialsciences.exeter.ac.uk/iais/staff/rizvi/) <[*s.h.rizvi@exeter.ac.uk*](mailto:s%2eh%2erizvi%40exeter%2eac%2euk)>
+<!--md-padding-ignore-end-->

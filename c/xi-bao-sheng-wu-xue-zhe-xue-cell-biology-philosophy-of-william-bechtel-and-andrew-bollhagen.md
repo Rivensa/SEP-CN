@@ -432,3 +432,4 @@ We are most grateful for the helpful comments provided on earlier drafts of this
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 William Bechtel <[*bechtel@ucsd.edu*](mailto:bechtel%40ucsd%2eedu)>\
 Andrew Bollhagen <[*abollhag@ucsd.edu*](mailto:abollhag%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

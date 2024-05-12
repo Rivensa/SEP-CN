@@ -342,3 +342,4 @@ For excellent comments, thanks are due to Jennifer Hawkins, as well as Dan Brock
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Nir Eyal](https://globalhealth.rutgers.edu/directory/nir-eyal/) <[*nir.eyal@rutgers.edu*](mailto:nir%2eeyal%40rutgers%2eedu)>
+<!--md-padding-ignore-end-->

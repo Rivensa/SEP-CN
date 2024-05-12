@@ -575,3 +575,4 @@ Many thanks to Ludwig Fahrbach, Stavros Ioannidis, Moti Mizrahi, Nathan Oseroff,
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Stathis Psillos](http://users.uoa.gr/~psillos/) <[*psillos@phs.uoa.gr*](mailto:psillos%40phs%2euoa%2egr)>
+<!--md-padding-ignore-end-->

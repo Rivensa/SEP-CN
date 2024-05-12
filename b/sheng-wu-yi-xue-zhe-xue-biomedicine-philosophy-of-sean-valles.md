@@ -353,3 +353,4 @@ I am indebted to Robyn Bluhm and Maya Goldenberg for their helpful comments on a
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Sean Valles](http://seanvalles.com/) <[*valles@msu.edu*](mailto:valles%40msu%2eedu)>
+<!--md-padding-ignore-end-->

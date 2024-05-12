@@ -226,3 +226,4 @@
 
 [Copyright © 2009](https://plato.stanford.edu/info.html#c) by  
 Hendrik Lorenz <[*hlorenz@princeton.edu*](mailto:hlorenz%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

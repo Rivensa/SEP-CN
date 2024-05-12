@@ -315,3 +315,4 @@ A special word of thanks to Scott Shapiro for his very helpful comments on an ea
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Wil Waluchow](http://www.humanities.mcmaster.ca/~walucho/) <[*walucho@mcmaster.ca*](mailto:walucho%40mcmaster%2eca)>  
 [Dimitrios Kyritsis](https://www.essex.ac.uk/people/kyrit96800/dimitrios-kyritsis) <[*d.kyritsis@essex.ac.uk*](mailto:d%2ekyritsis%40essex%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -327,3 +327,4 @@ Lambda 的阐述之后，接下来的三章讨论了第一原理的守护（πρ
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Cecilia Martini Bonadeo <[*cecilia.martini@unipd.it*](mailto:cecilia%2emartini%40unipd%2eit)>
+<!--md-padding-ignore-end-->

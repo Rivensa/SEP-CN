@@ -592,3 +592,4 @@ Parts of the work on this article have been supported by the European Commission
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Vincent C. Müller](http://www.sophia.de/) <[*vincent.c.mueller@fau.de*](mailto:vincent%2ec%2emueller%40fau%2ede)>
+<!--md-padding-ignore-end-->

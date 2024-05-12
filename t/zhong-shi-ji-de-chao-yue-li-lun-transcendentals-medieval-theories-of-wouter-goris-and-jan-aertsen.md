@@ -189,3 +189,4 @@ Nicolas Bonetus 将形式主义学说置于新的、系统阐述的形而上学�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Wouter Goris <[*wgoris@uni-bonn.de*](mailto:wgoris%40uni-bonn%2ede)>  
 Jan Aertsen
+<!--md-padding-ignore-end-->

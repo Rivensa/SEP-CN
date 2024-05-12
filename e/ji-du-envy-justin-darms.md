@@ -157,3 +157,4 @@ Alternatively, envy can be held to present the difference in possession between 
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Justin D’Arms](https://philosophy.osu.edu/people/darms.1) <[*darms.1@osu.edu*](mailto:darms%2e1%40osu%2eedu)>
+<!--md-padding-ignore-end-->

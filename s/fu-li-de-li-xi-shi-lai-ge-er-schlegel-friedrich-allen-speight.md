@@ -188,3 +188,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Allen Speight <[*casp8@bu.edu*](mailto:casp8%40bu%2eedu)>
+<!--md-padding-ignore-end-->

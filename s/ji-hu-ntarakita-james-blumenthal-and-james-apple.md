@@ -174,3 +174,4 @@ The point that Śāntarakṣita is attempting to make here is that no phenomena,
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [James Blumenthal](http://oregonstate.edu/cla/philosophy/blumenthal)  
 James Apple <[*jbapple@ucalgary.ca*](mailto:jbapple%40ucalgary%2eca)>
+<!--md-padding-ignore-end-->

@@ -383,3 +383,4 @@ For helpful discussions and comments, Nien-hê Hsieh would like to thank Rahul K
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Nien-hê Hsieh](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=24284)  
 Henrik Andersson <[*Henrik.Andersson@fil.lu.se*](mailto:Henrik%2eAndersson%40fil%2elu%2ese)>
+<!--md-padding-ignore-end-->

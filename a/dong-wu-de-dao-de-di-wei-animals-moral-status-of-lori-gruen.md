@@ -271,3 +271,4 @@
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Lori Gruen <[*lgruen@wesleyan.edu*](mailto:lgruen%40wesleyan%2eedu)>
+<!--md-padding-ignore-end-->

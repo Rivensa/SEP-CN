@@ -319,3 +319,4 @@ Colyvan（2006）建议我们应该在帕萨迪纳游戏上坚持下去，并承
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Martin Peterson](http://www.martinpeterson.org/) <[*martinpeterson@tamu.edu*](mailto:martinpeterson%40tamu%2eedu)>
+<!--md-padding-ignore-end-->

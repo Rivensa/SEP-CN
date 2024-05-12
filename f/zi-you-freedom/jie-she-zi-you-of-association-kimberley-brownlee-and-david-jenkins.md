@@ -309,3 +309,4 @@ For helpful feedback, we thank Sarah Fine, Christoph Hoerl, Adam Neal, David Woo
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Kimberley Brownlee](https://philosophy.ubc.ca/profile/kimberley-brownlee/) <[*kimberley.brownlee@ubc.ca*](mailto:kimberley%2ebrownlee%40ubc%2eca)>  
 [David Jenkins](https://www.otago.ac.nz/politics/staff/otago738581.html) <[*david.jenkins@otago.ac.nz*](mailto:david%2ejenkins%40otago%2eac%2enz)>
+<!--md-padding-ignore-end-->

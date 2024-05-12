@@ -500,3 +500,4 @@ IdU(A,B)→MA→MB
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Thierry Coquand](http://www.cs.chalmers.se/~coquand) <[*coquand@chalmers.se*](mailto:coquand%40chalmers%2ese)>
+<!--md-padding-ignore-end-->

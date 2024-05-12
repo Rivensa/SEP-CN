@@ -1068,3 +1068,4 @@ We are grateful to Liam Kofi Bright and a very gracious anonymous reviewer for t
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Konstantin Genin](https://kgenin.github.io/) <[*konstantin.genin@gmail.com*](mailto:konstantin%2egenin%40gmail%2ecom)>\
 [Franz Huber](https://philosophy.utoronto.ca/directory/franz-huber/)
+<!--md-padding-ignore-end-->

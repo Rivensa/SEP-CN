@@ -306,3 +306,4 @@ Ransdell（1977 年，169 页）将即时对象描述为“我们在任何时候
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Albert Atkin](https://researchers.mq.edu.au/en/persons/albert-atkin) <[*albert.atkin@mq.edu.au*](mailto:albert%2eatkin%40mq%2eedu%2eau)>
+<!--md-padding-ignore-end-->

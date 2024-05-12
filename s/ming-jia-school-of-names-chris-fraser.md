@@ -416,3 +416,4 @@ Hansen（1983, 1992）提出了一个有趣的解释《白马论》哲学意义�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Chris Fraser](http://www.cjfraser.net/) <[*cjfraser@gmail.com*](mailto:cjfraser%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

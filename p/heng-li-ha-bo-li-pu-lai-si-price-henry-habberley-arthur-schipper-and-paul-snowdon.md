@@ -674,3 +674,4 @@ The original draft of this entry was written by Paul Snowdon. After he passed aw
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Arthur Schipper <[*schipper.philosophy@gmail.com*](mailto:schipper%2ephilosophy%40gmail%2ecom)>  
 Paul Snowdon
+<!--md-padding-ignore-end-->

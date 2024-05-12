@@ -556,3 +556,4 @@ Kaplan 关于真指示词的理论允许类似于(26)的句子在某些情境下
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [David Braun](http://www.buffalo.edu/~dbraun2/) <[*dbraun2@buffalo.edu*](mailto:dbraun2%40buffalo%2eedu)>
+<!--md-padding-ignore-end-->

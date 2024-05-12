@@ -131,3 +131,4 @@ For a complete list of Kelsen’s publications that have appeared in English see
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Andrei Marmor <[*am2773@cornell.edu*](mailto:am2773%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

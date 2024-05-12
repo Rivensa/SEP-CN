@@ -464,3 +464,4 @@ Our thanks to Monica Burnett, Ryan Darr, Hugh Gauch, Chad McIntosh, Alejandro Na
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Andrew Chignell](https://chignell.net/) <[*chignell@princeton.edu*](mailto:chignell%40princeton%2eedu)>\
 [Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[*dp346@cornell.edu*](mailto:dp346%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

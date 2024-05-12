@@ -320,3 +320,4 @@ Many thanks to Beverly Guy-Sheftall, Vivan M. May, Joycelyn Moody, Shirley Moody
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Kathryn Sophia Belle](https://www.kathrynsophiabelle.com/) <[*kathryn@kathrynbelle.com*](mailto:kathryn%40kathrynbelle%2ecom)>
+<!--md-padding-ignore-end-->

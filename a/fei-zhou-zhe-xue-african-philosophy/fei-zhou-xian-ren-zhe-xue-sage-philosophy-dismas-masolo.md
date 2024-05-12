@@ -145,3 +145,4 @@ African Philosophy: ethnophilosophy
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Dismas Masolo](http://www.louisville.edu/a-s/philosophy/) <[*da.masolo@louisville.edu*](mailto:da%2emasolo%40louisville%2eedu)>
+<!--md-padding-ignore-end-->

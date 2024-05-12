@@ -247,3 +247,4 @@ Altman 和 Wellman 可能会回应说，他们的国家可行性条款确实考�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Allen Buchanan](http://fds.duke.edu/db/aas/Philosophy/faculty/allen.buchanan) <[*allen.buchanan@duke.edu*](mailto:allen%2ebuchanan%40duke%2eedu)>  
 Elizabeth Levinson <[*elevinson@email.arizona.edu*](mailto:elevinson%40email%2earizona%2eedu)>
+<!--md-padding-ignore-end-->

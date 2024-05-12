@@ -263,3 +263,4 @@
 
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by  
 Alfred Ivry
+<!--md-padding-ignore-end-->

@@ -305,3 +305,4 @@ S. O. was partially supported by NIH R01 DA015789–01, NIA P01–AG0225000–01
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by  
 [Steven Hecht Orzack](http://www.freshpond.org/)  
 [Patrick Forber](http://as.tufts.edu/philosophy/people/faculty/forber) <[*patrick.forber@tufts.edu*](mailto:patrick%2eforber%40tufts%2eedu)>
+<!--md-padding-ignore-end-->

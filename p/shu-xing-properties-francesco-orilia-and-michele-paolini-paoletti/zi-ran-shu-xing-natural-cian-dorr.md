@@ -550,3 +550,4 @@ Thanks to the editors and to Jeremy Goodman, John Hawthorne, Marko Malink, Jessi
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Cian Dorr](http://www.nyu.edu/projects/dorr/) <[*cian.dorr@nyu.edu*](mailto:cian%2edorr%40nyu%2eedu)>
+<!--md-padding-ignore-end-->

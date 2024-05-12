@@ -138,3 +138,4 @@ The editors would like to thank Kai Wehmeier for his efforts as an external refe
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Volker Peckhaus <[*volker.peckhaus@upb.de*](mailto:volker%2epeckhaus%40upb%2ede)>
+<!--md-padding-ignore-end-->

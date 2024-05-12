@@ -443,3 +443,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Tze-Ki Hon](https://www.geneseo.edu/history/hon) <[*hon@geneseo.edu*](mailto:hon%40geneseo%2eedu)>
+<!--md-padding-ignore-end-->

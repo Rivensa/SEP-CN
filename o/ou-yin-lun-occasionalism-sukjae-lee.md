@@ -355,3 +355,4 @@ Géraud de Cordemoy的作品似乎直接影响了Malebranche，正如Malebranche
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Sukjae Lee <[*leesukjae@snu.ac.kr*](mailto:leesukjae%40snu%2eac%2ekr)>
+<!--md-padding-ignore-end-->

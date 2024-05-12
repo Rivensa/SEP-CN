@@ -474,3 +474,4 @@ Adrienne Davis 认为废奴主义运动取得了更多政治胜利，因为这�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Laurie Shrage <[*lshrage@fiu.edu*](mailto:lshrage%40fiu%2eedu)>
+<!--md-padding-ignore-end-->

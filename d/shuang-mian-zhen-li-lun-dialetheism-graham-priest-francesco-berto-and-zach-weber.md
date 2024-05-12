@@ -494,3 +494,4 @@ The authors would like to thank Jc Beall, Max Carrara, David Ripley, Koji Tanaka
 Graham Priest  
 [Francesco Berto](http://www.st-andrews.ac.uk/philosophy/people/fb96) <[*fb96@st-andrews.ac.uk*](mailto:fb96%40st-andrews%2eac%2euk)>  
 [Zach Weber](https://sites.google.com/site/doctorzachweber/home) <[*zach.weber@otago.ac.nz*](mailto:zach%2eweber%40otago%2eac%2enz)>
+<!--md-padding-ignore-end-->

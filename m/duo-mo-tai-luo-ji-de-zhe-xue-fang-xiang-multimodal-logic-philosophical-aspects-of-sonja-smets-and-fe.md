@@ -778,3 +778,4 @@ K(φ→ψ)→[ψ!](Kψ→⟨φ⇑⟩Bφ,
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Sonja Smets <[*S.J.L.Smets@uva.nl*](mailto:S%2eJ%2eL%2eSmets%40uva%2enl)>  
 [Fernando Velázquez-Quesada](https://www.uib.no/en/persons/Fernando.Raymundo.Velazquez.Quesada) <[*fernando.velazquezquesada@uib.no*](mailto:fernando%2evelazquezquesada%40uib%2eno)>
+<!--md-padding-ignore-end-->

@@ -248,3 +248,4 @@ Lukasiewicz 的问题的答案被传统地称为统一原则，而对 Anscombe �
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Thomas Ainsworth <[*thomasrossainsworth@gmail.com*](mailto:thomasrossainsworth%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

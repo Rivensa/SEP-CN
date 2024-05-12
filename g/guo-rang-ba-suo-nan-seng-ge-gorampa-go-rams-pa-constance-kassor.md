@@ -182,3 +182,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Constance Kassor](http://constancekassor.net/) <[*constance.e.kassor@lawrence.edu*](mailto:constance%2ee%2ekassor%40lawrence%2eedu)>
+<!--md-padding-ignore-end-->

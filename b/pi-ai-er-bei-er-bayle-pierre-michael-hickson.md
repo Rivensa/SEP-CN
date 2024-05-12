@@ -370,3 +370,4 @@ A bibliography of all Bayle’s primary literature and most secondary literature
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Michael Hickson](http://www.trentu.ca/philosophy/faculty_hickson.php) <[*michaelhickson@trentu.ca*](mailto:michaelhickson%40trentu%2eca)>
+<!--md-padding-ignore-end-->

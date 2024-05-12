@@ -525,3 +525,4 @@ Many thanks to John Norton for his helpful suggestions and editing during the pr
 
 [Copyright © 2009](https://plato.stanford.edu/info.html#c) by\
 [Owen Maroney](https://www.philosophy.ox.ac.uk/people/owen-maroney) <[*owen.maroney@philosophy.ox.ac.uk*](mailto:owen%2emaroney%40philosophy%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

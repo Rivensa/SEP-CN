@@ -220,3 +220,4 @@ J.L. Teicher 认为以色列·艾萨克不是这部作品的作者（Teicher, 19
 Leonard Levin\
 R. David Walker\
 Shalom Sadik <[*navitshalom@hotmail.com*](mailto:navitshalom%40hotmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -330,3 +330,4 @@ Thanks to Michael Bratman, Luca Ferrero, and Niko Kolodny for valuable comments 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Kieran Setiya](http://www.ksetiya.net/) <[*ksetiya@mit.edu*](mailto:ksetiya%40mit%2eedu)>
+<!--md-padding-ignore-end-->

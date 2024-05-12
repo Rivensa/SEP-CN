@@ -276,3 +276,4 @@ Badhwar 在这里提到了 Railton 的一个案例，在这种情况下，根据
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Bennett Helm](https://bwhelm.github.io/) <[*bennett.helm@fandm.edu*](mailto:bennett%2ehelm%40fandm%2eedu)>
+<!--md-padding-ignore-end-->

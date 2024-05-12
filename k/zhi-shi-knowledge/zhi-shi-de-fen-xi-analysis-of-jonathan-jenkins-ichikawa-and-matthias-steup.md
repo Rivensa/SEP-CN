@@ -486,3 +486,4 @@ For the 2012 revision, we are grateful to Kurt Sylvan for extremely detailed and
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Jonathan Jenkins Ichikawa](http://jichikawa.net/) <[*ichikawa@gmail.com*](mailto:ichikawa%40gmail%2ecom)>  
 Matthias Steup
+<!--md-padding-ignore-end-->

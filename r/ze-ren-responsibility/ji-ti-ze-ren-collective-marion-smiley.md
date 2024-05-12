@@ -586,3 +586,4 @@ The editors would like to thank Robert von Hallberg for notifying us about a var
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Marion Smiley](http://www.brandeis.edu/facguide/faculty?emplid=4ab3773a9ab171db92deaac0a260ef163f3d724f) <[*smiley@brandeis.edu*](mailto:smiley%40brandeis%2eedu)>
+<!--md-padding-ignore-end-->

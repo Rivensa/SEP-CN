@@ -713,3 +713,4 @@ The following provided helpful feedback or conversation, or both, Jácome Armas,
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Rasmus Grønfeldt Winther](http://www.rgwinther.com/) <[*rgwinther@gmail.com*](mailto:rgwinther%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

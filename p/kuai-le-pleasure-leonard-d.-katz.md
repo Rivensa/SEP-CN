@@ -609,3 +609,4 @@ I am grateful to Ned Block, David Chalmers, and Daniel Stoljar for their suggest
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Leonard D. Katz](https://philpeople.org/profiles/leonard-david-katz) <[*ldkatz86@gmail.com*](mailto:ldkatz86%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

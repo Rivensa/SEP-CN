@@ -281,3 +281,4 @@ Thanks to Sungwoo Um, Irene McMullin, and Mark Timmons for helpful comments.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Nicolas Bommarito](https://www.nicbommarito.com/philosophy) <[*nic.bommarito@gmail.com*](mailto:nic%2ebommarito%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

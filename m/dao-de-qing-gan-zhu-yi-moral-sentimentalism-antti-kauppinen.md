@@ -604,3 +604,4 @@ I want to thank Aino Lahdenranta, Lilian O’Brien, Michael Ridge, Ninni Suni, V
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Antti Kauppinen <[*a.kauppinen@gmail.com*](mailto:a%2ekauppinen%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

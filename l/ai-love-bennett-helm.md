@@ -375,3 +375,4 @@ Whiting（1991）采取了一种稍有不同的方法。针对关于爱的对象
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Bennett Helm](https://bwhelm.github.io/) <[*bennett.helm@fandm.edu*](mailto:bennett%2ehelm%40fandm%2eedu)>
+<!--md-padding-ignore-end-->

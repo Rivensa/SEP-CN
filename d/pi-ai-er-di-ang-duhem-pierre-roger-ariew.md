@@ -267,3 +267,4 @@ Duhem often first published his main works, such as *Les théories électriques
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Roger Ariew](http://philosophy.usf.edu/faculty/rariew/) <[*rariew@usf.edu*](mailto:rariew%40usf%2eedu)>
+<!--md-padding-ignore-end-->

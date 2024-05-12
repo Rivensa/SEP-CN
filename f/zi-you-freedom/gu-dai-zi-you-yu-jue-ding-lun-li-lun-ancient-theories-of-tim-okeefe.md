@@ -347,3 +347,4 @@ I’d like to thank Anne Farrell and the SEP’s reviewer for their helpful comm
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Tim O’Keefe](http://tokeefe.gsucreate.org/) <[*tokeefe@gsu.edu*](mailto:tokeefe%40gsu%2eedu)>
+<!--md-padding-ignore-end-->

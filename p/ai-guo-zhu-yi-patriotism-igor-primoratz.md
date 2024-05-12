@@ -302,3 +302,4 @@ Thanks to Simon Keller, Stephen Nathanson, and Thomas Pogge for helpful comments
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Igor Primoratz <[*igorprim@gmail.com*](mailto:igorprim%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

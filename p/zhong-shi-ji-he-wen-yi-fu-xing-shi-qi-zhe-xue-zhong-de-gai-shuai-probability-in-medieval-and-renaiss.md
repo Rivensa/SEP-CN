@@ -337,3 +337,4 @@ I would like to thank Jill Kraye and Robert Pasnau for comments and helpful sugg
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Rudolf Schuessler <[*rudolf.schuessler@uni-bayreuth.de*](mailto:rudolf%2eschuessler%40uni-bayreuth%2ede)>
+<!--md-padding-ignore-end-->

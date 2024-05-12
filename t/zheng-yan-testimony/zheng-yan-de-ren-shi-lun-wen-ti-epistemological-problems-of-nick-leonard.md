@@ -674,3 +674,4 @@ I am grateful to Jennifer Lackey and Sandy Goldberg for some *very* helpful fe
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Nick Leonard <[*nleonard@usfca.edu*](mailto:nleonard%40usfca%2eedu)>
+<!--md-padding-ignore-end-->

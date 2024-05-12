@@ -712,3 +712,4 @@ We have here focused on books: articles are only referenced if referred to in th
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 John Lippitt <[*john.lippitt@nd.edu.au*](mailto:john%2elippitt%40nd%2eedu%2eau)>  
 [C. Stephen Evans](http://www.baylor.edu/philosophy/index.php?id=871791) <[*C_Stephen_Evans@baylor.edu*](mailto:C_Stephen_Evans%40baylor%2eedu)>
+<!--md-padding-ignore-end-->

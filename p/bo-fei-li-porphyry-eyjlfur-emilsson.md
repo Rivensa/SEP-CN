@@ -189,3 +189,4 @@ Porphyry’s works can now be found in an electronic version in the original Gre
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Eyjólfur Emilsson](http://www.hf.uio.no/ifikk/personer/vit/emilsson/index.html)
+<!--md-padding-ignore-end-->

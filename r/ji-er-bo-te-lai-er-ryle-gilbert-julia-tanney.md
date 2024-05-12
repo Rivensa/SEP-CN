@@ -434,3 +434,4 @@ This article uses material from my *Re-thinking Ryle*, in progress; “Une Cart
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Julia Tanney](https://independent.academia.edu/JuliaTanney/CurriculumVitae) <[*drjuliatanney@gmail.com*](mailto:drjuliatanney%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

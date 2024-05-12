@@ -256,3 +256,4 @@ Other useful anthologies include:
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Jennifer Tsien <[*tsien@virginia.edu*](mailto:tsien%40virginia%2eedu)>  
 Jacques Morizot
+<!--md-padding-ignore-end-->

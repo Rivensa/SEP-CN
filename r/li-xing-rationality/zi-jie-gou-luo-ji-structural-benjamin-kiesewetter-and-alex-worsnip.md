@@ -445,3 +445,4 @@ We gratefully acknowledge funding by the Deutsche Forschungsgemeinschaft (Centre
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Benjamin Kiesewetter](https://www.benjaminkiesewetter.net/) <[*benjamin.kiesewetter@uni-bielefeld.de*](mailto:benjamin%2ekiesewetter%40uni-bielefeld%2ede)>  
 [Alex Worsnip](http://www.alexworsnip.com/) <[*aworsnip@unc.edu*](mailto:aworsnip%40unc%2eedu)>
+<!--md-padding-ignore-end-->

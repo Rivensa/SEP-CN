@@ -1177,3 +1177,4 @@ Charbel El-Hani 的兴趣主要集中在生物哲学和生物教学方法论上�
 Olimpia Lombardi <[*olimpiafilo@arnet.com.ar*](mailto:olimpiafilo%40arnet%2ecom%2ear)>\
 [Alberto Cordero](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/Alberto-Cordero) <[*acordelec@outlook.com*](mailto:acordelec%40outlook%2ecom)>\
 Ana Rosa Pérez Ransanz <[*perezransanz@yahoo.com*](mailto:perezransanz%40yahoo%2ecom)>
+<!--md-padding-ignore-end-->

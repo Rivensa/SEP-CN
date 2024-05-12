@@ -458,3 +458,4 @@ I am grateful to the Chicago Early Modern Round Table for helpful feedback on an
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jessica Gordon-Roth](https://www.jessicagordon-rothphd.com/) <[*gordo216@umn.edu*](mailto:gordo216%40umn%2eedu)>
+<!--md-padding-ignore-end-->

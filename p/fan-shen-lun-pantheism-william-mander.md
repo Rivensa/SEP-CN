@@ -252,3 +252,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [William Mander](http://www.philosophy.ox.ac.uk/people/william-mander) <[*william.mander@hmc.ox.ac.uk*](mailto:william%2emander%40hmc%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

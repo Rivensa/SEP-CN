@@ -441,3 +441,4 @@ Hartshorne将他的神学论证呈现为先验的，不是指它们是决定性�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Donald Viney](https://www.pittstate.edu/hpss/faculty-and-staff/don-viney.html) <[*don_viney@yahoo.com*](mailto:don_viney%40yahoo%2ecom)>
+<!--md-padding-ignore-end-->

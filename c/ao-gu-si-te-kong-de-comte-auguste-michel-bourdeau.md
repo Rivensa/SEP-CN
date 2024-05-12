@@ -330,3 +330,4 @@ Many thanks to Mark van Atten for the English translation, and to Béatrice Fink
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Michel Bourdeau <[*Michel.Bourdeau@ehess.fr*](mailto:Michel%2eBourdeau%40ehess%2efr)>
+<!--md-padding-ignore-end-->

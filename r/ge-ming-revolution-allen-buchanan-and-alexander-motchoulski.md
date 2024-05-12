@@ -251,3 +251,4 @@ The citations to **MER** refer to *The Marx-Engels Reader*, Robert Tucker (ed
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Allen Buchanan](http://fds.duke.edu/db/aas/Philosophy/faculty/allen.buchanan) <[*allen.buchanan@duke.edu*](mailto:allen%2ebuchanan%40duke%2eedu)>  
 [Alexander Motchoulski](https://www.alexmotchoulski.com/) <[*aam5jm@virginia.edu*](mailto:aam5jm%40virginia%2eedu)>
+<!--md-padding-ignore-end-->

@@ -495,3 +495,4 @@ Frank Wilczek（1980年），Stephen Hawking和Leonard Mlodinow（2010年，180�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Roy Sorensen <[*roy.sorensen@austin.utexas.edu*](mailto:roy%2esorensen%40austin%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

@@ -206,3 +206,4 @@ A bibliography (compiled in 1985) of Ingarden’s works in English, French, Germ
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Amie Thomasson](http://philosophy.dartmouth.edu/people/amie-l-thomasson) <[*amie.l.thomasson@dartmouth.edu*](mailto:amie%2el%2ethomasson%40dartmouth%2eedu)>
+<!--md-padding-ignore-end-->

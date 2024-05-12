@@ -542,3 +542,4 @@ Thanks for their help and advice to Jeffrey Brower, Jeffrey Hause, Scott MacDona
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Robert Pasnau](http://spot.colorado.edu/~pasnau/) <[*pasnau@colorado.edu*](mailto:pasnau%40colorado%2eedu)>
+<!--md-padding-ignore-end-->

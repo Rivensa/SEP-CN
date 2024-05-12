@@ -557,3 +557,4 @@ Other accounts of category mistakes have implications for different foundational
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Ofra Magidor](https://www.magidor.com/) <[*ofra.arch@gmail.com*](mailto:ofra%2earch%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

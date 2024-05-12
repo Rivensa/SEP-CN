@@ -340,3 +340,4 @@ Anderson 在她的书中讨论的例子，如道路、公园、初中和高中�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Julian Reiss](http://jreiss.org/) <[*reissj@me.com*](mailto:reissj%40me%2ecom)>
+<!--md-padding-ignore-end-->

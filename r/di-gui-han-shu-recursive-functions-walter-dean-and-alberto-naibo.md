@@ -1377,3 +1377,4 @@ This work has been partially supported by the ANR project *The Geometry of Algo
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Walter Dean](http://go.warwick.ac.uk/whdean) <[*W.H.Dean@warwick.ac.uk*](mailto:W%2eH%2eDean%40warwick%2eac%2euk)>  
 [Alberto Naibo](https://www.pantheonsorbonne.fr/page-perso/anaibo) <[*alberto.naibo@univ-paris1.fr*](mailto:alberto%2enaibo%40univ-paris1%2efr)>
+<!--md-padding-ignore-end-->

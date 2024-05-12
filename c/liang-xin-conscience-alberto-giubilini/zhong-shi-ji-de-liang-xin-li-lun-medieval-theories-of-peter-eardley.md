@@ -296,3 +296,4 @@ Pinckaers 错误解释奥卡姆的道德认识论的第二种相关方式是 Pin
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Peter Eardley <[*peardley@uoguelph.ca*](mailto:peardley%40uoguelph%2eca)>
+<!--md-padding-ignore-end-->

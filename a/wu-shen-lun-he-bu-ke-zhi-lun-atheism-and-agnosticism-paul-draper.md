@@ -362,3 +362,4 @@ The author is grateful to the students in his Fall 2016 seminar on atheism and a
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Paul Draper](https://www.cla.purdue.edu/philosophy/directory/?p=paul_draper) <[*pdraper@purdue.edu*](mailto:pdraper%40purdue%2eedu)>
+<!--md-padding-ignore-end-->

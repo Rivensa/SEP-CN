@@ -694,3 +694,4 @@ The author would like to thank: Gregory Landini, Dick Schmitt, Franz Fritsche, R
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Bernard Linsky](https://www.ualberta.ca/arts/about/people-collection/bernard-linsky) <[*bernard.linsky@ualberta.ca*](mailto:bernard%2elinsky%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

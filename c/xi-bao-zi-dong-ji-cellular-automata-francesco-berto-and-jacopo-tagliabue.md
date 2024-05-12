@@ -792,3 +792,4 @@ The authors would like to thank three anonymous referees, Scott Aaronson, Anouk 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Francesco Berto](http://www.st-andrews.ac.uk/philosophy/people/fb96) <[*fb96@st-andrews.ac.uk*](mailto:fb96%40st-andrews%2eac%2euk)>\
 Jacopo Tagliabue <[*tagliabue.jacopo@gmail.com*](mailto:tagliabue%2ejacopo%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

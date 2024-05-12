@@ -381,3 +381,4 @@ Thanks to Jon Hodge, Charles Pence, Anya Plutynski, and an anonymous referee for
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Roberta L. Millstein](http://www.rlm.net/) <[*rlmillstein@ucdavis.edu*](mailto:rlmillstein%40ucdavis%2eedu)>
+<!--md-padding-ignore-end-->

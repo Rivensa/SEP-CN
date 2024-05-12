@@ -153,3 +153,4 @@ Wielockx 对于与托马斯·阿奎那相对立的观点在学术文献中被普
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Hans Thijssen <[*hans.thijssen@ru.nl*](mailto:hans%2ethijssen%40ru%2enl)>
+<!--md-padding-ignore-end-->

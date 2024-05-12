@@ -484,3 +484,4 @@ The number of papers, anthologies, and monographs has been growing immensely sin
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Robert Brown](https://philosophy.utoronto.ca/directory/james-robert-brown/) <[*jrbrown@chass.utoronto.ca*](mailto:jrbrown%40chass%2eutoronto%2eca)>  
 [Yiftach Fehige](https://www.vic.utoronto.ca/about-victoria/victoria-college-fellows-and-associates/fehige/) <[*yiftach.fehige@utoronto.ca*](mailto:yiftach%2efehige%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

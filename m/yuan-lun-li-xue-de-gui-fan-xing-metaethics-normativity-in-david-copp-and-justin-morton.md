@@ -738,3 +738,4 @@ Sharon Street（2006 年），Richard Joyce（2006 年：第 6 章）和 Allan G
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 David Copp <[*dcopp@ucdavis.edu*](mailto:dcopp%40ucdavis%2eedu)>  
 Justin Morton <[*jjmorton@ucdavis.edu*](mailto:jjmorton%40ucdavis%2eedu)>
+<!--md-padding-ignore-end-->

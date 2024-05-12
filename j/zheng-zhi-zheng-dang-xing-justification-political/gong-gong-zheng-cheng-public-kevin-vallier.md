@@ -556,3 +556,4 @@ Versions of this entry published from 1996 to mid-2012 were written and maintain
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Kevin Vallier](http://www.kevinvallier.com/) <[*kevinvallier@gmail.com*](mailto:kevinvallier%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

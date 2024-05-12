@@ -474,3 +474,4 @@ Thanks to Hud Hudson, J.L. Schellenberg, Edward Wierenga, and Edward Zalta for t
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Daniel Howard-Snyder](https://chss.wwu.edu/philosophy-department/howardd) <[*Dan.Howard-Snyder@wwu.edu*](mailto:Dan%2eHoward-Snyder%40wwu%2eedu)>  
 [Adam Green](http://sites.google.com/site/adamgreenphilosopher/) <[*greenab3@gmail.com*](mailto:greenab3%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

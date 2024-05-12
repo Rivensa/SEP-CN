@@ -549,3 +549,4 @@ Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Jay Odenbaugh](http://jay-odenbaugh.squarespace.com/) <[*jay@lclark.edu*](mailto:jay%40lclark%2eedu)>
+<!--md-padding-ignore-end-->

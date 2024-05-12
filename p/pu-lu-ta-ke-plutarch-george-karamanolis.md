@@ -313,3 +313,4 @@ The author thanks Christoph Helmig and Christopher Noble for suggestions and rem
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 George Karamanolis <[*george.karamanolis@univie.ac.at*](mailto:george%2ekaramanolis%40univie%2eac%2eat)>
+<!--md-padding-ignore-end-->

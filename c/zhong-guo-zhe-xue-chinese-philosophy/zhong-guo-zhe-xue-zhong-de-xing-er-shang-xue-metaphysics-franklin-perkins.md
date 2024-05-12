@@ -373,3 +373,4 @@ This entry benefitted greatly from detailed feedback given by Stephen C. Angle, 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Franklin Perkins <[*perkinsf@hawaii.edu*](mailto:perkinsf%40hawaii%2eedu)>
+<!--md-padding-ignore-end-->

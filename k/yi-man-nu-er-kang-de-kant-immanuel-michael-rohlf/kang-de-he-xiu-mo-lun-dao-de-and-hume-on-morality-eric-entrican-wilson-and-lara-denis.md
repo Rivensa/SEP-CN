@@ -393,3 +393,4 @@ Many other works are also relevant to Kant’s moral philosophy. We cite or disc
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Eric Entrican Wilson <[*ewilson30@gsu.edu*](mailto:ewilson30%40gsu%2eedu)>  
 Lara Denis <[*ldenis@agnesscott.edu*](mailto:ldenis%40agnesscott%2eedu)>
+<!--md-padding-ignore-end-->

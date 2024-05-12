@@ -477,3 +477,4 @@ For comments on this entry over the years, my thanks to Carla Bagnoli, Graham Bi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Garrath Williams](https://garrathwilliams.weebly.com/) <[*g.d.williams@lancaster.ac.uk*](mailto:g%2ed%2ewilliams%40lancaster%2eac%2euk)>
+<!--md-padding-ignore-end-->

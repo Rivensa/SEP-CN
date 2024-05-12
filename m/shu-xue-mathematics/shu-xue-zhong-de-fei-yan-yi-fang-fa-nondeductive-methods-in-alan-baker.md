@@ -337,3 +337,4 @@ Borwein 和 Bailey 使用计算机计算了小于 1000 的正整数的平方根�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Alan Baker <[*abaker1@swarthmore.edu*](mailto:abaker1%40swarthmore%2eedu)>
+<!--md-padding-ignore-end-->

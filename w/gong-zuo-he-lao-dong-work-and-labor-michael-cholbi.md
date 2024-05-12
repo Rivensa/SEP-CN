@@ -302,3 +302,4 @@ Danaher（2019:54）承认工作可以促进人类福祉，但目前组织的工
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Michael Cholbi](http://michael.cholbi.com/) <[*mcholbi@ed.ac.uk*](mailto:mcholbi%40ed%2eac%2euk)>
+<!--md-padding-ignore-end-->

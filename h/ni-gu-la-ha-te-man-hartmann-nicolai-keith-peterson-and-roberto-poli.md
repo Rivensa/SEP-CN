@@ -325,3 +325,4 @@ We thank Joachim Fischer, Eugene Kelly, and anonymous reviewers for their commen
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Keith Peterson](https://web.colby.edu/krpeters/) <[*keith.peterson@colby.edu*](mailto:keith%2epeterson%40colby%2eedu)>  
 [Roberto Poli](https://www5.unitn.it/People/en/Web/Persona/PER0003173#INFO)
+<!--md-padding-ignore-end-->

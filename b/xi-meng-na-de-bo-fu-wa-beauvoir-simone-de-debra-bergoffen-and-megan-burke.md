@@ -486,3 +486,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Debra Bergoffen\
 Megan Burke <[*burkemeg@sonoma.edu*](mailto:burkemeg%40sonoma%2eedu)>
+<!--md-padding-ignore-end-->

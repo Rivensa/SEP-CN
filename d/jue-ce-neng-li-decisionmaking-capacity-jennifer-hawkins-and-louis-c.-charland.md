@@ -421,3 +421,4 @@ The authors would like to thank Kyoko Wada, Scot Kim, Trudo Lemmens, and an anon
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jennifer Hawkins](https://scholars.duke.edu/person/jen.hawkins) <[*jen.hawkins@duke.edu*](mailto:jen%2ehawkins%40duke%2eedu)>  
 Louis C. Charland
+<!--md-padding-ignore-end-->

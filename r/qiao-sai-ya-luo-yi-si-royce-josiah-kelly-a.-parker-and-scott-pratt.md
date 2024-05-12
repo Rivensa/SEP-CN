@@ -359,3 +359,4 @@ Editors Note: Kelly Parker contributed Sections 1 (“Life”) and 2 (“Philoso
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Kelly A. Parker](https://www.gvsu.edu/philosophy/kelly-a-parker-7.htm) <[*parkerk@gvsu.edu*](mailto:parkerk%40gvsu%2eedu)>  
 Scott Pratt <[*spratt@uoregon.edu*](mailto:spratt%40uoregon%2eedu)>
+<!--md-padding-ignore-end-->

@@ -384,3 +384,4 @@ Brukner（2018）最近使用了 Wigner 的朋友悖论的扩展（Wigner 1962�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Richard Healey](http://www.u.arizona.edu/~rhealey/) <[*rhealey@email.arizona.edu*](mailto:rhealey%40email%2earizona%2eedu)>
+<!--md-padding-ignore-end-->

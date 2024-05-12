@@ -344,3 +344,4 @@ My thanks to Paul Draper for very helpful comments on an earlier draft of this t
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Mark Wynn](http://www.leeds.ac.uk/arts/profile/20046/976/mark_wynn) <[*mark.wynn@oriel.ox.ac.uk*](mailto:mark%2ewynn%40oriel%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -316,3 +316,4 @@ I would like to thank Karine Chemla for having encouraged me to think about this
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Paolo Mancosu](http://philosophy.berkeley.edu/mancosu/) <[*mancosu@socrates.Berkeley.EDU*](mailto:mancosu%40socrates%2eBerkeley%2eEDU)>
+<!--md-padding-ignore-end-->

@@ -397,3 +397,4 @@ Hermogenes 的主要观点是——正如已经指出的那样——任何给定
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 David Meißner <[*david.meissner@uni-bonn.de*](mailto:david%2emeissner%40uni-bonn%2ede)>
+<!--md-padding-ignore-end-->

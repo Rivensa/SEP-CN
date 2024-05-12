@@ -294,3 +294,4 @@ I would like to thank Matthias Hoesch, Margaret Moore, and Stéfanie Morris for 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Patti Tamara Lenard <[*Patti.Lenard@uottawa.ca*](mailto:Patti%2eLenard%40uottawa%2eca)>
+<!--md-padding-ignore-end-->

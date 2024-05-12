@@ -412,3 +412,4 @@ For helpful feedback on a draft on this entry, the authors are grateful to Krist
 [Christian Tarsney](https://sites.google.com/view/christiantarsney/) <[*christian.tarsney@gmail.com*](mailto:christian%2etarsney%40gmail%2ecom)>  
 Teruji Thomas <[*teruji.thomas@philosophy.ox.ac.uk*](mailto:teruji%2ethomas%40philosophy%2eox%2eac%2euk)>  
 William MacAskill <[*will@effectivealtruism.org*](mailto:will%40effectivealtruism%2eorg)>
+<!--md-padding-ignore-end-->

@@ -394,3 +394,4 @@ I am grateful to Nicola Moore for her help with the Bibliography, and to Richard
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Charles L. Griswold](http://www.bu.edu/philo/people/faculty/full-time/charles-l-griswold/) <[*griswold@bu.edu*](mailto:griswold%40bu%2eedu)>
+<!--md-padding-ignore-end-->

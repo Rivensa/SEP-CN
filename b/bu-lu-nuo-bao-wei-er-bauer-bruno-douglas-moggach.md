@@ -198,3 +198,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Douglas Moggach <[*dmoggach@uottawa.ca*](mailto:dmoggach%40uottawa%2eca)>
+<!--md-padding-ignore-end-->

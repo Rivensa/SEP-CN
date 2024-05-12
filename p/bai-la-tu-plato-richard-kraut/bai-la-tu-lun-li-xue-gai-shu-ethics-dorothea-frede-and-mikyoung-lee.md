@@ -471,3 +471,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Dorothea Frede <[*dorothea.frede@uni-hamburg.de*](mailto:dorothea%2efrede%40uni-hamburg%2ede)>  
 Mi-Kyoung Lee <[*mitzi@colorado.edu*](mailto:mitzi%40colorado%2eedu)>
+<!--md-padding-ignore-end-->

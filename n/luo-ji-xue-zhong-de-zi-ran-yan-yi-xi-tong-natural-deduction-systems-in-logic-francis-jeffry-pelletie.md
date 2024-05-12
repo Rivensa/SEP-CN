@@ -499,3 +499,4 @@ We'd like to thank Chris Menzel for prompting us to make some improvements to th
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Francis Jeffry Pelletier](http://www.ualberta.ca/~francisp/) <[*francisp@ualberta.ca*](mailto:francisp%40ualberta%2eca)>  
 Allen Hazen <[*aphazen@ualberta.ca*](mailto:aphazen%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

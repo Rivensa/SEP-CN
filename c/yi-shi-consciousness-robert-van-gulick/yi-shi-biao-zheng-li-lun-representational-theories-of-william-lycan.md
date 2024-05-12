@@ -559,3 +559,4 @@ Rey (1992) 提出，内省错误地将其提供的缺乏细节误认为是对简
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [William Lycan](https://philosophy.uconn.edu/person/william-lycan/) <[*william.lycan@uconn.edu*](mailto:william%2elycan%40uconn%2eedu)>
+<!--md-padding-ignore-end-->

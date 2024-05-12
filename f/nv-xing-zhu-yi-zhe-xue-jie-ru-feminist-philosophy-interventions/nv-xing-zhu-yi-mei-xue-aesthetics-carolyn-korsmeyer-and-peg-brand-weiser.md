@@ -336,3 +336,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Carolyn Korsmeyer <[*ckors@acsu.buffalo.edu*](mailto:ckors%40acsu%2ebuffalo%2eedu)>  
 [Peg Brand Weiser](https://philosophy.arizona.edu/people/peg-brand-weiser) <[*mbweiser@email.arizona.edu*](mailto:mbweiser%40email%2earizona%2eedu)>
+<!--md-padding-ignore-end-->

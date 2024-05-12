@@ -391,3 +391,4 @@ Jonathan Kanzelmeyer and Mara McGuire assisted with the research for Section 8.
 [John Bickle](http://www.philosophyandreligion.msstate.edu/faculty/bickle.php) <[*jb1681@msstate.edu*](mailto:jb1681%40msstate%2eedu)>  
 [Peter Mandik](http://www.petemandik.com/philosophy/philosophy.html) <[*mandikp@wpunj.edu*](mailto:mandikp%40wpunj%2eedu)>  
 Anthony Landreth <[*anthony.w.landreth@gmail.com*](mailto:anthony%2ew%2elandreth%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

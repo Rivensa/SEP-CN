@@ -387,3 +387,4 @@ Egg、Lam 和 Oldofredi（2017）认为，Doreen Fraser 和 David Wallace 之间
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Fred Kronz <[*fkronz@nsf.gov*](mailto:fkronz%40nsf%2egov)>\
 Tracy Lupher <[*lupherta@jmu.edu*](mailto:lupherta%40jmu%2eedu)>
+<!--md-padding-ignore-end-->

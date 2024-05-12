@@ -507,3 +507,4 @@ I would like to thank the PhiLiSci team at University of Bielefeld for helpful c
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Alkistis Elliott-Graves](http://alkistis-elliott-graves.net/) <[*a.elliott-graves@uni-bielefeld.de*](mailto:a%2eelliott-graves%40uni-bielefeld%2ede)>
+<!--md-padding-ignore-end-->

@@ -531,3 +531,4 @@ For helpful comments, thanks to Eric Mack, Gregory Salmieri, and the editors of 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Neera K. Badhwar](https://www.ou.edu/cas/philosophy/people/faculty/neera-badhwar) <[*nbad@ou.edu*](mailto:nbad%40ou%2eedu)>  
 [Roderick T. Long](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/Roderick-Long/) <[*longrob@auburn.edu*](mailto:longrob%40auburn%2eedu)>
+<!--md-padding-ignore-end-->

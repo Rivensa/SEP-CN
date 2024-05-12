@@ -400,3 +400,4 @@ abortion, ethics of | [decision-making capacity](https://plato.stanford.edu/en
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Anita Allen <[*aallen@law.upenn.edu*](mailto:aallen%40law%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

@@ -379,3 +379,4 @@ We would like to thank Margaret Gilbert, Raimo Tuomela, Deborah Tollefsen, Arto 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [David P. Schweikard](https://www.uni-flensburg.de/en/philosophie/our-staff/prof-dr-david-schweikard) <[*David.Schweikard@uni-flensburg.de*](mailto:David%2eSchweikard%40uni-flensburg%2ede)>  
 [Hans Bernhard Schmid](https://ufind.univie.ac.at/en/person.html?id=45427) <[*Hans-Bernhard.Schmid@unibas.ch*](mailto:Hans-Bernhard%2eSchmid%40unibas%2ech)>
+<!--md-padding-ignore-end-->

@@ -245,3 +245,4 @@ The following is a selection. Note also, the introductions to the various editio
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Sylvana Tomaselli <[*st240@cam.ac.uk*](mailto:st240%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

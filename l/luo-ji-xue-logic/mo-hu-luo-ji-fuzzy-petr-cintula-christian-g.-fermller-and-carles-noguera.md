@@ -306,3 +306,4 @@ Supplementary document:
 [Petr Cintula](http://www2.cs.cas.cz/\~cintula/) <[*cintula@cs.cas.cz*](mailto:cintula%40cs%2ecas%2ecz)>\
 [Christian G. Fermüller](http://www.logic.at/staff/chrisf) <[*chrisf@logic.at*](mailto:chrisf%40logic%2eat)>\
 [Carles Noguera](http://www.utia.cas.cz/people/noguera) <[*carles.noguera.clofent@gmail.com*](mailto:carles%2enoguera%2eclofent%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

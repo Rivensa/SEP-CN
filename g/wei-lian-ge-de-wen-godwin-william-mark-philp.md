@@ -235,3 +235,4 @@ A complete bibliography of Godwin’s work published in his lifetime is given in
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Mark Philp](http://www2.warwick.ac.uk/fac/arts/history/people/staff_index/philp) <[*mark.philp@warwick.ac.uk*](mailto:mark%2ephilp%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

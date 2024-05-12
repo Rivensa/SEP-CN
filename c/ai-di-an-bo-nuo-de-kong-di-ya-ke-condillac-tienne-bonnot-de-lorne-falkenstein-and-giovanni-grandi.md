@@ -295,3 +295,4 @@ Reid 后来主张，设立的符号的创造预设了说话者社区之间的协
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Lorne Falkenstein](http://publish.uwo.ca/~lfalkens/)  
 Giovanni Grandi <[*Giovanni.Grandi@ubc.ca*](mailto:Giovanni%2eGrandi%40ubc%2eca)>
+<!--md-padding-ignore-end-->

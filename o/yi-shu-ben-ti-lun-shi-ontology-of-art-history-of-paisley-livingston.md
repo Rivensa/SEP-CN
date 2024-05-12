@@ -578,3 +578,4 @@ Stecker（2009）认为 Davies 的认识论论证不能证明选择性能理论�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Paisley Livingston <[*pl@ln.edu.hk*](mailto:pl%40ln%2eedu%2ehk)>
+<!--md-padding-ignore-end-->

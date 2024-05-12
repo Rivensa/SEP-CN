@@ -215,3 +215,4 @@
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Christopher S. Celenza](https://history.jhu.edu/directory/christopher-s-celenza/) <[*celenza@jhu.edu*](mailto:celenza%40jhu%2eedu)>
+<!--md-padding-ignore-end-->

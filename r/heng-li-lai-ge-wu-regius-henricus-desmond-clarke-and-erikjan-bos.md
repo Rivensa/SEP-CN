@@ -181,3 +181,4 @@ Although this entry was written by the late Desmond Clarke, the ‘Bibliography 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Desmond Clarke  
 Erik-Jan Bos <[*erik-jan.bos@xs4all.nl*](mailto:erik-jan%2ebos%40xs4all%2enl)>
+<!--md-padding-ignore-end-->

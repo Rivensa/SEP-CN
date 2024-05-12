@@ -729,3 +729,4 @@ Revision Acknowledgments (July 2022). Many thanks go to Irem Kurtsal, Jeff Pelle
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Mark Steen](https://sites.allegheny.edu/philo/faculty/mark-steen/) <[*marksteen@gmail.com*](mailto:marksteen%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

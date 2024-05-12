@@ -290,3 +290,4 @@ Keith Allen Korcz 对因果信念论的版本，有些简化，如下所示（Ko
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Keith Allen Korcz](http://www.ucs.louisiana.edu/\~kak7409/) <[*keithk@louisiana.edu*](mailto:keithk%40louisiana%2eedu)>
+<!--md-padding-ignore-end-->

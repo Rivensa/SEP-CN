@@ -421,3 +421,4 @@ The author would like to thank Elizabeth Brake, Kimberley Brownlee, Chiara Corde
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Anca Gheaus](http://upf.academia.edu/AncaGheaus) <[*anca.gheaus@upf.edu*](mailto:anca%2egheaus%40upf%2eedu)>
+<!--md-padding-ignore-end-->

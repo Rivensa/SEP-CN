@@ -690,3 +690,4 @@ II.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Benjamin Morison](https://philosophy.princeton.edu/people/benjamin-morison) <[*bmorison@princeton.edu*](mailto:bmorison%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

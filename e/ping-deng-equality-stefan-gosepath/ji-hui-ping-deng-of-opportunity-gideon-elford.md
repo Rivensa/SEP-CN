@@ -367,3 +367,4 @@ The author would like to thank Andy Mason for helpful thoughts during the drafti
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Gideon Elford](http://www.gideonelford.com/) <[*gideon.elford@new.ox.ac.uk*](mailto:gideon%2eelford%40new%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

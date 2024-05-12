@@ -523,3 +523,4 @@ xR(α∩β)y 当且仅当 xR(α)y 和 xR(β)y。
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Nicolas Troquard](https://www.inf.unibz.it/\~ntroquard/) <[*nicolas.troquard@gssi.it*](mailto:nicolas%2etroquard%40gssi%2eit)>\
 [Philippe Balbiani](http://www.irit.fr/\~Philippe.Balbiani/)
+<!--md-padding-ignore-end-->

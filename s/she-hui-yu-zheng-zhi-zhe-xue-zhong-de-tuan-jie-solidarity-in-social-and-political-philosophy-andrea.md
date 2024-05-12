@@ -398,3 +398,4 @@ Hippolyte Renaud 将这种统一、相互支持的社会合作服务于每个人
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Andrea Sangiovanni <[*andrea.sangiovanni@kcl.ac.uk*](mailto:andrea%2esangiovanni%40kcl%2eac%2euk)>  
 Juri Viehoff <[*juri.viehoff@manchester.ac.uk*](mailto:juri%2eviehoff%40manchester%2eac%2euk)>
+<!--md-padding-ignore-end-->

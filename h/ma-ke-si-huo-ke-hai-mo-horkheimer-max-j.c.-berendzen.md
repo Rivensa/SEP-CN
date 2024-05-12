@@ -218,3 +218,4 @@ Below are the bibliographical entries for the cited English translations, listed
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [J.C. Berendzen](http://loyno.edu/~jberendz/) <[*jberendz@loyno.edu*](mailto:jberendz%40loyno%2eedu)>
+<!--md-padding-ignore-end-->

@@ -187,3 +187,4 @@ Deutsch（1997）认为，量子计算的指数加速以及量子系统处理信
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jeffrey Bub](https://quics.umd.edu/people/jeffrey-bub) <[*jbub@umd.edu*](mailto:jbub%40umd%2eedu)>
+<!--md-padding-ignore-end-->

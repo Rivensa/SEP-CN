@@ -717,3 +717,4 @@ The author wishes to thank the anonymous reviewers and Valentin Goranko for the 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Paolo Turrini <[*p.turrini@imperial.ac.uk*](mailto:p%2eturrini%40imperial%2eac%2euk)>  
 Thomas Ågotnes <[*Thomas.Agotnes@infomedia.uib.no*](mailto:Thomas%2eAgotnes%40infomedia%2euib%2eno)>
+<!--md-padding-ignore-end-->

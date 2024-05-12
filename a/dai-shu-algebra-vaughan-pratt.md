@@ -519,3 +519,4 @@ C(F(X),A)≅Set(X,U(A))
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Vaughan Pratt <[*pratt@cs.stanford.edu*](mailto:pratt%40cs%2estanford%2eedu)>
+<!--md-padding-ignore-end-->

@@ -624,3 +624,4 @@ The authors are listed alphabetically. Cross wrote sections 1, 3, and 4; Roelofs
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Charles Cross](http://sites.google.com/site/professorcharlesbcross/) <[*ccross@uga.edu*](mailto:ccross%40uga%2eedu)>  
 [Floris Roelofsen](http://staff.science.uva.nl/~froelofs/) <[*floris.roelofsen@gmail.com*](mailto:floris%2eroelofsen%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

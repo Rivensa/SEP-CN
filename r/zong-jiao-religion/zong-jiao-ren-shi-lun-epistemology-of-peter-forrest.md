@@ -178,3 +178,4 @@ Jerome Gellman（1992 年，2017 年）引起了我们对无神论的关注。�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Peter Forrest <[*pforrest@une.edu.au*](mailto:pforrest%40une%2eedu%2eau)>
+<!--md-padding-ignore-end-->

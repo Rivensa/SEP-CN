@@ -791,3 +791,4 @@ Referred to as *Papers* in the text.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Charles Pigden <[*charles.pigden@stonebow.otago.ac.nz*](mailto:charles%2epigden%40stonebow%2eotago%2eac%2enz)>
+<!--md-padding-ignore-end-->

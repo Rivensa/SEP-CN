@@ -267,3 +267,4 @@ Adams, Sarah, 2015, “A New Paradox of Omnipotence,” *Philosophia*, 43: 759�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Joshua Hoffman <[*j_hoffma@uncg.edu*](mailto:j_hoffma%40uncg%2eedu)>  
 Gary Rosenkrantz <[*g_rosenk@uncg.edu*](mailto:g_rosenk%40uncg%2eedu)>
+<!--md-padding-ignore-end-->

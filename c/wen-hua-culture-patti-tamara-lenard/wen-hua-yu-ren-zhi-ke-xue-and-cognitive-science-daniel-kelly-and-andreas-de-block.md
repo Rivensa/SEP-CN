@@ -811,3 +811,4 @@ The right of a state to control its culture is therefore an essential one to pro
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Daniel Kelly <[*drkelly@purdue.edu*](mailto:drkelly%40purdue%2eedu)>\
 Andreas De Block <[*andreas.deblock@kuleuven.be*](mailto:andreas%2edeblock%40kuleuven%2ebe)>
+<!--md-padding-ignore-end-->

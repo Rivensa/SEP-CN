@@ -272,3 +272,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Sandrine Berges](http://www.sandrineberges.com/) <[*berges@bilkent.edu.tr*](mailto:berges%40bilkent%2eedu%2etr)>
+<!--md-padding-ignore-end-->

@@ -1396,3 +1396,4 @@ Mizar 的目标是帮助从业者形式化证明并检查其正确性；其他�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Frederic Portoraro](http://www.symlog.ca/Profile/Fred.htm) <[*fred.portoraro@symlog.ca*](mailto:fred%2eportoraro%40symlog%2eca)>
+<!--md-padding-ignore-end-->

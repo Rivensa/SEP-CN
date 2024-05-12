@@ -214,3 +214,4 @@ Bhartṛhari | [Buddha](https://plato.stanford.edu/entries/buddha/) | [Gaṅ
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Madhav Deshpande](http://www.ii.umich.edu/ii/aboutus/people/centerforsouthasianstudies/faculty/ci.deshpandemadhav_ci.detail)
+<!--md-padding-ignore-end-->

@@ -137,3 +137,4 @@ M. Bieniak 将菲利普确定为最早受到亚维森纳心理学影响的巴黎
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Colleen McCluskey  
 Anthony Celano <[*acelano@stonehill.edu*](mailto:acelano%40stonehill%2eedu)>
+<!--md-padding-ignore-end-->

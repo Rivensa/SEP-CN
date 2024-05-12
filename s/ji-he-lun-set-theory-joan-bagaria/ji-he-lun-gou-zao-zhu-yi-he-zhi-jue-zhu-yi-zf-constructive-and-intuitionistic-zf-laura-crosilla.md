@@ -376,3 +376,4 @@ I thank Andrea Cantini, Michael Rathjen and Peter Schuster for valuable comments
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Laura Crosilla](https://sites.google.com/view/lauracrosilla/home) <[*laura.crosilla@gmail.com*](mailto:laura%2ecrosilla%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

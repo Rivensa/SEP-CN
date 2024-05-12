@@ -520,3 +520,4 @@ Many thanks to Floris Roelofsen, Luca Incurvati, Martin Stokhof and Ivano Ciarde
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Maria Aloni <[*M.D.Aloni@uva.nl*](mailto:M%2eD%2eAloni%40uva%2enl)>
+<!--md-padding-ignore-end-->

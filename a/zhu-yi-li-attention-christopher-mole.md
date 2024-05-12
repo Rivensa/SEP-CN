@@ -697,3 +697,4 @@ Simone Weil 认为，注意力在伦理学中起着绝对核心的作用，并�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Christopher Mole](https://philosophy.ubc.ca/profile/christopher-mole/) <[*cmole@mail.ubc.ca*](mailto:cmole%40mail%2eubc%2eca)>
+<!--md-padding-ignore-end-->

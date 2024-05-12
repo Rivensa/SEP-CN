@@ -480,3 +480,4 @@ The author and editors are grateful to Doug Jesseph for comments on an earlier v
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 [Paul Russell](https://www.fil.lu.se/en/person/PaulRussell/) <[*paul.russell@fil.lu.se*](mailto:paul%2erussell%40fil%2elu%2ese)>\
 Anders Kraal <[*anders.kraal@ubc.ca*](mailto:anders%2ekraal%40ubc%2eca)>
+<!--md-padding-ignore-end-->

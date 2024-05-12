@@ -381,3 +381,4 @@ Michaelian (2012b)认为，元认知的认可机制是可靠和合理的，尽�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Matthew Frise](https://sites.google.com/site/matthewfrise/) <[*frise@msoe.edu*](mailto:frise%40msoe%2eedu)>
+<!--md-padding-ignore-end-->

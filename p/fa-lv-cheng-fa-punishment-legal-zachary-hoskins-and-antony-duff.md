@@ -473,3 +473,4 @@ Primoratz 1999, Honderich 2005, Ellis 2012, and Brooks 2013 are useful introduct
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Zachary Hoskins <[*Zachary.Hoskins@nottingham.ac.uk*](mailto:Zachary%2eHoskins%40nottingham%2eac%2euk)>  
 [Antony Duff](http://www.philosophy.stir.ac.uk/staff/a-duff/duff-page.php)
+<!--md-padding-ignore-end-->

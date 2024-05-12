@@ -508,3 +508,4 @@ The relevant secondary literature is vast. We confine ourselves to English-langu
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Graciela De Pierris <[*graciela@stanford.edu*](mailto:graciela%40stanford%2eedu)>  
 [Michael Friedman](https://philosophy.stanford.edu/people/michael-friedman) <[*mlfriedman@stanford.edu*](mailto:mlfriedman%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

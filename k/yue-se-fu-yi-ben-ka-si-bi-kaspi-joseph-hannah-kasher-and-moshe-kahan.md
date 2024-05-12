@@ -195,3 +195,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Hannah Kasher <[*kasheh@mail.biu.ac.il*](mailto:kasheh%40mail%2ebiu%2eac%2eil)>\
 Moshe Kahan <[*moshe.kahan@mail.huji.ac.il*](mailto:moshe%2ekahan%40mail%2ehuji%2eac%2eil)>
+<!--md-padding-ignore-end-->

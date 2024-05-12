@@ -514,3 +514,4 @@ This research was supported by the European Research Council through Starting In
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Jan Sprenger](http://www.laeuferpaar.de/) <[*jan.sprenger@unito.it*](mailto:jan%2esprenger%40unito%2eit)>  
 [Naftali Weinberger](https://sites.google.com/site/naftaliweinberger/) <[*naftali.weinberger@gmail.com*](mailto:naftali%2eweinberger%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

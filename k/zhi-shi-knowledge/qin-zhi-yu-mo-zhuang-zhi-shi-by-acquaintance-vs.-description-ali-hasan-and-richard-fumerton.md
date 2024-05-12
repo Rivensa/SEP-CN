@@ -300,3 +300,4 @@ Thanks to an anonymous reviewer for very helpful comments on earlier drafts.
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Ali Hasan <[*ali-hasan@uiowa.edu*](mailto:ali-hasan%40uiowa%2eedu)>  
 [Richard Fumerton](http://clas.uiowa.edu/philosophy/people/richard-fumerton)
+<!--md-padding-ignore-end-->

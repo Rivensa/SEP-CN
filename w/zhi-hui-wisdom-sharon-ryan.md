@@ -173,3 +173,4 @@ The Wisdom Page [http://www.wisdompage.com/](http://www.wisdompage.com/)
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Sharon Ryan](https://philosophy.wvu.edu/faculty-and-staff/faculty-directory/sharon-ryan) <[*sharon.ryan@mail.wvu.edu*](mailto:sharon%2eryan%40mail%2ewvu%2eedu)>
+<!--md-padding-ignore-end-->

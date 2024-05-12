@@ -306,3 +306,4 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Bakinaz Abdalla <[*bakinaz.khalifa@gmail.com*](mailto:bakinaz%2ekhalifa%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

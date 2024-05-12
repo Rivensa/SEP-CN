@@ -145,3 +145,4 @@
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
 [Frederick C. Beiser](http://thecollege.syr.edu/people/faculty/pages/phi/beiser-fred.html) <[*fbeiser@syr.edu*](mailto:fbeiser%40syr%2eedu)>
+<!--md-padding-ignore-end-->

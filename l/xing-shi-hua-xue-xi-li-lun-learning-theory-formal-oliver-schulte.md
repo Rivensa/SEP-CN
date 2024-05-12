@@ -518,3 +518,4 @@ Genin和Kelly提供了一个表征定理，为一组统计假设提供了在机�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Oliver Schulte](http://www.cs.sfu.ca/~oschulte/) <[*oschulte@sfu.ca*](mailto:oschulte%40sfu%2eca)>
+<!--md-padding-ignore-end-->

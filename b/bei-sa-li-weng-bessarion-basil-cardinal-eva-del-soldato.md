@@ -187,3 +187,4 @@ Other works by Bessarion, including many of his letters, have been edited by Moh
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Eva Del Soldato <[*evadel@sas.upenn.edu*](mailto:evadel%40sas%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

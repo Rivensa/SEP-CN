@@ -340,3 +340,4 @@
 
 [Copyright © 2011](https://plato.stanford.edu/info.html#c) by  
 [Stephan Meier-Oeser](http://www.geisteswissenschaften.fu-berlin.de/we01/institut/mitarbeiter/pd_apl_hon/meieroeser/) <[*meier-oeser@t-online.de*](mailto:meier-oeser%40t-online%2ede)>
+<!--md-padding-ignore-end-->

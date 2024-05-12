@@ -332,3 +332,4 @@ Shannon Sullivan 在《揭示白人优越性》（2006）中指出，Addams 在�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Judy Whipps](http://gvsu.edu/philosophy/index.cfm?id=5B846B1F-C0A2-BAC5-0DFB06278B464793) <[*whippsj@gvsu.edu*](mailto:whippsj%40gvsu%2eedu)>  
 Danielle Lake <[*dlake@elon.edu*](mailto:dlake%40elon%2eedu)>
+<!--md-padding-ignore-end-->

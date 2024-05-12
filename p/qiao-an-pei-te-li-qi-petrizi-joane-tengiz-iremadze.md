@@ -147,3 +147,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Tengiz Iremadze <[*tiremadze@hotmail.com*](mailto:tiremadze%40hotmail%2ecom)>
+<!--md-padding-ignore-end-->

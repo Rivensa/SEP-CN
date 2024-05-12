@@ -372,3 +372,4 @@
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by\
 [George Smith](https://as.tufts.edu/philosophy/people/faculty/george-smith) <[*george.smith@tufts.edu*](mailto:george%2esmith%40tufts%2eedu)>
+<!--md-padding-ignore-end-->

@@ -301,3 +301,4 @@ We greatly approve the artificial virtues (justice with respect to property, all
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Rachel Cohon](http://www.albany.edu/philosophy/faculty.shtml#cohon) <[*rcohon@albany.edu*](mailto:rcohon%40albany%2eedu)>
+<!--md-padding-ignore-end-->

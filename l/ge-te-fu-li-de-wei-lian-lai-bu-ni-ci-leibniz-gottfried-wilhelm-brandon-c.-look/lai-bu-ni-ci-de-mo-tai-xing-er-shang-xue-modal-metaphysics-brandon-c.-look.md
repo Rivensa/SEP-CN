@@ -214,3 +214,4 @@ See also the main entry on [Leibniz](https://plato.stanford.edu/entries/leibniz/
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 [Brandon C. Look](http://www.uky.edu/\~look) <[*look@uky.edu*](mailto:look%40uky%2eedu)>
+<!--md-padding-ignore-end-->

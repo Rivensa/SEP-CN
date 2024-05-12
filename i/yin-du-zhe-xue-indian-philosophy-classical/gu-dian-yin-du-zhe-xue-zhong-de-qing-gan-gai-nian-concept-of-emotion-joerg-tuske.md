@@ -184,3 +184,4 @@ Kamalaśīla 在他对 TS 1948-1953 的评论中以一种相当直接的方式�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Joerg Tuske](http://faculty.salisbury.edu/~jptuske/) <[*jptuske@salisbury.edu*](mailto:jptuske%40salisbury%2eedu)>
+<!--md-padding-ignore-end-->

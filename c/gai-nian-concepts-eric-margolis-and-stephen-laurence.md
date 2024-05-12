@@ -429,3 +429,4 @@ Davidson 似乎在将概念归因于动物时采用了非常严格的标准。�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Eric Margolis](http://www.margolisphilosophy.com/) <[*eric.margolis@ubc.ca*](mailto:eric%2emargolis%40ubc%2eca)>  
 [Stephen Laurence](https://www.sheffield.ac.uk/philosophy/people/academic-staff/stephen-laurence) <[*s.laurence@sheffield.ac.uk*](mailto:s%2elaurence%40sheffield%2eac%2euk)>
+<!--md-padding-ignore-end-->

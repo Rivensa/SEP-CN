@@ -441,3 +441,4 @@ This revision avoids the unpalatable implications of (2′). But it also renders
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 James Edwards <[*james.edwards@law.ox.ac.uk*](mailto:james%2eedwards%40law%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

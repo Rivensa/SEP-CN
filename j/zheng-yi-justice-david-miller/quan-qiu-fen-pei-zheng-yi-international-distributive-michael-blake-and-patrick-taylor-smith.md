@@ -448,3 +448,4 @@ Wenar 的论点并不直接关注全球分配正义，而是关注避免西方�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Michael Blake](https://phil.washington.edu/people/michael-blake) <[*miblake@u.washington.edu*](mailto:miblake%40u%2ewashington%2eedu)>  
 [Patrick Taylor Smith](http://www.patricktaylorsmith.com/) <[*patrick.taylor.smith@gmail.com*](mailto:patrick%2etaylor%2esmith%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

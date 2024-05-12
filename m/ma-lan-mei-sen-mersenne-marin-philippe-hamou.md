@@ -359,3 +359,4 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Philippe Hamou <[*philippe.hamou@hotmail.fr*](mailto:philippe%2ehamou%40hotmail%2efr)>
+<!--md-padding-ignore-end-->

@@ -574,3 +574,4 @@ All citations from these German editions are cited by these abbreviations, and a
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Keren Gorodeisky <[*kzg0003@auburn.edu*](mailto:kzg0003%40auburn%2eedu)>
+<!--md-padding-ignore-end-->

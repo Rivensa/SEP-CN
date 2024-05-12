@@ -497,3 +497,4 @@ I am very grateful to Eve Garrard and John Roberts for their considerable help a
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 David McNaughton <[*dmcnaughton@fsu.edu*](mailto:dmcnaughton%40fsu%2eedu)>
+<!--md-padding-ignore-end-->

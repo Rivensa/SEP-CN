@@ -381,3 +381,4 @@ My thanks to: Leen Spruit and Richard Blum for their comments on, and correction
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Dilwyn Knox <[*d.knox@ucl.ac.uk*](mailto:d%2eknox%40ucl%2eac%2euk)>
+<!--md-padding-ignore-end-->

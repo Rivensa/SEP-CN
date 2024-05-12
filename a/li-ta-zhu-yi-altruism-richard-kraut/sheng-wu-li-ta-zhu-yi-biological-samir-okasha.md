@@ -233,3 +233,4 @@ Sober 认为，即使我们接受进化论对人类行为的解释，也没有�
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Samir Okasha](http://www.bris.ac.uk/Depts/Philosophy/PHS/PHS_Staff.html#samir) <[*samir.okasha@bristol.ac.uk*](mailto:samir%2eokasha%40bristol%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -764,3 +764,4 @@ The author would like to thank Benj Hellie, Steven French, Olivier Massin, two S
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Jessica Wilson <[*jessica.m.wilson@utoronto.ca*](mailto:jessica%2em%2ewilson%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

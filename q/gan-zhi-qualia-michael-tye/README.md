@@ -344,3 +344,4 @@ The editors would like to thank Pat Hayes for bringing a corruption of the text 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Michael Tye](https://liberalarts.utexas.edu/philosophy/faculty/tyem) <[*mtye@mail.utexas.edu*](mailto:mtye%40mail%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

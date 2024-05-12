@@ -510,3 +510,4 @@ However, something that is not intrinsically bad for a person might nevertheless
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Steven Luper](http://www.trinity.edu/departments/philosophy/steven_luperhome_page.htm) <[*sluper@trinity.edu*](mailto:sluper%40trinity%2eedu)>
+<!--md-padding-ignore-end-->

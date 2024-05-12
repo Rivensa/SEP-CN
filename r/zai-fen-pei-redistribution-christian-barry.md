@@ -195,3 +195,4 @@ This essay has benefited greatly from comments from Alejandra Mancilla, Joanna P
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Christian Barry](https://researchers.anu.edu.au/researchers/barry-ch) <[*christian.barry@anu.edu.au*](mailto:christian%2ebarry%40anu%2eedu%2eau)>
+<!--md-padding-ignore-end-->

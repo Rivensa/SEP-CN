@@ -224,3 +224,4 @@ The bibliography for this entry is far from exhaustive. Most of the logical and 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Fabienne Pironet  
 Joke Spruyt <[*joke.spruyt@maastrichtuniversity.nl*](mailto:joke%2espruyt%40maastrichtuniversity%2enl)>
+<!--md-padding-ignore-end-->

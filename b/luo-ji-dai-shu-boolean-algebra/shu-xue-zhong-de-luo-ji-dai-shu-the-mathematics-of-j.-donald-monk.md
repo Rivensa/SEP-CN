@@ -116,3 +116,4 @@ V(B,0)=∅V(B,α+1)={f:dom(f)⊂V(B,α) and range(f)⊂B}V(B,λ)=⋃β<λV(B,β)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [J. Donald Monk](http://euclid.colorado.edu/~monkd/)
+<!--md-padding-ignore-end-->

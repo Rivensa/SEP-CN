@@ -219,3 +219,4 @@ References to Kant’s texts follow the pagination of the Academy edition (*Gesa
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Lisa Shabel <[*shabel.1@osu.edu*](mailto:shabel%2e1%40osu%2eedu)>
+<!--md-padding-ignore-end-->

@@ -693,3 +693,4 @@ Standefer（2015a）研究了修正论循环定义与特定模态逻辑 RT（“
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Philip Kremer](http://individual.utoronto.ca/philipkremer/)  
 [Edoardo Rivello](https://unito.academia.edu/EdoardoRivello) <[*edoardo.rivello@unito.it*](mailto:edoardo%2erivello%40unito%2eit)>
+<!--md-padding-ignore-end-->

@@ -352,3 +352,4 @@ Pereboom 确定的另一个物质本质候选者是由约翰·洛克（1690 年�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Torin Alter](https://philosophy.ua.edu/people/torin-alter/) <[*talter@ua.edu*](mailto:talter%40ua%2eedu)>  
 [Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[*dp346@cornell.edu*](mailto:dp346%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

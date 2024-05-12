@@ -297,3 +297,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [David Konstan](http://research.brown.edu/myresearch/David_Konstan) <[*David_Konstan@brown.edu*](mailto:David_Konstan%40brown%2eedu)>
+<!--md-padding-ignore-end-->

@@ -645,3 +645,4 @@ I would like to thank Derk Pereboom, Neil Levy, Bruce Waller, Manuel Vargas, Ish
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Gregg Caruso <[*gcaruso@corning-cc.edu*](mailto:gcaruso%40corning-cc%2eedu)>
+<!--md-padding-ignore-end-->

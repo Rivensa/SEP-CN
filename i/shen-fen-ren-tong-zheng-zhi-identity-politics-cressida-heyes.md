@@ -247,3 +247,4 @@ The author would like to thank Jeanique Tucker, who provided research assistance
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Cressida Heyes](http://cressidaheyes.com/) <[*cressida.heyes@ualberta.ca*](mailto:cressida%2eheyes%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

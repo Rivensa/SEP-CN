@@ -182,3 +182,4 @@ Leibniz, G. W.
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Andrew Youpa <[*ayoupa@siu.edu*](mailto:ayoupa%40siu%2eedu)>
+<!--md-padding-ignore-end-->

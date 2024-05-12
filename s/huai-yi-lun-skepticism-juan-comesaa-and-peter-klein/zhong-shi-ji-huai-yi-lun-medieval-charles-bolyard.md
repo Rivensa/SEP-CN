@@ -365,3 +365,4 @@ Note: Texts in this section are alphabetized according to the *first* name of 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Charles Bolyard <[*bolyarcr@jmu.edu*](mailto:bolyarcr%40jmu%2eedu)>
+<!--md-padding-ignore-end-->

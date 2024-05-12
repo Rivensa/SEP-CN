@@ -825,3 +825,4 @@ Halina 承认，鉴于其特定领域性，正如我们已经注意到的，这�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Elliot Samuel Paul](https://www.queensu.ca/philosophy/paul-elliot) <[*elliotspaul@gmail.com*](mailto:elliotspaul%40gmail%2ecom)>\
 [Dustin Stokes](http://stokes.mentalpaint.net/) <[*dustin.stokes@utah.edu*](mailto:dustin%2estokes%40utah%2eedu)>
+<!--md-padding-ignore-end-->

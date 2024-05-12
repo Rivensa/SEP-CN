@@ -190,3 +190,4 @@ The editors would like to thank Franz Fritsche for spotting an error in the stat
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Thomas Forster](https://www.dpmms.cam.ac.uk/~tf/) <[*T.Forster@dpmms.cam.ac.uk*](mailto:T%2eForster%40dpmms%2ecam%2eac%2euk)>
+<!--md-padding-ignore-end-->

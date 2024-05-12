@@ -470,3 +470,4 @@ Butterfield（2014）也认为 EFT 方法与纳格尔还原是兼容的，并将
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Patricia Palacios](https://patriciapalacios.website/ueber/) <[*patricia.palacios@plus.ac.at*](mailto:patricia%2epalacios%40plus%2eac%2eat)>
+<!--md-padding-ignore-end-->

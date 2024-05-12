@@ -256,3 +256,4 @@ References to *The Elements of Law*, *Leviathan*, and *De Corpore* are by ch
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Stewart Duncan](http://www.clas.ufl.edu/users/sdrd/) <[*sdrd@ufl.edu*](mailto:sdrd%40ufl%2eedu)>
+<!--md-padding-ignore-end-->

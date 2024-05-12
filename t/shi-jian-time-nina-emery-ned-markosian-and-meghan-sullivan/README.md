@@ -452,3 +452,4 @@ B 理论家和永恒主义者倾向于喜欢的时间部分学说可以这样陈
 [Nina Emery](https://www.mtholyoke.edu/directory/faculty-staff/nina-emery) <[*emery@mtholyoke.edu*](mailto:emery%40mtholyoke%2eedu)>  
 [Ned Markosian](http://www.umass.edu/philosophy/faculty/faculty-pages/markosian.htm) <[*markosian@umass.edu*](mailto:markosian%40umass%2eedu)>  
 [Meghan Sullivan](https://philosophy.nd.edu/people/faculty/meghan-sullivan/) <[*sullivan.meghan@gmail.com*](mailto:sullivan%2emeghan%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

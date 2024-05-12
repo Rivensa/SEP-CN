@@ -369,3 +369,4 @@
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Amos Bertolacci](http://homepage.sns.it/bertolacci/) <[*amos.bertolacci@imtlucca.it*](mailto:amos%2ebertolacci%40imtlucca%2eit)>
+<!--md-padding-ignore-end-->

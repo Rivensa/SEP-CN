@@ -1057,3 +1057,4 @@ I would like to thank James Joyce and Edward Zalta for their comments on various
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Don Ross](http://uct.academia.edu/DonRoss) <[*don.ross@uct.ac.za*](mailto:don%2eross%40uct%2eac%2eza)>
+<!--md-padding-ignore-end-->

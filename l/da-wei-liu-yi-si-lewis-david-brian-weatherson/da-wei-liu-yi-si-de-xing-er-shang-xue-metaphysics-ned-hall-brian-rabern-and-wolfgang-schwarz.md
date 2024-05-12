@@ -385,3 +385,4 @@ Many thanks to Phillip Bricker for extraordinarily acute and helpful comments on
 [Ned Hall](http://www.fas.harvard.edu/\~phildept/hall.html) <[*ehall@fas.harvard.edu*](mailto:ehall%40fas%2eharvard%2eedu)>\
 [Brian Rabern](https://www.ed.ac.uk/profile/brian-rabern) <[*brian.rabern@gmail.com*](mailto:brian%2erabern%40gmail%2ecom)>\
 [Wolfgang Schwarz](https://www.wolfgangschwarz.net/) <[*wo@umsu.de*](mailto:wo%40umsu%2ede)>
+<!--md-padding-ignore-end-->

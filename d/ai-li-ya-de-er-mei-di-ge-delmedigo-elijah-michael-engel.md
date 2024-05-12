@@ -163,3 +163,4 @@ Beḥinat ha-Dat 是 Del Medigo 的最后一部也是最知名的作品，比他
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Michael Engel](https://www.religionen.uni-hamburg.de/en/jewish-philosophy/personen/engel.html) <[*mikiengl@gmail.com*](mailto:mikiengl%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

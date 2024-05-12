@@ -234,3 +234,4 @@ EDVAC 和 ACE 提案都主张使用充满汞的管子，称为“延迟线”，
 
 [Copyright © 2006](https://plato.stanford.edu/info.html#c) by  
 [B. Jack Copeland](https://www.canterbury.ac.nz/arts/contact-us/people/jack-copeland.html) <[*jack.copeland@canterbury.ac.nz*](mailto:jack%2ecopeland%40canterbury%2eac%2enz)>
+<!--md-padding-ignore-end-->

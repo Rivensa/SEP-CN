@@ -275,3 +275,4 @@ One might object to Prichard-style arguments that (a) they are question-begging,
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Robert Shaver <[*bshaver@cc.umanitoba.CA*](mailto:bshaver%40cc%2eumanitoba%2eCA)>
+<!--md-padding-ignore-end-->

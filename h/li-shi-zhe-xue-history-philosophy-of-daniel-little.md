@@ -403,3 +403,4 @@ Acknowledgement is offered to Christopher Bouton for valuable feedback on sectio
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Daniel Little <[*delittle@umd.umich.edu*](mailto:delittle%40umd%2eumich%2eedu)>
+<!--md-padding-ignore-end-->

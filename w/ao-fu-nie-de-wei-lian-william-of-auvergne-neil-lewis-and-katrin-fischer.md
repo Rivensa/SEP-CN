@@ -379,3 +379,4 @@ The following books all contain useful detailed outlines of the contents of the 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Neil Lewis  
 Katrin Fischer <[*katrin.fischer@uni-wuerzburg.de*](mailto:katrin%2efischer%40uni-wuerzburg%2ede)>
+<!--md-padding-ignore-end-->

@@ -268,3 +268,4 @@ Qusta 的论文在 13 世纪的欧洲学术界产生了很大影响（Wilcox 198
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Gert-Jan Lokhorst](http://gjclokhorst.nl/) <[*g.j.c.lokhorst@tudelft.nl*](mailto:g%2ej%2ec%2elokhorst%40tudelft%2enl)>
+<!--md-padding-ignore-end-->

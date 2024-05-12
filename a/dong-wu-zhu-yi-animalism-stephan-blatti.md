@@ -447,3 +447,4 @@ The author is grateful to Remy Debes, Eric Olson, Gideon Rosen, and Paul Snowdon
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Stephan Blatti](http://www.stephanblatti.org/) <[*blatti@umd.edu*](mailto:blatti%40umd%2eedu)>
+<!--md-padding-ignore-end-->

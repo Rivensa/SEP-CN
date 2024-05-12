@@ -421,3 +421,4 @@ Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanes
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Thomas Kasulis](https://comparativestudies.osu.edu/people/kasulis.1) <[*kasulis.1@osu.edu*](mailto:kasulis%2e1%40osu%2eedu)>
+<!--md-padding-ignore-end-->

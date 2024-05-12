@@ -386,3 +386,4 @@ This entry has benefited from comments, criticisms, and other feedback by Jeremy
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Erich Reck <[*erich.reck@ucr.edu*](mailto:erich%2ereck%40ucr%2eedu)>
+<!--md-padding-ignore-end-->

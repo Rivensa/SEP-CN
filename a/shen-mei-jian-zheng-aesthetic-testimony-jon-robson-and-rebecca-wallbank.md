@@ -394,3 +394,4 @@ Bräuer（2023）的方法有些不同。Bräuer 认为，审美证言之所以�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Jon Robson](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/jonathan.robson) <[*jonvrobson@gmail.com*](mailto:jonvrobson%40gmail%2ecom)>  
 Rebecca Wallbank <[*rebecca.wallbank@filosofi.uu.se*](mailto:rebecca%2ewallbank%40filosofi%2euu%2ese)>
+<!--md-padding-ignore-end-->

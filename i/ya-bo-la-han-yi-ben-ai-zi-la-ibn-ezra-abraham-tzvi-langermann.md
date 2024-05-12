@@ -246,3 +246,4 @@ The editors are grateful to Jasper Pirasteh for his help in correcting a number 
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Tzvi Langermann
+<!--md-padding-ignore-end-->

@@ -92,3 +92,4 @@
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Alessandro Conti <[*alessandrodomenico.conti@univaq.it*](mailto:alessandrodomenico%2econti%40univaq%2eit)>
+<!--md-padding-ignore-end-->

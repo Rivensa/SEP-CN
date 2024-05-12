@@ -667,3 +667,4 @@ I thank Thomas Ainsworth, John Cooper, Fred Miller, Nathanael Stein, Edward Zalt
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Christopher Shields](https://cjishields.com/about-us/) <[*cjshields@ucsd.edu*](mailto:cjshields%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

@@ -299,3 +299,4 @@ DCD 的实践已经扩展到几个医疗中心，引发了相当大的争议。�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 David DeGrazia <[*ddd@gwu.edu*](mailto:ddd%40gwu%2eedu)>
+<!--md-padding-ignore-end-->

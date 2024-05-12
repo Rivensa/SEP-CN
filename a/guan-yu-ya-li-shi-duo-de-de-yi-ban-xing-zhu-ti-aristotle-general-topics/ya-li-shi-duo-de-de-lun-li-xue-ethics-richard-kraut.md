@@ -594,3 +594,4 @@ Lockwood 2005.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Richard Kraut](https://classics.northwestern.edu/people/faculty/emeritus-faculty/richard-kraut.html) <[*rkraut1@northwestern.edu*](mailto:rkraut1%40northwestern%2eedu)>
+<!--md-padding-ignore-end-->

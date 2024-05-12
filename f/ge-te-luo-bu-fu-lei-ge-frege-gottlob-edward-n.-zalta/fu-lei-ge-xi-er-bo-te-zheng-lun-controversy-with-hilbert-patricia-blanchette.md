@@ -259,3 +259,4 @@ Thanks to Edward N. Zalta for helpful suggestions on this entry.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Patricia Blanchette](http://www.nd.edu/~pblanche/) <[*blanchette.1@nd.edu*](mailto:blanchette%2e1%40nd%2eedu)>
+<!--md-padding-ignore-end-->

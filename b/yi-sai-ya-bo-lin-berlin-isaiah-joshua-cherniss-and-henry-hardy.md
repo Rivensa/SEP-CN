@@ -485,3 +485,4 @@ The authors would like to thank George Crowder, Johnny Lyons, Beata Polanowska-S
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Joshua Cherniss](https://gufaculty360.georgetown.edu/s/contact/00336000014TIGAAA4/joshua-cherniss) <[*jlc306@georgetown.edu*](mailto:jlc306%40georgetown%2eedu)>\
 Henry Hardy <[*henry.hardy@wolfson.ox.ac.uk*](mailto:henry%2ehardy%40wolfson%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

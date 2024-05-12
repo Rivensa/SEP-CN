@@ -565,3 +565,4 @@ The authors would like to thank Tom Cochrane, Jeremy Dunham, Steve Laurence, and
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 Luca Barlassina <[*l.barlassina@sheffield.ac.uk*](mailto:l%2ebarlassina%40sheffield%2eac%2euk)>\
 [Robert M. Gordon](https://www.umsl.edu/\~philo/People/Faculty/index.html)
+<!--md-padding-ignore-end-->

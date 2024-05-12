@@ -207,3 +207,4 @@ Passmore 的判断并不完全合理；Ward 哲学信条的要点足够清晰。
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Pierfrancesco Basile <[*pierfrancesco.basile@philo.unibe.ch*](mailto:pierfrancesco%2ebasile%40philo%2eunibe%2ech)>
+<!--md-padding-ignore-end-->

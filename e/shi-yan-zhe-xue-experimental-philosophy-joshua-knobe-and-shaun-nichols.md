@@ -399,3 +399,4 @@ We’d like to thank Jonathan Weinberg, the editors, and an anonymous referee fo
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Joshua Knobe](http://campuspress.yale.edu/joshuaknobe/)  
 [Shaun Nichols](https://sites.google.com/view/shaunbnichols/home)
+<!--md-padding-ignore-end-->

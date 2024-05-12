@@ -422,3 +422,4 @@ For the update to this entry published in the summer of 2011, Claude Panaccio ha
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Paul Vincent Spade](http://www.pvspade.com/)  
 Claude Panaccio
+<!--md-padding-ignore-end-->

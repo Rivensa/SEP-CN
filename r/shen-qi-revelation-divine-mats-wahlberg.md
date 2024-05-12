@@ -487,3 +487,4 @@ Moser 声称他在我们对神启的认知反应中强调意志要素构成了�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Mats Wahlberg <[*mats.wahlberg@umu.se*](mailto:mats%2ewahlberg%40umu%2ese)>
+<!--md-padding-ignore-end-->

@@ -267,3 +267,4 @@ I would like to thank Michael Bratman for helpful comments on a draft.
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Abraham Sesshu Roth](https://philosophy.osu.edu/people/roth.263/) <[*roth.263@osu.edu*](mailto:roth%2e263%40osu%2eedu)>
+<!--md-padding-ignore-end-->

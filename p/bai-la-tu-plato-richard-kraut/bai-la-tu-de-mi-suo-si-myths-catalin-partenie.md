@@ -214,3 +214,4 @@ This entry is loosely based on my introduction to a volume I edited, *Plato’s
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Catalin Partenie](http://politice.ro/en/catalin-partenie) <[*cdpartenie@politice.ro*](mailto:cdpartenie%40politice%2ero)>
+<!--md-padding-ignore-end-->

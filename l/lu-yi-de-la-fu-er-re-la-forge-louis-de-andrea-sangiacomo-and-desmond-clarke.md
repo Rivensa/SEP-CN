@@ -240,3 +240,4 @@ The original version of this entry was written by the late Desmond Clarke. As of
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Andrea Sangiacomo <[*a.sangiacomo@rug.nl*](mailto:a%2esangiacomo%40rug%2enl)>  
 Desmond Clarke
+<!--md-padding-ignore-end-->

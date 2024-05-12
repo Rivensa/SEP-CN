@@ -208,3 +208,4 @@ Fonseca相信此性的现实性，因为他接受了普通本质在实例化之�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Richard Cross <[*richard.cross@nd.edu*](mailto:richard%2ecross%40nd%2eedu)>
+<!--md-padding-ignore-end-->

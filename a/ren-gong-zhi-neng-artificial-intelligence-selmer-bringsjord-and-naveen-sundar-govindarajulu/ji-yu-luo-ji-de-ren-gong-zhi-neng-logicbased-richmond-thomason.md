@@ -848,3 +848,4 @@ I am grateful to John McCarthy, who read an early draft of this article and prov
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Richmond Thomason <[*rthomaso@umich.edu*](mailto:rthomaso%40umich%2eedu)>
+<!--md-padding-ignore-end-->

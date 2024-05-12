@@ -206,3 +206,4 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Gary Aylesworth](http://www.eiu.edu/philos/faculty.php?id=geaylesworth&subcat=)
+<!--md-padding-ignore-end-->

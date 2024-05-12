@@ -264,3 +264,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Mehdi Aminrazavi](http://www.umw.edu/directory/employee/mehdi-aminrazavi/) <[*maminraz@umw.edu*](mailto:maminraz%40umw%2eedu)>
+<!--md-padding-ignore-end-->

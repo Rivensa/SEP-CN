@@ -446,3 +446,4 @@ As of the 2021 update of this entry, Douglas MacKay has taken responsibility for
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Douglas MacKay <[*dmackay@email.unc.edu*](mailto:dmackay%40email%2eunc%2eedu)>  
 [Gopal Sreenivasan](http://gopalsreenivasan.com/)
+<!--md-padding-ignore-end-->

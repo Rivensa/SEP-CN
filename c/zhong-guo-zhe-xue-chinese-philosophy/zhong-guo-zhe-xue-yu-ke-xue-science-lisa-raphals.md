@@ -247,3 +247,4 @@ chinese-han-confucianism | [Chinese Philosophy: Chinese medicine](https://plato.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Lisa Raphals](http://complitforlang.ucr.edu/people/faculty/bio.html?page=raphals.html) <[*lisa.raphals@ucr.edu*](mailto:lisa%2eraphals%40ucr%2eedu)>
+<!--md-padding-ignore-end-->

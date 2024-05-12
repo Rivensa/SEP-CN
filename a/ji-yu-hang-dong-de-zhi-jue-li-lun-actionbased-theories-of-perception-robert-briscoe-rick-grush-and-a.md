@@ -612,3 +612,4 @@ We would like to thank Jason Winning for helping to compose the bibliography and
 Robert Briscoe <[*rbriscoe@gmail.com*](mailto:rbriscoe%40gmail%2ecom)>  
 [Rick Grush](http://rickgrush.net/) <[*rgrush@ucsd.edu*](mailto:rgrush%40ucsd%2eedu)>  
 Alison Springle <[*alisonspringle@gmail.com*](mailto:alisonspringle%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

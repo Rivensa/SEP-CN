@@ -247,3 +247,4 @@ Thanks to Colin Allen for many helpful comments on an earlier version; and to Jo
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Catherine Driscoll <[*catherine_driscoll@ncsu.edu*](mailto:catherine_driscoll%40ncsu%2eedu)>
+<!--md-padding-ignore-end-->

@@ -279,3 +279,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Leonard Lawlor](https://philosophy.la.psu.edu/people/lul19) <[*lul19@psu.edu*](mailto:lul19%40psu%2eedu)>
+<!--md-padding-ignore-end-->

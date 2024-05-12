@@ -441,3 +441,4 @@ Blanchard and Schaffer 自己的观点是，就我们的因果判断而言，如
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Peter Menzies\
 [Helen Beebee](https://ahc.leeds.ac.uk/philosophy/staff/3939/professor-helen-beebee) <[*H.Beebee@leeds.ac.uk*](mailto:H%2eBeebee%40leeds%2eac%2euk)>
+<!--md-padding-ignore-end-->

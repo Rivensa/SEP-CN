@@ -389,3 +389,4 @@ The classic commentary on the *Critique of Practical Reason* is:
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Robert Johnson <[*JohnsonRN@missouri.edu*](mailto:JohnsonRN%40missouri%2eedu)>  
 [Adam Cureton](https://philosophy.utk.edu/staff/cureton.php) <[*adamcureton@utk.edu*](mailto:adamcureton%40utk%2eedu)>
+<!--md-padding-ignore-end-->

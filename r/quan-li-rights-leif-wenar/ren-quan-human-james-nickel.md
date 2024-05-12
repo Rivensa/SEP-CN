@@ -374,3 +374,4 @@ The assistance of Adam Etinson, Pablo Gilabert, and Erin Sperry is acknowledged 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [James Nickel](https://sites.google.com/site/jameswnickel/) <[*nickel@law.miami.edu*](mailto:nickel%40law%2emiami%2eedu)>
+<!--md-padding-ignore-end-->

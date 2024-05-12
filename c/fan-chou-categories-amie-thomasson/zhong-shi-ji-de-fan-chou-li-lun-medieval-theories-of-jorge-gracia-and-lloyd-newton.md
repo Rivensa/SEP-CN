@@ -325,3 +325,4 @@ We are grateful to Giorgio Pini, Paul Vincent Spade, and Jack Zupko for their us
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by\
 Jorge Gracia\
 [Lloyd Newton](http://kuleuven.academia.edu/LloydNewton)
+<!--md-padding-ignore-end-->

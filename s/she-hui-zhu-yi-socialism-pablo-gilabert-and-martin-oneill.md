@@ -384,3 +384,4 @@ For helpful discussion, comments and suggestions we thank a referee, Samuel Arno
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Pablo Gilabert](http://www.concordia.ca/faculty/pablo-gilabert.html) <[*pablo.gilabert@concordia.ca*](mailto:pablo%2egilabert%40concordia%2eca)>  
 [Martin O’Neill](https://york.academia.edu/MartinONeill) <[*martin.oneill@york.ac.uk*](mailto:martin%2eoneill%40york%2eac%2euk)>
+<!--md-padding-ignore-end-->

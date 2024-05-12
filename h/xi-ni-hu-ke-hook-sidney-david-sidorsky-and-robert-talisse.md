@@ -252,3 +252,4 @@ As of the November 2018 update, Robert Talisse has taken responsibility for upda
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 David Sidorsky  
 Robert Talisse <[*robert.talisse@vanderbilt.edu*](mailto:robert%2etalisse%40vanderbilt%2eedu)>
+<!--md-padding-ignore-end-->

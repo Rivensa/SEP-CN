@@ -313,3 +313,4 @@ Qûnawî为一个技术术语“ta‘ayyun”或“实体化”赋予了流通�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [William Chittick](https://www.williamcchittick.com/cv/) <[*william.chittick@stonybrook.edu*](mailto:william%2echittick%40stonybrook%2eedu)>
+<!--md-padding-ignore-end-->

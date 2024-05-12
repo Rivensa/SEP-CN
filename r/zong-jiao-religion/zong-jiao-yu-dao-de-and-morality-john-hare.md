@@ -257,3 +257,4 @@ R.M. Hare（1919-2002）接受了这种谬误的诊断，并提出了“普遍�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 John Hare
+<!--md-padding-ignore-end-->

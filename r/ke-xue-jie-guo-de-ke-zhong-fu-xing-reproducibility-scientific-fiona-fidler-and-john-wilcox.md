@@ -466,3 +466,4 @@ Anderson 等人（2010）的焦点小组和科学家的调查表明，科学家�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Fiona Fidler <[*fidlerfm@unimelb.edu.au*](mailto:fidlerfm%40unimelb%2eedu%2eau)>  
 [John Wilcox](https://johnericwilcox.weebly.com/) <[*wilcoxje@stanford.edu*](mailto:wilcoxje%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

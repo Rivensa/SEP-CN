@@ -166,3 +166,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [E. Jennifer Ashworth](https://uwaterloo.ca/philosophy/about/people/emeriti)  
 Domenic D’Ettore <[*dettod@stthom.edu*](mailto:dettod%40stthom%2eedu)>
+<!--md-padding-ignore-end-->

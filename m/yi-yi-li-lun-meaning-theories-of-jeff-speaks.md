@@ -856,3 +856,4 @@ Horwich 的核心思想是我们对句子的接受受到某些法则的支配，
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Jeff Speaks](http://www3.nd.edu/\~jspeaks/) <[*jspeaks@nd.edu*](mailto:jspeaks%40nd%2eedu)>
+<!--md-padding-ignore-end-->

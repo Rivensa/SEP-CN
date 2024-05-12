@@ -223,3 +223,4 @@ C. D. Broad 称 Prichard 为“一个极其有才华的人，我一直将他视�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Jonathan Dancy
+<!--md-padding-ignore-end-->

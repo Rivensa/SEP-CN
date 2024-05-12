@@ -288,3 +288,4 @@ Chengguan 将慧远的_判教_视为他对禅修实践理解贫乏的产物。�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Bryan Van Norden](http://www.bryanvannorden.com/) <[*brvannorden@vassar.edu*](mailto:brvannorden%40vassar%2eedu)>\
 [Nicholaos Jones](http://www.uah.edu/njones/) <[*nick.jones@uah.edu*](mailto:nick%2ejones%40uah%2eedu)>
+<!--md-padding-ignore-end-->

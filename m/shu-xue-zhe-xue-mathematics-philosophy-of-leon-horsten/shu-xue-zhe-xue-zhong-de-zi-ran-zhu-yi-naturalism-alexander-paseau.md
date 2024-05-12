@@ -341,3 +341,4 @@ Kitcher（1983 年）试图通过模态化来复兴密尔的数学哲学。它�
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Alexander Paseau](http://www.acpaseau.com/)
+<!--md-padding-ignore-end-->

@@ -163,3 +163,4 @@ I am indebted to the NEH for allowing me the opportunity to participate in the 2
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Kurt Smith <[*smithkurtsmith@gmail.com*](mailto:smithkurtsmith%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

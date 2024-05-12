@@ -166,3 +166,4 @@ The author gratefully acknowledges Jack Zupko for translating this entry into En
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Joél Biard](http://ockham.free.fr/) <[*joel.biard@univ-tours.fr*](mailto:joel%2ebiard%40univ-tours%2efr)>
+<!--md-padding-ignore-end-->

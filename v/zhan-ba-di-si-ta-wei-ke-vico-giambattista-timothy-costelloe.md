@@ -153,3 +153,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Timothy Costelloe](http://www.wm.edu/as/philosophy/people/faculty/costelloe_t.php) <[*tmcost@wm.edu*](mailto:tmcost%40wm%2eedu)>
+<!--md-padding-ignore-end-->

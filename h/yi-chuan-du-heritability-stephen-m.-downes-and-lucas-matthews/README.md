@@ -328,3 +328,4 @@ The authors would like to thank Eric Turkheimer for his helpful comments on this
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Stephen M. Downes](http://www.hum.utah.edu/philosophy/faculty/downes/) <[*s.downes@utah.edu*](mailto:s%2edownes%40utah%2eedu)>  
 Lucas Matthews <[*lucasjohnmatthews@gmail.com*](mailto:lucasjohnmatthews%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

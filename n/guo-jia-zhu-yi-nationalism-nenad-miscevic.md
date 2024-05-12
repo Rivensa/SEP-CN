@@ -630,3 +630,4 @@ The most readable short anthology of brief papers for and against cosmopolitanis
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Nenad Miscevic](http://www.ff.um.si/zaposleni/osebna.dot?inode=71932&crumbTitle=Nenad%20Mi%C5%A1%C4%8Devi%C4%87%20&pageTitle=Nenad%20Mi%C5%A1%C4%8Devi%C4%87%20)
+<!--md-padding-ignore-end-->

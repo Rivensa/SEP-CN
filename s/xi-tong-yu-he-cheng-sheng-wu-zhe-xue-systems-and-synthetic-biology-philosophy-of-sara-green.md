@@ -571,3 +571,4 @@ Lucy Holt, Maria Serban, Sune Holm, William Bechtel, Fridolin Gross, Mikkel W. J
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Sara Green](http://www.ind.ku.dk/english/staff-auto-list/?pure=en/persons/524942) <[*sara.green@ind.ku.dk*](mailto:sara%2egreen%40ind%2eku%2edk)>
+<!--md-padding-ignore-end-->

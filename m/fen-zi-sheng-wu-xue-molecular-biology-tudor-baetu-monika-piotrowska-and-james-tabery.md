@@ -570,3 +570,4 @@ Tudor Baetu（2019）尝试使用炎症反应机制作为案例研究，对分�
 Tudor Baetu <[*Tudor-Mihai.Baetu@uqtr.ca*](mailto:Tudor-Mihai%2eBaetu%40uqtr%2eca)>\
 [Monika Piotrowska](http://www.albany.edu/philosophy/faculty.shtml#piotrowska) <[*mpiotrowska@albany.edu*](mailto:mpiotrowska%40albany%2eedu)>\
 [James Tabery](https://faculty.utah.edu/u0578517-JAMES\TABERY/biography/index.hml)
+<!--md-padding-ignore-end-->

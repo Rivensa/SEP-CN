@@ -234,3 +234,4 @@ Joseph Carens通过引用公共和私人领域之间的标准区分来回答这�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Christopher Heath Wellman](http://philosophy.artsci.wustl.edu/people/kit-wellman) <[*kwellman@wustl.edu*](mailto:kwellman%40wustl%2eedu)>
+<!--md-padding-ignore-end-->

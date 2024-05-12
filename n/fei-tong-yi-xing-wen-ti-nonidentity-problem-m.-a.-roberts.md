@@ -371,3 +371,4 @@ I am grateful to Danielle Parks and Felicia Selvakumar for their research assist
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 M. A. Roberts <[*robertsm@tcnj.edu*](mailto:robertsm%40tcnj%2eedu)>
+<!--md-padding-ignore-end-->

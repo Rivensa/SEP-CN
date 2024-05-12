@@ -343,3 +343,4 @@ I am very grateful to David Brink, Nina Davis, Derk Pereboom, and Sam Rickless f
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Dana K. Nelkin](http://www.danakaynelkin.com/) <[*dnelkin@ucsd.edu*](mailto:dnelkin%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

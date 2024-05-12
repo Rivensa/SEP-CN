@@ -326,3 +326,4 @@ Guillermo Hurtado（2010年）对“拉丁美洲”这个限定词的适用性�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Susana Nuccetelli <[*snuccetelli@stcloudstate.edu*](mailto:snuccetelli%40stcloudstate%2eedu)>
+<!--md-padding-ignore-end-->

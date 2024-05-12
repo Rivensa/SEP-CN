@@ -668,3 +668,4 @@ The author would like to thank Richard Zach for his careful and valuable comment
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Panu Raatikainen](https://www.tuni.fi/en/panu-raatikainen) <[*panu.raatikainen@tuni.fi*](mailto:panu%2eraatikainen%40tuni%2efi)>
+<!--md-padding-ignore-end-->

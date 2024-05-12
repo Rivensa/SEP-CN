@@ -318,3 +318,4 @@ This entry draws, and expands, on Zahle (2007, 2013) and Zahle and Collin (2014b
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Julie Zahle](https://www.uib.no/en/persons/Julie.Zahle) <[*juliezahle@gmail.com*](mailto:juliezahle%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

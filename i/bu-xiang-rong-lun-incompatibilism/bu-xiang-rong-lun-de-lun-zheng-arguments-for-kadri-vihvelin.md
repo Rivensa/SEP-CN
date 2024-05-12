@@ -726,3 +726,4 @@ David Lewis 告诉我们将这个论证看作是一种还原论证（Lewis 1981�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Kadri Vihvelin <[*vihvelin@usc.edu*](mailto:vihvelin%40usc%2eedu)>
+<!--md-padding-ignore-end-->

@@ -265,3 +265,4 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) for no
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Jan Christoph Westerhoff](http://www.janwesterhoff.net/) <[*jan.westerhoff@lmh.ox.ac.uk*](mailto:jan%2ewesterhoff%40lmh%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

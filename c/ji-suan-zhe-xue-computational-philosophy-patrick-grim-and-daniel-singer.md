@@ -778,3 +778,4 @@ The authors are grateful to Anthony Beavers, Christoph Benzmüller, Gregor Betz,
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Patrick Grim <[*patrick.grim@stonybrook.edu*](mailto:patrick%2egrim%40stonybrook%2eedu)>  
 Daniel Singer <[*singerd@phil.upenn.edu*](mailto:singerd%40phil%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

@@ -220,3 +220,4 @@
 
 [Copyright © 2005](https://plato.stanford.edu/info.html#c) by  
 [John Longeway](https://longeway.wordpress.com/)
+<!--md-padding-ignore-end-->

@@ -450,3 +450,4 @@ Many thanks to Bryce Huebner, Evan Thompson, Meir-Simchah Panzer, Teri Merrick, 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Helen De Cruz](http://helendecruz.net/) <[*helen.decruz@slu.edu*](mailto:helen%2edecruz%40slu%2eedu)>
+<!--md-padding-ignore-end-->

@@ -350,3 +350,4 @@ Occupying the pinnacle of this throng, in John’s estimation, is his former tea
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Karen Bollermann <[*kbollermann@icloud.com*](mailto:kbollermann%40icloud%2ecom)>  
 [Cary Nederman](http://pols.tamu.edu/about-us/faculty-directory/cary-j-nederman-professor/) <[*cary-j-nederman@tamu.edu*](mailto:cary-j-nederman%40tamu%2eedu)>
+<!--md-padding-ignore-end-->

@@ -510,3 +510,4 @@ For helpful suggestions on this entry (and the previous version), I thank Doroth
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Jeffrey Moriarty](https://faculty.bentley.edu/profile/jmoriarty) <[*jmoriarty@bentley.edu*](mailto:jmoriarty%40bentley%2eedu)>
+<!--md-padding-ignore-end-->

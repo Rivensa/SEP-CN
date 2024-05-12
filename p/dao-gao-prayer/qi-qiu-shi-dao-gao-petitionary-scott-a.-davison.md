@@ -125,3 +125,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Scott A. Davison](https://scottdavison.webstarts.com/) <[*s.davison@moreheadstate.edu*](mailto:s%2edavison%40moreheadstate%2eedu)>
+<!--md-padding-ignore-end-->

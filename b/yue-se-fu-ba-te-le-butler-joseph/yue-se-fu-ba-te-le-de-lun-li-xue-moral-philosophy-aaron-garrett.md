@@ -191,3 +191,4 @@ Thanks to Ian Blaustein, Roger Crisp, Charles Griswold, Knud Haakonssen, James H
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Aaron Garrett <[*garrett@bu.edu*](mailto:garrett%40bu%2eedu)>
+<!--md-padding-ignore-end-->

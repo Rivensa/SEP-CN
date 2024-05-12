@@ -189,3 +189,4 @@ P 属于每个 M。M 属于每个 S。P 属于每个 S。
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 John Corcoran  
 Idris Samawi Hamid <[*idris.hamid@colostate.edu*](mailto:idris%2ehamid%40colostate%2eedu)>
+<!--md-padding-ignore-end-->

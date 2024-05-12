@@ -791,3 +791,4 @@ Cohen 在解释我们对保守特定事物的欲望时，回应了伯克
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Andy Hamilton <[*a.j.hamilton@durham.ac.uk*](mailto:a%2ej%2ehamilton%40durham%2eac%2euk)>
+<!--md-padding-ignore-end-->

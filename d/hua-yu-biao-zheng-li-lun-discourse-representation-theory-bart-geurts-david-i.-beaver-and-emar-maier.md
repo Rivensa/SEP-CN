@@ -636,3 +636,4 @@ We would like to thank the editors and reviewers of the Stanford Encyclopedia of
 [Bart Geurts](http://www.ru.nl/ncs/bart/) <[*brtgrts@gmail.com*](mailto:brtgrts%40gmail%2ecom)>\
 [David I. Beaver](http://www.utexas.edu/cola/linguistics/faculty/profile.php?id=dib97) <[*dib@mail.utexas.edu*](mailto:dib%40mail%2eutexas%2eedu)>\
 Emar Maier <[*emar.maier@gmail.com*](mailto:emar%2emaier%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

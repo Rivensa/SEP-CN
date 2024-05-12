@@ -453,3 +453,4 @@ We would like to thank Bruno Verbeek and Christopher Morris whose earlier versio
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Keith Hankins <[*keith.s.hankins@gmail.com*](mailto:keith%2es%2ehankins%40gmail%2ecom)>\
 [Peter Vanderschraaf](https://moralscience.arizona.edu/person/peter-vanderschraaf) <[*pvanderschraaf@arizona.edu*](mailto:pvanderschraaf%40arizona%2eedu)>
+<!--md-padding-ignore-end-->

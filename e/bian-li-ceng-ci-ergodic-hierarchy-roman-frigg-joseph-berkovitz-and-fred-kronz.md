@@ -499,3 +499,4 @@ EH 经常被认为与解释确定性动力系统中随机性的本质相关。�
 [Roman Frigg](http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/frigg.htm) <[*r.p.frigg@lse.ac.uk*](mailto:r%2ep%2efrigg%40lse%2eac%2euk)>  
 Joseph Berkovitz <[*jzberkovitz@yahoo.com*](mailto:jzberkovitz%40yahoo%2ecom)>  
 Fred Kronz <[*fkronz@nsf.gov*](mailto:fkronz%40nsf%2egov)>
+<!--md-padding-ignore-end-->

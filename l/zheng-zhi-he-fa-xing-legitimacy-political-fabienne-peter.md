@@ -438,3 +438,4 @@ I would like to thank Thomas Pogge and Laura Valentini for very helpful comments
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Fabienne Peter](http://www2.warwick.ac.uk/fac/soc/philosophy/staff/peter/) <[*f.peter@warwick.ac.uk*](mailto:f%2epeter%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

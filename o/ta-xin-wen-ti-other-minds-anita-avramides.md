@@ -411,3 +411,4 @@ Dennett、Bennett 和 Harman 在对这篇论文（1978）的评论中指出，�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Anita Avramides <[*anita.avramides@philosophy.ox.ac.uk*](mailto:anita%2eavramides%40philosophy%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -385,3 +385,4 @@ Thanks to Stephen Read, E. Jennifer Ashworth, and Bianca Bosman for helpful comm
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Catarina Dutilh Novaes](https://www.cdutilhnovaes.com/) <[*cdutilhnovaes@gmail.com*](mailto:cdutilhnovaes%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

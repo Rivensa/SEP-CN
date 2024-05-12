@@ -421,3 +421,4 @@ We would like to thank Roger Crisp and Gopal Sreenivasan for their comments on a
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [John Tasioulas](http://www.kcl.ac.uk/law/people/academic/jtasioulas.aspx) <[*john.tasioulas@philosophy.ox.ac.uk*](mailto:john%2etasioulas%40philosophy%2eox%2eac%2euk)>  
 [Guglielmo Verdirame](http://www.kcl.ac.uk/law/people/academic/gverdirame.aspx) <[*guglielmo.verdirame@kcl.ac.uk*](mailto:guglielmo%2everdirame%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

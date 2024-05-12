@@ -699,3 +699,4 @@ I am grateful to the referees of the first edition—both to the “internal ref
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Katalin Bimbó](http://www.ualberta.ca/~bimbo/) <[*bimbo@ualberta.ca*](mailto:bimbo%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

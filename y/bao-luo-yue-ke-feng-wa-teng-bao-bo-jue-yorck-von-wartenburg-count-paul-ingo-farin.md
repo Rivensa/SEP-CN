@@ -239,3 +239,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Ingo Farin <[*ingo.farin@posteo.net*](mailto:ingo%2efarin%40posteo%2enet)>
+<!--md-padding-ignore-end-->

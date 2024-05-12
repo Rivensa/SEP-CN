@@ -234,3 +234,4 @@ RQM与本体结构实在论之间的关系也被Mauro Dorato（2016）强调过�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Federico Laudisa](https://www.federicolaudisa.it/) <[*federico.laudisa@unitn.it*](mailto:federico%2elaudisa%40unitn%2eit)>  
 [Carlo Rovelli](http://www.cpt.univ-mrs.fr/~rovelli/rovelli.html) <[*rovelli.carlo@gmail.com*](mailto:rovelli%2ecarlo%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

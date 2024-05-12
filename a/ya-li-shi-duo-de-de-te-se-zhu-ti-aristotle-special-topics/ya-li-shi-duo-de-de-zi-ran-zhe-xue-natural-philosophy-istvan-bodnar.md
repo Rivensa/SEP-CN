@@ -226,3 +226,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Istvan Bodnar](http://philosophy.ceu.edu/people/istvan-bodnar) <[*stb@elte.hu*](mailto:stb%40elte%2ehu)>
+<!--md-padding-ignore-end-->

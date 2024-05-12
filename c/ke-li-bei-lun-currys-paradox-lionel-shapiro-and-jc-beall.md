@@ -573,3 +573,4 @@ We are grateful to Julien Murzi, Lorenzo Rossi, and an anonymous referee for det
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Lionel Shapiro](http://shapiro.philosophy.uconn.edu/) <[*lionel.shapiro@uconn.edu*](mailto:lionel%2eshapiro%40uconn%2eedu)>  
 [Jc Beall](http://entailments.net/) <[*jbeall@nd.edu*](mailto:jbeall%40nd%2eedu)>
+<!--md-padding-ignore-end-->

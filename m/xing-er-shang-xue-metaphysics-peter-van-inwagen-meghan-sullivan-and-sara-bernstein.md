@@ -352,3 +352,4 @@ Dembroff（2016）探讨了性取向之谜，主张“双维度性倾向论”�
 Peter van Inwagen <[*Peter.VanInwagen.1@nd.edu*](mailto:Peter%2eVanInwagen%2e1%40nd%2eedu)>  
 [Meghan Sullivan](https://philosophy.nd.edu/people/faculty/meghan-sullivan/) <[*sullivan.meghan@gmail.com*](mailto:sullivan%2emeghan%40gmail%2ecom)>  
 Sara Bernstein <[*bernstein.13@nd.edu*](mailto:bernstein%2e13%40nd%2eedu)>
+<!--md-padding-ignore-end-->

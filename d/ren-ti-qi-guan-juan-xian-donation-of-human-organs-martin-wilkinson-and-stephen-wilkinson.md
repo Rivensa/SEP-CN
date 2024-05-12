@@ -366,3 +366,4 @@ We would like to thank Laura O’Donovan and Nicola Williams for providing resea
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Martin Wilkinson <[*m.wilkinson@auckland.ac.nz*](mailto:m%2ewilkinson%40auckland%2eac%2enz)>  
 [Stephen Wilkinson](http://www.lancaster.ac.uk/ppr/about-us/people/stephen-wilkinson) <[*s.wilkinson2@lancaster.ac.uk*](mailto:s%2ewilkinson2%40lancaster%2eac%2euk)>
+<!--md-padding-ignore-end-->

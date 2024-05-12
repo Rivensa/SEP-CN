@@ -315,3 +315,4 @@ Moore 是直觉主义者中最强调道德属性的非自然性质的人，尽�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Philip Stratton-Lake
+<!--md-padding-ignore-end-->

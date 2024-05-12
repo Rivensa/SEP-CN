@@ -221,3 +221,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Samuel Kerstein <[*kerstein@umd.edu*](mailto:kerstein%40umd%2eedu)>
+<!--md-padding-ignore-end-->

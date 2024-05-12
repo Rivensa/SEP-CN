@@ -198,3 +198,4 @@ For general accounts of the *Republic*, see the Bibliography to the entry, [Pl
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Rachel Barney](http://individual.utoronto.ca/rbarney/Home.html) <[*rachel.barney@utoronto.ca*](mailto:rachel%2ebarney%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

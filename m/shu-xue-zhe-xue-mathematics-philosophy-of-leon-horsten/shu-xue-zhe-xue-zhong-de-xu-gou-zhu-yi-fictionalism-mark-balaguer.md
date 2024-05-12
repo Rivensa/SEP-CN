@@ -352,3 +352,4 @@ Plebani（2018 年）给出了不同的回应。他认为，无论 Yablo 虚构�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Mark Balaguer <[*mbalagu@calstatela.edu*](mailto:mbalagu%40calstatela%2eedu)>
+<!--md-padding-ignore-end-->

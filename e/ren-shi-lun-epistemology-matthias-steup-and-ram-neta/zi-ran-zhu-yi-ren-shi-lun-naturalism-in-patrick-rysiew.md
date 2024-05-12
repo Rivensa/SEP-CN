@@ -588,3 +588,4 @@ The author thanks an anonymous referee, Alvin Goldman, Hilary Kornblith, Joshua 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Patrick Rysiew](http://web.uvic.ca/~rysiew/) <[*rysiew@uvic.ca*](mailto:rysiew%40uvic%2eca)>
+<!--md-padding-ignore-end-->

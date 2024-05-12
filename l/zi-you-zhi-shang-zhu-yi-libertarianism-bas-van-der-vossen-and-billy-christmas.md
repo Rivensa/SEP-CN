@@ -428,3 +428,4 @@ The editors note that as of the January 2019 update, no content by the original 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Bas van der Vossen](https://www.basvandervossen.com/contact/) <[*bvanderv@chapman.edu*](mailto:bvanderv%40chapman%2eedu)>  
 [Billy Christmas](http://billyxmas.com/) <[*billy.christmas@kcl.ac.uk*](mailto:billy%2echristmas%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -287,3 +287,4 @@ Thanks to Zvi Biener and Paolo Palmieri for commenting on earlier drafts of this
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Peter Machamer](http://www.pitt.edu/~hpsdept/people/fac_pages/machamer.html) <[*machamerpeter@gmail.com*](mailto:machamerpeter%40gmail%2ecom)>  
 David Marshall Miller <[*dmm1@iastate.edu*](mailto:dmm1%40iastate%2eedu)>
+<!--md-padding-ignore-end-->

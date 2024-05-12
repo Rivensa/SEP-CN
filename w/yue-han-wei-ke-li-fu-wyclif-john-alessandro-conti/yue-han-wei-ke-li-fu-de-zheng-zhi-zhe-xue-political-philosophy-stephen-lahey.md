@@ -161,3 +161,4 @@ Dominium 及其通常被接受的翻译“领主权”暗示了一个个体对�
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 Stephen Lahey
+<!--md-padding-ignore-end-->

@@ -290,3 +290,4 @@ I thank Ben Bradley, Daniel Nolan, David Sanford, Byron Simmons, and an anonymou
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Kris McDaniel](http://www.krismcdaniel.com/) <[*kmcdani1@nd.edu*](mailto:kmcdani1%40nd%2eedu)>
+<!--md-padding-ignore-end-->

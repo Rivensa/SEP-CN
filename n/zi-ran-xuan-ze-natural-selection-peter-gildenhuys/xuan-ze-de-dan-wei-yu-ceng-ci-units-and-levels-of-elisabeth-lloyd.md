@@ -671,3 +671,4 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Elisabeth Lloyd](https://hpsc.indiana.edu/about/emeriti-faculty/lloyd-elisabeth.html) <[*ealloyd@indiana.edu*](mailto:ealloyd%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

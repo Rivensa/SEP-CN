@@ -195,3 +195,4 @@ I have benefited from discussing both the organization and content of this artic
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Kyle Stanford <[*stanford@uci.edu*](mailto:stanford%40uci%2eedu)>
+<!--md-padding-ignore-end-->

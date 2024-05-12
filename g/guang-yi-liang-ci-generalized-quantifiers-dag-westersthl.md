@@ -627,3 +627,4 @@ where ⋅ marks that the position is neither decreasing nor increasing. A nice e
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Dag Westerståhl](http://www.philosophy.su.se/english/research/our-researchers/faculty/dag-westerst%C3%A5hl-1.165620) <[*dag.westerstahl@philosophy.su.se*](mailto:dag%2ewesterstahl%40philosophy%2esu%2ese)>
+<!--md-padding-ignore-end-->

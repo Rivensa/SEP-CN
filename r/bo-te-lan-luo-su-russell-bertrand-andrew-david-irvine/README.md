@@ -712,3 +712,4 @@ Thanks are due to Kenneth Blackwell, Francisco Rodríguez-Consuegra, Fred Kroon,
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html) <[*andrew.irvine@ubc.ca*](mailto:andrew%2eirvine%40ubc%2eca)>
+<!--md-padding-ignore-end-->

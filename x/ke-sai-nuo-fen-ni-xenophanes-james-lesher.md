@@ -188,3 +188,4 @@ B18 经常被誉为对乐观前景或“对人类进步的信心”的表达，�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Lesher](http://philosophy.unc.edu/people/faculty/james-lesher) <[*jlesher@email.unc.edu*](mailto:jlesher%40email%2eunc%2eedu)>
+<!--md-padding-ignore-end-->

@@ -231,3 +231,4 @@
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Paul R. Goldin <[*prg@sas.upenn.edu*](mailto:prg%40sas%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

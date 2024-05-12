@@ -112,3 +112,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Sarah Hutton <[*sarah.hutton@york.ac.uk*](mailto:sarah%2ehutton%40york%2eac%2euk)>
+<!--md-padding-ignore-end-->

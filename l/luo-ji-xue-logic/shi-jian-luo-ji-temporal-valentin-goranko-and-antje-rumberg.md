@@ -1027,3 +1027,4 @@ The first version of this entry was written by Antony Galton in 1999, later revi
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Valentin Goranko](http://www2.philosophy.su.se/goranko/) <[*valentin.goranko@philosophy.su.se*](mailto:valentin%2egoranko%40philosophy%2esu%2ese)>\
 [Antje Rumberg](https://sites.google.com/view/antje-rumberg) <[*antje.rumberg@uni-tuebingen.de*](mailto:antje%2erumberg%40uni-tuebingen%2ede)>
+<!--md-padding-ignore-end-->

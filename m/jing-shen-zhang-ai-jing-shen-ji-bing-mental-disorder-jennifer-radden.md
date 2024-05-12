@@ -537,3 +537,4 @@ Several colleagues offered suggestions about earlier drafts of this entry, for w
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Jennifer Radden <[*jennifer.radden@umb.edu*](mailto:jennifer%2eradden%40umb%2eedu)>
+<!--md-padding-ignore-end-->

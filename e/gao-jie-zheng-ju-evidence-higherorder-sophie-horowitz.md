@@ -375,3 +375,4 @@ I would like to thank David Christensen for helpful comments and suggestions.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Sophie Horowitz <[*shorowitz@umass.edu*](mailto:shorowitz%40umass%2eedu)>
+<!--md-padding-ignore-end-->

@@ -609,3 +609,4 @@ Thanks to Josh Parsons for advice on metaphysics, and to Jc Beall, Justin Khoo, 
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Michael Glanzberg](https://michaelglanzberg.org/) <[*michael.glanzberg@philosophy.rutgers.edu*](mailto:michael%2eglanzberg%40philosophy%2erutgers%2eedu)>
+<!--md-padding-ignore-end-->

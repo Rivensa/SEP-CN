@@ -538,3 +538,4 @@ Earlier versions of this work were presented as the Gale Memorial Lecture to the
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Iain Thomson](http://www.unm.edu/\~ithomson/) <[*ithomson@unm.edu*](mailto:ithomson%40unm%2eedu)>
+<!--md-padding-ignore-end-->

@@ -379,3 +379,4 @@ The author thanks Adam Krashniak for help with the 2018 revision. The editors wo
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Ehud Lamm](http://www.ehudlamm.com/) <[*ehud.lamm@gmail.com*](mailto:ehud%2elamm%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

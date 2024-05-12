@@ -463,3 +463,4 @@ The following works by Bonaventure are mentioned in this entry.
 [Tim Noone](http://philosophy.cua.edu/Faculty/noone/) <[*noonet@cua.edu*](mailto:noonet%40cua%2eedu)>  
 [R. E. Houser](http://t4.stthom.edu/users/houser/index.html) <[*houser1946avicenna1037@gmail.com*](mailto:houser1946avicenna1037%40gmail%2ecom)>  
 Joshua Benson <[*bensonj@cua.edu*](mailto:bensonj%40cua%2eedu)>
+<!--md-padding-ignore-end-->

@@ -301,3 +301,4 @@ Ibn Tibbon 翻译的另一个重要来源是 Saadia Gaon 的《圣经》阿拉�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 James T. Robinson <[*jtr@uchicago.edu*](mailto:jtr%40uchicago%2eedu)>
+<!--md-padding-ignore-end-->

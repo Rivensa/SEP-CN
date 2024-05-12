@@ -192,3 +192,4 @@ Sefer ha-‘Ikkarim 的第四篇后半部分提出了阿尔博关于报酬的理
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Dror Ehrlich](https://plato.stanford.edu/entries/albo-joseph/vita.html)  
 Shira Weiss <[*shira.a.weiss@gmail.com*](mailto:shira%2ea%2eweiss%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

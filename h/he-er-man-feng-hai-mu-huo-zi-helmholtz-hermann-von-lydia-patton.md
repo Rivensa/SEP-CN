@@ -418,3 +418,4 @@ Collaborative work and discussion with Clinton Tolley, Scott Edgar, Gary Hatfiel
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Lydia Patton](http://www.phil.vt.edu/lpatton/lpatton.html) <[*critique@vt.edu*](mailto:critique%40vt%2eedu)>
+<!--md-padding-ignore-end-->

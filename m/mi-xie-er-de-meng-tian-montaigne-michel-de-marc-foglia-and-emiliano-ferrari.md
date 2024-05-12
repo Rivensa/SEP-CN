@@ -163,3 +163,4 @@
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Marc Foglia <[*marc.foglia@gmail.com*](mailto:marc%2efoglia%40gmail%2ecom)>  
 [Emiliano Ferrari](https://comod.universite-lyon.fr/emiliano-ferrari--38847.kjsp?RH=1500970133977) <[*ferrariemil@gmail.com*](mailto:ferrariemil%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

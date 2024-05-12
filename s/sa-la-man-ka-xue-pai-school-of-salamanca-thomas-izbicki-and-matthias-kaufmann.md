@@ -348,3 +348,4 @@ A large number of texts by authors of the School of Salamanca can be found in di
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Thomas Izbicki <[*tizbicki@libraries.rutgers.edu*](mailto:tizbicki%40libraries%2erutgers%2eedu)>  
 Matthias Kaufmann <[*matthias.kaufmann@phil.uni-halle.de*](mailto:matthias%2ekaufmann%40phil%2euni-halle%2ede)>
+<!--md-padding-ignore-end-->

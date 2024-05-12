@@ -477,3 +477,4 @@ Thanks to Bill Fish and Susanna Siegel for comments on earlier drafts, and to Jo
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Jack Lyons <[*jack.lyons@glasgow.ac.uk*](mailto:jack%2elyons%40glasgow%2eac%2euk)>
+<!--md-padding-ignore-end-->

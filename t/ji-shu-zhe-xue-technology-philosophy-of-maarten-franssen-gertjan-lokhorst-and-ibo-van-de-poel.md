@@ -508,3 +508,4 @@ Hansson 的提议在风险评估中引入了一些传统上未被关注或仅被
 [Maarten Franssen](http://www.tbm.tudelft.nl/en/about-faculty/departments/values-technology-and-innovation/sections/ethicsphilosophy-of-technology/staff/dr-mpm-maarten-franssen/) <[*m.p.m.franssen@tudelft.nl*](mailto:m%2ep%2em%2efranssen%40tudelft%2enl)>  
 [Gert-Jan Lokhorst](http://gjclokhorst.nl/) <[*g.j.c.lokhorst@tudelft.nl*](mailto:g%2ej%2ec%2elokhorst%40tudelft%2enl)>  
 [Ibo van de Poel](http://www.tbm.tudelft.nl/en/about-faculty/departments/values-technology-and-innovation/sections/ethicsphilosophy-of-technology/staff/profdrir-ir-ibo-van-de-poel/) <[*I.R.vandepoel@tudelft.nl*](mailto:I%2eR%2evandepoel%40tudelft%2enl)>
+<!--md-padding-ignore-end-->

@@ -187,3 +187,4 @@ We thank Carlo Rovelli for discussions and John Norton for comments on an earlie
 [John Earman](http://www.pitt.edu/~hpsdept/people/fac_pages/earman.html) <[*jearman@pitt.edu*](mailto:jearman%40pitt%2eedu)>  
 [Christian Wüthrich](http://www.wuthrich.net/) <[*christian.wuthrich@unige.ch*](mailto:christian%2ewuthrich%40unige%2ech)>  
 [JB Manchak](http://www.lps.uci.edu/~jmanchak/) <[*jmanchak@uci.edu*](mailto:jmanchak%40uci%2eedu)>
+<!--md-padding-ignore-end-->

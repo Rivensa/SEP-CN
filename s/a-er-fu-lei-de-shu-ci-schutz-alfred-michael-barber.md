@@ -246,3 +246,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Michael Barber](http://www.slu.edu/colleges/AS/philos/site/people/faculty/Barber/) <[*michael.barber@slu.edu*](mailto:michael%2ebarber%40slu%2eedu)>
+<!--md-padding-ignore-end-->

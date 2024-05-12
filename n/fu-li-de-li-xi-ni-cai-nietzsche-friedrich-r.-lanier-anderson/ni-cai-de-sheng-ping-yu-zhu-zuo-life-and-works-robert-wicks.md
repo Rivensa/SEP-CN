@@ -345,3 +345,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Robert Wicks](http://artsfaculty.auckland.ac.nz/staff/?UPI=rwic005) <[*r.wicks@auckland.ac.nz*](mailto:r%2ewicks%40auckland%2eac%2enz)>
+<!--md-padding-ignore-end-->

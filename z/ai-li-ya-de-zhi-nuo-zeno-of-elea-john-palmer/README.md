@@ -312,3 +312,4 @@ Studies of particular paradoxes and of issues bearing upon Zeno’s broader purp
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 John Palmer <[*jpalmer@phil.ufl.edu*](mailto:jpalmer%40phil%2eufl%2eedu)>
+<!--md-padding-ignore-end-->

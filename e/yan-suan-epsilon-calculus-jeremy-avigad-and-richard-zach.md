@@ -303,3 +303,4 @@ Please contact the authors with further suggestions.
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Jeremy Avigad](http://www.andrew.cmu.edu/\~avigad) <[*avigad@cmu.edu*](mailto:avigad%40cmu%2eedu)>\
 [Richard Zach](https://richardzach.org/) <[*rzach@ucalgary.ca*](mailto:rzach%40ucalgary%2eca)>
+<!--md-padding-ignore-end-->

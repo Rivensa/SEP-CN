@@ -374,3 +374,4 @@ Utilitarians 可以再次坚定立场。他们可以否认在这种情况下切�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Walter Sinnott-Armstrong](http://sites.duke.edu/wsa/) <[*ws66@duke.edu*](mailto:ws66%40duke%2eedu)>
+<!--md-padding-ignore-end-->

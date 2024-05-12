@@ -305,3 +305,4 @@ Because philosophical problems emerge “necessarily” and “objectively”, t
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Katherina Kinzel](https://www.uu.nl/staff/KPKinzel) <[*k.p.kinzel@uu.nl*](mailto:k%2ep%2ekinzel%40uu%2enl)>
+<!--md-padding-ignore-end-->

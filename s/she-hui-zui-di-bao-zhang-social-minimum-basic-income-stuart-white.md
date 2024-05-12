@@ -454,3 +454,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Stuart White](http://www.politics.ox.ac.uk/academic-faculty/stuart-white.html) <[*stuart.white@jesus.ox.ac.uk*](mailto:stuart%2ewhite%40jesus%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

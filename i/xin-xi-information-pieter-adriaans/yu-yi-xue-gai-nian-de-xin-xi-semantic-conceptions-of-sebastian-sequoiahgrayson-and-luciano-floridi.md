@@ -300,3 +300,4 @@ Barwise 主要提出的信息通道的语义理论已经得到改进，以便将
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Sebastian Sequoiah-Grayson <[*sequoiah@gmail.com*](mailto:sequoiah%40gmail%2ecom)>  
 [Luciano Floridi](http://www.philosophyofinformation.net/)
+<!--md-padding-ignore-end-->

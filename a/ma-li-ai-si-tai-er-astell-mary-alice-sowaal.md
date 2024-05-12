@@ -386,3 +386,4 @@ Broad（2002a，103）提供了艾斯泰尔将上帝的智慧和善良凌驾于�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Alice Sowaal](http://online.sfsu.edu/~asowaal/) <[*asowaal@sfsu.edu*](mailto:asowaal%40sfsu%2eedu)>
+<!--md-padding-ignore-end-->

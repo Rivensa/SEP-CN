@@ -380,3 +380,4 @@ Deutsch 如何避免这些复杂性呢？Deutsch 假设在与年轻系统交互�
 Christopher Smeenk <[*csmeenk2@uwo.ca*](mailto:csmeenk2%40uwo%2eca)>  
 [Frank Arntzenius](http://www.philosophy.ox.ac.uk/people/frank-arntzenius)  
 [Tim Maudlin](https://as.nyu.edu/faculty/tim-maudlin.html)
+<!--md-padding-ignore-end-->

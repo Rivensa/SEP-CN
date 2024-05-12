@@ -263,3 +263,4 @@ Uddyotakara 在反对怀疑论者方面提出了更强的论据。在他的 Nyā
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Monima Chadha <[*Monima.Chadha@arts.monash.edu.au*](mailto:Monima%2eChadha%40arts%2emonash%2eedu%2eau)>
+<!--md-padding-ignore-end-->

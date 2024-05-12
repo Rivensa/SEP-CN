@@ -413,3 +413,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 John Morreall <[*jsmorr@wm.edu*](mailto:jsmorr%40wm%2eedu)>
+<!--md-padding-ignore-end-->

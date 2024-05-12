@@ -443,3 +443,4 @@ atonement | [Anselm of Canterbury \[Anselm of Bec\]](https://plato.stanford.edu/
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 William Wood <[*william.wood@theology.ox.ac.uk*](mailto:william%2ewood%40theology%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

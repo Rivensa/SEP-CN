@@ -505,3 +505,4 @@ For helpful editorial and philosophical advice on an earlier version of this ent
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Michael McKenna](http://philosophy.arizona.edu/michael-mckenna) <[*msmckenna@u.arizona.edu*](mailto:msmckenna%40u%2earizona%2eedu)>  
 [D. Justin Coates](http://djustincoates.com/) <[*djcoates@uh.edu*](mailto:djcoates%40uh%2eedu)>
+<!--md-padding-ignore-end-->

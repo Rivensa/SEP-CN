@@ -620,3 +620,4 @@ Discussions with Thomas Pölzler and Tim Waligore helped me in revising the 2015
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Lukas Meyer](https://homepage.uni-graz.at/en/lukas.meyer/) <[*lukas.meyer@uni-graz.at*](mailto:lukas%2emeyer%40uni-graz%2eat)>
+<!--md-padding-ignore-end-->

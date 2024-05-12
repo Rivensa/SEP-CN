@@ -342,3 +342,4 @@ Portions of this entry draw from Cuneo 2011 a, 2022 b, and 2010. I thank Tyler D
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Terence Cuneo](http://www.uvm.edu/~phildept/?Page=Cuneo.php) <[*tcuneo@uvm.edu*](mailto:tcuneo%40uvm%2eedu)>
+<!--md-padding-ignore-end-->

@@ -355,3 +355,4 @@ Coy（2007）认为，在竞争市场中，信息的成本应该正确地反映�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Adam Moore <[*moore2@uw.edu*](mailto:moore2%40uw%2eedu)>  
 [Ken Himma](http://washington.academia.edu/KennethHimma) <[*himma@uw.edu*](mailto:himma%40uw%2eedu)>
+<!--md-padding-ignore-end-->

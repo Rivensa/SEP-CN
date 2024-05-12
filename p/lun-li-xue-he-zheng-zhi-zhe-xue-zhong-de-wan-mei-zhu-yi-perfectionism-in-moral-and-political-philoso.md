@@ -374,3 +374,4 @@ The author thanks David Sobel for commenting on an earlier draft and for many he
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Steven Wall <[*stevenwall@arizona.edu*](mailto:stevenwall%40arizona%2eedu)>
+<!--md-padding-ignore-end-->

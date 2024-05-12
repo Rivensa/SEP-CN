@@ -261,3 +261,4 @@
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Dan Breazeale](https://philosophy.as.uky.edu/users/breazeal)\
 [John Walsh](http://www.johnedwardwalsh.com/) <[*john.walsh@phil.uni-halle.de*](mailto:john%2ewalsh%40phil%2euni-halle%2ede)>
+<!--md-padding-ignore-end-->

@@ -309,3 +309,4 @@ Indeed, the objection seems directed more at narrow reflective equilibrium, wher
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Carl Knight](https://scholar.google.co.uk/citations?hl=en&user=Pl9ebbYAAAAJ) <[*Carl.Knight@glasgow.ac.uk*](mailto:Carl%2eKnight%40glasgow%2eac%2euk)>
+<!--md-padding-ignore-end-->

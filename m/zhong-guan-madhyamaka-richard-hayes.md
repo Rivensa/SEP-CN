@@ -235,3 +235,4 @@ Candrakīrti的两部主要著作之一《中观入正理论》共有十章，�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Richard Hayes](http://www.unm.edu/~rhayes) <[*rhayes@unm.edu*](mailto:rhayes%40unm%2eedu)>
+<!--md-padding-ignore-end-->

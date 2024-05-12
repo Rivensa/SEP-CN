@@ -791,3 +791,4 @@ Both authors wish to thank Michael Kirley for his editorial assistance, research
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Juan S. Piñeros Glasscock <[*juan.pineros@utoronto.ca*](mailto:juan%2epineros%40utoronto%2eca)>  
 Sergio Tenenbaum <[*sergio.tenenbaum@gmail.com*](mailto:sergio%2etenenbaum%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

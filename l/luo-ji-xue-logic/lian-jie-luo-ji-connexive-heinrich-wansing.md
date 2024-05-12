@@ -700,3 +700,4 @@ The author would like to thank Hitoshi Omori for many stimulating discussions on
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[*Heinrich.Wansing@rub.de*](mailto:Heinrich%2eWansing%40rub%2ede)>
+<!--md-padding-ignore-end-->

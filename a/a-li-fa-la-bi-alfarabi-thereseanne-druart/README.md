@@ -214,3 +214,4 @@ The following are listed by editors/translators:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Therese-Anne Druart](http://philosophy.cua.edu/faculty/druart/) <[*druart@cua.edu*](mailto:druart%40cua%2eedu)>
+<!--md-padding-ignore-end-->

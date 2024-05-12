@@ -190,3 +190,4 @@ Academy, Plato’s | [Arcesilaus](https://plato.stanford.edu/entries/arcesilaus/
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [James Allen](http://www.philosophy.utoronto.ca/directory/4413/) <[*jv.allen@utoronto.ca*](mailto:jv%2eallen%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

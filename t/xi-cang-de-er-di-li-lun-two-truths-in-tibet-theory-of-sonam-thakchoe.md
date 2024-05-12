@@ -223,3 +223,4 @@ Etymologically Sakya characterizes ultimate (parama) as a qualification of trans
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Sonam Thakchoe](http://fcms.its.utas.edu.au/arts/philosophy/pagedetails.asp?lpersonId=2144) <[*sonam.thakchoe@utas.edu.au*](mailto:sonam%2ethakchoe%40utas%2eedu%2eau)>
+<!--md-padding-ignore-end-->

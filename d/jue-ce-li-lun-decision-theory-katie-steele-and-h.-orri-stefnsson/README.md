@@ -700,3 +700,4 @@ Hammond 对欧盟理论的论证以及它所引用的动态一致性概念受到
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Katie Steele](http://philosophy.cass.anu.edu.au/people/katie-steele) <[*katie.steele@anu.edu.au*](mailto:katie%2esteele%40anu%2eedu%2eau)>  
 [H. Orri Stefánsson](http://orristefansson.is/) <[*orri.stefansson@philosophy.su.se*](mailto:orri%2estefansson%40philosophy%2esu%2ese)>
+<!--md-padding-ignore-end-->

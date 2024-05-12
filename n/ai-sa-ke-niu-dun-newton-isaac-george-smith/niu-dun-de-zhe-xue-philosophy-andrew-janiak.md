@@ -357,3 +357,4 @@ Bentley寻求牛顿的帮助，特别是因为他想要指导如何通过《自�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Andrew Janiak](https://scholars.duke.edu/person/janiak) <[*janiak@duke.edu*](mailto:janiak%40duke%2eedu)>
+<!--md-padding-ignore-end-->

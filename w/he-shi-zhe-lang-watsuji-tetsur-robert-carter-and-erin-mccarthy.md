@@ -178,3 +178,4 @@ Watsuji Tetsurō, 1992, *Watsuji Tetsurō Zenshū (Complete Works of Watsuji Te
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Robert Carter <[*rcarter@trentu.ca*](mailto:rcarter%40trentu%2eca)>  
 [Erin McCarthy](https://digital.stlawu.edu/person/erin-mccarthy/) <[*emccarthy@stlawu.edu*](mailto:emccarthy%40stlawu%2eedu)>
+<!--md-padding-ignore-end-->

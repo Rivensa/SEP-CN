@@ -194,3 +194,4 @@ Franke 认为，用于推理（5）和（6）的游戏模型应该包含一种�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Robert van Rooij <[*r.a.m.vanrooij@uva.nl*](mailto:r%2ea%2em%2evanrooij%40uva%2enl)>  
 Michael Franke <[*mchfranke@gmail.com*](mailto:mchfranke%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

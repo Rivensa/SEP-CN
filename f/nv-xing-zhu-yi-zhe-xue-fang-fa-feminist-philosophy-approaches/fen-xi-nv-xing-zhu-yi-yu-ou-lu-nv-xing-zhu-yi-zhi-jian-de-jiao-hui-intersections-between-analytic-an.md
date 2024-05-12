@@ -231,3 +231,4 @@ Dotson (2017)通过对 Pauli Murray（1947）关于 Jane Crow 制度的认识提
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Georgia Warnke <[*georgia.warnke@ucr.edu*](mailto:georgia%2ewarnke%40ucr%2eedu)>
+<!--md-padding-ignore-end-->

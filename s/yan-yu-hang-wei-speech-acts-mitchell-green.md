@@ -458,3 +458,4 @@ Bird（2002）否认拒绝的言语行为需要理解。他认为，这样的言
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Mitchell Green <[*mitchell.green@uconn.edu*](mailto:mitchell%2egreen%40uconn%2eedu)>
+<!--md-padding-ignore-end-->

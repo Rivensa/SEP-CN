@@ -589,3 +589,4 @@ Sander 的文章引发了一系列对他的方法和结论的争议（例如，A
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Robert Fullinwider <[*rfullinwider@gmail.com*](mailto:rfullinwider%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

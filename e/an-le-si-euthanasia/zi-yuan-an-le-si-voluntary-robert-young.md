@@ -216,3 +216,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Robert Young](http://www.latrobe.edu.au/humanities/about/staff/profile?uname=RBYoung) <[*robert.young@iinet.net.au*](mailto:robert%2eyoung%40iinet%2enet%2eau)>
+<!--md-padding-ignore-end-->

@@ -275,3 +275,4 @@ However, people often find themselves in situations in which they need to make d
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Rebecca Chan <[*rebecca.s.chan@sjsu.edu*](mailto:rebecca%2es%2echan%40sjsu%2eedu)>
+<!--md-padding-ignore-end-->

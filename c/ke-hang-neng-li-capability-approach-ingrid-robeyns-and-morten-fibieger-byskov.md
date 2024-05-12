@@ -417,3 +417,4 @@ Nussbaum 的工作最接近于为我们提供了一个正义的可行能力理�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Ingrid Robeyns](http://www.uu.nl/staff/IAMRobeyns/0) <[*i.a.m.robeyns@uu.nl*](mailto:i%2ea%2em%2erobeyns%40uu%2enl)>\
 Morten Fibieger Byskov <[*morten.byskov@warwick.ac.uk*](mailto:morten%2ebyskov%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

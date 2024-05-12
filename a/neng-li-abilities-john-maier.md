@@ -423,3 +423,4 @@ I am very grateful to the many people who have provided feedback on this entry s
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [John Maier](http://jmaier.net/) <[*john@jmaier.net*](mailto:john%40jmaier%2enet)>
+<!--md-padding-ignore-end-->

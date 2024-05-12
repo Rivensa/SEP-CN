@@ -312,3 +312,4 @@
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by  
 Kwame Gyekye
+<!--md-padding-ignore-end-->

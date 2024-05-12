@@ -171,3 +171,4 @@ Citations by volume and page only are to the Mayans y Siscár edition of the *O
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Lorenzo Casini <[*lorenzo.casini@filosofi.uu.se*](mailto:lorenzo%2ecasini%40filosofi%2euu%2ese)>
+<!--md-padding-ignore-end-->

@@ -234,3 +234,4 @@ This entry was originally composed by Bernard R. Boxill, and substantially revis
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Bernard Boxill  
 [J. Angelo Corlett](https://corlett.sdsu.edu/Corlett/Welcome.html) <[*acorlett@sdsu.edu*](mailto:acorlett%40sdsu%2eedu)>
+<!--md-padding-ignore-end-->

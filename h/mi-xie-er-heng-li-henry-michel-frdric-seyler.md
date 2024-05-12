@@ -260,3 +260,4 @@ Page indications refer to the English translations when available
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Frédéric Seyler <[*fseyler@depaul.edu*](mailto:fseyler%40depaul%2eedu)>
+<!--md-padding-ignore-end-->

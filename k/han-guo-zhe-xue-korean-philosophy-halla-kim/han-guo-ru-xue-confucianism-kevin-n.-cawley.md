@@ -368,3 +368,4 @@ See the supplementary document [(Figures and their Works)](https://plato.stanfor
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Kevin N. Cawley](http://research.ucc.ie/profiles/A026/kcawley) <[*k.cawley@ucc.ie*](mailto:k%2ecawley%40ucc%2eie)>
+<!--md-padding-ignore-end-->

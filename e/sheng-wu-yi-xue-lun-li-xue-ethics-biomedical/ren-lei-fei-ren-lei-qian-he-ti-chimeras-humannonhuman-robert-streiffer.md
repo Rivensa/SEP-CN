@@ -405,3 +405,4 @@ My thanks to Antonio Rauti, Jaime Ahlberg, Sara Gavrell Ortiz, Carolina Sartorio
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Robert Streiffer](http://medhist.wisc.edu/faculty/streiffer/index.shtml) <[*rstreiffer@wisc.edu*](mailto:rstreiffer%40wisc%2eedu)>
+<!--md-padding-ignore-end-->

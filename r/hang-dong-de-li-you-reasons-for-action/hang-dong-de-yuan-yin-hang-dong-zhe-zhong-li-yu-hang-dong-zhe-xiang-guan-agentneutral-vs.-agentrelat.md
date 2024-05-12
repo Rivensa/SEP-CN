@@ -288,3 +288,4 @@ Many thanks to David Copp and Walter Sinnott-Armstrong for helpful feedback on a
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Michael Ridge](http://www.philosophy.ed.ac.uk/people/full-academic/michael-ridge.html) <[*mridge@staffmail.ed.ac.uk*](mailto:mridge%40staffmail%2eed%2eac%2euk)>
+<!--md-padding-ignore-end-->

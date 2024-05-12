@@ -546,3 +546,4 @@ P(G/F&H)=m and P(G/F&¬H)=n, where m≠n;
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [James Fetzer](http://www.d.umn.edu/~jfetzer/) <[*jfetzer@d.umn.edu*](mailto:jfetzer%40d%2eumn%2eedu)>
+<!--md-padding-ignore-end-->

@@ -556,3 +556,4 @@ No one can have an encyclopedic knowledge on a topic as vast as imagination. The
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Shen-yi Liao](http://liao.shen-yi.org/) <[*liao.shen.yi@gmail.com*](mailto:liao%2eshen%2eyi%40gmail%2ecom)>  
 Tamar Gendler <[*tamar.gendler@yale.edu*](mailto:tamar%2egendler%40yale%2eedu)>
+<!--md-padding-ignore-end-->

@@ -257,3 +257,4 @@ Mira Bachvarova 还提出了一种基于非统治的多元文化主义的优点�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Sarah Song](http://polisci.berkeley.edu/people/person/sarah-song) <[*ssong@law.berkeley.edu*](mailto:ssong%40law%2eberkeley%2eedu)>
+<!--md-padding-ignore-end-->

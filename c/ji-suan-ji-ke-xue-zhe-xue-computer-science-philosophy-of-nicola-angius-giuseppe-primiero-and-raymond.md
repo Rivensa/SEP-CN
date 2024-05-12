@@ -612,3 +612,4 @@ Fetzer (1988) 反对认为，演绎推理只能保证程序相对于其规范的
 [Nicola Angius](https://uniss.academia.edu/NicolaAngius) <[*nangius@uniss.it*](mailto:nangius%40uniss%2eit)>\
 Giuseppe Primiero <[*giuseppe.primiero@unimi.it*](mailto:giuseppe%2eprimiero%40unimi%2eit)>\
 [Raymond Turner](http://cswww.essex.ac.uk/staff/turnr/) <[*turnr@essex.ac.uk*](mailto:turnr%40essex%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -204,3 +204,4 @@
 
 [Copyright © 2003](https://plato.stanford.edu/info.html#c) by\
 [Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[*spessin@du.edu*](mailto:spessin%40du%2eedu)>
+<!--md-padding-ignore-end-->

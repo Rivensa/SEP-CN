@@ -238,3 +238,4 @@
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Hugh J. McCann  
 [Daniel M. Johnson](https://sites.google.com/site/danielmjohnsonphilosophy/) <[*djohnson2@shawnee.edu*](mailto:djohnson2%40shawnee%2eedu)>
+<!--md-padding-ignore-end-->

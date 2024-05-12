@@ -284,3 +284,4 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Paul Russell](https://www.fil.lu.se/en/person/PaulRussell/) <[*paul.russell@fil.lu.se*](mailto:paul%2erussell%40fil%2elu%2ese)>
+<!--md-padding-ignore-end-->

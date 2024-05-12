@@ -187,3 +187,4 @@ Below is a list of editions and translations of Falaquera’s works. References 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Steve Harvey](https://jphilosophy.biu.ac.il/en/node/1013) <[*steven.harvey@biu.ac.il*](mailto:steven%2eharvey%40biu%2eac%2eil)>
+<!--md-padding-ignore-end-->

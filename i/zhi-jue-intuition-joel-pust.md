@@ -570,3 +570,4 @@ For very helpful and patient critical comments on previous drafts of this entry,
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Joel Pust](http://udel.edu/~jpust) <[*jpust@udel.edu*](mailto:jpust%40udel%2eedu)>
+<!--md-padding-ignore-end-->

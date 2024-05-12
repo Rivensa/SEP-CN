@@ -720,3 +720,4 @@ Please contact the authors with other suggestions.
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 [John Kilcullen](http://www.humanities.mq.edu.au/Ockham/kilcullen.html)\
 [Jonathan Robinson](http://individual.utoronto.ca/jwrobinson/)
+<!--md-padding-ignore-end-->

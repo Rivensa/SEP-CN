@@ -494,3 +494,4 @@ DALYs 背后的主要思想很简单。如果危地马拉的一名女性在 63 �
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Julian Reiss](http://jreiss.org/)  
 [Rachel A. Ankeny](http://researchers.adelaide.edu.au/profile/rachel.ankeny) <[*rachel.ankeny@adelaide.edu.au*](mailto:rachel%2eankeny%40adelaide%2eedu%2eau)>
+<!--md-padding-ignore-end-->

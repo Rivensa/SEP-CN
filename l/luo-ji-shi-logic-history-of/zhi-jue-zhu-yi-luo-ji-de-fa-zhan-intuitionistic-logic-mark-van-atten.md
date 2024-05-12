@@ -840,3 +840,4 @@ I am grateful to Dirk van Dalen and Göran Sundholm for discussions of some of t
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Mark van Atten](http://umr8547.ens.fr/spip.php?rubrique264&lang=fr) <[*vanattenmark@gmail.com*](mailto:vanattenmark%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

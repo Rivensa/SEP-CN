@@ -300,3 +300,4 @@ Dembski 所做的关键假设是设计、法则和机会是互斥的。这正是
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Michael Ruse](http://philosophy.fsu.edu/people/faculty/michael-ruse)
+<!--md-padding-ignore-end-->

@@ -546,3 +546,4 @@ The author thanks Ian Orr and Eddy Falls for help in researching this article, a
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 John Nolt
+<!--md-padding-ignore-end-->

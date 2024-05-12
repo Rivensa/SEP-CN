@@ -153,3 +153,4 @@
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Lloyd Gerson](http://individual.utoronto.ca/lpgerson/)
+<!--md-padding-ignore-end-->

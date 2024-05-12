@@ -237,3 +237,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [David Weinstein](http://college.wfu.edu/politics/faculty-and-staff/david-weinstein/) <[*weinstd@wfu.edu*](mailto:weinstd%40wfu%2eedu)>
+<!--md-padding-ignore-end-->

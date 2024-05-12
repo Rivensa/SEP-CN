@@ -455,3 +455,4 @@ Richerson and colleagues 对于标签化的这些担忧不以为然
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Tim Lewens <[*tml1000@cam.ac.uk*](mailto:tml1000%40cam%2eac%2euk)>\
 Andrew Buskell <[*abuskell@gatech.edu*](mailto:abuskell%40gatech%2eedu)>
+<!--md-padding-ignore-end-->

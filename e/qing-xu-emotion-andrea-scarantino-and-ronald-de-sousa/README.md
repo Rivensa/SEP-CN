@@ -766,3 +766,4 @@ We want to thank Manula Adhihetty for his valuable work helping us edit the entr
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Andrea Scarantino <[*ascarantino@gsu.edu*](mailto:ascarantino%40gsu%2eedu)>  
 [Ronald de Sousa](https://philosophy.utoronto.ca/directory/ronald-de-sousa/) <[*ronald.de.sousa@utoronto.ca*](mailto:ronald%2ede%2esousa%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

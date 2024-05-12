@@ -282,3 +282,4 @@ Academy, Plato’s | [Aristotle](https://plato.stanford.edu/entries/aristotle/) 
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Russell Dancy](http://philosophy.fsu.edu/people/faculty/russell-dancy)
+<!--md-padding-ignore-end-->

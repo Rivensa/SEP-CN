@@ -253,3 +253,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Daniel Dahlstrom](http://www.bu.edu/philo/people/faculty/full-time/daniel-o-dahlstrom/) <[*dahlstro@bu.edu*](mailto:dahlstro%40bu%2eedu)>
+<!--md-padding-ignore-end-->

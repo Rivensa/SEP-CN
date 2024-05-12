@@ -330,3 +330,4 @@ See [section 2](https://plato.stanford.edu/entries/boethius-dacia/#Work), above
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Sten Ebbesen <[*se@hum.ku.dk*](mailto:se%40hum%2eku%2edk)>
+<!--md-padding-ignore-end-->

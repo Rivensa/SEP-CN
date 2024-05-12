@@ -448,3 +448,4 @@ PTS 的概念最初被定义为赋予某些逻辑以递归和可接受的语义�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Walter Carnielli](http://www.cle.unicamp.br/prof/carnielli/) <[*walter.carnielli@cle.unicamp.br*](mailto:walter%2ecarnielli%40cle%2eunicamp%2ebr)>  
 [Marcelo Esteban Coniglio](http://www.cle.unicamp.br/prof/coniglio/) <[*coniglio@cle.unicamp.br*](mailto:coniglio%40cle%2eunicamp%2ebr)>
+<!--md-padding-ignore-end-->

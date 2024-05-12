@@ -488,3 +488,4 @@ I am extremely grateful to Megan Laverty, Vic Seidler, and Kieran Setiya for acu
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Lawrence Blum](http://lawrenceblum.net/) <[*lawrence.blum@umb.edu*](mailto:lawrence%2eblum%40umb%2eedu)>
+<!--md-padding-ignore-end-->

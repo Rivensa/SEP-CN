@@ -466,3 +466,4 @@ Sadly, Gregory Fitch passed away January 27, 2007. Prior to his death, he made a
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 Greg Fitch\
 Michael Nelson <[*mnelson@ucr.edu*](mailto:mnelson%40ucr%2eedu)>
+<!--md-padding-ignore-end-->

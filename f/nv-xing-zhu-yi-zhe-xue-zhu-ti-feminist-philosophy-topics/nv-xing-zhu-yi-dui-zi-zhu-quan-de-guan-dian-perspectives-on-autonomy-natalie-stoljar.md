@@ -318,3 +318,4 @@ I would like to thank Jennifer Saul, Anita Superson and Nancy Tuana for their ca
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Natalie Stoljar](http://www.mcgill.ca/philosophy) <[*natalie.stoljar@mcgill.ca*](mailto:natalie%2estoljar%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

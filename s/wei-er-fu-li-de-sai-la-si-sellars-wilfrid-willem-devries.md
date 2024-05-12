@@ -680,3 +680,4 @@ There is an almost universally used standard citation format for Sellars’s wor
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Willem deVries](https://mypages.unh.edu/wad/bio) <[*willem.devries@unh.edu*](mailto:willem%2edevries%40unh%2eedu)>
+<!--md-padding-ignore-end-->

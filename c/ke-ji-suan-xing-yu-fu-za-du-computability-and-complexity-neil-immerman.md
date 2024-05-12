@@ -349,3 +349,4 @@ Church, Alonzo: logic, contributions to | [Church-Turing Thesis](https://plato
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Neil Immerman](http://www.cs.umass.edu/~immerman/) <[*immerman@cs.umass.edu*](mailto:immerman%40cs%2eumass%2eedu)>
+<!--md-padding-ignore-end-->

@@ -758,3 +758,4 @@ Kreisel（1967）指出，二阶集合论在某种意义上决定了连续统假
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Jouko Väänänen <[*jouko.vaananen@helsinki.fi*](mailto:jouko%2evaananen%40helsinki%2efi)>
+<!--md-padding-ignore-end-->

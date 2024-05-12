@@ -178,3 +178,4 @@ The 1962 reprint of Valla’s *Opera omnia*, contains his most important writin
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Lodi Nauta](http://www.rug.nl/staff/l.w.nauta/index) <[*l.w.nauta@rug.nl*](mailto:l%2ew%2enauta%40rug%2enl)>
+<!--md-padding-ignore-end-->

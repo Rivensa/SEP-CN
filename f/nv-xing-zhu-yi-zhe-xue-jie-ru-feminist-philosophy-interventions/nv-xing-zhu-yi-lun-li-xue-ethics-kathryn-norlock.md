@@ -409,3 +409,4 @@ This entry exists thanks to the steady work of Research Assistant Collin Chepeka
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Kathryn Norlock](http://kathrynnorlock.com/) <[*kathrynnorlock@trentu.ca*](mailto:kathrynnorlock%40trentu%2eca)>
+<!--md-padding-ignore-end-->

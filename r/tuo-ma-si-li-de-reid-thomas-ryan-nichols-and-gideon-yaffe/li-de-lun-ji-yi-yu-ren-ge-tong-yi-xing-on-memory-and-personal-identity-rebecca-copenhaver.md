@@ -174,3 +174,4 @@
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Rebecca Copenhaver](https://philosophy.wustl.edu/people/becko-copenhaver) <[*becko.copenhaver@gmail.com*](mailto:becko%2ecopenhaver%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

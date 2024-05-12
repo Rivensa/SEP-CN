@@ -170,3 +170,4 @@ Montesquieu's emphasis on the connection between liberty and the details of the 
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Hilary Bok](http://philosophy.jhu.edu/bios/hilary-bok/) <[*hbok@jhu.edu*](mailto:hbok%40jhu%2eedu)>
+<!--md-padding-ignore-end-->

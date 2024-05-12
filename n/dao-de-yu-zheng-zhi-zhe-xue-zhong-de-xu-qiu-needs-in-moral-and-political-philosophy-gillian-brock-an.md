@@ -276,3 +276,4 @@ Sen提出的第二个指控是，“只关注最低需求可能会导致对整�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Gillian Brock](http://www.arts.auckland.ac.nz/people/gbro064) <[*g.brock@auckland.ac.nz*](mailto:g%2ebrock%40auckland%2eac%2enz)>  
 [David Miller](https://www.nuffield.ox.ac.uk/people/profiles/david-miller/) <[*david.miller@nuffield.ox.ac.uk*](mailto:david%2emiller%40nuffield%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

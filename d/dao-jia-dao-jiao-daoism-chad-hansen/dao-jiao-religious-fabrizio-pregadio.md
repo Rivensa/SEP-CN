@@ -580,3 +580,4 @@ The author is grateful to Philipp Hünnebeck, Kelsey Seymour, Song Xiaokun, and 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Fabrizio Pregadio](http://www.goldenelixir.com/) <[*fabrizio.pregadio@fau.de*](mailto:fabrizio%2epregadio%40fau%2ede)>
+<!--md-padding-ignore-end-->

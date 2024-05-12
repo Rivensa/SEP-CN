@@ -274,3 +274,4 @@ I am grateful to the University of Utah Tanner Humanities Center for a mini-gran
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Chrisoula Andreou <[*andreou@philosophy.utah.edu*](mailto:andreou%40philosophy%2eutah%2eedu)>
+<!--md-padding-ignore-end-->

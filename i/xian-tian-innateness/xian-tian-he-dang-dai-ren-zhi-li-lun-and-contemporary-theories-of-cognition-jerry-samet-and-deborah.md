@@ -438,3 +438,4 @@ P(Scene∣Image)=P(Image∣Scene)P(Scene)P(Image)
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Jerry Samet  
 Deborah Zaitchik
+<!--md-padding-ignore-end-->

@@ -548,3 +548,4 @@ I am indebted to Thomas Pogge for numerous helpful suggestions and clarification
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Scott Anderson](https://philosophy.ubc.ca/profile/scott-anderson/) <[*scott.anderson@ubc.ca*](mailto:scott%2eanderson%40ubc%2eca)>
+<!--md-padding-ignore-end-->

@@ -452,3 +452,4 @@ Betz (2015)认为，即使对集合结果进行可能性解释也可能难以证
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Wendy Parker](https://liberalarts.vt.edu/departments-and-schools/department-of-philosophy/faculty/wendy-parker.html) <[*wendyparker@vt.edu*](mailto:wendyparker%40vt%2eedu)>
+<!--md-padding-ignore-end-->

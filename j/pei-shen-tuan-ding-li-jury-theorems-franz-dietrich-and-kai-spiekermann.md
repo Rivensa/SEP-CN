@@ -588,3 +588,4 @@ A={{p,p→q,q},{¬p,p→q,q},…}.
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Franz Dietrich](http://franzdietrich.net/) <[*fd@franzdietrich.net*](mailto:fd%40franzdietrich%2enet)>  
 [Kai Spiekermann](http://kaispiekermann.net/) <[*k.spiekermann@lse.ac.uk*](mailto:k%2espiekermann%40lse%2eac%2euk)>
+<!--md-padding-ignore-end-->

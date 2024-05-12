@@ -572,3 +572,4 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Seamus Bradley](https://www.seamusbradley.net/)
+<!--md-padding-ignore-end-->

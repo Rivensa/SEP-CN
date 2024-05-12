@@ -398,3 +398,4 @@ I wish to think many people discussions with whom have shaped my understanding o
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Guido Bacciagaluppi](http://www.uu.nl/staff/GBacciagaluppi/0) <[*g.bacciagaluppi@uu.nl*](mailto:g%2ebacciagaluppi%40uu%2enl)>
+<!--md-padding-ignore-end-->

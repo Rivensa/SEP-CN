@@ -503,3 +503,4 @@ I am grateful to the following for extremely useful comments on previous version
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Robert Stern](https://www.sheffield.ac.uk/philosophy/people/academic-staff/robert-stern) <[*r.stern@sheffield.ac.uk*](mailto:r%2estern%40sheffield%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -298,3 +298,4 @@ This material is based upon work supported by the National Science Foundation un
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Merel Noorman <[*merelnoorman@gmail.com*](mailto:merelnoorman%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

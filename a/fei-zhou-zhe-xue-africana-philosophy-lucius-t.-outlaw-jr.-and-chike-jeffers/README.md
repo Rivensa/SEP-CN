@@ -475,3 +475,4 @@ African Philosophy: Africana aesthetics | [African Philosophy: ethics](https:/
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Lucius T. Outlaw Jr.](http://www.vanderbilt.edu/AnS/philosophy/_people/_outlaw.html) <[*loutlawjr@comcast.net*](mailto:loutlawjr%40comcast%2enet)>  
 [Chike Jeffers](http://philosophy.dal.ca/Faculty%20and%20Staff/Chike_Jeffers.php) <[*Chike.Jeffers@dal.ca*](mailto:Chike%2eJeffers%40dal%2eca)>
+<!--md-padding-ignore-end-->

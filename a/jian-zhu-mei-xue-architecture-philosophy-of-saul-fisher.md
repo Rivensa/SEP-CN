@@ -524,3 +524,4 @@ I thank reviewers of the *Stanford Encyclopedia of Philosophy* for critical co
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Saul Fisher <[*sfisher@mercy.edu*](mailto:sfisher%40mercy%2eedu)>
+<!--md-padding-ignore-end-->

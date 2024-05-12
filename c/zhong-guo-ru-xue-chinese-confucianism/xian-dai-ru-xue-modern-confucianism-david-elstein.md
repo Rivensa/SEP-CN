@@ -392,3 +392,4 @@ This entry makes use of some of material previously published by the author (Els
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [David Elstein](https://hawksites.newpaltz.edu/asianstudies/david-elstein/) <[*elsteind@newpaltz.edu*](mailto:elsteind%40newpaltz%2eedu)>
+<!--md-padding-ignore-end-->

@@ -514,3 +514,4 @@ This bibliography includes only contemporary works in English. For classical phi
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Yuriko Saito <[*ysaito@risd.edu*](mailto:ysaito%40risd%2eedu)>
+<!--md-padding-ignore-end-->

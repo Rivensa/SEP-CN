@@ -429,3 +429,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Allen Carlson](http://allencarlson.com/)
+<!--md-padding-ignore-end-->

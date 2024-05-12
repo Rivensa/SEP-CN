@@ -446,3 +446,4 @@ I am grateful to Chad Hansen for numerous constructive comments on an earlier dr
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Chris Fraser](http://www.cjfraser.net/) <[*cjfraser@gmail.com*](mailto:cjfraser%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

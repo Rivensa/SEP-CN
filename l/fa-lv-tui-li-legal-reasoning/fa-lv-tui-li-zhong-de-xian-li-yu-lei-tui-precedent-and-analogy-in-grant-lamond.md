@@ -303,3 +303,4 @@ I am grateful to Liam Murphy and Joseph Raz for their very helpful comments on a
 
 [Copyright © 2006](https://plato.stanford.edu/info.html#c) by  
 [Grant Lamond](http://www.law.ox.ac.uk/people/profile.php?who=lamondg) <[*grant.lamond@balliol.ox.ac.uk*](mailto:grant%2elamond%40balliol%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

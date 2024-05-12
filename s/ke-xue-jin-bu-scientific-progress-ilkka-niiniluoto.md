@@ -395,3 +395,4 @@ Hanson, Popper, Kuhn, and Feyerabend 都认同所有观察都是理论负荷的�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Ilkka Niiniluoto](http://www.helsinki.fi/theoreticalphilosophy/staff/Niiniluoto.htm) <[*ilkka.niiniluoto@helsinki.fi*](mailto:ilkka%2eniiniluoto%40helsinki%2efi)>
+<!--md-padding-ignore-end-->

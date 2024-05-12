@@ -503,3 +503,4 @@ Schlick将Gestalt理论作为心理学呈现在物理主义的简化框架中，
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Jordi Cat <[*jcat@indiana.edu*](mailto:jcat%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

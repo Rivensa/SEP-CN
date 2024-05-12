@@ -734,3 +734,4 @@ The authors would like to thank Amy Allen, Axel Honneth, Noëlle McAfee, and Mar
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Robin Celikates <[*robin.celikates@fu-berlin.de*](mailto:robin%2ecelikates%40fu-berlin%2ede)>\
 [Jeffrey Flynn](http://jeffreyflynn.weebly.com/) <[*jeflynn@fordham.edu*](mailto:jeflynn%40fordham%2eedu)>
+<!--md-padding-ignore-end-->

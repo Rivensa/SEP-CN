@@ -1136,3 +1136,4 @@ Hawley（2019）还在断言和承诺之间建立了强烈的联系，但方向�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Peter Pagin <[*peter.pagin@philosophy.su.se*](mailto:peter%2epagin%40philosophy%2esu%2ese)>  
 [Neri Marsili](https://nerimarsili.weebly.com/) <[*neri.marsili@unibo.it*](mailto:neri%2emarsili%40unibo%2eit)>
+<!--md-padding-ignore-end-->

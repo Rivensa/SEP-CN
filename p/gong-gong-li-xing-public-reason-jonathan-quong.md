@@ -363,3 +363,4 @@ Thanks to Samuel Freeman, Andrew Lister, Micah Schwartzman, Rebecca Stone, and J
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Jonathan Quong](https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1048339) <[*quong@usc.edu*](mailto:quong%40usc%2eedu)>
+<!--md-padding-ignore-end-->

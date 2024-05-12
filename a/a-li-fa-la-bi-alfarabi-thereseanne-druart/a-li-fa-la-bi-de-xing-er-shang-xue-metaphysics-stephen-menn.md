@@ -372,3 +372,4 @@ And again we discover, by tracing back the causes of things to a first cause whi
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Stephen Menn <[*stephen.menn@mcgill.ca*](mailto:stephen%2emenn%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

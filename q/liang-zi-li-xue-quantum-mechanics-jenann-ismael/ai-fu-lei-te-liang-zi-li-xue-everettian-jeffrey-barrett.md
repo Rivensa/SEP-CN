@@ -440,3 +440,4 @@ I would like to thank Peter Byrne and the editors for helpful suggestions on thi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jeffrey Barrett](http://faculty.sites.uci.edu/jeffreybarrett/) <[*j.barrett@uci.edu*](mailto:j%2ebarrett%40uci%2eedu)>
+<!--md-padding-ignore-end-->

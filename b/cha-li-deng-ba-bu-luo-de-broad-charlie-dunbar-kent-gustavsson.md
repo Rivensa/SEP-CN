@@ -367,3 +367,4 @@ I would like to thank Jan Almäng, Jens Johansson and the anonymous referees for
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Kent Gustavsson <[*kent.s.gustavsson@gmail.com*](mailto:kent%2es%2egustavsson%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

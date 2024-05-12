@@ -329,3 +329,4 @@ p(x1)⋅u(x1)+p(x2)⋅u(x2)+p(x3)⋅u(x3)。
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Sven Ove Hansson](http://people.kth.se/~soh/) <[*soh@kth.se*](mailto:soh%40kth%2ese)>
+<!--md-padding-ignore-end-->

@@ -530,3 +530,4 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 Cailin O’Connor <[*cailino@uci.edu*](mailto:cailino%40uci%2eedu)>  
 [Sanford Goldberg](https://philosophy.northwestern.edu/people/continuing-faculty/goldberg-sanford.html) <[*s-goldberg@northwestern.edu*](mailto:s-goldberg%40northwestern%2eedu)>  
 [Alvin Goldman](http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=102&Itemid=210)
+<!--md-padding-ignore-end-->

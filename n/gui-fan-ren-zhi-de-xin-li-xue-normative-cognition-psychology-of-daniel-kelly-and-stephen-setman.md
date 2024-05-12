@@ -446,3 +446,4 @@ Sripada 和 Stich 提供了一个初始的图示表示：
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Daniel Kelly <[*drkelly@purdue.edu*](mailto:drkelly%40purdue%2eedu)>  
 Stephen Setman <[*ssetman@purdue.edu*](mailto:ssetman%40purdue%2eedu)>
+<!--md-padding-ignore-end-->

@@ -486,3 +486,4 @@ The author would like to thank Ada Browowski, Pr Phillip Mitsis and Lex Paulson,
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Carlos Lévy <[*carlos.levy49@gmail.com*](mailto:carlos%2elevy49%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

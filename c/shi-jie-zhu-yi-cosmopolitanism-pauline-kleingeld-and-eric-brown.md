@@ -296,3 +296,4 @@
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Pauline Kleingeld <[*pauline.kleingeld@rug.nl*](mailto:pauline%2ekleingeld%40rug%2enl)>  
 [Eric Brown](https://sites.google.com/view/ericbrownphilosophy/eric-brown) <[*eabrown@wustl.edu*](mailto:eabrown%40wustl%2eedu)>
+<!--md-padding-ignore-end-->

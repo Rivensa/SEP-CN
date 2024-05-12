@@ -273,3 +273,4 @@ Sellars（1963 年，132）认为，经典经验主义者所给出的是一个�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Bruce Hunter <[*bruce.hunter@ualberta.ca*](mailto:bruce%2ehunter%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

@@ -487,3 +487,4 @@ HapMap 的一种间接批评源自 GWAS 未能为研究人员提供关于我们�
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Stephan Guttinger <[*s.m.guttinger@exeter.ac.uk*](mailto:s%2em%2eguttinger%40exeter%2eac%2euk)>  
 John Dupré <[*J.A.Dupre@exeter.ac.uk*](mailto:J%2eA%2eDupre%40exeter%2eac%2euk)>
+<!--md-padding-ignore-end-->

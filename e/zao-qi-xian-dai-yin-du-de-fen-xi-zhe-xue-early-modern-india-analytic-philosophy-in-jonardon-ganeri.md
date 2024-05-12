@@ -745,3 +745,4 @@ ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Jonardon Ganeri](https://philosophy.utoronto.ca/directory/jonardon-ganeri/) <[*jonardon.ganeri@utoronto.ca*](mailto:jonardon%2eganeri%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

@@ -1583,3 +1583,4 @@ Knuttila 和 Loettgers（2014）研究了类比推理在合成生物学中的作
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Paul Bartha](https://philosophy.ubc.ca/persons/paul-bartha/) <[*paul.bartha@ubc.ca*](mailto:paul%2ebartha%40ubc%2eca)>
+<!--md-padding-ignore-end-->

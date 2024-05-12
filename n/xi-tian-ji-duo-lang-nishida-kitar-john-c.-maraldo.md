@@ -665,3 +665,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 John C. Maraldo <[*jmaraldo@unf.edu*](mailto:jmaraldo%40unf%2eedu)>
+<!--md-padding-ignore-end-->

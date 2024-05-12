@@ -358,3 +358,4 @@ The following works by John Rawls are cited above.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Samuel Freeman](https://philosophy.sas.upenn.edu/people/samuel-freeman) <[*sfreeman@sas.upenn.edu*](mailto:sfreeman%40sas%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

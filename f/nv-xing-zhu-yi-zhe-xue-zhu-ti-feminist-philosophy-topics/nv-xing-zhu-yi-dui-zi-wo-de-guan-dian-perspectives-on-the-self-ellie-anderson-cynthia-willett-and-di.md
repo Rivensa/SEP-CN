@@ -268,3 +268,4 @@ The following works are cited in the entry.
 Ellie Anderson <[*ellie\_anderson@pitzer.edu*](mailto:ellie\_anderson%40pitzer%2eedu)>\
 Cynthia Willett <[*cwillet@emory.edu*](mailto:cwillet%40emory%2eedu)>\
 [Diana Meyers](https://dianatietjensmeyers.wordpress.com/)
+<!--md-padding-ignore-end-->

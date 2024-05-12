@@ -309,3 +309,4 @@ Ketonen 考虑的公理是来自 Skolem 在上面第一节中讨论的 1920 年�
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
 Jan von Plato
+<!--md-padding-ignore-end-->

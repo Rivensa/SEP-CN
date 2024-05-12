@@ -479,3 +479,4 @@ Several of Bosanquet’s undergraduate essays appear in
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 William Sweet <[*wsweet@stfx.ca*](mailto:wsweet%40stfx%2eca)>
+<!--md-padding-ignore-end-->

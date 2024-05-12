@@ -418,3 +418,4 @@ INTEND(A⬦ϕ)→(INTEND(A⬦ϕ)UNTIL(BEL(ϕ)∨¬BEL(E⬦ϕ)))
 Krister Segerberg  
 John-Jules Meyer  
 [Marcus Kracht](http://wwwhomes.uni-bielefeld.de/mkracht/index-en.html)
+<!--md-padding-ignore-end-->

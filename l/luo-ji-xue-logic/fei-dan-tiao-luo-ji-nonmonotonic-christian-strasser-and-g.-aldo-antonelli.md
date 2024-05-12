@@ -719,3 +719,4 @@ Pelletier 和 Elio（1994）研究了影响受试者对默认值或继承关系�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Christian Strasser](http://rub.academia.edu/ChristianStrasser) <[*Christian.Strasser@ruhr-uni-bochum.de*](mailto:Christian%2eStrasser%40ruhr-uni-bochum%2ede)>\
 G. Aldo Antonelli
+<!--md-padding-ignore-end-->

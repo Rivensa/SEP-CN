@@ -746,3 +746,4 @@ I am indebted to Alan Code, Marc Cohen, and Theodor Ebert for helpful criticisms
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Robin Smith](http://philosophy.tamu.edu/html/bio-Smith.html) <[*rasmith@tamu.edu*](mailto:rasmith%40tamu%2eedu)>
+<!--md-padding-ignore-end-->

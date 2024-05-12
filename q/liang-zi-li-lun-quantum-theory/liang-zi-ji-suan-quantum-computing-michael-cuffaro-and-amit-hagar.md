@@ -444,3 +444,4 @@ Aaronson (2013b)和 Cuffaro (2012, 2022)指出，量子计算的多世界解释�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Michael Cuffaro](http://www.michaelcuffaro.com/) <[*mike@michaelcuffaro.com*](mailto:mike%40michaelcuffaro%2ecom)>  
 [Amit Hagar](https://hagara.pages.iu.edu/)
+<!--md-padding-ignore-end-->

@@ -607,3 +607,4 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Walter Dean](http://go.warwick.ac.uk/whdean) <[*W.H.Dean@warwick.ac.uk*](mailto:W%2eH%2eDean%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

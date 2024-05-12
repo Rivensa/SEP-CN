@@ -200,3 +200,4 @@ The author and editors would like to thank Martin Pokorny for noticing an inaccu
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Markus Führer](http://web.augsburg.edu/philosophy/fuehrer.html) <[*fuehrer@augsburg.edu*](mailto:fuehrer%40augsburg%2eedu)>
+<!--md-padding-ignore-end-->

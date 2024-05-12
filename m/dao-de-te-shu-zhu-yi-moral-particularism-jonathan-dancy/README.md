@@ -173,3 +173,4 @@ The bibliography presented here is a short list of pieces recommended as further
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Jonathan Dancy
+<!--md-padding-ignore-end-->

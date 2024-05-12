@@ -631,3 +631,4 @@ I thank Christopher Hunter Lean (Philosophy Department, University of Sydney) wh
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Daniel P. Faith <[*danfaith9@yahoo.com.au*](mailto:danfaith9%40yahoo%2ecom%2eau)>
+<!--md-padding-ignore-end-->

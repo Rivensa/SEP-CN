@@ -459,3 +459,4 @@ Work on this entry was supported by a grant from the John Templeton Foundation. 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Christopher Smeenk <[*csmeenk2@uwo.ca*](mailto:csmeenk2%40uwo%2eca)>  
 [George Ellis](http://www.math.uct.ac.za/mam/staff/ellis) <[*george.ellis@uct.ac.za*](mailto:george%2eellis%40uct%2eac%2eza)>
+<!--md-padding-ignore-end-->

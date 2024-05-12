@@ -241,3 +241,4 @@ The authors note that Section 2.1 of the August 8, 2014 update was written by th
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Charlotte Witt <[*cewitt@cisunix.unh.edu*](mailto:cewitt%40cisunix%2eunh%2eedu)>  
 [Lisa Shapiro](https://www.mcgill.ca/philosophy/lisa-shapiro) <[*lisa.shapiro@mcgill.ca*](mailto:lisa%2eshapiro%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

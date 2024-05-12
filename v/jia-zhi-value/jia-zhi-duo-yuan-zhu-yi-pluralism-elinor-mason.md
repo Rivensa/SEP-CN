@@ -319,3 +319,4 @@ Raz 对行为体性质的观点在许多文章中进行了详细的辩护，所�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Elinor Mason](https://www.philosophy.ucsb.edu/people/elinor-mason) <[*elinormason@ucsb.edu*](mailto:elinormason%40ucsb%2eedu)>
+<!--md-padding-ignore-end-->

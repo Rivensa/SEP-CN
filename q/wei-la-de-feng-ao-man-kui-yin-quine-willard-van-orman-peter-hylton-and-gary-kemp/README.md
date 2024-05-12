@@ -413,3 +413,4 @@ We are grateful to Dagfinn Føllesdal, Andrew Lugg, and Ed Zalta for their comme
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Peter Hylton](https://phil.uic.edu/philosophy/people/faculty/hylton) <[*hylton@uic.edu*](mailto:hylton%40uic%2eedu)>  
 [Gary Kemp](http://www.gla.ac.uk/schools/humanities/staff/garykemp/) <[*gary.kemp@glasgow.ac.uk*](mailto:gary%2ekemp%40glasgow%2eac%2euk)>
+<!--md-padding-ignore-end-->

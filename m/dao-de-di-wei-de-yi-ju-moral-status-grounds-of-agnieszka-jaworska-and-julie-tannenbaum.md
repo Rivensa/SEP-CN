@@ -336,3 +336,4 @@ Special thanks to Amy Kind and the reviewers for SEP for feedback, to Yvonne Tam
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Agnieszka Jaworska](http://philosophy.ucr.edu/agnieszka-jaworska/) <[*jaworska@ucr.edu*](mailto:jaworska%40ucr%2eedu)>  
 [Julie Tannenbaum](http://research.pomona.edu/julie-tannenbaum/) <[*julie.tannenbaum@pomona.edu*](mailto:julie%2etannenbaum%40pomona%2eedu)>
+<!--md-padding-ignore-end-->

@@ -217,3 +217,4 @@
 [Michael J. Murray](https://www.templeton.org/who-we-are/our-team/staff/michael-j-murray-phd)  
 Sean Greenberg  
 [Thomas Feeney](https://cas.stthomas.edu/departments/faculty/thomas-feeney/index.html) <[*feen0010@stthomas.edu*](mailto:feen0010%40stthomas%2eedu)>
+<!--md-padding-ignore-end-->

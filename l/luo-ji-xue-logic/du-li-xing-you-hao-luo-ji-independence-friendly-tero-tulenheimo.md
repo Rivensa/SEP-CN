@@ -624,3 +624,4 @@ Jouko Väänänen（2007）提出了一种称为依赖逻辑（DL）的 IF 逻�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Tero Tulenheimo](https://sites.google.com/site/ttulenheimo) <[*tero.tulenheimo@tuni.fi*](mailto:tero%2etulenheimo%40tuni%2efi)>
+<!--md-padding-ignore-end-->

@@ -345,3 +345,4 @@ In September 2008, Gerald Gaus became a co-author of this entry for the purpose 
 [Fred D’Agostino](http://www.uq.edu.au/solutions/researcher/dagostinofb.html)\
 [Gerald Gaus](http://www.gaus.biz/)\
 [John Thrasher](https://www.johnjthrasher.com/) <[*thrasheriv@chapman.edu*](mailto:thrasheriv%40chapman%2eedu)>
+<!--md-padding-ignore-end-->

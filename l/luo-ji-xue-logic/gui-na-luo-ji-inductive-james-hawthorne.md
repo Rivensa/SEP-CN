@@ -930,3 +930,4 @@ Thanks to Alan Hájek, Jim Joyce, and Edward Zalta for many valuable comments an
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [James Hawthorne](http://james-hawthorne.oucreate.com/) <[*hawthorne@ou.edu*](mailto:hawthorne%40ou%2eedu)>
+<!--md-padding-ignore-end-->

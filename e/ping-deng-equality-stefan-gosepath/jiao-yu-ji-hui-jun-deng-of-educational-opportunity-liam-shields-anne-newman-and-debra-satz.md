@@ -336,3 +336,4 @@ Loury 因此认为，在高等教育中有一种偏好政策，可以将我们�
 [Liam Shields](http://liamshields.com/) <[*liam.shields@manchester.ac.uk*](mailto:liam%2eshields%40manchester%2eac%2euk)>  
 [Anne Newman](https://ethicsinsociety.stanford.edu/about/people/anne-newman) <[*arnewman@stanford.edu*](mailto:arnewman%40stanford%2eedu)>  
 [Debra Satz](https://philosophy.stanford.edu/people/debra-satz) <[*dsatz@stanford.edu*](mailto:dsatz%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

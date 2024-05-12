@@ -726,3 +726,4 @@ The author thanks Ben Caplan, Michael Glanzberg, Robbie Hirsch, Greg D’amico, 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Adam Sennet <[*amsennet@ucdavis.edu*](mailto:amsennet%40ucdavis%2eedu)>
+<!--md-padding-ignore-end-->

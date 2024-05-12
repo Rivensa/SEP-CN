@@ -157,3 +157,4 @@ Though the present entry is almost a completely rewritten, new text, the author 
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Cary Nederman](http://pols.tamu.edu/about-us/faculty-directory/cary-j-nederman-professor/) <\[_cary-j-nederman@tamu.ed
+<!--md-padding-ignore-end-->

@@ -470,3 +470,4 @@ Longino 的标准说明了女性主义经验主义对科学多元主义的贡献
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 David Ludwig <[*davidundludwig@gmail.com*](mailto:davidundludwig%40gmail%2ecom)>  
 [Stéphanie Ruphy](http://www.stephanieruphy.com/) <[*stephanie.ruphy@ens.psl.eu*](mailto:stephanie%2eruphy%40ens%2epsl%2eeu)>
+<!--md-padding-ignore-end-->

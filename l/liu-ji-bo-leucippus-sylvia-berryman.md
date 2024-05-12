@@ -75,3 +75,4 @@ I wish to thank the ancient philosophy editor John Cooper, A.P.D. Mourelatos, Ti
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Sylvia Berryman <[*sberrym@interchange.ubc.ca*](mailto:sberrym%40interchange%2eubc%2eca)>
+<!--md-padding-ignore-end-->

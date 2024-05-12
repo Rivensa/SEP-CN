@@ -278,3 +278,4 @@ Many thanks to David Chalmers and to Bill Fish for detailed comments and suggest
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Robert Kirk](http://www.nottingham.ac.uk/philosophy/staff/robert-kirk.php) <[*Robert.Kirk@nottingham.ac.uk*](mailto:Robert%2eKirk%40nottingham%2eac%2euk)>
+<!--md-padding-ignore-end-->

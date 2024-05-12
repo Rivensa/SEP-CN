@@ -243,3 +243,4 @@ The author would like to thank Phillip Bricker and Edward Zalta for comments on 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Michael Nelson <[*mnelson@ucr.edu*](mailto:mnelson%40ucr%2eedu)>
+<!--md-padding-ignore-end-->

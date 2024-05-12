@@ -434,3 +434,4 @@ CQ2.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Mathias Frisch](https://www.philos.uni-hannover.de/frisch.html) <[*mathias.frisch@philos.uni-hannover.de*](mailto:mathias%2efrisch%40philos%2euni-hannover%2ede)>
+<!--md-padding-ignore-end-->

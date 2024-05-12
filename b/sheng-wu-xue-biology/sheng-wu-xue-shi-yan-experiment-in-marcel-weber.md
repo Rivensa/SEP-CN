@@ -396,3 +396,4 @@ The author wishes to thank Michael Baumgartner, Samuel Schindler and an anonymou
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Marcel Weber](https://www.unige.ch/lettres/philo/collaborateurs/professeurs/marcel-weber) <[*marcel.weber@unige.ch*](mailto:marcel%2eweber%40unige%2ech)>
+<!--md-padding-ignore-end-->

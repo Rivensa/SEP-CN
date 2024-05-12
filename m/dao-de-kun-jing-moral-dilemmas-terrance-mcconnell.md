@@ -347,3 +347,4 @@ I thank Michael Zimmerman for helpful comments on the initial version of this es
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Terrance McConnell](http://www.uncg.edu/~tcmcconn/) <[*tcmcconn@uncg.edu*](mailto:tcmcconn%40uncg%2eedu)>
+<!--md-padding-ignore-end-->

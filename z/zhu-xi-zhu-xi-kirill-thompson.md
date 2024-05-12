@@ -361,3 +361,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Kirill Thompson <[*ktviking@gmail.com*](mailto:ktviking%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -486,3 +486,4 @@ I would like to thank Alison Simmons and Samuel Newlands for their helpful sugge
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Larry M. Jorgensen <[*ljorgens@skidmore.edu*](mailto:ljorgens%40skidmore%2eedu)>
+<!--md-padding-ignore-end-->

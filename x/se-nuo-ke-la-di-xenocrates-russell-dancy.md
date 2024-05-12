@@ -178,3 +178,4 @@ Academy, Plato’s | [Alexander of Aphrodisias](https://plato.stanford.edu/ent
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Russell Dancy](http://philosophy.fsu.edu/people/faculty/russell-dancy) <[*rmdancy@fsu.edu*](mailto:rmdancy%40fsu%2eedu)>
+<!--md-padding-ignore-end-->

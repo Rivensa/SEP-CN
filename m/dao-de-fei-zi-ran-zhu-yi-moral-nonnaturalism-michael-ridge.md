@@ -213,3 +213,4 @@ Shafer-Landau的策略可能存在的第二个问题是，它依赖于对特质�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Michael Ridge](http://www.philosophy.ed.ac.uk/people/full-academic/michael-ridge.html) <[*mridge@staffmail.ed.ac.uk*](mailto:mridge%40staffmail%2eed%2eac%2euk)>
+<!--md-padding-ignore-end-->

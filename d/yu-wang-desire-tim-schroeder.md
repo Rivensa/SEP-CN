@@ -403,3 +403,4 @@ Another evaluatively loaded theory of desire has been proposed by T.M. Scanlon. 
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Tim Schroeder](https://profiles.rice.edu/faculty/timothy-schroeder) <[*timothy.allan.schroeder@gmail.com*](mailto:timothy%2eallan%2eschroeder%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

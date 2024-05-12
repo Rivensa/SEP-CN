@@ -353,3 +353,4 @@ Cabello（2002）使用非常类似的推理方法，表明MKC模型的预测与
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Carsten Held <[*carsten.held@mailbox.org*](mailto:carsten%2eheld%40mailbox%2eorg)>
+<!--md-padding-ignore-end-->

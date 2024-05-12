@@ -231,3 +231,4 @@ For recent items (and a few not so recent) not mentioned in Quaquarelli and Zana
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Brian Copenhaver <[*brianc@humnet.ucla.edu*](mailto:brianc%40humnet%2eucla%2eedu)>
+<!--md-padding-ignore-end-->

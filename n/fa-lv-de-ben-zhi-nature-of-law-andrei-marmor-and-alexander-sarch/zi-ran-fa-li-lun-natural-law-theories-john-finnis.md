@@ -238,3 +238,4 @@ Raz、Dickson 和其他人承认这种评价是必要的，但否认它是道德
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [John Finnis](http://law.nd.edu/people/faculty-and-administration/teaching-and-research-faculty/john-finnis) <[*jfinnis@nd.edu*](mailto:jfinnis%40nd%2eedu)>
+<!--md-padding-ignore-end-->

@@ -194,3 +194,4 @@ Henkin 指出，在这两种情况下，可以用 Skolem 函数给出自然语�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Wilfrid Hodges](http://wilfridhodges.co.uk/) <[*wilfrid.hodges@btinternet.com*](mailto:wilfrid%2ehodges%40btinternet%2ecom)>
+<!--md-padding-ignore-end-->

@@ -518,3 +518,4 @@ There are many other bibliographies in this series relevant to the field: Ashwor
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 John Marenbon <[*jm258@cam.ac.uk*](mailto:jm258%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

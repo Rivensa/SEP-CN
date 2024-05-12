@@ -239,3 +239,4 @@ Satz (1992)认为，基于生殖劳动与我们自身之间的密切联系的反
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Debra Satz](https://philosophy.stanford.edu/people/debra-satz)
+<!--md-padding-ignore-end-->

@@ -301,3 +301,4 @@ All quotations originally in German were translated by the authors of the entry.
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Alexander Hieke](http://www.uni-salzburg.at/phs/hieke) <[*Alexander.Hieke@sbg.ac.at*](mailto:Alexander%2eHieke%40sbg%2eac%2eat)>\
 [Gerhard Zecha](http://www.uni-salzburg.at/portal/page?\pageid=1225,421752&\dad=portal&\schema=PORTAL)
+<!--md-padding-ignore-end-->

@@ -233,3 +233,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Gordon Graham](http://www.ptsem.edu/people/l-gordon-graham) <[*gordon.graham@ptsem.edu*](mailto:gordon%2egraham%40ptsem%2eedu)>
+<!--md-padding-ignore-end-->

@@ -443,3 +443,4 @@ Many thanks to John L. Bell, Richard Lawrence and the editors of the Stanford En
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Alan Weir](http://www.gla.ac.uk/schools/humanities/staff/?action=person&id=4cddeee18290) <[*alan.weir@glasgow.ac.uk*](mailto:alan%2eweir%40glasgow%2eac%2euk)>
+<!--md-padding-ignore-end-->

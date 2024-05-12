@@ -498,3 +498,4 @@ Hawley（2006）描述的第二个选项是“反驳”。
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 David Ingram <[*david.ingram@york.ac.uk*](mailto:david%2eingram%40york%2eac%2euk)>\
 [Jonathan Tallant](http://www.jonathantallant.com/) <[*Jonathan.tallant@nottingham.ac.uk*](mailto:Jonathan%2etallant%40nottingham%2eac%2euk)>
+<!--md-padding-ignore-end-->

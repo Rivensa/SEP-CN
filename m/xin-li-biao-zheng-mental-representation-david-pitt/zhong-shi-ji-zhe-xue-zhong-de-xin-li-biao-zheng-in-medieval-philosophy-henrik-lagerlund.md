@@ -144,3 +144,4 @@ Buridan为个体术语辩护一种内在主义语义学。它之所以是内在�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Henrik Lagerlund](https://www.su.se/english/profiles/hlage-1.313716) <[*henrik.lagerlund@philosophy.su.se*](mailto:henrik%2elagerlund%40philosophy%2esu%2ese)>
+<!--md-padding-ignore-end-->

@@ -439,3 +439,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Marie-Hélène Gorisse <[*mhgorisse@gmail.com*](mailto:mhgorisse%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

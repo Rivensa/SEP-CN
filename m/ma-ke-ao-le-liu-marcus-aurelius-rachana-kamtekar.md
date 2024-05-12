@@ -206,3 +206,4 @@ Thanks to Tad Brennan, Stephen Menn, and John Cooper for their helpful comments 
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Rachana Kamtekar](http://philosophy.cornell.edu/rachana-kamtekar) <[*rk579@cornell.edu*](mailto:rk579%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

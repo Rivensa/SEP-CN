@@ -343,3 +343,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Michael Cholbi](http://michael.cholbi.com/) <[*mcholbi@ed.ac.uk*](mailto:mcholbi%40ed%2eac%2euk)>
+<!--md-padding-ignore-end-->

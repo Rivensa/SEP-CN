@@ -350,3 +350,4 @@ Helpful feedback was received from Michael Brownstein, Bryce Huebner, Zoe Jenkin
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Eric Mandelbaum <[*eric.mandelbaum@gmail.com*](mailto:eric%2emandelbaum%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

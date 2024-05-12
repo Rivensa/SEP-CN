@@ -534,3 +534,4 @@ The author would like to thank Mitchell Berman, Michael DaSilva, Antony Duff, Ki
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Alec Walen](http://philosophy.rutgers.edu/for-faculty/437-walen-alec) <[*awalen@rutgers.edu*](mailto:awalen%40rutgers%2eedu)>
+<!--md-padding-ignore-end-->

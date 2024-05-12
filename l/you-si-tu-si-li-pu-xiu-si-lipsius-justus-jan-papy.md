@@ -253,3 +253,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Jan Papy <[*jan.papy23@gmail.com*](mailto:jan%2epapy23%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

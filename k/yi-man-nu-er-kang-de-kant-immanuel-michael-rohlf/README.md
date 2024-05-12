@@ -432,3 +432,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Michael Rohlf](http://philosophy.catholic.edu/faculty-and-research/faculty-profiles/rohlf-michael/index.html) <[*rohlf@cua.edu*](mailto:rohlf%40cua%2eedu)>
+<!--md-padding-ignore-end-->

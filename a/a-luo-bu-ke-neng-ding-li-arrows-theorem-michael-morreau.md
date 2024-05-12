@@ -550,3 +550,4 @@ I thank Mark Fleurbaey, Christian List, Gerry Mackie and John Weymark for their 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Michael Morreau <[*michael.morreau@uit.no*](mailto:michael%2emorreau%40uit%2eno)>
+<!--md-padding-ignore-end-->

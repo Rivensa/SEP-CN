@@ -1545,3 +1545,4 @@ We would like to thank Thomas Ryckman for his invaluable comments and suggestion
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [John L. Bell](http://publish.uwo.ca/~jbell/) <[*jbell@uwo.ca*](mailto:jbell%40uwo%2eca)>  
 [Herbert Korté](http://phil.uregina.ca/korte/) <[*Herbert.Korte@uregina.ca*](mailto:Herbert%2eKorte%40uregina%2eca)>
+<!--md-padding-ignore-end-->

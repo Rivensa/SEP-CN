@@ -323,3 +323,4 @@ For comments on previous drafts and presentations, we are very grateful to Wes W
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Alexander Paseau](http://www.acpaseau.com/) <[*alexander.paseau@philosophy.ox.ac.uk*](mailto:alexander%2epaseau%40philosophy%2eox%2eac%2euk)>  
 Fabian Pregel <[*fabian.pregel@gmail.com*](mailto:fabian%2epregel%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

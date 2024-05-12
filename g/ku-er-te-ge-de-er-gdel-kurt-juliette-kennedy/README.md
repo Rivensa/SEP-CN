@@ -788,3 +788,4 @@ This entry was very much improved by discussion and correspondence with the foll
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Juliette Kennedy](http://www.math.helsinki.fi/logic/people/juliette.kennedy/) <[*juliette.kennedy@helsinki.fi*](mailto:juliette%2ekennedy%40helsinki%2efi)>
+<!--md-padding-ignore-end-->

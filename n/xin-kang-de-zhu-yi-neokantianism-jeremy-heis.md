@@ -326,3 +326,4 @@ Windelband 在《历史与自然科学》中勾勒出的历史观念在 Rickert 
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Jeremy Heis](http://faculty.sites.uci.edu/jeremyheis/) <[*jheis@uci.edu*](mailto:jheis%40uci%2eedu)>
+<!--md-padding-ignore-end-->

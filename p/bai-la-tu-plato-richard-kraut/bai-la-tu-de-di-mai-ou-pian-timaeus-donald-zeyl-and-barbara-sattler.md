@@ -226,3 +226,4 @@ cosmology: ancient | [Plato](https://plato.stanford.edu/entries/plato/) | [Plato
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Donald Zeyl](https://web.uri.edu/philosophy/meet/donald-zeyl/)\
 Barbara Sattler <[*Barbara.Sattler@rub.de*](mailto:Barbara%2eSattler%40rub%2ede)>
+<!--md-padding-ignore-end-->

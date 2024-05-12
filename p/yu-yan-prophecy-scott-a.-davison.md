@@ -154,3 +154,4 @@ Molina 声称上帝对世界的主宰控制以一种关键的方式涉及到中�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Scott A. Davison](https://scottdavison.webstarts.com/) <[*s.davison@moreheadstate.edu*](mailto:s%2edavison%40moreheadstate%2eedu)>
+<!--md-padding-ignore-end-->

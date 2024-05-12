@@ -209,3 +209,4 @@ I would like to express my thanks to David Armstrong, Frank Jackson and Ullin Pl
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
 J. J. C. Smart
+<!--md-padding-ignore-end-->

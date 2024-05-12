@@ -346,3 +346,4 @@ Rob Clifton和Hans Halvorson（1999年，2002年）认为，如果假设所有�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Jan Faye <[*faye@hum.ku.dk*](mailto:faye%40hum%2eku%2edk)>
+<!--md-padding-ignore-end-->

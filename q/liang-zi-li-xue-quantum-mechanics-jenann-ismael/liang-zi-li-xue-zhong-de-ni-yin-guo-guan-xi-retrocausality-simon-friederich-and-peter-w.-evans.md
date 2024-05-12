@@ -485,3 +485,4 @@ We are grateful to David Miller, Sally Shrapnel, Rod Sutherland, and Ken Wharton
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Simon Friederich](https://simonfriederich.eu/) <[*s.m.friederich@rug.nl*](mailto:s%2em%2efriederich%40rug%2enl)>  
 [Peter W. Evans](https://hapi.uq.edu.au/profile/450/peter-evans) <[*p.evans@uq.edu.au*](mailto:p%2eevans%40uq%2eedu%2eau)>
+<!--md-padding-ignore-end-->

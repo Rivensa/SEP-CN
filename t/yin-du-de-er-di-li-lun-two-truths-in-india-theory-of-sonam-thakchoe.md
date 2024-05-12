@@ -753,3 +753,4 @@ Note: In the citations like *Mngon pa* khu 166b–167a), *Tshad ma* che 108b
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Sonam Thakchoe](http://fcms.its.utas.edu.au/arts/philosophy/pagedetails.asp?lpersonId=2144) <[*sonam.thakchoe@utas.edu.au*](mailto:sonam%2ethakchoe%40utas%2eedu%2eau)>
+<!--md-padding-ignore-end-->

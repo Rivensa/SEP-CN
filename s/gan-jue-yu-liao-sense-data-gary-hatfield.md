@@ -455,3 +455,4 @@ I am indebted to an anonymous referee for many helpful queries and suggestions a
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Gary Hatfield](https://www.sas.upenn.edu/~hatfield/) <[*hatfield@phil.upenn.edu*](mailto:hatfield%40phil%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

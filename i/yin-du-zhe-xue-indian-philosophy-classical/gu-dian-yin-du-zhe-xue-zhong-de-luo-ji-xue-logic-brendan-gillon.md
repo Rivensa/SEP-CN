@@ -575,3 +575,4 @@ I am grateful to Shoryu Katsura for comments on two previous versions of this en
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Brendan Gillon](http://www.mcgill.ca/linguistics/people/faculty/gillon/) <[*brendan.gillon@mcgill.ca*](mailto:brendan%2egillon%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

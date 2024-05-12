@@ -215,3 +215,4 @@ Cārvākas 提出的另一个论点是，人与身体是相同的，这是一种
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Monima Chadha <[*Monima.Chadha@arts.monash.edu.au*](mailto:Monima%2eChadha%40arts%2emonash%2eedu%2eau)>
+<!--md-padding-ignore-end-->

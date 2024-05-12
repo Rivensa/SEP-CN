@@ -649,3 +649,4 @@ Leif Wenar 也关注统治自然资源及其产品销售的惯例（Wenar 2010, 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Gillian Brock](http://www.arts.auckland.ac.nz/people/gbro064) <[*g.brock@auckland.ac.nz*](mailto:g%2ebrock%40auckland%2eac%2enz)>  
 Nicole Hassoun <[*nhassoun@binghamton.edu*](mailto:nhassoun%40binghamton%2eedu)>
+<!--md-padding-ignore-end-->

@@ -741,3 +741,4 @@ The author is very grateful for comments on previous drafts of this entry to Ral
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Ladyman](http://www.bristol.ac.uk/school-of-arts/people/james-a-ladyman/) <[*James.Ladyman@bristol.ac.uk*](mailto:James%2eLadyman%40bristol%2eac%2euk)>
+<!--md-padding-ignore-end-->

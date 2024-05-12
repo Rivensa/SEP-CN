@@ -384,3 +384,4 @@ More在对斯宾诺莎的两次短篇攻击中，一次是针对《神学政治�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 John Henry <[*John.Henry@ed.ac.uk*](mailto:John%2eHenry%40ed%2eac%2euk)>
+<!--md-padding-ignore-end-->

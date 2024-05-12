@@ -456,3 +456,4 @@ Jerne的挑衅性假设虽然在构思上优雅且激发了新的研究方向，
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Bartlomiej Swiatczak](https://www.researchgate.net/profile/Bartlomiej\Swiatczak) <[*bartlomiej.swiatczak@gmail.com*](mailto:bartlomiej%2eswiatczak%40gmail%2ecom)>\
 [Alfred I. Tauber](http://www.bu.edu/philo/people/faculty/full-time/alfred-i-tauber/) <[*ait@bu.edu*](mailto:ait%40bu%2eedu)>
+<!--md-padding-ignore-end-->

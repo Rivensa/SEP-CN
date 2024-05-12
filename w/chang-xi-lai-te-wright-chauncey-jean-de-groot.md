@@ -184,3 +184,4 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Jean De Groot <[*degroot@cua.edu*](mailto:degroot%40cua%2eedu)>
+<!--md-padding-ignore-end-->

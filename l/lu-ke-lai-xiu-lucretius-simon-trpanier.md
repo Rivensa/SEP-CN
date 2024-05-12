@@ -411,3 +411,4 @@ See Bailey and Smith, above. Also:
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Simon Trépanier <[*Simon.Trepanier@ed.ac.uk*](mailto:Simon%2eTrepanier%40ed%2eac%2euk)>
+<!--md-padding-ignore-end-->

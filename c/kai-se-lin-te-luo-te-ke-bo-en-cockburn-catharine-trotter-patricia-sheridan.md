@@ -100,3 +100,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Patricia Sheridan <[*pmsherid@uoguelph.ca*](mailto:pmsherid%40uoguelph%2eca)>
+<!--md-padding-ignore-end-->

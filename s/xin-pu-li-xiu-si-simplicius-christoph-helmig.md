@@ -524,3 +524,4 @@ I would very much like to thank my collaborators at the University of Cologne An
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Christoph Helmig <[*helmigc@uni-koeln.de*](mailto:helmigc%40uni-koeln%2ede)>
+<!--md-padding-ignore-end-->

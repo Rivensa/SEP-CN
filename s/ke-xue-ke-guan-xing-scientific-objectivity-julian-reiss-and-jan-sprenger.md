@@ -562,3 +562,4 @@ Koskinen 将她的解释视为对 Hacking（2015）的批评的回应，后者�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Julian Reiss](http://jreiss.org/) <[*reissj@me.com*](mailto:reissj%40me%2ecom)>\
 [Jan Sprenger](http://www.laeuferpaar.de/) <[*jan.sprenger@unito.it*](mailto:jan%2esprenger%40unito%2eit)>
+<!--md-padding-ignore-end-->

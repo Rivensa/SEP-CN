@@ -508,3 +508,4 @@ First, the divine had to be understood to be freely self-determining spirit, to 
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Stephen Houlgate <[*Stephen.Houlgate@warwick.ac.uk*](mailto:Stephen%2eHoulgate%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

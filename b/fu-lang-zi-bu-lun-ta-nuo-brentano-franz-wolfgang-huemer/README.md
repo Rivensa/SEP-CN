@@ -361,3 +361,4 @@ Meinong 对对象的理论最好可以理解为对布伦塔诺解释中本体论
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Wolfgang Huemer](http://www2.unipr.it/\~huewol48/) <[*wolfgang.huemer@unipr.it*](mailto:wolfgang%2ehuemer%40unipr%2eit)>
+<!--md-padding-ignore-end-->

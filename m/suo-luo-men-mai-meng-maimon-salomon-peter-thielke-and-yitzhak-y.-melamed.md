@@ -255,3 +255,4 @@ Throughout his wanderings Maimon kept manuscripts of several works which he neve
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Peter Thielke <[*Peter.Thielke@pomona.edu*](mailto:Peter%2eThielke%40pomona%2eedu)>  
 [Yitzhak Y. Melamed](http://philosophy.jhu.edu/bios/yitzhak-melamed/) <[*ymelame1@jhu.edu*](mailto:ymelame1%40jhu%2eedu)>
+<!--md-padding-ignore-end-->

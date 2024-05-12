@@ -369,3 +369,4 @@ The editors and authors thank Jack Painter for spotting and notifying us of seve
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Fiona Woollard <[*f.woollard@soton.ac.uk*](mailto:f%2ewoollard%40soton%2eac%2euk)>  
 [Frances Howard-Snyder](https://chss.wwu.edu/philosophy-department/franhs)
+<!--md-padding-ignore-end-->

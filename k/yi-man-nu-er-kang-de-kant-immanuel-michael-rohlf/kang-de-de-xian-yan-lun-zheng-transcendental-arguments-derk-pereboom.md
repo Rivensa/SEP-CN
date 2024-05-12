@@ -452,3 +452,4 @@ Stern (2017)将这一论点解释如下。行动就是出于理由去做或选�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[*dp346@cornell.edu*](mailto:dp346%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

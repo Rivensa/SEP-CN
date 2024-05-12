@@ -398,3 +398,4 @@ Rupert（2008）从两个方面对 Bridges 的论证的第一个前提提出质�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Fred Adams](https://www.lingcogsci.udel.edu/people/faculty/Frederick%20Adams)  
 [Ken Aizawa](https://ncas.rutgers.edu/about-us/faculty-staff/kenneth-aizawa)
+<!--md-padding-ignore-end-->

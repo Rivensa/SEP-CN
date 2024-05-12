@@ -248,3 +248,4 @@ Reid 和 Hume 都对 Hutcheson 欠下了巨大的债务。亚当·斯密（1723-
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Alexander Broadie](http://www.gla.ac.uk/schools/humanities/staff/alexanderbroadie/)  
 Craig Smith <[*Craig.Smith@glasgow.ac.uk*](mailto:Craig%2eSmith%40glasgow%2eac%2euk)>
+<!--md-padding-ignore-end-->

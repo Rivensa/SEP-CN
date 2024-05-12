@@ -362,3 +362,4 @@ Kane 进一步要求，任何符合 SFW 的选择都必须满足三个多元条�
 [Randolph Clarke](http://philosophy.fsu.edu/People/Faculty/Randolph-Clarke)  
 [Justin Capes](http://www.justincapes.com/) <[*justincapes@gmail.com*](mailto:justincapes%40gmail%2ecom)>  
 Philip Swenson <[*pjswenson@wm.edu*](mailto:pjswenson%40wm%2eedu)>
+<!--md-padding-ignore-end-->

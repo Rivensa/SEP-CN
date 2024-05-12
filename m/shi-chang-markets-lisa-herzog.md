@@ -334,3 +334,4 @@ The author would like to thank Andrew Walton, Anca Gheaus, Simon Derpmann, Karl 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Lisa Herzog](https://www.rug.nl/staff/l.m.herzog/cv?lang=en) <[*l.m.herzog@rug.nl*](mailto:l%2em%2eherzog%40rug%2enl)>
+<!--md-padding-ignore-end-->

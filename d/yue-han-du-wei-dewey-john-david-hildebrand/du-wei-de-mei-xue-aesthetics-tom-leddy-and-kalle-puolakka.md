@@ -517,3 +517,4 @@ Kalle Puolakka would like to thank The Finnish Cultural Foundation for financial
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Tom Leddy <[*tle403@aol.com*](mailto:tle403%40aol%2ecom)>  
 Kalle Puolakka <[*kalle.puolakka@helsinki.fi*](mailto:kalle%2epuolakka%40helsinki%2efi)>
+<!--md-padding-ignore-end-->

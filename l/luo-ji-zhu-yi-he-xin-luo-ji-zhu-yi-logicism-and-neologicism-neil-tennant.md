@@ -843,3 +843,4 @@ The author is grateful for helpful comments on various earlier drafts from Julia
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Neil Tennant <[*tennant.9@osu.edu*](mailto:tennant%2e9%40osu%2eedu)>
+<!--md-padding-ignore-end-->

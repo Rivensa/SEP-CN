@@ -250,3 +250,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [C.A.J. Coady](https://findanexpert.unimelb.edu.au/display/person12663) <[*t.coady@unimelb.edu.au*](mailto:t%2ecoady%40unimelb%2eedu%2eau)>
+<!--md-padding-ignore-end-->

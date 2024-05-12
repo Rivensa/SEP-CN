@@ -720,3 +720,4 @@ Thanks to Frederick Eberhardt, Luke Fenton-Glynn, Clark Glymour, Judea Pearl, Ri
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Christopher Hitchcock](http://hss.divisions.caltech.edu/people/christopher-r-hitchcock) <[*cricky@caltech.edu*](mailto:cricky%40caltech%2eedu)>
+<!--md-padding-ignore-end-->

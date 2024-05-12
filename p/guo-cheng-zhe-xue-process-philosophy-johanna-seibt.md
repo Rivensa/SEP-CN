@@ -318,3 +318,4 @@ This entry owes inspiration, both in structure as well in scope, as well as some
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Johanna Seibt](http://pure.au.dk/portal/en/filseibt@hum.au.dk) <[*filseibt@cas.au.dk*](mailto:filseibt%40cas%2eau%2edk)>
+<!--md-padding-ignore-end-->

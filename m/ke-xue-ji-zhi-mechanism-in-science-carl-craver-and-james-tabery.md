@@ -663,3 +663,4 @@ We are grateful to the following individuals for very helpful feedback on earlie
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Carl Craver <[*ccraver@wustl.edu*](mailto:ccraver%40wustl%2eedu)>  
 [James Tabery](https://faculty.utah.edu/u0578517-JAMES_TABERY/biography/index.hml) <[*james.tabery@utah.edu*](mailto:james%2etabery%40utah%2eedu)>
+<!--md-padding-ignore-end-->

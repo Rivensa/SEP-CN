@@ -1028,3 +1028,4 @@ Thanks for their help and advice to Peter Adamson, Matteo Di Giovanni, Stephen O
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Fouad Ben Ahmed <[*benahmedf@gmail.com*](mailto:benahmedf%40gmail%2ecom)>\
 [Robert Pasnau](http://spot.colorado.edu/\~pasnau/) <[*pasnau@colorado.edu*](mailto:pasnau%40colorado%2eedu)>
+<!--md-padding-ignore-end-->

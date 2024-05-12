@@ -729,3 +729,4 @@ Hintikka 的早期认知逻辑可以理解为一种推理方式，用于推理�
 [Rasmus Rendsvig](http://www.fil.lu.se/en/person/RasmusRendsvig/) <[*rendsvig@gmail.com*](mailto:rendsvig%40gmail%2ecom)>  
 [John Symons](http://www.johnsymons.net/) <[*johnsymons@ku.edu*](mailto:johnsymons%40ku%2eedu)>  
 Yanjing Wang <[*wangyanjing@gmail.com*](mailto:wangyanjing%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

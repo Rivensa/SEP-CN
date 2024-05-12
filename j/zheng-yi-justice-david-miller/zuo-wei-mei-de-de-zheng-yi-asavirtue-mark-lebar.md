@@ -222,3 +222,4 @@ LeBar（2013, 2014）在试图将康德和后康德的见解融入亚里士多�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Mark LeBar](http://philosophy.fsu.edu/People/Faculty/Mark-LeBar) <[*mlebar2@fsu.edu*](mailto:mlebar2%40fsu%2eedu)>
+<!--md-padding-ignore-end-->

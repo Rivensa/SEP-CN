@@ -209,3 +209,4 @@
 
 [Copyright © 2004](https://plato.stanford.edu/info.html#c) by  
 Fred Purnell
+<!--md-padding-ignore-end-->

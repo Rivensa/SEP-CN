@@ -555,3 +555,4 @@ I owe thanks to Reuven Brandt, Aaron Cobb, Sam Clark, Fred Kroon, John Skorupski
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Christopher Macleod](http://www.christophermacleod.net/) <[*christopher.macleod@lancaster.ac.uk*](mailto:christopher%2emacleod%40lancaster%2eac%2euk)>
+<!--md-padding-ignore-end-->

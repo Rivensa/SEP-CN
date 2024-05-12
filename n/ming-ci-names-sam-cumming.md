@@ -514,3 +514,4 @@ b.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Sam Cumming <[*sam.cumming@gmail.com*](mailto:sam%2ecumming%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

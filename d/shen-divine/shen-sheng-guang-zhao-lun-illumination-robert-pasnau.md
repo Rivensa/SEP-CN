@@ -264,3 +264,4 @@ This entry has benefited greatly from suggestions by Marilyn Adams, Jenny Ashwor
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Robert Pasnau](http://spot.colorado.edu/~pasnau/) <[*pasnau@colorado.edu*](mailto:pasnau%40colorado%2eedu)>
+<!--md-padding-ignore-end-->

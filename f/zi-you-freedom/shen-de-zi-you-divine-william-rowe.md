@@ -273,3 +273,4 @@ Clarke 的总体观点非常清晰。他区分了智力（理解）和意志。�
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
 William Rowe
+<!--md-padding-ignore-end-->

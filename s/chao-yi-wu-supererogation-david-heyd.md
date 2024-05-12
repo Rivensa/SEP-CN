@@ -322,3 +322,4 @@ J.O.厄姆森（Urmson）通过对传统的道德行为三重分类（即义务�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [David Heyd](http://pluto.huji.ac.il/\~msheyd/site/) <[*david.heyd@mail.huji.ac.il*](mailto:david%2eheyd%40mail%2ehuji%2eac%2eil)>
+<!--md-padding-ignore-end-->

@@ -460,3 +460,4 @@ Steiner 观点的批评者认为，仅仅因为从事邪恶行为时感到愉悦
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Todd Calder <[*Todd.Calder@SMU.CA*](mailto:Todd%2eCalder%40SMU%2eCA)>
+<!--md-padding-ignore-end-->

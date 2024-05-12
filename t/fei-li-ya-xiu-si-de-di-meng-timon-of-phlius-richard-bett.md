@@ -98,3 +98,4 @@ Academy, Plato’s | [Anaxagoras](https://plato.stanford.edu/entries/anaxagora
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Richard Bett](http://philosophy.jhu.edu/bios/richard-bett/) <[*rbett1@jhu.edu*](mailto:rbett1%40jhu%2eedu)>
+<!--md-padding-ignore-end-->

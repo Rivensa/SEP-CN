@@ -413,3 +413,4 @@ Field 2008 进一步发展了这一主题，尽管它主要致力于解决谎言
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Dominic Hyde](https://hpi.uq.edu.au/profile/388/dominic-hyde)  
 Diana Raffman <[*diana.raffman@utoronto.ca*](mailto:diana%2eraffman%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

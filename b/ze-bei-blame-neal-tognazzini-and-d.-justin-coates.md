@@ -334,3 +334,4 @@ Our sincere thanks to John Martin Fischer, Coleen Macnamara, Angela Smith, and G
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Neal Tognazzini](http://nealzzini.wordpress.com/) <[*neal.tognazzini@wwu.edu*](mailto:neal%2etognazzini%40wwu%2eedu)>\
 [D. Justin Coates](http://djustincoates.com/) <[*djcoates@uh.edu*](mailto:djcoates%40uh%2eedu)>
+<!--md-padding-ignore-end-->

@@ -486,3 +486,4 @@ The editors would like to thank Sally Ferguson for noticing inaccuracies in a cl
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 [Brandon C. Look](http://www.uky.edu/\~look) <[*look@uky.edu*](mailto:look%40uky%2eedu)>
+<!--md-padding-ignore-end-->

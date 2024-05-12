@@ -451,3 +451,4 @@ Note: In addition to the regular text references, the bibliography contains some
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by\
 Michael Moortgat <[*Michael.Moortgat@phil.uu.nl*](mailto:Michael%2eMoortgat%40phil%2euu%2enl)>
+<!--md-padding-ignore-end-->

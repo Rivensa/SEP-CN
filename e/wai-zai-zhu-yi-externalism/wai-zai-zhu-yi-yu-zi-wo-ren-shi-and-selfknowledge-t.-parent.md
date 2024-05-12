@@ -667,3 +667,4 @@ Many works cited and further readings are found in the anthologies above: Boghos
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 [T. Parent](http://tparent.net/) <[*nontology@gmail.com*](mailto:nontology%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

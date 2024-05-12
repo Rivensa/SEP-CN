@@ -655,3 +655,4 @@ Colin Allen would like to acknowledge the assistance of Ronak Shah in preparing 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Colin Allen](https://colinallen.dnsalias.org/) <[*colinallen@ucsb.edu*](mailto:colinallen%40ucsb%2eedu)>  
 [Michael Trestman](http://indiana.academia.edu/MichaelTrestman) <[*michael.a.trestman@gmail.com*](mailto:michael%2ea%2etrestman%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -537,3 +537,4 @@ Kwan 的论点避免了基于神秘体验与感官体验之间不同之处的反
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Richard Jones <[*rhjones2488@gmail.com*](mailto:rhjones2488%40gmail%2ecom)>  
 [Jerome Gellman](http://in.bgu.ac.il/humsos/philo/StaffCV/CV%20GELLMAN.pdf)
+<!--md-padding-ignore-end-->

@@ -587,3 +587,4 @@ Tûsî立即开始阐述对命题的同意的理由，例如，因为它们是�
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 Tony Street  
 Nadja Germann <[*nadja.germann@philosophie.uni-freiburg.de*](mailto:nadja%2egermann%40philosophie%2euni-freiburg%2ede)>
+<!--md-padding-ignore-end-->

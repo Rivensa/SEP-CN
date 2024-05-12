@@ -339,3 +339,4 @@ Maskivker（2019）在某种程度上回应了这个反对意见，她说：“�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Jason Brennan <[*Jason.Brennan@georgetown.edu*](mailto:Jason%2eBrennan%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

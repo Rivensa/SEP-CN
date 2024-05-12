@@ -617,3 +617,4 @@ Scharp（2013）提倡了一种不同类型的不一致理论。Scharp 认为，
 [Jc Beall](http://entailments.net/) <[*jbeall@nd.edu*](mailto:jbeall%40nd%2eedu)>  
 [Michael Glanzberg](https://michaelglanzberg.org/) <[*michael.glanzberg@philosophy.rutgers.edu*](mailto:michael%2eglanzberg%40philosophy%2erutgers%2eedu)>  
 [David Ripley](http://davewripley.rocks/) <[*davewripley@gmail.com*](mailto:davewripley%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -429,3 +429,4 @@ Work on an earlier version of this entry was supported by the Hope and Optimism 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Claudia Bloeser <[*claudiabloeser@googlemail.com*](mailto:claudiabloeser%40googlemail%2ecom)>  
 [Titus Stahl](http://www.titus-stahl.de/) <[*titus.stahl@rug.nl*](mailto:titus%2estahl%40rug%2enl)>
+<!--md-padding-ignore-end-->

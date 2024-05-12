@@ -350,3 +350,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 John Christman <[*jpc11@psu.edu*](mailto:jpc11%40psu%2eedu)>
+<!--md-padding-ignore-end-->

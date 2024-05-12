@@ -491,3 +491,4 @@ This entry, beginning with the July 2017 version, is almost entirely written by 
 [Philip Goff](http://philipgoffphilosophy.com/) <[*philip.a.goff@durham.ac.uk*](mailto:philip%2ea%2egoff%40durham%2eac%2euk)>  
 [William Seager](https://www.utsc.utoronto.ca/~seager/)  
 [Sean Allen-Hermanson](http://www.fiu.edu/~philosop/cmp/hermanson.htm)
+<!--md-padding-ignore-end-->

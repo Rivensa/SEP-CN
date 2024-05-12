@@ -410,3 +410,4 @@ On one way of reading the objection, starting with a broad generalization is obj
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [J. Adam Carter](https://www.gla.ac.uk/schools/humanities/staff/jadamcarter/) <[*jadamcarter@gmail.com*](mailto:jadamcarter%40gmail%2ecom)>  
 [Ernest Sosa](http://ernestsosa.com/) <[*sosaern@gmail.com*](mailto:sosaern%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -404,3 +404,4 @@ Iris Young（1994）区分了三种处理妊娠期滥用药物的方法：惩罚
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Rebecca Kukla  
 Katherine Wayne
+<!--md-padding-ignore-end-->

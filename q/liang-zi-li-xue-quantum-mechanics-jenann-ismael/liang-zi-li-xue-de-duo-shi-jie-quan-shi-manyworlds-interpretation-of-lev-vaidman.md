@@ -436,3 +436,4 @@ I thank Michael Ridley for his work on the new edition of this entry. I am grate
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Lev Vaidman](https://www.tau.ac.il/~vaidman/) <[*vaidman@post.tau.ac.il*](mailto:vaidman%40post%2etau%2eac%2eil)>
+<!--md-padding-ignore-end-->

@@ -550,3 +550,4 @@ Legalism 对德性伦理学提出的最强烈挑战不是稳定的美德不可�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [David Wong](http://fds.duke.edu/db/aas/Philosophy/faculty/dbwong) <[*dbwong@duke.edu*](mailto:dbwong%40duke%2eedu)>
+<!--md-padding-ignore-end-->

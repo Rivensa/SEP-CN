@@ -391,3 +391,4 @@ Significantly, Hoffman combines his developmental explication of empathy with a 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Karsten Stueber](http://college.holycross.edu/faculty/kstueber/kstueber.html) <[*kstueber@holycross.edu*](mailto:kstueber%40holycross%2eedu)>
+<!--md-padding-ignore-end-->

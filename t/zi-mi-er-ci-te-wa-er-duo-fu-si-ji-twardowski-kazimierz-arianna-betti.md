@@ -316,3 +316,4 @@ Many thanks to Lieven Decock, Wim de Jong, Iris Loeb, Venanzio Raspa, Stefan Ros
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Arianna Betti](http://www.axiom.humanities.uva.nl/arianna/) <[*ariannabetti@gmail.com*](mailto:ariannabetti%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

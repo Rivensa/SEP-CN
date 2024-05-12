@@ -788,3 +788,4 @@ Thanks are due to Peter Norvig and Prentice-Hall for allowing figures from *AIM
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Selmer Bringsjord](http://www.rpi.edu/~brings) <[*Selmer.Bringsjord@gmail.com*](mailto:Selmer%2eBringsjord%40gmail%2ecom)>  
 Naveen Sundar Govindarajulu <[*Naveen.Sundar.G@gmail.com*](mailto:Naveen%2eSundar%2eG%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

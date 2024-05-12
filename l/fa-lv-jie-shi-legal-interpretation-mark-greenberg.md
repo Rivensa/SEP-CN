@@ -563,3 +563,4 @@ I thank Mitch Berman, David Dolinko, Erik Encarnacion, Russell Korobkin, Jennife
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Mark Greenberg <[*greenberg@law.ucla.edu*](mailto:greenberg%40law%2eucla%2eedu)>
+<!--md-padding-ignore-end-->

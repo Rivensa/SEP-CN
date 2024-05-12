@@ -218,3 +218,4 @@ Other Authors:
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Marcus P. Adams](http://marcuspadams.wordpress.com/) <[*madams2@albany.edu*](mailto:madams2%40albany%2eedu)>
+<!--md-padding-ignore-end-->

@@ -227,3 +227,4 @@ Bardout（2000），111-62，包括了这样的论点：马勒伯朗士与拉米
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Tad Schmaltz](http://www.lsa.umich.edu/philosophy/people/faculty/ci.schmaltztad_ci.detail) <[*tschmalt@umich.edu*](mailto:tschmalt%40umich%2eedu)>
+<!--md-padding-ignore-end-->

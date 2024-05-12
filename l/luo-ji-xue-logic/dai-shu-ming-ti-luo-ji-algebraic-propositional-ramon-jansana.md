@@ -989,3 +989,4 @@ a≤b 当且仅当 C(b)⊆C(a)当且仅当 C(a→Ab)=C(∅)=C(a→Aa)当且仅�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Ramon Jansana](http://www.ub.edu/logica/?q=en/person/jansana-ferrer-ramon) <[*jansana@ub.edu*](mailto:jansana%40ub%2eedu)>
+<!--md-padding-ignore-end-->

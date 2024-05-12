@@ -184,3 +184,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Daniel Howe](https://history.ucla.edu/faculty/daniel-howe) <[*howe@history.ucla.edu*](mailto:howe%40history%2eucla%2eedu)>
+<!--md-padding-ignore-end-->

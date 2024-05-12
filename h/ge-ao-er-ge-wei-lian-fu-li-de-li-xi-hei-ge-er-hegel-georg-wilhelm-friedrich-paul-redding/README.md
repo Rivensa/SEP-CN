@@ -467,3 +467,4 @@ I am grateful to the section editor Allen Wood for very helpful suggestions and 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Paul Redding](http://sydney.edu.au/arts/philosophy/staff/academic.shtml#redding) <[*paul.redding@usyd.edu.au*](mailto:paul%2eredding%40usyd%2eedu%2eau)>
+<!--md-padding-ignore-end-->

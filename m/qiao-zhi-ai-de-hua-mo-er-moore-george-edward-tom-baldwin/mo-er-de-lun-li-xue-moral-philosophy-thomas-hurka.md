@@ -210,3 +210,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Thomas Hurka](https://thomashurka.com/) <[*tom.hurka@utoronto.ca*](mailto:tom%2ehurka%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

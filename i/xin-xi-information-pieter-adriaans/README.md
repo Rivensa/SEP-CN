@@ -1375,3 +1375,4 @@ Uj(¯¯¯¯¯Tix)=y
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Pieter Adriaans](http://www.uva.nl/en/profile/a/d/p.w.adriaans/p.w.adriaans.html) <[*pieter@pieter-adriaans.com*](mailto:pieter%40pieter-adriaans%2ecom)>
+<!--md-padding-ignore-end-->

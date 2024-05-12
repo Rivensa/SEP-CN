@@ -871,3 +871,4 @@ Schlenker 的研究的第二个重要结论是手语代词具有图像元素。�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Jeffrey C. King](http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=105&Itemid=210) <[*jcking310@gmail.com*](mailto:jcking310%40gmail%2ecom)>  
 Karen S. Lewis <[*klewis@barnard.edu*](mailto:klewis%40barnard%2eedu)>
+<!--md-padding-ignore-end-->

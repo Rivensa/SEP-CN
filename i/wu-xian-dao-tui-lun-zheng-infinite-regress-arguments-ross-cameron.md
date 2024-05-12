@@ -299,3 +299,4 @@ Thanks to Elizabeth Barnes, Trenton Merricks, Daniel Nolan, Jonathan Schaffer, J
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Ross Cameron](https://rosscameronphilosophy.weebly.com/) <[*cameron@virginia.edu*](mailto:cameron%40virginia%2eedu)>
+<!--md-padding-ignore-end-->

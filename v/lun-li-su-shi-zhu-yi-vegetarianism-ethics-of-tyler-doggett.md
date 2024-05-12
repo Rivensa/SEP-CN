@@ -638,3 +638,4 @@ Some material in this entry started life in Barnhill & Doggett 2017a and 2017b.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Tyler Doggett <[*tyler.doggett@uvm.edu*](mailto:tyler%2edoggett%40uvm%2eedu)>
+<!--md-padding-ignore-end-->

@@ -315,3 +315,4 @@ The SEP editors updated this entry in 2015.
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Denis Cleary
+<!--md-padding-ignore-end-->

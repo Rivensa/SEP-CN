@@ -401,3 +401,4 @@ The authors would like to thank Peter Godfrey-Smith and James Griesemer for thei
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [John S. Wilkins](https://philpeople.org/profiles/john-wilkins) <[*john@wilkins.id.au*](mailto:john%40wilkins%2eid%2eau)>  
 Pierrick Bourrat <[*p.bourrat@gmail.com*](mailto:p%2ebourrat%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

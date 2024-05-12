@@ -579,3 +579,4 @@ Boyle 还注意到，正如他的同时代人亨利·莫尔（Henry More）和�
 [J. J. MacIntosh](https://phil.ucalgary.ca/profiles/jack-macintosh)\
 [Peter Anstey](http://sydney.edu.au/arts/philosophy/staff/profiles/peter.anstey.php) <[*peter.anstey@sydney.edu.au*](mailto:peter%2eanstey%40sydney%2eedu%2eau)>\
 Jan-Erik Jones <[*je.jones@svu.edu*](mailto:je%2ejones%40svu%2eedu)>
+<!--md-padding-ignore-end-->

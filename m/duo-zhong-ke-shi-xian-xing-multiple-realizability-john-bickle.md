@@ -385,3 +385,4 @@ Mara McGuire assisted greatly with the research for [section 4](https://plato.st
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [John Bickle](http://www.philosophyandreligion.msstate.edu/faculty/bickle.php) <[*jb1681@msstate.edu*](mailto:jb1681%40msstate%2eedu)>
+<!--md-padding-ignore-end-->

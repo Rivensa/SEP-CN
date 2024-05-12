@@ -206,3 +206,4 @@ As well as identifying sources for Dewey’s primary texts and listing works ref
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Matthew Festenstein](http://www.york.ac.uk/politics/people/matthew-festenstein/) <[*mf517@york.ac.uk*](mailto:mf517%40york%2eac%2euk)>
+<!--md-padding-ignore-end-->

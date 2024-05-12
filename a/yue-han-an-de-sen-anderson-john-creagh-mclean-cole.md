@@ -320,3 +320,4 @@ Many thanks to the close reading and very helpful suggestions of an anonymous re
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Creagh McLean Cole <[*creaghmcole@gmail.com*](mailto:creaghmcole%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

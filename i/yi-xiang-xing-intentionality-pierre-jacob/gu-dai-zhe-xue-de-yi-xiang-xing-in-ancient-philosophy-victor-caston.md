@@ -137,3 +137,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Victor Caston <[*vcaston@umich.edu*](mailto:vcaston%40umich%2eedu)>
+<!--md-padding-ignore-end-->

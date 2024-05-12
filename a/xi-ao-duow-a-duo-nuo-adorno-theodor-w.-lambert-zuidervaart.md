@@ -246,3 +246,4 @@ For more extensive Adorno bibliographies, see Huhn 2004, Müller-Doohm 2005, and
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Lambert Zuidervaart](http://faculty.icscanada.edu/lzuidervaart/)
+<!--md-padding-ignore-end-->

@@ -504,3 +504,4 @@ JD 显然面临两个致命的反对意见。首先，我们可能会不相信�
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Steven Luper](http://www.trinity.edu/departments/philosophy/steven_luperhome_page.htm)
+<!--md-padding-ignore-end-->

@@ -554,3 +554,4 @@ The authors would like to thank Radek Chlup (Prague), John Cooper (Princeton), A
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Christoph Helmig <[*helmigc@uni-koeln.de*](mailto:helmigc%40uni-koeln%2ede)>  
 [Carlos Steel](https://hiw.kuleuven.be/dwmc/people/00013953) <[*carlos.steel@kuleuven.be*](mailto:carlos%2esteel%40kuleuven%2ebe)>
+<!--md-padding-ignore-end-->

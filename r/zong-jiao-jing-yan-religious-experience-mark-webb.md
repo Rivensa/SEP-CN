@@ -128,3 +128,4 @@ Alston 发展了一种关于信念实践的普遍理论（信念形成机制的�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Mark Webb <[*mark.webb@ttu.edu*](mailto:mark%2ewebb%40ttu%2eedu)>
+<!--md-padding-ignore-end-->

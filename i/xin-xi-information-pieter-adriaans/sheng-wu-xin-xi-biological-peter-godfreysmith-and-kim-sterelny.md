@@ -233,3 +233,4 @@ Maynard Smith和Szathmáry关于重大转变的工作在宏观进化思维中具
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Peter Godfrey-Smith](http://www.petergodfreysmith.com/)  
 [Kim Sterelny](http://www.victoria.ac.nz/hppi/about/staff/kim-sterelny)
+<!--md-padding-ignore-end-->

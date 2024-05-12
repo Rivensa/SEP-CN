@@ -238,3 +238,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Elisabeth Schellekens](http://katalog.uu.se/empinfo/?id=N13-2457) <[*Elisabeth.schellekens@filosofi.uu.s
+<!--md-padding-ignore-end-->

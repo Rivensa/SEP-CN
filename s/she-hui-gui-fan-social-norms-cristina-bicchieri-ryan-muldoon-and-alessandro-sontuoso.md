@@ -435,3 +435,4 @@ A portion of section 6 of this entry has been adapted from “Game-Theoretic Acc
 Cristina Bicchieri <[*cb36@sas.upenn.edu*](mailto:cb36%40sas%2eupenn%2eedu)>  
 Ryan Muldoon <[*ryan.muldoon@gmail.com*](mailto:ryan%2emuldoon%40gmail%2ecom)>  
 Alessandro Sontuoso <[*sontuoso@sas.upenn.edu*](mailto:sontuoso%40sas%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

@@ -179,3 +179,4 @@ capitalism | [colonialism](https://plato.stanford.edu/entries/colonialism/) |
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Lea Ypi <[*l.l.ypi@lse.ac.uk*](mailto:l%2el%2eypi%40lse%2eac%2euk)>
+<!--md-padding-ignore-end-->

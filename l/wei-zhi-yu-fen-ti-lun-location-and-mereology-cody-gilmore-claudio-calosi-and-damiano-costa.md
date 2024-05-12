@@ -966,3 +966,4 @@ We want to thank the editors of the *Stanford Encyclopedia of Philosophy* and 
 [Cody Gilmore](http://sites.google.com/site/codysgilmore/) <[*csgilmore@ucdavis.edu*](mailto:csgilmore%40ucdavis%2eedu)>  
 [Claudio Calosi](https://claudiocalosi.xyz/) <[*claudio.calosi@unige.ch*](mailto:claudio%2ecalosi%40unige%2ech)>  
 [Damiano Costa](https://www.damianocosta.com/) <[*damiano.costa@usi.ch*](mailto:damiano%2ecosta%40usi%2ech)>
+<!--md-padding-ignore-end-->

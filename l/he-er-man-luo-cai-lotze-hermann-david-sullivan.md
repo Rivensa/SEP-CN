@@ -421,3 +421,4 @@ Streben 这个术语本身就指向了洛采对费希特的核心地位，这一
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [David Sullivan](http://www.msudenver.edu/searchchannel/jsp/directoryprofile/profile.jsp?uName=sullivad) <[*sullivad@msudenver.edu*](mailto:sullivad%40msudenver%2eedu)>
+<!--md-padding-ignore-end-->

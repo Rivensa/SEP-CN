@@ -270,3 +270,4 @@ Hart-Ross 对话围绕着这种分析的优点展开；Hart 本人认为这种�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Brian Leiter](http://brianleiter.net/) <[*bleiter@uchicago.edu*](mailto:bleiter%40uchicago%2eedu)>  
 Matthew X. Etchemendy <[*metchemendy@velaw.com*](mailto:metchemendy%40velaw%2ecom)>
+<!--md-padding-ignore-end-->

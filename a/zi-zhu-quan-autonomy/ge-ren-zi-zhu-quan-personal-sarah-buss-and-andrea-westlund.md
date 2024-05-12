@@ -448,3 +448,4 @@ I am grateful to Sven Nyholm for prodding me to see ways in which I could improv
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Sarah Buss  
 [Andrea Westlund](https://philosophy.fsu.edu/people/faculty/andrea-westlund) <[*awestlund@fsu.edu*](mailto:awestlund%40fsu%2eedu)>
+<!--md-padding-ignore-end-->

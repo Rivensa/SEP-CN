@@ -698,3 +698,4 @@ aesthetics-adorno-frankfurt | [aesthetics: 19th Century Romantic](https://plat
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Antonia Peacocke](http://antoniapeacocke.com/) <[*peacocke@stanford.edu*](mailto:peacocke%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

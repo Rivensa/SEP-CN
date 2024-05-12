@@ -463,3 +463,4 @@ Jeffrey Koperski would like to thank Hans Halvorson, Rodney Holder, and Thomas T
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Del Ratzsch](https://calvin.edu/directory/people/del-ratzsch)  
 Jeffrey Koperski <[*koperski@svsu.edu*](mailto:koperski%40svsu%2eedu)>
+<!--md-padding-ignore-end-->

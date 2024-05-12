@@ -381,3 +381,4 @@ T. H. Green（1836–1882）在转向哲学之前是古典学生和教师。他�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Marcia Homiak](http://www.oxy.edu/faculty/marcia-homiak)
+<!--md-padding-ignore-end-->

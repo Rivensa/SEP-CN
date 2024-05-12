@@ -549,3 +549,4 @@ Karp \[1965]首次证明了 Karp 的部分同构定理；另请参阅 Barwise \[
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [John L. Bell](http://publish.uwo.ca/\~jbell/) <[*jbell@uwo.ca*](mailto:jbell%40uwo%2eca)>
+<!--md-padding-ignore-end-->

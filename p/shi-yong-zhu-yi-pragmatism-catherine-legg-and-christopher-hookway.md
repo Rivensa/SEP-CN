@@ -407,3 +407,4 @@ For both Peirce and Dewey, references are given to collections of their writings
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Catherine Legg <[*c.legg@deakin.edu.au*](mailto:c%2elegg%40deakin%2eedu%2eau)>  
 [Christopher Hookway](https://www.sheffield.ac.uk/philosophy/people/affiliated-staff/chris-hookway)
+<!--md-padding-ignore-end-->

@@ -317,3 +317,4 @@ The following, single-volume work contains much of the *Collected Works* and a
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Andrew Hodges](https://www.wadham.ox.ac.uk/people/andrew-hodges)
+<!--md-padding-ignore-end-->

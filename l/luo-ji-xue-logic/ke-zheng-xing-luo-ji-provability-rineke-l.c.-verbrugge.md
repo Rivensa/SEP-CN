@@ -626,3 +626,4 @@ This 2024 version of the article on provability logic is dedicated to the memory
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Rineke (L.C.) Verbrugge](https://rinekeverbrugge.nl/) <[*L.C.Verbrugge@rug.nl*](mailto:L%2eC%2eVerbrugge%40rug%2enl)>
+<!--md-padding-ignore-end-->

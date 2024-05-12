@@ -489,3 +489,4 @@ Rovelli（2019 年，1330 页）将“有限的泡沫现在”与“钻石现在
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Steven Savitt](https://philosophy.ubc.ca/profile/steven-savitt/) <[*steven.savitt@ubc.ca*](mailto:steven%2esavitt%40ubc%2eca)>
+<!--md-padding-ignore-end-->

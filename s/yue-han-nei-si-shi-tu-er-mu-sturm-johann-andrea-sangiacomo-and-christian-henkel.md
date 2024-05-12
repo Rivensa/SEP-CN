@@ -246,3 +246,4 @@
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Andrea Sangiacomo <[*a.sangiacomo@rug.nl*](mailto:a%2esangiacomo%40rug%2enl)>  
 Christian Henkel <[*christian.henkel@umontreal.ca*](mailto:christian%2ehenkel%40umontreal%2eca)>
+<!--md-padding-ignore-end-->

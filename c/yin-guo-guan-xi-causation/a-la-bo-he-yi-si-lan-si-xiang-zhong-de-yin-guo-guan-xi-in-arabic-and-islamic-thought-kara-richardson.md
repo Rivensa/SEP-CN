@@ -363,3 +363,4 @@ al-Ghazālī的阿舍'派前辈倾向于否定亚里士多德的本质的存在�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Kara Richardson <[*kricha03@syr.edu*](mailto:kricha03%40syr%2eedu)>
+<!--md-padding-ignore-end-->

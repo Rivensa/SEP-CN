@@ -270,3 +270,4 @@ Thanks are due to Connie Rosati for many very helpful suggestions for improvemen
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Maria Alvarez](http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/alvarez/index.aspx) <[*maria.alvarez@kcl.ac.uk*](mailto:maria%2ealvarez%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

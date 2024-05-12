@@ -283,3 +283,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Benjamin Pollock <[*pollockbenjamin@hotmail.com*](mailto:pollockbenjamin%40hotmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -627,3 +627,4 @@ Work on this entry was supported by a grant from the Templeton Religion Trust. T
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Christian B. Miller](http://www.wfu.edu/\~millerc) <[*millerc@wfu.edu*](mailto:millerc%40wfu%2eedu)>
+<!--md-padding-ignore-end-->

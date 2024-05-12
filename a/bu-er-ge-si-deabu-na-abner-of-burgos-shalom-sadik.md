@@ -190,3 +190,4 @@ X.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Shalom Sadik <[*navitshalom@hotmail.com*](mailto:navitshalom%40hotmail%2ecom)>
+<!--md-padding-ignore-end-->

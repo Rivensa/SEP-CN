@@ -358,3 +358,4 @@ The author would like to thank both Professor Saeed Anvari for his invaluable su
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Roxanne Marcotte](http://www.professeurs.uqam.ca/listeunite/ficheProfesseur?mId=e814k4rI0vQ_) <[*marcotte.roxanne@uqam.ca*](mailto:marcotte%2eroxanne%40uqam%2eca)>
+<!--md-padding-ignore-end-->

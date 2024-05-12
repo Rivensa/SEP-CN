@@ -200,3 +200,4 @@ Mattens（2017）认为哲学家在触觉研究中通常过于关注外部物体
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Matthew Fulkerson](https://sites.google.com/site/mtfulkerson/) <[*mfulkerson@ucsd.edu*](mailto:mfulkerson%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

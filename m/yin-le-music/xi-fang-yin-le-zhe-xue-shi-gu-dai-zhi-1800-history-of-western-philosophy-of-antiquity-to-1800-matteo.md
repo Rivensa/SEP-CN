@@ -503,3 +503,4 @@ Thanks to Stephen Davies, Andrew Kania, James O. Young, and an anonymous reviewe
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Matteo Ravasio](https://philpeople.org/profiles/matteo-ravasio) <[*matteo@pku.edu.cn*](mailto:matteo%40pku%2eedu%2ecn)>
+<!--md-padding-ignore-end-->

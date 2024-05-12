@@ -316,3 +316,4 @@ The numbers after each entry refer to the sections to which that book or article
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Brian Weatherson](http://brian.weatherson.org/) <[*brian@weatherson.org*](mailto:brian%40weatherson%2eorg)>
+<!--md-padding-ignore-end-->

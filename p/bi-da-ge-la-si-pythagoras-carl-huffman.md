@@ -248,3 +248,4 @@ Zhmud支持毕达哥拉斯的立场，认为他是真正的数学家，而不仅
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Carl Huffman <[*cahuff@depauw.edu*](mailto:cahuff%40depauw%2eedu)>
+<!--md-padding-ignore-end-->

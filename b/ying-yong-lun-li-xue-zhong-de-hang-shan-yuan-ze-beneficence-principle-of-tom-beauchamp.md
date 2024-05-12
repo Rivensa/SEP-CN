@@ -268,3 +268,4 @@ Powers 和 Faden 认为，全球社会最困难的成员的幸福是正义实践
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Tom Beauchamp](http://explore.georgetown.edu/people/beauchat/?PageTemplateID=189) <[*beauchat@georgetown.edu*](mailto:beauchat%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

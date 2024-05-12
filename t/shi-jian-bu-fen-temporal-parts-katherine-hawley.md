@@ -721,3 +721,4 @@ Thanks to Jon Hesk and to Penelope Mackie for helpful suggestions. And thanks to
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Katherine Hawley](http://www.katherinehawley.org/)
+<!--md-padding-ignore-end-->

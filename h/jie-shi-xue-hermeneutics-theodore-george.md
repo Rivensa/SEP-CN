@@ -345,3 +345,4 @@ The author wishes to thank David Liakos, co-author of Liakos and George 2019, fo
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Theodore George <[*t-george@tamu.edu*](mailto:t-george%40tamu%2eedu)>
+<!--md-padding-ignore-end-->

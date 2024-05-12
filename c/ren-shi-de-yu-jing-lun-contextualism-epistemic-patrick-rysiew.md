@@ -594,3 +594,4 @@ Several objections to this argument have been made. First, it is worth consideri
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Patrick Rysiew](http://web.uvic.ca/\~rysiew/) <[*rysiew@uvic.ca*](mailto:rysiew%40uvic%2eca)>
+<!--md-padding-ignore-end-->

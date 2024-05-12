@@ -418,3 +418,4 @@ Other unthinkable sorites arguments use predicates that can only be grasped by i
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Roy Sorensen <[*roy.sorensen@austin.utexas.edu*](mailto:roy%2esorensen%40austin%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

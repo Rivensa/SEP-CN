@@ -391,3 +391,4 @@ P*的理解与一种关于陈述的理论相对应，根据这种理论，形式
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 William F. Vallicella <[*billvallicella@cs.com*](mailto:billvallicella%40cs%2ecom)>
+<!--md-padding-ignore-end-->

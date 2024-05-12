@@ -569,3 +569,4 @@ The writing of this entry was informed by many valuable discussions with Mariann
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Benedict Eastaugh](https://extralogical.net/) <[*benedict@eastaugh.net*](mailto:benedict%40eastaugh%2enet)>
+<!--md-padding-ignore-end-->

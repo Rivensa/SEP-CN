@@ -562,3 +562,4 @@ I am grateful to Valia Allori, Jean Bricmont, Joanne Gowa, Travis Norsen, Paul O
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Sheldon Goldstein](http://www.math.rutgers.edu/~oldstein/) <[*oldstein@math.rutgers.edu*](mailto:oldstein%40math%2erutgers%2eedu)>
+<!--md-padding-ignore-end-->

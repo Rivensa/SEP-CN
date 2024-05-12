@@ -708,3 +708,4 @@ The author would like to acknowledge the contributions of Alejandro Vesga to thi
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Carlotta Pavese](http://www.carlottapavese.org/) <[*cp645@cornell.edu*](mailto:cp645%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

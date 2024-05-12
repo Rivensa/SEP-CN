@@ -351,3 +351,4 @@ The most controversial element of Gassendi’s astronomy concerns whether, and t
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Saul Fisher <[*sfisher@mercy.edu*](mailto:sfisher%40mercy%2eedu)>
+<!--md-padding-ignore-end-->

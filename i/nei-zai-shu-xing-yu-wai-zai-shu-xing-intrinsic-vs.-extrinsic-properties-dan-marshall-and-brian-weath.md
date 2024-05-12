@@ -556,3 +556,4 @@ As of the 2012 revision, Dan Marshall has taken over responsibility for maintain
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Dan Marshall](https://sites.google.com/site/danmphilosophy/) <[*danmarshall@ln.edu.hk*](mailto:danmarshall%40ln%2eedu%2ehk)>  
 [Brian Weatherson](http://brian.weatherson.org/)
+<!--md-padding-ignore-end-->

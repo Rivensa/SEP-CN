@@ -376,3 +376,4 @@ Justice is primarily related to individual actions. Individual persons are the p
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Stefan Gosepath](http://www.geisteswissenschaften.fu-berlin.de/we01/institut/mitarbeiter/professuren/gosepath/index.html) <[*stefan.gosepath@fu-berlin.de*](mailto:stefan%2egosepath%40fu-berlin%2ede)>
+<!--md-padding-ignore-end-->

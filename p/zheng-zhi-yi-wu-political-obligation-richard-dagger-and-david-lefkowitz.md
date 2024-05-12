@@ -358,3 +358,4 @@ Bhikhu Parekh（1993年，第240页）使用“公民义务”一词来指“尊
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Richard Dagger](http://ppel.richmond.edu/faculty/rdagger/)  
 [David Lefkowitz](http://ppel.richmond.edu/faculty/dlefkowi/) <[*dlefkowi@richmond.edu*](mailto:dlefkowi%40richmond%2eedu)>
+<!--md-padding-ignore-end-->

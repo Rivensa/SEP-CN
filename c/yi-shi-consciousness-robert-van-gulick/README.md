@@ -761,3 +761,4 @@ The SEP editors would like to thank Claudio Vanin for pointing out a rather leng
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Robert Van Gulick](http://thecollege.syr.edu/people/faculty/pages/phi/vangulick-robert.html) <[*rnvangul@syr.edu*](mailto:rnvangul%40syr%2eedu)>
+<!--md-padding-ignore-end-->

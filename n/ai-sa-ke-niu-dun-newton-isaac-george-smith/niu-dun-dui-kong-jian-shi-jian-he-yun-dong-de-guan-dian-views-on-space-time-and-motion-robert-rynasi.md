@@ -356,3 +356,4 @@ I'd like to thank John Norton for observations which led to many improvements.
 
 [Copyright © 2011](https://plato.stanford.edu/info.html#c) by  
 [Robert Rynasiewicz](http://philosophy.jhu.edu/bios/robert-rynasiewicz/) <[*ryno@lorentz.phl.jhu.edu*](mailto:ryno%40lorentz%2ephl%2ejhu%2eedu)>
+<!--md-padding-ignore-end-->

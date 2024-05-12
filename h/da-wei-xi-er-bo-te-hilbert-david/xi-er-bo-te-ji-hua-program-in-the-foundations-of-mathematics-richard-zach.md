@@ -262,3 +262,4 @@ An extended version of the first revision of this entry can be found in [Zach (
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Richard Zach](https://richardzach.org/) <[*rzach@ucalgary.ca*](mailto:rzach%40ucalgary%2eca)>
+<!--md-padding-ignore-end-->

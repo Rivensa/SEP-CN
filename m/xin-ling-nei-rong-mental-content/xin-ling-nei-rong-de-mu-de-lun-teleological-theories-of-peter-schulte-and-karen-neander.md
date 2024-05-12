@@ -472,3 +472,4 @@ The authors would like to thank Hannah Altehenger, Marc Artiga, Karl Bergman, Da
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Peter Schulte <[*jenspeter.schulte@uzh.ch*](mailto:jenspeter%2eschulte%40uzh%2ech)>  
 [Karen Neander](http://fds.duke.edu/db/aas/Philosophy/kneander)
+<!--md-padding-ignore-end-->

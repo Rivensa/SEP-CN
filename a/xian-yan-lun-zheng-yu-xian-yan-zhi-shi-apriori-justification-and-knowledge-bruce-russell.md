@@ -613,3 +613,4 @@ I am indebted to my colleagues, Eric Hiddleston and Michael McKinsey, for their 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Bruce Russell <[*Bruce.Russell@wayne.edu*](mailto:Bruce%2eRussell%40wayne%2eedu)>
+<!--md-padding-ignore-end-->

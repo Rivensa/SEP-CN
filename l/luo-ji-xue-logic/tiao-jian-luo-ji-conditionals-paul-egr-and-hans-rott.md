@@ -968,3 +968,4 @@ We dedicate our work to the memory of Horacio Arló-Costa. We are grateful to Vi
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Paul Egré](http://paulegre.free.fr/) <[*paulegre@gmail.com*](mailto:paulegre%40gmail%2ecom)>  
 [Hans Rott](https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/theoretische-philosophie/personen/prof-dr-hans-rott/index.html) <[*hans.rott@ur.de*](mailto:hans%2erott%40ur%2ede)>
+<!--md-padding-ignore-end-->

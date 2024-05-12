@@ -354,3 +354,4 @@ Curley 提出了一个更为详细和优雅的解决方案，以调和 Ip28 和�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Samuel Newlands <[*snewlands@nd.edu*](mailto:snewlands%40nd%2eedu)>
+<!--md-padding-ignore-end-->

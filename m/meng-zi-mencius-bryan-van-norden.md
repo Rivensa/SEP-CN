@@ -231,3 +231,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Bryan Van Norden](http://www.bryanvannorden.com/) <[*brvannorden@vassar.edu*](mailto:brvannorden%40vassar%2eedu)>
+<!--md-padding-ignore-end-->

@@ -400,3 +400,4 @@ Large thanks are due to Si-won Song for invaluable research assistance. I would 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Dale Dorsey](http://people.ku.edu/~ddorsey) <[*ddorsey@ku.edu*](mailto:ddorsey%40ku%2eedu)>
+<!--md-padding-ignore-end-->

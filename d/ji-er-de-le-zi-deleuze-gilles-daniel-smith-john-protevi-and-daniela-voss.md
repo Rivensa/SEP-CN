@@ -465,3 +465,4 @@ Massumi 1992 年和 DeLanda 2003 年试图表明，德勒兹的认识论和本�
 [Daniel Smith](http://www.cla.purdue.edu/philosophy/directory/?personid=129) <[*smith132@purdue.edu*](mailto:smith132%40purdue%2eedu)>  
 John Protevi  
 Daniela Voss <[*vossda@uni-hildesheim.de*](mailto:vossda%40uni-hildesheim%2ede)>
+<!--md-padding-ignore-end-->

@@ -305,3 +305,4 @@ For critical commentary that helped with the revision of this entry, I am gratef
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Douglas Kellner](https://pages.gseis.ucla.edu/faculty/kellner/) <[*kellner@ucla.edu*](mailto:kellner%40ucla%2eedu)>
+<!--md-padding-ignore-end-->

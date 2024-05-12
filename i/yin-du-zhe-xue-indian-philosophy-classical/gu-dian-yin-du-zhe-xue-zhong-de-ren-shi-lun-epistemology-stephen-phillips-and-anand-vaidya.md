@@ -375,3 +375,4 @@ Portions of the present entry were taken from the first author’s *Epistemolog
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Stephen Phillips](http://www.utexas.edu/cola/philosophy/faculty/shp9)  
 Anand Vaidya <[*anand.vaidya@sjsu.edu*](mailto:anand%2evaidya%40sjsu%2eedu)>
+<!--md-padding-ignore-end-->

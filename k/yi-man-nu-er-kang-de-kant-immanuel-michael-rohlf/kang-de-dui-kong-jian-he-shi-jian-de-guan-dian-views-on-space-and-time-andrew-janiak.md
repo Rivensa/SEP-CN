@@ -375,3 +375,4 @@ I would especially like to thank Michael Friedman for many discussions of the is
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Andrew Janiak](https://scholars.duke.edu/person/janiak) <[*janiak@duke.edu*](mailto:janiak%40duke%2eedu)>
+<!--md-padding-ignore-end-->

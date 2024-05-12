@@ -165,3 +165,4 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Russell L. Friedman <[*russell.friedman@kuleuven.be*](mailto:russell%2efriedman%40kuleuven%2ebe)>
+<!--md-padding-ignore-end-->

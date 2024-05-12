@@ -541,3 +541,4 @@ I would like to thank Derk Pereboom for his helpful comments on drafts of this e
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Matthew Talbert](https://www.fil.lu.se/en/person/MatthewTalbert/) <[*Matthew.Talbert@fil.lu.se*](mailto:Matthew%2eTalbert%40fil%2elu%2ese)>
+<!--md-padding-ignore-end-->

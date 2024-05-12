@@ -377,3 +377,4 @@ Radder 的主要关注点是将波尔对应原理的各种体现与科学哲学�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Alisa Bokulich](http://www.bu.edu/philo/people/faculty/full-time/alisa-bokulich/) <[*abokulic@bu.edu*](mailto:abokulic%40bu%2eedu)>\
 Peter Bokulich <[*pbokulich@gmail.com*](mailto:pbokulich%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

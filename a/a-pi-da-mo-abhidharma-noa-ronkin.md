@@ -235,3 +235,4 @@ Abhidhamma/Abhidharma canonical and exegetical texts in digital Pali and Sanskri
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Noa Ronkin <[*noa.ronkin@wolfson.oxon.org*](mailto:noa%2eronkin%40wolfson%2eoxon%2eorg)>
+<!--md-padding-ignore-end-->

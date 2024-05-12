@@ -405,3 +405,4 @@ Some material in this entry appeared previously in E. Olson, ‘Personal Identit
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Eric T. Olson](https://olsonphilosophy.blogspot.com/) <[*e.olson@shef.ac.uk*](mailto:e%2eolson%40shef%2eac%2euk)>
+<!--md-padding-ignore-end-->

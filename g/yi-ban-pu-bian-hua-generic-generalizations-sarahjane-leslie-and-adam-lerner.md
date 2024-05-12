@@ -587,3 +587,4 @@ Mahrad Almotahari（2022）对哈拉姆宇宙论证也采用了类似的策略�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Sarah-Jane Leslie <[*sjleslie@princeton.edu*](mailto:sjleslie%40princeton%2eedu)>  
 Adam Lerner <[*adamjl@princeton.edu*](mailto:adamjl%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

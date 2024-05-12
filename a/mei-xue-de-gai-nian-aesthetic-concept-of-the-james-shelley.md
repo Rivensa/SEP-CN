@@ -397,3 +397,4 @@ Lopes 选择的例子并非任意。有特定的艺术批评理由认为夏尔�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[*shelljr@auburn.edu*](mailto:shelljr%40auburn%2eedu)>
+<!--md-padding-ignore-end-->

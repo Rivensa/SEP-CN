@@ -630,3 +630,4 @@ I would like to thank the following people: Kai Wehmeier, whose careful eye as a
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Edward N. Zalta](http://mally.stanford.edu/zalta.html) <[*zalta@stanford.edu*](mailto:zalta%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

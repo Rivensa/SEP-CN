@@ -200,3 +200,4 @@ I thank John Norton for the illustrations and for ideas leading to a better pres
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Roberto Torretti](https://plato.stanford.edu/entries/geometry-19th/vita.html)
+<!--md-padding-ignore-end-->

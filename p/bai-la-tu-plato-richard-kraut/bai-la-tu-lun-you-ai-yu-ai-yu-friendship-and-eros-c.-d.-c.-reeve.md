@@ -200,3 +200,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 C. D. C. Reeve <[*cdcreeve@email.unc.edu*](mailto:cdcreeve%40email%2eunc%2eedu)>
+<!--md-padding-ignore-end-->

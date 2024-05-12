@@ -235,3 +235,4 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Thomas Wartenberg](http://www.mtholyoke.edu/~twartenb)
+<!--md-padding-ignore-end-->

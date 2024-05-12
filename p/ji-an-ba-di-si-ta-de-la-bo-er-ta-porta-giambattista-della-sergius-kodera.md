@@ -322,3 +322,4 @@ The editors and the author would like to thank Emily Fox-Penner for her voluntee
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Sergius Kodera <[*sergius.kodera@univie.ac.at*](mailto:sergius%2ekodera%40univie%2eac%2eat)>
+<!--md-padding-ignore-end-->

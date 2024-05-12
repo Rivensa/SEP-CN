@@ -467,3 +467,4 @@ X⊨=(p1…pn,q) 当且仅当在 X 中任意两个赋值 v1,v2∈X，在 p1…pn
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Pietro Galliani <[*pgallian@gmail.com*](mailto:pgallian%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -628,3 +628,4 @@ An excellent presentation of the rapid historical development of the subject in 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Curtis Franks <[*cfranks@nd.edu*](mailto:cfranks%40nd%2eedu)>
+<!--md-padding-ignore-end-->

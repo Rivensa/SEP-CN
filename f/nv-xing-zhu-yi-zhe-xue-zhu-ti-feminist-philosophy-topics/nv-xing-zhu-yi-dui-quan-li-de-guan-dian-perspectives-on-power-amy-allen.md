@@ -327,3 +327,4 @@ Khader 在她的审议完美主义解释中借鉴了 IAPs 的概念，以诊断�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Amy Allen](http://philosophy.la.psu.edu/directory/ara17) <[*ara17@psu.edu*](mailto:ara17%40psu%2eedu)>
+<!--md-padding-ignore-end-->

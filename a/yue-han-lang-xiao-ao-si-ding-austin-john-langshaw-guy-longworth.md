@@ -615,3 +615,4 @@ Thanks to Cora Diamond, Ruth Groff, Henry Hardy, Barry Lee, Hemdat Lerman, Matth
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Guy Longworth](http://www2.warwick.ac.uk/fac/soc/philosophy/people/longworth/) <[*G.H.Longworth@warwick.ac.uk*](mailto:G%2eH%2eLongworth%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

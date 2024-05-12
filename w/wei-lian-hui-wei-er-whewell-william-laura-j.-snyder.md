@@ -193,3 +193,4 @@ In the past twenty years, Whewell’s name and ideas have appeared with much gre
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Laura J. Snyder](https://laurajsnyder.com/) <[*ljsnyder1@me.com*](mailto:ljsnyder1%40me%2ecom)>
+<!--md-padding-ignore-end-->

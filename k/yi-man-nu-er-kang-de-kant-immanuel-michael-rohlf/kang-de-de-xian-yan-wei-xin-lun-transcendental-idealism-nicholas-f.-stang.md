@@ -869,3 +869,4 @@ We refer to certain Kantian works by the following abbreviations:
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Nicholas F. Stang <[*nick.stang@gmail.com*](mailto:nick%2estang%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

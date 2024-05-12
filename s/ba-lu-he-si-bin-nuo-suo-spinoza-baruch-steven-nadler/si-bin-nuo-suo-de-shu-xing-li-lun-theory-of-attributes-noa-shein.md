@@ -236,3 +236,4 @@ Della Rocca 在斯宾诺莎关于属性理论方面持有与 Bennett 不同的�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Noa Shein <[*sheinn@bgu.ac.il*](mailto:sheinn%40bgu%2eac%2eil)>
+<!--md-padding-ignore-end-->

@@ -494,3 +494,4 @@ Eliseo Vivas（1959 年，第 228 页）认为，与审美体验不同，体育�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 John William Devine <[*j.w.devine@swansea.ac.uk*](mailto:j%2ew%2edevine%40swansea%2eac%2euk)>  
 Francisco Javier Lopez Frias <[*fjl13@psu.edu*](mailto:fjl13%40psu%2eedu)>
+<!--md-padding-ignore-end-->

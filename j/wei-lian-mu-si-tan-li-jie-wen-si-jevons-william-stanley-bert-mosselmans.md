@@ -177,3 +177,4 @@ The Jevons Archives are located in the John Rylands University Library, Universi
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Bert Mosselmans
+<!--md-padding-ignore-end-->

@@ -693,3 +693,4 @@ I received helpful comments on drafts for the original 2006 version of this entr
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Thomas Uebel](https://research.manchester.ac.uk/en/persons/thomas.e.uebel) <[*Thomas.Uebel@manchester.ac.uk*](mailto:Thomas%2eUebel%40manchester%2eac%2euk)>
+<!--md-padding-ignore-end-->

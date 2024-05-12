@@ -426,3 +426,4 @@ Parts of the introductory material above repeat what was said in the Introductio
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Rosalind Hursthouse](http://artsfaculty.auckland.ac.nz/staff/?UPI=rhur007)  
 [Glen Pettigrove](https://www.gla.ac.uk/schools/humanities/staff/glenpettigrove/) <[*glen.pettigrove@glasgow.ac.uk*](mailto:glen%2epettigrove%40glasgow%2eac%2euk)>
+<!--md-padding-ignore-end-->

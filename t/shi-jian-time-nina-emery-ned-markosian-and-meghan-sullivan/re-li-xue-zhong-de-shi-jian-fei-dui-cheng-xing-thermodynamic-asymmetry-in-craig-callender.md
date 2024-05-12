@@ -377,3 +377,4 @@ P(S 在 M(t) 和 M(0) 和 M(0) 上的均匀概率下增加) = 高
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Craig Callender](http://philosophy.ucsd.edu/faculty/ccallender/) <[*ccallender@ucsd.edu*](mailto:ccallender%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

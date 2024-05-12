@@ -332,3 +332,4 @@ My thanks to Juliet Floyd, Dick Schmitt, and Bryan Rogers for corrections.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Ian Proops <[*iproops@austin.utexas.edu*](mailto:iproops%40austin%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

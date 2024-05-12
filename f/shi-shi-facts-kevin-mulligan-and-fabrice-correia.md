@@ -713,3 +713,4 @@ The authors are grateful for support from the Swiss FNS (research projects on â€
 [Copyright Â© 2020](https://plato.stanford.edu/info.html#c) by\
 Kevin Mulligan <[*kevin.mulligan@unige.ch*](mailto:kevin%2emulligan%40unige%2ech)>\
 [Fabrice Correia](https://fabricecorreia.com/) <[*fabricecorreia@gmail.com*](mailto:fabricecorreia%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

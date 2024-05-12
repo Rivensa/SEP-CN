@@ -276,3 +276,4 @@ Diogenes Laertius 报道说，阿尔库塔斯是“第一个通过使用数学�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Carl Huffman <[*cahuff@depauw.edu*](mailto:cahuff%40depauw%2eedu)>
+<!--md-padding-ignore-end-->

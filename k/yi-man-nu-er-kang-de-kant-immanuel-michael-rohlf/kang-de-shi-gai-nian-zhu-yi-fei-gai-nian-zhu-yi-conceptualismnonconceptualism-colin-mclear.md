@@ -768,3 +768,4 @@ Thanks to Lucy Allais, Anil Gomes, Lisa Shabel, Nick Stang, Andrew Stephenson, C
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Colin McLear](http://colinmclear.net/) <[*mclear@unl.edu*](mailto:mclear%40unl%2eedu)>
+<!--md-padding-ignore-end-->

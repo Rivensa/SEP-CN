@@ -343,3 +343,4 @@ Carl Hoefer’s research for this entry was supported by his employer, ICREA (Pg
 [Nick Huggett](http://www.uic.edu/~huggett) <[*huggett@uic.edu*](mailto:huggett%40uic%2eedu)>  
 [Carl Hoefer](https://www.icrea.cat/Web/ScientificStaff/Carl-Hoefer-175) <[*carl.hoefer@ub.edu*](mailto:carl%2ehoefer%40ub%2eedu)>  
 [James Read](http://users.ox.ac.uk/~orie2304/) <[*james.read@philosophy.ox.ac.uk*](mailto:james%2eread%40philosophy%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

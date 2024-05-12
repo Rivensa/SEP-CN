@@ -417,3 +417,4 @@ Thanks go to Mark Brown for spotting a use/mention error in Section 2 and for id
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Jeffrey C. King](http://philosophy.rutgers.edu/index.php?option=com\_content\&task=view\&id=105\&Itemid=210) <[*jcking310@gmail.com*](mailto:jcking310%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

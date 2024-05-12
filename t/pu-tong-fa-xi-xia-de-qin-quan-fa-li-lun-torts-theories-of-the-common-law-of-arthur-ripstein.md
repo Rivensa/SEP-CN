@@ -257,3 +257,4 @@ I am grateful to Michael Law-Smith and Benjamin Zipursky for helpful comments
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Arthur Ripstein <[*arthur.ripstein@utoronto.ca*](mailto:arthur%2eripstein%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

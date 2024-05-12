@@ -283,3 +283,4 @@ Portions of the 2006 update to this entry were drawn directly from the introduct
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [John W. Carroll](https://chass.ncsu.edu/people/carroll/) <[*carroll@ncsu.edu*](mailto:carroll%40ncsu%2eedu)>
+<!--md-padding-ignore-end-->

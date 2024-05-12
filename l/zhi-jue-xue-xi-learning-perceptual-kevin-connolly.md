@@ -298,3 +298,4 @@ Special thanks for their comments to Susanna Siegel, Rebecca Copenhaver, and to 
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Kevin Connolly <[*kevinlconnolly@gmail.com*](mailto:kevinlconnolly%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

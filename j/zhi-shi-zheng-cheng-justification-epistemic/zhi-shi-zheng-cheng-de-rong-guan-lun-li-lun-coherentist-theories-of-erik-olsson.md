@@ -384,3 +384,4 @@ Many people have commented on earlier versions of this article offering valuable
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Erik Olsson <[*Erik_J.Olsson@fil.lu.se*](mailto:Erik_J%2eOlsson%40fil%2elu%2ese)>
+<!--md-padding-ignore-end-->

@@ -227,3 +227,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Geoff Sayre-McCord](http://philosophy.unc.edu/people/geoffrey-sayre-mccord/) <[*sayre-mccord@unc.edu*](mailto:sayre-mccord%40unc%2eedu)>
+<!--md-padding-ignore-end-->

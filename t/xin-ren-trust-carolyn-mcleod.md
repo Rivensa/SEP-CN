@@ -461,3 +461,4 @@ Thanks to Julie Ponesse, Ken Chung, and Hale Doguoglu for their research assista
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Carolyn McLeod](http://publish.uwo.ca/~cmcleod2/)
+<!--md-padding-ignore-end-->

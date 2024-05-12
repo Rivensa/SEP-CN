@@ -396,3 +396,4 @@ Thanks to Philip Ebert, Leon Horsten, James Ladyman, Hannes Leitgeb, David Liggi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Øystein Linnebo <[*oystein.linnebo@ifikk.uio.no*](mailto:oystein%2elinnebo%40ifikk%2euio%2eno)>
+<!--md-padding-ignore-end-->

@@ -256,3 +256,4 @@ W.D.罗斯(Ross)（138）考虑了两个在快乐和性格方面都相等的世�
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 Andrew Moore <[*Andrew.Moore@stonebow.otago.ac.nz*](mailto:Andrew%2eMoore%40stonebow%2eotago%2eac%2enz)>
+<!--md-padding-ignore-end-->

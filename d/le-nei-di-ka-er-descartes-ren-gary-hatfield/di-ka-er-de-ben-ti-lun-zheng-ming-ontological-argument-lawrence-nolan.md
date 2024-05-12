@@ -236,3 +236,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Lawrence Nolan <[*lawrence.nolan@csulb.edu*](mailto:lawrence%2enolan%40csulb%2eedu)>
+<!--md-padding-ignore-end-->

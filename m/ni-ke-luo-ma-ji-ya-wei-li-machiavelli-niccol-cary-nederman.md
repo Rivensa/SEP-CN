@@ -283,3 +283,4 @@ Not only are the people competent to discern the best course of action when orat
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Cary Nederman](http://pols.tamu.edu/about-us/faculty-directory/cary-j-nederman-professor/) <[*cary-j-nederman@tamu.edu*](mailto:cary-j-nederman%40tamu%2eedu)>
+<!--md-padding-ignore-end-->

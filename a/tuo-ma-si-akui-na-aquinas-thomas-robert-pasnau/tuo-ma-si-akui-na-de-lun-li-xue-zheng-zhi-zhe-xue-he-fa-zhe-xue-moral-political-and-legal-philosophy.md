@@ -403,3 +403,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [John Finnis](http://law.nd.edu/people/faculty-and-administration/teaching-and-research-faculty/john-finnis) <[*jfinnis@nd.edu*](mailto:jfinnis%40nd%2eedu)>
+<!--md-padding-ignore-end-->

@@ -305,3 +305,4 @@ Psillos（2000）提出了另一种绑架可能补充贝叶斯证实理论的方
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Igor Douven <[*igor.douven@paris-sorbonne.fr*](mailto:igor%2edouven%40paris-sorbonne%2efr)>
+<!--md-padding-ignore-end-->

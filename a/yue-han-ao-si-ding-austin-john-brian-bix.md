@@ -175,3 +175,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Brian Bix](http://www.law.umn.edu/facultyprofiles/bixb.html) <[*bix@umn.edu*](mailto:bix%40umn%2eedu)>
+<!--md-padding-ignore-end-->

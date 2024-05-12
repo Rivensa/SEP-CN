@@ -547,3 +547,4 @@ P(有罪)>11+U(真实定罪)−U(错误无罪)U(真实无罪)−U(错误定罪)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [R. A. Briggs](https://philosophy.stanford.edu/people/ray-briggs) <[*formal.epistemology@gmail.com*](mailto:formal%2eepistemology%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -658,3 +658,4 @@ This research has been supported by the programme Mobilitas Pluss project MOBTT4
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Bryan Frances](http://bryanfrances.weebly.com/) <[*bryan.frances@yahoo.com*](mailto:bryan%2efrances%40yahoo%2ecom)>\
 [Jonathan Matheson](https://jonathandmatheson.wordpress.com/) <[*jonathan.matheson@gmail.com*](mailto:jonathan%2ematheson%40gmail%2ecom)
+<!--md-padding-ignore-end-->

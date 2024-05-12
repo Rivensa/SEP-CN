@@ -436,3 +436,4 @@ Belnap 和 Müller 在时态和情态的非标准形式逻辑中开发了一种�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Richard E. Grandy](http://www.ruf.rice.edu/\~rgrandy/)\
 Max A. Freund <[*mfreundcr@gmail.com*](mailto:mfreundcr%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

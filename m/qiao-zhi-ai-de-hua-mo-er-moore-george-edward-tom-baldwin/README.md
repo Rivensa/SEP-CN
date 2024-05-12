@@ -231,3 +231,4 @@ For a complete bibliography of Moore's published writings up to 1966, see P. A. 
 
 [Copyright © 2004](https://plato.stanford.edu/info.html#c) by\
 [Tom Baldwin](http://www.york.ac.uk/philosophy/staff/thomas-baldwin/) <[*trb2@york.ac.uk*](mailto:trb2%40york%2eac%2euk)>
+<!--md-padding-ignore-end-->

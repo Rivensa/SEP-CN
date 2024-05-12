@@ -795,3 +795,4 @@ Andrzej Kisielewicz（1998）最近提出的一个建议是，通过使用两个
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [M. Randall Holmes](https://randall-holmes.github.io/) <[*rholmes@boisestate.edu*](mailto:rholmes%40boisestate%2eedu)>
+<!--md-padding-ignore-end-->

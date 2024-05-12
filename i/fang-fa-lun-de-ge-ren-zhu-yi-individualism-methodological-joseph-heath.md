@@ -189,3 +189,4 @@ Fodor 在选择术语方面存在相当大的不准确性。他能够提供一�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Joseph Heath](https://philosophy.utoronto.ca/directory/joseph-heath/) <[*joseph.heath@utoronto.ca*](mailto:joseph%2eheath%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

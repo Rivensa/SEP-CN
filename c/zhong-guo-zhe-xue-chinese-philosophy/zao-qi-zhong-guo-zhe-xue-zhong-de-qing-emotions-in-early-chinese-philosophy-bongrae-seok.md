@@ -604,3 +604,4 @@ The chapter and section numbers of the primary sources of early Chinese texts us
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Bongrae Seok <[*bongrae.seok@alvernia.edu*](mailto:bongrae%2eseok%40alvernia%2eedu)>
+<!--md-padding-ignore-end-->

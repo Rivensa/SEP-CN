@@ -483,3 +483,4 @@ Thanks to the many philosophical and scientific colleagues who have provided me 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Alan Love](http://www.philosophy.umn.edu/people/FacultyProfile.php?UID=aclove) <[*aclove@umn.edu*](mailto:aclove%40umn%2eedu)>
+<!--md-padding-ignore-end-->

@@ -326,3 +326,4 @@ The abbreviations and texts cited above are as follows:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Theodore Gracyk <[*gracyk@mnstate.edu*](mailto:gracyk%40mnstate%2eedu)>
+<!--md-padding-ignore-end-->

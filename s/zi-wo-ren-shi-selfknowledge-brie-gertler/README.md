@@ -475,3 +475,4 @@ Anthologies on self-knowledge:
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Brie Gertler](https://uva.theopenscholar.com/brie-gertler/) <[*gertler@virginia.edu*](mailto:gertler%40virginia%2eedu)>
+<!--md-padding-ignore-end-->

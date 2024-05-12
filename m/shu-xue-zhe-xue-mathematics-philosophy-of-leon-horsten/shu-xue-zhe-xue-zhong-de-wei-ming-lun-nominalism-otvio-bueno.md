@@ -536,3 +536,4 @@ My thanks go to two anonymous referees for their helpful comments on earlier ver
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 [Otávio Bueno](http://www.as.miami.edu/personal/obueno/Site/Otavio\Bueno.html) <[*otaviobueno@mac.com*](mailto:otaviobueno%40mac%2ecom)>
+<!--md-padding-ignore-end-->

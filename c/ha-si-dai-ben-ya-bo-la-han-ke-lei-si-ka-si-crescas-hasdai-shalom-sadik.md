@@ -289,3 +289,4 @@ Section 2 on the life of Hasdai Crescas is based on Harvey (2010).
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Shalom Sadik <[*navitshalom@hotmail.com*](mailto:navitshalom%40hotmail%2ecom)>
+<!--md-padding-ignore-end-->

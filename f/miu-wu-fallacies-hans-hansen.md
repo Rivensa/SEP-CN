@@ -501,3 +501,4 @@ The author would like to thank the executive and subject editors who suggested a
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Hans Hansen](https://www.uwindsor.ca/philosophy/314/dr-hans-v-hansen) <[*hhansen@uwindsor.ca*](mailto:hhansen%40uwindsor%2eca)>
+<!--md-padding-ignore-end-->

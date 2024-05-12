@@ -395,3 +395,4 @@ The SEP Editors would like to thank Gintautas Miliauskas (Vilnius University) fo
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Paul Pojman
+<!--md-padding-ignore-end-->

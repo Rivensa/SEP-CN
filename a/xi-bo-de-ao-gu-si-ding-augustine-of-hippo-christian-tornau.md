@@ -529,3 +529,4 @@ Except for the *Confessiones* and the Cassiciacum dialogues, detailed commenta
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Christian Tornau](https://www.klassphil.uni-wuerzburg.de/en/team/prof-dr-christian-tornau/) <[*christian.tornau@uni-wuerzburg.de*](mailto:christian%2etornau%40uni-wuerzburg%2ede)>
+<!--md-padding-ignore-end-->

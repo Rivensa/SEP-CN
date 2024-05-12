@@ -220,3 +220,4 @@ From 1995 to 2004 (inclusive) there appeared a journal, *Bradley Studies*, which
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Stewart Candlish](http://members.iinet.net.au/\~stewartcandlish/)\
 Pierfrancesco Basile <[*pierfrancesco.basile@philo.unibe.ch*](mailto:pierfrancesco%2ebasile%40philo%2eunibe%2ech)>
+<!--md-padding-ignore-end-->

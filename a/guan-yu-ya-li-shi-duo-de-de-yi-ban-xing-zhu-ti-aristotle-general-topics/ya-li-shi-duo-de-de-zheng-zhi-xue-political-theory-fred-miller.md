@@ -485,3 +485,4 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Fred Miller <[*fmiller@sppfbg.org*](mailto:fmiller%40sppfbg%2eorg)>
+<!--md-padding-ignore-end-->

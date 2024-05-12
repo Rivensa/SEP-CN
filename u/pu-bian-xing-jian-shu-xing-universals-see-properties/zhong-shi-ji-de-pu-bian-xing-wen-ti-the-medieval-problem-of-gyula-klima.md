@@ -430,3 +430,4 @@ Figure 4. The *via antiqua* conception
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Gyula Klima](https://faculty.fordham.edu/klima/) <[*klima@fordham.edu*](mailto:klima%40fordham%2eedu)>
+<!--md-padding-ignore-end-->

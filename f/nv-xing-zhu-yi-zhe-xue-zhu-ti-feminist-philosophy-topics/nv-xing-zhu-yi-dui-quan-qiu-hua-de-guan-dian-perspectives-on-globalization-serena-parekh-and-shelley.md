@@ -298,3 +298,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Serena Parekh <[*s.parekh@neu.edu*](mailto:s%2eparekh%40neu%2eedu)>  
 Shelley Wilcox <[*swilcox@sfsu.edu*](mailto:swilcox%40sfsu%2eedu)>
+<!--md-padding-ignore-end-->

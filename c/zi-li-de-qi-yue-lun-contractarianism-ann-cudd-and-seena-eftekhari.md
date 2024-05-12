@@ -130,3 +130,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Ann Cudd <[*acudd@pitt.edu*](mailto:acudd%40pitt%2eedu)>  
 Seena Eftekhari <[*seena.eftekhari@tufts.edu*](mailto:seena%2eeftekhari%40tufts%2eedu)>
+<!--md-padding-ignore-end-->

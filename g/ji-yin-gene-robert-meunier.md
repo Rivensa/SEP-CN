@@ -440,3 +440,4 @@ The author would like to thank Jan Baedke, Dominic Berry, Soraya de Chadarevian,
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Robert Meunier](https://www.imgwf.uni-luebeck.de/mitarbeiter/meunier.html) <[*robert.meunier@uni-kassel.de*](mailto:robert%2emeunier%40uni-kassel%2ede)>
+<!--md-padding-ignore-end-->

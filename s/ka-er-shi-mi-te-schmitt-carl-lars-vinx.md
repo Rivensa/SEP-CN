@@ -244,3 +244,4 @@ For full bibliographical information on Schmitt’s works see Alain de Benoist,�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Lars Vinx](https://www.law.cam.ac.uk/people/academic/l-vinx/78311) <[*lv330@cam.ac.uk*](mailto:lv330%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

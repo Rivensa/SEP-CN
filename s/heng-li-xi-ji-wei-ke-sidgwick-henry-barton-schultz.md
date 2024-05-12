@@ -781,3 +781,4 @@ And Howey, in an influential work, insists that economists
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Barton Schultz](https://www.bartschultz.com/) <[*rschultz@uchicago.edu*](mailto:rschultz%40uchicago%2eedu)>
+<!--md-padding-ignore-end-->

@@ -283,3 +283,4 @@ Lavaud, L. & Guyomarc’h, G., 2021, *Alexandre d’Aphrodise. Commentaire à l
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Dorothea Frede <[*dorothea.frede@uni-hamburg.de*](mailto:dorothea%2efrede%40uni-hamburg%2ede)>  
 Marije Martijn <[*m.martijn@vu.nl*](mailto:m%2emartijn%40vu%2enl)>
+<!--md-padding-ignore-end-->

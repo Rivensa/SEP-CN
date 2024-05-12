@@ -180,3 +180,4 @@ Trendelenburg 的全面讨论是最重要的，他的结果是典型的：他对
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Volker Peckhaus <[*volker.peckhaus@upb.de*](mailto:volker%2epeckhaus%40upb%2ede)>
+<!--md-padding-ignore-end-->

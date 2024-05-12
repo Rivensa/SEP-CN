@@ -367,3 +367,4 @@ Candlish（1999b：208）认为内在主义和同一论是竞争对手，但这�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Richard Gaskin <[*richard.gaskin@liverpool.ac.uk*](mailto:richard%2egaskin%40liverpool%2eac%2euk)>
+<!--md-padding-ignore-end-->

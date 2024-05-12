@@ -251,3 +251,4 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) and Ni
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Daniel Bell <[*daniel.a.bell@gmail.com*](mailto:daniel%2ea%2ebell%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -608,3 +608,4 @@ const = {面包, …}
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Luca Gasparri](http://lcgasparri.github.io/) <[*luca.gasparri@cnrs.fr*](mailto:luca%2egasparri%40cnrs%2efr)>  
 Diego Marconi <[*diego.marconi@unito.it*](mailto:diego%2emarconi%40unito%2eit)>
+<!--md-padding-ignore-end-->

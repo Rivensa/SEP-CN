@@ -401,3 +401,4 @@ This entry is thoroughly collaborative; the order of authorship is alphabetical.
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [John Drummond](https://faculty.fordham.edu/drummond/) <[*drummond@fordham.edu*](mailto:drummond%40fordham%2eedu)>  
 [Mark Timmons](http://timmons.faculty.arizona.edu/) <[*mtimmons@u.arizona.edu*](mailto:mtimmons%40u%2earizona%2eedu)>
+<!--md-padding-ignore-end-->

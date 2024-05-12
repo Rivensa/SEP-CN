@@ -137,3 +137,4 @@ Cudworth 的《真正的智力体系》提出了一个反决定论的哲学体�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Sarah Hutton <[*sarah.hutton@york.ac.uk*](mailto:sarah%2ehutton%40york%2eac%2euk)>
+<!--md-padding-ignore-end-->

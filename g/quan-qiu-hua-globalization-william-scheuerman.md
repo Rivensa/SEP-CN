@@ -130,3 +130,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [William Scheuerman](http://polisci.indiana.edu/faculty/profiles/wscheuer.shtml) <[*wscheuer@indiana.edu*](mailto:wscheuer%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

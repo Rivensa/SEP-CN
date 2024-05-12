@@ -358,3 +358,4 @@ ICTY 的裁决因此传达了一个判决，即塞尔维亚强奸犯不仅侵犯
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Rebecca Whisnant <[*Rebecca.Whisnant@notes.udayton.edu*](mailto:Rebecca%2eWhisnant%40notes%2eudayton%2eedu)>
+<!--md-padding-ignore-end-->

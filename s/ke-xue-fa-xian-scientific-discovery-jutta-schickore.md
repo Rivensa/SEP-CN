@@ -366,3 +366,4 @@ Hesse 通过区分领域之间的水平类比和垂直类比，对类比推理�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Jutta Schickore <[*jschicko@indiana.edu*](mailto:jschicko%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

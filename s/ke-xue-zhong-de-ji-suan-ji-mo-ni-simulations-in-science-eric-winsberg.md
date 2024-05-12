@@ -327,3 +327,4 @@ Gordon Purves（即将出版）认为在计算模型中有小说的例子（他�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Eric Winsberg](http://www.cas.usf.edu/~ewinsb/) <[*winsberg@usf.edu*](mailto:winsberg%40usf%2eedu)>
+<!--md-padding-ignore-end-->

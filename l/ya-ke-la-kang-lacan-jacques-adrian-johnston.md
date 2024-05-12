@@ -318,3 +318,4 @@ As regards secondary sources, I have been highly selective in compiling the list
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Adrian Johnston <[*aojohns@unm.edu*](mailto:aojohns%40unm%2eedu)>
+<!--md-padding-ignore-end-->

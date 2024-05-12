@@ -274,3 +274,4 @@ Mark Alznauer, Margaret Atherton, Kyla Ebels-Duggan, Alan Nelson, Julius Sensat 
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 William Bristow <[*bristow@uwm.edu*](mailto:bristow%40uwm%2eedu)>
+<!--md-padding-ignore-end-->

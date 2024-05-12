@@ -1041,3 +1041,4 @@ I was motivated to write the present entry after reading an early draft of an es
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Edward N. Zalta](http://mally.stanford.edu/zalta.html) <[*zalta@stanford.edu*](mailto:zalta%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

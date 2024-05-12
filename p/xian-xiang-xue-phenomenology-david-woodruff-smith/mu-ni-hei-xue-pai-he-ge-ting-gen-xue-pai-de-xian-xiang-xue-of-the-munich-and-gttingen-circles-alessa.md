@@ -528,3 +528,4 @@ I would like to thank Søren Overgaard, Genki Uemura, Íngrid Vendrell Ferran, a
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Alessandro Salice <[*alessandro.salice@ucc.ie*](mailto:alessandro%2esalice%40ucc%2eie)>
+<!--md-padding-ignore-end-->

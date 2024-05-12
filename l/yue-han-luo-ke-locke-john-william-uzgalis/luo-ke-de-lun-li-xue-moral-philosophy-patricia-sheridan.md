@@ -294,3 +294,4 @@ The editors would like to thank Sally Ferguson for carefully reading this entry 
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Patricia Sheridan <[*pmsherid@uoguelph.ca*](mailto:pmsherid%40uoguelph%2eca)>
+<!--md-padding-ignore-end-->

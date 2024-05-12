@@ -190,3 +190,4 @@
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Thomas Oberdan
+<!--md-padding-ignore-end-->

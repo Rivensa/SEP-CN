@@ -688,3 +688,4 @@ We are grateful to István Bodnar for his help in clarifying and improving our p
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [S. Marc Cohen](http://faculty.washington.edu/smcohen/) <[*smcohen@uw.edu*](mailto:smcohen%40uw%2eedu)>  
 C. D. C. Reeve <[*cdcreeve@email.unc.edu*](mailto:cdcreeve%40email%2eunc%2eedu)>
+<!--md-padding-ignore-end-->

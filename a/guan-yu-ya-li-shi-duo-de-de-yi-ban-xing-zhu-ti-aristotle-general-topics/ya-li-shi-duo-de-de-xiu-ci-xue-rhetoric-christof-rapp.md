@@ -432,3 +432,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Christof Rapp <[*Ch.Rapp@lmu.de*](mailto:Ch%2eRapp%40lmu%2ede)>
+<!--md-padding-ignore-end-->

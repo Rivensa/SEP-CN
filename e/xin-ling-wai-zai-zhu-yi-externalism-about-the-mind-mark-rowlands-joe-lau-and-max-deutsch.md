@@ -286,3 +286,4 @@ Fodor (1987)采取了一种不同的策略。他同意，在不同的语境中�
 Mark Rowlands <[*mrowlands@mail.as.miami.edu*](mailto:mrowlands%40mail%2eas%2emiami%2eedu)>  
 [Joe Lau](http://www.hku.hk/philodep/joelau/)  
 [Max Deutsch](http://maxdeutsch.wordpress.com/)
+<!--md-padding-ignore-end-->

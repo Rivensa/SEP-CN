@@ -600,3 +600,4 @@ Tom Doyle, Andreas Hüttemann, Ken Waters, Rob Wilson, and two anonymous referee
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Ingo Brigandt](http://www.ualberta.ca/~brigandt) <[*brigandt@ualberta.ca*](mailto:brigandt%40ualberta%2eca)>  
 [Alan Love](http://www.philosophy.umn.edu/people/FacultyProfile.php?UID=aclove) <[*aclove@umn.edu*](mailto:aclove%40umn%2eedu)>
+<!--md-padding-ignore-end-->

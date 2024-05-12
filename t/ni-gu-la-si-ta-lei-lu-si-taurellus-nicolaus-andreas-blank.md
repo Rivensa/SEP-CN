@@ -230,3 +230,4 @@ Also, he is clear that what arises in genuine mixture is not only a composition 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Andreas Blank](https://www.uni-paderborn.de/person/20571) <[*andreasblank@hotmail.com*](mailto:andreasblank%40hotmail%2ecom)>
+<!--md-padding-ignore-end-->

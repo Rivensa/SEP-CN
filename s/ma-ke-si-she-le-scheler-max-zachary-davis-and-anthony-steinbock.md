@@ -319,3 +319,4 @@ The collected works of Max Scheler are published as *Gesammelte Werke*, in volu
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Zachary Davis <[*davisz@stjohns.edu*](mailto:davisz%40stjohns%2eedu)>  
 Anthony Steinbock <[*steinbock@stonybrook.edu*](mailto:steinbock%40stonybrook%2eedu)>
+<!--md-padding-ignore-end-->

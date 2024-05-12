@@ -381,3 +381,4 @@ The research for this essay was supported (in part) by a Summer Stipend from the
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Stephanie Rivera Berruz <[*stephanie.riveraberruz@marquette.edu*](mailto:stephanie%2eriveraberruz%40marquette%2eedu)>
+<!--md-padding-ignore-end-->

@@ -908,3 +908,4 @@ Monderer and Samet (1989) remains one of the best resources for the study of com
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Peter Vanderschraaf](https://moralscience.arizona.edu/person/peter-vanderschraaf)\
 [Giacomo Sillari](https://scienzepolitiche.luiss.it/en/docenti/cv/020229) <[*gsillari@luiss.it*](mailto:gsillari%40luiss%2eit)>
+<!--md-padding-ignore-end-->

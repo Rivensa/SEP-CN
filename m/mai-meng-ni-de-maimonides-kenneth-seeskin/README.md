@@ -269,3 +269,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Kenneth Seeskin](http://www.philosophy.northwestern.edu/people/faculty/seeskin.html) <[*k-seeskin@northwestern.edu*](mailto:k-seeskin%40northwestern%2eedu)>
+<!--md-padding-ignore-end-->

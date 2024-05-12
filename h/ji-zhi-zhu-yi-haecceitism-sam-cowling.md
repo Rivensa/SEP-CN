@@ -394,3 +394,4 @@ Thanks to Phil Bricker, Ben Caplan, Ed Ferrier, Dan Giberman, Brad Rettler, Brad
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Sam Cowling](http://personal.denison.edu/~cowlings/) <[*sam.cowling@denison.edu*](mailto:sam%2ecowling%40denison%2eedu)>
+<!--md-padding-ignore-end-->

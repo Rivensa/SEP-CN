@@ -496,3 +496,4 @@ It should be noted, though, that these points concerning objections 3.C1 and 3.C
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Marian David](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=F3540F75F02CB8FD&pPersonenGruppe=3) <[*marian.david@uni-graz.at*](mailto:marian%2edavid%40uni-graz%2eat)>
+<!--md-padding-ignore-end-->

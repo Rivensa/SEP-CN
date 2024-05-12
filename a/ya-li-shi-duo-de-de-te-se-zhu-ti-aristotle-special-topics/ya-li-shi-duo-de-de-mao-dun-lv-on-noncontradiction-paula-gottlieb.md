@@ -305,3 +305,4 @@ Thanks to Evan Keeling, Anne Veenstra, Emily Fletcher, David Ebrey, and Graham P
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Paula Gottlieb](https://gottlieb.philosophy.wisc.edu/) <[*plgottli@wisc.edu*](mailto:plgottli%40wisc%2eedu)>
+<!--md-padding-ignore-end-->

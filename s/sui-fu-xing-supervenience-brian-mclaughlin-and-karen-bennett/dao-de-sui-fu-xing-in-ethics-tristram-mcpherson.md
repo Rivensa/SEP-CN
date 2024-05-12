@@ -553,3 +553,4 @@ Many thanks to Jamie Dreier, David Plunkett, Bart Streumer, Kelly Trogdon, and J
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Tristram McPherson <[*dr.tristram@gmail.com*](mailto:dr%2etristram%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

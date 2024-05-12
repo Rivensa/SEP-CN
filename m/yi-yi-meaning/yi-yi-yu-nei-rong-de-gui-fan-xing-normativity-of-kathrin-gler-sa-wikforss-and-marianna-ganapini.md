@@ -690,3 +690,4 @@ S 应该相信 p，仅当 p 成立。
 [Kathrin Glüer](https://kathrin.pagin.se/) <[*kathrin.gluer@philosophy.su.se*](mailto:kathrin%2egluer%40philosophy%2esu%2ese)>  
 [Åsa Wikforss](https://www2.philosophy.su.se/wikforss/) <[*asa.wikforss@philosophy.su.se*](mailto:asa%2ewikforss%40philosophy%2esu%2ese)>  
 [Marianna Ganapini](https://mariannabg.weebly.com/) <[*mbganapini@gmail.com*](mailto:mbganapini%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

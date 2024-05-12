@@ -433,3 +433,4 @@ I am grateful to Holly Smith, Walter Sinnott-Armstrong, and an anonymous reviewe
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Christian B. Miller](http://www.wfu.edu/~millerc) <[*millerc@wfu.edu*](mailto:millerc%40wfu%2eedu)>
+<!--md-padding-ignore-end-->

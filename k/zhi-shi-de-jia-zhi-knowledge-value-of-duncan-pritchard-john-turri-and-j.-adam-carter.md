@@ -437,3 +437,4 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 [Duncan Pritchard](https://www.duncanpritchard.org/) <[*dhpritch@uci.edu*](mailto:dhpritch%40uci%2eedu)>\
 [John Turri](http://john.turri.org/) <[*john.turri@gmail.com*](mailto:john%2eturri%40gmail%2ecom)>\
 [J. Adam Carter](https://www.gla.ac.uk/schools/humanities/staff/jadamcarter/) <[*jadamcarter@gmail.com*](mailto:jadamcarter%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -318,3 +318,4 @@ Diwald（1975 年，12-15 页）甚至怀疑百科全书是否实际上有多位
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Carmela Baffioni](http://docenti.unior.it/index2.php?content_id=17896&content_id_start=1) <[*baffioni@unior.it*](mailto:baffioni%40unior%2eit)>
+<!--md-padding-ignore-end-->

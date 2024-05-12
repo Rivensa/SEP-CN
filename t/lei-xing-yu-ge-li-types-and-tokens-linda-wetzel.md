@@ -271,3 +271,4 @@ Sellars 的建议与 Goodman 的建议相似，面临着类似的困难，但又
 
 [Copyright © 2006](https://plato.stanford.edu/info.html#c) by  
 [Linda Wetzel](http://explore.georgetown.edu/people/wetzell/) <[*wetzell@georgetown.edu*](mailto:wetzell%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

@@ -451,3 +451,4 @@ The authors would like to thank Edward Zalta and any anonymous editor for helpfu
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Anil Gupta <[*agupta@pitt.edu*](mailto:agupta%40pitt%2eedu)>  
 Stephen Mackereth <[*sgmackereth@gmail.com*](mailto:sgmackereth%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

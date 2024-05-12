@@ -350,3 +350,4 @@ References to Feuerbach’s published writings are to the critical edition of hi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Todd Gooch](http://philosophy.eku.edu/people/gooch) <[*todd.gooch@eku.edu*](mailto:todd%2egooch%40eku%2eedu)>
+<!--md-padding-ignore-end-->

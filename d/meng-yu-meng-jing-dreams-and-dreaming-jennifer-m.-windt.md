@@ -687,3 +687,4 @@ I want to thank Regina Fabry and two anonymous reviewers for helpful comments an
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jennifer M. Windt](http://profiles.arts.monash.edu.au/jennifer-windt/) <[*jennifer.windt@monash.edu*](mailto:jennifer%2ewindt%40monash%2eedu)>
+<!--md-padding-ignore-end-->

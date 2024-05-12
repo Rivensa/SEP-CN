@@ -300,3 +300,4 @@ abortion, ethics of | [Buddha](https://plato.stanford.edu/entries/buddha/) | [co
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Charles Goodman](https://www.binghamton.edu/aaas/faculty/profile.html?id=cgoodman) <[*cgoodman@binghamton.edu*](mailto:cgoodman%40binghamton%2eedu)>\
 [Aaron Schultz](https://people.cal.msu.edu/schul820/) <[*aschultz@msu.edu*](mailto:aschultz%40msu%2eedu)>
+<!--md-padding-ignore-end-->

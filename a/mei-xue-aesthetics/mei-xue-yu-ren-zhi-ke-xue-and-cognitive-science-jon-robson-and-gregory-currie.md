@@ -435,3 +435,4 @@ Bloom 和同事提供了另一种解释我们对真品的兴趣的解释，这�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Jon Robson](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/jonathan.robson) <[*jonvrobson@gmail.com*](mailto:jonvrobson%40gmail%2ecom)>  
 Gregory Currie <[*gregory.currie@york.ac.uk*](mailto:gregory%2ecurrie%40york%2eac%2euk)>
+<!--md-padding-ignore-end-->

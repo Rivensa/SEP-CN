@@ -553,3 +553,4 @@ I would like to thank Sarah W. Holtman, Maria E. Reicher and Edward N. Zalta for
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Johann Marek <[*johann.marek@uni-graz.at*](mailto:johann%2emarek%40uni-graz%2eat)>
+<!--md-padding-ignore-end-->

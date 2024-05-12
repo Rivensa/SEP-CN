@@ -203,3 +203,4 @@ For a complete list of contemporary and early Telesio editions see Giliola Barbe
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Michaela Boenke <[*M.Boenke@lrz.uni-muenchen.de*](mailto:M%2eBoenke%40lrz%2euni-muenchen%2ede)>
+<!--md-padding-ignore-end-->

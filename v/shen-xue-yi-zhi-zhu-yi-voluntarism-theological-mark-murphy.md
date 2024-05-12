@@ -307,3 +307,4 @@ Hare（2001）为辩护了随附解释。假设我们继续直观地将随附解
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Mark Murphy](http://www9.georgetown.edu/faculty/murphym/) <[*murphym@georgetown.edu*](mailto:murphym%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

@@ -461,3 +461,4 @@ Many thanks to Gideon Rosen for useful comments on an earlier draft of this entr
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Fred Kroon](http://artsfaculty.auckland.ac.nz/staff/?UPI=fkro002) <[*f.kroon@auckland.ac.nz*](mailto:f%2ekroon%40auckland%2eac%2enz)>  
 [Alberto Voltolini](http://www.lettere.unito.it/do/docenti.pl/Show?_id=avoltoli) <[*alberto.voltolini@unito.it*](mailto:alberto%2evoltolini%40unito%2eit)>
+<!--md-padding-ignore-end-->

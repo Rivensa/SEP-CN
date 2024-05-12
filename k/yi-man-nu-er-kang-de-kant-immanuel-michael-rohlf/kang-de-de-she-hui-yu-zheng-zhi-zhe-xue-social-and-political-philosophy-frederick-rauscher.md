@@ -222,3 +222,4 @@ The secondary sources listed below are limited to books of two types: monographs
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Frederick Rauscher](http://www.philosophy.msu.edu/people/faculty/frederick-rauscher/) <[*rauscher@msu.edu*](mailto:rauscher%40msu%2eedu)>
+<!--md-padding-ignore-end-->

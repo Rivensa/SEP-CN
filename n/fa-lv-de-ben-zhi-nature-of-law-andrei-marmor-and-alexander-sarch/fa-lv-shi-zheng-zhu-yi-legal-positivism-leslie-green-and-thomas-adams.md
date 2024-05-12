@@ -205,3 +205,4 @@ Kelsen最重要的贡献在于他对还原主义的批判以及他的“基本�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Leslie Green](http://www.competition-law.ox.ac.uk/members/profile.phtml?lecturer_code=leslie.green) <[*leslie.green@law.ox.ac.uk*](mailto:leslie%2egreen%40law%2eox%2eac%2euk)>  
 [Thomas Adams](https://www.law.ox.ac.uk/people/thomas-adams) <[*thomas.adams@law.ox.ac.uk*](mailto:thomas%2eadams%40law%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

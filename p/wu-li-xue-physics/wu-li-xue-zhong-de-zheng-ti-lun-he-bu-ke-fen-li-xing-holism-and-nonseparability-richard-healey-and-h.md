@@ -349,3 +349,4 @@ Einstein, Albert: Einstein-Bohr debates | [Bell’s Theorem](https://plato.sta
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Richard Healey](http://www.u.arizona.edu/~rhealey/)  
 Henrique Gomes <[*gomes.ha@gmail.com*](mailto:gomes%2eha%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

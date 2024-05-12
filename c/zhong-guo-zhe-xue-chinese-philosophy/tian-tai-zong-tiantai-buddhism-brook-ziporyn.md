@@ -405,3 +405,4 @@ All things are empty in that they are impermanent, and vanish without remainder 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Brook Ziporyn](https://divinity.uchicago.edu/directory/brook-ziporyn) <[*ziporyn@uchicago.edu*](mailto:ziporyn%40uchicago%2eedu)>
+<!--md-padding-ignore-end-->

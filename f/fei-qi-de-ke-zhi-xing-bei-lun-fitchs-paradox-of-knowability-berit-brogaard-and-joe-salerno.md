@@ -485,3 +485,4 @@ Chalmers（2002，2012：第 2 章）例如，辩护了这样一个观点：只�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Berit Brogaard](https://sites.google.com/site/brogaardb/home) <[*brit@miami.edu*](mailto:brit%40miami%2eedu)>  
 [Joe Salerno](https://sites.google.com/site/knowability/joesalerno) <[*knowability@gmail.com*](mailto:knowability%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

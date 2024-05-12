@@ -170,3 +170,4 @@ Gyekye 正确地认识到，自我批评的可能性要求人能够与自己的�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Ajume Wingo](http://www.colorado.edu/philosophy/people/ajume-wingo)
+<!--md-padding-ignore-end-->

@@ -954,3 +954,4 @@ I would like to thank Ulle Endriss, Wes Holliday, Christian List, Uri Nodelman, 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Eric Pacuit](http://www.philosophy.umd.edu/people/pacuit) <[*epacuit@umd.edu*](mailto:epacuit%40umd%2eedu)>
+<!--md-padding-ignore-end-->

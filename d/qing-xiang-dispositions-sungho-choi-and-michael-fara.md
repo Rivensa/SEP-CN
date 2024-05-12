@@ -443,3 +443,4 @@ As of January 2012, Sungho Choi has taken over responsibility for maintaining an
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Sungho Choi](http://choise80.khu.ac.kr/) <[*plxsc506@gmail.com*](mailto:plxsc506%40gmail%2ecom)>  
 Michael Fara
+<!--md-padding-ignore-end-->

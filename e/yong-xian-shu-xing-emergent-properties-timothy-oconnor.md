@@ -513,3 +513,4 @@ This publication was made possible through the support of a joint grant from the
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Timothy O’Connor <[*toconnor@indiana.edu*](mailto:toconnor%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

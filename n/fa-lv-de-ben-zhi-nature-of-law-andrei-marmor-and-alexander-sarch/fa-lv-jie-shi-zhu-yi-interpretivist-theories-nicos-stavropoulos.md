@@ -267,3 +267,4 @@ I presented drafts of this entry at Pompeu Fabra University, Department of Law, 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Nicos Stavropoulos <[*nicos.stavropoulos@law.ox.ac.uk*](mailto:nicos%2estavropoulos%40law%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -268,3 +268,4 @@ Parfit 在他的著名作品《理由与人》中提出的主要挑战是发展�
   [Gustaf Arrhenius](http://www.iffs.se/forskning/forskare/gustaf-arrhenius/) <[*gustaf.arrhenius@iffs.se*](mailto:gustaf%2earrhenius%40iffs%2ese)>  
   [Jesper Ryberg](http://ryberg.wix.com/jesper)  
   [Torbjörn Tännsjö](http://people.su.se/~tanns/) <[*torbjorn.tannsjo@philosophy.su.se*](mailto:torbjorn%2etannsjo%40philosophy%2esu%2ese)>
+<!--md-padding-ignore-end-->

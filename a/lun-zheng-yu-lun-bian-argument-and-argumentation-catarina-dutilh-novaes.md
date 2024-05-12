@@ -541,3 +541,4 @@ Thanks to Merel Talbi, Elias Anttila, César dos Santos, Hein Duijf, Silvia Ivan
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Catarina Dutilh Novaes](https://www.cdutilhnovaes.com/) <[*cdutilhnovaes@gmail.com*](mailto:cdutilhnovaes%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

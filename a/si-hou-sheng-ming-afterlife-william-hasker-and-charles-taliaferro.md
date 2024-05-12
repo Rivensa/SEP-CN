@@ -269,3 +269,4 @@ The authors thank Meredith Varie and Samuel Benson for their assisting us in edi
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [William Hasker](http://www.huntington.edu/philosophy/#faculty)  
 Charles Taliaferro <[*taliafer@stolaf.edu*](mailto:taliafer%40stolaf%2eedu)>
+<!--md-padding-ignore-end-->

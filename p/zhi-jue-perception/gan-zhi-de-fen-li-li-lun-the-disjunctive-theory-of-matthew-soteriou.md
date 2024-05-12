@@ -464,3 +464,4 @@ The author would like to thank David Chalmers for his comments on earlier drafts
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Matthew Soteriou](https://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx) <[*matthew.soteriou@kcl.ac.uk*](mailto:matthew%2esoteriou%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

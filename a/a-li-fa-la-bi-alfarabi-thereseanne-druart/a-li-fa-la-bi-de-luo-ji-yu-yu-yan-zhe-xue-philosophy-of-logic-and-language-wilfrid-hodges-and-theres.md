@@ -521,3 +521,4 @@ The first author takes responsibility for the text of this entry but couldn’t 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Wilfrid Hodges](http://wilfridhodges.co.uk/) <[*wilfrid.hodges@btinternet.com*](mailto:wilfrid%2ehodges%40btinternet%2ecom)>  
 [Therese-Anne Druart](http://philosophy.cua.edu/faculty/druart/)
+<!--md-padding-ignore-end-->

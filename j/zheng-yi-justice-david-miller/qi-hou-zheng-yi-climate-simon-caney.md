@@ -425,3 +425,4 @@ Dale Jamieson（2010: 272–273）和 Steve Vanderheiden（2008: 107–109 和�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Simon Caney <[*s.caney@warwick.ac.uk*](mailto:s%2ecaney%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

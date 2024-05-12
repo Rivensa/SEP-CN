@@ -415,3 +415,4 @@ The author would like to acknowledge the work of Antony Honoré and John Gardner
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Michael Moore <[*micmoore@illinois.edu*](mailto:micmoore%40illinois%2eedu)>
+<!--md-padding-ignore-end-->

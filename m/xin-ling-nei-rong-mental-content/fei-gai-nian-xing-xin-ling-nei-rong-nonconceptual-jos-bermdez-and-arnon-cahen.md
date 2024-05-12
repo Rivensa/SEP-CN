@@ -369,3 +369,4 @@ Many of the papers listed below are reprinted in the anthology *Essays on Nonco
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 José Bermúdez <[*jbermudez@tamu.edu*](mailto:jbermudez%40tamu%2eedu)>  
 [Arnon Cahen](http://cahena.googlepages.com/) <[*acahen@wustl.edu*](mailto:acahen%40wustl%2eedu)>
+<!--md-padding-ignore-end-->

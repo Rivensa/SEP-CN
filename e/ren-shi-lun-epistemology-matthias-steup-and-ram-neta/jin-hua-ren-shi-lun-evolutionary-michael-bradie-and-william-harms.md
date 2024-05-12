@@ -252,3 +252,4 @@ dpi/dt=p(wi−¯¯¯¯w)
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Michael Bradie](http://www.bgsu.edu/departments/phil/faculty/page26741.html) <[*mbradie@bgsu.edu*](mailto:mbradie%40bgsu%2eedu)>  
 William Harms <[*wharms@uw.edu*](mailto:wharms%40uw%2eedu)>
+<!--md-padding-ignore-end-->

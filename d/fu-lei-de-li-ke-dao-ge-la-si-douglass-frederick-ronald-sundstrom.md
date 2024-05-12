@@ -385,3 +385,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Ronald Sundstrom](https://www.usfca.edu/faculty/ronald-sundstrom) <[*rrsundstrom@usfca.edu*](mailto:rrsundstrom%40usfca%2eedu)>
+<!--md-padding-ignore-end-->

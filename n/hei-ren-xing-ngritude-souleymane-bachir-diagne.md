@@ -200,3 +200,4 @@ L. Outlaw 承认这是萨特的《黑人奥菲斯》的主要观点。现在可�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Souleymane Bachir Diagne](https://french.columbia.edu/content/souleymane-bachir-diagne) <[*sd2456@columbia.edu*](mailto:sd2456%40columbia%2eedu)>
+<!--md-padding-ignore-end-->

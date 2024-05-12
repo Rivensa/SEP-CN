@@ -330,3 +330,4 @@ Haaparanta 和 Koskinen（eds.）2012 以 Michael Loux（2012b）对亚里士多
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Paul Studtmann <[*pastudtmann@davidson.edu*](mailto:pastudtmann%40davidson%2eedu)>
+<!--md-padding-ignore-end-->

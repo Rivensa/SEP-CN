@@ -210,3 +210,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Resianne Fontaine  
 Amira Eran <[*ueran98@inter.net.il*](mailto:ueran98%40inter%2enet%2eil)>
+<!--md-padding-ignore-end-->

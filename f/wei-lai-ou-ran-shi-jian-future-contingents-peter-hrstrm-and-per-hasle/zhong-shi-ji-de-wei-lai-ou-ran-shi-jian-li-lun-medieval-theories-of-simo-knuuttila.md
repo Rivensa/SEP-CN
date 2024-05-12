@@ -261,3 +261,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Simo Knuuttila
+<!--md-padding-ignore-end-->

@@ -310,3 +310,4 @@ The following list owes much to the comprehensive bibliography of Althusser’s 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 William Lewis <[*wlewis@skidmore.edu*](mailto:wlewis%40skidmore%2eedu)>
+<!--md-padding-ignore-end-->

@@ -221,3 +221,4 @@ The editors would like to thank Russell Friedman for his help in checking the 20
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Christopher Schabel  
 Charles Girard <[*Charles.Girard@unige.ch*](mailto:Charles%2eGirard%40unige%2ech)>
+<!--md-padding-ignore-end-->

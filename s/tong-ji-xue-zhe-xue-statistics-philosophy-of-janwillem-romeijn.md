@@ -770,3 +770,4 @@ PCA 只是一系列旨在使数据可管理并找到其中模式的技术中的�
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Jan-Willem Romeijn](https://www.rug.nl/staff/j.w.romeijn/?lang=en) <[*j.w.romeijn@rug.nl*](mailto:j%2ew%2eromeijn%40rug%2enl)>
+<!--md-padding-ignore-end-->

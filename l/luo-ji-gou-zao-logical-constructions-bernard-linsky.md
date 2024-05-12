@@ -334,3 +334,4 @@ I am grateful to Allen Hazen for explaining the significance of Quine’s chapte
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Bernard Linsky](https://www.ualberta.ca/arts/about/people-collection/bernard-linsky) <[*bernard.linsky@ualberta.ca*](mailto:bernard%2elinsky%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

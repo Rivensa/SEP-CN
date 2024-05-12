@@ -819,3 +819,4 @@ For advice and assistance I am very grateful to Jonathan Cohen, Tyler Doggett, A
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Alex Byrne](http://web.mit.edu/philosophy/byrne.html) <[*abyrne@mit.edu*](mailto:abyrne%40mit%2eedu)>
+<!--md-padding-ignore-end-->

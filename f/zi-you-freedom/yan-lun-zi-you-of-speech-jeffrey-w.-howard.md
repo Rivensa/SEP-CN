@@ -456,3 +456,4 @@ I am grateful to the editors and anonymous referees of this Encyclopedia for hel
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Jeffrey W. Howard <[*jeffrey.howard@ucl.ac.uk*](mailto:jeffrey%2ehoward%40ucl%2eac%2euk)>
+<!--md-padding-ignore-end-->

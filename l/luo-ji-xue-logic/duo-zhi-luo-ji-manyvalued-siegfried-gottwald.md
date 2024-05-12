@@ -508,3 +508,4 @@ MVL 在哲学中的第二个应用是对像 Sorites（堆）或 falakros（秃�
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Siegfried Gottwald](http://www.sozphil.uni-leipzig.de/cm/philosophie/mitarbeiter/siegfried-gottwald/)
+<!--md-padding-ignore-end-->

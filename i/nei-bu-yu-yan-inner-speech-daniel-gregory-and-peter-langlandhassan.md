@@ -472,3 +472,4 @@ We thank Peter Carruthers, Christopher Gauker, Christopher Hill, Marta Jorba, Fe
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Daniel Gregory <[*daniel.gregory@ub.edu*](mailto:daniel%2egregory%40ub%2eedu)>  
 Peter Langland-Hassan <[*langlapr@ucmail.uc.edu*](mailto:langlapr%40ucmail%2euc%2eedu)>
+<!--md-padding-ignore-end-->

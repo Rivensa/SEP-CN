@@ -275,3 +275,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Jacqueline Broad <[*jacqueline.broad@monash.edu*](mailto:jacqueline%2ebroad%40monash%2eedu)>
+<!--md-padding-ignore-end-->

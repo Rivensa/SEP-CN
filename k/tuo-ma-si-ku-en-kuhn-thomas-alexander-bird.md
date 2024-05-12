@@ -277,3 +277,4 @@
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Alexander Bird](http://www.alexanderbird.org/) <[*ajb368@cam.ac.uk*](mailto:ajb368%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

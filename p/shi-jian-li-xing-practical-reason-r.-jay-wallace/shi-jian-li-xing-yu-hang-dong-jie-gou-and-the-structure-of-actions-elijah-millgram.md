@@ -259,3 +259,4 @@ I’m grateful to Chrisoula Andreou, Sarah Buss and C. Thi Nguyen for comments o
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Elijah Millgram](http://www.elijahmillgram.net/) <[*elijah.millgram@gmail.com*](mailto:elijah%2emillgram%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

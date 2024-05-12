@@ -422,3 +422,4 @@ P1→TT→EE→P2.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Stephen Thornton <[*sfthornton4@gmail.com*](mailto:sfthornton4%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

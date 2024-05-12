@@ -304,3 +304,4 @@
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Thomas D. Williams <[*tdw2000@gmail.com*](mailto:tdw2000%40gmail%2ecom)>  
 [Jan Olof Bengtsson](https://janolofbengtsson.com/publications/) <[*janolof.bengtsson@outlook.com*](mailto:janolof%2ebengtsson%40outlook%2ecom)>
+<!--md-padding-ignore-end-->

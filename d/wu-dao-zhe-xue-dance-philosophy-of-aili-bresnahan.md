@@ -463,3 +463,4 @@ To make room for this expanded account of the philosophy of dance, earlier secti
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Aili Bresnahan](http://www.artistsmatter.com/)
+<!--md-padding-ignore-end-->

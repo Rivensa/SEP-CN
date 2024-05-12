@@ -459,3 +459,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jonathan Wolff](http://www.bsg.ox.ac.uk/people/jonathan-wolff) <[*jonathan.wolff@bsg.ox.ac.uk*](mailto:jonathan%2ewolff%40bsg%2eox%2eac%2euk)>  
 David Leopold <[*david.leopold@politics.ox.ac.uk*](mailto:david%2eleopold%40politics%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

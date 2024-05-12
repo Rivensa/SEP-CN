@@ -797,3 +797,4 @@ Davis 1991. 语用学将以说话者的交际意图、需要此类意图的语�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Kepa Korta](http://www.kepakorta.com/) <[*kepa.korta@ehu.eus*](mailto:kepa%2ekorta%40ehu%2eeus)>  
 [John Perry](http://www-csli.stanford.edu/people/perry-john) <[*johnperry43@gmail.com*](mailto:johnperry43%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

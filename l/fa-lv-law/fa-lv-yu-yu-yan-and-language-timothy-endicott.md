@@ -364,3 +364,4 @@ Thanks for research assistance by Mikolaj Barczentewicz, and for helpful comment
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Timothy Endicott](https://www.law.ox.ac.uk/people/timothy-endicott) <[*timothy.endicott@law.ox.ac.uk*](mailto:timothy%2eendicott%40law%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

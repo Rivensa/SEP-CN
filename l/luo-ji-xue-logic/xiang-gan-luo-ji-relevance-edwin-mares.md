@@ -369,3 +369,4 @@ The author would like to thank an anonymous reviewer and Shawn Standefer for sug
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Edwin Mares](http://www.vuw.ac.nz/phil/ed.html) <[*Edwin.Mares@vuw.ac.nz*](mailto:Edwin%2eMares%40vuw%2eac%2enz)>
+<!--md-padding-ignore-end-->

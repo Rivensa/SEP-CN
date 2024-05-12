@@ -209,3 +209,4 @@
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Peter Gratton <[*pmgratton@gmail.com*](mailto:pmgratton%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

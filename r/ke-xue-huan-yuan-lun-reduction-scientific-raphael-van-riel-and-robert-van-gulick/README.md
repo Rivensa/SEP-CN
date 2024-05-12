@@ -603,3 +603,4 @@ van Riel（2014）认为，还原与身份的相关性产生了一个难题：�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Raphael van Riel](https://raphaelvanriel.wordpress.com/) <[*vanriel@gmx.de*](mailto:vanriel%40gmx%2ede)>  
 [Robert Van Gulick](http://thecollege.syr.edu/people/faculty/pages/phi/vangulick-robert.html) <[*rnvangul@syr.edu*](mailto:rnvangul%40syr%2eedu)>
+<!--md-padding-ignore-end-->

@@ -208,3 +208,4 @@ Lex是奥克肖特所称的“理想人物”，这是一个抽象概念，不�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Terry Nardin <[*twnardin@me.com*](mailto:twnardin%40me%2ecom)>
+<!--md-padding-ignore-end-->

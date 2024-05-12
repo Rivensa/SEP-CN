@@ -343,3 +343,4 @@ I would like to thank Dr. Nicola Williams for providing research support for the
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Stephen Wilkinson](http://www.lancaster.ac.uk/ppr/about-us/people/stephen-wilkinson) <[*s.wilkinson2@lancaster.ac.uk*](mailto:s%2ewilkinson2%40lancaster%2eac%2euk)>
+<!--md-padding-ignore-end-->

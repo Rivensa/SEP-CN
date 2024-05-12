@@ -282,3 +282,4 @@ There are many (many) other works on this topic, but the bibliographies of the f
 [Jc Beall](http://entailments.net/)  
 [Greg Restall](http://consequently.org/)  
 [Gil Sagi](http://gilisagi.wixsite.com/gil-sagi) <[*gilisagi@gmail.com*](mailto:gilisagi%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

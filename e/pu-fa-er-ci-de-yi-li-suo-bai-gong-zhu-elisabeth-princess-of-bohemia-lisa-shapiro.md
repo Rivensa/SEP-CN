@@ -188,3 +188,4 @@ Shapiro (2019)认为，就自然哲学而言，伊丽莎白应被视为笛卡尔
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Lisa Shapiro](https://www.mcgill.ca/philosophy/lisa-shapiro) <[*lisa.shapiro@mcgill.ca*](mailto:lisa%2eshapiro%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

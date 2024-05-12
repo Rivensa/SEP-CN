@@ -380,3 +380,4 @@ Initial work on these entries was supported by a fellowship from Stanford Humani
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Amy M. Schmitter](https://www.ualberta.ca/arts/about/people-collection/amy-m-schmitter) <[*amy.schmitter@ualberta.ca*](mailto:amy%2eschmitter%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

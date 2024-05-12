@@ -223,3 +223,4 @@ Chan 对终极现实或真如（中文_zhenru_；梵文_bhūtatathatā_）与解
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Peter Hershock <\[\*HershocP@EastWestC
+<!--md-padding-ignore-end-->

@@ -533,3 +533,4 @@ Coulthard also understands the political project of Indigenous “resurgence” 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Catherine Lu](https://www.mcgill.ca/politicalscience/catherine-lu) <[*catherine.lu@mcgill.ca*](mailto:catherine%2elu%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

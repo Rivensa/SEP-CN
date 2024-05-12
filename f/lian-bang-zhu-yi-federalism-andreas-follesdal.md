@@ -384,3 +384,4 @@ This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, P
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Andreas Follesdal](http://www.follesdal.net/) <[*andreas@follesdal.net*](mailto:andreas%40follesdal%2enet)>
+<!--md-padding-ignore-end-->

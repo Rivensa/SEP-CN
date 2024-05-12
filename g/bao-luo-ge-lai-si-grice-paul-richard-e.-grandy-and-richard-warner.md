@@ -304,3 +304,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Richard E. Grandy](http://www.ruf.rice.edu/~rgrandy/) <[*rgrandy@rice.edu*](mailto:rgrandy%40rice%2eedu)>  
 [Richard Warner](https://www.kentlaw.iit.edu/faculty/richard-warner) <[*rwarner@kentlaw.iit.edu*](mailto:rwarner%40kentlaw%2eiit%2eedu)>
+<!--md-padding-ignore-end-->

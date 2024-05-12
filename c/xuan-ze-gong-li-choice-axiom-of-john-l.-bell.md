@@ -515,3 +515,4 @@ The author and editors would like to thank Jesse Alama for carefully reading thi
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [John L. Bell](http://publish.uwo.ca/\~jbell/) <[*jbell@uwo.ca*](mailto:jbell%40uwo%2eca)>
+<!--md-padding-ignore-end-->

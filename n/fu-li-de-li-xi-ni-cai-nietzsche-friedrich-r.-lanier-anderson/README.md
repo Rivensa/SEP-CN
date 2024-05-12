@@ -624,3 +624,4 @@ I am grateful to Rachel Cristy for exchanges that helped me work out basic ideas
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [R. Lanier Anderson](https://philosophy.stanford.edu/people/r-lanier-anderson) <[*lanier@stanford.edu*](mailto:lanier%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

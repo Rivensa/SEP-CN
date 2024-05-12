@@ -484,3 +484,4 @@ I am grateful to Jason Stanley and Edward Zalta for discerning comments that hav
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Joseph LaPorte <[*jlaporte@hope.edu*](mailto:jlaporte%40hope%2eedu)>
+<!--md-padding-ignore-end-->

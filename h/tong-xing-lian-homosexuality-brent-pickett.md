@@ -170,3 +170,4 @@ Other figures played important roles in the development of natural law theory. A
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Brent Pickett <[*bpick@uwyo.edu*](mailto:bpick%40uwyo%2eedu)>
+<!--md-padding-ignore-end-->

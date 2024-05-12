@@ -427,3 +427,4 @@ I have provided references to English translations of Humboldt’s works followi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Dalia Nassar <[*dalia.nassar@sydney.edu.au*](mailto:dalia%2enassar%40sydney%2eedu%2eau)>
+<!--md-padding-ignore-end-->

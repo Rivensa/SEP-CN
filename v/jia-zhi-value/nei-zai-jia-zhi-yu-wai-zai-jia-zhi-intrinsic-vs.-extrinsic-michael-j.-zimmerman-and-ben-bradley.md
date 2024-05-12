@@ -589,3 +589,4 @@ Many thanks to Fred Feldman, Noah Lemos, Terry McConnell, and Toni Rønnow-Rasmu
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Michael J. Zimmerman <[*m_zimme2@uncg.edu*](mailto:m_zimme2%40uncg%2eedu)>  
 Ben Bradley <[*wbradley@syr.edu*](mailto:wbradley%40syr%2eedu)>
+<!--md-padding-ignore-end-->

@@ -223,3 +223,4 @@ Mullin (2007, 2014) 认为，考虑儿童自主能力应该以自我治理为核
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Gareth Matthews](http://www.umass.edu/philosophy/faculty/faculty-pages/matthews.htm)\
 Amy Mullin <[*amy.mullin@utoronto.ca*](mailto:amy%2emullin%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

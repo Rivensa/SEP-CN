@@ -487,3 +487,4 @@ Szatkowski（2012）是一本关于本体论证的最新论文集。该论文集
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Graham Oppy](http://profiles.arts.monash.edu.au/graham-oppy/) <[*Graham.Oppy@monash.edu*](mailto:Graham%2eOppy%40monash%2eedu)>
+<!--md-padding-ignore-end-->

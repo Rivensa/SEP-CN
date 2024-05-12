@@ -425,3 +425,4 @@ Special thanks to Elvira Basevich and Daniel Mailick for their comments on earli
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Nickolas Pappas](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/Nickolas-Pappas) <[*npappas@gc.cuny.edu*](mailto:npappas%40gc%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

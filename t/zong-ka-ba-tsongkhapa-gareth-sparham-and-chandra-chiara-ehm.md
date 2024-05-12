@@ -315,3 +315,4 @@ Collected Works
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Gareth Sparham  
 [Chandra Chiara Ehm](https://www.crcao.fr/membre/chandra-chiara-ehm/) <[*chandra.ehm@etu.ephe.psl.eu*](mailto:chandra%2eehm%40etu%2eephe%2epsl%2eeu)>
+<!--md-padding-ignore-end-->

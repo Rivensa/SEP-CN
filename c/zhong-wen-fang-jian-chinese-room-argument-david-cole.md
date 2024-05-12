@@ -464,3 +464,4 @@ Copeland 讨论了与大脑模拟/复制区别有关的问题。他认为塞尔�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [David Cole](http://www.d.umn.edu/\~dcole/) <[*dcole@d.umn.edu*](mailto:dcole%40d%2eumn%2eedu)>
+<!--md-padding-ignore-end-->

@@ -185,3 +185,4 @@ His next book was *L’Histoirede la Ligue de Cambray* (*History of the League o
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James O. Young](https://www.uvic.ca/humanities/philosophy/people/facultymembers/profiles/young.php) <[*joy@uvic.ca*](mailto:joy%40uvic%2eca)>  
 Margaret Cameron <[*margaret.cameron@unimelb.edu.au*](mailto:margaret%2ecameron%40unimelb%2eedu%2eau)>
+<!--md-padding-ignore-end-->

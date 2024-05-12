@@ -294,3 +294,4 @@ The [Donald Williams papers](http://id.lib.harvard.edu/alma/990006048420203941/
 Keith Campbell <[*ccbooks@bigpond.com*](mailto:ccbooks%40bigpond%2ecom)>  
 James Franklin <[*j.franklin@unsw.edu.au*](mailto:j%2efranklin%40unsw%2eedu%2eau)>  
 Douglas Ehring <[*dehring@smu.edu*](mailto:dehring%40smu%2eedu)>
+<!--md-padding-ignore-end-->

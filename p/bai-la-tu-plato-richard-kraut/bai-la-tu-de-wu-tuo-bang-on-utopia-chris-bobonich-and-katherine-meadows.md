@@ -409,3 +409,4 @@ Magnesia的教育计划始于音乐和体育，并且柏拉图在《法律》的
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Chris Bobonich <[*bobonich@stanford.edu*](mailto:bobonich%40stanford%2eedu)>\
 [Katherine Meadows](https://www.katy-meadows.com/) <[*meadows@iu.edu*](mailto:meadows%40iu%2eedu)>
+<!--md-padding-ignore-end-->

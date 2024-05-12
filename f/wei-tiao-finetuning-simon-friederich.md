@@ -425,3 +425,4 @@ I am grateful to Luke Barnes, Friedrich Harbach, Robert Harlander and two anonym
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Simon Friederich](https://simonfriederich.eu/) <[*s.m.friederich@rug.nl*](mailto:s%2em%2efriederich%40rug%2enl)>
+<!--md-padding-ignore-end-->

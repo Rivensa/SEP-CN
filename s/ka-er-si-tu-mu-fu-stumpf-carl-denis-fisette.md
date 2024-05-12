@@ -424,3 +424,4 @@ A complete bibliography of Stumpf’s publications and manuscripts has been publ
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Denis Fisette <[*fisette.denis@uqam.ca*](mailto:fisette%2edenis%40uqam%2eca)>
+<!--md-padding-ignore-end-->

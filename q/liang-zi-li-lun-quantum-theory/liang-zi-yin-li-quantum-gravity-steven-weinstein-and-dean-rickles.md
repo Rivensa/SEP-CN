@@ -351,3 +351,4 @@ Wüthrich（2005年，第779-80页）认为，不涉及引力场量子化的量�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Steven Weinstein](https://uwaterloo.ca/philosophy/people-profiles/steven-weinstein)  
 [Dean Rickles](http://www.usyd.edu.au/hps/staff/academic/Dean_Rickles.shtml) <[*dean.rickles@sydney.edu.au*](mailto:dean%2erickles%40sydney%2eedu%2eau)>
+<!--md-padding-ignore-end-->

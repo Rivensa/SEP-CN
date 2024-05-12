@@ -121,3 +121,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Sara L. Uckelman](http://community.dur.ac.uk/s.l.uckelman/) <[*s.l.uckelman@durham.ac.uk*](mailto:s%2el%2euckelman%40durham%2eac%2euk)>
+<!--md-padding-ignore-end-->

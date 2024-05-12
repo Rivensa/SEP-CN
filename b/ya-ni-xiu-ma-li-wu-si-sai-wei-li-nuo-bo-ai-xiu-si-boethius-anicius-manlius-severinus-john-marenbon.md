@@ -243,3 +243,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 John Marenbon <[*jm258@cam.ac.uk*](mailto:jm258%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

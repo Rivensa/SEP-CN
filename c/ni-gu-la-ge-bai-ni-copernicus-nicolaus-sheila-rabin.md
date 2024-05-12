@@ -187,3 +187,4 @@ In 1972 the Polish Academy of Sciences under the direction of J. Dobrzycki publi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Sheila Rabin <[*rabinhist@nyc.rr.com*](mailto:rabinhist%40nyc%2err%2ecom)>
+<!--md-padding-ignore-end-->

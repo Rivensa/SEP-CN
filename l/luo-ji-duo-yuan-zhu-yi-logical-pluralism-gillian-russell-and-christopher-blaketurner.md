@@ -558,3 +558,4 @@ Hartry Field 提出了另一种逻辑多元主义（Field 2009）。这种观点
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Gillian Russell](https://gillianrussell.net/) <[*gillian.russell@acu.edu.au*](mailto:gillian%2erussell%40acu%2eedu%2eau)>  
 [Christopher Blake-Turner](https://www.chrisblaketurner.com/) <[*cblaket@okstate.edu*](mailto:cblaket%40okstate%2eedu)>
+<!--md-padding-ignore-end-->

@@ -483,3 +483,4 @@ Cappelen 和 Dever 否认自我定位信念在行动解释中起任何作用，�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Andy Egan](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/590-andy-egan) <[*andyegan@philosophy.rutgers.edu*](mailto:andyegan%40philosophy%2erutgers%2eedu)>  
 Michael G. Titelbaum <[*titelbaum@gmail.com*](mailto:titelbaum%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

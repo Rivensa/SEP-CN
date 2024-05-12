@@ -247,3 +247,4 @@ Dirk Fonfara (Hrsg.)
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Chris Thornhill  
 Ronny Miron <[*mironronny@gmail.com*](mailto:mironronny%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

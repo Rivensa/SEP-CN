@@ -438,3 +438,4 @@ Vogel 在环境伦理学上的立场与早期关于指称的争议有着有趣�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Beth Preston <[*epreston@uga.edu*](mailto:epreston%40uga%2eedu)>
+<!--md-padding-ignore-end-->

@@ -210,3 +210,4 @@ Agrippa 从 Paulus Ricius 的《Isagoge》（导论）中借用的原罪寓言�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Vittoria Perrone Compagni <[*Vittoria.PerroneCompagni@unifi.it*](mailto:Vittoria%2ePerroneCompagni%40unifi%2eit)>
+<!--md-padding-ignore-end-->

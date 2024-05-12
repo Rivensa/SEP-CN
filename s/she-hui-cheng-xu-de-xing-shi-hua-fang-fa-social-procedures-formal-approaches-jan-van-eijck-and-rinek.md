@@ -309,3 +309,4 @@ I would like to express my gratitude to Jan van Eijck for the enjoyable time of 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jan van Eijck](https://staff.fnwi.uva.nl/d.j.n.vaneijck2/)  
 [Rineke (L.C.) Verbrugge](https://rinekeverbrugge.nl/) <[*L.C.Verbrugge@rug.nl*](mailto:L%2eC%2eVerbrugge%40rug%2enl)>
+<!--md-padding-ignore-end-->

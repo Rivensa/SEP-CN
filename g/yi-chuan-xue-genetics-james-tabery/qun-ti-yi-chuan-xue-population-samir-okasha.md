@@ -398,3 +398,4 @@ Prob(coalescence t generations ago)=12N×(1−12N)t−1.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Samir Okasha](http://www.bris.ac.uk/Depts/Philosophy/PHS/PHS\Staff.html#samir) <[*samir.okasha@bristol.ac.uk*](mailto:samir%2eokasha%40bristol%2eac%2euk)>
+<!--md-padding-ignore-end-->

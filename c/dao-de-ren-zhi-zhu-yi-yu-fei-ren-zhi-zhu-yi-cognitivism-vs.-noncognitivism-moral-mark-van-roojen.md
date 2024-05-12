@@ -542,3 +542,4 @@ The author thanks Kent Bach, David Clemenson, David Copp, Mark Decker, Jamie Dre
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Mark van Roojen](http://www.mvr1.com/Philosophy.html) <[*mvr1@earthlink.net*](mailto:mvr1%40earthlink%2enet)>
+<!--md-padding-ignore-end-->

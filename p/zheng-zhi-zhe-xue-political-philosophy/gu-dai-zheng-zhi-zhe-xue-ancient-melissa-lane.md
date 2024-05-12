@@ -445,3 +445,4 @@ The author would like to acknowledge the research assistance by René de Nicolay
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Melissa Lane](https://melissalane.princeton.edu/) <[*mslane@princeton.edu*](mailto:mslane%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

@@ -563,3 +563,4 @@ We wish to thank Andrew Forcehimes, Doug Portmore, and Holly Smith for very help
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Travis Timmerman](http://www.travistimmerman.com/) <[*travis.timmerman@shu.edu*](mailto:travis%2etimmerman%40shu%2eedu)>  
 [Yishai Cohen](https://usm.maine.edu/directories/people/yishai-cohen/) <[*yishai.cohen@maine.edu*](mailto:yishai%2ecohen%40maine%2eedu)>
+<!--md-padding-ignore-end-->

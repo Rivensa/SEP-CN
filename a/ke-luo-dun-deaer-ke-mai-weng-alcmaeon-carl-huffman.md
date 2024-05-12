@@ -208,3 +208,4 @@ Anaximander | Anaximenes | [Aristotle](https://plato.stanford.edu/entries/ar
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Carl Huffman <[*cahuff@depauw.edu*](mailto:cahuff%40depauw%2eedu)>
+<!--md-padding-ignore-end-->

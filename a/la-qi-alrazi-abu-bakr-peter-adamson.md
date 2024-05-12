@@ -181,3 +181,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/personen/adamson/index.html) <[*peter.adamson@lrz.uni-muenchen.de*](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>
+<!--md-padding-ignore-end-->

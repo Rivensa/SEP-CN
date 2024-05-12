@@ -496,3 +496,4 @@ The author thanks Ryan Balot, Richard Kraut, Casey Perin, and Eric Wiland for th
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Eric Brown](https://sites.google.com/view/ericbrownphilosophy/eric-brown) <[*eabrown@wustl.edu*](mailto:eabrown%40wustl%2eedu)>
+<!--md-padding-ignore-end-->

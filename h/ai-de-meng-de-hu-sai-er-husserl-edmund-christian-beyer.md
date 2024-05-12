@@ -347,3 +347,4 @@ Research on an earlier version of this article was supported by the German Resea
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Christian Beyer](http://www.uni-goettingen.de/de/70428.html)
+<!--md-padding-ignore-end-->

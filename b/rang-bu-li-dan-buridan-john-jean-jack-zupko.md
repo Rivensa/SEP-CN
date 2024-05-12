@@ -269,3 +269,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Jack Zupko](https://www.ualberta.ca/arts/about/people-collection/jack-zupko) <[*zupko@ualberta.ca*](mailto:zupko%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

@@ -247,3 +247,4 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Andrea Falcon](http://www.andreafalcon.net/) <[*Andrea.Falcon@concordia.ca*](mailto:Andrea%2eFalcon%40concordia%2eca)>
+<!--md-padding-ignore-end-->

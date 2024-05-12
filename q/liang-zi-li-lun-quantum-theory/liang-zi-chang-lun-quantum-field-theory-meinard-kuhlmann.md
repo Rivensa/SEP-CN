@@ -471,3 +471,4 @@ QFT 的粒子解释最直观地回答了粒子散射实验中发生的事情以�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Meinard Kuhlmann](https://www.philosophie.fb05.uni-mainz.de/arbeitsbereiche/wissenschaftsphilosophie/pd-dr-meinard-kuhlmann/) <[*mkuhlmann@uni-mainz.de*](mailto:mkuhlmann%40uni-mainz%2ede)>
+<!--md-padding-ignore-end-->

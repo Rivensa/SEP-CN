@@ -312,3 +312,4 @@ Stephen Darwall（2006）的道德观也可以被视为源自一种普遍模式�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Bernard Gert  
 [Joshua Gert](http://wmpeople.wm.edu/site/page/jngert) <[*jngert@wm.edu*](mailto:jngert%40wm%2eedu)>
+<!--md-padding-ignore-end-->

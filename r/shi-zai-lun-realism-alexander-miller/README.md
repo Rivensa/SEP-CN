@@ -483,3 +483,4 @@ I’m grateful to successive cohorts of students in my *Meaning and Metaphysics
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Alexander Miller](http://www.otago.ac.nz/philosophy/dept/staff-miller.html) <[*alex.miller@otago.ac.nz*](mailto:alex%2emiller%40otago%2eac%2enz)>
+<!--md-padding-ignore-end-->

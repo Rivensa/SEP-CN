@@ -555,3 +555,4 @@ Galisanka (2019)是一部关于《正义论》之前的知识史，也详细描�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Leif Wenar](https://philosophy.stanford.edu/people/leif-wenar) <[*lwenar@stanford.edu*](mailto:lwenar%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

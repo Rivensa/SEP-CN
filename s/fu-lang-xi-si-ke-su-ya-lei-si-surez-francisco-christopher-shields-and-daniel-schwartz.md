@@ -544,3 +544,4 @@ See Sydney Penner's excellent website: [Suarez in English Translation](http://w
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Christopher Shields](https://cjishields.com/about-us/) <[*cjshields@ucsd.edu*](mailto:cjshields%40ucsd%2eedu)>  
 Daniel Schwartz <[*schwartzd@mscc.huji.ac.il*](mailto:schwartzd%40mscc%2ehuji%2eac%2eil)>
+<!--md-padding-ignore-end-->

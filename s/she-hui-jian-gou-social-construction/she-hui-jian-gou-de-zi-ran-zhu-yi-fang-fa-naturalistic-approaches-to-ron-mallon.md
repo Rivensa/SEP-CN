@@ -305,3 +305,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Ron Mallon](https://philosophy.wustl.edu/people/ron-mallon) <[*rmallon@wustl.edu*](mailto:rmallon%40wustl%2eedu)>
+<!--md-padding-ignore-end-->

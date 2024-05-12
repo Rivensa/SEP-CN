@@ -164,3 +164,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Daniel Philpott](http://danielphilpott.info/) <[*Philpott.1@nd.edu*](mailto:Philpott%2e1%40nd%2eedu)>
+<!--md-padding-ignore-end-->

@@ -281,3 +281,4 @@ Special thanks to Francisco Gallegos, Eduardo Mendieta, Sofia Ortiz-Hinojosa, Am
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Manuel Vargas](http://vargasphilosophy.com/) <[*mrvargas@ucsd.edu*](mailto:mrvargas%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

@@ -469,3 +469,4 @@ We would like to thank Kim Díaz, Gregory Pappas, Fanny del Río, Carlos Alberto
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Guillermo Hurtado <[*gmhp@unam.mx*](mailto:gmhp%40unam%2emx)>  
 Robert Eli Sanchez, Jr. <[*sanchezjr.robert@gmail.com*](mailto:sanchezjr%2erobert%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

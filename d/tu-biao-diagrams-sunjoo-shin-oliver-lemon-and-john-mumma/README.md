@@ -493,3 +493,4 @@ Kosslyn（1980, 1994）和其他图像主义者（Shepard & Metzler 1971）提�
 [Sun-Joo Shin](http://www.yale.edu/philos/people/shin_sun-joo.html) <[*Sun-Joo.Shin@yale.edu*](mailto:Sun-Joo%2eShin%40yale%2eedu)>  
 [Oliver Lemon](http://www.macs.hw.ac.uk/staff-directory/oliver-lemon.htm)  
 [John Mumma](http://www.johnmumma.org/) <[*jmumma@csusb.edu*](mailto:jmumma%40csusb%2eedu)>
+<!--md-padding-ignore-end-->

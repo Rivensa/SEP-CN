@@ -403,3 +403,4 @@ x 是一种物质 =df x 是一个特定的物质，并且不存在一个特定�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Tuomas E. Tahko](http://www.ttahko.net/) <[*tuomas.tahko@bristol.ac.uk*](mailto:tuomas%2etahko%40bristol%2eac%2euk)>  
 [E. Jonathan Lowe](http://www.dur.ac.uk/philosophy/staff/?username=dfl0ejl)
+<!--md-padding-ignore-end-->

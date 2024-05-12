@@ -700,3 +700,4 @@ The editors note that as of the February 2019 update, no content by the original
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Michael Nelson <[*mnelson@ucr.edu*](mailto:mnelson%40ucr%2eedu)>
+<!--md-padding-ignore-end-->

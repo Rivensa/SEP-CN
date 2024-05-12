@@ -260,3 +260,4 @@ Quinn 的双重效应原则改述并非绝对主义性质。他观察到，通�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Alison McIntyre <[*amcintyre@wellesley.edu*](mailto:amcintyre%40wellesley%2eedu)>
+<!--md-padding-ignore-end-->

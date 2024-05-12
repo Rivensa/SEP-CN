@@ -372,3 +372,4 @@ I thank an anonymous reader and Professor Piotr Balcerowicz for very helpful com
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Laurence R. Horn](https://ling.yale.edu/people/laurence-r-horn) <[*laurence.horn@yale.edu*](mailto:laurence%2ehorn%40yale%2eedu)>
+<!--md-padding-ignore-end-->

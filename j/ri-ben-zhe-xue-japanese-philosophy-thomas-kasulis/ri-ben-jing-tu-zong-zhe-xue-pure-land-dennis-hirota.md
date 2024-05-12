@@ -369,3 +369,4 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Dennis Hirota <[*hirota.dennis@gmail.com*](mailto:hirota%2edennis%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

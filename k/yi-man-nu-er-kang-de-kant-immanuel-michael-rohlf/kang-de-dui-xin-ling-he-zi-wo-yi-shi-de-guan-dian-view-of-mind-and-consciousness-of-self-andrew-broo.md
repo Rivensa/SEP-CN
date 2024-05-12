@@ -583,3 +583,4 @@ Thanks to Paul Guyer, Paul Raymont, Rick DeVidi, Julian Wuerth, Kirsta Anderson,
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Andrew Brook](http://www.carleton.ca/~abrook/)  
 Julian Wuerth <[*julian.wuerth@vanderbilt.edu*](mailto:julian%2ewuerth%40vanderbilt%2eedu)>
+<!--md-padding-ignore-end-->

@@ -349,3 +349,4 @@ I thank Miguel Ángel Sebastián and an anonymous referee for helpful comments a
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Fernando Rudy-Hiller <[*ferudy@alumni.stanford.edu*](mailto:ferudy%40alumni%2estanford%2eedu)>
+<!--md-padding-ignore-end-->

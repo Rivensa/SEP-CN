@@ -349,3 +349,4 @@ Thanks to Alfred Mele and Randolph Clarke for very helpful comments on an earlie
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Markus Schlosser
+<!--md-padding-ignore-end-->

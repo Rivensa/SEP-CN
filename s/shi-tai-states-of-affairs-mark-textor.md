@@ -594,3 +594,4 @@ I want to thank Arianna Betti, Will Bynoe, Chris Hughes, Fabrice Correia, Keith 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Mark Textor <[*mark.textor@kcl.ac.uk*](mailto:mark%2etextor%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

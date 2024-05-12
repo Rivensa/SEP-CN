@@ -284,3 +284,4 @@ Burley 使用了“compossible”（compossibile）一词。值得注意的是�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Mikko Yrjönsuuri <[*mikko.yrjonsuuri@jyu.fi*](mailto:mikko%2eyrjonsuuri%40jyu%2efi)>
+<!--md-padding-ignore-end-->

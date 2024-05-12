@@ -372,3 +372,4 @@ With the kind permission of the British Academy, this present piece abbreviates 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Anthony Price](http://www.bbk.ac.uk/philosophy/our-staff/academics/price) <[*a.price@bbk.ac.uk*](mailto:a%2eprice%40bbk%2eac%2euk)>
+<!--md-padding-ignore-end-->

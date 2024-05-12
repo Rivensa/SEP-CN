@@ -280,3 +280,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Antoine Côté <[*coteaj@uottawa.ca*](mailto:coteaj%40uottawa%2eca)>
+<!--md-padding-ignore-end-->

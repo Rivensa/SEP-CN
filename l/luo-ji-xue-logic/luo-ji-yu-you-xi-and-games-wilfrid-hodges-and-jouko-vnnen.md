@@ -358,3 +358,4 @@ Some of the seminal papers by Henkin and Lorenzen, and some of the papers cited 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Wilfrid Hodges](http://wilfridhodges.co.uk/)  
 Jouko Väänänen <[*jouko.vaananen@helsinki.fi*](mailto:jouko%2evaananen%40helsinki%2efi)>
+<!--md-padding-ignore-end-->

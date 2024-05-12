@@ -1162,3 +1162,4 @@ The author would like to thank Aaron Cotnoir, Maureen Donnelly, Cody Gilmore, Pa
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Achille Varzi](http://www.columbia.edu/\~av72/) <[*achille.varzi@columbia.edu*](mailto:achille%2evarzi%40columbia%2eedu)>
+<!--md-padding-ignore-end-->

@@ -257,3 +257,4 @@ I am grateful to Erich Reck for comments.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [William Ewald](https://www.law.upenn.edu/cf/faculty/wewald/) <[*wewald@law.upenn.edu*](mailto:wewald%40law%2eupenn%2eedu)>
+<!--md-padding-ignore-end-->

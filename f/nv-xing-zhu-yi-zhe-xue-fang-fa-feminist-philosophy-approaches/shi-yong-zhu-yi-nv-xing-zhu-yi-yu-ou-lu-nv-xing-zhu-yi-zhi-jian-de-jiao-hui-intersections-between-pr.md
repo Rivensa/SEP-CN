@@ -221,3 +221,4 @@ Medina 认为，认识者在关于种族主义和（异性恋）性别歧视相�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Shannon Sullivan](https://clas-pages.uncc.edu/shannon-sullivan/) <[*ssullivan@uncc.edu*](mailto:ssullivan%40uncc%2eedu)>\
 Erin Tarver <[*e.c.tarver@emory.edu*](mailto:e%2ec%2etarver%40emory%2eedu)>
+<!--md-padding-ignore-end-->

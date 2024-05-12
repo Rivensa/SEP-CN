@@ -327,3 +327,4 @@ Alston 对于绝对与相对完美的对比 10 的处理，是根据他对对比
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Dan Dombrowski <[*ddombrow@seattleu.edu*](mailto:ddombrow%40seattleu%2eedu)>
+<!--md-padding-ignore-end-->

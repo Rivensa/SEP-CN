@@ -1075,3 +1075,4 @@ I would like to thank Edward Zalta and Uri Nodelman for their advice, encouragem
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Lawrence S. Moss](http://www.indiana.edu/\~iulg/moss/) <[*lmoss@indiana.edu*](mailto:lmoss%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

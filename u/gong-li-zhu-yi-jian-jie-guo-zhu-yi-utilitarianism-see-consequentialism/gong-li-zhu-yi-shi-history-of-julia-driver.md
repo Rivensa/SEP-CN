@@ -206,3 +206,4 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) for no
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 Julia Driver <[*julia.driver@austin.utexas.edu*](mailto:julia%2edriver%40austin%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

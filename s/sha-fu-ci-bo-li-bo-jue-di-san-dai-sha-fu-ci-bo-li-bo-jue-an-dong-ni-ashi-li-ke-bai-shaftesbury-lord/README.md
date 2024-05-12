@@ -695,3 +695,4 @@ deism | [aesthetics: British, in the 18th century](https://plato.stanford.edu/
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Michael B. Gill <[*mgill@ed.ac.uk*](mailto:mgill%40ed%2eac%2euk)>
+<!--md-padding-ignore-end-->

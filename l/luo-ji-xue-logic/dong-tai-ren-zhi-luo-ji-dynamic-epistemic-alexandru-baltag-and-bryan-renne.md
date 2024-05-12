@@ -1118,3 +1118,4 @@ Bryan Renne was supported by Innovational Research Incentives Scheme Veni grant 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Alexandru Baltag](https://sites.google.com/site/thealexandrubaltagsite/) <[*a.baltag@uva.nl*](mailto:a%2ebaltag%40uva%2enl)>  
 [Bryan Renne](http://bryan.renne.org/) <[*brenne@gmail.com*](mailto:brenne%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

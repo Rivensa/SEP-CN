@@ -140,3 +140,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Christian Wildberg](https://www.classics.pitt.edu/people/christian-wildberg) <[*chw168@pitt.edu*](mailto:chw168%40pitt%2eedu)>
+<!--md-padding-ignore-end-->

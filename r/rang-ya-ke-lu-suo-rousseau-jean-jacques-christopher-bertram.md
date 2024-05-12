@@ -229,3 +229,4 @@ The author would like to thank Jason Swadley Canon, Robin Douglass, Charles Gris
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Christopher Bertram <[*c.bertram@bristol.ac.uk*](mailto:c%2ebertram%40bristol%2eac%2euk)>
+<!--md-padding-ignore-end-->

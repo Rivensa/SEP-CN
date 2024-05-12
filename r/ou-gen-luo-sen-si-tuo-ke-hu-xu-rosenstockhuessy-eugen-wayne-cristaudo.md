@@ -346,3 +346,4 @@ Rosenstock-Huessy 的基督教观点必须从他将所有过去的人类形态�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Wayne Cristaudo](http://www.cdu.edu.au/creative-arts-humanities/staff-profiles/wayne-cristaudo) <[*wayne.cristaudo@cdu.edu.au*](mailto:wayne%2ecristaudo%40cdu%2eedu%2eau)>
+<!--md-padding-ignore-end-->

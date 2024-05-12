@@ -331,3 +331,4 @@ Siger of Brabant（公元 1284 年去世）和 John of Jandun（公元 1328 年�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Dag Nikolaus Hasse <[*dag-nikolaus.hasse@mail.uni-wuerzburg.de*](mailto:dag-nikolaus%2ehasse%40mail%2euni-wuerzburg%2ede)>
+<!--md-padding-ignore-end-->

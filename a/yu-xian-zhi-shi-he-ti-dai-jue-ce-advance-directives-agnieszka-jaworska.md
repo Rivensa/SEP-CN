@@ -162,3 +162,4 @@ Special thanks to Jennifer Hawkins and Govind Persad for very helpful comments o
 
 [Copyright © 2009](https://plato.stanford.edu/info.html#c) by  
 [Agnieszka Jaworska](http://philosophy.ucr.edu/agnieszka-jaworska/) <[*jaworska@ucr.edu*](mailto:jaworska%40ucr%2eedu)>
+<!--md-padding-ignore-end-->

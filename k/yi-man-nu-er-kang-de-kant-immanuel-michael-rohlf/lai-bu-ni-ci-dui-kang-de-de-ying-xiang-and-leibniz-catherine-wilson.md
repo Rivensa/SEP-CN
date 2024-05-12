@@ -195,3 +195,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Catherine Wilson <[*cww899@gmail.com*](mailto:cww899%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

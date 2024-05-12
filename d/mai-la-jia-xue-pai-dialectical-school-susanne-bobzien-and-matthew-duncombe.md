@@ -339,3 +339,4 @@ Diodorus 的模态概念依赖于命题在不同时间点的真值，这意味�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Susanne Bobzien](https://www.asc.ox.ac.uk/person/2155) <[*susanne.bobzien@gmail.com*](mailto:susanne%2ebobzien%40gmail%2ecom)>  
 Matthew Duncombe <[*matthew.duncombe@nottingham.ac.uk*](mailto:matthew%2eduncombe%40nottingham%2eac%2euk)>
+<!--md-padding-ignore-end-->

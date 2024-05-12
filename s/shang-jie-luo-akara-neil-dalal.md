@@ -296,3 +296,4 @@ Note that ‘Bh’ is appended to the other abbreviations to indicate Śaṅkara
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Neil Dalal](https://www.ualberta.ca/arts/about/people-collection/neil-dalal) <[*ndalal@ualberta.ca*](mailto:ndalal%40ualberta%2eca)>
+<!--md-padding-ignore-end-->

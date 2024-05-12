@@ -370,3 +370,4 @@ PPF 是维特根斯坦关键术语“看待方面”的经典范例（PPF xi）�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Anat Biletzki <[*anatbi@tauex.tau.ac.il*](mailto:anatbi%40tauex%2etau%2eac%2eil)>  
 [Anat Matar](http://www.tau.ac.il/humanities/philos/segel/Matar.html) <[*matar@tauex.tau.ac.il*](mailto:matar%40tauex%2etau%2eac%2eil)>
+<!--md-padding-ignore-end-->

@@ -467,3 +467,4 @@ Gaṅgeśa 的定义旨在解决关于非位置普及属性的推理问题，比
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Stephen Phillips](http://www.utexas.edu/cola/philosophy/faculty/shp9) <[*stephen_phillips@utexas.edu*](mailto:stephen_phillips%40utexas%2eedu)>
+<!--md-padding-ignore-end-->

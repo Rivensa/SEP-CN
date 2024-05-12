@@ -251,3 +251,4 @@ G.W.F.黑格尔对财产的解释集中在财产对自我发展的贡献上，�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Jeremy Waldron](http://its.law.nyu.edu/facultyprofiles/profile.cfm?personID=26993) <[*jeremy.waldron@nyu.edu*](mailto:jeremy%2ewaldron%40nyu%2eedu)>
+<!--md-padding-ignore-end-->

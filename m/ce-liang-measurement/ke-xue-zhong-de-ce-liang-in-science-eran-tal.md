@@ -446,3 +446,4 @@ The author would like to thank Stephan Hartmann, Wendy Parker, Paul Teller, Ales
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Eran Tal](http://sites.google.com/site/erantalphilosophy/) <[*eran.tal@mcgill.ca*](mailto:eran%2etal%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

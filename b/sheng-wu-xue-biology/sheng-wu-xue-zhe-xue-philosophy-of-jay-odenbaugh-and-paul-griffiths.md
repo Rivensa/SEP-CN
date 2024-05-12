@@ -308,3 +308,4 @@ The SEP Editors would like to thank Sally Ferguson for her editorial work on ear
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Jay Odenbaugh](http://jay-odenbaugh.squarespace.com/) <[*jay@lclark.edu*](mailto:jay%40lclark%2eedu)>\
 [Paul Griffiths](http://griffithslab.org/)
+<!--md-padding-ignore-end-->

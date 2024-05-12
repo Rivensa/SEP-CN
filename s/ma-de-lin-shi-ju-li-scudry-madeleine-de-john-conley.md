@@ -345,3 +345,4 @@ Citations are to the page numbers of the original French version. Passages from 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 John Conley <[*JConley1@loyola.edu*](mailto:JConley1%40loyola%2eedu)>
+<!--md-padding-ignore-end-->

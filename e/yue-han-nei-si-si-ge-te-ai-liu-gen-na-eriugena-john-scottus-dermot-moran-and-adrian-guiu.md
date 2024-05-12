@@ -387,3 +387,4 @@ PL stands for *Patrologia Latina* (in Latin) and PG for *Patrologia Graeca* 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Dermot Moran](http://www.ucd.ie/research/people/philosophy/professordermotmoran/) <[*dermot.moran@ucd.ie*](mailto:dermot%2emoran%40ucd%2eie)>  
 Adrian Guiu <[*aguiu1@ccc.edu*](mailto:aguiu1%40ccc%2eedu)>
+<!--md-padding-ignore-end-->

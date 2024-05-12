@@ -949,3 +949,4 @@ BIO 接口主要采用了 Sørensen 和 Urzyczyn（2006）的启发，采用了 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Nicolas Clerbout <[*nicolas.clerbout@gmail.com*](mailto:nicolas%2eclerbout%40gmail%2ecom)>  
 Zoe McConaughey <[*zoe.mc-conaughey@univ-lille.fr*](mailto:zoe%2emc-conaughey%40univ-lille%2efr)>
+<!--md-padding-ignore-end-->

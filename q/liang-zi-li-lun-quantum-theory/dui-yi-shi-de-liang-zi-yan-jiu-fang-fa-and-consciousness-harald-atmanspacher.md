@@ -496,3 +496,4 @@ Inspiring discussions on numerous topics treated in this paper with Guido Baccia
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Harald Atmanspacher](https://www.mindmatter.de/resources/pdf/bio_smmr.pdf) <[*atmanspacher@collegium.ethz.ch*](mailto:atmanspacher%40collegium%2eethz%2ech)>
+<!--md-padding-ignore-end-->

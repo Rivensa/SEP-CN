@@ -224,3 +224,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 José Manuel García Valverde <[*jvalverde13@us.es*](mailto:jvalverde13%40us%2ees)>
+<!--md-padding-ignore-end-->

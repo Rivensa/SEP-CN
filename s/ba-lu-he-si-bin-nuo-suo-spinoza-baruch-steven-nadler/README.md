@@ -324,3 +324,4 @@ Note: There is an enormous body of literature on Spinoza in many languages, espe
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Steven Nadler](http://philosophy.wisc.edu/nadler/) <[*smnadler@facstaff.wisc.edu*](mailto:smnadler%40facstaff%2ewisc%2eedu)>
+<!--md-padding-ignore-end-->

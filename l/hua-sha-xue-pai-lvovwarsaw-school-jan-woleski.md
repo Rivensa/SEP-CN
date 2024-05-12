@@ -302,3 +302,4 @@ The author and editors would like to thank Branden Fitelson for supplying a corr
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Jan Woleński <[*jan.wolenski@uj.edu.pl*](mailto:jan%2ewolenski%40uj%2eedu%2epl)>
+<!--md-padding-ignore-end-->

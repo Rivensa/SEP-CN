@@ -228,3 +228,4 @@ Monroe Beardsley 的定义认为，艺术品是“一种旨在提供具有明显
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Thomas Adajian <[*adajiatr@jmu.edu*](mailto:adajiatr%40jmu%2eedu)>
+<!--md-padding-ignore-end-->

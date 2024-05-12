@@ -157,3 +157,4 @@ Alyngton 的选择意味着一种反还原主义的方法，这在解决何种�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Alessandro Conti <[*alessandrodomenico.conti@univaq.it*](mailto:alessandrodomenico%2econti%40univaq%2eit)>
+<!--md-padding-ignore-end-->

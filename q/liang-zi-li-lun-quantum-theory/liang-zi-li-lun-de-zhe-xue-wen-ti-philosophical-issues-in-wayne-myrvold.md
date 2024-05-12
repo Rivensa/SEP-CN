@@ -417,3 +417,4 @@ Dürr，Goldstein 和 Zanghì（1992）引入了“原始本体论”一词，�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Wayne Myrvold](http://publish.uwo.ca/\~wmyrvold/) <[*wmyrvold@uwo.ca*](mailto:wmyrvold%40uwo%2eca)>
+<!--md-padding-ignore-end-->

@@ -448,3 +448,4 @@ The author is very grateful to Lou Goble, whose extensive comments on two earlie
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Gert-Jan Lokhorst](http://gjclokhorst.nl/) <[*g.j.c.lokhorst@tudelft.nl*](mailto:g%2ej%2ec%2elokhorst%40tudelft%2enl)>
+<!--md-padding-ignore-end-->

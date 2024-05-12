@@ -536,3 +536,4 @@ The editors would like to thank James Blakeley for his efforts in translating th
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Mario Turchetti
+<!--md-padding-ignore-end-->

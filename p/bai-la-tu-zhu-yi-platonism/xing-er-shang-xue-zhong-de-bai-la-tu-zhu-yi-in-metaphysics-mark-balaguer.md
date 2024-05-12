@@ -568,3 +568,4 @@ Balaguer和Linsky＆Zalta随后认为，如果柏拉图主义者支持充实柏�
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Mark Balaguer <[*mbalagu@calstatela.edu*](mailto:mbalagu%40calstatela%2eedu)>
+<!--md-padding-ignore-end-->

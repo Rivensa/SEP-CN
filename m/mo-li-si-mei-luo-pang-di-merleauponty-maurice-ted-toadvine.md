@@ -341,3 +341,4 @@ The author would like to thank Corinne Lajoie for helpful suggestions on revisin
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Ted Toadvine](http://rockethics.psu.edu/people/ted-toadvine) <[*tat30@psu.edu*](mailto:tat30%40psu%2eedu)>
+<!--md-padding-ignore-end-->

@@ -543,3 +543,4 @@ Lydia X. Z. Brown, an activist, community organizer, and legal advocate, maintai
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Melinda C. Hall](http://melindahall.net/) <[*mchall@stetson.edu*](mailto:mchall%40stetson%2eedu)>
+<!--md-padding-ignore-end-->

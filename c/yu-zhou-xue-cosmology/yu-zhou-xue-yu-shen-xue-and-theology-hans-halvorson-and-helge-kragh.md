@@ -290,3 +290,4 @@ A good source for modern cosmology and its philosophical and religious contexts 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Hans Halvorson](http://www.princeton.edu/~hhalvors) <[*hhalvors@princeton.edu*](mailto:hhalvors%40princeton%2eedu)>  
 Helge Kragh <[*helge.kragh@nbi.ku.dk*](mailto:helge%2ekragh%40nbi%2eku%2edk)>
+<!--md-padding-ignore-end-->

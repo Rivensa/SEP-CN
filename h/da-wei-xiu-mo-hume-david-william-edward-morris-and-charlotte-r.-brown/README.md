@@ -707,3 +707,4 @@ Thanks to the late Annette Baier, and to Arthur Morton and David Owen, for their
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 William Edward Morris  
 Charlotte R. Brown
+<!--md-padding-ignore-end-->

@@ -440,3 +440,4 @@ Jerrold Levinson（1997）反对“建筑主义”，支持“串联主义”，
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Andrew Kania](http://web.trinity.edu/x8189.xml) <[*akania@trinity.edu*](mailto:akania%40trinity%2eedu)>
+<!--md-padding-ignore-end-->

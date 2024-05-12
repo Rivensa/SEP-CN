@@ -931,3 +931,4 @@ The authors are grateful to C. Anthony Anderson, Allen Hazen, Hasen Khudairi, Ga
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Harry Deutsch <[*hdeutsch@ilstu.edu*](mailto:hdeutsch%40ilstu%2eedu)>\
 Oliver Marshall <[*omarshall@gradcenter.cuny.edu*](mailto:omarshall%40gradcenter%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

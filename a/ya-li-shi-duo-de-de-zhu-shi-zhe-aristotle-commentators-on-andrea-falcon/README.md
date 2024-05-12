@@ -350,3 +350,4 @@ Thanks to Christopher Shields for commenting on a draft of this entry.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Andrea Falcon](http://www.andreafalcon.net/) <[*Andrea.Falcon@concordia.ca*](mailto:Andrea%2eFalcon%40concordia%2eca)>
+<!--md-padding-ignore-end-->

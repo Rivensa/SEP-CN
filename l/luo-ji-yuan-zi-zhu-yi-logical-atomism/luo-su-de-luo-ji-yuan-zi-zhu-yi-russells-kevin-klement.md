@@ -377,3 +377,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Kevin Klement](http://people.umass.edu/klement/) <[*klement@philos.umass.edu*](mailto:klement%40philos%2eumass%2eedu)>
+<!--md-padding-ignore-end-->

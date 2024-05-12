@@ -1043,3 +1043,4 @@ Various people have helped with this and prior renditions. We thank Ruth Barcan 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Paul McNamara](https://findscholars.unh.edu/display/paulm) <[*paulmunh@gmail.com*](mailto:paulmunh%40gmail%2ecom)>\
 [Frederik Van De Putte](https://www.researchgate.net/profile/Frederik\Van\De\Putte) <[*frederik.vandeputte@ugent.be*](mailto:frederik%2evandeputte%40ugent%2ebe)>
+<!--md-padding-ignore-end-->

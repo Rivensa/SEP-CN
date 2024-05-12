@@ -672,3 +672,4 @@ Many thanks for their help to David Chalmers, Andrew Chignell, Fiona Macpherson,
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Nicholas Silins <[*nico.silins@gmail.com*](mailto:nico%2esilins%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -550,3 +550,4 @@ For attempts at compilations of Goodman’s complete corpus see Berka 1991, the 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Daniel Cohnitz](https://www.uu.nl/staff/DCohnitz) <[*d.cohnitz@uu.nl*](mailto:d%2ecohnitz%40uu%2enl)>\
 [Marcus Rossberg](http://rossberg.philosophy.uconn.edu/) <[*marcus.rossberg@uconn.edu*](mailto:marcus%2erossberg%40uconn%2eedu)>
+<!--md-padding-ignore-end-->

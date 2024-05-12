@@ -286,3 +286,4 @@ Thanks to David Chalmers for many helpful comments and suggestions.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 William Ramsey <[*wramsey@unlv.edu*](mailto:wramsey%40unlv%2eedu)>
+<!--md-padding-ignore-end-->

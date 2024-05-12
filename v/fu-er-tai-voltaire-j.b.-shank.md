@@ -349,3 +349,4 @@ The scholarly literature on Voltaire is vast, and growing larger every day. The 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [J.B. Shank](http://www.hist.umn.edu/people/profile.php?UID=jbshank) <[*jbshank@umn.edu*](mailto:jbshank%40umn%2eedu)>
+<!--md-padding-ignore-end-->

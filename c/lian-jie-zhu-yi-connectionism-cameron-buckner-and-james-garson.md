@@ -375,3 +375,4 @@ PC 模型还显示出解释更高层认知现象的潜力。一个经常被引�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Cameron Buckner](http://cameronbuckner.net/professional/) <[*cjbuckner@uh.edu*](mailto:cjbuckner%40uh%2eedu)>  
 [James Garson](http://www.hfac.uh.edu/phil/garson/Jim_Garson.htm) <[*JGarson@uh.edu*](mailto:JGarson%40uh%2eedu)>
+<!--md-padding-ignore-end-->

@@ -352,3 +352,4 @@ Geach 广泛使用的一个概念，也是他的对手常用的一个概念，�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Harold Noonan](http://www.nottingham.ac.uk/philosophy/staff/harold-noonan.php) <[*Harold.Noonan@nottingham.ac.uk*](mailto:Harold%2eNoonan%40nottingham%2eac%2euk)>\
 [Ben Curtis](https://www.ntu.ac.uk/staff-profiles/education/benjamin-curtis) <[*benjamin.curtis@ntu.ac.uk*](mailto:benjamin%2ecurtis%40ntu%2eac%2euk)>
+<!--md-padding-ignore-end-->

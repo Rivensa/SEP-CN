@@ -536,3 +536,4 @@ Scheffler 提出了一个建议，即如何将一种反对某些等级、权力�
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 [Richard Arneson](http://philosophy.ucsd.edu/faculty/rarneson/)
+<!--md-padding-ignore-end-->

@@ -327,3 +327,4 @@ The section of this entry on Neo-Confucian socio-political thought is drawn in s
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Stephen C. Angle <[*sangle@wesleyan.edu*](mailto:sangle%40wesleyan%2eedu)>
+<!--md-padding-ignore-end-->

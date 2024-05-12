@@ -212,3 +212,4 @@ Ricoeur 没有提出一般的解释理论。他对诠释学的思考本身就是
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 David Pellauer <[*dpellauer@gmail.com*](mailto:dpellauer%40gmail%2ecom)>  
 Bernard Dauenhauer
+<!--md-padding-ignore-end-->

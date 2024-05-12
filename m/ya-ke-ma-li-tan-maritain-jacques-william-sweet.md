@@ -506,3 +506,4 @@ Additional studies of Maritain’s work are available in such journals as [*Ét
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 William Sweet <[*wsweet@stfx.ca*](mailto:wsweet%40stfx%2eca)>
+<!--md-padding-ignore-end-->

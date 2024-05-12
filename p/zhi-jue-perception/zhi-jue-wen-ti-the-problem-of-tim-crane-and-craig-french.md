@@ -692,3 +692,4 @@ We are very grateful to Tim Bayne, David Chalmers, Katalin Farkas, Mike Martin a
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Tim Crane](http://www.timcrane.com/) <[*timcrane@ceu.edu*](mailto:timcrane%40ceu%2eedu)>  
 [Craig French](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/craig.french) <[*Craig.French@nottingham.ac.uk*](mailto:Craig%2eFrench%40nottingham%2eac%2euk)>
+<!--md-padding-ignore-end-->

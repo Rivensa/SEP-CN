@@ -339,3 +339,4 @@ Thanks to Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert Sparrow, and 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Eric Juengst  
 [Daniel Moseley](http://danieldmoseley.wordpress.com/) <[*moseledd@email.unc.edu*](mailto:moseledd%40email%2eunc%2eedu)>
+<!--md-padding-ignore-end-->

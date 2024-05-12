@@ -501,3 +501,4 @@ A further useful resource is:
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Michael Forster <[*mnforster@uni-bonn.de*](mailto:mnforster%40uni-bonn%2ede)>
+<!--md-padding-ignore-end-->

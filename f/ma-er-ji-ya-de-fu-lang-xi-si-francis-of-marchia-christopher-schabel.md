@@ -213,3 +213,4 @@ Note: unless they are cited in the text, the individual studies in the six volum
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Christopher Schabel
+<!--md-padding-ignore-end-->

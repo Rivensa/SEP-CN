@@ -273,3 +273,4 @@ Parts of this entry are adapted with significant revisions from my book *Philip
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 John Hacker-Wright <[*jhackerw@uoguelph.ca*](mailto:jhackerw%40uoguelph%2eca)>
+<!--md-padding-ignore-end-->

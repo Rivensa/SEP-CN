@@ -203,3 +203,4 @@ A more complete bibliography of Ayer’s work up to 1979 can be found in Macdona
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Graham Macdonald](http://staffprofiles.humanities.manchester.ac.uk/Profile.aspx?Id=Graham.Macdonald)  
 Nikhil Krishnan <[*nk459@cam.ac.uk*](mailto:nk459%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

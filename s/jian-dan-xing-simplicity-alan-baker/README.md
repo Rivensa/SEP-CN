@@ -384,3 +384,4 @@ Nolan（1997）在中微子的发现背景下研究了这些问题。20 世纪 3
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Alan Baker <[*abaker1@swarthmore.edu*](mailto:abaker1%40swarthmore%2eedu)>
+<!--md-padding-ignore-end-->

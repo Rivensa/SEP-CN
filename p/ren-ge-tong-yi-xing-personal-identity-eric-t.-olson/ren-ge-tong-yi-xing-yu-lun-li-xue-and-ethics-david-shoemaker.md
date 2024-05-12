@@ -559,3 +559,4 @@ The author is grateful both to Nicole Smith, for her valuable and thorough resea
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [David Shoemaker](http://tulane.edu/liberal-arts/philosophy/shoemaker.cfm)
+<!--md-padding-ignore-end-->

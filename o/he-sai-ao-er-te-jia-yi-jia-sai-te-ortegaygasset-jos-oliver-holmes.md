@@ -556,3 +556,4 @@ In this connection, Ortega was in accord with Croce’s notion that “we know t
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Oliver Holmes <[*oholmes@wesleyan.edu*](mailto:oholmes%40wesleyan%2eedu)>
+<!--md-padding-ignore-end-->

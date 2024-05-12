@@ -623,3 +623,4 @@ For helpful comments, many thanks are due to Anna Alexandrova, Robert Biswas-Die
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Dan Haybron](http://www.slu.edu/~haybrond/) <[*dan.haybron@slu.edu*](mailto:dan%2ehaybron%40slu%2eedu)>
+<!--md-padding-ignore-end-->

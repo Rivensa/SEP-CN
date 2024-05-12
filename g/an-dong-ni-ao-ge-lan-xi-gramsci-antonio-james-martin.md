@@ -303,3 +303,4 @@ All works below are by Antonio Gramsci.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 James Martin <[*j.martin@gold.ac.uk*](mailto:j%2emartin%40gold%2eac%2euk)>
+<!--md-padding-ignore-end-->

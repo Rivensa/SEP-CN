@@ -463,3 +463,4 @@ My warmest thanks go to Deborah L. Black for her help with the English of this e
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Cristina D’Ancona](https://people.unipi.it/cristina_dancona/) <[*cristina.dancona@unipi.it*](mailto:cristina%2edancona%40unipi%2eit)>
+<!--md-padding-ignore-end-->

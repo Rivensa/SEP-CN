@@ -459,3 +459,4 @@ D5 只将“通过委托”（Chisholm 和 Feehan 1977，143-144）的欺骗案�
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [James Edwin Mahon](http://www.jamesmahon.net/) <[*james.mahon@lehman.cuny.edu*](mailto:james%2emahon%40lehman%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

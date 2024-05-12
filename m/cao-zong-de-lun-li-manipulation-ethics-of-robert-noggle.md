@@ -419,3 +419,4 @@ Patricia Greenspan 建议操纵是一种介于强迫和欺骗之间的混合形�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Robert Noggle <[*noggl1r@cmich.edu*](mailto:noggl1r%40cmich%2eedu)>
+<!--md-padding-ignore-end-->

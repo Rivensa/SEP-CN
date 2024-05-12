@@ -498,3 +498,4 @@ We would like to thank Joe Dewhurst, James Nguyen, Alexander Reutlinger, Collin 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Roman Frigg](http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/frigg.htm) <[*r.p.frigg@lse.ac.uk*](mailto:r%2ep%2efrigg%40lse%2eac%2euk)>  
 [Stephan Hartmann](http://stephanhartmann.org/) <[*stephan.hartmann@lrz.uni-muenchen.de*](mailto:stephan%2ehartmann%40lrz%2euni-muenchen%2ede)>
+<!--md-padding-ignore-end-->

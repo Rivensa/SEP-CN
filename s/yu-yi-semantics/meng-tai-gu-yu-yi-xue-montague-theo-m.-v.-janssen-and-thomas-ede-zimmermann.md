@@ -391,3 +391,4 @@ Janssen 1997 和有关组合性的条目中对组合性进行了广泛讨论。
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Theo M. V. Janssen  
 Thomas Ede Zimmermann <[*T.E.Zimmermann@lingua.uni-frankfurt.de*](mailto:T%2eE%2eZimmermann%40lingua%2euni-frankfurt%2ede)>
+<!--md-padding-ignore-end-->

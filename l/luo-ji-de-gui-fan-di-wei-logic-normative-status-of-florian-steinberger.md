@@ -384,3 +384,4 @@ Hartry Field (2009a,b, 2015}提出了这种形式的桥梁原则。以下是这�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Florian Steinberger](http://www.bbk.ac.uk/philosophy/our-staff/academics/steinberger) <[*f.steinberger@bbk.ac.uk*](mailto:f%2esteinberger%40bbk%2eac%2euk)>
+<!--md-padding-ignore-end-->

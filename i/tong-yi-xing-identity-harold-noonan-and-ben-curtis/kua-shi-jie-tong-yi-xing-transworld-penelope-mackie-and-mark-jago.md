@@ -343,3 +343,4 @@ Chandler 的传递性论证可以改编成一个类似于 4.1-4.2 节中讨论�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Penelope Mackie](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/penelope.mackie)\
 Mark Jago <[*mark.jago@nottingham.ac.uk*](mailto:mark%2ejago%40nottingham%2eac%2euk)>
+<!--md-padding-ignore-end-->

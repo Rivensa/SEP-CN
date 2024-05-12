@@ -335,3 +335,4 @@ Schiller suggests, in other words, that idyllic poetry might allow the modern hu
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Lydia L. Moland](https://www.colby.edu/directory/profile/lydia.moland/) <[*lydia.moland@colby.edu*](mailto:lydia%2emoland%40colby%2eedu)>
+<!--md-padding-ignore-end-->

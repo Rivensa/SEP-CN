@@ -347,3 +347,4 @@ Field（2008）和其他人批评了基于部分逻辑的理论，因为它们�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Volker Halbach](http://users.ox.ac.uk/~sfop0114/) <[*volker.halbach@philosophy.ox.ac.uk*](mailto:volker%2ehalbach%40philosophy%2eox%2eac%2euk)>  
 [Graham E. Leigh](https://www.gu.se/en/about/find-staff/grahamleigh) <[*graham.leigh@gu.se*](mailto:graham%2eleigh%40gu%2ese)>
+<!--md-padding-ignore-end-->

@@ -680,3 +680,4 @@ In-text citations give the original publication date, series abbreviation, follo
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [David Hildebrand](https://clas.ucdenver.edu/philosophy/david-l-hildebrand) <[*hilde123@gmail.com*](mailto:hilde123%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

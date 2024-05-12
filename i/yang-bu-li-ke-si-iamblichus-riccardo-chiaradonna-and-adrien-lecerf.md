@@ -531,3 +531,4 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Riccardo Chiaradonna <[*riccardo.chiaradonna@uniroma3.it*](mailto:riccardo%2echiaradonna%40uniroma3%2eit)>  
 Adrien Lecerf <[*adrien.lecerf@gmail.com*](mailto:adrien%2elecerf%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

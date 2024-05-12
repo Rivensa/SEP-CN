@@ -259,3 +259,4 @@ Marmura（1965，183；1981，97）否认了 al-Ghazâlî可能将偶然主义�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Frank Griffel <[*frank.griffel@yale.edu*](mailto:frank%2egriffel%40yale%2eedu)>
+<!--md-padding-ignore-end-->

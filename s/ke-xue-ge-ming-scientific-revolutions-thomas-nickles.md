@@ -544,3 +544,4 @@ Thanks to Katherine Brading for the reference to Émilie Du Châtelet.
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Thomas Nickles
+<!--md-padding-ignore-end-->

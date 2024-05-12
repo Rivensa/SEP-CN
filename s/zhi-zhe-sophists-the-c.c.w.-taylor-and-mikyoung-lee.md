@@ -110,3 +110,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 C.C.W. Taylor <[*christopher.taylor@philosophy.ox.ac.uk*](mailto:christopher%2etaylor%40philosophy%2eox%2eac%2euk)>  
 Mi-Kyoung Lee <[*mitzi@colorado.edu*](mailto:mitzi%40colorado%2eedu)>
+<!--md-padding-ignore-end-->

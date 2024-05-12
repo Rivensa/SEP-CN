@@ -119,3 +119,4 @@ Cordemoy提出了第二个区分的论点，虽然比笛卡尔的严谨性要低
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Fred Ablondi <[*ablondi@mercury.hendrix.edu*](mailto:ablondi%40mercury%2ehendrix%2eedu)>
+<!--md-padding-ignore-end-->

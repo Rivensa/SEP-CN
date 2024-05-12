@@ -403,3 +403,4 @@ Hoffman（2016）认为，扩展心智论对我们如何评判代理人的心理
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Dominic Murphy <[*dominic.murphy@sydney.edu.au*](mailto:dominic%2emurphy%40sydney%2eedu%2eau)>
+<!--md-padding-ignore-end-->

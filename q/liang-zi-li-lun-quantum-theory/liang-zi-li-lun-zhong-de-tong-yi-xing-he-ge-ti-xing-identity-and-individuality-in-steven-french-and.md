@@ -315,3 +315,4 @@ Thanks to Otávio Bueno, Rob Clifton, Nick Huggett, Decio Krause and James Ladym
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Steven French](http://www.leeds.ac.uk/arts/people/20042/school_of_philosophy_religion_and_the_history_of_science/person/902/steven_french)  
 Tomasz Bigaj <[*t.f.bigaj@uw.edu.pl*](mailto:t%2ef%2ebigaj%40uw%2eedu%2epl)>
+<!--md-padding-ignore-end-->

@@ -419,3 +419,4 @@ For the original entry, I am grateful for the assistance of a California State U
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Lisa Gannett](https://smu.ca/research/profiles/faculty/Gannett65.html) <[*lisa.gannett@smu.ca*](mailto:lisa%2egannett%40smu%2eca)>
+<!--md-padding-ignore-end-->

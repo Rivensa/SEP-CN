@@ -423,3 +423,4 @@ Thanks to David Chalmers, Steven Davis and Edward N. Zalta for penetrating comme
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Pierre Jacob](http://www.institutnicod.org/membres/membres-permanents/jacob-pierre/?lang=en) <[*jacobpiotr11@gmail.com*](mailto:jacobpiotr11%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

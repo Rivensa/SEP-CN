@@ -390,3 +390,4 @@ Equally interesting is the fact that Feyerabend too mentions the standard argume
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jean Paul Van Bendegem](https://clps.research.vub.be/jean-paul-van-bendegem-0) <[*Jean.Paul.Van.Bendegem@vub.be*](mailto:Jean%2ePaul%2eVan%2eBendegem%40vub%2ebe)>
+<!--md-padding-ignore-end-->

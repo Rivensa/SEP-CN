@@ -529,3 +529,4 @@ Thompson 坚持认为，这种观点应该与洛克的倾向主义观点和颜�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Barry Maund <[*jbmaund@bigpond.com*](mailto:jbmaund%40bigpond%2ecom)>
+<!--md-padding-ignore-end-->

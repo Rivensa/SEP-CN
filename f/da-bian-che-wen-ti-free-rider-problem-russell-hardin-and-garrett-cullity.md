@@ -213,3 +213,4 @@ Olson指出，诸如高速公路和公共安全等许多政府提供的商品，
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Russell Hardin](http://politics.as.nyu.edu/object/RussellHardin.html)  
 Garrett Cullity <[*garrett.cullity@anu.edu.au*](mailto:garrett%2ecullity%40anu%2eedu%2eau)>
+<!--md-padding-ignore-end-->

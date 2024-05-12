@@ -230,3 +230,4 @@ The second hypothetical case immediately follows. Now the king is asked whether 
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 Barry Kogan <[*bskogan@aol.com*](mailto:bskogan%40aol%2ecom)>
+<!--md-padding-ignore-end-->

@@ -478,3 +478,4 @@ E. J. Lowe (1996) 辩护这一论点，并如下辩称(2)。
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Howard Robinson](http://philosophy.ceu.edu/people/howard-robinson) <[*robinson@ceu.hu*](mailto:robinson%40ceu%2ehu)>
+<!--md-padding-ignore-end-->

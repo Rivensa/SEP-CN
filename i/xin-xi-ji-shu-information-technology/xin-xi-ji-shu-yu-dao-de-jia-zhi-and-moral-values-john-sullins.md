@@ -408,3 +408,4 @@ Luciano Floridi 和 J.W. Sanders 认为，在计算理论中使用的信息可�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [John Sullins](http://sonoma.academia.edu/JohnSullins) <[*john.sullins@sonoma.edu*](mailto:john%2esullins%40sonoma%2eedu)>
+<!--md-padding-ignore-end-->

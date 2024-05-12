@@ -514,3 +514,4 @@ Aicardi等人（1991年）对这一批评提出了详细的回答：在考虑的
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Giancarlo Ghirardi  
 [Angelo Bassi](http://www.qmts.it:8080/?q=group-leader) <[*bassi@ts.infn.it*](mailto:bassi%40ts%2einfn%2eit)>
+<!--md-padding-ignore-end-->

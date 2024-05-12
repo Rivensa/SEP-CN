@@ -461,3 +461,4 @@ Radford 认为这种不一致和不连贯的含义并不立即清晰。理解这
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Katie Tullmann <[*Katherine.tullmann@nau.edu*](mailto:Katherine%2etullmann%40nau%2eedu)>
+<!--md-padding-ignore-end-->

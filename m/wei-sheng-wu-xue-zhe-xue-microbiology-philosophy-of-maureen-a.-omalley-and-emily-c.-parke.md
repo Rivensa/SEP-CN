@@ -365,3 +365,4 @@ DNA作为遗传物质的确立是在细菌和病毒实验系统中进行的（Av
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Maureen A. O’Malley <[*maureen.omalley@sydney.edu.au*](mailto:maureen%2eomalley%40sydney%2eedu%2eau)>  
 Emily C. Parke <[*e.parke@auckland.ac.nz*](mailto:e%2eparke%40auckland%2eac%2enz)>
+<!--md-padding-ignore-end-->

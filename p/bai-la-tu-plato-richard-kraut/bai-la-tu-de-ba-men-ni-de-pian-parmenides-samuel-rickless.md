@@ -486,3 +486,4 @@ D8 中的大多数个别论证在逻辑上相互关联，并与之前的推论�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Samuel Rickless](http://samrickless.com/) <[*srickless@ucsd.edu*](mailto:srickless%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

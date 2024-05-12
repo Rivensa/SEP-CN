@@ -527,3 +527,4 @@ The author acknowledges good friends Roger Ames and Michael Nylan, who made many
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Henry Rosemont Jr.
+<!--md-padding-ignore-end-->

@@ -281,3 +281,4 @@ In general, what we see in Heraclitus is not a conflation of opposites into an i
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Daniel W. Graham <[*danielwatkinsgraham@outlook.com*](mailto:danielwatkinsgraham%40outlook%2ecom)>
+<!--md-padding-ignore-end-->

@@ -390,3 +390,4 @@ References to Kant’s texts follow the Academy edition (*Gesammelte Schriften*,
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Martin Schönfeld  
 Michael Thompson <[*Michael.Thompson@unt.edu*](mailto:Michael%2eThompson%40unt%2eedu)>
+<!--md-padding-ignore-end-->

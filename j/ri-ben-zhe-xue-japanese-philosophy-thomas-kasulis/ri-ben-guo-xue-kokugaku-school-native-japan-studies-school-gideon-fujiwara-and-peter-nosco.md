@@ -368,3 +368,4 @@ All the above-mentioned works are cited in the following bibliography, along wit
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Gideon Fujiwara](http://directory.uleth.ca/users/gideon.fujiwara) <[*gideon.fujiwara@uleth.ca*](mailto:gideon%2efujiwara%40uleth%2eca)>  
 Peter Nosco
+<!--md-padding-ignore-end-->

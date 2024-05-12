@@ -226,3 +226,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 William Wainwright
+<!--md-padding-ignore-end-->

@@ -246,3 +246,4 @@ EPR 周围的文献中包含了另一个版本的论证，这个版本是一个�
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Arthur Fine <[*afine@uw.edu*](mailto:afine%40uw%2eedu)>  
 [Thomas A. Ryckman](https://philosophy.stanford.edu/people/thomas-ryckman) <[*tryckman@stanford.edu*](mailto:tryckman%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

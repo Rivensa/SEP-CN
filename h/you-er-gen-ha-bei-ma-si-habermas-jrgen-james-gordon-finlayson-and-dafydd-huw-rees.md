@@ -855,3 +855,4 @@ They are revealed not as timeless constants, but as they have developed over tim
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Gordon Finlayson](https://jamesgordonfinlayson.com/about) <[*J.G.Finlayson@sussex.ac.uk*](mailto:J%2eG%2eFinlayson%40sussex%2eac%2euk)>  
 [Dafydd Huw Rees](https://profiles.cardiff.ac.uk/staff/reesd12) <[*reesd12@cardiff.ac.uk*](mailto:reesd12%40cardiff%2eac%2euk)>
+<!--md-padding-ignore-end-->

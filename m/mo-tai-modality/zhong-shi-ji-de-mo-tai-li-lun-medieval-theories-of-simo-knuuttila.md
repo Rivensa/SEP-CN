@@ -348,3 +348,4 @@ p 在 t 时获得，并且在 t 时有可能不-p 在 t 获得。
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Simo Knuuttila
+<!--md-padding-ignore-end-->

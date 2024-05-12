@@ -473,3 +473,4 @@ I thank Sebastiaan Terwijn, Mark van Atten, and an anonymous referee for their u
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Rosalie Iemhoff](https://www.phil.uu.nl/~iemhoff/) <[*R.Iemhoff@uu.nl*](mailto:R%2eIemhoff%40uu%2enl)>
+<!--md-padding-ignore-end-->

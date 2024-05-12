@@ -580,3 +580,4 @@ Hook 将回复关于条件命令的上述论点，我们需要诉诸语用学。
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Dorothy Edgington <[*d.edgington@bbk.ac.uk*](mailto:d%2eedgington%40bbk%2eac%2euk)>
+<!--md-padding-ignore-end-->

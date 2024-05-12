@@ -565,3 +565,4 @@ Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Se
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Charles Siewert](https://www.charles-siewert.com/) <[*charles.siewert@rice.edu*](mailto:charles%2esiewert%40rice%2eedu)>
+<!--md-padding-ignore-end-->

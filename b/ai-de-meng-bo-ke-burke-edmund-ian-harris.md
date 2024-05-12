@@ -245,3 +245,4 @@ For matters discussed here, the reader is referred to:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Ian Harris <[*ich1@leicester.ac.uk*](mailto:ich1%40leicester%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -359,3 +359,4 @@ Sylvia Walby 处理了经济阶级的模糊性，将其应用于未受薪的家�
 Ann Ferguson  
 Rosemary Hennessy  
 [Mechthild Nagel](http://web.cortland.edu/nagelm/) <[*Mecke.Nagel@cortland.edu*](mailto:Mecke%2eNagel%40cortland%2eedu)>
+<!--md-padding-ignore-end-->

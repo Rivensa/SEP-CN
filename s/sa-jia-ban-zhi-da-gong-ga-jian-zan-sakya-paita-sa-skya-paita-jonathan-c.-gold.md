@@ -200,3 +200,4 @@ Sapaṇ的攻击目标是这样一种观念：仅仅通过直接领悟被称为�
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Jonathan C. Gold <[*jcgold@princeton.edu*](mailto:jcgold%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

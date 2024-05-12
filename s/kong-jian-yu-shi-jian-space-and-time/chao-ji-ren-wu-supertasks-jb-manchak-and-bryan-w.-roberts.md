@@ -386,3 +386,4 @@ Misra 和 Sudarshan 将这个序列用作连续测量的模型，假设上述序
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [JB Manchak](http://www.lps.uci.edu/~jmanchak/) <[*jmanchak@uci.edu*](mailto:jmanchak%40uci%2eedu)>  
 Bryan W. Roberts <[*B.W.Roberts@lse.ac.uk*](mailto:B%2eW%2eRoberts%40lse%2eac%2euk)>
+<!--md-padding-ignore-end-->

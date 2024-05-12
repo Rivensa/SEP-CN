@@ -366,3 +366,4 @@ Even once it is agreed that good *simpliciter* is incomparable in this sense, ma
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Mark Schroeder <[*maschroe@usc.edu*](mailto:maschroe%40usc%2eedu)>
+<!--md-padding-ignore-end-->

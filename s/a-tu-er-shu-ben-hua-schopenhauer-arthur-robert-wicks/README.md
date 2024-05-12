@@ -315,3 +315,4 @@ Edmund Burke (1729–1797)将崇高描述为一种带有恐怖色彩的宁静感
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Robert Wicks](http://artsfaculty.auckland.ac.nz/staff/?UPI=rwic005) <[*r.wicks@auckland.ac.nz*](mailto:r%2ewicks%40auckland%2eac%2enz)>
+<!--md-padding-ignore-end-->

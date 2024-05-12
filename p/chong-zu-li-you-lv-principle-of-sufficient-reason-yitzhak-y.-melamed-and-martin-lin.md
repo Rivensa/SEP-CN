@@ -385,3 +385,4 @@ PSR 是叔本华 1813 年的博士论文的主题：《充足理由原理的四�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Yitzhak Y. Melamed](http://philosophy.jhu.edu/bios/yitzhak-melamed/) <[*ymelame1@jhu.edu*](mailto:ymelame1%40jhu%2eedu)>\
 Martin Lin <[*mlin@philosophy.rutgers.edu*](mailto:mlin%40philosophy%2erutgers%2eedu)>
+<!--md-padding-ignore-end-->

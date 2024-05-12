@@ -576,3 +576,4 @@ I would like to thank the editors, especially Ed Zalta, and the anonymous review
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Peter Schroeder-Heister <[*psh@uni-tuebingen.de*](mailto:psh%40uni-tuebingen%2ede)>
+<!--md-padding-ignore-end-->

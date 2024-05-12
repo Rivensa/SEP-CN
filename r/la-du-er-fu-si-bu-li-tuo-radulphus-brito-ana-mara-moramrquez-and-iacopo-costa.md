@@ -342,3 +342,4 @@ The authors would like to thank Sten Ebbesen, David Bennett and an anonymous ref
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Ana María Mora-Márquez <[*ana.maria.mora.marquez@gu.se*](mailto:ana%2emaria%2emora%2emarquez%40gu%2ese)>  
 Iacopo Costa <[*iacopo.costa@gmail.com*](mailto:iacopo%2ecosta%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

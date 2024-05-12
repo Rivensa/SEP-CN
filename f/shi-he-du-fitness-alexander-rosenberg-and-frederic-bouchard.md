@@ -210,3 +210,4 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Alexander Rosenberg](http://www.duke.edu/~alexrose/) <[*alexrose@duke.edu*](mailto:alexrose%40duke%2eedu)>  
 [Frederic Bouchard](http://www.mapageweb.umontreal.ca/bouchaf/) <[*f.bouchard@umontreal.ca*](mailto:f%2ebouchard%40umontreal%2eca)>
+<!--md-padding-ignore-end-->

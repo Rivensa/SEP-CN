@@ -452,3 +452,4 @@ ITL 和 Muskens 风格的组合 DRT 并不相互排斥；例如，参见 Bittner
 Adrian Brasoveanu <[*abrsvn@gmail.com*](mailto:abrsvn%40gmail%2ecom)>  
 [Jan van Eijck](https://staff.fnwi.uva.nl/d.j.n.vaneijck2/)  
 [Albert Visser](http://www.phil.uu.nl/profiel/albert.visser/)
+<!--md-padding-ignore-end-->

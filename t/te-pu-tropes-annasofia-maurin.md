@@ -448,3 +448,4 @@ For helpful comments and corrections, I would like to thank Alexander Skiles, Da
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Anna-Sofia Maurin](http://annasofiamaurin.wordpress.com/) <[*anna-sofia.maurin@gu.se*](mailto:anna-sofia%2emaurin%40gu%2ese)>
+<!--md-padding-ignore-end-->

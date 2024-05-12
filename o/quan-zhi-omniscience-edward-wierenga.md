@@ -239,3 +239,4 @@ Kretzmann（1966）对全知提出了第二个问题。他认为我们每个人�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Edward Wierenga](http://www.sas.rochester.edu/phl/people/faculty/wierenga_edward/) <[*edward.wierenga@rochester.edu*](mailto:edward%2ewierenga%40rochester%2eedu)>
+<!--md-padding-ignore-end-->

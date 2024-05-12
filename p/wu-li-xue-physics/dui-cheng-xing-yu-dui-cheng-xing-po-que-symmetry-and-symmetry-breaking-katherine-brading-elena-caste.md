@@ -377,3 +377,4 @@ SSB 允许对称理论描述非对称的现实。简而言之，SSB 提供了一
 [Katherine Brading](https://www.kbrading.org/)  
 [Elena Castellani](http://www.unifi.it/p-doc2-2013-200007-C-3f2a3d313a282c-0.html) <[*elena.castellani@unifi.it*](mailto:elena%2ecastellani%40unifi%2eit)>  
 [Nicholas Teh](https://philosophy.nd.edu/people/faculty/nicholas-teh/) <[*teh.2@nd.edu*](mailto:teh%2e2%40nd%2eedu)>
+<!--md-padding-ignore-end-->

@@ -214,3 +214,4 @@ There is a bibliography of Gershom Scholem's writings until 1977 entitled *Bibl
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Shaul Magid](https://jewish.dartmouth.edu/people/shaul-magid)
+<!--md-padding-ignore-end-->

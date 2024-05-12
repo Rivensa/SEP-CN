@@ -414,3 +414,4 @@ I am grateful to Gyula Klima, Lloyd Newton, Paul Studtmann, Jack Zupko, and espe
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Jeffrey Brower](http://web.ics.purdue.edu/~brower/) <[*brower@purdue.edu*](mailto:brower%40purdue%2eedu)>
+<!--md-padding-ignore-end-->

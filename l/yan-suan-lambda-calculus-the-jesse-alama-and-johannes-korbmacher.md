@@ -719,3 +719,4 @@ The second author would like to acknowledge the useful comments and suggestions 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jesse Alama](https://mally.stanford.edu/alama-cv.html)  
 [Johannes Korbmacher](http://jkorbmacher.org/) <[*j.korbmacher@uu.nl*](mailto:j%2ekorbmacher%40uu%2enl)>
+<!--md-padding-ignore-end-->

@@ -619,3 +619,4 @@ Katie Walker Grimes 认为，将对抗种族主义的回应主要框定为“白
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Kevin Timpe <[*kt24@calvin.edu*](mailto:kt24%40calvin%2eedu)>
+<!--md-padding-ignore-end-->

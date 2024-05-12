@@ -307,3 +307,4 @@ Hatfield（1990 年，第 4 章）更详细地调查了这些康德后期的发�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Eric Watkins](http://philosophy.ucsd.edu/faculty/ewatkins/) <[*ewatkins@ucsd.edu*](mailto:ewatkins%40ucsd%2eedu)>\
 Marius Stan <[*marius.c.stan@gmail.com*](mailto:marius%2ec%2estan%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

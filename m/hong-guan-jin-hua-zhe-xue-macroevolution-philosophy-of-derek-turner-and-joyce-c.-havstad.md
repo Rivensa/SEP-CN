@@ -437,3 +437,4 @@ Maynard Smith 和 Szathmáry 的一个洞察是，进化的机制——进化的
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Derek Turner](http://www.derekdturner.com/) <[*derek.turner@conncoll.edu*](mailto:derek%2eturner%40conncoll%2eedu)>  
 [Joyce C. Havstad](http://www.joycehavstad.com/) <[*joyce.havstad@utah.edu*](mailto:joyce%2ehavstad%40utah%2eedu)>
+<!--md-padding-ignore-end-->

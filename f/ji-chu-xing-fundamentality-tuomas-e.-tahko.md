@@ -489,3 +489,4 @@ The author would like to thank Umut Baysan, Karen Bennett, Einar Bohn, Christina
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Tuomas E. Tahko](http://www.ttahko.net/) <[*tuomas.tahko@bristol.ac.uk*](mailto:tuomas%2etahko%40bristol%2eac%2euk)>
+<!--md-padding-ignore-end-->

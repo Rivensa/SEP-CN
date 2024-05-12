@@ -255,3 +255,4 @@ W. D. Hamilton 提出亲缘选择作为利他谜团的解决方案（Hamilton 19
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Tabery](https://faculty.utah.edu/u0578517-JAMES_TABERY/biography/index.hml) <[*james.tabery@utah.edu*](mailto:james%2etabery%40utah%2eedu)>
+<!--md-padding-ignore-end-->

@@ -187,3 +187,4 @@ The bibliography below is meant as a highly selective and limited guide for read
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Richard Kraut](https://classics.northwestern.edu/people/faculty/emeritus-faculty/richard-kraut.html) <[*rkraut1@northwestern.edu*](mailto:rkraut1%40northwestern%2eedu)>
+<!--md-padding-ignore-end-->

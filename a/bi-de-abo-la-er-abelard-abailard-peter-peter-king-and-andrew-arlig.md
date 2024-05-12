@@ -363,3 +363,4 @@
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Peter King](http://individual.utoronto.ca/pking/)  
 [Andrew Arlig](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=641) <[*aarlig@brooklyn.cuny.edu
+<!--md-padding-ignore-end-->

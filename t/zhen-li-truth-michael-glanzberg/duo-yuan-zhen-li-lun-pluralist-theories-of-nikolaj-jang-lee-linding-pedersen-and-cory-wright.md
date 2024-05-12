@@ -494,3 +494,4 @@ Beall (2000)认为，在多值逻辑中使用的有效性解释为多元论者�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Nikolaj Jang Lee Linding Pedersen](http://www.nikolajpedersen.com/) <[*nikolajpedersen@gmail.com*](mailto:nikolajpedersen%40gmail%2ecom)>  
 [Cory Wright](http://www.csulb.edu/~cdwright/) <[*cdwright@csulb.edu*](mailto:cdwright%40csulb%2eedu)>
+<!--md-padding-ignore-end-->

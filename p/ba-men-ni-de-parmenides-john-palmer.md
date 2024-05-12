@@ -338,3 +338,4 @@ The principal editions or other presentations of the fragments of Parmenides’ 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 John Palmer <[*jpalmer@phil.ufl.edu*](mailto:jpalmer%40phil%2eufl%2eedu)>
+<!--md-padding-ignore-end-->

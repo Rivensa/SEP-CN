@@ -336,3 +336,4 @@ Internal references to Kant’s *Critique of Pure Reason* contain page numbers f
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 Robert Hanna
+<!--md-padding-ignore-end-->

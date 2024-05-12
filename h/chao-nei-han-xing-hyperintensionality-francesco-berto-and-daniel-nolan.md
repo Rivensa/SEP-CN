@@ -503,3 +503,4 @@ Versions of this entry have been presented at the Arché Metaphysics and Logic r
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Francesco Berto](http://www.st-andrews.ac.uk/philosophy/people/fb96) <[*fb96@st-andrews.ac.uk*](mailto:fb96%40st-andrews%2eac%2euk)>  
 [Daniel Nolan](https://sites.google.com/site/professordanielnolan/) <[*dnolan2@nd.edu*](mailto:dnolan2%40nd%2eedu)>
+<!--md-padding-ignore-end-->

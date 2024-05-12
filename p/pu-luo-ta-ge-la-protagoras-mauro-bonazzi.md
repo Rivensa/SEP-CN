@@ -245,3 +245,4 @@ MM面临两个严重的反对意见：自我矛盾的指控和唯我论的指控
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Mauro Bonazzi <[*m.bonazzi@uu.nl*](mailto:m%2ebonazzi%40uu%2enl)>
+<!--md-padding-ignore-end-->

@@ -487,3 +487,4 @@ The editors would like to thank Cord-Friedrich Berghahn for working on the 2022 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Kurt Mueller-Vollmer  
 [Markus Messling](https://www.uni-saarland.de/lehrstuhl/messling/lehrstuhl/messling.html)
+<!--md-padding-ignore-end-->

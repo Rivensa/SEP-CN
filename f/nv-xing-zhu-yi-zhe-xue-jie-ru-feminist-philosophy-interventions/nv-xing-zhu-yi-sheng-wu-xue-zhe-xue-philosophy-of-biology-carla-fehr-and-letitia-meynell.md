@@ -467,3 +467,4 @@ and
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Carla Fehr <[*carla.fehr@uwaterloo.ca*](mailto:carla%2efehr%40uwaterloo%2eca)>  
 Letitia Meynell <[*Letitia.Meynell@dal.ca*](mailto:Letitia%2eMeynell%40dal%2eca)>
+<!--md-padding-ignore-end-->

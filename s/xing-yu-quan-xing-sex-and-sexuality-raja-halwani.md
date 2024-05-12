@@ -638,3 +638,4 @@ The following anthologies are crucial resources for someone studying the field o
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Raja Halwani <[*rhalwa@saic.edu*](mailto:rhalwa%40saic%2eedu)>
+<!--md-padding-ignore-end-->

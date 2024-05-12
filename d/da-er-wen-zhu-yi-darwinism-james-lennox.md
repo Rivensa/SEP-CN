@@ -416,3 +416,4 @@ Though there are an abundance of web sites on Darwinism, the three most useful s
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [James Lennox](http://www.pitt.edu/\~hpsdept/people/fac\pages/lennox.html) <[*jglennox+@pitt.edu*](mailto:jglennox+%40pitt%2eedu)>
+<!--md-padding-ignore-end-->

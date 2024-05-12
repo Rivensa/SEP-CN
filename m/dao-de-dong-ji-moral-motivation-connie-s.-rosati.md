@@ -288,3 +288,4 @@ I want to thank Sarah Buss for helpful suggestions on an early draft of the orig
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Connie S. Rosati <[*connie.rosati@austin.utexas.edu*](mailto:connie%2erosati%40austin%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

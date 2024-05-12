@@ -501,3 +501,4 @@ It turns out that I make two judgements in one—a “double judgement”—when
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Johannes L. Brandl](http://www.uni-salzburg.at/portal/page?_pageid=1225,421004&_dad=portal&_schema=PORTAL) <[*johannes.brandl@sbg.ac.at*](mailto:johannes%2ebrandl%40sbg%2eac%2eat)>\
 Mark Textor <[*mark.textor@kcl.ac.uk*](mailto:mark%2etextor%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

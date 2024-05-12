@@ -433,3 +433,4 @@ I am indebted to Carl Matheson and Justin Dallmann, for their work in the previo
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Thomas Nickles
+<!--md-padding-ignore-end-->

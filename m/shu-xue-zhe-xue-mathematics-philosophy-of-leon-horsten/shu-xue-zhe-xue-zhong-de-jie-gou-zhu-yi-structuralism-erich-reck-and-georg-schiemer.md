@@ -352,3 +352,4 @@ Research by Georg Schiemer on this project has received funding from the Europea
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Erich Reck <[*erich.reck@ucr.edu*](mailto:erich%2ereck%40ucr%2eedu)>\
 Georg Schiemer <[*georg.schiemer@univie.ac.at*](mailto:georg%2eschiemer%40univie%2eac%2eat)>
+<!--md-padding-ignore-end-->

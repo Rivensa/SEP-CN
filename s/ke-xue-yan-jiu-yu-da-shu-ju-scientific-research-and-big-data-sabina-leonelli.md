@@ -412,3 +412,4 @@ The research underpinning this entry was funded by the European Research Council
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Sabina Leonelli](https://socialsciences.exeter.ac.uk/sociology/staff/leonelli/) <[*s.leonelli@exeter.ac.uk*](mailto:s%2eleonelli%40exeter%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -336,3 +336,4 @@
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Tatjana Tömmel <[*tatjana.noemi@gmx.de*](mailto:tatjana%2enoemi%40gmx%2ede)>  
 Maurizio Passerin d’Entreves
+<!--md-padding-ignore-end-->

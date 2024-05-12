@@ -497,3 +497,4 @@ Many thanks to Thomas Pogge for his comments on this entry, which were a great b
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Seth Lazar <[*seth.lazar@anu.edu.au*](mailto:seth%2elazar%40anu%2eedu%2eau)>
+<!--md-padding-ignore-end-->

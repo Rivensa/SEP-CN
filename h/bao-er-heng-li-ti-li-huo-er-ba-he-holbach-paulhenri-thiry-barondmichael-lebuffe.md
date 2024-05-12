@@ -156,3 +156,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Michael LeBuffe <[*michael.lebuffe@otago.ac.nz*](mailto:michael%2elebuffe%40otago%2eac%2enz)>
+<!--md-padding-ignore-end-->

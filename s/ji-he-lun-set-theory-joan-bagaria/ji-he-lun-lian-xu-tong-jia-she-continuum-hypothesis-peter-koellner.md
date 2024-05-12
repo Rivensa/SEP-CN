@@ -725,3 +725,4 @@ L(ℝ)和 L(Vλ+1)之间的类比基于一个观察，即 L(ℝ)简单地是 L(V
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 Peter Koellner <[*koellner@fas.harvard.edu*](mailto:koellner%40fas%2eharvard%2eedu)>
+<!--md-padding-ignore-end-->

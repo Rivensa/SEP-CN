@@ -283,3 +283,4 @@ Carruthers 声称我们的先天知识是通过进化选择来确定的（第 11
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Peter Markie](http://philosophy.missouri.edu/index.php/people/15-/64-peter-markie)  
 M. Folescu <[*folescum@missouri.edu*](mailto:folescum%40missouri%2eedu)>
+<!--md-padding-ignore-end-->

@@ -320,3 +320,4 @@ Helen Longino 提出了一个非常有影响力的情境经验主义理论，其
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Heidi Grasswick](http://www.middlebury.edu/academics/phil/faculty/node/16021) <[*grasswic@middlebury.edu*](mailto:grasswic%40middlebury%2eedu)>
+<!--md-padding-ignore-end-->

@@ -395,3 +395,4 @@ There are various editions of Sanches’s philosophical oevre—in the original 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Rolando Pérez <[*rperez@hunter.cuny.edu*](mailto:rperez%40hunter%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

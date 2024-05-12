@@ -227,3 +227,4 @@
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [June Yang](https://www.grossmont.edu/people/june-yang/) <[*june.yang@gcccd.edu*](mailto:june%2eyang%40gcccd%2eedu)>
+<!--md-padding-ignore-end-->

@@ -203,3 +203,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Donald Rutherford](http://philosophy.ucsd.edu/faculty/rutherford/)
+<!--md-padding-ignore-end-->

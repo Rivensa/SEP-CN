@@ -358,3 +358,4 @@ The abuses perpetrated as part of the infamous Tuskegee syphilis study were made
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 David Wendler <[*dwendler@nih.gov*](mailto:dwendler%40nih%2egov)>
+<!--md-padding-ignore-end-->

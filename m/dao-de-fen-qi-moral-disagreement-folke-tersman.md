@@ -362,3 +362,4 @@ Parfit 通过从关于陈述这样一个主张的元规范论命题中推导出�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Folke Tersman <[*Folke.Tersman@filosofi.uu.se*](mailto:Folke%2eTersman%40filosofi%2euu%2ese)>
+<!--md-padding-ignore-end-->

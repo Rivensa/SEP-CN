@@ -228,3 +228,4 @@ This entry replaces and is based on the former entry titled [Evolutionary Genet
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Michael Wade <[*mjwade@indiana.edu*](mailto:mjwade%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

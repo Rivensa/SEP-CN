@@ -282,3 +282,4 @@ English Translations of Key Texts
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Thom Brooks](http://thombrooks.info/) <[*thom.brooks@durham.ac.uk*](mailto:thom%2ebrooks%40durham%2eac%2euk)>
+<!--md-padding-ignore-end-->

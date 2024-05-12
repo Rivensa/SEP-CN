@@ -250,3 +250,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Aaron Hughes](http://www.rochester.edu/college/rel/people/faculty/hughes_aaron/index.html) <[*aaron.hughes@rochester.edu*](mailto:aaron%2ehughes%40rochester%2eedu)>
+<!--md-padding-ignore-end-->

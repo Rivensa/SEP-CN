@@ -698,3 +698,4 @@ De Brigard的方法并没有明确考虑到痕迹与检索表征之间的关系�
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Kourken Michaelian](http://phil-mem.org/members/michaelian.php) <[*kourken.michaelian@univ-grenoble-alpes.fr*](mailto:kourken%2emichaelian%40univ-grenoble-alpes%2efr)>  
 [John Sutton](http://www.johnsutton.net/) <[*john.sutton@mq.edu.au*](mailto:john%2esutton%40mq%2eedu%2eau)>
+<!--md-padding-ignore-end-->

@@ -245,3 +245,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Mattias Iser](http://www.mattias-iser.de/) <[*iser@binghamton.edu*](mailto:iser%40binghamton%2eedu)>
+<!--md-padding-ignore-end-->

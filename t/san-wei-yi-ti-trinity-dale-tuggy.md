@@ -1099,3 +1099,4 @@ Other resources:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Dale Tuggy](https://trinities.org/dale/) <[*filosofer@gmail.com*](mailto:filosofer%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -235,3 +235,4 @@ DST 在分析学和拓扑学中的贡献被认为是集合论的最重要之一�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 José Ferreirós <[*josef@us.es*](mailto:josef%40us%2ees)>
+<!--md-padding-ignore-end-->

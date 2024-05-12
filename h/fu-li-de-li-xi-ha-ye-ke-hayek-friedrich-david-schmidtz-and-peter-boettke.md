@@ -253,3 +253,4 @@ Thanks to the Georgetown Institute for the Study of Markets and Ethics at George
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [David Schmidtz](https://davidschmidtz.org/) <[*dschmidtz01@gmail.com*](mailto:dschmidtz01%40gmail%2ecom)>  
 [Peter Boettke](https://www.peter-boettke.com/) <[*pboettke@gmu.edu*](mailto:pboettke%40gmu%2eedu)>
+<!--md-padding-ignore-end-->

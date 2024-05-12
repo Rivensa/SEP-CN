@@ -356,3 +356,4 @@ For help in the preparation of this entry, I am grateful to Richard Feldman, Gil
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Thomas Kelly](http://www.princeton.edu/~tkelly/) <[*tkelly@princeton.edu*](mailto:tkelly%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

@@ -271,3 +271,4 @@ Thanks to Austin Booth, David Buller, Marc Ereshefsky, Matt Haber, Ron Mallon, S
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Stephen M. Downes](http://www.hum.utah.edu/philosophy/faculty/downes/) <[*s.downes@utah.edu*](mailto:s%2edownes%40utah%2eedu)>
+<!--md-padding-ignore-end-->

@@ -405,3 +405,4 @@ G.E. Moore 的著名的“开放问题”论证旨在表明道德事实不可能
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 David Papineau <[*david.papineau@kcl.ac.uk*](mailto:david%2epapineau%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

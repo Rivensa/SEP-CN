@@ -263,3 +263,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Richard Parry](http://www.agnesscott.edu/academics/faculty/richard-parry.html) <[*rparry@agnesscott.edu*](mailto:rparry%40agnesscott%2eedu)>  
 Harald Thorsrud <[*hthorsrud@agnesscott.edu*](mailto:hthorsrud%40agnesscott%2eedu)>
+<!--md-padding-ignore-end-->

@@ -486,3 +486,4 @@ DEKI：让 M = ⟨X，I⟩成为一个模型，其中 X 是一个对象，I 是�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Roman Frigg](http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/frigg.htm) <[*r.p.frigg@lse.ac.uk*](mailto:r%2ep%2efrigg%40lse%2eac%2euk)>  
 [James Nguyen](http://personal.lse.ac.uk/NGUYENJ1/) <[*j.nguyen1@lse.ac.uk*](mailto:j%2enguyen1%40lse%2eac%2euk)>
+<!--md-padding-ignore-end-->

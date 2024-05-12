@@ -297,3 +297,4 @@ Strang 1963 提出了一个解决问题的方案。虽然承认实际上永远�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Patricia Curd](https://www.cla.purdue.edu/philosophy/directory/?p=Patricia_Curd)
+<!--md-padding-ignore-end-->

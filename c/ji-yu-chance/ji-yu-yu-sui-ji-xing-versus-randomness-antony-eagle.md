@@ -746,3 +746,4 @@ Thanks to audiences at the Sigma Group at the LSE, Leeds HPS, and the first year
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Antony Eagle](http://antonyeagle.org/) <[*antony.eagle@adelaide.edu.au*](mailto:antony%2eeagle%40adelaide%2eedu%2eau)>
+<!--md-padding-ignore-end-->

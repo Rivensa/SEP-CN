@@ -250,3 +250,4 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Gonzalo Rodriguez-Pereyra](http://www.philosophy.ox.ac.uk/people/gonzalo-rodriguez-pereyra)
+<!--md-padding-ignore-end-->

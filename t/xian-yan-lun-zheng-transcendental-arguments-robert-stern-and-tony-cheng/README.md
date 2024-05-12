@@ -481,3 +481,4 @@ Putnam 的论证出现在《理性、真理和历史》的第一章中，他的�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Robert Stern](https://www.sheffield.ac.uk/philosophy/people/academic-staff/robert-stern) <[*r.stern@sheffield.ac.uk*](mailto:r%2estern%40sheffield%2eac%2euk)>  
 [Tony Cheng](https://www.tonycheng.net/) <[*h.cheng.12@ucl.ac.uk*](mailto:h%2echeng%2e12%40ucl%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -288,3 +288,4 @@ All quotations and citations to the Port Royal Logic are to the Buroker translat
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Alan Nelson](http://philosophy.unc.edu/people/faculty/alan-nelson/) <[*anelson@unc.edu*](mailto:anelson%40unc%2eedu)>  
 Jill Buroker
+<!--md-padding-ignore-end-->

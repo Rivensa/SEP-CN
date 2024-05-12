@@ -339,3 +339,4 @@ We would like to thank an editor for the *Stanford Encyclopedia of Philosophy*�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Eric Wiland](https://sites.google.com/site/wiland/) <[*wiland@gmail.com*](mailto:wiland%40gmail%2ecom)>  
 Julia Driver
+<!--md-padding-ignore-end-->

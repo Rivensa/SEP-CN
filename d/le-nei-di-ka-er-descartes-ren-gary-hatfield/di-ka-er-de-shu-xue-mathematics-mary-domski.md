@@ -344,3 +344,4 @@ neusis 前提是维埃特解决问题的有力工具：通过假设 neusis 问�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Mary Domski <[*mdomski@unm.edu*](mailto:mdomski%40unm%2eedu)>
+<!--md-padding-ignore-end-->

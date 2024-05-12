@@ -407,3 +407,4 @@ In this coauthored entry, Section 1 (Biographical Sketch) was contributed by Jam
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Giuseppina D’Oro](http://www.keele.ac.uk/depts/spire/staff/d%27oro/index.htm) <[*g.d'oro@keele.ac.uk*](mailto:g%2ed'oro%40keele%2eac%2euk)>  
 James Connelly <[*J.M.Connelly@associate.hull.ac.uk*](mailto:J%2eM%2eConnelly%40associate%2ehull%2eac%2euk)>
+<!--md-padding-ignore-end-->

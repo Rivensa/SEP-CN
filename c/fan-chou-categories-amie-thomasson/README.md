@@ -398,3 +398,4 @@ Many thanks go to Willem de Vries, Simon Evnine, Jonathan Lowe, Friederike Moltm
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Amie Thomasson](http://philosophy.dartmouth.edu/people/amie-l-thomasson) <[*amie.l.thomasson@dartmouth.edu*](mailto:amie%2el%2ethomasson%40dartmouth%2eedu)>
+<!--md-padding-ignore-end-->

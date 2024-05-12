@@ -283,3 +283,4 @@ The 2019 version of this entry is an outcome of the project of the Grant Agency 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Robin Rollinger](http://ophen.org/pers-100182) <[*robinrollinger@yahoo.com*](mailto:robinrollinger%40yahoo%2ecom)>  
 Hynek Janousek <[*hynek.janousek@seznam.cz*](mailto:hynek%2ejanousek%40seznam%2ecz)>
+<!--md-padding-ignore-end-->

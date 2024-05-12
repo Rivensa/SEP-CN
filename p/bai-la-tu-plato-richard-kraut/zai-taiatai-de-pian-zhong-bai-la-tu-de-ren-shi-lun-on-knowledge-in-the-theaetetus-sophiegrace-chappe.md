@@ -546,3 +546,4 @@ The authors and SEP editors would like to thank Branden Kosch for noticing a poi
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Sophie-Grace Chappell](http://www.open.ac.uk/people/tc2973)
+<!--md-padding-ignore-end-->

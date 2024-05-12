@@ -328,3 +328,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Larry Alexander](https://www.sandiego.edu/law/about/directory/biography.php?profile\id=2577) <[*larrya@sandiego.edu*](mailto:larrya%40sandiego%2eedu)>\
 Michael Moore <[*micmoore@illinois.edu*](mailto:micmoore%40illinois%2eedu)>
+<!--md-padding-ignore-end-->

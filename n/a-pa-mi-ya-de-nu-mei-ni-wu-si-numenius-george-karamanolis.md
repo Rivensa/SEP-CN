@@ -267,3 +267,4 @@ The author is grateful to Christian Wildberg and, especially, to John Cooper for
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 George Karamanolis <[*george.karamanolis@univie.ac.at*](mailto:george%2ekaramanolis%40univie%2eac%2eat)>
+<!--md-padding-ignore-end-->

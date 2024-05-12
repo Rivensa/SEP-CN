@@ -298,3 +298,4 @@ Prior 有时不是将名词作为第二种命题符号引入，而是使用命�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Torben Braüner](http://akira.ruc.dk/~torben/) <[*torben@ruc.dk*](mailto:torben%40ruc%2edk)>
+<!--md-padding-ignore-end-->

@@ -546,3 +546,4 @@ An excellent bibliography of historical sources can be found in Hughes and Cress
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Garson](http://www.hfac.uh.edu/phil/garson/Jim_Garson.htm) <[*JGarson@uh.edu*](mailto:JGarson%40uh%2eedu)>
+<!--md-padding-ignore-end-->

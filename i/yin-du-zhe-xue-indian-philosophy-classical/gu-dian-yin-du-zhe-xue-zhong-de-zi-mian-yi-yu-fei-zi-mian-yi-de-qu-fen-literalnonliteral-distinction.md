@@ -325,3 +325,4 @@ The author wishes to thank Ben Blumson, Josh Dever, Jeremy Henkel, Ethan Mills, 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Malcolm Keating](http://www.malcolmkeating.com/) <[*malcolm.keating@yale-nus.edu.sg*](mailto:malcolm%2ekeating%40yale-nus%2eedu%2esg)>
+<!--md-padding-ignore-end-->

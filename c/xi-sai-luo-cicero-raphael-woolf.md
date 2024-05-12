@@ -323,3 +323,4 @@ There is a growing literature on Cicero as a philosopher. Set out below is a sel
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Raphael Woolf](https://www.kcl.ac.uk/people/raphael-woolf) <[*raphael.g.woolf@kcl.ac.uk*](mailto:raphael%2eg%2ewoolf%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

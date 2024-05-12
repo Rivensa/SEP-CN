@@ -664,3 +664,4 @@ I’m grateful to many readers for calling attention to errors in previous editi
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Georges Rey <[*georey2@gmail.com*](mailto:georey2%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

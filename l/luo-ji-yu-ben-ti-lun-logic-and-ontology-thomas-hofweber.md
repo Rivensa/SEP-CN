@@ -321,3 +321,4 @@ Thanks to various anonymous referees for their helpful suggestions on earlier ve
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Thomas Hofweber](https://philosophy.unc.edu/people/thomas-hofweber/) <[*hofweber@unc.edu*](mailto:hofweber%40unc%2eedu)>
+<!--md-padding-ignore-end-->

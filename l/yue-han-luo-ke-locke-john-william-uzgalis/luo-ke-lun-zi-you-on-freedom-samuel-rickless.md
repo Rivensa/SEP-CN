@@ -334,3 +334,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Samuel Rickless](http://samrickless.com/) <[*srickless@ucsd.edu*](mailto:srickless%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

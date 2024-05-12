@@ -618,3 +618,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [John Preston](http://www.rdg.ac.uk/AcaDepts/ld/Philos/jmp/jmp.htm)
+<!--md-padding-ignore-end-->

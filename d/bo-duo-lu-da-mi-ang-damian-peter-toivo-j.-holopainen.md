@@ -175,3 +175,4 @@ There is an English translation of *De divina omnipotentia* (Letter 119) in Pe
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Toivo J. Holopainen](http://researchportal.helsinki.fi/en/persons/toivo-holopainen) <[*toivo.holopainen@helsinki.fi*](mailto:toivo%2eholopainen%40helsinki%2efi)>
+<!--md-padding-ignore-end-->

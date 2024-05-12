@@ -255,3 +255,4 @@ Thanks are due to Ken Blackwell, Fred Kroon, Paolo Mancosu, Chris Menzel, Jim Ro
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html)  
 Harry Deutsch <[*hdeutsch@ilstu.edu*](mailto:hdeutsch%40ilstu%2eedu)>
+<!--md-padding-ignore-end-->

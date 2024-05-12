@@ -303,3 +303,4 @@ List 和 Pettit 提出了一个基于判断聚合的论证，支持他们的观�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Seumas Miller <[*semiller@csu.edu.au*](mailto:semiller%40csu%2eedu%2eau)>
+<!--md-padding-ignore-end-->

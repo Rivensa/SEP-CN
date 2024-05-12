@@ -307,3 +307,4 @@ Thanks to Carl Craver, Michael Strevens and an anonymous referee for helpful com
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Lauren Ross](https://www.lps.uci.edu/~rossl/) <[*rossl@uci.edu*](mailto:rossl%40uci%2eedu)>  
 [James Woodward](https://www.hps.pitt.edu/people/james-woodward) <[*jfw@pitt.edu*](mailto:jfw%40pitt%2eedu)>
+<!--md-padding-ignore-end-->

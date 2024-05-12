@@ -331,3 +331,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Karen Green <[*greenk1@unimelb.edu.au*](mailto:greenk1%40unimelb%2eedu%2eau)>
+<!--md-padding-ignore-end-->

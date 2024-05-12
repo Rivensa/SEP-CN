@@ -483,3 +483,4 @@ The SEP editors would like to thank Christopher von Bülow for reporting a list 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Harry Deutsch  
 Pawel Garbacz <[*garbacz@kul.lublin.pl*](mailto:garbacz%40kul%2elublin%2epl)>
+<!--md-padding-ignore-end-->

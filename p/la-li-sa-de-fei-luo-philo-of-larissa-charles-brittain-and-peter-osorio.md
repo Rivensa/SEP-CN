@@ -335,3 +335,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Charles Brittain](https://classics.cornell.edu/charles-brittain) <[*cfb9@cornell.edu*](mailto:cfb9%40cornell%2eedu)>\
 [Peter Osorio](http://classics.utoronto.ca/people/postdoctoral-fellows/peter-osorio/) <[*peter.osorio@utoronto.ca*](mailto:peter%2eosorio%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

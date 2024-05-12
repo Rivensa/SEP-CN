@@ -327,3 +327,4 @@ BCA 和 ŚS 包含了印度佛教传统中最好的诗歌和最易理解、最�
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Charles Goodman](https://www.binghamton.edu/aaas/faculty/profile.html?id=cgoodman) <[*cgoodman@binghamton.edu*](mailto:cgoodman%40binghamton%2eedu)>
+<!--md-padding-ignore-end-->

@@ -694,3 +694,4 @@ BHK-语义对直觉主义逻辑 IPC 的自指性问题已由于俊华（Yu 2014�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Sergei Artemov](http://web.cs.gc.cuny.edu/~sartemov/) <[*sartemov@gc.cuny.edu*](mailto:sartemov%40gc%2ecuny%2eedu)>  
 [Melvin Fitting](https://www.gc.cuny.edu/people/melvin-fitting) <[*melvin.fitting@lehman.cuny.edu*](mailto:melvin%2efitting%40lehman%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

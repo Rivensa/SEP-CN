@@ -538,3 +538,4 @@ Many thanks to Neal Anderson, David Chalmers, Nir Fresco, Mark Sprevak, Fred Kro
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Gualtiero Piccinini](http://www.umsl.edu/~piccininig/) <[*piccininig@umsl.edu*](mailto:piccininig%40umsl%2eedu)>  
 Corey Maley <[*cmaley@ku.edu*](mailto:cmaley%40ku%2eedu)>
+<!--md-padding-ignore-end-->

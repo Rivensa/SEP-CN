@@ -194,3 +194,4 @@ Plotinus 的哲学与 technê概念并不多有关。它对知识的描述比手
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Richard Parry](http://www.agnesscott.edu/academics/faculty/richard-parry.html) <[*rparry@agnesscott.edu*](mailto:rparry%40agnesscott%2eedu)>
+<!--md-padding-ignore-end-->

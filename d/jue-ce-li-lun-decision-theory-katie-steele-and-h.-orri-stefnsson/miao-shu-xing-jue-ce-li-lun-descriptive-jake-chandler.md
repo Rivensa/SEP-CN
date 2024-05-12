@@ -495,3 +495,4 @@ I am extremely grateful to John Quiggin, Peter Wakker, Paul Weirich and Greg Whe
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Jake Chandler](http://www.jakechandler.net/) <[*jake.chandler@cantab.net*](mailto:jake%2echandler%40cantab%2enet)>
+<!--md-padding-ignore-end-->

@@ -510,3 +510,4 @@ Dennett 和 Churchland 的观点自然地融入了对认知和意识神经实现
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Andrew Brook](http://www.carleton.ca/~abrook/)  
 Paul Raymont
+<!--md-padding-ignore-end-->

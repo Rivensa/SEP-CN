@@ -450,3 +450,4 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Nilanjan Das](http://www.dasnilanjan.com/) <[*nilanj.das@gmail.com*](mailto:nilanj%2edas%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

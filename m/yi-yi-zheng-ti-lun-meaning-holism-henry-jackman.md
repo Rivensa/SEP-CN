@@ -302,3 +302,4 @@ Thanks to Jacob Beck, David Chalmers, Paul Horwich, Muhammad Ali Khalidi, Ernie 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Henry Jackman <[*hjackman@yorku.ca*](mailto:hjackman%40yorku%2eca)>
+<!--md-padding-ignore-end-->

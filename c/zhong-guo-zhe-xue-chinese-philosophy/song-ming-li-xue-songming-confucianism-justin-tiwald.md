@@ -281,3 +281,4 @@ The discussion in this entry sometimes relies on work that appeared in a book co
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Justin Tiwald <[*jtiwald@sfsu.edu*](mailto:jtiwald%40sfsu%2eedu)>
+<!--md-padding-ignore-end-->

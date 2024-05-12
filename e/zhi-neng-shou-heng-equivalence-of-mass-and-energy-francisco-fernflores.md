@@ -452,3 +452,4 @@ n+32Sn+28Si→33S+γ→29Si+γ
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Francisco Fernflores](http://www.calpoly.edu/~ffernflo/) <[*ffernflo@calpoly.edu*](mailto:ffernflo%40calpoly%2eedu)>
+<!--md-padding-ignore-end-->

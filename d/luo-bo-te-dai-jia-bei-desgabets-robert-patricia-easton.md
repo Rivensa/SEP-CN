@@ -151,3 +151,4 @@ Desgabets 也认同笛卡尔关于心灵的观念，即心灵是一种本质为�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Patricia Easton](http://www.cgu.edu/pages/3701.asp) <[*patricia.easton@cgu.edu*](mailto:patricia%2eeaston%40cgu%2eedu)>
+<!--md-padding-ignore-end-->

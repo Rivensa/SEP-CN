@@ -326,3 +326,4 @@ The editors would like to thank Jesse Gero for spotting several typographical er
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Andrew Altman](http://philosophy.gsu.edu/profile/andrew-altman/)
+<!--md-padding-ignore-end-->

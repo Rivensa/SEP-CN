@@ -623,3 +623,4 @@ References in this article use the following abbreviations:
 
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by  
 [Christian Coseru](http://www.cofc.edu/~coseruc/) <[*coseruc@cofc.edu*](mailto:coseruc%40cofc%2eedu)>
+<!--md-padding-ignore-end-->

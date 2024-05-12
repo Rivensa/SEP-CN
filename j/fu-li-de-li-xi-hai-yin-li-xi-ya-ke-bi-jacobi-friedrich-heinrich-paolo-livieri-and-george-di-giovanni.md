@@ -384,3 +384,4 @@ This entry was rewritten by Paolo Livieri in 2023, but since it retains the enti
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Paolo Livieri <[*paolo.livieri@mail.mcgill.ca*](mailto:paolo%2elivieri%40mail%2emcgill%2eca)>  
 George di Giovanni
+<!--md-padding-ignore-end-->

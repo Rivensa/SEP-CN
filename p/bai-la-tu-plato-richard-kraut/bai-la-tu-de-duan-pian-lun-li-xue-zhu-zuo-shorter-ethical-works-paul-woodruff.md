@@ -388,3 +388,4 @@ Aristophanes 在《云》（公元前 421 年）中将苏格拉底描绘为这�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Paul Woodruff](https://liberalarts.utexas.edu/philosophy/faculty/pbw55) <[*pbw@mail.utexas.edu*](mailto:pbw%40mail%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

@@ -340,3 +340,4 @@ Hoff和Shatz在2007年提供了对语言发展领域的优秀概述，包括基�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Alex Barber](http://www.open.ac.uk/people/awb64) <[*alex.barber@open.ac.uk*](mailto:alex%2ebarber%40open%2eac%2euk)>  
 Eduardo Garcia Ramirez <[*garciaramirez.edu@gmail.com*](mailto:garciaramirez%2eedu%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

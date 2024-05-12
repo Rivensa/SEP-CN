@@ -651,3 +651,4 @@ Particular thanks are due to Don Garrett and Tom Sterkenburg for helpful feedbac
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Leah Henderson](http://lhenderson.org/) <[*l.henderson@rug.nl*](mailto:l%2ehenderson%40rug%2enl)>
+<!--md-padding-ignore-end-->

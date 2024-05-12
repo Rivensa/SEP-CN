@@ -437,3 +437,4 @@ We would like to thank Flavia Padovani for her comments and further references o
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Clark Glymour <[*cg09@andrew.cmu.edu*](mailto:cg09%40andrew%2ecmu%2eedu)>\
 [Frederick Eberhardt](http://hss.caltech.edu/people/fehardt/profile) <[*fde@caltech.edu*](mailto:fde%40caltech%2eedu)>
+<!--md-padding-ignore-end-->

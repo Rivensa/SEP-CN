@@ -372,3 +372,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jean-Philippe Deranty](http://www.phil.mq.edu.au/staff/deranty.htm) <[*jp.deranty@mq.edu.au*](mailto:jp%2ederanty%40mq%2eedu%2eau)>
+<!--md-padding-ignore-end-->

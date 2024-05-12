@@ -149,3 +149,4 @@ Meyer 和 Mortensen 后来使用的算术模型被证明允许不一致地表示
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[*Chris.Mortensen@adelaide.edu.au*](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>
+<!--md-padding-ignore-end-->

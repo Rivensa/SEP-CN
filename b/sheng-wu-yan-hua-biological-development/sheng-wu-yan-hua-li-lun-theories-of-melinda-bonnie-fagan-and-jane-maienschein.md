@@ -504,3 +504,4 @@ The authors would like to thank Alan Love and Karin Ekholm for helpful and const
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Melinda Bonnie Fagan](https://faculty.utah.edu/u0976724-MELINDA_BONNIE_FAGAN/hm/index.hml) <[*mel.fagan@utah.edu*](mailto:mel%2efagan%40utah%2eedu)>\
 \[Jane Maienschein
+<!--md-padding-ignore-end-->

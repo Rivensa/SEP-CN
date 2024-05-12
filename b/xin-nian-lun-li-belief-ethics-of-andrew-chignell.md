@@ -506,3 +506,4 @@ He also thanks Cambridge University Press for permission to re-use a few paragra
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Andrew Chignell](https://chignell.net/) <[*chignell@princeton.edu*](mailto:chignell%40princeton%2eedu)>
+<!--md-padding-ignore-end-->

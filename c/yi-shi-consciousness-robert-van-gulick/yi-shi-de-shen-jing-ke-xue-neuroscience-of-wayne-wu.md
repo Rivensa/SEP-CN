@@ -686,3 +686,4 @@ Thanks to Hakwan Lau and Susanna Siegel and especially Dave Chalmers who referee
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Wayne Wu <[*waynewu@andrew.cmu.edu*](mailto:waynewu%40andrew%2ecmu%2eedu)>
+<!--md-padding-ignore-end-->

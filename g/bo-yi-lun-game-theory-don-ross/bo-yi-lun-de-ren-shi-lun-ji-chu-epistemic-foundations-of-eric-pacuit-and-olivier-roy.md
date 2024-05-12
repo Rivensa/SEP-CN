@@ -1376,3 +1376,4 @@ The editors would like to thank Philippe van Basshuysen for reading this entry c
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Eric Pacuit](http://www.philosophy.umd.edu/people/pacuit) <[*epacuit@umd.edu*](mailto:epacuit%40umd%2eedu)>\
 [Olivier Roy](http://www.philosophie1.uni-bayreuth.de/en/team/roy/) <[*Olivier.Roy@uni-bayreuth.de*](mailto:Olivier%2eRoy%40uni-bayreuth%2ede)>
+<!--md-padding-ignore-end-->

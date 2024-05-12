@@ -247,3 +247,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Elizabeth Anderson](http://www-personal.umich.edu/~eandersn/index.htm) <[*eandersn@umich.edu*](mailto:eandersn%40umich%2eedu)>
+<!--md-padding-ignore-end-->

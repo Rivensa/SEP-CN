@@ -313,3 +313,4 @@ N.B.: In addition to the following (which emphasizes English-language literature
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Jon Miller](http://post.queensu.ca/~miller) <[*jon.miller@queensu.ca*](mailto:jon%2emiller%40queensu%2eca)>
+<!--md-padding-ignore-end-->

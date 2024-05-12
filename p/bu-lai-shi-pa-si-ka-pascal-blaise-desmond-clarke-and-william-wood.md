@@ -169,3 +169,4 @@ Cole（1995年，第15章）认为，帕斯卡在成年后表现出躁郁症的�
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 Desmond Clarke  
 William Wood <[*william.wood@theology.ox.ac.uk*](mailto:william%2ewood%40theology%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

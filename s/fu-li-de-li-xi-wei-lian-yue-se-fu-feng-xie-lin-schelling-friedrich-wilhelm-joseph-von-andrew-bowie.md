@@ -404,3 +404,4 @@ McGrath（2021）也采用了主要的神学方法，但这次是对谢林晚期
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Andrew Bowie](http://www.rhul.ac.uk/German/About-Us/bowie.html) <[*andrewbowie@btinternet.com*](mailto:andrewbowie%40btinternet%2ecom)>
+<!--md-padding-ignore-end-->

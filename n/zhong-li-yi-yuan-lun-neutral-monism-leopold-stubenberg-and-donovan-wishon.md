@@ -636,3 +636,4 @@ We would like to give a special thanks to Galen Strawson for many insightful dis
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Leopold Stubenberg](https://philosophy.nd.edu/people/emeritus/leopold-stubenberg/)\
 Donovan Wishon <[*dwishon@olemiss.edu*](mailto:dwishon%40olemiss%2eedu)>
+<!--md-padding-ignore-end-->

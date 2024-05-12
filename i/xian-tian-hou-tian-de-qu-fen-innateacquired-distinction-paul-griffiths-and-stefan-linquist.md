@@ -477,3 +477,4 @@ The authors and editors would like to thank Taylor & Francis for granting permis
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Paul Griffiths](http://griffithslab.org/) <[*paul.griffiths@sydney.edu.au*](mailto:paul%2egriffiths%40sydney%2eedu%2eau)>  
 Stefan Linquist <[*linquist@uoguelph.ca*](mailto:linquist%40uoguelph%2eca)>
+<!--md-padding-ignore-end-->

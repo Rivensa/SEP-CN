@@ -176,3 +176,4 @@ A paragraph in the July 2011 update to this entry was taken from the author’s 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Margaret Kohn <[*peggy.kohn@utoronto.ca*](mailto:peggy%2ekohn%40utoronto%2eca)>  
 Kavita Reddy <[*kavita.reddy@mail.utoronto.ca*](mailto:kavita%2ereddy%40mail%2eutoronto%2eca)>
+<!--md-padding-ignore-end-->

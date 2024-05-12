@@ -513,3 +513,4 @@ T0、T1、T2 等都不是一个固定点，但是有一个明确的极限概念�
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Melvin Fitting](https://www.gc.cuny.edu/people/melvin-fitting)
+<!--md-padding-ignore-end-->

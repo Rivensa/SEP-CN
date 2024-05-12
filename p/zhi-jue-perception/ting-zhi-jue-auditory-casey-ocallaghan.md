@@ -479,3 +479,4 @@ I am very grateful to David Chalmers, Maddy Kilbride, and Shaun Nichols for exte
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Casey O’Callaghan](http://caseyocallaghan.com/) <[*casey.ocallaghan@wustl.edu*](mailto:casey%2eocallaghan%40wustl%2eedu)>
+<!--md-padding-ignore-end-->

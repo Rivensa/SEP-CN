@@ -643,3 +643,4 @@ The author wishes to express his deep gratitude to Phillip Bricker and Max Cress
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Christopher Menzel](http://cmenzel.org/) <[*cmenzel@tamu.edu*](mailto:cmenzel%40tamu%2eedu)>
+<!--md-padding-ignore-end-->

@@ -453,3 +453,4 @@ The authors would like to thank Wayne Myrvold for helpful comments on an earlier
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Christopher Hitchcock](http://hss.divisions.caltech.edu/people/christopher-r-hitchcock) <[*cricky@caltech.edu*](mailto:cricky%40caltech%2eedu)>  
 Miklós Rédei <[*M.Redei@lse.ac.uk*](mailto:M%2eRedei%40lse%2eac%2euk)>
+<!--md-padding-ignore-end-->

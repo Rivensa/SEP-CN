@@ -321,3 +321,4 @@ contextualism-epistemic | [epistemology: evolutionary](https://plato.stanford.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Helen Longino <[*hlongino@stanford.edu*](mailto:hlongino%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

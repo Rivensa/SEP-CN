@@ -127,3 +127,4 @@
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Paul Streveler
+<!--md-padding-ignore-end-->

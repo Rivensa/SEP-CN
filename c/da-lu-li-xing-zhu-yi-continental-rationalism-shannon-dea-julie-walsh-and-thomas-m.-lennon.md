@@ -282,3 +282,4 @@
 [Shannon Dea](https://www.uregina.ca/arts/philosophy-classics/faculty-staff/faculty/dea-shannon.html) <[*shannon.dea@uregina.ca*](mailto:shannon%2edea%40uregina%2eca)>\
 Julie Walsh <[*julie.walsh@wellesley.edu*](mailto:julie%2ewalsh%40wellesley%2eedu)>\
 Thomas M. Lennon
+<!--md-padding-ignore-end-->

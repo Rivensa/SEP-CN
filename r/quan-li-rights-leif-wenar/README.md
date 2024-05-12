@@ -551,3 +551,4 @@ O'Neill 等人的批评并不针对整个权利语言。他们主要针对被动
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Leif Wenar](https://philosophy.stanford.edu/people/leif-wenar) <[*lwenar@stanford.edu*](mailto:lwenar%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

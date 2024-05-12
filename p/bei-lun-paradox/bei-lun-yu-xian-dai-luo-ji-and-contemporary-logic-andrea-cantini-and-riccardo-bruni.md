@@ -669,3 +669,4 @@ For this edition of the entry, the authors were supported by the Italian Ministr
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Andrea Cantini <[*andrea.cantini@unifi.it*](mailto:andrea%2ecantini%40unifi%2eit)>  
 [Riccardo Bruni](https://unifi.academia.edu/RiccardoBruni) <[*r.bruni1974@gmail.com*](mailto:r%2ebruni1974%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

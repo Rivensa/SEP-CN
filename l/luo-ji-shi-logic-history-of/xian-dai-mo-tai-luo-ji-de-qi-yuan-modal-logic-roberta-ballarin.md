@@ -480,3 +480,4 @@ I would like to thank Max Weiss who has assisted me with the initial 2010 versio
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Roberta Ballarin <[*rballari@mail.ubc.ca*](mailto:rballari%40mail%2eubc%2eca)>
+<!--md-padding-ignore-end-->

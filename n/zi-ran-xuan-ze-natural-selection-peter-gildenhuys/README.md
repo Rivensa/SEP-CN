@@ -325,3 +325,4 @@ Okasha 提出了一个用于因果充分性的测试，其工作方式如下：�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Peter Gildenhuys <[*gildenhp@lafayette.edu*](mailto:gildenhp%40lafayette%2eedu)>
+<!--md-padding-ignore-end-->

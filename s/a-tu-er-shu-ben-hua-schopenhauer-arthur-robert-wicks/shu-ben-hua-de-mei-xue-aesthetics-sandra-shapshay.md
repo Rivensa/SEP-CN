@@ -293,3 +293,4 @@ Finally, for Schopenhauer, “to the man who gives himself up entirely to the im
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Sandra Shapshay](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/Sandra-Shapshay) <[*Sandra.Shapshay@hunter.cuny.edu*](mailto:Sandra%2eShapshay%40hunter%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

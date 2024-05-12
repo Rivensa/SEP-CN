@@ -860,3 +860,4 @@ However, Franck has detected a profound divergence in these new developments. In
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Bettina Bergo](http://www.philo.umontreal.ca/personnel/professeur/bergo-bettina/) <[*bettina.bergo@umontreal.ca*](mailto:bettina%2ebergo%40umontreal%2eca)>
+<!--md-padding-ignore-end-->

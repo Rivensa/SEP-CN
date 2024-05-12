@@ -191,3 +191,4 @@ The editors would like to thank Sally Ferguson for noting and informing us about
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Mark Kulstad](https://profiles.rice.edu/faculty/mark-kulstad)  
 Laurence Carlin <[*carlin@uwosh.edu*](mailto:carlin%40uwosh%2eedu)>
+<!--md-padding-ignore-end-->

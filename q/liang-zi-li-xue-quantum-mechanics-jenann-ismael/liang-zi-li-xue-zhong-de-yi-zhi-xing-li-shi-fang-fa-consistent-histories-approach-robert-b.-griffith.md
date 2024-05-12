@@ -528,3 +528,4 @@ Aharonov＆Vaidman（1991）的三盒悖论与 Bell-Kochen-Specker 类似，只�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Robert B. Griffiths](https://www.cmu.edu/physics/people/faculty/griffiths.html) <[*rgrif+@cmu.edu*](mailto:rgrif+%40cmu%2eedu)>
+<!--md-padding-ignore-end-->

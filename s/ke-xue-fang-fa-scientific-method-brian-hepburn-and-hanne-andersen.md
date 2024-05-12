@@ -369,3 +369,4 @@ Haack（2003）提出了另一种类似的方法。她与 Hoyningen-Huene 类似
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Brian Hepburn <[*brian.hepburn@wichita.edu*](mailto:brian%2ehepburn%40wichita%2eedu)>  
 [Hanne Andersen](http://www.ind.ku.dk/ansatte-automatisk-liste/?pure=da/persons/52310) <[*hanne.andersen@ind.ku.dk*](mailto:hanne%2eandersen%40ind%2eku%2edk)>
+<!--md-padding-ignore-end-->

@@ -214,3 +214,4 @@ Jesse Prinz (2004)试图将正确的意向性引入詹姆斯的观念，即情�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Robert Roberts](http://www.jubileecentre.ac.uk/1622/about/research-team/professor-robert-c-roberts) <[*Robert_Roberts@baylor.edu*](mailto:Robert_Roberts%40baylor%2eedu)>
+<!--md-padding-ignore-end-->

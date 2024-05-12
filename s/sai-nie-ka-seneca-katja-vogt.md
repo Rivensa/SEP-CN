@@ -338,3 +338,4 @@ I’m grateful to Luke Lea and Sam McVane for valuable suggestions and recommend
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Katja Vogt](http://www.columbia.edu/cu/philosophy/fac-bios/vogt/faculty.html) <[*kv2101@columbia.edu*](mailto:kv2101%40columbia%2eedu)>
+<!--md-padding-ignore-end-->

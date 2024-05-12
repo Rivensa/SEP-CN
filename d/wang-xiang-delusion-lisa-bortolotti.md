@@ -477,3 +477,4 @@ McKay 2012 对 Coltheart 和同事的解释提出了一些批评，并提出了�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Lisa Bortolotti](https://sites.google.com/site/lisabortolottiphilosophy/) <[*l.bortolotti@bham.ac.uk*](mailto:l%2ebortolotti%40bham%2eac%2euk)>
+<!--md-padding-ignore-end-->

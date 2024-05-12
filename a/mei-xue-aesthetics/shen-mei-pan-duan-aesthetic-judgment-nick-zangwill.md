@@ -450,3 +450,4 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Nick Zangwill <[*zangwillnick@gmail.com*](mailto:zangwillnick%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

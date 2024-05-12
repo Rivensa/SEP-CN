@@ -560,3 +560,4 @@ D(μ,μ′) := infγ(∬(x−y)2γ(x,y)dxdy)1/2(33)
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Jan Hilgevoord  
 [Jos Uffink](http://www.philosophy.umn.edu/people/FacultyProfile.php?UID=jbuffink) <[*jbuffink@umn.edu*](mailto:jbuffink%40umn%2eedu)>
+<!--md-padding-ignore-end-->

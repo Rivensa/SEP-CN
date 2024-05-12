@@ -520,3 +520,4 @@ Bradwardine, Thomas | [Burley \[Burleigh\], Walter](https://plato.stanford.edu/e
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Miroslav Hanke <[*hanke@flu.cas.cz*](mailto:hanke%40flu%2ecas%2ecz)>\
 [Elzbieta Jung](http://filozof.uni.lodz.pl/staff/prof-dr-hab-elzbieta-jung/) <[*elzbieta.jung@uni.lodz.pl*](mailto:elzbieta%2ejung%40uni%2elodz%2epl)>
+<!--md-padding-ignore-end-->

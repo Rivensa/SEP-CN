@@ -537,3 +537,4 @@ Thanks to Guy Longworth, whose comments greatly improved this entry, along with 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Mathieu Marion <[*marion.mathieu@uqam.ca*](mailto:marion%2emathieu%40uqam%2eca)>
+<!--md-padding-ignore-end-->

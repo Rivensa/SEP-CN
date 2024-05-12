@@ -752,3 +752,4 @@ The author would like to acknowledge and thank the members of ARGTHRY, Tony Blai
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Leo Groarke](http://www.trentu.ca/administration/profile.php) <[*leogroarke@trentu.ca*](mailto:leogroarke%40trentu%2eca)>
+<!--md-padding-ignore-end-->

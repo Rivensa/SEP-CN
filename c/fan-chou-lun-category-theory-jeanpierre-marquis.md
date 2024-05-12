@@ -552,3 +552,4 @@ The citations in this guide and in the text above can all be found in the list b
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Jean-Pierre Marquis](http://www.philo.umontreal.ca/personnel/professeur/marquis-jean-pierre/) <[*Jean-Pierre.Marquis@umontreal.ca*](mailto:Jean-Pierre%2eMarquis%40umontreal%2eca)>
+<!--md-padding-ignore-end-->

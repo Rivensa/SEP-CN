@@ -339,3 +339,4 @@ I thank Axel Barceló, Bill Hanson, Ignacio Jané, John MacFarlane and Edward N.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Mario Gómez-Torrente](http://www.filosoficas.unam.mx/~mariogt/home-eng.html) <[*mariogt@unam.mx*](mailto:mariogt%40unam%2emx)>
+<!--md-padding-ignore-end-->

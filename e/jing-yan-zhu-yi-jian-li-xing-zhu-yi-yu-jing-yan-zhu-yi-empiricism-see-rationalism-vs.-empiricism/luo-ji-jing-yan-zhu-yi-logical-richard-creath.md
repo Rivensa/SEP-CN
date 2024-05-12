@@ -421,3 +421,4 @@ Even a perfectly fair coin in an odd number of flips will never result in exactl
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Richard Creath](https://search.asu.edu/profile/44773) <[*creath@asu.edu*](mailto:creath%40asu%2eedu)>
+<!--md-padding-ignore-end-->

@@ -188,3 +188,4 @@ D. Black 意识到，阿里·法拉比对确定性的前三个条件似乎唤起
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Luis Xavier López-Farjeat <[*llopez@up.edu.mx*](mailto:llopez%40up%2eedu%2emx)>
+<!--md-padding-ignore-end-->

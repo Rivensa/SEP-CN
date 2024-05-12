@@ -570,3 +570,4 @@ The authors would like to thank JC Beall, JC Bjerring, Berit Brogaard, Nicola Ci
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Francesco Berto](http://www.st-andrews.ac.uk/philosophy/people/fb96) <[*fb96@st-andrews.ac.uk*](mailto:fb96%40st-andrews%2eac%2euk)>  
 Mark Jago <[*mark.jago@nottingham.ac.uk*](mailto:mark%2ejago%40nottingham%2eac%2euk)>
+<!--md-padding-ignore-end-->

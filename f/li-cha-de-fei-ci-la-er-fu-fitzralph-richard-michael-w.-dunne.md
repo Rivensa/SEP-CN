@@ -154,3 +154,4 @@ Leff 认为，是奥卡姆和他的追随者将信仰和理性之间的不连续
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Michael W. Dunne <[*dunne.mw@gmail.com*](mailto:dunne%2emw%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

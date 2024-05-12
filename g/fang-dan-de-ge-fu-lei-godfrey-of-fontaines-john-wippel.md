@@ -177,3 +177,4 @@ As some of the more recent entries in this bibliography suggest by their titles,
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [John Wippel](http://philosophy.cua.edu/faculty/wippel/)
+<!--md-padding-ignore-end-->

@@ -773,3 +773,4 @@ The following is not a complete list of Pufendorf’s publications and their var
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Michael Seidler](http://people.wku.edu/michael.seidler/Home.html) <[*michael.seidler@wku.edu*](mailto:michael%2eseidler%40wku%2eedu)>
+<!--md-padding-ignore-end-->

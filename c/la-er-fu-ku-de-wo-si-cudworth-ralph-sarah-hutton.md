@@ -216,3 +216,4 @@ Cudworth 引用其他哲学家来支持他的假设，包括亚里士多德，�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Sarah Hutton <[*sarah.hutton@york.ac.uk*](mailto:sarah%2ehutton%40york%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -299,3 +299,4 @@ Equality also acts as a default in circumstances where, although people may inde
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [David Miller](https://www.nuffield.ox.ac.uk/people/profiles/david-miller/) <[*david.miller@nuffield.ox.ac.uk*](mailto:david%2emiller%40nuffield%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

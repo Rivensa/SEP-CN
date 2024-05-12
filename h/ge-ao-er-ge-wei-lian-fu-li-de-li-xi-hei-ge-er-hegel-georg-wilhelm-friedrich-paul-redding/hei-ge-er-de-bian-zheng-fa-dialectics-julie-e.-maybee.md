@@ -317,3 +317,4 @@ Inoue Kazumi 还提出，黑格尔意义上的辩证矛盾并不违反非矛盾�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Julie E. Maybee](http://www.lehman.edu/academics/arts-humanities/philosophy/fac-maybee.php) <[*julie.maybee@lehman.cuny.edu*](mailto:julie%2emaybee%40lehman%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

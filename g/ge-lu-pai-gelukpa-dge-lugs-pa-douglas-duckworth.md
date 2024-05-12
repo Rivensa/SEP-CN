@@ -101,3 +101,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Douglas Duckworth <[*douglas.duckworth@gmail.com*](mailto:douglas%2educkworth%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

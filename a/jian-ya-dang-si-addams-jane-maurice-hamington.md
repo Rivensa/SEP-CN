@@ -270,3 +270,4 @@ Addams, Jane. “A Belated Industry,” 1896, *American Journal of Sociology*, 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Maurice Hamington <[*hamington@earthlink.net*](mailto:hamington%40earthlink%2enet)>
+<!--md-padding-ignore-end-->

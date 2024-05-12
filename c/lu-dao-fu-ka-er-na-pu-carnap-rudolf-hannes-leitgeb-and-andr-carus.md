@@ -897,3 +897,4 @@ The two major collections of Carnap papers are at the Archive of Scientific Phil
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hannes\leitgeb/index.html) <[*Hannes.Leitgeb@lmu.de*](mailto:Hannes%2eLeitgeb%40lmu%2ede)>\
 André Carus <[*awcarus@mac.com*](mailto:awcarus%40mac%2ecom)>
+<!--md-padding-ignore-end-->

@@ -609,3 +609,4 @@ Bub（2001 年）和 Bennett（2003 年）回应 Earman 和 Norton，如果假�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Roman Frigg](http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/frigg.htm) <[*r.p.frigg@lse.ac.uk*](mailto:r%2ep%2efrigg%40lse%2eac%2euk)>  
 Charlotte Werndl <[*charlotte.werndl@gmail.com*](mailto:charlotte%2ewerndl%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

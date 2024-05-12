@@ -517,3 +517,4 @@ I am grateful to the following for helpful comments and conversations regarding 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Stephen Grimm](http://www.stephenrgrimm.com/) <[*sgrimm@fordham.edu*](mailto:sgrimm%40fordham%2eedu)>
+<!--md-padding-ignore-end-->

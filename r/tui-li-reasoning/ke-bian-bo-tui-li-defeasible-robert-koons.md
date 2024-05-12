@@ -624,3 +624,4 @@ Michael Gelfond 和 Yulia Kahl（Gelfond and Kahl 2014, 131–151）讨论了如
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Robert Koons](https://liberalarts.utexas.edu/philosophy/faculty/koons) <[*koons@mail.utexas.edu*](mailto:koons%40mail%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

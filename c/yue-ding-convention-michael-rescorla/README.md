@@ -610,3 +610,4 @@ Stephen Schiffer（1972 年）和 Jonathan Bennett（1976 年）提出了将 Lew
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Michael Rescorla <[*rescorla@ucla.edu*](mailto:rescorla%40ucla%2eedu)>
+<!--md-padding-ignore-end-->

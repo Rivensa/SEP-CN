@@ -689,3 +689,4 @@ This material provided the basis of a course on truth makers I gave in Cambridge
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Fraser MacBride](https://www.research.manchester.ac.uk/portal/fraser.macbride.html) <[*fraser.macbride@manchester.ac.uk*](mailto:fraser%2emacbride%40manchester%2eac%2euk)>
+<!--md-padding-ignore-end-->

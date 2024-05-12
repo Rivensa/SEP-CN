@@ -261,3 +261,4 @@ All translations are by the authors.
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Hester Gelber  
 John T. Slotemaker <[*jslotemaker@fairfield.edu*](mailto:jslotemaker%40fairfield%2eedu)>
+<!--md-padding-ignore-end-->

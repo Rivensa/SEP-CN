@@ -309,3 +309,4 @@ Bernard Manin（1997）提醒我们，雅典议会经常被视为直接形式的
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Suzanne Dovi](https://dovi.faculty.arizona.edu/) <[*sdovi@email.arizona.edu*](mailto:sdovi%40email%2earizona%2eedu)>
+<!--md-padding-ignore-end-->

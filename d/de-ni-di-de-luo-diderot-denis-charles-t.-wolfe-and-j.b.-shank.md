@@ -546,3 +546,4 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Charles T. Wolfe <[*ctwolfe1@gmail.com*](mailto:ctwolfe1%40gmail%2ecom)>  
 [J.B. Shank](http://www.hist.umn.edu/people/profile.php?UID=jbshank)
+<!--md-padding-ignore-end-->

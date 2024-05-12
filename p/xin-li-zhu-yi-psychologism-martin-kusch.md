@@ -498,3 +498,4 @@ In composing this entry, I have drawn extensively on my published writings (espe
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Martin Kusch <[*martin.kusch@univie.ac.at*](mailto:martin%2ekusch%40univie%2eac%2eat)>
+<!--md-padding-ignore-end-->

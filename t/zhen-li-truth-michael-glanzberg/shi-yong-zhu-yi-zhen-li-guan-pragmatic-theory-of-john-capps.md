@@ -351,3 +351,4 @@ I would like to thank David Hildebrand, Cheryl Misak, Sami Pihlström, and an an
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [John Capps](http://www.johncapps.net/) <[*jmcgsh@rit.edu*](mailto:jmcgsh%40rit%2eedu)>
+<!--md-padding-ignore-end-->

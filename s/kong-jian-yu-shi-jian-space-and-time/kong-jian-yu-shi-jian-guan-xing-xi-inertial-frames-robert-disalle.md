@@ -341,3 +341,4 @@ I am deeply grateful to Sona Ghosh for her invaluable assistance with philosophi
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Robert DiSalle](http://publish.uwo.ca/~rdisalle/) <[*rdisalle@uwo.ca*](mailto:rdisalle%40uwo%2eca)>
+<!--md-padding-ignore-end-->

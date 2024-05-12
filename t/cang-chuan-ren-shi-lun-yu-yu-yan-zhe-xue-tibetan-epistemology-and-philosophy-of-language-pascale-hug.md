@@ -358,3 +358,4 @@ The most extensive general study of the classical and post-classical period is:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Pascale Hugon](https://www.oeaw.ac.at/en/ikga/team/research/hugon-pascale/) <[*pascale.hugon@gmail.com*](mailto:pascale%2ehugon%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

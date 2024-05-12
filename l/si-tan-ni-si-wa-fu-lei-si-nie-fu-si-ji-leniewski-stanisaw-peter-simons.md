@@ -387,3 +387,4 @@ Secondary literature is mainly scattered across journals, but the most useful co
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Peter Simons](http://sites.google.com/site/petermsimons/) <[*psimons@tcd.ie*](mailto:psimons%40tcd%2eie)>
+<!--md-padding-ignore-end-->

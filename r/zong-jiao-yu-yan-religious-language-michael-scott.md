@@ -451,3 +451,4 @@ In his later writings from the 1990s, however, Phillips’ remarks appear more m
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Michael Scott](https://www.research.manchester.ac.uk/portal/michael.scott.html) <[*Michael.Scott@manchester.ac.uk*](mailto:Michael%2eScott%40manchester%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -331,3 +331,4 @@ We wish to thank Professor Simo Knuuttila, Dr. Olli Hallamaa and the Department 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 John T. Slotemaker <[*jslotemaker@fairfield.edu*](mailto:jslotemaker%40fairfield%2eedu)>  
 [Jeffrey C. Witt](http://jeffreycwitt.com/) <[*jcwitt@loyola.edu*](mailto:jcwitt%40loyola%2eedu)>
+<!--md-padding-ignore-end-->

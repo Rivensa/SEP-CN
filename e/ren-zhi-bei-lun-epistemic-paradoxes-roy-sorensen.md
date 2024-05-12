@@ -532,3 +532,4 @@ I. J. Good (1967)证明，收集证据最大化了期望值，鉴于证据的成
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Roy Sorensen <[*roy.sorensen@austin.utexas.edu*](mailto:roy%2esorensen%40austin%2eutexas%2eedu)>
+<!--md-padding-ignore-end-->

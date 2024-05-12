@@ -561,3 +561,4 @@ Nisbett 小组的研究可以被看作是将认知社会心理学的工具应用
 [Stephen Stich](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/635-stich-stephen) <[*stich.steve@gmail.com*](mailto:stich%2esteve%40gmail%2ecom)>  
 [Jonathan Phillips](https://pbs.dartmouth.edu/people/jonathan-s-phillips) <[*jonathan.s.phillips@dartmouth.edu*](mailto:jonathan%2es%2ephillips%40dartmouth%2eedu)>  
 Lachlan Walmsley <[*ldw917@gmail.com*](mailto:ldw917%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

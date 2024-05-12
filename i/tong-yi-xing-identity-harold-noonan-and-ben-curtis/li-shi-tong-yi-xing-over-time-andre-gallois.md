@@ -685,3 +685,4 @@ Parfit、Nozick和Lewis都认为心理连续性对于个人同一性至关重要
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Andre Gallois](http://thecollege.syr.edu/people/faculty/pages/phi/gallois-andre.html)
+<!--md-padding-ignore-end-->

@@ -767,3 +767,4 @@ Thanks to Phillip Bricker and Dean Zimmerman for helpful comments.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Jonathan Schaffer](http://philosophy.rutgers.edu/for-faculty/385-schaffer-jonathan) <[*jonathan.schaffer@rutgers.edu*](mailto:jonathan%2eschaffer%40rutgers%2eedu)>
+<!--md-padding-ignore-end-->

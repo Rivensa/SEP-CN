@@ -312,3 +312,4 @@ The author would like to thank Lisa Adams for checking over the entry with an ey
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Pasquale Porro](https://www.studium.unito.it/do/docenti.pl/Alias?pasquale.porro#tab-profilo)
+<!--md-padding-ignore-end-->

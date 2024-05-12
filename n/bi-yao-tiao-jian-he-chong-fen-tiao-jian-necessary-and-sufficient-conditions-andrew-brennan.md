@@ -194,3 +194,4 @@ I am grateful to Richard Borthwick, Jake Chandler, Laurence Goldstein, Fred Kroo
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Andrew Brennan](http://www.latrobe.edu.au/humanities/about/staff/profile?uname=ABrennan) <[*A.Brennan@latrobe.edu.au*](mailto:A%2eBrennan%40latrobe%2eedu%2eau)>
+<!--md-padding-ignore-end-->

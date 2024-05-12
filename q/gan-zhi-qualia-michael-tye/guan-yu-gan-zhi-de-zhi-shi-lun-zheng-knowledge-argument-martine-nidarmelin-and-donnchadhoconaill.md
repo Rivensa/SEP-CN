@@ -484,3 +484,4 @@ Robert Howell（2019；2023，9-15）描述了一个思想实验，它在许多�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Martine Nida-Rümelin <[*martine.nida-ruemelin@unifr.ch*](mailto:martine%2enida-ruemelin%40unifr%2ech)>  
 Donnchadh O Conaill <[*doconaill@yahoo.co.uk*](mailto:doconaill%40yahoo%2eco%2euk)>
+<!--md-padding-ignore-end-->

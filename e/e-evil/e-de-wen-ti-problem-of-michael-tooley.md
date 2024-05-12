@@ -910,3 +910,4 @@ In revising this piece, I took into account some helpful suggestions and critica
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Michael Tooley](http://spot.colorado.edu/~tooley/)
+<!--md-padding-ignore-end-->

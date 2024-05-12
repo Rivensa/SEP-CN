@@ -525,3 +525,4 @@ The reader is invited to see three collections of essays dealing with the variou
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Maria Carla Galavotti <[*mariacarla.galavotti@unibo.it*](mailto:mariacarla%2egalavotti%40unibo%2eit)>
+<!--md-padding-ignore-end-->

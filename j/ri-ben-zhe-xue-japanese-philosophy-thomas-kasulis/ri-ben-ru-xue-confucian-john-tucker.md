@@ -385,3 +385,4 @@ Paramore声称，在战后时期，丸山很快就转向了日本儒学研究，
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [John Tucker](http://www.ecu.edu/cs-cas/history/Tucker.cfm) <[*tuckerjo@ecu.edu*](mailto:tuckerjo%40ecu%2eedu)>
+<!--md-padding-ignore-end-->

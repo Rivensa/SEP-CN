@@ -482,3 +482,4 @@ Royall 的观点是，概率比或概率差都无法捕捉到科学所需的客�
 
 [Copyright © 2003](https://plato.stanford.edu/info.html#c) by\
 [James Joyce](http://www-personal.umich.edu/\~jjoyce/) <[*jjoyce@umich.edu*](mailto:jjoyce%40umich%2eedu)>
+<!--md-padding-ignore-end-->

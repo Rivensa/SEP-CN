@@ -602,3 +602,4 @@ Roski（2014: 370）总结了波尔查诺的思考的一般倾向如下：
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Paul Rusnock <[*prusnock@uottawa.ca*](mailto:prusnock%40uottawa%2eca)>\
 [Jan Šebestik](http://www.aleph.cz/sebestik/sebestik-cv.html)
+<!--md-padding-ignore-end-->

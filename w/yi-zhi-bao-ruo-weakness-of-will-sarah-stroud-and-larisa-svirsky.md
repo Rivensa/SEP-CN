@@ -327,3 +327,4 @@ I am grateful to Eric Guindon and to Joseph van Weelden for very useful research
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Sarah Stroud](https://philosophy.unc.edu/people/sarah-stroud/) <[*sarah.stroud@unc.edu*](mailto:sarah%2estroud%40unc%2eedu)>  
 Larisa Svirsky <[*larisa.svirsky@gmail.com*](mailto:larisa%2esvirsky%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -465,3 +465,4 @@ Van Cleve 在两个方面详细阐述了性质解释。首先，他指出 Reid �
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Martha Bolton <[*mbolton@rci.rutgers.edu*](mailto:mbolton%40rci%2erutgers%2eedu)>
+<!--md-padding-ignore-end-->

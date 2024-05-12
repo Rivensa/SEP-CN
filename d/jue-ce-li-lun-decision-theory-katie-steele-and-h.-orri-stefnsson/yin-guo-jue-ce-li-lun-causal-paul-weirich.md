@@ -401,3 +401,4 @@ I thank Christopher Haugen for bibliographical research and Brad Armendt, David 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Paul Weirich](https://philosophy.missouri.edu/people/weirich) <[*weirichp@missouri.edu*](mailto:weirichp%40missouri%2eedu)>
+<!--md-padding-ignore-end-->

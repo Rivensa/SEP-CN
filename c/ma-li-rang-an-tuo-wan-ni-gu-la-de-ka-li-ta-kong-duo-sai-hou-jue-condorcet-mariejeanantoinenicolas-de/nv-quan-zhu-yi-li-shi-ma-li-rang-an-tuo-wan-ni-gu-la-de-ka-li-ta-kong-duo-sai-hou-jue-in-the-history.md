@@ -349,3 +349,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Joan Landes <[*joanlandes@mac.com*](mailto:joanlandes%40mac%2ecom)>
+<!--md-padding-ignore-end-->

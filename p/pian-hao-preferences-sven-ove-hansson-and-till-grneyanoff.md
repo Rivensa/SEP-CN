@@ -602,3 +602,4 @@ Jeffrey 的模型有两个限制。首先，它需要一个定义在命题空间
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Sven Ove Hansson](http://people.kth.se/~soh/) <[*soh@kth.se*](mailto:soh%40kth%2ese)>  
 [Till Grüne-Yanoff](https://people.kth.se/~gryne/) <[*gryne@kth.se*](mailto:gryne%40kth%2ese)>
+<!--md-padding-ignore-end-->

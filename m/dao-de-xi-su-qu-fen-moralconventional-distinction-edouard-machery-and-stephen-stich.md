@@ -487,3 +487,4 @@ David Shoemaker（2011）对于根据布莱尔的研究得出精神病患者的�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Edouard Machery <[*machery@pitt.edu*](mailto:machery%40pitt%2eedu)>  
 [Stephen Stich](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/635-stich-stephen) <[*stich.steve@gmail.com*](mailto:stich%2esteve%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

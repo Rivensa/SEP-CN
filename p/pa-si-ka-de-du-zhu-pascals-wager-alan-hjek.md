@@ -378,3 +378,4 @@ I thank Bronwyn Finnigan and Liz Jackson for helpful comments.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Alan Hájek](http://philosophy.anu.edu.au/profile/alan-hajek/) <[*alan.hajek@anu.edu.au*](mailto:alan%2ehajek%40anu%2eedu%2eau)>
+<!--md-padding-ignore-end-->

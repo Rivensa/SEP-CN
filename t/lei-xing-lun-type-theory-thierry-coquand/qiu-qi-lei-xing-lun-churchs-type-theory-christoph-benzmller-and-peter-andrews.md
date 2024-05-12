@@ -738,3 +738,4 @@ Portions of this material are adapted from Andrews 2002 and Andrews 2001, with p
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Christoph Benzmüller](https://www.uni-bamberg.de/en/aise/team/benzmueller/) <[*christoph.benzmueller@uni-bamberg.de*](mailto:christoph%2ebenzmueller%40uni-bamberg%2ede)>  
 Peter Andrews
+<!--md-padding-ignore-end-->

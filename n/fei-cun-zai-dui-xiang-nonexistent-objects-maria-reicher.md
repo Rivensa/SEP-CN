@@ -741,3 +741,4 @@ This article is an outcome of the project “Philosophie et histoire de la logiq
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Maria Reicher](http://www.philosophie.rwth-aachen.de/aw/cms/home/themen/philosophie_der_kulturellen_welt/personen/~tgk/maria_reicher/?lang=de) <[*maria.reicher-marek@rwth-aachen.de*](mailto:maria%2ereicher-marek%40rwth-aachen%2ede)>
+<!--md-padding-ignore-end-->

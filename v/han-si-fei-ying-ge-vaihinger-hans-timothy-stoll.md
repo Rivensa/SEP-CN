@@ -206,3 +206,4 @@ PAO 的最明显目标是确立虚构对我们认知生活的核心地位。但�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Timothy Stoll](https://philpeople.org/profiles/timothy-anders-stoll) <[*Timothy.Stoll@warwick.ac.uk*](mailto:Timothy%2eStoll%40warwick%2eac%2euk)>
+<!--md-padding-ignore-end-->

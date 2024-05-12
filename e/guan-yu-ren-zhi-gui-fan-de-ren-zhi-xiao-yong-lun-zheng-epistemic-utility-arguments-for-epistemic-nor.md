@@ -826,3 +826,4 @@ Schoenfield 考虑了最简单的情况，即我们的个体只对一个命题�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Richard Pettigrew](http://eis.bris.ac.uk/~rp3959/) <[*richard.pettigrew@bris.ac.uk*](mailto:richard%2epettigrew%40bris%2eac%2euk)>
+<!--md-padding-ignore-end-->

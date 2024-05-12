@@ -303,3 +303,4 @@ The author is indebted to John D. Norton, Edward N. Zalta, and Susanne Z. Riehem
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Heinz-Juergen Schmidt](http://studip.serv.uni-osnabrueck.de/extern.php?username=hschmidt&page_url=http://www.physik.uni-osnabrueck.de/Fachbereich/Personal_Detail.php&global_id=12e81fc08b403f59c9a7e121fb2db02f) <[*hschmidt@physik.uni-osnabrueck.de*](mailto:hschmidt%40physik%2euni-osnabrueck%2ede)>
+<!--md-padding-ignore-end-->

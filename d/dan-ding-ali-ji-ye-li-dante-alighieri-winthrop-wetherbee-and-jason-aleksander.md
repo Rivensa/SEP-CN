@@ -433,3 +433,4 @@ Ibn Sina \[Avicenna] | medieval philosophy | [Ibn Rushd \[Averroes\]](https://pl
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Winthrop Wetherbee\
 Jason Aleksander <[*jraleksander@gmail.com*](mailto:jraleksander%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

@@ -704,3 +704,4 @@ Chalmers (2012)认为功能概念忽视了计算的重要特征。正如他所�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Michael Rescorla <[*rescorla@ucla.edu*](mailto:rescorla%40ucla%2eedu)>
+<!--md-padding-ignore-end-->

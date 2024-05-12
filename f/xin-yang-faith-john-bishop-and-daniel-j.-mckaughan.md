@@ -356,3 +356,4 @@ The authors thank Sophie Milne and Selwyn Fraser for research assistance on this
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 John Bishop <[*jc.bishop@auckland.ac.nz*](mailto:jc%2ebishop%40auckland%2eac%2enz)>  
 [Daniel J. McKaughan](https://philpeople.org/profiles/daniel-j-mckaughan) <[*daniel.mckaughan@bc.edu*](mailto:daniel%2emckaughan%40bc%2eedu)>
+<!--md-padding-ignore-end-->

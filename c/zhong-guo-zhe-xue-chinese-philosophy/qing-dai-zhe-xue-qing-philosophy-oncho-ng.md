@@ -495,3 +495,4 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [On-cho Ng](http://history.la.psu.edu/directory/oxn1) <[*oxn1@psu.edu*](mailto:oxn1%40psu%2eedu)>
+<!--md-padding-ignore-end-->

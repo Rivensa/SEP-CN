@@ -231,3 +231,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Margaret Graver <[*Margaret.R.Graver@Dartmouth.EDU*](mailto:Margaret%2eR%2eGraver%40Dartmouth%2eEDU)>
+<!--md-padding-ignore-end-->

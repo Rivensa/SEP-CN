@@ -389,3 +389,4 @@ A collection, useful to students, of primary texts constituting background to Be
 
 [Copyright © 2011](https://plato.stanford.edu/info.html#c) by\
 [Lisa Downing](https://philosophy.osu.edu/people/downing.110) <[*downing.110@osu.edu*](mailto:downing%2e110%40osu%2eedu)>
+<!--md-padding-ignore-end-->

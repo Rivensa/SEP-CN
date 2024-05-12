@@ -969,3 +969,4 @@ We would like to thank anonymous referees of the Stanford Encyclopedia of Philos
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Laurence R. Horn](https://ling.yale.edu/people/laurence-r-horn) <[*laurence.horn@yale.edu*](mailto:laurence%2ehorn%40yale%2eedu)>\
 [Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[*Heinrich.Wansing@rub.de*](mailto:Heinrich%2eWansing%40rub%2ede)>
+<!--md-padding-ignore-end-->

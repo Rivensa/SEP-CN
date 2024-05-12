@@ -341,3 +341,4 @@
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 [David Woodruff Smith](http://www.faculty.uci.edu/profile.cfm?faculty\id=2508)
+<!--md-padding-ignore-end-->

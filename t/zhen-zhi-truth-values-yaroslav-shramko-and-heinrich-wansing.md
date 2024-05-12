@@ -505,3 +505,4 @@ Joseph Camp 在 2002 年的文章中（第 125-160 页）通过发展他所称�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Yaroslav Shramko](http://kdpu.edu.ua/shramko/yse.htm) <[*shramko@rocketmail.com*](mailto:shramko%40rocketmail%2ecom)>  
 [Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[*Heinrich.Wansing@rub.de*](mailto:Heinrich%2eWansing%40rub%2ede)>
+<!--md-padding-ignore-end-->

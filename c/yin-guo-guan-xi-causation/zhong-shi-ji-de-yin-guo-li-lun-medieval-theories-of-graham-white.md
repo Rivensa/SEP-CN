@@ -200,3 +200,4 @@ Ockham 扩展了 Scotus 关于意志的理论，否认行动适当地由它们�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Graham White <[*graham@dcs.qmul.ac.uk*](mailto:graham%40dcs%2eqmul%2eac%2euk)>
+<!--md-padding-ignore-end-->

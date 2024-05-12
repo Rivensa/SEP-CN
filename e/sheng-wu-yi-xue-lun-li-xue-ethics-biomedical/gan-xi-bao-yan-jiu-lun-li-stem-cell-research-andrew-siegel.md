@@ -182,3 +182,4 @@ abortion, ethics of | [cloning](https://plato.stanford.edu/entries/cloning/) 
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Andrew Siegel <[*asiegel@jhu.edu*](mailto:asiegel%40jhu%2eedu)>
+<!--md-padding-ignore-end-->

@@ -381,3 +381,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Andrew Fiala](http://zimmer.csufresno.edu/~afiala) <[*afiala@csufresno.edu*](mailto:afiala%40csufresno%2eedu)>
+<!--md-padding-ignore-end-->

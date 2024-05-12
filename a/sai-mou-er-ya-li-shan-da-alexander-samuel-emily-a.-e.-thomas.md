@@ -330,3 +330,4 @@ Oakeley 和 Collingwood 都与亚历山大进行了通信，他们的通信中�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Emily A. E. Thomas <[*emily.thomas@cantab.net*](mailto:emily%2ethomas%40cantab%2enet)>
+<!--md-padding-ignore-end-->

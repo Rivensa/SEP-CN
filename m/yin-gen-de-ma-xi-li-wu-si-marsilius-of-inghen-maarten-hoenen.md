@@ -199,3 +199,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Maarten Hoenen](https://philosophie.philhist.unibas.ch/de/personen/maarten-jfm-hoenen/) <[*maarten.hoenen@unibas.ch*](mailto:maarten%2ehoenen%40unibas%2ech)>
+<!--md-padding-ignore-end-->

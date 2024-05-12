@@ -323,3 +323,4 @@ The author would like to thank Paweł Jarnicki for assistance in preparing the b
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Wojciech Sady <[*wojciech.sady@gmail.com*](mailto:wojciech%2esady%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

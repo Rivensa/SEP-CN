@@ -431,3 +431,4 @@ Lascano 指出了勒布勒特伊的宇宙学证明受到了莱布尼茨和洛克
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
 Karen Detlefsen <[*detlefse@phil.upenn.edu*](mailto:detlefse%40phil%2eupenn%2eedu)>\
 [Andrew Janiak](https://scholars.duke.edu/person/janiak) <[*janiak@duke.edu*](mailto:janiak%40duke%2eedu)>
+<!--md-padding-ignore-end-->

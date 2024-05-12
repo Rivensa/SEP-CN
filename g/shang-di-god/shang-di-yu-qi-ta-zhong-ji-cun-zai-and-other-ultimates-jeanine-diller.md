@@ -419,3 +419,4 @@ The author is indebted to Jeffery Long as well as Bin Song and Tobias Zürn for 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Jeanine Diller <[*jeanine.diller@utoledo.edu*](mailto:jeanine%2ediller%40utoledo%2eedu)>
+<!--md-padding-ignore-end-->

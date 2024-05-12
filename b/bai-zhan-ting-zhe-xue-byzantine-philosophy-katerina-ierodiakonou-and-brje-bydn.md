@@ -504,3 +504,4 @@ Pachymeres 对 Plato 的关注并非巧合。如果这一时期对亚里士多�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Katerina Ierodiakonou <[*katerina.ierodiakonou@unige.ch*](mailto:katerina%2eierodiakonou%40unige%2ech)>\
 Börje Bydén <[*borje.byden@gu.se*](mailto:borje%2ebyden%40gu%2ese)>
+<!--md-padding-ignore-end-->

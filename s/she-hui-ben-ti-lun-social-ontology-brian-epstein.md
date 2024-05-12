@@ -1179,3 +1179,4 @@ I am grateful to John Pender for research, and to Christian List, Susanne Sreedh
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Brian Epstein](http://epstein.org/) <[*brian.epstein@tufts.edu*](mailto:brian%2eepstein%40tufts%2eedu)>
+<!--md-padding-ignore-end-->

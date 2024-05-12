@@ -389,3 +389,4 @@ Ziff 观点的吸引力在于它提供了一种完全不同的解决方案，解
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [James R. Hamilton](https://www.k-state.edu/philos/people/faculty/hamilton.html) <[*hamilton@ksu.edu*](mailto:hamilton%40ksu%2eedu)>
+<!--md-padding-ignore-end-->

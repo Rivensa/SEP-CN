@@ -405,3 +405,4 @@ As of the December 2012 update, the credited authors for this entry are Olimpia 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Olimpia Lombardi <[*olimpiafilo@gmail.com*](mailto:olimpiafilo%40gmail%2ecom)>  
 Dennis Dieks <[*D.G.B.J.Dieks@phys.uu.nl*](mailto:D%2eG%2eB%2eJ%2eDieks%40phys%2euu%2enl)>
+<!--md-padding-ignore-end-->

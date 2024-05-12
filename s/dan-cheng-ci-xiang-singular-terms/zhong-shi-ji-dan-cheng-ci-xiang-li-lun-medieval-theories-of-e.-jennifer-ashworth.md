@@ -178,3 +178,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [E. Jennifer Ashworth](https://uwaterloo.ca/philosophy/about/people/emeriti)
+<!--md-padding-ignore-end-->

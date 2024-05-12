@@ -306,3 +306,4 @@ The photographs of the Silver Pavilion etc. at Ginkakuji, and of the Dry Landsca
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Graham Parkes](http://ucc.academia.edu/GrahamParkes/)  
 Adam Loughnane <[*adamloughnane@gmail.com*](mailto:adamloughnane%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

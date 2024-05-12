@@ -306,3 +306,4 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Mark van Atten](http://umr8547.ens.fr/spip.php?rubrique264\&lang=fr) <[*vanattenmark@gmail.com*](mailto:vanattenmark%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

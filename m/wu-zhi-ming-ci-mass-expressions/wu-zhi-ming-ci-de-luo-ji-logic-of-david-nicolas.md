@@ -395,3 +395,4 @@ For comments, I would like to thank Alan Bale, Francis Corblin, Carmen Dobrovie-
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [David Nicolas](http://d.a.nicolas.free.fr/) <[*david.nicolas@m4x.org*](mailto:david%2enicolas%40m4x%2eorg)>
+<!--md-padding-ignore-end-->

@@ -194,3 +194,4 @@ The most complete list of Giles’ works can be found in Del Punta–Donati–Lu
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Roberto Lambertini](http://docenti.unimc.it/roberto.lambertini) <[*roberto.lambertini@unimc.it*](mailto:roberto%2elambertini%40unimc%2eit)>
+<!--md-padding-ignore-end-->

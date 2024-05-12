@@ -282,3 +282,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Hasok Chang <[*hc372@cam.ac.uk*](mailto:hc372%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

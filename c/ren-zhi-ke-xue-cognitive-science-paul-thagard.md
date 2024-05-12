@@ -349,3 +349,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Paul Thagard](http://paulthagard.com/) <[*pthagard@uwaterloo.ca*](mailto:pthagard%40uwaterloo%2eca)>
+<!--md-padding-ignore-end-->

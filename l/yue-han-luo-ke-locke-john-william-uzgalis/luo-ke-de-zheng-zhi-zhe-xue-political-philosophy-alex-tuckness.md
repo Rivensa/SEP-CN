@@ -288,3 +288,4 @@ The editors would like to thank Sally Ferguson for pointing out a number of typo
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Alex Tuckness](https://www.pols.iastate.edu/directory/alex-tuckness/)
+<!--md-padding-ignore-end-->

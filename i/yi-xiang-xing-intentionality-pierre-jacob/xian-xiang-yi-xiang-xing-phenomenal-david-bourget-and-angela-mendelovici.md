@@ -629,3 +629,4 @@ Many thanks to David Chalmers, Daniel Stoljar, and SEP’s anonymous referees fo
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [David Bourget](http://www.dbourget.com/) <[*david.bourget@gmail.com*](mailto:david%2ebourget%40gmail%2ecom)>  
 [Angela Mendelovici](http://publish.uwo.ca/~amendel5) <[*amendel5@uwo.ca*](mailto:amendel5%40uwo%2eca)>
+<!--md-padding-ignore-end-->

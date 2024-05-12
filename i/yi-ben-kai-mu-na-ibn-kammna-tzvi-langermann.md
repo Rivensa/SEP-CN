@@ -200,3 +200,4 @@ Much of the research for this entry was carried out during tenure of a grant fro
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Tzvi Langermann
+<!--md-padding-ignore-end-->

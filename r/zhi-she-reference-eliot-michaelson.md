@@ -353,3 +353,4 @@ Editor’s note: In 2014, Eliot Michaelson took over responsibility for updating
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Eliot Michaelson](http://emichaelson.org/) <[*eliot.michaelson@kcl.ac.uk*](mailto:eliot%2emichaelson%40kcl%2eac%2euk)>
+<!--md-padding-ignore-end-->

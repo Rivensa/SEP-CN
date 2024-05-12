@@ -262,3 +262,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Daniel Arnold](http://home.uchicago.edu/~daarnold) <[*d-arnold@uchicago.edu*](mailto:d-arnold%40uchicago%2eedu)>
+<!--md-padding-ignore-end-->

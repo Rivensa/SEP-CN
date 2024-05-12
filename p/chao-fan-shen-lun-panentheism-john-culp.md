@@ -388,3 +388,4 @@ R.T. Mullins suggested several sources that increased the coverage of this artic
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 John Culp <[*jculp@apu.edu*](mailto:jculp%40apu%2eedu)>
+<!--md-padding-ignore-end-->

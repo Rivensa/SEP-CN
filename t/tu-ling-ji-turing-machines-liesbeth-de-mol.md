@@ -712,3 +712,4 @@ The version of this entry published on September 24, 2018 is essentially a new e
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Liesbeth De Mol](https://pro.univ-lille.fr/liesbeth-de-mol/) <[*liesbeth.demol@univ-lille3.fr*](mailto:liesbeth%2edemol%40univ-lille3%2efr)>
+<!--md-padding-ignore-end-->

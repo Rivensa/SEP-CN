@@ -264,3 +264,4 @@ The authors would like to acknowledge the thoughtful advice of an anonymous revi
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Jorge Gracia  
 [Manuel Vargas](http://vargasphilosophy.com/) <[*mrvargas@ucsd.edu*](mailto:mrvargas%40ucsd%2eedu)>
+<!--md-padding-ignore-end-->

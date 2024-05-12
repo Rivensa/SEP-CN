@@ -104,3 +104,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Roberto Casati](http://roberto.casati.free.fr/casati/roberto.htm) <[*casati@ehess.fr*](mailto:casati%40ehess%2efr)>  
 [Achille Varzi](http://www.columbia.edu/~av72/) <[*achille.varzi@columbia.edu*](mailto:achille%2evarzi%40columbia%2eedu)>
+<!--md-padding-ignore-end-->

@@ -680,3 +680,4 @@ The current (2019) version of this article has benefited from the advice and ass
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Steven Kuhn](http://explore.georgetown.edu/people/kuhns/?PageTemplateID=189) <[*kuhns@georgetown.edu*](mailto:kuhns%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

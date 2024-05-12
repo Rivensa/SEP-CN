@@ -369,3 +369,4 @@ My thanks to Louise Antony, Larry BonJour and Alvin Goldman for helpful comments
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [George Pappas](https://philosophy.osu.edu/people/pappas.1/)
+<!--md-padding-ignore-end-->

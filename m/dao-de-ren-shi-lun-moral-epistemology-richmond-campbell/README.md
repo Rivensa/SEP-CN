@@ -472,3 +472,4 @@ I am grateful to David Copp, a subject editor for the *Stanford Encyclopedia of 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Richmond Campbell](http://philosophy.dal.ca/Faculty%20and%20Staff/Richmond\M.\Campbell.php) <[*Richmond.Campbell@Dal.CA*](mailto:Richmond%2eCampbell%40Dal%2eCA)>
+<!--md-padding-ignore-end-->

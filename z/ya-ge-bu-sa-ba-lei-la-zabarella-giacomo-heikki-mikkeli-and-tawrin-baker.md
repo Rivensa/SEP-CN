@@ -207,3 +207,4 @@
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Heikki Mikkeli  
 Tawrin Baker <[*tawrin@gmail.com*](mailto:tawrin%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

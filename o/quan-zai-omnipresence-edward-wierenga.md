@@ -135,3 +135,4 @@ Georg Gasser (2019) 也辩护在传统的知识和权力上增加涉及机构的
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Edward Wierenga](http://www.sas.rochester.edu/phl/people/faculty/wierenga_edward/) <[*edward.wierenga@rochester.edu*](mailto:edward%2ewierenga%40rochester%2eedu)>
+<!--md-padding-ignore-end-->

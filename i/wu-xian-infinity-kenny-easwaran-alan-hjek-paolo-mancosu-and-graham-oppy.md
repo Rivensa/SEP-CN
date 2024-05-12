@@ -1310,3 +1310,4 @@ Kenny Easwaran <[*easwaran@tamu.edu*](mailto:easwaran%40tamu%2eedu)>
 [Alan Hájek](http://philosophy.anu.edu.au/profile/alan-hajek/) <[*alan.hajek@anu.edu.au*](mailto:alan%2ehajek%40anu%2eedu%2eau)>  
 [Paolo Mancosu](http://philosophy.berkeley.edu/mancosu/) <[*mancosu@socrates.Berkeley.EDU*](mailto:mancosu%40socrates%2eBerkeley%2eEDU)>  
 [Graham Oppy](http://profiles.arts.monash.edu.au/graham-oppy/) <[*Graham.Oppy@monash.edu*](mailto:Graham%2eOppy%40monash%2eedu)>
+<!--md-padding-ignore-end-->

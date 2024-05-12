@@ -371,3 +371,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Paul C. Taylor <[*pcttwo@gmail.com*](mailto:pcttwo%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

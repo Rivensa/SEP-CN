@@ -560,3 +560,4 @@ b.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Friederike Moltmann <[*Friederike.Moltmann@univ-paris1.fr*](mailto:Friederike%2eMoltmann%40univ-paris1%2efr)>
+<!--md-padding-ignore-end-->

@@ -304,3 +304,4 @@ MacCallum 的框架特别适合澄清这些问题。因此，研究自由度测�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Ian Carter](https://scienzepolitiche.unipv.it/persone/prof-ian-carter/) <[*ian.carter@unipv.it*](mailto:ian%2ecarter%40unipv%2eit)>
+<!--md-padding-ignore-end-->

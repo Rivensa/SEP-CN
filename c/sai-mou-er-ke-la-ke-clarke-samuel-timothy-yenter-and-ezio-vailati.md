@@ -315,3 +315,4 @@ Clarke 深刻影响了十八世纪对神学和哲学交叉感兴趣的哲学家�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Timothy Yenter](http://philosophy.olemiss.edu/timothy-yenter/) <[*tpyenter@olemiss.edu*](mailto:tpyenter%40olemiss%2eedu)>\
 [Ezio Vailati](http://www.siue.edu/\~evailat/)
+<!--md-padding-ignore-end-->

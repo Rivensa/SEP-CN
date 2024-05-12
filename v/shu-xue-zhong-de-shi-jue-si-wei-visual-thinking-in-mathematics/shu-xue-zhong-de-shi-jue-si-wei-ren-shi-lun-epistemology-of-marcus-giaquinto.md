@@ -561,3 +561,4 @@ Chvátal 的定理给出了答案：对于一个有 n 堵墙的画廊，└n/3�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Marcus Giaquinto <[*m.giaquinto@ucl.ac.uk*](mailto:m%2egiaquinto%40ucl%2eac%2euk)>
+<!--md-padding-ignore-end-->

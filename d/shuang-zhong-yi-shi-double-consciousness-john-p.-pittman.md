@@ -445,3 +445,4 @@ Thanks to Tommie Shelby, who originally commissioned this article, discussed it 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 John P. Pittman <[*jpittman@jjay.cuny.edu*](mailto:jpittman%40jjay%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

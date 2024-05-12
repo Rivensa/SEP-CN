@@ -592,3 +592,4 @@ P(h∣d)=P(d∣h)⋅P(h)P(d)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Jordi Cat <[*jcat@indiana.edu*](mailto:jcat%40indiana%2eedu)>
+<!--md-padding-ignore-end-->

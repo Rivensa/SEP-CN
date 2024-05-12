@@ -417,3 +417,4 @@ The author would like to thank Catherine Atherton for her advice in editing this
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 David Blank <[*blank@ucla.edu*](mailto:blank%40ucla%2eedu)>
+<!--md-padding-ignore-end-->

@@ -360,3 +360,4 @@ Gillick 判决起因于一位母亲对当地卫生当局未能撤回一份面向
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 David William Archard <[*d.archard@qub.ac.uk*](mailto:d%2earchard%40qub%2eac%2euk)>
+<!--md-padding-ignore-end-->

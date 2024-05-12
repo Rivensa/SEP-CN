@@ -468,3 +468,4 @@ Rawls 的观点似乎与 Nagel 的观点相似（因此，也面临相同的困�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Troy Jollimore](http://www.troyjollimore.com/) <[*TJollimore@csuchico.edu*](mailto:TJollimore%40csuchico%2eedu)>
+<!--md-padding-ignore-end-->

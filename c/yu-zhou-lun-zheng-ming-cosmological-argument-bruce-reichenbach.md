@@ -702,3 +702,4 @@ Swinburne的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Bruce Reichenbach](http://www.augsburg.edu/faculty/reichen/) <[*reichen@augsburg.edu*](mailto:reichen%40augsburg%2eedu)>
+<!--md-padding-ignore-end-->

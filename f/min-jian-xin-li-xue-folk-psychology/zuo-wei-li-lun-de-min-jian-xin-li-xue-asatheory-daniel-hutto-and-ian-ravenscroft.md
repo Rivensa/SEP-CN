@@ -571,3 +571,4 @@ FP 叙事是叙事的一个特殊子集——它们提及并展示心理状态�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Daniel Hutto <[*ddhutto@uow.edu.au*](mailto:ddhutto%40uow%2eedu%2eau)>  
 Ian Ravenscroft
+<!--md-padding-ignore-end-->

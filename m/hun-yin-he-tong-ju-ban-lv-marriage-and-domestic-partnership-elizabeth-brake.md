@@ -404,3 +404,4 @@ Thanks to Eric Cave, Laurence Houlgate, Ann Levey, Mark Migotti, and Nicole Wyat
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Elizabeth Brake](https://elizabethbrake.com/) <[*elizabeth.brake@rice.edu*](mailto:elizabeth%2ebrake%40rice%2eedu)>
+<!--md-padding-ignore-end-->

@@ -312,3 +312,4 @@ I would like to thank Michael Harris, David Shatz, and Daniel Statman for helpfu
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Daniel Rynhold <[*rynhold@yu.edu*](mailto:rynhold%40yu%2eedu)>
+<!--md-padding-ignore-end-->

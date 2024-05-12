@@ -438,3 +438,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jan Baedke](http://www.rub.de/philosophy/wtundwg/team/baedke) <[*jan.baedke@rub.de*](mailto:jan%2ebaedke%40rub%2ede)>  
 Scott F. Gilbert <[*sgilber1@swarthmore.edu*](mailto:sgilber1%40swarthmore%2eedu)>
+<!--md-padding-ignore-end-->

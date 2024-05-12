@@ -676,3 +676,4 @@ Over the years, many readers and a few wise and conscientious referees have offe
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Joan Moschovakis](https://www.math.ucla.edu/~joan/) <[*joan@math.ucla.edu*](mailto:joan%40math%2eucla%2eedu)>
+<!--md-padding-ignore-end-->

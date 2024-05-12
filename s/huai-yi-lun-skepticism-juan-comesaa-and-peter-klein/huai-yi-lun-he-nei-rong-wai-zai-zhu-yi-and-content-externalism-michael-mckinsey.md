@@ -292,3 +292,4 @@ I am indebted to an anonymous referee who made many valuable comments, suggestio
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Michael McKinsey
+<!--md-padding-ignore-end-->

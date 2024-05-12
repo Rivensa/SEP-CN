@@ -311,3 +311,4 @@ Note that all quotes from untranslated sources listed below are translated by th
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 John Whipple <[*jwhipple@uic.edu*](mailto:jwhipple%40uic%2eedu)>
+<!--md-padding-ignore-end-->

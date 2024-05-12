@@ -387,3 +387,4 @@ This is a completely rewritten and updated version of the entry on the Empedocle
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 K. Scarlett Kingsley <[*kkingsley@agnesscott.edu*](mailto:kkingsley%40agnesscott%2eedu)>  
 [Richard Parry](http://www.agnesscott.edu/academics/faculty/richard-parry.html)
+<!--md-padding-ignore-end-->

@@ -234,3 +234,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Michael Zank](http://www.bu.edu/mzank/Michael_Zank) <[*mzank@bu.edu*](mailto:mzank%40bu%2eedu)>\
 Zachary Braiterman
+<!--md-padding-ignore-end-->

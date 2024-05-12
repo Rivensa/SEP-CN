@@ -326,3 +326,4 @@ abortion, ethics of | [death](https://plato.stanford.edu/entries/death/) | [
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Carlos Mariscal <[*carlos@unr.edu*](mailto:carlos%40unr%2eedu)>
+<!--md-padding-ignore-end-->

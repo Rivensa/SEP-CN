@@ -400,3 +400,4 @@ II 捕捉了每个形式是 monoeides 的本体力量：具有一个本质。根
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Allan Silverman](https://philosophy.osu.edu/people/silverman.3/) <[*silverman.3@osu.edu*](mailto:silverman%2e3%40osu%2eedu)>
+<!--md-padding-ignore-end-->

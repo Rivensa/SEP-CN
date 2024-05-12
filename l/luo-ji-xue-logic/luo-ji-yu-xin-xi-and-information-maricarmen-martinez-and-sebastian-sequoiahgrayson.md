@@ -720,3 +720,4 @@ The authors would like to extend their thanks to the Editors of the Stanford Enc
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Maricarmen Martinez <[*m.martinez@uniandes.edu.co*](mailto:m%2emartinez%40uniandes%2eedu%2eco)>  
 Sebastian Sequoiah-Grayson <[*sequoiah@gmail.com*](mailto:sequoiah%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

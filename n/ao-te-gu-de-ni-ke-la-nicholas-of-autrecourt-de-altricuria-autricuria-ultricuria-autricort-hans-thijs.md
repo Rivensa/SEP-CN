@@ -145,3 +145,4 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) for po
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Hans Thijssen <[*hthijssen@phil.ru.nl*](mailto:hthijssen%40phil%2eru%2enl)>
+<!--md-padding-ignore-end-->

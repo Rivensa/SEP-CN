@@ -581,3 +581,4 @@ My sources for this essay—other than Prior’s published work and his papers a
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [B. Jack Copeland](https://www.canterbury.ac.nz/arts/contact-us/people/jack-copeland.html) <[*jack.copeland@canterbury.ac.nz*](mailto:jack%2ecopeland%40canterbury%2eac%2enz)>
+<!--md-padding-ignore-end-->

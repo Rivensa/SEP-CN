@@ -379,3 +379,4 @@ Dworkin 认为，在许多情况下，家庭和友谊满足这些约束条件，
 
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by  
 [Tom Christiano](http://www.u.arizona.edu/~thomasc/) <[*thomasc@u.arizona.edu*](mailto:thomasc%40u%2earizona%2eedu)>
+<!--md-padding-ignore-end-->

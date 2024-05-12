@@ -294,3 +294,4 @@ Langton 解释说，客观性是关于思维如何符合世界的方式（我们
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Evangelia (Lina) Papadaki <[*lina_papadaki@yahoo.com*](mailto:lina_papadaki%40yahoo%2ecom)>
+<!--md-padding-ignore-end-->

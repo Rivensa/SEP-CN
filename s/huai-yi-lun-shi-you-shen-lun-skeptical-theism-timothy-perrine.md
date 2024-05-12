@@ -518,3 +518,4 @@ For helpful feedback, the author thanks Michael Bergmann, Spencer Case, Paul Dra
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Timothy Perrine <[*timperrine@gmail.com*](mailto:timperrine%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

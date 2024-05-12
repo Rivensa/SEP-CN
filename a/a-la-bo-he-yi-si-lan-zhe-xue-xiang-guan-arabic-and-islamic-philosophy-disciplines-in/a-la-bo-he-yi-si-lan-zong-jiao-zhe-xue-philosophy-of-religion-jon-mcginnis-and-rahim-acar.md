@@ -484,3 +484,4 @@ Selections from several of the above are translated in
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jon McGinnis](https://www.umsl.edu/~philo/People/Faculty/index.html) <[*mcginnis@umsl.edu*](mailto:mcginnis%40umsl%2eedu)>  
 [Rahim Acar](https://www.nazariyat.org/en/persons/rahim-acar) <[*rahim.acar@gmail.com*](mailto:rahim%2eacar%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

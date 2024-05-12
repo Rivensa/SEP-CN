@@ -748,3 +748,4 @@ Where applicable, page references are to reprinted versions.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Joel Smith <[*joel.smith@manchester.ac.uk*](mailto:joel%2esmith%40manchester%2eac%2euk)>
+<!--md-padding-ignore-end-->

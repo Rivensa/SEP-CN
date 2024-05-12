@@ -283,3 +283,4 @@ Thanks to Elizabeth Hackett. Some sections of this entry are drawn from Haslange
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Sally Haslanger](http://www.mit.edu/~shaslang/home/About_Me.html)  
 [Ásta](http://online.sfsu.edu/asta/)
+<!--md-padding-ignore-end-->

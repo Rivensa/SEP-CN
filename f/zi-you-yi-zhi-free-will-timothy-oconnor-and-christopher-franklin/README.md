@@ -604,3 +604,4 @@ Fischer (1989)的引言中对这些论点进行了很好的讨论，并试图指
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Timothy O’Connor <[*toconnor@indiana.edu*](mailto:toconnor%40indiana%2eedu)>  
 [Christopher Franklin](http://christopherefranklin.weebly.com/) <[*cefranklin@gcc.edu*](mailto:cefranklin%40gcc%2eedu)>
+<!--md-padding-ignore-end-->

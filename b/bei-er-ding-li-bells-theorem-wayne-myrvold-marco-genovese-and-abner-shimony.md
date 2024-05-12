@@ -772,3 +772,4 @@ A.S. acknowledges valuable conversations with John Clauser and Edward Fry. W.M. 
 [Wayne Myrvold](http://publish.uwo.ca/\~wmyrvold/) <[*wmyrvold@uwo.ca*](mailto:wmyrvold%40uwo%2eca)>\
 [Marco Genovese](https://quantum-optics.inrim.it/people/marco-genovese) <[*m.genovese@inrim.it*](mailto:m%2egenovese%40inrim%2eit)>\
 [Abner Shimony](http://www.bu.edu/philo/people/faculty/emeritus/abner-shimony/)
+<!--md-padding-ignore-end-->

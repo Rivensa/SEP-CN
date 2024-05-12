@@ -801,3 +801,4 @@ Thanks to Sebastian Ebert, Ulrike Hahn, Ralph Hertwig, Konstantinos Katsikopoulo
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Gregory Wheeler](http://gregorywheeler.org/) <[*g.wheeler@fs.de*](mailto:g%2ewheeler%40fs%2ede)>
+<!--md-padding-ignore-end-->

@@ -799,3 +799,4 @@ Bradley Armour-Garb and James Woodbridge joined Daniel Stoljar as co-authors of 
 Bradley Armour-Garb <[*barmour-garb@albany.edu*](mailto:barmour-garb%40albany%2eedu)>  
 [Daniel Stoljar](http://philosophy.cass.anu.edu.au/people/daniel-stoljar)  
 James Woodbridge <[*james.woodbridge@unlv.edu*](mailto:james%2ewoodbridge%40unlv%2eedu)>
+<!--md-padding-ignore-end-->

@@ -304,3 +304,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Thomas Talbott](http://www.willamette.edu/~ttalbott/) <[*ttalbott@willamette.edu*](mailto:ttalbott%40willamette%2eedu)>
+<!--md-padding-ignore-end-->

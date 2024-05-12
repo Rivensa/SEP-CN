@@ -482,3 +482,4 @@ Talia Mae Bettcher (2012a; 2013; 2014) 反对传统的错误身体论述跨性�
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
 Talia Bettcher <[*tbettch@calstatela.edu*](mailto:tbettch%40calstatela%2eedu)>
+<!--md-padding-ignore-end-->

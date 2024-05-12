@@ -521,3 +521,4 @@ Kreisel 早就指出，即使一个论题无法被正式证明，仍然有可能
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Leon Horsten](https://www.philosophie.uni-konstanz.de/en/ag-leon-horsten/leon-horsten/) <[*leon.horsten@uni-konstanz.de*](mailto:leon%2ehorsten%40uni-konstanz%2ede)>
+<!--md-padding-ignore-end-->

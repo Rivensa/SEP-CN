@@ -377,3 +377,4 @@ Sparrow 还质疑了父母应该生育最好的孩子这一假设的正当性。
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Inmaculada de Melo-Martin <[*imd2001@med.cornell.edu*](mailto:imd2001%40med%2ecornell%2eedu)>  
 [Sara Goering](https://phil.washington.edu/people/sara-goering) <[*sgoering@uw.edu*](mailto:sgoering%40uw%2eedu)>
+<!--md-padding-ignore-end-->

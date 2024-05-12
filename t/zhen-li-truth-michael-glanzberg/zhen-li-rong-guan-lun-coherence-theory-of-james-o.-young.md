@@ -128,3 +128,4 @@ idealism: British | [knowledge: analysis of](https://plato.stanford.edu/entrie
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [James O. Young](https://www.uvic.ca/humanities/philosophy/people/facultymembers/profiles/young.php) <[*joy@uvic.ca*](mailto:joy%40uvic%2eca)>
+<!--md-padding-ignore-end-->

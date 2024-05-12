@@ -1236,3 +1236,4 @@ The author and editors would like to thank an anonymous external referee for the
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
 [Lenhart Schubert](http://www.cs.rochester.edu/\~schubert/) <[*schubert@cs.rochester.edu*](mailto:schubert%40cs%2erochester%2eedu)>
+<!--md-padding-ignore-end-->

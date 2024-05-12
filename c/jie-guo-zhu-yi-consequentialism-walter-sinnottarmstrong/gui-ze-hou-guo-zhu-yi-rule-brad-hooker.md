@@ -602,3 +602,4 @@ This entry has benefited from very generous comments by Rob Lawlor, Gerald Lang,
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Brad Hooker <[*b.w.hooker@reading.ac.uk*](mailto:b%2ew%2ehooker%40reading%2eac%2euk)>
+<!--md-padding-ignore-end-->

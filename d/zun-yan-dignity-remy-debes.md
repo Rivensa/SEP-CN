@@ -603,3 +603,4 @@ I am deeply grateful to my anonymous referees, who provided careful, generous, a
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Remy Debes <[*rdebes@memphis.edu*](mailto:rdebes%40memphis%2eedu)>
+<!--md-padding-ignore-end-->

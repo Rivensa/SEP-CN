@@ -639,3 +639,4 @@ Many thanks to Yarrow Dunham, Jules Holroyd, Bryce Huebner, Daniel Kelly, Calvin
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Michael Brownstein <[*msbrownstein@gmail.com*](mailto:msbrownstein%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

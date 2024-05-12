@@ -218,3 +218,4 @@
 
 [Copyright © 2011](https://plato.stanford.edu/info.html#c) by  
 Stephen Thompson <[*sthompson3@gradcenter.cuny.edu*](mailto:sthompson3%40gradcenter%2ecuny%2eedu)>
+<!--md-padding-ignore-end-->

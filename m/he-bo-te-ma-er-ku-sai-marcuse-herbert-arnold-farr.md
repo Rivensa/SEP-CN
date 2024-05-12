@@ -381,3 +381,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Arnold Farr <[*arnold.farr@uky.edu*](mailto:arnold%2efarr%40uky%2eedu)>
+<!--md-padding-ignore-end-->

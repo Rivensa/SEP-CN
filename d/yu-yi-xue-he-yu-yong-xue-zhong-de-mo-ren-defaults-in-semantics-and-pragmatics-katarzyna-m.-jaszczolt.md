@@ -618,3 +618,4 @@ This entry draws on some sections of my ‘Default Interpretations’, published
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Katarzyna M. Jaszczolt](http://people.pwf.cam.ac.uk/kmj21/) <[*kmj21@cam.ac.uk*](mailto:kmj21%40cam%2eac%2euk)>
+<!--md-padding-ignore-end-->

@@ -882,3 +882,4 @@ Parts of Sections 1.1–1.3, 2, 3.1–3.2, 5.2, and 6.2 are based on the [first
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Erik Curiel](http://strangebeautiful.com/) <[*erik@strangebeautiful.com*](mailto:erik%40strangebeautiful%2ecom)>
+<!--md-padding-ignore-end-->

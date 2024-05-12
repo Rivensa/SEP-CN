@@ -369,3 +369,4 @@ Works by year
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Don A. Howard](http://www.nd.edu/~dhoward1/)  
 [Marco Giovanelli](https://filosofia.campusnet.unito.it/do/docenti.pl/Alias?marco.giovanelli#tab-profilo) <[*marco.giovanelli@unito.it*](mailto:marco%2egiovanelli%40unito%2eit)>
+<!--md-padding-ignore-end-->

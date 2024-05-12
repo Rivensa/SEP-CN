@@ -704,3 +704,4 @@ We are grateful to Professor Carl Craver for both his comments on the manuscript
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Allan Franklin](http://spot.colorado.edu/\~franklia/) <[*allan.franklin@colorado.edu*](mailto:allan%2efranklin%40colorado%2eedu)>\
 [Slobodan Perovic](http://slobodanperovic.weebly.com/) <[*sperovic@f.bg.ac.rs*](mailto:sperovic%40f%2ebg%2eac%2ers)>
+<!--md-padding-ignore-end-->

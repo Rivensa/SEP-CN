@@ -255,3 +255,4 @@ This entry is dedicated to the late Wesley Salmon, who did so much to educate ph
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Nick Huggett](http://www.uic.edu/~huggett) <[*huggett@uic.edu*](mailto:huggett%40uic%2eedu)>
+<!--md-padding-ignore-end-->

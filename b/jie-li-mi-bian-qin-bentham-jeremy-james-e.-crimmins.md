@@ -375,3 +375,4 @@ Michael Quinn and David Lieberman, generous and wise colleagues, gave careful at
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 James E. Crimmins <[*jcrimmin@uwo.ca*](mailto:jcrimmin%40uwo%2eca)>
+<!--md-padding-ignore-end-->

@@ -299,3 +299,4 @@ Our thanks to Hanif Amin Beidokhti, Merve Boz, Damien Janos, Andreas Lammer, Mic
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/personen/adamson/index.html) <[*peter.adamson@lrz.uni-muenchen.de*](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>  
 Fedor Benevich <[*Fedor.Benevich@ed.ac.uk*](mailto:Fedor%2eBenevich%40ed%2eac%2euk)>
+<!--md-padding-ignore-end-->

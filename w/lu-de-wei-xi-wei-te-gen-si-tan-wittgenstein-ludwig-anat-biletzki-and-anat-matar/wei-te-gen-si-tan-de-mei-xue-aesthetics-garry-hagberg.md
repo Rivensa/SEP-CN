@@ -161,3 +161,4 @@
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 Garry Hagberg <[*hagberg@bard.edu*](mailto:hagberg%40bard%2eedu)>
+<!--md-padding-ignore-end-->

@@ -403,3 +403,4 @@ Following is a general bibliography listing histories of philosophy and referenc
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Corey Dyck <[*cdyck5@uwo.ca*](mailto:cdyck5%40uwo%2eca)>  
 Brigitte Sassen
+<!--md-padding-ignore-end-->

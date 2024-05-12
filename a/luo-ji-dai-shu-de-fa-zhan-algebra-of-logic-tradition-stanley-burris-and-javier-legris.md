@@ -278,3 +278,4 @@ a+b(a+b)+c(a′+b′)′+(a′+b)′=b+a=a+(b+c)=a.
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Stanley Burris](http://www.math.uwaterloo.ca/~snburris/)  
 Javier Legris <[*javier.legris@gmail.com*](mailto:javier%2elegris%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

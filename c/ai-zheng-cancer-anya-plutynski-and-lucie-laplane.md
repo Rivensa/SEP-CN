@@ -400,3 +400,4 @@ Dobzhansky（1973）写道：“除了在进化的光芒下，生物学中没有
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Anya Plutynski](https://philosophy.artsci.wustl.edu/people/anya-plutynski) <[*aplutyns@wustl.edu*](mailto:aplutyns%40wustl%2eedu)>\
 [Lucie Laplane](https://www.pantheonsorbonne.fr/page-perso/llaplane) <[*lucie.laplane@univ-paris1.fr*](mailto:lucie%2elaplane%40univ-paris1%2efr)>
+<!--md-padding-ignore-end-->

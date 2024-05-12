@@ -682,3 +682,4 @@ Hodgson（1967: 38）和其他人提出的一个更复杂的问题是，承诺�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Allen Habib <[*anhabib@ucalgary.ca*](mailto:anhabib%40ucalgary%2eca)>
+<!--md-padding-ignore-end-->

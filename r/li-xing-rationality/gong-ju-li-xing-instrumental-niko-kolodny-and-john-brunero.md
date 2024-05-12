@@ -715,3 +715,4 @@ The authors thank Justin Vlasits for help in preparing this entry.
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Niko Kolodny](http://sophos.berkeley.edu/kolodny) <[*kolodny@berkeley.edu*](mailto:kolodny%40berkeley%2eedu)>  
 [John Brunero](https://www.unl.edu/philosophy/john-brunero) <[*jbrunero2@unl.edu*](mailto:jbrunero2%40unl%2eedu)>
+<!--md-padding-ignore-end-->

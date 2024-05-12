@@ -383,3 +383,4 @@ Klein的Erlangen计划的认识论特征在解决射影几何中交比定义的�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Jeremy Gray  
 José Ferreirós <[*josef@us.es*](mailto:josef%40us%2ees)>
+<!--md-padding-ignore-end-->

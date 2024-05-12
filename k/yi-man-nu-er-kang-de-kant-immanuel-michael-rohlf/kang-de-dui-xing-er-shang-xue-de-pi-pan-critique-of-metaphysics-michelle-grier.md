@@ -292,3 +292,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Michelle Grier <[*mgrier@sandiego.edu*](mailto:mgrier%40sandiego%2eedu)>
+<!--md-padding-ignore-end-->

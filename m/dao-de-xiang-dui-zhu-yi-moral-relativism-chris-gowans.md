@@ -427,3 +427,4 @@ Foot（2002a 和 2002b；另请参见 Scanlon 1995 年和 1998 年：第 8 章�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Chris Gowans](http://www.fordham.edu/academics/programs_at_fordham_/philosophy/materials/christopher_w_gowans_69820.asp) <[*gowans@fordham.edu*](mailto:gowans%40fordham%2eedu)>
+<!--md-padding-ignore-end-->

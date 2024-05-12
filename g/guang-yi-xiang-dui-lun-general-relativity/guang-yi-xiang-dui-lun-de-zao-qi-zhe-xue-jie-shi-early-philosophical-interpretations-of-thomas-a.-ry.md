@@ -310,3 +310,4 @@ Gμν=kTμν，其中 Gμν≡Rμν−12gμνR
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Thomas A. Ryckman](https://philosophy.stanford.edu/people/thomas-ryckman) <[*tryckman@stanford.edu*](mailto:tryckman%40stanford%2eedu)>
+<!--md-padding-ignore-end-->

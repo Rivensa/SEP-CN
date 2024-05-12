@@ -342,3 +342,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Hylarie Kochiras](http://philpapers.org/profile/1980) <[*kochiras@gmail.com*](mailto:kochiras%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

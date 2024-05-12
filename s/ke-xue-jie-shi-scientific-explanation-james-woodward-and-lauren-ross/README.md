@@ -415,3 +415,4 @@ van Fraassen 的理论提出的最后一点是：在考虑实用主义理论时�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [James Woodward](https://www.hps.pitt.edu/people/james-woodward) <[*jfw@pitt.edu*](mailto:jfw%40pitt%2eedu)>  
 [Lauren Ross](https://www.lps.uci.edu/~rossl/) <[*rossl@uci.edu*](mailto:rossl%40uci%2eedu)>
+<!--md-padding-ignore-end-->

@@ -199,3 +199,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 David Leopold <[*david.leopold@politics.ox.ac.uk*](mailto:david%2eleopold%40politics%2eox%2eac%2euk)>
+<!--md-padding-ignore-end-->

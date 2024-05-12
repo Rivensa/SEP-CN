@@ -592,3 +592,4 @@ I thank Prof. Herbert A. Davidson (1932–2021), UCLA, for his thoroughly readin
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Josep Puig Montada](http://www.ucm.es/directorio?id=3237) <[*puigmont@ucm.es*](mailto:puigmont%40ucm%2ees)>
+<!--md-padding-ignore-end-->

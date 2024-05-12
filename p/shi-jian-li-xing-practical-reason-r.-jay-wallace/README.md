@@ -193,3 +193,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [R. Jay Wallace](http://philosophy.berkeley.edu/people/detail/21) <[*rjw@berkeley.edu*](mailto:rjw%40berkeley%2eedu)>
+<!--md-padding-ignore-end-->

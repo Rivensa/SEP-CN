@@ -579,3 +579,4 @@ Jordan-Young 使用了类似于前几节中描述的女性主义批判模式。�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Sharon Crasnow <[*sharon.crasnow@norcocollege.edu*](mailto:sharon%2ecrasnow%40norcocollege%2eedu)>
+<!--md-padding-ignore-end-->

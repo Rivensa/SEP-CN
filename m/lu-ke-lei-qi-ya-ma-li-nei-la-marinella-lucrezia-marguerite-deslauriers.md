@@ -282,3 +282,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Marguerite Deslauriers <[*marguerite.deslauriers@mcgill.ca*](mailto:marguerite%2edeslauriers%40mcgill%2eca)>
+<!--md-padding-ignore-end-->

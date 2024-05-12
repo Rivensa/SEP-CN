@@ -215,3 +215,4 @@ Nyāya思想家试图将业力原则与上述的自然的原子观念联系起�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Amita Chatterjee <[*chatterjeeamita@gmail.com*](mailto:chatterjeeamita%40gmail%2ecom)>
+<!--md-padding-ignore-end-->

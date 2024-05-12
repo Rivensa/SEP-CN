@@ -380,3 +380,4 @@ In expanding the article to a more comprehensive crosscultural treatment, I part
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Sylvia Berryman <[*sberrym@interchange.ubc.ca*](mailto:sberrym%40interchange%2eubc%2eca)>
+<!--md-padding-ignore-end-->

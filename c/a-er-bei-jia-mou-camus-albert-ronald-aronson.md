@@ -291,3 +291,4 @@ Reference marks are given for cited English translations.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Ronald Aronson](http://www.clas.wayne.edu/raronson/) <[*ac7159@wayne.edu*](mailto:ac7159%40wayne%2eedu)>
+<!--md-padding-ignore-end-->

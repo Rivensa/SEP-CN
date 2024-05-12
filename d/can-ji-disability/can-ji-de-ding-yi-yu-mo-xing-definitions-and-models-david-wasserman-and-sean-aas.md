@@ -337,3 +337,4 @@ Beaudry 承认，即使是开放式的方法也存在证据约束，但这些约
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 David Wasserman <[*dtwasserm@gmail.com*](mailto:dtwasserm%40gmail%2ecom)>  
 [Sean Aas](https://kennedyinstitute.georgetown.edu/people/sean-aas/) <[*sda46@georgetown.edu*](mailto:sda46%40georgetown%2eedu)>
+<!--md-padding-ignore-end-->

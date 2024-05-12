@@ -269,3 +269,4 @@ Historical political theorists are cited in a way that is accessible regardless 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Margaret Moore <[*margaret.moore@queensu.ca*](mailto:margaret%2emoore%40queensu%2eca)>
+<!--md-padding-ignore-end-->

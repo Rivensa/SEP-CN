@@ -533,3 +533,4 @@ The following links are to digitized photographic reproductions of early edition
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Tarek R. Dika](https://philosophy.utoronto.ca/directory/tarek-r-dika/) <[*tarek.dika@utoronto.ca*](mailto:tarek%2edika%40utoronto%2eca)>
+<!--md-padding-ignore-end-->

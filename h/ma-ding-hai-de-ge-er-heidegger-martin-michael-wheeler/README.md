@@ -530,3 +530,4 @@ A few passages in [section 2](https://plato.stanford.edu/entries/heidegger/#Bei
 
 [Copyright © 2011](https://plato.stanford.edu/info.html#c) by  
 Michael Wheeler
+<!--md-padding-ignore-end-->

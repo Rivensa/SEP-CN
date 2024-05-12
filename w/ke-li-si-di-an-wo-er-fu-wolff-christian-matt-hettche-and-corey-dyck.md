@@ -428,3 +428,4 @@ In the above entry, all translations are by the authors unless otherwise indicat
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Matt Hettche <[*mhettch@ncsu.edu*](mailto:mhettch%40ncsu%2eedu)>  
 Corey Dyck <[*cdyck5@uwo.ca*](mailto:cdyck5%40uwo%2eca)>
+<!--md-padding-ignore-end-->

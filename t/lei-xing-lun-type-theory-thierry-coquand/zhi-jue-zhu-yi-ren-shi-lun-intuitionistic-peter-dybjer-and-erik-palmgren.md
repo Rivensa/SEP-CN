@@ -657,3 +657,4 @@ Agda 是另一个基于直觉主义类型论的逻辑框架公式化的证明助
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Peter Dybjer](http://www.cse.chalmers.se/~peterd/) <[*peterd@chalmers.se*](mailto:peterd%40chalmers%2ese)>  
 [Erik Palmgren](http://staff.math.su.se/palmgren/)
+<!--md-padding-ignore-end-->

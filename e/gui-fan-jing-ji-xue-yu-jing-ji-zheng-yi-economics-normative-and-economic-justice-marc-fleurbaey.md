@@ -484,3 +484,4 @@ Thanks to Christian List and Thomas Pogge for their helpful comments.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Marc Fleurbaey](https://sites.google.com/site/marcfleurbaey/Home) <[*marc.fleurbaey@psemail.eu*](mailto:marc%2efleurbaey%40psemail%2eeu)>
+<!--md-padding-ignore-end-->

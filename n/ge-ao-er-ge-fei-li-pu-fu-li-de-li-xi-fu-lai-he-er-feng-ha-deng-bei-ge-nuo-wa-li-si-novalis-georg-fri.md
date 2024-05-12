@@ -225,3 +225,4 @@ Bildung 和哲学，作为自我责任的教育，与艺术领域密切相关。
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Kristin Gjesdal](https://sites.temple.edu/kristingjesdal/) <[*kgjesdal@temple.edu*](mailto:kgjesdal%40temple%2eedu)>
+<!--md-padding-ignore-end-->

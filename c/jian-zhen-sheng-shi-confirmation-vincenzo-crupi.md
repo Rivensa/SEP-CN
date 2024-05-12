@@ -737,3 +737,4 @@ I would like to thank Gustavo Cevolani, Paul Dicken, and Jan Sprenger for useful
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Vincenzo Crupi <[*vincenzo.crupi@unito.it*](mailto:vincenzo%2ecrupi%40unito%2eit)>
+<!--md-padding-ignore-end-->
