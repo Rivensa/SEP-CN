@@ -878,3 +878,4 @@ Additional suggestions are most welcome.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Angelika Kratzer](http://people.umass.edu/kratzer/) <[*kratzer@linguist.umass.edu*](mailto:kratzer%40linguist%2eumass%2eedu)>
+<!--md-padding-ignore-end-->

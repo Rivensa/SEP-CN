@@ -1,6 +1,5 @@
 # 引语 quotation (Herman Cappelen, Ernest Lepore, and Matthew McKeever)
 
-## 引语 quotation (Herman Cappelen, Ernest Lepore, and Matthew McKeever)
 
 *首次发表于2005年7月16日；实质性修订于2023年4月19日。*
 
@@ -1003,3 +1002,5 @@ The authors would like to thank Poppy Mankowitz and a reviewer for suggesting se
 Herman Cappelen <[*h.w.cappelen@ifikk.uio.no*](mailto:h%2ew%2ecappelen%40ifikk%2euio%2eno)>\
 [Ernest Lepore](http://ruccs.rutgers.edu/faculty/lepore.html)\
 Matthew McKeever <[*mipmckeever@gmail.com*](mailto:mipmckeever%40gmail%2ecom)>
+
+<!--md-padding-ignore-end-->

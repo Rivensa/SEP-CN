@@ -1,7 +1,5 @@
 # 反事实 counterfactual (W. Starr)
 
-## 反事实 counterfactual (W. Starr)
-
 *首次发表于 2019 年 1 月 18 日星期五*
 
 情态话语涉及事物可能存在的不同方式，例如可能是真实的，不是真实的但本可以是真实的，应该做的事情。本文关注反事实情态，即关注那些不是但本可以或本应该发生的事情。如果马丁·路德·金在 1958 年被刺死了会怎样（Byrne 2005: 1）？如果美洲从未被殖民会怎样？如果我把那个盒子放到这里，把这个放到那里会怎样？这些思维和言语方式已经成为哲学、语言学、心理学、人工智能、历史等许多相关领域广泛研究的对象。这些不同的调查都围绕着反事实情态在这些领域的基础问题中心展开。
@@ -1432,3 +1430,4 @@ b.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [W. Starr](http://wstarr.org/) <[*w.starr@cornell.edu*](mailto:w%2estarr%40cornell%2eedu)>
+<!--md-padding-ignore-end-->

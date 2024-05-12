@@ -229,3 +229,5 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Jonathan Kuyper](https://www.sv.uio.no/isv/english/people/aca/jonathwk/index.html) <[*jonathan.kuyper1@gmail.com*](mailto:jonathan%2ekuyper1%40gmail%2ecom)>
+
+<!--md-padding-ignore-end-->

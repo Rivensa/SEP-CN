@@ -1,6 +1,5 @@
 # 形式逻辑中的句子连接词 sentence connectives in formal logic (Lloyd Humberstone)
 
-## 形式逻辑中的句子连接词 sentence connectives in formal logic (Lloyd Humberstone)
 
 *首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 月 28 日星期二*
 
@@ -801,3 +800,4 @@ I am grateful to Thomas Hendrey for drawing my attention (in 2011) to an error i
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Lloyd Humberstone <[*lloyd.humberstone@arts.monash.edu.au*](mailto:lloyd%2ehumberstone%40arts%2emonash%2eedu%2eau)>
+<!--md-padding-ignore-end-->

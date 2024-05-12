@@ -1,6 +1,5 @@
 # 布拉德雷的伦理学 moral philosophy (Dina Babushkina and David Crossley)
 
-## 布拉德雷的伦理学 moral philosophy (Dina Babushkina and David Crossley)
 
 ## 弗朗西斯·赫伯特·布拉德雷的道德哲学
 
@@ -284,3 +283,5 @@ _道德理想_在布拉德雷的伦理学中是一个难以解释的术语，但
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Dina Babushkina <[*d.babushkina@utwente.nl*](mailto:d%2ebabushkina%40utwente%2enl)>\
 David Crossley
+
+<!--md-padding-ignore-end-->
