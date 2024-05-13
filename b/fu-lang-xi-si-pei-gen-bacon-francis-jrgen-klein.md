@@ -252,7 +252,7 @@
 
 ## 4. 科学方法：《伟大的恢复》的项目
 
-*伟大的复兴_是培根的主要作品，于 1620 年出版，标题为：*Franciscus de Verulamio Summi Angliae Cancellaris Instauratio magna*。这部伟大的作品仍然是一个片段，因为培根只能完成计划大纲的部分。该卷由一个_Prooemium_引入，其中对目的进行了一般性陈述，接着是一封致国王（詹姆斯一世）的_Dedication_和一篇_Preface*，该篇是对他一生工作的“方向、动机和意义”的总结（Sessions 1996, 71）。之后，培根印刷了_Instauratio_的计划，然后转向他的研究计划的策略，即_Novum Organum Scientiarum_。总的来说，1620 年的这本书构成了_Instauratio_的第二部分的第二部分，其中第一部分由_De Augmentis_和_The Advancement of Learning_的第一卷代表。当培根组织他的_Instauratio_时，他将其分为六个部分，这使得当代读者想起了上帝六天（创造）的工作，这已经被像吉约姆·杜·巴塔斯（*La Sepmaine, ou Création du Monde*，1579，由约书亚·西尔维斯特翻译，*Bartas His Devine Weekes & Workes*，1605）和乔瓦尼·皮科·德拉·米兰多拉（*Heptaplus*，1489）这样的作家所使用。
+*伟大的复兴_是培根的主要作品，于 1620 年出版，标题为：* Franciscus de Verulamio Summi Angliae Cancellaris Instauratio magna *。这部伟大的作品仍然是一个片段，因为培根只能完成计划大纲的部分。该卷由一个_Prooemium_引入，其中对目的进行了一般性陈述，接着是一封致国王（詹姆斯一世）的_Dedication_和一篇_Preface*，该篇是对他一生工作的“方向、动机和意义”的总结（Sessions 1996, 71）。之后，培根印刷了_Instauratio_的计划，然后转向他的研究计划的策略，即_Novum Organum Scientiarum_。总的来说，1620 年的这本书构成了_Instauratio_的第二部分的第二部分，其中第一部分由_De Augmentis_和_The Advancement of Learning_的第一卷代表。当培根组织他的_Instauratio_时，他将其分为六个部分，这使得当代读者想起了上帝六天（创造）的工作，这已经被像吉约姆·杜·巴塔斯（*La Sepmaine, ou Création du Monde*，1579，由约书亚·西尔维斯特翻译，*Bartas His Devine Weekes & Workes*，1605）和乔瓦尼·皮科·德拉·米兰多拉（*Heptaplus*，1489）这样的作家所使用。
 
 培根将自然视为一个迷宫，其运作不能仅仅通过“才智的卓越”和“偶然实验的重复”来解释：
 

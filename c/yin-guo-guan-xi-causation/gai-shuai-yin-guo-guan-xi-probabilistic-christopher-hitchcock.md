@@ -38,7 +38,7 @@
 
 在这个小节中，我们将回顾一些概率数学理论的基础知识，并介绍一些符号。已经熟悉概率数学的读者可能希望跳过这一部分。
 
-概率是一个函数，P，它分配介于零和一之间（包括零和一）的值。通常，函数的参数被视为集合，或者是形式语言中的命题。这些参数的正式术语是“事件”。我们将在这里使用适用于命题的符号，其中“∼”表示否定，“&”表示合取，“∨”表示析取。有时，当有一个很长的合取时，可以通过使用逗号而不是和号来缩写。概率函数的定义域具有_场_或_布尔代数_的结构。这意味着该定义域在补集和有限并或交（对于集合）的情况下是封闭的，或者在否定、合取和析取（对于命题）的情况下是封闭的。因此，如果_A_和_B_是 P 的定义域中的事件，那么∼A，A\&B 和 A∨B 也是。
+概率是一个函数，P，它分配介于零和一之间（包括零和一）的值。通常，函数的参数被视为集合，或者是形式语言中的命题。这些参数的正式术语是“事件”。我们将在这里使用适用于命题的符号，其中“∼”表示否定，“&”表示合取，“∨”表示析取。有时，当有一个很长的合取时，可以通过使用逗号而不是和号来缩写。概率函数的定义域具有_场_或_布尔代数_的结构。这意味着该定义域在补集和有限并或交（对于集合）的情况下是封闭的，或者在否定、合取和析取（对于命题）的情况下是封闭的。因此，如果_A_和_B_是 P 的定义域中的事件，那么 ∼A，A\&B 和 A∨B 也是。
 
 概率的一些标准属性如下：
 
@@ -87,7 +87,7 @@ P(X∣Y)=P(X)
 
 一个相关的区别是，一般因果关系涉及到各种可能性，而实际因果关系涉及到事件在特定情况下的实际发展。至少在实际因果关系的主张中，“原因”起到了成功动词的作用。主张“吉尔在 2000 年代大量吸烟导致她患上肺癌”意味着吉尔在 2000 年代大量吸烟，并且她患上了肺癌。
 
-在下面将要讨论的第[2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbRaisTheoCaus)节和第[3](https://plato.stanford.edu/entries/causation-probabilistic/#CausMode)节中主要涉及一般因果关系的理论，而第[4](https://plato.stanford.edu/entries/causation-probabilistic/#ActuCaus)节讨论了实际因果关系的理论。
+在下面将要讨论的第 [2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbRaisTheoCaus) 节和第 [3](https://plato.stanford.edu/entries/causation-probabilistic/#CausMode) 节中主要涉及一般因果关系的理论，而第 [4](https://plato.stanford.edu/entries/causation-probabilistic/#ActuCaus) 节讨论了实际因果关系的理论。
 
 ### 1.5 因果关系的关联物
 
@@ -101,17 +101,17 @@ P(X∣Y)=P(X)
 
 ### 1.6 进一步阅读
 
-Psillos 2009 提供了因果关系的规律性理论概述。Lewis 1973 包含了对规律性理论问题的简要但清晰有力的概述。[科学解释](https://plato.stanford.edu/entries/scientific-explanation/)的条目包括了对其中一些问题的讨论。
+Psillos 2009 提供了因果关系的规律性理论概述。Lewis 1973 包含了对规律性理论问题的简要但清晰有力的概述。[科学解释](https://plato.stanford.edu/entries/scientific-explanation/) 的条目包括了对其中一些问题的讨论。
 
-Hájek 和 Hitchcock 2016b 是一本针对哲学应用的概率论简介。Billingsley 1995 和 Feller 1968 是两本关于概率论的标准教材。[概率解释](https://plato.stanford.edu/entries/probability-interpret/)的条目包括了对概率论形式主义的简要介绍，并讨论了各种概率解释。Galavotti 2005 和 Gillies 2000 是关于哲学概率理论的良好调查。Hájek 和 Hitchcock 2016a 包括了涵盖主要概率解释的论文。
+Hájek 和 Hitchcock 2016b 是一本针对哲学应用的概率论简介。Billingsley 1995 和 Feller 1968 是两本关于概率论的标准教材。[概率解释](https://plato.stanford.edu/entries/probability-interpret/) 的条目包括了对概率论形式主义的简要介绍，并讨论了各种概率解释。Galavotti 2005 和 Gillies 2000 是关于哲学概率理论的良好调查。Hájek 和 Hitchcock 2016a 包括了涵盖主要概率解释的论文。
 
 Eells 1991 年的介绍很好地概述了一般因果和实际因果之间的区别。
 
-Bennett 1988 年对因果关系背景下的事实和事件进行了很好的讨论。Ehring 2009 年对因果关系的观点进行了调查。另请参阅有关[因果形而上学](https://plato.stanford.edu/entries/causation-metaphysics/)、[事件](https://plato.stanford.edu/entries/events/)、[事实](https://plato.stanford.edu/entries/facts/)和[属性](https://plato.stanford.edu/entries/properties/)的条目。
+Bennett 1988 年对因果关系背景下的事实和事件进行了很好的讨论。Ehring 2009 年对因果关系的观点进行了调查。另请参阅有关 [因果形而上学](https://plato.stanford.edu/entries/causation-metaphysics/)、[事件](https://plato.stanford.edu/entries/events/)、[事实](https://plato.stanford.edu/entries/facts/) 和 [属性](https://plato.stanford.edu/entries/properties/) 的条目。
 
 ## 2. 引发概率的因果理论
 
-本节讨论的理论都发展了一个基本思想，即原因会提高其效应的概率。这些理论是 20 世纪下半叶主要的因果理论之一。如今，它们在很大程度上被[第 3 节](https://plato.stanford.edu/entries/causation-probabilistic/#CausMode)中讨论的因果建模方法所取代。
+本节讨论的理论都发展了一个基本思想，即原因会提高其效应的概率。这些理论是 20 世纪下半叶主要的因果理论之一。如今，它们在很大程度上被 [第 3 节](https://plato.stanford.edu/entries/causation-probabilistic/#CausMode) 中讨论的因果建模方法所取代。
 
 ### 2.1 概率提升和条件概率
 
@@ -133,7 +133,7 @@ P(E∣C)>P(E∣∼C);
 
 *C* 是 *E* 的一个原因，只有当 P(E∣C)>P(E∣∼C) 时才成立。
 
-PR 在因果理论的最简单版本上具有一些优势（见上文[Section 1.1](https://plato.stanford.edu/entries/causation-probabilistic/#ProbForReguTheo)）。PR 与不完美的规律相容：即使_C_的实例并非总是跟随_E_的实例，*C_可能会提高_E_的概率。此外，PR 解决了相关性问题：如果_C_是_E_的原因，则_C_会影响_E_的概率。但就目前而言，PR 既未解决不对称问题，也未解决虚假相关性问题。PR 未解决不对称问题，因为概率提升是对称的：只有当 P(C∣E)>P(C∣∼E)时，P(E∣C)>P(E∣∼C)，因此单凭 PR 无法确定_C_是_E_的原因还是反过来。PR 在处理虚假相关性时也存在问题。如果_C_和_E_都是由第三因素_A_引起的，那么即使_C_不导致_E*，P(E∣C)>P(E∣∼C)也是可能的。这就是上文[Figure 1](https://plato.stanford.edu/entries/causation-probabilistic/#fig1)中展示的情况。在这里，_C_是气压计中水银下降，_E_是暴风雨的发生。因此我们会期望 P(E∣C)>P(E∣∼C)。在这种情况下，大气压被称为一个_混杂_因素。
+PR 在因果理论的最简单版本上具有一些优势（见上文 [Section 1.1](https://plato.stanford.edu/entries/causation-probabilistic/#ProbForReguTheo)）。PR 与不完美的规律相容：即使_C_的实例并非总是跟随_E_的实例，*C_可能会提高_E_的概率。此外，PR 解决了相关性问题：如果_C_是_E_的原因，则_C_会影响_E_的概率。但就目前而言，PR 既未解决不对称问题，也未解决虚假相关性问题。PR 未解决不对称问题，因为概率提升是对称的：只有当 P(C∣E)>P(C∣∼E)时，P(E∣C)>P(E∣∼C)，因此单凭 PR 无法确定_C_是_E_的原因还是反过来。PR 在处理虚假相关性时也存在问题。如果_C_和_E_都是由第三因素_A_引起的，那么即使_C_不导致_E*，P(E∣C)>P(E∣∼C)也是可能的。这就是上文 [Figure 1](https://plato.stanford.edu/entries/causation-probabilistic/#fig1) 中展示的情况。在这里，_C_是气压计中水银下降，_E_是暴风雨的发生。因此我们会期望 P(E∣C)>P(E∣∼C)。在这种情况下，大气压被称为一个_混杂_因素。
 
 ### 2.2 筛除干扰
 
@@ -149,7 +149,7 @@ Reichenbach 认识到存在两种因果结构，其中_C_通常会将_A_从_E_�
 
 在这种情况下，Reichenbach 说_C_在_A_和_E_之间有因果关系。我们可以说_C_是_A_和_E_之间的中间原因，或者_C_是_E_的直接原因，_A_是_E_的间接原因。例如，无保护性行为(*A*)仅通过导致 HIV 感染(*C*)来导致艾滋病(*E*)。那么我们会期望，在那些已经感染 HIV 的人群中，通过无保护性行为感染的人患艾滋病的可能性不会比其他感染途径的人更高。
 
-产生屏蔽效应的第二种情况是当_C_是_A_和_E_的共同原因时，比如在[图 1](https://plato.stanford.edu/entries/causation-probabilistic/#fig1)中所示的气压计示例。大气压下降(*C*)会导致气压计中水银下降(*A*)和暴风雨(*E*)。 (此符号与之前使用的符号略有不同。) 大气压将会屏蔽气压计读数与天气之间的关系：鉴于大气压下降，气压计读数对于暴风雨是否发生的概率没有影响。
+产生屏蔽效应的第二种情况是当_C_是_A_和_E_的共同原因时，比如在 [图 1](https://plato.stanford.edu/entries/causation-probabilistic/#fig1) 中所示的气压计示例。大气压下降(*C*)会导致气压计中水银下降(*A*)和暴风雨(*E*)。 (此符号与之前使用的符号略有不同。) 大气压将会屏蔽气压计读数与天气之间的关系：鉴于大气压下降，气压计读数对于暴风雨是否发生的概率没有影响。
 
 Reichenbach 使用屏蔽效应的装置来解决虚假相关的问题。在我们的示例中，虽然汞柱下降(*A*)会提高暴风雨(*E*)发生的概率，但在进一步根据大气压条件时，它不会提高暴风雨发生的概率。也就是说，如果_A_和_E_是虚假相关的，那么_A_将会被一个共同原因屏蔽。更具体地说，假设_Ct_和_Et′_ 是分别发生在时间_t_和_t′_ 的事件。
 
@@ -159,7 +159,7 @@ Reichenbach 使用屏蔽效应的装置来解决虚假相关的问题。在我�
 
 i.
 
-t\<t′
+t \< t′
 
 ii.
 
@@ -167,7 +167,7 @@ P(Et'∣Ct)>P(Et'∣∼Ct); 和
 
 iii.
 
-没有发生在时间 t"之前或与 t 同时的进一步事件_Bt"_ ，可以将 Et'从 Ct 中隔离开。
+没有发生在时间 t "之前或与 t 同时的进一步事件_Bt"_ ，可以将 Et'从 Ct 中隔离开。
 
 注意将 t″的限制为早于或与 Ct 发生同时。这是因为 Ct 和 Et′之间的因果中介通常会将 Ct 屏蔽在 Et′之外。在这种情况下，我们仍然希望说 Ct 是 Et′的原因，尽管是远因或间接原因。
 
@@ -181,29 +181,29 @@ Reichenbach（1956）制定了一个他称之为“共同原因原则”（CCP�
 
 但假设既不是_A_也不是_B_导致另一个。那么莱希巴赫认为会有一个共同的原因_C_导致_A_和_B_，满足以下条件：
 
-2. 0\<P(C)<1
+2. 0 \< P(C)<1
 3. P(A\&B∣C)=P(A∣C)×P(B∣C)
 4. P(A\&B∣∼C)=P(A∣∼C)×P(B∣∼C)
 5. P(A∣C)>P(A∣∼C)
 6. P(B∣C)>P(B∣∼C).
 
-当事件_A_、*B_和_C_满足这些条件时，它们被称为形成一个_合取分叉*。5 和 6 是由于_C_是_A_的原因，也是_B_的原因。条件 2 和 3 规定了_C_和∼C 从_A_到_B_的屏蔽。
+当事件_A_、*B_和_C_满足这些条件时，它们被称为形成一个_合取分叉*。5 和 6 是由于_C_是_A_的原因，也是_B_的原因。条件 2 和 3 规定了_C_和 ∼C 从_A_到_B_的屏蔽。
 
 条件 2 到 6 在数学上蕴含 1。Reichenbach 说，共同原因_解释_了_A_和_B_之间的相关性。其观点是，概率相关性如果不是一个事件导致另一个事件的结果，最终源自于确实由因果关系导致的概率相关性。
 
-Reichenbach 在上述[Section 2.2](https://plato.stanford.edu/entries/causation-probabilistic/#ScreOff)中讨论的因果关系定义，涉及时间顺序：它要求原因发生在其效应之前。但 Reichenbach 也认为，从原因到效应的方向可以用普遍的统计不对称性来确定。假设事件_A_和_B_相关，并且_C_满足上述条件 2-6，使得_ABC_形成一个连接叉。如果_C_发生在_A_和_B_之前，并且没有满足 2 到 6 的事件发生在_A_和_B_之后，那么_ACB_被称为形成一个_面向未来的_连接叉。类似地，如果有一个满足 2 到 6 的后续事件，但没有早期事件，我们有一个_面向过去的_连接叉。如果早期事件_C_和后续事件_D_都满足 2 到 6，那么_ACBD_形成一个_闭合叉。Reichenbach 的建议是，从原因到效应的方向是开放叉占主导地位的方向。在我们的世界中，有很多面向未来的叉，几乎没有或没有面向过去的叉。然而，我们将在下面的[section 3.6](https://plato.stanford.edu/entries/causation-probabilistic/#Inte)中看到，连接叉并不是确定因果方向的最佳结构。
+Reichenbach 在上述 [Section 2.2](https://plato.stanford.edu/entries/causation-probabilistic/#ScreOff) 中讨论的因果关系定义，涉及时间顺序：它要求原因发生在其效应之前。但 Reichenbach 也认为，从原因到效应的方向可以用普遍的统计不对称性来确定。假设事件_A_和_B_相关，并且_C_满足上述条件 2-6，使得_ABC_形成一个连接叉。如果_C_发生在_A_和_B_之前，并且没有满足 2 到 6 的事件发生在_A_和_B_之后，那么_ACB_被称为形成一个_面向未来的_连接叉。类似地，如果有一个满足 2 到 6 的后续事件，但没有早期事件，我们有一个_面向过去的_连接叉。如果早期事件_C_和后续事件_D_都满足 2 到 6，那么_ACBD_形成一个_闭合叉。Reichenbach 的建议是，从原因到效应的方向是开放叉占主导地位的方向。在我们的世界中，有很多面向未来的叉，几乎没有或没有面向过去的叉。然而，我们将在下面的 [section 3.6](https://plato.stanford.edu/entries/causation-probabilistic/#Inte) 中看到，连接叉并不是确定因果方向的最佳结构。
 
 ### 2.4 辛普森悖论和背景语境
 
-在 Reichenbach-Suppes 的因果定义中，不等式 P(Et′∣Ct)>P(Et′∣∼Ct) 是必要的，但不是充分的。这并不充分，因为在 Ct 和 Et′ 共享一个共同原因的情况下可能成立。不幸的是，共同原因也可能导致不需要这种不等式来说明因果关系的情况。例如，假设吸烟与居住在农村高度相关：那些居住在农村的人更有可能吸烟。吸烟是肺癌的原因，但假设城市污染是导致肺癌的更强大原因。那么吸烟者总体上患肺癌的可能性可能比不吸烟者低。让 *C* 代表吸烟， *B* 代表居住在农村， *E* 代表肺癌， P(E∣C)\<P(E∣∼C)。然而，请注意，如果我们对是否居住在农村或城市进行条件化，这种不等式就会被颠倒： P(E∣C\&B)>P(E∣∼C\&B)，以及 P(E∣C&∼B)>P(E∣∼C&∼B)。这种概率不等式的颠倒是“辛普森悖论”的实例。辛普森悖论对因果关系的概率理论造成的问题是由南希·卡特赖特（1979 年）和布莱恩·斯科姆斯（1980 年）几乎同时指出的。
+在 Reichenbach-Suppes 的因果定义中，不等式 P(Et′∣Ct)>P(Et′∣∼Ct) 是必要的，但不是充分的。这并不充分，因为在 Ct 和 Et′ 共享一个共同原因的情况下可能成立。不幸的是，共同原因也可能导致不需要这种不等式来说明因果关系的情况。例如，假设吸烟与居住在农村高度相关：那些居住在农村的人更有可能吸烟。吸烟是肺癌的原因，但假设城市污染是导致肺癌的更强大原因。那么吸烟者总体上患肺癌的可能性可能比不吸烟者低。让 *C* 代表吸烟， *B* 代表居住在农村， *E* 代表肺癌， P(E∣C)\< P(E∣∼C)。然而，请注意，如果我们对是否居住在农村或城市进行条件化，这种不等式就会被颠倒： P(E∣C\&B)>P(E∣∼C\&B)，以及 P(E∣C&∼B)>P(E∣∼C&∼B)。这种概率不等式的颠倒是“辛普森悖论”的实例。辛普森悖论对因果关系的概率理论造成的问题是由南希·卡特赖特（1979 年）和布莱恩·斯科姆斯（1980 年）几乎同时指出的。
 
-Cartwright 和 Skyrms 试图通过用因果必须在各种_背景语境_中提高其效应的概率来取代[Reich](https://plato.stanford.edu/entries/causation-probabilistic/#reich)的条件(ii)和(iii)来纠正这个问题。Cartwright 提出了以下定义：
+Cartwright 和 Skyrms 试图通过用因果必须在各种_背景语境_中提高其效应的概率来取代 [Reich](https://plato.stanford.edu/entries/causation-probabilistic/#reich) 的条件(ii)和(iii)来纠正这个问题。Cartwright 提出了以下定义：
 
 (Cart)
 
 *C* 导致 *E* 当且仅当对于每个背景上下文 *B*，P(E∣C\&B)>P(E∣∼C\&B)。
 
-Skyrms 提出了一个略微较弱的条件：一个原因必须至少在一个背景上下文中提高其效应的概率，并且在其他情况下不会降低其概率。背景上下文是一系列因素的连接。当这样一系列因素被条件限制时，这些因素被称为“被固定”。为了指定背景上下文，我们必须指定哪些因素被固定。在前面的例子中，我们看到当我们固定居住国家时，吸烟对肺癌的真正因果关系被揭示出来，无论是积极地（对 *B* 进行条件限制）还是消极地（对 ∼*B* 进行条件限制）。这表明在评估 *C* 对 *E* 的因果关系时，我们需要积极或消极地固定 *E* 的其他原因。然而，这个建议并不完全正确。让 *C* 和 *E* 分别表示吸烟和肺癌。假设 *D* 是一个因果中介，比如肺部存在焦油。如果 *C* 仅通过 *D* 导致 *E*，那么 *D* 将会将 *C* 与 *E* 隔离开来：在肺部存在（不存在）焦油的情况下，肺癌的概率不会受到吸烟方式的影响。因此，我们不希望固定任何 *E* 的原因，这些原因本身是由 *C* 引起的。让我们称所有是 *E* 的原因但不是由 *C* 引起的因素集合为 *E* 的 *独立* 原因集。因此，*C* 和 *E* 的背景上下文将是一个最大的连接，每个连接项要么是 *E* 的独立原因，要么是 *E* 的独立原因的否定。
+Skyrms 提出了一个略微较弱的条件：一个原因必须至少在一个背景上下文中提高其效应的概率，并且在其他情况下不会降低其概率。背景上下文是一系列因素的连接。当这样一系列因素被条件限制时，这些因素被称为“被固定”。为了指定背景上下文，我们必须指定哪些因素被固定。在前面的例子中，我们看到当我们固定居住国家时，吸烟对肺癌的真正因果关系被揭示出来，无论是积极地（对 *B* 进行条件限制）还是消极地（对 ∼ *B* 进行条件限制）。这表明在评估 *C* 对 *E* 的因果关系时，我们需要积极或消极地固定 *E* 的其他原因。然而，这个建议并不完全正确。让 *C* 和 *E* 分别表示吸烟和肺癌。假设 *D* 是一个因果中介，比如肺部存在焦油。如果 *C* 仅通过 *D* 导致 *E*，那么 *D* 将会将 *C* 与 *E* 隔离开来：在肺部存在（不存在）焦油的情况下，肺癌的概率不会受到吸烟方式的影响。因此，我们不希望固定任何 *E* 的原因，这些原因本身是由 *C* 引起的。让我们称所有是 *E* 的原因但不是由 *C* 引起的因素集合为 *E* 的 *独立* 原因集。因此，*C* 和 *E* 的背景上下文将是一个最大的连接，每个连接项要么是 *E* 的独立原因，要么是 *E* 的独立原因的否定。
 
 请注意，需要保持固定的因素的规范涉及因果关系，因此该理论不再提供对因果关系的还原分析。尽管如此，该理论对可能的因果关系施加了概率约束，即给定的概率关系集将与至少一些因果关系系统不相容。还要注意，我们已经删除了指代时间的下标。卡特赖特声称，在她的理论中，无需诉诸事件的时间顺序来区分原因和结果。这是因为通常不再成立的是，如果_C_在每个相关背景上下文_B_中提高了_E_的概率，那么_E_在每个背景上下文_B′_ 中提高_C_的概率。原因在于背景上下文的构建确保用于评估_C_对_E_的因果相关性的背景上下文与用于评估_E_对_C_的因果相关性的背景上下文不同。然而，戴维斯（1988 年）和伊尔斯（1991 年）都有力地主张，卡特赖特的观点有时仍会认定效应导致它们的原因。
 
@@ -215,11 +215,11 @@ Cartwright 将因果定义为在每个背景环境中增加其效应概率的因
 
 •
 
-如果且仅如果对于每个背景语境_B_，当且仅当 t\<t'且 P(Et'∣Ct\&B)>P(Et'∣∼Ct\&B)，Ct 是 Et′的_正因果_（或简称_因果_）。
+如果且仅如果对于每个背景语境_B_，当且仅当 t \< t'且 P(Et'∣Ct\&B)>P(Et'∣∼Ct\&B)，Ct 是 Et′的_正因果_（或简称_因果_）。
 
 •
 
-如果且仅如果对于每个背景上下文_B_，当且仅当 t\<t′且 P(Et′∣Ct\&B)\<P(Et′∣∼Ct\&B)时，Ct 是 Et′的_负因果_（或 Ct_阻止_Et′或 Ct_抑制_Et′）。
+如果且仅如果对于每个背景上下文_B_，当且仅当 t \< t′且 P(Et′∣Ct\&B)\< P(Et′∣∼Ct\&B)时，Ct 是 Et′的_负因果_（或 Ct_阻止_Et′或 Ct_抑制_Et′）。
 
 •
 
@@ -229,7 +229,7 @@ Cartwright 将因果定义为在每个背景环境中增加其效应概率的因
 
 如果且仅如果 t < t'，且 Ct 不是 Et' 的积极或消极原因，且 Ct 对 Et' 不是因果中性，那么 Ct 是 Et' 的混合原因（或相互作用原因）。
 
-Ct 对 Et′具有_因果关系_，当且仅当它是 Et′的正因、负因或混合因；即当且仅当 t\<t′且 Ct 对 Et′不是因果中性时。
+Ct 对 Et′具有_因果关系_，当且仅当它是 Et′的正因、负因或混合因；即当且仅当 t \< t′且 Ct 对 Et′不是因果中性时。
 
 显而易见的是，在构建_C_和_E_的背景背景时，应该固定不仅是独立于 C 的_E_的(正)原因，还应该固定_E_的负因和混合因；换句话说，应该固定所有对_E_具有因果关系的因素，除了_C_具有因果关系的因素。这表明，因果关系而不是正因果是最基本的形而上学概念。
 
@@ -239,9 +239,9 @@ Eells 声称一般的因果断言必须相对于一个人口进行。一个非�
 
 ### 2.6 上下文一致性
 
-根据[Cart](https://plato.stanford.edu/entries/causation-probabilistic/#exCart)和[Eells](https://plato.stanford.edu/entries/causation-probabilistic/#exEells)的观点，一个原因必须在_每个_背景环境中提高其效应的概率。这被称为_上下文一致性_的要求。Dupré（1984）提出了对上下文一致性要求的以下反例。假设存在一种非常罕见的基因，具有以下效应：拥有该基因的人在吸烟时患肺癌的几率_降低_。在这种情况下，会有一个背景环境，吸烟降低患肺癌的概率：因此根据上下文一致性的要求，吸烟不会是导致肺癌的原因。尽管如此，发现这样一种基因似乎不太可能导致我们放弃吸烟导致肺癌的说法。
+根据 [Cart](https://plato.stanford.edu/entries/causation-probabilistic/#exCart) 和 [Eells](https://plato.stanford.edu/entries/causation-probabilistic/#exEells) 的观点，一个原因必须在_每个_背景环境中提高其效应的概率。这被称为_上下文一致性_的要求。Dupré（1984）提出了对上下文一致性要求的以下反例。假设存在一种非常罕见的基因，具有以下效应：拥有该基因的人在吸烟时患肺癌的几率_降低_。在这种情况下，会有一个背景环境，吸烟降低患肺癌的概率：因此根据上下文一致性的要求，吸烟不会是导致肺癌的原因。尽管如此，发现这样一种基因似乎不太可能导致我们放弃吸烟导致肺癌的说法。
 
-Dupré建议，我们应该认为_C_是_E_的一个原因，如果它提高了_E_在“公平样本”中的概率——即代表整个人口的样本。从数学上讲，这相当于要求：
+Dupré 建议，我们应该认为_C_是_E_的一个原因，如果它提高了_E_在“公平样本”中的概率——即代表整个人口的样本。从数学上讲，这相当于要求：
 
 *C* 导致 *E* 当且仅当
 
@@ -249,7 +249,7 @@ Dupré建议，我们应该认为_C_是_E_的一个原因，如果它提高了_E
 
 其中 *B* 可取相关背景语境。这等同于要求 *C* 必须在背景语境的 *加权平均* 中提高 *E* 的概率，其中每个背景语境由 P(B) 的乘积和绝对值加权。
 
-Dupré的描述无疑更接近于捕捉我们对因果语言的日常使用。实际上，在[Dupré](https://plato.stanford.edu/entries/causation-probabilistic/#exDupre)的不等式是随机试验中所寻找的。如果随机确定人口中哪些成员接受治疗(*C*)，哪些不接受(∼C)，那么背景条件_B_的分布应该在两组中相同，并且应该反映这些条件在人口中的频率。因此，我们期望在治疗组中_E_的频率更高，只有在 Dupré的不等式成立时。
+Dupré 的描述无疑更接近于捕捉我们对因果语言的日常使用。实际上，在 [Dupré](https://plato.stanford.edu/entries/causation-probabilistic/#exDupre) 的不等式是随机试验中所寻找的。如果随机确定人口中哪些成员接受治疗(*C*)，哪些不接受(∼C)，那么背景条件_B_的分布应该在两组中相同，并且应该反映这些条件在人口中的频率。因此，我们期望在治疗组中_E_的频率更高，只有在 Dupré 的不等式成立时。
 
 另一方面，Eells 的以人口为基础的表述使我们能够提出更精确的因果断言：在整个人口中，吸烟是肺癌的混合原因；在缺乏保护基因的个体子群中，吸烟是肺癌的正因；在拥有该基因的个体子群中，吸烟是肺癌的负因。
 
@@ -259,7 +259,7 @@ Dupré的描述无疑更接近于捕捉我们对因果语言的日常使用。�
 
 本节描述的程序在阐明因果关系和概率之间的关系方面做出了很大贡献。特别是，它帮助我们更好地理解因果结构如何导致概率关系的筛选。然而，尽管该程序具有数学框架，并与统计学和实验方法学有接触点，但该程序并未产生任何新的计算工具，也未提出任何检测因果关系的新方法。因此，该程序在很大程度上已被下一节中描述的因果建模工具所取代。
 
-本节调查的主要作品包括 Reichenbach 1956，Suppes 1970，Cartwright 1979，Skyrms 1980 和 Eells 1991。Williamson 2009 和 Hitchcock 2016 是另外两部调查，涵盖了本节讨论的许多主题。有关[Hans Reichenbach](https://plato.stanford.edu/entries/reichenbach/)和[Reichenbach 的共同原因原则](https://plato.stanford.edu/entries/physics-Rpcc/)的条目包括对 Reichenbach 的程序以及他的共同原因原则状况的讨论。Salmon（1984）包含了对连词叉的广泛讨论。有关[Simpson 悖论](https://plato.stanford.edu/entries/paradox-simpson/)的条目进一步讨论了[第 2.4 节](https://plato.stanford.edu/entries/causation-probabilistic/#SimpParaBackCont)中提出的一些问题。
+本节调查的主要作品包括 Reichenbach 1956，Suppes 1970，Cartwright 1979，Skyrms 1980 和 Eells 1991。Williamson 2009 和 Hitchcock 2016 是另外两部调查，涵盖了本节讨论的许多主题。有关 [Hans Reichenbach](https://plato.stanford.edu/entries/reichenbach/) 和 [Reichenbach 的共同原因原则](https://plato.stanford.edu/entries/physics-Rpcc/) 的条目包括对 Reichenbach 的程序以及他的共同原因原则状况的讨论。Salmon（1984）包含了对连词叉的广泛讨论。有关 [Simpson 悖论](https://plato.stanford.edu/entries/paradox-simpson/) 的条目进一步讨论了 [第 2.4 节](https://plato.stanford.edu/entries/causation-probabilistic/#SimpParaBackCont) 中提出的一些问题。
 
 ## 3. 因果建模
 
@@ -277,11 +277,11 @@ Dupré的描述无疑更接近于捕捉我们对因果语言的日常使用。�
 
 图 3
 
-在有向图中，一条_路径_是一系列不重复的箭头，它们的端点相同。例如，从_X_到_Z_有一条路径，我们可以写成 X←T→Y→Z。一个_有向路径_是一条所有箭头都通过尖端对尾端对齐的路径；例如，有一条有向路径 S→T→Y→Z。如果没有从一个变量指向自身的有向路径，那么有向图是_无环_的，因此是一个 DAG。[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中的图是一个 DAG。
+在有向图中，一条_路径_是一系列不重复的箭头，它们的端点相同。例如，从_X_到_Z_有一条路径，我们可以写成 X←T→Y→Z。一个_有向路径_是一条所有箭头都通过尖端对尾端对齐的路径；例如，有一条有向路径 S→T→Y→Z。如果没有从一个变量指向自身的有向路径，那么有向图是_无环_的，因此是一个 DAG。[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3) 中的图是一个 DAG。
 
-图中的关系通常用家族关系的语言来描述。变量_X_是_Y_的_父节点_，只要有一条从_X_指向_Y_的箭头。PA(Y)表示_Y_的所有父节点的集合。在[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中，PA(Y)={T,W}。*X_是_Y_的_祖先*（*Y_是_X_的_后代*），只要有一条从_X_指向_Y_的有向路径。然而，为了方便起见，我们会略微偏离家族类比，并定义‘后代’，使得每个变量也是其自身的后代。DE(X)表示_X_的所有后代的集合。在[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中，DE(T)={T,X,Y,Z}。
+图中的关系通常用家族关系的语言来描述。变量_X_是_Y_的_父节点_，只要有一条从_X_指向_Y_的箭头。PA(Y)表示_Y_的所有父节点的集合。在 [图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3) 中，PA(Y)={T,W}。*X_是_Y_的_祖先*（*Y_是_X_的_后代*），只要有一条从_X_指向_Y_的有向路径。然而，为了方便起见，我们会略微偏离家族类比，并定义‘后代’，使得每个变量也是其自身的后代。DE(X)表示_X_的所有后代的集合。在 [图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3) 中，DE(T)={T,X,Y,Z}。
 
-在 DAG 中，从_Y_指向_Z_的箭头表示_Y_是_Z_的直接原因。大致上，这意味着_Y_的值对_Z_的值产生了某种因果关系，并且_Y_通过一些过程影响_Z_，而这些过程不受 V 中任何其他变量的影响。直接性是相对于一个变量集合而言的。我们将称在 DAG 中表示的直接因果关系系统（例如[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)）为变量集合 V 上的_因果结构_。
+在 DAG 中，从_Y_指向_Z_的箭头表示_Y_是_Z_的直接原因。大致上，这意味着_Y_的值对_Z_的值产生了某种因果关系，并且_Y_通过一些过程影响_Z_，而这些过程不受 V 中任何其他变量的影响。直接性是相对于一个变量集合而言的。我们将称在 DAG 中表示的直接因果关系系统（例如 [图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)）为变量集合 V 上的_因果结构_。
 
 我们将考虑的第二种图是_无环有向混合图_（ADMG）。ADMG 将包含双头箭头和单头箭头。双头箭头代表_潜在_的共同原因。变量_X_和_Y_的潜在共同原因是未包含在变量集合 V 中的共同原因。例如，假设_X_和_Y_共享一个共同原因_L_（图 4(a)）。在变量集合 V={X,Y}上的 ADMG 看起来像图 4(b)。
 
@@ -293,11 +293,11 @@ Dupré的描述无疑更接近于捕捉我们对因果语言的日常使用。�
 
 Figure 4
 
-我们只需要以这种方式表示缺失的共同原因，当它们是_最接近_的共同原因时。也就是说，当图中的 V 应该在_X_和_Y_之间包含一个双头箭头时，存在一个变量_L_从 V 中省略，如果_L_被添加到 V 中，它将是_X_和_Y_的_直接原因_。双头箭头不会产生“系谱”关系：在[图 4(b)](https://plato.stanford.edu/entries/causation-probabilistic/#fig4b)中，_X_不是_Y_的父母、祖先或后代。
+我们只需要以这种方式表示缺失的共同原因，当它们是_最接近_的共同原因时。也就是说，当图中的 V 应该在_X_和_Y_之间包含一个双头箭头时，存在一个变量_L_从 V 中省略，如果_L_被添加到 V 中，它将是_X_和_Y_的_直接原因_。双头箭头不会产生“系谱”关系：在 [图 4(b)](https://plato.stanford.edu/entries/causation-probabilistic/#fig4b) 中，_X_不是_Y_的父母、祖先或后代。
 
-在 ADMG 中，我们扩展了_路径_的定义，以包括双头箭头。因此，在[图 4(b)](https://plato.stanford.edu/entries/causation-probabilistic/#fig4b)中显示的 ADMG 中，X↔Y 是一条路径。_有向路径_保留相同的含义，有向路径不能包含双头箭头。ADMG 不能包括从一个变量到其自身的有向路径。
+在 ADMG 中，我们扩展了_路径_的定义，以包括双头箭头。因此，在 [图 4(b)](https://plato.stanford.edu/entries/causation-probabilistic/#fig4b) 中显示的 ADMG 中，X↔Y 是一条路径。_有向路径_保留相同的含义，有向路径不能包含双头箭头。ADMG 不能包括从一个变量到其自身的有向路径。
 
-我们将采纳这样的约定，即有向无环图（DAGs）和潜在有向无环图（ADMGs）都代表着直接因果关系和潜在共同原因的存在和不存在。例如，[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中的 DAG 表示_T_是_Y_的直接原因，_T_不是_Z_的直接原因，并且没有任何变量的潜在共同原因。
+我们将采纳这样的约定，即有向无环图（DAGs）和潜在有向无环图（ADMGs）都代表着直接因果关系和潜在共同原因的存在和不存在。例如，[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3) 中的 DAG 表示_T_是_Y_的直接原因，_T_不是_Z_的直接原因，并且没有任何变量的潜在共同原因。
 
 ### 3.2 识别问题
 
@@ -336,7 +336,7 @@ MCScreening\_off 表示，变量 *X* 的父母将 *X* 从除 *X* 的后代之外
 
 MCFactorization 告诉我们，一旦我们知道每个变量在已知其父母的条件概率分布，P(Xi∣PA(Xi))，我们就可以计算所有变量的完整联合分布。这捕捉了莱希巴赫的想法，即不作为因果关系的变量之间的概率关系仍然源自因果关系之间的概率关系。
 
-MC_d_-separation 使用了 Pearl（1988）引入的_d_-separation 的图形概念。设 X，Y∈V，Z⊆V∖{X,Y}。如上所述，从 *X* 到 *Y* 的路径是一系列变量 ⟨X=X1,…,Xk=Y⟩，使得对于每个 Xi，Xi+1，图 G 中要么有从 Xi 到 Xi+1 的箭头，要么有从 Xi+1 到 Xi 的箭头。路径上的变量 Xi，1\<i\<k，如果存在从 Xi−1 到 Xi 和从 Xi+1 到 Xi 的箭头，则称为路径上的 *collider*。也就是说，Xi 在路径上是一个 collider，当且仅当路径中有两个箭头汇聚在 Xi 上。Z *d*-separates *X* 和 *Y*，当且仅当从 *X* 到 *Y* 的每条路径 ⟨X=X1,…,Xk=Y⟩ 都包含至少一个变量 Xi，使得要么：(i) Xi 是一个 collider，并且 Xi 的后代（包括 Xi 本身）都不在 Z 中；或者 (ii) Xi 不是一个 collider，并且 Xi 在 Z 中。MC_d_-separation 表明，*d*-separation 对于条件独立性是充分的。
+MC_d_-separation 使用了 Pearl（1988）引入的_d_-separation 的图形概念。设 X，Y∈V，Z⊆V∖{X,Y}。如上所述，从 *X* 到 *Y* 的路径是一系列变量 ⟨X=X1,…,Xk=Y⟩，使得对于每个 Xi，Xi+1，图 G 中要么有从 Xi 到 Xi+1 的箭头，要么有从 Xi+1 到 Xi 的箭头。路径上的变量 Xi，1 \< i \< k，如果存在从 Xi−1 到 Xi 和从 Xi+1 到 Xi 的箭头，则称为路径上的 *collider*。也就是说，Xi 在路径上是一个 collider，当且仅当路径中有两个箭头汇聚在 Xi 上。Z *d*-separates *X* 和 *Y*，当且仅当从 *X* 到 *Y* 的每条路径 ⟨X=X1,…,Xk=Y⟩ 都包含至少一个变量 Xi，使得要么：(i) Xi 是一个 collider，并且 Xi 的后代（包括 Xi 本身）都不在 Z 中；或者 (ii) Xi 不是一个 collider，并且 Xi 在 Z 中。MC_d_-separation 表明，*d*-separation 对于条件独立性是充分的。
 
 请注意，MC 提供了变量在给定其他变量条件下概率独立的充分条件，但没有必要条件。马尔可夫条件包含了许多与 Reichenbach 的共同原因原则相同的隔离关系，如上文 [Section 2.3](https://plato.stanford.edu/entries/causation-probabilistic/#CommCausPrin) 中所讨论的。以下是一些例子：
 
@@ -364,7 +364,7 @@ MC 不应该对任意变量集合 V 成立，即使图 G 准确表示这些变�
 
 图 7
 
-*Y* 是图中显示的 *Z* 的唯一父节点，如果我们尝试应用 MCScreening\off，它告诉我们 *Y* 应该将 *X* 屏蔽掉 *Z*。然而，我们期望 *X* 和 *Z* 在给定 *Y* 的条件下也会相关，这是由于潜在的共同原因。问题在于图中缺少 *Z* 的一个相关父节点，即被省略的共同原因。然而，假设概率分布是这样的，即如果潜在原因 *L* 被添加，那么在扩展的变量集上的概率分布将满足相对于结果 DAG 的 MC。然后，结果表明概率分布仍将相对于[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)的 ADMG 满足 MC_d\-分离。这要求我们扩展_d\-分离的定义，以包括具有双头箭头的路径。例如，*Z* 是路径 Y→Z↔X 上的碰撞器（因为 *Z* 有两个箭头指向它），但 *X* 不是路径 Y←X↔Z 上的碰撞器。因此，我们将说概率分布 P 相对于 ADMG 满足马尔可夫条件，只要它满足 MC_d\-分离。
+*Y* 是图中显示的 *Z* 的唯一父节点，如果我们尝试应用 MCScreening\off，它告诉我们 *Y* 应该将 *X* 屏蔽掉 *Z*。然而，我们期望 *X* 和 *Z* 在给定 *Y* 的条件下也会相关，这是由于潜在的共同原因。问题在于图中缺少 *Z* 的一个相关父节点，即被省略的共同原因。然而，假设概率分布是这样的，即如果潜在原因 *L* 被添加，那么在扩展的变量集上的概率分布将满足相对于结果 DAG 的 MC。然后，结果表明概率分布仍将相对于 [图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8) 的 ADMG 满足 MC_d\-分离。这要求我们扩展_d\-分离的定义，以包括具有双头箭头的路径。例如，*Z* 是路径 Y→Z↔X 上的碰撞器（因为 *Z* 有两个箭头指向它），但 *X* 不是路径 Y←X↔Z 上的碰撞器。因此，我们将说概率分布 P 相对于 ADMG 满足马尔可夫条件，只要它满足 MC_d\-分离。
 
 SGS 2000 和 Pearl 2009 都包含了一个被称为_Causal Markov Condition_（CMC）的原则性陈述，但它们的含义不同。在 Pearl 的阐述中，CMC 只是一个数学定理的陈述：Pearl 和 Verma（1991）证明，如果 V 中的每个变量都是其父变量的确定性乘积，再加上一个误差项，并且这些误差在概率上彼此独立，那么 V 上的概率分布将满足相对于 DAG G 的 MC。Pearl 以以下方式解释这一结果：宏观系统是确定性的。然而，在实践中，我们从未能够接触到影响宏观系统的所有因果相关变量。但是，如果我们在模型中包含足够多的变量，使得被排除的变量在概率上彼此独立，那么我们的模型将满足 MC，并且我们将拥有一套强大的分析工具来研究系统。因此，MC 表征了我们构建了完整系统的有用近似的一个点。
 
@@ -385,7 +385,7 @@ MC 陈述了条件概率独立的充分条件，但不是必要条件。因此�
 
 P(Y=y∣X=x\&Z=z)≠P(Y=y∣X=x′\&Z=z)。
 
-(ii) *忠实性条件*。忠实性条件表示在 V 中的变量之间存在的所有（有条件和无条件的）概率独立性都被 MC 所_要求_。例如，假设 V={X,Y,Z}。还假设_X_和_Y_在彼此之间无条件独立，但在_Z_的条件下是相关的。（另外两对变量是相关的，无论在条件下还是无条件下。）在[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)中显示的图表不满足这个分布的忠实性条件（口语上说，图表与分布不忠实）。当应用于[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)中的图表时，MC 并不意味着_X_和_Y_的独立性。相比之下，上面显示的[图 6](https://plato.stanford.edu/entries/causation-probabilistic/#fig6)中的图表对所描述的分布是忠实的。请注意，[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)在分布方面满足最小性条件；没有子图满足所描述的分布的 MC。事实上，忠实性条件比最小性条件严格。
+(ii) *忠实性条件*。忠实性条件表示在 V 中的变量之间存在的所有（有条件和无条件的）概率独立性都被 MC 所_要求_。例如，假设 V={X,Y,Z}。还假设_X_和_Y_在彼此之间无条件独立，但在_Z_的条件下是相关的。（另外两对变量是相关的，无论在条件下还是无条件下。）在 [图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8) 中显示的图表不满足这个分布的忠实性条件（口语上说，图表与分布不忠实）。当应用于 [图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8) 中的图表时，MC 并不意味着_X_和_Y_的独立性。相比之下，上面显示的 [图 6](https://plato.stanford.edu/entries/causation-probabilistic/#fig6) 中的图表对所描述的分布是忠实的。请注意，[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8) 在分布方面满足最小性条件；没有子图满足所描述的分布的 MC。事实上，忠实性条件比最小性条件严格。
 
 ![一个带有 X 指向 Z 和 Y 以及 Z 指向 Y 的三个字母的图表](https://plato.stanford.edu/entries/causation-probabilistic/figure8.svg)
 
@@ -393,7 +393,7 @@ P(Y=y∣X=x\&Z=z)≠P(Y=y∣X=x′\&Z=z)。
 
 忠实条件意味着一个变量对另一个变量的因果影响沿着多个因果路径不会“抵消”。在图 8 中，*X_通过两条不同的有向路径影响_Y*。如果一条路径的影响恰好抵消了另一条路径上的影响，那么_X_和_Y_将在概率上独立。忠实条件禁止这种精确的抵消。这种“无法取消”的条件似乎不太可能作为因果与概率之间联系的形而上或概念约束。例如，如果一个基因编码生产特定蛋白质，并抑制另一个编码相同蛋白质的基因，第一个基因的作用将独立于蛋白质的存在。Cartwright（2007 年：第 6 章）和 Andersen（2103 年）认为，违反忠实性是普遍存在的。
 
-信实条件是一种方法论原则，而不是一种形而上学原则。在{X，Y，Z}上给定一个分布，其中_X_和_Y_是独立的，我们应该推断因果结构是[图 6](https://plato.stanford.edu/entries/causation-probabilistic/#fig6)中描述的，而不是[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)。这并不是因为[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)被分布明确排除，而是因为假设一个暗示_X_和_Y_独立性的因果结构比假设一个仅与独立性一致的因果结构更可取。
+信实条件是一种方法论原则，而不是一种形而上学原则。在{X，Y，Z}上给定一个分布，其中_X_和_Y_是独立的，我们应该推断因果结构是 [图 6](https://plato.stanford.edu/entries/causation-probabilistic/#fig6) 中描述的，而不是 [图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)。这并不是因为 [图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8) 被分布明确排除，而是因为假设一个暗示_X_和_Y_独立性的因果结构比假设一个仅与独立性一致的因果结构更可取。
 
 ### 3.5 因果结构的可识别性
 
@@ -412,7 +412,7 @@ Pearl（1988 年：第 3 章）证明了以下定理：
 
 然后就有可能根据 P 来唯一确定 G。
 
-在许多方面，这个结果成功地执行了上述[第 2 节](https://plato.stanford.edu/entries/causation-probabilistic/#ProbRaisTheoCaus)中描述的项目类型。也就是说，通过对时间索引和概率与因果关系之间的实质性假设进行相同类型的假设，它建立了使用概率来确定因果结构的可能性。
+在许多方面，这个结果成功地执行了上述 [第 2 节](https://plato.stanford.edu/entries/causation-probabilistic/#ProbRaisTheoCaus) 中描述的项目类型。也就是说，通过对时间索引和概率与因果关系之间的实质性假设进行相同类型的假设，它建立了使用概率来确定因果结构的可能性。
 
 如果我们没有关于时间顺序的信息，或者其他限制变量 V 中可能的因果结构的实质性假设，那么仅凭概率就不总是可能从中识别因果结构。一般来说，给定变量 V 上的概率分布 P，只能识别一个_马尔可夫等价类_的因果结构。这将是 V 上的所有 DAG 的集合，这些 DAG（连同 MC 一起）暗示了 P 中包含的所有条件独立关系。*PC 算法*（SGS 2000: 84–85），以其两位创作者（_P_eter Spirtes 和_C_lark Glymour）命名，是一种生成给定概率分布的马尔可夫等价类的算法之一。
 
@@ -456,7 +456,7 @@ X↔Y↔Z
 
 条件概率，如 P(Y=y∣X=x) 给出了当观察到 *X* 取值为 *x* 时，*Y* 取值为 *y* 的概率。然而，我们通常对于预测当我们对 *X* 设置为特定值 *x* 时，*Y* 的取值感兴趣。Pearl 将 P(Y=y∣do(X=x)) 用于描述这种概率。观察和干预之间有什么区别？当我们仅观察一个变量的取值时，我们是在了解该变量在正常情况下的因果模型中的取值。关于变量取值的信息也会为我们提供有关其原因以及这些原因的其他影响的信息。然而，当我们进行干预时，我们覆盖了正常的因果结构，强制一个变量取一个值，如果系统被单独留下，它可能不会取到这个值。变量的取值完全由我们的干预决定，其他变量的因果影响完全被覆盖。从图形上看，我们可以通过消除指向被干预变量的箭头来表示这种干预的效果。这种干预有时被描述为“打破”那些箭头。
 
-一个因果模型可以用来预测这种干预的效果。假设我们有一个因果模型，其中概率分布 P 满足对于变量集 V={X1,X2,…,Xn}上的因果 DAG G 的 MC。对于思考干预最有用的 MC 版本是 MCFactorization（见[Section 3.3](https://plato.stanford.edu/entries/causation-probabilistic/#MarkCond)），它告诉我们：
+一个因果模型可以用来预测这种干预的效果。假设我们有一个因果模型，其中概率分布 P 满足对于变量集 V={X1,X2,…,Xn}上的因果 DAG G 的 MC。对于思考干预最有用的 MC 版本是 MCFactorization（见 [Section 3.3](https://plato.stanford.edu/entries/causation-probabilistic/#MarkCond)），它告诉我们：
 
 P(X1,X2,…,Xn)=∏iP(Xi∣PA(Xi))
 
@@ -472,17 +472,17 @@ P′(X1,X2,…,Xn)=P′(Xk)×∏i≠kP(Xi∣PA(Xi)),
 
 因果建模是一个蓬勃发展的研究领域。本条目在很大程度上忽略了关于计算方法的工作，以及这里讨论的工具的应用。相反，重点放在了因果建模最近项目的概念基础上，特别关注因果与概率之间的联系。它还专注于根据概率“原则上”学习有关因果关系的内容，同时忽略了基于有限数据样本进行因果推断的实际问题（这些问题必然偏离真实概率）。
 
-该因果模型条目详细介绍了本节所有内容。本节中调查的最重要作品是 Pearl 2009 和 Spirtes, Glymour, & Scheines 2000。Pearl 2010 是对 Pearl 计划的简要概述，而 Pearl 等人 2016 年的概述则更为详尽。后者尤其假定了相对较少的技术背景。Scheines 1997 和 Glymour & Cooper 1999 的介绍是对 SGS 计划的易懂介绍。Neapolitan 2004 是一本教科书，涵盖了贝叶斯网络在因果和非因果背景下的内容。Neapolitan & Jiang 2016 是这一主题的简要概述。Hausman 1999，Glymour 2009，Hitchcock 2009 和 Eberhardt 2017 是简要概述，涵盖了本节提出的一些主题。有关[因果和可操纵性](https://plato.stanford.edu/entries/causation-mani/)的条目包含了对干预的广泛讨论，以及对因果模型的一些讨论。
+该因果模型条目详细介绍了本节所有内容。本节中调查的最重要作品是 Pearl 2009 和 Spirtes, Glymour, & Scheines 2000。Pearl 2010 是对 Pearl 计划的简要概述，而 Pearl 等人 2016 年的概述则更为详尽。后者尤其假定了相对较少的技术背景。Scheines 1997 和 Glymour & Cooper 1999 的介绍是对 SGS 计划的易懂介绍。Neapolitan 2004 是一本教科书，涵盖了贝叶斯网络在因果和非因果背景下的内容。Neapolitan & Jiang 2016 是这一主题的简要概述。Hausman 1999，Glymour 2009，Hitchcock 2009 和 Eberhardt 2017 是简要概述，涵盖了本节提出的一些主题。有关 [因果和可操纵性](https://plato.stanford.edu/entries/causation-mani/) 的条目包含了对干预的广泛讨论，以及对因果模型的一些讨论。
 
 ## 4. 实际因果
 
-许多哲学家和法理学家对_实际因果关系_感兴趣。这涉及根据事件实际发生的方式来确定事件的因果责任。例如，假设比利和苏茜各自向一个瓶子扔石头，每个人都有一定的命中和打破瓶子的概率。事实上，苏茜的石头击中了瓶子，而比利的没有。根据实际发生的情况，我们会说苏茜的投掷导致了瓶子破裂，而比利的没有。尽管如此，比利的投掷增加了瓶子破裂的概率，并且根据第[2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbRaisTheoCaus)和第[3](https://plato.stanford.edu/entries/causation-probabilistic/#CausMode)节描述的理论，它将被确定为一个原因。比利的投掷有导致瓶子破裂的倾向；它是瓶子破裂的潜在原因；它是通常导致破裂的事物；但它实际上并没有导致瓶子破裂。
+许多哲学家和法理学家对_实际因果关系_感兴趣。这涉及根据事件实际发生的方式来确定事件的因果责任。例如，假设比利和苏茜各自向一个瓶子扔石头，每个人都有一定的命中和打破瓶子的概率。事实上，苏茜的石头击中了瓶子，而比利的没有。根据实际发生的情况，我们会说苏茜的投掷导致了瓶子破裂，而比利的没有。尽管如此，比利的投掷增加了瓶子破裂的概率，并且根据第 [2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbRaisTheoCaus) 和第 [3](https://plato.stanford.edu/entries/causation-probabilistic/#CausMode) 节描述的理论，它将被确定为一个原因。比利的投掷有导致瓶子破裂的倾向；它是瓶子破裂的潜在原因；它是通常导致破裂的事物；但它实际上并没有导致瓶子破裂。
 
-许多作者尝试提供实际因果关系的概率分析。一些人，如 Eells（1991 年：第 6 章），Kvart（1997 年，2004 年）和 Glynn（2011 年），特别关注概率随时间变化的方式。一些人，如 Dowe（2004 年）和 Schaffer（2001 年），将概率与因果关系的过程理论资源结合起来。一些人，如 Lewis（1986b），Menzies（1989）和 Noordhof（1999），使用概率和反事实来分析实际因果关系。还有一些人，如 Beckers＆Vennekens（2016 年），Fenton-Glynn（2017 年），Halpern（2016 年：第 2.5 节），Hitchcock（2004a）和 Twardy＆Korb（2011 年），使用类似于第[3](https://plato.stanford.edu/entries/causation-probabilistic/#CausMode)节描述的因果建模工具。我们将在下文的第[4.3](https://plato.stanford.edu/entries/causation-probabilistic/#LewiCounTheo)和第[4.4](https://plato.stanford.edu/entries/causation-probabilistic/#FentGlynCausModeAcco)节更详细地描述其中的两种理论——Lewis（1986b）和 Fenton-Glynn（2017）。
+许多作者尝试提供实际因果关系的概率分析。一些人，如 Eells（1991 年：第 6 章），Kvart（1997 年，2004 年）和 Glynn（2011 年），特别关注概率随时间变化的方式。一些人，如 Dowe（2004 年）和 Schaffer（2001 年），将概率与因果关系的过程理论资源结合起来。一些人，如 Lewis（1986b），Menzies（1989）和 Noordhof（1999），使用概率和反事实来分析实际因果关系。还有一些人，如 Beckers＆Vennekens（2016 年），Fenton-Glynn（2017 年），Halpern（2016 年：第 2.5 节），Hitchcock（2004a）和 Twardy＆Korb（2011 年），使用类似于第 [3](https://plato.stanford.edu/entries/causation-probabilistic/#CausMode) 节描述的因果建模工具。我们将在下文的第 [4.3](https://plato.stanford.edu/entries/causation-probabilistic/#LewiCounTheo) 和第 [4.4](https://plato.stanford.edu/entries/causation-probabilistic/#FentGlynCausModeAcco) 节更详细地描述其中的两种理论——Lewis（1986b）和 Fenton-Glynn（2017）。
 
 ### 4.1 第一次尝试
 
-在[第 2.5 节](https://plato.stanford.edu/entries/causation-probabilistic/#OtheCausRela)中，我们看到 Eells（1991）定义了_C_可能对_E_具有因果关系的多种不同方式。_C_可以是_E_的正因、负因或混合因，这取决于_C_在各种背景条件 Bi 下提高、降低或保持_E_的概率。一个自然的建议是：（i）_E_的实际原因是_E_的一种正因类型；但是（ii）对于评估实际因果关系，只有_实际_发生的背景条件是相关的。将这些想法结合起来，我们得到：
+在 [第 2.5 节](https://plato.stanford.edu/entries/causation-probabilistic/#OtheCausRela) 中，我们看到 Eells（1991）定义了_C_可能对_E_具有因果关系的多种不同方式。_C_可以是_E_的正因、负因或混合因，这取决于_C_在各种背景条件 Bi 下提高、降低或保持_E_的概率。一个自然的建议是：（i）_E_的实际原因是_E_的一种正因类型；但是（ii）对于评估实际因果关系，只有_实际_发生的背景条件是相关的。将这些想法结合起来，我们得到：
 
 (AC1)
 
@@ -490,7 +490,7 @@ Ct 是 Et′ 的实际原因，只有当：
 
 (i)
 
-t\<t′
+t \< t′
 
 (ii)
 
@@ -528,7 +528,7 @@ _C_和_E_实际上分别发生在 t 和 t′时。
 
 x≫y。
 
-(iii)中的反事实应该用可能世界的术语来理解：它表示在最近的可能世界中，*C_不发生，*E_的概率小于或等于_y*。（概率不一定会有一个确定的值。在最接近的可能世界中，它可以取不同的值，只要所有这些值都小于或等于_y*。）根据这一观点，相关的“概率提升”概念不是用条件概率来理解的，而是用不同可能世界中的无条件概率来理解。
+(iii)中的反事实应该用可能世界的术语来理解：它表示在最近的可能世界中，*C_不发生，* E_的概率小于或等于_y *。（概率不一定会有一个确定的值。在最接近的可能世界中，它可以取不同的值，只要所有这些值都小于或等于_y*。）根据这一观点，相关的“概率提升”概念不是用条件概率来理解的，而是用不同可能世界中的无条件概率来理解。
 
 Lewis 定义了因果关系（我们所称的“实际因果”）是因果依赖的_祖先_；也就是说：
 
@@ -544,15 +544,15 @@ Lewis 定义了因果关系（我们所称的“实际因果”）是因果依�
 
 Fenton-Glynn (2017)提供了一项基于 Halpern 和 Pearl（2005）定义的实际因果关系分析，他们仅考虑确定性情况。以下是 Fenton-Glynn 提出的简化版本，作为运用因果模型的分析的一个示例。
 
-设 V 是一组时间索引的二元变量，我们假设包括 V 中变量的任何共同原因（使得 V 上的正确因果图是一个 DAG）。设∗是一个分配函数，将 V 中的每个变量 X 分配给其可能的值之一。直观地说，∗确定每个变量的_实际_值。我们将∗(X)表示为 x∗，x'表示 X 的非实际值。如果 X 是 V 中的一组变量，X = x∗将是一个命题，说明 X 中的每个变量都取∗分配的实际值。设 P 是 V 上代表客观概率的概率函数，我们假设满足马尔可夫和最小条件（见[3.3](https://plato.stanford.edu/entries/causation-probabilistic/#MarkCond)和[3.4](https://plato.stanford.edu/entries/causation-probabilistic/#MiniFaitCond)节）。我们还假设 P 对 V 中变量的每种可能值分配正概率。
+设 V 是一组时间索引的二元变量，我们假设包括 V 中变量的任何共同原因（使得 V 上的正确因果图是一个 DAG）。设 ∗ 是一个分配函数，将 V 中的每个变量 X 分配给其可能的值之一。直观地说，∗ 确定每个变量的_实际_值。我们将 ∗(X)表示为 x∗，x'表示 X 的非实际值。如果 X 是 V 中的一组变量，X = x∗ 将是一个命题，说明 X 中的每个变量都取 ∗ 分配的实际值。设 P 是 V 上代表客观概率的概率函数，我们假设满足马尔可夫和最小条件（见 [3.3](https://plato.stanford.edu/entries/causation-probabilistic/#MarkCond) 和 [3.4](https://plato.stanford.edu/entries/causation-probabilistic/#MiniFaitCond) 节）。我们还假设 P 对 V 中变量的每种可能值分配正概率。
 
-鉴于上述[第 3.5 节](https://plato.stanford.edu/entries/causation-probabilistic/#IdenCausStru)中描述的可识别性结果，我们可以从概率函数 P 以及变量的时间索引中恢复正确的因果图 G。我们现在可以使用 P 和 G 来计算干预的效果，如上述[第 3.6 节](https://plato.stanford.edu/entries/causation-probabilistic/#Inte)中所述。我们现在定义实际因果如下：
+鉴于上述 [第 3.5 节](https://plato.stanford.edu/entries/causation-probabilistic/#IdenCausStru) 中描述的可识别性结果，我们可以从概率函数 P 以及变量的时间索引中恢复正确的因果图 G。我们现在可以使用 P 和 G 来计算干预的效果，如上述 [第 3.6 节](https://plato.stanford.edu/entries/causation-probabilistic/#Inte) 中所述。我们现在定义实际因果如下：
 
 让 X，Y∈V。X=x∗ 是 Y=y∗ 的一个实际原因，只要存在变量 V∖{X,Y} 的一个划分 {Z,W}，使得对于每个 U⊆Z：P(Y=y∗∣do(X=x∗,W=w∗,U=u∗))>P(Y=y∗∣do(X=x′,W=w∗))
 
-直觉上，情况是这样的：如果 X=x∗ 是 Y=y∗ 的一个实际原因，那么从 X 到 Y 必须至少存在一条有向路径。Z 将由沿着这些路径的一些（但不一定全部）变量组成。（如果 X 是 Y 的直接原因，则 Z 可以为空。）F-G 要求 X=x∗ 提高了 Y=y∗ 的概率，即将 X 设为 x∗ 的干预导致 Y=y∗ 的概率高于将 X 设为 x′ 的干预。具体来说，当我们还干预将变量 W 设为它们的实际值时，X=x∗ 必须提高 Y=y∗ 的概率。W=w∗ 就像是[第 2.4 节](https://plato.stanford.edu/entries/causation-probabilistic/#SimpParaBackCont)中讨论的背景背景一样，只是 W 可能包括一些 X 的后代变量。此外，X=x∗ 必须提高 Y=y∗ 的概率，与 Z 中的任何组合变量被设置为它们的实际值一起。这个想法是，X 对 Y 的概率影响被限制在通过 Z 中的变量流动，而在过程的每个阶段，{X}∪Z 中变量的值必须使 Y=y∗ 的概率高于如果 X 被设为 x′ 时将会产生的基准概率。
+直觉上，情况是这样的：如果 X=x∗ 是 Y=y∗ 的一个实际原因，那么从 X 到 Y 必须至少存在一条有向路径。Z 将由沿着这些路径的一些（但不一定全部）变量组成。（如果 X 是 Y 的直接原因，则 Z 可以为空。）F-G 要求 X=x∗ 提高了 Y=y∗ 的概率，即将 X 设为 x∗ 的干预导致 Y=y∗ 的概率高于将 X 设为 x′ 的干预。具体来说，当我们还干预将变量 W 设为它们的实际值时，X=x∗ 必须提高 Y=y∗ 的概率。W=w∗ 就像是 [第 2.4 节](https://plato.stanford.edu/entries/causation-probabilistic/#SimpParaBackCont) 中讨论的背景背景一样，只是 W 可能包括一些 X 的后代变量。此外，X=x∗ 必须提高 Y=y∗ 的概率，与 Z 中的任何组合变量被设置为它们的实际值一起。这个想法是，X 对 Y 的概率影响被限制在通过 Z 中的变量流动，而在过程的每个阶段，{X}∪Z 中变量的值必须使 Y=y∗ 的概率高于如果 X 被设为 x′ 时将会产生的基准概率。
 
-让我们看看这个解释如何处理来自[section 4.2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbCase)的问题案例。对于预先条件的例子，我们将使用以下变量：
+让我们看看这个解释如何处理来自 [section 4.2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbCase) 的问题案例。对于预先条件的例子，我们将使用以下变量：
 
 * ST0=1 如果苏茜投掷，如果不投掷则为 0
 * 如果比利扔了，BT1=1，如果没有扔则为 0
@@ -574,7 +574,7 @@ P(BS2=1∣do(ST0=1)\&do(BT1=0))=.5P(BS2=1∣do(ST0=0)\&do(BT1=0))=.01
 
 Holding fixed that Billy doesn’t throw, Suzy’s throw raises the probability that the bottle will shatter. Thus the conditions are met for ST=1 to be an actual cause of BS=1.
 
-为了处理从[Section 4.2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbCase)中的失败案例，让
+为了处理从 [Section 4.2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbCase) 中的失败案例，让
 
 * 如果苏茜投掷，则 ST0=1，否则为 0
 * 如果比利扔了，BT0=1，如果没有扔则为 0
@@ -622,7 +622,7 @@ P(BS2=1∣do(BT0=0,ST0=1,SH1=1))=.9505
 
 虽然本节描述了一些成功案例，但可以肯定地说，对实际因果关系的任何分析都不被普遍认为能完美地捕捉我们关于假设情况的所有先前理论直觉。事实上，并不清楚这些直觉是否构成一个连贯的集合，或者它们是否完全跟踪世界客观特征。Glymour 等人（2010）对试图提供实际因果关系分析的一般项目提出了许多挑战。
 
-《Collins 等人 2004 年》和《Dowe＆Noordhof 2004 年》的选集包含了一些与本节讨论相关主题的论文。Hitchcock 2004b 对 fizzlers 提出的问题进行了广泛讨论。Hitchcock 2015 年是对 Lewis 关于因果的工作的概述。[因果反事实理论](https://plato.stanford.edu/entries/causation-counterfactual/)的条目讨论了 Lewis 的工作，以及因果反事实理论的更一般性内容。
+《Collins 等人 2004 年》和《Dowe＆Noordhof 2004 年》的选集包含了一些与本节讨论相关主题的论文。Hitchcock 2004b 对 fizzlers 提出的问题进行了广泛讨论。Hitchcock 2015 年是对 Lewis 关于因果的工作的概述。[因果反事实理论](https://plato.stanford.edu/entries/causation-counterfactual/) 的条目讨论了 Lewis 的工作，以及因果反事实理论的更一般性内容。
 
 <!--md-padding-ignore-begin-->
 ## Bibliography

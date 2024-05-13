@@ -12,17 +12,17 @@
 
 ## 词条说明
 
-* 凡是以 `*` 开头的且词条名中**包含** `— see` 的词条都是指向其他词条的“别名词条”，例如 `*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire`，伏尔泰（Voltaire）是其笔名，“弗朗索瓦-马里‧阿鲁埃（François-Marie Arouet）”才是原名，但是实际上两个代表的是一个人。`*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire` 实际指向条目——`伏尔泰——Voltaire (J.B. Shank)`
-* 凡是以 `*` 开头的且词条名中**不包含** `— see` 的词条实际上是不存在的。例如 `*非洲哲学 African Philosophy` 实际上并不存在，仅作为母词条标题而出现。
+* 凡是以 `*` 开头的且词条名中 **包含** `— see` 的词条都是指向其他词条的“别名词条”，例如 `*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire`，伏尔泰（Voltaire）是其笔名，“弗朗索瓦-马里‧阿鲁埃（François-Marie Arouet）”才是原名，但是实际上两个代表的是一个人。`*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire` 实际指向条目——`伏尔泰——Voltaire (J.B. Shank)`
+* 凡是以 `*` 开头的且词条名中 **不包含** `— see` 的词条实际上是不存在的。例如 `*非洲哲学 African Philosophy` 实际上并不存在，仅作为母词条标题而出现。
 * `*` 只代表当前的词条，不代表下辖的所有条目，凡是特殊词条都会一一标注。例如母词条 `*美学 aesthetics` 不代表美学下面的所有词条都是特殊词条，只有有 `*` 标注的才是特殊词条。
-* `*超距作用——见量子力学：量子力学中的超距作用 action at a distance — see quantum mechanics: action at a distance in` 这个词条代表“超距作用”这个词条实际指向“量子力学”这个主目录下的`量子力学中的超距作用`这个词条。
+* `*超距作用——见量子力学：量子力学中的超距作用 action at a distance — see quantum mechanics: action at a distance in` 这个词条代表“超距作用”这个词条实际指向“量子力学”这个主目录下的 `量子力学中的超距作用` 这个词条。
 * `递归——见递归 recursion — see recursion` 该词条实际不存在，经询问 SEP 编委会得知，该词条为一个梗。即点击后就知道什么是”递归“了。若要了解细节，请参考词条”递归函数“。
 
 ## 项目进度
 
 |  目录 |  实际数量 | 机器翻译 |
 | :-: |:--: | :--: |
-|  A  |   139 |   2 个条目无法处理[^1] |
+|  A  |   139 |   2 个条目无法处理 [^1] |
 |  B  |  61  |   2 个条目无法处理 |
 |  C  |  171 |  错误太多将重新处理  |
 |  D  |   89  |   错误太多将重新处理 |
@@ -49,7 +49,7 @@
 |  Y  |      1  |    ✓  |
 |  Z  |    6  |    ✓  |
 
-[^1]：无法处理条目参见[日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)，下同。
+[^1]：无法处理条目参见 [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)，下同。
 
 ## 关于 SEP
 

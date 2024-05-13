@@ -213,7 +213,7 @@ Davidson 声称，理性是心智的构成要素，这意味着只有符合某�
 
 延伸这种推理，戴维森写道
 
-> [m]ental concepts…appeal to causality because they are designed, like the concept of causality itself, to single out from the totality of circumstances which conspire to cause a given event just those factors that satisfy some particular explanatory interest. (戴维森 1991, 163)
+> [m] ental concepts…appeal to causality because they are designed, like the concept of causality itself, to single out from the totality of circumstances which conspire to cause a given event just those factors that satisfy some particular explanatory interest. (戴维森 1991, 163)
 
 这似乎将变异属性（无论是心理的还是其他的）的因果定义基于它们回应特定的解释兴趣的事实。这与“终极物理”属性的情况形成对比：“尽管终极物理的解释回应各种兴趣，但它并不是兴趣相对的”（戴维森 1987b，45）。这似乎消除了心理学与其他特殊科学在异常性问题上的区别。所有后者都回应特定的解释兴趣，因此在效果类型的总充分条件方面是有选择性的（参见戴维森 1987b，45）；它们的词汇的因果定义，以及异常性，归因于这种兴趣相对性和选择性。另一方面，“终极物理”“将一切无一例外地视为事件的原因，如果它在物理范围内（在导致效果的光锥内）”（戴维森 1987b，45）。
 
@@ -259,7 +259,7 @@ Davidson 的变异一元论的令人困惑的方面独立于上述竞争的变�
 
 为什么显现似乎会产生严格的定律？当戴维森首次提出显现主张时，他用以下术语表达了它：“在所有物理方面相同但在某些心理方面不同的两个事件是不可能的”（戴维森 1970 年，214 页）。这种表述似乎蕴含了形式为“P1 → M1”的严格心理物理定律。后来，戴维森开始关注这种表述的逆转：“如果两个事件不共享一个心理属性，它们将至少不共享一个物理属性”（戴维森 1995a，266 页）。这种重新表述的优点在于它揭示了这样一个事实，即所需的物理差异在每个心理差异的情况下不必相同（参见戴维森 1973a，253-4 页）。正如戴维森所说，
 
-> 尽管显现蕴含了特定事件 e 的心理属性 p 的任何变化都将伴随着 e 的物理属性的变化，但它并不蕴含其他事件中 p 的变化将伴随着这些其他事件的物理属性的相同变化。只有后一种蕴含才会与[变异一元论]相冲突。（戴维森 1993 年，7 页）
+> 尽管显现蕴含了特定事件 e 的心理属性 p 的任何变化都将伴随着 e 的物理属性的变化，但它并不蕴含其他事件中 p 的变化将伴随着这些其他事件的物理属性的相同变化。只有后一种蕴含才会与 [变异一元论] 相冲突。（戴维森 1993 年，7 页）
 
 然而，这里似乎存在两个问题。首先，逆转的重新表述实际上蕴含了原始论点——如果两个事件共享所有物理属性，它们将共享所有心理属性——因此再次产生了严格的心理物理定律。其次，即使伴随的物理变化可以不同，这只会产生更多严格的心理物理定律——“P1 → M1”，“P2 → M1”，等等。因此，很难理解戴维森为什么认为第二种表述与异常主义原则是一致的。
 

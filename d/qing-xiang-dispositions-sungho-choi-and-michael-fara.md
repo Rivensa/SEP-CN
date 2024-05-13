@@ -96,7 +96,7 @@ RCA. 当 C 时，对象 x 倾向于 M，当且仅当 x 具有一种内在属性 
 
 这种消歧义在我们表达“多轨”倾向的概念时非常重要。似乎普遍认为，有所谓的“多轨”传统倾向，对应于不止一对刺激条件和表现（Ryle 1949, pp. 43–45; Bird 2005a, p. 367; Bird 2007a, pp. 21–24; Ellis & Lierse 1994, p. 29; Williams 2011, pp. 85–7; Vetter 2013）。思想是，完全相同的传统倾向可能会被多种刺激条件和表现的表述所指出。然而，当我们决定某一特定倾向是否是多轨时，需要谨慎。首先，必须使用单一的刺激条件概念：从毒性的属性的刺激条件可能是被摄入、被人类摄入、被摄入而没有假装者、掩饰者等事实推断出毒性是多轨倾向是错误的。此外，我们必须保持话语语境不变：从毒性的属性的刺激条件可能是被人类摄入、被狗摄入、被鸟摄入等事实推断出毒性是多轨的也是错误的。表达“有毒”是与 x 对谁有毒有关的，相对于话语不同的语境，指的是不同的倾向。因此，像 x 被人类摄入、x 被狗摄入等刺激条件并不是同一倾向的刺激条件。因此，它们与某一特定倾向是否是多轨无关。
 
-不是普遍认为倾向通常是多轨的。Lowe (2010, pp. 10–11) 坚持认为倾向不能是多轨的。然而，大多数形而上学家倾向于认为倾向具有多轨特性。作为带电粒子，电子倾向于在距离电荷 q 一定距离 d 处时对静电力 F 做出反应，但它也倾向于在距离电荷 q∗一定距离 d∗处时对静电力 F∗做出反应。同样，可以合理地声称易碎性是一种多轨倾向，具有许多不同的刺激条件：x 被打击，x 被压力，x 被扭曲，x 被摇晃等。事实上，虽然 Cartwright (1999, pp. 59, 64) 对能力的概念类似于多轨倾向的概念（参见 Teller 2002, pp. 717–718），在 Cartwright 看来，电荷作为能力的典范例子，她坚持认为能力是真实属性，并且在科学运作中引用能力是必不可少的：科学定律只不过是表达了存在哪些能力以及它们如何共同发挥作用。因此，在 Cartwright 看来，不仅存在多轨倾向，而且科学的目的是揭示它们的本质。
+不是普遍认为倾向通常是多轨的。Lowe (2010, pp. 10–11) 坚持认为倾向不能是多轨的。然而，大多数形而上学家倾向于认为倾向具有多轨特性。作为带电粒子，电子倾向于在距离电荷 q 一定距离 d 处时对静电力 F 做出反应，但它也倾向于在距离电荷 q∗ 一定距离 d∗ 处时对静电力 F∗ 做出反应。同样，可以合理地声称易碎性是一种多轨倾向，具有许多不同的刺激条件：x 被打击，x 被压力，x 被扭曲，x 被摇晃等。事实上，虽然 Cartwright (1999, pp. 59, 64) 对能力的概念类似于多轨倾向的概念（参见 Teller 2002, pp. 717–718），在 Cartwright 看来，电荷作为能力的典范例子，她坚持认为能力是真实属性，并且在科学运作中引用能力是必不可少的：科学定律只不过是表达了存在哪些能力以及它们如何共同发挥作用。因此，在 Cartwright 看来，不仅存在多轨倾向，而且科学的目的是揭示它们的本质。
 
 维特尔（2013）进一步提出，倾向的多轨特性程度被严重低估，利用她所称的定性多样性和定量多样性问题。值得注意的是，这一考虑被用作她对倾向性可能性构想的一个跳板。思想是，鉴于存在极端多样的 D 刺激条件，并且没有任何特权子集关于 x 是否实例化 D 的问题，我们最好接受没有刺激条件的倾向（维特尔 2014，第 132 页）。
 
@@ -182,7 +182,7 @@ PPJ 不是表征因果基础概念的唯一方式。例如，Lewis（1997）从 
 
 Prior 等人为论点提供了一个重要的论据，即每个倾向必然具有一个因果基础——他们称之为“因果论”。将概率倾向的情况搁置一边，他们考虑了一个在确定性世界中受到敲击的物体 A。他们认为（第 251-252 页）：
 
-> [I]t will be either determined that A breaks, or that A does not break. In the latter case clearly A is not fragile. In the former there will be a causally sufficient antecedent condition operative in producing the breaking—that follows from Determinism. Hence if A is fragile and Determinism is true, there must be a causal basis. [I]t will be either determined that A breaks, or that A does not break. In the latter case clearly A is not fragile. In the former there will be a causally sufficient antecedent condition operative in producing the breaking—that follows from Determinism. Hence if A is fragile and Determinism is true, there must be a causal basis.
+> [I] t will be either determined that A breaks, or that A does not break. In the latter case clearly A is not fragile. In the former there will be a causally sufficient antecedent condition operative in producing the breaking—that follows from Determinism. Hence if A is fragile and Determinism is true, there must be a causal basis. [I] t will be either determined that A breaks, or that A does not break. In the latter case clearly A is not fragile. In the former there will be a causally sufficient antecedent condition operative in producing the breaking—that follows from Determinism. Hence if A is fragile and Determinism is true, there must be a causal basis.
 
 这个论证本身，如果成功的话，并没有显示出倾向必须具有不同的因果基础。这与倾向的因果基础与倾向本身相同是一致的。然而，正如我们将在第 4.2 节中看到的，普赛尔等人手头确实有关于倾向与它们的因果基础是不同的这一命题的单独论证。综合起来，这些论证将显示出裸倾向的不可能性。 (See Hauska 2008a and Nolan 2015 for a criticism of Prior et al.’s argument.)
 

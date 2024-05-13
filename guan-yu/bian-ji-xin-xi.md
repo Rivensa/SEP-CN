@@ -2,15 +2,15 @@
 
 |               |                                                                                                                                                                                                                                                                          |
 | :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    **联合主编**   |                                                <p><a href="https://mally.stanford.edu/zalta.html">Edward N. Zalta</a>，斯坦福大学哲学系高级研究学者<br><a href="https://ai.stanford.edu/~nodelman/">Uri Nodelman</a>，斯坦福大学哲学系高级研究工程师</p>                                                |
-|    **副主编**    | <p><a href="https://colinallen.dnsalias.org/">Colin Allen</a>，加州大学圣巴巴拉分校哲学系教授<br><a href="https://philosophy.arizona.edu/person/hannah-kim/">Hannah Kim</a>，亚利桑那大学哲学系助理教授<br><a href="http://www.peoppenheimer.org/">Paul Oppenheimer</a>，斯坦福大学 &#x26; 阿德莱德大学哲学系访问讲师</p> |
-|    **助理编辑**   |                         <p><a href="https://www-csli.stanford.edu/people/pease-emma">Emma Pease</a><br><a href="https://profiles.stanford.edu/81572">Lauren Thomas</a><br><a href="https://mally.stanford.edu/alama-cv.html">Jesse Alama</a></p>                         |
-|    **编辑助理**   |                                                                               <p><a href="https://philosophy.stanford.edu/people/austen-friesacher">Austen Friesacher</a><br>Ellie Wong</p>                                                                              |
-|   **主要贡献者**   |                                                                       <p><a href="https://plato.stanford.edu/board.html">编委会</a><br><a href="https://plato.stanford.edu/authors.html">作者名单</a></p>                                                                       |
-|   **其他贡献者**   |                                                                  <p><a href="https://plato.stanford.edu/referees.html">临时审稿人</a><br><a href="https://plato.stanford.edu/board-past.html">以往的主题编辑</a></p>                                                                 |
-|    **学术赞助**   |                                                <p><a href="http://philosophy.stanford.edu/profile/R+Anderson/">R. Lanier Anderson</a>，斯坦福大学哲学系<br><a href="https://web.stanford.edu/~icard/">Thomas Icard</a>，斯坦福大学哲学系</p>                                               |
+|    **联合主编**   |                                                <p> <a href="https://mally.stanford.edu/zalta.html"> Edward N. Zalta </a>，斯坦福大学哲学系高级研究学者 <br> <a href="https://ai.stanford.edu/~nodelman/"> Uri Nodelman </a>，斯坦福大学哲学系高级研究工程师 </p>                                                |
+|    **副主编**    | <p> <a href="https://colinallen.dnsalias.org/"> Colin Allen </a>，加州大学圣巴巴拉分校哲学系教授 <br> <a href="https://philosophy.arizona.edu/person/hannah-kim/"> Hannah Kim </a>，亚利桑那大学哲学系助理教授 <br> <a href="http://www.peoppenheimer.org/"> Paul Oppenheimer </a>，斯坦福大学 &#x26; 阿德莱德大学哲学系访问讲师 </p> |
+|    **助理编辑**   |                         <p> <a href="https://www-csli.stanford.edu/people/pease-emma"> Emma Pease </a> <br> <a href="https://profiles.stanford.edu/81572"> Lauren Thomas </a> <br> <a href="https://mally.stanford.edu/alama-cv.html"> Jesse Alama </a> </p>                         |
+|    **编辑助理**   |                                                                               <p> <a href="https://philosophy.stanford.edu/people/austen-friesacher"> Austen Friesacher </a> <br> Ellie Wong </p>                                                                              |
+|   **主要贡献者**   |                                                                       <p> <a href="https://plato.stanford.edu/board.html"> 编委会 </a> <br> <a href="https://plato.stanford.edu/authors.html"> 作者名单 </a> </p>                                                                       |
+|   **其他贡献者**   |                                                                  <p> <a href="https://plato.stanford.edu/referees.html"> 临时审稿人 </a> <br> <a href="https://plato.stanford.edu/board-past.html"> 以往的主题编辑 </a> </p>                                                                 |
+|    **学术赞助**   |                                                <p> <a href="http://philosophy.stanford.edu/profile/R+Anderson/"> R. Lanier Anderson </a>，斯坦福大学哲学系 <br> <a href="https://web.stanford.edu/~icard/"> Thomas Icard </a>，斯坦福大学哲学系 </p>                                               |
 |   **顾问委员会**   |                                                                                                                [斯坦福大学哲学系](http://philosophy.stanford.edu/)                                                                                                               |
-|    **出版商**    |                   <p><a href="https://mally.stanford.edu/">Metaphysics Research Lab</a><br><a href="https://philosophy.stanford.edu/">Philosophy Department</a><br><a href="http://www.stanford.edu/">Stanford University</a><br>Stanford, CA 94305</p>                  |
+|    **出版商**    |                   <p> <a href="https://mally.stanford.edu/"> Metaphysics Research Lab </a> <br> <a href="https://philosophy.stanford.edu/"> Philosophy Department </a> <br> <a href="http://www.stanford.edu/"> Stanford University </a> <br> Stanford, CA 94305 </p>                  |
 | **美国国会图书馆目录** |                                                                                                                              ISSN 1095-5054                                                                                                                              |
 |    **电子邮件**   |                                                                                                  [*editors@plato.stanford.edu*](mailto:editors%40plato%2estanford%2eedu)                                                                                                 |
 
@@ -32,8 +32,8 @@
 1. 有关《百科全书》的编辑决策，包括内容、格式和分发方式的决定，由主编与高级编辑、副编辑以及编辑委员会成员共同商议决定。
 2. 编辑委员会成员是与斯坦福大学哲学系协商选定的，该系充当《百科全书》的咨询委员会。咨询委员会还就指导主编制定《百科全书》运作的基本政策提供建议。
 3. 对《百科全书》的投稿通常是通过编辑委员会成员的邀请来征集的。但是，_合格_的潜在投稿者可以发送电子邮件至 [*editors@plato.stanford.edu*](mailto:editors%40plato%2estanford%2eedu)，询问是否有可能提交初步提案以撰写有关《百科全书》主题的文章。编辑们将回复一封消息，解释必须满足哪些条件才能考虑我们审阅一份一页的“预提案”。
-   * 所谓“*合格*”，我们指的是那些在哲学（或相关学科）领域拥有受认可的哲学博士学位，并在拟议条目主题上发表过_经过评审的作品_的人。通过“*经过评审的作品*”，我们指的是发表在受尊重的同行评议期刊上的文章，或者由受尊重的出版社出版并在出版前经过通常同行评审流程的书籍（在通讯、会议记录、未发表的论文等方面的注释不算在内）。然而，如果我们编辑委员会的成员熟悉潜在投稿者的作品，后者也可以被认定为合格。
-   * 所谓“*百科全书主题*”，我们指的是适合作为学术哲学参考著作的主题，且（a）要么列在我们的拟议目录中，要么（b）属于我们编辑委员会成员专业领域之一。由于_百科全书_目前尚未为哲学的每个专业领域设立专题编辑，一些适合作为学术哲学参考著作的主题可能不符合条件（b）——我们保留决定是否应立即推进此类初步条目提案（在百科全书缺乏专题编辑的专业领域）。
+   * 所谓“* 合格 *”，我们指的是那些在哲学（或相关学科）领域拥有受认可的哲学博士学位，并在拟议条目主题上发表过_经过评审的作品_的人。通过“* 经过评审的作品*”，我们指的是发表在受尊重的同行评议期刊上的文章，或者由受尊重的出版社出版并在出版前经过通常同行评审流程的书籍（在通讯、会议记录、未发表的论文等方面的注释不算在内）。然而，如果我们编辑委员会的成员熟悉潜在投稿者的作品，后者也可以被认定为合格。
+   * 所谓“* 百科全书主题*”，我们指的是适合作为学术哲学参考著作的主题，且（a）要么列在我们的拟议目录中，要么（b）属于我们编辑委员会成员专业领域之一。由于_百科全书_目前尚未为哲学的每个专业领域设立专题编辑，一些适合作为学术哲学参考著作的主题可能不符合条件（b）——我们保留决定是否应立即推进此类初步条目提案（在百科全书缺乏专题编辑的专业领域）。
    * 编辑委员会成员保留将自发请求提交的任何人的资格与其他有资格撰写相关条目的潜在作者进行比较的权力。
 4. 所有条目，无论是征求意见还是获得批准，都将由我们编辑委员会的一名或多名主题编辑或经编辑委员会成员批准的一名或多名外部评审人员进行评审。作者们应该在出版之前对接收到的任何建设性批评进行回应。然而，作者们应该注意，无论他们是否被这些主题编辑之一邀请或批准，我们生产高质量参考作品的目标要求我们承认一种可能性，即一些提交的条目可能不会被接受出版。
 5. 我们支持《百科全书》的读者直接与作者联系，以提出评论、更正和其他改进建议。
@@ -69,7 +69,7 @@ SEP 编辑们努力满足其预期受众的需求；不断改进我们的参考�
    * c.用户可以电子方式分发某个 SEP 条目的链接。
    * d.未授予其他的电子分发权力。
 3. *有限的固定媒体分发权力*。用户只能在获得 SEP 条目作者事先书面许可的情况下分发印刷副本或固定媒体（例如 CD-ROM）上的副本。
-4. *课程读者政策*。由于学生应该可以免费访问 SEP 网站上的所有条目[https://plato.stanford.edu/](https://plato.stanford.edu/)，我们鼓励教师向他们的学生分发指向我们网站相关内容的链接，而不是在课程读者中分发 SEP 条目的副本。学生(a)可能更喜欢在电子设备上阅读 SEP 条目而不产生任何费用，(b)也许学生们自己打印 SEP 条目的成本比在课程读物中复印这些页面的费用更为经济。尽管如此建议，但仍允许在以下条件下将 SEP 条目包含在课程读物中：
+4. *课程读者政策*。由于学生应该可以免费访问 SEP 网站上的所有条目 [https://plato.stanford.edu/](https://plato.stanford.edu/)，我们鼓励教师向他们的学生分发指向我们网站相关内容的链接，而不是在课程读者中分发 SEP 条目的副本。学生(a)可能更喜欢在电子设备上阅读 SEP 条目而不产生任何费用，(b)也许学生们自己打印 SEP 条目的成本比在课程读物中复印这些页面的费用更为经济。尽管如此建议，但仍允许在以下条件下将 SEP 条目包含在课程读物中：
    * a.如果包含 SEP 条目的课程读物在固定媒体（例如印刷品）上分发，必须获得作者的许可。
    * b.如果包含 SEP 条目的课程读物以电子形式分发，必须符合 2(b) 的规定。
 5. *一般条款*。SEP、斯坦福大学、其受托人、官员、教职员工和学生（包括附属机构）对间接、后果性、附带性、特殊性、惩罚性、示范性损害，包括利润损失，概不负责。不执行这些使用条款并不构成放弃。条目按原样提供，斯坦福对 SEP 网站和 SEP 条目不提供任何担保，包括明示担保，以及适销性、特定用途适用性、所有权和非侵权的隐含担保。不保证网站或 SEP 条目或访问它们是安全的、不间断的、及时的、准确的、无错误的或无病毒的。这些使用条款以及可能产生的任何争议，SEP 条目或网站只能在位于美国加利福尼亚州圣克拉拉县的州或联邦法院提起。

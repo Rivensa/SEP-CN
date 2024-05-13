@@ -1,8 +1,8 @@
 # 阿兰·勒罗伊·洛克 Locke, Alain LeRoy (Jacoby Adeshei Carter and Corey Barnes)
 
-*首次发表于2012年3月23日星期五；实质性修订于2022年6月27日星期一。*
+*首次发表于 2012 年 3 月 23 日星期五；实质性修订于 2022 年 6 月 27 日星期一。*
 
-阿兰·勒罗伊·洛克因其于1925年出版的《新黑人》而被誉为“哈莱姆文艺复兴之父”——这是一本由白人和黑人艺术家创作的诗歌、散文、戏剧、音乐和肖像画的选集。洛克以非裔美国文学和艺术的理论家、评论家和解释者而闻名。他还是一位富有创造力和系统性的哲学家，他发展了价值观、多元主义和文化相对主义的理论，这些理论在他对美学的研究中得到了支持和加强。洛克对黑人美学的看法与他那个时代的一些主要黑人知识分子（尤其是W·E·B·杜波依斯）有所不同；他与杜波依斯在关于黑人艺术追求的适当社会功能上存在分歧。杜波依斯认为，黑人艺术家的角色和责任是提供一个关于黑人和黑人经历的表达，以帮助追求社会提升。洛克批评这种做法是“宣传”（AOP 12），并主张艺术家的首要责任和功能是表达自己的个性，并通过这种表达传达出普遍人类的吸引力。
+阿兰·勒罗伊·洛克因其于 1925 年出版的《新黑人》而被誉为“哈莱姆文艺复兴之父”——这是一本由白人和黑人艺术家创作的诗歌、散文、戏剧、音乐和肖像画的选集。洛克以非裔美国文学和艺术的理论家、评论家和解释者而闻名。他还是一位富有创造力和系统性的哲学家，他发展了价值观、多元主义和文化相对主义的理论，这些理论在他对美学的研究中得到了支持和加强。洛克对黑人美学的看法与他那个时代的一些主要黑人知识分子（尤其是 W·E·B·杜波依斯）有所不同；他与杜波依斯在关于黑人艺术追求的适当社会功能上存在分歧。杜波依斯认为，黑人艺术家的角色和责任是提供一个关于黑人和黑人经历的表达，以帮助追求社会提升。洛克批评这种做法是“宣传”（AOP 12），并主张艺术家的首要责任和功能是表达自己的个性，并通过这种表达传达出普遍人类的吸引力。
 
 洛克是一位杰出的学者和教育家，在他的一生中也是一位重要的种族和文化哲学家。在这些领域中，他最重要的贡献之一是发展了“种族民族”的概念，洛克将种族看作是社会和文化遗传，而非生物遗传的问题。按照当代的说法，洛克是一位种族修正主义者，他持有一种有争议且自相矛盾的观点，即即使他们有意识地致力于破坏或改变有害的种族范畴，作为一个“种族”的成员，思考和行动往往符合群体的利益。对于洛克来说，种族称谓在没有对其所处的具体文化和历史背景有所了解的情况下是无法理解的。洛克在多元主义、相对主义和民主领域的哲学思考和写作，旨在提供对文化或种族差异的更清晰理解，并探讨不同种族和文化之间更有效的接触方法的前景。
 
@@ -35,11 +35,11 @@
 
 洛克在价值理论方面的开创性论文《价值与命令》在其目标上与开创性一样雄心勃勃。在这篇论文中，洛克阐述了他认为是价值论的核心问题；详细说明了美国哲学，特别是实用主义，未能对价值哲学的发展做出更多贡献的原因；论证了价值主要根植于人类态度；并提供了关于价值形成和价值的功能角色的详细理论解释。洛克认为，价值是“一种情感中介的经验形式”。洛克发出以下警告：
 
-> [i]n dethroning our absolutes, we must take care not to exile our imperatives, for after all, we live by them. We must realize more fully that values create these imperatives as well as the more formally super-imposed absolutes, and that norms guide our behavior as well as guide our reasoning. (VI 34)
+> [i] n dethroning our absolutes, we must take care not to exile our imperatives, for after all, we live by them. We must realize more fully that values create these imperatives as well as the more formally super-imposed absolutes, and that norms guide our behavior as well as guide our reasoning. (VI 34)
 
 价值观是人类经验的重要且必要的一部分。作为内在的有价值的存在，所有人类个体都是有价值的存在。他写道：
 
-> [t]he common man, in both his individual and group behavior, perpetuates the problem in a very practical way. He sets up personal and private and group norms as standards and principles, and rightly or wrongly hypothesizes them as universals for all conditions, all times and all men. (VI 35)
+> [t] he common man, in both his individual and group behavior, perpetuates the problem in a very practical way. He sets up personal and private and group norms as standards and principles, and rightly or wrongly hypothesizes them as universals for all conditions, all times and all men. (VI 35)
 
 各种估值几乎渗透到我们生活的方方面面；我们的审美、道德和宗教评价和判断。
 
@@ -59,7 +59,7 @@
 
 洛克声称感受质量与价值模式之间存在必然的联系，前者决定后者。价值模式通常在价值被理解时建立起来。如果不是这样的话，即使在感受到其直接质量时，价值模式也将是不确定的。价值的基本类别并不是理性的：一个人不能简单地通过推理来理解它们。在发展和阐述他的价值论时，洛克寻找价值类别时从人类的实际评价中出发。他的理论不是预先确定评价的类别并试图将价值经验塞进这些类别中，而是从我们具体的评价出发，确定它们是否有共同的特征。然后根据观察到的共同点，将特定的价值经验归类为同一类的成员。洛克写道，
 
-> [肉体和血肉的价值]可能不像逻辑真理或模式化判断那样普遍或客观，但它们并不因此失去一定的相对客观性和普遍性。价值的基本特质...属于心理学的范畴。它们不是基于价值的类型或领域，而是根植于评价的方式或种类。(VI 38)
+> [肉体和血肉的价值] 可能不像逻辑真理或模式化判断那样普遍或客观，但它们并不因此失去一定的相对客观性和普遍性。价值的基本特质...属于心理学的范畴。它们不是基于价值的类型或领域，而是根植于评价的方式或种类。(VI 38)
 
 洛克意识到证明价值模式的基本一致性和统一性依赖于感受质量并不容易。迄今为止所阐述的立场可能仅仅是假设性的和推测性的，并需要实验方法来证明它。洛克指出，对该立场的主要反对意见已经在格式塔心理学的发展中得到了解决，因为它已经为一个全面的知觉方案在认知、比较和选择中建立了经验基础。此外，通过转化的现象（见下文 2.3 节）为该立场提供了间接证据。
 
@@ -77,7 +77,7 @@
 
 阿兰·勒罗伊·洛克的公理学中，重新评价是一个核心原则。他写道：
 
-> [t]我们进一步调查，就越发现价值的内容没有固定性，因此我们必然推断它们作为群体的身份必须依赖其他因素。（VI 40）
+> [t] 我们进一步调查，就越发现价值的内容没有固定性，因此我们必然推断它们作为群体的身份必须依赖其他因素。（VI 40）
 
 特定价值的感受质量必然确定了评价方式，即所涉及的价值类型（例如美学、宗教、道德等），以及适当的价值谓词。然而，一个作为价值内容的特定对象与对该对象的任何特定情感反应之间并没有必然联系。同一个对象可能在不同时间对同一个人产生不同的影响，或者在同一时间引发多个人不同的情感反应。因此，重新评价最简单地是以不同的方式评价某物，这首先要求对价值对象具有非典型的情感联想。导致情感反应对对象发生这种转变的潜在原因有多种，这些原因可以是即时的，也可以是随时间逐渐展开的。“改变的情感态度创造了新的价值”，洛克说，“态度的类型形式带来了相应的价值类别。这些模式共同主张它们自己的相关规范；每个模式都建立了自己的范畴命令”（VI 41）。
 
@@ -181,13 +181,13 @@ Negro life in America according to Locke is comprised of many diverse elements. 
 
 在解决这一关键事实时，这样的努力可能在很大程度上有助于促进对黑人艺术的赏识，因为它既表达了非洲裔美国人独特的种族、民族和文化经历，又表达了人类经验的普遍方面。这只是一个“虚构……种族生活是分开的”而已，而且是一个危险的分裂性虚构，“事实上，他们在不利的层面上接触得太近，而在有利的层面上接触得太轻”（NN 9）。因此，黑人审美生活被低估不仅仅是缺乏接触，而是缺乏正确类型的接触。
 
-就洛克而言，他认为，“新黑人”认识到“更充分、更真实的自我表达的必要性……[和]意识到允许歧视将他在心理上隔离的不明智，以及对自己的生活产生束缚和限制的反对态度”，在推翻“知识分子在‘肤色界线’上建立的‘怨恨墙’”方面发挥了至关重要的作用（NN，9-10）。20 世纪 20 年代初，黑人的生活逐渐朝着美国民主的理想发展。当时的黑人也以一种新的方式为特征；这种方式主要是基于情感和态度的共识，而不是意见或计划。正如洛克所说：
+就洛克而言，他认为，“新黑人”认识到“更充分、更真实的自我表达的必要性……[和] 意识到允许歧视将他在心理上隔离的不明智，以及对自己的生活产生束缚和限制的反对态度”，在推翻“知识分子在‘肤色界线’上建立的‘怨恨墙’”方面发挥了至关重要的作用（NN，9-10）。20 世纪 20 年代初，黑人的生活逐渐朝着美国民主的理想发展。当时的黑人也以一种新的方式为特征；这种方式主要是基于情感和态度的共识，而不是意见或计划。正如洛克所说：
 
 > 直到现在，我们可以充分描述黑人的“内在目标”是修复受损的群体心理和重塑扭曲的社会观。他们的实现为美国黑人带来了一种新的心态。随着它的成熟，我们开始看到它的影响；起初是消极的、偶像破坏的，然后是积极的和建设性的。在这种新的群体心理中，我们注意到感情上的呼吁的消失，然后是更积极的自尊和自立精神的发展；对社会依赖的否定，然后是从过度敏感和“易怒”的神经中逐渐恢复，对以特殊慈善津贴为特征的双重判断标准的否定，而是对客观和科学评估的更强烈渴望；最后是从社会幻灭到种族自豪感的崛起，从社会债务的意识到社会贡献的责任，并抵消了对受限条件的必要工作常识接受，相信最终的尊重和认可。因此，今天的黑人希望以他的真实面貌为人所知，即使在他的缺点和不足之中，他也鄙视以看似他所不是的代价来谋求卑躬屈膝和不稳定的生存（NN 11）。
 
 洛克以黑人审美产品的接受作为民主实验来结束他对新黑人特点的阐述。随着非裔美国艺术抵制贫民区化，并在美国艺术主流中越来越有存在感，它试图将自己建立为美国艺术的一个子集，而不是黑人美国艺术的整体。而且，根据洛克的说法，
 
-> [d]emocracy itself is obstructed and stagnated to the extent that any of its channels are closed…the choice is not between one way for the Negro and another way for the rest, but between American institutions frustrated on the one hand and American ideals progressively fulfilled and realized on the other. (NN 12)
+> [d] emocracy itself is obstructed and stagnated to the extent that any of its channels are closed…the choice is not between one way for the Negro and another way for the rest, but between American institutions frustrated on the one hand and American ideals progressively fulfilled and realized on the other. (NN 12)
 
 在“新”的北美黑人艺术家中，体现了一个事实，即没有任何文化、民族、种族或社会是静态的。这些实体始终处于转变的过程中，并且始终是无数文化、民族、种族和社会影响的组合体。新的出现既是过去的呈现，也是未来可能的指示。这是洛克美学哲学中深入的实用主义思潮。洛克后来对哈莱姆文艺复兴持批评态度，因为它未能维持一个循环的重生过程。在哈莱姆文艺复兴的巅峰之后的几年里，他后来评论说，每十年或二十年就必须诞生一个新的黑人。
 
@@ -195,11 +195,11 @@ Negro life in America according to Locke is comprised of many diverse elements. 
 
 洛克解释说，在哈莱姆和其他地方发生的美学复兴主要是年轻艺术家的运动。洛克声称，年轻人以独特的音调说话，并且“通过独特的经历和特定的代表性”（NN 47）表达自己。年轻的美国黑人的经历是独特代表性的，因为
 
-> [a]ll classes of people under social pressure are permeated with a common experience; they are emotionally welded as others cannot be. With them, even ordinary living has epic depth and lyric intensity, and this, their material handicap, is their spiritual advantage. (NN 47)
+> [a] ll classes of people under social pressure are permeated with a common experience; they are emotionally welded as others cannot be. With them, even ordinary living has epic depth and lyric intensity, and this, their material handicap, is their spiritual advantage. (NN 47)
 
 在这里，我们发现了洛克解释学中的一个有趣问题：审美贡献既被特征化为对代表性的否认，同时又是独特的代表性？洛克接着指出
 
-> [r]acial expression as a conscious motive, it is true, is fading out of our latest art, but just as surely the age of truer, finer group expression is coming in—for race expression does not need to be deliberate to be vital. Indeed, at its best it never is. (NN 47)
+> [r] acial expression as a conscious motive, it is true, is fading out of our latest art, but just as surely the age of truer, finer group expression is coming in—for race expression does not need to be deliberate to be vital. Indeed, at its best it never is. (NN 47)
 
 阿兰·勒罗伊·洛克通过认识到“我们的诗人现在已经停止为黑人发声；”来解决这个看似矛盾的问题，过去美学追求的代表性特征的那种表现形式，现在变成了“以黑人的身份发声”（NN 48）。主要的区别在于“以前他们是在对别人说话并试图解释”，非洲裔美国人的经历是为了白人或其他非黑人观众，“现在他们是在对自己说话并试图表达。”他指出“他们已经停止了伪装，更接近达到平衡的状态”（NN 48）。随着黑人艺术家思想的这种变化，艺术的目标不再是呈现一个理想类型或有效的反刻板印象；相反，它是表达在黑人经历的特殊性中所包含的普遍真理。
 
@@ -237,7 +237,7 @@ Negro life in America according to Locke is comprised of many diverse elements. 
 
 情感和态度构成了洛克价值哲学的基础：毫无疑问，洛克如此热衷于灵歌的一个原因是，他认为它们的主要艺术优点在于它们深情的特性。“从情感上来说，这些歌曲远非简单”（NN 205）。在美国黑人的灵歌民间音乐中，可以找到人类情绪和情感的整个范围，在一个灵歌中，情绪可以从最深沉的悲伤转变为光荣的赞美，因为每一首歌都融入了宗教情感。令人惊讶的是，当涉及到对灵歌的分类问题时，洛克并不坚持将分类的主要方式定为歌曲的情感质量，正如他的价值理论所暗示的那样。事实上，洛克认为
 
-> [i]nteresting and intriguing as was Dr. Du Bois's analysis of their emotional themes, modern interpretation must break with that mode of analysis, and relate these songs to the folk activity that they motivated, classifying them by their respective song-types. (NN 205)
+> [i] nteresting and intriguing as was Dr. Du Bois's analysis of their emotional themes, modern interpretation must break with that mode of analysis, and relate these songs to the folk activity that they motivated, classifying them by their respective song-types. (NN 205)
 
 在灵歌的情况下，洛克赞成采用不同的分类方法，因为对黑人音乐的当代解释者往往会对产生这些音乐的民间群体进行错误的描述，或者以一种不符合实际的方式进行描述。洛克对于“目前许多半世俗化的民谣被误认为是‘灵歌’，许多营会会议的欢呼被误认为是民间赞美诗”（NN 205）感到遗憾。他认为，黑人的民间音乐最好根据它们所激发的活动类型进行分类。“从这个角度来看”，洛克声称
 
@@ -253,7 +253,7 @@ Negro life in America according to Locke is comprised of many diverse elements. 
 
 在所有关于“新黑人”的讨论背后，潜藏着这样的假设：至少有一些美国艺术中有一些与黑人有关的独特之处。至于那是什么，或者可能是什么，答案有时非常难以找到。但是，洛克警告道
 
-> [s]ooner or later the critic must face the basic issues involved in his use of risky and perhaps untenable terms like ‘Negro art’ and ‘Negro literature’ and answer the much-evaded question unequivocally,—who and what is Negro? (WWN 209)
+> [s] ooner or later the critic must face the basic issues involved in his use of risky and perhaps untenable terms like ‘Negro art’ and ‘Negro literature’ and answer the much-evaded question unequivocally,—who and what is Negro? (WWN 209)
 
 Beyond this 阿兰·勒罗伊·洛克 thinks it a meaningful query to ask whether the racial concept has any place in art at all. Perhaps it would be better to understand art as a cultural or social mode of production that cuts across racial and ethnic divisions.
 
@@ -277,7 +277,7 @@ Beyond this 阿兰·勒罗伊·洛克 thinks it a meaningful query to ask whethe
 
 洛克对完全消除种族范畴的可行性和谨慎性有些犹豫。他说，由于以前曾经断言过的明显错误和武断的联系，现在认为种族和文化之间没有重要关系还为时过早。（CRASC 189）
 
-> [i]以某种修订和重建的形式，我们可以预见这些术语的继续使用，即使受到限制，作为更或多或少必要和基本的概念，不能完全消除，但在这种继续使用中必须得到保护，以免进一步流传关于它们的无效假设。（CRASC 189）
+> [i] 以某种修订和重建的形式，我们可以预见这些术语的继续使用，即使受到限制，作为更或多或少必要和基本的概念，不能完全消除，但在这种继续使用中必须得到保护，以免进一步流传关于它们的无效假设。（CRASC 189）
 
 洛克将种族是文化的主要决定因素的原始观念归功于阿瑟·戴·戈比诺的工作，尽管他认为主要科学上证明这一观点的是那些试图以进化的方式解释文化的人，如赫伯特·斯宾塞的社会进化论。在这些理论家中，假设种族与文化之间存在固定联系对于发展文化的逐步解释非常有用。但即使在洛克的时代，这些理论立场的所谓科学基础也面临挑战。鉴于此，洛克认为，有些人希望通过坚持种族与文化之间根本没有联系来纠正这种对事实的错误解读是可以理解的。在这里，我们可能再次看到实用主义思想家（在这种情况下是杜威）对洛克产生的影响，因为杜威常常指出斯宾塞的社会达尔文主义的缺点，尤其是其试图提供关于人类发展各个方面的普遍解释的尝试。洛克担心极端的文化相对主义
 
@@ -289,9 +289,9 @@ Beyond this 阿兰·勒罗伊·洛克 thinks it a meaningful query to ask whethe
 
 ### 6.1 Theoretical and Scientific Conceptions of Race
 
-洛克提出了三种种族概念：理论或科学的、政治的和社会或文化的。科学概念将种族视为自然的生物种类。种族的存在和种族差异是通过人类群体的生物或人种学特征来解释的。科学理论经常声称种族之间存在自然的生物等级，并旨在通过生物因素来解释群体之间的文化特征差异。洛克认为，遗传继承在人类群体内部和群体之间都存在差异，不能成为社会学概念中种族的基础。产生人类物种的遗传细分的因素，如身体和社会的生殖隔离，会产生各种后果（洛克，1989年，190-92页，另见洛克，1992年，4-6页），这些后果可能与群体的社会历史不一致。遗传细分产生的人口差异可能与一个给定社会认为与群体身份相关的社会区别不一致。
+洛克提出了三种种族概念：理论或科学的、政治的和社会或文化的。科学概念将种族视为自然的生物种类。种族的存在和种族差异是通过人类群体的生物或人种学特征来解释的。科学理论经常声称种族之间存在自然的生物等级，并旨在通过生物因素来解释群体之间的文化特征差异。洛克认为，遗传继承在人类群体内部和群体之间都存在差异，不能成为社会学概念中种族的基础。产生人类物种的遗传细分的因素，如身体和社会的生殖隔离，会产生各种后果（洛克，1989 年，190-92 页，另见洛克，1992 年，4-6 页），这些后果可能与群体的社会历史不一致。遗传细分产生的人口差异可能与一个给定社会认为与群体身份相关的社会区别不一致。
 
-洛克认为生物种族是一种民族虚构。（洛克，1992年，11-12页）。所谓的生物种族不一定与在某个社会中起作用的种族化社会身份相对应。种族成为民族虚构的一种方式是当非生物决定的民族或文化群体被认为是真实的生物群体，而实际上它们并不是。洛克似乎并不认为这种虚构的种族观念会削弱这一现象的社会现实性。在洛克的观点中，即使许多关于种族的普遍概念是错误的，种族仍然具有重要意义。种族化的人口可以由其历史中各种遗传、文化和民族的混合组成。将人口种族化的众多因素中的任何一个单一因素作为构成种族的唯一因素，可能会导致一个人对种族群体的概念与任何潜在现实之间的显著分歧。这种分歧可能导致一系列错误的信念和误导性的种族实践。洛克写道：“正如我所指出的，从人类学的角度来看，这些群体是民族虚构。这并不意味着它们不存在，但可以证明，它们并没有像它们自豪的那些因素那样具有[永久的]名称。”（洛克，1992年，11页）
+洛克认为生物种族是一种民族虚构。（洛克，1992 年，11-12 页）。所谓的生物种族不一定与在某个社会中起作用的种族化社会身份相对应。种族成为民族虚构的一种方式是当非生物决定的民族或文化群体被认为是真实的生物群体，而实际上它们并不是。洛克似乎并不认为这种虚构的种族观念会削弱这一现象的社会现实性。在洛克的观点中，即使许多关于种族的普遍概念是错误的，种族仍然具有重要意义。种族化的人口可以由其历史中各种遗传、文化和民族的混合组成。将人口种族化的众多因素中的任何一个单一因素作为构成种族的唯一因素，可能会导致一个人对种族群体的概念与任何潜在现实之间的显著分歧。这种分歧可能导致一系列错误的信念和误导性的种族实践。洛克写道：“正如我所指出的，从人类学的角度来看，这些群体是民族虚构。这并不意味着它们不存在，但可以证明，它们并没有像它们自豪的那些因素那样具有 [永久的] 名称。”（洛克，1992 年，11 页）
 
 阿兰·勒罗伊·洛克对种族的理解受到他所处时代的人类学影响。他认为种族类型不是永久性的观念是从弗朗茨·博阿斯那里得出的。（洛克，1992 年，75-76 页）洛克认为种族和文化独立变化，并且二者之间没有因果关系，这一观点源自 R·H·洛伊的研究。（洛克，1989 年，189-190 页）洛克赞同萨皮尔的观点，即独特的文化或民族特征最好从历史角度解释，而不是从生物学或心理学角度解释。（洛克，1989 年，190 页）他最初对社会种族和种族差异的看法最初是受到弗林德斯-彼得里的同化过程描述的影响，尽管后来这些观点更多地受到他对文化多元主义的概念的影响。（洛克，1989 年，191-192 页）最后，他认为种族实践深深根植于帝国主义，这一观点是从克罗默勋爵那里得出的。（洛克，1992 年，64 页）
 
@@ -305,9 +305,9 @@ Beyond this 阿兰·勒罗伊·洛克 thinks it a meaningful query to ask whethe
 
 ### 6.3 社会或文化对种族的概念
 
-洛克对种族的社会概念是一种原始的社会建构主义种族观。对他来说，种族是一种文化历史现象，而不是自然种类的区分。对洛克来说，种族就是文化；或者反过来说，文化就是种族。文化观念将种族视为一种通过社会传承学习而来的现象。在文化观念中，种族是一种通过交易构成的、固有的变革性的亚文化变体，不受生物决定因素的限制。洛克认为，种族是通过社会遗传延续的文化类型的特征差异。洛克指出：“种族在生命力和基本意义上，简单而主要地是文化遗传，其混合和差异应该根据对文化类型的符合或变异进行适当的分析。”（洛克，1989年，192页）洛克对社会种族的看法意味着在当前的种族范畴内还有进一步的区分。许多通常被视为同一种族的群体实际上构成了几个不同的种族。
+洛克对种族的社会概念是一种原始的社会建构主义种族观。对他来说，种族是一种文化历史现象，而不是自然种类的区分。对洛克来说，种族就是文化；或者反过来说，文化就是种族。文化观念将种族视为一种通过社会传承学习而来的现象。在文化观念中，种族是一种通过交易构成的、固有的变革性的亚文化变体，不受生物决定因素的限制。洛克认为，种族是通过社会遗传延续的文化类型的特征差异。洛克指出：“种族在生命力和基本意义上，简单而主要地是文化遗传，其混合和差异应该根据对文化类型的符合或变异进行适当的分析。”（洛克，1989 年，192 页）洛克对社会种族的看法意味着在当前的种族范畴内还有进一步的区分。许多通常被视为同一种族的群体实际上构成了几个不同的种族。
 
-洛克认为，种族实际上是一个社会和文化范畴，而不是一个生物范畴。因此，他提出了民族种族或文化群体的概念。通过民族种族，我理解洛克指的是一组特殊的心理和情感反应倾向，表现为文化特征，通过历史背景的情境化可以归属于一群特定的人。民族种族的概念是一种保留人类各种群体在特征特质、生活方式、表达形式方面的显著差异的方式，而不涉及科学上无效的生物种族观念。洛克争论道：“如果当时的科学对种族与文化的关系有了更可靠的理解，可能会更多地关注民族而不是人类学因素，那么‘种族’将被视为主要是社会[而不是生物]遗传的问题”（CRASC 191）。
+洛克认为，种族实际上是一个社会和文化范畴，而不是一个生物范畴。因此，他提出了民族种族或文化群体的概念。通过民族种族，我理解洛克指的是一组特殊的心理和情感反应倾向，表现为文化特征，通过历史背景的情境化可以归属于一群特定的人。民族种族的概念是一种保留人类各种群体在特征特质、生活方式、表达形式方面的显著差异的方式，而不涉及科学上无效的生物种族观念。洛克争论道：“如果当时的科学对种族与文化的关系有了更可靠的理解，可能会更多地关注民族而不是人类学因素，那么‘种族’将被视为主要是社会 [而不是生物] 遗传的问题”（CRASC 191）。
 
 民族种族的概念更能够捕捉到文化群体之间在实际社会、文化和历史条件下产生的各种差异，而不依赖于科学上站不住脚的生物因素。从这个观点来看，种族不再被认为是文化的起源者；相反，种族被理解为一种文化产物。洛克认为，他所倡导的更客观的文化分析可能会导致随着时间的推移出现独特的文化类型，从而可能有可能制定一些发展或演化原则。他认为这可能最终使得“相对文化评分的价值标准”得以制定（CRASC 194）。
 

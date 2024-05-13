@@ -54,7 +54,7 @@ Q2.
 
 在 Twins E2 只有在 s 首次独立辩护 Q2 的情况下，才能为相信 P2 提供辩护。假设 s 确实有独立辩护 Q2 的辩护，想象一下 s 学到了 E2。在这种情况下，s 将从 E2 中获得相信 P2 的辩护。但是直观上，s 将不会因为她基于 E2 相信 P2 并且知道 P2 和 Q2 之间推理链接的关系而获得相信 Q2 的辩护。因此，当 Q2 独立辩护时，Twins 实例化了传递失败。
 
-一个无法传递到其前提的特定辩护的结论的论证（例如，基于证据 e 的辩护）可能能够传递到相同结论的不同辩护的前提（例如，基于不同证据 e∗的辩护）。例如，用不同的证据 e∗替换 E2。
+一个无法传递到其前提的特定辩护的结论的论证（例如，基于证据 e 的辩护）可能能够传递到相同结论的不同辩护的前提（例如，基于不同证据 e∗ 的辩护）。例如，用不同的证据 e∗ 替换 E2。
 
 E∗2.
 
@@ -462,7 +462,7 @@ Q3.
 
 笼子里的动物不是聪明地伪装成斑马的骡子。
 
-从 P3 到 Q3 的推理中，E3 的辩护据称未能传递，因为满足了信息依赖模板。因为似乎是真的，只有当 s 对于 Q3 有独立的辩护时，s 才能仅仅基于 E3 获得对于 P3 的辩护。现在假设 s 对于 P3 的辩护是基于 s 看到 P3 而不是 E3。让我们称之为 Zebra*是 Zebra 的对应变体。考虑到对于 P3 所考虑的辩护的非推理性质，Zebra*无法实现信息依赖模板。然而，很容易检查到 Zebra*实现了分离模板。首先，
+从 P3 到 Q3 的推理中，E3 的辩护据称未能传递，因为满足了信息依赖模板。因为似乎是真的，只有当 s 对于 Q3 有独立的辩护时，s 才能仅仅基于 E3 获得对于 P3 的辩护。现在假设 s 对于 P3 的辩护是基于 s 看到 P3 而不是 E3。让我们称之为 Zebra *是 Zebra 的对应变体。考虑到对于 P3 所考虑的辩护的非推理性质，Zebra* 无法实现信息依赖模板。然而，很容易检查到 Zebra*实现了分离模板。首先，
 
 (D1Zebra)
 
@@ -554,7 +554,7 @@ Smith 描述了一种信念具有可靠性的两种方式。一种是 p 的信�
 
 根据史密斯的说法，从 p 到 q 的演绎推理在相对于 p 的基础 e 的情况下无法传递给 q 的辩护，如果 e 是相信 p 的一个有贡献的可靠基础，但对于相信 q 来说是一个无贡献的可靠基础。在这种情况下，推理无法解释 q 的可靠性：如果 s 从另一个命题中推导出一个命题，她会可靠地相信 q，但并不是因为她从 p 中推导出 q（基于 e 的依据）。斑马在这个意义上无法将相对于 P3 的基础 E3 的辩护传递给 Q3。[9]
 
-让我们转向 Alspector-Kelly（2015）。正如我们所见，Wright 对辩护传递失败的分析将问题中的认识论好处解释为与认识论辩护大致相同。[10]通过这样做，Wright 偏离了 Plantinga（1993a，1993b）对辩护的影响力理解，即辩护是将真实信念转化为知识所足够的认识论质量（无论是什么）。然而，人们可能会想知道，是否有无法以 Plantinga 的意义传递辩护的演绎论证。（以下我们只使用“辩护”来指代 Plantinga 的辩护。）Alspector-Kelly 肯定地回答了这个问题，认为某些论证无法传递辩护，因为通过从前提中推断出结论来建立它们的认知项目在程序上是自我戕害的。
+让我们转向 Alspector-Kelly（2015）。正如我们所见，Wright 对辩护传递失败的分析将问题中的认识论好处解释为与认识论辩护大致相同。[10] 通过这样做，Wright 偏离了 Plantinga（1993a，1993b）对辩护的影响力理解，即辩护是将真实信念转化为知识所足够的认识论质量（无论是什么）。然而，人们可能会想知道，是否有无法以 Plantinga 的意义传递辩护的演绎论证。（以下我们只使用“辩护”来指代 Plantinga 的辩护。）Alspector-Kelly 肯定地回答了这个问题，认为某些论证无法传递辩护，因为通过从前提中推断出结论来建立它们的认知项目在程序上是自我戕害的。
 
 Alspector-Kelly 在描述认知项目时遵循 Wright（2012）的观点，将其定义为一个问题和一个执行以回答问题的过程的配对。对于 Alspector-Kelly 来说，认知项目的启动条件是任何命题，如果它不为真，则无法通过执行与之相关联的过程来学习其定义问题的答案。例如，一个给定对象 o 被照亮是通过观察它来确定其颜色的认知项目的启动条件。因为除非 o 被照亮，否则无法通过视觉学习到 o 是某种颜色的。
 
@@ -604,7 +604,7 @@ Q8.
 
 正如预期的那样，其他哲学家认为，摩尔的证明确实传递了辩护，并且其无效性有不同的解释。在 Pryor（2000, 2004）中，对感知辩护的架构的一个重要概念，称为独断主义，拥抱了一种关于感知辩护的广义自由主义形式。这种自由主义形式与 Wright 的保守主义相对立，声称从对 p 的表面感知中对 p 的信念具有原始感知辩护，不需要对怀疑的猜测或非感知假设（如非 Q8）的否定进行独立辩护。对于独断主义者来说，这是因为我们的经验给予我们对其内容的即时和原始感知辩护。说感知辩护是即时的意味着它不预设——甚至不是部分地——对其他任何事物的辩护。说辩护是原始感知的意思是它可以被额外的证据推翻。例如，我们的感知辩护可能会被证据推翻，证明一个相关的非感知假设是真实的，或者 Q8 和非 Q8 的可能性相等。在这一点上，独断主义者和 Wright 是同意的。他们在 s 对 P8 的感知辩护是否需要对 Q8 进行独立辩护的问题上存在分歧。独断主义者否认 s 需要那种独立辩护。因此，根据独断主义者的观点，摩尔的证明将其前提的可用感知辩护传递到结论中。[14]
 
-教条主义者辩称（或可能辩称），然而，摩尔的证明在辩论上存在缺陷（参见普赖尔 2004 年）。争论是，摩尔的证明失败，因为它对说服唯心主义者或外部世界怀疑论者存在外部（物质）世界的目的毫无用处。简而言之，唯心主义者和全球怀疑论者都不相信存在外部世界。由于他们不相信 Q8，他们在首次提供支持 P8 的感知证据时有理性上的必要不信任。因此，他们都会拒绝摩尔的证明，因为它基于一个不合理的前提。[15]莫雷蒂（2014 年）认为，教条主义者可以反过来主张，摩尔的证明是非传递的，因为 s 对手的经验立即使 s 有理由同时相信证明的前提 P8 和结论 Q8。根据这种诊断，摩尔的证明在认识论上存在缺陷，因为它实现了一种间接性的变体（证据是对手的经验）。普赖尔对摩尔的证明的分析主要受到他在感知认识论中的自由主义的批评。（参见科恩 2002 年，2005 年；谢弗 2004 年；赖特 2007 年；怀特 2006 年；西格尔和西林斯 2015 年。）
+教条主义者辩称（或可能辩称），然而，摩尔的证明在辩论上存在缺陷（参见普赖尔 2004 年）。争论是，摩尔的证明失败，因为它对说服唯心主义者或外部世界怀疑论者存在外部（物质）世界的目的毫无用处。简而言之，唯心主义者和全球怀疑论者都不相信存在外部世界。由于他们不相信 Q8，他们在首次提供支持 P8 的感知证据时有理性上的必要不信任。因此，他们都会拒绝摩尔的证明，因为它基于一个不合理的前提。[15] 莫雷蒂（2014 年）认为，教条主义者可以反过来主张，摩尔的证明是非传递的，因为 s 对手的经验立即使 s 有理由同时相信证明的前提 P8 和结论 Q8。根据这种诊断，摩尔的证明在认识论上存在缺陷，因为它实现了一种间接性的变体（证据是对手的经验）。普赖尔对摩尔的证明的分析主要受到他在感知认识论中的自由主义的批评。（参见科恩 2002 年，2005 年；谢弗 2004 年；赖特 2007 年；怀特 2006 年；西格尔和西林斯 2015 年。）
 
 一些作者（例如赖特 2003 年；普赖尔 2004 年；怀特 2006 年；西林斯 2007 年；内塔 2010 年）已经研究了摩尔的某些变体是否具有传递的合理性。这些论证从类似 P8 的前提开始，描述了外部世界的（假设的）可感知状态，并从中推导出相关怀疑猜想的逻辑否定。例如，考虑从 P8 开始并用 Q∗8 替换 Q8 的摩尔的变体：
 
@@ -612,19 +612,19 @@ Q∗8.
 
 It is not the case that I am a handless brain in a vat fed with the hallucination of a hand held up in front of my face.
 
-Let’s call *Moore**this variant of *[Moore](https://plato.stanford.edu/entries/transmission-justification-warrant/#exMoore)*. While dogmatists *à la* Pryor argue that *Moore** is transmissive but dialectically flawed (cf. Pryor 2004), conservatives *à la* Wright contend that it is non-transmissive (cf. Wright 2007). Although it remains very controversial whether or not *Moore* is transmissive, epistemologists have found some *prima facie* reason to think that arguments like *Moore** are non-transmissive.
+Let’s call *Moore* *this variant of * [Moore](https://plato.stanford.edu/entries/transmission-justification-warrant/#exMoore) *. While dogmatists * à la * Pryor argue that * Moore** is transmissive but dialectically flawed (cf. Pryor 2004), conservatives *à la* Wright contend that it is non-transmissive (cf. Wright 2007). Although it remains very controversial whether or not *Moore* is transmissive, epistemologists have found some *prima facie* reason to think that arguments like *Moore** are non-transmissive.
 
-An important difference between *Moore* and *Moore**is this: whereas the logical negation of [Q8](https://plato.stanford.edu/entries/transmission-justification-warrant/#Q8) does *not* explain the evidential statement [E8](https://plato.stanford.edu/entries/transmission-justification-warrant/#E8) (“My experience is in all respects as of a hand held up in front of my face”) adduced in support of [P8](https://plato.stanford.edu/entries/transmission-justification-warrant/#P8), the logical negation of [Q∗8](https://plato.stanford.edu/entries/transmission-justification-warrant/#Q8star)—Not-Q∗8—somewhat *explains* E8. Since Not-Q∗8 provides a potential explanation of E8, is it intuitive that E8 is *evidence* (perhaps very week) for believing Not-Q∗8. It is easy to conclude from this that s cannot acquire justification for believing Q∗8 via transmission through *Moore** upon learning E8. For it is intuitive that if this were the case, E8 should count as evidence for Q∗8. But this is impossible: one and the same proposition cannot simultaneously be evidence for a hypothesis and its logical negation. By formalizing intuitions of this type, White (2006) has put forward a simple Bayesian argument to the effect that *Moore** and similar variants of *Moore* are not transmissive of justification.[[16](https://plato.stanford.edu/entries/transmission-justification-warrant/notes.html#note-16)] (See Silins 2007 for discussion. For responses to White, see Weatherson 2007; Kung 2010; Moretti 2015.)
+An important difference between *Moore* and *Moore* *is this: whereas the logical negation of [Q8](https://plato.stanford.edu/entries/transmission-justification-warrant/#Q8) does * not * explain the evidential statement [E8](https://plato.stanford.edu/entries/transmission-justification-warrant/#E8) (“My experience is in all respects as of a hand held up in front of my face”) adduced in support of [P8](https://plato.stanford.edu/entries/transmission-justification-warrant/#P8), the logical negation of [Q∗8](https://plato.stanford.edu/entries/transmission-justification-warrant/#Q8star)—Not-Q∗8—somewhat * explains * E8. Since Not-Q∗8 provides a potential explanation of E8, is it intuitive that E8 is * evidence * (perhaps very week) for believing Not-Q∗8. It is easy to conclude from this that s cannot acquire justification for believing Q∗8 via transmission through * Moore** upon learning E8. For it is intuitive that if this were the case, E8 should count as evidence for Q∗8. But this is impossible: one and the same proposition cannot simultaneously be evidence for a hypothesis and its logical negation. By formalizing intuitions of this type, White (2006) has put forward a simple Bayesian argument to the effect that *Moore* * and similar variants of * Moore* are not transmissive of justification.[[16](https://plato.stanford.edu/entries/transmission-justification-warrant/notes.html#note-16)] (See Silins 2007 for discussion. For responses to White, see Weatherson 2007; Kung 2010; Moretti 2015.)
 
 从上述分析可以很容易得出结论，信息依赖模板由 Moore*和类似的证明所满足。实际上，需要注意的是，如果 E8 既是 P8 的证据又是 Not-Q∗8 的证据，那么可以说，只有当 s 对于不相信 Not-Q∗8 并相信 Q∗8 有独立的证明时，s 才能获得相信 P8 的辩护。由于 Not-Q∗8 对于 Pryor 来说是一个非感知假设，这给我们怀疑直觉主义提供了理由（参见 White 2006）[17]。
 
-Coliva（2012 年，2015 年）捍卫了一种被她称为温和主义的观点，旨在成为 Wright 的保守主义和 Pryor 的直觉主义之间的中间道路。温和主义者反对保守主义者的观点，认为基石无法被证明，并且为了拥有感知辩护，s 不需要为接受任何基石提供辩护。另一方面，温和主义者声称，为了拥有感知辩护，s 需要假设（没有辩护）相关的基石[18]。通过依赖于她在第 3.2 节中描述的信息依赖模板的变体，Coliva 得出结论，无论是 Moore 还是类似 Moore*的证明都不具有传递性。（关于温和主义的批评讨论，请参见 Avnur 2017；Baghramian 2017；Millar 2017；Volpe 2017；Coliva 2017。）
+Coliva（2012 年，2015 年）捍卫了一种被她称为温和主义的观点，旨在成为 Wright 的保守主义和 Pryor 的直觉主义之间的中间道路。温和主义者反对保守主义者的观点，认为基石无法被证明，并且为了拥有感知辩护，s 不需要为接受任何基石提供辩护。另一方面，温和主义者声称，为了拥有感知辩护，s 需要假设（没有辩护）相关的基石 [18]。通过依赖于她在第 3.2 节中描述的信息依赖模板的变体，Coliva 得出结论，无论是 Moore 还是类似 Moore*的证明都不具有传递性。（关于温和主义的批评讨论，请参见 Avnur 2017；Baghramian 2017；Millar 2017；Volpe 2017；Coliva 2017。）
 
-识论分离主义者如麦克道尔和普里查德认为，在感知知识的典范案例中，用于为相信 P8 提供辩护的不是 E8，而是 s 的确凿的看到 P8 的状态。这似乎对于摩尔是否传递命题辩护有一定的影响。普里查德明确地辩护了这样一种观点：当 s 看到 P8 时，从 P8 推理出与 P8 不一致的任何怀疑假设的否定，如 Q∗8，s 可以通过推理从 P8 得知 Q∗8（参见普里查德 2012a: 129–30）。这可能会使人相信，对于普里查德来说，摩尔可以通过*s'* 看到 P8 的辩护来传递给 Q∗8（参见 Lockhart 2018，对此有明确的论证）。然而，这种观点必须小心处理。
+识论分离主义者如麦克道尔和普里查德认为，在感知知识的典范案例中，用于为相信 P8 提供辩护的不是 E8，而是 s 的确凿的看到 P8 的状态。这似乎对于摩尔是否传递命题辩护有一定的影响。普里查德明确地辩护了这样一种观点：当 s 看到 P8 时，从 P8 推理出与 P8 不一致的任何怀疑假设的否定，如 Q∗8，s 可以通过推理从 P8 得知 Q∗8（参见普里查德 2012a: 129–30）。这可能会使人相信，对于普里查德来说，摩尔可以通过 *s'* 看到 P8 的辩护来传递给 Q∗8（参见 Lockhart 2018，对此有明确的论证）。然而，这种观点必须小心处理。
 
 正如我们在第 2 节中所看到的，普里查德认为，当一个人基于证据 e 知道 p 时，只有当 e 足够支持 q 时，他才能通过从 p 推理出 p 的结果 q 来知道 q。对于普里查德来说，当 s 的支持相信 P8 的基础是 s 的看到 P8 的状态构成的时候，s 的认识情境是客观良好的（即，s 的认知能力在合作环境中正常工作），而被 Q∗8 排除的怀疑假设没有被认识论上的动机所推动。因此，在这种情况下，s 对于相信 P8 有一个可反思的确凿支持，这意味着并且足够支持 Q∗8。因此，在这种情况下，没有任何东西妨碍 s 从 P8 中有能力推导出 Q∗8，从而基于 P8 得知 Q∗8。
 
-如果在从一个命题推导出另一个命题时，s 第一次合理地相信 Q∗8，那么从 P8 到 Q∗8 的推理可能传递了信念的合理性。（请参阅有关命题合理性传递与信念合理性传递的补充说明。）然而，当 s 对 P8 的支持是由 s 看到 P8 构成时，Moore*是否也传递了命题合理性就更加可疑了。例如，有人可能认为 Moore*是非传递性的，因为它实例化了第 3.2 节中描述的分离模板（参见 Wright 2002 年）。首先，P8 蕴含 Q∗8，因此满足了（D1）。设 R∗Moore 是这样一个命题：这不是手，而是 s 被一只手遮挡住了。由于如果 Q∗8 为假，R∗Moore 将为真，因此也满足了（D4）。此外，将 s 对 P8 的合理性依据视为 s 看到 P8。由于这种经验对于 s 来说与 R∗Moore 为真的状态无法区分，因此也满足了（D2）。最后，可以认为不幻觉是通过感知来学习自己环境的认知项目的预设命题。由此可见，R∗Moore 与 s 通过感知学习自己环境的认知项目的预设命题不相容。因此，（D3∗）也似乎得到了满足。因此，Moore*不会将 s 对 P8 的合理性传递给 Q∗8。
+如果在从一个命题推导出另一个命题时，s 第一次合理地相信 Q∗8，那么从 P8 到 Q∗8 的推理可能传递了信念的合理性。（请参阅有关命题合理性传递与信念合理性传递的补充说明。）然而，当 s 对 P8 的支持是由 s 看到 P8 构成时，Moore *是否也传递了命题合理性就更加可疑了。例如，有人可能认为 Moore* 是非传递性的，因为它实例化了第 3.2 节中描述的分离模板（参见 Wright 2002 年）。首先，P8 蕴含 Q∗8，因此满足了（D1）。设 R∗Moore 是这样一个命题：这不是手，而是 s 被一只手遮挡住了。由于如果 Q∗8 为假，R∗Moore 将为真，因此也满足了（D4）。此外，将 s 对 P8 的合理性依据视为 s 看到 P8。由于这种经验对于 s 来说与 R∗Moore 为真的状态无法区分，因此也满足了（D2）。最后，可以认为不幻觉是通过感知来学习自己环境的认知项目的预设命题。由此可见，R∗Moore 与 s 通过感知学习自己环境的认知项目的预设命题不相容。因此，（D3∗）也似乎得到了满足。因此，Moore*不会将 s 对 P8 的合理性传递给 Q∗8。
 
 为了反驳这个结论，一个分离主义者可能会坚持认为，相对于 s 通过看到 P8 提供的对 P8 的支持，Moore*并不总是实现分离模板，因为(D2)不一定被满足（参见 Lockhart 2018）。通过引用 Pritchard（2012a）提出的一个区别，人们可能会认为(D2)不一定被满足，因为尽管 s 无法内省地区分看到 P8 和幻觉 P8，但她可能有支持她处于第一种状态的证据，这使得这种状态可以反思地被访问。对于 Pritchard 来说，这种情况发生在 s 在良好的认识条件下看到 P8，并且对 s 正在幻觉一个手的怀疑没有被认识论上的动机所推动。在这种情况下，即使她无法内省地区分一种情况和另一种情况，s 也可以通过从 P8 推理出 Q∗8 来知道 Q∗8。
 
@@ -694,7 +694,7 @@ s（或 s 的语言社区）已嵌入到一个包含某种水质物质的环境�
 
 这种替代策略假设 Q11 是 s 的认知项目中获得 P10 内省辩护的前提，而不是 Q10。
 
-即使 Water 不实例化分离模板，对 McKinsey 悖论的新诊断也可以基于这样的主张：通过将 Q11 作为结论扩展 Water 所产生的不同论证（称为 Water *）实例化了分离模板。如果 Rwater 是与上述相同的命题，很容易看出 Water*满足分离模板的条件（D4）、（D2）和（D3∗）。此外，至少从感觉上来说，P10 通过 Q10 蕴含 Q11（如果 P11 是背景信息）似乎是先验的（参见 Wright 2011）。根据这种新诊断的非传递性，令人困惑的是，s 可以通过她对 P10 和 P11 的非经验辩护以及她对从 P10、P11 通过 Q10 到 Q11 的先验联系的认识来获得对 Q11 的辩护。如果遵循 Wright（2003）的建议[21]，即 s 有权接受 Q11，即假设存在一种水质物质为“水”提供其范围，那么 Water 就变得无害传递，并且围绕 Water 的表面悖论消失。至少在假设水是我们实际熟悉的水质物质的先验情况下，一旦假设存在任何我们实际熟悉的水质物质。对于对 McKinsey 悖论的这种类型的回应的有用批评，请参见 Sainsbury（2000）、Pritchard（2002）、Brown（2003, 2004）、McLaughlin（2003）、McKinsey（2003）和 Kallestrup（2011）。
+即使 Water 不实例化分离模板，对 McKinsey 悖论的新诊断也可以基于这样的主张：通过将 Q11 作为结论扩展 Water 所产生的不同论证（称为 Water *）实例化了分离模板。如果 Rwater 是与上述相同的命题，很容易看出 Water* 满足分离模板的条件（D4）、（D2）和（D3∗）。此外，至少从感觉上来说，P10 通过 Q10 蕴含 Q11（如果 P11 是背景信息）似乎是先验的（参见 Wright 2011）。根据这种新诊断的非传递性，令人困惑的是，s 可以通过她对 P10 和 P11 的非经验辩护以及她对从 P10、P11 通过 Q10 到 Q11 的先验联系的认识来获得对 Q11 的辩护。如果遵循 Wright（2003）的建议 [21]，即 s 有权接受 Q11，即假设存在一种水质物质为“水”提供其范围，那么 Water 就变得无害传递，并且围绕 Water 的表面悖论消失。至少在假设水是我们实际熟悉的水质物质的先验情况下，一旦假设存在任何我们实际熟悉的水质物质。对于对 McKinsey 悖论的这种类型的回应的有用批评，请参见 Sainsbury（2000）、Pritchard（2002）、Brown（2003, 2004）、McLaughlin（2003）、McKinsey（2003）和 Kallestrup（2011）。
 
 <!--md-padding-ignore-begin-->
 ## Bibliography

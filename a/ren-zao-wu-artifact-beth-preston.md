@@ -72,7 +72,7 @@ Amie Thomasson (2007a; and for a succinct summary, 2009)采取了不同的方法
 
 如果人造物不存在，那么我们对它们进行分类的种类——枕头、书籍、绘画、花盆——与天然种类（如橡树、猫头鹰或变色龙）不是真正的种类。但是，对于那些认为人造物存在的人来说，关于人造物种类的真实性和性质的问题也会出现。正如我们所见，这些理论家抵制了人造物的心智依赖会损害其本体论地位的反对意见。但是，这个反对意见在涉及人造物种类时又重新出现。人造物的心智依赖意味着，至少，对人造物种类的解释将与对天然种类的解释非常不同。这一含义遭到了克劳福德·埃尔德（Crawford Elder）（2004 年；2007 年）的抵制，他试图通过对种类的现实主义解释来证明人造物的存在。在埃尔德的观点中，人造物种类和许多天然种类都是同样的复制种类，同样是独立于心智的。复制种类由一组性质定义，这些性质自然地聚集在一起——独特的形状或构造，通过一个复制机制在成功表现的基础上复制具有该形状的物体，以及一个历史上适当的位置。例如，猫的胡须是独特形状的器官，通过基于生物的繁殖机制从猫复制到猫，因为它们通过成功地作为触觉感受器在黑暗中帮助猫四处移动，并与猫的其他身体部位相对应地放置。同样，落地灯是独特形状的人造物，通过基于社会的繁殖机制从家庭复制到家庭，因为它们通过成功地作为光源在黑暗中帮助人类四处移动，并与其他家具相对应地放置。当然，人类的有意识状态在人造物的复制过程中起到作用。然而，埃尔德认为：
 
-> [C]reation does not begin with the artisan’s intending what he does. Rather, the essential properties that his product will inherit stem from a history of function and of copying that began well before the artisan undertook his work. This history reaches forward through the artisan’s motions—it shapes his shaping. Its existence and its efficacy are independent, largely or even entirely, of the artisan’s will. (Elder 2004, 142–143)
+> [C] reation does not begin with the artisan’s intending what he does. Rather, the essential properties that his product will inherit stem from a history of function and of copying that began well before the artisan undertook his work. This history reaches forward through the artisan’s motions—it shapes his shaping. Its existence and its efficacy are independent, largely or even entirely, of the artisan’s will. (Elder 2004, 142–143)
 
 所以，所有的复制品都是自然的、与心灵无关的种类，我们发现而不是发明它们的聚类特征。
 

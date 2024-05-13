@@ -50,9 +50,9 @@ Moore and Russell came to reject the identity theory of truth in favor of a corr
 
 对于新古典符合论来说，事实本身就是实体。事实通常被认为由个体、属性、关系或普遍性组成，至少如此。因此，新古典符合论只在包含这些事实的形而上学框架中才有意义。因此，摩尔和罗素转向真理同一论后，事实的形而上学在他们的观点中扮演了更重要的角色，这并非偶然。这在后来的罗素（1956 年，第 182 页）中可能变得最为生动，“事实的存在是‘第一个真理’”。（维特根斯坦的思想对罗素在这个时期的影响很大，事实上，《论述》（1922 年）仍然是新古典符合论的重要来源之一。有关事实的最新广泛讨论，请参见阿姆斯特朗（1997 年）和尼尔（2001 年）。）
 
-例如，考虑信念“Ramey 唱歌”。让我们承认这个信念是真实的。根据符合论，它的真实性在于世界上存在一个由个体 Ramey 和唱歌属性构成的事实。让我们表示为⟨Ramey，Singing⟩。这个事实是存在的。相比之下，世界（我们假设）中没有事实⟨Ramey，Dancing⟩。信念“Ramey 唱歌”与事实⟨Ramey，Singing⟩之间存在符合关系，因此这个信念是真实的。
+例如，考虑信念“Ramey 唱歌”。让我们承认这个信念是真实的。根据符合论，它的真实性在于世界上存在一个由个体 Ramey 和唱歌属性构成的事实。让我们表示为 ⟨Ramey，Singing⟩。这个事实是存在的。相比之下，世界（我们假设）中没有事实 ⟨Ramey，Dancing⟩。信念“Ramey 唱歌”与事实 ⟨Ramey，Singing⟩ 之间存在符合关系，因此这个信念是真实的。
 
-What is the relation of correspondence? One of the standing objections to the classical correspondence theory is that a fully adequate explanation of correspondence proves elusive. But for a simple belief, like that Ramey sings, we can observe that the structure of the fact ⟨*Ramey*, *Singing*⟩ matches the subject-predicate form of the *that*-clause which reports the belief, and may well match the structure of the belief itself.
+What is the relation of correspondence? One of the standing objections to the classical correspondence theory is that a fully adequate explanation of correspondence proves elusive. But for a simple belief, like that Ramey sings, we can observe that the structure of the fact ⟨ *Ramey*, *Singing* ⟩ matches the subject-predicate form of the *that*-clause which reports the belief, and may well match the structure of the belief itself.
 
 So far, we have very much the kind of view that Moore and Russell would have found congenial. But the modern form of the correspondence theory seeks to round out the explanation of correspondence by appeal to *propositions*. Indeed, it is common to base a correspondence theory of truth upon the notion of a *structured proposition*. Propositions are again cast as the contents of beliefs and assertions, and propositions have structure which at least roughly corresponds to the structure of sentences. At least, for simple beliefs like that Ramey sings, the proposition has the same subject predicate structure as the sentence. (Proponents of structured propositions, such as Kaplan (1989), often look to Russell (1903) for inspiration, and find unconvincing Russell’s reasons for rejecting them.)
 
@@ -146,30 +146,30 @@ Many idealists at that time did indeed hold coherence theories. Let us take as a
 
 让我们假设我们有一个固定的语言 L，其句子是完全解释的。塔斯基提出的基本问题是关于 L 的真理的一个充分理论是什么。塔斯基的答案体现在他所称的约定 T 中：
 
-> 对于 L 的一个充分的真理理论必须暗示，对于 L 的每个句子ϕ，┌ϕ┐当且仅当ϕ为真。
+> 对于 L 的一个充分的真理理论必须暗示，对于 L 的每个句子 ϕ，┌ϕ┐ 当且仅当 ϕ 为真。
 
-> （我们对 Tarski 的演示进行了简化。）这是对于理论的充分性条件，而不是一个理论本身。在假设 L 是完全解释的情况下，我们可以假设每个句子ϕ实际上都有一个真值。鉴于此，T 公约保证了由该理论给出的真理谓词在外延上是正确的，即其外延仅包括 L 的真句子。
+> （我们对 Tarski 的演示进行了简化。）这是对于理论的充分性条件，而不是一个理论本身。在假设 L 是完全解释的情况下，我们可以假设每个句子 ϕ 实际上都有一个真值。鉴于此，T 公约保证了由该理论给出的真理谓词在外延上是正确的，即其外延仅包括 L 的真句子。
 
 (We have simplified Tarski’s presentation somewhat.) This is an adequacy condition for theories, not a theory itself. Given the assumption that L is fully interpreted, we may assume that each sentence ϕ in fact has a truth value. In light of this, Convention T guarantees that the truth predicate given by the theory will be *extensionally correct*, i.e., have as its extension all and only the true sentences of L.
 
 约定 T 引起我们对形式为
 
-> ┌┌ϕ┐当且仅当ϕ┐的双条件式的注意，
+> ┌┌ϕ┐ 当且仅当 ϕ┐ 的双条件式的注意，
 
 这通常被称为语言 L 的 Tarski 双条件式。
 
 ### 2.3 真理的递归定义
 
-塔斯基不仅提出了真理理论的充分条件，还展示了如何满足这一条件。他的一个洞见是，如果语言 L 具有正确的结构，那么可以递归地定义 L 的真理。例如，假设 L 是一个简单的形式语言，包含两个原子句子“雪是白色的”和“草是绿色的”，以及联结词∨和¬。
+塔斯基不仅提出了真理理论的充分条件，还展示了如何满足这一条件。他的一个洞见是，如果语言 L 具有正确的结构，那么可以递归地定义 L 的真理。例如，假设 L 是一个简单的形式语言，包含两个原子句子“雪是白色的”和“草是绿色的”，以及联结词 ∨ 和 ¬。
 
 尽管 L 很简单，但它包含无限多个不同的句子。但是可以通过递归为它们定义真理。
 
 1. 基本子句：
-2. 当且仅当雪是白色时，"雪是白色"为真。
-3. 当且仅当草是绿色时，"草是绿色"为真。
-4. 递归子句。对于 L 的任何句子ϕ和ψ：
-5. 当且仅当┌ϕ┐为真或┌ψ┐为真时，┌ϕ∨ψ┐为真。
-6. 当且仅当┌ϕ┐不为真时，┌¬ϕ┐为真。
+2. 当且仅当雪是白色时，"雪是白色" 为真。
+3. 当且仅当草是绿色时，"草是绿色" 为真。
+4. 递归子句。对于 L 的任何句子 ϕ 和 ψ：
+5. 当且仅当 ┌ϕ┐ 为真或 ┌ψ┐ 为真时，┌ϕ∨ψ┐ 为真。
+6. 当且仅当 ┌ϕ┐ 不为真时，┌¬ϕ┐ 为真。
 
 这个理论满足公约 T。
 
@@ -186,7 +186,7 @@ Many idealists at that time did indeed hold coherence theories. Let us take as a
 3. ‘Grass’ refers to grass.
 4. a satisfies ‘is white’ if and only if a is white.
 5. 如果且仅如果 a 是绿色的，那么 a 满足“是绿色的”。
-6. 对于任何原子句┌t 是 P┐：如果且仅如果┌t┐的指称满足┌P┐，那么┌t 是 P┐是真的。
+6. 对于任何原子句 ┌t 是 P┐：如果且仅如果 ┌t┐ 的指称满足 ┌P┐，那么 ┌t 是 P┐ 是真的。
 
 塔斯基的一个关键洞察是，满足的装置允许对带有量词的句子进行递归定义的真理，尽管我们在这里不会讨论这一点。我们可以重复递归子句来为 L 生成一个完整的 L'真理理论。
 
@@ -196,7 +196,7 @@ For more, see Ray (2018) and the entries on [axiomatic theories of truth](https:
 
 ## 3. Correspondence revisited
 
-真理的符合论表达了一个非常自然的观念，即真理是一种内容到世界或词语到世界的关系：我们所说或所思的东西之所以真实或虚假，是由于世界的实际情况。我们提出，在像事实的形而上学这样的背景下，它以一种直接的方式做到了这一点。但是，符合的观念当然不仅限于这个框架。实际上，争议的焦点是，符合论是否应该依赖于任何特定的形而上学。符合的基本观念，正如塔斯基（1944 年）和其他人所建议的那样，可以用亚里士多德的《形而上学Γ 7.27》中的口号来概括：“对于存在的事物说它存在，对于不存在的事物说它不存在，是真实的”（罗斯，1928 年）。可以说，“存在的事物”是一个事实，但这种自然的说法可能并不需要一个完整的事实形而上学。（有关亚里士多德观点的历史背景讨论，请参见 Szaif（2018 年）。）
+真理的符合论表达了一个非常自然的观念，即真理是一种内容到世界或词语到世界的关系：我们所说或所思的东西之所以真实或虚假，是由于世界的实际情况。我们提出，在像事实的形而上学这样的背景下，它以一种直接的方式做到了这一点。但是，符合的观念当然不仅限于这个框架。实际上，争议的焦点是，符合论是否应该依赖于任何特定的形而上学。符合的基本观念，正如塔斯基（1944 年）和其他人所建议的那样，可以用亚里士多德的《形而上学 Γ 7.27》中的口号来概括：“对于存在的事物说它存在，对于不存在的事物说它不存在，是真实的”（罗斯，1928 年）。可以说，“存在的事物”是一个事实，但这种自然的说法可能并不需要一个完整的事实形而上学。（有关亚里士多德观点的历史背景讨论，请参见 Szaif（2018 年）。）
 
 然而，如果没有事实的形而上学，如第 1.1 节所讨论的符合论的概念就会失去实质。这导致了当代关于符合论的两种不同思路。一种思路是试图以不依赖于任何特定本体论的方式重新构建符合论。另一种思路是试图找到一个适当的符合论本体论，无论是以事实还是其他实体的形式。我们将依次考虑每种思路。
 
@@ -245,7 +245,7 @@ The project of developing a naturalist account of the representation relation ha
 
 真理生成原理通常被表述为模式：
 
-> 如果ϕ成立，则存在一个 x，使得必然地，如果 x 存在，则ϕ成立。
+> 如果 ϕ 成立，则存在一个 x，使得必然地，如果 x 存在，则 ϕ 成立。
 
 (Fox (1987) proposed putting the principle this way, rather than explicitly in terms of truth.)
 
@@ -340,7 +340,7 @@ The neo-classical correspondence theory, and Armstrong, cast facts as the approp
 
 等价论也可以从言语行为的角度来理解，而不是从意义的角度来理解：
 
-> 断言┌ϕ┐为真只是断言ϕ。
+> 断言 ┌ϕ┐ 为真只是断言 ϕ。
 
 这个观点是由斯特劳森（1949 年；1950 年）提出的，尽管斯特劳森还认为涉及“真实”的言语行为还有其他重要方面，例如，它们可能是确认或授予他人所说的内容的行为。（斯特劳森也会反对我将句子作为真实性的承载者。）
 
@@ -352,7 +352,7 @@ The neo-classical correspondence theory, and Armstrong, cast facts as the approp
 
 一些紧缩论理论关注的是塔斯基双条件式，而不是完整的等价原则。它们的关键思想是，即使我们不坚持冗余性，我们仍然可以持有以下论点：
 
-1. 对于给定的语言 L 和 L 中的每个ϕ，当且仅当ϕ根据定义（或分析地、平凡地、或者根据规定...）成立时，双条件┌┌ϕ┐为真。
+1. 对于给定的语言 L 和 L 中的每个 ϕ，当且仅当 ϕ 根据定义（或分析地、平凡地、或者根据规定...）成立时，双条件 ┌┌ϕ┐ 为真。
 2. 关于真理概念，就只有这么多要说的。
 
 我们将把采用这些观点的称为极简主义。正式地说，这是 Horwich（1990）的观点的名称，但我们将更广泛地应用它。（Horwich 的观点在某些具体方面与此处所述有所不同，例如将真理作为命题的谓词，但我们认为它与此处所描绘的足够接近，以证明这个名称的使用是合理的。）
@@ -393,7 +393,7 @@ The neo-classical correspondence theory, and Armstrong, cast facts as the approp
 
 真理的新古典理论从已被理解为有意义的真理承担者开始，并解释它们如何获得真值。但在这个过程中，它们通常做得更多。以新古典对应理论为例。这个理论实际上从一个关于命题如何有意义的观点开始。它们之所以有意义，是因为它们在世界上有构成要素，并以正确的方式组合在一起。关于意义的性质有很多复杂之处，但至少，这告诉我们与命题相关的真理条件是什么。然后，该理论解释了这样的真理条件如何通过正确的事实存在导致真值为真。
 
-许多真理理论与新古典对应理论一样，既是关于真理承担者如何有意义，又是关于它们的真值如何确定的理论。再次抽象出一些关于意义的复杂性，这使它们成为真理条件和真值的理论。塔斯基的真理理论也可以这样解释。这可以从对塔斯基双条件式的理解以及对真理的递归理论的理解中看出。正如我们在第 2.2 节中解释的约定 T，形式为┌┌ϕ┐是真当且仅当ϕ┐的塔斯基双条件式的主要作用是确定ϕ是否在“是真”的范围内。但它也可以被看作是陈述了ϕ的真理条件。两者都依赖于ϕ的非引用出现是一个被解释的句子的出现，它具有一个真值，但也在使用的场合提供了它的真理条件。
+许多真理理论与新古典对应理论一样，既是关于真理承担者如何有意义，又是关于它们的真值如何确定的理论。再次抽象出一些关于意义的复杂性，这使它们成为真理条件和真值的理论。塔斯基的真理理论也可以这样解释。这可以从对塔斯基双条件式的理解以及对真理的递归理论的理解中看出。正如我们在第 2.2 节中解释的约定 T，形式为 ┌┌ϕ┐ 是真当且仅当 ϕ┐ 的塔斯基双条件式的主要作用是确定 ϕ 是否在“是真”的范围内。但它也可以被看作是陈述了 ϕ 的真理条件。两者都依赖于 ϕ 的非引用出现是一个被解释的句子的出现，它具有一个真值，但也在使用的场合提供了它的真理条件。
 
 同样地，真理的递归定义的基本子句，即参照和满足性，被认为陈述了解释句子成分的相关语义属性。在第 2 节讨论塔斯基的真理理论时，我们关注的是这些如何确定一个句子的真值。但它们也向我们展示了一个句子的真条件是由这些语义属性决定的。例如，对于一个简单的句子，比如“雪是白色的”，该理论告诉我们，如果“雪”的指称满足“白色的”，那么该句子是真的。这可以理解为告诉我们，“雪是白色的”的真条件是“雪”的指称满足谓词“是白色的”的条件。
 

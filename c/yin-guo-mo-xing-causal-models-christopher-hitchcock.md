@@ -48,7 +48,7 @@ _W=1_代表窗户破碎；_W=0_代表窗户保持完好。
 
 ### 2.2 概率
 
-在[第 4 节](https://plato.stanford.edu/entries/causal-models/#ProbCausMode)，我们将考虑包括概率的因果模型。概率是一个函数，P，它分配介于零和一之间（包括零和一）的值。概率函数的定义域是一组命题，其中将包括上述所有布尔命题，但也可能包括其他命题。
+在 [第 4 节](https://plato.stanford.edu/entries/causal-models/#ProbCausMode)，我们将考虑包括概率的因果模型。概率是一个函数，P，它分配介于零和一之间（包括零和一）的值。概率函数的定义域是一组命题，其中将包括上述所有布尔命题，但也可能包括其他命题。
 
 一些概率的标准属性如下：
 
@@ -81,19 +81,19 @@ P(X∣Y)=P(X)
 
 在这里，每个变量的量化域将是相关变量的范围。
 
-我们不会预设任何特定的概率解释（请参阅[概率解释](https://plato.stanford.edu/entries/probability-interpret/)条目），但我们将假设适当选择的样本中的频率提供了关于潜在概率的证据。例如，假设有一个包括上述变量_E_和_I_的因果模型，其中 P(E=3)=.25。那么我们期望，如果我们调查一个大的、随机选择的美国成年人样本，我们会发现大约四分之一的人拥有学士学位，但没有更高的学位。如果调查产生的样本频率与此有显著差异，我们有证据表明模型不准确。
+我们不会预设任何特定的概率解释（请参阅 [概率解释](https://plato.stanford.edu/entries/probability-interpret/) 条目），但我们将假设适当选择的样本中的频率提供了关于潜在概率的证据。例如，假设有一个包括上述变量_E_和_I_的因果模型，其中 P(E=3)=.25。那么我们期望，如果我们调查一个大的、随机选择的美国成年人样本，我们会发现大约四分之一的人拥有学士学位，但没有更高的学位。如果调查产生的样本频率与此有显著差异，我们有证据表明模型不准确。
 
 ### 2.3 图
 
-如果 V 是因果模型中包含的变量集合，表示 V 中变量之间的因果关系的一种方式是通过_图_。虽然我们将在[第 3 节](https://plato.stanford.edu/entries/causal-models/#DeteStruEquaMode)中介绍和使用图，但它们将在[第 4 节](https://plato.stanford.edu/entries/causal-models/#ProbCausMode)中扮演更重要的角色。我们将讨论两种类型的图。第一种是_有向无环图_（DAG）。在变量集合 V 上的_有向图_ G 是 V 中变量的有序对的集合。我们通过从 *X* 指向 *Y* 的箭头来进行可视化表示，仅当 ⟨X,Y⟩ 在 G 中时。[图 1](https://plato.stanford.edu/entries/causal-models/#fig1) 展示了一个在变量集合 V={S,T,W,X,Y,Z} 上的有向图。
+如果 V 是因果模型中包含的变量集合，表示 V 中变量之间的因果关系的一种方式是通过_图_。虽然我们将在 [第 3 节](https://plato.stanford.edu/entries/causal-models/#DeteStruEquaMode) 中介绍和使用图，但它们将在 [第 4 节](https://plato.stanford.edu/entries/causal-models/#ProbCausMode) 中扮演更重要的角色。我们将讨论两种类型的图。第一种是_有向无环图_（DAG）。在变量集合 V 上的_有向图_ G 是 V 中变量的有序对的集合。我们通过从 *X* 指向 *Y* 的箭头来进行可视化表示，仅当 ⟨X,Y⟩ 在 G 中时。[图 1](https://plato.stanford.edu/entries/causal-models/#fig1) 展示了一个在变量集合 V={S,T,W,X,Y,Z} 上的有向图。
 
 ![一个图表，其中 S 有一个指向北方的箭头指向 T；T 有一个指向西北的箭头指向 X 和一个指向东北的箭头指向 Y；Y 有一个指向东北的箭头指向 Z；W 有一个指向北方的箭头指向 Z 和一个指向西北的箭头指向 Y](https://plato.stanford.edu/entries/causal-models/fig1.svg)
 
 图 1
 
-在一个有向图中，_路径_是一系列不重复的箭头，它们的端点相同。例如，在[图 1](https://plato.stanford.edu/entries/causal-models/#fig1)中，从_X_到_Z_有一条路径，我们可以写成 X←T→Y→Z。*有向路径_是所有箭头指向同一方向的路径；例如，有一条有向路径 S→T→Y→Z。如果没有从一个变量指向自身的有向路径，则有向图是_无环_的，因此是 DAG。这样的有向路径称为_循环*。图 1 中不包含循环，因此是 DAG。
+在一个有向图中，_路径_是一系列不重复的箭头，它们的端点相同。例如，在 [图 1](https://plato.stanford.edu/entries/causal-models/#fig1) 中，从_X_到_Z_有一条路径，我们可以写成 X←T→Y→Z。*有向路径_是所有箭头指向同一方向的路径；例如，有一条有向路径 S→T→Y→Z。如果没有从一个变量指向自身的有向路径，则有向图是_无环_的，因此是 DAG。这样的有向路径称为_循环*。图 1 中不包含循环，因此是 DAG。
 
-图中的关系通常用家族关系的语言来描述。变量_X_是_Y_的_父母_，只要有一条从_X_到_Y_的箭头。PA(Y)表示_Y_的所有父母的集合。在[图 1](https://plato.stanford.edu/entries/causal-models/#fig1)中，PA(Y)={T,W}。*X_是_Y_的_祖先*（*Y_是_X_的_后代*），只要有一条从_X_到_Y_的有向路径。然而，为了方便起见，我们会略微偏离家族类比，并定义“后代”，使得每个变量都是其自身的后代。DE(X)表示_X_的所有后代的集合。在图 1 中，DE(T)={T,X,Y,Z}。
+图中的关系通常用家族关系的语言来描述。变量_X_是_Y_的_父母_，只要有一条从_X_到_Y_的箭头。PA(Y)表示_Y_的所有父母的集合。在 [图 1](https://plato.stanford.edu/entries/causal-models/#fig1) 中，PA(Y)={T,W}。*X_是_Y_的_祖先*（*Y_是_X_的_后代*），只要有一条从_X_到_Y_的有向路径。然而，为了方便起见，我们会略微偏离家族类比，并定义“后代”，使得每个变量都是其自身的后代。DE(X)表示_X_的所有后代的集合。在图 1 中，DE(T)={T,X,Y,Z}。
 
 在因果模型中，有向无环图中从 *Y* 指向 *Z* 的箭头表示 *Y* 是 *Z* 的直接原因。大致上，这意味着 *Y* 的值对 *Z* 的值有一定的因果影响，并且 *Y* 通过某个过程影响 *Z*，而这个过程不受 V 中任何其他变量的中介。直接性是相对于一个变量集的：相对于变量集 V，*Y* 可能是 *Z* 的直接原因，但相对于包括一些额外中介 *Y* 对 *Z* 影响的变量集 V'，*Y* 就不是直接原因。随着我们更详细地发展我们对图形因果模型的描述，我们将能够更准确地说明一个变量是另一个变量的直接原因是什么意思。虽然我们不会定义“原因”，因果模型假定了广义的“造成差异”的因果概念，而不是因果过程概念（Salmon 1984，Dowe 2000）或机械主义概念（Machamer，Darden 和 Craver 2000；Glennan 2017）。我们将称在 DAG 中表示的直接因果关系系统（如 [图 1](https://plato.stanford.edu/entries/causal-models/#fig1)）为变量集 V 上的“因果结构”。
 
@@ -111,13 +111,13 @@ P(X∣Y)=P(X)
 
 我们可以更加精确。我们只需要在这种情况下以这种方式表示缺失的共同原因，即当它们是_最接近_的共同原因时。也就是说，当图中的 V 应该包含一个双向箭头，连接_X_和_Y_时，当存在一个变量_L_被省略在 V 中，如果_L_被添加到 V 中，它将是_X_和_Y_的_直接原因_。
 
-在一个 ADMG 中，我们扩展了_路径_的定义，以包括双向箭头。因此，在[图 2(b)](https://plato.stanford.edu/entries/causal-models/#fig2b)中显示的 ADMG 中，X↔Y 是一条路径。_有向路径_保留相同的含义，有向路径不能包含双向箭头。
+在一个 ADMG 中，我们扩展了_路径_的定义，以包括双向箭头。因此，在 [图 2(b)](https://plato.stanford.edu/entries/causal-models/#fig2b) 中显示的 ADMG 中，X↔Y 是一条路径。_有向路径_保留相同的含义，有向路径不能包含双向箭头。
 
-我们将采纳这样的约定，即 DAG 和 ADMG 都表示直接因果关系和潜在共同原因的_存在和不存在_。例如，[图 1](https://plato.stanford.edu/entries/causal-models/#fig1)中的 DAG 表示_W_是_Y_的直接原因，*X_不是_Y_的直接原因，并且_没有潜在共同原因*。从图 1 中没有双向箭头并不仅仅表明我们选择不在我们的表示中包括潜在共同原因；它表明没有潜在共同原因。
+我们将采纳这样的约定，即 DAG 和 ADMG 都表示直接因果关系和潜在共同原因的_存在和不存在_。例如，[图 1](https://plato.stanford.edu/entries/causal-models/#fig1) 中的 DAG 表示_W_是_Y_的直接原因，*X_不是_Y_的直接原因，并且_没有潜在共同原因*。从图 1 中没有双向箭头并不仅仅表明我们选择不在我们的表示中包括潜在共同原因；它表明没有潜在共同原因。
 
 ## 3. 确定性结构方程模型
 
-在这一部分中，我们介绍确定性_结构方程模型_（SEMs），将概率的讨论推迟到[第 4 节](https://plato.stanford.edu/entries/causal-models/#ProbCausMode)。我们将考虑确定性 SEM 的两个应用：反事实逻辑和实际因果分析。
+在这一部分中，我们介绍确定性_结构方程模型_（SEMs），将概率的讨论推迟到 [第 4 节](https://plato.stanford.edu/entries/causal-models/#ProbCausMode)。我们将考虑确定性 SEM 的两个应用：反事实逻辑和实际因果分析。
 
 ### 3.1 SEMs 简介
 
@@ -151,7 +151,7 @@ P(X∣Y)=P(X)
 
 模型中的变量通常会依赖于未明确包含在模型中的其他变量。例如，火焰的强度也取决于氧气的存在。在模型中未明确表示的变量被假定为固定在使方程适当的值上。例如，在我们的燃气烧烤模型中，假定氧气以足够的数量存在，以维持火焰的强度从低到高不等。
 
-在我们的例子中，变量_Gas level_、*Flame_和_Meat cooked_是_内生的*，这意味着它们的值由模型中的其他变量决定。*Gas connected, Gas knob, Igniter_和_Meat on_是_外生的*，这意味着它们的值是在系统外确定的。在我们将在[第 3 节](https://plato.stanford.edu/entries/causal-models/#DeteStruEquaMode)中考虑的所有模型中，外生变量的值是已知的或以其他方式已知的。
+在我们的例子中，变量_Gas level_、*Flame_和_Meat cooked_是_内生的*，这意味着它们的值由模型中的其他变量决定。*Gas connected, Gas knob, Igniter_和_Meat on_是_外生的*，这意味着它们的值是在系统外确定的。在我们将在 [第 3 节](https://plato.stanford.edu/entries/causal-models/#DeteStruEquaMode) 中考虑的所有模型中，外生变量的值是已知的或以其他方式已知的。
 
 根据 Halpern（2016）的说法，我们将对外生变量的值分配称为_上下文_。在无环结构 SEM 中，上下文唯一确定模型中所有变量的值。无环结构 SEM 与上下文一起构成一个_世界_（Halpern 2016 称之为“因果设置”）。例如，如果我们添加设置
 
@@ -190,7 +190,7 @@ P(X∣Y)=P(X)
 
 因果模型的逻辑是由 Galles 和 Pearl（1998 年）、Halpern（2000 年）、Briggs（2012 年）和 Zhang（2013a 年）发展起来的。本节将重点讨论 Briggs 的表述；它的语言最丰富，但与其他方法不同，它不能应用于具有循环的因果模型。尽管与非回溯性反事实有关，Briggs 的逻辑在许多方面与 Stalnaker（1968 年）和 Lewis（1973b 年）发展的更为熟悉的反事实逻辑有所不同。
 
-我们将反事实条件_A_□→_B_解释为说如果通过干预使_A_成为真，则_B_将成为真。结构反事实的语言不允许连接词‘*A*□→*B*’出现在反事实的前提中。更准确地说，我们归纳地为该语言定义了良构公式（_wff_s）：
+我们将反事实条件_A_□→_B_解释为说如果通过干预使_A_成为真，则_B_将成为真。结构反事实的语言不允许连接词‘*A* □→*B*’出现在反事实的前提中。更准确地说，我们归纳地为该语言定义了良构公式（_wff_s）：
 
 * 布尔命题是_wff_s
 * 如果_A_是一个布尔命题，而_B_是一个_wff_，那么 A□→B 是一个_wff_
@@ -211,11 +211,11 @@ P(X∣Y)=P(X)
 
 如果前因是原子命题的析取，或者是原子命题的合取的析取，那么当执行前因描述的每个可能干预或干预集时，结论必须为真。例如，
 
-((火焰=1&气体水平=0)∨(火焰=2&肉类=0))□→(肉类煮熟=1∨肉类煮熟=2)。
+((火焰=1&气体水平=0)∨(火焰=2&肉类=0))□→(肉类煮熟=1∨ 肉类煮熟=2)。
 
 如果我们执行第一个干预，我们计算得到_熟肉_= 1，因此结果为真。但是，如果我们执行第二个干预，我们计算得到_熟肉_= 0。因此，反事实变得不成立。一些否定被视为此目的的析取。例如，∼(火焰=1)将被视为与析取相同的方式处理
 
-火焰=0∨火焰=2∨火焰=3。
+火焰=0∨ 火焰=2∨ 火焰=3。
 
 如果结果包含一个反事实，我们会重复这个过程。考虑这个反事实：
 
@@ -228,7 +228,7 @@ P(X∣Y)=P(X)
 1. 反事实的前因始终被视为由干预实现，即使在特定世界中前因已经为真。例如，在我们的燃气烧烤世界中，*火焰* = 3。然而，如果我们评估在这个世界中前因为_火焰_ = 3 的反事实，我们会用_火焰_ = 3 替换_火焰_的方程式。
 2. 反事实的真值仅由世界的因果结构以及其前因中指定的干预决定。_相似性_的进一步考虑并不起作用。例如，反事实
 
-火焰=1∨火焰=2□→火焰=2
+火焰=1∨ 火焰=2□→火焰=2
 
 在我们的燃气烧烤世界中（实际上在所有可能的世界中）将是错误的。我们不推断一个世界中火焰=2 比一个世界中火焰=1 更接近我们的世界（其中火焰=3）。
 
@@ -243,7 +243,7 @@ P(X∣Y)=P(X)
 
 真包括_气体水平_=3 和_火焰_=3。 如果两个命题在所有可能的世界中由相同的状态变为真，则它们完全等价。 当完全等价的命题替换到前提中时，反事实的真值保持不变。
 
-Briggs (2012) 提供了一个对非循环结构因果模型中的结构反事实提供了完整而严谨的公理化。该系统的公理和推理规则在[Briggs 公理化补充](https://plato.stanford.edu/entries/causal-models/axiomatization.html)中呈现。
+Briggs (2012) 提供了一个对非循环结构因果模型中的结构反事实提供了完整而严谨的公理化。该系统的公理和推理规则在 [Briggs 公理化补充](https://plato.stanford.edu/entries/causal-models/axiomatization.html) 中呈现。
 
 ### 3.3 实际因果
 
@@ -261,13 +261,13 @@ Briggs (2012) 提供了一个对非循环结构因果模型中的结构反事实
 * S=1
 * W=max(B,S)
 
-_W_的方程告诉我们，如果 Billy 或 Suzy 扔掉他们的石头，窗户会破裂。相应的因果模型如[图 4](https://plato.stanford.edu/entries/causal-models/#fig4)所示。
+_W_的方程告诉我们，如果 Billy 或 Suzy 扔掉他们的石头，窗户会破裂。相应的因果模型如 [图 4](https://plato.stanford.edu/entries/causal-models/#fig4) 所示。
 
 ![diagram B has an arrow pointing northeast to W and S has an arrow pointing northwest to the same W](https://plato.stanford.edu/entries/causal-models/fig4.svg)
 
 图 4
 
-但我们不能简单地从图表或方程式中直接推断出实际因果关系。例如，[图 4](https://plato.stanford.edu/entries/causal-models/#fig4)中从_B_指向_W_的箭头并不能被解释为说比利的(不)行动是窗户破裂的实际原因。请注意，虽然区分单一或特定因果关系，以及一般或类型级因果关系是常见的（参见，例如，Eells 1991，Introduction），但这并不是问题的关键。我们的因果模型不代表任何形式的因果概括：它代表了比利和苏茜在特定时间和地点的实际和可能的行动。实际因果关系不仅仅是单个案例的因果结构。需要进一步的实际因果标准，这些标准是根据因果结构以及变量的实际值来定义的。
+但我们不能简单地从图表或方程式中直接推断出实际因果关系。例如，[图 4](https://plato.stanford.edu/entries/causal-models/#fig4) 中从_B_指向_W_的箭头并不能被解释为说比利的(不)行动是窗户破裂的实际原因。请注意，虽然区分单一或特定因果关系，以及一般或类型级因果关系是常见的（参见，例如，Eells 1991，Introduction），但这并不是问题的关键。我们的因果模型不代表任何形式的因果概括：它代表了比利和苏茜在特定时间和地点的实际和可能的行动。实际因果关系不仅仅是单个案例的因果结构。需要进一步的实际因果标准，这些标准是根据因果结构以及变量的实际值来定义的。
 
 根据 Lewis（1973a）的观点，自然而然地尝试用_反事实依赖_来分析实际因果关系。在我们的模型中，以下命题都是真实的：
 
@@ -309,7 +309,7 @@ X=x 在世界 *w* 中是 Y=y 的一个实际原因，只要：
 * B=1−S
 * W=max(B,S)
 
-那就是：苏茜扔她的石头；如果苏茜不扔，比利会扔他的石头；如果任何人扔石头，窗户就会破碎。DAG 显示在[图 5](https://plato.stanford.edu/entries/causal-models/#fig5)中。
+那就是：苏茜扔她的石头；如果苏茜不扔，比利会扔他的石头；如果任何人扔石头，窗户就会破碎。DAG 显示在 [图 5](https://plato.stanford.edu/entries/causal-models/#fig5) 中。
 
 ![图 B 有一个箭头指向东北到 W，S 有一个箭头指向西北到相同的 W，S 还有一个箭头指向西到相同的 B](https://plato.stanford.edu/entries/causal-models/fig5.svg)
 
@@ -325,7 +325,7 @@ X=x 在世界 *w* 中是 Y=y 的一个实际原因，只要：
 * S=1
 * W=max(B,S)
 
-图表与上文中显示的[图 4](https://plato.stanford.edu/entries/causal-models/#fig4)相同。我们再次想要展示 S=1 是 W=1 的一个实际原因。条件 AC(1)和 AC(2)显然被满足。对于 AC(3)，我们选择 X={B,S}和 Z=∅。对于条件 AC(3a)，我们选择我们的备选设置 X=x′，B=0 和 S=0。再次，反事实 S=0\&B=0□→W=0 成立。现在，对于 AC(3b)，我们必须展示 X={B,S}是最小的。很容易检查到仅{B}不会满足 AC(3a)。无论我们取 Z=∅还是 Z={S}，改变 B 为 0（也许同时将 S 设为 1）都不会改变 W 的值。类似的论证表明仅{S}也不会满足 AC(3a)。关键思想在于 S 是一个需要改变以改变 W 值的最小变量集的成员。
+图表与上文中显示的 [图 4](https://plato.stanford.edu/entries/causal-models/#fig4) 相同。我们再次想要展示 S=1 是 W=1 的一个实际原因。条件 AC(1)和 AC(2)显然被满足。对于 AC(3)，我们选择 X={B,S}和 Z=∅。对于条件 AC(3a)，我们选择我们的备选设置 X=x′，B=0 和 S=0。再次，反事实 S=0\&B=0□→W=0 成立。现在，对于 AC(3b)，我们必须展示 X={B,S}是最小的。很容易检查到仅{B}不会满足 AC(3a)。无论我们取 Z=∅ 还是 Z={S}，改变 B 为 0（也许同时将 S 设为 1）都不会改变 W 的值。类似的论证表明仅{S}也不会满足 AC(3a)。关键思想在于 S 是一个需要改变以改变 W 值的最小变量集的成员。
 
 尽管取得了这些成功，迄今为止发展的实际因果分析并没有完美地捕捉到我们在每种情况下的先验直觉。一些作者追求的策略之一是在变量的_默认_和_异常_值之间，或者_正常_和_异常_条件之间引入一些区别。例如，参见 Hall (2007), Halpern (2008; 2016: 第 3 章), Halpern & Hitchcock (2015), Hitchcock (2007), 以及 Menzies (2004)。Blanchard & Schaffer (2017) 提出了反对这种方法的论点。Glymour 等人 (2010) 对试图分析实际因果的项目提出了许多问题。
 
@@ -363,7 +363,7 @@ MCScreening\_off 表示，变量 *X* 的父母从除了 *X* 的后代之外的�
 
 MCFactorization 告诉我们，一旦我们知道每个变量在给定其父母的条件概率分布，即 P(Xi∣PA(Xi))，我们就可以计算所有变量的完整联合分布。相对容易看出，MCFactorization 是由 MCScreening\_off 推导出来的。由于 G 是无环的，我们可以重新标记变量的下标，使它们按照从“早”到“晚”的顺序排列，只有较早的变量是较晚变量的祖先。根据概率演算，得出 P(X1,X2,…,Xn)=P(X1)×P(X2∣X1)×…×P(Xn∣X1,X2,…,Xn−1)（这是全概率定理的一个版本）。对于每个项 P(Xi∣X1,X2,…,Xi−1)，我们的排序确保 Xi 的所有父母都将包含在右侧，而没有一个后代会包含在其中。MCScreening\_off 随后告诉我们，我们可以消除右侧的所有项，除了 Xi 的父母。
 
-MC_d_-separation 引入了_d_-分离的图形概念。如上所述，从_X_到_Y_的路径是一系列变量⟨X=X1,…,Xk=Y⟩，对于每个 Xi，Xi+1，G 中要么从 Xi 到 Xi+1 有箭头，要么从 Xi+1 到 Xi 有箭头。变量 Xi，1\<i\<k，如果路径上从 Xi−1 到 Xi 和从 Xi+1 到 Xi 都有箭头，那么他是路径上的一个_碰撞器_。换句话说，如果箭头汇聚于路径中的 Xi，则 Xi 是一个碰撞器。设 X、Y 和 Z 是 V 的不相交子集。Z_d_-分离 X 和 Y，只要从 X 中的一个变量到 Y 中的一个变量的每条路径⟨X1,…,Xk⟩都包含至少一个变量 Xi，使得要么：(i) Xi 是一个碰撞器，并且 Xi 的后代（包括 Xi 本身）都不在 Z 中；或者(ii) Xi 不是一个碰撞器，并且 Xi 在 Z 中。满足此条件的任何路径被称为被 Z_阻塞_。如果 Z 不_d_-分离 X 和 Y，则 X 和 Y 被 Z_d-连接_。
+MC_d_-separation 引入了_d_-分离的图形概念。如上所述，从_X_到_Y_的路径是一系列变量 ⟨X=X1,…,Xk=Y⟩，对于每个 Xi，Xi+1，G 中要么从 Xi 到 Xi+1 有箭头，要么从 Xi+1 到 Xi 有箭头。变量 Xi，1 \< i \< k，如果路径上从 Xi−1 到 Xi 和从 Xi+1 到 Xi 都有箭头，那么他是路径上的一个_碰撞器_。换句话说，如果箭头汇聚于路径中的 Xi，则 Xi 是一个碰撞器。设 X、Y 和 Z 是 V 的不相交子集。Z_d_-分离 X 和 Y，只要从 X 中的一个变量到 Y 中的一个变量的每条路径 ⟨X1,…,Xk⟩ 都包含至少一个变量 Xi，使得要么：(i) Xi 是一个碰撞器，并且 Xi 的后代（包括 Xi 本身）都不在 Z 中；或者(ii) Xi 不是一个碰撞器，并且 Xi 在 Z 中。满足此条件的任何路径被称为被 Z_阻塞_。如果 Z 不_d_-分离 X 和 Y，则 X 和 Y 被 Z_d-连接_。
 
 请注意，MC 提供了变量在给定其他变量条件下概率独立的充分条件，但没有必要条件。
 
@@ -373,15 +373,15 @@ MC_d_-separation 引入了_d_-分离的图形概念。如上所述，从_X_到_Y
 
 图 6
 
-在[图 6](https://plato.stanford.edu/entries/causal-models/#fig6)，MC 意味着_X_将_Y_与所有其他变量隔离开来，_W_将_Z_与所有其他变量隔离开来。这最容易从 MCScreening\off 中看出。_W_还将_T_与所有其他变量隔离开来，这最容易从 MC_d\-separation 中看出。_T_不一定将_Y_与_Z_隔离开来（或者实际上是任何东西与任何东西隔离开来）。
+在 [图 6](https://plato.stanford.edu/entries/causal-models/#fig6)，MC 意味着_X_将_Y_与所有其他变量隔离开来，_W_将_Z_与所有其他变量隔离开来。这最容易从 MCScreening\off 中看出。_W_还将_T_与所有其他变量隔离开来，这最容易从 MC_d\-separation 中看出。_T_不一定将_Y_与_Z_隔离开来（或者实际上是任何东西与任何东西隔离开来）。
 
 ![图 X 有一个指向东北的箭头指向 Y，Z 有一个指向同一个 Y 的西北箭头](https://plato.stanford.edu/entries/causal-models/fig7.svg)
 
 图 7
 
-在[图 7](https://plato.stanford.edu/entries/causal-models/#fig7)中，MC 意味着_X_和_Z_将无条件独立，但不意味着它们在给定_Y_的条件下会独立。这最容易从 MC_d\-separation 中看出。
+在 [图 7](https://plato.stanford.edu/entries/causal-models/#fig7) 中，MC 意味着_X_和_Z_将无条件独立，但不意味着它们在给定_Y_的条件下会独立。这最容易从 MC_d\-separation 中看出。
 
-让_Vi_和_Vj_是 V 中的两个不同变量，对应的外生误差变量为_Ui_和_Uj_，代表了被排除在 V 之外的_Vi_和_Vj_的原因。假设_Vi_和_Vj_至少有一个被排除在 V 之外的共同原因。在这种情况下，我们不会期望_Ui_和_Uj_在概率上独立，Pearl 和 Verma（1991）的定理也不适用。在这种情况下，V 中变量之间的因果关系将不能适当地由 DAG 表示，而需要一个带有双向箭头连接_Vi_和_Vj_的无环有向混合图（ADMG）。我们将在下文的[4.6 节](https://plato.stanford.edu/entries/causal-models/#LateCommCaus)中更详细地讨论这种情况。
+让_Vi_和_Vj_是 V 中的两个不同变量，对应的外生误差变量为_Ui_和_Uj_，代表了被排除在 V 之外的_Vi_和_Vj_的原因。假设_Vi_和_Vj_至少有一个被排除在 V 之外的共同原因。在这种情况下，我们不会期望_Ui_和_Uj_在概率上独立，Pearl 和 Verma（1991）的定理也不适用。在这种情况下，V 中变量之间的因果关系将不能适当地由 DAG 表示，而需要一个带有双向箭头连接_Vi_和_Vj_的无环有向混合图（ADMG）。我们将在下文的 [4.6 节](https://plato.stanford.edu/entries/causal-models/#LateCommCaus) 中更详细地讨论这种情况。
 
 MC 不应该适用于任意变量集合 V，即使 DAG G 准确表示这些变量之间的因果关系。例如，(MC) 在以下情况通常会失败：
 
@@ -406,7 +406,7 @@ MC 确定了条件概率独立的充分条件，但并非必要条件。因此�
 
 (i) *最小性条件*。假设变量集合 V 上的 DAG G 满足概率分布 P 的 MC。最小性条件断言，G 在 V 上的任何子图也不能满足 P 的马尔可夫条件。举例说明，考虑变量集合{X,Y}，假设从_X_到_Y_有一个箭头，并且_X_和_Y_在概率上是相互独立的。这个图会满足 P 的 MC：MC 规定的任何独立关系都不缺失（事实上，MC 不规定任何独立关系）。但这个图会违反 P 的最小性条件，因为去掉从_X_到_Y_的箭头的子图也会满足 MC。最小性条件暗示，如果从_X_到_Y_有一个箭头，那么_X_对_Y_造成概率上的差异，条件是_Y_的其他父节点。换句话说，如果 Z=PA(Y)∖{X}，存在 z，y，x，x'，使得 P(Y=y∣X=x\&Z=z)≠P(Y=y∣X=x'\&Z=z)。
 
-(ii) *忠实性条件*。忠实性条件（FC）是马尔可夫条件的逆：它表示 V 中变量之间存在的所有（条件和无条件的）概率独立性都是 MC 所_要求_的。例如，假设 V={X,Y,Z}。还假设_X_和_Z_在无条件下是相互独立的，但在给定_Y_的条件下是相关的。（另外两对变量在有条件和无条件下都是相关的。）在[图 8](https://plato.stanford.edu/entries/causal-models/#fig8)中显示的图与该分布不满足 FC（口语上，该图对该分布不忠实）。当应用于图 8 的图时，MC 并不意味着_X_和_Z_的独立。这可以通过注意到_X_和_Z_是_d\-连接的（通过空集）来看出：路径 X→Z 和 X→Y→Z 都没有被（空集）阻断。相比之下，在[图 7](https://plato.stanford.edu/entries/causal-models/#fig7)中显示的图对所描述的分布是忠实的。请注意，图 8 满足了对该分布的最小性条件；没有子图满足对所描述分布的 MC。事实上，FC 比最小性条件严格。
+(ii) *忠实性条件*。忠实性条件（FC）是马尔可夫条件的逆：它表示 V 中变量之间存在的所有（条件和无条件的）概率独立性都是 MC 所_要求_的。例如，假设 V={X,Y,Z}。还假设_X_和_Z_在无条件下是相互独立的，但在给定_Y_的条件下是相关的。（另外两对变量在有条件和无条件下都是相关的。）在 [图 8](https://plato.stanford.edu/entries/causal-models/#fig8) 中显示的图与该分布不满足 FC（口语上，该图对该分布不忠实）。当应用于图 8 的图时，MC 并不意味着_X_和_Z_的独立。这可以通过注意到_X_和_Z_是_d\-连接的（通过空集）来看出：路径 X→Z 和 X→Y→Z 都没有被（空集）阻断。相比之下，在 [图 7](https://plato.stanford.edu/entries/causal-models/#fig7) 中显示的图对所描述的分布是忠实的。请注意，图 8 满足了对该分布的最小性条件；没有子图满足对所描述分布的 MC。事实上，FC 比最小性条件严格。
 
 ![diagram X has an arrow pointing northeast to Y and another arrow pointing east to Z; Y has an arrow pointing southeast to Z](https://plato.stanford.edu/entries/causal-models/fig8.svg)
 
@@ -416,7 +416,7 @@ MC 确定了条件概率独立的充分条件，但并非必要条件。因此�
 
 如果因果模型中的概率参数恰到好处，FC 可能会失败。例如，在上图 8 中，*X* 影响 *Z* 通过两条不同的有向路径。如果一条路径的影响恰好抵消了另一条路径的影响，那么 *X* 和 *Z* 将在概率上独立。如果基础 SEM 是线性的，Spirtes 等人 (SGS 2000: 定理 3.2) 证明了违反忠诚性的参数集具有勒贝格测度为 0。尽管如此，导致违反 FC 的参数值是 *可能的*，因此 FC 似乎不太可能作为因果关系和概率之间连接的形而上或概念约束。相反，它是一个 *方法论* 原则：在 {X,Y,Z} 上给定一个分布，其中 *X* 和 *Z* 是独立的，我们应该更倾向于上图 7 中描述的因果结构，而不是图 8 中的结构。这并不是因为图 8 被分布明确排除，而是因为假设一个 *暗示* *X* 和 *Z* 独立的因果结构比假设一个仅仅与独立性 *一致* 的因果结构更可取。有关 FC 角色的全面讨论，请参阅张和 Spirtes 2016。
 
-FC 的违反原则通常在原则上是可以检测到的。例如，假设真实的因果结构如[图 7](https://plato.stanford.edu/entries/causal-models/#fig7)所示，并且在_X_、_Y_和_Z_上的概率分布展现出 MC 所需的所有条件独立关系。此外，假设在给定_Y_的条件下，_X_和_Z_是独立的。这种条件独立关系不是由 MC 蕴含的，因此构成了 FC 的违反。事实证明，没有一个有向无环图能够忠实地反映这个概率分布。这提示我们存在 FC 的违反。虽然我们无法推断出正确的因果结构，但至少在这种情况下我们会避免推断出错误的因果结构。有关详细信息，请参阅 Steel 2006，Zhang & Spirtes 2008 和 Zhang 2013b。
+FC 的违反原则通常在原则上是可以检测到的。例如，假设真实的因果结构如 [图 7](https://plato.stanford.edu/entries/causal-models/#fig7) 所示，并且在_X_、_Y_和_Z_上的概率分布展现出 MC 所需的所有条件独立关系。此外，假设在给定_Y_的条件下，_X_和_Z_是独立的。这种条件独立关系不是由 MC 蕴含的，因此构成了 FC 的违反。事实证明，没有一个有向无环图能够忠实地反映这个概率分布。这提示我们存在 FC 的违反。虽然我们无法推断出正确的因果结构，但至少在这种情况下我们会避免推断出错误的因果结构。有关详细信息，请参阅 Steel 2006，Zhang & Spirtes 2008 和 Zhang 2013b。
 
 研究人员已经探讨了采用比 FC 更弱的各种假设的后果；例如 Ramsey 等人 2006 年，Spirtes & Zhang 2014 年和 Zhalama 等人 2016 年。
 
@@ -519,7 +519,7 @@ Xi=fi(PA(Xi),Ui)。
 
 ### 4.6 潜在共同原因
 
-到目前为止，讨论集中在变量 V 没有潜在共同原因的情况，且误差变量 Ui 可以被期望为概率独立的情况。正如我们在[Section 2.3](https://plato.stanford.edu/entries/causal-models/#Grap)中所指出的，我们用双头箭头表示潜在共同原因。例如，无环有向混合图中的[Figure 9](https://plato.stanford.edu/entries/causal-models/#fig9)表示 *X* 和 *Z* 的潜在共同原因。更一般地，我们可以使用类似于图 9 的 ADMG 来表示 *X* 和 *Z* 的误差变量不是概率独立的。
+到目前为止，讨论集中在变量 V 没有潜在共同原因的情况，且误差变量 Ui 可以被期望为概率独立的情况。正如我们在 [Section 2.3](https://plato.stanford.edu/entries/causal-models/#Grap) 中所指出的，我们用双头箭头表示潜在共同原因。例如，无环有向混合图中的 [Figure 9](https://plato.stanford.edu/entries/causal-models/#fig9) 表示 *X* 和 *Z* 的潜在共同原因。更一般地，我们可以使用类似于图 9 的 ADMG 来表示 *X* 和 *Z* 的误差变量不是概率独立的。
 
 ![图表 X 有一个指向东方的箭头指向 Y，Y 又有一个指向东方的箭头指向 Z；X 和 Z 之间由一个弯曲的双头箭头连接](https://plato.stanford.edu/entries/causal-models/fig9.svg)
 
@@ -534,7 +534,7 @@ Xi=fi(PA(Xi),Ui)。
 
 *X* 和 *Z* 在无条件下是独立的，但在条件 *Y* 下是相关的
 
-我们在[Section 4.4](https://plato.stanford.edu/entries/causal-models/#IdenCausStru)中看到，唯一暗示这些（非）依赖关系的有向无环图是：
+我们在 [Section 4.4](https://plato.stanford.edu/entries/causal-models/#IdenCausStru) 中看到，唯一暗示这些（非）依赖关系的有向无环图是：
 
 X→Y←Z
 
@@ -568,7 +568,7 @@ P(Y=y∣X=x,do(Z=z))。
 * 问题：她如果接受药物治疗，她会康复的概率是多少？
 * 回答：非平凡。答案不一定是零，也不一定是 P(*康复* | *治疗*)。如果我们知道她实际上接受了治疗，那么我们可以推断如果接受治疗，她就不会康复。但我们不知道她是否接受了治疗。她没有康复这一事实给了我们部分信息：这使得她实际上接受治疗的可能性降低；这也使得她有免疫系统较弱的可能性增加，等等。我们必须利用所有这些信息来确定如果接受治疗，她会康复的概率。
 
-我们将在本节讨论干预措施，并在下面的[4.10 节](https://plato.stanford.edu/entries/causal-models/#Coun)中讨论反事实。
+我们将在本节讨论干预措施，并在下面的 [4.10 节](https://plato.stanford.edu/entries/causal-models/#Coun) 中讨论反事实。
 
 假设我们有一个具有外生变量 U 和内生变量 V 的无环结构方程模型。我们有以下形式的方程式。
 
@@ -576,7 +576,7 @@ Xi=fi(PA(Xi),Ui),
 
 和外生变量 U 上的概率分布 P′。然后在 V 上引起概率分布 P。为了表示将 Xk 设置为 xk 的干预，我们用 Xk=xk 替换 Xk 的方程。现在 P′在 V 上引起了一个新的概率分布 P _（因为外生变量 U 的设置在干预后导致 V 中变量的不同值）。P_是 Pearl 写成 P(∙∣do(Xk=xk))的新概率分布。
 
-但即使我们没有完整的 SEM，我们通常也可以计算干预的效果。假设我们有一个因果模型，其中概率分布 P 满足因果 DAG G 上的变量集 V={X1,X2,…,Xn} 上的 MC。对于思考干预最有用的 MC 版本是 MCFactorization（参见[Section 4.2](https://plato.stanford.edu/entries/causal-models/#MarkCond)），它告诉我们：
+但即使我们没有完整的 SEM，我们通常也可以计算干预的效果。假设我们有一个因果模型，其中概率分布 P 满足因果 DAG G 上的变量集 V={X1,X2,…,Xn} 上的 MC。对于思考干预最有用的 MC 版本是 MCFactorization（参见 [Section 4.2](https://plato.stanford.edu/entries/causal-models/#MarkCond)），它告诉我们：
 
 P(X1,X2,…,Xn)=∏iP(Xi∣PA(Xi))。
 
@@ -586,11 +586,11 @@ P∗(X1,X2,…,Xn)=P′(Xk)×∏i≠kP(Xi∣PA(Xi)),
 
 在这里 P′(Xk=xk)=1。形式为 P(Xi∣PA(Xi)) 的条件概率对于 i≠k 保持不变。这与使用 SEM 计算干预结果得到相同结果，当后者可用时。这个结果可以推广到干预强加概率分布 P† 在 V 中某些变量的子集上的情况。为简单起见，让我们重新标记变量，使得 {X1,X2,…,Xk} 是我们进行干预的变量集。然后，后干预概率分布为：
 
-P∗(X1,X2,…,Xn)=P†(X1,X2,…,Xk)×∏k\<i≤nP(Xi∣PA(Xi))。
+P∗(X1,X2,…,Xn)=P†(X1,X2,…,Xk)×∏k \< i≤nP(Xi∣PA(Xi))。
 
 SGS（2000 年：定理 3.6）的_操纵定理_将这个公式推广到涵盖更广泛类别的干预，包括那些不会打断所有指向被干预变量的箭头的干预。
 
-Pearl（2009 年：第 3 章）发展了一个公理系统，他称之为_do-演算_，用于计算可以应用于具有潜变量的系统的干预后概率，其中 V 上的因果结构由 ADMG（包括双头箭头）而不是 DAG 表示。该系统的公理在\*[do](https://plato.stanford.edu/entries/causal-models/do-calculus.html)\*​[-演算的补充](https://plato.stanford.edu/entries/causal-models/do-calculus.html)中呈现。一个有用的特例是由
+Pearl（2009 年：第 3 章）发展了一个公理系统，他称之为_do-演算_，用于计算可以应用于具有潜变量的系统的干预后概率，其中 V 上的因果结构由 ADMG（包括双头箭头）而不是 DAG 表示。该系统的公理在\*[do](https://plato.stanford.edu/entries/causal-models/do-calculus.html)\*​[-演算的补充](https://plato.stanford.edu/entries/causal-models/do-calculus.html) 中呈现。一个有用的特例是由
 
 *后门准则*。设_X_和_Y_是 V 中的变量，*Z⊆V∖{X,Y}* ，使得：
 
@@ -643,9 +643,9 @@ CEU(B=1)=−4.2CEU(B=0)=−5.2
 
 这导致了一个合理的结果，即吃香蕉会给 Cheryl 提供一个免费的效用单位。通过干预，Cheryl 打破了从 *K* 到 *B* 的箭头，并破坏了吃香蕉和偏头痛之间的相关性。
 
-更一般地，可以使用前一节中描述的计算干预效应的方法来计算计算因果期望效用所需的概率。Stern (2017)扩展了这种方法，允许将信任分配到多个因果模型的代理。Hitchcock (2016)展示了如何利用在下文[4.10 节](https://plato.stanford.edu/entries/causal-models/#Coun)中更详细讨论的干预和反事实之间的区别，可以用来回避一些声称违背 CDT 的反例。
+更一般地，可以使用前一节中描述的计算干预效应的方法来计算计算因果期望效用所需的概率。Stern (2017)扩展了这种方法，允许将信任分配到多个因果模型的代理。Hitchcock (2016)展示了如何利用在下文 [4.10 节](https://plato.stanford.edu/entries/causal-models/#Coun) 中更详细讨论的干预和反事实之间的区别，可以用来回避一些声称违背 CDT 的反例。
 
-关于 EDT 和 CDT 之间的辩论还有很多值得讨论的地方。例如，如果 Cheryl 知道自己正在进行干预，那么她不会认为自己被[图 10](https://plato.stanford.edu/entries/causal-models/#fig10)中的因果结构准确描述。相反，她会认为自己实现了一个从 *K* 到 *B* 的箭头被移除的因果结构。在这种因果结构中，如果 P 满足 MC，我们将有 P(w∣B=b)=P(w∣do(B=b))，而 EDT 和 CDT 之间的差异将消失。如果有一个有原则的理由，使得一个深思熟虑的代理人总是相信自己正在进行干预，那么 EDT 将产生与 CDT 相同的规范建议，并且将避免像上面描述的那种反例。Price 对 EDT 的辩护 (Price 1986) 可能可以沿着这些线重新构建。因此，结论不一定是 CDT 在规范上是正确的，而是因果模型可能有助于澄清与因果相关的决策理论问题。
+关于 EDT 和 CDT 之间的辩论还有很多值得讨论的地方。例如，如果 Cheryl 知道自己正在进行干预，那么她不会认为自己被 [图 10](https://plato.stanford.edu/entries/causal-models/#fig10) 中的因果结构准确描述。相反，她会认为自己实现了一个从 *K* 到 *B* 的箭头被移除的因果结构。在这种因果结构中，如果 P 满足 MC，我们将有 P(w∣B=b)=P(w∣do(B=b))，而 EDT 和 CDT 之间的差异将消失。如果有一个有原则的理由，使得一个深思熟虑的代理人总是相信自己正在进行干预，那么 EDT 将产生与 CDT 相同的规范建议，并且将避免像上面描述的那种反例。Price 对 EDT 的辩护 (Price 1986) 可能可以沿着这些线重新构建。因此，结论不一定是 CDT 在规范上是正确的，而是因果模型可能有助于澄清与因果相关的决策理论问题。
 
 ### 4.9 通过干预进行因果发现
 
@@ -659,7 +659,7 @@ Eberhardt 和合作者还探讨了使用_软_干预进行因果发现。软干�
 
 ### 4.10 反事实的
 
-[第 3.3 节](https://plato.stanford.edu/entries/causal-models/#ActuCaus)讨论了在确定性因果模型背景下的反事实。引入概率会增加许多复杂性。特别是，我们现在可以有意义地谈论一个反事实成立的概率。反事实在因果模型的_潜在结果_框架中发挥着核心作用，这一框架是由奈曼（1923 年）开创，并由鲁宾（1974 年）和罗宾斯（1986 年）等人发展而来。
+[第 3.3 节](https://plato.stanford.edu/entries/causal-models/#ActuCaus) 讨论了在确定性因果模型背景下的反事实。引入概率会增加许多复杂性。特别是，我们现在可以有意义地谈论一个反事实成立的概率。反事实在因果模型的_潜在结果_框架中发挥着核心作用，这一框架是由奈曼（1923 年）开创，并由鲁宾（1974 年）和罗宾斯（1986 年）等人发展而来。
 
 潜在结果框架中的反事实与 Lewis（1973b）框架中的反事实以不同方式与概率相互作用。假设 Ted 接触了石棉并患上了肺癌。我们对这个反事实感兴趣：“如果 Ted 没有接触石棉，他就不会患上肺癌”。假设癌症发展的过程是真正不确定的。那么，如果说如果 Ted 没有接触石棉，他肯定会患上肺癌是错误的；同样，说他肯定不会患上肺癌也是错误的。在这种情况下，Lewis 会说反事实“如果 Ted 没有接触石棉，他就不会患上肺癌”是明确_错误_的。因此，这个反事实成立的客观概率为零。另一方面，一个具有客观概率_在结果中_的反事实可能是真实的：“如果 Ted 没有接触石棉，他患上肺癌的客观几率将为 0.06”。相比之下，在潜在结果框架中，概率可以从结果中抽取出来，并应用于整个反事实：反事实“如果 Ted 没有接触石棉，他会患上肺癌”的概率可以为 0.06。
 
@@ -673,7 +673,7 @@ Xi=fi(PA(Xi),Ui)
 2. 用 Xk=xk 替换 Xk 的方程。
 3. 使用在 U 上的分布 P′′ 以及修改后的方程组来诱导出一个新的概率分布 P\* 在 V 上。 P∗(Xl=xl) 然后是反事实的概率。
 
-这个程序与干预程序的程序不同（见[Section 4.7](https://plato.stanford.edu/entries/causal-models/#Inte)），因为步骤 1 和 2 已经颠倒。我们首先更新概率分布，然后执行干预。这反映了观察告诉我们有关实际世界的事实，即干预并没有（必然）发生。
+这个程序与干预程序的程序不同（见 [Section 4.7](https://plato.stanford.edu/entries/causal-models/#Inte)），因为步骤 1 和 2 已经颠倒。我们首先更新概率分布，然后执行干预。这反映了观察告诉我们有关实际世界的事实，即干预并没有（必然）发生。
 
 如果我们没有完整的结构方程模型，通常无法确定反事实的概率，只能设定上限和下限。例如，假设我们相信石棉暴露会导致肺癌，因此我们提出一个简单的有向无环图：
 
@@ -702,7 +702,7 @@ P1(注定)=.06,P2(注定)=0,P1(免疫)=.89,P2(免疫)=.83,P1(敏感)=.05,P2(敏�
 
 更一般地，观察到的概率与任何满足的概率 P'兼容：
 
-P′(注定)+P′(敏感)=P(L∣A)=.11;P′(免疫)+P′(相反)=P(∼L∣A)=.89;P′(注定)+P′(相反)=P(L∣∼A)=.06;P′(免疫)+P′(敏感)=P(∼L∣∼A)=.94.
+P′(注定)+P′(敏感)=P(L∣A)=.11; P′(免疫)+P′(相反)=P(∼L∣A)=.89; P′(注定)+P′(相反)=P(L∣∼A)=.06; P′(免疫)+P′(敏感)=P(∼L∣∼A)=.94.
 
 P1 和 P2 只是最极端的情况。从泰德接触石棉并患上肺癌的事实，我们知道他要么是_敏感_要么是_注定_。感兴趣的反事实只有在他是_敏感_的情况下才成立。因此，根据现有证据，反事实的概率是 P(*敏感* | *敏感_或_注定*)。然而，使用 P1 得到的条件概率为.45（5/11），而 P2 得到的条件概率为 1。根据我们掌握的信息，我们只能得出必然性的概率在.45 和 1 之间。要更准确地确定概率，我们需要了解误差变量的概率分布。
 
@@ -714,17 +714,17 @@ P1 和 P2 只是最极端的情况。从泰德接触石棉并患上肺癌的事�
 
 本条目中调查的最重要作品是 Pearl 2009 和 Spirtes, Glymour, & Scheines 2000。Pearl 2010，Pearl 等人 2016 年，以及 Pearl & Mackenzie 2018 是 Pearl 计划的三个概述。Pearl 2010 是最简短但技术含量最高的。Pearl & Mackenzie 2018 则是最不技术性的。Scheines 1997 和 Glymour & Cooper 1999 的“Introduction”是 SGS 计划的可访问介绍。Eberhardt 2009，Hausman 1999，Glymour 2009 和 Hitchcock 2009 是简短概述，涵盖了本条目中提到的一些主题。
 
-在[因果关系和可操纵性](https://plato.stanford.edu/entries/causation-mani/)条目中包含了对干预的广泛讨论，以及对因果模型的一些讨论。
+在 [因果关系和可操纵性](https://plato.stanford.edu/entries/causation-mani/) 条目中包含了对干预的广泛讨论，以及对因果模型的一些讨论。
 
-Halpern (2016)涉及了[第 3 节](https://plato.stanford.edu/entries/causal-models/#DeteStruEquaMode)中的许多主题。另请参阅[因果关系的反事实理论](https://plato.stanford.edu/entries/causation-counterfactual/)的条目。
+Halpern (2016)涉及了 [第 3 节](https://plato.stanford.edu/entries/causal-models/#DeteStruEquaMode) 中的许多主题。另请参阅 [因果关系的反事实理论](https://plato.stanford.edu/entries/causation-counterfactual/) 的条目。
 
-[概率因果关系](https://plato.stanford.edu/entries/causation-probabilistic/)条目与本条目存在一些重叠。本条目的[第 4 节](https://plato.stanford.edu/entries/causal-models/#ProbCausMode)中的一些材料也出现在该条目的第 3 节中。该条目还包含了一些关于概率因果模型与早期概率因果理论之间关系的讨论。
+[概率因果关系](https://plato.stanford.edu/entries/causation-probabilistic/) 条目与本条目存在一些重叠。本条目的 [第 4 节](https://plato.stanford.edu/entries/causal-models/#ProbCausMode) 中的一些材料也出现在该条目的第 3 节中。该条目还包含了一些关于概率因果模型与早期概率因果理论之间关系的讨论。
 
-Eberhardt 2017 是一份简短的调查报告，清晰介绍了[第 4.2 节](https://plato.stanford.edu/entries/causal-models/#MarkCond)到 4.6 节以及第[4.9 节](https://plato.stanford.edu/entries/causal-models/#CausDiscInte)涵盖的许多主题。Spirtes 和 Zhang 2016 是一份更长、更技术性的概述，涵盖了很多相同的内容。它特别详细地涵盖了[第 4.5 节](https://plato.stanford.edu/entries/causal-models/#IdenAssuAbouFuncForm)中提出的问题。
+Eberhardt 2017 是一份简短的调查报告，清晰介绍了 [第 4.2 节](https://plato.stanford.edu/entries/causal-models/#MarkCond) 到 4.6 节以及第 [4.9 节](https://plato.stanford.edu/entries/causal-models/#CausDiscInte) 涵盖的许多主题。Spirtes 和 Zhang 2016 是一份更长、更技术性的概述，涵盖了很多相同的内容。它特别详细地涵盖了 [第 4.5 节](https://plato.stanford.edu/entries/causal-models/#IdenAssuAbouFuncForm) 中提出的问题。
 
-在[决策理论](https://plato.stanford.edu/entries/decision-theory/)和[因果决策理论](https://plato.stanford.edu/entries/decision-causal/)条目中提供了更详细的背景信息，涉及到[第 4.8 节](https://plato.stanford.edu/entries/causal-models/#InteDeciTheo)中提出的一些问题。
+在 [决策理论](https://plato.stanford.edu/entries/decision-theory/) 和 [因果决策理论](https://plato.stanford.edu/entries/decision-causal/) 条目中提供了更详细的背景信息，涉及到 [第 4.8 节](https://plato.stanford.edu/entries/causal-models/#InteDeciTheo) 中提出的一些问题。
 
-这个条目侧重于哲学家最感兴趣的主题。有许多重要的技术问题被大多数忽略了。其中许多问题涉及到在这里所做的各种简化假设（如无环性和对真实概率的了解）被拒绝时出现的问题。其中一些问题简要概述，并附有参考资料，详见[因果推断中进一步主题的补充](https://plato.stanford.edu/entries/causal-models/topics.html)。
+这个条目侧重于哲学家最感兴趣的主题。有许多重要的技术问题被大多数忽略了。其中许多问题涉及到在这里所做的各种简化假设（如无环性和对真实概率的了解）被拒绝时出现的问题。其中一些问题简要概述，并附有参考资料，详见 [因果推断中进一步主题的补充](https://plato.stanford.edu/entries/causal-models/topics.html)。
 
 <!--md-padding-ignore-begin-->
 ## Bibliography
