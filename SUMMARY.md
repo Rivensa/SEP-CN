@@ -999,7 +999,7 @@
 * [戈特洛布·弗雷格 Frege, Gottlob (Edward N. Zalta)](f/ge-te-luo-bu-fu-lei-ge-frege-gottlob-edward-n.-zalta/README.md)
   * [弗雷格-希尔伯特争论 controversy with Hilbert (Patricia Blanchette)](f/ge-te-luo-bu-fu-lei-ge-frege-gottlob-edward-n.-zalta/fu-lei-ge-xi-er-bo-te-zheng-lun-controversy-with-hilbert-patricia-blanchette.md)
   * [弗雷格的逻辑学 logic (Roy Cook)](f/ge-te-luo-bu-fu-lei-ge-frege-gottlob-edward-n.-zalta/fu-lei-ge-de-luo-ji-xue-logic-roy-cook.md)
-  * [弗雷格的定理和算术基础 theorem and foundations for arithmetic (Edward N. Zalta)](f/ge-te-luo-bu-fu-lei-ge-frege-gottlob-edward-n.-zalta/fu-lei-ge-de-ding-li-he-suan-shu-ji-chu-theorem-and-foundations-for-arithmetic-edward-n.-zalta.md)
+  * [弗雷格定理和算术基础 theorem and foundations for arithmetic (Edward N. Zalta)](f/ge-te-luo-bu-fu-lei-ge-frege-gottlob-edward-n.-zalta/fu-lei-ge-de-ding-li-he-suan-shu-ji-chu-theorem-and-foundations-for-arithmetic-edward-n.-zalta.md)
 * [友谊 friendship (Bennett Helm)](f/you-yi-friendship-bennett-helm.md)
 * [玛格丽特·富勒 Fuller, Margaret (Daniel Howe)](f/ma-ge-li-te-fu-le-fuller-margaret-daniel-howe.md)
 * [\*函项 function](f/han-xiang-function/README.md)
