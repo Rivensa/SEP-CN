@@ -1008,8 +1008,8 @@
   * [\*递归——见递归函数 recursive — see recursive functions](f/han-xiang-function/di-gui-jian-di-gui-han-shu-recursive-see-recursive-functions.md)
 * [功能主义 functionalism (Janet Levin)](f/gong-neng-zhu-yi-functionalism-janet-levin.md)
 * [基础性 fundamentality (Tuomas E. Tahko)](f/ji-chu-xing-fundamentality-tuomas-e.-tahko.md)
-* [未来偶然事件 future contingents (Peter Øhrstrøm and Per Hasle)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/README.md)
-  * [中世纪的未来偶然事件理论 medieval theories of (Simo Knuuttila)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/zhong-shi-ji-de-wei-lai-ou-ran-shi-jian-li-lun-medieval-theories-of-simo-knuuttila.md)
+* [未来偶然性 future contingents (Peter Øhrstrøm and Per Hasle)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/README.md)
+  * [中世纪的未来偶然性理论 medieval theories of (Simo Knuuttila)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/zhong-shi-ji-de-wei-lai-ou-ran-shi-jian-li-lun-medieval-theories-of-simo-knuuttila.md)
 
 ## G
 
