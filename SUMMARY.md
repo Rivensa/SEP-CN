@@ -1033,7 +1033,7 @@
 * [\*广义相对论 general relativity](g/guang-yi-xiang-dui-lun-general-relativity/README.md)
   * [广义相对论的早期哲学解释 early philosophical interpretations of (Thomas A. Ryckman)](g/guang-yi-xiang-dui-lun-general-relativity/guang-yi-xiang-dui-lun-de-zao-qi-zhe-xue-jie-shi-early-philosophical-interpretations-of-thomas-a.-ry.md)
 * [泛化 generic generalizations (Sarah-Jane Leslie and Adam Lerner)](g/yi-ban-pu-bian-hua-generic-generalizations-sarahjane-leslie-and-adam-lerner.md)
-* [遗传漂变 genetic drift (Roberta L. Millstein)](g/yi-chuan-piao-bian-genetic-drift-roberta-l.-millstein.md)
+* [基因漂移 genetic drift (Roberta L. Millstein)](g/yi-chuan-piao-bian-genetic-drift-roberta-l.-millstein.md)
 * [遗传学 genetics (James Tabery)](g/yi-chuan-xue-genetics-james-tabery/README.md)
   * [生态遗传学 ecological (Michael Wade)](g/yi-chuan-xue-genetics-james-tabery/sheng-tai-yi-chuan-xue-ecological-michael-wade.md)
   * [基因型/表现型的区别 genotype/phenotype distinction (Peter Taylor and Richard Lewontin)](g/yi-chuan-xue-genetics-james-tabery/ji-yin-xing-biao-xian-xing-de-qu-bie-genotypephenotype-distinction-peter-taylor-and-richard-lewontin.md)
