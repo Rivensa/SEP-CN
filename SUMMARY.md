@@ -1193,7 +1193,7 @@
   * [\*人格——人格同一性 personal — see personal identity](i/tong-yi-xing-identity-harold-noonan-and-ben-curtis/ren-ge-ren-ge-tong-yi-xing-personal-see-personal-identity.md)
   * [相对同一性 relative (Harry Deutsch and Pawel Garbacz)](i/tong-yi-xing-identity-harold-noonan-and-ben-curtis/xiang-dui-tong-yi-xing-relative-harry-deutsch-and-pawel-garbacz.md)
   * [跨界同一性 transworld (Penelope Mackie and Mark Jago)](i/tong-yi-xing-identity-harold-noonan-and-ben-curtis/kua-shi-jie-tong-yi-xing-transworld-penelope-mackie-and-mark-jago.md)
-* [身份认同政治 identity politics (Cressida Heyes)](i/shen-fen-ren-tong-zheng-zhi-identity-politics-cressida-heyes.md)
+* [身份政治 identity politics (Cressida Heyes)](i/shen-fen-ren-tong-zheng-zhi-identity-politics-cressida-heyes.md)
 * [\*心灵同一理论——见心脑同一论 identity theory of mind — see mind/brain identity theory](i/xin-ling-tong-yi-li-lun-jian-xin-nao-tong-yi-lun-identity-theory-of-mind-see-mindbrain-identity-theo.md)
 * [\*法律与意识形态——见法律与意识形态 ideology, law and — see law: and ideology](i/fa-lv-yu-yi-shi-xing-tai-jian-fa-lv-yu-yi-shi-xing-tai-ideology-law-and-see-law-and-ideology.md)
 * [个人方言 idiolects (Alex Barber and Eduardo Garcia Ramirez)](i/ge-ren-fang-yan-idiolects-alex-barber-and-eduardo-garcia-ramirez.md)
