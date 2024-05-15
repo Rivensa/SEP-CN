@@ -6,7 +6,6 @@
 
 > 想象性抗拒的讨论是为了解开这些特殊而令人困惑的情况。不足为奇的是，Tamar Szabó Gendler 将这一现象称为“想象性抗拒之谜”(2000)。由于这一现象似乎相对狭窄，学者们对它的兴趣驱动力在于从对这一相对孤立的现象的分析中获得洞察力，以解决更广泛、难以捉摸的问题，如伦理美学关系、虚构和想象的本质、想象的功能角色，以及想象与信念和其他状态的关系。(有关使用与想象性抗拒相关的洞察力解决一系列不同哲学问题的详细调查，请参见 Gendler 和 Liao 2016: 412–15。)然而，与任何新兴和迅速发展的研究领域一样，学者们对这一现象的确切性质存在很多分歧和困惑。实际上，学者们对
 
-The imaginative resistance debate came about as an attempt to unpack what’s going on in these special, puzzling cases. It is no surprise that Tamar Szabó Gendler referred to the phenomenon as “the puzzle of imaginative resistance” (2000). Since the phenomenon seems to be relatively narrow, the driving force behind scholars’ interest in it has been the possibility of drawing insights from analyses of this relatively insulated phenomenon for broader, hard-to-pin-down issues, such as the ethics-aesthetics relation, the nature of fiction and imagination, the functional role of imagination, and how imagination relates to belief and other states. (See Gendler and Liao 2016: 412–15, for a detailed survey of various accounts that use imaginative resistance related insights for solving a range of different philosophical problems.) However, as with any new and rapidly growing area of research, there has been much disagreement and confusion among scholars as to the precise nature of the phenomenon. Indeed, scholars disagree on
 
 * 是否存在这样的现象；
 * 是否真的令人困惑；
