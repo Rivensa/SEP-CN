@@ -289,7 +289,7 @@ R. Jay Wallace（1994）在道德责任实践中反映出的公平道德规范�
 
 最后，也许最详细的最近对斯特劳森相容论的辩护归功于大卫·舒马赫（2017 年）。舒马赫首先通过辩护一种依赖回应的幽默解释来为道德责任提出辩护。然后，他认为幽默的规范与愤怒等涉及责任的情感的规范紧密平行。基于此，他建立了他的依赖回应的道德责任解释。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert M., 1985. “Involuntary Sins,” *Philosophical Review*, 94: 3–31.
@@ -505,4 +505,4 @@ For helpful editorial and philosophical advice on an earlier version of this ent
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Michael McKenna](http://philosophy.arizona.edu/michael-mckenna) <[*msmckenna@u.arizona.edu*](mailto:msmckenna%40u%2earizona%2eedu)>  
 [D. Justin Coates](http://djustincoates.com/) <[*djcoates@uh.edu*](mailto:djcoates%40uh%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -276,7 +276,7 @@ Carlos Nino 是阿根廷法律哲学学派的主要代表。他对人权的影�
 
 在早期，拉丁美洲的分析哲学家主要对与他们的盎格鲁撒克逊同行进行互动感兴趣。这种关系通常是不对称的。在过去的二十年左右，情况开始发生变化。许多拉丁美洲的分析哲学家开始加强与拉丁美洲同行的联系，建立更对等的关系。首先，他们通过组织小型研讨会迈出了第一步，盎格鲁撒克逊和拉丁美洲的哲学家在这些研讨会上平等交流思想，讨论彼此的工作。2006 年，墨西哥城提出了在拉丁美洲创建一个区域性分析哲学协会的计划，Maite Ezcurdia 向其他拉丁美洲同行介绍了这个想法。结果，拉丁美洲分析哲学协会（ALFAn）于 2007 年成立。ALFAn 迄今已在不同国家组织了六次会议。此外，它还有正在进行的项目，旨在指导新一代哲学家，并增加该地区产生的分析作品的讨论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Special Issues and Symposia
@@ -764,4 +764,4 @@ This entry has benefited greatly from the feedback and information we received f
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Diana Ines Perez](https://iif.conicet.gov.ar/researchers-en/researchers-conicet-en/diana-perez-en/) <[*dperez@gmail.com*](mailto:dperez%40gmail%2ecom)>  
 [Santiago Echeverri](https://www.secheverri.com/) <[*santiago.echeverri@filosoficas.unam.mx*](mailto:santiago%2eecheverri%40filosoficas%2eunam%2emx)>
-<!--md-padding-ignore-end-->
+

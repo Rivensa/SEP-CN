@@ -392,7 +392,7 @@ Rowbottom 在这里当然是在描述理论的接受。然而，只要一个理�
 
 建设性的经验主义如何回应？如上文 1.4 节所述，建设性的经验主义应被视为对科学活动的最佳解释，使其与经验主义者自身的理性活动标准保持一致。正如范弗拉森（1994）所说，它让我们能够“理解我们都同意是科学的一部分的那些活动”（190）。因此，它并不受科学家在从事科学活动时所表达的目标的约束。即使科学家——无论是外星科学家还是人类科学家——认为自己主要关注真理、问题解决或预测效用，这些目标中的任何一个都无法实现，而不将科学至少最低限度地定位为其理论的经验充分性。因此，将经验充分性作为科学的目标，使建设性的经验主义者能够最好、最谦逊地理解科学活动。特定科学家个人或集体目标的多样性并不削弱经验充分性在我们如何在哲学上最好地解释科学及其众多不同活动中所扮演的独特而重要的角色。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alspector-Kelly, M., 2001, “Should the Empiricist be a Constructive Empiricist?”, *Philosophy of Science*, 68(4): 413–431.
@@ -447,4 +447,4 @@ Rowbottom 在这里当然是在描述理论的接受。然而，只要一个理�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Bradley Monton <[*bradley.monton@colorado.edu*](mailto:bradley%2emonton%40colorado%2eedu)>  
 Chad Mohler <[*chmohler@truman.edu*](mailto:chmohler%40truman%2eedu)>
-<!--md-padding-ignore-end-->
+

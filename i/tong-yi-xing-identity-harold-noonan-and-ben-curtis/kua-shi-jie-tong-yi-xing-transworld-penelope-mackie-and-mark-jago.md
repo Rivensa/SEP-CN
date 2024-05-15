@@ -230,7 +230,7 @@ Chandler 的传递性论证可以改编成一个类似于 4.1-4.2 节中讨论�
 
 对于 Lewis 的挑战，一个自然的反应是指出，一个不是 Lewis 式现实主义者的跨界同一性的支持者通常会基于他的同一性关系不具备逻辑上的同一性而拒绝 Lewis 的对应理论。如果是这样的话，那么（与 Lewis 相反），严格来说，“哲学家们对“跨界同一性”的合唱”仅仅坚持这样一个中立的主张：对象存在于不止一个世界。然而，即使这是正确的，它并不能回答一个进一步的潜在挑战。假设，似乎是合理的，可能存在一个对应关系（不同于 Lewis 自己提出的对应关系），它是一个等价关系（传递性、对称性和自反性），并且在世界之间是“一对一”的。在这种情况下，对于一个不是 Lewis 式现实主义者的理论家来说，如何区分“类似于同一性”的对应关系解释下的 de re 模态陈述的承诺，以及真正的跨界同一性的承诺（因此认为一个个体真实存在于多个不同的可能世界中）？跨界同一性的爱好者应该对这个挑战给予 Lewis 一个回应。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R. M., 1974, “Theories of Actuality”, *Noûs*, 8: 211–231; reprinted in Loux 1979.
@@ -343,4 +343,4 @@ Chandler 的传递性论证可以改编成一个类似于 4.1-4.2 节中讨论�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Penelope Mackie](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/penelope.mackie)\
 Mark Jago <[*mark.jago@nottingham.ac.uk*](mailto:mark%2ejago%40nottingham%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

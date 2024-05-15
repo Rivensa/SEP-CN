@@ -134,7 +134,7 @@
 
 在他的著作中，米德经常提到社会自我的逐渐发展和他们的社会作为一个“伟大的”，甚至是“辉煌的世俗冒险”（MT，63，85; SM in SW，265–266）。也许最近米德学术研究的趋势将进一步阐明他为什么对这个世俗冒险如此乐观。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -278,4 +278,4 @@
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Mitchell Aboulafia <[*mitchell.aboulafia@manhattan.edu*](mailto:mitchell%2eaboulafia%40manhattan%2eedu)>  
 Scott Taylor <[*staylor2@njcu.edu*](mailto:staylor2%40njcu%2eedu)>
-<!--md-padding-ignore-end-->
+

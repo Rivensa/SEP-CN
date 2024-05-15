@@ -180,7 +180,7 @@
 
 每当他讨论三位一体时，威廉将父与权力联系在一起，将子与智慧联系在一起，将圣灵与爱联系在一起。但是，这个比喻并不旨在帮助我们理性地理解三位一体，或者以任何方式清晰地界定三个人的属性，以便解释他们之间的关系和差异。威廉认为，在创造的世界中没有任何东西像三位一体那样，因此人类的思维无法理解可以用作解释三位一体的基本关系的类比物：“我不知道我能用什么品质来解释这个，因为在任何事物的本质中都找不到类似的东西”（Sen 236.86）。威廉拒绝奥古斯丁关于太阳和阳光以及心智和理性的比喻。阳光是空气的一种偶然性，不是太阳的本质的一部分。同样，理性是心智的一种能力，而不是它的本质（Sen 236.101）。威廉还解释说，他关于普遍性的两种理论都不能用来解释神圣人格的同一性和差异性。物质本质实在论将意味着三位一体中的人格是偶然个体化的，这是不可接受的。无差别理论将要求三个独立实体的非同一性，这也与信仰的教义相悖。威廉的最终结论是什么？“因为无法描述类似之物，三位一体必须仅凭信仰来捍卫”（Sen 236.91）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -275,4 +275,4 @@ Shorter excerpts from some of William's commentaries can be found in Iwakuma 200
 
 [Copyright © 2005](https://plato.stanford.edu/info.html#c) by  
 [Kevin Guilfoy](http://www.carrollu.edu/faculty/guilfoy-kevin-s-phd)
-<!--md-padding-ignore-end-->
+

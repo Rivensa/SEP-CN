@@ -245,7 +245,7 @@ and
 
 女性主义生物哲学的边界可以通过多种方式来界定。虽然女性主义生物哲学通过参与新的生物研究领域并发展新的研究方法不断取得进展，但一些主题（如解释主义多元化、拒绝简化、决定论和本质主义解释，以及对价值观进入科学的复杂方式的认可）仍然是该领域的核心。令人惊讶的是，非女性主义生物哲学越来越同意这些长期以来由女性主义者持有的立场。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Altmann, Jeanne, 1974, “Observational Study of Behavior: Sampling Methods”, *Behaviour*, 49(3–4): 227–266. doi:10.1163/156853974X00534
@@ -467,4 +467,4 @@ and
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Carla Fehr <[*carla.fehr@uwaterloo.ca*](mailto:carla%2efehr%40uwaterloo%2eca)>  
 Letitia Meynell <[*Letitia.Meynell@dal.ca*](mailto:Letitia%2eMeynell%40dal%2eca)>
-<!--md-padding-ignore-end-->
+

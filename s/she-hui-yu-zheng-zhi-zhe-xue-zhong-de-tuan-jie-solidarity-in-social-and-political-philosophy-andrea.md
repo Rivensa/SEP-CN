@@ -267,7 +267,7 @@ Hippolyte Renaud 将这种统一、相互支持的社会合作服务于每个人
 
 这些回应是否回答了所有关于公平和排斥的可能异议？可能不是；关于可允许的团结偏袒的问题，特别是在像国家这样的大规模集体中，显然取决于无法在此处解决的社会和全球公正问题。因此，团结实践可以构成的义务类型的问题与公正问题融为一体。但这不应该令人惊讶，也不应该阻止我们对团结本身的思考。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abizadeh, Arash, 2004, “Historical Truth, National Myths and Liberal Democracy: On the Coherence of Liberal Nationalism”, *Journal of Political Philosophy*, 12(3): 291–313. doi:10.1111/j.1467-9760.2004.00201.x
@@ -398,4 +398,4 @@ Hippolyte Renaud 将这种统一、相互支持的社会合作服务于每个人
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Andrea Sangiovanni <[*andrea.sangiovanni@kcl.ac.uk*](mailto:andrea%2esangiovanni%40kcl%2eac%2euk)>  
 Juri Viehoff <[*juri.viehoff@manchester.ac.uk*](mailto:juri%2eviehoff%40manchester%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

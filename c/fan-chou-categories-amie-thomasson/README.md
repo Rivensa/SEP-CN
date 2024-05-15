@@ -293,7 +293,7 @@ Dummett（1973 \[1981]）也旨在发展和明确弗雷格式的类别区分方�
 
 Dummett 对于理解对象类别的方式也为回应这一反对意见打开了大门。因为 Dummett 认为，没有一些相关的范畵概念，我们无法单独确定对象（即使使用名称或指示词）（1973 \[1981]，571）。范畵概念对我们单独确定“事物”是必要的，不能从考虑“事物”而不考虑类别预先确定而导出。（因此，从这个观点可以得出结论，Johansson 认为我们可以通过从考虑个体_事物_进行抽象来得出类别的想法是错误的。）在这个观点下，类别不仅_可能_而且_必须_主要通过区分与不同种类术语和名称的正确使用相关的同一性条件来加以区分。如果我们除了通过某种范畵概念（提供应用和同一性条件）无法指称、发现或单独确定对象，那么我们的种类术语或名称中的范畵差异（通过它们在同一性条件中的差异标志）就是_因此_，自动地，这些术语所指对象中的类别差异 - 这里根本不会出现“错误”的可能性，并且确保了用于指称给定实体的表达式的类别与所指实体的类别之间的联系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackrill, J. L., 1963, *Aristotle’s Categories and De Interpretatione* (translation with notes), Oxford: Clarendon Press.
@@ -398,4 +398,4 @@ Many thanks go to Willem de Vries, Simon Evnine, Jonathan Lowe, Friederike Moltm
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Amie Thomasson](http://philosophy.dartmouth.edu/people/amie-l-thomasson) <[*amie.l.thomasson@dartmouth.edu*](mailto:amie%2el%2ethomasson%40dartmouth%2eedu)>
-<!--md-padding-ignore-end-->
+

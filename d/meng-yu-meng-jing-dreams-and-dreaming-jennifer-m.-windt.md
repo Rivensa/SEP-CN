@@ -356,7 +356,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 
 梦与梦境在诸如认识论、本体论、心灵哲学和认知科学以及伦理学等不同领域的问题紧密相连。来自睡眠和梦境研究的科学证据可以有意义地影响哲学讨论，并在过去经常如此。关于梦境的讨论也经常作为一个透视更广泛问题的镜头，如知识、道德、意识和自我。长期以来，梦境和睡眠哲学一直是一个边缘化的领域，对重要的哲学问题至关重要，并在跨学科意识研究中扮演着越来越重要的角色，例如在寻找意识状态的神经相关性、意识状态分类和对现象自我和意识体验的最低条件的研究中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aleman, A. and F. Larøi, 2008, *Hallucinations: The Science of Idiosyncratic Perception*, Washington, DC: American Psychological Association.
@@ -687,4 +687,4 @@ I want to thank Regina Fabry and two anonymous reviewers for helpful comments an
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jennifer M. Windt](http://profiles.arts.monash.edu.au/jennifer-windt/) <[*jennifer.windt@monash.edu*](mailto:jennifer%2ewindt%40monash%2eedu)>
-<!--md-padding-ignore-end-->
+

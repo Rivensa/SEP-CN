@@ -205,7 +205,7 @@ Catriona Mackenzie 最近提出自主权是一个多维概念，并且这里调�
 
 女性主义对自主权的理论分析了内化压迫和压迫环境对主体的整体和局部自主权的影响。关于哪种理论立场是正确的，目前尚无共识。在某种程度上，答案取决于对哪种观点最能捕捉到自己的代理概念的直觉。然而，有相当一致的意见认为，压迫性社会化和压迫性实践会削弱自主权，甚至可能完全破坏它。本文调查的关于自主权的关系概念对于自主权本质的理论辩论以及我们对压迫如何干扰自主权所需的心理状态和社会条件的理解都是重要贡献。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, J. and J. Christman (eds.), 2005, *Autonomy and the Challenges of Liberalism: New Essays*, Cambridge: Cambridge University Press.
@@ -318,4 +318,4 @@ I would like to thank Jennifer Saul, Anita Superson and Nancy Tuana for their ca
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Natalie Stoljar](http://www.mcgill.ca/philosophy) <[*natalie.stoljar@mcgill.ca*](mailto:natalie%2estoljar%40mcgill%2eca)>
-<!--md-padding-ignore-end-->
+

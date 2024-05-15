@@ -132,7 +132,7 @@ Dotson (2017)通过对 Pauli Murray（1947）关于 Jane Crow 制度的认识提
 
 分析派和欧陆哲学的女性主义者都对避免在定义女性时被排斥、克服父权压迫形式以及确保女性对认知项目的了解和参与权利感兴趣。分析派和欧陆哲学的女性主义者有时以不同的方式追求这些兴趣，有时以类似的方式，有时则相互交流。总体而言，她们继承并进一步发展了自由主义、马克思主义、后结构主义、解释学和语言学思想的丰富历史。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alcoff, Linda Martín, 2005, *Visible Identities: Race, Gender, and the Self*, Oxford: Oxford University Press.
@@ -231,4 +231,4 @@ Dotson (2017)通过对 Pauli Murray（1947）关于 Jane Crow 制度的认识提
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Georgia Warnke <[*georgia.warnke@ucr.edu*](mailto:georgia%2ewarnke%40ucr%2eedu)>
-<!--md-padding-ignore-end-->
+

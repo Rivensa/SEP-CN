@@ -826,7 +826,7 @@ BIO 接口主要采用了 Sørensen 和 Urzyczyn（2006）的启发，采用了 
 
 当涉及形式逻辑时，博弈语义界面因此仅具有纯战略考虑，并不太关注游戏层面。在这方面，通过战略焦点来证明对手在演绎证明中的消失是合理的：如果证明者在进行演绎方法（制作无缺口证明）时足够小心，那么证明者实际上并不需要怀疑者。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alama, Jesse, Aleks Knocks, and Sara L. Uckelman, 2011, “Dialogue Games for Classical Logic”, in Martin Giese and Roman Kuznets (eds.), *Tableaux 2011: Workshops, Tutorials and Short Papers*, Technical Report IAM-11-002, University of Bern, pp. 82–86.
@@ -949,4 +949,4 @@ BIO 接口主要采用了 Sørensen 和 Urzyczyn（2006）的启发，采用了 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Nicolas Clerbout <[*nicolas.clerbout@gmail.com*](mailto:nicolas%2eclerbout%40gmail%2ecom)>  
 Zoe McConaughey <[*zoe.mc-conaughey@univ-lille.fr*](mailto:zoe%2emc-conaughey%40univ-lille%2efr)>
-<!--md-padding-ignore-end-->
+

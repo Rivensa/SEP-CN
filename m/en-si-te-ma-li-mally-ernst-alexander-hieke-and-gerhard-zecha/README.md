@@ -218,7 +218,7 @@
 
 正如我们上面所展示的，马利的逻辑学和本体论思想、概念和理论仍在当代哲学研究中被讨论。然而，他的价值理论和伦理哲学在很大程度上是未知的，并且应该引起广泛关注，因为他的观点与今天普遍接受的观点截然相反。此外，这个简短的概述应该清楚地表明，马利的著作中有许多部分值得进行严肃的哲学进一步研究。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 For a complete bibliography (including the unpublished work) of Mally’s writings, see Wolf/Weingartner 1971: 325–331.
@@ -301,4 +301,4 @@ All quotations originally in German were translated by the authors of the entry.
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Alexander Hieke](http://www.uni-salzburg.at/phs/hieke) <[*Alexander.Hieke@sbg.ac.at*](mailto:Alexander%2eHieke%40sbg%2eac%2eat)>\
 [Gerhard Zecha](http://www.uni-salzburg.at/portal/page?\pageid=1225,421752&\dad=portal&\schema=PORTAL)
-<!--md-padding-ignore-end-->
+

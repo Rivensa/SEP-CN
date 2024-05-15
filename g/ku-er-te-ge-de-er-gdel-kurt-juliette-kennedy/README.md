@@ -554,7 +554,7 @@ Bernays 在他 1967 年的《爱德华兹》中写道（参见 Bernays 关于 Da
 
 > [数学内容的哲学论证](https://plato.stanford.edu/entries/goedel/content-mathematics.html)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -788,4 +788,4 @@ This entry was very much improved by discussion and correspondence with the foll
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Juliette Kennedy](http://www.math.helsinki.fi/logic/people/juliette.kennedy/) <[*juliette.kennedy@helsinki.fi*](mailto:juliette%2ekennedy%40helsinki%2efi)>
-<!--md-padding-ignore-end-->
+

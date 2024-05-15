@@ -220,7 +220,7 @@ Hesse 通过区分领域之间的水平类比和垂直类比，对类比推理�
 
 本文已经说明了发现的哲学已经回到了原点。发现的哲学再次成为一个蓬勃发展的哲学研究领域，现在与哲学和实证研究创造性思维、不确定性下的问题解决、集体知识生成和机器学习相交叉。最近的发现方法通常是明确的跨学科和综合的，涉及到以往在假设生成和理论构建、数据收集、评估和选择之间的区别，以及描述性分析、历史和规范性观点之间的区别；其目标不再是提供一个总体的科学发现解释，而是产生多方面的分析，揭示过去和现在的知识生成活动的复杂性和异质性，对非科学家和科学研究人员都具有启发作用（Danks & Ippoliti 2018，Michel 2021）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abraham, A. 2019, *The Neuroscience of Creativity,* Cambridge: Cambridge University Press.
@@ -366,4 +366,4 @@ Hesse 通过区分领域之间的水平类比和垂直类比，对类比推理�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Jutta Schickore <[*jschicko@indiana.edu*](mailto:jschicko%40indiana%2eedu)>
-<!--md-padding-ignore-end-->
+

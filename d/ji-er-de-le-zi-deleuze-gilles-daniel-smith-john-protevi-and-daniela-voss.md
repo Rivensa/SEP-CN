@@ -240,7 +240,7 @@ Massumi 1992 年和 DeLanda 2003 年试图表明，德勒兹的认识论和本�
 
 最后，虽然怀特海德自身一直受到持续的关注，但当前的怀特海德学术研究中也包括对德勒兹的引用，如 Stengers 2011 所述。一部受德勒兹和怀特海德影响的值得注意的新作品是 Williams 2016。关于德勒兹和怀特海德的联系，还可以参考 Shaviro 2009、Robinson 2010 以及 Bell 2011 和 2012。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -465,4 +465,4 @@ Massumi 1992 年和 DeLanda 2003 年试图表明，德勒兹的认识论和本�
 [Daniel Smith](http://www.cla.purdue.edu/philosophy/directory/?personid=129) <[*smith132@purdue.edu*](mailto:smith132%40purdue%2eedu)>  
 John Protevi  
 Daniela Voss <[*vossda@uni-hildesheim.de*](mailto:vossda%40uni-hildesheim%2ede)>
-<!--md-padding-ignore-end-->
+

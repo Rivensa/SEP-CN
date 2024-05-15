@@ -316,7 +316,7 @@
 
 在对哈奇森的快乐主义进行定量阅读时，与其说它是一种价值保证，即道德感的快乐更有价值，不如说这只是一个心理事实，即人类从道德感中获得更强烈和持久的快乐，足以抵消在低级快乐中可能获得的任何喜悦。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Literature
@@ -400,4 +400,4 @@ Large thanks are due to Si-won Song for invaluable research assistance. I would 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Dale Dorsey](http://people.ku.edu/~ddorsey) <[*ddorsey@ku.edu*](mailto:ddorsey%40ku%2eedu)>
-<!--md-padding-ignore-end-->
+

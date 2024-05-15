@@ -646,7 +646,7 @@
 
 的确，我应该强调，尽管这篇文章很长，但我几乎没有提到罗素关于道德和政治问题的大部分著作。如果我们根据他的文学作品来判断，罗素对社会和政治问题、战争与和平的是非常感兴趣的，而不是对抽象的伦理理论问题。但是，当涉及到罗素的通俗著作时，没有必要借助中介。他的书很容易获得，易于阅读，通常非常有趣，尽管现在的时代背景有些过时，但易于理解。请自己阅读并形成自己的看法。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -791,4 +791,4 @@ Referred to as *Papers* in the text.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Charles Pigden <[*charles.pigden@stonebow.otago.ac.nz*](mailto:charles%2epigden%40stonebow%2eotago%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

@@ -160,7 +160,7 @@ Croce 无疑是正确的，希望区分这些事物，但他的官方立场—�
 
 最后，读者可能会发现，如果我们总结克罗切和柯林伍德之间的主要差异——狭义上关于美学问题——会很有用，柯林伍德经常被认为是克罗切的追随者。（事实上，克罗切是否、如何以及在多大程度上‘影响’了柯林伍德，不仅在美学上，还在更广泛的形而上学和历史问题上，都是棘手的问题。根据里克·彼得斯的一项仔细研究，克罗切影响了柯林伍德提出的问题，但彼得斯得出结论说，柯林伍德给出的答案是他自己的；有关艺术和美学问题，还可以参考霍斯珀斯 1956 年、多纳根 1962 年和琼斯 1972 年。）首先，柯林伍德似乎同意克罗切的观点，即艺术，可以说，无处不在——没有缺乏表现和美学品质的自我意识感知——而克罗切的理论并不倾向于将艺术作品的表现内容视为‘在艺术家内部’，而是强调其形式，后来是其‘普遍性’，柯林伍德试图通过详细的情感理论来解释表现内容。其次，尽管克罗切确实花了一些精力来贬低‘技术’艺术理论，但柯林伍德提供了更有条理和详细的分析，说明为什么艺术不是‘手艺’，尽管可以说主要观点是克罗切的。最后，柯林伍德将最后几节专门讨论了克罗切未曾涉及的问题：观众的反应是否可以以何种方式限制艺术家呈现的对象。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -227,4 +227,4 @@ Thanks to Dr. Martine Lejeune of the Department for Applied Linguistics, College
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Gary Kemp](http://www.gla.ac.uk/schools/humanities/staff/garykemp/) <[*gary.kemp@glasgow.ac.uk*](mailto:gary%2ekemp%40glasgow%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

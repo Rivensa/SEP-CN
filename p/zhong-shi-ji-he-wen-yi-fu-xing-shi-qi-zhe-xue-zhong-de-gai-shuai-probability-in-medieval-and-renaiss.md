@@ -207,7 +207,7 @@ Autrecourt 的 Nicolas 提供了一个关于完全参与和部分参与之间对
 
 从 1200 年到 1500 年的时期明显缺乏基于事件平等可能性的“经典”概率概念的前身。因此，这似乎是概率的真正现代解释。[50]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary literature
@@ -337,4 +337,4 @@ I would like to thank Jill Kraye and Robert Pasnau for comments and helpful sugg
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Rudolf Schuessler <[*rudolf.schuessler@uni-bayreuth.de*](mailto:rudolf%2eschuessler%40uni-bayreuth%2ede)>
-<!--md-padding-ignore-end-->
+

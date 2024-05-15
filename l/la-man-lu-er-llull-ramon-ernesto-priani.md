@@ -413,7 +413,7 @@ Bonner（2007）指出，拉曼·鲁尔提出的定义的一个独特特点是�
 
 > 老师应该向学生提出问题，并根据这门艺术的过程提供理由来解决问题，因为没有推理，艺术家无法使其发挥作用。在这里，我们应该注意到这门艺术有三个朋友，即智力的敏锐、推理的技巧和良好的意图，因为没有这些，没有人能够学会它。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cited Primary Literature
@@ -568,4 +568,4 @@ Bonner（2007）指出，拉曼·鲁尔提出的定义的一个独特特点是�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Ernesto Priani <[*epriani@gmail.com*](mailto:epriani%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

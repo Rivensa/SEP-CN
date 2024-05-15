@@ -96,7 +96,7 @@
 
 这里的问题很复杂，历史事实尚未得到很好的梳理。但是，似乎二十世纪的学者们认为普遍的物质形式论与形式的多样性之间存在着密切的概念联系，可能是将这两个理论视为受到上述第一理论陈述的共同承诺的动机。在某些情况下（例如《生命之泉》），他们可能确实如此。然而，将这两个理论视为“一对”是一个近期的现象，而不是中世纪的现象。这似乎首次出现在丹尼尔·卡卢斯的著作中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aquinas, Thomas. 1949. *On Spiritual Creatures (De Spiritualibus Creaturis).* Mary C. FitzPatrick and John J. Wellmuth, trans. “Mediaeval Philosophical Texts in Translation,” no. 5. Milwaukee: Marquette University Press.
@@ -137,4 +137,4 @@
 
 [Copyright © 2008](https://plato.stanford.edu/info.html#c) by\
 [Paul Vincent Spade](http://www.pvspade.com/)
-<!--md-padding-ignore-end-->
+

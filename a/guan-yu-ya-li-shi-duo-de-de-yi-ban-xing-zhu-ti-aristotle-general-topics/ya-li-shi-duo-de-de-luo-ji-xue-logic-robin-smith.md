@@ -627,7 +627,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 * Term: *horos*
 * Universal: *katholou* (both of propositions and of individuals)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackrill, J. L., 1961. *Aristotle’s Categories and De Interpretatione* (Clarendon Aristotle Series),Oxford: Clarendon Press.
@@ -746,4 +746,4 @@ I am indebted to Alan Code, Marc Cohen, and Theodor Ebert for helpful criticisms
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Robin Smith](http://philosophy.tamu.edu/html/bio-Smith.html) <[*rasmith@tamu.edu*](mailto:rasmith%40tamu%2eedu)>
-<!--md-padding-ignore-end-->
+

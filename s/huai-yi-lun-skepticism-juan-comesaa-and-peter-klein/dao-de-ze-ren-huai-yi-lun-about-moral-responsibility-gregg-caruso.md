@@ -259,7 +259,7 @@ Critics, however, object on number of different grounds. Some point out that whi
 
 鉴于道德责任怀疑论者可选择的各种非报复性选项（有关其他选项，请参见 Corrado（2001, 2013, 2014, 2017, forthcoming-a,b），Vilhauer（2013a,b），N. Levy（2012, 2015）），草率地得出怀疑论观点使我们无法充分应对犯罪行为的结论是仓促的。甚至可能如许多怀疑论者所建议的那样，拒绝报复主义和基本应得可能使我们能够采取更加人道和有效的实践和政策。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aspinwall, Lisa G., Teneille R. Brown, and James Tabery, 2012, “The Double-Edged Sword: Does Biomechanism Increase or Decrease Judges’ Sentencing of Psychopaths?”, *Science*, 337(6096): 846–49. doi:10.1126/science.1219569
@@ -645,4 +645,4 @@ I would like to thank Derk Pereboom, Neil Levy, Bruce Waller, Manuel Vargas, Ish
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Gregg Caruso <[*gcaruso@corning-cc.edu*](mailto:gcaruso%40corning-cc%2eedu)>
-<!--md-padding-ignore-end-->
+

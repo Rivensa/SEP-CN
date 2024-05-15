@@ -387,7 +387,7 @@ O'Neill 等人的批评并不针对整个权利语言。他们主要针对被动
 
 用权利的术语描述基本规范既有好处也有危险（Schneider 1986，Ackerly 2013）。权利的语言可以准确地表达自由和权威的复杂结构。当体现在特定的教义中，比如国际人权文件中，权利的语言可以以易于理解的方式表达个人可以要求那些对他们有权力的人所提供的最低可接受待遇的标准。权利也与争取更大自由和平等的历史运动相关联，因此为了追求正义而主张权利可以带有其他呼吁所缺乏的共鸣。在道德、政治和法律理论中，使用权利语言的这些好处是否超过了危险仍然是一个有争议的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackerly, B., 2013, “Feminist and Activist Approaches to Human Rights,” in M. Goodhart (ed.), *Human Rights: Politics and Practice*, Second ed., Oxford: Oxford University Press, pp. 28–43.
@@ -551,4 +551,4 @@ O'Neill 等人的批评并不针对整个权利语言。他们主要针对被动
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Leif Wenar](https://philosophy.stanford.edu/people/leif-wenar) <[*lwenar@stanford.edu*](mailto:lwenar%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

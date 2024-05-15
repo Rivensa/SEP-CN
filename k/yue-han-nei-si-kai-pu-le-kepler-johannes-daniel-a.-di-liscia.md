@@ -130,7 +130,7 @@
 
 除了心理学和认识论之外，开普勒在第四卷中处理的另一个主要问题领域是他的“相位”理论，即占星学（HM，IV，第 4-7 章），这是他的心理学应用的另一个领域，也是他哲学中几何学角色的进一步证据。他希望从旧有的占星学中挽救下来的只有“相位”，即行星、月亮和太阳之间的角度，他对旧有占星学进行了严厉的批评；因为相位可以或者可以被减少为几何结构，即原型，可以被灵魂所认识。根据开普勒的观点，天空（星星和星座在他的占星学中并不重要）对地球和人类生活没有“机械影响”，而是地球和人类以及其他所有生命体最终都具有灵魂，其中包含几何原型。在天空中形成一个相位时，会产生对称性并刺激地球或人类的灵魂。“地球，”开普勒写道，“回应‘相位的哨声’”（KGW 11.2，第 48 页；关于他的占星学，尤其是参见菲尔德 1984 年和拉宾 1997 年，博纳 2005 年和 2006 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -290,4 +290,4 @@ Support from the Université de Versailles-Saint-Quentin en Yvelines (ESR Moyen 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Daniel A. Di Liscia <[*D.DiLiscia@lrz.uni-muenchen.de*](mailto:D%2eDiLiscia%40lrz%2euni-muenchen%2ede)>
-<!--md-padding-ignore-end-->
+

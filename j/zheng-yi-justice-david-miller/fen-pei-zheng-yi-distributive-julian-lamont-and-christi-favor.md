@@ -233,7 +233,7 @@ Nozick 坦率地承认，他自己并没有对他所提倡的排他性财产权�
 
 第二个相关的方法论观点是，评估替代的分配原则要求我们（以及他们的支持者）考虑分配原则在社会中的应用。如果不确定或不确定一个特定的分配原则在实践中如何适用于真实社会的排序，那么这个原则还不是我们考虑的一个严肃候选者。对于那些在制度、心理、信息、行政或技术约束下实际上不可能实施的原则，这也是真实的。分配正义不是一个我们可以说理论上好但实践上不好的领域。如果在实践中不好，那么在理论上也不好。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Strict Egalitarianism
@@ -416,4 +416,4 @@ For extensive further references on reflective equilibrium see the entry on [re
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Julian Lamont](https://hapi.uq.edu.au/profile/429/julian-lamont) <[*j.lamont@uq.edu.au*](mailto:j%2elamont%40uq%2eedu%2eau)>  
 Christi Favor <[*c.favor@uq.edu.au*](mailto:c%2efavor%40uq%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

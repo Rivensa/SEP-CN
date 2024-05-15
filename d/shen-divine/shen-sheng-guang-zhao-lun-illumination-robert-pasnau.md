@@ -189,7 +189,7 @@
 
 尽管不应过分夸大斯科鲁斯的影响力。虽然所谓的神圣光照论不再有许多杰出的支持者，但对认知现象的超自然解释倾向将一直延续至文艺复兴之后。以著名的笛卡尔为例，他可以谈到“我们灵魂中自然存在的某些真理种子”（《方法论演讲》6，AT VI:64），以及“由自然植入智力的观念”（《哲学原理》2.3）。在细节上，这种观点与阿奎那的观点惊人地相似：笛卡尔将这些观念确定为我们对第一原理的认识基础；他认为这些观念本身仅在感官印象的作用下形成；他将上帝确定为这些观念的最终源泉。此外，如果笛卡尔是在现代服装中扮演阿奎那的角色，那么作为亨利·甘特，我们可以将马勒布朗奇视为阿奎那的继承者，他认为“我们所有的观念必须位于唯一能够影响智力的神圣实体中，因为只有它能够影响智力”（《寻求真理》第 232 页）。马勒布朗奇引用奥古斯丁的支持，他的非凡观点是我们所有的观念都在上帝中得以显现。这又是一次光照论。但到了十七世纪，哲学背景发生了如此巨大的变化，以至于这些现代发展必须被视为一个不同的主题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -264,4 +264,4 @@ This entry has benefited greatly from suggestions by Marilyn Adams, Jenny Ashwor
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Robert Pasnau](http://spot.colorado.edu/~pasnau/) <[*pasnau@colorado.edu*](mailto:pasnau%40colorado%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -546,7 +546,7 @@ Hammond 对欧盟理论的论证以及它所引用的动态一致性概念受到
 
 最后，决策理论对于心灵和心理学的哲学家以及对于如何理解他人行为和意图以及更一般地解释他人心灵活动的人来说应该具有极大的兴趣。决策理论家通常假设一个人的行为可以完全用她的信念和欲望来解释。但更有趣的是，决策理论的一些最重要的结果——各种表示定理，其中一些已经在上面讨论过——表明如果一个人满足某些合理性要求，那么我们可以从她的选择倾向（或偏好）中读出她的信念和欲望，以及这些信念和欲望的强度。这些定理真正告诉我们多少是一个有争议的问题，正如上面所讨论的。但在对这些结果的乐观解读中，它们向我们保证，我们可以在没有太多关于他们选择倾向以外的证据的情况下，有意义地谈论其他人心灵活动的内容。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Al-Najjar, Nabil I. and Jonathan Weinstein, 2009, “The Ambiguity Aversion Literature: A Critical Assessment”, *Economics and Philosophy*, 25: 249–284. [[al-Najjar and Weinstein 2009 available online (pdf)](http://www.kellogg.northwestern.edu/faculty/alnajjar/papers/The_Ambiguity_Aversion_Literature_A_Critical_Assessment.pdf)]
@@ -700,4 +700,4 @@ Hammond 对欧盟理论的论证以及它所引用的动态一致性概念受到
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Katie Steele](http://philosophy.cass.anu.edu.au/people/katie-steele) <[*katie.steele@anu.edu.au*](mailto:katie%2esteele%40anu%2eedu%2eau)>  
 [H. Orri Stefánsson](http://orristefansson.is/) <[*orri.stefansson@philosophy.su.se*](mailto:orri%2estefansson%40philosophy%2esu%2ese)>
-<!--md-padding-ignore-end-->
+

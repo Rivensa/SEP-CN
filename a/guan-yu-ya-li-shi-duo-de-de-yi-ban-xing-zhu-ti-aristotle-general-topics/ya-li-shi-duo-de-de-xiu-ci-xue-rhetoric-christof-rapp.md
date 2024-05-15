@@ -302,7 +302,7 @@
 * Style: *lexis*
 * Specific *topoi*: *idioi* *topoi* (Aristotle refers to them also by ‘*idiai protaseis*’ or ‘*eidê*’)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Translations, Editions and Commentaries
@@ -432,4 +432,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Christof Rapp <[*Ch.Rapp@lmu.de*](mailto:Ch%2eRapp%40lmu%2ede)>
-<!--md-padding-ignore-end-->
+

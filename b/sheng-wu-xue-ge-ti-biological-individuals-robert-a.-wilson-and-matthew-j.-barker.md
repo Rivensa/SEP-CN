@@ -331,7 +331,7 @@ Jane Maienschien 和 Kate MacCord 提供了一个有启发性的观点，即再�
 
 21 世纪的现在可能会让我们回到 20 世纪初的一些理解和洞见，那个时候表观发生和预定发生的平衡似乎是可能的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agutter, Paul S., P. Colm Malone, and Denys N. Wheatley, 2000, “Diffusion Theory in Biology: A Relic of Mechanistic Materialism”, *Journal of the History of Biology*, 33(1): 71–111. doi:10.1023/A:1004745516972
@@ -504,4 +504,4 @@ The authors would like to thank Alan Love and Karin Ekholm for helpful and const
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Melinda Bonnie Fagan](https://faculty.utah.edu/u0976724-MELINDA_BONNIE_FAGAN/hm/index.hml) <[*mel.fagan@utah.edu*](mailto:mel%2efagan%40utah%2eedu)>\
 [Jane Maienschein](https://sols.asu.edu/people/jane-maienschein)
-<!--md-padding-ignore-end-->
+

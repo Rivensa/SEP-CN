@@ -502,7 +502,7 @@ Reid 应用他的常识方法到第一原则的一个含义是，Reid 并不关�
 
 总之，里德对宗教哲学的后续发展做出了两个间接的实质性贡献。首先，在上帝的存在问题上，里德将领域从形而上学和证明转变为认识论和理性性。其次，里德对自由的代理因果解释的发展为回应道德邪恶问题提供了基础。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Works
@@ -654,4 +654,4 @@ Other works by Reid include:
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Ryan Nichols](http://philosophy.fullerton.edu/people/profile/ryan_nichols.aspx)  
 Gideon Yaffe
-<!--md-padding-ignore-end-->
+

@@ -272,7 +272,7 @@ S1 似乎蕴含 S2，但是，指责是，沃尔顿提供的释义并不尊重�
 
 有两个元本体论观点在这里可能会被倾向于提出。一个相对温和的观点是，很难确定某些话语属于字面意义/虚构区分的哪一边，因此奎因式的论证很少得到很好的支持。另一个观点是，有时候 — 或者在这个观念的最激进版本中，总是 — 某些话语是字面意义还是虚构并没有确切的事实。在这里最激进的观点与奎因关于分析/综合区分所说的最为类似。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armour-Garb, B. and F. Kroon (eds.), 2020, *Fictionalism in Philosophy*, Oxford: Oxford University Press.
@@ -396,4 +396,4 @@ S1 似乎蕴含 S2，但是，指责是，沃尔顿提供的释义并不尊重�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Matti Eklund <[*matti.eklund@filosofi.uu.se*](mailto:matti%2eeklund%40filosofi%2euu%2ese)>
-<!--md-padding-ignore-end-->
+

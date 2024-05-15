@@ -94,7 +94,7 @@
 
 无论卡普雷奥卢斯和卡耶坦在类比方面的著作对于他们对托马斯·阿奎那斯的立场的洞察力有多大优点，他们的著作以及他们的托马斯主义和斯科特主义批评家的著作都为中世纪亚里士多德传统在类比的逻辑、形而上学和认识论方面的持续哲学思考提供了重要的洞察力。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Andersen, Claus A., 2016, *Metaphysik im Barockscotismus: Unterschungen zum Metaphysikwerk Des Bartholmaeus Mastrius: Mit Dokumentation der Metaphysik in der scotistischen Tradition ca. 1620–1750*, Amsterdam/ Philadelphia: John Benjamin’s Publishing Company.
@@ -166,4 +166,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [E. Jennifer Ashworth](https://uwaterloo.ca/philosophy/about/people/emeriti)  
 Domenic D’Ettore <[*dettod@stthom.edu*](mailto:dettod%40stthom%2eedu)>
-<!--md-padding-ignore-end-->
+

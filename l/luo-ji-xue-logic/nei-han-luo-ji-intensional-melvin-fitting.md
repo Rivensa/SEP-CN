@@ -436,7 +436,7 @@ T0、T1、T2 等都不是一个固定点，但是有一个明确的极限概念�
 
 可以给出越来越极端的例子。不动点构造可能需要继续到更大的超限序数。这是一个众所周知的现象，特别是在真理理论等领域。这是无法避免的。顺便提一下，应该注意的是，Kripke 在他对真理的处理中引入的机制自然地嵌入到 LPCR 中，但我们在这里不讨论这个问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, C. A. (1984). “General intensional logic,” in D. Gabbay and F. Guenthner (Eds.), *Handbook of Philosophical Logic*, Volume II, Chapter II.7, pp. 355–385, Dordrecht: D. Reidel.
@@ -513,4 +513,4 @@ T0、T1、T2 等都不是一个固定点，但是有一个明确的极限概念�
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Melvin Fitting](https://www.gc.cuny.edu/people/melvin-fitting)
-<!--md-padding-ignore-end-->
+

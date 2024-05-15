@@ -296,7 +296,7 @@ Kekes’ 论点依赖于至少两个关键假设。首先，它假定宽恕需�
 
 有一点是明显的，对于心理科学中宽恕的本质存在着重大分歧，导致一位知名的宽恕心理学家曾写道，“不存在宽恕的共识定义”（McCullough, et al. 2000: 7）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Marilyn McCord, 1991, “Forgiveness: A Christian Model”, *Faith and Philosophy*, 8(3): 277–304. doi:10.5840/faithphil19918319
@@ -464,4 +464,4 @@ Kekes’ 论点依赖于至少两个关键假设。首先，它假定宽恕需�
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Paul M. Hughes  
 Brandon Warmke <[*bwarmke@bgsu.edu*](mailto:bwarmke%40bgsu%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -125,7 +125,7 @@
 
 因此，将人类恢复到他们本应享有的正义需要神圣的恩典。但是，除了上帝恢复对正义的意愿之外，还需要更多的东西。在《为什么上帝成为人类》（Cur Deus Homo）中，安瑟伦著名地试图纯粹从理性的角度证明，人类罪恶所产生的债务只有在一个既完全神圣又完全人类的人自愿为我们代价献出自己的生命时，才能得到适当的偿还，并且对上帝无限尊严的冒犯才能得到适当的纠正。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 References in this article to Anselm’s works use the following abbreviations:
@@ -210,4 +210,4 @@ All translations are my own.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Thomas Williams](https://www.profthomaswilliams.com/) <[*thomas.williams@georgetown.edu*](mailto:thomas%2ewilliams%40georgetown%2eedu)>
-<!--md-padding-ignore-end-->
+

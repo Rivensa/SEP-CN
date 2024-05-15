@@ -369,7 +369,7 @@ Price 在宗教和公民自由方面的著作数量庞大。其中许多著作�
 
 对普莱斯的兴趣在罗兰·托马斯（1924 年）、卡尔·科恩（1952 年）、莱纳特·奥奎斯特（1960 年）、D·O·托马斯（1977 年）和 W·D·哈德森（1970 年）的著作中得到了一定程度的复兴。此后，关于普莱斯工作各个方面的文章虽然有稳定的涓涓细流，但并没有真正的兴趣高涨，尽管直觉主义在二十世纪末再次兴盛起来。1977 年，普莱斯-普里斯特利通讯刊物成立；后来演变为启蒙与异议，该刊物于 2016 年停刊。然而，D·O·托马斯的不懈努力大大增强了研究普莱斯的资源，他不仅编辑了普莱斯的政治著作，还与伯纳德·皮奇一起出版了普莱斯的通信全集。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -497,4 +497,4 @@ I am very grateful to Eve Garrard and John Roberts for their considerable help a
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 David McNaughton <[*dmcnaughton@fsu.edu*](mailto:dmcnaughton%40fsu%2eedu)>
-<!--md-padding-ignore-end-->
+

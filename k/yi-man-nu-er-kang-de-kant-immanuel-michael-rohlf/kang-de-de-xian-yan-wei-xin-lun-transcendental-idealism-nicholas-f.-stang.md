@@ -731,7 +731,7 @@ Langton 将(i)归因于康德，但她的论述似乎最多支持(ii)。[53] 这
 
 本文通过《纯粹理性批判》的文本和各种解释争议，追溯了先验唯心论（有时称为“批判性”或“形式”唯心论）的含义。从历史上看，不同解释之间的主要问题是康德是否是关于空间和时间中的对象的现象主义者，如果是的话，又是以何种方式。康德的现象主义解释在康德的直接前辈和后来的德国唯心主义者中占主导地位，在 20 世纪的英语学术界中，这一解释受到了格雷厄姆·伯德、格罗德·普劳斯和亨利·艾莉森等人的挑战。一些后来的学者保留了这些学者阅读的核心思想——表象/物自体区分是对象不同方面的区分，而不是对象不同种类的区分——同时放弃了对康德唯心主义的纯粹认识论解释。自 1781 年以来，关于“先验唯心论”的含义和哲学意义一直是康德读者们争论的焦点，而这场争论显示出没有任何迹象会很快停止。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works of Kant
@@ -869,4 +869,4 @@ We refer to certain Kantian works by the following abbreviations:
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Nicholas F. Stang <[*nick.stang@gmail.com*](mailto:nick%2estang%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

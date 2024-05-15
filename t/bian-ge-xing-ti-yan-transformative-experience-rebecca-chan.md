@@ -188,7 +188,7 @@ However, people often find themselves in situations in which they need to make d
 
 最后，我们以许多不幸的方式构建了我们的社会。这超越了人们在种族、性别、能力、社会经济地位等方面所遭受的歧视。更微妙的概念结构塑造并限制了我们形成自我认同的方式。这些不公正显然本身就是不好的，并且它们还与变革性体验相互作用，进一步加剧了不公正。巴恩斯（2015）认为，“自我概念和自我认同并非在文化孤立中发展”，“社会规范和结构使得某些关于我们自己的解释或思考方式变得容易可得”（185 页）。例如，社会使得女性“能够重新塑造自我概念，使其与一个尽职尽责、顺从的妻子的形象相一致”（186 页）。同样，“勇敢的灵感”对于残疾人来说是一种容易获得的自我概念，而“在非传统身体中茁壮成长的人”则不是（185-186 页）。这些情况对于女性和残疾人来说都是不好的。由于个人转变涉及对自我概念的改变，社会在我们可获得的转变类型中扮演着过大的角色。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Akhlaghi, Farbod, 2022, “Transformative Experience and the Right to Revelatory Autonomy”, *Analysis*, first online: 31 December 2022. doi:10.1093/analys/anac084
@@ -275,4 +275,4 @@ However, people often find themselves in situations in which they need to make d
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Rebecca Chan <[*rebecca.s.chan@sjsu.edu*](mailto:rebecca%2es%2echan%40sjsu%2eedu)>
-<!--md-padding-ignore-end-->
+

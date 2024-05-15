@@ -120,7 +120,7 @@
 
 这里真正发生的是，我们诉诸原则来纠正道德判断中的自然扭曲。如果这样的判断只关注案例中存在的理由，那么将很容易将这些理由扭曲成符合自己的方式。因此，我们使用原则来阻止自己这样做。但实际上，解决道德判断不佳的方法并不是采用不同风格的道德判断，即基于原则的判断，而是更好的道德判断。只有一种真正的方法可以阻止自己偏袒事物，那就是再次审视案例中存在的理由，尽力看看自己是否与他人有如此之大的不同，以至于对他们而言所需的并不适用于自己。我知道这种方法并不是万无一失的，但原则的诉求也并非如此。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The bibliography presented here is a short list of pieces recommended as further reading along with those referred to in the text above. A more comprehensive bibliography is available in the entry on [moral particularism and moral generalism](https://plato.stanford.edu/entries/moral-particularism-generalism/).
@@ -173,4 +173,4 @@ The bibliography presented here is a short list of pieces recommended as further
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Jonathan Dancy
-<!--md-padding-ignore-end-->
+

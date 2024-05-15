@@ -205,7 +205,7 @@ Zend-Avesta 是毫不掩饰地宗教性质。费希纳将其构想为对古代�
 
 由于篇幅原因，我们将把费希纳理论的进一步复杂性放在一边。然而，为了避免严重的混乱，有必要简单地考虑一下该理论的起源。\[ [15](https://plato.stanford.edu/entries/fechner/notes.html#note-15) ]费希纳本人表示，他的理论根源于谢林的 *自然哲学* （ *《原子》* ：xiv）。费希纳的家谱有一定的合理性。 1800 年代初期，谢林发展了自己的身心双重理论，根据该理论，精神与物质、理想与现实是绝对的两个平等且独立的表象。我们不必对费希纳的家谱表示怀疑。 他的双重理论的_最初推动者_可能 确实是谢林。也许，如果他没有读过谢林，他永远不会提出双重理论。尽管如此，重要的是要看到费希纳沿着与谢林完全不同的路线发展了他的理论。谢林理论的一个基本原则是，精神和身体是同一的，因为它们是生命力的不同表现或表现；精神是该力量的最高组织和发展，身体是其最低组织和发展。因此，他的理论建立在其_自然哲学_核心的物质动态理论之上 。但正如我们所见，费希纳拒绝了这一与他的原子论相冲突的理论。此外，谢林和斯宾诺莎一样，禁止精神和身体之间相互作用的可能性，而费希纳想要研究的正是这种可能性（Schelling 1859: I/4, 344）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 All translations are by the author of this entry, unless otherwise noted.
@@ -300,4 +300,4 @@ All translations are by the author of this entry, unless otherwise noted.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Frederick C. Beiser](http://thecollege.syr.edu/people/faculty/pages/phi/beiser-fred.html) <[*fbeiser@syr.edu*](mailto:fbeiser%40syr%2eedu)>
-<!--md-padding-ignore-end-->
+

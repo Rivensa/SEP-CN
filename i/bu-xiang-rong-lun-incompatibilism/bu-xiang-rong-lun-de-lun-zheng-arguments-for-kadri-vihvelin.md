@@ -441,7 +441,7 @@ David Lewis 告诉我们将这个论证看作是一种还原论证（Lewis 1981�
 
 就这些深层而困难的形而上学问题的方向而言，不相容论的论证代表了哲学中最棘手问题之一的讨论的重要进展。（有关这些问题的讨论，请参见 D. Lewis 1979; Dennett 1984, 2003; Hoefer 2002; Berofsky 2003, 2012; Beebee & Mele 2002; Beebee 2000; Schaffer 2004, 2008; Vihvelin 1990, 2004, 2013, 2017; Perry 2004, 2008, 2010; van Inwagen 2004a; Fara 2008; Holton 2009; Wilson 2014; Clarke 2015; Ismael 2016; van Inwagen 2017; Spencer 2017; Franklin 2018; List 2019, Esfeld 2021; Loew and Huttemann 2022)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albert, David Z., 1992, *Quantum Mechanics and Experience*, Cambridge, MA: Harvard University Pres..
@@ -726,4 +726,4 @@ David Lewis 告诉我们将这个论证看作是一种还原论证（Lewis 1981�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Kadri Vihvelin <[*vihvelin@usc.edu*](mailto:vihvelin%40usc%2eedu)>
-<!--md-padding-ignore-end-->
+

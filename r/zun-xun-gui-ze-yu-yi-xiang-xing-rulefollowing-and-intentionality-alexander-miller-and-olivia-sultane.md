@@ -299,7 +299,7 @@ Kripke 简要考虑了意义或理解的状态，或者关于意义和理解的�
 
 怀疑论者的挑战清楚地表明，一个非语义描述的模式与无限多种解释是兼容的。对规范领域的诉诸是否有助于排除怀疑论者的替代假设？根据布兰多姆提出的部分还原主义观点，可以认为，话语最终只不过是“规范约束的噪音或标记制造”（Whiting 2006: 11），即非语义描述的表演，它们与其他非语义描述的表演之间存在规范关系。因此，似乎我们没有资源来确定特定的解释或正确性标准。同样，一个规范模式，它体现了根据金斯伯格提出的原始意义而言，如何继续处理一个表达，似乎与该表达的多个语义解释是一致的。金斯伯格可能会诉诸于非语义特征的倾向性，以确定相关表达的含义。然而，我们在第 4 节已经表明，倾向性解释面临非常严重的障碍（有关倾向性主义在与金斯伯格观点相关的问题上失败的更多讨论，请参见 Verheggen 2015；Myers 和 Verheggen 2016 的第 II 章；Miller 2019）。因此，对于意义的较不严格的处理方式的支持者，需要对非还原主义者如何满足外延性条件提供解释（有关金斯伯格观点的更多讨论，请参见 Haddock 2012 和 Sultanescu 2021；有关布兰多姆观点的更多讨论，请参见 Rosen 1997、McDowell 2002、Hattiangadi 2003 和 Whiting 2006）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Azzouni, Jody, 2017, *The Rule-Following Paradox and its Implications for Metaphysics*. Springer International Publishing AG.
@@ -463,4 +463,4 @@ We’re grateful to Claudine Verheggen for helpful comments. Thanks, too, to the
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Alexander Miller](http://www.otago.ac.nz/philosophy/dept/staff-miller.html) <[*alex.miller@otago.ac.nz*](mailto:alex%2emiller%40otago%2eac%2enz)>  
 [Olivia Sultanescu](https://www.oliviasultanescu.xyz/) <[*olivia.sultanescu@concordia.ca*](mailto:olivia%2esultanescu%40concordia%2eca)>
-<!--md-padding-ignore-end-->
+

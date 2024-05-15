@@ -200,7 +200,7 @@
 
 然而，尽管义务论理学理论可以在元伦理学方面持不可知论态度，但一些元伦理学观点似乎不如其他观点对义务论理学友好。例如，义务规范伦理学的基本内容——权利、责任、许可——与现实主义-自然主义者的元伦理学领域并不相容。（这就是为什么许多自然主义者，如果他们在元伦理学中是道德现实主义者，那么在伦理学中就是结果主义者。）非自然主义现实主义、习俗主义、超验主义和神命伦理学似乎更适合作为义务论理学的元伦理学基础。（例如，上述讨论的义务论理学悖论，如果道德是至高统帅对他的每个人类部下的个人指令问题，可能会更易解决。）如果这些粗略联系成立，那么对那些最适合义务论理学的元伦理学观点的弱点将削弱义务论理学作为一种行动规范理论。因此，一些义务论者认为这些联系不一定成立，并且自然主义-现实主义的元伦理学可以作为义务伦理学的基础（Moore 2004）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aboodi, R., A. Borer, and D. Enoch, 2008, “Deontology, Individualism, and Uncertainty: A Reply to Jackson and Smith,” *Journal of Philosophy*, 105: 259–272.
@@ -328,4 +328,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Larry Alexander](https://www.sandiego.edu/law/about/directory/biography.php?profile\id=2577) <[*larrya@sandiego.edu*](mailto:larrya%40sandiego%2eedu)>\
 Michael Moore <[*micmoore@illinois.edu*](mailto:micmoore%40illinois%2eedu)>
-<!--md-padding-ignore-end-->
+

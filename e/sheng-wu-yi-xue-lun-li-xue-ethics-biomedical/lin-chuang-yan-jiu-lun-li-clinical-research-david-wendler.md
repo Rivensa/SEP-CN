@@ -246,7 +246,7 @@ The abuses perpetrated as part of the infamous Tuskegee syphilis study were made
 
 学习型医疗系统面临的伦理挑战是是否可以摒弃隔离模式及其规定和实践，而不重新引入对参与者剥削的可能性。例如，在学习型医疗系统中，个人是否应该被告知他们的数据可能被用于研究目的？当数据被使用时，是否应该通知他们？在学习型医疗系统中，患者可以承担多大程度的额外风险用于研究？他们是否可以拒绝暴露于此类风险？因此，持续努力解决临床研究引发的关切，引发了新的伦理关切，为哲学家和其他寻找有趣且实际重要的问题进行分析和解决提供了机会。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Angell, M., 2008. “Industry sponsored clinical research: a broken system,” *Journal of the American Medical Association*, 80: 899–904.
@@ -358,4 +358,4 @@ The abuses perpetrated as part of the infamous Tuskegee syphilis study were made
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 David Wendler <[*dwendler@nih.gov*](mailto:dwendler%40nih%2egov)>
-<!--md-padding-ignore-end-->
+

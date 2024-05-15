@@ -310,7 +310,7 @@ Shrapnel 和 Costa 的结果基于本体论模型框架的一般化，该框架�
 
 如上所述（第 7.3 节），当非语境性的要求被理解为简洁性的要求时，语境性可以被看作是一种精细调整的形式（Cavalcanti 2018; Adlam 2021）。本节和上一节提出的担忧强调了解释各种类型的精细调整的挑战是逆因果解释继续面临的最严重的原则性障碍。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adlam, Emily, 2018, “Spooky Action at a Temporal Distance”, *Entropy*, 20: 41. doi:10.3390/e20010041
@@ -485,4 +485,4 @@ We are grateful to David Miller, Sally Shrapnel, Rod Sutherland, and Ken Wharton
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Simon Friederich](https://simonfriederich.eu/) <[*s.m.friederich@rug.nl*](mailto:s%2em%2efriederich%40rug%2enl)>  
 [Peter W. Evans](https://hapi.uq.edu.au/profile/450/peter-evans) <[*p.evans@uq.edu.au*](mailto:p%2eevans%40uq%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

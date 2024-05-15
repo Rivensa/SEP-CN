@@ -252,7 +252,7 @@ Gödel 的第一不完全性定理确实给演绎主义带来了一个重大问�
 
 真实完备性给归纳主义者带来了巨大的挑战。为了满足这一挑战，她不能偏袒任何一个算术系统，认为“PA 是一致的”在一个系统中是真的，在另一个系统中是假的。后哥德尔时代的认识到，如果我们转向一个不可完全的语义推理关系，淘汰性结构主义在这里表现得更好，这导致了结构主义在二十世纪下半叶流行起来，而归纳主义则受到了损失。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Benacerraf, Paul, 1973, “Mathematical Truth”, *The Journal of Philosophy*, 70(19): 661–679. doi:10.2307/2025075
@@ -323,4 +323,4 @@ For comments on previous drafts and presentations, we are very grateful to Wes W
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Alexander Paseau](http://www.acpaseau.com/) <[*alexander.paseau@philosophy.ox.ac.uk*](mailto:alexander%2epaseau%40philosophy%2eox%2eac%2euk)>  
 Fabian Pregel <[*fabian.pregel@gmail.com*](mailto:fabian%2epregel%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

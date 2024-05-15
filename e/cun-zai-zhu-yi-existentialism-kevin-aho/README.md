@@ -185,7 +185,7 @@ Heidegger 在《存在与时间》中发展了一个类似的观念，即“解�
 
 超越其在治疗艺术中的崛起、其无数的文化影响以及其对人文社会科学的广泛影响，存在主义的持久遗产或许在课堂上最为显著。存在主义主题的课程往往是哲学课程中最受欢迎的，年轻学生们首次面对自由和自身存在意义的令人不安的问题。在人类气候变化、物种灭绝、全球大流行病以及威权主义和法西斯主义政治再度出现的背景下，这些问题从未如此紧迫。在这些全球紧急情况中，一代新人正面临虚无主义的困境、上帝之死，并承认人类境况的神秘真相：存在先于本质。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adorno, T., 1964 [1973]. *The jargon of authenticity*, K. Tarnowski & F. Will (trans.), Evanston, IL: Northwestern University Press.
@@ -324,4 +324,4 @@ Heidegger 在《存在与时间》中发展了一个类似的观念，即“解�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Kevin Aho <[*kaho@fgcu.edu*](mailto:kaho%40fgcu%2eedu)>
-<!--md-padding-ignore-end-->
+

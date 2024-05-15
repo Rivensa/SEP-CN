@@ -202,7 +202,7 @@ Alon 及其合作者专注于细菌和酵母的基因转录网络和代谢网络
 
 除了将细胞作为科学研究对象之外，当代研究人员经常采用工程方法来研究细胞。一个背景是合成生物学领域，研究人员在这个领域工程化细胞，有时是为了研究目的，但有时也是为了生产社会认为有用的产品（参见 [系统和合成生物学哲学](https://plato.stanford.edu/entries/systems-synthetic-biology/)）。CRISPR 等基因编辑工具的最新发展引发了认识论和伦理问题（有关伦理问题，请参见 [神经伦理学](https://plato.stanford.edu/entries/neuroethics/)）。合成细胞的尝试在理解生命起源方面发挥了重要作用的一个背景是。关于生命起源的许多研究涉及原细胞的发展——由脂质组成的自组织、球形系统（Rasmussen 等人，2009 年）。这已经成为理论上有思想的生物学家和生物学哲学家的一个重要研究课题（请参见 [生命](https://plato.stanford.edu/entries/life/)；Bedau 2012；Moreno 2016；Dunér，Malaterre 和 Geppert 2016）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abrahamsen, Adele, Benjamin Sheredos, and William Bechtel, 2018, “Explaining Visually Using Mechanism Diagrams”, in Glennan & Illari 2018: 238–254.
@@ -432,4 +432,4 @@ We are most grateful for the helpful comments provided on earlier drafts of this
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 William Bechtel <[*bechtel@ucsd.edu*](mailto:bechtel%40ucsd%2eedu)>\
 Andrew Bollhagen <[*abollhag@ucsd.edu*](mailto:abollhag%40ucsd%2eedu)>
-<!--md-padding-ignore-end-->
+

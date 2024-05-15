@@ -250,7 +250,7 @@ Aristophanes 在《云》（公元前 421 年）中将苏格拉底描绘为这�
 
 苏格拉底现在重新讨论智慧和勇气（358d–360e）。苏格拉底向不情愿的普罗泰戈拉斯强调他的观点，即勇气是对应该害怕和不应该害怕的事物的知识（360d），这个学说实际上在《拉凯斯》中已经被他作为勇气的定义予以驳斥。《普罗泰戈拉斯》以双方一致同意需要进一步讨论的结论而结束。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahbel-Rappe, S., 2012, “Is Socratic Ethics Egoistic?” *Classical Philology*, 107: 319–40.
@@ -388,4 +388,4 @@ Aristophanes 在《云》（公元前 421 年）中将苏格拉底描绘为这�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Paul Woodruff](https://liberalarts.utexas.edu/philosophy/faculty/pbw55) <[*pbw@mail.utexas.edu*](mailto:pbw%40mail%2eutexas%2eedu)>
-<!--md-padding-ignore-end-->
+

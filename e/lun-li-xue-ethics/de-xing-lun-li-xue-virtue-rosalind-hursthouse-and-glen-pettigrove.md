@@ -164,7 +164,7 @@
 
 最后，德性伦理学中更具生产力的发展之一是通过对特定美德和恶习的研究。现在有许多对基本美德和主要恶习进行认真研究的学者（Pieper 1966; Taylor 2006; Curzer 2012; Timpe and Boyd 2014）。其他人则探讨了较少讨论的美德或恶习，如礼貌、得体、诚实、雄心和温和（Calhoun 2000; Kekes 2002; Williams 2002; 以及 Pettigrove 2007 和 2012）。这些研究中提出的一个问题是“有多少美德？”第二个问题是，“这些美德如何相互关联？”一些德性伦理学家乐于工作的假设是，没有原则性的限制美德的数量，而且有充分的理由假定存在多种美德（Swanton 2003; Battaly 2015）。其他人担心，对美德如此开放的态度将使德性伦理学家难以提出充分的正确行动解释或处理上述讨论中的冲突问题。丹·拉塞尔提出了基数和统一论的一个版本作为解决所谓的“列举问题”（太多美德的问题）的方案。如果我们将美德分组，其中一些是基本的，其他一些是这些基本美德的从属延伸，那么美德的明显增多就可以显著减少。然后，如果将剩余美德之间以某种方式联系在一起作为一个统一整体，那么剩余美德之间的可能冲突就可以得到管理（Russell 2009）。这突显了未来研究的两个重要方向，一个是探讨个别美德，另一个是分析它们如何相互关联。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abramson, Kate, 2015, “What’s So ‘Natural’ about Hume’s Natural Virtues?” in D. Ainslie and A. Butler, *The Cambridge Companion to Hume’s Ethics*, Cambridge: Cambridge University Press, 333–368.
@@ -426,4 +426,4 @@ Parts of the introductory material above repeat what was said in the Introductio
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Rosalind Hursthouse](http://artsfaculty.auckland.ac.nz/staff/?UPI=rhur007)  
 [Glen Pettigrove](https://www.gla.ac.uk/schools/humanities/staff/glenpettigrove/) <[*glen.pettigrove@glasgow.ac.uk*](mailto:glen%2epettigrove%40glasgow%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

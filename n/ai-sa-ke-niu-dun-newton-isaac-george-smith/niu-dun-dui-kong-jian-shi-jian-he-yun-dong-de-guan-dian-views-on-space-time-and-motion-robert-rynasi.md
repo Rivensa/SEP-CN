@@ -241,7 +241,7 @@ B 叉：需要建立的是，虽然一个受到的力足以在物体中产生或
 
 因此，关于上个世纪我们对空间和时间观念的革命是否证明了牛顿的批评者在哲学上更为敏锐的问题是一个错误的问题。在早期的辩论中，关于什么被视为物质与空虚空间的区别已经被现代场论和相对论引入之前无法想象的可能性所取代。[1]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -356,4 +356,4 @@ I'd like to thank John Norton for observations which led to many improvements.
 
 [Copyright © 2011](https://plato.stanford.edu/info.html#c) by  
 [Robert Rynasiewicz](http://philosophy.jhu.edu/bios/robert-rynasiewicz/) <[*ryno@lorentz.phl.jhu.edu*](mailto:ryno%40lorentz%2ephl%2ejhu%2eedu)>
-<!--md-padding-ignore-end-->
+

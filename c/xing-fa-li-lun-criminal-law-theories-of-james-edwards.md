@@ -308,7 +308,7 @@ This revision avoids the unpalatable implications of (2′). But it also renders
 
 因此，理解（PI）并不是毫无作用的。如今经常有人声称，太少的涉嫌违法者被定罪，需要新的刑事法律来帮助获得更多的定罪。根据修订后的观点，立法者可以为了实现这一目标制定尽可能多的刑事法律。但是，任何辩称无罪的人在没有证明他们是被怀疑的违法者的情况下不得被定罪。提供给面临刑事指控的任何人这种对抗法律的保护，正是为修订后的（PI）提出论据的原因。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, L., 2002, “Criminal Liability for Omissions – An Inventory of Issues” in S. Shute and A.P. Simester (eds.), *Criminal Law Theory: Doctrines of the General Part*, Oxford: Oxford University Press.
@@ -441,4 +441,4 @@ This revision avoids the unpalatable implications of (2′). But it also renders
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 James Edwards <[*james.edwards@law.ox.ac.uk*](mailto:james%2eedwards%40law%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

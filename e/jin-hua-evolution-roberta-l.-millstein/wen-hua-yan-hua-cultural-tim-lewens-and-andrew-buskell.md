@@ -304,7 +304,7 @@ Richerson and colleagues 对于标签化的这些担忧不以为然
 
 这篇文章指向了文化演化工作的不同视角。与其从广泛诊断社会科学的所谓失败或文化中存在自然选择过程所需的一般条件这样的角度开始，文化演化项目可以以更多元化的方式理解。它试图探索各种形式的学习在人类以外的许多其他物种中的重要性。尽管本文主要关注人类，但文化演化科学越来越多地研究学习如何影响灵长类动物、鸟类和鱼类的适应性和多样化。这引发了一系列现实研究问题：这些学习能力有多普遍，它们最初为何出现？是什么解释了为什么一些物种拥有明显不同形式的这些能力？学习带来的变化如何与进化学家研究的其他形式的变化相互作用？学习促进物种内长期多样化需要什么样的条件？学习促进功能行为或工艺品方面的渐进改进需要什么样的条件？学习以何种方式促进或阻碍他人关注行为或沟通系统的产生？一个关注这些问题类型的方法可以自由地吸收并与主流社会科学中成功的研究方向合作，就像它可以自由地吸收和调整解释模型一样，这些模型有时源自人口遗传学等学科，但同样也可能源自流行病学或经济学。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Acerbi, Alberto and Alex Mesoudi, 2015, “If We Are All Cultural Darwinians What’s the Fuss about? Clarifying Recent Disagreements in the Field of Cultural Evolution”, *Biology & Philosophy*, 30(4): 481–503. doi:10.1007/s10539-015-9490-2
@@ -455,4 +455,4 @@ Richerson and colleagues 对于标签化的这些担忧不以为然
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Tim Lewens <[*tml1000@cam.ac.uk*](mailto:tml1000%40cam%2eac%2euk)>\
 Andrew Buskell <[*abuskell@gatech.edu*](mailto:abuskell%40gatech%2eedu)>
-<!--md-padding-ignore-end-->
+

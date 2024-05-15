@@ -357,7 +357,7 @@ D8 中的大多数个别论证在逻辑上相互关联，并与之前的推论�
 
 有另一种回答三个核心解释性问题的方式，其中巴门尼德的批评以及推论都被认为是严肃而有效的。（这是 Rickless（2007）所辩护的解释，其中的一个方面也在 Gill（2014）上以不同的理由辩护。）巴门尼德的批评揭示了一个事实，无论是与参与的饼模型概念还是范例论相结合，柏拉图中期形式理论在内部都是不一致的。事实证明，有三个原则的放弃将消除除了最大困难之外的所有矛盾：纯度-F、唯一性和无对立因果。对对话的第二部分进行仔细的逻辑分析后，推论不仅证明了中期理论所假设的形式的存在，还证明了纯度-F、唯一性和无对立因果都是错误的。因此，合理地假设柏拉图希望读者认识到拯救形式的正确方式是放弃这三个基本假设。而且，重要的是，这可以在不放弃中期理论核心的最重要原则（即一对多和分离）的情况下完成。然后，这个名副其实的最大困难留给未来的工作挑战。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allen, R. E., 1997, *Plato’s Parmenides*, revised edition. New Haven: Yale University Press.
@@ -486,4 +486,4 @@ D8 中的大多数个别论证在逻辑上相互关联，并与之前的推论�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Samuel Rickless](http://samrickless.com/) <[*srickless@ucsd.edu*](mailto:srickless%40ucsd%2eedu)>
-<!--md-padding-ignore-end-->
+

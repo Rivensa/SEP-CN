@@ -173,7 +173,7 @@ EDVAC 和 ACE 提案都主张使用充满汞的管子，称为“延迟线”，
 
 一旦铁氧体磁芯存储器的绝对可靠性、相对廉价、高容量和长期寿命变得明显，磁芯很快取代了其他形式的高速存储器。IBM 704 和 705 计算机（分别于 1954 年 5 月和 10 月宣布）使磁芯存储器得到广泛应用。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -234,4 +234,4 @@ EDVAC 和 ACE 提案都主张使用充满汞的管子，称为“延迟线”，
 
 [Copyright © 2006](https://plato.stanford.edu/info.html#c) by  
 [B. Jack Copeland](https://www.canterbury.ac.nz/arts/contact-us/people/jack-copeland.html) <[*jack.copeland@canterbury.ac.nz*](mailto:jack%2ecopeland%40canterbury%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

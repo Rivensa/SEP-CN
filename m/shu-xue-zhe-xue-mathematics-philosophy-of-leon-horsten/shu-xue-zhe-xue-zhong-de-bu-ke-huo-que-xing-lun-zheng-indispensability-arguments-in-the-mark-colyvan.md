@@ -86,7 +86,7 @@ Elliott Sober 的反对意见与 Maddy 的第二和第三个反对意见密切�
 
 最后，值得强调的是，即使不可或缺性论证是支持柏拉图主义的唯一好论证，但该论证的失败并不一定授权名义主义，因为后者也可能没有支持。然而，公平地说，如果对不可或缺性论证的反对意见得到支持，那么柏拉图主义的最重要论证之一将受到削弱。这将使柏拉图主义处于相当摇摆不定的地位。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Although the indispensability argument is to be found in many places in Quine’s writings (including 1976; 1980a; 1980b; 1981a; 1981c), the *locus classicus* is Putnam’s short monograph *Philosophy of Logic* (included as a chapter of the second edition of the third volume of his collected papers (Putnam, 1979b)). See also Putnam (1979a) and the introduction of Field (1989), which has an excellent outline of the argument. Colyvan (2001) presents a sustained defence of the argument.
@@ -220,4 +220,4 @@ The author would like to thank Hilary Putnam, Helen Regan, Angela Rosier and Edw
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Mark Colyvan](http://www.colyvan.com/) <[*mark.colyvan@sydney.edu.au*](mailto:mark%2ecolyvan%40sydney%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

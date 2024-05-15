@@ -565,7 +565,7 @@ AI 领域对表示大型和明显异构领域以及整合不同知识源的关�
 
 知识表示与推理会议的论文集提供了从 1989 年至今人工智能领域逻辑研究的最详细记录：《Brachman et al. 1989》、《Allen et al. 1991》、《Nebel et al. 1992》、《Doyle et al. 1994》、《Aiello et al. 1996》、《Cohn et al. 1998》、《Cohn et al. 2000》、《Fensel et al. 2002》、《Dubois et al. 2004》、《Doherty et al. 2006》、《Brewka & Lang 2008》、《Lin et al. 2010》、《Eiter et al. 2012》、《Baral et al. 2014》、《Baral et al. 2016》、《Thielscher et al. 2018》、《Calvanese et al. 2020》、《Bienvenu et al. 2021》和《Kern-Isberner et al. 2022》。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aiello, Luigia Carlucci, Doyle, Jon, and Shapiro, Stuart (eds.), 1996, *KR’96: Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann.
@@ -848,4 +848,4 @@ I am grateful to John McCarthy, who read an early draft of this article and prov
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Richmond Thomason <[*rthomaso@umich.edu*](mailto:rthomaso%40umich%2eedu)>
-<!--md-padding-ignore-end-->
+

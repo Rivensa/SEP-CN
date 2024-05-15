@@ -248,7 +248,7 @@ Cotton-Barratt, MacAskill, & Ord (2020) 提出，我们应该使每个道德理�
 
 另一方面，也有令人信服的公理论证反对狂热主义。特别是，如果狂热主义是真实的，那么在非常最小的辅助假设下，我们可以构建出“不适当的前景”，我们必须将其优先于所有可能的结果（Russell＆Isaacs 2021; Beckstead＆Thomas 即将出版; Russell 即将出版）[20]。不适当的前景具有许多违直觉的后果。特别是，一个将某个前景视为比其所有可能的结果更好（或更差）的代理人，从而违反了表征期望效用最大化的无穷版本原则（独立公理和确定性原则），并且表现出了非期望效用最大化者的许多缺点。例如，她有时会做出明显比可用替代方案更糟糕的选择序列，并且会为了避免信息而付出代价（Russell＆Isaacs 2021; 另请参阅 Hammond（1998）中有关有界性的相关论证）。在你认为代理人不应该以那种方式行事（这是期望效用理论的一个标准理由）的情况下，这是一个令人信服的反对狂热主义的论证。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aboodi, Ron, Adi Borer, and David Enoch, 2008, “Deontology, Individualism, and Uncertainty: A Reply to Jackson and Smith”, *Journal of Philosophy*, 105(5): 259–272. doi:10.5840/jphil2008105543
@@ -412,4 +412,4 @@ For helpful feedback on a draft on this entry, the authors are grateful to Krist
 [Christian Tarsney](https://sites.google.com/view/christiantarsney/) <[*christian.tarsney@gmail.com*](mailto:christian%2etarsney%40gmail%2ecom)>  
 Teruji Thomas <[*teruji.thomas@philosophy.ox.ac.uk*](mailto:teruji%2ethomas%40philosophy%2eox%2eac%2euk)>  
 William MacAskill <[*will@effectivealtruism.org*](mailto:will%40effectivealtruism%2eorg)>
-<!--md-padding-ignore-end-->
+

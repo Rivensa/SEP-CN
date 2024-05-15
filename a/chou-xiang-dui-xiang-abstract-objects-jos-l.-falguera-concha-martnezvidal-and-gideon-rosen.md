@@ -347,7 +347,7 @@ Linnebo (2018)通过修订我们对 Frege 的双条件抽象原理的理解，�
 
 Berto＆Plebani（2015）提供了本体论和元本体论的有用介绍。Putnam（1971）从科学的角度为抽象对象提出了论据。Bealer（1993）和 Tennant（1997）提出了关于抽象实体必要存在的先验论证。Fine（2002）系统地研究了数学基础中的抽象原理。Wetzel（2009）研究了类型-标记的区别，认为类型是抽象对象，而这些类型的标记是它们的具体实例，并展示了在科学和自然语言中出现的对类型的许多引用是多么难以解释。Zalta（2020）为高阶抽象对象（包括抽象属性和抽象关系以及普通属性和关系）开发了一种类型理论框架，并提供了与其他类型理论的比较以及在哲学和语言学中的应用。Moltmann（2013）研究了在发展自然语言语义时需要抽象对象的程度；在这本书中，以及在她的文章（2020）中，她辩护了“核心-外围”区分，并提出自然语言本体论仅在其外围包含对抽象对象的引用。Falguera 和 Martínez-Vidal（2020）编辑了一本专著，其中贡献者们就不同种类和类别的抽象对象在哲学的不同领域中的立场和辩论进行了介绍。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armstrong, David, 1978, *Universals and Scientific Realism (Volume I: Nominalism and Realism; Volume II: A Theory of Universals)*, New York: Cambridge University Press.
@@ -503,4 +503,4 @@ This entry was revised, updated, and expanded in 2021 by José L. Falguera and C
 [José L. Falguera](https://doctoradologifici.usal.es/?q=profesor/falguera-lopez-jose-luis) <[*joseluis.falguera@usc.es*](mailto:joseluis%2efalguera%40usc%2ees)>  
 [Concha Martínez-Vidal](https://epimenides.usal.es/?q=profesor/martinez-vidal-concepcion) <[*mconcepcion.martinez@usc.es*](mailto:mconcepcion%2emartinez%40usc%2ees)>  
 [Gideon Rosen](http://philosophy.princeton.edu/index.php?option=com_faculty&Itemid=78&func=fullview&facultyid=36)
-<!--md-padding-ignore-end-->
+

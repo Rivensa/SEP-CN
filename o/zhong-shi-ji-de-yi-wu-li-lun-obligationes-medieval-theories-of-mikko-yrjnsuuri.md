@@ -173,7 +173,7 @@ Burley 使用了“compossible”（compossibile）一词。值得注意的是�
 
 在十四世纪末讨论义务的时候，威尼斯的保罗将义务与逻辑的另一种类型进行比较，称“义务的内容只是以更微妙的方式呈现的结果的内容”（保罗在阿什沃思 1988 年，32 页）。保罗威尼斯这个说法的一个方面可能是指义务和结果都涉及非三段论逻辑。从这个角度来看，即使从现代的角度来看，对义务理论的这种描述似乎是正确的。然而，认为义务辩论会试图详细说明前提和结论之间的逻辑关系，甚至是一组前提和结论之间的逻辑关系，似乎并不完全正确。在义务辩论中考虑的逻辑关系并不具有二元性。似乎它们通常被视为仅在动态的三个或更多命题序列中才变得明确的逻辑关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -284,4 +284,4 @@ Burley 使用了“compossible”（compossibile）一词。值得注意的是�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Mikko Yrjönsuuri <[*mikko.yrjonsuuri@jyu.fi*](mailto:mikko%2eyrjonsuuri%40jyu%2efi)>
-<!--md-padding-ignore-end-->
+

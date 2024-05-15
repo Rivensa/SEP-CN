@@ -448,7 +448,7 @@ Hoffmann 对水平和垂直解释的不同价值没有多少言论，但一个�
 
 尽管 Coulson、Carroll 和 Hoffmann 捍卫使用简单、理想化的模型来产生水平解释，但量子计算永远不能产生对比解释并不清楚。虽然单一的垂直解释并不具有对比性，但理论家可以进行多次计算，从而生成所需的信息，以进行对比解释。许多最好的量子化学示例具有这种特征：一系列密切相关的计算，试图探索化学相关的趋势。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle \[*DG*], *On Generation and Corruption* (*De Generatione et Corruptione*), in *The Complete Works of Aristotle* (Volume 1), J. Barnes (ed.), Princeton: Princeton University Press, 1984, 512–554.
@@ -634,4 +634,4 @@ The authors would like to thank Brad Berman, Mark Goodwin, Roald Hoffmann, Deena
 [Michael Weisberg](http://www.phil.upenn.edu/\~weisberg) <[*weisberg@phil.upenn.edu*](mailto:weisberg%40phil%2eupenn%2eedu)>\
 [Paul Needham](http://people.su.se/\~pneedham/PNEng.html) <[*paul.needham@philosophy.su.se*](mailto:paul%2eneedham%40philosophy%2esu%2ese)>\
 [Robin Hendry](http://www.dur.ac.uk/philosophy/staff/?id=513) <[*r.f.hendry@durham.ac.uk*](mailto:r%2ef%2ehendry%40durham%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

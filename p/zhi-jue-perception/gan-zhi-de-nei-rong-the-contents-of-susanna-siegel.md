@@ -435,7 +435,7 @@ Dretske 和 Tye 各自提出，经验之所以具有特定的内容，是因为�
 
 在哲学领域，关于经验内容还有很多研究工作要做。大量的理论构建已经集中在视觉经验上。即便如此，上述问题都没有得到充分解决，因此在任何这些主题上都有充足的机会进行进一步研究。其他适合未来研究的主题包括：感知内容与感知与现实的接触之间的关系是什么？；不同感觉模态之间的相互作用是如何的？；经验内容在推理、有意识的行动以及作为一个主体的更一般的方面中扮演着什么角色？；感知恒常性如何在经验内容中体现？；对于无意识感知来说，哪种经验内容的概念在理论上最有用，以及后者如何在各种个人信息处理的变体中加以区分？
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anscombe, E., 1965. “The Intentionality of Sensation: A Grammatical Feature,” in her *Collected Papers* (Volume 2), *Metaphysics and the Philosophy of Mind*, Minneapolis: University of Minnesota Press, 1981, pp. 3–20.
@@ -675,4 +675,4 @@ Dretske 和 Tye 各自提出，经验之所以具有特定的内容，是因为�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Susanna Siegel](https://philosophy.fas.harvard.edu/people/susanna-siegel) <[*ssiegel@fas.harvard.edu*](mailto:ssiegel%40fas%2eharvard%2eedu)>
-<!--md-padding-ignore-end-->
+

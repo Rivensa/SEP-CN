@@ -248,7 +248,7 @@ Unsurprisingly, Wolff sets up his distinctive emphasis on experience and introdu
 
 沃尔夫在 18 世纪德国的显赫地位和广泛的兴趣使他成为 18 世纪许多已建立领域的重要人物，包括数学、物理、政治理论，甚至经济学。沃尔夫还对尚未被认为是独立哲学领域的学科做出了显著甚至是开创性的贡献。例如，沃尔夫早期对语言哲学产生了兴趣，并在 1703 年致力于该主题的论文（《关于言语的哲学探讨》）中进行了研究，他在后来的逻辑著作中继续讨论了与符号学和诠释学相关的问题，并在心理学文本中探讨了心理和语言实体之间的关系（详见 Favaretti Camposampiero 2018）。沃尔夫也被广泛认可为美学学科的奠基人之一——尽管他唯一专门讨论该主题的文本是一本关于土木建筑的论文（数学教科书的一卷），但沃尔夫将审美愉悦解释为对完美的直观认知（EP: §511），并将这种完美认定为多样性中的统一，这一观点后来被包括现代美学之父 A·G·鲍姆加滕、J·C·戈特谢德、J·G·苏尔策（1720-1779）和门德尔松在内的美学理论家所接受和讨论（详见 Beiser 2009；Buchenau 2013）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Wolff’s Principal Works
@@ -428,4 +428,4 @@ In the above entry, all translations are by the authors unless otherwise indicat
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Matt Hettche <[*mhettch@ncsu.edu*](mailto:mhettch%40ncsu%2eedu)>  
 Corey Dyck <[*cdyck5@uwo.ca*](mailto:cdyck5%40uwo%2eca)>
-<!--md-padding-ignore-end-->
+

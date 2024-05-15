@@ -882,7 +882,7 @@ a≤b 当且仅当 C(b)⊆C(a)当且仅当 C(a→Ab)=C(∅)=C(a→Aa)当且仅�
 
 另一条最近的研究线路扩展了本条目中描述的框架，使用计算机科学中的行为等式结果（一种来自计算机科学的概念）代替自然类别的代数的等式结果关系，并且比可代数逻辑更弱：行为代数逻辑。请参阅 Caleiro，Gonçalves＆Martins 2009。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albuquerque, Hugo, Josep Maria Font, and Ramon Jansana, 2016, “Compatibility operators in abstract algebraic logic”, *The Journal of Symbolic Logic*, 81(2): 417–462. doi:10.1017/jsl.2015.39
@@ -989,4 +989,4 @@ a≤b 当且仅当 C(b)⊆C(a)当且仅当 C(a→Ab)=C(∅)=C(a→Aa)当且仅�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Ramon Jansana](http://www.ub.edu/logica/?q=en/person/jansana-ferrer-ramon) <[*jansana@ub.edu*](mailto:jansana%40ub%2eedu)>
-<!--md-padding-ignore-end-->
+

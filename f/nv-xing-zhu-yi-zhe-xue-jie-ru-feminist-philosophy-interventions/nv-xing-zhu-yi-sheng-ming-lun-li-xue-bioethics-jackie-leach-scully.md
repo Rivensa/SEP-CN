@@ -182,7 +182,7 @@
 
 女性主义生命伦理学继续发展，一方面是为了响应医学和生命科学研究，另一方面是为了哲学和社会理论的发展。它还反映了新领域的建立，如人工智能伦理学，以及旧学科边界的瓦解。在这方面，它与整体主流生命伦理学并没有太大不同。使其独具女性主义特色的是对政治目标的基本承诺，即确定伤害和 benifit 女性的实践，这一承诺根植于这样一种信念：这将为每个人创造一个更好、更公平的世界，而不仅仅是为了女性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Several recent handbooks or encyclopedias of bioethics or feminist philosophy have contained chapters on feminist bioethics. These include the entry by Wendy Rogers in the *Routledge Companion to Feminist Philosophy* (edited by Ann Garry, Serene J. Khader, and Alison Stone, 2017) and the chapter by Jackie Leach Scully in the *Oxford Handbook of Feminist Philosophy* (2021, edited by Kim Q. Hall and Ásta). The first Handbook dedicated to feminist bioethics, *The Routledge Handbook of Feminist Bioethics*, edited by Wendy Rogers, Jackie Leach Scully, Stacy Carter, Catherine Mills and Vikki Entwistle, was published in 2022.
@@ -398,4 +398,4 @@ Jackie Leach Scully would like to extend gratitude and remembrance to Anne Donch
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Jackie Leach Scully <[*jackie.leach.scully@unsw.edu.au*](mailto:jackie%2eleach%2escully%40unsw%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

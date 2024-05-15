@@ -183,7 +183,7 @@ Forst 通过将统治权力与明确道德基准相比较来衡量权力的统�
 
 统治与其他经常用来描述与权力相关的不公正的概念之间的关系是一个相关的问题，目前文献中尚未得到充分探讨：例如，剥削、压迫和征服。杨（1990 [2011]）区分了统治和压迫，将前者与对行动和行动背景的不对称权力联系起来，将后者与以一种更为模糊且有时是无意识的方式塑造机构，以否定某些社会群体理解和表达自己的能力联系起来，除了从特权者的角度来看。不幸的是，很少有人像她那样努力去区分这些概念之间的分工。（有趣的例外情况，请参见贝拉米 2007: 151–152。）更普遍的是，新共和主义者的假设认为，对于像压迫这样的不公正的关注可以融入对统治的关注（佩蒂特 1997: 80）。正如并非所有关于统治的理论都同样适用于我们可能要将它们用于的每项任务一样，也许应该将对统治本身的关注与对其他形式的不公正的关注相结合。至少，对统治的最新研究已经极大地加深了我们对这种不公正的理解，即使它的所有形式并非都可以有用地诊断为这种单一的疾病的表现。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allen, Amy, 1999, *The Power of Feminist Theory*, Boulder: Westview Press.
@@ -284,4 +284,4 @@ Many thanks to the participants in The Philosophical Underclass. Without your he
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Christopher McCammon <[*rmccammon@tcc.edu*](mailto:rmccammon%40tcc%2eedu)>
-<!--md-padding-ignore-end-->
+

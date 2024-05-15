@@ -302,7 +302,7 @@ Steiner 观点的批评者认为，仅仅因为从事邪恶行为时感到愉悦
 
 批评者认为，即使卡德（Card）正确指出，可以合理预见到婚姻制度将导致无法忍受的伤害，将婚姻称为邪恶的制度也太过分了。例如，托德·卡尔德（Todd Calder）认为，只有当无法忍受的伤害是制度的基本组成部分时，制度才应被视为邪恶。由于痛苦和社会活力的丧失是种族灭绝的基本组成部分，种族灭绝是一个邪恶的制度。但由于配偶虐待不是婚姻的基本组成部分，婚姻并非邪恶的制度（Calder 2009, 27–30）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aharoni, E., K.A. Kiehl, and W. Sinnott-Armstrong, 2012, “Can Psychopathic Offenders Discern Moral Wrongs? A New Look at the Moral/Conventional Distinction,” *Journal of Abnormal Psychology*, 121 (2): 484–497.
@@ -460,4 +460,4 @@ Steiner 观点的批评者认为，仅仅因为从事邪恶行为时感到愉悦
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Todd Calder <[*Todd.Calder@SMU.CA*](mailto:Todd%2eCalder%40SMU%2eCA)>
-<!--md-padding-ignore-end-->
+

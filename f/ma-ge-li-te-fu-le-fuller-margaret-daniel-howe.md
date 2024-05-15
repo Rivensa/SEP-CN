@@ -94,7 +94,7 @@
 
 玛格丽特·富勒的宏伟国际政治项目没有实现。她和丈夫为之奋斗的罗马革命被证明是一场失败的事业，他们不得不逃到佛罗伦萨。她试图带着新的家庭回到美国的尝试以灾难告终（如上文第 1 部分所述）。但玛格丽特·富勒对一个世界的最终愿景，即人们无论性别、种族或阶级都能自由和自主，仍然是一个高尚而鼓舞人心的愿景。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -184,4 +184,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Daniel Howe](https://history.ucla.edu/faculty/daniel-howe) <[*howe@history.ucla.edu*](mailto:howe%40history%2eucla%2eedu)>
-<!--md-padding-ignore-end-->
+

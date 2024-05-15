@@ -253,7 +253,7 @@ Mulligan 等人提出了类似的观点。他们争论道（1984 年：306）：
 
 非自然主义者通常被指责无法解释道德事实对自然事实的必要依赖。通常，这种依赖是通过随附性来解释的，但据认为，为了使这种解释与道德非自然主义的基本原则相容，这种随附性必须能够用纯非自然主义的术语来解释（有关这一辩论的概述，请参见 Ridge 2018）。根据 Shafer-Landau（2003）（由 Ridge 2007 解释），如果我们区分道德和物理性质的种类意义上的属性或特质与道德和物理性质的标记意义上的属性或特质，那么这个问题就得到了解决。因为我们可以类比于有关心理属性因果关联性的辩论中的建议，尽管（必然地）每个道德特质都由一些自然特质的串联构成，但并不意味着每个道德类型都等同于一个自然类型。这个建议在 Ridge（2007）中受到了批评。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackrill, J. L., 1963, *Aristotle: Categories and De Interpretatione*, Oxford: Clarendon Press.
@@ -448,4 +448,4 @@ For helpful comments and corrections, I would like to thank Alexander Skiles, Da
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Anna-Sofia Maurin](http://annasofiamaurin.wordpress.com/) <[*anna-sofia.maurin@gu.se*](mailto:anna-sofia%2emaurin%40gu%2ese)>
-<!--md-padding-ignore-end-->
+

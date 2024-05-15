@@ -246,7 +246,7 @@ Ted Peters 和 Martinez Hewlett（2003）概述了一个神圣行动光谱，以
 
 这项调查使人们对科学与宗教文献的丰富性有了一种感觉。提供详尽的概述将超出百科全书条目的范围。由于科学和宗教是如此广泛的术语，文献已经分为多个领域的“科学参与神学”，在这些领域中，研究科学的特定主张或子领域与神学的特定主张之间的关系（佩里和里奇，2018 年）。例如，与其问基督教是否与科学相容，我们可以问基督教末世论是否与关于文化进化或宇宙命运的科学主张相容。随着科学和宗教范围的变得不那么狭隘，更加全球化，该领域可以涉及的不同主题变得非常多样化。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works cited
@@ -450,4 +450,4 @@ Many thanks to Bryce Huebner, Evan Thompson, Meir-Simchah Panzer, Teri Merrick, 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Helen De Cruz](http://helendecruz.net/) <[*helen.decruz@slu.edu*](mailto:helen%2edecruz%40slu%2eedu)>
-<!--md-padding-ignore-end-->
+

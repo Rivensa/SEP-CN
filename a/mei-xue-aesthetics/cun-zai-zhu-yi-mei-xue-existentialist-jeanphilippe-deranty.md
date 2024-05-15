@@ -222,7 +222,7 @@
 
 与萨特不同，梅洛-庞蒂在巴黎电影学院的一次会议上（1947b）对电影与存在主义哲学之间的明显联系给出了最清晰的阐述。然而，尽管有这篇有见地的文章，与被赋予戏剧、小说和绘画这些真正的“形而上学”艺术形式的卓越哲学地位相比，电影在存在主义美学的最重要著作中显得异常缺席。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -372,4 +372,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jean-Philippe Deranty](http://www.phil.mq.edu.au/staff/deranty.htm) <[*jp.deranty@mq.edu.au*](mailto:jp%2ederanty%40mq%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

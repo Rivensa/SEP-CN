@@ -170,7 +170,7 @@
 
 在许多传统宗教中，救赎与永生联系在一起。与此相反，泛神论者普遍认为，泛神论的独特之处在于其对个人永生的任何希望的否认。然而，一些人认为，只要我们承认自己与永恒的宇宙（例如，叔本华 1851 年，267-82 页）或者更具体地说，与我们社区的持续生活（例如，约翰·凯尔德 1880 年）的真实身份相同，就可以找到一定程度的持久性。少数泛神论思想家试图发展更真正个人的永生意义。例如，斯宾诺莎有争议地声称：“人的思想不能随着身体而完全毁灭，但其中有一部分是永恒的”（《伦理学》e5p23）。约西亚·罗伊斯在他早期的绝对唯心主义阶段试图论证，如果我们有限的意志在这个生活中从未完全满足，而它本身只是一个永远满足的更大无限意志的一部分，那就只能意味着我们必须在“不是这个现在的凡人生活”中找到我们分享那种满足（罗伊斯 1906 年，147 页）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aranyosi, István, 2022, ‘Logical Pantheism,’ *Philosophy Compass*, 17(7): e12857. doi:10.1111/phc3.12857
@@ -252,4 +252,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [William Mander](http://www.philosophy.ox.ac.uk/people/william-mander) <[*william.mander@hmc.ox.ac.uk*](mailto:william%2emander%40hmc%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

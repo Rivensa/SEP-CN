@@ -107,7 +107,7 @@
 
 最后，就涉及可能性和必然性问题的每个问题而言，很大程度上取决于我们首先如何理解模态性。对于对象而言，有不同的框架可用于解释它们的 de re 模态特征，包括在跨世界识别是严格的跨世界同一性问题还是仅仅是对应关系的问题上存在显著差异的框架。当涉及事件时，类似的选择也出现了，并且没有明显的理由认为它们应该以平行方式处理。例如，Kripke (1972) 在这两个方面都是跨世界同一性理论家，但 Lewis 在对象方面是对应关系理论家（1968），在事件方面至少在他对因果关系的描述中是跨世界同一性理论家（1973）。最近，对于对象和事件，对应关系理论框架已被认可（Schaffer 2005; McDonnell 2016; Kaiserman 2017）。据称，这样一个统一的框架允许更好地解释许多模态和因果谈话的语境敏感性，例如，参考各种先发制人和多余因果的难题。然而，必须仔细评估其本质主义后果：除非假设每个对象和事件在任何世界中最多只能有一个对应物，否则，例如，凯撒之死必然是凯撒的这个想法就变得有问题了（Hazen 1979）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Surveys
@@ -464,4 +464,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Roberto Casati](http://roberto.casati.free.fr/casati/roberto.htm) <[*casati@ehess.fr*](mailto:casati%40ehess%2efr)>  
 [Achille Varzi](http://www.columbia.edu/~av72/) <[*achille.varzi@columbia.edu*](mailto:achille%2evarzi%40columbia%2eedu)>
-<!--md-padding-ignore-end-->
+

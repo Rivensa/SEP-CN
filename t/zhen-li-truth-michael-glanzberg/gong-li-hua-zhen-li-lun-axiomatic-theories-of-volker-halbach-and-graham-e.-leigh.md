@@ -254,7 +254,7 @@ Halbach 和 Horsten 表明，这种对 Kripke 理论的公理化比它的经典�
 
 Field（2008）和其他人批评了基于部分逻辑的理论，因为它们缺乏“适当”的条件和双条件。一些作者提出了不能用 ¬、∨ 和 ∧ 来定义的条件和双条件。Field（2008）旨在建立一个与 PKF 相似但具有新条件的公理化真理理论。Feferman（1984）还在非经典逻辑的理论中引入了一个双条件。与 Field 和他自己的 1984 年理论不同，Feferman（2008）的 DT 理论是用经典逻辑来表述的，但它的内部逻辑再次是一个具有强条件的部分逻辑。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aczel, Peter, 1980, “Frege structures and the notion of proposition, truth and set”, *The Kleene Symposium*, Jon Barwise et al. (editors), Amsterdam: North-Holland, 31–59.
@@ -347,4 +347,4 @@ Field（2008）和其他人批评了基于部分逻辑的理论，因为它们�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Volker Halbach](http://users.ox.ac.uk/~sfop0114/) <[*volker.halbach@philosophy.ox.ac.uk*](mailto:volker%2ehalbach%40philosophy%2eox%2eac%2euk)>  
 [Graham E. Leigh](https://www.gu.se/en/about/find-staff/grahamleigh) <[*graham.leigh@gu.se*](mailto:graham%2eleigh%40gu%2ese)>
-<!--md-padding-ignore-end-->
+

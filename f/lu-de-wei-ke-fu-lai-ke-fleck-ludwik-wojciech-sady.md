@@ -196,7 +196,7 @@
 
 今天，在讲英语的世界中，弗莱克大多被认为是托马斯·库恩科学革命理论的被忽视的先驱。在德语社区的哲学家和科学社会学家中，弗莱克被认为是一个高度原创的认识论者，以一种相当独特和探索性的方式呈现人类知识，这显著超越了库恩的论点。在法国，有一群哲学家和医学史学家——如伊拉娜·洛伊等人——他们在研究中应用了弗莱克的思想。在布鲁诺·拉图尔著名的演员网络理论引言中，他将弗莱克称为“科学社会学之父”（拉图尔，2005 年，第 112 页）。2005 年，路德维克·弗莱克中心在苏黎世的赫尔维蒂库姆学院成立，由约翰内斯·费尔领导直至 2014 年；自 2015 年起，该中心由哈特穆特·冯·萨斯管理。在巴西，路德维克·弗莱克至少影响了三个不同的“思想集体”：他的理论被科学史学家应用于科学的教学与学习以及哲学中（康德，2016 年）。有一群塞尔维亚考古学家在工作中受到弗莱克的认识论启发（米洛萨夫列维奇，2016 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Fleck’s Epistemological Writings
@@ -323,4 +323,4 @@ The author would like to thank Paweł Jarnicki for assistance in preparing the b
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Wojciech Sady <[*wojciech.sady@gmail.com*](mailto:wojciech%2esady%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

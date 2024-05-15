@@ -256,7 +256,7 @@
 
 因此，非洲人道主义伦理产生了社会道德、公共利益道德和义务道德，这些道德是如此全面，以至于包括了被西方伦理学称为道德理想（如爱、美德、同情心）的超额义务。但非洲道德的核心或基础是品德，因为道德生活的成功被认为是个人生活质量的一个功能。非洲伦理学中持有一种关于人格的道德观念，即如果一个人是人的话，他的行为应该符合某些基本的道德规范和理想。非洲伦理传统中承认所有人类因为我们共同的人性而成为兄弟的观念，确实是一个崇高的道德理想，必须被珍视并成为我们当代全球伦理学的一个重要或强大特征。这是一个抵御对不同文化或肤色的人产生偏见的堡垒，这些人也是被称为种族的普遍人类大家庭的成员。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bewaji, John A. I., 2004. “Ethics and Morality in Yoruba Culture,” in Kwasi Wiredu (ed.), *A Companion to African Philosophy*, Oxford: Blackwell Publishing, pp. 396–403.
@@ -312,4 +312,4 @@
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by  
 Kwame Gyekye
-<!--md-padding-ignore-end-->
+

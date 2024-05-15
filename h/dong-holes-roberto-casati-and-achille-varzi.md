@@ -43,7 +43,7 @@
 
 通常情况下，选择所有这些替代方案之间的选择——无论是将洞穴受奥卡姆剃刀原则约束，还是将其简化为其他实体，或者直接接受——将取决于一个人的一般形而上学倾向（Lewis＆Lewis 1996）。这也可能取决于有关空间和时空性质的有争议的细节，例如它们是关系性的还是实体性的（Braddon-Mitchell＆Miller 2015）。更一般地说，这是哲学家在审视世界常识图景中固有的本体论以及描述和理解世界的概念、词语和目的时必须做出的决定的一个例子。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Barker, S., and Jago, M., 2012, ‘Being Positive About Negative Facts’, *Philosophy and Phenomenological Research*, 85: 117–138.
@@ -104,4 +104,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Roberto Casati](http://roberto.casati.free.fr/casati/roberto.htm) <[*casati@ehess.fr*](mailto:casati%40ehess%2efr)>  
 [Achille Varzi](http://www.columbia.edu/~av72/) <[*achille.varzi@columbia.edu*](mailto:achille%2evarzi%40columbia%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -50,7 +50,7 @@
 
 总之，勒·格兰德对于十七世纪后半叶笛卡尔主义的接受和发展做出了重要贡献，值得研究。他将笛卡尔的自然哲学应用于当时各种观察和实验，并推进了笛卡尔关于自然机械化、心灵和身体的因果互动与结合、表象和真理的本质以及道德领域中的激情理论对于美德的重要解释。同样重要的是，他大部分时间都在英国度过，与英国皇家学会、剑桥大学和牛津大学的成员接触，对于笛卡尔的思想在英国、德国和法国的接受产生了持久影响。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Texts
@@ -111,4 +111,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Patricia Easton](http://www.cgu.edu/pages/3701.asp) <[*patricia.easton@cgu.edu*](mailto:patricia%2eeaston%40cgu%2eedu)>
-<!--md-padding-ignore-end-->
+

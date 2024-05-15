@@ -238,7 +238,7 @@ Donaldson 和 Kymlicka 的主要目标是保护动物免受人类对它们的统
 
 最后，我们对《百科全书派》对区分主体和公民的兴趣的忽视可能过于仓促了。如果在自由民主政治共同体中成为一名公民意味着比法律_主体_的地位更多，我们必须准备好说明这种“更多”包含了什么。公民身份理论的这种顽固盲点导致我们涉及当代世界民主可能性的一些最困难问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abizadeh, A., 2008, “Democratic Theory and Border Coercion. No Right to Unilaterally Control Your Own Borders”, *Political Theory*, 36(1): 37–65.
@@ -440,4 +440,4 @@ Donaldson 和 Kymlicka 的主要目标是保护动物免受人类对它们的统
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Dominique Leydet <[*leydet.dominique@uqam.ca*](mailto:leydet%2edominique%40uqam%2eca)>
-<!--md-padding-ignore-end-->
+

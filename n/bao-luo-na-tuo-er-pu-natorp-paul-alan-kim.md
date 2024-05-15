@@ -140,7 +140,7 @@ This is “critical” psychology in a nutshell. What Natorp means is this: ther
 
 幸运的是，我们可以背叛他们对柏拉图作为超验唯心主义活跃核心的固定观念，而不会像他们认为的那样破坏或摒弃他们的工作。事实上，如果我们不将其视为对马尔堡唯心主义的支持，而仅仅将其视为对理念形式和经验个体关系的理解的巧妙尝试，那么我们或许能更好地欣赏纳托尔普对柏拉图的阅读的价值，这只是利用范畴函数逻辑作为假设的跳板而已。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Natorp
@@ -446,4 +446,4 @@ This bibliography is based substantially on that of Lembeck’s (1994), with var
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Alan Kim <[*Alan.Kim@stonybrook.edu*](mailto:Alan%2eKim%40stonybrook%2eedu)>
-<!--md-padding-ignore-end-->
+

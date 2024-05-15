@@ -384,7 +384,7 @@ ID 加上（13b）不提供!A → A。[24]
 
 一些作者拒绝将恩斯特·马利的道义逻辑视为一个“真正的”道义系统，并说他们“只是出于好奇而提到它”（Meyer and Wieringa 1993, p. 4）。上述情况表明，这种评判过于苛刻。从马利的系统到现代道义逻辑系统只是一个小步骤，而不是一个巨大的飞跃，因此马利的开创性努力应该得到恢复而不是蔑视。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Alan Ross, 1967, “Some nasty problems in the formal logic of ethics,” *Noûs*, 1: 345–360.
@@ -448,4 +448,4 @@ The author is very grateful to Lou Goble, whose extensive comments on two earlie
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Gert-Jan Lokhorst](http://gjclokhorst.nl/) <[*g.j.c.lokhorst@tudelft.nl*](mailto:g%2ej%2ec%2elokhorst%40tudelft%2enl)>
-<!--md-padding-ignore-end-->
+

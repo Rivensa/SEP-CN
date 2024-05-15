@@ -250,7 +250,7 @@ Gillick 判决起因于一位母亲对当地卫生当局未能撤回一份面向
 
 最佳利益原则及其解释问题与儿童所享有的权利并存，尤其是在涉及其利益的事务中被赋予的发言权。而这个权利本身是对自主选择权的替代而非补充，而且对于资格使儿童能够行使决策权的吉利克能力也有严格的定义。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References Cited
@@ -360,4 +360,4 @@ Gillick 判决起因于一位母亲对当地卫生当局未能撤回一份面向
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 David William Archard <[*d.archard@qub.ac.uk*](mailto:d%2earchard%40qub%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

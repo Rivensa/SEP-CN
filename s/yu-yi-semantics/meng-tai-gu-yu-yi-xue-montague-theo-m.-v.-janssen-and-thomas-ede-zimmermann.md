@@ -259,7 +259,7 @@ Janssen 1997 和有关组合性的条目中对组合性进行了广泛讨论。
 1. 约翰和每个男人都以类似的方式进行解释：属性集合。这些集合可以通过 lambda 运算符表示。
 2. 每个男人和歌唱在句法上处于相同的水平，但语义上歌唱扮演了一个从属的角色：它嵌入在公式中。这种层级的转换是由于 lambda 运算符的存在。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Angelelli, I. (ed.), 1967, *Gottlob Frege. Kleine Schriften*, Hildesheim: Olms.
@@ -391,4 +391,4 @@ Janssen 1997 和有关组合性的条目中对组合性进行了广泛讨论。
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Theo M. V. Janssen  
 Thomas Ede Zimmermann <[*T.E.Zimmermann@lingua.uni-frankfurt.de*](mailto:T%2eE%2eZimmermann%40lingua%2euni-frankfurt%2ede)>
-<!--md-padding-ignore-end-->
+

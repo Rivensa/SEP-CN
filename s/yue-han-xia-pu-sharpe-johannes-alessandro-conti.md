@@ -168,7 +168,7 @@ Penbygull（《普遍论》第 189-190 页）区分了非同一性和差异（�
 
 最后一个问题（fols 201v-208v）是关于天体的永恒运动是否依赖于初动者。约翰·夏普的回答是肯定的，并且非常简短。问题的第二部分几乎都涉及初动者的性质和属性的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -207,4 +207,4 @@ Penbygull（《普遍论》第 189-190 页）区分了非同一性和差异（�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Alessandro Conti <[*alessandrodomenico.conti@univaq.it*](mailto:alessandrodomenico%2econti%40univaq%2eit)>
-<!--md-padding-ignore-end-->
+

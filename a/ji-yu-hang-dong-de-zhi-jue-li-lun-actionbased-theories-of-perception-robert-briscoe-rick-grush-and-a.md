@@ -388,7 +388,7 @@ Grush（2007; 2009）提出了一个关于神经信息处理的基于行动的�
 
 另一个非常常见的反对意见，经常针对许多形式的运动理论，与事实有关，即即使是瘫痪的人，行动的可能性非常有限，他们在许多情况下似乎能够正常地感知空间。这样的反对意见至少会对任何通过实际行为来解释知觉内容的观点施加重大压力。在这种情况下，即使是假设性的行为也很容易受到质疑，因为在许多这样的情况下，行为在物理上是不可能的。格鲁什的理论（2007 年），无论对错，都对这个反对意见有具体的说法。由于空间内容被认为是在皮层中产生基函数值的表现，预测是，链条下方的任何损伤，例如脑干或脊髓，对空间内容没有直接影响。只要相关的脑区具备产生适合构建运动序列的基函数值集合的能力（如果乘以特定行动类型的系数），那么引发的知觉事件将具有空间内容。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abbott, T.K., 1864, *Sight and Touch: An Attempt to Disprove the Received (or Berkeleian) Theory of Vision*, London: Longman & Co.
@@ -612,4 +612,4 @@ We would like to thank Jason Winning for helping to compose the bibliography and
 Robert Briscoe <[*rbriscoe@gmail.com*](mailto:rbriscoe%40gmail%2ecom)>  
 [Rick Grush](http://rickgrush.net/) <[*rgrush@ucsd.edu*](mailto:rgrush%40ucsd%2eedu)>  
 Alison Springle <[*alisonspringle@gmail.com*](mailto:alisonspringle%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -312,7 +312,7 @@
 
 最后，笛卡尔的遗产部分包括他提出但未解决或引起关注的问题。心灵-身体问题就是一个例子。笛卡尔本人从他能够清楚而明确地构想心灵和身体作为不同的存在，得出了它们确实是分离的物质的结论。今天大多数哲学家既不接受他的主张的方法论基础，也不接受他的主张本身。尽管如此，心灵-身体问题仍然存在。在区分心理领域和物理领域时，笛卡尔触动了一根弦。许多哲学家接受这个概念上的区别，但对其基本的形而上学仍然不确定：心灵是否与大脑相同；或者心理是从大脑中的复杂过程中产生的；或者构成一种与任何纯粹的物理属性不同的属性，即使它是由大脑实现的。在这种情况下，笛卡尔提出的问题远远超出了他提出的解决方案。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 **Note on references and abbreviations:** References to Descartes’ works as found herein use the pagination of the Adam and Tannery volumes (AT), *Oeuvres de Descartes*, 11 vols. The citations give volume and page numbers only (dropping the abbreviation “AT”). Where possible, the Cottingham, Stoothoff, Murdoch, and Kenny translation, *The Philosophical Writings of Descartes*, 3 vols., has been used; it shows the AT pagination in the margins. The AT volume numbers provide a guide to which work is being cited in translation: vols. 1–5, 10, correspondence; vol. 6, *Discourse* and essays (including the *Dioptrics* and *Meteorology*); vol. 7, *Meditations*; vol. 10, *Rules*; vol. 11:1–118, *World, or Treatise on Light*; vol. 11:119–222, *Treatise on Man*; vol. 11:301–488, *Passions*. Where there is no accessible translation for a citation from AT, the citation is shown in *italics*. Works that are broken into parts and/or articles are cited by abbreviated title, part, and article: *Diop*. for *Dioptrics*, *Disc.* for *Discourse on the Method*, *Med*. for the *Meditations*, *Met*. for the *Meteorology*, *Pass*. for the *Passions*, and *Princ*. for the *Principles*. When context doesn’t show that Descartes’ letters are being referred to, *Correspondence*, abbreviated as *Corr*., is added.
@@ -567,4 +567,4 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Gary Hatfield](https://www.sas.upenn.edu/~hatfield/) <[*hatfield@phil.upenn.edu*](mailto:hatfield%40phil%2eupenn%2eedu)>
-<!--md-padding-ignore-end-->
+

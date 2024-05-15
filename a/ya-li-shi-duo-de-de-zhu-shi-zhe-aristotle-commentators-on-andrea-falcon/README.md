@@ -100,7 +100,7 @@ Iamblichus 的评论已经失传，但我们可以通过 Dexippus 来了解这�
 
 由于相关文献几乎完全丧失，我们对亚里士多德的第一代解释者了解甚少。我们所了解的信息并没有支持所有这些解释者都写了评论的观点。评论最终成为解释的标准形式。但即使在评论传统中，也存在多种解释立场的空间。不同的评论者根据不同的（常常是相互竞争的）关注点，发展出不同的解释线索。在亚历山大的阿芙罗蒂西亚斯的解释传统中，主要（但不仅仅）是为了在古代哲学学派之间的辩论背景下捍卫亚里士多德的哲学。阿芙罗蒂西亚斯将亚里士多德视为自己的导师，并致力于解释和阐述亚里士多德独特的哲学立场。虽然晚期古代的柏拉图主义者将自己置于这一传统的延续中，但他们的解释主要是为了发展一种哲学，坚持柏拉图和亚里士多德之间的连续性。他们在评论中的假设是亚里士多德和柏拉图在很大程度上是一致的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The surviving ancient Greek commentaries on Aristotle are published in the series *Commentaria in Aristotelem Graeca*, H. Diels (ed.), Berlin: Reimer 1882–1909. These commentaries are being translated in the Ancient Commentators on Aristotle Project. The General Editor is Richard Sorabji. Co-editor: M. Griffin. Associate Editors: Pieter Adamson, Richard McKirahan, John Sellars.
@@ -350,4 +350,4 @@ Thanks to Christopher Shields for commenting on a draft of this entry.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Andrea Falcon](http://www.andreafalcon.net/) <[*Andrea.Falcon@concordia.ca*](mailto:Andrea%2eFalcon%40concordia%2eca)>
-<!--md-padding-ignore-end-->
+

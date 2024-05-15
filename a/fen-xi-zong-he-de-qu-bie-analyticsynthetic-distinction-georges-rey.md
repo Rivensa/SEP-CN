@@ -410,7 +410,7 @@ Quine 的挑战的力量可以通过最近在安大略省最高法院审理的�
 
 无论如何，虽然语言的语义条件可能为确保关于依赖于心灵的领域（如伦理学和美学）的先验知识提供基础，但对于独立于心灵的领域（如逻辑和数学）或世界现象（如生命或思想）的本质，前景似乎更加棘手。在这里可能存在分析性的主张，但至少在这些情况下，用普特南（1965 [1975]，第 36 页）不朽的话来说，“对哲学毫无意义……对哲学不起任何作用。”[18] 我们只能满足于对独立于心灵的领域本身进行理论构建，无法仅凭我们的词语意义来证明关于它们的主张。回顾过去一个世纪对分析主义的努力所面临的困难，不清楚为什么有人真的想要坚持相反的观点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, J. and Weinberg, J., 2007, “Analytic Epistemology and Experimental Philosophy,” *Philosophical Compass*, 2(1): 56–80.
@@ -664,4 +664,4 @@ I’m grateful to many readers for calling attention to errors in previous editi
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Georges Rey <[*georey2@gmail.com*](mailto:georey2%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

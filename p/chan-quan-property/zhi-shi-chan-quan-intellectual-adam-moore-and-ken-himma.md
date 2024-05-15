@@ -258,7 +258,7 @@ Coy（2007）认为，在竞争市场中，信息的成本应该正确地反映�
 
 第二个回答是，各种权利都限制了个人对自己的身体和财产的使用。限制个人自由不仅仅是知识产权的特征，也是其他权利的特征。例如，对一辆汽车的物权禁止所有人挥动球棒并损坏该汽车。即使在自己的家中，也不允许合法地打击他人的脸，破坏访客的个人财产，或从事危险活动威胁邻居的安全。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Axelrod, Robert, 1981, *The Emergence of Cooperation Among Egoists*, *American Political Science Review* 75 (1981): 306–18  
@@ -355,4 +355,4 @@ Coy（2007）认为，在竞争市场中，信息的成本应该正确地反映�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Adam Moore <[*moore2@uw.edu*](mailto:moore2%40uw%2eedu)>  
 [Ken Himma](http://washington.academia.edu/KennethHimma) <[*himma@uw.edu*](mailto:himma%40uw%2eedu)>
-<!--md-padding-ignore-end-->
+

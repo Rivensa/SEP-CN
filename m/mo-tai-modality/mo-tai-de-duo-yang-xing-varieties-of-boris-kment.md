@@ -192,7 +192,7 @@ Stalnaker 对必然的后验的解释要求句子在上下文集中语义表达�
 
 Kment（2006a，2014，第 1-2 章）认为，模态力量，因此必要性和可能性，有许多不同程度（参见 Williamson 2016）。当我们说“A 队比 B 队更容易赢得比赛”，“A 队很容易赢得比赛”或“A 队几乎赢了比赛”时，我们经常谈论这种可能性的程度。第一种说法表明 A 队赢得比赛的可能性比 B 队更大，而第二和第三种则简单地将高度的可能性归因于 A 队的胜利。一个命题的可能性程度越高，离实际性的偏离就越小。例如，假设 A 队在比赛关键时刻，如果他们的一名球员站得再往左一英寸，他们就会赢得比赛。那么我们可以真实地说，这支球队很容易赢得比赛。更正式地说，P 的可能性程度越高，最接近实际性的 P-世界就越接近（参见 Lewis 1973a，§2.5；Lewis 1973b，§2.1；Kratzer 1991）。类似地，一个真理的必要性程度是通过离实际性到最接近它为假的世界的距离来衡量的。形而上的必要性、法定必要性和其他程度的必要性的共同之处在于它们每个都具有超过某个阈值的可能性程度的属性。它们的区别在于它们相关阈值的不同。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armstrong, D., 1983, *What Is a Law of Nature?*, Cambridge: Cambridge University Press.
@@ -339,4 +339,4 @@ Kment（2006a，2014，第 1-2 章）认为，模态力量，因此必要性和�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Boris Kment](http://www.princeton.edu/~bkment/) <[*bkment@princeton.edu*](mailto:bkment%40princeton%2eedu)>
-<!--md-padding-ignore-end-->
+

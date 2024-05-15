@@ -184,7 +184,7 @@ Neti neti 否定了所有属性、概念、限制和归因于梵的身份；然�
 
 清醒梦体验是商羯罗解脱的理想例证，尽管在他的著作中没有提到。对于有经验的清醒梦者来说，意识到自己在做梦的认知具有完全穿透梦境外观的坚定信念，但并不消除感知梦境的体验。他们在认识论上意识到两个现实层次，即清醒和梦境，同时在现象上仍然处于较不真实的梦境层次。清醒梦者从梦体中解体，但仍然在梦境体验中存在。他们认识到梦境并不与自己分离，它无法触及他们，也没有什么可害怕或从中获得的东西。然而，在商羯罗的形而上学观点中，经验层次类似于伊什瓦拉的梦境，而不是个人的梦境。这个观点容纳了宇宙与伊什瓦拉的同一性，以及主观一致和真实认知，而不陷入唯我论。个体并非创造经验现实，而是对它产生了错误的认识。就像梦境一样，经验现实在其自身的现实层次上并非虚幻。只有从更基础的认知婆罗门的角度来看，它才被视为虚拟的外观，类似于觉醒于梦境的现实。解脱者就像是在伊什瓦拉的宇宙梦中的有限梦境存在，在梦境中觉醒。他们认识到意识的即时存在是所有对象的唯一基础，是所有生命体的唯一自我，也是伊什瓦拉的自我。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Abbreviations
@@ -296,4 +296,4 @@ Note that ‘Bh’ is appended to the other abbreviations to indicate Śaṅkara
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Neil Dalal](https://www.ualberta.ca/arts/about/people-collection/neil-dalal) <[*ndalal@ualberta.ca*](mailto:ndalal%40ualberta%2eca)>
-<!--md-padding-ignore-end-->
+

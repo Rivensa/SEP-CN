@@ -158,7 +158,7 @@
 
 观念艺术的哲学核心是对所研究项目的挑衅精神 - 观念艺术通过挑战我们重新思考艺术体验的各个方面，向我们抛出了一个手套，也许哲学应该接过这个手套，并回答一些观念艺术提出的问题。观念艺术积极致力于引发思考、激发灵感，正因为这个原因，对艺术感兴趣的哲学家们不应该对它无动于衷。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alberro, Alexander & Blake, Stimson (eds.), 1999. *Conceptual Art: A Critical Anthology*, Cambridge, MA: MIT Press.
@@ -238,4 +238,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Elisabeth Schellekens](http://katalog.uu.se/empinfo/?id=N13-2457) <[*Elisabeth.schellekens@filosofi.uu.s
-<!--md-padding-ignore-end-->
+

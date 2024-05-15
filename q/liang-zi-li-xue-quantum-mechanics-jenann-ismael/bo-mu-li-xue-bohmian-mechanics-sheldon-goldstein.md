@@ -405,7 +405,7 @@ Deutsch，Brown 和 Wallace 的主张具有新颖的特点，我们或许应该�
 
 有关玻姆力学的简要介绍，请参见 Tumulka 2021。有关更长、易于理解的介绍，请参见 Bricmont 2016、Norsen 2017、Bricmont 2018 和 Maudlin 2019。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albert, David Z., 1992, *Quantum Mechanics and Experience*, Cambridge, MA: Harvard University Press.
@@ -562,4 +562,4 @@ I am grateful to Valia Allori, Jean Bricmont, Joanne Gowa, Travis Norsen, Paul O
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Sheldon Goldstein](http://www.math.rutgers.edu/~oldstein/) <[*oldstein@math.rutgers.edu*](mailto:oldstein%40math%2erutgers%2eedu)>
-<!--md-padding-ignore-end-->
+

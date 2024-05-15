@@ -250,7 +250,7 @@
 
 卡尔纳普承认精神（geistigen）或人际客体（intersubjective objects）如政治国家和社会习俗的独立性。它们与心理和物理客体不同，因为它们可以“存活”，即使生成它们的原始主体“消亡，其他主体取而代之”（Carnap 1928: 23）。迪尔泰（Dilthey）对各种科学的独特方法进行反思性分析以及对生活经验的经验主义方法为何没有得到维也纳学派整体以及其他分析取向的哲学家更严肃的考虑并不清楚。但显而易见的是，他的理解理论（Verstehen）被广泛误解为一种同理心。尽管迪尔泰明确区分了理解作为一种判断过程和同理心作为一种纯粹感觉之间的差异，卡尔纳普建议，对他人的理解是一种涉及同理心程度的直觉行为，但可以通过分析从手势、语言表达到实际行动等客观表现的部分来进行认知审查（Carnap 1928: 55, 143）。卡尔纳普的这一建议可能对分析哲学家对迪尔泰的 Verstehen 理论的后续讨论产生了负面影响，导致西奥多·阿贝尔（Theodor Abel）、欧内斯特·纳格尔（Ernest Nagel）和亚瑟·丹托（Arthur Danto）进一步将其简化为“同理心认同”。后来丹托承认这并非事实，并承认“Verstehen 是一个非常出色的概念，迄今为止被粗俗的哲学评论家误解，包括我在内”（Danto 1970: 215）。Verstehen 并不是我们立即投射到他人身上，而是一种有意识的过程，它找到适当的背景将他人及其客体化身与我们已经熟悉的事物联系起来。它是一种反思性的探究模式，为更具体的解释提供框架，无论是因果还是理性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -331,4 +331,4 @@ An asterisk (*) on a date indicates the work was published posthumously.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Rudolf Makkreel <[*philrm@emory.edu*](mailto:philrm%40emory%2eedu)>
-<!--md-padding-ignore-end-->
+

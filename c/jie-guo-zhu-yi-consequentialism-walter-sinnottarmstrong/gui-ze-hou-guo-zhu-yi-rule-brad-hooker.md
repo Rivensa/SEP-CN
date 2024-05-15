@@ -384,7 +384,7 @@ Woodard (2022)认为，“预防灾难”规则需要重新构想。许多规则
 
 教授新规范的机制引发了规则后果主义形式的严重问题，这种形式考虑了让新一代内化规则的成本。正如前面所解释的，将教学目标限制在新一代身上是为了避免计算那些已经内化了其他道德规则和观念的现有一代人内化规则的成本。但是，我们能否对那些被认为应该教导这些新一代的人做出一致的描述呢？如果想象教师已经自己内化了理想的规范，那么这是如何实现的呢？如果想象这些教师还没有内化理想的规范，那么在理想规范与他们已经内化的任何东西之间将会产生成本。 （这一反对意见由约翰·安德鲁斯（John Andrews）、罗伯特·埃曼（Robert Ehman）和安德鲁·摩尔（Andrew Moore）提出。参见列维（Levy）2000 年；D.米勒（Miller）2021 年。）一个相关的反对意见是，规则后果主义尚未以一种能够合理处理规则之间冲突的方式来表述（埃格尔斯顿（Eggleston）2007 年）。但参见科普（Copp）2020 年；D.米勒（Miller）2021 年；伍德沃德（Woodard）2022 年。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R. M, 1976, “Motive Utilitarianism”, *Journal of Philosophy*, 73: 467–81.
@@ -602,4 +602,4 @@ This entry has benefited from very generous comments by Rob Lawlor, Gerald Lang,
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Brad Hooker <[*b.w.hooker@reading.ac.uk*](mailto:b%2ew%2ehooker%40reading%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

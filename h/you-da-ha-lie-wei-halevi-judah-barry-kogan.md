@@ -123,7 +123,7 @@ The second hypothetical case immediately follows. Now the king is asked whether 
 
 也许最意想不到的是智者明确提到想象力在叙述过去事件中的作用。尽管他试图摒弃哲学对梦境预言中想象力作用以及智慧预言中的模拟功能的描述，但现在他赋予其在代表过去重大事件中的作用。当想象力再次出现在哈列维对“先知内视”讨论中时，它还在理解和解释当前事件、事态和创造物的本质中发挥作用。尚待回答的问题是内视是否具有相同的功能，并且是否在与西奈山上的神迹事件相关联的事件中执行了该功能。哈列维没有解决这个问题。他准备说的最多的是，那些目睹这些事件的人，特别注意到这些事件的前所未有的特性，他们确信这些事件是直接来自创造者，就像世界本身的创造一样。这就是为什么信仰神圣法律随后被信徒与对世界也是上帝完全创造的信仰相联系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -230,4 +230,4 @@ The second hypothetical case immediately follows. Now the king is asked whether 
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 Barry Kogan <[*bskogan@aol.com*](mailto:bskogan%40aol%2ecom)>
-<!--md-padding-ignore-end-->
+

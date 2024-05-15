@@ -206,7 +206,7 @@ Kane 进一步要求，任何符合 SFW 的选择都必须满足三个多元条�
 
 如果自由意志的不相容主义理论是正确的，那么是否满足理论规定的自由意志要求是一个悬而未决的问题，因此是否有人拥有自由意志也是一个悬而未决的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Almeida, M. and M. Bernstein, 2003. “Lucky Libertarianism,” *Philosophical Studies*, 113: 93–119.
@@ -362,4 +362,4 @@ Kane 进一步要求，任何符合 SFW 的选择都必须满足三个多元条�
 [Randolph Clarke](http://philosophy.fsu.edu/People/Faculty/Randolph-Clarke)  
 [Justin Capes](http://www.justincapes.com/) <[*justincapes@gmail.com*](mailto:justincapes%40gmail%2ecom)>  
 Philip Swenson <[*pjswenson@wm.edu*](mailto:pjswenson%40wm%2eedu)>
-<!--md-padding-ignore-end-->
+

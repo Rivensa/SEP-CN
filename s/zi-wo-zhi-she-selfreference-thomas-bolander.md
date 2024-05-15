@@ -439,7 +439,7 @@ Murzi 和 Massimiliano（2015）概述了解决悖论的近期发展方法：par
 
 Volker Halbach 和 Albert Visser（2014a，2014b）对算术中的自我指涉进行了非常详细的研究，研究了算术句子赋予自身属性的含义，以及这取决于所选择的编码、固定点构造等细节。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abad, Jordi Valor, 2008, “The inclosure scheme and the solution to the paradoxes of self-reference”, *Synthese*, 160(2): 183–202.
@@ -581,4 +581,4 @@ Volker Halbach 和 Albert Visser（2014a，2014b）对算术中的自我指涉�
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Thomas Bolander](http://www.imm.dtu.dk/~tb) <[*tb@imm.dtu.dk*](mailto:tb%40imm%2edtu%2edk)>
-<!--md-padding-ignore-end-->
+

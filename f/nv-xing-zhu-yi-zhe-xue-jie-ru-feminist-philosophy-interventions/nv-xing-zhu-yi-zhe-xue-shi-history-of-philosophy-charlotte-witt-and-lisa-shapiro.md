@@ -122,7 +122,7 @@ Cynthia Freeland (2000)批评了女性主义者可以像其他哲学运动和观
 
 一些非标准的阅读策略已被提倡。一些女性主义者主张从文本解释的规范中彻底脱离，聚焦并挖掘文本的“未思考”部分；它的形象和隐喻；它的遗漏和悖论。(Deutscher 1997) 其他人强调质疑文本与其文化、心理或物质背景之间的界限的重要性。(Schott 1997) 还有一些人主张积极地从哲学角度参与文本，而不是试图确定历史文本确切含义的向后看的活动。(LeDoeuff 1991) 这些阅读策略反过来引发了关于哲学史的界限和充分解释标准的进一步问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Comprehensive Bibliography
@@ -241,4 +241,4 @@ The authors note that Section 2.1 of the August 8, 2014 update was written by th
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Charlotte Witt <[*cewitt@cisunix.unh.edu*](mailto:cewitt%40cisunix%2eunh%2eedu)>  
 [Lisa Shapiro](https://www.mcgill.ca/philosophy/lisa-shapiro) <[*lisa.shapiro@mcgill.ca*](mailto:lisa%2eshapiro%40mcgill%2eca)>
-<!--md-padding-ignore-end-->
+

@@ -184,7 +184,7 @@ p&(q∨r)⊢(p&q)∨(p&r)
 
 Goldblatt 和 Mares（2006）最近的研究表明，存在一种替代方案，而且这种方案既优雅又相对简单。关键的想法是稍微修改三元关系语义，使得并非每个点集都被视为“命题”。也就是说，并非每个点集都是一个句子可能的语义值。因此，虽然存在由无限个 ∀xFx 的实例的无穷连词确定的世界集合，但该世界集合可能并不被视为一个命题。（也许没有办法以某种方式单独确定那些特定的对象，使它们在一个判断中聚集在一起。）我们可以说的是普遍性的 ∀xFx，这是一个蕴含每个实例的命题（即普遍量词消除公理），如果一个命题蕴含每个实例，它就蕴含普遍性（即引入规则），因此由 ∀xFx 所表达的命题是蕴含每个实例 Fa 的语义上最弱的命题。这正是 Goldblatt 和 Mares 模型中普遍量词的建模条件，与公理完全匹配。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 A comprehensive bibliography on relevant logic was put together by Robert Wolff and can be found in Anderson, Belnap and Dunn 1992. The bibliography in Restall 2000 (see [Other Internet Resources](https://plato.stanford.edu/entries/logic-substructural/#Oth)) is not as comprehensive as Wolff’s, but it does include material up to the present day.
@@ -257,4 +257,4 @@ A comprehensive bibliography on relevant logic was put together by Robert Wolff 
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Greg Restall](http://consequently.org/) <[*gr69@st-andrews.ac.uk*](mailto:gr69%40st-andrews%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

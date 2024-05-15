@@ -331,7 +331,7 @@ Brown-Nash-von Neumann 动态。产生复制动态的学习规则的一个关键
 
 ###
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Akin, Ethan (1980). “Domination or equilibrium,” *Mathematical Biosciences*, vol. 50(3-4): 239–250.
@@ -438,4 +438,4 @@ Brown-Nash-von Neumann 动态。产生复制动态的学习规则的一个关键
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 J. McKenzie Alexander <[*jalex@lse.ac.uk*](mailto:jalex%40lse%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

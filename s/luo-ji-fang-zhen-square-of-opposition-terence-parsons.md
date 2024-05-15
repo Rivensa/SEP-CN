@@ -253,7 +253,7 @@
 
 由于存在非人类，结论不是无真值的，由于不存在嵌合体，它是假的。因此，我们从一个真命题过渡到一个假命题。（这个例子甚至不涉及有问题的 O 形式。）所有步骤都得到了斯特劳森学说的验证。因此，斯特劳森达到了他保留被普遍认为构成传统逻辑的某些模式的目标，但代价是牺牲了逻辑在扩展推理中的应用。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abelardus, Petrus, 11th–12th century. *Dialectica*, L. M. de Rijk (ed.), Assen: Van Gorcum & Co., 1970.
@@ -324,4 +324,4 @@
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 Terence Parsons
-<!--md-padding-ignore-end-->
+

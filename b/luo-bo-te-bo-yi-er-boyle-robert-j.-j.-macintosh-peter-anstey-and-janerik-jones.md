@@ -372,7 +372,7 @@ Boyle 还注意到，正如他的同时代人亨利·莫尔（Henry More）和�
 
 鉴于灵魂是身体的非物质附属物，可以得出结论它们不是_物质上_可毁灭的，灵魂与身体之间的相互作用规律不是自然哲学的规律。草为什么_看起来_是绿色的是上帝决定并维持的世界特征。Boyle 说，上帝做出这个决定的理由无疑是重要的，但对我们来说是武断的（例如，BP 2:62，BOA §3.5.1，第 247 页；2:105，BOA 3.5.21，第 258 页；9:40；36.46v）。现在，如果我们的灵魂是非物质的，那至少消除了对基督教所承诺的来世信仰的一个哲学障碍。（有关 Boyle 对感知观点的详细讨论，请参见 Anstey 2000。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -579,4 +579,4 @@ Boyle 还注意到，正如他的同时代人亨利·莫尔（Henry More）和�
 [J. J. MacIntosh](https://phil.ucalgary.ca/profiles/jack-macintosh)\
 [Peter Anstey](http://sydney.edu.au/arts/philosophy/staff/profiles/peter.anstey.php) <[*peter.anstey@sydney.edu.au*](mailto:peter%2eanstey%40sydney%2eedu%2eau)>\
 Jan-Erik Jones <[*je.jones@svu.edu*](mailto:je%2ejones%40svu%2eedu)>
-<!--md-padding-ignore-end-->
+

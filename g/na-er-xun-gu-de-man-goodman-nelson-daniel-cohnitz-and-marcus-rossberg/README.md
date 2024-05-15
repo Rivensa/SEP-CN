@@ -366,7 +366,7 @@ x 是蓝色 =df x 在 t 之前被检查且 bleen ∨ x 未被如此检查且 gru
 
 Putnam 还指出，古德曼的世界构建概念与他的第一思路之间存在紧张关系，导致他的非现实主义：即不同充分世界版本中存在冲突陈述的想法。正如 Putnam 所主张的那样，要说一个世界版本的陈述与另一个世界版本的陈述不兼容（以至于一个单一世界无法容纳这两个版本），就要求这两个版本中的表达具有相同的含义。然而，我们普通的含义概念是否允许这种版本间的含义相同性比较并不清楚（这是古德曼应该同情的想法，因为他已经怀疑这种类型的版本内含义）。此外，可能有更好的方法来比较替代版本（例如，通过古德曼在 SA 中发展的版本之间的同态关系，并在 4.1 中讨论过），并解释尽管它们表面上不兼容，但版本之间如何关联（例如，通过关注科学家的实践，他们成功地从一个版本转移到另一个版本）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary sources
@@ -550,4 +550,4 @@ For attempts at compilations of Goodman’s complete corpus see Berka 1991, the 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Daniel Cohnitz](https://www.uu.nl/staff/DCohnitz) <[*d.cohnitz@uu.nl*](mailto:d%2ecohnitz%40uu%2enl)>\
 [Marcus Rossberg](http://rossberg.philosophy.uconn.edu/) <[*marcus.rossberg@uconn.edu*](mailto:marcus%2erossberg%40uconn%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -431,7 +431,7 @@ OA→∼O∼A
 
 西尔万的计划在他去世时未完成。无论人们如何看待他大胆的陈述（正如梅耶在 1996 年所说的，“一种奇妙而深刻的思想与绝对错误的主张的狂野混合”），西尔万促使哲学家们认识到许多被视为事实的命题并不是无限真实的，而是相对于人们对逻辑、本体论和价值的假设。改变这些假设会改变可能性。西尔万的工作敦促我们准备好迎接更多的可能性，甚至是他所说的“超越可能性”（这是劳特利在 1980 年引用的一篇未发表手稿的标题）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -671,4 +671,4 @@ Thanks to Ross Brady, Naoya Fujikawa, Roger Lamb, Graham Priest, and the referee
 [Dominic Hyde](https://hpi.uq.edu.au/profile/388/dominic-hyde) <[*d.hyde@uq.edu.au*](mailto:d%2ehyde%40uq%2eedu%2eau)>  
 Filippo Casati <[*filippo.g.e.casati@gmail.com*](mailto:filippo%2eg%2ee%2ecasati%40gmail%2ecom)>  
 [Zach Weber](https://sites.google.com/site/doctorzachweber/home) <[*zach.weber@otago.ac.nz*](mailto:zach%2eweber%40otago%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

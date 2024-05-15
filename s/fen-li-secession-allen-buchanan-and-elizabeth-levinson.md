@@ -188,7 +188,7 @@ Altman 和 Wellman 可能会回应说，他们的国家可行性条款确实考�
 
 分离的哲学研究可分为三个主要类别：（1）试图发展关于分离的道德权利的解释（可以理解为主张权利或仅仅是自由），（2）对分离与宪政的相容性或不相容性进行调查，以及（3）试图确定国际法在分离问题上应采取何种立场。在这些研究领域以及它们之间的联系中，对分离的道德问题的探讨提供了一个强大的视角，可以通过这个视角来审视一些最重要的道德政治理论问题，包括也许是最基本的问题：一个国家对其领土拥有有效主张的依据是什么？
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Altman, Andrew and Christopher Heath Wellman, 2009, *A Liberal Theory of International Justice*, Oxford: Oxford University Press.
@@ -247,4 +247,4 @@ Altman 和 Wellman 可能会回应说，他们的国家可行性条款确实考�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Allen Buchanan](http://fds.duke.edu/db/aas/Philosophy/faculty/allen.buchanan) <[*allen.buchanan@duke.edu*](mailto:allen%2ebuchanan%40duke%2eedu)>  
 Elizabeth Levinson <[*elevinson@email.arizona.edu*](mailto:elevinson%40email%2earizona%2eedu)>
-<!--md-padding-ignore-end-->
+

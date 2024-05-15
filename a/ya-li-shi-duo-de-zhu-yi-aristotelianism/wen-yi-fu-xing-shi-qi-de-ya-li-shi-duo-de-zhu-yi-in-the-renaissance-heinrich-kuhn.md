@@ -152,7 +152,7 @@ Cranz 和 Schmitt（1984）通过一系列印刷版本的文献记录了亚里�
 
 除了面对这些问题之外，未来的研究应该编辑或翻译文艺复兴时期产生的亚里士多德最重要的作品。Kraye 1997 已经提供了一系列有助于理解的哲学作品的翻译摘录，包括评论和其他关于伦理学和政治学的作品。最近，Emidio Campi 和 Joseph McLelland 提供了 Pier Martire Vermigli 的伦理学评论的英文翻译（Vermigli 1563 [2006]），Luca Baschera 和 Christian Moser 重新编辑了拉丁文本（Vermigli 2011），而 Vittoria Perrone Compagni 则制作了一些带有评论的意大利文翻译的 Pomponazzi 的作品。这种困难（但不可或缺）的工作需要继续关注亚里士多德接受的其他特征，包括它发生的文化和制度背景。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Literature
@@ -335,4 +335,4 @@ Cranz 和 Schmitt（1984）通过一系列印刷版本的文献记录了亚里�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 David Lines <[*D.A.Lines@warwick.ac.uk*](mailto:D%2eA%2eLines%40warwick%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

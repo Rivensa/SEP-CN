@@ -318,7 +318,7 @@ Deutsch 如何避免这些复杂性呢？Deutsch 假设在与年轻系统交互�
 
 同样地，即使我们所有的一致性条件都能够满足，也不能得出时间旅行是物理上可能的结论，只能说一些特定的物理考虑不能排除它。关于时间旅行可能性的唯一严肃证明将是其实际存在的证明。因为如果我们同意在我们的宇宙中不存在实际的时间旅行，那么假设可能存在时间旅行就意味着假设与实际存在有着实质性的差异，这种差异与我们通过第一手了解到的任何事物的差异是不同的。在这种情况下，如果一个人要么坚持时间旅行的可能性，要么否认时间旅行的可能性，我们不清楚 "可能性" 的内容到底是什么，除非他仅仅是指这种可能性不被某个确定的约束集所排除。正如亚里士多德的水理论的例子所示，概念上和逻辑上的 "可能性" 并不意味着在完全意义上的可能性。关于时间旅行在完全意义上的具体含义是什么，以及一个人是否有理由相信它的存在，对我们来说仍然是不清楚的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aaronson, Scott, 2013, *Quantum Computing since Democritus*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511979309
@@ -380,4 +380,4 @@ Deutsch 如何避免这些复杂性呢？Deutsch 假设在与年轻系统交互�
 Christopher Smeenk <[*csmeenk2@uwo.ca*](mailto:csmeenk2%40uwo%2eca)>  
 [Frank Arntzenius](http://www.philosophy.ox.ac.uk/people/frank-arntzenius)  
 [Tim Maudlin](https://as.nyu.edu/faculty/tim-maudlin.html)
-<!--md-padding-ignore-end-->
+

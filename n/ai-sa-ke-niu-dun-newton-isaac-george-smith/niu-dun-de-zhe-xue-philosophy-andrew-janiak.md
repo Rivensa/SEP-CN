@@ -206,7 +206,7 @@ Bentley 寻求牛顿的帮助，特别是因为他想要指导如何通过《自
 
 艾萨克·牛顿对哲学发展的影响并未随着 18 世纪的结束而终结。最明显的是，绝对空间和绝对运动的概念在接下来的两个世纪中继续在关于空间和运动的哲学理论中起着基础性的作用，并且它们至今仍然是讨论的基础（DiSalle 2006）。牛顿还对我们现在所称之为科学哲学的众多其他主题产生了深远而持久的影响，包括我们对自然现象的知识的地位、关于科学方法论的最佳思想、自然法则的地位以及其他许多方面（McMullin 2001 和 Smith 2001）。毫不夸张地说，牛顿在现代哲学史上有着永久的地位。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aiton, Eric, 1972, *The Vortex Theory of Planetary Motions*, New York: American Elsevier.
@@ -357,4 +357,4 @@ Bentley 寻求牛顿的帮助，特别是因为他想要指导如何通过《自
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Andrew Janiak](https://scholars.duke.edu/person/janiak) <[*janiak@duke.edu*](mailto:janiak%40duke%2eedu)>
-<!--md-padding-ignore-end-->
+

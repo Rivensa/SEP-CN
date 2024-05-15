@@ -294,7 +294,7 @@ Linker (2015)反其道而行之，不同于未能反映论证学术的教科书�
 
 女性主义对论证的关注拉动着不同的方向，并为进一步研究提供了很大的空间。女性主义者经常反对哲学学科中的实践和理论，某种形式的反对是女性主义工作的内在特征。然而，女性主义者批评在哲学中对对立风格推理的默认采用以及认为辩论者必须相互对立或者必须持有相反信念的过分强调。对礼貌的呼吁并不能像一些论证理论家经常假定的那样轻松解决这些问题。此外，尽管一些论证学者中最糟糕的倾向可能会代代相传地在哲学家教授的批判性思维课程中传承下去，但这些课程有潜力促进社会正义的进步。让我们注意到，总体而言，女性主义对论证的观点挑战了广泛的社会和认识论规范，并关注这些规范在批判性思维文化、学术哲学以及其他共享推理标准中的体现方式。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aberdein, Andrew, 2016, “Virtue Argumentation and Bias”, in Bondy and Benacquista 2016: archive 113. [[Aberdein 2016 available online](https://scholar.uwindsor.ca/ossaarchive/OSSA11/papersandcommentaries/113)].
@@ -449,4 +449,4 @@ Linker (2015)反其道而行之，不同于未能反映论证学术的教科书�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Catherine E. Hundleby](http://chundleby.com/)
-<!--md-padding-ignore-end-->
+

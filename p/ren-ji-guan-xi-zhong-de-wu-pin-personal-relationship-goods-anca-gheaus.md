@@ -290,7 +290,7 @@ Brownlee（2013 年，即将出版）主张改革惩罚和医疗机构，以避�
 
 一些出于其他原因提出的政策可能会作为副作用，确保更多的孩子享受到他们应得的人际关系物品。这是 Arneson（2014）在前一小节中讨论的建议；Gina Schouten（2015）建议国家通过补贴父母请假、照顾父母和提供优质儿童保育机构来支持性别公正；以及 Anne Alstott（2004）建议国家通过财政支持帮助父母履行要求严格、不可退出的育儿责任。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alstott, Anne L., 2004, *No Exit: What Parents Owe Their Children and What Society Owes Parents*, Oxford: Oxford University Press.
@@ -421,4 +421,4 @@ The author would like to thank Elizabeth Brake, Kimberley Brownlee, Chiara Corde
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Anca Gheaus](http://upf.academia.edu/AncaGheaus) <[*anca.gheaus@upf.edu*](mailto:anca%2egheaus%40upf%2eedu)>
-<!--md-padding-ignore-end-->
+

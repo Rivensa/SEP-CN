@@ -220,7 +220,7 @@ Aperspectivity. Aperspectivity 的理想假设是，如果一个人从没有特�
 
 进一步发展对女性主义认识论的外部批判，等待批评者与女性主义认识论的捍卫者以及该领域的当前发展进行接触。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Addelson, Kathryn, 1983, “The Man of Professional Wisdom,” in Harding and Hintikka 1983.
@@ -403,4 +403,4 @@ Aperspectivity. Aperspectivity 的理想假设是，如果一个人从没有特�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Elizabeth Anderson](http://www-personal.umich.edu/~eandersn/index.htm) <[*eandersn@umich.edu*](mailto:eandersn%40umich%2eedu)>
-<!--md-padding-ignore-end-->
+

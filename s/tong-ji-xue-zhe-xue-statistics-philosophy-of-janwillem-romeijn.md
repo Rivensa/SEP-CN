@@ -545,7 +545,7 @@ PCA 只是一系列旨在使数据可管理并找到其中模式的技术中的�
 
 还有更多内容。几种特定的统计技术，如因子分析和贝叶斯网络理论，本身就引发了概念讨论。科学哲学中的许多主题都适合进行统计阐释，例如证据的一致性、信息性和意外性。反过来，科学哲学中的许多讨论也有助于正确理解统计学。其中包括关于实验和干预的争论、机会的概念、科学模型的性质和理论术语。读者可以查阅有关这些主题的条目，以进一步了解它们与统计学哲学的关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aldous, D.J., 1981, “Representations for Partially Exchangeable Arrays of Random Variables”, *Journal of Multivariate Analysis*, 11: 581–598.
@@ -770,4 +770,4 @@ PCA 只是一系列旨在使数据可管理并找到其中模式的技术中的�
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Jan-Willem Romeijn](https://www.rug.nl/staff/j.w.romeijn/?lang=en) <[*j.w.romeijn@rug.nl*](mailto:j%2ew%2eromeijn%40rug%2enl)>
-<!--md-padding-ignore-end-->
+

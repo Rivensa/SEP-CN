@@ -237,7 +237,7 @@ P(S 在 M(t) 和 M(0) 和 M(0) 上的均匀概率下增加) = 高
 
 很久以前，玻尔兹曼（例如，1895 年）提出了上述时间非对称性是由熵增加的方向解释的。在发展这个令人着迷的论点方面已经取得了很大进展。然而，正如对热力学箭头起源的第一个问题的研究仍然活跃一样，对第二个问题的研究也是如此。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albert, David Z., 1992, *Quantum Mechanics and Experience*, Cambridge, MA: Harvard University Press.
@@ -377,4 +377,4 @@ P(S 在 M(t) 和 M(0) 和 M(0) 上的均匀概率下增加) = 高
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Craig Callender](http://philosophy.ucsd.edu/faculty/ccallender/) <[*ccallender@ucsd.edu*](mailto:ccallender%40ucsd%2eedu)>
-<!--md-padding-ignore-end-->
+

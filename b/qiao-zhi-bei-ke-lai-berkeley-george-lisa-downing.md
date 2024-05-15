@@ -288,7 +288,7 @@ S 有力量和意愿之间的区别。可以有意愿而没有力量。但是没
 
 ……有一件事，我知道，我不会犯罪。我不会对任何伟大人物的袖子上寄予信任。我不会出于偏见和先入之见行事。我不会因为某个观点是旧观点、被接受的观点、时髦的观点，或者是我在研究和培养中花费了很多时间的观点而坚持不懈。（PC 465）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Berkeley’s Works
@@ -389,4 +389,4 @@ A collection, useful to students, of primary texts constituting background to Be
 
 [Copyright © 2011](https://plato.stanford.edu/info.html#c) by\
 [Lisa Downing](https://philosophy.osu.edu/people/downing.110) <[*downing.110@osu.edu*](mailto:downing%2e110%40osu%2eedu)>
-<!--md-padding-ignore-end-->
+

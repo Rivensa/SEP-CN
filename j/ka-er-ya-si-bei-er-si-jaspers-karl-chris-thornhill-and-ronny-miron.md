@@ -148,7 +148,7 @@ III/8.2
 *Ausgewählte Korrespondenzen mit dem Piper Verlag und Klaus Piper 1942–1968* (2020)  
 Dirk Fonfara (Hrsg.)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Major Works by Jaspers
@@ -247,4 +247,4 @@ Dirk Fonfara (Hrsg.)
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Chris Thornhill  
 Ronny Miron <[*mironronny@gmail.com*](mailto:mironronny%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

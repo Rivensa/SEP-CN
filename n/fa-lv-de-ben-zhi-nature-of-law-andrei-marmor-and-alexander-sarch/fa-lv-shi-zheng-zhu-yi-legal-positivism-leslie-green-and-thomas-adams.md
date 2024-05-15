@@ -124,7 +124,7 @@ Kelsen 最重要的贡献在于他对还原主义的批判以及他的“基本�
 然而，法律实证主义至少需要对所谓的“事实-价值”问题表态。毫无疑问，某些实证主义者，尤其是凯尔森，认为是这样。实际上，实证主义可能与一系列观点共存于此处——价值声明可能由事实陈述所蕴含；价值可能在事实之上监督；价值可能是事实的一种形式。法律实证主义只要求某事之所以成为法律，是因为其事实性而非其优点，并且我们可以描述该事实性而不评价其优点。
 评价性论证在法律哲学中当然是核心。没有一个法律哲学家可以仅仅是一个实证主义者。对法律的完全理解还需要解释什么样的事物可能被视为法律的优点（法律必须是高效和优雅的吗？）；法律在裁决中应该扮演什么角色（有效的法律是否总是应用？）；法律对我们服从的要求（是否有服从的义务？）；以及更实际的问题，我们应该拥有什么样的法律，或者我们是否应该有法律。实证主义并不试图回答这些问题（尽管参见 Murphy 2014: 88–108，论证该理论对法律实践有重要的一级影响）。然而，实证主义声称法律的存在和内容仅取决于社会事实，这确实给了它们形状。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Austin, John, 1832 [1995], *Austin: The Province of Jurisprudence Determined*, Wilfrid E. Rumble (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511521546
@@ -205,4 +205,4 @@ Kelsen 最重要的贡献在于他对还原主义的批判以及他的“基本�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Leslie Green](http://www.competition-law.ox.ac.uk/members/profile.phtml?lecturer_code=leslie.green) <[*leslie.green@law.ox.ac.uk*](mailto:leslie%2egreen%40law%2eox%2eac%2euk)>  
 [Thomas Adams](https://www.law.ox.ac.uk/people/thomas-adams) <[*thomas.adams@law.ox.ac.uk*](mailto:thomas%2eadams%40law%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

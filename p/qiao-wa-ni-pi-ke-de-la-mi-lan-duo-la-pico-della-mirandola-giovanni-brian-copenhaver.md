@@ -141,7 +141,7 @@
 
 那个生命的皮科是一个萨沃纳罗拉的圣人，他几乎来得太晚才得到救赎，但最终拒绝了世俗、肉体和魔鬼。这不是几年前前往罗马以失败告终的哲学盛会中挑战整个世界的皮科；也不是企图夺走一个名叫梅迪奇的已婚女子的皮科——更不用说她的丈夫姓麦地奇了；也不是与费奇诺在充满星象神话暗示的信件中谈论他的失误和不幸的皮科。也许是 1486-7 年的灾难让这位年轻的贵族足够谦卑，从而解释了在《七重奏》中对卡巴拉的掩盖和在《辩论》中发现的刺耳的反悔。但由于《辩论》的编辑者詹弗朗切斯科·皮科也编辑了他选定的信件，以支持他叔叔的有争议的生平，而詹弗朗切斯科本人不仅是一个虔诚的信仰主义者，而且是一个极富成果的学者和独立思考者，我们不应该排除《辩论》更应该被视为侄子对皮科生平的附属物，而不是证明他叔叔流星般职业生涯最后阶段的忏悔的证据。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -231,4 +231,4 @@ For recent items (and a few not so recent) not mentioned in Quaquarelli and Zana
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Brian Copenhaver <[*brianc@humnet.ucla.edu*](mailto:brianc%40humnet%2eucla%2eedu)>
-<!--md-padding-ignore-end-->
+

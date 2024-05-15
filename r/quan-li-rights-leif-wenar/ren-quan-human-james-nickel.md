@@ -198,10 +198,10 @@ Beitz 正确地指出，一个理性的人可以接受和使用人权的概念�
 
 全球关于人权态度的民意调查现已可得，结果显示对人权和国际促进人权努力的广泛支持。实证研究现在可以取代或补充有关全球人权分歧的理论推测。《外交关系委员会》于 2011 年 12 月发布的一份报告调查了最近的国际民意调查，探讨了对以下命题的赞同和不赞同程度，例如“人们有权表达任何意见”，“各种信仰的人都可以自由实践他们的宗教”，“妇女应该享有与男性相同的权利”，“不同种族的人应该受到平等对待”，以及政府“应负责确保公民满足基本的食物需求”。在阿根廷、乌克兰、阿塞拜疆、埃及、伊朗、肯尼亚、尼日利亚、中国、印度和印度尼西亚等国，接受调查的人中有绝大多数给出了肯定的答案。此外，在所有接受调查的国家中，大多数人（平均 70%）支持联合国促进《世界人权宣言》中规定的人权努力。不幸的是，对人权理念的普遍接受并没有阻止这些国家中许多国家最近朝着威权主义滑坡的趋势。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
-#<!--md-padding-ignore-begin-->
+
 ## Bibliography: Books and Articles in the Philosophy of Human Rights
 
 * Ashford, E., 2015, “A Moral Inconsistency Argument for a Basic Human Right to Subsistence,” in Cruft, R., Liao, S., and Renzo, M. (eds.), *Philosophical Foundations of Human Rights*, Oxford: Oxford University Press.
@@ -374,4 +374,4 @@ The assistance of Adam Etinson, Pablo Gilabert, and Erin Sperry is acknowledged 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [James Nickel](https://sites.google.com/site/jameswnickel/) <[*nickel@law.miami.edu*](mailto:nickel%40law%2emiami%2eedu)>
-<!--md-padding-ignore-end-->
+

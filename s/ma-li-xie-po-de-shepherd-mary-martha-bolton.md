@@ -130,7 +130,7 @@ Folescu 认为 Shepherd 的立场与里德的理论更为相似，而不是洛�
 
 当一个人的现在的身体死亡时，个体的思维会发生什么？个体的思维是不朽的，但它是否会保持沉睡状态，"迷失在永恒的思维海洋中"，或者 "保留其个体意识和个性"，尚不确定（EPEU [2020: 378]）。在后一种情况下，它可能与某些物质混合，形成新感觉的原因，并保持将记忆的观念与当前感觉相结合的能力，或者它可能与其他类型的实体混合，产生与记忆脱离的感觉；即使现在我们在忘记获取知识的方式时也在使用知识（有关更详细讨论，请参见 LoLordo（即将出版））。尽管谢泼德提到了一些类比，使记忆和个性恢复成为可能，但她发现哲学无法进一步探索（EPEU [2020: 379–88]）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Mary Shepherd
@@ -203,4 +203,4 @@ The author thanks Jennifer McRobert for sharing some of her research on Shepherd
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Martha Bolton <[*mbolton@rci.rutgers.edu*](mailto:mbolton%40rci%2erutgers%2eedu)>
-<!--md-padding-ignore-end-->
+

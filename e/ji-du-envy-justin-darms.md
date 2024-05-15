@@ -94,7 +94,7 @@ Alternatively, envy can be held to present the difference in possession between 
 
 罗尔斯（Rawls）的讨论与对嫉妒的传统看法存在一定的紧张关系。他认为，“我们容易嫉妒的主要心理根源是对自身价值的缺乏自信以及一种无力感。” 这使他预期，嫉妒会随着主体与他们所嫉妒的对象之间的差异越大而变得更加严重。[28] 然而，从亚里士多德开始，大多数对嫉妒的观察者都认为，嫉妒通常是针对那些主体认为自己在竞争中的人，因此通常不会嫉妒福祉差距非常大的人。而且有一些经验证据支持这一说法。[29] 这通常被解释为人们衡量自己相对福祉的标准在某种（可能是隐喻性的）意义上是局部的假设。如果属实，这就质疑了防止过度不平等是否可能减少嫉妒的频率或强度。但这也表明，罗尔斯讨论的普遍或阶级嫉妒现象可能并不对有序社会构成实质性威胁。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle, *The Basic Works of Aristotle*, R. McKeon (ed.), New York: Random House, 1941.
@@ -157,4 +157,4 @@ Alternatively, envy can be held to present the difference in possession between 
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Justin D’Arms](https://philosophy.osu.edu/people/darms.1) <[*darms.1@osu.edu*](mailto:darms%2e1%40osu%2eedu)>
-<!--md-padding-ignore-end-->
+

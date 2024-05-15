@@ -276,7 +276,7 @@ Schauer 的分类法为我们思考不同言论形式提供了一个有用的组
 
 自由主义者们，他们捍卫第一修正案的正统解释，却坚持进行严格的内容管理，很可能持有以下一种或两种观点。然而，在全球范围内，这种观点似乎是少数派。严格的法规即将出台，将使社交媒体公司面临繁重的监管，例如欧盟的数字服务法案和英国的在线安全法案。对这样的法规进行规范性评估是一项紧迫的任务。同样，制定规范性理论以指导内容管理系统的设计和数字公共领域的更广泛治理也是一项任务。在这两个方面，政治哲学家应该重新开始工作。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, Larry [Lawrence], 1995, “Free Speech and Speaker’s Intent”, *Constitutional Commentary*, 12(1): 21–28.
@@ -456,4 +456,4 @@ I am grateful to the editors and anonymous referees of this Encyclopedia for hel
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Jeffrey W. Howard <[*jeffrey.howard@ucl.ac.uk*](mailto:jeffrey%2ehoward%40ucl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

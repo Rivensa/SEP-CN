@@ -286,7 +286,7 @@
 
 因此，康德认为虽然理论哲学和实践哲学从不同且不可简化的起点出发 - 自我意识作为我们认识自然的最高原则，道德法则作为我们对自由的认知基础 - 反思判断将它们统一为一个单一的、目的论的世界观，赋予人类自主权以至高的价值。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -432,4 +432,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Michael Rohlf](http://philosophy.catholic.edu/faculty-and-research/faculty-profiles/rohlf-michael/index.html) <[*rohlf@cua.edu*](mailto:rohlf%40cua%2eedu)>
-<!--md-padding-ignore-end-->
+

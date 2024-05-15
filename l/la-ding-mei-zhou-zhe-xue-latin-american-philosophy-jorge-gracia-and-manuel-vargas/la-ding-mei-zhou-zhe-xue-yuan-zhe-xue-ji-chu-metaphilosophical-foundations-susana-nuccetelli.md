@@ -197,7 +197,7 @@ Guillermo Hurtado（2010 年）对“拉丁美洲”这个限定词的适用性�
 
 但是，对于证明当前使用'拉丁美洲'或某些替代术语是否重要，可能并不存在这样的实际问题。如果任何此类术语派生自的专有名词的指称是直接的，即不通过术语的描述性含义进行介入，那么就是这样。根据这种观点，使用该术语的理由只需要诉诸于语言约定。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alberdi, J. B., 1840, “Ideas para presidir la confección del curso de filosofía contemporánea,” in *Escritos póstumos*, vol. 15, pp. 603–619, Buenos Aires: Imp. Juan Bautista Alberdi; page reference is to the reprint in Terán 1988.
@@ -326,4 +326,4 @@ Guillermo Hurtado（2010 年）对“拉丁美洲”这个限定词的适用性�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Susana Nuccetelli <[*snuccetelli@stcloudstate.edu*](mailto:snuccetelli%40stcloudstate%2eedu)>
-<!--md-padding-ignore-end-->
+

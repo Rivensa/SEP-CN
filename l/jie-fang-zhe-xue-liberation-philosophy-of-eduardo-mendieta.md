@@ -126,7 +126,7 @@ Ellacuría 与西班牙哲学家 Zubiri 密切合作，他的工作旨在通过�
 
 总之，像世界哲学中大多数充满活力且仍然活跃的潮流一样，解放哲学一直在为所有哲学普遍关注的三个关键问题做出贡献，即：意义问题，即我们如何通过各种符号学和解释学实践来产生、再现和传递历史产生的意义。这是一个关于人类如何在时间上继续交流的普遍问题，即使他们世界观的基本生产条件已经发生了根本性的变化。与此同时，解放哲学开始部分是对拉丁美洲某种思想史学的挑战，它继续提出如何书写哲学史的问题，为了谁和出于什么目的，以这样一种方式，既不屈服于意识形态的扭曲，也不屈服于天真的纯粹主义，既不屈服于欧洲中心主义，也不屈服于第三世界主义。最后，像所有具有变革性和持久性的哲学运动一样，解放哲学自其创立以来就表达了自己作为一种元哲学反思的形式，即作为一种反思自身实践以及何种实践值得被称为哲学的哲学（Vallega 2014）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abellán, José Luis, 1967, *Filosofía Española en América*, Madrid: Guadarrama.
@@ -250,4 +250,4 @@ Ellacuría 与西班牙哲学家 Zubiri 密切合作，他的工作旨在通过�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Eduardo Mendieta <[*ezm5325@psu.edu*](mailto:ezm5325%40psu%2eedu)>
-<!--md-padding-ignore-end-->
+

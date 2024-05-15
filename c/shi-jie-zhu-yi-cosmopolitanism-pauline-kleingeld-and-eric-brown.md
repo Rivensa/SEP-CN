@@ -144,7 +144,7 @@
 
 总的来说，各种形式的世界主义者与批评者之间的争论引发了一系列有趣且困难的哲学问题。随着世界在社会、政治和经济联系方面变得更加紧密，这些争论及其引发的问题只会变得更加紧迫。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Historical works
@@ -296,4 +296,4 @@
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Pauline Kleingeld <[*pauline.kleingeld@rug.nl*](mailto:pauline%2ekleingeld%40rug%2enl)>  
 [Eric Brown](https://sites.google.com/view/ericbrownphilosophy/eric-brown) <[*eabrown@wustl.edu*](mailto:eabrown%40wustl%2eedu)>
-<!--md-padding-ignore-end-->
+

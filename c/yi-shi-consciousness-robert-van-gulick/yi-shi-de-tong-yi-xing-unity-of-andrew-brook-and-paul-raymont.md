@@ -385,7 +385,7 @@ Dennett 和 Churchland 的观点自然地融入了对认知和意识神经实现
 * 意识的统一性的所有主要理论都面临问题。
 * 对这一主题的理论化状态表明，仍有许多进一步工作的空间。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Baars, Bernard, 1988, *A Cognitive Theory of Consciousness*, Cambridge: Cambridge University Press.
@@ -510,4 +510,4 @@ Dennett 和 Churchland 的观点自然地融入了对认知和意识神经实现
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Andrew Brook](http://www.carleton.ca/~abrook/)  
 Paul Raymont
-<!--md-padding-ignore-end-->
+

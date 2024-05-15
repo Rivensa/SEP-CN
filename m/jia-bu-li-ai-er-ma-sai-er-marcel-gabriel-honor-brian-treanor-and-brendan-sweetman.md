@@ -188,7 +188,7 @@ Thus, secondary reflection is one important aspect of our access to the self. It
 
 加布里埃尔·马塞尔仍然是二十世纪最有影响力的思想家之一，他的主要主题在二十一世纪对人类的困境仍然具有重要意义。许多人认为马塞尔的思想具有吸引力，因为他强调了一些在哲学和神学领域中对二十世纪思想产生影响的重要观念：通过强调唯物主义生活的不足和人类对超越的无法避免的需求，试图保护人的尊严和完整性；哲学无法捕捉到关键人类经验的深度和深刻性，因此需要找到一种更深层次的反思方式；强调人类的互为主体性经验，马塞尔认为这是人类满足的根源；追求人类经验的超越维度，他认为这个维度不能被否认而不带来损失，并且经常赋予我们许多最深刻经验的意义。马塞尔也被认为是不同学科领域的一系列思想家所重视，因为他提出了一种挑战他的法国竞争对手让·保罗·萨特和其他代表性存在主义哲学家的道德相对主义和精神虚无主义的替代愿景（马塞尔，1995 年，第 47-90 页）。因此，出于这个重要原因，他的作品在伦理学、政治学和宗教学等方面继续对我们今天的关切发表意见。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Marcel was a very prolific writer, whose work ranges over philosophy, drama, criticism, and musical compositions. The following bibliography merely scratches the surface of his extensive oeuvre. More complete bibliographies can be found in: (1) Francois H. and Claire Lapointe (eds.), *Gabriel Marcel and His Critics: An International Bibliography (1928–1976)*, New York and London: Garland Publishing, 1977; (2) Paul Arthur Schilpp and Lewis Edwin Hahn (eds.), *The Philosophy of Gabriel Marcel* (Library of Living Philosophers Volume 17), La Salle, IL: Open Court, 1984; and (3) K.R. Hanley (ed.), *Gabriel Marcel’s Perspectives on the Broken World*, Milwaukee, WI: Marquette University Press, 1998. The websites of the *Gabriel Marcel Society*, and of the new journal, *Marcel Studies*, are also valuable resources (see the Other Internet Resources section below).
@@ -304,4 +304,4 @@ Marcel was a very prolific writer, whose work ranges over philosophy, drama, cri
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Brian Treanor](http://faculty.lmu.edu/briantreanor/)\
 [Brendan Sweetman](http://www.rockhurst.edu/directory/faculty/brendan-sweetman/) <[*brendan.sweetman@rockhurst.edu*](mailto:brendan%2esweetman%40rockhurst%2eedu)>
-<!--md-padding-ignore-end-->
+

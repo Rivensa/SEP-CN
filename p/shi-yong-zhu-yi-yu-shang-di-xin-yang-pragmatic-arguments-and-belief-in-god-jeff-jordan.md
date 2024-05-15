@@ -372,7 +372,7 @@ Kahane 复杂的论证与传统观点相悖，即上帝的存在是所有人都�
 
 Kahane 的论证大部分是通过比较存在上帝的可能世界（“有上帝的世界”）和不存在上帝的可能世界（“无上帝的世界”）来进行的。这些比较的模态可靠性并不明显，因为上帝通常被视为必然存在的存在。有关对 Kahane 论证的批判性审查，请参见 Kraay 2013。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert, 1979. “Moral Arguments for Theistic Belief,” in *Rationality and Religious Belief*, C. Delaney (ed.), Notre Dame: University of Notre Dame Press, pp. 116–40. Reprinted in *The Virtue of Faith*, New York: Oxford University Press, 1979.
@@ -437,4 +437,4 @@ Kahane 的论证大部分是通过比较存在上帝的可能世界（“有上�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Jeff Jordan <[*jjjordan@udel.edu*](mailto:jjjordan%40udel%2eedu)>
-<!--md-padding-ignore-end-->
+

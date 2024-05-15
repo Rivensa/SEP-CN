@@ -261,7 +261,7 @@ Whiting（1991）采取了一种稍有不同的方法。针对关于爱的对象
 
 如果我们认为爱可以被证明，那么以特定的历史事实来证明爱的呼吁似乎是不充分的，因为这种特殊的、主观的属性可能可以解释但不能证明爱。相反，似乎需要通过诉诸普遍的、客观的属性来进行证明。但是这些属性是其他人可能共享的，这就引出了可替代性的问题。因此，似乎爱不能被证明。面对这个困境，对爱的解释理论认为爱是一种介于评估和赋予之间的对价值的态度，既承认已经存在的价值，又创造出这种价值（见第 4.3 节），可能提供了一种出路。因为一旦我们摒弃了我们所爱之人的价值必须是我们爱的先决条件或结果的想法，我们就有了承认爱的深层个人性、历史性和创造性（赋予解释理论的核心）以及将爱理解为对所爱之人的有价值属性的回应，这些属性可以证明爱的存在（评估解释理论的核心）之间并不是互相排斥的空间（Helm 2010；Bagley 2015）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Annas, J., 1977, “Plato and Aristotle on Friendship and Altruism”, *Mind*, 86: 532–54.
@@ -375,4 +375,4 @@ Whiting（1991）采取了一种稍有不同的方法。针对关于爱的对象
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Bennett Helm](https://bwhelm.github.io/) <[*bennett.helm@fandm.edu*](mailto:bennett%2ehelm%40fandm%2eedu)>
-<!--md-padding-ignore-end-->
+

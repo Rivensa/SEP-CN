@@ -156,7 +156,7 @@ Strong（2008）认为，这些担忧是基于一个谬误的推论。渴望有�
 
 人类克隆问题没有统一的宗教观点；事实上，在每个宗教传统内部都存在多种不同的观点。有关主要宗教团体对克隆的评估概况，请参见 Cole-Turner（1997）和 Walters（2004）。有关犹太教对克隆的特别观点，请参见 Lipschutz（1999），有关伊斯兰教观点，请参见 Sadeghi（2007），有关天主教观点，请参见 Doerflinger（1999）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agar, N., 2004, *Liberal Eugenics: In Defense of Human Enhancement*, Oxford: Blackwell Publishing.
@@ -262,4 +262,4 @@ Strong（2008）认为，这些担忧是基于一个谬误的推论。渴望有�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Katrien Devolder](http://www.philosophy.ox.ac.uk/people/katrien-devolder) <[*katrien.devolder@philosophy.ox.ac.uk*](mailto:katrien%2edevolder%40philosophy%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

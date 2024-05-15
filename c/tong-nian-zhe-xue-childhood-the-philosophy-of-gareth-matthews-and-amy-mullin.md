@@ -117,7 +117,7 @@ Mullin (2007, 2014) 认为，考虑儿童自主能力应该以自我治理为核
 
 上面讨论的话题几乎没有涵盖童年哲学的全部内容。因此，我们并未提及例如关于人格的哲学文献，因为它涉及有关堕胎道德的问题，或者关于父母何时应同意孩子参与医学研究或拒绝为孩子接受医疗治疗的生物伦理讨论。近年来，人们越来越关注父母对孩子的权威的适当限制，父母和国家对孩子的责任的来源和范围，以及父母是否可以将大量资源用于提升孩子的生活前景的道德许可性。这些以及其他许多关于儿童的话题可能对哲学家来说并不陌生，因为它们在其他背景下讨论，特别是在家庭伦理学和生物伦理学领域。在“童年哲学”以及其他背景下讨论这些话题，可能有助于我们看到它们与其他有关儿童的哲学问题之间的联系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, J. and Claassen, R., 2012, “Sailing alone: Teenage autonomy and regimes of childhood,” *Law and Philosophy*, 31(5): 495–522.
@@ -223,4 +223,4 @@ Mullin (2007, 2014) 认为，考虑儿童自主能力应该以自我治理为核
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Gareth Matthews](http://www.umass.edu/philosophy/faculty/faculty-pages/matthews.htm)\
 Amy Mullin <[*amy.mullin@utoronto.ca*](mailto:amy%2emullin%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

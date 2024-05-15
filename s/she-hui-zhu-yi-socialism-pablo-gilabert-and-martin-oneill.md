@@ -176,7 +176,7 @@
 
 关于社会主义第三维度的其他重要问题是确定适当的政治变革代理人以及他们在当代全球化背景下的成功前景。在第一个问题上，社会主义者越来越多地探讨的意义不仅仅是工人运动，还包括与致力于克服基于性别和种族的压迫的活动家们的交叉。一些人认为，社会主义政治的主要对象不应该是任何特定的阶级或运动，而是一个更包容、政治平等的民主社区的公民群体。例如，霍内斯（2015 [2017: ch. IV]）在一定程度上继承了约翰·杜威和于尔根·哈贝马斯的观点，认为社会主义的主要对象和变革代理人应该是在民主公共领域中集结的公民。尽管在规范上具有吸引力，但这一提议可能面临严重的可行性困难，因为现有的民主舞台受到社会主义者批评和试图克服的不平等所污染和瘫痪。第二个问题在这里也是相关的。传统上有一个问题，即社会主义是在一个国家内推行还是国际推行。社会主义者倾向于接受国际主义的政治变革视野，因为他们通常认为自由、平等和团结的理想具有全球范围，同时他们也指出，从可行性的角度来看，资本主义经济活动边界的日益渗透使得在任何一个国家内进行社会主义政治变革都很难在没有重塑更广泛的国际背景的情况下取得很大进展。 这里的一个困难是，尽管存在国际社会运动（包括工人运动、国际非政府组织、人权机构和协会以及其他行动者），但跨越国界的制度机构行为，能够严肃地挑战资本主义框架的力量目前并不是很强大。在应对这些困难时，社会主义正义的行动和研究必须与有关性别、种族、民主、人权和全球正义领域的持续工作相互交流。[ 2]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Akyeampong, Emmanuel, 2018, “African Socialism; or, the Search for an Indigenous Model of Economic Development?”, *Economic History of Developing Regions*, 33(1): 69–87. doi:10.1080/20780389.2018.1434411
@@ -384,4 +384,4 @@ For helpful discussion, comments and suggestions we thank a referee, Samuel Arno
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Pablo Gilabert](http://www.concordia.ca/faculty/pablo-gilabert.html) <[*pablo.gilabert@concordia.ca*](mailto:pablo%2egilabert%40concordia%2eca)>  
 [Martin O’Neill](https://york.academia.edu/MartinONeill) <[*martin.oneill@york.ac.uk*](mailto:martin%2eoneill%40york%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

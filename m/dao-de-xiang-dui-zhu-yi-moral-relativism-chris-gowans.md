@@ -200,7 +200,7 @@ Foot（2002a 和 2002b；另请参见 Scanlon 1995 年和 1998 年：第 8 章�
 
 正如第 3 节中所指出的，除了哲学问题是否某种形式的道德相对主义是否为宽容等态度提供了理由之外，还有心理学问题，即接受相对主义的人是否更有可能宽容。正如我们所见，有一些证据表明相对主义者比客观主义者更加宽容，而且有人声称，即使相对主义不能为宽容提供理由，接受相对主义会使人更加宽容，这将是相对主义的一个积极特征（参见普林兹 2007 年：208）。当然，这个判断预设了在某种意义上，宽容是好的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Accetti, C., 2015, *Relativism and Religion: Why Democratic Societies Do Not Need Moral Absolutes*, New York: Columbia University Press.
@@ -427,4 +427,4 @@ Foot（2002a 和 2002b；另请参见 Scanlon 1995 年和 1998 年：第 8 章�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Chris Gowans](http://www.fordham.edu/academics/programs_at_fordham_/philosophy/materials/christopher_w_gowans_69820.asp) <[*gowans@fordham.edu*](mailto:gowans%40fordham%2eedu)>
-<!--md-padding-ignore-end-->
+

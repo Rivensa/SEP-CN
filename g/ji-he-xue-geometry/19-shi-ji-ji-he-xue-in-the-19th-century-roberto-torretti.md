@@ -121,7 +121,7 @@ The application to physics is immediate: “Among all possible groups we have ch
 
 在 20 世纪最后三分之一的时间里，纤维丛及其 Lie 群几乎完全占据了基础物理学。这不是解释为什么或如何的地方，但物理学朝着越来越数学复杂、乍看起来不那么直接的表述的不可阻挡的演变，值得哲学家们的关注。很明显，一个明确稳定的东西的概念，可能至少原则上可以被把握和操纵，对我们来说不再像曾经对我们的敲打石器的祖先那样有用。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -200,4 +200,4 @@ I thank John Norton for the illustrations and for ideas leading to a better pres
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Roberto Torretti](https://plato.stanford.edu/entries/geometry-19th/vita.html)
-<!--md-padding-ignore-end-->
+

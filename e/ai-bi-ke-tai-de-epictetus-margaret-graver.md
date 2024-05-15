@@ -125,7 +125,7 @@
 爱比克泰德的《手册》于 1497 年由波利齐亚诺（Poliziano）翻译成拉丁文，并在随后的两个世纪在欧洲异常流行。Spanneut（1972）追踪了它在修道院中以表面上基督教化的形式被使用。十七世纪的知识分子，如吉约姆·杜韦尔（Guillaume du Vair）、尤斯图斯·利普修斯（Justus Lipsius）和托马斯·加塔克（Thomas Gataker）通常认为爱比克泰德的斯多儿派与基督教完全兼容；请参阅布鲁克（Brooke，2006）中的讨论。帕斯卡反对这种看法；他钦佩爱比克泰德作为一个道德家，但认为认为人类心灵是神圣的一部分，并可以通过自己的努力完善纯粹是傲慢的。笛卡尔采纳了一个明显是爱比克泰德价值体系的个人伦理观。汤姆·沃尔夫（Tom Wolfe）在 1998 年的小说《全人》中生动讽刺了爱比克泰德哲学在当代美国生活中的潜在影响。
 *
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Texts and Translations
@@ -231,4 +231,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Margaret Graver <[*Margaret.R.Graver@Dartmouth.EDU*](mailto:Margaret%2eR%2eGraver%40Dartmouth%2eEDU)>
-<!--md-padding-ignore-end-->
+

@@ -344,7 +344,7 @@ McLear（2016a）以两种方式反对这种回应。首先，如果空间和时
 
 本文考察了关于康德对感性和智性心灵能力对主体对周围世界的感官体验所作贡献的解释性辩论。辩论的两个核心动机是，一方面，对感性体验（广义上）与经验判断或信念之间认识论关系的哲学关切，另一方面，对康德对直观的认知作用和先验推论中的论证策略的解释性问题。我们看到，有多种方式来构建这个辩论，而且即使是基本问题，比如争议的核心焦点（是直观、感知还是经验），也可以有多种方法来处理。此外，我们看到，以概念内容为框架来构建争议会带来各种问题，或许部分原因是由于这些问题，当前的辩论似乎已经围绕着另一种框架（无论是隐含还是明确）形成了共识，即直观的生成是否依赖于某种智性能力或以其他方式表达智性能力。解决这个问题需要在康德哲学中一些最棘手和最有争议的领域中进行导航。至少出于这个原因，我们似乎不太可能很快看到广泛的一致答案。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works of Kant
@@ -768,4 +768,4 @@ Thanks to Lucy Allais, Anil Gomes, Lisa Shabel, Nick Stang, Andrew Stephenson, C
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Colin McLear](http://colinmclear.net/) <[*mclear@unl.edu*](mailto:mclear%40unl%2eedu)>
-<!--md-padding-ignore-end-->
+

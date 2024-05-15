@@ -204,7 +204,7 @@ Because philosophical problems emerge “necessarily” and “objectively”, t
 
 > 通过把握所有特定文化活动的共同特征，即理性的自我意识，它产生了对象和其中的有效领域。（1910b: 293）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 *Präludien* refers to a collection of works by Windelband. Page numbers refer to the 1915 edition. NKR refers to *The Neo-Kantian Reader* (2015) edited by Sebastian Luft.
@@ -305,4 +305,4 @@ Because philosophical problems emerge “necessarily” and “objectively”, t
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Katherina Kinzel](https://www.uu.nl/staff/KPKinzel) <[*k.p.kinzel@uu.nl*](mailto:k%2ep%2ekinzel%40uu%2enl)>
-<!--md-padding-ignore-end-->
+

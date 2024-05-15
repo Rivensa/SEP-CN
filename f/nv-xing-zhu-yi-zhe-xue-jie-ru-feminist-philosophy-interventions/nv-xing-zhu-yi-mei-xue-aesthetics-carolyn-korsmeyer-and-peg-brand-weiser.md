@@ -140,7 +140,7 @@
 
 女性主义美学”范畴下的主题涵盖哲学、历史、批评学科和艺术实践。在所有这些领域中，都已经发展了关于感知、欣赏和解释的理论。虽然这种思考大部分始于对哲学传统及其提供的概念框架的审视，但女性主义视角也在许多方向上拓展了领域，以至于 21 世纪的理论化已经从 20 世纪 70 年代开始探讨性别分析的批评视角中走向了不同的方向。特别值得注意的是，兴趣从明显政治和战略分析社会和文化中的女性的扩散，转向探索性别可以呈现的各种形式，这种转变也区分了从女性主义到后女性主义的过渡的方面。对于多元身份问题的更广泛关注，特别是对种族色彩差异的关注，既表征了女性主义理论，也表征了当今的美学。因此，女性主义工作越来越不太可能仅关注女性作为一个专题，而是考虑其他身份模式。女性主义者在自己的探索中运用了不同类型的哲学，阐述和完善它们，并且最重要的是，制定了独立于任何特定理论忠诚度的观念。过去五十年来女性主义视角在美学和艺术哲学中的变化重点在于哲学、艺术理论、批评和评论以及艺术家自身的实践中，这证明了哲学和文化生产手牵手前行的程度，这是美学领域本身的一个持久特征。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Al-Saji, Alia, 2019. “Glued to the Image: A Critical Phenomenology of Racialization through Works of Art,” *Journal of Aesthetics and Art Criticism*, 77(4): 475–88.
@@ -336,4 +336,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Carolyn Korsmeyer <[*ckors@acsu.buffalo.edu*](mailto:ckors%40acsu%2ebuffalo%2eedu)>  
 [Peg Brand Weiser](https://philosophy.arizona.edu/people/peg-brand-weiser) <[*mbweiser@email.arizona.edu*](mailto:mbweiser%40email%2earizona%2eedu)>
-<!--md-padding-ignore-end-->
+

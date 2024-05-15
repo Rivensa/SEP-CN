@@ -230,7 +230,7 @@ Inoue Kazumi 还提出，黑格尔意义上的辩证矛盾并不违反非矛盾�
 
 尽管黑格尔的著作和他对技术术语的运用使他的哲学变得非常困难，但他的作品也可能是非常有益的。尽管存在困难，但他的作品中有许多新颖的想法在哲学领域尚未得到充分探讨，这或许正是其价值所在。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### English Translations of Key Texts by Hegel
@@ -317,4 +317,4 @@ Inoue Kazumi 还提出，黑格尔意义上的辩证矛盾并不违反非矛盾�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Julie E. Maybee](http://www.lehman.edu/academics/arts-humanities/philosophy/fac-maybee.php) <[*julie.maybee@lehman.cuny.edu*](mailto:julie%2emaybee%40lehman%2ecuny%2eedu)>
-<!--md-padding-ignore-end-->
+

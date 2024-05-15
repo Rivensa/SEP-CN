@@ -161,7 +161,7 @@ Danaher（2019:54）承认工作可以促进人类福祉，但目前组织的工
 
 工作和劳动具有内在的哲学兴趣。但它们对人类状况的核心性也意味着工作和劳动与更广泛的关于人类福祉和人类社会公正组织的哲学问题交叉。对工作世界的持续和预期变化应该为未来几十年的哲学探究提供丰富的素材。哲学很可能在应对 Appiah（2021:7）所称的“困难问题”方面发挥特殊作用，即确定“如何生产我们所需的商品和服务，同时为人们提供收入、社交和重要性。”
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adorno, Theodor, 2001. *“*Free Time,” in J.M. Bernstein (ed.), *The Culture Industry: Selected Essays on Mass Culture*, London:Routledge, pp. 187–198.
@@ -302,4 +302,4 @@ Danaher（2019:54）承认工作可以促进人类福祉，但目前组织的工
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Michael Cholbi](http://michael.cholbi.com/) <[*mcholbi@ed.ac.uk*](mailto:mcholbi%40ed%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

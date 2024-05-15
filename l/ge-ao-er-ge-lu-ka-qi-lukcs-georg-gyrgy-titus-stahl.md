@@ -176,7 +176,7 @@
 
 然而，只要格奥尔格·卢卡奇对现实主义的承诺反映了一种对艺术作品应该呈现出一种意义的整体性的承诺，这种意义对个体生活并不陌生，而是克服了他们在日常生活中所遭受的异化，它表达了（即使在其最扭曲的版本中）一种一直支撑着他的工作的直觉：一种希望克服人类生活与构成现代社会的客观社会形式之间的紧张关系的愿望。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Biographies
@@ -312,4 +312,4 @@ This list comprises the bibliographical entries for the works by Lukács that ar
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Titus Stahl](http://www.titus-stahl.de/) <[*titus.stahl@rug.nl*](mailto:titus%2estahl%40rug%2enl)>
-<!--md-padding-ignore-end-->
+

@@ -62,7 +62,7 @@
 
 阿尔伯特在意大利和中欧传播新思想方面发挥了重要作用，这些思想在 14 世纪中叶由巴黎大师们讨论，但也明显受到阿尔伯特对英国创新的理解的影响。他在逻辑和物理学的许多主题上表现出无可否认的独创性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Texts
@@ -166,4 +166,4 @@ The author gratefully acknowledges Jack Zupko for translating this entry into En
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Joél Biard](http://ockham.free.fr/) <[*joel.biard@univ-tours.fr*](mailto:joel%2ebiard%40univ-tours%2efr)>
-<!--md-padding-ignore-end-->
+

@@ -712,7 +712,7 @@ Humberstone（2000a，368）对拒绝主义提出质疑，要求拒绝主义者�
 
 这种观点似乎排除了二值真理主义者对于 A 的不同意见的表达，即一个人断言 A，另一个人断言 ∼A 的情况。二值真理主义者可以断言 ∼A 而不与 A 产生分歧。因此，如果断言 ∼A 被宣称在概念上独立于否定 A，对于 A 的不同意见可以表示为一个人断言 A，另一个人否定 A 的情况。对这种方法的批评性讨论可参见 Ripley 2011b。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Almukdad, A. and D. Nelson, 1984, “Constructible falsity and inexact predicates”, *Journal of Symbolic Logic*, 49: 231–233.
@@ -969,4 +969,4 @@ We would like to thank anonymous referees of the Stanford Encyclopedia of Philos
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Laurence R. Horn](https://ling.yale.edu/people/laurence-r-horn) <[*laurence.horn@yale.edu*](mailto:laurence%2ehorn%40yale%2eedu)>\
 [Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[*Heinrich.Wansing@rub.de*](mailto:Heinrich%2eWansing%40rub%2ede)>
-<!--md-padding-ignore-end-->
+

@@ -96,7 +96,7 @@
 
 关于马蒂自己哲学观点的接受情况，可以在他去世后出现的布拉格语言学圈中找到（Leška 1995），在一定程度上也可以在波兰哲学中找到（Woleński 1990）。此外，马蒂在慕尼黑现象学家中并不是无名之辈（Schuhmann 1990），他在交际功能上的强调可能对他们的言语行为理论产生了影响。然而，马蒂的观点在卡尔·比勒的语言理论中得到了明确的承认（Bühler 1934）。不管怎样，马蒂的观点仍然等待进一步的研究，并可能进一步融入语言学和语言哲学的持续发展中。八十多年前（Funke 1924）曾经表达过的悲叹，即马蒂的工作在当时的语言学家中没有得到足够的赞赏，今天仍然可以表达得很好。除了前面提到的心理主义的指责之外，主要的障碍在于阅读他的著作的困难。虽然迈农和胡塞尔写的句子似乎永无止境，但马蒂不断进行的争论使他的著作对许多读者来说更加难以接受，尤其是因为他争论的目标在许多情况下是被遗忘的作者，或者只有少数专家知道。因此，直到最近（Marty 2010a–2010d），他的哲学著作还没有被广泛翻译成英文，这并不奇怪。然而，正如前面的讨论中简要提到的，马蒂的声音在心灵哲学、特别是语言哲学和本体论方面是独特的。从他的作品中汲取哲学的滋养的可能性远未耗尽。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Works by Marty
@@ -283,4 +283,4 @@ The 2019 version of this entry is an outcome of the project of the Grant Agency 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Robin Rollinger](http://ophen.org/pers-100182) <[*robinrollinger@yahoo.com*](mailto:robinrollinger%40yahoo%2ecom)>  
 Hynek Janousek <[*hynek.janousek@seznam.cz*](mailto:hynek%2ejanousek%40seznam%2ecz)>
-<!--md-padding-ignore-end-->
+

@@ -225,7 +225,7 @@ logos 与自然法则之间的关系是一个有趣的话题，因为尽管它�
 * [About the *De aeternitate* and the *De providentia*](https://plato.stanford.edu/entries/philo/supplement2.html)
 * [Abbreviations of the Philonian treatises (*Studia Philonica Annual*)](https://plato.stanford.edu/entries/philo/supplement3.html)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -486,4 +486,4 @@ The author would like to thank Ada Browowski, Pr Phillip Mitsis and Lex Paulson,
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Carlos Lévy <[*carlos.levy49@gmail.com*](mailto:carlos%2elevy49%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

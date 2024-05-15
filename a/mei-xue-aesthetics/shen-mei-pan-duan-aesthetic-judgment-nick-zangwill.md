@@ -218,7 +218,7 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 实质性的审美判断在二十世纪后半受到了广泛关注。如果层次性提议是正确的，那么这些判断不能被孤立地研究，因为这些判断的作用是为审美美丑的裁决性判断服务。美和丑是主要的审美概念，它们赋予了当代美学家所包括的更广泛类别“审美”的意义。审美的广义概念可以通过判断某物是否美或丑，或者具有审美价值或缺陷来确定。通过将美和丑视为卓越的审美概念，我们可以理解审美的统一范畴，其中包括精致和笨重、优雅和崇高，但排除了事物的物理、感官和表象属性，以及它们的宜人性。层次性提议似乎使我们能够以有用的方式进行审美/非审美的区分，并回应比尔兹利和西布利的批评。也许通过这种方式可以捍卫审美的概念。然而，一些人可能认为莱文森在实质性审美概念和判断方面是正确的，这种情况下审美的概念就存在疑问。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References
@@ -450,4 +450,4 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Nick Zangwill <[*zangwillnick@gmail.com*](mailto:zangwillnick%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

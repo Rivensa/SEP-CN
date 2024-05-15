@@ -233,7 +233,7 @@ Routley 和 Val Plumwood（1989）以及 Mares 和 André Fuhrmann（1995）基�
 
 相干逻辑在计算机科学和哲学中都有应用。线性逻辑是由让-伊夫·吉拉尔创立的逻辑学分支，它是一种计算资源的逻辑。线性逻辑学家将蕴含式 A→B 解读为拥有类型 A 的资源使我们能够获得类型 B 的某物。如果我们有 A→(A→B)，那么我们知道我们可以从两个类型为 A 的资源中获得 B。但这并不意味着我们可以从一个类型为 A 的资源中获得 B，也就是说，我们不知道我们是否可以获得 A→B。因此，在线性逻辑中，收缩失败。线性逻辑实际上是缺乏收缩和合取分配律((A&(B∨C))→((A&B)∨(A&C)))的相干逻辑。它们还包括两个被称为“指数”的运算符(!和?)。在公式前面加上一个指数，使得该公式能够经典地行动，可以这么说。例如，就像在标准的相干逻辑中一样，我们通常不能仅仅添加一个额外的前提到一个有效的推理中并使其保持有效。但我们总是可以添加一个形式为!A 的前提到一个有效的推理中并使其保持有效。线性逻辑还对形式为!A 的公式具有收缩性，即这些逻辑的一个定理是(!A→(!A→B))→(!A→B)（参见 Troelstra 1992）。使用!允许处理“可以任意复制或忽略的资源”（Restall 2000，第 56 页）。有关线性逻辑的更多信息，请参阅关于次结构逻辑的条目。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 An extremely good, although slightly out of date, bibliography on relevance logic was put together by Robert Wolff and is in Anderson, Belnap, and Dunn (1992). What follows is a brief list of introductions to and books about relevant logic and works that are referred to above.
@@ -369,4 +369,4 @@ The author would like to thank an anonymous reviewer and Shawn Standefer for sug
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Edwin Mares](http://www.vuw.ac.nz/phil/ed.html) <[*Edwin.Mares@vuw.ac.nz*](mailto:Edwin%2eMares%40vuw%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

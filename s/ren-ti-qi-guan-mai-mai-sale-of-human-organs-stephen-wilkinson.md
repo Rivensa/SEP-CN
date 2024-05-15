@@ -250,7 +250,7 @@ Wackenheim 可以被视为一个人的内在价值，也可以被视为一个物
 
 对于器官买卖，或者（无偿）器官捐献，情况基本相同。当我们考虑使用一个人的器官进行移植时，我们当然至少将器官，甚至可能将整个人，视为手段和有用的对象。但这并不与尊重个人尊严和将其视为自身目标相矛盾，前提是我们认真对待个人的理性行为，要求其有效同意进行器官移除，并确保将任何伤害风险最小化和合理化。器官买卖（而不是自由捐赠）的特殊问题在先前的部分中已经详细讨论过。也许在买卖案例中，同意存在缺陷的风险增加；如果器官移除在没有适当同意的情况下进行，那可能是对个人的不尊重。也许在买卖案例中，伤害发生的风险增加；如果是这样的话（如果风险超过一定水平），那也可能构成对个人的不尊重。因此，尊严、工具化和物化的呼吁似乎只是放大了先前关于同意和伤害的一些关切。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abouna, G., 1991, “The Negative Impact of Paid Organ Donation” in W. Land & J. Dossetor (eds.), *Organ Replacement Therapy: ethics, justice,* *commerce*, Berlin: Springer-Verlag.
@@ -343,4 +343,4 @@ I would like to thank Dr. Nicola Williams for providing research support for the
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Stephen Wilkinson](http://www.lancaster.ac.uk/ppr/about-us/people/stephen-wilkinson) <[*s.wilkinson2@lancaster.ac.uk*](mailto:s%2ewilkinson2%40lancaster%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

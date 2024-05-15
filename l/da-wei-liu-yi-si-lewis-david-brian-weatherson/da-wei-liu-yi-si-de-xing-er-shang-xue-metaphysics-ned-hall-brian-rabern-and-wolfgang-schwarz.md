@@ -228,7 +228,7 @@
 
 大卫·刘易斯本人对保留传统的模态逻辑原则不感兴趣。他始终对用方框和钻石形式化模态话语的前景持怀疑态度（参见例如刘易斯 1983d，45；刘易斯 1986e，12-13）。因此，他拒绝了这些反对意见中的前提，即“方框和钻石的语言提供了对普通模态思维的良好规范化”（刘易斯 1986e，12）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Works by David Lewis
@@ -385,4 +385,4 @@ Many thanks to Phillip Bricker for extraordinarily acute and helpful comments on
 [Ned Hall](http://www.fas.harvard.edu/\~phildept/hall.html) <[*ehall@fas.harvard.edu*](mailto:ehall%40fas%2eharvard%2eedu)>\
 [Brian Rabern](https://www.ed.ac.uk/profile/brian-rabern) <[*brian.rabern@gmail.com*](mailto:brian%2erabern%40gmail%2ecom)>\
 [Wolfgang Schwarz](https://www.wolfgangschwarz.net/) <[*wo@umsu.de*](mailto:wo%40umsu%2ede)>
-<!--md-padding-ignore-end-->
+

@@ -150,7 +150,7 @@ Benatar（2006 年，60-92 页，2017 年，35-63 页）提出了一种额外的
 
 最后，一种可辨别的虚无主义来源涉及到生命中的存在论前提，与价值论前提不同。或许最激进的是那些否认我们拥有自我存在的人。我们确实缺乏自我存在吗？如果是这样，那么对我们来说，有意义的生活是否不可能（参见 Caruso 和 Flanagan 2018 年的论文；Le Bihan 2019 年）？稍微不那么激进的是那些承认我们拥有自我存在，但否认它们以相关方式掌控我们的人。也就是说，有人认为我们缺乏自我管理或自由意志，至少在确定论为真的情况下，这是生命中的意义所必需的（Pisciotta 2013 年；Caruso 和 Flanagan 2018 年的论文）。非量子事件，包括人类的决策，似乎是由世界先前的状态所必然的，以至于它们都无法改变，我们的许多决策是无意识神经机制的产物（而量子事件当然完全超出我们的控制）。如果我们的意识选择都无法避免，并且最终都是由外部因素所必然的，也许它们不足以值得自豪或钦佩，也不足以构成生命的叙事作者。作为回应，一些人认为确定论和道德责任之间的兼容主义同样适用于生命的意义（例如，Arpaly 2006 年；Fischer 2009 年，145-77），而其他人则认为不兼容主义适用于道德责任，但不适用于意义（Pereboom 2014 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -357,4 +357,4 @@ Benatar（2006 年，60-92 页，2017 年，35-63 页）提出了一种额外的
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Thaddeus Metz](https://www.up.ac.za/philosophy/article/2923571/preview?module=cms&slug=content-item&id=2923571) <[*th.metz@up.ac.za*](mailto:th%2emetz%40up%2eac%2eza)>
-<!--md-padding-ignore-end-->
+

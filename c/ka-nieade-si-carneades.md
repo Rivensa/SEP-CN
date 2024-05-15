@@ -102,7 +102,7 @@
 
 鲁道夫·卡尔纳普还参与了西塞罗所描述的逻辑问题的辩论（*学术* 2.91–8；参见巴恩斯，1997），以及他在《论占卜》中提出的反对占卜的案例。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 #### Texts
@@ -190,4 +190,4 @@ Academy, Plato’s | [Arcesilaus](https://plato.stanford.edu/entries/arcesilaus/
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [James Allen](http://www.philosophy.utoronto.ca/directory/4413/) <[*jv.allen@utoronto.ca*](mailto:jv%2eallen%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

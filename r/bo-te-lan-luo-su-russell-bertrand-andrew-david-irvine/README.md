@@ -390,7 +390,7 @@
 
 > 阅读格奥尔格-康托尔的著作，并将其要点抄写在笔记本上。当时，我错误地认为他的所有论点都是谬误，但我还是对它们进行了最细致的研究。当我后来发现所有的谬误都是我的错时，这使我受益匪浅。(1967, 127)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -712,4 +712,4 @@ Thanks are due to Kenneth Blackwell, Francisco Rodríguez-Consuegra, Fred Kroon,
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html) <[*andrew.irvine@ubc.ca*](mailto:andrew%2eirvine%40ubc%2eca)>
-<!--md-padding-ignore-end-->
+

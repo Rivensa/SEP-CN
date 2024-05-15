@@ -250,7 +250,7 @@
 
 卡维尔对完美主义的参与源自对他的同事约翰·罗尔斯的回应，罗尔斯在《正义论》中谴责尼采（以及暗示爱默生）的言论：“人类必须不断努力培养出伟大的个人。”罗尔斯指出，“完美主义被否定为一项政治原则。”卡维尔回应称，爱默生（和尼采）对伟大人物的关注与经济资源或政治权力的转移无关，也与“有一个独立的伟大人物阶层……为了他们的利益，以及对利益的理解，整个社会都要生活”（CHU, 49）的想法无关。卡维尔认为，伟大的男人或女人对民主是必需的，而不是相互对立的：“对民主的批评是从内部进行的”（CHU, 3）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Emerson
@@ -334,4 +334,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Russell Goodman](http://www.unm.edu/~rgoodman/) <[*rgoodman@unm.edu*](mailto:rgoodman%40unm%2eedu)>
-<!--md-padding-ignore-end-->
+

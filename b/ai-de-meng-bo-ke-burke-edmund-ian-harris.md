@@ -164,7 +164,7 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 伯克的思想在至少两个意义上是哲学的。一是它部分构成于以哲学概念思考，尤其是复杂思想，特别是关系思想，以及涉及哲学心理学和语言哲学中的重要立场。另一个意义是，它发展了一个关于美国、英国和欧洲过去的叙述，这是哲学史，正如 18 世纪理解这个术语的方式。这些意义一旦结合起来，就构成了一种关于政治的实践思维风格，强调综合思考和分析思考对实践的重要性，并暗示一个进步的实践不仅需要过去努力的成果，还需要智慧地将思维应用于它们的进一步发展，以便实现进步，而不是倒退。伯克也许是政治经典中研究最少的人之一，但他无疑是少数几位任何渴望获得充分政治教育的人都必须涉足的人物之一。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -245,4 +245,4 @@ For matters discussed here, the reader is referred to:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Ian Harris <[*ich1@leicester.ac.uk*](mailto:ich1%40leicester%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

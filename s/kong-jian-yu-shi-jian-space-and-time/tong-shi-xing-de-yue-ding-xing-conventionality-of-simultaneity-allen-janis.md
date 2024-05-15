@@ -52,7 +52,7 @@ Rynasiewicz（2012）提出了对约定性的有力辩护。他认为他的方�
 
 关于同时性的约定性的辩论似乎还远未解决，尽管一些支持者可能不同意这种说法。希望进一步探讨这个问题的读者应该参考下面列出的来源以及这些来源中引用的其他参考资料。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, R., I. Vetharaniam, and G. Stedman, 1998. “Conventionality of Synchronisation, Gauge Dependence and Test Theories of Relativity,” *Physics Reports*, 295: 93–180.
@@ -118,4 +118,4 @@ Rynasiewicz（2012）提出了对约定性的有力辩护。他认为他的方�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Allen Janis](https://www.physicsandastronomy.pitt.edu/people/allen-i-janis)
-<!--md-padding-ignore-end-->
+

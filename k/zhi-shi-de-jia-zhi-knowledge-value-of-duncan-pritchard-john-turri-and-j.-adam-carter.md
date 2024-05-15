@@ -218,7 +218,7 @@ EMT 当然是非常有争议的（例如，见 Adams＆Aizawa 2008），因此�
 
 林奇从这样的思想实验中得出的一个结论是，理解具有纯粹知识所缺乏的价值，这一立场在第 4 节中已经被克万维格和其他人以不同的原因所接受。普里查德（2013 年）和卡特（2017 年）提出的另一个结论涉及知识获取涉及的“认识依赖”的程度，即依赖于认知机构之外的因素。他们认为，认识依赖的范围越大，培养像智力自主这样调节适当依赖和外包（例如，依赖其他个体、技术、医学等）的美德就越有价值，同时保持自己的智力自主。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -437,4 +437,4 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 [Duncan Pritchard](https://www.duncanpritchard.org/) <[*dhpritch@uci.edu*](mailto:dhpritch%40uci%2eedu)>\
 [John Turri](http://john.turri.org/) <[*john.turri@gmail.com*](mailto:john%2eturri%40gmail%2ecom)>\
 [J. Adam Carter](https://www.gla.ac.uk/schools/humanities/staff/jadamcarter/) <[*jadamcarter@gmail.com*](mailto:jadamcarter%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

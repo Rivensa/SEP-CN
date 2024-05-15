@@ -441,7 +441,7 @@ Gaptooth 对知道的不同概念的关注是庄子与惠施之间关于鱼乐�
 
 > 我的生命是有限的，而知识是无限的。用有限的追求无限是危险的。（庄子 3:1）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -585,4 +585,4 @@ The number of philosophical articles published on Zhuangzi’s philosophy has gr
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Chad Hansen](http://philosophy.hku.hk/ch/) <[*chadzi@gmail.com*](mailto:chadzi%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

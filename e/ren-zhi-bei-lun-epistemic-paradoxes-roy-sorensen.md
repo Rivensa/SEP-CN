@@ -436,7 +436,7 @@ I. J. Good (1967)证明，收集证据最大化了期望值，鉴于证据的成
 
 我无法明确预测首次获得关于真实信念 p 的情况。因为这样的预测将表明我已经拥有关于真实信念 p 的信念。真理不能等待。真理的急切性对发现的预测施加了限制。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aikin, K. Scott, 2011, *Epistemology and the Regress Problem*, London: Routledge.
@@ -532,4 +532,4 @@ I. J. Good (1967)证明，收集证据最大化了期望值，鉴于证据的成
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Roy Sorensen <[*roy.sorensen@austin.utexas.edu*](mailto:roy%2esorensen%40austin%2eutexas%2eedu)>
-<!--md-padding-ignore-end-->
+

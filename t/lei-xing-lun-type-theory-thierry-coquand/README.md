@@ -402,7 +402,7 @@ IdU(A,B)→MA→MB
 
 罗素在 1919 年和 1959 年都强调了结构的重要性。例如，在罗素 1919 年的第六章中，注意到两个相似的关系本质上具有相同的属性，因此具有相同的“结构”。（关系的“相似性”概念是在罗素 1901 年引入的。）我们还可以使用这个框架来完善罗素对结构概念的讨论。例如，让 Monoid 成为一对 A，p 的类型，其中 p 是 MA 的元素。如果存在一个双射 f 从 A 到 B，使得 q 等于 p 沿着 f 的结构传递，则这样的一对 A，p 和 B，q 是同构的。Univalence 公理的一个结果是，Monoid 类型的两个同构元素是相等的，因此具有相同的属性。注意，在集合论框架中，这样一种一般性的属性传递是不可能的。实际上，在集合论框架中，可以使用成员关系来表达属性，例如结构的载体集合包含自然数 0 的属性，但这种属性通常不会被同构保持。直观地说，结构的集合论描述不够抽象，因为我们可以谈论这个结构是如何构建的。集合论和类型论之间的这种差异是 J.Reynolds 在 1983 年对类型结构的“语法纪律以强制抽象级别”的表征的又一个例证。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aczel, P., 1978, “The type theoretic interpretation of constructive set theory”, *Logic Colloquium ’77*, Amsterdam: North-Holland, 55–66.
@@ -500,4 +500,4 @@ IdU(A,B)→MA→MB
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Thierry Coquand](http://www.cs.chalmers.se/~coquand) <[*coquand@chalmers.se*](mailto:coquand%40chalmers%2ese)>
-<!--md-padding-ignore-end-->
+

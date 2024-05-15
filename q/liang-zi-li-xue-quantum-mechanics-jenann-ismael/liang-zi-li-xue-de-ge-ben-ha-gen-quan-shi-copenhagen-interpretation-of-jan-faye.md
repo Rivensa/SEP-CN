@@ -228,7 +228,7 @@ Rob Clifton 和 Hans Halvorson（1999 年，2002 年）认为，如果假设所�
 
 基于克利夫顿和哈尔沃森以及迪克森的研究成果，并结合量子信息理论，Whitaker（2004）对玻尔的量子力学哲学进行了重新评估。除了这些试图将玻尔的互补性概念应用于当代量子力学和量子场论解释的讨论之外，还有一种持续进行的尝试，即理解玻尔关于符号表征的观念（Tanona，2004a，2004b）以及他关于后现代哲学和一般认识论趋势（如后结构主义、解构主义、女性主义和文化研究）的互补性观念（Honner 1994; Plotnitsky 1994; Barad 2007; and Katsumori 2011）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References to Work by Bohr
@@ -346,4 +346,4 @@ Rob Clifton 和 Hans Halvorson（1999 年，2002 年）认为，如果假设所�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Jan Faye <[*faye@hum.ku.dk*](mailto:faye%40hum%2eku%2edk)>
-<!--md-padding-ignore-end-->
+

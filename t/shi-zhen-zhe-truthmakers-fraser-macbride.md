@@ -505,7 +505,7 @@ Bigelow 要求我们比较两个世界，一个世界中 A 是真的，另一个
 
 但是假设阿姆斯特朗和比格洛所使用的“一些”并不是一个带有范围的物体量词，而是以其他方式理解的。那么，我们可以承认阿姆斯特朗和比格洛的直觉，即 A 为真的情况与 A 不为真的情况有所不同，但我们不必认为存在某种我们已经量化的东西使其成为真实。显然，只有当我们对量词可能承载的可接受解释达成一致意见时，这个问题才能以一种原则性而非教条主义的方式解决。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, A. R. and N. D. Belnap, 1975, *Entailment: The Logic of Relevance and Necessity* (Volume I), Princeton: Princeton University Press.
@@ -689,4 +689,4 @@ This material provided the basis of a course on truth makers I gave in Cambridge
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Fraser MacBride](https://www.research.manchester.ac.uk/portal/fraser.macbride.html) <[*fraser.macbride@manchester.ac.uk*](mailto:fraser%2emacbride%40manchester%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

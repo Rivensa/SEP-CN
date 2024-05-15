@@ -294,7 +294,7 @@
 
 想要通过诉诸某种可接受性概念来缓和或补充自己的信念伦理观的伦理学家需要说明接受是什么，这两种态度的区别是什么，每种态度受到什么样的规范约束，以及它们如何在一个主体中相互作用。这种混合观点的主要优势之一是，接受通常被认为是自愿的，因此更容易看出如何围绕它建立一个真正的“伦理学”（包括赞扬和责备的归因）。正如我们之前所看到的，接受的概念（作为“信仰”）是一个信仰主义者可能希望诉诸的东西，以对抗那些说在面对强烈相反证据时不能仅仅决定相信 p 的人。相比之下，一个温和的信仰主义者可能会主张，只有在我们对 p 的证据无法明确的情况下，我们才被允许接受 p。这仍然与我们对 not-p 有弱证据，甚至是（弱持有的）相信 not-p 的情况一致。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adam, C. and P. Tannery (eds.), 1996, *Oeuvres de Descartes*, 12 vols., Paris: Vrin.
@@ -506,4 +506,4 @@ He also thanks Cambridge University Press for permission to re-use a few paragra
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Andrew Chignell](https://chignell.net/) <[*chignell@princeton.edu*](mailto:chignell%40princeton%2eedu)>
-<!--md-padding-ignore-end-->
+

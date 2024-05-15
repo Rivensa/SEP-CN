@@ -242,7 +242,7 @@ Kohák 在暗示，我认为，我们对于神性存在的理解，或者同样�
 
 总之，与其优先考虑基于教义或实践的宗教解释或原理，我们可以假设只有当这些解释或原理与对宗教现象学的认识相结合时，它们才能完全清晰地呈现出来。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, William P., 1991, *Perceiving God: The Epistemology of Religious Experience*, Ithaca, NY: Cornell University Press.
@@ -344,4 +344,4 @@ My thanks to Paul Draper for very helpful comments on an earlier draft of this t
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Mark Wynn](http://www.leeds.ac.uk/arts/profile/20046/976/mark_wynn) <[*mark.wynn@oriel.ox.ac.uk*](mailto:mark%2ewynn%40oriel%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

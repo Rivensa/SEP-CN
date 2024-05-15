@@ -236,7 +236,7 @@
 
 在结束这篇文章时，然而需要注意的是，前面的所有描述只是一种启发性的方式来概念化禅宗哲学。或者用禅宗的话来说，这种概念化只是“指月的手指”，禅宗坚持认为月亮和手指不应混淆。在禅宗的语言中，月亮在隐喻上代表了觉悟的体验，而手指则代表了语言或反思的努力。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### English Translations of Works by Zen Masters
@@ -320,4 +320,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Shigenori Nagatomo <[*snagatom@temple.edu*](mailto:snagatom%40temple%2eedu)>
-<!--md-padding-ignore-end-->
+

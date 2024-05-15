@@ -222,7 +222,7 @@ Mersenne, a rather orthodox scholastic on this point, never recognized an altern
 
 特别是音乐可以教导人们如何通过运动，将物体的属性传达给感官，而感官本身就像是仪器，或多或少地与感知的外部运动相协调。音乐将成为感知属性的普遍科学，一种将混合数学统一于一种普遍科学的美学，通过获得这种科学，我们更容易考虑第一原因（QT: 161）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Mersenne’s works and abbreviations
@@ -359,4 +359,4 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Philippe Hamou <[*philippe.hamou@hotmail.fr*](mailto:philippe%2ehamou%40hotmail%2efr)>
-<!--md-padding-ignore-end-->
+

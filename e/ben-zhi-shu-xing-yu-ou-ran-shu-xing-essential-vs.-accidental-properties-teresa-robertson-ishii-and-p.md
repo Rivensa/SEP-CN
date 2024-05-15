@@ -174,7 +174,7 @@ Kripke (1972/1980) 暗示我们对一些其他本质主义主张的认识部分�
 
 两个前提的合理性似乎是不可否认的，例如，我们认为，如果包含歌利亚/块 1 的房间变得非常炎热（足以使蜡融化），然后再次冷却（以至于剩下的是一个形状类似山的蜡块），那么歌利亚将被摧毁，而块 1 仍将存在。 推理看起来无懈可击：如果歌利亚是块 1，那么每个都必须具有与“另一个”相同的所有属性；由于它们具有不同的属性，它们必定不是相同的。（在哲学中很少有什么比莱布尼茨的“不可辨认相同物的法则”更无争议的，尽管对于如何正确表述它存在一些争议。）弄清楚如何调和我们的直觉，即（1）和（2）是真实的，与我们倾向于认为歌利亚和块 1 实际上不是两个东西而只是一个东西的问题版本是物质构成问题的一个版本。有许多种方法来解决这个问题。一个“认为有两个东西”的人——认为实际上在一个地点有两个东西，一个雕像和一块蜡——可能只是避免将歌利亚和块 1 等同起来。其他回应表明，在这种对本质属性的争辩中，莱布尼茨法则对于非同一性的论证存在问题：德拉·罗卡（1996c）认为这样的论证是自圆其说的；刘易斯（1971）和努南（1991）认为它们是无效的；伯克（1994）和里亚（2000）认为在任何这样的论证中，至少有一个前提是错误的。对于那些感兴趣的人，里亚（1997）是深入研究这个问题的好起点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R., 1979, “Primitive Thisness and Primitive Identity”, *Journal of Philosophy*, 76: 5–26.
@@ -307,4 +307,4 @@ The authors would like to thank to Nathan Wildman, Peter Montecuollo, Clark Sext
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Teresa Robertson Ishii <[*trobertson@philosophy.ucsb.edu*](mailto:trobertson%40philosophy%2eucsb%2eedu)>  
 Philip Atkins <[*philip.atkins@temple.edu*](mailto:philip%2eatkins%40temple%2eedu)>
-<!--md-padding-ignore-end-->
+

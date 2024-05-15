@@ -368,7 +368,7 @@ Gustafson（2006 年）以扩展和多阶段的论证反对将疼痛理解为感
 
 关于疼痛还有其他哲学和科学问题。动物能感受到疼痛吗？如果能，它们的疼痛是否与我们感受到的疼痛相似？对这些问题给出肯定回答的社会、经济、伦理和宗教意义是什么？如何科学研究动物的疼痛？对于一般动物研究和动物疼痛研究，应该采用什么方法论？如何将动物疼痛研究的结果应用到人类身上（或反之亦然）？对于胎儿和幼婴的情况，由于明显的原因，这些问题更加紧迫和迫切。疼痛与快乐、或者疼痛与情绪之间的关系是什么？疼痛的伦理和宗教意义和影响是什么？这些以及许多其他问题仍然是该领域许多研究者关注的焦点。（涉及这些问题的文献非常丰富且不断增长；请参阅下面的其他互联网资源部分中关于疼痛的出版物的参考文献。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Addis, L., 1986. “Pains and Other Secondary Mental Entities,” *Philosophy and Phenomenological Research*, 47(1): 59–74.
@@ -593,4 +593,4 @@ Some material in this entry appeared in Aydede (2006). I would like to thank Dav
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Murat Aydede <[*maydede@mail.ubc.ca*](mailto:maydede%40mail%2eubc%2eca)>
-<!--md-padding-ignore-end-->
+

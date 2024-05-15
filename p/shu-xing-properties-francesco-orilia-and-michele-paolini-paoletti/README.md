@@ -332,7 +332,7 @@ A(x1/t1,…,xn/tn) 是通过同时将 A 中的每个 xi 替换为 ti（对于 1�
 
 从本体论的角度来看，罗素的方法在数学家中并没有像集合论那样取得成功。然而，从经济性的角度来看，它在依赖属性方面更为经济，因为后者在各种解释性工作中都是必需的，而集合作为外延实体几乎无法完成这些工作。正如我们所见，类型理论存在问题。然而，无类型属性理论可以通过在数学基础中用无类型属性替换有类型属性来解决这个问题。事实上，这些理论的支持者经常提议恢复逻辑主义计划，特别是通过将自然数与无类型属性的属性等同起来（Bealer 1982；Cocchiarella 1986b；Orilia 2000b）。（另请参见逻辑主义和新逻辑主义条目）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Achinstein, Peter, 1974, “The Identity of Properties”, *American Philosophical Quarterly*, 11(4): 257–275.
@@ -656,4 +656,4 @@ This work was supported by the Italian Ministry of Education, University and Res
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Francesco Orilia <[*orilia@unimc.it*](mailto:orilia%40unimc%2eit)>  
 [Michele Paolini Paoletti](http://michelepaolinipaoletti.academia.edu/) <[*michele.paolinip@gmail.com*](mailto:michele%2epaolinip%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

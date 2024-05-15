@@ -452,7 +452,7 @@ Michael Gelfond 和 Yulia Kahl（Gelfond and Kahl 2014, 131–151）讨论了如
 
 廖北水及其合作者（Liao et al. 2011）通过研究论证系统的计算动态性来解决这个问题，他们调查了在哪些条件下论证系统可以被划分为模块，以便通过仅更新受影响的模块来高效地计算新信息的含义。他们发现，对于具有方向性属性的任何语义，这种模块化是可能的。如果对于每个论证结构 AS，为 AS 指定的任何扩展与未受攻击集合 U 的 AS 限制的扩展之一完全相同，反之亦然，则该语义是具有方向性的。另请参阅 Baroni et al. 2018。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Ernest W., 1975, *The Logic of Conditionals*, Dordrecht: Reidel.
@@ -624,4 +624,4 @@ Michael Gelfond 和 Yulia Kahl（Gelfond and Kahl 2014, 131–151）讨论了如
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Robert Koons](https://liberalarts.utexas.edu/philosophy/faculty/koons) <[*koons@mail.utexas.edu*](mailto:koons%40mail%2eutexas%2eedu)>
-<!--md-padding-ignore-end-->
+

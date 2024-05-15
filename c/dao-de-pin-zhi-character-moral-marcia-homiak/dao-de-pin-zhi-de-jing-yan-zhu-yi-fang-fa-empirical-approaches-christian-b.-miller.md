@@ -467,7 +467,7 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 这篇文章简要回顾并批判性地评估了借鉴实证心理学的四种不同方法，以帮助我们思考品质问题。这里对它们的关注程度与哲学文献中的讨论一致。哲学家在他们的著作中对情境主义给予了最多的关注，其次是 CAPS 模型，而大五人格和 VIA 分类几乎没有被提及。这与当前心理学界的情况形成了鲜明对比，特别是人格心理学。也许是时候让哲学家相应地转移他们的注意力了。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert, 2006, *A Theory of Virtue: Excellence in Being for the Good*, Oxford: Clarendon Press.
@@ -627,4 +627,4 @@ Work on this entry was supported by a grant from the Templeton Religion Trust. T
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Christian B. Miller](http://www.wfu.edu/\~millerc) <[*millerc@wfu.edu*](mailto:millerc%40wfu%2eedu)>
-<!--md-padding-ignore-end-->
+

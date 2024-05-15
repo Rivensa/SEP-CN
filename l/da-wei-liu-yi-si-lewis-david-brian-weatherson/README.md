@@ -493,7 +493,7 @@
 
 每篇论文都可以，并且通常被用来向学生介绍复杂的形而上学问题。这些论文，像刘易斯的许多论文一样，被广泛选入文集。它们都是优秀的例证，证明刘易斯不仅是一位出色的哲学家，也是他那个时代最好的哲学作家之一。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -714,4 +714,4 @@ I’ve learned a lot over the years from talking about Lewis’s philosophy with
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Brian Weatherson](http://brian.weatherson.org/) <[*brian@weatherson.org*](mailto:brian%40weatherson%2eorg)>
-<!--md-padding-ignore-end-->
+

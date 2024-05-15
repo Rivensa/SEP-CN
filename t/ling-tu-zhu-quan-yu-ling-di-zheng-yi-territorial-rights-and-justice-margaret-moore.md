@@ -160,7 +160,7 @@ Kolers 的理论借助“丰富性”的概念来解释一个群体如何与一�
 
 还有一大批关于领土主权的文献正在兴起，质疑当前理论的固定性，并更加关注人类与自然世界的关系的重叠和流动性，以及其对治理、资源和各种主张的影响（参见 Mancilla 即将发表；Nine 即将发表）。这是另一个例子，表明对领土和领土正义的关注对于一系列完全不同领域的文献都有影响，并可能引发一系列与各种主题相关的论点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Historical political theorists are cited in a way that is accessible regardless of which edition one uses. The acronyms refer to the essay cited:
@@ -269,4 +269,4 @@ Historical political theorists are cited in a way that is accessible regardless 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Margaret Moore <[*margaret.moore@queensu.ca*](mailto:margaret%2emoore%40queensu%2eca)>
-<!--md-padding-ignore-end-->
+

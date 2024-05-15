@@ -156,7 +156,7 @@ Kuhn 所关联的范式变革中的感知、概念化和语言变化，也加强
 
 不同的假设从一开始就涉及到哪些推理是合法的，哪些证据可以合理地支持信念，是否真的需要根据潜在的现实来解释可观察现象等等，可能使得现实主义者和反现实主义者之间的一些争论成为循环论证。范弗拉森（1989: 170–176, 1994: 182）暗示，无论是现实主义还是反现实主义（在他的情况下是经验主义），都不会被合理的理性准则排除；每种观念都以不同的认识论风险程度来支持基于证据形成信念。因此，一个有趣的问题出现了，即关于现实主义和反现实主义争议是否原则上是可以解决的，或者最终，这些立场的内部一致和连贯的表述是否应被视为不可调和但仍然可以接受的科学知识解释（查克拉瓦蒂 2017 年；福布斯即将出版）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Achinstein, Peter, 2002, “Is There a Valid Experimental Argument for Scientific Realism?”, *Journal of Philosophy*, 99(9): 470–495. doi:10.2307/3655684
@@ -417,4 +417,4 @@ For helpful comments on the whole or parts of this article, I am grateful to Mat
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Anjan Chakravartty](https://anjanchakravartty.com/) <[*chakravartty@miami.edu*](mailto:chakravartty%40miami%2eedu)>
-<!--md-padding-ignore-end-->
+

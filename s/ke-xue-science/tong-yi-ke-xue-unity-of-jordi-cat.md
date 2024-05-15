@@ -322,7 +322,7 @@ P(h∣d)=P(d∣h)⋅P(h)P(d)
 
 最终，我们不应忽视维系大多数学科和实践中的问题和项目的更大背景。我们像康德的鸽子一样自由地追求它们，也就是说，不会没有周围空气的阻力来扇动它的翅膀。哲学曾被认为代表着科学的系统统一性。统一的基础性特征成为哲学的独特项目，其中概念统一起到了可理解性的标准的作用。此外，统一的理想经常以和谐的伪装出现，长期以来一直是审美美德的标准，尽管这个形象已经被约翰·贝利和艾丽丝·默多克（Bailey 1976; Murdoch 1992）等人有力地质疑过。统一和统一化有助于满足我们对生活的认知和实践需求，以及对我们的自我形象的文化需求，这些需求既包括宇宙的又包括尘世的。毫不奇怪，对统一的许多意义和层次的讨论——基础层次、统一、系统、组织、普遍性、简单性、原子论、还原论、和谐、复杂性或整体性——会紧紧抓住我们的智力想象力。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Auyang, S., 1995, *How is Quantum Field Theory Possible?* New York: Oxford University Press.
@@ -592,4 +592,4 @@ P(h∣d)=P(d∣h)⋅P(h)P(d)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Jordi Cat <[*jcat@indiana.edu*](mailto:jcat%40indiana%2eedu)>
-<!--md-padding-ignore-end-->
+

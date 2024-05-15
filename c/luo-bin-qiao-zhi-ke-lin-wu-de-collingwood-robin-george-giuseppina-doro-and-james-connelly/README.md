@@ -214,7 +214,7 @@ Mill 所理解的心理学，在《形而上学论文》中所称的“思维伪
 
 如果柯林武德的历史哲学是一种试图确定历史的独特主题和历史判断的逻辑形式的尝试，那么他的元哲学应该被理解为捍卫一种解释多元主义，而不是一种历史相对主义（D’Oro 2018b）。后者声称信仰体系不受批评，因为真理和虚假是相对于某些人在某些时候相信为真的内容。相比之下，前者声称不同类型的解释是对不同类型问题的回答，哲学分析的任务是解开我们在未能谨慎地整理思想时纠缠其中的概念节点。当然，这是一种解释性主张，激进转变假说的拥护者很可能会否认，因为他们倾向于将柯林武德的元哲学解读为不是捍卫哲学的自主性，而是将哲学溶解为对不同人在不同时期拥有的信仰体系的描述性研究。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary literature
@@ -407,4 +407,4 @@ In this coauthored entry, Section 1 (Biographical Sketch) was contributed by Jam
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Giuseppina D’Oro](http://www.keele.ac.uk/depts/spire/staff/d%27oro/index.htm) <[*g.d'oro@keele.ac.uk*](mailto:g%2ed'oro%40keele%2eac%2euk)>  
 James Connelly <[*J.M.Connelly@associate.hull.ac.uk*](mailto:J%2eM%2eConnelly%40associate%2ehull%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

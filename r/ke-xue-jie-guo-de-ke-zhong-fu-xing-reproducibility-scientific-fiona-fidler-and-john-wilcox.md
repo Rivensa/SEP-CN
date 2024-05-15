@@ -304,7 +304,7 @@ Anderson 等人（2010）的焦点小组和科学家的调查表明，科学家�
 
 可重复性的主题与当代科学中的动荡时期有关。这一时期要求重新评估支撑科学探究的价值观、激励措施、实践和结构。虽然元科学在某些领域描绘了可重复性的黯淡图景，但也激发了一个平行运动，以加强科学的基础。然而，还有更多的进展需要取得，特别是在理解解决可重复性危机的方法方面。在这方面，未来研究有着富有成果的途径，包括更深入地探索认识论和非认识论价值在科学探究中可以或应该发挥的作用。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agnoli, Franca, Jelte M. Wicherts, Coosje L. S. Veldkamp, Paolo Albiero, and Roberto Cubelli, 2017, “Questionable Research Practices among Italian Research Psychologists”, Jakob Pietschnig (ed.), *PLoS ONE*, 12(3): e0172792. doi:10.1371/journal.pone.0172792
@@ -466,4 +466,4 @@ Anderson 等人（2010）的焦点小组和科学家的调查表明，科学家�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Fiona Fidler <[*fidlerfm@unimelb.edu.au*](mailto:fidlerfm%40unimelb%2eedu%2eau)>  
 [John Wilcox](https://johnericwilcox.weebly.com/) <[*wilcoxje@stanford.edu*](mailto:wilcoxje%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

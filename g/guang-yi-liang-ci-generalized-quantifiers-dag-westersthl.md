@@ -542,7 +542,7 @@ where ⋅ marks that the position is neither decreasing nor increasing. A nice e
 
 这些只是正在进行的研究的部分。研究人员正在调查说话者如何处理量化表达式，将基本的模型理论分析与心理学、神经科学和计算机科学方法结合起来，这在研究广义量词的领域已经成为一个丰富的领域。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bach, Emmon, Eloise Jelinek, Angelika Kratzer, and Barbara H. Partee (eds.), 1995, *Quantification in Natural Languages*, (Studies in Linguistics and Philosophy 54), Dordrecht: Springer Netherlands. doi:10.1007/978-94-017-2817-1
@@ -627,4 +627,4 @@ where ⋅ marks that the position is neither decreasing nor increasing. A nice e
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Dag Westerståhl](http://www.philosophy.su.se/english/research/our-researchers/faculty/dag-westerst%C3%A5hl-1.165620) <[*dag.westerstahl@philosophy.su.se*](mailto:dag%2ewesterstahl%40philosophy%2esu%2ese)>
-<!--md-padding-ignore-end-->
+

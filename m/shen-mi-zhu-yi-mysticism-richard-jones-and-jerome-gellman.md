@@ -354,7 +354,7 @@ Kwan 的论点避免了基于神秘体验与感官体验之间不同之处的反
 
 世俗神秘主义提出了三个核心哲学问题。首先，它涉及到认识论问题，即神秘经验是否能够对现实或其他知识提供任何洞见。如果这些经验并不一定导致认知主张，我们就必须问神秘主义者的知识主张是否仅来自于他们的传统，并询问神秘经验实际上扮演了什么角色。神秘经验是否具有认识论或本体论的意义也变得更加清晰。其次，它强调了文化解释在理解神秘经验中的作用，以及建构主义主张文化影响渗透到某些或所有神秘经验中的观点。第三，神秘经验的影响是否能够在没有超越现实的参照下导致有意义或有目的的生活？
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Almond, Philip C. 1982. *Mystical Experience and Religious Doctrine*, Berlin: Mouton Press.
@@ -537,4 +537,4 @@ Kwan 的论点避免了基于神秘体验与感官体验之间不同之处的反
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Richard Jones <[*rhjones2488@gmail.com*](mailto:rhjones2488%40gmail%2ecom)>  
 [Jerome Gellman](http://in.bgu.ac.il/humsos/philo/StaffCV/CV%20GELLMAN.pdf)
-<!--md-padding-ignore-end-->
+

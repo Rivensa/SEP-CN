@@ -257,7 +257,7 @@ Morgan 及其团队坚称，性连锁遗传现象以及非分离现象能够解�
 
 以类似的方式，可以认为梅塞尔森和斯塔尔对半保守复制的证据是不完整的。密度梯度中 DNA 的分布支持 IBE 的半保守复制，但在 DNA 分子的身份得到确认之前，这个案例是没有定论的，这也是梅塞尔森和斯塔尔如此谨慎的原因。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allchin, D., 1992, “How Do You Falsify a Question?: Crucial Tests v. Crucial Demonstrations”, in D. Hull, M. Forbes and K. Okruhlik (eds.), *PSA 1992, Vol. 1*, East Lansing: Philosophy of Science Association, 74–88.
@@ -396,4 +396,4 @@ The author wishes to thank Michael Baumgartner, Samuel Schindler and an anonymou
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Marcel Weber](https://www.unige.ch/lettres/philo/collaborateurs/professeurs/marcel-weber) <[*marcel.weber@unige.ch*](mailto:marcel%2eweber%40unige%2ech)>
-<!--md-padding-ignore-end-->
+

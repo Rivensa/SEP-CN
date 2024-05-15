@@ -128,7 +128,7 @@
 
 弗里德里希·尼采能够在多年间在身体不佳和经常剧烈疼痛的情况下如此丰富而深刻地写作，这证明了他惊人的智力能力和意志力。在相同的身体压力下，较弱的人可能没有兴趣拿起笔，更不用说思考和记录那些在追求健康的自我超越中创造出来的思想，这些思想将有能力影响整个世纪。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Nietzsche’s Writings
@@ -345,4 +345,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Robert Wicks](http://artsfaculty.auckland.ac.nz/staff/?UPI=rwic005) <[*r.wicks@auckland.ac.nz*](mailto:r%2ewicks%40auckland%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

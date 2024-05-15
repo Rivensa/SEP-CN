@@ -168,7 +168,7 @@ Kimura 预测，在有序数据可用来测试他的分子进化中性理论之�
 
 > 生物多样性进化，即使在小的孤立种群中，主要受自然选择驱动，包括多样化、平衡、循环和纯化选择制度，与突变、迁移和随机性【随机遗传漂移】的影响相互作用，但最终是自然选择占主导地位。（Nevo 2001：6223）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Behura, Susanta K. and David W. Severson, 2013, “Codon Usage Bias: Causative Factors, Quantification Methods and Genome-Wide Patterns: With Emphasis on Insect Genomes”, *Biological Reviews*, 88(1): 49–61. doi:10.1111/j.1469-185X.2012.00242.x
@@ -228,4 +228,4 @@ This entry replaces and is based on the former entry titled [Evolutionary Genet
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Michael Wade <[*mjwade@indiana.edu*](mailto:mjwade%40indiana%2eedu)>
-<!--md-padding-ignore-end-->
+

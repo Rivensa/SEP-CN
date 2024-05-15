@@ -246,7 +246,7 @@ The objections discussed above challenge the sufficiency of the externalist’s 
 
 经典基础主义者可能会回应，问题不在于允许某个来源证明关于自身或其认识证明的命题。问题在于某些所谓的来源使证明变得难以置信地容易。经典基础主义并不会；在刚刚提出的论证形式中，获得的知识或证明的直觉是缺失的或至少要弱得多（参见 Fumerton 2006）。经典基础主义面临的问题是它使证明变得过于困难，而不是过于容易。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aikin, Scott F., 2011, *Epistemology and the Regress Problem*, New York: Routledge.
@@ -365,4 +365,4 @@ The objections discussed above challenge the sufficiency of the externalist’s 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Ali Hasan <[*ali-hasan@uiowa.edu*](mailto:ali-hasan%40uiowa%2eedu)>\
 [Richard Fumerton](http://clas.uiowa.edu/philosophy/people/richard-fumerton)
-<!--md-padding-ignore-end-->
+

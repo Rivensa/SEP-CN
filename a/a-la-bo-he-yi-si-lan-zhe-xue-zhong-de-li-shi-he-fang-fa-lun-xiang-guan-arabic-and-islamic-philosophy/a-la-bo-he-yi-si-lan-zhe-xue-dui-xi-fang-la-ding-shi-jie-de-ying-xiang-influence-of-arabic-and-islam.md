@@ -184,7 +184,7 @@ Siger of Brabant（公元 1284 年去世）和 John of Jandun（公元 1328 年�
 
 在 1277 年，有关人类幸福和美好生活的几个哲学论题受到谴责：幸福只能在此生而非来世获得（第 176 条），没有比研究哲学更好的生活状态（第 40 条）。这些条款显然是针对巴黎大学的文科硕士，其中包括布拉班特的西格尔和达齐亚的博伊修斯。根据西格尔的《论幸福》（De felicitate）的片段，我们知道他接受了阿威罗伊的观点，即通过与活动智慧相结合，所有智慧都能得到祝福。在西格尔的解释中，处于这种状态的人通过一种神自身的理解力来思考上帝。有很多迹象表明，西格尔相信在此生中可以获得对分离物质的认识，从而实现人类幸福（Steel 2001，227-231）。达齐亚的博伊修斯也相信人类幸福可以在此生中实现，这是与人类能力相称的幸福，而最高形式的幸福则保留给来世（在他的著作《至善》中）。博伊修斯似乎受到阿拉伯智慧提升理论的启发，但并不像西格尔那样支持结合理论。他坚信哲学家的生活是唯一真实的生活，这与主要的阿拉伯哲学家们非常自信和精英主义的立场相呼应。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aertsen, J. A., 1996, *Medieval Philosophy and the Transcendentals: the Case of Thomas Aquinas*, Leiden: Brill.
@@ -331,4 +331,4 @@ Siger of Brabant（公元 1284 年去世）和 John of Jandun（公元 1328 年�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Dag Nikolaus Hasse <[*dag-nikolaus.hasse@mail.uni-wuerzburg.de*](mailto:dag-nikolaus%2ehasse%40mail%2euni-wuerzburg%2ede)>
-<!--md-padding-ignore-end-->
+

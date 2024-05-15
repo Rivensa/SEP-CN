@@ -654,7 +654,7 @@ Kreisel（1967）指出，二阶集合论在某种意义上决定了连续统假
 
 这个高度非平凡的定理是对有限结构上二阶逻辑研究的基石之一。我们不知道在有限结构上 Δ11 是否与 Σ11 不同，但上述定理给出了一个基于元数的 Δ11 内部的层次结果。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ajtai, M., 1979, “Isomorphism and Higher Order Equivalence”, *Annals of Mathematical Logic*, 16(3): 181–203. doi:10.1016/0003-4843(79)90001-9
@@ -758,4 +758,4 @@ Kreisel（1967）指出，二阶集合论在某种意义上决定了连续统假
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Jouko Väänänen <[*jouko.vaananen@helsinki.fi*](mailto:jouko%2evaananen%40helsinki%2efi)>
-<!--md-padding-ignore-end-->
+

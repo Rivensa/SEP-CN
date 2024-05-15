@@ -213,7 +213,7 @@ Constructs are denoted by variables in a model that predicts which correlations 
 
 Paul Teller（2018）对基于错误的测量准确性概念提出了不同的反对意见。他反对了他所称之为“测量准确性现实主义”的假设，即可测量的量在现实中具有确定的值。Teller 认为，就物理学中习惯测量的量而言，这种假设是错误的，因为对这些量的确定值（或值范围）的任何规定都涉及到理想化，因此不能指称现实中的任何事物。例如，通常理解为“空气中声速”的概念涉及到许多隐含的理想化，包括空气化学组成的均匀性、温度和压力的稳定性以及测量单位的稳定性。完全去除这些理想化将需要对每个规定添加无限的细节。正如 Teller 所主张的，测量准确性本身应被理解为一种有用的理想化，即作为一个概念，使科学家能够评估测量结果之间的一致性和连贯性，就好像这些结果的语言表达与世界上的任何事物相连。精确度同样是一个理想化的概念，它基于对“相同”情况下的测量重复的开放和不确定的规定（Teller 2013: 194）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alder, K., 2002, *The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World*, New York: The Free Press.
@@ -446,4 +446,4 @@ The author would like to thank Stephan Hartmann, Wendy Parker, Paul Teller, Ales
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Eran Tal](http://sites.google.com/site/erantalphilosophy/) <[*eran.tal@mcgill.ca*](mailto:eran%2etal%40mcgill%2eca)>
-<!--md-padding-ignore-end-->
+

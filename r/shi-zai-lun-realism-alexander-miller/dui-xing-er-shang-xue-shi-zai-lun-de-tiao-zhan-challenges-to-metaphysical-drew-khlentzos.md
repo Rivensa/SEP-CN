@@ -371,7 +371,7 @@ Hirsch 的小说和有趣的想法是，使持久论者/持续论者的时间部
 
 实在论者和反实在论者之间的历史辩论以及元本体论辩论仍然非常激烈。如果实在论者能够提供一个合理的理论，解释心理符号与它们所指的世界中的事物之间的对应关系如何建立，许多这些挑战就可以得到应对。或者，如果他们能够解释如何在我们对独立于心灵的世界的认识中，根本不需要这样的对应关系，许多反实在论的异议将变得无关紧要。在缺乏这样的解释的情况下，实在论者仍然完全有理由相信这些对应关系已经存在，并且确实有很好的证据支持这一点。对自然界的指称确定机制的无知并不是否认其存在的理由。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armstrong, David, 1983, *What is a Law of Nature?* Cambridge: Cambridge University Press.
@@ -587,4 +587,4 @@ Thanks to a reviewer for many helpful criticisms and corrections. Thanks also to
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Drew Khlentzos](https://www.ccd.edu.au/people/profile.php?memberID=214) <[*drew.khlentzos@mq.edu.au*](mailto:drew%2ekhlentzos%40mq%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

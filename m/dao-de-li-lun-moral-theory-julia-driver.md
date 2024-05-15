@@ -197,7 +197,7 @@ Malory 做对了吗？做了道德正确的事情吗？Malory 违背了一个承
 
 第二种正确的行为依赖于标准/决策程序的区别。雷尔顿认为，人际关系对人是有益的，而明确地试图最大限度地实现善并不是我们人际关系规范的一部分，因此，我们发展出关注和特别关注我们所爱的人的倾向很可能是好的。这种观点认为，不相信结果论的人有可能以另一种方式决定如何行动，而这种方式与促进善是相关的。如果一种理论所规定的标准不需要由行为人以标准所规定的理由来指导自己来实现，那么这种理论就被称为_自我克制_。当一种理论是自我否定的时候，它就会产生一个问题，那就是使人与自己行为的正当性相疏远。一种更接近雷尔顿观点的中间立场认为，正确的理由对于道德高尚的人来说是一种 "试金石"--定期参考以进行自我调节，但在我们普通的日常生活中并不被明确考虑。这样一来，该理论就不会完全自我贬低，行为人仍然可以理解自己行为的道德基础。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alicke, Mark, David Rose and Dori Bloom, 2011, “Causation, Norm Violation, and Culpable Control,” *Journal of Philosophy*, 108(12): 670–696.
@@ -291,4 +291,4 @@ Malory 做对了吗？做了道德正确的事情吗？Malory 违背了一个承
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Julia Driver <[*julia.driver@austin.utexas.edu*](mailto:julia%2edriver%40austin%2eutexas%2eedu)>
-<!--md-padding-ignore-end-->
+

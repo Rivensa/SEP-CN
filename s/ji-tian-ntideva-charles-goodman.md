@@ -258,7 +258,7 @@ Harris 提供的第二个怀疑我们能否知道应该将何种伦理理论归�
 
 BCA 和 ŚS 包含了印度佛教传统中最好的诗歌和最易理解、最有力的关于无我和空性的教导。在几个方面，这些文本是独一无二的。没有其他古代文本包含如此有趣的关于佛教教导如何相互关联并形成一个连贯整体的普遍反思。无主苦难论在印度文学中没有确切的类似之处。没有其他印度文本像 BCA 一样认真而细致地探讨自由意志的问题。很少有佛教作家像 Śāntideva 一样善于唤起读者的各种情感。为了实现他的精神目标，他创作了一些在今天仍然非常有效的段落，能够唤起厌恶、恐惧、懊悔、决心、利他主义、慷慨、慈悲和同情。对于任何希望了解成熟的印度大乘佛教传统的哲学教导和精神愿望，并且欣赏为什么这些教导对许多古代印度人和藏人具有说服力和吸引力，没有比 Śāntideva 的作品更好的来源。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works of Śāntideva
@@ -327,4 +327,4 @@ BCA 和 ŚS 包含了印度佛教传统中最好的诗歌和最易理解、最�
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Charles Goodman](https://www.binghamton.edu/aaas/faculty/profile.html?id=cgoodman) <[*cgoodman@binghamton.edu*](mailto:cgoodman%40binghamton%2eedu)>
-<!--md-padding-ignore-end-->
+

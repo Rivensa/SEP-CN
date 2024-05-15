@@ -203,7 +203,7 @@
 
 虽然我只是浅尝阿维森纳自然哲学的丰富内容，但以上讨论提供了他思想中一些最基本的要点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -339,4 +339,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jon McGinnis](https://www.umsl.edu/~philo/People/Faculty/index.html) <[*mcginnis@umsl.edu*](mailto:mcginnis%40umsl%2eedu)>
-<!--md-padding-ignore-end-->
+

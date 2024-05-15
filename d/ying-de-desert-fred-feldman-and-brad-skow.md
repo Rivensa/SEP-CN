@@ -300,7 +300,7 @@ Scanlon 强调的中心问题是，正如他所看到的那样，正义的应得
 
 然而，像前面概述的那样，一个支持应得主义政治经济分配正义理论的辩护者可能会声称，分配系统本身可能是合理的，因为公民应得生活在一个这样的系统存在的国家。也许可以争辩说，公民应得这一点，因为他们需要它才能作为人类得以繁荣，而没有一个个体人类能够独自建立这样的分配系统。如果这是正确的，那么显然可以得出结论，整个理论是一个应得主义的分配正义理论。尚待观察的是，Scanlon 对应得主义正义理论的反对是否最终成功，或者前面概述的应得主义理论最终是否被证明是可以接受的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -441,4 +441,4 @@ The authors would like to thank Oxford University Press for allowing them to re-
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Fred Feldman](http://www.umass.edu/philosophy/faculty/faculty-pages/feldman.htm) <[*ffeldman@philos.umass.edu*](mailto:ffeldman%40philos%2eumass%2eedu)>  
 Brad Skow <[*bskow@mit.edu*](mailto:bskow%40mit%2eedu)>
-<!--md-padding-ignore-end-->
+

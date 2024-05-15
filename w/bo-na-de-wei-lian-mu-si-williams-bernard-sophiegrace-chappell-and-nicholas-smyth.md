@@ -178,7 +178,7 @@
 
 从这个角度来看，内在原因论是威廉姆斯大部分伦理观念的发源地。在他写作生涯的开始阶段，他采用了“D.H.劳伦斯在他对本杰明·富兰克林自满的道德言论的精彩评论中的一句话作为自己的座右铭：‘找到你最深的冲动，并跟随它’”（1972 年：93）。三十年后，当回顾他的职业生涯时，他补充说：“如果我的所有作品中有一个主题，那就是真实性和自我表达……这个想法是，有些东西在某种真实意义上真正属于你，或者表达了你和其他人所不是的东西……整个事情都是为了阐明内在必然性的概念。”[35]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Books and Papers by Bernard Williams
@@ -306,4 +306,4 @@ Thanks for their help to Daniel Calcutt, Christopher Coope, Roger Crisp, Wojdjec
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Sophie-Grace Chappell](http://www.open.ac.uk/people/tc2973)  
 Nicholas Smyth <[*nick.a.smyth@gmail.com*](mailto:nick%2ea%2esmyth%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

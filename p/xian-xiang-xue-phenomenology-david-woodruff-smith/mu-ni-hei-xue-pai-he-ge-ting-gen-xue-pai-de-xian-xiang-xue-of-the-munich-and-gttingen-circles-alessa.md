@@ -208,7 +208,7 @@ Daubert 的立场引发了一个问题，即什么属性适合于适当的事实
 
 揭示这些仍然相当被忽视的资源的全部范围是一个持续进行的过程，它承诺影响哲学辩论的不同方面，并且大大丰富了现象学运动的传统图景。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -528,4 +528,4 @@ I would like to thank Søren Overgaard, Genki Uemura, Íngrid Vendrell Ferran, a
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Alessandro Salice <[*alessandro.salice@ucc.ie*](mailto:alessandro%2esalice%40ucc%2eie)>
-<!--md-padding-ignore-end-->
+

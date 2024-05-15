@@ -194,7 +194,7 @@ Dembski 所做的关键假设是设计、法则和机会是互斥的。这正是
 
 事实是，无论出于何种原因，如果有什么，创造论都在兴起。有了这个沉重的观点，也许现在是结束这次讨论的好时机。如果这篇文章能说服甚至一个人去对抗如此可怕的结果，那么它将达到其目的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ayala, F. J., 2009. “Molecular evolution”, in *Evolution: The First Four Billion Years*, in Ruse and Travis (eds.) 2009, 132–151.
@@ -300,4 +300,4 @@ Dembski 所做的关键假设是设计、法则和机会是互斥的。这正是
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Michael Ruse](http://philosophy.fsu.edu/people/faculty/michael-ruse)
-<!--md-padding-ignore-end-->
+

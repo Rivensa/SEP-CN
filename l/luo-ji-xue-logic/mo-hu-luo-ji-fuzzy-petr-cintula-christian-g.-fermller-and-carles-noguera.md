@@ -156,7 +156,7 @@ Hájek & Novák 2003 提出了一种基于真值程度的索拉特悖论的替�
 
 Nicholas J.J. Smith（2005 年和 2008 年）认为所谓的接近原则捕捉了模糊性的本质。它表达了关于无法区分的对象的相同形式的陈述应该在真实性方面保持接近。许多使用模糊逻辑的索拉特悖论方法与这一原则兼容。\[6]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Supplementary document:
@@ -306,4 +306,4 @@ Supplementary document:
 [Petr Cintula](http://www2.cs.cas.cz/\~cintula/) <[*cintula@cs.cas.cz*](mailto:cintula%40cs%2ecas%2ecz)>\
 [Christian G. Fermüller](http://www.logic.at/staff/chrisf) <[*chrisf@logic.at*](mailto:chrisf%40logic%2eat)>\
 [Carles Noguera](http://www.utia.cas.cz/people/noguera) <[*carles.noguera.clofent@gmail.com*](mailto:carles%2enoguera%2eclofent%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -963,7 +963,7 @@ Frege 和 PM 然而，将实数视为从具有特定结构的关系的相似性�
 
 PM 以关于循环家族的定理（∗375·32）的证明突然结束，没有任何总结性的言论或对以后的暗示。思想是进一步的数学，包括怀特海德将要写的第四卷关于几何的内容，将不得不逐步发展。首先，一个给定数学分支的概念必须以早期概念为基础进行定义，例如具有给定结构的关系类，然后该领域中的重要基本结果将逐个证明，以迄于目前为止的工作风格。建立逻辑主义将是一个持续进行的项目，就像数学本身一样开放。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -1101,4 +1101,4 @@ Thanks are due to Kenneth Blackwell, Fred Kroon, Jim Robinson and several anonym
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Bernard Linsky](https://www.ualberta.ca/arts/about/people-collection/bernard-linsky) <[*bernard.linsky@ualberta.ca*](mailto:bernard%2elinsky%40ualberta%2eca)>  
 [Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html)
-<!--md-padding-ignore-end-->
+

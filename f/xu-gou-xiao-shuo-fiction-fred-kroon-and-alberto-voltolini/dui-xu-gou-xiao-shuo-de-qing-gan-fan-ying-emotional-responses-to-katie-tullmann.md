@@ -245,7 +245,7 @@ Radford 认为这种不一致和不连贯的含义并不立即清晰。理解这
 
 进一步阅读：Bantinaki 2012; Contesi 2016; Gaut 1993; Friend 2007; Schwarz 2022; Smuts 2009.
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adair, Heather V., 2019, “Updating Thought Theory: Emotion and the Non‐Paradox of Fiction”, *Pacific Philosophical Quarterly*, 100(4): 1055–1073. doi:10.1111/papq.12294
@@ -461,4 +461,4 @@ Radford 认为这种不一致和不连贯的含义并不立即清晰。理解这
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Katie Tullmann <[*Katherine.tullmann@nau.edu*](mailto:Katherine%2etullmann%40nau%2eedu)>
-<!--md-padding-ignore-end-->
+

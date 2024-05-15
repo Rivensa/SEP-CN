@@ -240,7 +240,7 @@
 
 关于怀疑论的后期历史概述，重点关注经典的近代哲学家，请参阅波普金（2003）的著作。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Texts and Translations
@@ -365,4 +365,4 @@ Note: Texts in this section are alphabetized according to the *first* name of 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Charles Bolyard <[*bolyarcr@jmu.edu*](mailto:bolyarcr%40jmu%2eedu)>
-<!--md-padding-ignore-end-->
+

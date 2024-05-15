@@ -314,7 +314,7 @@ Kulikov (2020)建议，考虑到优先参与测试或有意义的参与测试是
 
 关于建立普遍智能的最可能途径（假设普遍智能存在）存在根本不同的观点。例如，Crosby（2020）认为，前进的最佳方式可能是尝试制造能够通过动物认知测试的机器，即能够从感官输入中创建对环境的预测模型。（例如，Brooks（1990）中有明确的思路先驱。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abramson, D., 2008, “Turing’s Responses to Two Objections,” *Minds and Machines*, 18: 147–67.
@@ -450,4 +450,4 @@ We would like to acknowledge the help of the editors of the *Encyclopedia*, Jos
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Graham Oppy](http://profiles.arts.monash.edu.au/graham-oppy/) <[*Graham.Oppy@monash.edu*](mailto:Graham%2eOppy%40monash%2eedu)>  
 [David Dowe](http://www.csse.monash.edu.au/~dld/David.Dowe.publications.html) <[*David.Dowe@monash.edu*](mailto:David%2eDowe%40monash%2eedu)>
-<!--md-padding-ignore-end-->
+

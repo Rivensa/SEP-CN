@@ -148,7 +148,7 @@
 
 此外，我们还可以补充说，伊斯兰世界的哲学本身就是肯迪的更广泛遗产，有两个方面。首先，肯迪圈子中产生的翻译将成为未来几个世纪的标准哲学文本 - 尤其有影响力的是他们对某些亚里士多德作品（如《形而上学》）和普罗提诺斯的翻译，在亚里士多德的神学中。其次，尽管像法拉比和阿维罗伊斯这样的作者几乎没有提到肯迪的名字（法拉比从未这样做过，阿维罗伊斯只是批评他的药理学理论），但他们继续着他的希腊爱好项目，其中哲学实践是通过与希腊哲学作品的接触来定义的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abu Rida, M.‘A.H. (ed.), 1950/1953, Al-Kindi, *Rasa’il al-Kindi al-Falsafiyya*, 2 volumes, Cairo: Dar al-Fikr al-‘Arabi.
@@ -242,4 +242,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/personen/adamson/index.html) <[*peter.adamson@lrz.uni-muenchen.de*](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>
-<!--md-padding-ignore-end-->
+

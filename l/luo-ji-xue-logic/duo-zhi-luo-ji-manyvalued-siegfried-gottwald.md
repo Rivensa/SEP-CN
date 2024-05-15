@@ -397,7 +397,7 @@ MVL 在哲学中的第二个应用是对像 Sorites（堆）或 falakros（秃�
 
 这些趋势自 1980 年代以来一直持续发展。研究包括将多值逻辑应用于模糊集合理论及其应用，对与多值逻辑系统相关的代数结构进行详细研究，对分级蕴涵概念进行研究，以及对多值逻辑系统中不同问题的复杂性问题进行调查。这项研究还得到了有关证明理论的有趣工作、自动定理证明的工作、人工智能领域的不同应用以及基于 t-范数的无穷值系统的详细研究的补充，这些系统现在通常被称为（数学）模糊逻辑。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Monographs and Survey Papers
@@ -508,4 +508,4 @@ MVL 在哲学中的第二个应用是对像 Sorites（堆）或 falakros（秃�
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Siegfried Gottwald](http://www.sozphil.uni-leipzig.de/cm/philosophie/mitarbeiter/siegfried-gottwald/)
-<!--md-padding-ignore-end-->
+

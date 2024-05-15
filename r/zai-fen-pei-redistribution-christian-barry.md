@@ -124,7 +124,7 @@
 
 但是，将分配正义的讨论措辞为再分配所暗示的，却带入了强制性的夺取和权利侵犯的联想，这在评估通过税收资助的社会计划或对全球经济改革的讨论中显然不合适。此外，将对贫困人口进行“再分配”转移的“帮助”和“援助”的可行性作为焦点，似乎默认现有的财富分配是一个道德上没有问题的基准。这种关注往往会偏袒现状，并抵制更加平等的社会安排。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alesina, Alberto, *et al*., 2001, “Redistribution Through Public Employment: The Case of Italy,” NBER Working Papers 7387, National Bureau of Economic Research. [[preprint available online](http://ideas.repec.org/a/pal/imfstp/v48y2002i3p2.html)]
@@ -195,4 +195,4 @@ This essay has benefited greatly from comments from Alejandra Mancilla, Joanna P
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Christian Barry](https://researchers.anu.edu.au/researchers/barry-ch) <[*christian.barry@anu.edu.au*](mailto:christian%2ebarry%40anu%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

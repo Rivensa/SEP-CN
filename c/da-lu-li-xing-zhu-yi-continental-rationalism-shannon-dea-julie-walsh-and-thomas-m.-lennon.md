@@ -130,7 +130,7 @@
 
 因此总的来说，虽然大陆理性主义的概念可以作为一个有用的启发，尤其是用于教学和学习，但它不应该成为一个严格的标准。对理性主义的更宽泛理解不仅支持对该时期哲学运动的更加历史准确、细致的理解，也使理性主义的经典更加多样化。随着哲学史学家越来越多地努力发展更具包容性的经典，这种重新构想是有益的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -282,4 +282,4 @@
 [Shannon Dea](https://www.uregina.ca/arts/philosophy-classics/faculty-staff/faculty/dea-shannon.html) <[*shannon.dea@uregina.ca*](mailto:shannon%2edea%40uregina%2eca)>\
 Julie Walsh <[*julie.walsh@wellesley.edu*](mailto:julie%2ewalsh%40wellesley%2eedu)>\
 Thomas M. Lennon
-<!--md-padding-ignore-end-->
+

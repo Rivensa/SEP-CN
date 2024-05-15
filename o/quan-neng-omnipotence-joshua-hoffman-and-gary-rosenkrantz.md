@@ -205,7 +205,7 @@ Wierenga 对全能的解释，与 Flint 和 Freddoso 的解释一样，依赖于
 
 这个关于上帝和邪恶可能性的论证一直受到诸如阿尔文·普兰廷加等有神论者的争议，他们并不认为上帝的存在意味着存在一个最大善的世界，但他们认为上帝努力创造一个尽可能好的世界。像普兰廷加这样的有神论者允许存在一种邪恶，这种邪恶对于任何超过它的更大善来说是不必要的。这种邪恶涉及非神性主体的自由决策，上帝不会阻止，但其他主体可以阻止。普兰廷加认为，上帝允许这种邪恶并没有错，因为上帝不能在没有这种邪恶的情况下实现一个至关重要的善，即自由人类主体的存在。或者，可以争论说，在这种情况下，上帝并没有做错，因为他不知道如何做得更好（因为无法预知被创造主体的未来自由行为）。然而，由于全能的上帝并不需要对非神性主体的自由决策拥有权力，因此根据这些观点，他的全能和道德完美是相容的，大致上与我们之前讨论的上帝的存在意味着一个最大善的世界的观点相一致。当然，这里所说的一切都没有回答关于传统上帝的存在与多少邪恶是相容的这个问题。这个问题对于有神论的邪恶问题来说是核心问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Adams, Sarah, 2015, “A New Paradox of Omnipotence,” *Philosophia*, 43: 759–785.
@@ -267,4 +267,4 @@ Adams, Sarah, 2015, “A New Paradox of Omnipotence,” *Philosophia*, 43: 759�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Joshua Hoffman <[*j_hoffma@uncg.edu*](mailto:j_hoffma%40uncg%2eedu)>  
 Gary Rosenkrantz <[*g_rosenk@uncg.edu*](mailto:g_rosenk%40uncg%2eedu)>
-<!--md-padding-ignore-end-->
+

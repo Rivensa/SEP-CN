@@ -264,7 +264,7 @@ Figure 7: 美洲胡椒蛾幼虫中的颜色多型性，代表了发育可塑性�
 
 这篇文章仅对发育生物学认识论的概念反思的重要性和潜力进行了部分抽样。关于上述领域的每个方面都可以进一步探讨，比如对正常阶段在发育生物学中作为类型运作的更细致分析（DiTeresi 2010; Lowe 2016）。此外，对于发育生物学实验中证据如何起作用以及确认性和探索性实验之间的差异（Hall 2005; O’Malley 2007; Waters 2007b）几乎没有提及，也没有探讨在发育生物学中表征关键实践的隐喻和模型的作用（Fagan 2013; Keller 2002）。通过更加关注特定研究项目的细节，后者已经被清晰地分析。最后，对于发育现象的形而上学含义（亚里士多德形而上学的一个关键输入）没有提及。潜力的概念在描述胚胎现象中非常自然（例如，干细胞的多能性或一种生殖层产生不同种类的组织谱系的潜力），一些人认为发育生物学的实证进展支持了一种关于生物自然种类的新本质主义形式（Austin 2019）。这影响了我们对倾向性的理解（参见关于倾向性的条目），因为触发条件通常是复杂的并且多重实现（包括没有触发器的表现），以及细胞在特定的顺序中表现出具有多种可能表现形式（细胞类型）的倾向性（Hüttemann and Kaiser 2018; Laplane 2016）。在人类发育生物学的背景下，也会出现形而上学问题，比如如何理解怀孕的本体论（Kingma 2018; Sidzinska 2017）。因此，发育生物学不仅展示了一系列丰富的物质和概念实践，可以通过分析来更好地理解实验生命科学中所展示的科学推理，而且还指向了新的形而上学思想，特别是当这一努力明确考虑到实证成功科学的输入时。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References
@@ -483,4 +483,4 @@ Thanks to the many philosophical and scientific colleagues who have provided me 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Alan Love](http://www.philosophy.umn.edu/people/FacultyProfile.php?UID=aclove) <[*aclove@umn.edu*](mailto:aclove%40umn%2eedu)>
-<!--md-padding-ignore-end-->
+

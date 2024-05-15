@@ -64,7 +64,7 @@ Alston 发展了一种关于信念实践的普遍理论（信念形成机制的�
 
 对于这些其他传统，出现的所有同样的认识论问题也会以不同的形式出现，就像对于有神论的问题一样。也就是说，人们可以质疑关于梵天、空性、道以及其他宗教经验对象的经验是否真实。人们还可以质疑关于这些经验的证词是否与普通经验具有相同的重要性。这些经验也可以用自然主义的解释来解释。同样，对于有神论背景下提出的这些异议，也适用于非有神论宗教经验的辩护者。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, William P., 1991. *Perceiving God*, Ithaca: Cornell University Press.
@@ -128,4 +128,4 @@ Alston 发展了一种关于信念实践的普遍理论（信念形成机制的�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Mark Webb <[*mark.webb@ttu.edu*](mailto:mark%2ewebb%40ttu%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -137,7 +137,7 @@
 
 对《孟子》的新儒家和德性伦理学解释者都受到了将外来词汇投射到文本中的批评。事实上，有时候这两种方法的倡导者会互相提出这些异议（参见 Yu 2008，Angle 和 Slote 2013）。然而，任何解释者都必须运用自己的词汇来阐明似乎晦涩的内容。无论是宋代儒家使用中古汉语中受佛教影响的术语，还是新儒家在当代普通话中使用康德的概念，或者是使用德性伦理学词汇的英语学者，这都是真实存在的问题，关键在于他们是否提供了对他们所解释的文本中隐含内容最合理的解释。关于这些问题的持续辩论必将激动人心且富有成效。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by and about Mencius
@@ -231,4 +231,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Bryan Van Norden](http://www.bryanvannorden.com/) <[*brvannorden@vassar.edu*](mailto:brvannorden%40vassar%2eedu)>
-<!--md-padding-ignore-end-->
+

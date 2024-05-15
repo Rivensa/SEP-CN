@@ -470,7 +470,7 @@ Park（2016）也提出了类似的观点。他将他所称之为比例悲观主
 
 当涉及到现实主义对理论的承诺时，适当的哲学任务是既不忽视对某个理论的第一阶科学证据，也不忽视从科学史中可以学到的教训。相反，任务是平衡第一阶和第二阶证据。第一阶证据通常与科学家在形成对某个理论的认识态度时考虑的内容相关。它可以广义地理解为包括与所讨论的理论相关的一些理论优点，这些优点通常用于对理论的先验概率分配进行合理性判断。第二阶证据来自科学理论的过去记录和/或与科学方法的可靠性有关的元理论（哲学）考虑。它涉及的不是特定的科学理论，而是整个科学。这种第二阶证据支持了诸如激励 PI 或新归纳的主张。实际上，这种第二阶证据是多方面的——既有负面的（显示限制和缺陷），也有正面的（显示如何改进从经验中学习的方法）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ainsworth, Peter M., 2009, “Newman’s Objection”, *The British Journal for the Philosophy of Science*, 60(1): 135–171. doi:10.1093/bjps/axn051
@@ -575,4 +575,4 @@ Many thanks to Ludwig Fahrbach, Stavros Ioannidis, Moti Mizrahi, Nathan Oseroff,
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Stathis Psillos](http://users.uoa.gr/~psillos/) <[*psillos@phs.uoa.gr*](mailto:psillos%40phs%2euoa%2egr)>
-<!--md-padding-ignore-end-->
+

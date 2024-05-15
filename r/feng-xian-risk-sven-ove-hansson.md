@@ -216,7 +216,7 @@ p(x1)⋅u(x1)+p(x2)⋅u(x2)+p(x3)⋅u(x3)。
 
 风险效益分析引发了一些其他具有相当哲学兴趣的哲学问题（Hansson 2007）。由于其定量性质，它往往忽略了难以量化的问题，例如文化贫困、社会孤立和社会阶层之间的紧张关系。此外，由于其聚合结构，风险效益分析通常忽略了社会公正和其他分配方面的问题，尽管这些问题实际上可以进行定量处理。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allais, M., 1953, “Le comportement de l’homme rationnel devant le risque: critique des postulats et axiomes de l’école Américaine”, *Econometrica*, 21: 503–546.
@@ -329,4 +329,4 @@ p(x1)⋅u(x1)+p(x2)⋅u(x2)+p(x3)⋅u(x3)。
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Sven Ove Hansson](http://people.kth.se/~soh/) <[*soh@kth.se*](mailto:soh%40kth%2ese)>
-<!--md-padding-ignore-end-->
+

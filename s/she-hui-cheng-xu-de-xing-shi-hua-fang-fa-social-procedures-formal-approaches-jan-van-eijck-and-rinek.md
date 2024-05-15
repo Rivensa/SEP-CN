@@ -194,7 +194,7 @@ Gale-Shapley 算法在许多重要应用中都有用途，不仅限于婚姻媒�
 
 总之，强调算法和信息的社会程序和智能互动的形式视角产生了各种重要的见解。它还引发了有趣的哲学讨论。未来的主要挑战似乎是统一这个目前相对分散的领域，在这个领域中，许多贡献者似乎不知道其他子领域的相关工作。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### General References
@@ -309,4 +309,4 @@ I would like to express my gratitude to Jan van Eijck for the enjoyable time of 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jan van Eijck](https://staff.fnwi.uva.nl/d.j.n.vaneijck2/)  
 [Rineke (L.C.) Verbrugge](https://rinekeverbrugge.nl/) <[*L.C.Verbrugge@rug.nl*](mailto:L%2eC%2eVerbrugge%40rug%2enl)>
-<!--md-padding-ignore-end-->
+

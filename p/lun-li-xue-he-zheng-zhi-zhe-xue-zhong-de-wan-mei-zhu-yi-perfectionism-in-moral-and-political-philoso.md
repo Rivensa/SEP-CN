@@ -266,7 +266,7 @@ RNP 将国家中立性的范围限制在完全合理的美好理想上。无论�
 
 完美主义在思想史上有着卓越的渊源，但像许多道德和政治哲学理论一样，它仍然是一个正在进行中的工作。本文讨论的主题-完美主义价值理论、完美主义伦理学和完美主义作为一种政治方法-仍然存在持续的争议和发展。此外，这些主题虽然互补，但部分独立于彼此。可以肯定完美主义伦理学并拒绝完美主义作为一种政治方法。同样，可以接受完美主义价值理论的某些主张，同时拒绝完美主义的伦理和政治结论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References Cited
@@ -374,4 +374,4 @@ The author thanks David Sobel for commenting on an earlier draft and for many he
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Steven Wall <[*stevenwall@arizona.edu*](mailto:stevenwall%40arizona%2eedu)>
-<!--md-padding-ignore-end-->
+

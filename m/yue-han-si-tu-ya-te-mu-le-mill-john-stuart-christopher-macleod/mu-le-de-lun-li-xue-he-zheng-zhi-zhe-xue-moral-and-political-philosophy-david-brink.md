@@ -793,7 +793,7 @@ Mill 的观点是，言论自由的价值在于防止真实信念变得教条主
 
 所以，例如，OL I 11 指的是《论自由》第一章第 11 段，而 SL VI.xii.6 指的是《逻辑学体系》第六卷第十二章第 6 节。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 This is a very select bibliography of other primary and secondary work relevant to the study of Mill’s moral and political philosophy. It is selective, because Mill scholarship is voluminous and my knowledge of it is limited. While it does include those works I have found especially interesting or useful, it is not intended to be comprehensive.
@@ -956,4 +956,4 @@ I would like to thank the Academic Senate of the University of California, San D
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [David Brink](http://davidobrink.com/) <[*dbrink@ucsd.edu*](mailto:dbrink%40ucsd%2eedu)>
-<!--md-padding-ignore-end-->
+

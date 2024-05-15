@@ -441,7 +441,7 @@ Kim 1979 年的文章对奇泽姆早期观点进行了非常有帮助的批判�
 
 没有奇泽姆对伦理学的贡献清单是完整的，而不提及《违背职责的规范和义务逻辑》（1963 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -546,4 +546,4 @@ Kim 1979 年的文章对奇泽姆早期观点进行了非常有帮助的批判�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Richard Feldman](http://www.rochester.edu/College/phl/people/faculty/feldman\richard/index.html) <[*richard.feldman@rochester.edu*](mailto:richard%2efeldman%40rochester%2eedu)>\
 [Fred Feldman](http://www.umass.edu/philosophy/faculty/faculty-pages/feldman.htm) <[*ffeldman@philos.umass.edu*](mailto:ffeldman%40philos%2eumass%2eedu)>
-<!--md-padding-ignore-end-->
+

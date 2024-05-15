@@ -259,7 +259,7 @@ Smithies (2019) defends a similar view, discussed in more detail in the next sub
 
 在撰写本文时，有两个相关问题成为未来辩论的核心。首先：高阶证据是否重要，因为它为我们提供了关于我们自身的理性的信息？还是因为它为我们提供了关于我们自身可靠性的信息？其次：是否存在真正禁止认识上的无节制的规范？（因此，我们对什么是理性的信念应该与我们对世界的信念相一致吗？）或者这些规范的出现仅仅是因为与可靠性相关的附近规范，或者可能是因为存在多种冲突的认识规范模式？解开围绕高阶证据的谜团最终将涉及回答这些问题，以及关于理性与真理之间关系的更广泛问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, David, 2013, “The Problem of Respecting Higher-Order Doubt”, *Philosopher’s Imprint*, 13(September): article 18 (12 pages). [[Alexander 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.018)]
@@ -375,4 +375,4 @@ I would like to thank David Christensen for helpful comments and suggestions.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Sophie Horowitz <[*shorowitz@umass.edu*](mailto:shorowitz%40umass%2eedu)>
-<!--md-padding-ignore-end-->
+

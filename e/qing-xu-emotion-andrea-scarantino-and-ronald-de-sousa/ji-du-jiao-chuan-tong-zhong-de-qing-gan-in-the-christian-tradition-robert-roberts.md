@@ -164,7 +164,7 @@ Jesse Prinz (2004)试图将正确的意向性引入詹姆斯的观念，即情�
 
 詹姆斯似乎是对的，他声称没有一种情绪类型是宗教本身所特有的。宗教情感通常有各种类型 - 忏悔、感恩、喜悦、恐惧、焦虑、愤怒等等 - 使它们在某种宗教中或另一种宗教中具有独特性的是它们受到该宗教关于上帝或超越的教导的塑造。情感对信仰者来说很重要，因为它们有时像激励行动一样，是宗教所要求的道德和精神生活的表达。它们构成了宗教生活实质的重要部分。因此，作为该生活的监护人和调节者，宗教的教师有时会制定宗教情感真实性的标准。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle, *Nicomachean Ethics*, translated by H. Rackham, Cambridge, MA: Harvard University Press, 1934.
@@ -214,4 +214,4 @@ Jesse Prinz (2004)试图将正确的意向性引入詹姆斯的观念，即情�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Robert Roberts](http://www.jubileecentre.ac.uk/1622/about/research-team/professor-robert-c-roberts) <[*Robert_Roberts@baylor.edu*](mailto:Robert_Roberts%40baylor%2eedu)>
-<!--md-padding-ignore-end-->
+

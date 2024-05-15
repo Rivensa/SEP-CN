@@ -274,7 +274,7 @@ This knowledge of God, Maritain admits, is not demonstrative but is, nevertheles
 
 然而，马里坦的作品仍然具有影响力。自 1958 年以来，美国圣母大学设有雅克·马里坦中心，有专门研究他的期刊，如《马里坦研究》、《笔记与文件》和《雅克和蕾莎·马里坦文集》，此外还有大约二十个国家协会定期举行会议，除了国际雅克·马里坦研究所。在英语世界对他思想的持续关注下，美国圣母大学出版社于 1990 年代中期开始出版马里坦著作的英文版汇编。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Maritain’s Principal Works
@@ -506,4 +506,4 @@ Additional studies of Maritain’s work are available in such journals as [*Ét
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 William Sweet <[*wsweet@stfx.ca*](mailto:wsweet%40stfx%2eca)>
-<!--md-padding-ignore-end-->
+

@@ -74,7 +74,7 @@
 
 米尔还批评了惠威尔声称道德规则是必然真理且不言自明的观点。米尔认为这意味着道德无法取得进步——不言自明的东西永远都是如此——并由此得出结论，惠威尔认为当前社会规则是必然真理。正如米尔所抱怨的那样，这种观点往往支持现状。（因此，他对惠威尔的指责有些不公平，认为他为虐待动物、强迫婚姻甚至奴役等邪恶行为辩护。）但是，米尔错误地将这种观点归因于惠威尔。惠威尔确实声称道德规则是必然真理，并赋予它们自明的认识论地位（见 1864 年，58 页）。然而，正如上文所述，惠威尔对必然真理的看法是进步的。这在道德领域和科学领域一样。道德领域和物理科学领域一样，都受到某些基本思想的构建：在这种情况下，是仁爱、正义、真理、纯洁和秩序（见 1852 年，xxiii 页）。这些道德思想是我们道德经验的条件；它们使我们能够将行为视为符合道德要求。与物理科学的思想一样，道德的思想必须在道德规则可以从中得出之前进行阐释（见 1860a，388 页）。在道德中，有一种必然真理的进步直觉，就像在科学中一样。因此，并不意味着因为道德真理是公理和不言自明的，我们目前就知道它们（见 1846 年，38-9 页）。事实上，惠威尔声称“通过个人的随意意见来测试自明性是自相矛盾的”（1846 年，35 页）。然而，惠威尔确实相信我们可以将最“道德先进”的社会的正面法律作为我们阐释道德思想的起点。 尽管他对“道德先进”的社会有偏见，但他并不是在暗示这些社会的法律是道德的标准。就像我们通过研究物理世界的现象来阐明科学概念一样，我们可以通过研究实际法律的事实和道德哲学的历史来阐明道德概念。只有在阐明了这些概念之后，我们才能看到从中真正得出的道德公理或必然真理。因此，米尔错误地将惠威尔的道德哲学解释为对现状的辩护或构成“恶性循环”。相反，惠威尔的观点与罗尔斯后来使用“反思均衡”概念的一些特点相似。（有关惠威尔的道德哲学以及他与米尔关于道德问题的辩论，请参阅斯奈德 2006 年第四章。）)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Whewell’s letters and papers, mostly unpublished, are found in the Whewell Collection, Trinity College Library, Cambridge. A selection of letters was published by I. Todhunter in *William Whewell, An account of his Writings*, Vol. II (London, 1876) and by J. Stair-Douglas in *The Life, and Selections from the Correspondence of William Whewell* (London, 1882).
@@ -193,4 +193,4 @@ In the past twenty years, Whewell’s name and ideas have appeared with much gre
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Laura J. Snyder](https://laurajsnyder.com/) <[*ljsnyder1@me.com*](mailto:ljsnyder1%40me%2ecom)>
-<!--md-padding-ignore-end-->
+

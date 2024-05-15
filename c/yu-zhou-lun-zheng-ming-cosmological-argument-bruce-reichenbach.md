@@ -537,7 +537,7 @@ Swinburne 的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 
 在所有呈现和发展之后，很明显我们考虑过的每一个论点和论证，无论是支持还是批评宇宙论证，都受到了严肃的质疑。也许在试图回答宇宙是偶然的还是必然的，是有原因的还是永恒的，如果有原因的话，为什么它存在或是什么使它存在这些困难问题时，这样的争议是应该的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * al–Baghdadi, Abu Mansur, \[c.1000] 1981, *‘Usul al–din*, 3rd edition Beirut: Dar al-kutub al–‘ilmiyya.
@@ -702,4 +702,4 @@ Swinburne 的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Bruce Reichenbach](http://www.augsburg.edu/faculty/reichen/) <[*reichen@augsburg.edu*](mailto:reichen%40augsburg%2eedu)>
-<!--md-padding-ignore-end-->
+

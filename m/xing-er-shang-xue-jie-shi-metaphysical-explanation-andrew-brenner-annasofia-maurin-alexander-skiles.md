@@ -214,7 +214,7 @@ Schaffer 是一个分离主义者（见第 3 节）。因果和形而上学解�
 
 在另一个极端上，有人可能主张没有事实适合进行形而上学解释。一种担忧是，一些人认为构成形而上学解释的概念，如基础和本质，某种程度上是有缺陷的（参见形而上学基础条目 §8 和本质与偶然属性条目 §5）。另一种担忧是，形而上学解释将与科学、数学和/或其他形式的解释竞争，从而使形而上学解释变得多余。杰夫·恩格尔哈特（2016）发展了这种思路，并认为许多哲学家在暗示地承认了一种令人反感的过度决定论，其中涉及形而上学解释。他所指的过度决定论是指某些情况似乎具有足够的因果解释和足够的形而上学解释。例如，对于任何给定的房屋，该房屋存在的原因既是因为它被引起存在（因果解释），也是因为它以其部分为基础（形而上学解释）。也许我们能想出的最好解决办法是，恩格尔哈特建议，在这种情况下，所讨论的原因（C）导致房屋的基础得以存在，但 C 并没有导致房屋的存在。在这种情况下，虽然 C 解释了房屋存在的原因，但它并没有因果地解释房屋存在的原因。相反，C 因果地解释了房屋的部分以某种方式被配置，而这些部分以这种方式被配置进而构成了房屋的存在的基础。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aizawa, Kenneth and Carl Gillett (eds.), 2016, *Scientific Composition and Metaphysical Ground*, London: Palgrave Macmillan UK. doi:10.1057/978-1-137-56216-6
@@ -347,4 +347,4 @@ Schaffer 是一个分离主义者（见第 3 节）。因果和形而上学解�
 [Alexander Skiles](http://alexanderjskiles.weebly.com/) <[*alexander.j.skiles@gmail.com*](mailto:alexander%2ej%2eskiles%40gmail%2ecom)>  
 [Robin Stenwall](https://www.fil.lu.se/person/RobinStenwall/) <[*robin.stenwall@fil.lu.se*](mailto:robin%2estenwall%40fil%2elu%2ese)>  
 [Naomi Thompson](http://nmcthompson.wordpress.com/) <[*n.m.thompson@soton.ac.uk*](mailto:n%2em%2ethompson%40soton%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

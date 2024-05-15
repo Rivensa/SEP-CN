@@ -334,7 +334,7 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 至少在一种解读《辩证之甜》的方式上，曷利沙的项目只是为了说明理性的不稳定性：对于任何一个正理-胜论派哲学家为他们钟爱的本体论和认识论范畴提供的论证，都有一个反驳论证来击败它。理性的结论——因此从不免于理性的失败——只能构成不确定的证据。然而，萨迦拉和曷利沙之间的重要区别在于此。对于萨迦拉来说，即使在经典所确立的事项上，也有一些探究的空间，而且理性在经典的指导下确实可以帮助探究者理解终极现实的本质。相比之下，曷利沙认为他的反驳论证表明，无论是否受经典启示，理性探究都无法确立任何事物；只有信仰才能引领我们走向真理。对于曷利沙来说，理性探究是徒劳的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -450,4 +450,4 @@ Nyāya-Vaiśeṣika 哲学家赋予定义两个不同的目的。
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Nilanjan Das](http://www.dasnilanjan.com/) <[*nilanj.das@gmail.com*](mailto:nilanj%2edas%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

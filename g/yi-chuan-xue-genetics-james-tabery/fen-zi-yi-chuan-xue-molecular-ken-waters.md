@@ -292,7 +292,7 @@ Weber（2005 年）和 Rosenberg（2006 年）独立声称 DNA 包含一个在�
 
 分子遗传学的哲学是一个充满活力的研究领域，反映了当代科学哲学中的许多激动人心和多样化。研究遗传学相关领域的哲学家有不同的哲学兴趣，并采用对立的方法。一些哲学研究旨在纠正科学，而另一些研究旨在纠正我们对科学的理解。一些哲学家采用传统的科学哲学方法，例如概念和模型的分析，而另一些人则通过借鉴社会科学的方法，包括调查研究，开创了新的哲学方法。虽然一些哲学家将注意力集中在基础理论上，另一些人正在研究经验调查的动态。分子遗传学哲学的研究也正在产生关于基本概念的新想法，这些概念对一般哲学感兴趣，包括还原主义、信息和因果关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bonner, J., 1965, *The Molecular Biology of Development*, Oxford: Oxford University Press.
@@ -385,4 +385,4 @@ Weber（2005 年）和 Rosenberg（2006 年）独立声称 DNA 包含一个在�
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
 Ken Waters
-<!--md-padding-ignore-end-->
+

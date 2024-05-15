@@ -250,7 +250,7 @@ Theorists are to use those assumptions as calculating tools without committing t
 
 认识到理论和价值在构成和产生经验结果中的参与，并不削弱经验科学相对于宣传和伪科学的特殊认识价值。在文化、政治和宗教价值影响科学探究的情况下，往往是通过限制或决定经验结果的性质来阻碍科学探究。然而，通过努力使塑造结果的假设明确化，我们可以检查它们对我们目的的适用性，并在必要时重新构建探究。当出现分歧时，科学家可以通过诉诸研究目标与经验数据之间的因果关系来解决它们。经验结果通过理论资源的精心塑造来表达经验的见证，但只有经过谨慎的塑造才能做到这一点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, E., 2004, “Uses of Value Judgments in Science: A General Argument, with Lessons from a Case Study of Feminist Research on Divorce,” *Hypatia*, 19(1): 1–24.
@@ -347,4 +347,4 @@ Theorists are to use those assumptions as calculating tools without committing t
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Nora Mills Boyd](https://facultyweb.siena.edu/~nboyd/) <[*nboyd@siena.edu*](mailto:nboyd%40siena%2eedu)>  
 James Bogen
-<!--md-padding-ignore-end-->
+

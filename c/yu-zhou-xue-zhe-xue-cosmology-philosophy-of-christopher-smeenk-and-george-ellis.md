@@ -295,7 +295,7 @@ Dicke 的推理说明了考虑选择效应如何可以减轻惊讶，并削弱�
 
 最后，一个关键问题是我们期望我们的理论具有什么范围。埃利斯（2017）区分了宇宙学和宇宙论，前者是在本文中列出的教科书中涉及的基于物理的主题，涉及宇宙的膨胀、星系、数量统计、背景辐射等等，而后者则是在接受这一切的基础上，考虑这一切对生命意义的影响。显然，上面提到的人类讨论是一个中间立场。然而，一些主要科学家撰写的流行科学书籍正在出现，这些书籍基于从基础物理学和天文观测中纯粹得出的论据对宇宙论进行重大主张。我们在这里只做一点评论。如果要认真考虑宇宙论，就有责任认真对待适用于该领域的全部数据范围。也就是说，尝试范围内所需数据必须包括与生命意义有关的数据，以及来自望远镜、实验室实验和粒子对撞机的数据。因此，它必须包括关于善恶、生与死、恐惧与希望、爱与痛苦的数据，以及来自人类历史上生活过并根据他们的生活经验思考生命意义的伟大哲学家、作家和艺术家的著作。这对那些生活在地球上（因此也在宇宙中）的人们具有重大意义。出版声称科学证明宇宙中没有目的的书籍纯粹是目光短浅。这只意味着一个人已经闭上了与目的和意义相关的所有数据的眼睛；并且认为唯一的科学是物理学（因为心理学和生物学充满了目的）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ade, P.A.R., N. Aghanim, M. Arnaud, F. Arroja, M. Ashdown, J. Aumont, C. Baccigalupi, M. Ballardini, A. Banday, R. Barreiro, et al., 2016, “*Planck* 2015 results—XX. Constraints on Inflation”, *Astronomy & Astrophysics*, 594: A20. doi:10.1051/0004-6361/201525898
@@ -459,4 +459,4 @@ Work on this entry was supported by a grant from the John Templeton Foundation. 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Christopher Smeenk <[*csmeenk2@uwo.ca*](mailto:csmeenk2%40uwo%2eca)>  
 [George Ellis](http://www.math.uct.ac.za/mam/staff/ellis) <[*george.ellis@uct.ac.za*](mailto:george%2eellis%40uct%2eac%2eza)>
-<!--md-padding-ignore-end-->
+

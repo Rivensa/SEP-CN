@@ -726,7 +726,7 @@ Andrzej Kisielewicz（1998）最近提出的一个建议是，通过使用两个
 
 我们在这里提出了一系列广泛的理论。我们将基于对数学领域本质不同观点的理论（构造主义理论和支持非标准分析的理论）放在一边。同样，出于保持宇宙规模较小的愿望而产生的理论也可以放在一边。支持流畅发展数学的替代经典集合论似乎是 ZFC 或其包括 Ackermann 在内的变种，以及具有适当强无穷公理（以使所谓的集合行为良好）的 NFU + Infinity + Choice 和 Esser 的正集合论。在我们看来，其中任何一个都足够满足目的，包括目前正在使用的那个。数学家没有强制使用与 ZFC 不同的基础，但对于那些需要考虑基础的数学家来说，了解存在替代方案是有好处的；否则，就有可能将集合论的主导系统的偶然特征误认为数学基础的本质特征。例如，经常有人说，普遍集（在弱集合论中实际上很容易获得的一个扩展）是一个不一致的整体；实际情况仅仅是在假设策梅洛的分离公理的情况下无法拥有普遍集。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aczel, Peter, 1978, “The Type Theoretic Interpretation of Constructive Set Theory”, in A. MacIntyre, L. Pacholski, J. Paris (eds.), *Logic Colloquium ‘77*, (Studies in Logic and the Foundations of Mathematics, 96), Amsterdam: North-Holland, pp. 55–66. doi:10.1016/S0049-237X(08)71989-X
@@ -795,4 +795,4 @@ Andrzej Kisielewicz（1998）最近提出的一个建议是，通过使用两个
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [M. Randall Holmes](https://randall-holmes.github.io/) <[*rholmes@boisestate.edu*](mailto:rholmes%40boisestate%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -212,7 +212,7 @@ Benedikt Göcke 试图确定超泛神论的一个特定特征，指出了古典�
 
 超泛神论的各种形式参与内部批评。克莱顿（2008a，127）和史蒂文·克雷恩（2006）强调世界对上帝的依赖，而不是上帝对世界的依赖，尽管他们坚持上帝受到世界的影响和改变。他们批评将上帝限制在使上帝受到形而上学原则约束的理解。格里芬强调形而上学原则提供的规律性。这种规律性承认了上帝的爱所提供的现实秩序。超泛神论者还警告，对上帝与世界之间本体性关系的强调可能导致世界完整性的丧失。理查森警告不要在上帝中失去有限存在的离散身份（2010，345）。凯斯-温特斯呼吁保持上帝与世界之间的区别和上帝与世界的互动之间的平衡。过分强调平衡的任一方面都会导致在哲学和神学上不足的立场（凯斯-温特斯 2007，125）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Atmanspacher, Harald and von Sass, Hartmut, 2017, “The Many Faces of Panentheism: An Editorial Introduction”, *Zygon*, 52: 1029–1043.
@@ -388,4 +388,4 @@ R.T. Mullins suggested several sources that increased the coverage of this artic
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 John Culp <[*jculp@apu.edu*](mailto:jculp%40apu%2eedu)>
-<!--md-padding-ignore-end-->
+

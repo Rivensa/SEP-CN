@@ -175,7 +175,7 @@ Elizabeth Tropman (2018)认为，理解道德客观性的最佳方式如下：x 
 
 与对这些标签的清晰和明确理解同样重要的是，对辩论的真正关键问题有所认识。这一点在这里显得尤为紧迫，因为人们自然会怀疑，对道德反实在论的反对很大程度上源于一种模糊但令人不安的实际关切——如果以某种方式广泛采纳道德反实在论，会对个人、社区和社会秩序产生什么样的影响。人们认为，接受道德反实在论将产生一种潜在的影响。这种关切假设大多数人在先理论意义上倾向于道德实在论——这一假设在前面已经提出了质疑。但即使大多数人是天真的道德实在论者，如果他们不再如此，会发生什么是一个实证问题，对此乐观和悲观似乎都没有明显的更有根据的理由。与对道德非客观主义的反对一样，对道德反实在论的更普遍的反对往往基于对反实在论者可利用资源的低估——基于未经审查的假设，即最愚蠢、最粗糙或最有害的版本将作为整个极其多样化且常常复杂的理论范围的良好代表。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anscombe, G.E.M., 1958. “Modern moral philosophy,” *Philosophy*, 33: 1–19.
@@ -275,4 +275,4 @@ Elizabeth Tropman (2018)认为，理解道德客观性的最佳方式如下：x 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Richard Joyce](http://www.victoria.ac.nz/hppi/about/staff/richard-joyce) <[*richard.joyce@vuw.ac.nz*](mailto:richard%2ejoyce%40vuw%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

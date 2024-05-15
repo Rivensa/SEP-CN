@@ -220,7 +220,7 @@ Carnap 对本体论和形而上学的拒绝受到了多方面的广泛批评。�
 
 在逻辑的众多概念和本体论的众多不同哲学项目之间，存在许多问题处于这些领域的交叉点上。我们已经提及了其中几个问题，但还有其他问题。虽然逻辑和本体论之间没有单一的关系问题，但它们之间存在许多有趣的联系，其中一些与中心哲学问题密切相关。下面的参考文献和链接旨在提供对这些主题的更深入的讨论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Barwise, J. and R. Cooper, 1981. ‘Generalized Quantifiers in Natural Language,’ in *Linguistics and Philosophy*, 4: 159–219.
@@ -321,4 +321,4 @@ Thanks to various anonymous referees for their helpful suggestions on earlier ve
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Thomas Hofweber](https://philosophy.unc.edu/people/thomas-hofweber/) <[*hofweber@unc.edu*](mailto:hofweber%40unc%2eedu)>
-<!--md-padding-ignore-end-->
+

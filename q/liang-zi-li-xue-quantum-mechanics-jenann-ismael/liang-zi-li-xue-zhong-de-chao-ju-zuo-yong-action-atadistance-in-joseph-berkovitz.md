@@ -512,7 +512,7 @@ Berkovitz（1998b，第 3.2 节，2002，第 4 节）认为 Arntzenius 的推理
 
 Berkovitz（2002 年，第 5 节）认为，莫德林的论点实际上是，如果这种逆因果理论是真实的，它们将涉及到封闭的因果循环，其中这些理论分配的结果的概率肯定会偏离这些结果的统计数据。而且，与阿恩岑尼乌斯的论点类似，莫德林的论点也基于关于因果循环中概率性质的不可行的假设（有关莫德林和伯科维茨的论点以及克拉默理论的前景的进一步讨论，请参见卡斯特纳 2004 年）。此外，伯科维茨（2002 年，第 2 节和第 5.4 节）认为，与相对论参数依赖理论类似，假设逆因果性的理论面临的主要挑战不是因果悖论，而是它们的预测能力可能会受到破坏。也就是说，这些理论分配的概率可能无法预测循环中事件的频率。特别是，莫德林考虑的局部逆因果理论无法为某些实验的测量结果频率分配任何明确的预测。然而，其他一些假设存在因果循环的理论，例如萨瑟兰（2006 年）的局部时间对称的波尔曼量子力学解释，似乎没有遭受这个问题的困扰。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albert, D. (1992), *Quantum Mechanics and Experience*, Cambridge Mass.: Harvard University Press.
@@ -765,4 +765,4 @@ For comments on earlier versions of this entry, I am very grateful to Guido Bacc
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by\
 Joseph Berkovitz <[*jzberkovitz@yahoo.com*](mailto:jzberkovitz%40yahoo%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -222,7 +222,7 @@ Chatton 担心，如果一个人持有类似于沃德汉姆的立场，就不再
 
 > 如果大师的意思是为了实现救赎，人们必须相信不仅仅是拥有完美的意愿，还必须平静地相信（quiete），那么他确实是正确的...（OO IV 58，ll. 26-29）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -331,4 +331,4 @@ We wish to thank Professor Simo Knuuttila, Dr. Olli Hallamaa and the Department 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 John T. Slotemaker <[*jslotemaker@fairfield.edu*](mailto:jslotemaker%40fairfield%2eedu)>  
 [Jeffrey C. Witt](http://jeffreycwitt.com/) <[*jcwitt@loyola.edu*](mailto:jcwitt%40loyola%2eedu)>
-<!--md-padding-ignore-end-->
+

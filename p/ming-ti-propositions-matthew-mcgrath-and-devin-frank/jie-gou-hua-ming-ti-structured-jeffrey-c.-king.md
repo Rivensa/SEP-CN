@@ -350,7 +350,7 @@ Ed 跑步。
 
 然而，罗素关于动词命题贡献将成分以不同方式绑定在一起的观点很难理解。在上面罗素的倒数第二个引文中，他暗示由“A 与 B 不同”表达的命题，其成分是 A、不同和 B，实际上是由 A 和 B 之间的不同所保持在一起的。如果我们将不同称为关系，那么命题将由 A 与 B 之间的不同关系组成。罗素提出了一些观点，表明这是他的观点。但是这似乎是不正确的。直观上，A 与 B 之间的不同关系使得 A 与 B 不同的命题成为真实。它并不是命题本身。因为如果是这样的话，似乎如果 A 不与 B 之间存在不同关系，那么就没有（错误的）命题表明 A 与 B 不同。而且，基于同样的原因，似乎也没有错误的命题。也许罗素的意思是动词的命题贡献以其他方式将命题成分保持在一起。但是这种方式显然并不清楚。或者他可能持有类似于上面讨论的扎尔塔的观点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bealer, George, 1979, ‘Theories of Properties, Relations and Propositions’, *Journal of Philosophy* 76: 634–648.
@@ -417,4 +417,4 @@ Thanks go to Mark Brown for spotting a use/mention error in Section 2 and for id
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Jeffrey C. King](http://philosophy.rutgers.edu/index.php?option=com\_content\&task=view\&id=105\&Itemid=210) <[*jcking310@gmail.com*](mailto:jcking310%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

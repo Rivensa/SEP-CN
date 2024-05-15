@@ -224,7 +224,7 @@ Reasons aside, philosophers are also concerned with the way in which grateful be
 
 感恩政治义务的论点，即使是在其较弱的形式中，对政治义务和政治权威的问题可能具有重要影响。例如，如果一些主体对国家有感恩义务，而感恩义务不能被强制或要求，那么政治义务（主体对国家应承担的义务）和政治权威（国家对其主体有权要求什么）的问题并没有一致的答案（McConnell 1993: 208）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aquinas, T., *Summa Theologiae*, [available online](http://www.newadvent.org/summa/).
@@ -312,4 +312,4 @@ Reasons aside, philosophers are also concerned with the way in which grateful be
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Tony Manela](https://www.siena.edu/faculty-and-staff/person/tony-manela/) <[*amanela@siena.edu*](mailto:amanela%40siena%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -148,7 +148,7 @@
 
 这个关于奇妙（meraviglia）和由附带的惊愕引发的情感的话题对波尔塔来说非常重要，他将其投射到整个创造之中，从而赋予它普遍法则的地位。在《魔法》（1558 年）的一个关键段落中，他写道，大自然本身——伟大的女巫——创造她所有的奇迹都是出于对自己表演的喜悦（第 1 卷，第 9 章）。对自然的这种拟人化感知以及对其中惊奇的重视，揭示了波尔塔的魔术实践与他的舞台文本之间的密切关联。波尔塔对媒体通过药物或视觉欺骗、奇妙的表演以及利用个体人类的身体特征来操纵个人和群众的力量有着敏锐的感知。他相信我们的相面特征、身体形状都能显示出隐藏的倾向（因此，一位熟练的相面学家可以迅速发现罪犯和其他卑劣的人）。因此，在波尔塔的作品中，我们可以看到他在警察工作、将人类与其他动物归为一类以及受到神秘但自然的占星影响的支配下建立的联系。通过他关于相面学的作品，波尔塔无疑是为绝对主义统治者和宫廷人士提供服务。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### List of Porta’s Works
@@ -322,4 +322,4 @@ The editors and the author would like to thank Emily Fox-Penner for her voluntee
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Sergius Kodera <[*sergius.kodera@univie.ac.at*](mailto:sergius%2ekodera%40univie%2eac%2eat)>
-<!--md-padding-ignore-end-->
+

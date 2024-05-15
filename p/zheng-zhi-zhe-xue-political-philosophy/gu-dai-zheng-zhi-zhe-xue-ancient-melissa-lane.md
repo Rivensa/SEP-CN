@@ -254,7 +254,7 @@ Cynics 从希腊语中取名为“狗”，指的是他们追求的类似动物�
 
 柏拉图和亚里士多德在许多方面可以被视为捍卫希腊伦理学的一些基本原则（如正义的价值），但他们通过推进修正主义的哲学教义并与他们所处的民主制度对这些原则的解释方式保持距离来做到这一点。他们以及他们的后继者所阐述的伦理和政治观点的范围，尽管自那时以来已经进行了许多重要的制度形式和思想方法的创新，但仍然定义了现代哲学的许多基本选择。事实上，许多这些创新都是对古代怀疑主义和相对主义挑战的复兴作出的回应：这些挑战已经在古代政治哲学本身的演变中得到了认识。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 This bibliography focuses on political philosophy rather than the entire corpus of an author’s work, and gives only an overview of some important sources for this vast field. Fuller bibliographies for most of the works and authors discussed can be found in the related articles listed below.
@@ -445,4 +445,4 @@ The author would like to acknowledge the research assistance by René de Nicolay
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Melissa Lane](https://melissalane.princeton.edu/) <[*mslane@princeton.edu*](mailto:mslane%40princeton%2eedu)>
-<!--md-padding-ignore-end-->
+

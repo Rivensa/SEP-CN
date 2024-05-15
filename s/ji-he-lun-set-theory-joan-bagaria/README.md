@@ -324,7 +324,7 @@ MA 有许多不同的等价表述，并且已经被非常成功地用于解决�
 
 一种不同的强迫公理是 Woodin 的公理（∗），它是他对 AD 模型上的 Pmax 强迫扩展进行分析的结果。尽管更强的 MM 形式（称为 MM++）和公理（∗）具有类似且非常丰富的结果，但它们的动机和形式非常不同，以至于它们被视为竞争的公理。它们的联系远非明确，直到 Asperó 和 Schindler（2021）表明，在存在大基数的情况下，公理（∗）等价于 MM++的有界形式，因此等价于一种自然的泛型绝对性原理。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Asperó, D. and Schindler, R. D., 2021, “Martin’s Maximum++ implies Woodin’s Axiom (∗)”, *Annals of Mathematics*, 193(3): 793–835.
@@ -381,4 +381,4 @@ MA 有许多不同的等价表述，并且已经被非常成功地用于解决�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Joan Bagaria <[*joan.bagaria@icrea.cat*](mailto:joan%2ebagaria%40icrea%2ecat)>
-<!--md-padding-ignore-end-->
+

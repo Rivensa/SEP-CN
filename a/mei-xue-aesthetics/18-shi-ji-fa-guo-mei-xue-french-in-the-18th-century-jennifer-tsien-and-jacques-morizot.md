@@ -154,7 +154,7 @@ Diderot 作为一位艺术作家的努力基于两种互补的信念，即画家
 
 艺术对大众的新可及性以及印刷作品的日益普及和读写能力的提高，使 18 世纪的社会发生了转变。17 世纪的世俗品味评判者让位给了专业评论家，即启蒙哲学家。法国革命所创造的新世界很快扩展并进一步复杂化了艺术的制作与评论家和公众的接受之间的联系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Many of the quotes in the text can be found in the following anthology:
@@ -256,4 +256,4 @@ Other useful anthologies include:
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Jennifer Tsien <[*tsien@virginia.edu*](mailto:tsien%40virginia%2eedu)>  
 Jacques Morizot
-<!--md-padding-ignore-end-->
+

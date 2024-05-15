@@ -166,7 +166,7 @@
 
 现在，从唯名论者的角度来看，接受模态虚构主义必须与某种唯名论可接受的关于故事、理论或一般表示的解释/理论相结合。因为接受像‘根据 PW 的说法，存在一些世界，那里有蓝天鹅’这样的说法似乎会使人承诺 PW，而 PW 是一个理论，因此似乎会使人承诺理论。但是理论似乎是抽象对象。因此，虚构主义唯名论者需要一个关于理论的唯名论解释/理论。例如，如果理论是命题的集合，那么关于集合和命题的唯名论解释/理论就可以作为理论的唯名论解释/理论。\[32]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, W., 1958, “Ontological Commitments”, *Philosophical Studies*, 9: 8–17.
@@ -250,4 +250,4 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Gonzalo Rodriguez-Pereyra](http://www.philosophy.ox.ac.uk/people/gonzalo-rodriguez-pereyra)
-<!--md-padding-ignore-end-->
+

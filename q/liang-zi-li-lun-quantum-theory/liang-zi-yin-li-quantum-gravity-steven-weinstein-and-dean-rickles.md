@@ -186,7 +186,7 @@ Wüthrich（2005 年，第 779-80 页）认为，不涉及引力场量子化的�
 
 量子引力研究面临着形式上、实验上和概念上的困难的结合。无论出于必要性还是其他原因，寻求量子引力理论的探索都是不可避免的，而解决这个问题似乎需要形式上、实验上和概念上的专业知识的等效组合。鉴于这一点，并且考虑到量子引力研究在理论物理学中的核心地位，哲学物理学家（以及一般的科学哲学家）尽力熟悉量子引力问题的核心细节和主要的解决方法是明智的。除此之外，量子引力研究还有潜力激发几个标准的哲学探究领域，包括我们对理论构建、选择和证明的标准概念；空间、时间、物质和因果性的本质，它还引入了一个新的涌现案例，具有全新的特征。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ashtekar, A. and R. Geroch, 1974, “Quantum theory of gravitation,” *Reports on Progress in Physics*, 37: 1211–56.
@@ -351,4 +351,4 @@ Wüthrich（2005 年，第 779-80 页）认为，不涉及引力场量子化的�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Steven Weinstein](https://uwaterloo.ca/philosophy/people-profiles/steven-weinstein)  
 [Dean Rickles](http://www.usyd.edu.au/hps/staff/academic/Dean_Rickles.shtml) <[*dean.rickles@sydney.edu.au*](mailto:dean%2erickles%40sydney%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

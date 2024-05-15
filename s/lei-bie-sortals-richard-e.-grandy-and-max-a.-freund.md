@@ -316,7 +316,7 @@ Belnap 和 Müller 在时态和情态的非标准形式逻辑中开发了一种�
 
 大量深思熟虑的哲学家认为，类别的概念在哲学上具有重要意义，这表明他们试图界定和分析某些重要的事物。在过去的二十年中，认知心理学家和形式本体论者在他们的研究中应用了这个术语。然而，我们对定义和讨论的剖析表明，存在许多不同之处，尽管这些不同之处有重要的重叠，但它们并不相同。尚不清楚类别/非类别的区分是否标志着一个非常重要的差异，或者是与复杂方式相关的许多较不重要的区别。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ayers, Michael R., 1974, “Individuals without sortals”, *Canadian Journal of Philosophy*, 4(1): 113–148.
@@ -436,4 +436,4 @@ Belnap 和 Müller 在时态和情态的非标准形式逻辑中开发了一种�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Richard E. Grandy](http://www.ruf.rice.edu/\~rgrandy/)\
 Max A. Freund <[*mfreundcr@gmail.com*](mailto:mfreundcr%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

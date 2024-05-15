@@ -437,7 +437,7 @@ Graham（1997：227）根据传递信息提供了一个不同的证言解释，�
 
 不论如何理解证言本身，所有这些作者都同意我们可以从他人的证言中学习。然而，正如我们所见，解释我们如何能够从别人告诉我们的事情中学习，已经被证明是一项困难的任务。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, Jonathan E., 1994, “Testimony, Trust, Knowing”:, *Journal of Philosophy*, 91(5): 264–275. doi:10.2307/2940754
@@ -674,4 +674,4 @@ I am grateful to Jennifer Lackey and Sandy Goldberg for some *very* helpful fe
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Nick Leonard <[*nleonard@usfca.edu*](mailto:nleonard%40usfca%2eedu)>
-<!--md-padding-ignore-end-->
+

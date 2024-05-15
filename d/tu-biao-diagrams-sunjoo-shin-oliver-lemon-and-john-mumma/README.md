@@ -356,7 +356,7 @@ Kosslyn（1980, 1994）和其他图像主义者（Shepard & Metzler 1971）提�
 
 我们首先通过阐述图表在人类推理中的作用以及它们与语言研究和多模态信息处理的关系来激发了对图表的哲学兴趣。然后，我们通过考察从欧拉和文氏到皮尔斯的工作，再到辛和哈默最近的工作，解释了图表系统在表达能力和视觉清晰度之间的权衡。我们认为，图表系统可以被赋予与传统线性证明演算相同的逻辑地位。然后，我们通过研究图表系统中的空间约束以及它们如何影响正确性和表达能力来解释图表表示和推理的一些潜在陷阱。最后，我们对其他图表系统进行了调查，探讨了计算机科学和认知科学中对图表的兴趣，并介绍了在心灵哲学中的意象辩论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References
@@ -493,4 +493,4 @@ Kosslyn（1980, 1994）和其他图像主义者（Shepard & Metzler 1971）提�
 [Sun-Joo Shin](http://www.yale.edu/philos/people/shin_sun-joo.html) <[*Sun-Joo.Shin@yale.edu*](mailto:Sun-Joo%2eShin%40yale%2eedu)>  
 [Oliver Lemon](http://www.macs.hw.ac.uk/staff-directory/oliver-lemon.htm)  
 [John Mumma](http://www.johnmumma.org/) <[*jmumma@csusb.edu*](mailto:jmumma%40csusb%2eedu)>
-<!--md-padding-ignore-end-->
+

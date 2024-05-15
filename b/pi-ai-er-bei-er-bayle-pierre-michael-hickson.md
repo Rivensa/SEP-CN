@@ -156,7 +156,7 @@ Mori 对培尔的解释令人信服，尤其是在今天，邪恶问题不仅被
 
 我们如何看待一个作者，他可能是无神论者或基督徒，这取决于你如何阅读他；或者他可能是怀疑论者或理性主义者，这取决于你的观点？这是培尔文献中的一个主要问题。Lennon 在 1999 年的《阅读培尔》中提供了一个令人信服的解决方案。Lennon 在 José R. Maia Neto（1999）的开创性工作的基础上，将培尔的作品解释为对学术诚信的承诺，正如西塞罗在他关于学院怀疑论者的著作中所表达的那样。这种诚信的目标是保持自己的判断力不受限制；它是保持开放的心态。学院派为了实现这种智力自由所采用的方法是严格呈现辩论的双方观点；不像律师那样试图让一方看起来比另一方更弱，而是像记者那样，让每一方用自己的话来陈述最好的理由。Lennon 在《词典》中尤其发现了对这些目标和方法的承诺，培尔在那里更像一个记者引用，而不是像律师争辩。学院派对培尔的这种阅读的力量在于它解释了为什么培尔似乎自相矛盾。问题的出现是因为培尔的读者没有意识到，培尔并不是个人相信他所写的一切；有时候他只是为了平衡论点和促进学术判断的自由而陈述别人的立场。正如上帝作为创造的作者允许生物彼此冲突，甚至反对上帝对创造的计划一样，培尔作为一部庞大作品的作者，允许他作品中的人物和哲学论题相互冲突，甚至反对培尔在他的作品中所陈述的目标。培尔之谜，就像培尔钟爱的邪恶问题一样，可能是无法解决的，因为在每个问题中都存在着作者设计和人类自由之间的冲突。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 A bibliography of all Bayle’s primary literature and most secondary literature up to 2020 is contained in Mori 1999 [2020].
@@ -370,4 +370,4 @@ A bibliography of all Bayle’s primary literature and most secondary literature
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Michael Hickson](http://www.trentu.ca/philosophy/faculty_hickson.php) <[*michaelhickson@trentu.ca*](mailto:michaelhickson%40trentu%2eca)>
-<!--md-padding-ignore-end-->
+

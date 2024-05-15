@@ -204,7 +204,7 @@ Plunkett 和 Shapiro（2017）提出的另一种最近的方法论观点认为�
 
 当然，即使解释的论证失败，纯粹描述性的法律理论仍然是可能的，尝试对法律实践进行建设性解释仍然是一个值得的项目，而这个项目的产出确实是部分评价性的理论。尽管如此，这两种类型的理论并不真正冲突，因为它们致力于回答不同的问题。因此，"方法论多元主义" 可能是对法学中现状最恰当的描述。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Asgeirsson, Hrafn, forthcoming, *The Nature and Value of Vagueness in the Law*, Oxford: Hart Publishing.
@@ -280,4 +280,4 @@ Plunkett 和 Shapiro（2017）提出的另一种最近的方法论观点认为�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Andrei Marmor <[*am2773@cornell.edu*](mailto:am2773%40cornell%2eedu)>  
 [Alexander Sarch](https://www.surrey.ac.uk/people/alexander-sarch) <[*a.sarch@surrey.ac.uk*](mailto:a%2esarch%40surrey%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

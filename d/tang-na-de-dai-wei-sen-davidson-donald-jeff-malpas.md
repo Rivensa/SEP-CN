@@ -130,7 +130,7 @@ Davidson holds that events are particulars such that the same event can be refer
 
 这种并置的原因之一，正如戴维森本人所推测的，与他对认识论和意义主观主义理论的“拒绝”有关，以及他肯定“思维本身本质上是社会性的”这一观点（戴维森，160 页）。戴维森的工作与杜威和海德格尔等人的工作一起，被理查德·罗蒂明确地用来阐述他自己的实用主义反再现主义（参见罗蒂，1991 年，第 i 页）。尽管戴维森并不认为自己是一个实用主义者（再次反映了他对简单分类的抵制以及他对实用主义真理理论的拒绝），但他确实承认了他的工作与实用主义传统中的人物（包括 C.I.刘易斯和 G.H.米德）之间的一些共同点。汉斯-格奥尔格·加达默似乎感到与戴维森有一种亲近感，他在 1989 年推荐戴维森获得黑格尔奖，之后几年写信给他，并邀请戴维森为他的《活哲学家图书馆》系列做出贡献（参见戴维森，2005 年：261-276；加达默，1997 年）-尽管这并没有阻止两人在关键方面互相误读。戴维森对精神分析的兴趣部分是由于马西娅·卡维尔的影响，可以在他关于非理性和意志薄弱的一些著作中看到，戴维森式思维与弗洛伊德思想的联系也由卡维尔本人进行了探讨（参见卡维尔，1993 年）。一些作家探讨了戴维森与加达默之间的联系（例如 Braver、Dostal、Fultner、Vessey 和 Malpas 在 Malpas，2011 年：147-190 和 219-279 中的论文；另见 Keane，2021 年），以及戴维森与海德格尔之间的联系（例如 Malpas，1992 年，2012 年：199-224；Wrathall，1999 年；Nulty 2006 年；Okrent，在 Malpas，2011 年：87-112 中；戴维森与德里达之间的联系（例如 Dasenbrock，1993 年；Wheeler，2000 年；Wheeler 在 Malpas，2011 年：29-42 中）。戴维森的一种形式的横渡论证在几次讨论中也成为焦点（参见例如 Maker，1993 年；Carpenter，2003 年），有时也出现在对戴维森与康德之间联系的更广泛探索中（参见例如 Goldberg 2015 年，还有 Fennell，2010 年，以及与唯心主义问题有关的 Haddock，2011 年）。戴维森本人承认维特根斯坦在他的工作中的重要影响（关于两者之间的联系，参见 Verheggen，2017 年；还有 Stoutland，在 Malpas，2011 年：297-324 中；戴维森还探讨了他的思想与哲学史上的各种人物的相似之处，尤其是斯宾诺莎（戴维森，2005 年：295-313；另见范德伯格，2007 年）和柏拉图（2005 年：223-260），以及亚里士多德（戴维森，2005 年：277-294）和休谟（戴维森，2001 年：277-290），还有，虽然很简短，但是康德（戴维森，2001 年：207）。戴维森在哈佛大学攻读哲学史的早期研究受到了 A.N. 怀特海德和文学（戴维森对詹姆斯·乔伊斯的作品保持着持久的兴趣，参见戴维森，2005 年：143-157；还有达森布洛克，2002 年）在他成熟思维中提供了一个重要但大部分隐藏的背景。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 An extensive bibliography of primary and secondary material was compiled by Davidson himself as part of Hahn (ed.) 1999, and although now over 20 years old, it remains useful.
@@ -251,4 +251,4 @@ An extensive bibliography of primary and secondary material was compiled by Davi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jeff Malpas](https://jeffmalpas.com/) <[*Jeff.Malpas@utas.edu.au*](mailto:Jeff%2eMalpas%40utas%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

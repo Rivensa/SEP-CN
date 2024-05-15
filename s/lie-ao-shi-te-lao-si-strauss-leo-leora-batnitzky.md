@@ -160,7 +160,7 @@
 
 最终，对斯特劳斯问题和答案的循环性如何评价，将取决于一个人对“现代性的神学政治困境”的诊断有多认真。如果一个人认为斯特劳斯没有对这一困境的严重知识和政治影响提出充分的论证，那么他可能认为斯特劳斯不过是在创造性地重新阅读一些前现代哲学家，无论是好是坏。另一方面，如果一个人认为斯特劳斯对“神学政治困境”的诊断具有说服力，那么他可能认为斯特劳斯在一个看似无关紧要的时代重新提出了关于真理、启示和自然的问题，这样做可能取得了相当大的成就。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Strauss
@@ -233,4 +233,4 @@ For a complete bibliography of Strauss’s writings see the [Leo Strauss Center
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Leora Batnitzky <[*batnitzk@princeton.edu*](mailto:batnitzk%40princeton%2eedu)>
-<!--md-padding-ignore-end-->
+

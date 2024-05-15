@@ -135,7 +135,7 @@
 
 如果道德善良被拒绝为一种纯粹的完美，那么并不意味着完美善良不是一种特定的完美。毕竟，我们可以理解完美善良为神圣代理的特定完美，而不将相关标准视为熟悉的以福利为导向的道德标准。上帝的完美善良可能涉及上帝以绝对完美的方式完美地回应价值。在中世纪时期，普遍认为上帝必须爱自己，但上帝并不被迫出于人类或其他有感知能力的生物的幸福前景而行动。因此，上帝根本不必创造，也无需理由不比上帝实际上更多地促进生物的幸福（这一立场在 Murphy 2017 年，2019a 年和 2019b 年以及 Rubio 2017 年以非常不同的方式得到了辩护）。这一立场与上帝可能将自己暂时置于某些规范之下的概念相容，例如通过承诺。但它会拒绝上帝本质上受到与我们人类受到的规范体系相同的规范体系的概念。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Marilyn McCord, 1987. “Duns Scotus on the Goodness of God,” *Faith and Philosophy*, 4: 486–505.
@@ -224,4 +224,4 @@ I am grateful to Jacob Earl, Anne Jeffrey, Alex Pruss, and Ed Wierenga for comme
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Mark Murphy](http://www9.georgetown.edu/faculty/murphym/) <[*murphym@georgetown.edu*](mailto:murphym%40georgetown%2eedu)>
-<!--md-padding-ignore-end-->
+

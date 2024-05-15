@@ -317,7 +317,7 @@ Hawley（2006）描述的第二个选项是“反驳”。
 
 反驳论点极为大胆。它似乎要求我们仅凭形而上学的论证就推翻最好的物理学。也许我们可以采取这种立场（但这似乎是一条非常具有挑战性的路线）。当涉及到提供这一结果时，现在主义的论证（例如在第 2 节中提到的那些）似乎有些不足。因此，反驳者通常尝试的方式是提出独立的动机来拒绝相对论的特殊理论（Crisp 2008 和 Monton 2006 可能被视为这样做）。追求这个项目的一种有趣方式是主张相对论应该基于科学原因而被拒绝，而不是出于纯粹的哲学原因，这表明另一种科学理论（也许是量子力学）需要绝对同时性。这是 Tooley（1997 年：335-71）所采取的方法，尽管他是为了增长块理论而不是现在主义进行辩护。尽管如此，正统观点仍然强烈反对这种方法。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert Merrihew, 1981, “Actualism and Thisness”, *Synthese*, 49(1): 3–41.
@@ -498,4 +498,4 @@ Hawley（2006）描述的第二个选项是“反驳”。
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 David Ingram <[*david.ingram@york.ac.uk*](mailto:david%2eingram%40york%2eac%2euk)>\
 [Jonathan Tallant](http://www.jonathantallant.com/) <[*Jonathan.tallant@nottingham.ac.uk*](mailto:Jonathan%2etallant%40nottingham%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

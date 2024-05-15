@@ -294,7 +294,7 @@ Brian McLaughlin（2016）通过采用目前流行的物理主义辩护策略，
 
 Zach Blaesi (2021)提出了一个反对泛心论的道德讽刺论证。一些泛心论者认为，我们在先理论上相信的体验必须基于基本层面上的体验，这是基于物理主义和二元论这两种传统选择的不足。如果我们将这种推理方式应用于元伦理学，Blaesi 认为，我们会认为我们在先理论上相信的道德事实，例如为了乐趣而虐待儿童是错误的，是基于微观层面实体所具有的基本规范属性的事实，一种“泛道德主义”。Blaesi 希望读者能够拒绝这种推理方式，将其推向泛道德主义的荒谬立场；类比地，他们应该拒绝类似的推理方式来反对泛心论。然而，Einar Duenger Bohn (2018)辩护了一种“泛规范主义”（在现实的基本层面上存在规范性），这与 Bohn 也探讨过的相当不寻常的泛心论形式（2019）相似。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albahari, Miri, 2020, “Beyond cosmopsychism and the great I am: How the world might be grounded in universal ‘advaitic’ consciousness”, in Seager 2020, 119–130.
@@ -491,4 +491,4 @@ This entry, beginning with the July 2017 version, is almost entirely written by 
 [Philip Goff](http://philipgoffphilosophy.com/) <[*philip.a.goff@durham.ac.uk*](mailto:philip%2ea%2egoff%40durham%2eac%2euk)>  
 [William Seager](https://www.utsc.utoronto.ca/~seager/)  
 [Sean Allen-Hermanson](http://www.fiu.edu/~philosop/cmp/hermanson.htm)
-<!--md-padding-ignore-end-->
+

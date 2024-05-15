@@ -879,7 +879,7 @@ Max 进入了建筑物。他吹了一首歌。
 
 这篇关于话语结构的简短说明完成了我们关于时态和体态的文章。正如在各个地方所指出的，本条目只能涵盖哲学、语言学、心理学和计算建模等领域关于时态和体态的广泛文献的一小部分。在所有提到的领域中，这仍然是一个活跃的研究领域，还有许多问题尚未解决。读者建议参考参考文献以及下面列出的其他互联网资源获取更多信息。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Altshuler, D., 2012, “Aspectual meaning meets discourse coherence: A look at the Russian imperfective”, *Journal of Semantics*, 29: 39–108.
@@ -1007,4 +1007,4 @@ Max 进入了建筑物。他吹了一首歌。
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Friedrich Hamm <[*friedrich.hamm@uni-tuebingen.de*](mailto:friedrich%2ehamm%40uni-tuebingen%2ede)>\
 Oliver Bott <[*oliver.bott@uni-bielefeld.de*](mailto:oliver%2ebott%40uni-bielefeld%2ede)>
-<!--md-padding-ignore-end-->
+

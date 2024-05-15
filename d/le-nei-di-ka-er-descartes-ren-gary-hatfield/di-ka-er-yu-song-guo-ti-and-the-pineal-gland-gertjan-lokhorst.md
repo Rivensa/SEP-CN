@@ -173,7 +173,7 @@ Qusta 的论文在 13 世纪的欧洲学术界产生了很大影响（Wilcox 198
 
 笛卡尔并不是第一个也不是最后一个写关于松果体的哲学家，但他比其他任何哲学家都更重视它。笛卡尔试图用涉及松果体的过程来解释我们大部分的心理活动，但细节仍然不清楚，即使在他自己的眼中，他的企图很快因为哲学和科学原因而被放弃。即便如此，松果体本身仍然具有吸引力，并且至今仍然受到密切的研究，甚至有一整本专门研究它的期刊，即《松果体研究杂志》。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * [AT] Adam, C., Tannery, P., eds., 1964–1974 [1897–1913], *Oeuvres de Descartes*, 11 volumes + supplement, Paris: Vrin/CNRS. (In French.)
@@ -268,4 +268,4 @@ Qusta 的论文在 13 世纪的欧洲学术界产生了很大影响（Wilcox 198
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Gert-Jan Lokhorst](http://gjclokhorst.nl/) <[*g.j.c.lokhorst@tudelft.nl*](mailto:g%2ej%2ec%2elokhorst%40tudelft%2enl)>
-<!--md-padding-ignore-end-->
+

@@ -148,7 +148,7 @@ Helen Longino 提出了一个非常有影响力的情境经验主义理论，其
 
 女性主义社会认识论者以各种方式主张民主与认知实践的成功之间存在深刻联系。他们关注认知社群内部的社会关系、这些社群外部的社会关系，以及知识生产社群与普通社群之间的社会关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References Cited
@@ -320,4 +320,4 @@ Helen Longino 提出了一个非常有影响力的情境经验主义理论，其
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Heidi Grasswick](http://www.middlebury.edu/academics/phil/faculty/node/16021) <[*grasswic@middlebury.edu*](mailto:grasswic%40middlebury%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -449,7 +449,7 @@ Colyvan 为相反的观点辩护（Colyvan 2001b），坚持认为数学应用�
 
 但是，唯名论者真的在改变辩论的规则吗？如果奎因的本体承诺标准确实提供了这些规则，那么他们确实在改变。但我们为什么要承认奎因的标准在本体论辩论中起到这样的作用呢？唯名论者对本体论辩论中这一深深根植的假设提出了质疑。通过这样做，他们为数学哲学中一种独特的唯名论形式的发展铺平了道路。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Azzouni, J., 1994, *Metaphysical Myths, Mathematical Practice: The Ontology and Epistemology of the Exact Sciences*, Cambridge: Cambridge University Press.
@@ -536,4 +536,4 @@ My thanks go to two anonymous referees for their helpful comments on earlier ver
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 [Otávio Bueno](http://www.as.miami.edu/personal/obueno/Site/Otavio\Bueno.html) <[*otaviobueno@mac.com*](mailto:otaviobueno%40mac%2ecom)>
-<!--md-padding-ignore-end-->
+

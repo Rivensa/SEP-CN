@@ -184,7 +184,7 @@
 
 除了伊本·盖比鲁勒作为一位诗人的技术造诣之外，值得注意的是，伊本·盖比鲁勒自己对于诗人身份的自我构想（这在他的许多诗歌中明显且自我指涉地探索）引发了关于语言、自我和神性本质的重要哲学问题。例如，通过将上帝的创造行为（通过言语）与诗人/哲学家自己的写作行为进行类比，伊本·盖比鲁勒可以说是邀请我们重新构想人类主体性、神圣性以及哲学理论建构与想象诗意游戏之间的关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Ibn Gabirol
@@ -357,4 +357,4 @@
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by\
 [Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[*spessin@du.edu*](mailto:spessin%40du%2eedu)>
-<!--md-padding-ignore-end-->
+

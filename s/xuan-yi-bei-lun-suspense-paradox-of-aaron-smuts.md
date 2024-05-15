@@ -100,7 +100,7 @@ Yanal 认为，“经历恐惧既不是悬疑的本身，也不依赖于无知�
 
 这四种理论的问题各不相同，但值得注意的是，悬疑理论不仅应该能够提供悬疑悖论的解决方案，还应该能够解释两个额外的事实。首先，如上所述，我们观看电影后悬疑常常减弱，并在随后的观看中继续减弱。其次，虽然叙事虚构在创造强烈悬疑方面非常有效，但我们在日常生活中很少感到悬疑。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Carroll, Noël, 2001, “The Paradox of Suspense”, in *Beyond Aesthetics*, Cambridge: Cambridge University Press.
@@ -136,4 +136,4 @@ Yanal 认为，“经历恐惧既不是悬疑的本身，也不依赖于无知�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Aaron Smuts](http://www.ric.edu/philosophy/cv/pages/aaron-smuts.aspx)
-<!--md-padding-ignore-end-->
+

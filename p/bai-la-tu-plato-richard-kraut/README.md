@@ -98,7 +98,7 @@
 
 在柏拉图的一些作品中，很明显他的目标之一是在读者中引起困惑的感觉，而对话形式被用来达到这个目的。《柏拉图的对话篇》可能是这样一部作品中最明显的例子，因为在这里，柏拉图不断地给读者带来一系列令人困惑的未解之谜和明显的矛盾。但他的其他一些作品也有这种特点，尽管程度较小：例如，《普罗泰戈拉斯》（德行是否可以教授？）、《小希庇阿斯》（自愿的错误是否比非自愿的错误更好？）以及《梅诺篇》的部分内容（有些人是否因为神的启示而具有德行？）。正如与苏格拉底对话的人有时会对他的言辞是否真实产生困惑（或者他是否在讽刺地说话），柏拉图有时也使用对话形式来在读者中引起类似的不安感，让我们对他的意思以及我们应该从所呈现给我们的论证中推断出什么感到困惑。但苏格拉底并不总是在讽刺地说话，同样，柏拉图的对话并不总是旨在让我们对所讨论的主题产生困惑。没有机械的规则可以发现如何最好地阅读对话，也没有一种解释策略可以同样适用于他的所有作品。如果我们能认识到柏拉图作品的多样性，并相应地调整我们的阅读方式，我们将能最好地理解他的作品并从中获益。与其对我们对柏拉图的阅读强加一种统一的期望（因为他在其他地方做过这样的事），我们应该对每个对话都持开放态度，接受其中独特的内容。这将是对他哲学艺术最合适的反应。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The bibliography below is meant as a highly selective and limited guide for readers who want to learn more about the issues covered above. Further discussion of these and other issues regarding Plato’s philosophy, and far more bibliographical information, is available in the other entries on Plato.
@@ -187,4 +187,4 @@ The bibliography below is meant as a highly selective and limited guide for read
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Richard Kraut](https://classics.northwestern.edu/people/faculty/emeritus-faculty/richard-kraut.html) <[*rkraut1@northwestern.edu*](mailto:rkraut1%40northwestern%2eedu)>
-<!--md-padding-ignore-end-->
+

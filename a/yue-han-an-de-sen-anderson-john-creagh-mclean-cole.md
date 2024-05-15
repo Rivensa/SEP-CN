@@ -219,7 +219,7 @@ J·L·麦基认为，安德森对善的积极概念“作为道德言论和推�
 
 最后，这个问题涉及到哲学探究和学徒制度的价值和深度，与追求这样一种传统而放弃其他一切的机会成本相比。这个问题在安德森去世十年后被紧急提出，当时悉尼大学哲学系因政治原因分裂成两个独立的单位，但不可避免地也涉及到哲学探究和学习本身的性质。虽然该系最终重新合并为一个专业和富有成效的单位，但其成员对重新审视一个麻烦的历史几乎没有兴趣。这尤其适用于约翰·安德森教授的高度独特的工作和遗产，他在二十世纪的大部分时间里是悉尼大学哲学界的主导力量。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Anderson
@@ -320,4 +320,4 @@ Many thanks to the close reading and very helpful suggestions of an anonymous re
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Creagh McLean Cole <[*creaghmcole@gmail.com*](mailto:creaghmcole%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

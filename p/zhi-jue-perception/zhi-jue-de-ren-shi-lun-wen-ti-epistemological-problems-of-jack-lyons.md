@@ -322,7 +322,7 @@ Goldman（1979 年，1986 年）认为，证明是由一个认知过程的运作
 
 知觉的认识论问题传统上集中在怀疑主义的威胁上，特别是与众所周知的知觉形而上学所涉及的“知觉面纱”有关，这威胁到怀疑主义的产生。尽管哲学史上很大一部分涉及寻找这个问题的形而上学解决方案，但近几十年来，专门的认识论理论不断涌现，提供了更直接的对这些问题的回应。即使我们已经有了形而上学的解释，我们仍然需要在认识论上做出困难的决策。已经提出了各种证据、因果和直接世界参与的理论，包括这些理论的组合。这三种理论都有内在主义和外在主义的变体。结果是认识论研究领域的一个活跃且持续的领域。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, William P., 1988, “An Internalist Externalism”, *Synthese*, 74(3): 265–283. doi:10.1007/BF00869630
@@ -477,4 +477,4 @@ Thanks to Bill Fish and Susanna Siegel for comments on earlier drafts, and to Jo
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Jack Lyons <[*jack.lyons@glasgow.ac.uk*](mailto:jack%2elyons%40glasgow%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

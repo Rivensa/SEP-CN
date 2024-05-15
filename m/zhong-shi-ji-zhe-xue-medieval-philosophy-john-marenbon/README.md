@@ -277,7 +277,7 @@ Gersonides 对 Maimonides 的立场感到不满是可以理解的。Maimonides �
 
 这种“巴洛克的斯科拉哲学”现在开始被认可（参见 Novotný 2009）。与此同时，该领域的一些最优秀的学者撰写了一些研究，有意跨越了通常的中世纪哲学到现代哲学的分界线，从 1274 年到 1671 年研究形而上学（Pasnau 2011），或者从 1270 年到 1670 年研究情感理论（Perler 2011 \[2018]）。这些方法仍然倾向于接受中世纪哲学结束，现代哲学开始于大约 1500 年或至少在 1600 年之前的标准观念，强调延续性或主张“中世纪后的中世纪哲学”的存在\[42]。然而，一个激进的建议是将中世纪拉丁哲学的结束时间定在大约 1700 年左右（当然要允许与早期现代哲学的重叠），因为直到那时，新科学和笛卡尔主义的影响才渗入大学教育，亚里士多德传统正在消失（尽管在欧洲并非到处都是如此）\[43]。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. General Histories of Medieval Philosophy
@@ -518,4 +518,4 @@ There are many other bibliographies in this series relevant to the field: Ashwor
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 John Marenbon <[*jm258@cam.ac.uk*](mailto:jm258%40cam%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

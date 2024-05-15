@@ -412,7 +412,7 @@ Anna Marmodoro (2013)认为现代形质论者在某种程度上误解了亚里�
 
 所有非相对论的哲学系统都承认实体的最普遍意义，因为这只是承认在他们的系统中存在一些基本实体。大多数哲学家承认，如果不使用更狭义的实体概念，我们无法正常运作，因为持久的个别实体的概念对我们理解我们所生活的世界至关重要。但至少有三个问题仍然存在争议。首先，人们争论需要使用哪些概念来描述这些事物：是传统的或“亚里士多德式”的丰富多样的实体概念，还是将事物仅仅视为具有某些特征的物质身体的各种方式能够胜任这个任务？其次，我们的实体概念到底在多大程度上意味着反映了现实（真实或想象中）中超越构成其可理解方面的属性束的组成部分仍然不清楚。第三，事物的本质与其所做之间的联系不明确，这使得实体概念与目的和最终因果关系的概念之间的相互依赖程度仍然未解决。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle, *Categories and De Interpretatione* (Clarendon Aristotle Series), translation and notes by J. Ackrill, Oxford: Clarendon Press, 1963.
@@ -557,4 +557,4 @@ The editors would like to thank Sally Ferguson for carefully reading this entry 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Howard Robinson](http://philosophy.ceu.edu/people/howard-robinson) <[*robinson@ceu.hu*](mailto:robinson%40ceu%2ehu)>  
 [Ralph Weir](https://staff.lincoln.ac.uk/3f39e531-23d9-4094-a70f-4267413df1b8) <[*rweir@lincoln.ac.uk*](mailto:rweir%40lincoln%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

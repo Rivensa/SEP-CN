@@ -261,7 +261,7 @@ Chapa 通过“对真实对象的理解”（don bden rtogs）的术语来制定
 
 第二个要求强调了定义和被定义的事物之间的差异，用藏语表达为前者是“实质存在的”，后者是“名义存在的”。后者因此依赖于对其他事物（即定义）的理解。根据第三个要求，定义和被定义的事物必须是同一范围，但只有一个定义提供了被定义事物的具体指称。例如，“因果有效”并不是“无常”的定义，尽管所有因果有效的事物都是无常的，反之亦然，因为它并不被认为与“常住”直接矛盾，就像“不停留于第二个瞬间”（“无常”的被接受定义）那样。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Sources and translations
@@ -358,4 +358,4 @@ The most extensive general study of the classical and post-classical period is:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Pascale Hugon](https://www.oeaw.ac.at/en/ikga/team/research/hugon-pascale/) <[*pascale.hugon@gmail.com*](mailto:pascale%2ehugon%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

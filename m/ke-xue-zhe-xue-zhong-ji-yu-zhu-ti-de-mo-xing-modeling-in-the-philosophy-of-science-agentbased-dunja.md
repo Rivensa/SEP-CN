@@ -364,7 +364,7 @@ Weisberg 和 Muldoon 的基于主体的模型采用了一个三维景观（见�
 
 另一个新兴的研究方向来自人工智能的最新发展。特别是，大数据和机器学习模型可以成为生成基于主体模型输入的有益途径，例如代理行为（参见 Kavak、Padilla、Lynch 和 Diallo 2018；Zhang、Valencia 和 Chang 2023）。例如，自然语言处理技术已被用于以自然语言表达其论点的代理的表示（Betz 2022）。这些增强提供了高度理想化模型的新机会：从对其假设进行非理想化的鲁棒性分析，到对新问题和现象的探索。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adami, Christoph, Jory Schossau, and Arend Hintze, 2016, “Evolutionary Game Theory Using Agent-Based Methods”, *Physics of Life Reviews*, 19: 1–26. doi:10.1016/j.plrev.2016.08.015
@@ -630,4 +630,4 @@ Many thanks to Wybo Houkes, Matteo Michelini, Samuli Reijula, Christian Straßer
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Dunja Šešelja](https://rub.academia.edu/DunjaSeselja) <[*dunja.seselja@ruhr-uni-bochum.de*](mailto:dunja%2eseselja%40ruhr-uni-bochum%2ede)>
-<!--md-padding-ignore-end-->
+

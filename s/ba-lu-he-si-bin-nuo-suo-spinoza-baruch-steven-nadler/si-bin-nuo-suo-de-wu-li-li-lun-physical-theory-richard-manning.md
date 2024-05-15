@@ -224,7 +224,7 @@ Matson 在这个类比中附加了任何生物的身份的公式，据说可以�
 
 回顾起来，斯宾诺莎对物质自然的看法似乎是一个不稳定的混合体，甚至可能是不连贯的。但它对于作者的惊人独创性以及 17 世纪中期自然哲学领域的不稳定状态的证言具有极大的兴趣。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -304,4 +304,4 @@ Matson 在这个类比中附加了任何生物的身份的公式，据说可以�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Richard Manning <[*rnmanning@gmail.com*](mailto:rnmanning%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

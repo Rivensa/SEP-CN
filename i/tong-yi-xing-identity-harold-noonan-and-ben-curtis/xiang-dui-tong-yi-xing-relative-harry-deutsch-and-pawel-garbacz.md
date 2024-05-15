@@ -343,7 +343,7 @@ A 和 B 是同一本书，但 A 和 B 是不同的副本（书的副本）。
 
 回复：Moltmann 所概述的语义学具有其本体论成本，因为其支持者需要承认一个单一的范畴可能有多个承担者。但即使你被她的论证说服，接受这个有争议的立场，你仍然可以接受 RI。Moltmann 的理论涉及一类特定的相对同一性陈述，并不直接影响上述所描述的 RI 的应用，这些应用不必被表述为涉及裸指示的同一性陈述。例如，接受这个理论，你可以自由地说原始的和改造后的船是同一艘船，但不是同一堆木板，而重新组装的船与原始的船是同一堆木板，但不是同一艘船。因此，即使可以解释 RI 的整个语言证据，我们仍然可以将相对同一性作为一个理论上的解释工具，例如，为上述悖论提供解决方案。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anscombe, G.E.M. and P. T. Geach, 1961, *Three philosophers: Aristotle; Aquinas; Frege*, Ithaca: Cornell Press.
@@ -483,4 +483,4 @@ The SEP editors would like to thank Christopher von Bülow for reporting a list 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Harry Deutsch  
 Pawel Garbacz <[*garbacz@kul.lublin.pl*](mailto:garbacz%40kul%2elublin%2epl)>
-<!--md-padding-ignore-end-->
+

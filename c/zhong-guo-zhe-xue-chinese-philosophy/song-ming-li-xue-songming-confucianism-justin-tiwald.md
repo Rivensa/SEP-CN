@@ -150,7 +150,7 @@
 
 在某些方面，宋明理学在当今东亚哲学中占据如此重要的地位并不令人意外。宋明时期的思想家为更简洁和零碎的儒家经典增添了哲学深度和系统性，因此，那些自身是哲学家或在历史儒家传统中寻找哲学的学者很自然地会被吸引到其最伟大的系统建构者那里。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Major Chinese Sources Cited by Title or Abbreviation
@@ -281,4 +281,4 @@ The discussion in this entry sometimes relies on work that appeared in a book co
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Justin Tiwald <[*jtiwald@sfsu.edu*](mailto:jtiwald%40sfsu%2eedu)>
-<!--md-padding-ignore-end-->
+

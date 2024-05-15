@@ -337,7 +337,7 @@ Quine 在 Carnap 身上看到的另一个“经验主义教条”是他坚持“
 * [Supplement G: *Logical Syntax of Language* (LSS)](https://plato.stanford.edu/entries/carnap/syntax.html)
 * [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Carnap’s Works
@@ -897,4 +897,4 @@ The two major collections of Carnap papers are at the Archive of Scientific Phil
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hannes\leitgeb/index.html) <[*Hannes.Leitgeb@lmu.de*](mailto:Hannes%2eLeitgeb%40lmu%2ede)>\
 André Carus <[*awcarus@mac.com*](mailto:awcarus%40mac%2ecom)>
-<!--md-padding-ignore-end-->
+

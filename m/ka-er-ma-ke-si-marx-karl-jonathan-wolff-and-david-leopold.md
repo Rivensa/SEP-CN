@@ -352,7 +352,7 @@
 
 在这里概述的马克思思想的各个方面包括他的哲学人类学、历史理论、对资本主义的经济和政治维度的批判性参与，以及对可能取代资本主义的模糊轮廓的令人沮丧的概述。无论这些思想之间的联系如何，认为马克思的思想形成了一个必须全部接受或拒绝的体系似乎是不合理的。例如，马克思的诊断可能看起来比他的解决方案更有说服力。读者可能对他的解决方案缺乏信心，但这并不意味着他所指出的问题不是严重的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -459,4 +459,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jonathan Wolff](http://www.bsg.ox.ac.uk/people/jonathan-wolff) <[*jonathan.wolff@bsg.ox.ac.uk*](mailto:jonathan%2ewolff%40bsg%2eox%2eac%2euk)>  
 David Leopold <[*david.leopold@politics.ox.ac.uk*](mailto:david%2eleopold%40politics%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

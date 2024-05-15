@@ -225,7 +225,7 @@ Longino, Nelson, Antony, and Duran 对先前阶段的分析哲学的女性主义
 * [女性主义对客体化的观点](https://plato.stanford.edu/entries/feminism-objectification/)
 * [女性主义对生殖和家庭的观点](https://plato.stanford.edu/entries/feminism-family/)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alcoff, Linda Martín, 1995, “Is the Feminist Critique of Reason Rational?”, *Philosophical Topics*, 23(2): 1–26. doi:10.5840/philtopics19952323
@@ -457,4 +457,4 @@ Longino, Nelson, Antony, and Duran 对先前阶段的分析哲学的女性主义
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Ann Garry](https://www.calstatela.edu/faculty/ann-garry/) <[*ann.garryz@gmail.com*](mailto:ann%2egarryz%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

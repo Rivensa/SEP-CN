@@ -231,7 +231,7 @@ Above, we noted that the traditional epistemological demand that one's evidence 
 
 在这里，我们看到另一个背景下对证据概念提出理论要求的情况，这些要求似乎朝着不同的方向发展。一方面，人们认为证据的概念中心是，证据本质上是一种可以通过多个个体共享而产生理性意见收敛的东西。这鼓励了这样一种观念，即任何真正的证据原则上都可以被多个个体理解；任何不能被理解的东西要么不是真正的证据，要么充其量是一种退化的证据。另一方面，证据被视为证明信念的东西。似乎许多个体基于内省对自己心智生活持有的信念是由于他们享有特权访问的因素所证明的。值得注意的是，实证主义者对协议句仅指公开可观察的物体和事件的观念的拥护伴随着对心理学中行为主义的拥护。行为主义的特征是贬低内省结果可以构成真正证据的观念；在这些观点的结合下，支持了所有证据都由可以被多个观察者共享的东西组成的论点。然而，对于那些拒绝行为主义的人来说，至少一些证据不符合这一条件的观念更难以抵制。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Achinstein, Peter, 1983. ‘Concepts of Evidence,’ in Achinstein (ed.) *The Concept of Evidence*, Oxford: Oxford University Press: 145–174.
@@ -356,4 +356,4 @@ For help in the preparation of this entry, I am grateful to Richard Feldman, Gil
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Thomas Kelly](http://www.princeton.edu/~tkelly/) <[*tkelly@princeton.edu*](mailto:tkelly%40princeton%2eedu)>
-<!--md-padding-ignore-end-->
+

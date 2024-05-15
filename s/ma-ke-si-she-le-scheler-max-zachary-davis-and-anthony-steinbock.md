@@ -212,7 +212,7 @@
 
 许多舍勒与他的同行现象学家之间的差异，无论是在风格还是内容上，都可以归因于他们个性的差异。然而，舍勒与胡塞尔、海德格尔和梅洛-庞蒂等其他现象学家之间至少存在显著而实质性的差异。例如，舍勒在存在与精神、真实与理想、客体与行为之间划定了更为明确的界线。这在舍勒对本质直觉的理解以及这种直觉如何参与成为上帝的过程中表现得最为明显。在风格上，舍勒完全凭借洞察力工作，拒绝遵循任何规定的方法或教学法。他的倾向是直接进入最深刻或最深奥的洞察力，而不是发展现象学分析的层次，例如静态和遗传，或解释学。因此，舍勒毫不犹豫地涉及伦理学、政治学和宗教学等主题。舍勒的这种缺乏方法部分是由于情感生活的基础性质，他坚信爱是知识的基础关系，这与胡塞尔的观点形成了直接对立。如果有一个最能捕捉到舍勒与其他现象学家之间独特性质的观点或思想，那就是他对人作为人的概念。与胡塞尔的超验自我、海德格尔的存在与梅洛-庞蒂的生活身体相对立，舍勒选择将人作为人来思考，给他的思想赋予了特定的指向性，强调了经验的个人维度。舍勒的世界呈现出完全不同的景象，因此，它被这样的个人经历所照亮，如对他人的爱和神圣的体验。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Collected Works
@@ -319,4 +319,4 @@ The collected works of Max Scheler are published as *Gesammelte Werke*, in volu
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Zachary Davis <[*davisz@stjohns.edu*](mailto:davisz%40stjohns%2eedu)>  
 Anthony Steinbock <[*steinbock@stonybrook.edu*](mailto:steinbock%40stonybrook%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -761,7 +761,7 @@ Boyum 的模型受到了该案件中另一位专家 Finkelstein 博士的批评�
 
 这些案例既有趣又复杂。它们在 Fienberg（1989）中进行了详细讨论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aitken, Colin, Paul Roberts, and Graham Jackson, 2010, “Fundamentals of Probability and Statistical Evidence in Criminal Proceedings: Guidance for Judges, Lawyers, Forensic Scientists and Expert Witnesses” (Practitioners Guide No 1), Royal Statistical Society’s *Working Group on Statistics and the Law*. [[Aitken, Roberts, and Jackson 2010 available online](https://rss.org.uk/news-publication/publications/law-guides/)]
@@ -1028,4 +1028,4 @@ For comments on an earlier version of this entry, many thanks to Ronald Allen, A
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Rafal Urbaniak](https://ugent.academia.edu/RafalUrbaniak) <[*rfl.urbaniak@gmail.com*](mailto:rfl%2eurbaniak%40gmail%2ecom)>  
 [Marcello Di Bello](http://www.marcellodibello.com/) <[*mdibello@asu.edu*](mailto:mdibello%40asu%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -70,7 +70,7 @@
 
 《对诽谤者》的复合性质允许对贝萨里翁作品性质的不同解释。在《对诽谤者》中，贝萨里翁本人在描述这篇文章时摇摆不定，既将其描述为对柏拉图的辩护，又将其描述为柏拉图与亚里士多德的比较。尽管《对诽谤者》在早期现代时期有助于传播《柏拉图与亚里士多德的比较》这一体裁，但该作品大多被视为对柏拉图的辩护，这使得贝萨里翁成为 16 世纪末耶稣会反柏拉图主义反应的明显目标。其他修会的成员，如方济各会和奥斯定会，对这位红衣主教更加友善，一直到 17 世纪。贝萨里翁也在大学内产生了影响。事实上，他将亚里士多德强调为仅仅是一位自然哲学家，为亚里士多德学派的教授们提供了有效的反对对哲学家进行形而上学解释的论据：例如，皮埃特罗·庞波纳齐（Pietro Pomponazzi，1462-1525）和弗朗切斯科·维默尔卡托（逝世于 1569 年）虽然从不同的角度辩论灵魂的不朽性，但都借鉴了《对诽谤者柏拉图篇》第三卷的段落。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -187,4 +187,4 @@ Other works by Bessarion, including many of his letters, have been edited by Moh
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Eva Del Soldato <[*evadel@sas.upenn.edu*](mailto:evadel%40sas%2eupenn%2eedu)>
-<!--md-padding-ignore-end-->
+

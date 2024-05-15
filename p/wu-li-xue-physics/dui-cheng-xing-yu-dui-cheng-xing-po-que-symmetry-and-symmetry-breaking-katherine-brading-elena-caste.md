@@ -206,7 +206,7 @@ SSB 允许对称理论描述非对称的现实。简而言之，SSB 提供了一
 
 总之：物理学中的对称性提供了许多解释的可能性，如何理解物理对称性的地位和意义，显然对物理学家和哲学家都是一个挑战。关于对称性哲学的最新综述是 Teh 即将发表的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albert, D., 2000, *Time and Chance*, Cambridge, MA: Harvard University Press.
@@ -377,4 +377,4 @@ SSB 允许对称理论描述非对称的现实。简而言之，SSB 提供了一
 [Katherine Brading](https://www.kbrading.org/)  
 [Elena Castellani](http://www.unifi.it/p-doc2-2013-200007-C-3f2a3d313a282c-0.html) <[*elena.castellani@unifi.it*](mailto:elena%2ecastellani%40unifi%2eit)>  
 [Nicholas Teh](https://philosophy.nd.edu/people/faculty/nicholas-teh/) <[*teh.2@nd.edu*](mailto:teh%2e2%40nd%2eedu)>
-<!--md-padding-ignore-end-->
+

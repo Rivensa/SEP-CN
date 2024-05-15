@@ -564,7 +564,7 @@ As we might put it: Kolmogorov randomness is conceptually linked to disorderline
 
 与频率和机会之间的关系相似且不足为奇。相对频率是良好但不是绝对可靠的机会指标，而且在 0 和 1 之间存在严格的结果频率是表明机会过程参与产生这些结果的证据。但是，频率主义作为对机会的还原解释是不可信的。认为只有在存在随机结果序列的情况下才存在机会也是不可信的。机会和随机性之间的证据和认识论联系远远不及我们最初提出的常见论题所提出的概念联系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agafonov, V. N., 1968, ‘Normal sequences and finite automata’, *Soviet Mathematics Doklady*, 9: 324–25.
@@ -746,4 +746,4 @@ Thanks to audiences at the Sigma Group at the LSE, Leeds HPS, and the first year
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Antony Eagle](http://antonyeagle.org/) <[*antony.eagle@adelaide.edu.au*](mailto:antony%2eeagle%40adelaide%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

@@ -433,7 +433,7 @@ Genin 和 Kelly 提供了一个表征定理，为一组统计假设提供了在�
 
 ## Supplementary Document: Basic Formal Definitions
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abramsky, S., 1987. *Domain Theory and the Logic of Observable Properties*, Ph.D. Dissertation, University of London.
@@ -518,4 +518,4 @@ Genin 和 Kelly 提供了一个表征定理，为一组统计假设提供了在�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Oliver Schulte](http://www.cs.sfu.ca/~oschulte/) <[*oschulte@sfu.ca*](mailto:oschulte%40sfu%2eca)>
-<!--md-padding-ignore-end-->
+

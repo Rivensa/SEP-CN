@@ -130,7 +130,7 @@
 
 这个案例是典型的。摩尔具有无与伦比的辨识哲学“现象”的能力。他自己对其重要性的讨论并不总是令人满意；但他将首先承认自己的可犯错误性。重要的是，如果我们从他的起点开始，我们可以确信我们正在处理一些能够告诉我们有关自己和世界的重要信息的东西。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -231,4 +231,4 @@ For a complete bibliography of Moore's published writings up to 1966, see P. A. 
 
 [Copyright © 2004](https://plato.stanford.edu/info.html#c) by\
 [Tom Baldwin](http://www.york.ac.uk/philosophy/staff/thomas-baldwin/) <[*trb2@york.ac.uk*](mailto:trb2%40york%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

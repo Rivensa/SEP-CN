@@ -296,7 +296,7 @@
 
 事实上，苏格拉底在《理想国》中表达了几个中心政治命题，这些命题在其他柏拉图对话中也有出现，尤其是在《哥吉亚斯》、《政治家》和《法律》中。首先，最好的统治者是智慧的。其次，最好的统治者是为了被统治者的利益而统治，而不是为了自己的利益。第三，一个城市很难拥有最好的统治者，部分原因是大多数人的价值观与智者的价值观之间存在差距。第四，对一个城市来说，最大的伤害是关于谁应该统治的分歧，因为竞争派系会引发内乱。因此，第五，政治的一个核心目标是公民之间关于谁应该统治的和谐或一致。最后，和谐需要城市培养美德和法治。这些信息在几个柏拉图对话中的一致性可能使我们大胆地认为它们是《理想国》政治的主要观点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Guide to Reading
@@ -496,4 +496,4 @@ The author thanks Ryan Balot, Richard Kraut, Casey Perin, and Eric Wiland for th
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Eric Brown](https://sites.google.com/view/ericbrownphilosophy/eric-brown) <[*eabrown@wustl.edu*](mailto:eabrown%40wustl%2eedu)>
-<!--md-padding-ignore-end-->
+

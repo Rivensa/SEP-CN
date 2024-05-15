@@ -138,7 +138,7 @@ Scanlon 否认我们需要一个关于福祉的解释来理解仁慈，因为我
 
 他的主要论点是臭名昭著且完美主义的“功能论证”，根据这个论证，某个存在的福祉是通过关注其“功能”或特征活动来确定的。人类的特征活动是运用理性，并且福祉在于良好地运用理性，也就是根据美德行事。这个论证由亚里士多德简要陈述，并依赖于他的哲学以及柏拉图的其他假设，似乎混淆了一个人的福祉和道德善的两个概念。我可能同意一个“好”的人类典范将是有美德的，但我否认这个人在为自己做最好的事情。相反，我可能坚持认为，理性要求一个人追求自己的利益，而这种利益包括快乐、权力或荣誉等。但亚里士多德的很大一部分内容都是关于有美德和邪恶的生活的描绘，这为主张福祉由美德构成提供了独立的支持。特别值得注意的是，亚里士多德强调“高尚”（to kalon）对一个人的价值，这是一种准美学价值，对于敏感于这种品质的人来说，这种价值可能不无道理地被视为比其他任何价值更有价值的福祉成分。在这方面，美德的善是在康德的意义上“无条件”的。然而，对于亚里士多德来说，美德或“善意”不仅是道德上的善，也是对个体有益的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Fletcher (2016a) is an excellent introduction to the philosophy of well-being; for a very clear overview, see Hooker (2015). Some significant recent works are Griffin (1986) and Finnis (2011), which present different objective lists; Goldman (2018), which develops a view of well-being as consisting in the fulfillment of rational desire, Sobel 2016, which defends a broadly subjective view of well-being; Feldman (2004) and Crisp (2006), which defend hedonism; Sumner (1996), which rejects many current options and advocates a theory of well-being based on the idea of ‘life-satisfaction’; Kraut (2007), which develops a broadly Aristotelian account; and Haybron (2008), Tiberius (2008), and Alexandrova (2017) which address issues that arise in contemporary psychological research on happiness. A collection of extremely useful essays is Fletcher (2016b). See also Nussbaum and Sen (1993).
@@ -227,4 +227,4 @@ https://www.utilitarianism.net/theories-of-wellbeing
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Roger Crisp <[*roger.crisp@st-annes.ox.ac.uk*](mailto:roger%2ecrisp%40st-annes%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

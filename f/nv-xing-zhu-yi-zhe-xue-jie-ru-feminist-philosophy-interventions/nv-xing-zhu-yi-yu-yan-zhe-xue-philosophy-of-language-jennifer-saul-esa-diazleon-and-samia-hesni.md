@@ -212,7 +212,7 @@ Haslanger 的提议引发了关于改善性方法的优点以及这一特定观�
 
 Haslanger (2011)在 Leslie 的工作基础上进行了建构，认为一般性断言通常携带关于本质的会话含义，并且这些含义有助于它们作为维持不公正社会结构的意识形态的关键机制。她建议，无论它们的真值条件如何（对 Leslie 观点的一种理解会使得显著属性的一般性断言非常容易成立），我们应该通过元语言否定的机制（Horn 1985）来否定它们，这允许否定一个断言，因为它携带了一个错误的含义。通过这种方法，我们可以开始打破那些让我们受制于其控制的意识形态。（对此的批评，请参见 Saul forthcoming）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Derek E., 2017, “Conceptual Competence Injustice”, *Social Epistemology*, 31(2): 210–223. doi:10.1080/02691728.2016.1241320
@@ -406,4 +406,4 @@ We are very grateful to David Braun, Ray Drainville, Sally Haslanger, Chris Hook
 [Jennifer Saul](https://www.sheffield.ac.uk/philosophy/people/affiliated-staff/jennifer-saul) <[*j.saul@shef.ac.uk*](mailto:j%2esaul%40shef%2eac%2euk)>  
 [Esa Diaz-Leon](https://sites.google.com/site/esadiazleon/home) <[*esadiazleon@gmail.com*](mailto:esadiazleon%40gmail%2ecom)>  
 Samia Hesni <[*shesni@bu.edu*](mailto:shesni%40bu%2eedu)>
-<!--md-padding-ignore-end-->
+

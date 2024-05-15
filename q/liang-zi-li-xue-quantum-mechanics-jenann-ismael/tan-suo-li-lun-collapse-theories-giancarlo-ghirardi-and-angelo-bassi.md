@@ -342,7 +342,7 @@ Aicardi 等人（1991 年）对这一批评提出了详细的回答：在考虑�
 
 我们对 DRP 的思想、影响、成就和问题提出了一个全面的描述。我们最后强调一次我们对坍缩理论的立场。它们的兴趣完全源于它们提供了一种可能的解决标准量子力学困难的线索，通过证明可以制定出明确而精确的模型，这些模型与该理论的所有已知预测相符，同时基于一种统一的动力学来克服标准理论的基本问题，以一种数学上干净而精确的方式。特别是，坍缩模型展示了如何制定一种理论，使得在自然过程中采取宏观现实主义立场完全合理，而不与标准量子力学的任何经过实验证实的预测相矛盾。最后，它们可能提供了明确的线索，指导我们在实验中寻找可能违反叠加原理的证据。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, Stephen L., 2003, “Why Decoherence Has Not Solved the Measurement Problem: A Response to P.W. Anderson”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 34(1): 135–142. doi:10.1016/S1355-2198(02)00086-2
@@ -514,4 +514,4 @@ Aicardi 等人（1991 年）对这一批评提出了详细的回答：在考虑�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Giancarlo Ghirardi  
 [Angelo Bassi](http://www.qmts.it:8080/?q=group-leader) <[*bassi@ts.infn.it*](mailto:bassi%40ts%2einfn%2eit)>
-<!--md-padding-ignore-end-->
+

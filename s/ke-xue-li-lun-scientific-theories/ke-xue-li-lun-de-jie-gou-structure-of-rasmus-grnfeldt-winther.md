@@ -396,7 +396,7 @@ Craver 然后将机械论作为第三种理论类型（也是第三种理论结�
 
 这三种观点最终如何相关？一个标准的哲学方法是进行概括和抽象，从更高的层次理解一个情况。一个“元”假设是，对理论结构的哲学分析往往与这里讨论的三种观点之间的感知关系相关联。句法观点倾向于将语义观点的形式机制解释为与自己的概括公理策略连续，并因此将许多标准的语义观点批评（第 3 节）诊断为未达到目标（即同一策略；例如，Friedman 1982；Worrall 1984；Halvorson 2012、2013、2019；Lutz 2012、2017；参见 Chakravartty 2001）。语义观点明确将其对理论结构的描述与句法观点的“语言”或“元数学”装置进行对比（即战斗策略；例如，Suppe 1977；van Fraassen 1980、1989；Lloyd 1994 [1988]）。最后，实用主义观点直到最近才作为一种观点存在，将理论想象为多元化，因此可以为整体性的哲学研究提供基础。它设想了一种元多元主义，其中重建的公理化和数学建模仍然重要，尽管对于所有理论来说并非必要。这第三种观点支持各种理论结构和理论化风格，既在理论化和“实验生活”之间协调连续性，也在科学理论结构的哲学分析之间协调连续性（即互补策略；例如，Hacking 1983、2009；Galison 1988、1997；Craver 2002；Suárez and Cartwright 2008；Griesemer 2013）。 有趣的是，Suárez 和 Pero（2019）明确赞同本文中描述的实用主义观点，但他们认为“在其最简化的表达中，语义观念与捕捉科学理论中的实用元素和主题的更灵活、开放的方法是相容的，如果不是足够的”（Suárez 和 Pero 2019，348）。根据设计，实用主义观点所认可的普遍多元主义并不能完全抵消身份和斗争策略。此外，最终可能只能“部分接受”各自观点。即便如此，互补策略可能值得进一步发展。与身份和斗争元视角相比，它提供了更广泛或至少不同的科学理论结构洞察。更一般地说，探索这些观点之间的关系本身就是未来哲学工作的丰富课题，研究它们在气候变化（例如，Winsberg 2018）、模型生物（例如，Ankeny 和 Leonelli 2020）以及制图和地理信息系统（例如，Winther 2020）等需要进一步哲学分析的活跃科学领域中的作用和解释也是如此。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ankeny, R. and S. Leonelli, 2020, *Model Organisms*, Cambridge: Cambridge University Press.
@@ -713,4 +713,4 @@ The following provided helpful feedback or conversation, or both, Jácome Armas,
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Rasmus Grønfeldt Winther](http://www.rgwinther.com/) <[*rgwinther@gmail.com*](mailto:rgwinther%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

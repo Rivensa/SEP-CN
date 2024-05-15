@@ -406,7 +406,7 @@ Khoo 的观点简单而有说服力，但我们仍然可能会想知道它是否
 
 在每种情况下，支持反言论的目的是赋予仇恨言论的目标更多权力，并增强他们进行反言论的能力。因此，目标是消除（尽可能多地）仇恨言论的具体伤害，同时避免“私人补救”（如 Matsuda，1993 年所批评的）的陷阱。虽然支持反言论可以被视为禁令的替代方案或补充方案，但它仍然是一个未被充分探讨的途径，用于考虑针对仇恨言论特定伤害的应对措施。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Elizabeth, and Richard Pildes, 2000, “Expressive Theories of Law: A General Restatement,” *University of Pennsylvania Law Review*, 148: 1503–1575.
@@ -534,4 +534,4 @@ Khoo 的观点简单而有说服力，但我们仍然可能会想知道它是否
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Luvell Anderson](http://andersonluvell.weebly.com/) <[*lander04@syr.edu*](mailto:lander04%40syr%2eedu)>  
 [Michael Barnes](https://michaelrandallbarnes.com/) <[*Michael.barnes@anu.edu.au*](mailto:Michael%2ebarnes%40anu%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

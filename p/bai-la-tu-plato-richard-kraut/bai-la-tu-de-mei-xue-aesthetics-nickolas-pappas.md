@@ -320,7 +320,7 @@
 
 如果柏拉图美学的要素可以统一，那可能是从另一个方向得出的。尽管宗教对于柏拉图美学的关联并没有得到充分的探索，但宗教取向确实影响了他对于美、灵感和模仿的论述。在《饮宴篇》中，美的准神圣地位；《理想国》将模仿者描述为雅典娜和其他神祇的敌人；当然还有灵感，如果不涉及神圣行动的话无法定义：这三个主题都暗示了柏拉图美学在柏拉图神学中可能更加完整地融合。现在值得追求这个问题，因为近几十年的学术研究推动了对希腊宗教的研究，为重新探讨柏拉图构建美学的基本术语提供了前所未有的资源。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Annas, Julia, 1982. “Plato on the Triviality of Literature,” in Moravcsik and Temko 1982, pp. 1–28.
@@ -425,4 +425,4 @@ Special thanks to Elvira Basevich and Daniel Mailick for their comments on earli
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Nickolas Pappas](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/Nickolas-Pappas) <[*npappas@gc.cuny.edu*](mailto:npappas%40gc%2ecuny%2eedu)>
-<!--md-padding-ignore-end-->
+

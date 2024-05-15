@@ -172,7 +172,7 @@ Kotarbiński 推荐 reism 作为一种合理的观点。特别是，它在假设
 
 就国际重要性而言，有一件事是清楚的。华沙学派的逻辑成就最为著名。毫无疑问，20 世纪华沙逻辑学派对逻辑学的发展做出了很大贡献。其他贡献也有所了解，但相对较少。这部分是因为大多数华沙学派的哲学著作是用波兰语出版的。然而，这个因素并不能解释一切。华沙学派的许多著作最初是用英语、法语或德语出版的。然而，它们的影响力非常有限，远远不及来自主要国家的类似著作。这是遗憾的，因为激进的常规主义、实在论或语义认识论是真正的哲学珍宝。但也许这就是在文化边缘地区取得的成果的命运。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The bibliography is divided into two sections. The first contains writings of the LWS in Western languages, the second writings on the LWS and its particular representatives.
@@ -302,4 +302,4 @@ The author and editors would like to thank Branden Fitelson for supplying a corr
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Jan Woleński <[*jan.wolenski@uj.edu.pl*](mailto:jan%2ewolenski%40uj%2eedu%2epl)>
-<!--md-padding-ignore-end-->
+

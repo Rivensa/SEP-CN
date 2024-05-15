@@ -396,7 +396,7 @@
 
 墨家帮助阐明了古代中国哲学话语框架的许多内容，同时提倡一种与大多数人对美好生活的构想背道而驰的生活方式，因此几乎没有机会吸引广泛的追随者。该学派一直对激进、简单的立场表现出过度的热情。墨家可能在帝国时代灭绝，因为他们战国时期改革主义的社会和政治纲领已经过时，他们不愿意或无法修改他们的信条，或者根据不断变化的社会和思想环境发展新的立场。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works cited in the article
@@ -504,4 +504,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Chris Fraser](http://www.cjfraser.net/) <[*cjfraser@gmail.com*](mailto:cjfraser%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

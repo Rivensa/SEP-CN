@@ -359,7 +359,7 @@
 
 狄德罗发明了一种新形式的唯物主义，汲取了各种来源，包括伊壁鸠鲁传统、霍布斯和洛克、斯宾诺莎和莱布尼茨。他还改变了教义、文体和新生的智识星座（怀疑主义、哲学小说和折衷主义等）。即使他并不希望为系统哲学的流派做出贡献，他对启蒙运动（及其后代）以及随后的智识事件的贡献是相当大的，难以衡量，并且应该引起重视。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -546,4 +546,4 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Charles T. Wolfe <[*ctwolfe1@gmail.com*](mailto:ctwolfe1%40gmail%2ecom)>  
 [J.B. Shank](http://www.hist.umn.edu/people/profile.php?UID=jbshank)
-<!--md-padding-ignore-end-->
+

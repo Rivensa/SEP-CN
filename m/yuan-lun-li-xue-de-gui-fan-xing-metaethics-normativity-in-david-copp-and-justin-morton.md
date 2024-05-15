@@ -542,7 +542,7 @@ Sharon Street（2006 年），Richard Joyce（2006 年：第 6 章）和 Allan G
 
 心灵依赖论者也可以一致地说，即使 ICE 缺乏所讨论的理由，我们仍然可以强迫他接受治疗，或帮助他的妻子离开他，或试图让他被逮捕（Manne 2014）。这些行动并不要求残忍的丈夫有任何理由，而只取决于同情的旁观者或妻子有理由去做什么。但有些人仍然会觉得这不令人满意：丈夫不应该以他目前的方式行事。当然，这里心灵独立论者很乐意宣传她可以提供的好处：无论他的头脑（或心灵）发生了什么，丈夫都有理由更好地对待他的妻子。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle, *Nicomachean Ethics*, Terence Irwin (trans.), Indianapolis, Indiana: Hackett, 1985.
@@ -738,4 +738,4 @@ Sharon Street（2006 年），Richard Joyce（2006 年：第 6 章）和 Allan G
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 David Copp <[*dcopp@ucdavis.edu*](mailto:dcopp%40ucdavis%2eedu)>  
 Justin Morton <[*jjmorton@ucdavis.edu*](mailto:jjmorton%40ucdavis%2eedu)>
-<!--md-padding-ignore-end-->
+

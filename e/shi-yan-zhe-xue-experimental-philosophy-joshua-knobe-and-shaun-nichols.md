@@ -229,7 +229,7 @@
 
 当然，这场辩论的双方支持者都应该同意，学科的边界随时间可以发生变化，但这一点有两面性。正如学科的边界在过去可能已经发生变化一样，它们也可以在未来发生变化。因此，观察哲学学科的边界在未来几十年内如何演变，以及这种演变如何影响实验哲学的地位，将会是非常有趣的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Fred & Annie Steadman, 2004, “Intentional Action in Ordinary Language: Core Concept or Pragmatic Understanding?”, *Analysis*, 64(282): 173–181. doi:10.1111/j.1467-8284.2004.00480.x
@@ -399,4 +399,4 @@ We’d like to thank Jonathan Weinberg, the editors, and an anonymous referee fo
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Joshua Knobe](http://campuspress.yale.edu/joshuaknobe/)  
 [Shaun Nichols](https://sites.google.com/view/shaunbnichols/home)
-<!--md-padding-ignore-end-->
+

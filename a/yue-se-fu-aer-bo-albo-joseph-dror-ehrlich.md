@@ -102,7 +102,7 @@
 
 Sefer ha-‘Ikkarim 的第四篇后半部分提出了阿尔博关于报酬的理论。阿尔博在这里提出的主要问题是一个人在来世将得到的奖励和惩罚的性质。在关于来世报酬的问题上，阿尔博在广泛的讨论中遇到了两种相互冲突的观点。孟蒙德认为报酬只适用于灵魂，而纳曼尼德认为它也影响到身体（第四篇，第 29-41 章）。阿尔博对这个问题的观点不明确。在讨论开始时，他似乎支持孟蒙德的观点，但他继续讨论时假设不能明确排除纳曼尼德的方法，这得到了神秘文献的支持。已经发现了这一部分独特性的学者几乎以各种可能的方式描述了阿尔博的立场。有人说他避免承诺，而其他人认为他采取了综合的中间立场；还有人认为他接受了孟蒙德的观点，而他们的对手则认为他接受了纳曼尼德的观点。因此，阿尔博在他的哲学宗教理论中的这个问题尤其模糊。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -192,4 +192,4 @@ Sefer ha-‘Ikkarim 的第四篇后半部分提出了阿尔博关于报酬的理
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Dror Ehrlich](https://plato.stanford.edu/entries/albo-joseph/vita.html)  
 Shira Weiss <[*shira.a.weiss@gmail.com*](mailto:shira%2ea%2eweiss%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

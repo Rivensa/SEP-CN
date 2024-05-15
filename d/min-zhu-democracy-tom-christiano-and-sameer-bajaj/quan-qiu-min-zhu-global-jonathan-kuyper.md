@@ -134,7 +134,7 @@
 
 无论如何，仍然有很多工作需要思考正义、民主和合法性在理论和实证方面的交叉和分歧（Dingwerth 2014）。这将涉及到研究国际机构的当前安排是否足够强大，能够引发对正义、民主或两者的要求（Nagel 2005；Sangiovanni 2007）。这还需要分析合法性作为全球政治机构的一个可分离的美德，具有自己的特点和构成，可能只与民主间接相关。最后，仍然存在一个问题，即一个民主的群体（demos）是否能够跨越国界以一种连贯和稳定的方式出现。这些研究的未来方向以及本综述中涉及的许多其他问题应确保全球民主在未来的实践和研究中保持活跃、充满活力和重要。
 
-#<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agné, Hans, 2006, “A dogma of democratic theory and globalization: why politics need not include everyone it affects,” *European Journal of International Relations*, 12(3): 433–458.
@@ -230,4 +230,3 @@
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Jonathan Kuyper](https://www.sv.uio.no/isv/english/people/aca/jonathwk/index.html) <[*jonathan.kuyper1@gmail.com*](mailto:jonathan%2ekuyper1%40gmail%2ecom)>
 
-<!--md-padding-ignore-end-->

@@ -238,7 +238,7 @@ Russ Shafer-Landau 在 Williams 的文章中发现了进一步的论证建议，
 
 另一方面，外在主义观点避免了中心问题，因此在道德理由方面表现良好，但批评者担心外在理由更加神秘，这样的理论无法提供与某些理由看起来是内在的原因一样有吸引力的解释。一个有吸引力的前进方式可能是向固守立场的人展示如何获得辩论双方各自重要优势的一些方法。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -376,4 +376,4 @@ Russ Shafer-Landau 在 Williams 的文章中发现了进一步的论证建议，
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Stephen Finlay  
 Mark Schroeder
-<!--md-padding-ignore-end-->
+

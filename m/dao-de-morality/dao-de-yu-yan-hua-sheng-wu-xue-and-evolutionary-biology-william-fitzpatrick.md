@@ -370,7 +370,7 @@ Street（2008）在回应这个问题的提出的解决方法时，部分地指�
 
 因此，尽管演化的故事与仅仅的非认知主义元伦理观相契合，但它同样适用于认知主义观点。如果一个人拒绝存在道德真理，那么后者将导致一个错误理论（Mackie 1977）。但正如在 4.1 节中讨论的那样，演化生物学本身对道德反实在主义或非实在主义提供了多少支持还远未明确。合理的演化故事与我们最初进化的规范指导能力无关的原因相一致，尽管如此，我们现在经常使用这些能力来思考和传达道德真理。因此，这里讨论的三种元伦理观点——表达主义、错误理论和道德实在主义——仍然存在争议。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, R., 1987, *The Biology of Moral Systems*, New York: Aldine de Gruyter.
@@ -527,4 +527,4 @@ Street（2008）在回应这个问题的提出的解决方法时，部分地指�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [William FitzPatrick](http://www.rochester.edu/college/phl/fitzpatrick/) <[*william.fitzpatrick@rochester.edu*](mailto:william%2efitzpatrick%40rochester%2eedu)>
-<!--md-padding-ignore-end-->
+

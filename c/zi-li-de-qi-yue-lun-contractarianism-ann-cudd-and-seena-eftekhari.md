@@ -74,7 +74,7 @@
 
 从其他承包商达成的协议中推导出生物的道德地位不仅假定承包商具有 tuistic 偏好，这一假设被许多契约论者所拒绝，而且还可能使这些生物的道德地位取决于他人持有的 tuistic 偏好和利益的性质（Tanner 2013）。承包商可能同意只保护某些类型的动物，并且他们可能同意只有在这样做不与自己更狭义的利益相冲突时才保护动物。因此，由于各种原因无法参与最初情况的人，如残疾人和动物，其地位仍然是契约论思想中一个有争议的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Becker, Lawrence C., 2005, “Reciprocity, Justice, and Disability,” *Ethics*, 116(1): 9–39.
@@ -130,4 +130,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Ann Cudd <[*acudd@pitt.edu*](mailto:acudd%40pitt%2eedu)>  
 Seena Eftekhari <[*seena.eftekhari@tufts.edu*](mailto:seena%2eeftekhari%40tufts%2eedu)>
-<!--md-padding-ignore-end-->
+

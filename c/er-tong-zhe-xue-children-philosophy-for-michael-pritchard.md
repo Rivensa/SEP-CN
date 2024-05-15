@@ -200,7 +200,7 @@ Kurt：“这会说我们还不确定。”
 
 幸运的是，互联网使我们能够比较及时地了解全球最新发展，并与其他对儿童哲学感兴趣的教育工作者快速交流。不幸的是，许多这些网站似乎很短命。然而，请参阅下面的互联网资源部分，了解一些可靠的网站，并提供指向其他有用网站的链接。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Books and Articles
@@ -335,4 +335,4 @@ Kurt：“这会说我们还不确定。”
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Michael Pritchard
-<!--md-padding-ignore-end-->
+

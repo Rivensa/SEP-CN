@@ -140,7 +140,7 @@ W. D. Hamilton 提出亲缘选择作为利他谜团的解决方案（Hamilton 19
 
 随着遗传学的第二个世纪展开，几乎没有理由认为这门有影响力的科学会放缓。在新西兰，政府领导人提议使用基因编辑技术来根除这个岛国的入侵物种（Yong 2017）。在美国，All of Us 研究计划推出，旨在收集来自 100 万美国人的 DNA，并将这些信息与医疗记录联系起来，以引领精准医学的新基因组范式（Pear 2016）。在中国，科学家将涉及大脑发育的人类基因插入猴子体内，以观察这种人类基因的添加如何改变猴子自身的发育（CBC Radio in Other Internet Resources）。这些计划、实践和提议引发了关于干预复杂生态系统的危险、分配稀缺生物医学资源的政治以及非人类动物研究伦理的深刻问题。随着遗传学的进展，关于它的哲学问题也将随之而来。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Asch, Adrienne, 1989, “Reproductive Technology and Disability”, in *Reproductive Laws for the 1990s*, Sherrill Cohen and Nadine Taub (eds.), Totowa, NJ: Humana Press, 69–124. doi:10.1007/978-1-4612-3710-5_4
@@ -255,4 +255,4 @@ W. D. Hamilton 提出亲缘选择作为利他谜团的解决方案（Hamilton 19
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Tabery](https://faculty.utah.edu/u0578517-JAMES_TABERY/biography/index.hml) <[*james.tabery@utah.edu*](mailto:james%2etabery%40utah%2eedu)>
-<!--md-padding-ignore-end-->
+

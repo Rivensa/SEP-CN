@@ -98,7 +98,7 @@
 
 正如本文所证明的，女性主义对自我领域的工作存在着巨大的激荡和多样性。然而，在审查这一文献时，我们被一个反复出现的主题所震撼：即自我的形而上问题与道德、社会和政治理论的不可分割性。女性主义对主流哲学自我理论的批判揭示了所谓中立形而上学的规范基础。对女性主体能力的女性主义分析既承认了传统女性社会贡献，又提供了关于女性如何克服压迫性规范和实践的解释。对自我本质的女性主义重建与强调以某种方式构想自我的解放性益处的论证交织在一起。女性主义哲学中的规范关注并不奇怪，但我们提及它是因为我们相信女性主义者对社会政治关注的注意导致了丰富哲学对自我理解的新问题。此外，我们要敦促的是，对哲学的政治观点坦率是一种美德，因为忽视神秘哲学观点的政治假设和含义已经导致了相当大的混乱。正是由于未能承认自我问题并非仅仅是形而上学的狭窄问题，才导致了哲学对自我隐含地建模为男性主体的倾向，而女性主义对自我的观点正是为了纠正这一点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Comprehensive Bibliography
@@ -268,4 +268,4 @@ The following works are cited in the entry.
 Ellie Anderson <[*ellie\_anderson@pitzer.edu*](mailto:ellie\_anderson%40pitzer%2eedu)>\
 Cynthia Willett <[*cwillet@emory.edu*](mailto:cwillet%40emory%2eedu)>\
 [Diana Meyers](https://dianatietjensmeyers.wordpress.com/)
-<!--md-padding-ignore-end-->
+

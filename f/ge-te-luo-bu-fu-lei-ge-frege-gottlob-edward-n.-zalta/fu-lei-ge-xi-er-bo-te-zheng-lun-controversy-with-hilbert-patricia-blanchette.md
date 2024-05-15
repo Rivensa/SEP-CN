@@ -173,7 +173,7 @@ Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，
 
 在这场辩论中，希尔伯特显然是赢家，因为他对一致性的理解大致上是今天在形式理论背景下所指的“一致性”，而他的一致性证明方法的近亲现在已经成为标准。我们现在通常认为一致性和独立性与希尔伯特一样，独立于所谓的“非逻辑”术语的含义，并且可以直接按照希尔伯特的方式进行演示。这并不是说弗雷格的反对意见已经得到满足，而是说通过正式一致性概念的确立以及对弗雷格所称的“一致性”至少在这个标题下的不关注，这些反对意见基本上已经被规避了。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -259,4 +259,4 @@ Thanks to Edward N. Zalta for helpful suggestions on this entry.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Patricia Blanchette](http://www.nd.edu/~pblanche/) <[*blanchette.1@nd.edu*](mailto:blanchette%2e1%40nd%2eedu)>
-<!--md-padding-ignore-end-->
+

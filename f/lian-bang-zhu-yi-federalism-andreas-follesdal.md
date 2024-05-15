@@ -178,7 +178,7 @@ Ludolph Hugo (约 1630-1704) 是第一个区分基于联盟的联邦、像罗马
 
 联邦制通常被认为是独特的，是与西法兰西世界秩序中熟悉的单一主权国家理想类型有所偏离的。实际上，每个联邦可能以其独特的方式是联邦的，不容易总结和评估为理想类型的政治秩序。然而，非单一主权的现象并不新鲜，联邦对差异的容纳可能比其他选择更好。何时以及为什么如此一直是哲学、理论和规范分析和反思的主题。这样的公共论证本身可能有助于发展在稳定、合法的联邦中所需的总体忠诚，这些联邦的公民必须理解自己是两个共和国的成员。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Historical
@@ -384,4 +384,4 @@ This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, P
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Andreas Follesdal](http://www.follesdal.net/) <[*andreas@follesdal.net*](mailto:andreas%40follesdal%2enet)>
-<!--md-padding-ignore-end-->
+

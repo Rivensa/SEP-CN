@@ -136,7 +136,7 @@ Passmore 的判断并不完全合理；Ward 哲学信条的要点足够清晰。
 
 在更深层次上，瓦德的思想令人钦佩，因为他真诚地坚持哲学思辨作为非教条性导向的理想。他对单子的创造力和“自由”的信仰——他从皮尔斯的偶然主义、科学主义的决定论和传统的神论中捍卫了这一信仰——隐含地奠定了一种责任伦理，而他的进化神论（一种改善主义，而非乐观主义）激发了一种自信而不是天真的对待生活及其挑战的态度。毫无疑问，瓦德自己的起伏经历——从贫困潦倒到公众承认为剑桥大学心理哲学教授——在他对现实的宏伟愿景中得到了体现，这个愿景认为现实由无数个坚持努力实现自我实现和社会和谐的意愿主体组成；正如他常说的那样，这一愿景只能通过“对未来光明的信念”来持续下去（1927 年：66）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -207,4 +207,4 @@ Passmore 的判断并不完全合理；Ward 哲学信条的要点足够清晰。
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Pierfrancesco Basile <[*pierfrancesco.basile@philo.unibe.ch*](mailto:pierfrancesco%2ebasile%40philo%2eunibe%2ech)>
-<!--md-padding-ignore-end-->
+

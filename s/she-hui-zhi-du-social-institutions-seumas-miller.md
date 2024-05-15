@@ -196,7 +196,7 @@ List 和 Pettit 提出了一个基于判断聚合的论证，支持他们的观�
 
 更具体地说，习惯性行为是个体和集体（包括制度）生活的必要特征；每个基于习惯进行的单个行为，反过来又往往无意中对习惯的维持和强化做出贡献。因此，制度行为体必然在很大程度上基于习惯行动，这意味着他们的许多行为无意中促进了制度的再生产。然而，这与社会制度的目的论解释是一致的——因为，如上所述，除了制度再生产之外，还有其他结果，其中许多结果显然是有目的的。此外，这与社会制度再生产的目的论解释也是一致的，因为习惯的建立和定期的正当性审查本身就可以接受目的论解释。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Althusser, Louis, 1971, *Lenin and Philosophy and Other Essays* trans. Ben Brewster, London: New Left Books.
@@ -303,4 +303,4 @@ List 和 Pettit 提出了一个基于判断聚合的论证，支持他们的观�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Seumas Miller <[*semiller@csu.edu.au*](mailto:semiller%40csu%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

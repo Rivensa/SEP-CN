@@ -162,7 +162,7 @@ Grundlagenkrise 和他与布劳尔的公开辩论发生在后来，它们给人�
 
 值得注意的是，随着 Grundlagenkrise 的哲学关注逐渐消退，以及来自计算机科学和同伦理论的新方法进入领域，一阶逻辑的首要地位值得重新考虑。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Awodey, Steve & Erich H. Reck, 2002, “Completeness and Categoricity, Part I: Nineteenth-century Axiomatics to Twentieth-century Metalogic”, *History and Philosophy of Logic*, 23(1): 1–30. doi:10.1080/01445340210146889
@@ -257,4 +257,4 @@ I am grateful to Erich Reck for comments.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [William Ewald](https://www.law.upenn.edu/cf/faculty/wewald/) <[*wewald@law.upenn.edu*](mailto:wewald%40law%2eupenn%2eedu)>
-<!--md-padding-ignore-end-->
+

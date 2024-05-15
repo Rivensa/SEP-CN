@@ -335,7 +335,7 @@ Al-Ghazali 认为，不能有两个神，因为“如果有两个神，其中一
 
 Venkatanatha（1268-1369）提供了一种不同的解决方案。他确实区分了“主和他的伴侣的两个（救赎）功能”，主被描绘为“惩罚罪人的父亲”，而 Lakshmi 则是为他代求的神圣母亲。然而，这些功能之间的区别并不是绝对的，因为神圣的伴侣仅仅是“唤起‘主的天然怜悯’，以使这种怜悯成为冒犯的信徒在精神上重生的基础”（Kumar 120-21）。此外（对于我们的目的来说最重要的是），神圣的父亲和神圣的母亲之间没有真正的本体差异。Lakshmi 是 Vishnu 的不可分割的属性。由于物质和它的不可分割的属性“共享相同的本质”，并且一个人不能理解一个物质而不理解它的“本质和不可分割的属性”，主和他的神圣伴侣形成了“一个单一的现实”（Kumar 146-7）。因此，“‘每当提到 Bhagavan（即 Vishnu），也应该考虑到 Lakshmi’”，当一个人向其中一个奉献自己时，他同时也向两者奉献自己，因为一个人向自己奉献的神明“‘是单一的\[尽管]它休息在两个之上’”（Kumar 124）。简而言之，Venkatanatha 通过否认上帝和他的神圣伴侣在本体上的区别来保持一神论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aquinas, St. Thomas, *On the Truth of the Catholic Faith: Summa Contra Gentiles, Book One*, Anton C. Pegis (trans.), Garden City, N. Y.: Doubleday Image Books, 1955.
@@ -391,4 +391,4 @@ Venkatanatha（1268-1369）提供了一种不同的解决方案。他确实区�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 William Wainwright
-<!--md-padding-ignore-end-->
+

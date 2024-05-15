@@ -336,7 +336,7 @@ Hare 的提议似乎非常普遍。如果你担心评价性和非评价性意义
 
 在哲学的各个领域中，对厚伦理概念的关注往往源于对主流研究的不满，并希望厚伦理概念能够重新引导这些领域的工作。我们已经看到，实现这一希望通常需要对反解缠论证、无形性、评价与描述的不可分割性以及评价在厚伦理术语的语义学和语用学中的位置等问题进行实质性的假设。一个合理的厚伦理概念理论可能不会赋予厚伦理概念其粉丝所认为的重要意义，而且无论如何，这些假设本身都会引起相当大的反对。另一方面，那些认为厚伦理概念没有明显意义的人必须确保评价和规范领域可以用瘦伦理概念来解释，以解决激发对厚伦理概念兴趣的问题。因此，任何关于规范性和价值的完整理论都必须以某种方式考虑与厚伦理概念相关的基本问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abend, Gabriel, 2011, “Thick Concepts and the Moral Brain”, *European Journal of Sociology*, 52(1): 143–72. doi:10.1017/S0003975611000051
@@ -462,4 +462,4 @@ Hare 的提议似乎非常普遍。如果你担心评价性和非评价性意义
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Pekka Väyrynen](http://www.leeds.ac.uk/arts/profile/20042/467/pekka\_v%C3%A4yrynen) <[*p.vayrynen@leeds.ac.uk*](mailto:p%2evayrynen%40leeds%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

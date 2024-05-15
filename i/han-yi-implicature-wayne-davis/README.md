@@ -536,7 +536,7 @@ W. Davis（2016 年：第 2 章）描述了解释和推断会话含义的方法�
 
 关于含义的文献非常丰富且不断增长。遗憾的是，本条目不得不忽略许多有价值的贡献。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abbott, Barbara, 2006, “Where Have Some of the Presuppositions Gone?”, in Birner & Ward 2006: 1–20.
@@ -796,4 +796,4 @@ W. Davis（2016 年：第 2 章）描述了解释和推断会话含义的方法�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Wayne Davis](http://explore.georgetown.edu/people/davisw/) <[*davisw@georgetown.edu*](mailto:davisw%40georgetown%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -182,7 +182,7 @@ Sorensen（1988）认为，一个人对自己的反专业知识是一个盲点�
 
 最后，它涉及到伦理学和认识论交叉处产生的问题：我能够将怎样的善恶归因于自己，是否存在道德或理性上的限制？道德德行是否与认识上的缺陷相容，甚至需要认识上的缺陷？对于谦虚与谦逊本质的仔细理论化有助于塑造和启发伦理学和认识论中的这些更大的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, Jonathan, 2004, “Reconciling Open-Mindedness and Belief”, *Theory and Research in Education*, 2(2): 127–142.
@@ -281,4 +281,4 @@ Thanks to Sungwoo Um, Irene McMullin, and Mark Timmons for helpful comments.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Nicolas Bommarito](https://www.nicbommarito.com/philosophy) <[*nic.bommarito@gmail.com*](mailto:nic%2ebommarito%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

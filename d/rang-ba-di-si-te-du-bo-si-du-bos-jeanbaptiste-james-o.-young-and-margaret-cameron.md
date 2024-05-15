@@ -134,7 +134,7 @@ His next book was *L’Histoirede la Ligue de Cambray* (*History of the League o
 
 杜博斯认为科学研究总是涉及一定的不确定性。他写道：“我不信任物理解释，因为这门科学的不完善几乎总是需要猜测”（362）。根据杜博斯的观点，科学假设只是在一定程度上或另一种程度上是可能的。他通过引用哈维关于血液循环的假设来阐述这一观点。杜博斯写道：“他那个时代的大多数学者都被他的观点所说服。它被视为一种科学真理，就像一些不直接观察到的东西一样牢固和广泛地确立。也就是说，它被视为比相反观点更有可能的观点”（588）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * d’Alembert, J., D. Diderot, C. de Secondat, baron de La Brède et de Montesquieu, and de Voltaire, 1757 [2003], ‘Taste,’ in *The Encyclopedia of Diderot & d’Alembert Collaborative Translation Project*, N. Hoyt and T. Cassirer (trans.), Ann Arbor: Michigan Publishing, University of Michigan Library [[available Online](http://hdl.handle.net/2027/spo.did2222.0000.168)].
@@ -185,4 +185,4 @@ His next book was *L’Histoirede la Ligue de Cambray* (*History of the League o
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James O. Young](https://www.uvic.ca/humanities/philosophy/people/facultymembers/profiles/young.php) <[*joy@uvic.ca*](mailto:joy%40uvic%2eca)>  
 Margaret Cameron <[*margaret.cameron@unimelb.edu.au*](mailto:margaret%2ecameron%40unimelb%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

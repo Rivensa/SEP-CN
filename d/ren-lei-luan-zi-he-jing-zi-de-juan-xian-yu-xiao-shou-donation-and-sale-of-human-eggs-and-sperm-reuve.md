@@ -312,7 +312,7 @@ Fogg-Davis (2001), 例如，建议通过辅助生殖复制种族以及基于不�
 
 最后，更根本的是，即使出于利他主义或团结精神而进行的捐赠在道德上优于更自私的捐赠（例如纯粹出于对金钱的欲望），也不一定意味着后者是错误的或应该被禁止。因为，也许前者只是超出了道德允许或要求的范围：虽然有偿捐赠仅仅是允许的，无偿捐赠是一种慷慨或团结的行为，超越了道德所允许或要求的范围（Wilkinson & Garrard 1996）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agar, Nicholas, 2004, *Liberal Eugenics: In Defence of Human Enhancement*, Oxford: Blackwell.
@@ -488,4 +488,4 @@ This work was supported by the Wellcome Trust [097897/Z/11/Z].
 [Reuven Brandt](http://www.reuvenbrandt.com/) <[*rabrandt@ucsd.edu*](mailto:rabrandt%40ucsd%2eedu)>  
 [Stephen Wilkinson](http://www.lancaster.ac.uk/ppr/about-us/people/stephen-wilkinson) <[*s.wilkinson2@lancaster.ac.uk*](mailto:s%2ewilkinson2%40lancaster%2eac%2euk)>  
 Nicola Williams <[*n.williams2@lancaster.ac.uk*](mailto:n%2ewilliams2%40lancaster%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

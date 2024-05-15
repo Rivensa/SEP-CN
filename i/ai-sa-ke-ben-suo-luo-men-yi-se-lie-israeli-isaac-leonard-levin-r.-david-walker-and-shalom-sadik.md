@@ -158,7 +158,7 @@ J.L. Teicher 认为以色列·艾萨克不是这部作品的作者（Teicher, 19
 
 随着新柏拉图主义哲学的衰落，以色列所属的伽伦医学传统以及以色列的显著影响力也逐渐减弱。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -220,4 +220,4 @@ J.L. Teicher 认为以色列·艾萨克不是这部作品的作者（Teicher, 19
 Leonard Levin\
 R. David Walker\
 Shalom Sadik <[*navitshalom@hotmail.com*](mailto:navitshalom%40hotmail%2ecom)>
-<!--md-padding-ignore-end-->
+

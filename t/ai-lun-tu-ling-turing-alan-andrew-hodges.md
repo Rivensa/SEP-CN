@@ -228,7 +228,7 @@ Copeland（1999）在他对 1951 年演讲的序言中，正确地引起了人�
 
 但这是一个 21 世纪似乎越来越被吸引的谜团。他百年纪念的那一年，2012 年，见证了许多以他为荣的会议、出版物和文化活动。这种兴趣爆发的原因有很多显而易见。其中一个原因是计算能力和限制的问题现在几乎在人类活动的各个领域中都出现。另一个原因是性取向问题在现代民主国家中变得更加重要。更微妙的是，图灵工作的跨学科广度现在得到了更好的认识。百年纪念时期的一个里程碑是《艾伦·图灵，他的工作和影响》（Cooper 和 van Leeuwen 编辑，2013 年）的出版，该书几乎涵盖了图灵科学作品的所有方面，并附有丰富的现代评论。在这种新氛围下，人们对图灵的鲜为人知的工作给予了新的关注，并对他的成就有了新的认识。他已经从默默无闻中崛起，成为现代科学中研究最为深入的人物之一。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Selected Works by Turing
@@ -317,4 +317,4 @@ The following, single-volume work contains much of the *Collected Works* and a
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Andrew Hodges](https://www.wadham.ox.ac.uk/people/andrew-hodges)
-<!--md-padding-ignore-end-->
+

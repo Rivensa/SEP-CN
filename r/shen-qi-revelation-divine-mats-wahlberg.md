@@ -313,7 +313,7 @@ Moser 声称他在我们对神启的认知反应中强调意志要素构成了�
 
 > 可以以如此压倒性的方式出现，以至于其荣耀的威严使人俯首称臣；它照耀出来，成为最后的话语，只能以纯粹、盲目的服从方式回应。（Balthasar 2004: 53, 57）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abraham, William J., 1981, *The Divine Inspiration of Holy Scripture*, Oxford: Oxford University Press.
@@ -487,4 +487,4 @@ Moser 声称他在我们对神启的认知反应中强调意志要素构成了�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Mats Wahlberg <[*mats.wahlberg@umu.se*](mailto:mats%2ewahlberg%40umu%2ese)>
-<!--md-padding-ignore-end-->
+

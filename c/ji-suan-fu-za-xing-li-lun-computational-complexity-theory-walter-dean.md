@@ -372,7 +372,7 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 
 总之，迄今为止提出的候选超级计算机尚未被证明是可以物理构建和可靠的。目前而言，谦逊的物理计算理论仍然是可信的。很可能，对于所有实际目的而言，任何可以物理计算的函数都是图灵可计算的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aaronson, S., 2003, “Is **P** Versus **NP** Formally Independent?” *Bulletin of the EATCS*, 81: 109–136.
@@ -607,4 +607,4 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Walter Dean](http://go.warwick.ac.uk/whdean) <[*W.H.Dean@warwick.ac.uk*](mailto:W%2eH%2eDean%40warwick%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

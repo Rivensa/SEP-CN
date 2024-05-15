@@ -266,7 +266,7 @@ ISCT 受到了很多关注和批评。其中很多批评集中在超规范上，
 
 希望这篇文章能帮助哲学家和其他人了解商业伦理学的丰富性和价值，并通过这样做，引起对这一领域的更大兴趣。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alzola, M., 2012, “The Possibility of Virtue”, *Business Ethics Quarterly*, 22(2): 377–404.
@@ -510,4 +510,4 @@ For helpful suggestions on this entry (and the previous version), I thank Doroth
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Jeffrey Moriarty](https://faculty.bentley.edu/profile/jmoriarty) <[*jmoriarty@bentley.edu*](mailto:jmoriarty%40bentley%2eedu)>
-<!--md-padding-ignore-end-->
+

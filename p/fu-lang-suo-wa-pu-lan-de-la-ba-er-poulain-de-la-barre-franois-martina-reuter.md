@@ -276,7 +276,7 @@ Poulain argues that ‘nature’ is, in this context, a non-explanatory concept.
 
 除了是普兰论点的一个很好总结外，这段文字还是波伏娃自己分析妇女如何成为第二性的一个有趣线索（另请参阅韦尔奇 2002a: 32；关于波伏娃思想中笛卡尔的方面，请参阅海纳马 2005）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Poulain
@@ -691,7 +691,7 @@ During the early decades of the twentieth century there was a new interest in wh
 
 In addition to being an excellent summary of Poulain’s argument, this passage is an interesting key to Beauvoir’s own analysis of how women become the second sex (see also Welch 2002a: 32; on Cartesian aspects of Beauvoir’s thought, see Heinämaa 2005).
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Poulain
@@ -810,4 +810,4 @@ It is my honor to offer this replacement for the previous SEP entry on Poulain w
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Martina Reuter](https://www.jyu.fi/hytk/fi/laitokset/yfi/en/staff/reuter-martina) <[*anna.m.reuter@jyu.fi*](mailto:anna%2em%2ereuter%40jyu%2efi)>
-<!--md-padding-ignore-end-->
+

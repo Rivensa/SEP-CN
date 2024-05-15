@@ -341,7 +341,7 @@
 
 中世纪政治哲学家的论证在现代政治哲学中只有部分可用。非信徒无法充分利用具有神学前提的论证。但即使对我们来说，也许提醒我们，在某些情况下，宗教传统有能力发展——不仅是为了应对外部压力，甚至是出于自身资源——朝着两个城市成员之间的和平与合作的方向。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### General Surveys and Overviews
@@ -720,4 +720,4 @@ Please contact the authors with other suggestions.
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 [John Kilcullen](http://www.humanities.mq.edu.au/Ockham/kilcullen.html)\
 [Jonathan Robinson](http://individual.utoronto.ca/jwrobinson/)
-<!--md-padding-ignore-end-->
+

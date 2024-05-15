@@ -260,7 +260,7 @@
 
 最后，也许最重要的是，金融监管问题具有全球性的维度，因为资本可以跨越国界流动，从而产生了上述对民主的威胁。这一事实使得个别国家，尤其是较小的国家，很难从公正的角度出发制定更为严格的金融监管措施。就像许多其他全球公正问题一样（例如，关于税收的 Dietsch 2015），我们似乎看到了国家之间协调失败的情况，导致了“向底部竞赛”。因此，要使全球金融机构更加公正，很可能需要大量的国际合作。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abreu, Dilip and Markus K. Brunnermeier, 2003, “Bubbles and Crashes”, *Econometrica*, 71(1): 173–204. doi:10.1111/1468-0262.00393
@@ -566,4 +566,4 @@ Boudewijn de Bruin <[*b.p.de.bruin@rug.nl*](mailto:b%2ep%2ede%2ebruin%40rug%2enl
 [Lisa Herzog](https://www.rug.nl/staff/l.m.herzog/cv?lang=en) <[*l.m.herzog@rug.nl*](mailto:l%2em%2eherzog%40rug%2enl)>  
 [Martin O’Neill](https://york.academia.edu/MartinONeill) <[*martin.oneill@york.ac.uk*](mailto:martin%2eoneill%40york%2eac%2euk)>  
 [Joakim Sandberg](http://flov.gu.se/english/about/staff/?languageId=100001&userId=xsajoa) <[*joakim.sandberg@gu.se*](mailto:joakim%2esandberg%40gu%2ese)>
-<!--md-padding-ignore-end-->
+

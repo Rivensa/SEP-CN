@@ -217,7 +217,7 @@ Van Gulick (2006) 相反，建议所有足以使经验在现象意识上具有�
 
 有人提出异议，质疑 HOT 理论和自我表征理论如何（或是否能够）解释自我意识的各种病理现象，比如自体偏执症和精神分裂症中的思维插入等“脱人格障碍”。请参阅 Gennaro 2015 中的一些论文进行讨论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aiello, L. and Wheeler, P., 1995. ‘The expensive tissue hypothesis,’ *Current Anthropology*, 36: 199–221.
@@ -399,4 +399,4 @@ Van Gulick (2006) 相反，建议所有足以使经验在现象意识上具有�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Peter Carruthers](http://www.philosophy.umd.edu/Faculty/pcarruthers/)  
 Rocco Gennaro <[*rjgennaro@usi.edu*](mailto:rjgennaro%40usi%2eedu)>
-<!--md-padding-ignore-end-->
+

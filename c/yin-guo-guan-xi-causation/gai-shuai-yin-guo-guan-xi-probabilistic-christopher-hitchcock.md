@@ -624,7 +624,7 @@ P(BS2=1∣do(BT0=0,ST0=1,SH1=1))=.9505
 
 《Collins 等人 2004 年》和《Dowe＆Noordhof 2004 年》的选集包含了一些与本节讨论相关主题的论文。Hitchcock 2004b 对 fizzlers 提出的问题进行了广泛讨论。Hitchcock 2015 年是对 Lewis 关于因果的工作的概述。[因果反事实理论](https://plato.stanford.edu/entries/causation-counterfactual/) 的条目讨论了 Lewis 的工作，以及因果反事实理论的更一般性内容。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Andersen, Holly, 2013, “When to Expect Violations of Causal Faithfulness and Why it Matters”, *Philosophy of Science*, 80(5): 672–683. doi:10.1086/673937
@@ -720,4 +720,4 @@ Thanks to Frederick Eberhardt, Luke Fenton-Glynn, Clark Glymour, Judea Pearl, Ri
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Christopher Hitchcock](http://hss.divisions.caltech.edu/people/christopher-r-hitchcock) <[*cricky@caltech.edu*](mailto:cricky%40caltech%2eedu)>
-<!--md-padding-ignore-end-->
+

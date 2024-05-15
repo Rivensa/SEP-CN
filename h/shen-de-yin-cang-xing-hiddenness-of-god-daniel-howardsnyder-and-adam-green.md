@@ -211,7 +211,7 @@ Marsh（2013）专注于对神的存在的自然无信仰。
 
 然而，很少有哲学家愿意对早于我们自己物种甚至全新世智人的能力、信仰和实践采取坚定立场，这导致了相当多的假定自然非信仰无法解释。然而，有人可能会认为“早期人类的地球生涯构成了更大人类故事中的一个情节，为他们构成了一种有价值的意义生活，无论他们是否具备概念资源来理解这一现实”（Vandergriff 2016, 36）。无论一个人是否认为这样的观点具有说服力，可能取决于对 Schellenberg 论点讨论中的关键考虑，即一个人是否认为神能否在没有这个情节的情况下创造出这样有价值的生活，以及一个人应该期望神投入的有意义关系是否可能缺乏“理解这一现实的概念资源”。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aijaz, I. and M. Weidler, 2007, “Some Critical Reflections on the Hiddenness Argument”, *International Journal for Philosophy of Religion*, 61(1): 1–23.
@@ -474,4 +474,4 @@ Thanks to Hud Hudson, J.L. Schellenberg, Edward Wierenga, and Edward Zalta for t
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Daniel Howard-Snyder](https://chss.wwu.edu/philosophy-department/howardd) <[*Dan.Howard-Snyder@wwu.edu*](mailto:Dan%2eHoward-Snyder%40wwu%2eedu)>  
 [Adam Green](http://sites.google.com/site/adamgreenphilosopher/) <[*greenab3@gmail.com*](mailto:greenab3%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

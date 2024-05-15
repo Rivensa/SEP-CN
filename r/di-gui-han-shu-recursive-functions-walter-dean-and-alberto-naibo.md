@@ -1199,7 +1199,7 @@ Addison (1958, 1959) 观察到，这些经典定义可以通过在集合的定�
 
 递归函数和可计算性理论早期发展的历史调查由 Sieg（2009），Adams（2011）和 Soare（2016：第 V 部分）提供。在第 1 节中讨论的许多原始来源被收录在 Davis（1965），van Heijenoort（1967）和 Ewald（1996）中。在初级和中级水平上对可计算性理论的教科书介绍包括 Hopcroft＆Ulman（1979），Cutland（1980），Davis，Sigal 和 Weyuker（1994）和 Murawski（1999）。在第 2 节和第 3 节（直到 Post 问题的表述）中呈现的材料的原始教科书阐述包括 Kleene（1952），Shoenfield（1967）和 Rogers（1987；第一版 1967）。许多一对一和图灵度的结构在更高级的教科书中呈现，例如 Sacks（1963a），Shoenfield（1971），Hinman（1978），Soare（1987），Cooper（2004）和 Soare（2016）。除了 Shoenfield（1967：第 7 章）和 Rogers（1987：第 16 章）之外，超算术和分析层次的经典处理是 Sacks（1990）。Y. Moschovakis（2009，第一版 1980）和 Kechris（1995）中发展了经典和有效的描述性集合论。Simpson（2009）发展了可计算性理论与逆向数学之间的联系。（这对应于在语言中制定全二阶算术的子理论的公理研究。这些理论形成了一个层次结构，其中可以发展出大部分经典数学，并且其模型可以通过可计算性理论手段来表征-例如，递归集合形成最小的 Π1-模型，算术集合形成最小的 Σ1-模型等。请参阅逆向数学的条目。）对子递归层次的处理以及与证明论和理论计算机科学的联系由 Péter（1967），Rose（1984），Clote＆Kranakis（2002：第 6-7 章）和 Schwichtenberg＆Wainer（2011）提供。 在本条目中，对许多历史和数学主题进行了概述，这些主题在奥迪弗雷迪（Odifreddi）的《经典递归理论》（1989 年，1999a）的两卷中也有更详细的介绍，其中包含了许多额外的历史参考资料。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Note: In cases where an English translation is available, page references in the main text and notes are to the indicated translations of the sources cited below.
@@ -1377,4 +1377,4 @@ This work has been partially supported by the ANR project *The Geometry of Algo
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Walter Dean](http://go.warwick.ac.uk/whdean) <[*W.H.Dean@warwick.ac.uk*](mailto:W%2eH%2eDean%40warwick%2eac%2euk)>  
 [Alberto Naibo](https://www.pantheonsorbonne.fr/page-perso/anaibo) <[*alberto.naibo@univ-paris1.fr*](mailto:alberto%2enaibo%40univ-paris1%2efr)>
-<!--md-padding-ignore-end-->
+

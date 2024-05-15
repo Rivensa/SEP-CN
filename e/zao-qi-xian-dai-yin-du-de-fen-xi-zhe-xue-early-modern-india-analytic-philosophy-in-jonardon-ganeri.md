@@ -660,7 +660,7 @@ ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受�
 
 这些都是德摩根定律的版本，即 ¬(A & B) ≡ ¬A ∨ ¬B，以及 ¬(A∨B) ≡ ¬A & ¬B。以第二个定律为例，考虑马图拉纳塔的评论（1951: 66），即一个（特定的）缺席“堆”（abhāva-kūṭa）等同于一种普遍的缺席。一个地方是火的普遍缺席的所在地，即每一个特定的火都不在的地方，反之亦然，如果每一个特定的火都不在，那么火就是普遍缺席的。因此，火的特定缺席的“堆”（连接）等同于根本没有任何火（特定火的分离）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Navya-Nyāya Texts in English Translation
@@ -745,4 +745,4 @@ ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Jonardon Ganeri](https://philosophy.utoronto.ca/directory/jonardon-ganeri/) <[*jonardon.ganeri@utoronto.ca*](mailto:jonardon%2eganeri%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

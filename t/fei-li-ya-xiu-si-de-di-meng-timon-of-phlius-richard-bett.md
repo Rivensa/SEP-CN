@@ -56,7 +56,7 @@ Timon 需要发表这样的声明表明，对 Pyrrhonists（以及怀疑主义�
 
 第蒙所提出的另一个观点是，不可分割的时间内不可能发生可分为时间部分的过程，比如产生、消亡等。塞克斯将此作为论证的依据，得出了现在时刻不是不可分割的结论；但没有明确迹象表明这也是第蒙的目的。这个观点本身是无可反驳的，几乎是显而易见的；在关于时间本质的辩论中，可以想象出许多情境下它可能有一定的意义。一些学者试图将其与前一时期的学说联系起来，包括第蒙的第一位老师梅加拉的斯提尔波的学说。但同样，很难将这样一个显然正确的陈述与任何明确的哲学立场联系起来。如果第蒙保留了斯提尔波的任何教导，那么最有可能是在伦理学领域；斯提尔波和梅加拉人普遍似乎持有一种温和或适度情感和摆脱干扰的理想，这与皮浪的宁静是相似的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Ancient Texts
@@ -98,4 +98,4 @@ Academy, Plato’s | [Anaxagoras](https://plato.stanford.edu/entries/anaxagora
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Richard Bett](http://philosophy.jhu.edu/bios/richard-bett/) <[*rbett1@jhu.edu*](mailto:rbett1%40jhu%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -282,7 +282,7 @@ Fischer (1989)的引言中对这些论点进行了很好的讨论，并试图指
 
 最后，Norman Kretzmann（1997, 220–25）在阿奎那的神学体系中提出了一个观点，即有强烈的压力要说上帝必须创造某种东西，尽管他可能创造了许多不同的偶然秩序之一。原因在于没有一个合理的解释说明绝对完美的上帝可能具有可抵抗的动机——在创造某物而非虚无之间有一种考虑，这是与其他竞争性考虑之一。 （显然，这与任何形式的实用性无关，例如。）对上帝被激励创造的最佳一般理解——在某些地方，阿奎那本人也非常接近支持这一观点——是将其视为上帝的本质，即善，必然扩散自身。完美的善将自然地向外传播；作为完美的善的上帝将自然地创造，产生一个依赖现实，不完全反映出那种善。Wainwright（1996）讨论了清教思想家乔纳森·爱德华兹的一种类似思路。然而，Alexander Pruss（2016）提出了对这种思路的怀疑的重大理由；O’Connor（2022）提出了一种反驳。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert, 1987. “Must God Create the Best?” in his *The Virtue of Faith and Other Essays in Philosophical Theology*, New York: Oxford University Press, 51–64.
@@ -604,4 +604,4 @@ Fischer (1989)的引言中对这些论点进行了很好的讨论，并试图指
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Timothy O’Connor <[*toconnor@indiana.edu*](mailto:toconnor%40indiana%2eedu)>  
 [Christopher Franklin](http://christopherefranklin.weebly.com/) <[*cefranklin@gcc.edu*](mailto:cefranklin%40gcc%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -149,7 +149,7 @@ dpi/dt=p(wi−¯¯¯¯w)
 
 模拟结果显示，几乎所有初始人口分布都会被两种信号系统策略中的一种所主导。当引入更现实的收益时，情况变得更加复杂，例如，发送者产生成本而不是自动分享接收者从环境中获得的正确行为的好处。然而，在这种情况下，进化的最可能路径仍然是由信号系统主导。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Atran, S., 2001, “The trouble with memes: inference versus imitation in cultural creation,” *Human Nature*, 12(4):351–381.
@@ -252,4 +252,4 @@ dpi/dt=p(wi−¯¯¯¯w)
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Michael Bradie](http://www.bgsu.edu/departments/phil/faculty/page26741.html) <[*mbradie@bgsu.edu*](mailto:mbradie%40bgsu%2eedu)>  
 William Harms <[*wharms@uw.edu*](mailto:wharms%40uw%2eedu)>
-<!--md-padding-ignore-end-->
+

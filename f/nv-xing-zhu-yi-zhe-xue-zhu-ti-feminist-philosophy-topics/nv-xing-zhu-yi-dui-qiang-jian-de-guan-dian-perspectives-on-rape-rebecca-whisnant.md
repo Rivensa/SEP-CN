@@ -214,7 +214,7 @@ ICTY 的裁决因此传达了一个判决，即塞尔维亚强奸犯不仅侵犯
 
 女性主义关于强奸的理论建立在许多学科的女性主义学术传统以及女性对自己强奸经历的洞察力和几十年来女性主义反暴力行动所获得的知识基础上。随着这种理论的不断发展——在挑战父权社会和性别假设方面变得更加激进，并在分析中变得更加全球化和交叉性 [2]——它构成了对抗性暴力的女性主义运动的重要支持。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -358,4 +358,4 @@ ICTY 的裁决因此传达了一个判决，即塞尔维亚强奸犯不仅侵犯
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Rebecca Whisnant <[*Rebecca.Whisnant@notes.udayton.edu*](mailto:Rebecca%2eWhisnant%40notes%2eudayton%2eedu)>
-<!--md-padding-ignore-end-->
+

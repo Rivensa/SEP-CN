@@ -276,7 +276,7 @@ Leplin 澄清，这种推理的“最小充分重建”将是一个有效的推�
 
 对此，一些现实主义者辩称“选择性现实主义”，承认虽然科学史上的大多数理论都被证明是错误的，但其中一些理论的部分组成仍然被保留在后续的理论中，而这些部分往往是导致新的成功的原因。这种现象的假设性例子包括热量理论和 19 世纪光学理论（Psillos 1999: Ch. 6），尽管这两个理论最终被证明是错误的，但它们的部分组成被保留在后续的理论中，因为这些部分是导致它们的新的确认的原因。因此，根据最终的论证，有人声称新的成功构成了支持生成这些成功的理论组成部分真实性的重要论据。然而，反现实主义者则引用了一些理论性主张的案例，这些主张后来被确定是完全错误的，但仍然能够产生令人印象深刻的新的预测记录。这些案例包括约翰内斯·开普勒在他的《宇宙之谜》（1596）中提出的某些关键主张，亚当斯和勒维里埃在预测海王星的存在和位置时使用的假设（Lyons 2006），以及托勒密天文学（Carman＆Díez 2015）。Leconte（2017）认为，预测的成功只能证明怀疑性现实主义的合理性——即某个理论的一部分是真实的，但不知道是哪一部分。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Achinstein, Peter, 1994, “Explanation vs. Prediction: Which Carries More Weight”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1994(2): 156–164. doi:10.1086/psaprocbienmeetp.1994.2.192926
@@ -441,4 +441,4 @@ Leplin 澄清，这种推理的“最小充分重建”将是一个有效的推�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Eric Christian Barnes <[*ebarnes@smu.edu*](mailto:ebarnes%40smu%2eedu)>
-<!--md-padding-ignore-end-->
+

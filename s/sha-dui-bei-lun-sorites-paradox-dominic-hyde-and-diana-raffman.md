@@ -279,7 +279,7 @@ Field 2008 进一步发展了这一主题，尽管它主要致力于解决谎言
 
 就像之前关于超值论中存在量词角色的问题一样，人们可以辩论这是否是一个应该接受的结果，还是一个不利于推进理论的不良结果。这种方式中的参考确实令人惊讶。此外，这样的情况并不是例外；鉴于模糊的特指术语的普遍存在，这样的情况似乎是规则（参见 Lewis 1993；McGee＆McLaughlin 2000；Morreau 2002）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Åkerman, Jonas, 2009, “Contextualist Theories of Vagueness”, *Philosophy Compass*, 7(7): 470–480. doi:10.1111/j.1747-9991.2012.00495.x
@@ -413,4 +413,4 @@ Field 2008 进一步发展了这一主题，尽管它主要致力于解决谎言
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Dominic Hyde](https://hpi.uq.edu.au/profile/388/dominic-hyde)  
 Diana Raffman <[*diana.raffman@utoronto.ca*](mailto:diana%2eraffman%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

@@ -120,7 +120,7 @@ Ayer 对因果关系缺乏必要性的认识使他对人类自由的接受变得
 
 也许正是道德话语的这些“表面”特征，使其看起来像是道德主张是断言，因此是信念的表达，因此可以进行真值评估，而道德分歧似乎是真正的道德分歧，这使得艾耶尔后来倾向于认为麦基的道德语言“错误”理论（Mackie 1977）更接近真相（艾耶尔 1984 年）。情感主义的细节在二十世纪后半叶往往消失在元伦理学的舞台上，但其指导思想在布莱克本（Blackburn 1984, 1998）和吉巴德（Gibbard 1990）的表达主义中仍然非常活跃。（有关对这些指导思想的支持性辩护，请参见 Altham，1979 年；有关对表达主义发展的全面论述，并特别关注对解决弗雷格-吉奇问题的后续尝试，请参见 Schroeder，2010 年。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 A more complete bibliography of Ayer’s work up to 1979 can be found in Macdonald 1979, in the Secondary Literature section below.
@@ -203,4 +203,4 @@ A more complete bibliography of Ayer’s work up to 1979 can be found in Macdona
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Graham Macdonald](http://staffprofiles.humanities.manchester.ac.uk/Profile.aspx?Id=Graham.Macdonald)  
 Nikhil Krishnan <[*nk459@cam.ac.uk*](mailto:nk459%40cam%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

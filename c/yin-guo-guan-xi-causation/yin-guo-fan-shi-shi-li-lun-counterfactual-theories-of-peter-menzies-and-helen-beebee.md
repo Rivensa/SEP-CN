@@ -315,7 +315,7 @@ Blanchard and Schaffer 自己的观点是，就我们的因果判断而言，如
 
 潜在于关于“默认相对性”的辩论背后的更一般性问题包括：因果概念的目的是最好通过“平等主义”或“不变主义”概念还是通过将概念视为规范性考虑的概念来实现。例如，Hitchcock（2017）认为，由于我们对于什么导致什么感兴趣，本质上是对于什么样的干预会带来我们想要的结果的兴趣，我们应该采取后者的观点。一个更一般的问题是是否存在一个概念的因果关系，所有在讨论桌上的观点都在或应该瞄准，或者存在几个（Hall 2004，McDonnell 2018）。或许因果关系是南希·卡特赖特（继纽拉特之后）所称的“Ballung”概念： “一个具有粗糙、变化、多孔边界的概念，一堆不同的想法和含义，可以以不同的组合为不同目的和不同背景聚焦”（2017: 136）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albert, D. Z., 2000. *Time and Chance*, Boston, MA: MIT Press.
@@ -441,4 +441,4 @@ Blanchard and Schaffer 自己的观点是，就我们的因果判断而言，如
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Peter Menzies\
 [Helen Beebee](https://ahc.leeds.ac.uk/philosophy/staff/3939/professor-helen-beebee) <[*H.Beebee@leeds.ac.uk*](mailto:H%2eBeebee%40leeds%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

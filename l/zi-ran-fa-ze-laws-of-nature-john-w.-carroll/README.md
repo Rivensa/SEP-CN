@@ -162,7 +162,7 @@ Earman 和 Roberts 认为存在无例外和有法律性的规律。更确切地�
 
 事物将如何发展？哲学如何超越当前关于自然法则的争议？有三个问题特别有趣且重要。第一个问题是法则性是否是科学理论内容的一部分。这个问题经常被问到关于因果关系，但对于法则性的讨论较少。罗伯茨提供了一个类比来支持这样的想法：欧几里得几何学的一个假设是两个点决定一条直线。但这个命题是一个假设并不是欧几里得几何学内容的一部分。欧几里得几何学不是关于假设的理论；它是关于点、线和平面的理论……（2008，92）。这可能是理解一些法则术语为何不出现在科学理论的正式陈述中的一个合理的第一步。第二个问题是是否存在任何偶然的自然法则。必然主义者继续努力填补他们的观点，而休谟主义者和其他人对他们的工作相对不太关注；新的研究需要解释这些阵营之间分歧的根本承诺的来源。最后，需要更多关注用于报告法则以及表达法则本身和法则解释的语言。显然，最近关于物理学和特殊科学中概括的争议正是围绕着这些问题展开的，但对它们的探索也可能在本体论、现实主义与反现实主义以及随附等核心问题上产生回报。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armstrong, D., 1978, *A Theory of Universals*, Cambridge: Cambridge University Press.
@@ -283,4 +283,4 @@ Portions of the 2006 update to this entry were drawn directly from the introduct
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [John W. Carroll](https://chass.ncsu.edu/people/carroll/) <[*carroll@ncsu.edu*](mailto:carroll%40ncsu%2eedu)>
-<!--md-padding-ignore-end-->
+

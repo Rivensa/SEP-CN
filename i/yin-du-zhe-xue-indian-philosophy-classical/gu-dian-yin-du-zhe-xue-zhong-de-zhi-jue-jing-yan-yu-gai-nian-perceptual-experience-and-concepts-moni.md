@@ -184,7 +184,7 @@ Uddyotakara 在反对怀疑论者方面提出了更强的论据。在他的 Nyā
 
 我们在这篇文章中总结一下，Sūtra-s 主要是在公元前 5 世纪到公元 2 世纪的七个世纪中创作的，此后的千年多一点，哲学工作由各派的 Sūtra 评论家（tikākār-s）继续进行。在这个后期，这些认识论的争论在这些学派的学者之间激烈进行。还要注意的是，对于这些日期并没有共识；大多数西方学者接受这些日期，而印度学派则将它们放在更久远的古代。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Texts in English translation
@@ -263,4 +263,4 @@ Uddyotakara 在反对怀疑论者方面提出了更强的论据。在他的 Nyā
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Monima Chadha <[*Monima.Chadha@arts.monash.edu.au*](mailto:Monima%2eChadha%40arts%2emonash%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

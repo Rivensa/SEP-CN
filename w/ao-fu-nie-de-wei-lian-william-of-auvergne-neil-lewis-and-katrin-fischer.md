@@ -244,7 +244,7 @@
 
 学者们对威廉对后来的作家的影响给予了很少的关注。然而，很明显，他没有引起任何思想流派的形成，后来的思想家似乎从他的作品中挑选他们愿意接受和拒绝的部分。因此，威廉认为世界必须有一个开始的论点可能影响了波纳文图拉和亨利·冈特等思想家，而他对普遍的物质形态和存在与本质的形而上学的拒绝可能影响了阿奎那，后者提出了类似的观点。毫无疑问，威廉的一些观点也受到了批评，例如他明显否认真正的次级因果关系（参见 Reilly 1953）。威廉的作品在许多手稿中得以保存，这表明他在中世纪一直被阅读；例如，Ottman 2005 列出了已知包含《论宇宙》的 44 个手稿。威廉的作品也在 16 世纪和 17 世纪出版了多个印刷版本。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Bibliographical and Biographical Studies
@@ -379,4 +379,4 @@ The following books all contain useful detailed outlines of the contents of the 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Neil Lewis  
 Katrin Fischer <[*katrin.fischer@uni-wuerzburg.de*](mailto:katrin%2efischer%40uni-wuerzburg%2ede)>
-<!--md-padding-ignore-end-->
+

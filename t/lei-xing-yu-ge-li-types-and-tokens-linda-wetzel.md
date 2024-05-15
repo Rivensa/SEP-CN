@@ -179,7 +179,7 @@ Sellars 的建议与 Goodman 的建议相似，面临着类似的困难，但又
 
 需要区分类型的个例和类型的发生，不仅仅在语言学中，而且在任何类型的事物中，其中有其他类型的事物发生。贝多芬的《悲怆奏鸣曲》中有大约 10,000 个音符（个例），但钢琴只能产生 88 个音符（类型）。美国国旗上应该有五十颗星星（类型），但五角星（类型）是独一无二的。而且，如果说同一个原子（类型）氢在甲烷分子中“出现了四次”，这意味着什么呢？同样，令人困惑的是，同一件事物如何可以“发生”多次，而没有多个个例存在。阿姆斯特朗（1986 年）、刘易斯（1986a、b）和福雷斯特（1986 年）将这些类型称为“结构普遍性”，并对此展开了一场辩论。阿姆斯特朗和福雷斯特为阿姆斯特朗（1978 年）的普遍性观点辩护，反对刘易斯，后者勾勒出了与阿姆斯特朗理论相容的七种不同的结构普遍性观点，并发现它们都不尽如人意。基本上，刘易斯（1986a）假设结构普遍性可以通过更简单的普遍性进行两种方式的构建：集合论和部分整体论。他认为，集合论构建导致了伪造的普遍性，而不是名副其实的普遍性，并且各种部分整体论构建只会导致一堆更简单的普遍性，其中不能有两个更简单的普遍性。韦策尔（2008 年）认为，有一种结构普遍性的概念，即“发生概念”，它是上述表达式的发生概念的延伸，可以避免刘易斯的反对意见。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allwood, Jens (1998), “Some Frequency based Differences between Spoken and Written Swedish,” *Proceedings from the XVIth Scandinavian Conference of Linguistics*, Department of Linguistics, University of Turku.
@@ -271,4 +271,4 @@ Sellars 的建议与 Goodman 的建议相似，面临着类似的困难，但又
 
 [Copyright © 2006](https://plato.stanford.edu/info.html#c) by  
 [Linda Wetzel](http://explore.georgetown.edu/people/wetzell/) <[*wetzell@georgetown.edu*](mailto:wetzell%40georgetown%2eedu)>
-<!--md-padding-ignore-end-->
+

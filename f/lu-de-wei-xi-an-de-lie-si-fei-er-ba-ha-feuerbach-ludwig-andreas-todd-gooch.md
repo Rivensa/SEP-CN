@@ -236,7 +236,7 @@
 
 在这里，道德意志并非无私的意志，而是“那种寻求不造成伤害的意志，因为它希望不受伤害”（SM 80），并已开始将自己的利益与他人的利益视为一致。因为对他人苦难的同情预设了对自己苦难的反感，谁若消除了自我利益（即，拒绝承认以自我利益为动机的行为具有道德价值），也就同时消除了同情（Mitleid）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 References to Feuerbach’s published writings are to the critical edition of his collected works or *Gesammelte Werke* (hereafter *GW*) edited by Werner Schuffenhauer, Berlin: Akademie Verlag, 1981–. Feuerbach’s writings are cited in the text using the following system of abbreviation. Page numbers refer to the relevant volume of *GW* as indicated below. In cases where two page numbers are separated by a slash, the second refers to the relevant translation as indicated below. Although I have made use of these translations, in many cases I have preferred to provide my own.
@@ -350,4 +350,4 @@ References to Feuerbach’s published writings are to the critical edition of hi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Todd Gooch](http://philosophy.eku.edu/people/gooch) <[*todd.gooch@eku.edu*](mailto:todd%2egooch%40eku%2eedu)>
-<!--md-padding-ignore-end-->
+

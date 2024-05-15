@@ -142,7 +142,7 @@ G.W.F.黑格尔对财产的解释集中在财产对自我发展的贡献上，�
 
 最后，在对财产的直接规范论证的回顾中，我们应该考虑财产在道德上可能具有的重要性，而不是它的作用或带来的结果。财产权本身赋予人们在社会中一定的地位和认可：财产所有者在控制资源方面受到尊重（多夫曼，2012 年）。这无疑是重要的；正如我们所见，这是黑格尔（1967 年）和康德（1991 年）所采取的方法的主题之一（参见伯德和赫鲁什卡，2006 年）。但这对财产也可能产生重要的影响，因为如果财产分配不均，如果不平等是根本性的，并且有些人在财产权方面几乎一无所有，那么就必须面对关于尊重基础不均匀分配的严峻问题。如果我们不考虑那些一无所有的人在道德认可方面缺乏这种认可的固有伤害，就无法认真对待财产权在道德认可方面所做的好事。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackerman, Bruce (1977), *Private Property and the Constitution*, New Haven: Yale University Press.
@@ -251,4 +251,4 @@ G.W.F.黑格尔对财产的解释集中在财产对自我发展的贡献上，�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Jeremy Waldron](http://its.law.nyu.edu/facultyprofiles/profile.cfm?personID=26993) <[*jeremy.waldron@nyu.edu*](mailto:jeremy%2ewaldron%40nyu%2eedu)>
-<!--md-padding-ignore-end-->
+

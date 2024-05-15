@@ -261,7 +261,7 @@ Moreover, discussions of capacity assessment tend to assume (contra Culver & Ger
 
 此外，随着某些类型的伦理问题成为公众辩论的热点话题，决策能力变得越来越相关。例如，在医疗援助死亡法（MAID）方面，决策能力显然非常重要，然而公众常常无法理解决策能力的实际含义以及评估能力的实践是多么多样化（Kim，Appelbaum 等，2011 年; Seyfried，Ryan 和 Kim，2013 年）。这一点尤为重要，因为目前最具争议的问题之一是是否应该让患有精神疾病或认知障碍的人成为安乐死的候选人（Stewart，Peisah 和 Draper，2011 年; Broome 和 de Cates，2015 年; Price，2015 年; Schuklenk 和 van de Vathorst，2015 年; Appelbaum，2016 年; Charland，Lemmens 和 Wada，2016 年; Doernberg，Peteet 和 Kim，2016 年; Kim 和 Lemmens，2016 年; Blikshavn，Husum 和 Magelssen，2017 年）。正如本文所明确的，关于决策能力的一些最困难的问题特别出现在精神疾病的情况下，这使得更难确定是否可以适当地实施面向精神病患者的 MAID 政策，其中“适当”在这里指的是在保护真正脆弱的人与促进那些能够有意义行使自由的人之间取得恰当平衡的实施。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abernathy, V., 1984, “Compassion, Control, and Decisions about Competency”, *American Journal of Psychiatry*, 141(1): 53–58. doi:10.1176/ajp.141.1.53
@@ -421,4 +421,4 @@ The authors would like to thank Kyoko Wada, Scot Kim, Trudo Lemmens, and an anon
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jennifer Hawkins](https://scholars.duke.edu/person/jen.hawkins) <[*jen.hawkins@duke.edu*](mailto:jen%2ehawkins%40duke%2eedu)>  
 Louis C. Charland
-<!--md-padding-ignore-end-->
+

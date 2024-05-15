@@ -315,7 +315,7 @@ Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Se
 
 关于意识与意向性关系观点如何影响有关心灵、自我、解释、知识和价值的重大问题，肯定还有很多值得探讨的地方。但刚刚所说的希望能够突显出哲学领域的一些显著特征。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anscombe, G.E.M., 1965, “The Intentionality of Sensation: a Grammatical Feature”, in *Analytical Philosophy*, R.J. Butler (ed.), Oxford: Oxford University Press.
@@ -565,4 +565,4 @@ Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Se
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Charles Siewert](https://www.charles-siewert.com/) <[*charles.siewert@rice.edu*](mailto:charles%2esiewert%40rice%2eedu)>
-<!--md-padding-ignore-end-->
+

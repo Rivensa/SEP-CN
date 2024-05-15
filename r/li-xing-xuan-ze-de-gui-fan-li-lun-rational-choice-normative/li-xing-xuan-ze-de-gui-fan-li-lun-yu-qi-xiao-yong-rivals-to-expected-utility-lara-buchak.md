@@ -407,7 +407,7 @@ REU 的表示定理结合了两个现有定理的条件（Machina＆Schmeidler 1
 
 对于拒绝确定性原则或独立公理的理论，会出现几个潜在的担忧，包括这些公理在直觉上是正确的担忧(Harsanyi 1977，Savage 1954，Samuelson 1952；参见 McClennen 1983，1990 中的讨论)；决策者会不一致地评估后果(Samuelson 1952，Broome 1991)；决策者会拒绝免费信息(Good 1967，Wakker 1988，Buchak 2013，Ahmed & Salow 2019，Campbell-Moore & Salow 2020)。最广泛讨论的担忧是这些理论会使决策者容易出现时间上的不一致(Raiffa 1968；Machina 1989；Hammond 1988；McClennen 1988，1990；Seidenfeld 1988a,b；Maher 1993；Rabinowicz 1995，1997；Buchak 2013，2015，2017；Briggs 2015；Joyce 2017；Thoma 2019)。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahmed, Arif and Bernhard Salow, 2019, “Don’t Look Now”, *The British Journal for the Philosophy of Science*, 70(2): 327–350. doi:10.1093/bjps/axx047
@@ -594,4 +594,4 @@ REU 的表示定理结合了两个现有定理的条件（Machina＆Schmeidler 1
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Lara Buchak <[*lbuchak@princeton.edu*](mailto:lbuchak%40princeton%2eedu)>
-<!--md-padding-ignore-end-->
+

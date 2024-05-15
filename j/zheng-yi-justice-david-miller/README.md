@@ -212,7 +212,7 @@ Equality also acts as a default in circumstances where, although people may inde
 
 放松我们对正义的思考方式之一是更加关注概念的历史。通过阅读亚里士多德、阿奎那或休谟对概念的论述，我们可以学到很多东西，但同时我们也会发现一些我们期望找到的元素缺失了（例如，亚里士多德没有提到权利），而我们不期望的元素却存在。这可能部分是由于每个思想家的个人特点，但更重要的是反映了每个思想家所处的社会生活形式的差异 - 特别是其经济、法律和政治结构。已经有人试图撰写关于正义的历史，不仅仅是个别思想家观点的目录：他们的目标是追踪和解释正义被解释的系统性转变（有关对比的例子，请参见麦金泰尔 1988 年、弗莱沙克 2004 年、约翰斯顿 2011 年）。这些不应该被看作是启蒙故事，其中我们对正义的理解随着世纪的推移而不断提高。例如，麦金泰尔的观点是，现代自由社会无法维持正义观念所适当归属的实践。通过将争夺我们注意力的各种概念与我们社会世界中过去不存在的方面联系起来，我们可以更好地理解正义对我们的意义，并且同样有可能在未来消失。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Elizabeth, 1999, “What is the Point of Equality?” *Ethics*, 109: 287–337.
@@ -299,4 +299,4 @@ Equality also acts as a default in circumstances where, although people may inde
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [David Miller](https://www.nuffield.ox.ac.uk/people/profiles/david-miller/) <[*david.miller@nuffield.ox.ac.uk*](mailto:david%2emiller%40nuffield%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

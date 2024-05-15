@@ -537,7 +537,7 @@ DRT 的表征主义表现出比其他理论更为激进的一种方式是它也�
 * **Discourse structure and SDRT:** Asher (1993), Asher and Lascarides (2003), van Leusen (2007).
 * **Inference systems for DRT:** Kamp and Reyle (1996), Saurer (1993).
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Asher, N., 1986, “Belief in Discourse Representation Theory”, *Journal of Philosophical Logic*, 15: 127–189.
@@ -636,4 +636,4 @@ We would like to thank the editors and reviewers of the Stanford Encyclopedia of
 [Bart Geurts](http://www.ru.nl/ncs/bart/) <[*brtgrts@gmail.com*](mailto:brtgrts%40gmail%2ecom)>\
 [David I. Beaver](http://www.utexas.edu/cola/linguistics/faculty/profile.php?id=dib97) <[*dib@mail.utexas.edu*](mailto:dib%40mail%2eutexas%2eedu)>\
 Emar Maier <[*emar.maier@gmail.com*](mailto:emar%2emaier%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

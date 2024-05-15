@@ -278,7 +278,7 @@ Prob(coalescence t generations ago)=12N×(1−12N)t−1.
 
 总之，最近文献中讨论的群体遗传学周围存在许多有趣的哲学问题。除此之外，由于群体遗传学对进化生物学的核心地位，对许多哲学领域都具有重要意义，因此群体遗传学间接地与更广泛的一系列哲学关注相关。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agren, J.A., 2021, *The Gene’s Eye View of Evolution*, Oxford: Oxford University Press.
@@ -398,4 +398,4 @@ Prob(coalescence t generations ago)=12N×(1−12N)t−1.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Samir Okasha](http://www.bris.ac.uk/Depts/Philosophy/PHS/PHS\Staff.html#samir) <[*samir.okasha@bristol.ac.uk*](mailto:samir%2eokasha%40bristol%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

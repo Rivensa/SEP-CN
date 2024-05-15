@@ -456,7 +456,7 @@ Some pleasures are, by their nature, of a higher quality than others—and as su
 
 穆勒试图确保在民主社会的喧嚣中能够辨认和倾听真正的权威，当然，并不是试图压制其他声音。他也不试图将专家的意愿强加给不愿接受的多数人。在所有情况下，穆勒始终致力于个人自由持有和表达自己的观点，以及多数人在公共事务上的主权意愿。他对现代社会民粹主义的真实危险非常敏感，也就是说，他从未让这种敏感超过他对自由、积极和幸福公民的培养最适合的自由民主政治体制的基本承诺。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -555,4 +555,4 @@ I owe thanks to Reuven Brandt, Aaron Cobb, Sam Clark, Fred Kroon, John Skorupski
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Christopher Macleod](http://www.christophermacleod.net/) <[*christopher.macleod@lancaster.ac.uk*](mailto:christopher%2emacleod%40lancaster%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

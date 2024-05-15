@@ -135,7 +135,7 @@ L. Outlaw 承认这是萨特的《黑人奥菲斯》的主要观点。现在可�
 
 对于将 Négritude 过快地视为过去的本质主义，这可能在对压迫性殖民秩序提出“解构性挑战”时是必要的，但在呼吁世界主义和混合文化时却无话可说，这将忽视了这一多维运动的重要维度。\[17] 本质主义的语言在 Négritude 文学中无处不在，毫无疑问，但混合性的语言也同样普遍，可以被看作是在夜间解开白天编织的方式，就像彭洛普曾经做过的那样。森戈尔不仅是一个“混合”思想家，也是一个 Négritude 思想家。他的座右铭“每个人都必须以自己的方式混合”对于 Négritude 来说是至关重要的，就像捍卫和阐述黑人世界的文明价值观一样。实际上，森戈尔对“nègre”一词的非种族化使用对于理解为什么画家巴勃罗·毕加索、诗人保罗·克洛德尔、查尔斯·佩吉或亚瑟·兰波、哲学家亨利·贝尔松等都被森戈尔以“Négritude”的旗帜招募了起来至关重要。最终的信息可能是，并不需要是黑人才能成为“nègre”。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Apostel, L., 1981, *African Philosophy: Myth or Reality?*, Gent: Story-Scientia.
@@ -200,4 +200,4 @@ L. Outlaw 承认这是萨特的《黑人奥菲斯》的主要观点。现在可�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Souleymane Bachir Diagne](https://french.columbia.edu/content/souleymane-bachir-diagne) <[*sd2456@columbia.edu*](mailto:sd2456%40columbia%2eedu)>
-<!--md-padding-ignore-end-->
+

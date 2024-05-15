@@ -352,7 +352,7 @@ Weir（2010；2016）认为有限主义形式主义不仅极端，而且不连�
 
 总之，主张标准数学理论的形式主义者，包括证明理论等，比经典游戏形式主义者拥有更多资源来满足这些要求。问题是，这些资源是否足以挽救一个公平地说，大多数数学哲学家仍然认为是绝望的立场。另一方面，对于形式主义是否已经死亡和埋葬，以及一些数学家和计算机科学家对形式主义的强烈同情的迹象，肯定没有普遍的共识。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Awodey, Steve, 2014, ‘Structuralism, Invariance, and Univalence’, *Philosophia Mathematica* (III), 22: 135–159.
@@ -443,4 +443,4 @@ Many thanks to John L. Bell, Richard Lawrence and the editors of the Stanford En
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Alan Weir](http://www.gla.ac.uk/schools/humanities/staff/?action=person&id=4cddeee18290) <[*alan.weir@glasgow.ac.uk*](mailto:alan%2eweir%40glasgow%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

@@ -164,7 +164,7 @@
 
 尽管对博丹的兴趣有了这种受欢迎的复苏，但仍然需要一种新的英文翻译《共和国》，以满足 21 世纪研究人员的需求。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Bodin Cited in the Text
@@ -536,4 +536,4 @@ The editors would like to thank James Blakeley for his efforts in translating th
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Mario Turchetti
-<!--md-padding-ignore-end-->
+

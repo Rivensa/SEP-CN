@@ -240,7 +240,7 @@ Lorenzen 的另一组与之相同的一般家族的游戏是 Pavel Pudlak 2000 �
 
 暂时回到洛伦岑：他未能区分一个人在争论中可能采取的不同立场：陈述、假设、让步、质疑、攻击、承诺。是否真的可能在不预设某种逻辑的情况下定义所有这些概念，这是一个有争议的问题。但不要紧；在这些方面对洛伦岑游戏的改进可以作为对非正式逻辑的一种方法，特别是对旨在系统化合理非正式论证可能结构的研究。在这方面，请参阅沃尔顿和克拉贝（1995）的研究。Bench-Capon 和 Dunne（2007）的论文也是相关的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Some of the seminal papers by Henkin and Lorenzen, and some of the papers cited below, appear in the collection *Infinitistic Methods* (Proceedings of the Symposium on Foundations of Mathematics, Warsaw, 2–9 September, 1959), Oxford: Pergamon Press, 1961. The editors are unnamed.
@@ -358,4 +358,4 @@ Some of the seminal papers by Henkin and Lorenzen, and some of the papers cited 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Wilfrid Hodges](http://wilfridhodges.co.uk/)  
 Jouko Väänänen <[*jouko.vaananen@helsinki.fi*](mailto:jouko%2evaananen%40helsinki%2efi)>
-<!--md-padding-ignore-end-->
+

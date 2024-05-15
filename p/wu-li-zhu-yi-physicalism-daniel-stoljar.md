@@ -446,7 +446,7 @@ Kripke 的论证旨在破坏这个承诺。（事实上，Kripke 的论证旨在
 
 另一种可能性是拒绝其第二个前提。然而，如果物理主义可以清楚地陈述 - 诚然，这是一个很大的“如果” - 那么这将意味着什么或者对此的动机将不太清楚。首先，我们之前的讨论表明，物理主义与各种科学的解释自主性并不矛盾，因此一个不应该仅仅因为看不到如何将这些科学归约为其他科学而拒绝物理主义。其次，虽然确实存在非物理主义的世界观的例子 - 生物学中的生命论可能是最好的例子 - 但这与论点无关。方法论自然主义的论证的第二个前提并不否认其他观点的可能性，它只是说物理主义是目前最有可能的观点。最后，人们可能倾向于诉诸于诸如知识论证之类的论证，以显示物理主义是错误的，从而方法论自然主义无法显示物理主义是错误的。然而，这个建议对知识论证存在一种混淆。正如我们上面所看到的，如果成功，知识论证表明的不仅仅是物理主义是错误的，而是与方法论自然主义兼容的任何对世界的方法都是错误的。但如果是这样，那么假设知识论证是与方法论自然主义兼容的立场，那么认为知识论证给人们任何理由来支持反物理主义是错误的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alter, T., 2016, ‘The Structure and Dynamics Argument against Materialism’, *Noûs*, 50(4): 794–815.
@@ -624,4 +624,4 @@ The author would like to thank Hossein Ameri, Tim Bayne, Rich Cameron, Brian Gar
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Daniel Stoljar](http://philosophy.cass.anu.edu.au/people/daniel-stoljar) <[*daniel.stoljar@anu.edu.au*](mailto:daniel%2estoljar%40anu%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

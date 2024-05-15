@@ -88,7 +88,7 @@
 
 这些问题并不仅限于基督教学术背景：在犹太传统中也有许多类似的思考。犹太思想家经常认为自然科学只是一种假设系统，只能抓住事物的表面现象，并且服从于《托拉》所提供的绝对真理。这个立场得到了犹太作家如 Judah Loew ben Bezalel（也被称为 Maharal，1520-1609）和 Azariah Figo（1579-1547）的支持。特别是，Loew 认为，虽然有可能阐明和解释物质世界的自然秩序，但这并不适用于上帝与创造之间的关系。这种态度可能部分是由于犹太人在自然哲学教学和实践的机构中感到被排斥和边缘化的感觉（这个规则的一个重要例外是意大利，在那里，像 Elijah del Medigo（约 1458-1493）这样的人物利用了大学中科学和神学之间的分离）。尽管如此，所有这些犹太作家-包括意大利的“自由思想家”和那些捍卫《托拉》优越性的人-仍然依赖亚里士多德作为自然哲学的主要权威，而且像 Ioseph ben Shem Tov（约 1400-约 1480）和 Abraham Farissol（1451-约 1525）这样的哲学家也多次尝试将斯塔吉里特融入希伯来哲学传统中。少数犹太作家，包括 Moses Isserles（1520-1572），认为自然哲学是展示上帝荣耀的有用工具。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Azzolini, M., 2013, *The Duke and the Stars*, Cambridge, MA: Harvard University Press.
@@ -211,4 +211,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Eva Del Soldato <[*evadel@sas.upenn.edu*](mailto:evadel%40sas%2eupenn%2eedu)>
-<!--md-padding-ignore-end-->
+

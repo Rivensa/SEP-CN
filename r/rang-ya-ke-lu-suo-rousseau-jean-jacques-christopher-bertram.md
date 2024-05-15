@@ -122,7 +122,7 @@ Amour de soi, amour propre 和 pitié 并不是卢梭思想中的全部激情。
 
 在当代政治哲学中，约翰·罗尔斯的思想对卢梭的影响是明显的，尤其是在《正义论》中，罗尔斯将自己的两个正义原则称为“阐明普遍意志内容的努力”（科恩 2010 年，第 2 页；布鲁克 2015 年）。卢梭影响的一个很好的例子是罗尔斯使用“原始状况”的设定，将自私选择服务于确定正义原则。这与卢梭的论证完全一致，即公民会从公正的角度选择公正的法律，因为法律的普遍性和普遍性意味着在考虑自身利益时，他们会选择最能反映自身利益的措施。卢梭的契约主义的回响也可以在后来的法兰克福学派的作品中找到，尤其是在哈贝马斯和霍内斯的作品中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Principal works by Rousseau
@@ -229,4 +229,4 @@ The author would like to thank Jason Swadley Canon, Robin Douglass, Charles Gris
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Christopher Bertram <[*c.bertram@bristol.ac.uk*](mailto:c%2ebertram%40bristol%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

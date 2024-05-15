@@ -231,7 +231,7 @@ Einstein’s clever reply includes a dialogue between two characters, “Reichen
 
 爱因斯坦时代的年轻物理学家教育另一个解释是，爱因斯坦年轻时的阅读不仅严重侧重于哲学，更普遍地，特别是科学哲学（有关概述，请参见爱因斯坦 1989 年，xxiv-xxv；另请参见霍华德 1994b），在这方面，他与他那一代的其他物理学家并无二致，而且他的大学物理课程还包括一门必修课程“科学思维理论”（请参见爱因斯坦 1987，文件 28）。一个明显的问题是，早期培养哲学思维习惯是否影响了爱因斯坦及其同时代人对物理学的看法。正如他 1944 年 11 月致罗伯特·索顿的信中所指出的，引用了本文开头的内容，爱因斯坦认为确实如此。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Einstein’s Work
@@ -369,4 +369,4 @@ Works by year
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Don A. Howard](http://www.nd.edu/~dhoward1/)  
 [Marco Giovanelli](https://filosofia.campusnet.unito.it/do/docenti.pl/Alias?marco.giovanelli#tab-profilo) <[*marco.giovanelli@unito.it*](mailto:marco%2egiovanelli%40unito%2eit)>
-<!--md-padding-ignore-end-->
+

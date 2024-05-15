@@ -253,7 +253,7 @@ Muldoon 等人（2012）探索了一种更简单的规范出现方法，该方�
 
 最后，我们强调不同的背景因素（如战略问题的框架和特征，所分配的角色，所认同的社会类别，以及历史和偶然事件）通常与不同的“适当行为”概念相关联。因此，考虑内生期望对于全面理解以规范为驱动的行为至关重要。需要进行更多的研究（包括理论和实验）来进一步阐明期望对战略决策的影响。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abbink, K., Gangadharan, L., Handfield, T., *et al., 2017,* Peer punishment promotes enforcement of bad social norms. *Nat Commun* 8(609). doi:10.1038/s41467-017-00731-0
@@ -435,4 +435,4 @@ A portion of section 6 of this entry has been adapted from “Game-Theoretic Acc
 Cristina Bicchieri <[*cb36@sas.upenn.edu*](mailto:cb36%40sas%2eupenn%2eedu)>  
 Ryan Muldoon <[*ryan.muldoon@gmail.com*](mailto:ryan%2emuldoon%40gmail%2ecom)>  
 Alessandro Sontuoso <[*sontuoso@sas.upenn.edu*](mailto:sontuoso%40sas%2eupenn%2eedu)>
-<!--md-padding-ignore-end-->
+

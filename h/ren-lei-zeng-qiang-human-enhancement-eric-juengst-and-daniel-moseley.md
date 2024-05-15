@@ -163,7 +163,7 @@ The advantage of the normal function account is that it provides a single (relat
 
 理解增强是具体的、常常是双刃剑的变化——在某些情境和目的下有益，但在其他情境下则不然——这表明，在这里更好的类比可能是对医疗保健本身的治理。一方面，良好的医疗保健与权力、财富和地位呈正相关，通过满足特定健康需求所提供的扩大机会范围。这种相关性有助于支持公平获得医疗保健的论点。但并非所有的医疗保健需求在利用其他社会利益方面都是“有利可图的”，而一个以需求为基础的医疗保健系统的目标也不是解决这种差异。正如一个公平的医疗保健系统应该能够提供基于需求的特定治疗干预的获取，一个公平的生物医学增强分配系统应该面向面临特定生活挑战的人们的需求。实际上，正如对增强文献的这次概览所暗示的，通过对医疗保健边界的充分重新协商，最终可能形成同样的系统。再次强调，实现这样一个系统的任务将继续艰巨。但这不太可能需要一个集中化的全球道德增强计划的美丽新世界：相反，管理我们新兴的生物医学增强能力始于学会与人类差异共存并满足人类需求的乏味现实世界任务。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agar, N., 2004. *Liberal Eugenics: In Defense of Human Enhancement*, Malden: Blackwell.
@@ -339,4 +339,4 @@ Thanks to Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert Sparrow, and 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Eric Juengst  
 [Daniel Moseley](http://danieldmoseley.wordpress.com/) <[*moseledd@email.unc.edu*](mailto:moseledd%40email%2eunc%2eedu)>
-<!--md-padding-ignore-end-->
+

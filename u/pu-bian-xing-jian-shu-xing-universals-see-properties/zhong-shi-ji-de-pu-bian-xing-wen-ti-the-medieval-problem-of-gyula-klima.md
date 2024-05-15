@@ -339,7 +339,7 @@ Figure 4. The *via antiqua* conception
 
 因此，这些发展也终结了特定于中世纪的普遍性问题。然而，越来越稀有的晚期中世纪问题最终消失，只为几个现代变体让路，这些变体在当代哲学中以各种形式不断重现。事实上，我们可以有把握地断言，只要人们对一个明显充满普遍性术语的人类语言如何有意义地映射到一个个体世界的问题感兴趣，就存在普遍性问题，而不管相关问题所表述的具体概念框架的细节如何。显然，从这个意义上说，普遍性问题本身就是一个普遍性问题，即解释思维、语言和现实之间关系的普遍性问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 [Note: This list contains only items referred to in the notes. Excellent, up to date, comprehensive surveys of the medieval problem of universals are provided in [Spade 1985](https://plato.stanford.edu/entries/universals-medieval/#spade85) [Other Internet Resources] and [Libera 1996](https://plato.stanford.edu/entries/universals-medieval/#libera96).]
@@ -430,4 +430,4 @@ Figure 4. The *via antiqua* conception
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Gyula Klima](https://faculty.fordham.edu/klima/) <[*klima@fordham.edu*](mailto:klima%40fordham%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -244,7 +244,7 @@ Broad（2002a，103）提供了艾斯泰尔将上帝的智慧和善良凌驾于�
 
 这样，艾斯泰尔对“女士们”的教育计划可以帮助这些女性发展理性和自由，使她们能够适当地履行对自己、他人和上帝的责任。（参见 Lascano 2016 以了解相关内容。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -386,4 +386,4 @@ Broad（2002a，103）提供了艾斯泰尔将上帝的智慧和善良凌驾于�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Alice Sowaal](http://online.sfsu.edu/~asowaal/) <[*asowaal@sfsu.edu*](mailto:asowaal%40sfsu%2eedu)>
-<!--md-padding-ignore-end-->
+

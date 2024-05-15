@@ -395,7 +395,7 @@ Pruitt 和 Roelofsen (2013)描述了数据，并说明了如何利用基于替�
 
 关于进一步阅读的建议：有关析取的优秀资料可参考 Humberstone 2011 年第 6 章。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aloni, M., 2007, “Free choice, modals and imperatives”, *Natural Language Semantics*, 15: 65–94.
@@ -520,4 +520,4 @@ Many thanks to Floris Roelofsen, Luca Incurvati, Martin Stokhof and Ivano Ciarde
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Maria Aloni <[*M.D.Aloni@uva.nl*](mailto:M%2eD%2eAloni%40uva%2enl)>
-<!--md-padding-ignore-end-->
+

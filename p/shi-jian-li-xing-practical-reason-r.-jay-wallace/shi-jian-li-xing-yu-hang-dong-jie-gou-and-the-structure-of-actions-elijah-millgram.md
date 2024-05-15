@@ -190,7 +190,7 @@ Buss 的观点和 Velleman 的观点之间存在明显的重叠：两者都以�
 
 一个理论上的答案将涉及到展示你在形而上学上没有其他选择的事实：无论你做什么（在最薄弱的意义上），都是行动（在理论更厚重和实质性的意义上）。一个实践上的答案将涉及到展示，在可选择的情况下，你产生行动（在一个人喜欢的理论的实质性意义上）的建议是一个你不能拒绝的提议，正如他们过去所说的那样。一个人的实践理性理论从行动理论中继承的力量或约束性的类型将由这两种论证方式之间的选择来确定。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anscombe, G. E. M., 1985, *Intention (2nd ed.)*, Ithaca: Cornell University Press.
@@ -259,4 +259,4 @@ I’m grateful to Chrisoula Andreou, Sarah Buss and C. Thi Nguyen for comments o
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Elijah Millgram](http://www.elijahmillgram.net/) <[*elijah.millgram@gmail.com*](mailto:elijah%2emillgram%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

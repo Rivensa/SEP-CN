@@ -64,7 +64,7 @@ Principles 提出的更具争议的立场之一，至少根据牛顿的观点，
 
 尽管事情似乎在向前发展，但并不如人们所希望的那样顺利。例如，在给布雷吉的一封信中，日期为 1650 年 1 月 15 日，笛卡尔对自己决定来瑞典表示了保留意见。他认为自己“不在自己的元素中”，冬天太严寒，“人们的思想在这里像水一样冻结”（AT V 467; CSMK III 383）。鉴于信中表达的情绪，这句话可能既是笛卡尔对知识氛围的看法，也是对天气的看法。2 月初，就在给布雷吉写信不到一个月后，笛卡尔生病了。他的病情迅速恶化为严重的呼吸道感染。尽管在一周后他似乎有所好转，但情况却变得更糟，他于 1650 年 2 月 11 日清晨去世。他享年 53 岁。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -163,4 +163,4 @@ I am indebted to the NEH for allowing me the opportunity to participate in the 2
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Kurt Smith <[*smithkurtsmith@gmail.com*](mailto:smithkurtsmith%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -89,7 +89,7 @@ V(B,0)=∅V(B,α+1)={f:dom(f)⊂V(B,α) and range(f)⊂B}V(B,λ)=⋃β<λV(B,β)
 
 ∥x∈y∥=∑t∈dom(y)∥x=t∥⋅y(t)∥x⊆y∥=∏t∈dom(x)−x(t)+∥t∈y∥∥x=y∥=∥x⊆y∥⋅∥y⊆x∥∥¬ϕ∥=−∥ϕ∥∥ϕ∨ψ∥=∥ϕ∥+∥ψ∥∥∃xϕ(x)∥=∑a∈V(B)∥ϕ(a)∥.
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Halmos, P., 1963, *Lectures on Boolean Algebras*, Princeton: Van Nostrand
@@ -116,4 +116,4 @@ V(B,0)=∅V(B,α+1)={f:dom(f)⊂V(B,α) and range(f)⊂B}V(B,λ)=⋃β<λV(B,β)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [J. Donald Monk](http://euclid.colorado.edu/~monkd/)
-<!--md-padding-ignore-end-->
+

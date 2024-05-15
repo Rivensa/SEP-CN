@@ -178,7 +178,7 @@
 
 这些观点与解释主义之间的共同点在于，与其他偶然因素一样，法律机构的实践可能因为道德相关而改变权利和义务。这意味着所产生的权利和义务是普通的、真正的道德权利和义务。此外，这意味着法律机构可以利用它们的行动通常具有道德相关性的事实，可靠而系统地改变我们彼此之间的债务。虽然讨论中的观点集中在这些影响上，解释主义则专注于确定实际上使法律实践具有道德相关性并统治其对权利和义务的影响的原则的内容和运作问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Brink, David, 2001, “Legal Interpretation and Morality”, in B. Leiter (ed.), *Objectivity in Law and Morals*, Cambridge: Cambridge University Press, pp. 12–65.
@@ -267,4 +267,4 @@ I presented drafts of this entry at Pompeu Fabra University, Department of Law, 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Nicos Stavropoulos <[*nicos.stavropoulos@law.ox.ac.uk*](mailto:nicos%2estavropoulos%40law%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

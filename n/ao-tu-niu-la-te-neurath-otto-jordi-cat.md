@@ -286,7 +286,7 @@ Schlick 将 Gestalt 理论作为心理学呈现在物理主义的简化框架中
 
 齐尔塞尔、弗兰克和纽拉特从马赫那里学到了历史作为理论可能性和批判视角的创造性来源的价值。马赫称他的方法为“历史批判方法”，这在他的继承者听来与康德和马克思的相关引用相呼应，并被理解为支持拒绝超人的形而上学必然性。像赖希巴赫一样，齐尔塞尔用更谦虚和反形而上学的项目取代了康德对科学知识可能性的探究，他的项目集中在经验-社会政治、经济前提上。后来，菲利普·弗兰克提倡对科学的经验历史研究，作为对杜亨和庞加莱提出的假设选择问题的更完整回答，以及他们的约定主义所依据的逻辑推理的不足。这些是现代经验科学研究的重要来源和先例。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Neurath’s Works
@@ -503,4 +503,4 @@ Schlick 将 Gestalt 理论作为心理学呈现在物理主义的简化框架中
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Jordi Cat <[*jcat@indiana.edu*](mailto:jcat%40indiana%2eedu)>
-<!--md-padding-ignore-end-->
+

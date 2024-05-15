@@ -114,7 +114,7 @@
 
 无论一个人对极简主义、解释的重要性和独立于心灵的重要性持何种观点，道德实在论都要承担起解释道德术语语义的责任，以支持将使用这些术语的主张视为真实可评估。人们在思考和交流中依赖这些主张的方式的各种特征支持这一观点。与此同时，儿童习得道德术语的方式以及这些术语与各种情感的联系，有些方面与将这些术语简单地与非道德术语相提并论的观点相抵触。深入研究道德主张与人们所做其他主张的差异以及它们相同之处对于全面理解我们的道德思维和实践至关重要。是否这样的全面理解将涉及到我们具有道德信念（而不仅仅是道德反应）可能是真实的，并不完全清楚。或许更不清楚的是，我们是否以及为什么可以合理地认为其中一些信念实际上是真实的。然而，相当明确的是，人们普遍认为他们的道德主张以及他人的道德主张意图报告事实，并且在他们自己真诚提出这些主张的程度上，他们似乎将至少某些这样的主张视为实际上是真实的。关于道德的反实在论者有责任争辩说这涉及某种错误。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ayer, A. J., 1946. “A Critique of Ethics,” in *Language, Truth and Logic*, London: Gollanz, 102–114.
@@ -185,4 +185,4 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Geoff Sayre-McCord](http://philosophy.unc.edu/people/geoffrey-sayre-mccord/) <[*sayre-mccord@unc.edu*](mailto:sayre-mccord%40unc%2eedu)>
-<!--md-padding-ignore-end-->
+

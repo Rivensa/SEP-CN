@@ -286,7 +286,7 @@
 
 玄学或新道家学派在中国哲学史上占据重要地位。它在中国哲学界出现时重新定义了古典传统，并引入了形而上学、伦理学、解释学和其他哲学领域的新思想，为佛教哲学的接受和后来的新儒家运动奠定了基础。总结一下，主流的玄学并不是一个道家学派。正确理解的话，孔子、老子和庄子在对道的理解上是相通的。其次，玄学不能与“大和平”的目标分离。虚无和自然的哲学并不导致悲观或放弃。即使是嵇康和阮籍也没有放弃更新的承诺。尽管许多学者在古代隐士的形象中找到了灵感的源泉，尽管文人常常拒绝官职，但他们对自然和无为最终会带来和谐与和平抱有乐观态度。最后，应强调的是，玄学并非一统。例如，虽然“虚无”这个概念可能是玄学项目的核心，但它仍然存在争议和解释。例如，在三世纪末，裴伟（267-300）撰写了一篇挑衅性题为《崇尤论》的论文，这应该表明了玄学的学术活力。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ashmore, Robert, 2004, “Word and Gesture: On Xuan-School Hermeneutics of the Analects,” *Philosophy East and West*, 54(4): 458–488.
@@ -385,4 +385,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Alan Chan <[*alanchan@cuhk.edu.hk*](mailto:alanchan%40cuhk%2eedu%2ehk)>
-<!--md-padding-ignore-end-->
+

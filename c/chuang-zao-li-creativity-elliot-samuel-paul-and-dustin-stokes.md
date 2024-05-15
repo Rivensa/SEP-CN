@@ -531,7 +531,7 @@ Halina 承认，鉴于其特定领域性，正如我们已经注意到的，这�
 
 在最近的一篇论文中，Geraint Wiggins 和 Joydeep Bhattacharya（2014）强调了创造力科学研究之间的“鸿沟”。他们特别强调了神经科学研究和计算机科学研究之间的差距，并主张以神经计算方法建立桥梁。这种桥梁可能需要超越这些作者所建议的范围，因为不仅存在这些学科之间的差距，还存在这些学科与行为心理学、人工智能和人工生命研究以及哲学分析之间的差距。创造力是一个深度复杂且极其重要的现象。要完全理解它，我们需要整合各种理论视角，正如这项调查所揭示的，哲学在这一努力中发挥着至关重要的作用。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abdulla, Ahmed M., Sue Hyeon Paek, Bonnie Cramond, and Mark A. Runco, 2020, “Problem Finding and Creativity: A Meta-Analytic Review”, *Psychology of Aesthetics, Creativity, and the Arts*, 14(1): 3–14. doi:10.1037/aca0000194
@@ -825,4 +825,4 @@ Halina 承认，鉴于其特定领域性，正如我们已经注意到的，这�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Elliot Samuel Paul](https://www.queensu.ca/philosophy/paul-elliot) <[*elliotspaul@gmail.com*](mailto:elliotspaul%40gmail%2ecom)>\
 [Dustin Stokes](http://stokes.mentalpaint.net/) <[*dustin.stokes@utah.edu*](mailto:dustin%2estokes%40utah%2eedu)>
-<!--md-padding-ignore-end-->
+

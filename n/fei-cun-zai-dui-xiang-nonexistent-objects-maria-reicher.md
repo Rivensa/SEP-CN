@@ -577,7 +577,7 @@ MOTdc 与 MOTo 相距甚远。回想一下，根据 MOTo 的说法，“金山�
 2. 迈农成熟的对象理论中还有一个未提及的特征，即“复杂关系学说”。复杂关系是不完整对象和完整对象之间的关系，它似乎与通常所称的“实例化”非常接近，即普遍和个别之间的关系。不完整对象被“复杂”在完整对象中。（参见迈农 1972 年，§29。）迈农本人最终将不完整对象解释为普遍的（参见迈农 1972 年，739f）。因此，迈农的对象理论可以被解释为一种复杂的普遍理论，特别是一种类型理论（与属性相对），这可能会开辟更多的应用领域。
 3. 在本文中，我们一直假设了对于属性的现实主义。然而，是否梅农客体论的理论必然在本体论上承认了属性是值得怀疑的。本体论中性的量词和对于谓词（而不是谓词或属性的名称）的非客体变量的使用可能有助于避免这种承诺，从而使梅农客体论理论更加简洁。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alai, Mario, 2006, “Speaking of Nonexistent Objects,” in Raspa, Venanzio (ed.), *Meinongian Issues in Contemporary Italian Philosophy*, Heusenstamm: Ontos, 119–159.
@@ -741,4 +741,4 @@ This article is an outcome of the project “Philosophie et histoire de la logiq
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Maria Reicher](http://www.philosophie.rwth-aachen.de/aw/cms/home/themen/philosophie_der_kulturellen_welt/personen/~tgk/maria_reicher/?lang=de) <[*maria.reicher-marek@rwth-aachen.de*](mailto:maria%2ereicher-marek%40rwth-aachen%2ede)>
-<!--md-padding-ignore-end-->
+

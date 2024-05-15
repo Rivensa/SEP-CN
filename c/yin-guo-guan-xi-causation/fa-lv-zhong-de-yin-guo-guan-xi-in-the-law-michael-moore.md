@@ -297,7 +297,7 @@ _Ad hoc_和基于规则的政策测试的主要问题并不在于它们的“功
 
 为了决定这种关系的哪个版本是正确的，人们必须在我们已经审查过的法律中对因果的各种竞争概念进行裁决。为了有一个比较的基准，人们还必须解决围绕在哲学中对因果真正本体论的探索中的许多难题；其中包括将“原因”普通用法中仅仅是适当表达的实用特征与确定术语指称的语义特征区分开来。这些是需要在等式两边完成的艰巨任务。为了完成它们，律师必须“与哲学家一起冒险，探讨困扰原因观念的逻辑和形而上学争议”（Pollack 1901: 36）。对于哲学律师和法律哲学家来说，这不是一种成本，而是一种好处。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abrams, Yuval, 2022, “Omissive Overdetermination: Why the Act-Omission Distinction Makes a Difference for Causal Analysis”, *University of Western Australia Law Review*, 49(1): 57–86.
@@ -415,4 +415,4 @@ The author would like to acknowledge the work of Antony Honoré and John Gardner
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Michael Moore <[*micmoore@illinois.edu*](mailto:micmoore%40illinois%2eedu)>
-<!--md-padding-ignore-end-->
+

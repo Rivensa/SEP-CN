@@ -120,7 +120,7 @@
 
 然而，即使承认的态度和行为比起初看起来更加矛盾，承认理论不仅揭示了我们规范思维的复杂性，而且提供了一个强有力的论据，即这些规范考虑是我们社会世界中不可根除的一部分。因此，承认的概念也具有重要的解释功能。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, J., and M. Pia Lara, 1996, “Honneth’s New Critical Theory of Recognition,” *New Left Review*, 220: 126–136.
@@ -245,4 +245,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Mattias Iser](http://www.mattias-iser.de/) <[*iser@binghamton.edu*](mailto:iser%40binghamton%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -1025,7 +1025,7 @@ Lp→Lp 现在仍然可以被证明为必要的：
 
 *A*\* (under the name “*A*”) is proved sound and complete in Menzel 1991.
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Marilyn McCord, 1977, “Ockham’s Nominalism and Unreal Entities”, *The Philosophical Review*, 86(2): 144–176. doi:10.2307/2184004
@@ -1232,4 +1232,4 @@ Lp→Lp 现在仍然可以被证明为必要的：
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Christopher Menzel](http://cmenzel.org/) <[*cmenzel@tamu.edu*](mailto:cmenzel%40tamu%2eedu)>
-<!--md-padding-ignore-end-->
+

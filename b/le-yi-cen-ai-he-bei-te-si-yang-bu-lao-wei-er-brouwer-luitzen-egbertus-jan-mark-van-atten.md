@@ -162,7 +162,7 @@
 
 在选择序列的早期引入和杆定理的证明之后，创造主体论证是直觉主义主观方面开发的新步骤。没有原则性的理由认为这应该是最后一步。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 A full bibliography of Brouwer’s writings can be found in
@@ -306,4 +306,4 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Mark van Atten](http://umr8547.ens.fr/spip.php?rubrique264\&lang=fr) <[*vanattenmark@gmail.com*](mailto:vanattenmark%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -164,7 +164,7 @@ Keith Frankish 和其他人提出了一种类似的观点，通常被称为“�
 
 取消唯物主义在这里可能提供的一个回应是考虑取消唯物主义在我们追求成功的心灵理论中可以发挥的更广泛的理论角色。一些作家规定了任何心灵理论必须满足的必要条件，根据某些观点，这些条件包括通过常识理解各种心理状态的阐释。根据这种观点，如果一个理论不包括与信念相对应的状态，或者没有为我们提供有关意识本质的某种解释，那么它就不必被认真看待作为“真实”心理现象的完整解释。取消唯物主义的一个优点是它使我们的理论从这种限制性的观点中解放出来。因此，取消唯物主义与科学之间的关系可能比许多人所认为的更为相互关联。虽然取消唯物主义确实依赖于对心灵的激进科学理论的发展，但对心灵的激进理论化本身可能取决于我们认真对待我们的常识观点可能是极其错误的可能性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cited Works
@@ -286,4 +286,4 @@ Thanks to David Chalmers for many helpful comments and suggestions.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 William Ramsey <[*wramsey@unlv.edu*](mailto:wramsey%40unlv%2eedu)>
-<!--md-padding-ignore-end-->
+

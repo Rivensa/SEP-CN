@@ -1298,7 +1298,7 @@ Weyl（1927 年）的论文，被 Yang 提到，题为 Quantenmechanik und Grupp
 
 > 客观世界只是存在，并不发生。只有在我意识的凝视下，沿着我身体的生命线向上爬行，这个世界的一部分才会以一个在空间中不断变化的瞬间形象活跃起来。[112]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -1545,4 +1545,4 @@ We would like to thank Thomas Ryckman for his invaluable comments and suggestion
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [John L. Bell](http://publish.uwo.ca/~jbell/) <[*jbell@uwo.ca*](mailto:jbell%40uwo%2eca)>  
 [Herbert Korté](http://phil.uregina.ca/korte/) <[*Herbert.Korte@uregina.ca*](mailto:Herbert%2eKorte%40uregina%2eca)>
-<!--md-padding-ignore-end-->
+

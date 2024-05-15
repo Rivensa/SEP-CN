@@ -94,7 +94,7 @@
 
 模仿神性——这是莱布尼茨伦理学的总体命令，如果不是他整个哲学体系的指导原则。对他来说，上帝而不是人类是“万物的尺度”（PW，“对普芬多夫原则的意见”，第 69 页）。因此，我们的主要任务是不断朝着神性理想迈进，因为我们每个人都像上帝之城中的一个小神性（PE，“单子论”，§83 和 §85，第 223-4 页；T §147，第 215-216 页）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -182,4 +182,4 @@ Leibniz, G. W.
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Andrew Youpa <[*ayoupa@siu.edu*](mailto:ayoupa%40siu%2eedu)>
-<!--md-padding-ignore-end-->
+

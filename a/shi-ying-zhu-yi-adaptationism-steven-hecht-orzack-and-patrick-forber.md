@@ -158,7 +158,7 @@ Orzack 和 Sober 提供了一种特定的协议，用于评估 O 是否适用于
 
 适应主义的辩论对生物哲学家来说仍然非常重要，因为通过更深入地理解生物学家对自然选择假设的使用，可以获得更多的收益。在 20 世纪 70 年代和 80 年代，人们普遍倾向于误解最优模型使用者的概念承诺。最近，人们对这类模型使用者所持有的概念承诺的多样性有了越来越深入的理解，尤其是对于最优模型的使用和发展并不意味着使用者必须盲目接受自然选择具有无限权力的主张。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackermann, R. R., and J. M. Cheverud, 2004. “Detecting genetic drift versus selection in human evolution,” *Proceedings of the National Academy of Sciences*, 101: 17946–17951.
@@ -305,4 +305,4 @@ S. O. was partially supported by NIH R01 DA015789–01, NIA P01–AG0225000–01
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by  
 [Steven Hecht Orzack](http://www.freshpond.org/)  
 [Patrick Forber](http://as.tufts.edu/philosophy/people/faculty/forber) <[*patrick.forber@tufts.edu*](mailto:patrick%2eforber%40tufts%2eedu)>
-<!--md-padding-ignore-end-->
+

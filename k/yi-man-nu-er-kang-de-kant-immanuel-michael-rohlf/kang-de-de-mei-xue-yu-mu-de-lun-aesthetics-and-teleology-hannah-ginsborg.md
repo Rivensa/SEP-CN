@@ -404,7 +404,7 @@ Guyer（2001a）讨论了有机体对康德将自然科学统一的概念构成�
 
 Zammito 2006 有力地挑战了康德理论与当代关于生物功能的辩论的观点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -746,4 +746,4 @@ Work on the original (2005) version of this article was supported by the America
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Hannah Ginsborg](http://philosophy.berkeley.edu/ginsborg) <[*ginsborg@berkeley.edu*](mailto:ginsborg%40berkeley%2eedu)>
-<!--md-padding-ignore-end-->
+

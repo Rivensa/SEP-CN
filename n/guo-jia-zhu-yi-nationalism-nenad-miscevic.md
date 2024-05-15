@@ -256,7 +256,7 @@ Andreas Wimmer（2018）提出了对民族主义国家的历史成功的有趣�
 
 当前十年的事件，难民危机和右翼民粹主义的崛起，已经极大地改变了相关的实践和理论领域。传统的民族主义仍然相关，但民粹主义民族主义吸引了更多的关注：新的理论正在产生和辩论，开始占据中心舞台。另一方面，移民危机已经取代了典型的世界主义问题，即与遥远陌生人的团结问题，而是转向了帮助那些出现在我们门口的难民的紧迫问题。当然，危机的原因仍然是那些世界主义者早就担心的原因：战争和全球商品分配的极不平等，以及疾病和气候灾害等威胁。理论的任务现在是将这些更深层次的问题与新的占据新舞台中心的问题联系起来；这是一个在不同的词汇和不同的政治概念框架下提出的挑战。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Introduction
@@ -630,4 +630,4 @@ The most readable short anthology of brief papers for and against cosmopolitanis
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Nenad Miscevic](http://www.ff.um.si/zaposleni/osebna.dot?inode=71932&crumbTitle=Nenad%20Mi%C5%A1%C4%8Devi%C4%87%20&pageTitle=Nenad%20Mi%C5%A1%C4%8Devi%C4%87%20)
-<!--md-padding-ignore-end-->
+

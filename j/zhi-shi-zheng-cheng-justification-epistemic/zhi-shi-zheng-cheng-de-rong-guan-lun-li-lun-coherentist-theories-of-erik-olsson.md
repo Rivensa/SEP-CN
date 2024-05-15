@@ -282,7 +282,7 @@ Olsson 以标准方式定义了真实性的有益性。他的不可能定理基�
 
 融贯论理论代表了对认识论中一些根深蒂固问题的初步解决方案。最重要的是，它提出了一种将知识证成看作是“信念网络”的思考方式。因此，它与历史上占主导地位但日益不受尊重的基础主义知识观相竞争，并有可能取而代之。融贯论也可能比依赖非信念支持的其他基础主义观点更有前景。不幸的是，融贯论者通常难以提供必要的细节，使他们的理论超越比喻阶段，这一点并未逃脱批评者的注意。在 C.I.刘易斯的开创性工作之后，当代学者在清晰度和建立的结果方面取得了相当大的成功，尽管其中相当多的结果对融贯论者不利。一些结果支持一种弱基础主义理论，即融贯性可以增强已经存在的可信度，而无需从头开始创建。然而，从表面上看，不可能性结果也对这种较不激进的融贯论形式产生了负面影响。人们经常观察到，虽然提出一个令人信服的理论概要相对容易，但任何哲学努力的最终考验在于产品是否能经受详细规范的检验（魔鬼在细节中等等）。无论如何，这个领域最近的发展所展示的是，对于认识论中的融贯论理论来说，这一点非常真实。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Akiba, K., 2000, “Shogenji’s Probabilistic Measure of Coherence is Incoherent,” *Analysis*, 60: 356–359.
@@ -384,4 +384,4 @@ Many people have commented on earlier versions of this article offering valuable
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Erik Olsson <[*Erik_J.Olsson@fil.lu.se*](mailto:Erik_J%2eOlsson%40fil%2elu%2ese)>
-<!--md-padding-ignore-end-->
+

@@ -176,7 +176,7 @@ NDE 的证据方面可以分为几个类别。首先，有一些离体感官体�
 
 最近一些关于来世的哲学研究涉及到超越本文范围的问题。例如，如果有天堂，人（灵魂）是否会有自由意志？他们的生活会是动态的（受变化影响）还是静态的或不变的？天堂中个体的认知会是什么样的？天堂中会有痛苦吗？根据亚伯拉罕信仰的基本教义，是否有理由相信一些非人类动物享有来世？关于这些问题的有趣研究，请参阅 Byerly＆Silverman（编）2017 年的著作。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bailey, Lee W. and Jenny Yates (eds.), 1996, *The Near Death Experience: A Reader*, New York: Routledge.
@@ -269,4 +269,4 @@ The authors thank Meredith Varie and Samuel Benson for their assisting us in edi
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [William Hasker](http://www.huntington.edu/philosophy/#faculty)  
 Charles Taliaferro <[*taliafer@stolaf.edu*](mailto:taliafer%40stolaf%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -201,7 +201,7 @@ Edmund Burke (1729–1797)将崇高描述为一种带有恐怖色彩的宁静感
 
 19 世纪的叔本华常常被康德、黑格尔、马克思、密尔、达尔文和尼采的阴影所掩盖，但他在 1818 年早期就拒绝了理性主义对世界的观念，更早地洞察到了未来的形势。20 世纪初第一次世界大战期间达达主义运动所表达的虚无主义笑声，再次强调了叔本华哲学几乎一个世纪前所体现的感受。叔本华关于本能冲动在日常生活中的重要性的观点也出现在弗洛伊德的超现实主义启发的精神分析思想中，他坚信人类历史没有前进方向的观点成为 20 世纪法国哲学的主旋律，在两次世界大战给像黑格尔和马克思这样的思想家们心中对持续进步的 19 世纪期望蒙上了阴影。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Works by Schopenhauer
@@ -315,4 +315,4 @@ Edmund Burke (1729–1797)将崇高描述为一种带有恐怖色彩的宁静感
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Robert Wicks](http://artsfaculty.auckland.ac.nz/staff/?UPI=rwic005) <[*r.wicks@auckland.ac.nz*](mailto:r%2ewicks%40auckland%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

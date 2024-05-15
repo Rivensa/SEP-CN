@@ -200,7 +200,7 @@ Marrone 1983 年第 6 章暗示他并不是：罗伯特·格罗斯泰斯特提�
 
 格罗斯泰斯特 在欧洲大陆的哲学影响似乎主要是作为亚里士多德的学者。他对《后分析学》的评论在整个欧洲都很有名，并且在中世纪广泛使用（关于其在英国的影响，请参阅罗西 2012 年），他对《伦理学》的翻译也是如此。事实上，仅这两部亚里士多德学术著作就足以使格罗斯泰斯特在中世纪思想史上占据重要地位。然而，有一个例外，那就是十四世纪的法国思想家尼古拉·奥雷姆，他在其作品中使用了许多格罗斯泰斯特的哲学和科学著作，尤其是在他的《物理学问题》中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Bibliographies
@@ -325,4 +325,4 @@ It should be noted that the quotations from texts in Baur 1912 and Dales 1963a a
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Neil Lewis
-<!--md-padding-ignore-end-->
+

@@ -538,7 +538,7 @@ Vargha-Khadem 推测（参见 Watkins 等，2002 年：463），KE 的那些似�
 
 §3 中涵盖的所有主题都值得一本书来详细讨论。我在这里的目标是勾勒出现代对心智的理解揭示了人类具有 UG 的先天表征负责其语言习得的主张的不足和不可信之处。语言能力的习得可能涉及许多过程，其中许多过程可能是通过自然选择专门用于语言任务的，但其中许多过程也保留了它们的其他和更古老的功能。语言先验论者的理论将我们对语法能力的习得视为一件简单的事情-可以用一个层次的解释来描述，并且可以用一种单一的过程来解释。这种情况非常不可能发生。在语言知识的习得中，多个系统和多个过程同时起作用，当我们对语言习得有了更深入的理解时，可能涉及到多种类型和多个不同层次的理论，并且在很少或没有方面类似于乔姆斯基的先验论理论。\[29]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adolphs, R. (1999). Social Cognition and the Human Brain. *Trends in Cognitive Science, 3*(12), 469-479.
@@ -824,4 +824,4 @@ First, I thank two anonymous reviewers for the *Stanford Encyclopedia of Philoso
 
 [Copyright © 2008](https://plato.stanford.edu/info.html#c) by\
 Fiona Cowie
-<!--md-padding-ignore-end-->
+

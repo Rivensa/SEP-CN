@@ -217,7 +217,7 @@ McGinn（1996：8）声称：“身体感觉不像知觉经验那样具有意向
 
 身体意识在哲学探索中揭示了一个新的丰富领域，但它也为感知、行动、自我和空间的一般问题提供了一种新的方法。关于身体表征、身体感觉、身体错觉和自我意识的实证研究已经大幅增长。全面理解身体意识可能需要吸纳其中的见解。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alsmith, Adrian J. T., 2015, “Mental Activity & the Sense ofOwnership”, *Review of Philosophy and Psychology*, 6(4): 881–896. doi:10.1007/s13164-014-0208-1
@@ -430,4 +430,4 @@ McGinn（1996：8）声称：“身体感觉不像知觉经验那样具有意向
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Frédérique de Vignemont](http://fvignemont.googlepages.com/) <[*frederique.de.vignemont@ens.fr*](mailto:frederique%2ede%2evignemont%40ens%2efr)>
-<!--md-padding-ignore-end-->
+

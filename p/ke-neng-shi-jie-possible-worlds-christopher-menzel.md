@@ -441,7 +441,7 @@ AE3 不需要修改，因为它在上面定义时已经足够普遍。然而，�
 
 然而，组合主义的本体论适度也是其弱点。与两种竞争方法不同，组合主义很难解释模态直觉，尤其是可能存在其他事物的直觉。其他困难在补充文件《组合主义的进一步问题》中进行了讨论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R., 1974. ‘Theories of Actuality’, *Noûs*, 8: 211–31; reprinted in Loux (1979): 190–209
@@ -643,4 +643,4 @@ The author wishes to express his deep gratitude to Phillip Bricker and Max Cress
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Christopher Menzel](http://cmenzel.org/) <[*cmenzel@tamu.edu*](mailto:cmenzel%40tamu%2eedu)>
-<!--md-padding-ignore-end-->
+

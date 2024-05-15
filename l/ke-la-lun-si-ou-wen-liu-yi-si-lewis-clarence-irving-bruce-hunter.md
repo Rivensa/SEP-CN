@@ -189,7 +189,7 @@ Sellars（1963 年，132）认为，经典经验主义者所给出的是一个�
 
 在实践中，解决谨慎和（社会）公正的命令之间的矛盾，解决自我导向、有原则的思考和行动中自己的利益与他人的利益之间的矛盾，问题仍然存在。帮助我们的是，通过语言和文明，人类作为一个物种而不仅仅是个体进行记忆。我们有理由认为，人类的成就和社会进步需要自治、自我批评和自我管理的个体，而个体的成就和实现珍视的价值需要成为一个合作追求共同珍视价值的个体社会秩序的成员。刘易斯得出结论说，个人谨慎和社会公正之间的对比似乎是根本的，也许有点乐观地忘记了这一点（刘易斯 1952b）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -273,4 +273,4 @@ Sellars（1963 年，132）认为，经典经验主义者所给出的是一个�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Bruce Hunter <[*bruce.hunter@ualberta.ca*](mailto:bruce%2ehunter%40ualberta%2eca)>
-<!--md-padding-ignore-end-->
+

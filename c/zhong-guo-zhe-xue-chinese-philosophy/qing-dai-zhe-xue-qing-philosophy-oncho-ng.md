@@ -326,7 +326,7 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 总的来说, 知识主义作为清代哲学体系中的一个主题, 以两种方式表现出来。作为一种方法论, 它指的是追求推理和经验知识, 最突出的体现在文本学的研究中。作为一种哲学观点, 它重新评估和修订了中心的新儒家关于内在修养的观念, 旨在实现天赋的道德本性, 反对的是通过感知感官中介的外部知识的追求。知识认知能力应优先于心智的直觉力量。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources Quoted
@@ -495,4 +495,4 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [On-cho Ng](http://history.la.psu.edu/directory/oxn1) <[*oxn1@psu.edu*](mailto:oxn1%40psu%2eedu)>
-<!--md-padding-ignore-end-->
+

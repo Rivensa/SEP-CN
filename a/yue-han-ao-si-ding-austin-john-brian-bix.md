@@ -103,7 +103,7 @@
 
 当情况似乎需要对法律和政府采取更加批判、怀疑或愤世嫉俗的态度时，奥斯丁将法律与武力等同的观点将会具有吸引力——尽管这种解读可能与奥斯丁自己在写作时的自由功利主义观点或他晚年更加保守的政治观点相去甚远（Hamburger, 1985）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -175,4 +175,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Brian Bix](http://www.law.umn.edu/facultyprofiles/bixb.html) <[*bix@umn.edu*](mailto:bix%40umn%2eedu)>
-<!--md-padding-ignore-end-->
+

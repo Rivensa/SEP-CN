@@ -110,7 +110,7 @@
 
 简而言之，也许有些过于简化，我们可以说，在莱布尼茨的心灵领域中，确实只有知觉和欲望，但在其中存在着意识和无意识之间的根本分歧。在前者中，有我们意识到的知觉和欲望。在后者中，有我们没有意识到的知觉和欲望。然而，这并不意味着后者的领域在我们的心理生活中不重要。正如莱布尼茨所说，“无感知知觉对于 [心灵、灵魂和类似灵魂物质的科学] 同样重要，就像无感知微粒对于自然科学一样，以及以它们超出我们感官范围的借口而拒绝它们一样是不合理的”（《新论》，前言；RB 56）。毫无疑问，他对于不可感知的欲望也会有同样的说法。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works of Leibniz
@@ -191,4 +191,4 @@ The editors would like to thank Sally Ferguson for noting and informing us about
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Mark Kulstad](https://profiles.rice.edu/faculty/mark-kulstad)  
 Laurence Carlin <[*carlin@uwosh.edu*](mailto:carlin%40uwosh%2eedu)>
-<!--md-padding-ignore-end-->
+

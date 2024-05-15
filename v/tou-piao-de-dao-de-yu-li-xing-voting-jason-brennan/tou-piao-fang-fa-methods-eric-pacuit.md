@@ -738,7 +738,7 @@ Myerson (1995)证明了，如果一个抽象投票规则满足强化、普遍域
 
 最后，请参考 List 2013 和 Morreau 2014，讨论社会选择理论中更广泛的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alger, D., 2006, “Voting by proxy,” *Public Choice*, 126(1–2): 1–26.
@@ -954,4 +954,4 @@ I would like to thank Ulle Endriss, Wes Holliday, Christian List, Uri Nodelman, 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Eric Pacuit](http://www.philosophy.umd.edu/people/pacuit) <[*epacuit@umd.edu*](mailto:epacuit%40umd%2eedu)>
-<!--md-padding-ignore-end-->
+

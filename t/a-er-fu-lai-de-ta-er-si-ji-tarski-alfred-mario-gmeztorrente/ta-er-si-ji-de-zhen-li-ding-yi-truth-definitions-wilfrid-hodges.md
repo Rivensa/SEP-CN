@@ -154,7 +154,7 @@ Henkin 指出，在这两种情况下，可以用 Skolem 函数给出自然语�
 
 对于亨金的第二种语言风格，至少在 Hintikka 的符号表示法中（参见独立友好逻辑的条目），语法是有良好基础的，但是量词范围的位移意味着在满足性定义中通常的量词子句不再起作用。为了得到一个组合和完全抽象的语义，我们不得不问的是变量的赋值满足一个公式的是什么，而是什么集合的赋值“统一地”满足这个公式，其中“统一地”意味着“独立于公式内部的量词上的斜杠所表示的变量的赋值”。（关于根据这些思路修订塔尔斯基的真理定义的更多细节，请参见依赖逻辑的条目。）亨金的第二个例子不仅具有理论意义，因为在自然语言中，语义范围和句法范围的量词之间的冲突经常发生。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Feferman, S., 2004, “Tarski’s conceptual analysis of semantical notions”, in *Sémantique et Épistémologie*, ed. Ali Benmakhlouf, Casablanca: Editions Le Fennec, 79–108; reprinted in Patterson 2008.
@@ -194,4 +194,4 @@ Henkin 指出，在这两种情况下，可以用 Skolem 函数给出自然语�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Wilfrid Hodges](http://wilfridhodges.co.uk/) <[*wilfrid.hodges@btinternet.com*](mailto:wilfrid%2ehodges%40btinternet%2ecom)>
-<!--md-padding-ignore-end-->
+

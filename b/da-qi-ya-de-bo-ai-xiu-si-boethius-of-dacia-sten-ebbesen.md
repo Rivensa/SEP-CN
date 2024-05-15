@@ -239,7 +239,7 @@
 
 没有关于达西亚的波爱修斯哲学的专著研究。Ebbesen 2002 提供了全面的论述，但由于是丹麦语，只有少数人可以阅读。Pinborg 1974 提供了一个很好的简短介绍；另请参阅 Ebbesen 1998: 282–6。他思想的主要特点在 Lanza 和 Toste 2011 以及 Donati 2017 中有所涉及。关于波爱修斯的语言理论，请参阅 Pinborg 1967、Rosier（Rosier-Catach）1983、Marmo 1994、Beuerle 2010。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Editions
@@ -330,4 +330,4 @@ See [section 2](https://plato.stanford.edu/entries/boethius-dacia/#Work), above
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Sten Ebbesen <[*se@hum.ku.dk*](mailto:se%40hum%2eku%2edk)>
-<!--md-padding-ignore-end-->
+

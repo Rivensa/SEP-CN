@@ -783,7 +783,7 @@ M,w⊨OBp 当且仅当 |p|∈N(w)
 
 显然，道义逻辑存在一些突出的问题。有些人认为这是一个严重的缺陷；而有些人则将其视为一个严峻的挑战，甚至是一个有吸引力的挑战。有一些先前的理由可以预期，在这个领域中面临的挑战将是巨大的。规范性通常是具有挑战性的，不仅仅是在道义逻辑中。规范性概念似乎具有强烈的实用特征。规范性概念必须与代理概念和时间概念相结合，才能达到最大的兴趣，这引入了相当大的逻辑复杂性。还有理由认为，在规范性概念和条件句的相互作用中存在着隐藏的复杂性。最后，似乎存在着一系列具有有趣相互作用的规范性概念，其中一些很容易与其他概念混淆（不仅是道义逻辑学家，也包括伦理学家）。显然，还有很多工作要做。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * al-Hibri, Azizah, 1978, *Deontic Logic: A Comprehensive Appraisal and a New Proposal*, Washington, DC: University Press of America.
@@ -1043,4 +1043,4 @@ Various people have helped with this and prior renditions. We thank Ruth Barcan 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Paul McNamara](https://findscholars.unh.edu/display/paulm) <[*paulmunh@gmail.com*](mailto:paulmunh%40gmail%2ecom)>\
 [Frederik Van De Putte](https://www.researchgate.net/profile/Frederik\Van\De\Putte) <[*frederik.vandeputte@ugent.be*](mailto:frederik%2evandeputte%40ugent%2ebe)>
-<!--md-padding-ignore-end-->
+

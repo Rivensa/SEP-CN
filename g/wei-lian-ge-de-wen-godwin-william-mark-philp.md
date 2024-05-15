@@ -102,7 +102,7 @@
 
 《政治正义》谴责政府对个人判断的干预。戈德温声称，随着知识的发展和传播，人们从政治枷锁和君主制和贵族政府以及建立的宗教的欺诈和冒名顶替中解放出来，历史逐渐取得了进步。他对政府在面对不断发展的观点时的无能为力的乐观信念（这在一定程度上解释和扩展了休谟的评论，即所有政府都建立在观点上）与对某些类型的政治权力对行使权力者或受其支配者产生的有害影响的一些社会学洞察力的评论相平衡。这些见解也在《询问者》中得到了探索，但在戈德温后来的小说中，从《凯勒布·威廉斯》（1794 年）开始，这一观点得到了最充分的发挥。正如戈德温在他未发表的论文《论历史和文学》（1798 年）中所指出的那样（PPW V，290-301），文学可以用来展示我们所出生的文化和制度如何不可避免地塑造我们的生活，导致我们以破坏我们幸福机会的方式行事。这六部成熟的小说通过叙述那些因其社会的贵族和不平等原则而陷入困境的人的历史，有效地延续了《政治正义》中发起的批判性事业。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -235,4 +235,4 @@ A complete bibliography of Godwin’s work published in his lifetime is given in
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Mark Philp](http://www2.warwick.ac.uk/fac/arts/history/people/staff_index/philp) <[*mark.philp@warwick.ac.uk*](mailto:mark%2ephilp%40warwick%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

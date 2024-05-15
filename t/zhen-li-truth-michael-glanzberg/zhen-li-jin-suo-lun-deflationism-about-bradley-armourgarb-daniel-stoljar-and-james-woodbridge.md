@@ -593,7 +593,7 @@ Field（1994a，264-5）对 Wright 的挑战（以及 Putnam（1983a，279-80）
 
 尽管真理条件解释意义的正统观点加重了对紧缩论的挑战，但是否存在任何非真理条件解释意义的合适方法仍然是一个悬而未决的问题，与德维特相反。此外，即使没有可行的“无真理”解释，一些哲学家（例如 Bar-on 等人，2005 年）认为紧缩论在解释真理条件理论方面并没有比其他真理方法更多的问题。其他人更进一步，积极主张紧缩论与真理条件理论之间不存在不相容性。亚历克西斯·伯吉斯（2011 年，407-410 页）认为，至少有一些紧缩论版本与语言学中的主流模型论语义学（被理解为提供真理条件解释）以及对“真理条件语义学的显著力和进展”的认可是相容的。克莱尔·霍里斯克（2008 年）认为，关于不相容性的“循环性”论证（或者，她更喜欢的说法是“不相容性”）是失败的。她声称，这里涉及的唯一循环性是一种无害的循环性，只要像一些真理条件语义学的支持者一样，提供一种互惠而不是还原的意义分析。马克·兰斯（1997 年，186-7 页）声称，基于“是真的”（如 Brandom 1988, 1994 中的解读）的任何紧缩论版本都是独立于意义的任何基本解释的，包括真理条件解释。威廉姆斯（1999 年）同样声称，真理在特定语言的意义理论中的作用只是紧缩论主张的真理功能的表达作用。当然，所有这些主张都受到了质疑，但它们似乎表明，紧缩论与真理条件解释意义理论不一致的论点既不是一个既定的结论，也不一定是对紧缩论的反对意见，即使这个论点是正确的。 （有关这个问题的进一步讨论，请参阅 Gupta 1993b，Field 2005，Gupta 和 Martinez-Fernandez 2005，Patterson 2005 和 Horisk 2007。）话虽如此，关于任何紧缩论真理方法的可行性是否能与一个充分的意义解释相一致，仍然存在一个未解决的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, William, 1996, *A Realist Conception of Truth*, Ithaca: Cornell University Press.
@@ -799,4 +799,4 @@ Bradley Armour-Garb and James Woodbridge joined Daniel Stoljar as co-authors of 
 Bradley Armour-Garb <[*barmour-garb@albany.edu*](mailto:barmour-garb%40albany%2eedu)>  
 [Daniel Stoljar](http://philosophy.cass.anu.edu.au/people/daniel-stoljar)  
 James Woodbridge <[*james.woodbridge@unlv.edu*](mailto:james%2ewoodbridge%40unlv%2eedu)>
-<!--md-padding-ignore-end-->
+

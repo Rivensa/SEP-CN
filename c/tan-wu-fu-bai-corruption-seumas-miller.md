@@ -235,7 +235,7 @@ Ceva 和 Ferretti 还探讨了一个问题，腐败有什么问题？在这样�
 
 腐败是一种高度多样化的现象，包括贿赂、裙带关系、虚假证词、作弊、滥用权力等。此外，腐败在各种机构中呈现不同形式，导致政治腐败、财务腐败、警察腐败、学术腐败等。腐败的因果理论是为了解释这种多样性而做出的持续努力。在这个过程中，它强调了制度腐败的因果和规范维度。当代最有影响力的政治腐败哲学理论是丹尼斯·汤普森和劳伦斯·莱西格的理论。此外，莱西格关于依赖腐败的概念似乎可以推广到政治以外的机构。同样，汤普森理论中的核心机制可能也可以在政治以外的机构中推广一定程度。然而，就目前而言，这些理论都没有提供一个关于制度腐败的普遍或全面的理论（至少莱西格的理论并非旨在如此）。腐败行为的广泛多样性意味着可能需要相应广泛和多样化的具体反腐措施来打击不同形式的腐败，甚至在可能非常不同的背景下。近几十年来，反腐败机制的整体系统不断兴起，被称为廉洁体系。在这里，我们可以区分廉洁或反腐败系统的被动和预防元素，并且可以说，一个有效的廉洁系统应该将被动和预防元素整合到一个整体的系统中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abed, George T. and Sanjeev Gupta (eds.), 2003, *Governance, Corruption, and Economic Performance*, Washington DC: International Monetary Fund.
@@ -355,4 +355,4 @@ Ceva 和 Ferretti 还探讨了一个问题，腐败有什么问题？在这样�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Seumas Miller <[*semiller@csu.edu.au*](mailto:semiller%40csu%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

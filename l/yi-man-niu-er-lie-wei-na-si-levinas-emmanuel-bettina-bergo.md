@@ -387,7 +387,7 @@ However, Franck has detected a profound divergence in these new developments. In
 
 他的哲学和他对塔木德的阅读之间有一个共同的主题。超越是他对对他人的责任的自发性的一个词。责任在具体的生活中得到体验，并以各种方式表达，从像“我在这里”这样的词语到道歉和自我解释。列维纳斯认为，即使在听到或反思实际命令之前，这种情况也是如此。这个令人惊讶的命题回应了犹太人“在知道写了什么之前就接受了《托拉》”（NTR: 42-43）的争议性含义。列维纳斯将这种响应能力柏拉图式地称为“超越存在的善”。我们履行那种善，那种无限的痕迹，因为回应或为他人负责的实例是日常事件，尽管它们可能不像自然或自私的行为那样典型。最重要的是，我们不选择负责。责任似乎是在我们开始思考之前，由他人的接近引发的。由于这个主题在他的哲学中以及他对塔木德段落的解释中都有出现，列维纳斯的思想有时会让塔木德学者和哲学家感到不满。对于一些塔木德学者来说，他的思想似乎是世俗人文主义的，其中“无限”暗示了一个秘密的神性概念。作为对《米什纳》和《格玛拉》（塔木德）并不陌生的人，他的解释不太关注传统的文本内外部联系，而是关注其中的伦理内容。对于对他持怀疑态度的哲学家来说，列维纳斯的思想以一种形而上学的方式重新解释了海德格尔的事实性解释循环。事实上，对责任的反基础主义方法被这些批评家认为处于现象学和宗教思想之间，即使它没有具体的教条承诺。 正如我们所见，在他的后期哲学中，看似形而上学的“他者性”概念表达了我情感体验中的一种“力量”或情感过剩，超出了我所能容纳的范围。在这方面，它也类似于笛卡尔的“光芒四溢”（笛卡尔 1641 \[1911]，第五冥想）。但正是在犹太宗教和哲学传统与他对他者的现象学存在主义思考之间的这些张力中，列维纳斯的独创性才存在。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 | abbrev   | reference                                                                                                                                                            |
@@ -860,4 +860,4 @@ However, Franck has detected a profound divergence in these new developments. In
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Bettina Bergo](http://www.philo.umontreal.ca/personnel/professeur/bergo-bettina/) <[*bettina.bergo@umontreal.ca*](mailto:bettina%2ebergo%40umontreal%2eca)>
-<!--md-padding-ignore-end-->
+

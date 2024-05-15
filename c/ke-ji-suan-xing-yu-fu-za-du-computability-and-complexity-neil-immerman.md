@@ -281,7 +281,7 @@ Vardi 和本条目的作者后来独立证明了 P = FO(LFP)：一个性质在 P
 
 存在着广泛的计算复杂性理论。本条目简要描述了这一领域，并将其置于原则上可计算与实践中可计算的问题背景下。对于希望了解更多关于复杂性的读者，有一些优秀的书籍，例如 [Papadimitriou, 1994] 和 [Arora and Barak, 2009]。还有关于计算复杂性理论的条目。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allender, E., M. Bauland, N. Immerman, H. Schnoor and H. Vollmer, 2009, “The Complexity of Satisfiability Problems: Refining Schaefer’s Theorem”, *Journal of Computer and System Science* 75(4): 245–254.
@@ -349,4 +349,4 @@ Church, Alonzo: logic, contributions to | [Church-Turing Thesis](https://plato
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Neil Immerman](http://www.cs.umass.edu/~immerman/) <[*immerman@cs.umass.edu*](mailto:immerman%40cs%2eumass%2eedu)>
-<!--md-padding-ignore-end-->
+

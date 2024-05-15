@@ -122,7 +122,7 @@
 
 虽然麦克马汉可能是对的，早期个体的强烈利益胜过当前非人的相对微不足道的利益，但他的回答只涵盖了早期和当前自我的可能冲突的一个子集。当当前非人的利益也是重大的时候，两个自我之间的仲裁就更加困难。我曾经提出（Jaworska 未发表）的论点是，当早期个体的利益相对较小时，当前非人的重大利益应该胜出。因此，例如，如果早期自我只有相对较弱的死亡偏好——比如说她只是不想进一步复杂化与她并不太在乎的家人的关系——那么当前自我继续生存的重大利益应该占上风。更具争议的是，我还提出，当前非人的高度重要利益应该胜过早期个体的一些非微不足道、相当严重的利益。因此，在“死亡偏好”情景的标准版本中，早期自我所面临的是对她生命叙事完整性的相当严重的利益。然而，这种利益并没有达到高度重要的水平，因为在生命的最后阶段出现的智力衰退只会对一个本来成功的生命叙事造成有限的损害。相比之下，当前自我对自身生存的利益更加重要。而且，与早期自我的利益不同，这是一个积极的利益——一个持续存在的利益主体有理由在其中投入更多的关注。在这种情况下，这些因素共同使得当前自我的利益具有优先权。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Brock, D., 1995, “Death and Dying: Euthanasia and Sustaining Life: Ethical Issues,” in *Encyclopedia of Bioethics* (Volume 1), W. Reich (ed.), New York: Simon and Schuster, 2nd edition, pp. 563-72.
@@ -162,4 +162,4 @@ Special thanks to Jennifer Hawkins and Govind Persad for very helpful comments o
 
 [Copyright © 2009](https://plato.stanford.edu/info.html#c) by  
 [Agnieszka Jaworska](http://philosophy.ucr.edu/agnieszka-jaworska/) <[*jaworska@ucr.edu*](mailto:jaworska%40ucr%2eedu)>
-<!--md-padding-ignore-end-->
+

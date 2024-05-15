@@ -234,7 +234,7 @@ For Christianity, she observes, “originated after all from Judaism” (JuK 2).
 
 玛格丽特·苏斯曼是威廉明和魏玛德国以及瑞士（她在早年青少年时期的家园，以及 1933 年后的家园）中首批被认可为哲学家和公共知识分子的女性之一，也是犹太复兴时期德国犹太知识分子生活的杰出代表。苏斯曼在斯特凡·乔治和卡尔·沃尔夫斯凯尔的文学圈子中扮演了重要角色。她还是格奥尔格·西梅尔的亲密合作者，并在他的选集《桥与门》和她的专著《格奥尔格·西梅尔的思想轮廓》中促进了他在 1945 年后的接受。苏斯曼在威廉明和魏玛时期的哲学家和知识分子中独树一帜，成为 1945 年后德国犹太思想遗产持久的象征。她的思想既预见了布伯、布洛赫、本雅明、绍莱姆、阿多诺、雅各布·陶贝斯、赫尔曼·莱文·戈德施密特等人的著作，也对他们产生了深远的影响。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Susman’s Works
@@ -333,4 +333,4 @@ Citations to Susman’s works given above reference the German editions and also
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Willi Goetschel <[*w.goetschel@utoronto.ca*](mailto:w%2egoetschel%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

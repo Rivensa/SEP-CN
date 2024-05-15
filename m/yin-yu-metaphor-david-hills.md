@@ -542,7 +542,7 @@ Turbayne 关于隐喻的思想是一系列未发展的手势。直到肯德尔·
 
 Hills（1997 年，2008 年）和 Walton（2000 年）对沃尔顿的解释进行了详细阐述；Hills（2017 年）对异议进行了澄清和回应。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle, 1987, *Rhetoric: A Theory of Civic Discourse*, George A. Kennedy (trans.), Oxford: Oxford University Press, 1987.
@@ -690,4 +690,4 @@ Hills（1997 年，2008 年）和 Walton（2000 年）对沃尔顿的解释进�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 David Hills <[*dhills@stanford.edu*](mailto:dhills%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

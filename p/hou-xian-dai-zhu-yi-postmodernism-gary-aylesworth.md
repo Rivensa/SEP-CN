@@ -132,7 +132,7 @@
 
 哈贝马斯基于表演性矛盾和自我参照的悖论对后现代主义进行了批评，为当前正在进行的批判性辩论设定了基调和条件。尽管后现代主义者拒绝了这些批评，或者用修辞对抗策略回应了这些批评。例如，吕奥塔尔拒绝了互为主体的交流意味着已经达成一套规则的观念，并且普遍共识是话语的最终目标的观点（见吕奥塔尔 1984 [1979]，65-66 页）。后现代主义者公开回应哈贝马斯是因为他认真对待后现代主义，而不像其他批评者一样将其视为纯粹的胡言乱语。事实上，他能够仔细阅读后现代主义文本并进行辩证测试，证明了它们的可理解性。他还同意后现代主义者的观点，即辩论的焦点应该是现代性在社会实践和制度中的实现，而不是认知理论或形式语言学作为独立领域。在这方面，哈贝马斯对互为主体的交流的关注有助于澄清现代主义-后现代主义辩论继续进行的基础。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Baudrillard, Jean, 1976, *Symbolic Exchange and Death*, Ian Hamilton Grant (trans.), London: Sage Publications, 1993. (Page reference is to the 1993 translation.)
@@ -206,4 +206,4 @@
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Gary Aylesworth](http://www.eiu.edu/philos/faculty.php?id=geaylesworth&subcat=)
-<!--md-padding-ignore-end-->
+

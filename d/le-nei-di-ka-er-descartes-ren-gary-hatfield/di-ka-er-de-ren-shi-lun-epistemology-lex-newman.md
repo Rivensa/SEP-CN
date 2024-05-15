@@ -794,7 +794,7 @@
 
 （有关笛卡尔相关问题的进一步讨论，请参见 Alanen 2003，Broughton 2008，Curley 2006，Jolley 2013，Kenny 1968，LoLordo 2005，McRae 1972，Newman 2023，Nolan＆Whipple 2005，Vendler 1972 和 Wilson 1978。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -995,4 +995,4 @@ Thanks to Robert Audi, Alan Nelson, Ram Neta, and Shaun Nichols, for helpful dis
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Lex Newman](http://philosophy.utah.edu/profile.php?unid=u0232061) <[*Lex.Newman@utah.edu*](mailto:Lex%2eNewman%40utah%2eedu)>
-<!--md-padding-ignore-end-->
+

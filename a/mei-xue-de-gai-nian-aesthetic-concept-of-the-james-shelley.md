@@ -245,7 +245,7 @@ Lopes 选择的例子并非任意。有特定的艺术批评理由认为夏尔�
 
 网络理论和奥本观点并不是审美规范非享乐主义理论的唯一选择：Nguyen 2019、Matherne 2020、Peacocke 2021、Kubala 2021 和 Riggle 2022 都代表了有前途的新方向。然而，无论是享乐主义还是非享乐主义的审美价值的新理论，都必须在将规范和审美问题的答案视为独立或相互关联的问题上，继续网络理论或奥本观点的研究。决定选择哪条道路将会产生重大影响。也许现在是我们关注这个问题的时候了。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Augustine, 389–390/2005 *De vera religione* in *Works of Saint Augustine. A Translation for the 21st Century*, Book 1, Volume 8, John E. Rotelle et al. (eds.), New York: New City Press.
@@ -397,4 +397,4 @@ Lopes 选择的例子并非任意。有特定的艺术批评理由认为夏尔�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[*shelljr@auburn.edu*](mailto:shelljr%40auburn%2eedu)>
-<!--md-padding-ignore-end-->
+

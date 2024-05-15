@@ -82,7 +82,7 @@
 
 他从晚期古代到现代揭示的数百个文本和人物，以及他关于卡巴拉和犹太历史的宏大论述的力量和复杂性，滋养了三代以上的学者，肯定还会滋养更多人。最近，他在欧洲圈子中被发现是魏玛犹太文化中的重要人物。目前有年轻学者正在出版德语的严肃研究，他们对卡巴拉知之甚少，对锡安主义也没有太大兴趣，但将格舒姆·索罗姆视为与本雅明、斯特劳斯、阿多诺、霍克海默和阿伦特等人相比的重要的知识分子和哲学家。事实上，他的智力影响力是非凡的，因此这种新的兴趣应该受到赞扬。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 There is a bibliography of Gershom Scholem's writings until 1977 entitled *Bibliography of the Writings of Gershom Scholem*, Jerusalem, Magnus Press, 1977. Below I will focus on his major works, books and a selection of articles about him. I do not list works in other languages that were translated into English except when the original book or article is substantively different than the English translation. I do not include essays about Scholem that appear in volumes listed under “Books about Gershom Scholem” below.
@@ -214,4 +214,4 @@ There is a bibliography of Gershom Scholem's writings until 1977 entitled *Bibl
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Shaul Magid](https://jewish.dartmouth.edu/people/shaul-magid)
-<!--md-padding-ignore-end-->
+

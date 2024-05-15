@@ -246,7 +246,7 @@ Jaworska 和 Tannenbaum（2014）提供了一种替代方法，其基于这样�
 
 功利主义者和对功利主义方法持同情态度的人通常将保护和促进利益视为道德的核心议题，这里的利益是指意识的前提条件（例如，DeGrazia 1996 年，第 39 页）。在这种观点下，为什么拥有利益的能力对于拥有任何道德地位都至关重要就变得很明显了。在某些观点中，体验快乐或痛苦（感知）的能力是拥有利益的先决条件，这解释了为什么感知是道德地位的依据（Singer 1993 年，第 57 页）。与功利主义者不同，环保主义者并不认为意识是拥有利益的必要条件，因此他们以更广泛的方式使用这个术语。然而，他们并没有解释为什么以这种方式广泛理解的利益会产生道德地位。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, E., 2004, “Animal Rights and the Values of Nonhuman Life,” in *Animal Rights: Current Debates and New Directions*, C. Sunstein and M. Nussbaum (eds.), Oxford: Oxford University Press, pp. 277–298.
@@ -336,4 +336,4 @@ Special thanks to Amy Kind and the reviewers for SEP for feedback, to Yvonne Tam
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Agnieszka Jaworska](http://philosophy.ucr.edu/agnieszka-jaworska/) <[*jaworska@ucr.edu*](mailto:jaworska%40ucr%2eedu)>  
 [Julie Tannenbaum](http://research.pomona.edu/julie-tannenbaum/) <[*julie.tannenbaum@pomona.edu*](mailto:julie%2etannenbaum%40pomona%2eedu)>
-<!--md-padding-ignore-end-->
+

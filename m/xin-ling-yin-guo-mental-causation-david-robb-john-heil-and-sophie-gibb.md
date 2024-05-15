@@ -324,7 +324,7 @@ Dretske 的提议是双重解释策略的一个版本（§6.3）。其思想是�
 
 无论是否能够使类似的事情运作起来都是一个悬而未决的问题。然而，如果你认为当前的局势令人不满意，或许这是一个值得追求的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allen, C., 1995, “It Isn’t What You Think: A New Idea About Intentional Causation”, *Noûs*, 29: 115–26.
@@ -589,4 +589,4 @@ We are grateful to the editors for helpful advice on preparing this entry.
 [David Robb](https://www.davidson.edu/academics/philosophy/faculty-and-staff/david-robb) <[*darobb@davidson.edu*](mailto:darobb%40davidson%2eedu)>\
 [John Heil](http://philosophy.artsci.wustl.edu/people/John\Heil) <[*jh@wustl.edu*](mailto:jh%40wustl%2eedu)>\
 Sophie Gibb <[*s.c.gibb@durham.ac.uk*](mailto:s%2ec%2egibb%40durham%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

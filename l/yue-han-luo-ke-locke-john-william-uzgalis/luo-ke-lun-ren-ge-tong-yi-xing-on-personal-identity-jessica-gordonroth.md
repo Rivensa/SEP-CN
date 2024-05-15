@@ -262,7 +262,7 @@ Consciousness is what distinguishes selves, and thus,
 
 洛克对个人身份的讨论对于当前关于人和其持续条件的辩论至关重要。然而，当代形而上学家对洛克观点的不同版本有很多，他们认为自己正在接受或拒绝这些观点。即使是那些将自己的观点描述为“洛克式”的人，比如帕菲特和奥尔森，最终可能会为人的形象辩护出现非常不同的图片。这凸显了确定洛克对人和其持续条件的观点有多么困难，尽管其重要性是如此明确。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature by Locke
@@ -458,4 +458,4 @@ I am grateful to the Chicago Early Modern Round Table for helpful feedback on an
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jessica Gordon-Roth](https://www.jessicagordon-rothphd.com/) <[*gordo216@umn.edu*](mailto:gordo216%40umn%2eedu)>
-<!--md-padding-ignore-end-->
+

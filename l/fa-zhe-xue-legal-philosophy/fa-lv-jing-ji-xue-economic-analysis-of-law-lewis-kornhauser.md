@@ -520,7 +520,7 @@ Fleurbaey [2008] 全面探讨了无嫉妒测试的这两个方面以及无嫉妒
 
 法律经济学提出了一个类似的研究项目。首先，对治理结构进行描述。接下来，确定合法性的价值。最后，确定特定治理结构实现合法性价值的条件。这个项目改变了当前理解的法律理论项目，同时仍然使过去的法律理论既可理解又富有成效。传统的法律理论提出了我们如何表达经济分析试图发展和详细阐述的治理概念和合法性概念的方法。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anand, Paul, 1993, The Philosophy of Intransitive Preference, *Economic Journal*, 103: 337–346.
@@ -619,4 +619,4 @@ Research for this entry was supported by the Filomen d’Agostino and Max E. Gre
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Lewis Kornhauser <[*lewis.kornhauser@nyu.edu*](mailto:lewis%2ekornhauser%40nyu%2eedu)>
-<!--md-padding-ignore-end-->
+

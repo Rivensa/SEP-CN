@@ -236,7 +236,7 @@ Martin 的提议被批评为过于反思，无法解释“顽固”的希望，�
 
 第三个论点最终面对的是一个根本问题，即希望和充满希望是否总是像前面的论点所假设的那样在政治中具有可取性。例如，沃伦（2015）认为，在美国黑人政治中，关于政治希望的话语和评价，用来将希望的神学概念据为己有，并将其用于强制性地投资黑人的希望于政治之中——尽管由此产生的政治只是延长和加强了针对他们所期望的种族主义结构的存在。相反，沃伦主张“黑人虚无主义”，即拒绝政治希望所运作的形而上学和政治框架（有关讨论，请参见劳埃德 2018 年、温特斯 2019 年）。但即使沃伦也为“精神希望”留下了空间，作为对政治希望终结的一种希望。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The works of Thomas Aquinas are cited according to the Corpus Thomisticum ([available online](http://www.corpusthomisticum.org/)) as follows: SsS for *Scriptum super Sententiis*, and ST for *Summa Theologiae*.
@@ -429,4 +429,4 @@ Work on an earlier version of this entry was supported by the Hope and Optimism 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Claudia Bloeser <[*claudiabloeser@googlemail.com*](mailto:claudiabloeser%40googlemail%2ecom)>  
 [Titus Stahl](http://www.titus-stahl.de/) <[*titus.stahl@rug.nl*](mailto:titus%2estahl%40rug%2enl)>
-<!--md-padding-ignore-end-->
+

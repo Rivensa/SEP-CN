@@ -326,7 +326,7 @@ Dworkin 认为，在许多情况下，家庭和友谊满足这些约束条件，
 
 当然，国家同意原则引发了许多问题。首先，我们必须问的是，不代表其人民的国家同意是否是真正合法的行为。其次，我们必须询问同意的条件是否公平。如果条件不公平，更强大的国家利用较弱国家的弱点，这对国家的合法性有何影响？第三，如果一个国家拒绝同意，而其合作对于实现道义上必要的目标（如防止或减轻全球变暖）是必要的，那么这种拒绝是否具有任何规范重要性？
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Applebaum, Arthur Isak, 2010, “Legitimacy without the Duty to Obey,” *Philosophy and Public Affairs*, 38: 215–239.
@@ -379,4 +379,4 @@ Dworkin 认为，在许多情况下，家庭和友谊满足这些约束条件，
 
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by  
 [Tom Christiano](http://www.u.arizona.edu/~thomasc/) <[*thomasc@u.arizona.edu*](mailto:thomasc%40u%2earizona%2eedu)>
-<!--md-padding-ignore-end-->
+

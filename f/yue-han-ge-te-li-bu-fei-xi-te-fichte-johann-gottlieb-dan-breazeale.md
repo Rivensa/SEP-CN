@@ -144,7 +144,7 @@ I 必须对自身进行设定，才能成为一个 I；但它只能在将自己�
 
 相比之下，英语区的费希特学术研究也在过去几十年经历了一次复兴，主要集中在耶拿时期的“经典”文本上。这在很大程度上无疑是由于在这些年里出现了几乎所有费希特早期著作的新的可靠翻译，以及他后期未发表著作的翻译缺乏。但这也反映了英国和北美的费希特学术传统相对不足，甚至早期的《科学教义》也长期被忽视和低估。直到最近，几乎没有英语学者对研究《科学教义》本身感兴趣，而主要关注于确定费希特在康德或黑格尔的关系中的立场。然而，这种情况已经发生了根本性的改变，一些最有洞察力和独创性的当前费希特研究工作是用英语进行的。最近出版的费希特 1804 年关于《科学教义》第二系列讲座的英文翻译表明，英语区的费希特学术研究至少已经准备好开始着手理解费希特的后期哲学。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Editions of Fichte’s Complete Works in German
@@ -302,4 +302,4 @@ See also the journal *Fichte-Studien*, Amsterdam and Atlanta: Editions Rodopi, 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Dan Breazeale](https://philosophy.as.uky.edu/users/breazeal)
-<!--md-padding-ignore-end-->
+

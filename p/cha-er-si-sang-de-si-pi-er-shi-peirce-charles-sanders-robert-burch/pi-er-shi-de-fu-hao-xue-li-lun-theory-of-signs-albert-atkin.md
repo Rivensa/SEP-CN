@@ -233,7 +233,7 @@ Ransdell（1977 年，169 页）将即时对象描述为“我们在任何时候
 
 在这个问题上，文本证据能否起决定性作用尚不清楚，特别是考虑到皮尔士关于符号的最后工作的片段性特点。然而，有一两件事情支持“传统观点”。首先，皮尔士以尝试确定自己的想法或从不同角度描述同一现象时，以实验术语为人所熟知。其次，不清楚为什么像意图/效果/交际这样的三分法应被视为术语实验，而情感/能量/逻辑则被视为一个独立的分割。最后，在皮尔士预计的 66 类符号中，很少有对解释者进一步细分所施加的额外分类的规定。（有关此讨论的更多信息，请参见 Liszka 1990 和 1996；Fitzgerald 1966；Lalor 1997；Short 1981、1996 和 2004）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -306,4 +306,4 @@ Ransdell（1977 年，169 页）将即时对象描述为“我们在任何时候
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Albert Atkin](https://researchers.mq.edu.au/en/persons/albert-atkin) <[*albert.atkin@mq.edu.au*](mailto:albert%2eatkin%40mq%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

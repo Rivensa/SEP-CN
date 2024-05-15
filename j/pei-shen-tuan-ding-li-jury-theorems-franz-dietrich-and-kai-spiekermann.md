@@ -468,7 +468,7 @@ A={{p,p→q,q},{¬p,p→q,q},…}.
 
 陪审团定理属于认知社会选择的范畴。在认知社会选择中，它们与传统的程序参数（如超过半数规则中的接受阈值或加权投票规则中的个体权重）相比，更关注决策机构的规模。陪审团定理旨在优化给定程序（例如，给定多数规则）下的群体规模，而不是优化给定群体规模下的程序。程序优化有时可以通过分析来实现。一般的发现是，在经典的独立性假设下，二元选择中认知上最优的程序是加权（简单的、超过半数或次于半数）多数规则，其中选民的权重是能力的一个明确定义的递增函数（对于小于 12 的能力，权重变为负值）；参见，例如，Nitzan 和 Paroush（1982），Ben-Yashar 和 Nitzan（1997），Dietrich（2006）和 Pivato（2013）。简单多数规则可能远非最优；在适当的情况下，如果选民能力相等且选项最初的正确概率相等，则简单多数规则是最优的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, *Episteme*, 3(1–2): 8–22. doi:10.3366/epi.2006.3.1-2.8
@@ -588,4 +588,4 @@ A={{p,p→q,q},{¬p,p→q,q},…}.
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Franz Dietrich](http://franzdietrich.net/) <[*fd@franzdietrich.net*](mailto:fd%40franzdietrich%2enet)>  
 [Kai Spiekermann](http://kaispiekermann.net/) <[*k.spiekermann@lse.ac.uk*](mailto:k%2espiekermann%40lse%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

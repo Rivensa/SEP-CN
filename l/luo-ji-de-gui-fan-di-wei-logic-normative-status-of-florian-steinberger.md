@@ -261,7 +261,7 @@ Hartry Field (2009a,b, 2015}提出了这种形式的桥梁原则。以下是这�
 
 更温和的立场认为，无论是分级的还是范畴的信念以及它们各自的随附规范，在我们的认知经济中都有一个坚实的地位，要么通过寻求给出这两个概念的统一解释（Foley 1993；Sturgeon 2008；Leitgeb 2013），要么通过与 Christensen（2004）所称的“分叉解释”相调和，即认为没有统一的解释可得，因此这两种类型的信念及其随附规范是自主运作的（Buchak 2014；Kaplan 1996；Maher 1993；Stalnaker 1984）。总结起来，只要完全信念在我们最好的理论中继续扮演一个不可消除的理论角色，我们仍然可以提出一个论点，即在寻求阐明规范这些定性信念状态的规范时，我们应该继续关注逻辑学。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Ernest W., 1998, *A Primer of Probability Logic*, Stanford: CSLI Publications.
@@ -384,4 +384,4 @@ Hartry Field (2009a,b, 2015}提出了这种形式的桥梁原则。以下是这�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Florian Steinberger](http://www.bbk.ac.uk/philosophy/our-staff/academics/steinberger) <[*f.steinberger@bbk.ac.uk*](mailto:f%2esteinberger%40bbk%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

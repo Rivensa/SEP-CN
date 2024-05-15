@@ -120,7 +120,7 @@
 
 第二，达弥盎为自己辩护，反驳了有人指责他说上帝在某种程度上是无能的指控（620D）。在《神圣全能论》中，他的微妙任务是说服读者，即使上帝无法撤销已经发生的事情，神圣的全能依然完整无缺，而从未说上帝无法撤销已经发生的事情，因为这是“一种邪恶的说法”。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Editions
@@ -175,4 +175,4 @@ There is an English translation of *De divina omnipotentia* (Letter 119) in Pe
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Toivo J. Holopainen](http://researchportal.helsinki.fi/en/persons/toivo-holopainen) <[*toivo.holopainen@helsinki.fi*](mailto:toivo%2eholopainen%40helsinki%2efi)>
-<!--md-padding-ignore-end-->
+

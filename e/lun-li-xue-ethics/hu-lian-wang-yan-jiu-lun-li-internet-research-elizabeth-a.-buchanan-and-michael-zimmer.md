@@ -338,7 +338,7 @@ While many researchers and review boards across the world work without formal gu
 
 Additional resources are found in [Other Internet Resources](https://plato.stanford.edu/entries/ethics-internet-research/#Oth) below.
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Acquisti, Alessandro and Ralph Gross, 2006, “Imagined Communities: Awareness, Information Sharing, and Privacy on the Facebook”, in *Privacy Enhancing Technologies: PET 2006*, George Danezis and Philippe Golle (eds.), (Lecture Notes in Computer Science 4258), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 36–58. doi:10.1007/11957454_3
@@ -560,4 +560,4 @@ Elsewhere
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Elizabeth A. Buchanan](https://www.uwstout.edu/sites/default/files/cv/2018-06/Elizabeth%20Anne%20Buchanan%20CV_0.pdf) <[*buchanane@uwstout.edu*](mailto:buchanane%40uwstout%2eedu)>  
 [Michael Zimmer](http://michaelzimmer.org/) <[*michael.zimmer@marquette.edu*](mailto:michael%2ezimmer%40marquette%2eedu)>
-<!--md-padding-ignore-end-->
+

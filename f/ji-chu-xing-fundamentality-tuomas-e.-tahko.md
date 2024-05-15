@@ -232,7 +232,7 @@ Morganti（2015: 562）提出的“存在的出现模型”可能是一种有益
 
 这标志着我们对形而上学无限主义和基础性的讨论的结束。本调查侧重于基础性日益增长的文献中的一个子集，旨在澄清围绕关键概念的各种术语问题，并确定一些共同主题。这些概念背后的思想和我们已经看到的形而上学基础主义和无限主义的各种论证相关的直觉一样古老。最近有帮助的努力系统化一些中心思想，特别是基础良性的思想，使得就基础性主题进行建设性讨论变得更加容易。可以预期，将来会有更多的尝试来阐述对形而上学基础主义和无限主义不同强度的论证。文献也更加关注相对基础性和形而上学一贯主义的概念。最后，有越来越多的文献将更多技术性的基础性概念应用于形而上学中的其他辩论：例如，Morganti（2019）关于实体结构实在论，Calosi 和 Morganti（2021）关于量子纠缠，Giannotti（2021b）关于力量，Scarpati（2021）关于 haecceitism，Tahko（2021）关于逻辑实在论，Allori（2022）关于量子理论，Hamri（2022）关于因果关系，Rabin（2022）关于唯物主义辩论，以及 Spencer（2022）关于相对论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aizawa, Kenneth & Carl Gillett (eds.), 2016, *Scientific Composition and Metaphysical Ground*, Basingstoke: Palgrave MacMillan. doi:10.1057/978-1-137-56216-6
@@ -489,4 +489,4 @@ The author would like to thank Umut Baysan, Karen Bennett, Einar Bohn, Christina
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Tuomas E. Tahko](http://www.ttahko.net/) <[*tuomas.tahko@bristol.ac.uk*](mailto:tuomas%2etahko%40bristol%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

@@ -640,7 +640,7 @@ In recent years, further worries have been raised concerning mereological theori
 
 唯一仍然广泛开放的问题是所有这些应该如何反映在我们语言的语义中，特别是逻辑复合陈述的语义中。事实上，有一种倾向将这个问题视为选择模糊逻辑的适当语义的更一般问题的一部分，这通常等同于某些真值三值语义的无穷广义化。然而，可能性的范围更广，即使在这里也有非真值函数方法的空间，包括超值论的程度论变体（例如在 Sanford 1993: 225 中推荐）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cited Works
@@ -1162,4 +1162,4 @@ The author would like to thank Aaron Cotnoir, Maureen Donnelly, Cody Gilmore, Pa
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Achille Varzi](http://www.columbia.edu/\~av72/) <[*achille.varzi@columbia.edu*](mailto:achille%2evarzi%40columbia%2eedu)>
-<!--md-padding-ignore-end-->
+

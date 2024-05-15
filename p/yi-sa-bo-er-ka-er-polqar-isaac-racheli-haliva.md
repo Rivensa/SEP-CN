@@ -161,7 +161,7 @@
 
 因此，波尔卡尔的哲学应被视为犹太亚维罗主义学派的一部分，也是后维猶太思想家试图利用梅蒙尼德的思想和方法将阿维罗斯所教授的亚里士多德哲学与犹太信仰原则更加紧密地结合在一起的几次尝试之一。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Manuscripts
@@ -262,4 +262,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Racheli Haliva](http://www.cjs.sdu.edu.cn/info/1061/2232.htm) <[*Racheli.haliva@email.sdu.edu.cn*](mailto:Racheli%2ehaliva%40email%2esdu%2eedu%2ecn)>
-<!--md-padding-ignore-end-->
+

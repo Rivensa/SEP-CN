@@ -210,7 +210,7 @@ The right of a state to control its culture is therefore an essential one to pro
 
 本条目试图提供必要的资源来裁决这些冲突，以认真对待那些要求文化权利的人和那些抵制尊重这些权利的人。希望未来的政治理论能够利用这一分类法，在这些冲突出现时找到令人满意的结论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aaby, Bendik Hellem and Grant Ramsey, forthcoming, “Three Kinds of Niche Construction”, *The British Journal for the Philosophy of Science*, first online: 17 December 2020. doi:10.1093/bjps/axz054
@@ -811,4 +811,4 @@ The right of a state to control its culture is therefore an essential one to pro
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Daniel Kelly <[*drkelly@purdue.edu*](mailto:drkelly%40purdue%2eedu)>\
 Andreas De Block <[*andreas.deblock@kuleuven.be*](mailto:andreas%2edeblock%40kuleuven%2ebe)>
-<!--md-padding-ignore-end-->
+

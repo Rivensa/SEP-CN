@@ -222,7 +222,7 @@ Hare（2001）为辩护了随附解释。假设我们继续直观地将随附解
 
 即使一个人接受了关于义务性质的这一主张——这个主张有一定的合理性，因为有一些依据表明并非一切有理由去做的事情都是义务性的——以及只有神才有足够的地位来要求我们遵守道德，但如何为神学意志主义对道德义务的观点提供令人满意的理由仍然不清楚。因为神学意志主义认为道德义务的存在取决于上帝通过上帝的命令或其他神圣意志的行为来实现；但是，并没有明显的论据支持上帝对我们遵循道德规范负责的本质与上帝命令或意愿创造这些道德规范之间的关系。因此，即使我们承认神学意志主义者关于义务的社会性质和上帝作为要求我们遵守道德规范的人的理想地位的前提，神学意志主义者仍然需要克服一个令人担忧的差距，以提供肯定这一观点的积极理由。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert M., 1973. “A Modified Divine Command Conception of Ethical Wrongness,” reprinted in Adams 1987a, pp. 97–122.
@@ -307,4 +307,4 @@ Hare（2001）为辩护了随附解释。假设我们继续直观地将随附解
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Mark Murphy](http://www9.georgetown.edu/faculty/murphym/) <[*murphym@georgetown.edu*](mailto:murphym%40georgetown%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -160,7 +160,7 @@ FA 理论的捍卫者以各种方式对这些案例做出了回应 (Orsi 2013a; 
 
 当然，第四个也是最后一个回应，是直接应对循环性挑战的一种方式，即提供一个合理的解释，说明是什么使得支持态度“支持”，而不涉及价值本身的概念。也许，例如，使得支持态度“支持”的是一些共同的描述性动机因素（Rabinowicz 和 Rønnow-Rasmussen，2004）。或者，也许所有支持态度都有一些共同的规范因素，对此 FA 理论家可以进行非循环性的诉诸。然而，截至目前，这个问题尚未得到充分探讨，发展这种类型的回应的任务仍然未完成。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Elizabeth, 1993, *Value in Ethics and Economics*, Cambridge, MA: Harvard University Press.
@@ -278,4 +278,4 @@ FA 理论的捍卫者以各种方式对这些案例做出了回应 (Orsi 2013a; 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Christopher Howard <[*chris.howard@mcgill.ca*](mailto:chris%2ehoward%40mcgill%2eca)>
-<!--md-padding-ignore-end-->
+

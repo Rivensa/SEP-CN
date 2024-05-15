@@ -298,7 +298,7 @@
 
 最后一个抱怨是使用“唯心主义”这个术语在现代印度之前的时期是不合时宜的，或者出于其他原因不适当。Kochummutom 的观点是正确的，这个术语包含的内容太多了。将“唯心主义”这个术语（也许已经扩大了其含义）应用于受到欧洲唯心主义者影响的现代思想家，如奥罗宾多、维韦卡南达和拉达克里希南，是一回事。但如果我们把现代的联想和负担强加给瓦苏班德，这就是一种时代错误，这些联想和负担包括对私人、个人、神圣的“宗教经验”的拥护。瓦苏班德可能是一个严格意义上的唯心主义者，但他不是 20 世纪宗教研究教科书所称的“神秘哲学家”。瓦苏班德通常不依靠自己的个人经验作为证据或确认他的立场。相反，瓦苏班德反复运用推理来对通过感知获得的表面现实产生怀疑，无论是外部的还是内部的。这也许是避免将瓦苏班德描述为“现象学家”的一个原因。他的作品并不以直接审视“经验”为主题，而是借助经典和理性论证来批判现有的现实描述。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -406,4 +406,4 @@ Lévi, Sylvain (ed.), 1925. *Vijñaptimātratāsiddhi: Deux Traités de Vasuban
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Jonathan C. Gold <[*jcgold@princeton.edu*](mailto:jcgold%40princeton%2eedu)>
-<!--md-padding-ignore-end-->
+

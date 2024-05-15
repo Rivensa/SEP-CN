@@ -528,7 +528,7 @@ Pizzi 和 Williamson（1997）证明了 CI 可以被忠实地嵌入到正常的�
 
 总之，可以说，虽然连接逻辑在各个方面都与经典逻辑相悖且不寻常，但它并不仅仅是一种形式上的游戏或花招。有几种不同类型的连接逻辑系统，具有不同类型的语义和证明系统，在 21 世纪，这个领域正在经历复兴。连接逻辑系统所捕捉到的直觉可以追溯到古代的根源，并且连接逻辑的应用范围从亚里士多德的三段论到范畴语法、因果蕴涵的研究以及连接数学。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Almukdad A. and Nelson, D., 1984, “Constructible Falsity and Inexact Predicates”, *Journal of Symbolic Logic*, 49: 231–233.
@@ -700,4 +700,4 @@ The author would like to thank Hitoshi Omori for many stimulating discussions on
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[*Heinrich.Wansing@rub.de*](mailto:Heinrich%2eWansing%40rub%2ede)>
-<!--md-padding-ignore-end-->
+

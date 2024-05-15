@@ -586,7 +586,7 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 
 > 这些考虑特别适用于公共生活中肮脏手的必然性问题。我们希望在公共生活中有那些被这种情感所驱使的人，他们因此会努力避免这种冲突，但又愿意承担进入公共生活的道德风险。正是在这些情况下，我们看到了生活选择和道德风险之间的紧张关系。（1996 年：33）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### 巴肯·马库斯’s Corpus
@@ -771,4 +771,4 @@ I thank Graham Moore who has assisted me in the early stages of preparation of t
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Roberta Ballarin <[*rballari@mail.ubc.ca*](mailto:rballari%40mail%2eubc%2eca)>
-<!--md-padding-ignore-end-->
+

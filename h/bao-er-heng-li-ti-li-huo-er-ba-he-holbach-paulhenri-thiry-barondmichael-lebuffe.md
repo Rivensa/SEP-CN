@@ -94,7 +94,7 @@
 
 也许是因为他的同伙中其他成员，特别是奈容，对革命权利的倡导不够谨慎，或者是因为他如此激烈地批评了他那个时代的国王，霍尔巴赫有时被视为革命的倡导者。然而，霍尔巴赫的讨论是暂时的。他在《自然政治》（4.5 ff.）中将这种权利描述为自我保存的天然本能的产物。像霍布斯（《利维坦》，XXIX，23）一样，霍尔巴赫预期，当个体感到需要保护自己的生命时，对主权的服从将会崩溃。这也是为什么君主需要注意照顾公民的福祉和教育。如果他们未能做到这些事情，公民就会被激情而不是理性所统治，从而导致革命。因此，霍尔巴赫的革命权利更多地是一种警告，而不是革命的倡导，以避免导致革命的条件。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Selected Works of Holbach
@@ -156,4 +156,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Michael LeBuffe <[*michael.lebuffe@otago.ac.nz*](mailto:michael%2elebuffe%40otago%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

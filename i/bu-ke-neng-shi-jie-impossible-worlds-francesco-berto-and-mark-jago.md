@@ -411,7 +411,7 @@ Fine 的方法在组合性方面很有吸引力：它为一个状态的布尔连
 
 毫无疑问，对于不可能世界的其他异议可能会被提出并且很可能会被提出。关于不可能世界的当前辩论似乎处于与四十年前关于可能世界的辩论相同的阶段。当时，人们努力理解可能世界的概念。许多人宣称它毫无意义。如今，其应用的多样性已经将这个概念牢牢地置于许多哲学和逻辑实践的核心位置（参见例如，Divers 2002，第 4 章）。如果不可能世界在处理各种不可能性方面证明出与它们看起来一样有用，那么它们可能会经历同样的命运。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R.M., 1974, “Theories of Actuality”, *Noûs*, 8: 211–31.
@@ -570,4 +570,4 @@ The authors would like to thank JC Beall, JC Bjerring, Berit Brogaard, Nicola Ci
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Francesco Berto](http://www.st-andrews.ac.uk/philosophy/people/fb96) <[*fb96@st-andrews.ac.uk*](mailto:fb96%40st-andrews%2eac%2euk)>  
 Mark Jago <[*mark.jago@nottingham.ac.uk*](mailto:mark%2ejago%40nottingham%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

@@ -351,7 +351,7 @@ CCpqCLpLqCCpqCMpMq
 
 尽管遭遇了这样的失望，卢卡谢维奇的成就和发明使他在数学和哲学逻辑的历史上占据了一个永久而荣耀的地位。卢卡谢维奇对波兰逻辑学家在战争期间取得的显赫地位感到自豪，并且完全值得他被亚当·米亚克的四座著名卢沃-华沙学派成员雕像之一纪念，这些雕像位于华沙大学图书馆的入口处。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### General Remarks
@@ -483,4 +483,4 @@ The author would like to thank John Corcoran and Jan Woleński for corrections a
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Peter Simons](http://sites.google.com/site/petermsimons/) <[*psimons@tcd.ie*](mailto:psimons%40tcd%2eie)>
-<!--md-padding-ignore-end-->
+

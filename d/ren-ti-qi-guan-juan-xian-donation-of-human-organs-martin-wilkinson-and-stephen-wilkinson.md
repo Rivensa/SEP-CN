@@ -253,7 +253,7 @@
 
 优先考虑儿童。几乎所有司法管辖区在分配来自已故捐赠者的肾脏时都优先考虑儿童。一个结果似乎是器官总供应的减少，至少在美国（Axelrod 等人，2010 年）。当儿童迅速获得已故捐赠者的肾脏时，原本可能成为儿童活体肾脏捐赠者的人不再捐赠。也许潜在的活体肾脏捐赠者宁愿让儿童获得已故捐赠者的器官，而不愿为自己冒风险；也许他们希望保留自己的肾脏，以备儿童需要再移植或其他儿童需要时使用。有人可能认为，如果优先考虑儿童减少了向他们的活体肾脏捐赠者的数量，那么应该会增加向成人的活体肾脏捐赠者的数量。然而，总体效果是负面的。与以前一样，那些支持优先考虑儿童原则的人需要做出一些选择；他们愿意为了这一原则而放弃多少器官，这个答案是否与他们愿意接受指定的活体器官捐赠（T.M. Wilkinson 和 Dittmer，2016 年）一致？如果歧视儿童能够通过活体捐赠获得更多器官，那么将会产生一个更难以接受的选择。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, S., 1962, “They Decide Who Lives, Who Dies”, *Life*, 53: 102–25.
@@ -366,4 +366,4 @@ We would like to thank Laura O’Donovan and Nicola Williams for providing resea
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Martin Wilkinson <[*m.wilkinson@auckland.ac.nz*](mailto:m%2ewilkinson%40auckland%2eac%2enz)>  
 [Stephen Wilkinson](http://www.lancaster.ac.uk/ppr/about-us/people/stephen-wilkinson) <[*s.wilkinson2@lancaster.ac.uk*](mailto:s%2ewilkinson2%40lancaster%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

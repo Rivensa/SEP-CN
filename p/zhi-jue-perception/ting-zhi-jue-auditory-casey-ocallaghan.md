@@ -328,7 +328,7 @@ S. S. Stevens 根据从心理听觉实验中得出的结果，著名地论证了
 
 考虑除视觉之外的模态可以增进我们对知觉的理解。有必要发展和审查一个充分全面和普遍的知觉及其作用的解释。听知觉本身就是哲学探索的一个丰富领域，但它也为评估在视觉背景下提出的关于知觉的主张提供了一个有用的对比案例。未来工作中最有前途的方向之一涉及知觉模态之间的关系的性质，这些关系如何塑造跨模态的体验，以及它们如何对理解知觉本身至关重要。因此，对听知觉的哲学研究是超越孤立考虑模态的进展的一部分。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Appelbaum, I., 1996, “The lack of invariance problem and the goal of speech perception,” *ICSLP-1996*, 3(435): 1541–1544.
@@ -479,4 +479,4 @@ I am very grateful to David Chalmers, Maddy Kilbride, and Shaun Nichols for exte
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Casey O’Callaghan](http://caseyocallaghan.com/) <[*casey.ocallaghan@wustl.edu*](mailto:casey%2eocallaghan%40wustl%2eedu)>
-<!--md-padding-ignore-end-->
+

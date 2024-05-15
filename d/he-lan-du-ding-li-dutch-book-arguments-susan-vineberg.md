@@ -308,7 +308,7 @@ Pettigrew (2020)提供了另一种摒弃荷兰赌定理对反思的论证方式�
 
 在那些至少认同某些荷兰赌定理的人中，有些人认为它们建立了理性要求，但并不认同荷兰赌定理涉及某种不一致性的观念。这避免了解释荷兰赌定理脆弱性所涉及的不一致性的问题，但在明确涉及的理性类型方面面临挑战。对反思的荷兰策略论证的回应引发了对荷兰赌定理脆弱性的一系列态度。令人惊讶的是，在 Ramsey 的论文发表近一个世纪后，对于如何理解荷兰赌定理仍存在如此多的分歧和持续的研究。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams Ernest W., 1962, “On Rational Betting Systems”, *Archiv für mathematische Logik and Grundlagenforschung*, 6: 7–29.
@@ -393,4 +393,4 @@ Special thanks to Branden Fitelson, Alan Hájek, and an anonymous SEP referee fo
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Susan Vineberg <[*susan.vineberg@wayne.edu*](mailto:susan%2evineberg%40wayne%2eedu)>
-<!--md-padding-ignore-end-->
+

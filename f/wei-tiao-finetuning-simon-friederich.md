@@ -266,7 +266,7 @@ McGrath 的赌场类比的适当性也受到质疑。在 McGrath 的类比中，
 
 关于在第 2.1 节讨论的规定物理参数可能值的概率分布问题，自然性可能被视为表明所有合理的这种分布在自然值附近具有大部分的概率权重。正如所解释的，对于希格斯质量和宇宙常数，自然值要比观察到的值大得多。认为为了生命而进行微调需要回应的观点的支持者，特别强调与自然性违背相关的生命微调实例，尤其是宇宙常数（例如，Susskind 2005: ch. 2; Donoghue 2007; Collins 2009: sect. 2.3.3; Tegmark 2014: 140f.）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Fred C., 2008, “Stars in other universes: stellar structure with different fundamental constants”, *Journal of Cosmology and Astroparticle Physics*, 08: 10. doi:10.1088/1475-7516/2008/08/010
@@ -425,4 +425,4 @@ I am grateful to Luke Barnes, Friedrich Harbach, Robert Harlander and two anonym
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Simon Friederich](https://simonfriederich.eu/) <[*s.m.friederich@rug.nl*](mailto:s%2em%2efriederich%40rug%2enl)>
-<!--md-padding-ignore-end-->
+

@@ -244,7 +244,7 @@ Cohen 建议，证据标准应完全被构想为证据权重的问题，根据�
 
 科恩的理论似乎要求对假设进行的每个测试都能得出明确和客观的结论。但通常情况并非如此。在我们的例子中，我们可能并不完全相信被告是在街上找到还是没有找到物体，我们的评估将涉及判断的行使，这种判断与应用标准概率证明时所需的判断一样主观（Nance 2008: 275–6; Schum 1994: 261）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abimbola, A., 2001, “Abductive Reasoning in Law: Taxonomy and Inference to the Best Explanation”, *Cardozo Law Review*, 22: 1683–1689.
@@ -444,4 +444,4 @@ Cohen 建议，证据标准应完全被构想为证据权重的问题，根据�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Hock Lai Ho <[*lawhohl@nus.edu.sg*](mailto:lawhohl%40nus%2eedu%2esg)>
-<!--md-padding-ignore-end-->
+

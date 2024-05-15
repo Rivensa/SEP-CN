@@ -198,7 +198,7 @@ Rizvi（1999 年，224 页）展示了后来的哲学家如何将本体论的首
 
 自 1990 年代以来，对苏哈拉瓦迪的作品和伊斯哈拉哲学体系以及其接受情况的兴趣重新燃起（Ziai 1990；Walbridge 1992, 2000, 2001；Amin Razavi 2004）。然而，尽管最近的一些学术研究集中在他对阿维森纳的亚里士多德主义观点的批评上，并探讨了苏哈拉瓦迪主要阿拉伯作品中更具体的逻辑、物理、心理、认识论、本体论和形而上学问题，但我们仍需要进一步研究阿维森纳主要作品（包括《治疗》、《指南》和《讨论》）的影响，以及阿拉伯柏拉图和新柏拉图传统对他的影响形式。Eichner（2011, 140）建议任何“对苏哈拉瓦迪文本的解释都必须避免简单地假设它们被后来的解释正确地诠释，后来的解释试图呈现一个统一和连贯的解释体系以及该体系与亚里士多德主义的关系”。这一方法论原则将有助于重新审视苏哈拉瓦迪的作品，并对属于或受到各种新颖伊斯哈拉元素影响的作者的作品进行急需的研究（参见 Gheissari et al. 2018），以描绘被称为新颖“启蒙主义”传统的复杂历史和哲学发展。这无疑将为他对阿维森纳的亚里士多德主义进行独特的柏拉图式改编提供新的见解，正如 Gutas（2002）所确定的苏哈拉瓦迪的“启蒙主义阿维森纳主义”。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources: Editions, Translations, Commentaries
@@ -358,4 +358,4 @@ The author would like to thank both Professor Saeed Anvari for his invaluable su
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Roxanne Marcotte](http://www.professeurs.uqam.ca/listeunite/ficheProfesseur?mId=e814k4rI0vQ_) <[*marcotte.roxanne@uqam.ca*](mailto:marcotte%2eroxanne%40uqam%2eca)>
-<!--md-padding-ignore-end-->
+

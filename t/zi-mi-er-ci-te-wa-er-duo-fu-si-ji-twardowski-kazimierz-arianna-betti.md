@@ -209,7 +209,7 @@ A 和 B 的呈现内容的两个物质部分是单向可分离的，当且仅当
 
 特瓦尔多夫斯基对行为和产物的区分在基于行为的语义内容理论中得到了重新发现，其中特瓦尔多夫斯基的产物概念被认为是命题概念的有趣替代品（作为与心灵无关、与语言无关的断言内容、句子意义、主要真值承担者和命题态度对象）。参见 Moltmann 2014。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -316,4 +316,4 @@ Many thanks to Lieven Decock, Wim de Jong, Iris Loeb, Venanzio Raspa, Stefan Ros
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Arianna Betti](http://www.axiom.humanities.uva.nl/arianna/) <[*ariannabetti@gmail.com*](mailto:ariannabetti%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -173,7 +173,7 @@ Street 的论证也受到了 Russ Shafer-Landau（2012）等批评家的质疑�
 
 显然，道德论证的任何版本都不能构成对上帝存在的“证明”。每个版本都包含许多合理思考者拒绝接受的前提。然而，这并不意味着这些论证没有力量。可以将每个版本的论证视为试图阐明拒绝结论的“代价”。一些哲学家肯定愿意承担这个代价，并且确实有独立的理由这样做。然而，如果有人确信无神论要求他们完全拒绝道德现实主义，或者接受一个不合理的道德知识获取方式，那将是有趣且重要的。对于那些认为某些版本的论证具有力量的人来说，这些论证可能提升了对有神论信仰的累积案例。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R., 1987, “Moral Arguments for Theism,” in *The Virtue of Faith and Other Essays in Philosophical Theology*, New York: Oxford University Press, 144–163.
@@ -279,4 +279,4 @@ The authors wish to thank Trent Dougherty and Mark Linville for reading a draft 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [C. Stephen Evans](http://www.baylor.edu/philosophy/index.php?id=871791) <[*C_Stephen_Evans@baylor.edu*](mailto:C_Stephen_Evans%40baylor%2eedu)>  
 David Baggett <[*dbaggett@hbu.edu*](mailto:dbaggett%40hbu%2eedu)>
-<!--md-padding-ignore-end-->
+

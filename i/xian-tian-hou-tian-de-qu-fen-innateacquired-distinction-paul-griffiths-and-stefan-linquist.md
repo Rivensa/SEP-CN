@@ -288,7 +288,7 @@ Cowie（2009）提供了三种消除论证的有益区分。第一种论证认�
 
 对方言概念的分析引发了一系列独特的问题。先天/后天的区别在社会和伦理重要的讨论中起着作用，例如关于人类性别多样性是否“先天”的争议。实验工作（第 3.5 节）强烈暗示方言概念的先天性将一种科学上被否定的物种本质论投射到自然界上。这似乎不是讨论此类问题的可靠基础（Lewens 2020）。可以说，人们继续相信这种区别的一个原因是他们相信有科学专家能够明确地将特征分类为先天或后天。但正如我们在本文中所展示的，这样的分类实际上存在很大问题，无论是关于它们是否具有科学价值，还是关于如何进行划分，都没有达成一致意见。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ariew, André, 1996, “Innateness and Canalization,” *Philosophy of Science* (Supplement), 63(3): S19–27.
@@ -477,4 +477,4 @@ The authors and editors would like to thank Taylor & Francis for granting permis
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Paul Griffiths](http://griffithslab.org/) <[*paul.griffiths@sydney.edu.au*](mailto:paul%2egriffiths%40sydney%2eedu%2eau)>  
 Stefan Linquist <[*linquist@uoguelph.ca*](mailto:linquist%40uoguelph%2eca)>
-<!--md-padding-ignore-end-->
+

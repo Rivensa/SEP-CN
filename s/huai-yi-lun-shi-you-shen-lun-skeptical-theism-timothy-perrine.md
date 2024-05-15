@@ -355,7 +355,7 @@ Dist 可以通过各种方式进行辩护。一种常见的方式是诉诸于我
 
 其次，许多怀疑论式有神论者不仅仅是有神论者；他们是某个宗教传统的信徒。宗教传统通常提出的主张比（纯粹的）有神论要多得多，并且宗教传统通常拒绝其他替代宗教传统。一些宗教哲学家（如理查德·斯温伯恩）继续进行自然神学的项目，不仅为有神论辩护，而且为特定的宗教传统辩护（在斯温伯恩的案例中是基督教）。但是，许多人，包括一些怀疑论式有神论者，担心这样的项目受到怀疑论式有神论的考虑的破坏。如果是这样，既是怀疑论式有神论者又是有神论者的人需要探索其他解释宗教信仰合理性的途径，例如改革派认识论（参见普兰廷加和沃尔特斯特罗夫 1983 年；普兰廷加 2000 年）。至少，可以进行更多的工作，探索积极的模型，将怀疑论式有神论和特定宗教传统的合理信仰结合起来。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Marilyn McCord, 2013. “Ignorance, Instrumentality, Compensation, and the Problem of Evil,” *Sophia*, 52: 7–26.
@@ -518,4 +518,4 @@ For helpful feedback, the author thanks Michael Bergmann, Spencer Case, Paul Dra
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Timothy Perrine <[*timperrine@gmail.com*](mailto:timperrine%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

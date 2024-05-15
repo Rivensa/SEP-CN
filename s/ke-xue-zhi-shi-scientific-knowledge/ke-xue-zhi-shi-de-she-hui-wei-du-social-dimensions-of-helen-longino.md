@@ -148,7 +148,7 @@ Kitcher 的“有序科学”引起了其他哲学家、科学家和公共政策
 
 部分是对社会科学研究学者的工作的回应，部分是对 20 世纪和 21 世纪科学探究角色变化的回应，哲学家们寻求方法来容纳社会学家和文化历史学家的（可持有的）结果，或者修改在科学知识分析中使用的传统认识论概念。这些调查反过来又引发了对知识内容的结构和位置的新思考。虽然哲学科学领域内关于知识社会性模型的支持者之间的辩论将继续进行，但重要的未来一步将是个体为基础的社会认识论与其关注作为个体之间交流和分歧的证言的社会认识论之间的更充分的对话，以及将社会关系或互动部分构成经验知识的更完全的社会认识论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -321,4 +321,4 @@ contextualism-epistemic | [epistemology: evolutionary](https://plato.stanford.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Helen Longino <[*hlongino@stanford.edu*](mailto:hlongino%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

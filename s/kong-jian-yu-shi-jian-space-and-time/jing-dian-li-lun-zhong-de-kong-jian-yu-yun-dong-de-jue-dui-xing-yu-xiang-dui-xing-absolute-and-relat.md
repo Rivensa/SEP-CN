@@ -187,7 +187,7 @@ Sklar 提议将“真正的”加速度解释为一个原始量，不是以相�
 
 目前我们只是注意到，我们关注的是对力学科学做出贡献的作者，因此一个重要的哲学空白是对康德关于空间和运动的观点的讨论。有关最近的研究，请参阅弗里德曼 2013 年和斯坦 2015 年的著作。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works cited in text
@@ -290,4 +290,4 @@ Carl Hoefer’s research for this entry was supported by his employer, ICREA (Pg
 [Carl Hoefer](https://www.icrea.cat/Web/ScientificStaff/Carl-Hoefer-175) <[*carl.hoefer@ub.edu*](mailto:carl%2ehoefer%40ub%2eedu)>  
 [Nick Huggett](http://www.uic.edu/~huggett) <[*huggett@uic.edu*](mailto:huggett%40uic%2eedu)>  
 [James Read](http://users.ox.ac.uk/~orie2304/) <[*james.read@philosophy.ox.ac.uk*](mailto:james%2eread%40philosophy%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

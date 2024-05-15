@@ -254,7 +254,7 @@ Delarivière，Frans＆Kerkhove（2017），Dutilh Novaes（2018）和 Lehet（2
 
 Harman 和 Street 提出了对道德属性的解释挑战，这可以与对数学实在论的解释必要性论证的批评进行有益的比较（Harman 1977，Street 2006）。虽然 Harman 关注道德观察的解释（例如，某些行为是错误的），Street 强调更广泛的关注，即解释其他现象，如某些道德判断的普遍性（例如，谋杀是错误的）。对于两者而言，挑战在于最佳解释不涉及道德属性。也就是说，道德属性在问题的目标中是可以解释的。正如 Sinclair 和 Leibowitz 强调的那样，这个论证及其对应的回应与关于数学对象解释上的可有可无性的辩论相似（Sinclair＆Leibowitz 2016）。关于道德属性的辩论中的一个创新是 Enoch 的论证，即道德属性对实践思考来说是必要的。如果承认这种非奎因式的本体论承诺条件，那么可能可以确定数学对象的新形式的解释必要性。关于此类论证如何可能或不可能扩展到数学的一些研究，请参见 Leng（2016），Baker（2016），Enoch（2016）和 Clark-Doane（2020）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Andersen, H., 2020, “Complements, not competitors: causal and mathematical explanations”, *The British Journal for the Philosophy of Science*, 69: 485–508.
@@ -519,4 +519,4 @@ Harman 和 Street 提出了对道德属性的解释挑战，这可以与对数�
 [Paolo Mancosu](http://philosophy.berkeley.edu/mancosu/) <[*mancosu@socrates.Berkeley.EDU*](mailto:mancosu%40socrates%2eBerkeley%2eEDU)>  
 Francesca Poggiolesi <[*poggiolesi@gmail.com*](mailto:poggiolesi%40gmail%2ecom)>  
 [Christopher Pincock](https://wescholars.org/) <[*pincock.1@osu.edu*](mailto:pincock%2e1%40osu%2eedu)>
-<!--md-padding-ignore-end-->
+

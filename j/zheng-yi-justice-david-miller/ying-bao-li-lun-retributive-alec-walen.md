@@ -368,7 +368,7 @@ Jean Hampton 试图改进不公平优势理论，重点在于错误行为者（�
 
 这种对比例惩罚的限制是应报主义的核心。负面应得主张认为只能施加这么多的惩罚，而正面应得主张认为只有这么多的惩罚，但不能再多，从道义上说是对罪犯的尊重。除非一个人愿意放弃道德强加比例限制的观念，以及对道义应得的重要性，以此来证明对个体的惩罚是尊重的，这两者都很难放弃，否则就没有理由继续认真对待应报正义的概念和对其进行辩护的项目。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, Larry, 2013, “You Got What You Deserved”, *Criminal Law and Philosophy*, 7(2): 309–319. doi:10.1007/s11572-012-9159-8
@@ -534,4 +534,4 @@ The author would like to thank Mitchell Berman, Michael DaSilva, Antony Duff, Ki
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Alec Walen](http://philosophy.rutgers.edu/for-faculty/437-walen-alec) <[*awalen@rutgers.edu*](mailto:awalen%40rutgers%2eedu)>
-<!--md-padding-ignore-end-->
+

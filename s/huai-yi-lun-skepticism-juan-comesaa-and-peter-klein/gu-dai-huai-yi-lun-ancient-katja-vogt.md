@@ -324,7 +324,7 @@ PH 1，在学术讨论中占据了最重要的位置，是一部杰作。塞克�
 
 对于塞克斯特斯是否设想了某种外部世界怀疑论的问题，另一种方法是转向他对物理学的讨论。通常我们认为自己生活在一个存在物体、运动、位置、时间等的世界中。但正如塞克斯特斯所争论的，我们对这些物理学的核心概念没有令人信服的解释。这导致我们对是否存在物体、运动、位置、时间等持保留意见。塞克斯特斯对物理学的讨论可能构成对自然世界的相当广泛的怀疑。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -607,4 +607,4 @@ I am grateful to John Cooper, Jens Haas, Chloe Layman, Wolfgang Mann, Christiana
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Katja Vogt](http://www.columbia.edu/cu/philosophy/fac-bios/vogt/faculty.html) <[*kv2101@columbia.edu*](mailto:kv2101%40columbia%2eedu)>
-<!--md-padding-ignore-end-->
+

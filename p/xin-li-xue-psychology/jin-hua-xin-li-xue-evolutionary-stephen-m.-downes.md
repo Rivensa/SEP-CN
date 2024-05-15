@@ -109,7 +109,7 @@ Shackleford 和 Weekes-Shackleford（2017）的大量文章集在进化心理学
 
 最后，科学哲学家无疑会继续审查进化思想引入哲学其他领域的凭据。特别是生物学的哲学家们，仍然对哲学家们从进化心理学而不是进化生物学中借用进化思想表示怀疑。菲利普·基彻（2017 年）对沙龙·斯特里特（2006 年）对进化的呼吁表示关注。基彻担心斯特里特没有依赖于“关于人类进化的已知事实”（2017 年，187 页）来解释她感兴趣的特征是如何出现的。如上所述，马奇里（2008 年；2017 年）关于人性的法则概念受到批评，因为他从进化心理学而不是进化生物学中获得了他关于进化特征的想法。巴克尔（2015 年）还鼓励哲学家和社会科学家从进化生物学家提供的广泛理论资源中汲取，而不仅仅是从进化心理学家提供的资源。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Arp, R., 2006, “The environments of our hominid ancestors, tool-usage and scenario visualization”, *Biology and Philosophy*, 21: 95–117.
@@ -271,4 +271,4 @@ Thanks to Austin Booth, David Buller, Marc Ereshefsky, Matt Haber, Ron Mallon, S
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Stephen M. Downes](http://www.hum.utah.edu/philosophy/faculty/downes/) <[*s.downes@utah.edu*](mailto:s%2edownes%40utah%2eedu)>
-<!--md-padding-ignore-end-->
+

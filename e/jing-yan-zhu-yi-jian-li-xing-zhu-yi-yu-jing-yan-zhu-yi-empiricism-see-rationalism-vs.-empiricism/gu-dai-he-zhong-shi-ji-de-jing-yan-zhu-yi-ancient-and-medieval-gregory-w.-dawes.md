@@ -262,7 +262,7 @@
 
 这篇文章始于观察，我们不应以“惠格式”的方式接近古代思想家；也不应将他们的思想强行归入现代范畴。但这段历史表明，我们无需这样做。一旦我们理解这些思想家所言，我们就会发现我们仍在努力应对他们提出的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -468,4 +468,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Gregory W. Dawes](http://www.otago.ac.nz/philosophy/dept/staff-dawes.html) <[*gregory.dawes@otago.ac.nz*](mailto:gregory%2edawes%40otago%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

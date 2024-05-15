@@ -214,7 +214,7 @@
 
 格莱斯的工作的复杂性和创造性是众所周知的。较少人知晓的是其雄心勃勃和系统性。强调后者是这篇对格莱斯工作的简要介绍的一个目标，这项工作将意义、推理、心理学、本体论和价值编织成一个复杂而统一的整体。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -304,4 +304,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Richard E. Grandy](http://www.ruf.rice.edu/~rgrandy/) <[*rgrandy@rice.edu*](mailto:rgrandy%40rice%2eedu)>  
 [Richard Warner](https://www.kentlaw.iit.edu/faculty/richard-warner) <[*rwarner@kentlaw.iit.edu*](mailto:rwarner%40kentlaw%2eiit%2eedu)>
-<!--md-padding-ignore-end-->
+

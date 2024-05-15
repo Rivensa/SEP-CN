@@ -211,7 +211,7 @@ C.D.布罗德在剑桥大学时的导师麦克塔加特（Redpath，1997 年，5
 
 《存在的本质》的乐观结论是，无时无刻的现实由彼此深爱的人组成。爱的数量在价值上足以使任何剩余的邪恶相形见绌。麦克塔加特认为，这种爱的价值可能是无限的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Texts
@@ -290,4 +290,4 @@ I thank Ben Bradley, Daniel Nolan, David Sanford, Byron Simmons, and an anonymou
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Kris McDaniel](http://www.krismcdaniel.com/) <[*kmcdani1@nd.edu*](mailto:kmcdani1%40nd%2eedu)>
-<!--md-padding-ignore-end-->
+

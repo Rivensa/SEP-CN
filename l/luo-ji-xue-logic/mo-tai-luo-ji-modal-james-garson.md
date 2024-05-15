@@ -431,7 +431,7 @@ Stephanou (2002) 提供了一组公理和规则，准确捕捉了有效性的概
 
 值得一提的是，量化模态逻辑语义学中的最后一个复杂性。当引入诸如“双焦点发明者”之类的非刚性表达式时，就会出现这种复杂性。当一个术语在不同的可能世界中选择不同的对象时，它就是非刚性的。这样一个术语的语义值可以通过卡尔纳普（1947 年）所称的个体概念来给出，即一个函数，它为每个可能世界选择术语的指称。处理非刚性术语的一种方法是采用罗素的描述理论。然而，在将非刚性表达式视为真实术语的语言中，无论是经典逻辑还是自由逻辑的量化器规则都是不可接受的。（这个问题不能通过削弱等同替换规则来解决。）解决这个问题的方法是采用更一般的量化器处理方法，其中量化的域包含个体概念而不是对象。这种更一般的解释在术语处理和量化器处理之间提供了更好的匹配，并且得到了适用于经典逻辑或自由逻辑规则的系统（取决于选择固定域还是相对于世界的域）。它还提供了一种具有强大且非常需要的表达能力的语言（Bressan，1973 年，Belnap 和 Müller，2013a，2013b）。（另请参阅 Aloni（2005 年），他探讨了在认识论逻辑中对个体概念进行量化的利弊。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Texts on modal logic with philosophers in mind include Hughes and Cresswell (1968, 1984, 1996), Chellas (1980), Fitting and Mendelsohn (1998), Garson (2013), Girle (2009), and Humberstone (2015).
@@ -546,4 +546,4 @@ An excellent bibliography of historical sources can be found in Hughes and Cress
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Garson](http://www.hfac.uh.edu/phil/garson/Jim_Garson.htm) <[*JGarson@uh.edu*](mailto:JGarson%40uh%2eedu)>
-<!--md-padding-ignore-end-->
+

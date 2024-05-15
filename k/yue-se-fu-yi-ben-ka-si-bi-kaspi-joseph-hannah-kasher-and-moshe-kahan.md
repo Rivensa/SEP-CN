@@ -97,7 +97,7 @@
 
 尽管卡斯比才华横溢、思想独到，但他从未被视为最重要的中世纪犹太思想家或评论家之一。直到 19 世纪，他的一些作品才首次出版，其他作品至今仍未问世。对此有几种可能的解释。也许他具有争议的观点在当时社会中影响了他的接受程度。另一个解释可以通过比较卡斯比和他更著名的同时代人格尔索尼得出，后者是一位圣经解释学家和哲学家。尽管格尔索尼德的观点并不保守，但他在犹太和非犹太思想家中赢得了相当的声誉。这主要归功于他系统而深刻的哲学著作《阿多纳伊的战争》，使他完全置身于哲学领域，而他的圣经注释主要以直接解释为主，尽管其中也包含了很多哲学内容。然而，卡斯比在评论家中有着哲学家的风格，在哲学家中又是一位评论家；也许这就是他既未在评论家群体中显赫，也未在哲学家群体中崭露头角的原因。卡斯比关于逻辑和希伯来语言学的著作确实非常有创意和创新，但他似乎在出版方面缺乏好运。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Kaspi’s works
@@ -195,4 +195,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Hannah Kasher <[*kasheh@mail.biu.ac.il*](mailto:kasheh%40mail%2ebiu%2eac%2eil)>\
 Moshe Kahan <[*moshe.kahan@mail.huji.ac.il*](mailto:moshe%2ekahan%40mail%2ehuji%2eac%2eil)>
-<!--md-padding-ignore-end-->
+

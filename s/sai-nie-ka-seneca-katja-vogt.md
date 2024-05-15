@@ -174,7 +174,7 @@
 
 与其他古代哲学家一样，塞涅卡将美德讨论为“成为上帝的理想”。然而，这并不是超凡脱俗的理想，而是完善我们的理性的理想，作为在这个世界中生活的行为体（Russell 2004）。我们是上帝的一部分；完善我们的理性就是实现神性的完美理性。与早期斯多葛派一致，塞涅卡认为，有德行的人与神平等（信 92.30-31；87.19）。在某种程度上，塞涅卡提出，智者甚至可能超越神。智者可能需要克服逆境，而这是神不需要也不会达到的成就（《论命运》6.6；信 53.11-12；Aikin 2017）。塞涅卡的自然哲学和神学与他的伦理学和哲学心理学密切相关。最终，他关心的是我们如何完善我们的灵魂，并通过讨论美德、灵魂、自然和神学来追求这个问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -338,4 +338,4 @@ I’m grateful to Luke Lea and Sam McVane for valuable suggestions and recommend
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Katja Vogt](http://www.columbia.edu/cu/philosophy/fac-bios/vogt/faculty.html) <[*kv2101@columbia.edu*](mailto:kv2101%40columbia%2eedu)>
-<!--md-padding-ignore-end-->
+

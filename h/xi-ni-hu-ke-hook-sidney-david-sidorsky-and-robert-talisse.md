@@ -190,7 +190,7 @@ The range of Hook’s political writings was extended broadly in his contributio
 
 最近出现了几项关于实用主义历史和中期发展的新研究，包括谢丽尔·米萨克的里程碑式著作，这在很大程度上推翻了主导的“黯然失色的叙事”，并将实用主义重新塑造为所谓“分析”哲学中的主流趋势，如 C. I. 路易斯、纳尔逊·古德曼、W. V. O. 奎因和唐纳德·戴维森。然而，除了科内尔·韦斯特在他对美国实用主义的研究中提出的一些暗示性但仍然只是初步的讨论之外，悉尼·胡克在实用主义故事中的地位仍然很少被探索。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Bibliographical Note: A complete bibliography of the writings of Sidney Hook from his initial publication in 1922 through 1980 has been compiled by Jo-Ann Boydston and Kathleen Poulos. This bibliography is published in *Sidney Hook: Philosopher of Democracy and Humanism*, edited by Paul Kurtz. This bibliography, which has been updated through 1988 by Matthew J. Cotter, is reprinted in *Sidney Hook Reconsidered*, edited by Matthew J. Cotter.
@@ -252,4 +252,4 @@ As of the November 2018 update, Robert Talisse has taken responsibility for upda
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 David Sidorsky  
 Robert Talisse <[*robert.talisse@vanderbilt.edu*](mailto:robert%2etalisse%40vanderbilt%2eedu)>
-<!--md-padding-ignore-end-->
+

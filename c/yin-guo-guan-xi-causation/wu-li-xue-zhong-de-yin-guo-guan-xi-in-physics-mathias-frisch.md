@@ -307,7 +307,7 @@ CQ2.
 
 现在，热容量的解释将其_解释对象_嵌入到功能依赖的模式中，并使我们能够回答如果可用的相空间不同，热容量会如何变化。也就是说，这种解释确实使我们能够回答伍德沃德所称的“如果事情不同会怎样”的问题（Woodward 1979），根据伍德沃德对解释的描述，这是因果解释的一个重要特征。然而，所涉及的反事实不能用电子状态的干预或操作来解释。事实上，金属的热容量值是由电子相空间的结构特征决定的，这并不是可以在原则上进行操纵或控制的东西，这本身可能具有解释上的相关性。因此，人们可能会担心，通过将这类解释归类为因果关系，因果关系帝国主义者可能会消除不同解释功能和认识目标之间的重要区别。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albert, David Z., 2000, *Time and Chance*, Cambridge, MA: Harvard University Press.
@@ -434,4 +434,4 @@ CQ2.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Mathias Frisch](https://www.philos.uni-hannover.de/frisch.html) <[*mathias.frisch@philos.uni-hannover.de*](mailto:mathias%2efrisch%40philos%2euni-hannover%2ede)>
-<!--md-padding-ignore-end-->
+

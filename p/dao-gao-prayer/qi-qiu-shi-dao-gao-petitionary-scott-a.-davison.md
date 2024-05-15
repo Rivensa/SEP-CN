@@ -62,7 +62,7 @@
 
 有人提出，这些研究从一开始就存在缺陷（参见 Brümmer 2008 和 Davison 2017，第 5 章）。例如，很难确保某个群体没有接受过祈求式祷告，因为我们无法阻止人们为他们所认识的人祈祷。此外，通常假设上帝是一个自由的人，而不是一个在所有类似情况下自动行动的自然力量，因此我们不能假设上帝会简单地忽视那些没有接受祈求式祷告的人。这意味着即使一项研究显示出两组人之间存在某种统计学上的显著差异，我们也不能确定这仅仅是由于祈求式祷告的提供，而不是其他因素所致。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Basinger, David, 1983, “Why Petition an Omnipotent, Omniscient, Wholly Good God?” *Religious Studies*, 19: 25–42.
@@ -125,4 +125,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Scott A. Davison](https://scottdavison.webstarts.com/) <[*s.davison@moreheadstate.edu*](mailto:s%2edavison%40moreheadstate%2eedu)>
-<!--md-padding-ignore-end-->
+

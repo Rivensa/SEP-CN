@@ -224,7 +224,7 @@
 
 那些鼓舞人心、具有挑战性的话语是对我们的邀请，让我们密切研究道格拉斯的作品和遗产，实现我们的国家。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -385,4 +385,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Ronald Sundstrom](https://www.usfca.edu/faculty/ronald-sundstrom) <[*rrsundstrom@usfca.edu*](mailto:rrsundstrom%40usfca%2eedu)>
-<!--md-padding-ignore-end-->
+

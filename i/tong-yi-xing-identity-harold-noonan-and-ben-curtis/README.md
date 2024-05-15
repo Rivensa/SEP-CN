@@ -250,7 +250,7 @@ Geach 广泛使用的一个概念，也是他的对手常用的一个概念，�
 
 大多数人似乎接受了刘易斯的观点（参见，例如，Akiba 2000，Hawthorne 2003，Noonan 2007，Noonan 和 Curtis 2018），但也有一些人持不同意见（Gallois 2005，Shumener 2020，Azzano 和 Carrara 2021）。如何以及为什么我们使用同一性的概念是维特根斯坦的一个核心关注点（参见 Fogelin 1983 的概述），并且最近也引起了其他人的关注（Burgess 2018）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Akiba, K., 2000. “Identity is Simple”, *American Philosophical Quarterly*, 37(4): 389–404.
@@ -352,4 +352,4 @@ Geach 广泛使用的一个概念，也是他的对手常用的一个概念，�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Harold Noonan](http://www.nottingham.ac.uk/philosophy/staff/harold-noonan.php) <[*Harold.Noonan@nottingham.ac.uk*](mailto:Harold%2eNoonan%40nottingham%2eac%2euk)>\
 [Ben Curtis](https://www.ntu.ac.uk/staff-profiles/education/benjamin-curtis) <[*benjamin.curtis@ntu.ac.uk*](mailto:benjamin%2ecurtis%40ntu%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

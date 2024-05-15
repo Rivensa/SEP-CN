@@ -111,7 +111,7 @@ Parfit 在他的著名作品《理由与人》中提出的主要挑战是发展�
 
 然而，这个结论可能并不令人感到安慰，因为还有其他不依赖于避免令人反感的结论作为其充分条件，而是依赖于避免直观上更不可接受的非常令人反感的结论的不可能性结果：对于任何具有非常高积极福利的完全平等人口，以及任何具有任何非常负面福利的生命数量，存在一个由具有负面福利和非常低积极福利的生命组成的人口，其他条件相等时比高福利人口更好（Arrhenius 2011）。这个结论似乎比令人反感的结论更难以接受。在这里，我们比较的是一个每个人都享受非常高生活质量的人口与另一个人口，其中人们要么具有非常低积极福利，要么具有非常负面福利（任何程度的可怕痛苦）。即使我们接受了令人反感的结论，我们也不必接受非常令人反感的结论。例如，我们可能接受前者但不接受后者，因为我们对苦难比对幸福更重视。因此，为了解决人口伦理学的悖论，仅仅证明我们对令人反感的结论的直觉是错误的或认识上不可靠是不够的。我们还必须证明这对于非常令人反感的结论也是如此，这可能被许多人认为是一个相当困难的任务。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, M., 2012, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, Oxford: Oxford University Press.
@@ -268,4 +268,4 @@ Parfit 在他的著名作品《理由与人》中提出的主要挑战是发展�
   [Gustaf Arrhenius](http://www.iffs.se/forskning/forskare/gustaf-arrhenius/) <[*gustaf.arrhenius@iffs.se*](mailto:gustaf%2earrhenius%40iffs%2ese)>  
   [Jesper Ryberg](http://ryberg.wix.com/jesper)  
   [Torbjörn Tännsjö](http://people.su.se/~tanns/) <[*torbjorn.tannsjo@philosophy.su.se*](mailto:torbjorn%2etannsjo%40philosophy%2esu%2ese)>
-<!--md-padding-ignore-end-->
+

@@ -324,7 +324,7 @@ Robert Howell（2019；2023，9-15）描述了一个思想实验，它在许多�
 
 对知识论证的适当评估仍然存在争议。对其第二前提 P2（玛丽在释放之前缺乏事实知识）以及从 P1（玛丽在释放之前具有完整的物理知识）到 C1（玛丽知道所有物理事实）和从 P2 到 C2（玛丽在释放之前不知道某些事实）的推理的可接受性取决于关于（a）适当的属性概念理论及其与所表达属性的关系和（b）适当的信念内容理论的相当技术性和有争议的问题。因此，可以预测关于知识论证的讨论在不久的将来不会结束。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alter, T., 1995, “Mary’s New Perspective”, *Australasian Journal of Philosophy*, 73: 582–584
@@ -484,4 +484,4 @@ Robert Howell（2019；2023，9-15）描述了一个思想实验，它在许多�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Martine Nida-Rümelin <[*martine.nida-ruemelin@unifr.ch*](mailto:martine%2enida-ruemelin%40unifr%2ech)>  
 Donnchadh O Conaill <[*doconaill@yahoo.co.uk*](mailto:doconaill%40yahoo%2eco%2euk)>
-<!--md-padding-ignore-end-->
+

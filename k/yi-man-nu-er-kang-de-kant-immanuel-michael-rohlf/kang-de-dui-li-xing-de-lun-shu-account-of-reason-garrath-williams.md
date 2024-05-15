@@ -344,7 +344,7 @@ O'Neill (2000)将康德的论述置于三种替代方案之中。(i) 理性的�
 
 这个论述依赖于对康德文本的特定解释。它在其影响中是抽象、雄心勃勃和复杂的。但如果成功的话，它捕捉到了康德哲学的两个强大方面：超越自我和社群界限的普遍主义；尊重人类洞察力的限制的谦逊。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary sources
@@ -477,4 +477,4 @@ For comments on this entry over the years, my thanks to Carla Bagnoli, Graham Bi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Garrath Williams](https://garrathwilliams.weebly.com/) <[*g.d.williams@lancaster.ac.uk*](mailto:g%2ed%2ewilliams%40lancaster%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

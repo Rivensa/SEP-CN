@@ -646,7 +646,7 @@ PM 的最后一节研究有理数和实数。它们是由实体之间的关系�
 
 这个摘要引用了《数学原理》中约 110 个定义。第二版（1925 年）第一卷的最后八页（667-674）包含了来自三卷的 498 个定义的完整列表。伯特兰·罗素档案中的通信证实了这是由多萝西·林奇编制的。她的列表可以用来追溯《数学原理》中的其他定义表达式与本条目讨论的符号之间的关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Boolos G. , Burgess, J., and Jeffrey, R., 2007, *Computability and Logic*, 5th edition, Cambridge: Cambridge University Press.
@@ -694,4 +694,4 @@ The author would like to thank: Gregory Landini, Dick Schmitt, Franz Fritsche, R
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Bernard Linsky](https://www.ualberta.ca/arts/about/people-collection/bernard-linsky) <[*bernard.linsky@ualberta.ca*](mailto:bernard%2elinsky%40ualberta%2eca)>
-<!--md-padding-ignore-end-->
+

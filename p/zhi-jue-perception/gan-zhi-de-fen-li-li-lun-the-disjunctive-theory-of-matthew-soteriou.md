@@ -280,7 +280,7 @@ H.P.格赖斯（1961）最初提出了 CTP 的主要论证。（该理论的其�
 
 正如我们所见，有各种不同的分离问题观点，这些观点往往受到完全不同的关注点的推动，而这些分离问题观点与他们的对手之间的分歧与知觉哲学和认识论中的一系列辩论相关——关于知觉经验的形而上学和现象学、我们对知觉的概念、知觉经验的认识论角色以及自我认知的辩论。这里概述的许多分离问题观点和论证是相对较新提出的，而它们所激发的辩论似乎将继续下去。在最近的进一步发展中，知觉的分离问题理论激发了哲学行动领域中类似的分离问题方法——涉及行动的本体论和主体进行行动的理由。（有关行动的分离问题方法的讨论，请参见 Haddock 和 McPherson 2008b，Ruben 2008，Hornsby 2008 和 Dancy 2008。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allen, Keith, 2015, “Hallucination and Imagination”, *Australasian Journal of Philosophy*, 93(2): 287–302.
@@ -464,4 +464,4 @@ The author would like to thank David Chalmers for his comments on earlier drafts
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Matthew Soteriou](https://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx) <[*matthew.soteriou@kcl.ac.uk*](mailto:matthew%2esoteriou%40kcl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

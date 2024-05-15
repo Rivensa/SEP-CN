@@ -208,7 +208,7 @@
 
 布里奇曼对抗自己怀疑和悲观的良心的斗争是一场英勇的斗争。经过几十年的操作主义思考，他得出了“一个孤立的人的图景……在现象的绿洲中，他永远无法超越，因为在其边界之外，他的思想所需的操作是不可能的”（布里奇曼，1955 年，540 页）。这个图景迫使他产生了一种深深的谦卑感，正如他在科学方法上的著名声明中所表达的：“科学方法，只要它是一种方法，无非是用自己的思想尽力而为，毫无保留”（1955 年，535 页）。保持这种谦卑感将有助于我们发展布里奇曼未完成的思想，创造一种新的操作主义，充分尊重自然和人类科学实践的复杂性和丰富性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allen, Harold J., 1980. “P. W. Bridgman and B. F. Skinner on Private Experience”, *Behaviorism*, 8: 15–29.
@@ -282,4 +282,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Hasok Chang <[*hc372@cam.ac.uk*](mailto:hc372%40cam%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

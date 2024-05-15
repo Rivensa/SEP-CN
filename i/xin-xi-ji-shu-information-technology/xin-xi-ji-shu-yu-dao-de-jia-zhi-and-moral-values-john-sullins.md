@@ -229,7 +229,7 @@ Luciano Floridi 和 J.W. Sanders 认为，在计算理论中使用的信息可�
 
 尽管学者们承认我们离创造被公认为人工道德代理的信息技术还有一段时间，但有强有力的理论论证表明自动化道德推理是一个可能的发展方向，因此对于那些对信息技术的道德影响感兴趣的人来说，这是一个适当的研究领域。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adam, A., 2002, “Cyberstalking and Internet pornography: Gender and the gaze,” *Ethics and Information Technology*, 4(2): 133–142.
@@ -408,4 +408,4 @@ Luciano Floridi 和 J.W. Sanders 认为，在计算理论中使用的信息可�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [John Sullins](http://sonoma.academia.edu/JohnSullins) <[*john.sullins@sonoma.edu*](mailto:john%2esullins%40sonoma%2eedu)>
-<!--md-padding-ignore-end-->
+

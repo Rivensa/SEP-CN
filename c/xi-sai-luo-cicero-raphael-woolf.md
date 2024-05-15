@@ -214,7 +214,7 @@ Cotta 触及了宗教中权威的重要角色。如果质疑传统的权威，�
 
 这在哲学史上是个讽刺，威廉姆斯自己在讨论古代怀疑论时，顺便提到西塞罗是一个“三流”的思想家（2006 年，33 页）。如果这里勾勒出的与威廉姆斯的相似之处接近实情，读者可能会被激励去通过自己研究西塞罗的哲学作品，来判断那个评价是否完全公正。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -323,4 +323,4 @@ There is a growing literature on Cicero as a philosopher. Set out below is a sel
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Raphael Woolf](https://www.kcl.ac.uk/people/raphael-woolf) <[*raphael.g.woolf@kcl.ac.uk*](mailto:raphael%2eg%2ewoolf%40kcl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

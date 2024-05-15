@@ -1221,7 +1221,7 @@ The reader interested in more extensive coverage of all or some of the topics di
 * *Epistemic Game Theory: Reasoning and Choice* by Andrés Perea: A non-technical introduction to epistemic game theory (2012, Cambridge University Press).
 * *The Bounds of Reason: Game Theory and the Unification of the Behavioral Sciences* by Herbert Gintis: This book offers a broad overview of the social and behavioral science using the ideas of epistemic game theory (2009, Princeton University Press).
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abramsky, S. & J.A. Zvesper, 2012, “From Lawvere to Brandenburger-Keisler: interactive forms of diagonalization and self-reference”, in *Coalgebraic Methods in Computer Science* (LNCS, Vol. 7399, pp. 1–19), *CoRR*, *abs/1006.0992*.
@@ -1376,4 +1376,4 @@ The editors would like to thank Philippe van Basshuysen for reading this entry c
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Eric Pacuit](http://www.philosophy.umd.edu/people/pacuit) <[*epacuit@umd.edu*](mailto:epacuit%40umd%2eedu)>\
 [Olivier Roy](http://www.philosophie1.uni-bayreuth.de/en/team/roy/) <[*Olivier.Roy@uni-bayreuth.de*](mailto:Olivier%2eRoy%40uni-bayreuth%2ede)>
-<!--md-padding-ignore-end-->
+

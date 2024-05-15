@@ -375,7 +375,7 @@ The Justificationist View has been criticized in several ways. Some object that 
 
 分歧怀疑论是关于哪些信念是/不是理性的，以及信心的哪些变化是/不是理性的。分歧怀疑论并不是关于应该捍卫哪些观点或哪些论题应该进一步研究的观点。当与主张的知识规范或行动的知识规范结合时，分歧怀疑论将对可以主张或采取行动的主张产生进一步的后果，但这些后果仅仅是从这些观点的结合中得出的。但如果分歧怀疑论者是正确的，信念不是一种适当的态度，那么我们可以对有争议的哲学主张采取什么态度呢？替代性的命题态度需要具有不同于信念的认识规范。如果这些其他态度受到类似规范的约束，那么它们将面临类似的问题。一些候选的替代性信念态度包括接受（Beebee，2018），视为可辩护（Goldberg，2013b），推测和支持（Fleisher，2018）。相比之下，Walker（2023）认为，如果我们对哲学主张采取怀疑的态度，我们在准确性方面会更好。有关我们可以对有争议主张采取的不同关系和态度的更多信息，请参阅 Barnett（2019），Dang 和 Bright（2021），Fleisher（2018；2021），Plakias（2019）以及 Goldberg 和 Walker 即将发表的论文。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Zed, 2013, “The Fragility of Moral Disagreement,” in Diego Machuca (ed.), *Disagreement and Skepticism*, New York: Routledge, pp. 131–49.
@@ -658,4 +658,4 @@ This research has been supported by the programme Mobilitas Pluss project MOBTT4
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Bryan Frances](http://bryanfrances.weebly.com/) <[*bryan.frances@yahoo.com*](mailto:bryan%2efrances%40yahoo%2ecom)>\
 [Jonathan Matheson](https://jonathandmatheson.wordpress.com/) <[*jonathan.matheson@gmail.com*](mailto:jonathan%2ematheson%40gmail%2ecom)
-<!--md-padding-ignore-end-->
+

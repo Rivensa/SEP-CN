@@ -432,7 +432,7 @@ Katie Walker Grimes 认为，将对抗种族主义的回应主要框定为“白
 
 参与是我们通过与其他有罪的人进行社会团结而获得的遗产的一部分。罪只有在我们参与整个社会时才是“个体的”（Suchocki 1994: 157）。她使用这个解释来阐明压迫、经济体系和恐同。父权制或许可以以类似的方式理解（参见 Baard 2019 和 Ruether 1993）。Ruth Groenhout 探讨了系统性罪恶与当代医疗系统之间的关系（Grouenhout 2006）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abraham, William J., 2006, *Crossing the Threshold of Divine Revelation*, Grand Rapids, MI: William B. Eerdmans Publishing Company.
@@ -619,4 +619,4 @@ Katie Walker Grimes 认为，将对抗种族主义的回应主要框定为“白
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Kevin Timpe <[*kt24@calvin.edu*](mailto:kt24%40calvin%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -812,7 +812,7 @@ Gintis (2004), (2009a) 认为，我们一直在讨论的数据支持以下关于
 
 一系列进一步的经典和进化博弈论的应用已经被开发出来，但我们希望现在已经提供了足够的内容，以说服读者这种分析工具的巨大且不断扩展的实用性。读者如果对更多内容感兴趣，应该会发现她现在已经足够掌握基本知识，能够阅读大量文献，其中一些重点如下所列。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Annotations on General Sources
@@ -1057,4 +1057,4 @@ I would like to thank James Joyce and Edward Zalta for their comments on various
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Don Ross](http://uct.academia.edu/DonRoss) <[*don.ross@uct.ac.za*](mailto:don%2eross%40uct%2eac%2eza)>
-<!--md-padding-ignore-end-->
+

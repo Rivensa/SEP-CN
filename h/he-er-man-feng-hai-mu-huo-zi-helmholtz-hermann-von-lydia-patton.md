@@ -267,7 +267,7 @@ Hui 2011 和尤其是 2012 年是 19 世纪德国心理物理学和声学研究�
 
 赫尔曼·冯·亥姆霍兹得出结论，一旦自然科学家、感知生理学家等人进入哲学争论，“未来研究的道路基本上是由自然科学的归纳方法规定的”（同上 394 页）。赫尔曼·冯·亥姆霍兹在认识论方面的工作体现了 19 世纪中叶回归自然科学方法的趋势。有关 19 世纪科学方法变革背景的更多信息，请参阅 Patton（2019）和 Schiemann（2013）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature by Helmholtz
@@ -418,4 +418,4 @@ Collaborative work and discussion with Clinton Tolley, Scott Edgar, Gary Hatfiel
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Lydia Patton](http://www.phil.vt.edu/lpatton/lpatton.html) <[*critique@vt.edu*](mailto:critique%40vt%2eedu)>
-<!--md-padding-ignore-end-->
+

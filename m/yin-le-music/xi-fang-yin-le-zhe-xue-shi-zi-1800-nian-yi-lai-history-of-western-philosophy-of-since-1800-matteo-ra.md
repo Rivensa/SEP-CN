@@ -336,7 +336,7 @@ Meyer 声称他的理论能够调和对音乐价值和理解问题的两种表�
 
 分析哲学在音乐价值和音乐与道德、社会和政治问题的联系方面表现出相对较少的兴趣。罗杰·斯克鲁顿（1944-2020）在这方面值得一提。他的作品与分析哲学在一些广泛的主题领域有共同的兴趣，但通常难以分类。对音乐的社会文化维度和音乐价值等问题的持续讨论使他的人文主义方法与英语世界中其他哲学著作有所区别（尤其是斯克鲁顿 1997 年的著作）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abrams, Meyer H., 1971, *The Mirror and the Lamp: Romantic Theory and the Critical Tradition*, Oxford: Oxford University Press.
@@ -523,4 +523,4 @@ Thanks to Stephen Davies, Andrew Kania, James O. Young, and an anonymous reviewe
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Matteo Ravasio](https://philpeople.org/profiles/matteo-ravasio) <[*matteo@pku.edu.cn*](mailto:matteo%40pku%2eedu%2ecn)>
-<!--md-padding-ignore-end-->
+

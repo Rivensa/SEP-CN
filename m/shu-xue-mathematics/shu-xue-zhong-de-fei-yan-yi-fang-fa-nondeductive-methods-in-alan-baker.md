@@ -249,7 +249,7 @@ Borwein 和 Bailey 使用计算机计算了小于 1000 的正整数的平方根�
 
 所有这些争论中的一个背景问题是每种特定的非演绎方法在数学的证明实践中所起的基本作用的程度。这个问题在局部和整体层面上都会出现。在局部层面上，为了证明一个给定的结果，某个具体的推理可能是不可避免的非演绎的，然而这个结果也可以通过其他纯粹演绎的推理来证明。在整体层面上，我们对某些数学命题的唯一证明可能是非演绎的。我们使用非演绎方法的程度是由实践的限制还是原则的限制决定的，这仍然是一个需要进一步研究的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adleman, L., 1994, “Molecular Computation of Solutions to Combinatorial Problems”, *Science*, CCLXVI: 1021–1024.
@@ -337,4 +337,4 @@ Borwein 和 Bailey 使用计算机计算了小于 1000 的正整数的平方根�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Alan Baker <[*abaker1@swarthmore.edu*](mailto:abaker1%40swarthmore%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -467,7 +467,7 @@ If the condition of mutual tolerance is satisfied, then, according to Whitehead:
 
 Cobb 提到了第十届国际怀特海德会议（IWC）。IWC 由国际过程网络赞助。自 1981 年以来，IWC 已在全球各地举办过，第 12 届于 2019 年在巴西利亚举行，第 13 届“怀特海德与哲学史”将于 2023 年 7 月在德国慕尼黑举行。IWC 是全球怀特海德思想的重要尝试，来自各个学科和国家的重要怀特海德学者齐聚一堂，继续批判性地探索过程世界观。最后，在 2019 年，成立了 Cobb 研究所——一个过程与实践社区，其中包括每周的约翰·科布和朋友们的在线聚会，听取来自世界各地知名学者的演讲。最近，例如，杰里米·伦特就他的畅销书《意义的网络——整合科学和传统智慧，找到我们在宇宙中的位置》（2021 年）进行了演讲。Cobb & Friends Gatherings YouTube 频道中包含了这些演讲的一部分录音，其中包括伦特的演讲。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -645,4 +645,4 @@ Since 2018, Ronny Desmet has taken over responsibility for updating and maintain
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Ronald Desmet <[*ronny-desmet@skynet.be*](mailto:ronny-desmet%40skynet%2ebe)>  
 [Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html)
-<!--md-padding-ignore-end-->
+

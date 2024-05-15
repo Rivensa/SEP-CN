@@ -112,7 +112,7 @@
 
 除了德勒兹，最近更多的是弗雷德里克·沃姆斯在法国推动了柏格森的复兴。沃姆斯于 2006 年创立了柏格森之友协会。2019 年，柏格森之友协会的几位成员创立了全球柏格森研究项目，其目的在于重新发现柏格森在全球范围内的影响力。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -242,4 +242,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Leonard Lawlor](https://philosophy.la.psu.edu/people/lul19) <[*lul19@psu.edu*](mailto:lul19%40psu%2eedu)>  
 Valentine Moulard-Leonard
-<!--md-padding-ignore-end-->
+

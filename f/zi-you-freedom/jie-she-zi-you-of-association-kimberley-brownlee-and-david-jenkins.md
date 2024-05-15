@@ -199,7 +199,7 @@
 
 结社自由的价值远远超出了仅仅涉及结社自由和赋予该自由形式的权利和义务所能捕捉到的范畴。鉴于我们的社会性构成，我们是以各种原因聚在一起的生物：有些是好的，有些是良性的，还有一些是邪恶的。通过查看结社的价值和功能的更广泛领域，我们可以将结社自由置于对结社生活复杂范畴的适当评估中，并且从而获得不仅是这种自由的价值，而且还为何需要限制这种自由以追求其他价值的完整意识。其中一些替代价值也将具有结社特性（比如确保与其他人的简单联系，无论是否自由），有些则将远远超出结社价值范畴，包括安全、平等或经济效率的价值。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, Larry, 2008, “What Is Freedom of Association, and What Is Its Denial?”, *Social Philosophy and Policy*, 25(2): 1–21. doi:10.1017/S0265052508080163
@@ -309,4 +309,4 @@ For helpful feedback, we thank Sarah Fine, Christoph Hoerl, Adam Neal, David Woo
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Kimberley Brownlee](https://philosophy.ubc.ca/profile/kimberley-brownlee/) <[*kimberley.brownlee@ubc.ca*](mailto:kimberley%2ebrownlee%40ubc%2eca)>  
 [David Jenkins](https://www.otago.ac.nz/politics/staff/otago738581.html) <[*david.jenkins@otago.ac.nz*](mailto:david%2ejenkins%40otago%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

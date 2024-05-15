@@ -321,7 +321,7 @@
 
 但最复杂的自然神学在精神上是归纳的：因此，雨果·格罗蒂乌斯将他的《基督教真理》（1627）分为第一卷处理经典自然神学，然后是后续卷处理基督教的真理。约翰·洛克（1695）以广泛的历史、概率的方法论为基础，辩论“基督教的合理性”。威廉·佩利（1794）进一步发展了这种方法，最近斯温伯恩（Swinburne）通过贝叶斯式推理的结论，以 97%的概率证明了对耶稣复活的信仰是合理的（斯温伯恩，2003）。许多其他哲学家（以及许多自然科学家）也诉诸于历史和科学数据，以及经验和统计推理原则，来支持各种圣经主张的真实性，各种奇迹故事的概率等等（参见例如 Olding 1990; Polkinghorne 2009; Gauch Jr. 2011）。请注意，这是一种诉诸于神圣文本内容和特殊启示的方式，与自然神学的方法是一致的：这些文本的预言性或历史性主张是通过公共证据和被接受的归纳推理准则来评估的。然而，即使是像洛克、佩利、斯温伯恩和其他人这样乐观的自然神学家，他们也被视为混合主义者，因为他们认为有一些关于神的重要教义是不能由我们的自然认知能力来证明的。因此，即使是他们也会在某个时候愿意（用康德的著名词句）“放弃知识以便给信仰留下空间”（1787，Bxxx）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abaci, Uygar, 2014, “Kant’s Only Possible Argument and Chignell’s Real Harmony”, *Kantian Review*, 19(1): 1–25.
@@ -464,4 +464,4 @@ Our thanks to Monica Burnett, Ryan Darr, Hugh Gauch, Chad McIntosh, Alejandro Na
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Andrew Chignell](https://chignell.net/) <[*chignell@princeton.edu*](mailto:chignell%40princeton%2eedu)>\
 [Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[*dp346@cornell.edu*](mailto:dp346%40cornell%2eedu)>
-<!--md-padding-ignore-end-->
+

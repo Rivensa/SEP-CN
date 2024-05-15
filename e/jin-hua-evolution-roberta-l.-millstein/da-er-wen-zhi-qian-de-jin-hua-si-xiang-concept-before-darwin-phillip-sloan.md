@@ -256,7 +256,7 @@ Lamarck 构想的群体复杂排列和排序是他的《动物哲学》中附加
 
 在本条目总结的漫长历史情景中，试图展示生物学中的变形主义复杂性，这种复杂性在达尔文主义出现之前独立发展。这段历史揭示了几条非达尔文主义变形主义的线索，这些线索在自然历史科学中流行并在讨论中，这些线索正在汇聚到更大的生命历史解释理论上。这也使历史学家彼得·鲍勒（Bowler，2013，第 279 页）声称，没有达尔文，生命和地球科学仍然可能会发展成为一种“我们仍然可以认可的科学，尽管其组成部分似乎具有不同的含义，这要归功于以更自然的发现顺序组装而成”。正是在这种复杂的背景下，达尔文才会发展出自己的关于形态起源和多样化的理论，重点放在自然选择原则上。然而，他在许多方面借鉴了这些法国、英国甚至德国来源的现有讨论，并重新解释这些问题，以应对已经出现的对变形主义的批评框架。在条目《达尔文：从物种起源到人类的衰落》中将进一步探讨这一点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Appel, Toby A., 1987, *The Cuvier-Geoffroy Debate: French Biology in the Decades Before Darwin*, Oxford: Oxford University Press.
@@ -411,4 +411,4 @@ The author wishes to acknowledge the valuable comments of colleagues on this and
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Phillip Sloan](http://pls.nd.edu/faculty/phillip-sloan/) <[*sloan.1@nd.edu*](mailto:sloan%2e1%40nd%2eedu)>
-<!--md-padding-ignore-end-->
+

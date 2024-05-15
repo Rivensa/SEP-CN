@@ -207,7 +207,7 @@ Robert Audi (2011) 也辩护了一种非信念解释的信仰，对比了‘信�
 
 有人可能仍然会争辩说，一个在存在上至关重要的信仰，可以作为希望的基础存在于完全世俗的背景之中，也就是说，在任何可识别的意义上并不算作“宗教”。坎特韦尔·史密斯（Cantwell Smith）举例称，“希腊-罗马传统……及其在西方生活中的受精作用，可以被视为我们世界的主要精神传统之一”（1979, 139）。安妮特·贝尔（Annette Baier）建议，“在道德、科学或知识获取中，我们需要的对上帝的信仰的世俗等价物，是对人类社区及其不断发展的程序的信仰——对于许多手的认知抱负和道德希望的前景”（Baier 1980, 133）。更广泛地说，一些人认为，有意义的灵性与非宗教的无神论自然主义是一致的，并将类似于信仰的东西包括在灵性的本质中。例如，罗伯特·所罗门（Robert Solomon）认为灵性意味着“生活中的宏伟和深思熟虑的激情”，并认为“按照这些激情生活的人”选择将世界视为“仁慈的，生活有意义的”，并接受悲剧（Solomon 2002, 6 & 51）。 （有关在世俗背景中信仰的进一步讨论，请参见 Preston-Roedder 2018，Tsai 2017 和 Ichikawa 2020；有关专门期刊问题，涉及宗教和世俗背景中信仰哲学中各种问题，请参见 Rice 等人 2017；Malcolm 2023；McKaughan 和 Howard-Snyder 2023b。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert Merrihew, 1987, “The virtue of faith”, in *The Virtue of Faith and Other Essays in Philosophical Theology*, Oxford: Oxford University Press, 9–24.
@@ -356,4 +356,4 @@ The authors thank Sophie Milne and Selwyn Fraser for research assistance on this
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 John Bishop <[*jc.bishop@auckland.ac.nz*](mailto:jc%2ebishop%40auckland%2eac%2enz)>  
 [Daniel J. McKaughan](https://philpeople.org/profiles/daniel-j-mckaughan) <[*daniel.mckaughan@bc.edu*](mailto:daniel%2emckaughan%40bc%2eedu)>
-<!--md-padding-ignore-end-->
+

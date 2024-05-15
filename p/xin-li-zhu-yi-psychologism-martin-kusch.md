@@ -339,7 +339,7 @@ Meiland 通过引用重力和行星运动定律之间的关系来解释这个观
 
 在二十世纪和二十一世纪初，心理学对希望将哲学确立为科学的哲学家们产生了强大的吸引力。奎因在 1960 年代曾声称要回归心理主义。这样的呼声使得心理主义的指责一直存在。在被指责的人中，可以找到鲁道夫·卡尔纳普、迈克尔·达梅特、彼得·吉奇、纳尔逊·古德曼、托马斯·库恩、约翰·麦克道威尔、卡尔·波普尔、威尔弗里德·塞拉斯和路德维希·维特根斯坦的名字（Kusch 1995, 7）。（有关自然主义和心理主义立场的广泛讨论，请参见 Pelletier 等人的 2008 年著作。另请参见 Lehan-Streisel 2012 年的著作。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cited Works
@@ -498,4 +498,4 @@ In composing this entry, I have drawn extensively on my published writings (espe
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Martin Kusch <[*martin.kusch@univie.ac.at*](mailto:martin%2ekusch%40univie%2eac%2eat)>
-<!--md-padding-ignore-end-->
+

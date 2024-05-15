@@ -296,7 +296,7 @@ Wundt thus charts a middle course between, on the one hand, making logical evide
 
 让我们回到詹姆斯关于冯特的恶意评论 [53]：他没有生命的核心，没有中心思想，所以这个自封的拿破仑扁虫永远不可能“一次杀死”。撇开冯特一次性或分段被杀的需求，一个公正而专注的读者会尊重地拒绝这样闪烁其词的批评。因为虽然冯特有很多观点——“实在性理论”、“心身平行原理”、“意志主义”、“创造性结果”等等——但它们都有一个统一的节点，即我在这里称之为“唯一主义多元观”。如果冯特有一个重大的观念，那就是存在是一个单一的变化流动，有许多方面和许多描述方式。因此，作为这个存在的一部分，我们有许多描述和解释它的方式。很少有人像冯特一样毫不动摇地接受他们起点的后果，或者像他一样顽强地追求它们的各种结果。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Boring 1950 has an excellent annotated bibliography (344, ff.). Wundt’s entire *oeuvre* was compiled by his daughter, Eleonore Wundt (1927; cf. esp. Wong 2009: 230–3). An excellent select bibliography organized by theme has been compiled by S. Araujo for [](https://www.oxfordbibliographies.com/view/document/obo-9780199828340/obo-9780199828340-0273.xml)*Oxford Bibliographies* (subscription required). It includes volumes on Wundt’s correspondence, his estate, international library collections and archives, and his global influence.
@@ -630,4 +630,4 @@ Boring 1950 has an excellent annotated bibliography (344, ff.). Wundt’s entire
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Alan Kim <[*Alan.Kim@stonybrook.edu*](mailto:Alan%2eKim%40stonybrook%2eedu)>
-<!--md-padding-ignore-end-->
+

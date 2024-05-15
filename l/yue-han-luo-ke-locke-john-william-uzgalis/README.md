@@ -382,7 +382,7 @@ William Uzgalis 在他 2017 年的章节《约翰·洛克、奴隶制和印第�
 
 最后，关于洛克著作的影响，请参阅附加文件：[“洛克著作的影响附录”。](https://plato.stanford.edu/entries/locke/influence.html)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -559,4 +559,4 @@ The editors would like to thank Sally Ferguson for carefully proofreading the te
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [William Uzgalis](http://oregonstate.edu/cla/philosophy/uzgalis) <[*buzgalis@gmail.com*](mailto:buzgalis%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

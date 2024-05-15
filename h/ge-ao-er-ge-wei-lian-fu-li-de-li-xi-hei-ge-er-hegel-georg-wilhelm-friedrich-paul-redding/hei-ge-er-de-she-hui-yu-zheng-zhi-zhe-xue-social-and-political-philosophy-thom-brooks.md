@@ -194,7 +194,7 @@
 
 在国际领域中，相对权利和错误的唯一裁判是“世界历史作为世界裁判的法庭”（PR §340）。然后，PR 过渡到他体系的下一部分，开始讲述历史哲学，这部分假定了其前面的所有部分，尤其是 PR 本身。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -282,4 +282,4 @@ English Translations of Key Texts
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Thom Brooks](http://thombrooks.info/) <[*thom.brooks@durham.ac.uk*](mailto:thom%2ebrooks%40durham%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

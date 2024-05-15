@@ -312,7 +312,7 @@ Stern (2017)将这一论点解释如下。行动就是出于理由去做或选�
 
 诸如先验推理和唯心主义的驳斥等论证的遗产不仅包括康德的实际成功，还包括一些有影响力的哲学策略：通过从经验的普遍和必要特征中论证出源于心灵的概念的标准策略；通过仅仅从自我意识的前提中得出重要的哲学结论的想法；以及一种先验论证的概念，从我们的思想、知识或经验的一个无争议的前提出发，推理出一个实质性且不明显的预设和必要条件。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Works by Kant
@@ -452,4 +452,4 @@ Stern (2017)将这一论点解释如下。行动就是出于理由去做或选�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[*dp346@cornell.edu*](mailto:dp346%40cornell%2eedu)>
-<!--md-padding-ignore-end-->
+

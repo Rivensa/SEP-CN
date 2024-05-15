@@ -98,7 +98,7 @@
 
 自然美学的持续全球化以及当今在生态美学等各种观点中进行的富有成果的讨论，表明最有助于促进和支持对各种自然和人类环境的审美欣赏和保护的工作，并不仅仅依赖于任何一种特定的自然美学方法，而是试图将几种不同的取向和传统的资源结合起来（Nassauer 1997，Lintott 2006，Carlson 2009，Moore 2008，Cheng 等人 2013，Carlson 2018）。例如，除了中国生态美学研究外，西方学者也在认知和非认知观点上进行类似的努力（Rolston 1998 2002，Saito 2007，Toadvine 2010）。此外，许多思想家探索其他与自然美学有建设性关联的主题，例如女性主义理论（Lee 2006，Lintott 2010，Lintott 和 Irvin 2016），政治和社会问题（Berleant 2005 2012，Ross 2005，Simus 2008b，McShane 2018，Saito 2018），生物哲学（Parsons 和 Carlson 2008），动物待遇和保护（Parsons 2007，Hettinger 2010，Semczyszyn 2013，Brady 2014a，Tafalla 2017，Cross 2018），天气和气候变化（Brady 2014b，Diaconu 2015，Nomikos 2018），以及最重要的是丰富人类生活质量（Saito 2017a 2018，Jamieson 2018）。这种工作还可以将这些相关主题应用于环境政策和实践（Saito 2007，Berleant 2010b 2012，Parsons 2010，Sepänmaa 2010，Robinson 和 Elliott 2011，Cheng 等人 2013，Brady 2014b）。通过这种方式，这些贡献继续塑造自然美学的未来方向（Saito 2010 2014b，Blanc 2012，Drenthen 和 Keulartz 2014，Shapshay 和 Tenen 2018b）。 这种创新、折衷的方法，加上自然美学的全球化，希望不仅能推动各种环境目标和实践的进一步发展，还能培养对我们生活的世界的审美潜力的更深入理解和欣赏。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alvarez, A. L., (ed.), 2017, *Aesthetics between Art and Society: Perspectives of Arnold Berleant’s Postkantian Aesthetics of Engagement*, *Espes*, 6, 2.
@@ -429,4 +429,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Allen Carlson](http://allencarlson.com/)
-<!--md-padding-ignore-end-->
+

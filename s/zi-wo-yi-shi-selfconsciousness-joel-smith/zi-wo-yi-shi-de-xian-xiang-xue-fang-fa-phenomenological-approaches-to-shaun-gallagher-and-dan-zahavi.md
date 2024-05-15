@@ -132,7 +132,7 @@ Hubert Dreyfus 曾经有名地主张，在专家表现的情况下，我们并�
 
 自我意识的概念在现象学传统中得到了丰富而复杂的分析。现象学分析的一些方面也出现在其他研究领域中，包括女性主义（Stawarska 2006; Young 2005; Heinämaa 2003）、生态心理学（Gibson 1966）以及对主动感知的最新分析（Gallagher 2017b; Noë 2004; Thompson 2008）。承认存在一种原始的自我意识形式是理解更复杂的概念和语言依赖的自我意识的重要起点。现象学分析表明，这些过程不仅仅是纯粹的心理或认知事件，因为它们与具身和主体间维度密切相关。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References
@@ -311,4 +311,4 @@ Hubert Dreyfus 曾经有名地主张，在专家表现的情况下，我们并�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Shaun Gallagher](http://www.memphis.edu/philosophy/people/bios/shaun-gallagher.php) <[*s.gallagher@memphis.edu*](mailto:s%2egallagher%40memphis%2eedu)>  
 [Dan Zahavi](https://cfs.ku.dk/staff/?pure=en/persons/34520) <[*zahavi@hum.ku.dk*](mailto:zahavi%40hum%2eku%2edk)>
-<!--md-padding-ignore-end-->
+

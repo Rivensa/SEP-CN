@@ -66,7 +66,7 @@
 
 西里阿努斯对《形而上学》的评论的副本在他去世后的几代人中在亚历山大城可得，并被特拉勒斯的阿斯克勒庇乌斯使用。如果将伪亚历山大的《形而上学》评论归因于以弗所的迈克尔是正确的（见上文），那么他的作品在 12 世纪的君士坦丁堡是可得的。西里阿努斯的第一部文艺复兴时期的拉丁翻译由巴尼奥利完成，并于 1558 年在威尼斯出版。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Sources
@@ -140,4 +140,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Christian Wildberg](https://www.classics.pitt.edu/people/christian-wildberg) <[*chw168@pitt.edu*](mailto:chw168%40pitt%2eedu)>
-<!--md-padding-ignore-end-->
+

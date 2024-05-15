@@ -116,7 +116,7 @@
 
 施蒂纳不太可能对于关于《自我与自己》的性质和影响的各种争议感到后悔。在考虑一些对圣经的不同解释的解释性账目时，施蒂纳拒绝在孩子玩弄书籍的判断，印加帝国皇帝阿塔瓦尔帕（约 1502-1533 年）将其扔掉时，神父将其赞扬为上帝的话语，以及将其解剖为纯粹人类发明的批评家之间进行裁决。对于他自己作品的多样解释，施蒂纳可能同样感到有趣，并鼓励他认为对于文本的意义不应受到合法限制。施蒂纳对于他自己作品的正确解释显然很放松。他坚持说，他只是为了在世界上获得自己思想的存在而写作，并补充说，随后发生在这些思想上的事情“是你们的事情，不会困扰我”（263）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Stirner
@@ -199,4 +199,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 David Leopold <[*david.leopold@politics.ox.ac.uk*](mailto:david%2eleopold%40politics%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

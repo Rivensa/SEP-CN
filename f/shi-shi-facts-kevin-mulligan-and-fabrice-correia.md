@@ -547,7 +547,7 @@ P3 可能会被理论 T1 的支持者接受。考虑以下假设：
 
 整体的身份条件往往取决于其部分的事实。何时两个实质性事实\[R; a,b]和\[S; c,d]是相同的？一个合理的答案是：当 R=S，a=c 和 b=d。这个答案对于模态准则的一个朋友有影响。接受所提出的身份条件和模态准则，一个人不能声称存在着不同但必然相互对应的属性（这些属性是某些事实的一部分），或者事实\[人类；苏格拉底]和\[拥有一个人类成员；\[苏格拉底]]是不同的，即使在合理的假设下，它们存在于完全相同的世界中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Alan Ross and Nuel D. Belnap, 1975, *Entailment: The Logic of Relevance and Necessity*, Volume I, Princeton, NJ: Princeton University Press.
@@ -713,4 +713,4 @@ The authors are grateful for support from the Swiss FNS (research projects on �
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Kevin Mulligan <[*kevin.mulligan@unige.ch*](mailto:kevin%2emulligan%40unige%2ech)>\
 [Fabrice Correia](https://fabricecorreia.com/) <[*fabricecorreia@gmail.com*](mailto:fabricecorreia%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

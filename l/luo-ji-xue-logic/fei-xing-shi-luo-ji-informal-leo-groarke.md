@@ -570,7 +570,7 @@ Mercier 和 Sperber（2011）认为，推理是一种从社会辩论实践中演
 
 在这个背景下，可以最好地说，非形式逻辑，就像应用伦理学一样，已经成为一种标准课程，通过为哲学系提供帮助，从而促进了 Rescher 所描述的“‘应用哲学’的快速增长……是当代北美哲学的一个显著结构特征。”（第 9 页）。应用哲学的目标是哲学上有见地且细致入微的推理，以应对复杂的现实生活情境。非形式逻辑是为实现这一目标做出了宝贵贡献的一个领域。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ajdukiewicz, K., 1974. *Pragmatic Logic*, O. Wojtasiewicz (trans.), Dordrecht/Boston/Warsaw: D. Reidel Publishing Company & PWN – Polish Scientific Publishers. (English translation of *Logika pragmatyczna*, originally published 1965.)
@@ -752,4 +752,4 @@ The author would like to acknowledge and thank the members of ARGTHRY, Tony Blai
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Leo Groarke](http://www.trentu.ca/administration/profile.php) <[*leogroarke@trentu.ca*](mailto:leogroarke%40trentu%2eca)>
-<!--md-padding-ignore-end-->
+

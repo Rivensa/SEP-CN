@@ -100,7 +100,7 @@
 
 在天主教和其他基督教传统中，限制主权的理由仍然很有力。例如，教皇本笃十六世在他 2008 年向联合国发表的演讲中提出了保护责任的理由。近年来，自由主义传统中的政治哲学家也主张限制主权。两个例子是托马斯·波格（1992 年和 2008 年，174-201 页）和艾伦·布坎南（2004 年）。他们都认为主权具有重要但不是绝对的道德地位，试图为联合国批准的人道干预以及更强大的全球机构发展来对抗贫困等可能性留出空间。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bartelson, J., 1995. *A Genealogy of Sovereignty*, Cambridge: Cambridge University Press.
@@ -164,4 +164,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Daniel Philpott](http://danielphilpott.info/) <[*Philpott.1@nd.edu*](mailto:Philpott%2e1%40nd%2eedu)>
-<!--md-padding-ignore-end-->
+

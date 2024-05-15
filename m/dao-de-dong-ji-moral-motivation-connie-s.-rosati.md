@@ -159,7 +159,7 @@ Prinz 的另一个论点是基于研究，显示有时人们在道德行为上�
 
 道德动机的经验研究当然本身就具有极大的兴趣。但许多人会怀疑这种研究与内在主义者所认为的一个概念性主张的相关性，即道德判断与道德动机之间的必然联系。即使假设经验研究能够帮助解决内在主义者和外在主义者之间的僵局，现有的研究远未达到这一目的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aiken, H., 1950, “Evaluation and Obligation,” *Journal of Philosophy*, 47: 5–22.
@@ -288,4 +288,4 @@ I want to thank Sarah Buss for helpful suggestions on an early draft of the orig
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Connie S. Rosati <[*connie.rosati@austin.utexas.edu*](mailto:connie%2erosati%40austin%2eutexas%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -194,7 +194,7 @@ Sergio Sánchez（阿根廷）是 19 世纪和 20 世纪怀疑论研究的重要
 
 也许还应该提到一些关于怀疑论历史的研究。一方面，有一些文学研究。马查多·德·阿西斯（Machado de Assis）是巴西最优秀的作家之一，被许多人视为怀疑论者。其中一个原因是马查多广泛阅读并使用了蒙田的怀疑论。约瑟·雷蒙多·德·迈亚·内托（José Raimundo de Maia Neto）于 1994 年出版了一本关于这个主题的书。他的书的新颖之处在于它是基于怀疑论历史的第一次讨论马查多的怀疑论。保罗·罗伯托·马古蒂·平托（Paulo Roberto Margutti Pinto）（2007 年）和古斯塔沃·贝尔纳多·克劳泽（Gustavo Bernardo Krause）（2007a）讨论了迈亚·内托的解释，而迈亚·内托则对他们进行了回应。克劳泽是一位巴西小说家和文学教授，出版了许多关于怀疑论和文学的书籍和论文（Krause 2004），关于马查多（Krause 2006）以及其他作家，如著名的巴西诗人卡洛斯·德鲁蒙德·德·安德拉德（Carlos Drummond de Andrade）（Krause 2007b）。另一方面，保罗·罗伯托·马古蒂·平托一直在研究巴西哲学的历史，在他看来，怀疑论在波尔查特将其推向舞台中心之前就在其中发挥了重要作用。在平托（Pinto）2010 年的著作中，他论证了弗朗西斯科·桑切斯对巴西殖民思想的影响。波尔查特成功的原因之一是巴西思想似乎一直在某些地方倾向于怀疑论，马查多·德·阿西斯也不例外。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Multiply Cited Edited Collections
@@ -541,4 +541,4 @@ We are grateful to Fernando Bahr (Argentina), José Tomás Alvarado (Chile), Mau
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Plínio Junqueira Smith <[*plinio.smith@gmail.com*](mailto:plinio%2esmith%40gmail%2ecom)>  
 [Otávio Bueno](http://www.as.miami.edu/personal/obueno/Site/Otavio_Bueno.html) <[*otaviobueno@mac.com*](mailto:otaviobueno%40mac%2ecom)>
-<!--md-padding-ignore-end-->
+

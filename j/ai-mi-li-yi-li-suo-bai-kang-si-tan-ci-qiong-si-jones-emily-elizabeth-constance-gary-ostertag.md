@@ -376,7 +376,7 @@ Ostertag 和 Favia（2020 年）对琼斯的回应提出了更全面的解释。
 
 Waithe（1995）是研究这些女性以及许多次要人物的重要资源；另请参阅 van der Schaar 和 Schliesser（2017）。关于从古代到法国大革命期间女性在哲学史中的被抹消问题，Eileen O'Neill 的论文“消失的墨水”（O'Neill 1998）仍然是不可或缺的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -508,4 +508,4 @@ I would like to thank Amanda Favia, Oliver Marshall, Frank Pupa and Rosemary Two
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Gary Ostertag](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/Gary-Ostertag) <[*gostertag@gc.cuny.edu*](mailto:gostertag%40gc%2ecuny%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -240,7 +240,7 @@
 
 最后，洛克似乎与牛顿分享对上帝实质普遍存在及其含义的信念。正如上述引用段落对有限灵魂的讨论继续，他更一般地谈到了共存的可能性：“这三种我们称之为物质的实体并不会互相排斥”（同上）。他稍后关于“上帝无限全能的无限空间”（E II.xvii.20，第 222 页）的言论类似，但通过将其以第三方的观念框架来表述，洛克在那里为解释上留下了更多的空间，因此可能引发争议。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -342,4 +342,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Hylarie Kochiras](http://philpapers.org/profile/1980) <[*kochiras@gmail.com*](mailto:kochiras%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

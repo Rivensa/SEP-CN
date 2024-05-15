@@ -241,7 +241,7 @@ YZ=aX+cZ=bX
 
 干预主义观念的另一个重要延伸，也侧重于推断但同时包含概念创新的是 Eberhardt（Eberhardt 2007 年，Eberhardt 和 Scheines 2007 年）的工作。这些作者以两种方式概括了干预的概念。首先，他们考虑那些并非确定性地固定干预变量值的干预，而是仅在这些变量上施加概率分布。其次，他们探讨了所谓的“软”干预的使用。这些干预与上文考虑的完全手术式（“硬”）干预不同，不会完全破坏干预变量 X 与其原因 C 之间先前存在的关系，而是为 X 提供一个与 C 保持关系不变的外生变化源 I，其中 I 与 C 不相关。某些实验可以自然地以这种方式建模。例如，在一个实验中，受试随机获得各种额外收入（除了他们从其他来源获得的收入），这种额外收入起到软干预的作用，而不是硬干预。在某些情况下，软干预可能在实践中或原则上是可能的，而硬干预则不是。Eberhardt 2007 年和 Eberhardt 和 Scheines 2007 年探讨了在各种背景下从软和硬、不确定性和确定性干预以及非实验数据中学到的内容。毫不奇怪，从推断的角度看，每种干预和相关数据都有优势和局限性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Angrist, Joshua D. and Jörn-Steffen Pischke, 2009, “Mostly Harmless Econometrics”, Princeton: Princeton University Press.
@@ -326,4 +326,4 @@ YZ=aX+cZ=bX
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [James Woodward](https://www.hps.pitt.edu/people/james-woodward) <[*jfw@pitt.edu*](mailto:jfw%40pitt%2eedu)>
-<!--md-padding-ignore-end-->
+

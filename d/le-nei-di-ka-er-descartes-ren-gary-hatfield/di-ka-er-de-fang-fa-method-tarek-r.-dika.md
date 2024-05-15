@@ -402,7 +402,7 @@ Descartes completes the enumeration of his opinions in *Meditations* I by conclu
 
 并非每个人都认为《冥想》中采用的方法是《演讲》和《规则》中描述的方法。一些学者有很有说服力地认为，《冥想》中的“怀疑方法”构成了一种独特的方法。在《冥想》中，笛卡尔积极地决心“通过寻找怀疑的理由来怀疑所有以前的信念”（Curley 1978: 43–44；cf. Broughton 2002: 2–7）。笛卡尔并没有决心怀疑《规则》中的所有以前的观点。此外，在规则的情况下，方法要求将复杂的问题化简为一系列更简单的问题；通过直觉解决最简单的问题；通过演绎解决更复杂的问题（参见第 3 节）。在《冥想》中很难辨认出任何这样的过程（Garber 1992: 49–50 和 2001: 44–47；Newman 2019）。其他学者认为，《规则》中的笛卡尔方法在《冥想》中起着重要作用。笛卡尔的形而上学原则是通过组合简单的本质而发现的，例如在《演讲》第四篇和《冥想》第二篇中的“我思故我在”的表现中，思想和存在的组合（参见 Marion 1992 和上文 2.2 节中讨论的直觉的例子）。最近的一种解释观点更广泛地认为，笛卡尔的方法可以以不同的方式应用。不同类型的问题必须以不同的方式解决（Dika 和 Kambouchner 即将出版）。怀疑的方法不是一种独特的方法，而是将同一方法应用于不同问题的一种应用。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -533,4 +533,4 @@ The following links are to digitized photographic reproductions of early edition
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Tarek R. Dika](https://philosophy.utoronto.ca/directory/tarek-r-dika/) <[*tarek.dika@utoronto.ca*](mailto:tarek%2edika%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

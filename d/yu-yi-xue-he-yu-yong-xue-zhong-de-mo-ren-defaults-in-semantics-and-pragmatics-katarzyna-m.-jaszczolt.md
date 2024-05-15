@@ -474,7 +474,7 @@ Sanford Goldberg 问什么构成断言的言语行为，以及断言应该满足
 
 在这个背景下，我们能否安全地假设默认意义的概念将随着人类沟通最成功的方法一起发展，或者现在是否需要对其进行精确化，因为它被如此多样地使用（有时甚至被滥用）？概念工程往往是一项冒险的事业。但是，遵循常识的使用并不困难：脑海中“浮现”的意义是默认意义——只是出于某些目的，我们想要讨论在特定话语背景下浮现的意义和联想，而对于其他目的，我们只关注语言系统中浮现的意义。这种灵活性程度，进一步由于在使用该概念时存在多样化的目标——例如，在一方面让对话者对强烈传达但“未说出口”的侮辱负责，另一方面设计用于训练机器使用语言进行交流的算法——对于意义理论家来说可能并不困难。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allan, K., 2011, “Graded Salience: Probabilistic Meaning in the Lexicon”, in *Salience and Defaults in Utterance Processing*, K. M. Jaszczolt & K. Allan (eds.), Berlin: De Gruyter Mouton, 165–187.
@@ -618,4 +618,4 @@ This entry draws on some sections of my ‘Default Interpretations’, published
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Katarzyna M. Jaszczolt](http://people.pwf.cam.ac.uk/kmj21/) <[*kmj21@cam.ac.uk*](mailto:kmj21%40cam%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

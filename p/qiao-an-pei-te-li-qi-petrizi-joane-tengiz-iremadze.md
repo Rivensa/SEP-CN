@@ -62,7 +62,7 @@
 
 佩特里齐的普罗克洛斯作品的第一卷（柏拉图哲学家普罗克洛斯的《神学要素》）于 1940 年出版。该卷包含了从希腊语翻译成格鲁吉亚语的《神学要素》。编辑是 S. Kaukhchishvili；M. Gogiberidze 为该卷撰写了导言。它还包含了两卷的全面词汇表，也是由 S. Kaukhchishvili 编制的。在 20 世纪，佩特里齐的解释被翻译成了俄语。1984 年的俄语翻译由 G. Tevzadze 撰写了导言和注释，具有特殊重要性。在出版了佩特里齐作品的学术版本之后，普罗克洛斯评论的哲学和语言学问题都受到了彻底的研究（有关佩特里齐研究现状的详细说明，请参阅 Iremadze 2004a，13-27 页）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Literature
@@ -147,4 +147,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Tengiz Iremadze <[*tiremadze@hotmail.com*](mailto:tiremadze%40hotmail%2ecom)>
-<!--md-padding-ignore-end-->
+

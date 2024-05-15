@@ -333,7 +333,7 @@ Robinson 的一些论点是我们讨论中的新内容，例如时间滞后论�
 
 将区分贫乏的感知和对象感知以及认知的理论被 Firth（1949-50）所称的“感知理论”所挑战，根据该理论，即时的视觉体验是一个展现对象属性和行动可能性的三维视觉世界。这是詹姆斯、格式塔心理学家、吉布森和一些外貌理论（例如，史密斯 2002）的传统。这些理论最近越来越受欢迎。但是感觉数据理论也有所发展。许多感觉数据理论承认感知的即时对象是三维的。这将允许以适度倾斜角度看到的一分钱被描述为以倾斜的圆形出现，而不是椭圆形。最后，尽管将颜色视为字面上存在于感觉数据中的原始属性（无论这些数据被认为是表面部分、心理对象还是第三个事物）并不被广泛接受，但在形而上学上，现象上经历的颜色没有确定的归属地。解释对象及其属性的现象特征的努力正在进行中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adriaenssen, Han Thomas, 2017, *Representation and Scepticism from Aquinas to Descartes*, Cambridge: Cambridge University Press. doi:10.1017/9781316855102
@@ -455,4 +455,4 @@ I am indebted to an anonymous referee for many helpful queries and suggestions a
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Gary Hatfield](https://www.sas.upenn.edu/~hatfield/) <[*hatfield@phil.upenn.edu*](mailto:hatfield%40phil%2eupenn%2eedu)>
-<!--md-padding-ignore-end-->
+

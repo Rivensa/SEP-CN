@@ -1221,7 +1221,7 @@ we can infer: (我们可以推断：)
 
 这结束了我们对弗雷格的《概念书》和《基本法则》中发现的逻辑系统的调查。但这远非是弗雷格在逻辑上的思考的结束。尽管弗雷格最终放弃了他的逻辑主义项目，以及他的逻辑系统中导致矛盾（Basic Laws V 和 VI，以及价值范围的概念）的部分，鉴于罗素悖论，他继续多年教授逻辑课程。对弗雷格后来的观点感兴趣的读者应查阅附加的文章《悖论之后的弗雷格逻辑》。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Frege’s Writings
@@ -1302,4 +1302,4 @@ we can infer: (我们可以推断：)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Roy Cook <[*cookx432@umn.edu*](mailto:cookx432%40umn%2eedu)>
-<!--md-padding-ignore-end-->
+

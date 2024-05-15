@@ -166,7 +166,7 @@
 
 从历史的角度来看，拉弗尔热对偶然论的非转移论证的强调对后来的辩论产生了一定的影响，尤其是在英国的领域。安托万·勒格朗（1629-1699），原籍法国，生活的大部分时间在英国度过。他在 17 世纪下半叶活跃起来，是重要的笛卡尔教科书的作者，他在其中表现出对偶然论的同情，并通过采用拉弗尔热的非转移论证来支持它。可以说，约翰·托兰德（1670-1722）对偶然论取得的成功作出了反应，他在他的《致塞雷娜的信》（1704 年，第五封信；参见桑贾科莫 2013 年）中称将偶然论应用于物质领域是一个“怪诞的假设”，并予以拒绝，再次讨论了同样的论证。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### La Forge’s Works
@@ -240,4 +240,4 @@ The original version of this entry was written by the late Desmond Clarke. As of
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Andrea Sangiacomo <[*a.sangiacomo@rug.nl*](mailto:a%2esangiacomo%40rug%2enl)>  
 Desmond Clarke
-<!--md-padding-ignore-end-->
+

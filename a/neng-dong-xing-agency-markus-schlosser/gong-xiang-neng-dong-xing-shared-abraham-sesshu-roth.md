@@ -133,7 +133,7 @@ Pettit 在判断聚合的文献中借鉴了（例如 Kornhauser 和 Sager，1986
 
 对于一些人来说，认真对待一个群体拥有自己思维的想法，不仅仅是一种经验主义者对现象解释的承诺。也就是说，群体思维不仅仅是从意向立场的第三人称视角中采用的便利假设，用于解释和预测（Dennett 1987）。思维有一个观点，如果足够复杂，就是一种承诺和义务的主体。在将 Searle 和 Tuomela 的思想发展到一个新的方向时，Schmid（2014）认为这样一个群体思维需要每个成员具备一种独特的多元自我意识。他提出这样的群体确实存在，并探讨了多元自我意识与我们作为个体所展示的自我意识之间的类比和区别。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alonso, Facundo, 2009. “Shared Intention, Reliance, and Interpersonal Obligations”, *Ethics*, 119: 444–475.
@@ -267,4 +267,4 @@ I would like to thank Michael Bratman for helpful comments on a draft.
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Abraham Sesshu Roth](https://philosophy.osu.edu/people/roth.263/) <[*roth.263@osu.edu*](mailto:roth%2e263%40osu%2eedu)>
-<!--md-padding-ignore-end-->
+

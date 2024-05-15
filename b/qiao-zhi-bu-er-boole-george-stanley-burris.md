@@ -765,7 +765,7 @@ y1(1−y2)(1−y3)=0
 | X 是真或 Y 是真（排外） | x−2xy+y=1    | p.53        | x(1−y)+y(1−x)=1 | p.173 |
 | 如果 X 是真，则 Y 是真 | x(1−y)=0     | p.54        | x=vy            | p.173 |
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -851,4 +851,4 @@ y1(1−y2)(1−y3)=0
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Stanley Burris](http://www.math.uwaterloo.ca/\~snburris/)
-<!--md-padding-ignore-end-->
+

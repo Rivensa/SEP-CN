@@ -152,7 +152,7 @@
 
 最后，有趣的是，1750 年代末和 1760 年代初的康斯伯格许多哲学家和其他知识分子似乎将休谟的宗教观归因于康德成熟观点中的重要相似之处。哈曼和其他人认为休谟的怀疑论对于净化宗教的传统论证并为真正的宗教铺平道路是必要的。对于这种对休谟的看法，一个来源是《论述》第一卷的结论，哈曼将其翻译成德语（并进行了一些修改和删节以隐藏其来源），于 1771 年匿名出版，标题为《怀疑者的夜思》（Kuehn 2001: 198–201）。另一个来源是《对话录》的结尾，菲洛说：“在一个有学问的人身上，成为一个哲学怀疑论者是成为一个坚定而有信仰的基督徒的第一步，也是最重要的一步”（DR 89）。这个陈述与菲洛之前的断言和论证不一致，并且在文本的这一点上出人意料。但是，包括哈曼在内的一些人将菲洛的话解释为休谟的信仰主义。无论对休谟的解释是否正确，菲洛的话在康德那里引起了深深的共鸣。他并不是一个信仰主义者，但康德确实认为从哲学神学中净化传统的“证明”有助于我们认识到道德本身为上帝的存在提供了更好的论证——这种论证提供了有限理性存在者（如我们自己）所追求的道德确定性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -393,4 +393,4 @@ Many other works are also relevant to Kant’s moral philosophy. We cite or disc
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Eric Entrican Wilson <[*ewilson30@gsu.edu*](mailto:ewilson30%40gsu%2eedu)>  
 Lara Denis <[*ldenis@agnesscott.edu*](mailto:ldenis%40agnesscott%2eedu)>
-<!--md-padding-ignore-end-->
+

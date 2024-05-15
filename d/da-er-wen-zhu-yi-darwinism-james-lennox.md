@@ -280,7 +280,7 @@ Mayr 心中有一个想法，即兄弟可能相像，也可能不相像；两个
 
 与定义达尔文主义历史的许多其他主题不同，对于这个问题没有明确的立场可以被认定为“达尔文主义”或“新达尔文主义”。在最近一本捍卫目前提出的大多数替代方案的论文集中（Ereshefsky 1992），我怀疑在那本集合中的几乎每位作者都会自认为是达尔文主义者。这可能是因为，尽管它们有所不同，但目前被捍卫的许多立场都源于达尔文自己的理论和实践（参见 Beatty 1985；收录于 Ereshefsky 1992）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References
@@ -416,4 +416,4 @@ Though there are an abundance of web sites on Darwinism, the three most useful s
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [James Lennox](http://www.pitt.edu/\~hpsdept/people/fac\pages/lennox.html) <[*jglennox+@pitt.edu*](mailto:jglennox+%40pitt%2eedu)>
-<!--md-padding-ignore-end-->
+

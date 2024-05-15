@@ -333,7 +333,7 @@ As the analogy of philosophy with cartography suggests, Ryle investigates the wo
 
 这是一次简短的旅程——集中在语言和心灵哲学上——穿越了赖尔所绘制的丰富哲学景观的一小部分。赖尔的一些主题和兴趣被省略了，例如他对哲学传统的讨论，从柏拉图，通过现象学传统和布伦塔诺、胡塞尔的工作，再到海德格尔，通过对维特根斯坦的《逻辑哲学论》的深入阐述，再到对卡尔纳普、柯林伍德和安德森的批评。我没有评论他在塔纳讲座中提出的哲学问题的解决方法；我也没有能够包括关于道德、感受、快乐等等的讨论。这对赖尔的阅读也不是标准的：甚至他的许多学生都将他解释为行为主义者和非现实主义者。然而，我希望这足以引起人们对他的工作被广泛误解、目前被低估以及他对当今辩论有很多贡献的可能性的关注。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -434,4 +434,4 @@ This article uses material from my *Re-thinking Ryle*, in progress; “Une Cart
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Julia Tanney](https://independent.academia.edu/JuliaTanney/CurriculumVitae) <[*drjuliatanney@gmail.com*](mailto:drjuliatanney%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

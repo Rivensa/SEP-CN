@@ -381,7 +381,7 @@ Hilbert 在几何学方面的大部分工作都涉及到对证明的分析，即
 
 这篇文章将会在 1920 年到 1940 年策梅洛之后的集合论公理化方面进行进一步补充。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Most of the original sources surrounding Zermelo's work were written in German, and some in French; when translations of these works into English are available, bibliographic information for the translations follows the citation of the original text. Similarly for older, relatively inaccessible texts that have been republished in more current works.
@@ -507,4 +507,4 @@ Most of the original sources surrounding Zermelo's work were written in German, 
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 Michael Hallett <[*michael.hallett@mcgill.ca*](mailto:michael%2ehallett%40mcgill%2eca)>
-<!--md-padding-ignore-end-->
+

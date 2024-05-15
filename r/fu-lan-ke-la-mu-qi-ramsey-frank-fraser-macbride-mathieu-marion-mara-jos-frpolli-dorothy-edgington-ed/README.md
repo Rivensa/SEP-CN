@@ -523,7 +523,7 @@ where θ is quantifier free, one could effectively decide if it was satisfiable 
 
 除了对数学的贡献外，弗兰克·拉姆齐（1925a）还致力于解决怀特海德和罗素在他们的《数学原理》（1910-1913）中试图以形式逻辑为基础的数学问题，这一努力最初得到了拉姆齐的强烈支持，但最终他对纠正其缺点的努力感到失望，详见 Paul 2012（232）。此后，这种建立数学基础的方法在数学家中被更简单的假设泽尔梅洛-弗兰克尔集合论所取代。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Works by Ramsey
@@ -773,4 +773,4 @@ Dorothy Edgington <[*d.edgington@bbk.ac.uk*](mailto:d%2eedgington%40bbk%2eac%2eu
 [Edward Elliott](http://www.edwardjrelliott.com/) <[*e.j.r.elliott@leeds.ac.uk*](mailto:e%2ej%2er%2eelliott%40leeds%2eac%2euk)>\
 Sebastian Lutz <[*sebastian.lutz@gmx.net*](mailto:sebastian%2elutz%40gmx%2enet)>\
 Jeffrey Paris
-<!--md-padding-ignore-end-->
+

@@ -80,7 +80,7 @@ Desgabets 也认同笛卡尔关于心灵的观念，即心灵是一种本质为�
 
 罗伯特·戴加贝的整体工作，无疑地，他所视为笛卡尔哲学的修正或完善，他人却视为根本的背离。值得肯定的是，他从未偏离笛卡尔的物质二元论、物质-模式本体论、心灵-身体的统一与互动，以及延展是物质的本质，思维是心灵的本质。他忠于笛卡尔的物理学，反对了原子论者。此外，也许有些异端，他坚决反对了在笛卡尔哲学中经常占主导地位的理性主义认识论，并主张笛卡尔自己的原则支持知识的感性基础。根据戴加贝自己的看法，他忠于笛卡尔的原则：“我将通过给予他的哲学期待的声誉，为他奠定永恒的声誉。因为，必须知道，他的哲学一经清除了某些错误并获得了可能的广泛空间，必将被视为人类精神的杰作，以及世界上同类中最伟大的” (OPD 5, 152)。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Texts
@@ -151,4 +151,4 @@ Desgabets 也认同笛卡尔关于心灵的观念，即心灵是一种本质为�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Patricia Easton](http://www.cgu.edu/pages/3701.asp) <[*patricia.easton@cgu.edu*](mailto:patricia%2eeaston%40cgu%2eedu)>
-<!--md-padding-ignore-end-->
+

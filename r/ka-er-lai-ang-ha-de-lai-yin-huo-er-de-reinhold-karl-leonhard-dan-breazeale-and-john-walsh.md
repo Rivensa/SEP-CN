@@ -120,7 +120,7 @@
 
 1998 年，莱因霍尔德的哲学成为了一次国际学术会议的主题，这是有史以来第一次专门致力于莱因霍尔德的会议，地点在德国巴特洪堡。第二届国际莱因霍尔德会议于 2002 年在瑞士卢塞恩举行；第三届于 2004 年在意大利罗马举行；第四届于 2007 年在加拿大蒙特利尔举行；第五届于 2010 年在德国西根举行；第六届于 2017 年在德国基尔举行。（这五次会议的论文集已经出版。）这两次会议展示的学术水平和哲学洞察力非常高，为未来带来了良好的前景。事实上，可以说莱因霍尔德研究的未来比莱因霍尔德去世以来的任何时候都更加光明。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Reinhold’s Works in German and English in Chronological Order
@@ -261,4 +261,4 @@
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Dan Breazeale](https://philosophy.as.uky.edu/users/breazeal)\
 [John Walsh](http://www.johnedwardwalsh.com/) <[*john.walsh@phil.uni-halle.de*](mailto:john%2ewalsh%40phil%2euni-halle%2ede)>
-<!--md-padding-ignore-end-->
+

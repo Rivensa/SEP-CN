@@ -58,7 +58,7 @@
 
 尽管特勒肖只在几页中提到了不朽灵魂，但这并没有为形而上学或神学理论打开一条道路。在科学上，特勒肖坚持自然主义世界观。正是托马索·卡潘内拉将特勒肖的自然主义与基于怀疑论的动物创造和人类思维理论相结合（Boenke 2005，Ernst 2014，Bondì 2018）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Telesio
@@ -203,4 +203,4 @@ For a complete list of contemporary and early Telesio editions see Giliola Barbe
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Michaela Boenke <[*M.Boenke@lrz.uni-muenchen.de*](mailto:M%2eBoenke%40lrz%2euni-muenchen%2ede)>
-<!--md-padding-ignore-end-->
+

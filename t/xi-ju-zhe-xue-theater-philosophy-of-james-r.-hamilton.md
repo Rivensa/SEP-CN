@@ -210,7 +210,7 @@ Ziff 观点的吸引力在于它提供了一种完全不同的解决方案，解
 
 这些是戏剧表演所追求的基本成就；这些是一些观众能够察觉到的成功和失败。对于戏剧表演作为表演的艺术评价是确定这些成就是否实现的决定。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adedeji, Joel A., 1969, “Traditional Yoruba Theater”, *African Arts*, 3(1): 60–63. doi:10.2307/3334461
@@ -389,4 +389,4 @@ Ziff 观点的吸引力在于它提供了一种完全不同的解决方案，解
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [James R. Hamilton](https://www.k-state.edu/philos/people/faculty/hamilton.html) <[*hamilton@ksu.edu*](mailto:hamilton%40ksu%2eedu)>
-<!--md-padding-ignore-end-->
+

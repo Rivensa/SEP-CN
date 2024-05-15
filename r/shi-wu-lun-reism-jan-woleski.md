@@ -132,7 +132,7 @@ Kotarbiński 的事物论与逻辑经验主义有一些相似之处。Pansomatis
 
 另一方面，三种情况下的具体清单是不同的。对于莱布尼兹来说，只有精神单子存在；对于布伦塔诺来说，有精神灵魂和物质身体；但对于科塔宾斯基来说，世界上只有物质身体。因此，我们有一个形式本体论命题（RO）及其三种不同的形而上学具体化。使用科塔宾斯基的术语，具体主义指出了事物论的本体论特征，而泛心灵论涉及形而上学问题。如果接受这一点，事物论在（RO）的意义上成为一种名义主义。由于它与 LO 的联系，它是一种相当强的名义主义版本，可能比其他任何版本都更强。这是因为在基本本体论中定义了身份，但在标准的一阶逻辑中无法定义。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 An extensive bibliography on reism (current to 1990) is to be found in Woleński 1990. Brentano’s reism is mostly expounded in his works published in 1911, 1930, 1933 and 1954.
@@ -190,4 +190,4 @@ An extensive bibliography on reism (current to 1990) is to be found in Woleński
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Jan Woleński <[*jan.wolenski@uj.edu.pl*](mailto:jan%2ewolenski%40uj%2eedu%2epl)>
-<!--md-padding-ignore-end-->
+

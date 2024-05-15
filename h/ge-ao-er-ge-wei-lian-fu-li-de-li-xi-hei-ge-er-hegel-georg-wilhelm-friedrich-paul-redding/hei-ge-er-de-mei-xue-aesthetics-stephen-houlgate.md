@@ -298,7 +298,7 @@ First, the divine had to be understood to be freely self-determining spirit, to 
 
 黑格尔的这些主张是规范性的，而非仅仅是描述性的，并对现代时代被视为真正艺术的内容施加了一定的限制。然而，这些主张并非出于简单的保守主义。黑格尔清楚地意识到，艺术可以是装饰性的，可以促进道德和政治目标的实现，可以探索人类异化的深度，或者仅仅记录日常生活的平凡细节，并且可以以相当高超的艺术技巧来实现这些目标。然而，他关心的是，如果艺术做这些事情而没有给予我们美感，那么它就无法为我们提供审美体验中的自由。这样做会剥夺我们真正人类生活的一个核心维度。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Hegel’s Collected Works
@@ -508,4 +508,4 @@ First, the divine had to be understood to be freely self-determining spirit, to 
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Stephen Houlgate <[*Stephen.Houlgate@warwick.ac.uk*](mailto:Stephen%2eHoulgate%40warwick%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

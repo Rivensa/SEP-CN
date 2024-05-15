@@ -100,7 +100,7 @@
 
 很明显，施米特关于国际秩序前提的理论与他对良好运作的国内合法性条件的解释/原理密切相关（Vinx 2013b）。冲突的空间化要求政治社群足够强大，能够强制实施内部政治同质性。但是，如果政治社群必须生活在一个缺乏明确空间秩序的国际环境中，因为这个环境受到意识形态上敌对于冲突空间化的势力的控制，那么政治社群很可能无法强制实施内部同质性。对于施米特来说，合法的国内秩序和合法的国际秩序是同一个硬币的两面。两者都需要对政治的辩护，正如施米特所理解的那样（Axtmann 2007）。然而，施米特提出的观点，即他所理解的政治的保护是合法的国内和国际合法性的必要条件，似乎在 20 世纪的灾难性经历面前难以接受。施米特是自由宪政主义和自由世界主义弱点的敏锐观察者和分析家。但毫无疑问，他偏爱的治疗方法结果比疾病更加严重。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -244,4 +244,4 @@ For full bibliographical information on Schmitt’s works see Alain de Benoist,�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Lars Vinx](https://www.law.cam.ac.uk/people/academic/l-vinx/78311) <[*lv330@cam.ac.uk*](mailto:lv330%40cam%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

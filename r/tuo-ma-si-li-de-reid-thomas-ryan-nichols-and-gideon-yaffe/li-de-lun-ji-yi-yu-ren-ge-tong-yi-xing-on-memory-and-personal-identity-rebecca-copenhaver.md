@@ -120,7 +120,7 @@
 
 里德的观点是，我们每个人都能立即且有正当理由意识到自己的过去，因为我们每个人都记得曾经在那里。这就是关于记忆概念和个人身份概念之间逻辑关系的寓言的寓意。记忆并不使我成为我记忆中所代表的人的同一人。相反，记忆使我能够立即而直接地了解自己的过去。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Works
@@ -174,4 +174,4 @@
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Rebecca Copenhaver](https://philosophy.wustl.edu/people/becko-copenhaver) <[*becko.copenhaver@gmail.com*](mailto:becko%2ecopenhaver%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

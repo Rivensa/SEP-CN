@@ -106,7 +106,7 @@
 
 然而，在《Quodlibet VII，q. 5》中，他评论说，如果同一物种内的不同个体共享相同的特定本质，那么本质本身不能成为使它们在数量上有所不同的原则。似乎还需要其他东西，也许是数量。但是，将数量作为个体化的原则并不能解决问题，因为这将把将一个物质与同一物种中的其他物质区分开来的原则降低到事故的水平。戈弗雷指出，在创造的非物质存在（天使）的情况下，它们的实质形式也是它们个体化的方式。因此，他提出，在有形物质中，实质形式也是它们个体化的原则。然而，数量也有其作用，因为它需要将物质分割成不同的部分，从而使其能够接受和个体化相同种类的实质形式。换句话说，数量使物质具备功能，以便作为个体化的物质原则。一物体个体化的形式原因或原则是其实质形式。数量不是个体化的形式原则，但通过使物质具备接受不同实质形式的能力，它可以被描述为个体化的准物质处置原因（Wippel，1981，349-64）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Godfrey
@@ -177,4 +177,4 @@ As some of the more recent entries in this bibliography suggest by their titles,
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [John Wippel](http://philosophy.cua.edu/faculty/wippel/)
-<!--md-padding-ignore-end-->
+

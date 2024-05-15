@@ -110,7 +110,7 @@
 
 多明戈·德·索托再次强烈反对。他说，将“苏格拉底”这个名字视为一个模棱两可的词项，它指的是一系列的个体，这是对常识和最初赋予词项意义的智者们的否定。第二类的同一性足够强大，可以作为一个单称词项的基础，通过时间来明确地断言。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -178,4 +178,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [E. Jennifer Ashworth](https://uwaterloo.ca/philosophy/about/people/emeriti)
-<!--md-padding-ignore-end-->
+

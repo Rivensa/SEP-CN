@@ -364,7 +364,7 @@ Beall (2000)认为，在多值逻辑中使用的有效性解释为多元论者�
 
 同样，功能主义者再次回应挑战，通过引用他们观点的单一论方面来解决。存在一个单一的规范属性-具有实现 F 角色的属性-可以统一理解（57），（58）和（59）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Acton, Harry, 1935, “The correspondence theory of truth,” *Proceedings of the* *Aristotelian Society*, 35: 177–194.
@@ -494,4 +494,4 @@ Beall (2000)认为，在多值逻辑中使用的有效性解释为多元论者�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Nikolaj Jang Lee Linding Pedersen](http://www.nikolajpedersen.com/) <[*nikolajpedersen@gmail.com*](mailto:nikolajpedersen%40gmail%2ecom)>  
 [Cory Wright](http://www.csulb.edu/~cdwright/) <[*cdwright@csulb.edu*](mailto:cdwright%40csulb%2eedu)>
-<!--md-padding-ignore-end-->
+

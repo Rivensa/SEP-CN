@@ -136,7 +136,7 @@ R.M. Hare（1919-2002）接受了这种谬误的诊断，并提出了“普遍�
 
 总结这篇文章，对神圣命令理论的兴趣的复苏，当与我已经讨论过的自然法理论的复苏相结合时，表明将道德与宗教紧密联系在一起的尝试正在专业哲学中得到强劲的复苏。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R. M., 1999, *Finite and Infinite Goods*, Oxford: Oxford University Press.
@@ -257,4 +257,4 @@ R.M. Hare（1919-2002）接受了这种谬误的诊断，并提出了“普遍�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 John Hare
-<!--md-padding-ignore-end-->
+

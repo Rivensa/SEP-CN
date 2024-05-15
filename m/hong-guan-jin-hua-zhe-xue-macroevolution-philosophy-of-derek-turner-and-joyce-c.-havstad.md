@@ -165,7 +165,7 @@ Maynard Smith 和 Szathmáry 的一个洞察是，进化的机制——进化的
 
 最后，对宏观进化的研究挑战了实验科学与历史科学之间所谓的区别（Sober 1993; Cleland 2001）。在这个领域的研究是历史性的，通常强调深远的过去，但它也涉及理论和前瞻性建模，对模型将会或不会发现的预测，对古生物学家将会或不会发现的预测，进行瓶中实验和其他类型的实验、模拟等。对宏观进化的科学研究是一个哲学上丰富且具有挑战性的领域，有许多可挖掘的资源。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armstrong, Joseph E. and Boyce A. Drummond, 1981, “Macroevolution Conference”, *Science*, 211(4484): 774–774. doi:10.1126/science.211.4484.774
@@ -437,4 +437,4 @@ Maynard Smith 和 Szathmáry 的一个洞察是，进化的机制——进化的
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Derek Turner](http://www.derekdturner.com/) <[*derek.turner@conncoll.edu*](mailto:derek%2eturner%40conncoll%2eedu)>  
 [Joyce C. Havstad](http://www.joycehavstad.com/) <[*joyce.havstad@utah.edu*](mailto:joyce%2ehavstad%40utah%2eedu)>
-<!--md-padding-ignore-end-->
+

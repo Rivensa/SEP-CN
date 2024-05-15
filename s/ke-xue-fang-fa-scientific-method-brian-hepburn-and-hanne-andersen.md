@@ -220,7 +220,7 @@ Kuhn 认为需要转变的形象是许多逻辑实证主义者所追求的非历
 
 Haack（2003）提出了另一种类似的方法。她与 Hoyningen-Huene 类似，对所谓的旧顺从主义和新愤世嫉俗主义之间的冲突感到不满。旧顺从主义的观点是科学通过归纳积累经验证实的真理理论或通过将猜想与基本陈述进行测试来推进；而新愤世嫉俗主义的观点是科学没有认识论权威，也没有独特的理性方法，只是政治而已。Haack 坚持认为，与新愤世嫉俗主义者的观点相反，存在客观的认识论标准，科学在认识论上有一些特殊之处，尽管旧顺从主义者对此有错误的描述。相反，她提出了一种新的批判性常识主义解释，其中良好、强有力的证据和诚实、彻底和富有想象力的调查标准不仅适用于科学，而且适用于我们对所有调查者的评判。从这个意义上讲，科学在本质上与其他类型的调查没有区别，但它可能在需要广泛和详细的背景知识以及只有专家才可能掌握的技术词汇方面有所不同。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aikenhead, G.S., 1987, “High-school graduates’ beliefs about science-technology-society. III. Characteristics and limitations of scientific knowledge”, *Science Education*, 71(4): 459–487.
@@ -369,4 +369,4 @@ Haack（2003）提出了另一种类似的方法。她与 Hoyningen-Huene 类似
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Brian Hepburn <[*brian.hepburn@wichita.edu*](mailto:brian%2ehepburn%40wichita%2eedu)>  
 [Hanne Andersen](http://www.ind.ku.dk/ansatte-automatisk-liste/?pure=da/persons/52310) <[*hanne.andersen@ind.ku.dk*](mailto:hanne%2eandersen%40ind%2eku%2edk)>
-<!--md-padding-ignore-end-->
+

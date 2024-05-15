@@ -94,7 +94,7 @@
 
 应基督教红衣主教的要求，托马斯·康帕内拉写了一篇短篇关于占星术的论文，并献给了他，名为_Chiroroscopia_；在未来太阳王路易十四诞生的期待已久的时刻，他创作了一篇长篇拉丁诗_Eclogue_，在其中他回到了一直深爱的预言主题。在这些诗句中，他再次预言了一个统一和平的时代的来临：不虔诚、欺骗、谎言和争端将被废除；工作将分配给每个人，从痛苦的劳动变成游戏；羔羊将不再害怕狼；君主将为人民的利益而统治。他意识到与日食的到来有关的不祥预兆，试图避免即将到来的危险；但他于 1639 年 5 月 21 日黎明时分去世。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Campanella’s Works
@@ -219,4 +219,4 @@ The author and principal editor would like to express their indebtedness to the 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Germana Ernst\
 Jean-Paul De Lucca <[*jean-paul.delucca@um.edu.mt*](mailto:jean-paul%2edelucca%40um%2eedu%2emt)>
-<!--md-padding-ignore-end-->
+

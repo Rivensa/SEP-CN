@@ -283,7 +283,7 @@ Millikan（2000）对概念进行了广泛的论述。简而言之，她认为�
 
 评估不同目的论内容理论的重要问题仍有待解决。值得期待的是，已经进行了大量的工作，探索了这些理论的可能范围，提出了有趣的原则性反对意见，并以更好发展或更好辩护的版本回应了这些反对意见。我们还应该记住，关于内容的自然主义理论的认真研究只进行了几十年，而不是几个世纪，在哲学时间尺度上，这是相当短的时间。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abrams, M., 2005, “Teleosemantics Without Natural Selection”, *Biology & Philosophy*, 20: 97–116.
@@ -472,4 +472,4 @@ The authors would like to thank Hannah Altehenger, Marc Artiga, Karl Bergman, Da
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Peter Schulte <[*jenspeter.schulte@uzh.ch*](mailto:jenspeter%2eschulte%40uzh%2ech)>  
 [Karen Neander](http://fds.duke.edu/db/aas/Philosophy/kneander)
-<!--md-padding-ignore-end-->
+

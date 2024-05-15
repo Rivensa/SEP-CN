@@ -196,7 +196,7 @@ Schroeder (2013)对将健康定义为个体的属性或状态的整体概念提�
 
 对于建构主义者来说，一个大问题是解释为什么我们认为某些人类现象是疾病的症状，而另一些人类现象则被视为某人犯罪、丑陋或被恶魔附身等其他我们不赞赏的证据。通常情况下，我们并不认为如果某人的生活不顺利是因为他或她不健康，因此建构主义者需要向我们解释是什么使某一类判断具有明显的医学特征。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexandrova, A., 2018 “Can the Science of Well-being be Objective?” *British Journal for the Philosophy of Science*, 69: 421–445.
@@ -302,4 +302,4 @@ The editors would like to thank Patrick S. O’Donnell for bringing several typo
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Dominic Murphy <[*dominic.murphy@sydney.edu.au*](mailto:dominic%2emurphy%40sydney%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

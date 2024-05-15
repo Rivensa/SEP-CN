@@ -246,7 +246,7 @@ Luban（2005）和（2014），以及 Waldron（2005），特别关注自由民�
 
 最后一个问题。如果在拯救城市后，发现军官、警察或其他公职人员对恐怖分子实施了酷刑，应该对他（或她）采取什么措施？很明显，他（或她）应该辞职或被解雇；公共机构不能容忍那些犯下严重罪行的人存在其中。此外，涉事的公职人员必须接受审判、定罪并因犯下酷刑罪而被判刑 [21]。显然，存在（至少可以说是）减轻情节的情况，刑期应该减为一天监禁，比如。如果他们知道可能会失去工作和/或遭受轻微惩罚，公职人员是否愿意采取行动来拯救成千上万的无辜生命？在这种情况下，许多人可能愿意采取行动。另一方面，也许许多公职人员永远不会放下保住工作和避免轻微惩罚的利益，以拯救无辜的生命。如果是这样，这并不是支持合法化酷刑的理由。因为可以肯定的是，设立一个合法化的酷刑室并让这些自私和冷漠的人负责，后果可能是可怕的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allhoff, Fritz, 2003, “Terrorism and Torture,” *International Journal of Applied Philosophy*, 17 (1): 105–18.
@@ -348,4 +348,4 @@ Luban（2005）和（2014），以及 Waldron（2005），特别关注自由民�
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 Seumas Miller <[*semiller@csu.edu.au*](mailto:semiller%40csu%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

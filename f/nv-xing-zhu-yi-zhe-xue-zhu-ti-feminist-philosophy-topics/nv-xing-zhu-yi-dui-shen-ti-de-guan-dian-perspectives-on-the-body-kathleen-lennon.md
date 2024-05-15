@@ -226,7 +226,7 @@ Alcoff 引起了对特定身体特征在我们体验自己的身体和他人身�
 
 女性主义的实体论理论家对实体论做出了重要贡献，并确保，与批判种族理论家和(失)能力理论家一起，对身体的关注在形而上学、伦理学、社会和政治思想中起着核心作用。出现的理论不仅仅是有性别特征的实体论。它们提供了关于身体和自我的关系的一般性说明。女性主义文献中强调的是需要一系列哲学理论来解释具有身体的自我。自然化框架需要与现象学、后结构主义和精神分析框架相结合，正如女性主义理论家所举的例子，如果要使具有身体的主体性变得可理解。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahmed, Sara, 2000, *Strange Encounters: Embodied Others in Postcoloniality*, London and New York: Routledge.
@@ -377,4 +377,4 @@ Alcoff 引起了对特定身体特征在我们体验自己的身体和他人身�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Kathleen Lennon](http://hull.academia.edu/kathleenlennon)
-<!--md-padding-ignore-end-->
+

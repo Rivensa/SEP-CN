@@ -268,7 +268,7 @@ The solution to this problem is for individuals to submit to constraints embodie
 
 格林或许是英国唯心主义传统中最重要的人物。但他的唯心主义意义超越了那个传统。他对唯心主义形而上学、认识论和绝对唯心主义的辩护为包括伯克利、康德、费希特、黑格尔和布拉德利在内的唯心主义传统做出了有趣的贡献。他对伦理学的唯心主义方法包含了一种自我实现的完善主义理论，致力于自由和共同利益的丰富概念，旨在综合希腊幸福论和康德的理性主义中的最佳元素。尽管完善主义是一种被低估的传统，但格林为这一传统做出了持久的贡献。格林的完善主义使他发展出一种进步的自由主义观念，在 19 世纪末 20 世纪初的英国政治中具有影响力，并可与当代自由主义观念相比较。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The references are divided into primary sources, including both Green’s writings and other relevant historical texts, and secondary sources. The division between other primary historical sources and secondary sources is sometimes somewhat arbitrary. Primary sources are cited using short titles or abbreviations, as indicated, and secondary sources are cited by year of publication.
@@ -389,4 +389,4 @@ More comprehensive bibliographies of Green’s published and unpublished writing
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [David Brink](http://davidobrink.com/) <[*dbrink@ucsd.edu*](mailto:dbrink%40ucsd%2eedu)>
-<!--md-padding-ignore-end-->
+

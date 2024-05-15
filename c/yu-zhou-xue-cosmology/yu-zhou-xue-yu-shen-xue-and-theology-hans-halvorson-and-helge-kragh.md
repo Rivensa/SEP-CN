@@ -192,7 +192,7 @@ Steinhardt 和 Turok 的新循环宇宙学发展了来自弦理论的想法，�
 
 通过指出科学宇宙学与神学之间关系中的一些微妙之处，我们并不打算声称这两者是不重叠的教学权威（借用史蒂芬·杰伊·古尔德的一句话）。相反，当代宇宙学之所以引人入胜，正是因为它与传统形而上学和神学问题有如此复杂的逻辑关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 A good source for modern cosmology and its philosophical and religious contexts is Hetherington 1993. The historical interaction between cosmology and religion in the twentieth century is dealt with in Kragh 2004, and, from a different perspective, in Worthing 1996. An interesting dialogue about the (a)theistic implications of physical cosmology can be found in Craig & Smith 1995. A popular account of loop quantum cosmology is given in Bojowald 2009; more technical accounts are given in Ashtekar 2009 and Wüthrich 2006. Popular accounts of string cosmology are given in Gasperini 2008 and Veneziano 2004, 2009. For Steinhardt and Turok’s cyclic cosmology, see Steinhardt & Turok 2007. For Penrose’s conformal cyclic cosmology, see Penrose 2010.
@@ -290,4 +290,4 @@ A good source for modern cosmology and its philosophical and religious contexts 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Hans Halvorson](http://www.princeton.edu/~hhalvors) <[*hhalvors@princeton.edu*](mailto:hhalvors%40princeton%2eedu)>  
 Helge Kragh <[*helge.kragh@nbi.ku.dk*](mailto:helge%2ekragh%40nbi%2eku%2edk)>
-<!--md-padding-ignore-end-->
+

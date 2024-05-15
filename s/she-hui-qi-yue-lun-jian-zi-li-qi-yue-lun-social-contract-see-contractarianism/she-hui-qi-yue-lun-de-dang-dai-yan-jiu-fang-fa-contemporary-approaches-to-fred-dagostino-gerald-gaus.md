@@ -201,7 +201,7 @@ Rawls，以及 Gauthier 和 Buchanan，有时候也被吸引到这种解读中�
 
 霍布斯、洛克和卢梭的社会契约理论都强调，国家的正当性取决于每个人以某种方式同意它。通过依赖同意，社会契约理论似乎假设了一种自愿主义的政治正义和义务观念：什么算作“正义”或“义务”取决于人们同意的内容-无论那是什么。只有在康德（1797）的著作中，才清楚地表明同意并非社会契约观点的基础：我们有责任同意按照“原始契约”的理念行事。罗尔斯在《正义论》中对社会契约理论的复兴并未以同意为基础，尽管“原始协议”的机制仍然存在，作为解决正当化问题的一种方式。随着公共正当化问题的成为核心，问题的提出以协商或讨价还价问题的形式是一种启发式方法：真正的问题是“正当化问题”-哪些原则可以为所有合理公民或人所正当化。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackerman, Bruce, 1980. *Social Justice in the Liberal State*. New Haven, CT: Yale University Press (especially §66).
@@ -345,4 +345,4 @@ In September 2008, Gerald Gaus became a co-author of this entry for the purpose 
 [Fred D’Agostino](http://www.uq.edu.au/solutions/researcher/dagostinofb.html)\
 [Gerald Gaus](http://www.gaus.biz/)\
 [John Thrasher](https://www.johnjthrasher.com/) <[*thrasheriv@chapman.edu*](mailto:thrasheriv%40chapman%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -205,7 +205,7 @@ This suggests to me that he wants his primitive signs to be *by stipulation* una
 
 第二本书《Baldwin 2018》将 1970 年至今的数学模型论作为哲学数学实践学科的材料来源进行了阐述。这门学科研究特定数学家在其历史背景下的工作，并提出诸如：为什么这位数学家更喜欢用 X 来分类而不是用 Y 来分类？为什么这群数学研究人员选择使用某种语言或符号集来形式化他们的主题？他们是如何决定什么要形式化，什么要保留非形式化的？这门学科在一定程度上是历史性的，但它寻求对历史选择的概念上的理论依据（参见数学风格和数学解释的条目）。Baldwin 在数学模型论方面有着悠久的历史，因此他可以根据个人知识回答上述问题。这本书提供了丰富的例子，配有有用的图片和极少的技术符号。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Introductory texts
@@ -296,4 +296,4 @@ This suggests to me that he wants his primitive signs to be *by stipulation* una
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Wilfrid Hodges](http://wilfridhodges.co.uk/) <[*wilfrid.hodges@btinternet.com*](mailto:wilfrid%2ehodges%40btinternet%2ecom)>
-<!--md-padding-ignore-end-->
+

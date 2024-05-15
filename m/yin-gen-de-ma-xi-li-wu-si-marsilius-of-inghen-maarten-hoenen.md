@@ -130,7 +130,7 @@
 
 目前有九份马西利乌斯对《句子集》的评论手稿。这些手稿的前任所有者包括两个传教士图书馆（安斯巴赫和伊斯尼）以及两个艺术系图书馆（厄尔福特和莱比锡）。厄尔福特和莱比锡的教育包括对名义主义作家的阅读。很有可能，艺术家们在研究马西利乌斯在逻辑学和物理学方面的著作后对他的神学工作产生了兴趣。马西利乌斯对《句子集》的评论出现在传教士图书馆中，证明了他的作品影响超出了大学圈子。[37]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Catalogue of Works and Bibliography
@@ -199,4 +199,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Maarten Hoenen](https://philosophie.philhist.unibas.ch/de/personen/maarten-jfm-hoenen/) <[*maarten.hoenen@unibas.ch*](mailto:maarten%2ehoenen%40unibas%2ech)>
-<!--md-padding-ignore-end-->
+

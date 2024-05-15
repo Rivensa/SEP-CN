@@ -188,7 +188,7 @@ Clarke 深刻影响了十八世纪对神学和哲学交叉感兴趣的哲学家�
 
 在过去的几十年里，对克拉克（Clarke）的_先验_论证再次产生了兴趣，重新发现了牛顿（Newton）未发表的著作并对其同事进行了研究，更加重视克拉克在伦理学、形而上学等领域的历史重要性，这些都让哲学家们重新阅读克拉克的著作，对他哲学洞察力的评价也有所提高。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -315,4 +315,4 @@ Clarke 深刻影响了十八世纪对神学和哲学交叉感兴趣的哲学家�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Timothy Yenter](http://philosophy.olemiss.edu/timothy-yenter/) <[*tpyenter@olemiss.edu*](mailto:tpyenter%40olemiss%2eedu)>\
 [Ezio Vailati](http://www.siue.edu/\~evailat/)
-<!--md-padding-ignore-end-->
+

@@ -176,7 +176,7 @@ Badhwar 在这里提到了 Railton 的一个案例，在这种情况下，根据
 
 这些结论表明，如果我们要确定友谊在道德中的地位，我们必须转向更广泛的问题，这表明友谊批判在某种意义上失败了：它未能成功地绕过后果主义者、义务论者和美德理论者之间的传统辩论。然而在更大的意义上，它取得了成功：它迫使这些道德理论认真对待个人关系，因此在这个过程中完善和复杂化了它们的论述。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alfano, M., 2016, “Friendship and the Structure of Trust”, in A. Masala and J. Webber (eds.), *From Personality to Virtue*, Oxford: Oxford University Press, 186–206.
@@ -276,4 +276,4 @@ Badhwar 在这里提到了 Railton 的一个案例，在这种情况下，根据
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Bennett Helm](https://bwhelm.github.io/) <[*bennett.helm@fandm.edu*](mailto:bennett%2ehelm%40fandm%2eedu)>
-<!--md-padding-ignore-end-->
+

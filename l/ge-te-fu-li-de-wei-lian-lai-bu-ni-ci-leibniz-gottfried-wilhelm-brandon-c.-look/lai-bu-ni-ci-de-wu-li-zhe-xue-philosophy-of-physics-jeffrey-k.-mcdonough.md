@@ -250,7 +250,7 @@ MA×(VA before)2+MB×(VB before)2=MB×(VB after)2+MA×(VA after)2
 
 除了认为空间和时间是理想的关系系统之外，莱布尼茨还捍卫了一些次要的论点，这些论点有助于充实他对空间和时间的积极概念的理解。为了我们的目的，值得迅速提到其中三个最重要的。首先，尽管他认为空间和时间是理想的关系系统，莱布尼茨仍然坚持认为它们是无限的。在这样做时，他采取了一个典型的中间立场，部分地支持大多数早期现代人拒绝想象一个围绕有限宇宙的虚构空间的概念，但也部分地支持早期中世纪思想家的观点，即“由于空间本身就是一种理想的东西...所以世界之外的空间必然是虚构的 [但]...在世界内部的空虚空间也是如此；我也认为它是虚构的”（第五篇，第 33 段；G VII.396/Alexander 64）。其次，莱布尼茨坚持认为虽然存在空虚空间是可能的 - 从逻辑上讲，两个物体可以在空间距离上存在，它们之间没有任何东西 - 但实际世界是充实的是道义上确定的。因为，正如我们在批判原子论时已经注意到的那样，莱布尼茨坚持认为空虚空间的存在与上帝决定创造最好的可能世界是不一致的。第三，尽管他批评牛顿，莱布尼茨肯定空间和时间是连续的、均匀的，并且是无限可分的（尽管实际上并没有无限地分割）。他认为只有当空间和时间被认为是理想的或“虚构的”时，才有可能将这些属性归属于它们，莱布尼茨的空间和时间在这种方式上进一步区别于牛顿的绝对空间和时间，以及扩展的莱布尼茨物体。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Selected Primary Texts
@@ -445,4 +445,4 @@ MA×(VA before)2+MB×(VB before)2=MB×(VB after)2+MA×(VA after)2
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Jeffrey K. McDonough](https://philosophy.fas.harvard.edu/people/jeffrey-mcdonough) <[*jkmcdonough@gmail.com*](mailto:jkmcdonough%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

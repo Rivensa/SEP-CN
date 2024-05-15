@@ -181,7 +181,7 @@ Powers 和 Faden 认为，全球社会最困难的成员的幸福是正义实践
 
 传统上，销售人员并没有以这种方式看待他们的善行义务，但或许父权善行义务将是一个值得称赞的实践变革。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, Matthew D., 2012, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, New York: Oxford University Press.
@@ -268,4 +268,4 @@ Powers 和 Faden 认为，全球社会最困难的成员的幸福是正义实践
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Tom Beauchamp](http://explore.georgetown.edu/people/beauchat/?PageTemplateID=189) <[*beauchat@georgetown.edu*](mailto:beauchat%40georgetown%2eedu)>
-<!--md-padding-ignore-end-->
+

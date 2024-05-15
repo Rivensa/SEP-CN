@@ -147,7 +147,7 @@ P 属于每个 M。M 属于每个 S。P 属于每个 S。
 
 正如教会所强调的（例如，1956 年：59），对图式的元数学处理需要使用形式化或逻辑完美的语言，并且需要在塔斯基 1933 年的真理定义论文中首次发现的字符串的公理化理论（1933/1983：152-256）。有关这个重要但有些被忽视领域的历史、哲学和数学的更多信息，请参阅 Corcoran 等人的 1974 年论文；Corcoran 2006 年的论文。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Church, A., 1956, *Introduction to Mathematical Logic*, Princeton: Princeton University Press.
@@ -189,4 +189,4 @@ P 属于每个 M。M 属于每个 S。P 属于每个 S。
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 John Corcoran  
 Idris Samawi Hamid <[*idris.hamid@colostate.edu*](mailto:idris%2ehamid%40colostate%2eedu)>
-<!--md-padding-ignore-end-->
+

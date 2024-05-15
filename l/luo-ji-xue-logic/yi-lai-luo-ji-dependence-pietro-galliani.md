@@ -394,7 +394,7 @@ X⊨=(p1…pn,q) 当且仅当在 X 中任意两个赋值 v1,v2∈X，在 p1…pn
 
 在（Hyttinen, Paolini, & Väänänen 2015）中，引入了一种命题团队逻辑的变体，称为量子团队逻辑。在这种形式主义中，团队被量子团队取代，与命题团队逻辑的普通团队不同之处在于，它们允许某些变量的值在某些估值中是不确定的，并且允许同一估值的多个实例（从而为团队语义添加了定量方面）。然后，为允许关于事件概率的不等式的语言定义了量子团队上的语义，并为其开发了一个完备的证明系统；最后，证明了贝尔不等式在这个系统中存在反例，正如量子力学的预测和实验证据所示（Einstein, Podolsky, & Rosen 1935; Bell 1964; Aspect, Grangier, & Roger 1981），而在这个框架的经典版本中则不然。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abramsky, Samson and Jouko Väänänen, 2009, “From IF to BI: A Tale of Dependence and Separation”, *Synthese*, 167(2): 207–230. doi:10.1007/s11229-008-9415-6
@@ -467,4 +467,4 @@ X⊨=(p1…pn,q) 当且仅当在 X 中任意两个赋值 v1,v2∈X，在 p1…pn
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Pietro Galliani <[*pgallian@gmail.com*](mailto:pgallian%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

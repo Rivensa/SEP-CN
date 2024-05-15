@@ -160,7 +160,7 @@ Joseph Carens 通过引用公共和私人领域之间的标准区分来回答这
 
 布雷克的解释有很多可取之处，但至少有一个主要缺点：它似乎无法解释一个种族或文化同质的政治社区基于种族或文化排斥潜在移民的不可容忍之处。例如，如果澳大利亚没有亚洲公民，那么就不会有内部人员受到排斥亚洲移民政策的伤害，因此布雷克的论点将无法为我们提供批评的依据。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abizadeh, A., 2008, “Democratic Theory and Border Coercion: No Right to Unilaterally Control Your Own Borders,” *Political Theory*, 36: 37–65.
@@ -234,4 +234,4 @@ Joseph Carens 通过引用公共和私人领域之间的标准区分来回答这
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Christopher Heath Wellman](http://philosophy.artsci.wustl.edu/people/kit-wellman) <[*kwellman@wustl.edu*](mailto:kwellman%40wustl%2eedu)>
-<!--md-padding-ignore-end-->
+

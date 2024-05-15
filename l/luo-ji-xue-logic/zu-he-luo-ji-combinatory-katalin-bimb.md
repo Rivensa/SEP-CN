@@ -615,7 +615,7 @@ BW(B(B(C(BB(C(TK)I))))(B(BW)(B(B(B(C+)))(CB(T(KI)))))).
 
 阿隆佐·邱奇依靠哥德尔的不完备性定理证明了经典一阶逻辑的不可判定性。达纳·斯科特证明了如果 A 是一个在等式下封闭的非空真子集，则 A 不是递归的。对于 CL 来说，由于存在一个 CL 的哥德尔句子，类似的主张是判断两个 CL 术语是否相等是不可判定的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Due to obvious limitations of size, only some representative publications are listed here. More comprehensive bibliographies may be found in Curry, Hindley and Seldin (1972), Hindley (1997), Anderson, Belnap and Dunn (1992), Terese (2003) as well as Hindley and Seldin (2008).
@@ -699,4 +699,4 @@ I am grateful to the referees of the first edition—both to the “internal ref
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Katalin Bimbó](http://www.ualberta.ca/~bimbo/) <[*bimbo@ualberta.ca*](mailto:bimbo%40ualberta%2eca)>
-<!--md-padding-ignore-end-->
+

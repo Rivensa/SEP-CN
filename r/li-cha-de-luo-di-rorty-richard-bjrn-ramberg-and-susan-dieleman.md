@@ -158,7 +158,7 @@
 
 在罗蒂去世后的这些年里，专门致力于他思想的专著和选集的出版表明，对罗蒂的贡献的兴趣在英语哲学界日益增长。这些批评评价的语气通常与上世纪 80 年代对于这位代表性认识论杀手的尖锐回应有所不同。对罗蒂批判的看法显然变得温和了；近期的评论家们似乎不再关注认识论的事业，而更感兴趣于与罗蒂的批判达成共识，并从历史的角度来理解它。此外，罗蒂的作品越来越被视为对政治思想的贡献，注意力从元认识论转向罗蒂对自由主义的愿景和辩护、他独特的社会进步观念以及他对改革朝着更大社会公正的前景的评估。虽然他对代表性主义的攻击使罗蒂成为了一个形而上哲学虚无主义者，但现在正在形成的遗产更倾向于突出罗蒂对哲学思维与追求人类幸福之间联系的根本和持久关注，从而为罗蒂的声音在源自西方哲学的创始冲动的对话中找到了一席之地。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Rorty
@@ -332,4 +332,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Bjørn Ramberg](http://www.hf.uio.no/csmn/english/people/core-group/bjoerntr/) <[*b.t.ramberg@ifikk.uio.no*](mailto:b%2et%2eramberg%40ifikk%2euio%2eno)>\
 Susan Dieleman <[*sdielem@siue.edu*](mailto:sdielem%40siue%2eedu)>
-<!--md-padding-ignore-end-->
+

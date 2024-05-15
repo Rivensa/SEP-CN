@@ -98,7 +98,7 @@
 
 奥卡姆认为，最具体的自然种类（infima species）的因果力可以通过观察单个实例来了解。因此，一个草药的治疗能力，或者热量在其相邻物体中产生热量的能力，可以通过推理从单个实例中得出结论。这里起作用的原则是：在给定的最具体的自然种类中，每个行动都会产生相同种类的效果。因此，他似乎提到了自然的一致性原则。他非常清楚，一个简单物质的真实定义，由于它不表示物质外的任何东西，不能告诉我们它的效果是什么。在这里，我们找到了早期现代经验主义的根源。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -220,4 +220,4 @@
 
 [Copyright © 2005](https://plato.stanford.edu/info.html#c) by  
 [John Longeway](https://longeway.wordpress.com/)
-<!--md-padding-ignore-end-->
+

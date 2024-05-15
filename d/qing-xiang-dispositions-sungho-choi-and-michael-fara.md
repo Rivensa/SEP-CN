@@ -234,7 +234,7 @@ Prior 等人指出，他们的论点假定一种倾向不能成为其表现的�
 
 我们调查了两个关于倾向性因果无效性的显著论点。请注意，要取得成功，这些论点必须伴随着对因果效应的解释，并且关于因果效应的大量文献证明了遵守这一要求的困难。McKitrick (2005)调查了几种现有的因果效应解释，或者用她的话来说，因果相关性，并认为其中最有说服力的解释并没有清晰地说明我们为何认为倾向性与其表现无因果关联。 根据上述要求将文本翻译成简体中文。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armstrong, D.M., 1968, *A Materialist Theory of the Mind*, London: Routledge.
@@ -443,4 +443,4 @@ As of January 2012, Sungho Choi has taken over responsibility for maintaining an
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Sungho Choi](http://choise80.khu.ac.kr/) <[*plxsc506@gmail.com*](mailto:plxsc506%40gmail%2ecom)>  
 Michael Fara
-<!--md-padding-ignore-end-->
+

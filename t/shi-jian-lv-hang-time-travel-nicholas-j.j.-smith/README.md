@@ -181,7 +181,7 @@ Sider (2005)回应说，将现在论与刘易斯的时间旅行概念相调和�
 
 我们已经看到了关于时间旅行不可能、不太可能和无法解释的论据。这里有一个论据，得出的结论是逆向时间旅行根本不会发生。如果逆向时间旅行曾经发生过，我们早就应该见到时间旅行者了，但我们没有见到过这样的人。这个论证是一个弱论证。首先，也许可以想象到时间旅行者已经访问过地球，但即使他们没有，这仍然与逆向时间旅行的未来实际相容。首先，时间旅行可能非常昂贵、困难或危险，或者由于其他原因非常罕见，而在它可用的时候，我们现在的历史时期在有趣目的地列表上的位置不够高。其次，可能会有这样的情况，物理学文献中的现有提议就具有这个特点，即逆向时间旅行通过创建一个完全位于未来的封闭时间曲线（CTC）来实现：在这种情况下，逆向时间旅行在创建 CTC 之后成为可能，但是在 CTC 创建的时间之前的时间旅行是不可能的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert Merrihew, 1997, “Thisness and time travel”, *Philosophia*, 25: 407–15.
@@ -300,4 +300,4 @@ Sider (2005)回应说，将现在论与刘易斯的时间旅行概念相调和�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Nicholas J.J. Smith](http://phi.njjsmith.com/) <[*nicholas.smith@sydney.edu.au*](mailto:nicholas%2esmith%40sydney%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

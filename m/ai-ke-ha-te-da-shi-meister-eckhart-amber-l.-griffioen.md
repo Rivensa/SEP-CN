@@ -250,7 +250,7 @@ Nowhere in the bull or its accompanying documents, however, was Meister Eckhart 
 
 的确，正如本文中多次展示的那样，埃克哈特大师的“言语哲学”试图借助一种知识论的形而上学将这两个方面结合起来，将神圣的思想和言语——永恒的理念和 ewig wort——置于其（沉默而静止的）核心位置。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -444,4 +444,4 @@ TP
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Amber L. Griffioen <[*amber.griffs@gmail.com*](mailto:amber%2egriffs%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

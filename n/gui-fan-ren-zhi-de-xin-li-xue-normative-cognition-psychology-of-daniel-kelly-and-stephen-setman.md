@@ -164,7 +164,7 @@ Sripada 和 Stich 提供了一个初始的图示表示：
 
 规范心理学的细节越来越相关的最后一组辩论是关于道德进步的性质和解释的辩论。最近的进步主要是指道德圈的扩大、包容性规范的传播以及无效规范的削弱（辛格，1981 年；布坎南和鲍威尔，2018 年；参见索尔，2019 年）。人们关注的重点主要是理解通过对规范进行推理而发生的规范分布的变化（坎贝尔和库马尔，2012 年），但道德进步的重要步骤也可能是由于近视但不完全盲目的文化演化过程的结果（参见克林，2016 年；布朗斯坦和凯利，2019 年）。对内化规范与合理化、批判性推理和明确论证之间关系的更详细的实证理解（萨默斯，2017 年；梅西尔和斯珀伯，2017 年），以及对影响规范和其传播动态的其他心理和社会因素的更清晰认识，将有助于进一步阐明这些重要的哲学辩论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Andrews, Kristin, 2017, “Pluralistic Folk Psychology in Humans and Other Ape”, *The Routledge Handbook of Philosophy of the Social Mind* , Julian Kiverstein (ed.), New York: Routledge Press, 117–138.
@@ -446,4 +446,4 @@ Sripada 和 Stich 提供了一个初始的图示表示：
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Daniel Kelly <[*drkelly@purdue.edu*](mailto:drkelly%40purdue%2eedu)>  
 Stephen Setman <[*ssetman@purdue.edu*](mailto:ssetman%40purdue%2eedu)>
-<!--md-padding-ignore-end-->
+

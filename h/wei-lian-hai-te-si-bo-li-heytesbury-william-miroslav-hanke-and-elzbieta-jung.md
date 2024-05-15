@@ -303,7 +303,7 @@
 
 作为一名逻辑学家，威廉·海特斯伯里在 14 和 15 世纪的英国逻辑学中产生了强烈影响，在意大利也有着显著的 15 和 16 世纪初的影响，他的评论多次在那里印刷出版（Ashworth＆Spade 1992; de Rijk 1975, 1977）。尽管他对这种体裁持轻蔑态度，但海特斯伯里的论著是最有影响力的晚中世纪文本之一。这些影响包括英国逻辑传统（参见 Pironet 2008）、意大利逻辑传统，约翰·梅尔的圈子，该论著甚至在 1688 年仍被提及（De Benedictis 1688: 580–590; 其他影响请参见 Spade 1989: 273）。海特斯伯里对悖论的解决方案目录，其中立场（正确与否）被归因于 14 世纪的英国逻辑学家，进一步发展，并有时针对海特斯伯里的严厉和讽刺性的抨击进行辩护。 （R2.2）通过扩展证明并补充说，悖论句（或者说所有句子）表明它们自己的真理。此外，海特斯伯里在\[RSS]的第二章对认识逻辑的贡献似乎在即将到来的几个世纪中引发了进一步的讨论，正如 14 和 15 世纪英国和意大利的关于海特斯伯里制定的诡辩的论著所记录的那样，海特斯伯里的立场是其中之一，有时还明确归因于海特斯伯里（Boh 1993 和 Hanke 2018a 和 2018b）。作为一名哲学家，海特斯伯里对后来的牛津计算者产生了重大影响：约翰·邓布尔顿，匿名《六大不便论》的作者，理查德·斯温斯黑德，著名论著《计算书》的作者，以及大陆 14 和 15 世纪的哲学家，例如。, 约翰·卡萨利, 约翰·荷兰, 曼图亚的彼得, 蒂耶纳的卡耶坦, 玛利亚尼的乔瓦尼, 和威尼斯的保罗（参见威尔逊 1956 年: 25–28, 罗梅沃 2017 年: 154–160, 郑, 波德科夫斯基 2020 年: 130–31, 148–149, 151）。中等定理在 14 和 15 世纪广泛讨论，并后来在自由落体定律的制定中发挥了重要作用（参见达默罗等人 1992 年: 161–200, 尤其是 232–236）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### List of Abbreviations
@@ -520,4 +520,4 @@ Bradwardine, Thomas | [Burley \[Burleigh\], Walter](https://plato.stanford.edu/e
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Miroslav Hanke <[*hanke@flu.cas.cz*](mailto:hanke%40flu%2ecas%2ecz)>\
 [Elzbieta Jung](http://filozof.uni.lodz.pl/staff/prof-dr-hab-elzbieta-jung/) <[*elzbieta.jung@uni.lodz.pl*](mailto:elzbieta%2ejung%40uni%2elodz%2epl)>
-<!--md-padding-ignore-end-->
+

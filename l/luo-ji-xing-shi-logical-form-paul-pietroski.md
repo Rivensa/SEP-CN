@@ -638,7 +638,7 @@ _Was_i\* {\[the \[boy \[who \[ ( \_ )*i* happy]]]] sang}
 
 在这一点上，许多问题与进一步讨论逻辑形式相关。最明显的是，有关特定例子的问题。对于几乎任何自然语言的句子，我们都可以提出有趣的问题（尚未解决）关于它的逻辑形式。还有关于语义与逻辑关系的非常抽象的问题。我们应该像戴维森和蒙塔古等人那样，将自然语言的意义理论描述为真理理论（可能满足某些可学习性条件）吗？一个能够正确将句子与真值条件（相对于语境）关联的算法是否必要和/或足够成为一个合适的意义理论？对于像“这个句子是假的”这样引发悖论的句子，我们应该怎么说？如果我们允许存在二阶逻辑形式，鉴于罗素悖论，我们应该如何理解二阶量化？关于一个句子的“语义结构”的说法，是关于说话者（或他们的社群或他们的语言）的基本描述性说法，还是在某种重要意义上，关于我们如何使用语言的规范性说法？关于语言习得的事实与逻辑形式的假设有关吗？当然，这个学科的历史表明，对于核心问题的答案并不明显：什么是逻辑结构，什么是语法结构，它们之间的关系是什么？或者换句话说，命题和句子展示了什么样的结构，思考者/说话者如何将它们联系起来？
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cited Works
@@ -769,4 +769,4 @@ The author would like to thank: Christopher Menzel for spotting an error in an e
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Paul Pietroski](https://philosophy.rutgers.edu/people/regular-faculty/regular-faculty-profile/182-regular-faculty-full-time/917-pietroski-paul) <[*paul.pietroski@rutgers.edu*](mailto:paul%2epietroski%40rutgers%2eedu)>
-<!--md-padding-ignore-end-->
+

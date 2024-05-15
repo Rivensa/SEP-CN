@@ -210,7 +210,7 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 
 > [普罗克洛斯的完整著作（现存、失传和伪作）](https://plato.stanford.edu/entries/proclus/supplement2.html)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Proclus’ Main Extant Works (editions and translations)
@@ -554,4 +554,4 @@ The authors would like to thank Radek Chlup (Prague), John Cooper (Princeton), A
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Christoph Helmig <[*helmigc@uni-koeln.de*](mailto:helmigc%40uni-koeln%2ede)>  
 [Carlos Steel](https://hiw.kuleuven.be/dwmc/people/00013953) <[*carlos.steel@kuleuven.be*](mailto:carlos%2esteel%40kuleuven%2ebe)>
-<!--md-padding-ignore-end-->
+

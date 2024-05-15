@@ -161,7 +161,7 @@
 
 相反地，格式塔的概念也在布伦塔诺学派及其后代之外产生了巨大影响（参见 Albertazzi 等人 2001 年的 Zimmer，141 页及以下）。特别是，在各种背景下，格式塔转换的概念和对高阶现象的整体诠释，作为（其他方面的）科学理论不可比较性的隐喻和启发，已经为托马斯·库恩和维也纳学派的逻辑实证主义，特别是鲁道夫·卡尔纳普的整体主义，以及进而影响了 W·V·O·奎因的思想提供了支持。虽然逐渐脱离了最初的表述，但这一切的历史起点是厄棱费尔斯关于格式塔特质的文章。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -269,4 +269,4 @@ The editors would like to thank Maria Reicher-Marek for providing useful comment
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Robin Rollinger](http://ophen.org/pers-100182) <[*robinrollinger@yahoo.com*](mailto:robinrollinger%40yahoo%2ecom)>  
 [Carlo Ierna](http://ierna.name/) <[*carlo.ierna@phil.uu.nl*](mailto:carlo%2eierna%40phil%2euu%2enl)>
-<!--md-padding-ignore-end-->
+

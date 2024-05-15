@@ -272,7 +272,7 @@ Cabello（2002）使用非常类似的推理方法，表明 MKC 模型的预测�
 
 因此，总结起来，只要我们假设存在连续多个量子力学可观测量（对应于物理空间中的连续方向），建立在 Clifton 1993 或 Cabello/Garcìa-Alcaine 1998 提议基础上的统计测试仍然完全有效，作为量子力学和通过 KS 定理的上下文性的经验确认。由于这些统计违反了 HV 计划，导致了量子力学、VD、VR 和 NC 结果的矛盾，以及量子力学和实验结果的矛盾，实验数据仍然迫使我们面临放弃 VD、VR 或 NC 的三难选择。正如我们所见，最终否认价值实在论实际上等同于一种上下文主义，因此我们实际上只有两个选择：（1）放弃 VD，要么对于在正统解释中被禁止具有值的所有可观测量（从而放弃 HV 计划，如上所定义），要么对于这些可观测量的一个子集（如模态解释所做的）。 （2）支持一种上下文主义。此外，就目前的情况而言，这两个选择之间的选择似乎不是经验测试的问题，而是纯粹的哲学论证问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Appleby, D.M., 2005, “The Kochen-Specker Theorem”, *Studies in History and Philosophy of Modern Physics*, 36: 1–28.
@@ -353,4 +353,4 @@ Cabello（2002）使用非常类似的推理方法，表明 MKC 模型的预测�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Carsten Held <[*carsten.held@mailbox.org*](mailto:carsten%2eheld%40mailbox%2eorg)>
-<!--md-padding-ignore-end-->
+

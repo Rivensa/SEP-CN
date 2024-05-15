@@ -348,7 +348,7 @@ Millian 观点可以称为直接指称（Kaplan 1977），因为特指名词的�
 
 有人可能认为，从语义前提中推导出形而上学结论只是一种手法，隐藏的本质主义前提被偷偷地引入了论证中。如果假设“H2O”是一个刚性指示符，就可能被指责暗中假设形而上学本质主义。然而，也可以选择另一种观点，即语义学和形而上学更密切相关（Bird 2020）。例如，可以认为语义学本身就包含了某些形而上学的假设，这种情况下，形而上学将从语义学中推导出来，但是出于相当微不足道的原因。需要注意的是，彻底的弗雷格描述主义也具有形而上学的后果，因为它排除了本质主义。根据正确语义学暗示本质主义形而上学的观点，语义主张“水”是一个刚性指示符本身就带有形而上学的负荷。但这并不是说普特南、克里普克和其他哲学家在偷偷引入形而上学的假设。相反，这是说使用该术语的熟练用户暗中做出了这些假设。普特南的双子地球思想实验使这些假设变得明确。需要注意的是，正如上面的讨论所示，虽然这些思想实验通常以正式模式表达——我们询问 XYZ 是否属于术语“水”的范畴（地球）——但本质主义的结论可以通过以实质模式提出同样的问题来直接得出：我们询问 XYZ 是否是水。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armstrong, D. M., 1978. *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
@@ -535,4 +535,4 @@ Millian 观点可以称为直接指称（Kaplan 1977），因为特指名词的�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Alexander Bird](http://www.alexanderbird.org/) <[*ajb368@cam.ac.uk*](mailto:ajb368%40cam%2eac%2euk)>  
 [Emma Tobin](http://www.ucl.ac.uk/sts/staff/tobin) <[*e.tobin@ucl.ac.uk*](mailto:e%2etobin%40ucl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

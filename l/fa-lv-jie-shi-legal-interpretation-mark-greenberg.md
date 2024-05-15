@@ -354,7 +354,7 @@
 
 虽然关注法律理论对法律解释领域的进展至关重要，但法律解释理论与法律理论之间存在空间。法律解释理论可能考虑到除准确确定法律内容之外的其他价值观。而且，法律解释者通过遵循相对简单的经验法则来更准确地确定法律内容，可能比直接确定法律内容更为有效。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aleinikoff, T. Alexander, 1988, “Updating Statutory Interpretation,” *Michigan Law Review*, 87 (1): 20–66.
@@ -563,4 +563,4 @@ I thank Mitch Berman, David Dolinko, Erik Encarnacion, Russell Korobkin, Jennife
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Mark Greenberg <[*greenberg@law.ucla.edu*](mailto:greenberg%40law%2eucla%2eedu)>
-<!--md-padding-ignore-end-->
+

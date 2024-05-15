@@ -239,7 +239,7 @@ Diodorus 的模态概念依赖于命题在不同时间点的真值，这意味�
 
 麦拉加学派中的收割者论点确实主张宿命论，但迪奥多罗斯本人是否是作者呢？西尔认为迪奥多罗斯是（Seel 1993, 137–38）。这种归属的一个困难在于收割者论点中的偶然性概念与我们从其他来源了解到的迪奥多罗斯的模态有所不同。对于迪奥多罗斯来说，一个偶然命题是在某个未来时刻为真，在某个未来时刻为假的命题，因此每个偶然都将实现。但是收割者似乎考虑了永不实现的偶然。收割者的前提（I）和（II）都承认你会做某事的未实现可能性。在前提（I）的情况下，如果你将收割，那么也许你会收割，也许你不会收割的情况就不成立：你无论如何都会收割。因此，你不会收割的可能性永远不会实现。同样，前提（II）考虑了收割永远不会实现的可能性。因此，收割者论点似乎运用了一种非迪奥多罗斯的偶然性概念。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Greek or Latin Texts
@@ -339,4 +339,4 @@ Diodorus 的模态概念依赖于命题在不同时间点的真值，这意味�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Susanne Bobzien](https://www.asc.ox.ac.uk/person/2155) <[*susanne.bobzien@gmail.com*](mailto:susanne%2ebobzien%40gmail%2ecom)>  
 Matthew Duncombe <[*matthew.duncombe@nottingham.ac.uk*](mailto:matthew%2eduncombe%40nottingham%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

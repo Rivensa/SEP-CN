@@ -202,7 +202,7 @@ Maher 还反对属性本身，比如“蓝色”，可能与样本中的比例�
 
 威廉姆斯对归纳的辩护因此有资源来回应对它的批评。它仍然是最客观和雄心勃勃的归纳的辩护。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary literature
@@ -294,4 +294,4 @@ The [Donald Williams papers](http://id.lib.harvard.edu/alma/990006048420203941/
 Keith Campbell <[*ccbooks@bigpond.com*](mailto:ccbooks%40bigpond%2ecom)>  
 James Franklin <[*j.franklin@unsw.edu.au*](mailto:j%2efranklin%40unsw%2eedu%2eau)>  
 Douglas Ehring <[*dehring@smu.edu*](mailto:dehring%40smu%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -138,7 +138,7 @@
 
 然而，摩西·门德尔松迅速补充道，神论者和一个精细的泛神论者之间的区别绝非如此简单。诚然，斯宾诺莎将智力和意志看作是一体的。然而，至少在莱辛理解他的方式中，斯宾诺莎也区分了对真理的了解和对善的了解，并将对善的知识与“意志”等同起来，因为通过它，一个思想确实比另一个思想具有特权。如此精细的泛神论确保了宗教和道德，与神论一样，假设如此，摩西·门德尔松不禁问道：“现在，我朋友（莱辛）所捍卫的体系与我们的有何不同？”（《晨间时光》，第 89 页/《文集》，3/2，第 123 页）。从这个角度来看，神论和精细的泛神论之间的区别最终取决于一种没有实际后果的推理细微差别，即对神圣之光隐喻的不同解释。因此，摩西·门德尔松得出结论，像形而上学和认识论中的许多争议一样，精细的泛神论者和传统的神论者之间的争议纯粹是言辞上的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -253,4 +253,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Daniel Dahlstrom](http://www.bu.edu/philo/people/faculty/full-time/daniel-o-dahlstrom/) <[*dahlstro@bu.edu*](mailto:dahlstro%40bu%2eedu)>
-<!--md-padding-ignore-end-->
+

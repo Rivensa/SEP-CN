@@ -214,7 +214,7 @@
 
 最近，斯宾诺莎的政治哲学在 1968 年后的法国左翼政治思想中占据了重要地位（有关调查，请参见范邦格 2012 年）。然而，在美国，很少有政治哲学家认真研究斯宾诺莎的作品，尽管学术兴趣有所增长。然而，有理由希望，随着斯宾诺莎继续从霍布斯的阴影中走出来，这里的政治哲学家们可能开始欣赏他的政治著作中所包含的丰富、一致和富有资源性的论证。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -338,4 +338,4 @@ I wish to thank Michael Rosenthal, Steven B. Smith, and an anonymous reviewer fo
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Justin Steinberg <[*jsteinberg@brooklyn.cuny.edu*](mailto:jsteinberg%40brooklyn%2ecuny%2eedu)>
-<!--md-padding-ignore-end-->
+

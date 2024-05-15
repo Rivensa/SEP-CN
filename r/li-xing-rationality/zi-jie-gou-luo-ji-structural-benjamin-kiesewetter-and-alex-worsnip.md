@@ -261,7 +261,7 @@ R(IΦ)
 
 因此，尽管关于结构性理性的文献现在已经很多，但仍然存在着深刻的挑战，适用于已经被确定的所有观点。如何裁决这些挑战的相对严重程度将影响一个人是否选择包括规范性结构要求、非规范性结构要求或根本没有结构要求的理性理论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, Jonathan, 2002, *Belief’s Own Ethics*, Cambridge, Mass: MIT Press.
@@ -445,4 +445,4 @@ We gratefully acknowledge funding by the Deutsche Forschungsgemeinschaft (Centre
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Benjamin Kiesewetter](https://www.benjaminkiesewetter.net/) <[*benjamin.kiesewetter@uni-bielefeld.de*](mailto:benjamin%2ekiesewetter%40uni-bielefeld%2ede)>  
 [Alex Worsnip](http://www.alexworsnip.com/) <[*aworsnip@unc.edu*](mailto:aworsnip%40unc%2eedu)>
-<!--md-padding-ignore-end-->
+

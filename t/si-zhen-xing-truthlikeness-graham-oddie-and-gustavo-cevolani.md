@@ -504,7 +504,7 @@ Wallace 和 Greaves（2005）断言加权二次测度“可以考虑到似真性
 
 对于真理相似性的逻辑问题，有许多不同的方法，但遗憾的是，目前还没有达成一致意见，关于哪种方法是最好或最有前途的，以及将每种方法的最佳特点结合起来的前景在目前阶段似乎并不明朗。事实上，最近对于上述三种主要方法在逻辑问题的真理相似性上是否兼容的研究似乎指向了一个否定的答案（请参阅关于方法兼容性的补充）。然而，对于真理相似性的认识论和价值论方面还有很多工作要做，很可能从这些调查中会出现新的限制，有助于实现对逻辑问题的完全适当解决方案。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aronson, J., Harré, R., and Way, E.C., 1995, *Realism Rescued: How Scientific Progress is Possible*, Chicago: Open Court.
@@ -644,4 +644,4 @@ Wallace 和 Greaves（2005）断言加权二次测度“可以考虑到似真性
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Graham Oddie](http://spot.colorado.edu/~oddie/) <[*oddie@colorado.edu*](mailto:oddie%40colorado%2eedu)>  
 [Gustavo Cevolani](http://www.gustavocevolani.it/) <[*gustavo.cevolani@imtlucca.it*](mailto:gustavo%2ecevolani%40imtlucca%2eit)>
-<!--md-padding-ignore-end-->
+

@@ -279,7 +279,7 @@ Leif Wenar 也关注统治自然资源及其产品销售的惯例（Wenar 2010, 
 
 哲学家在方法论创新中也发挥着核心作用，这反过来又在理论和公共政策的辩论中起到重要的作用。作为新全球正义方法论贡献的一个显著例子，值得注意的是“参与式理论化”的出现（请参阅互联网资源下列出的网站），尤其是在全球正义背景下（Ackerly 2018; Deveaux 2015, 2021; Cabrera 2010; Lu 2017; Rafanelli 2021; Reed-Sandoval 2020）。这种方法将生活经验、社会行动运动和正义运动作为规范理论化的重要起点。参与政治理论家使用解释性、定性和规范性分析，试图将政治哲学与寻求社会正义的社区的问题、目标和需求相一致。通过这些方式，人们已经做出了重要的新尝试，将哲学应用于我们当代的全球现实，取得了在理论与实践之间架起桥梁的重要进展。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abizadeh, A., 2007, “Cooperation, Pervasive Impact, and Coercion: On the Scope (not site) of Distributive Justice,” *Philosophy & Public Affairs*, 35(4): 318–358.
@@ -649,4 +649,4 @@ Leif Wenar 也关注统治自然资源及其产品销售的惯例（Wenar 2010, 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Gillian Brock](http://www.arts.auckland.ac.nz/people/gbro064) <[*g.brock@auckland.ac.nz*](mailto:g%2ebrock%40auckland%2eac%2enz)>  
 Nicole Hassoun <[*nhassoun@binghamton.edu*](mailto:nhassoun%40binghamton%2eedu)>
-<!--md-padding-ignore-end-->
+

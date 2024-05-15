@@ -126,7 +126,7 @@ Zhmud 支持毕达哥拉斯的立场，认为他是真正的数学家，而不�
 
 关于毕达哥拉斯作为科学家和数学家的角色的争议将继续。事实上，哈恩最近支持了兹穆德的许多论点，并认为毕达哥拉斯是一个理性的宇宙学家，他在塔勒斯开始的一个项目的基础上进一步构建了宇宙，该项目是用直角三角形构建宇宙。然而，哈恩承认他的论点是“推测性的”和“最好是一种间接证据”（2017 年，xi）。现在应该清楚，关于来源的决策在回答毕达哥拉斯是否是数学家和科学家的问题上至关重要。本节的前五段中勾勒出的毕达哥拉斯宇宙观，即他既不是数学家也不是科学家，仍然是共识。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources and Commentaries
@@ -248,4 +248,4 @@ Zhmud 支持毕达哥拉斯的立场，认为他是真正的数学家，而不�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Carl Huffman <[*cahuff@depauw.edu*](mailto:cahuff%40depauw%2eedu)>
-<!--md-padding-ignore-end-->
+

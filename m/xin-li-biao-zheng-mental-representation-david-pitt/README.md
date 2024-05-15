@@ -164,7 +164,7 @@ Van Gelder（1995）否认心理过程是计算的。他认为认知系统是动
 
 人们普遍认为，除了具有引用、真值条件和真值等所谓的外延属性之外，自然语言表达式还具有内涵属性，因为它们表达了属性或命题，即具有意义或意义，其中两个表达式可能具有相同的引用、真值条件或真值，但表达了不同的属性或命题（弗雷格 1892/1997）。如果自然语言表达式的语义属性是从它们所表达的思想和概念中继承的（或者反之亦然，或者两者都是），那么对于心理表征可能也适用类似的区别。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Almog, J., Perry, J. and Wettstein, H. (eds.), 1989, *Themes from Kaplan*, New York: Oxford University Press.
@@ -406,4 +406,4 @@ Thanks to Brad Armour-Garb, Mark Balaguer, Dave Chalmers, Jim Garson, John Heil,
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 David Pitt <[*dalanpitt@gmail.com*](mailto:dalanpitt%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

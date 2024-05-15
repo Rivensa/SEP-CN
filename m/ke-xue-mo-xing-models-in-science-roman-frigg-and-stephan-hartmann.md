@@ -222,7 +222,7 @@ Giere（1999）认为，理论的定律更好地被视为不是对世界的一�
 
 在社会科学中，越来越多地使用基于代理的模型（ABMs）（Klein 等，2018 年）。这些模型展示了宏观尺度上令人惊讶的复杂行为模式如何从个体代理和它们之间的简单行为规则中产生。这引发了与上述物理学中的还原和出现问题类似的问题，但迄今为止，关于还原的论述只能在文献中找到零星的言论。请参见 Weisberg 和 Muldoon（2009 年）以及 Zollman（2007 年）关于 ABMs 在认识论和科学社会结构中的应用，以及 Colyvan（2013 年）关于规范模型引发的方法论问题的讨论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Achinstein, Peter, 1968, *Concepts of Science: A Philosophical Analysis*, Baltimore, MD: Johns Hopkins Press.
@@ -498,4 +498,4 @@ We would like to thank Joe Dewhurst, James Nguyen, Alexander Reutlinger, Collin 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Roman Frigg](http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/frigg.htm) <[*r.p.frigg@lse.ac.uk*](mailto:r%2ep%2efrigg%40lse%2eac%2euk)>  
 [Stephan Hartmann](http://stephanhartmann.org/) <[*stephan.hartmann@lrz.uni-muenchen.de*](mailto:stephan%2ehartmann%40lrz%2euni-muenchen%2ede)>
-<!--md-padding-ignore-end-->
+

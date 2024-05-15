@@ -234,7 +234,7 @@ Peirce 对于演绎、归纳和拟因推理的最重要扩展是将这三种论�
 
 显然，有必要对皮尔士著名学生的逻辑成就进行深入研究。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -315,4 +315,4 @@ Peirce 对于演绎、归纳和拟因推理的最重要扩展是将这三种论�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Robert Burch
-<!--md-padding-ignore-end-->
+

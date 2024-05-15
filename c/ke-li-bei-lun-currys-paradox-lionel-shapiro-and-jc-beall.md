@@ -447,7 +447,7 @@ Shapiro (2013) 和 Field (2017: 7) 提出了一个更有说服力的 v-Curry 推
 
 然而，v-Curry 悖论值得单独关注至少有两个原因。首先，如上所述，Curry 完备解决方案的两类 — 弱无收缩和强无分离选项 — 在 v-Curry 悖论的情况下似乎尤为棘手。其次，假设以 Curry 完备的方式处理普通 Curry 悖论（属性理论、集合论或语义学），可能仍有理由以 Curry 不完备的方式处理相应的（连接词或谓词）v-Curry 悖论，也许是因为认为理论的后果关系在本质上超出了理论语言中的任何连接词或谓词的捕捉能力（参见，例如，Myhill 1975；Whittle 2004）。因此，对于普通 Curry 悖论及其 v-Curry 对应物的“非均匀”解决方案可能再次是一种有动机的非均匀性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Key Historical Sources
@@ -573,4 +573,4 @@ We are grateful to Julien Murzi, Lorenzo Rossi, and an anonymous referee for det
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Lionel Shapiro](http://shapiro.philosophy.uconn.edu/) <[*lionel.shapiro@uconn.edu*](mailto:lionel%2eshapiro%40uconn%2eedu)>  
 [Jc Beall](http://entailments.net/) <[*jbeall@nd.edu*](mailto:jbeall%40nd%2eedu)>
-<!--md-padding-ignore-end-->
+

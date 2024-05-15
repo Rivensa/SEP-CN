@@ -269,7 +269,7 @@ Bentham 和 Austin 可能会有一个准备好的回应：人们通常误用“�
 
 Joseph Raz 拒绝了 Hart 关于法律陈述中规范术语具有独特含义的说法。在 Raz 看来，发表规范性陈述，比如“你必须在红灯处停车”，意味着你有某种行动理由。如果这是一项适用于法律的陈述，那么它意味着你有法律的角度停车的理由。Raz 的法律理论与 Hart 的理论不同，它是一种普遍实践理性理论的一部分，他对规范性陈述的解释认为它们在法律和道德中具有相同的含义。Hart 最初认为这种方法必然会导致一种极端的自然法理论，即每个真实的法律陈述必然是一个真实的道德陈述，每个有效的法律义务必然是一种道德义务。但是 Raz 通过指出规范性陈述可以以超然的方式进行，解决了 Hart 的这一担忧（参见 Raz 1990，175-177）。然而，Hart 并没有接受 Raz 的方法，他认为这种方法在法律和道德之间创造了某种概念上的联系。在回应 Raz 时，他坚持认为“主体的法律义务陈述与主体的行动理由没有直接关系”（Hart 1982，267）。在他职业生涯结束时接受西班牙期刊 Doxa 的采访时，他坚持认为“法律义务和道德义务在概念上是不同的”，因此义务陈述在法律和道德中具有不同的含义（De Paramo 1988）。他从未解释过这种含义上的差异；它的必要性只是源于一种方法论上的偏见。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cited Works
@@ -364,4 +364,4 @@ Thanks for research assistance by Mikolaj Barczentewicz, and for helpful comment
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Timothy Endicott](https://www.law.ox.ac.uk/people/timothy-endicott) <[*timothy.endicott@law.ox.ac.uk*](mailto:timothy%2eendicott%40law%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

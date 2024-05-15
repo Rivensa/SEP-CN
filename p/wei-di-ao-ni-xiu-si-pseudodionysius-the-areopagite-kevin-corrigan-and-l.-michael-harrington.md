@@ -181,7 +181,7 @@
 | 9:    | 致提多书，关于象征神学                                                                                           |
 | 10:   | 致约翰书，关于邪恶和苦难                                                                                         |
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Text and Translations
@@ -333,4 +333,4 @@
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Kevin Corrigan](http://www.emory.edu/COLLEGE/ILA/faculty/corrigan.html) <[*kcorrig@emory.edu*](mailto:kcorrig%40emory%2eedu)>  
 [L. Michael Harrington](http://www.duq.edu/academics/faculty/michael-harrington) <[*harringtonm@duq.edu*](mailto:harringtonm%40duq%2eedu)>
-<!--md-padding-ignore-end-->
+

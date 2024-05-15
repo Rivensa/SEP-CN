@@ -431,7 +431,7 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 迈蒙尼德与伊斯兰哲学家在这些主题上的共享思想的证据丰富。正如从引用的伊斯兰来源中清楚可见的那样，想象力、寓言、政治和宗教在迈蒙尼德思想中的这些相互关联的特征也是阿尔法拉比、伊本·西那和阿维罗伊斯的政治哲学著作的标志。在我们的调查中，理解《指南》的伊斯兰哲学背景对于理解迈蒙尼德思想的复杂性至关重要。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -648,4 +648,4 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[*spessin@du.edu*](mailto:spessin%40du%2eedu)>
-<!--md-padding-ignore-end-->
+

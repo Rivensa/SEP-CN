@@ -156,7 +156,7 @@ Khader 在她的审议完美主义解释中借鉴了 IAPs 的概念，以诊断�
 
 权力的概念在女性主义哲学的各种辩论中起着核心作用。事实上，这一概念对女性主义理论的重要性在于，几乎所有女性主义理论工作中都以某种方式运作，因此在撰写这样一篇文章时会遇到困难：由于权力概念在几乎所有女性主义理论工作中都起作用，因此很难限定相关来源。在整个过程中，我强调了那些权力概念是核心主题的文本和辩论，即使有时是隐含的。我还优先考虑了那些在女性主义哲学中最有影响力的作者和文本，而不是更广泛的女性主义理论或性别研究领域，尽管我承认这种区分很难维持，也许并不总是非常有用。尽管这样的框架选择可能存在争议，但它们确实在限定相关来源的范围并为讨论提供焦点和结构方面提供了一些急需的帮助。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahmed, Sara, 2006. *Queer Phenomenology: Orientations, Objects, Others*, Durham, NC: Duke University Press.
@@ -327,4 +327,4 @@ Khader 在她的审议完美主义解释中借鉴了 IAPs 的概念，以诊断�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Amy Allen](http://philosophy.la.psu.edu/directory/ara17) <[*ara17@psu.edu*](mailto:ara17%40psu%2eedu)>
-<!--md-padding-ignore-end-->
+

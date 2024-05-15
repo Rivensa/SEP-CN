@@ -166,7 +166,7 @@
 
 > [教学资源](https://plato.stanford.edu/entries/socrates/resources.html)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### General overviews and reference
@@ -281,4 +281,4 @@ Reproduction, including downloading, of Constantin Brancusi’s works is prohibi
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Debra Nails](http://www.msu.edu/~nails) <[*nails@msu.edu*](mailto:nails%40msu%2eedu)>  
 S. Sara Monoson <[*s-monoson@northwestern.edu*](mailto:s-monoson%40northwestern%2eedu)>
-<!--md-padding-ignore-end-->
+

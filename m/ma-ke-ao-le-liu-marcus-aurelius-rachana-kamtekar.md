@@ -130,7 +130,7 @@
 
 如上所述（1.1），马可·奥勒留的《沉思录》涉及的主题远比这里所讨论的要多，但如果我们专注于一个主题，并看看他对该主题的评论如何与他总体的项目相联系，我们就能更好地理解马可·奥勒留。对于他经常提到的其他主题，比如我们在宇宙中是微小而暂时的碎片，死亡最终会带走我们所有人，我们应该有目的地生活而不是像机械玩具一样生活，这些都值得我们去深入研究。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -206,4 +206,4 @@ Thanks to Tad Brennan, Stephen Menn, and John Cooper for their helpful comments 
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Rachana Kamtekar](http://philosophy.cornell.edu/rachana-kamtekar) <[*rk579@cornell.edu*](mailto:rk579%40cornell%2eedu)>
-<!--md-padding-ignore-end-->
+

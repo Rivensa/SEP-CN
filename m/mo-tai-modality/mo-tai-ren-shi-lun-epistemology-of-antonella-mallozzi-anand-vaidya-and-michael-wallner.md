@@ -555,7 +555,7 @@ Amie Thomasson（2021）主张我们应该拒绝一种广泛的描述主义的�
 
 范围问题及其后果：人们可能会质疑 Thomasson 的模态规范主义是否成功解释了对形而上学模态的知识，特别是与概念模态或认识分析性相对立的知识。可以说，掌握确定“水”实际应用条件的语义规则，并具备相关的经验信息，不足以解决水是否在形而上学上可能是 XYZ 或含有碳的问题。因此，由于其仅关注语义规则，模态规范主义可能暗示了哲学中经典形而上学辩论仅仅是一种言辞上的分歧和协商。虽然目前尚不清楚这是否构成了一个问题，在模态规范主义者看来，这确实提出了一个重要的分歧点。例如，参与心灵-身体问题辩论的人们是否真正讨论的是意识与物质身体的本质，还是仅仅在重新协商我们对于“心灵”、“身体”和“意识”等词语的规则？对于一些人来说，心灵-身体问题不是关于“心灵”和“身体”这些词语，而是关于心灵和身体本身（有关讨论，请参见 Mallozzi 即将发表的文章 b）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ásta Kristjana Sveinsdóttir, 2008, “Essentiality Conferred”, *Philosophical Studies*, 140(1): 135–148. doi:10.1007/s11098-008-9230-4
@@ -778,4 +778,4 @@ Amie Thomasson（2021）主张我们应该拒绝一种广泛的描述主义的�
 Antonella Mallozzi <[*amalloz1@providence.edu*](mailto:amalloz1%40providence%2eedu)>  
 Anand Vaidya <[*anand.vaidya@sjsu.edu*](mailto:anand%2evaidya%40sjsu%2eedu)>  
 Michael Wallner <[*michaelwallner1@gmail.com*](mailto:michaelwallner1%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

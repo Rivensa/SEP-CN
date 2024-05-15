@@ -430,7 +430,7 @@ Examples of this approach include: Greene’s (Greene et al. 2001; Greene 2003: 
 
 第二个问题是确定直觉分歧的确切实际和可能程度，以及对此类分歧的适当回应。这将使我们能够对看似最严重的怀疑论论证进行适当评估。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Fred and Annie Steadman, 2004, “Intentional Action in Ordinary Language: Core Concept or Pragmatic Understanding?”, *Analysis*, 74(2): 173–181. doi:10.1093/analys/64.2.173
@@ -570,4 +570,4 @@ For very helpful and patient critical comments on previous drafts of this entry,
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Joel Pust](http://udel.edu/~jpust) <[*jpust@udel.edu*](mailto:jpust%40udel%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -208,7 +208,7 @@
 
 值得注意的是，《前言》的作者将美德的等级按照“深度”（kata bathos）的顺序进行了排列。在杨布里科斯的术语中，bathos 具有技术含义：它源自数学，与 platos 相对立，因为它描述了层次结构中项目的垂直顺序，而不是水平顺序（参见 TP-2010 中的 Taormina：245）。这表明杨布里科斯根据上述垂直模式安排了他的美德分类，这指向了他对存在层次结构的独特解释。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -531,4 +531,4 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Riccardo Chiaradonna <[*riccardo.chiaradonna@uniroma3.it*](mailto:riccardo%2echiaradonna%40uniroma3%2eit)>  
 Adrien Lecerf <[*adrien.lecerf@gmail.com*](mailto:adrien%2elecerf%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

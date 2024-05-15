@@ -361,7 +361,7 @@ Kit Fine 在支持宪法解释方面使用了许多新颖的 Leibniz 定律论�
 
 Parfit、Nozick 和 Lewis 都认为心理连续性对于个人同一性至关重要，其意义如下。在没有分支的情况下，心理连续性足以确保后来的人与先前的人的同一性。一些哲学家会反对这一观点，坚持认为身体的持续性对于个人同一性是必需的。例如，Eric Olson 会主张心理连续性与我们所知道的唯一的人类事物的同一性无关。相反，根据这种观点，对于人类个人同一性来说，关键是继续成为同一动物（Olson 1997）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Identity and Change
@@ -685,4 +685,4 @@ Parfit、Nozick 和 Lewis 都认为心理连续性对于个人同一性至关重
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Andre Gallois](http://thecollege.syr.edu/people/faculty/pages/phi/gallois-andre.html)
-<!--md-padding-ignore-end-->
+

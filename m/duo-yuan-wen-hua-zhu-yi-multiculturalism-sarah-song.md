@@ -120,7 +120,7 @@ Mira Bachvarova 还提出了一种基于非统治的多元文化主义的优点�
 
 鉴于对移民多元文化主义的这些关切，多元文化主义理论家需要继续提出论据，说明多元文化公民身份的理想代表了更公平的融合条件，而不是分离和分裂，并回答以下问题：为什么多元文化公民身份比传统的基于统一权利和机会的自由主义公民身份更可取？多元文化主义政策是否真正促进了移民及其后代的更大融合？我们应该如何思考多元文化主义与解决基于种族、土著性、阶级、性别、性取向和残疾的不平等之间的关系？研究多元文化主义在西方以外地区的发展也很重要，包括西方的多元文化主义理论和实践是否已经传播和被吸收。例如，最近才对大规模移民开放的国家（如韩国）从其他国家的经验中汲取了哪些教训，他们采取了何种多元文化主义政策以及原因是什么？（Lie 2014）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alesina, A. and E. Glaeser, 2004, *Fighting Poverty in the U.S. and Europe: A World of Difference*, Oxford: Oxford University Press.
@@ -257,4 +257,4 @@ Mira Bachvarova 还提出了一种基于非统治的多元文化主义的优点�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Sarah Song](http://polisci.berkeley.edu/people/person/sarah-song) <[*ssong@law.berkeley.edu*](mailto:ssong%40law%2eberkeley%2eedu)>
-<!--md-padding-ignore-end-->
+

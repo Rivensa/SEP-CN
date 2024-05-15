@@ -450,7 +450,7 @@ Khirad 是一种将诗意和辩证思维方式融合在一起的智慧类型，�
 
 对于海亚姆来说，有两种论述，每一种都涉及人类存在的一个维度：哲学和诗歌。在哲学上，海亚姆捍卫了理性主义，抵抗了正统观念的兴起，并试图恢复伊斯兰教前四个世纪中普遍存在的理性主义精神。在诗歌上，海亚姆代表了一种对他认为是根本不公正的世界的抗议之声。许多人在他身上找到了他们需要听到的声音，几个世纪过去了，他的作品成为那些经历与海亚姆相同的苦难和磨难的人们的场所。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Works
@@ -556,4 +556,4 @@ Seyed N. Mousavian <[*smousavian@luc.edu*](mailto:smousavian%40luc%2eedu)>
 Suzanne Sumner <[*ssumner@umw.edu*](mailto:ssumner%40umw%2eedu)>  
 [Mehdi Aminrazavi](http://www.umw.edu/directory/employee/mehdi-aminrazavi/)  
 Glen Van Brummelen
-<!--md-padding-ignore-end-->
+

@@ -749,7 +749,7 @@ Cr(A)=Cr(B)=Cr(C)=1/3。
 
 贝叶斯认识论中可以充分解决上述哪些话题，如果有的话，这是值得讨论的。但贝叶斯主义者一直在扩大他们的领域，他们的势头肯定会继续。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, Jonathan, 2006 \[2017], “Epistemological Problems of Testimony”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), first written 2006. URL = [https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/](https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/).
@@ -995,4 +995,4 @@ I thank Alan Hájek for his incredibly extensive, extremely helpful comments. I 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Hanti Lin <[*ika@ucdavis.edu*](mailto:ika%40ucdavis%2eedu)>
-<!--md-padding-ignore-end-->
+

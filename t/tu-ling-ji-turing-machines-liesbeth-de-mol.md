@@ -574,7 +574,7 @@ Post 的产生系统成为计算机科学和更具体地说是形式语言理论
 
 因此，人们可以看到，图灵机在计算机科学中的作用应该更多地位于理论层面：通用机器在今天仍被许多人视为现代计算机的模型，而通过程序作为数据进行操作以模拟机器的能力是现代计算的基本原则之一。此外，它作为可计算性模型的稳健性和自然性使其成为挑战所谓（物理）丘奇-图灵论题的主要模型。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Barwise, Jon and John Etchemendy, 1993, *Turing’s World*, Stanford, CA: CSLI Publications.
@@ -712,4 +712,4 @@ The version of this entry published on September 24, 2018 is essentially a new e
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Liesbeth De Mol](https://pro.univ-lille.fr/liesbeth-de-mol/) <[*liesbeth.demol@univ-lille3.fr*](mailto:liesbeth%2edemol%40univ-lille3%2efr)>
-<!--md-padding-ignore-end-->
+

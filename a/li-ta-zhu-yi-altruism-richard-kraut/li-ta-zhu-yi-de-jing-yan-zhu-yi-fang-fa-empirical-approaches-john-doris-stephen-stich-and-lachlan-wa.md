@@ -311,7 +311,7 @@ Batson 和他的合作者取得了很大的成就。他们提出了一个复杂�
 
 更积极的是，看起来 Batson 和他的合作者已经相当确凿地证明了实验心理学的方法可以推动辩论的进展。事实上，可以说在过去的四十年里，Batson 在这个领域取得的进展比使用传统的先验论证方法和直觉支持的哲学家在前两千年中取得的进展还要大。他们的工作有力地证明了实证方法在道德心理学中的实用性；在道德心理学中辩论利他主义-利己主义问题的哲学道德心理学家总是提出实证主张，现在明显人类科学具备了资源来帮助我们实证评估这些实证主张。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aquinas, Thomas, 1270 [1917], *The Summa Theologica*, Vol 2, Part II, New York: Benziger Brothers.
@@ -438,4 +438,4 @@ For helpful suggestions, we are grateful to Mark Alfano, C. Daniel Batson, Willi
 [John Doris](https://philosophy.cornell.edu/john-m-doris) <[*jmd378@cornell.edu*](mailto:jmd378%40cornell%2eedu)>  
 [Stephen Stich](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/635-stich-stephen) <[*stich.steve@gmail.com*](mailto:stich%2esteve%40gmail%2ecom)>  
 Lachlan Walmsley <[*ldw917@gmail.com*](mailto:ldw917%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -211,7 +211,7 @@
 
 从 20 世纪 30 年代开始，随着詹姆斯·布朗·斯科特等人的工作，萨拉曼卡学派因其对国际法的贡献而再次受到关注，包括对非基督教民族的尊重。学术兴趣克服了与欧洲过去的信仰和意识形态分歧有关的旧偏见。经济学家对货币主义的兴趣也使萨拉曼卡成为学术主流。对斯科拉学派的复兴研究引起了对索托、莫利纳和苏亚雷斯的关注，而现代版本，包括“Corpus Hispanorum de Pace”系列中的版本，使这些思想家更容易为新一代学者所接触到。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -348,4 +348,4 @@ A large number of texts by authors of the School of Salamanca can be found in di
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Thomas Izbicki <[*tizbicki@libraries.rutgers.edu*](mailto:tizbicki%40libraries%2erutgers%2eedu)>  
 Matthias Kaufmann <[*matthias.kaufmann@phil.uni-halle.de*](mailto:matthias%2ekaufmann%40phil%2euni-halle%2ede)>
-<!--md-padding-ignore-end-->
+

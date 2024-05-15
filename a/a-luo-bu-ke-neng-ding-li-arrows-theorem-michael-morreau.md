@@ -431,7 +431,7 @@ Sen 展示了如何通过协调从不同假设中得出的社会排序来研究�
 
 根据波普尔（1963）的观点，一些科学理论虽然是错误的，但比其他理论更接近真理。对他的真似度概念的研究区分了“相似性”和“内容”维度，问题是这些维度是否可以合并为一个关于理论整体真似度的排序。兹瓦特和弗兰森（2007）认为阿罗定理不适用于这个问题，但是，他们使用了一个受其启发的定理，认为即便如此，也没有好的方法来结合不同的维度。参见舒尔茨和魏因加特纳（2010）以及奥迪（2013）对他们观点的建设性批评。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Arrow, K.J., 1950, “A Difficulty in the Concept of Social Welfare”, *Journal of Political Economy*, 58: 328–346.
@@ -550,4 +550,4 @@ I thank Mark Fleurbaey, Christian List, Gerry Mackie and John Weymark for their 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Michael Morreau <[*michael.morreau@uit.no*](mailto:michael%2emorreau%40uit%2eno)>
-<!--md-padding-ignore-end-->
+

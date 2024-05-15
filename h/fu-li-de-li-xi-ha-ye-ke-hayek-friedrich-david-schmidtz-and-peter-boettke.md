@@ -188,7 +188,7 @@ Rawls, however, immediately adds what 弗里德里希·哈耶克 would call a no
 
 弗里德里希·哈耶克于 1899 年出生在维也纳。也就是说，哈耶克在维也纳文化辉煌时期长大，却看着它在他眼前消失，伴随着第一次世界大战、大萧条、社会主义和法西斯主义的崛起、第二次世界大战以及冷战。哈耶克参加了第一次世界大战。他是那些在 1930 年代初离开维也纳并永不返回的人之一。他在英国的养父之家经历了第二次世界大战。和他那一代的其他人一样，这些经历是至关重要的。他看到极权主义扭曲了科学和学术，就像他的两位哲学朋友迈克尔·波兰尼和卡尔·波普尔一样。尽管存在分歧，哈耶克从波兰尼和波普尔的工作中汲取灵感，并帮助推广他们的工作。极权主义体制最终必然对科学探究的批判态度产生敌意。哈耶克、波兰尼和波普尔在 1930 年代和 1940 年代都看到了这一点，并以各自的方式试图描述和捍卫自由社会的科学。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Work by Hayek
@@ -253,4 +253,4 @@ Thanks to the Georgetown Institute for the Study of Markets and Ethics at George
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [David Schmidtz](https://davidschmidtz.org/) <[*dschmidtz01@gmail.com*](mailto:dschmidtz01%40gmail%2ecom)>  
 [Peter Boettke](https://www.peter-boettke.com/) <[*pboettke@gmu.edu*](mailto:pboettke%40gmu%2eedu)>
-<!--md-padding-ignore-end-->
+

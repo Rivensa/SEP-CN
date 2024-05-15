@@ -188,7 +188,7 @@
 
 自由至上主义者对民主的积极看法使其在一般情况下具有工具性，并在特定情况下具有对抗性。民主的价值将以限制国家过度权力的角色来体现，而不是以公民对政府的积极控制的任何声称的内在价值（Levy 2017）。民主政权虽然远非自由至上主义标准下的理想，但在支持个人社会经济自由权利方面，其记录往往比其他政权要好得多。尽管选民并不是为了支持自由至上主义改革的候选人而投票，但从这种对民主的观点来看，民主制度的整体效果似乎是对政府的自由化力量和对国家过度行为的约束（Levy 2018）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, L., 1996, “The Moral Magic of Consent,” *Legal Theory*, 2: 165–174.
@@ -428,4 +428,4 @@ The editors note that as of the January 2019 update, no content by the original 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Bas van der Vossen](https://www.basvandervossen.com/contact/) <[*bvanderv@chapman.edu*](mailto:bvanderv%40chapman%2eedu)>  
 [Billy Christmas](http://billyxmas.com/) <[*billy.christmas@kcl.ac.uk*](mailto:billy%2echristmas%40kcl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

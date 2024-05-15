@@ -46,7 +46,7 @@
 
 她与让·勒克莱尔克的通信揭示了她对宗教宽容的观点。这其中还包括她为父亲的《宇宙真正的智力系统》辩护，反驳了皮埃尔·巴耶尔对卡德沃斯的批评。这场争论是通过让·勒克莱尔克代理进行的，从中可以看出一些有意义的事情。它表明她愿意与卡德沃斯意见不合（例如，在是否存在非扩展物质的问题上），同时仍然尊重他，并准备为他辩护，反对他的批评者（在这种情况下是皮埃尔·巴耶尔）。这也表明她在与洛克相识之前，并没有放弃她所认同的柏拉图主义信条。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Sources
@@ -122,4 +122,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Sarah Hutton <[*sarah.hutton@york.ac.uk*](mailto:sarah%2ehutton%40york%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

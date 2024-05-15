@@ -428,7 +428,7 @@ Brian Weatherson 提供了一个例子，涉及一个他称之为“Tamati”的
 
 威廉姆森对于任何关于知识的正当真实信念解释的批评都基于一个事实，即至今还没有人能够解决盖蒂尔问题（2014 年：1-2），也没有给出一个关于信念如何因为符合证据而被正当的好解释。根据他的观点，对知识进行分析的尝试已经一团糟，而先验论证的方法承诺能够揭示不可区分性的本质、断言规范和认识逻辑（2014 年：6-7）。因此，它承诺是富有成果的，而旧的知识分析方法则留下了一条失败的道路。威廉姆森说，这是改变立场的一个很好的理由。但是威廉姆森的观点似乎也有自己的弱点。在他提出的先验论证方法中，当你看到贵宾犬时，你没有任何证据表明那片领地里有羊，而沙滩上的人类脚印如果是由戴着橡胶脚的猴子留下的，那就不是最近有人走过的证据。新的立场出现了问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Audi, Robert, 1997, *Moral Knowledge and Ethical Character*, Oxford: Oxford University Press.
@@ -613,4 +613,4 @@ I am indebted to my colleagues, Eric Hiddleston and Michael McKinsey, for their 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Bruce Russell <[*Bruce.Russell@wayne.edu*](mailto:Bruce%2eRussell%40wayne%2eedu)>
-<!--md-padding-ignore-end-->
+

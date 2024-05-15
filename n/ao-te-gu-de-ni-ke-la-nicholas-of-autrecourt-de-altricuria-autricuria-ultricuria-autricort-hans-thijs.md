@@ -78,7 +78,7 @@ Exigit ordo 也被称为 Tractatus universalis（普遍论文）。后一个标�
 
 奥特古的尼克拉被谴责的另外五篇文章涉及复合可意义（complexe significabile），或者说整个命题所表示的东西。根据亚当·沃德汉姆（Adam Wodeham）和里米尼的格里高利（Gregory of Rimini）等教义的拥护者，知识的对象不是命题，也不是外部世界中所指的事物（res），而是命题所表示的“被意味着的东西”（complexe significabile）。这个理论引发的一个问题是复合可意义的本体论地位：它是某物（aliquid）还是无物（nihil）？这些文章中可以找到这个问题和其他辩论的回响。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Editions and Translations
@@ -145,4 +145,4 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) for po
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Hans Thijssen <[*hthijssen@phil.ru.nl*](mailto:hthijssen%40phil%2eru%2enl)>
-<!--md-padding-ignore-end-->
+

@@ -308,7 +308,7 @@ Entry 在单独讨论幸福、健康和人际关系之后，最终考虑了这�
 
 这突显了一个更广泛的联系，连接了所有三个领域，以及哲学与残疾之间的关系。大多数关于残疾的哲学讨论都隐含地假定了没有残疾的人的视角。他们问其他人，即残疾人，是否拥有更低水平的幸福感；其他人，即残疾人，是否更不健康；其他人，即残疾人，是否会作为朋友或亲密伴侣带来更大的负担。在政治哲学的许多最近研究中，残疾最常被视为不幸的典型例子，问题是我们健全的人应该如何补偿残疾他人的不幸程度（参见残疾和正义的 SEP 条目）。通过隐含地采用非残疾人的视角，从中残疾人只以第三人称出现，哲学中许多主流作品未能认真对待残疾人的视角，即使这些视角与正在讨论的概念问题直接相关：幸福的本质是什么，友谊是什么，健康是什么？我们希望这篇文章可以成为讨论这些概念的出发点，考虑到更广泛的相关判断、直觉和观点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * ADAPT (American Disabled for Attendant Programs Today), “A Disability Perspective on Home Health Care”, [available online](http://www.adapt.org/older/homehealth), Albertson, NY: National Center on Employment of the Handicapped, Human Resources Center, accessed August 22, 2014.
@@ -477,4 +477,4 @@ David Wasserman <[*dtwasserm@gmail.com*](mailto:dtwasserm%40gmail%2ecom)>
 Adrienne Asch  
 Jeffrey Blustein <[*jblustein@ccny.cuny.edu*](mailto:jblustein%40ccny%2ecuny%2eedu)>  
 [Daniel Putnam](https://www.danielmputnam.com/) <[*dmp428@nyu.edu*](mailto:dmp428%40nyu%2eedu)>
-<!--md-padding-ignore-end-->
+

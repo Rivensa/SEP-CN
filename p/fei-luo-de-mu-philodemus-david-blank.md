@@ -271,7 +271,7 @@ Paideia 涉及学习艺术或技术学科，即被认为是一个自由人生活
 
 最近，早期基督教的学者们对伊壁鸠鲁学派如何维持他们的学派产生了兴趣，特别是伊壁鸠鲁使用信件的方式，其中许多信件解释了教义的要点，并作为他主要作品的摘要。这些学者将菲洛德穆斯在《论坦率批评》一书中对伊壁鸠鲁学派的行为和高级成员与经验不足成员之间的关系的评论与使徒保罗及其牧师书信的工作联系起来（参见 Glad 2004）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Bibliographical Note
@@ -417,4 +417,4 @@ The author would like to thank Catherine Atherton for her advice in editing this
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 David Blank <[*blank@ucla.edu*](mailto:blank%40ucla%2eedu)>
-<!--md-padding-ignore-end-->
+

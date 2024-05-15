@@ -995,7 +995,7 @@ Cubitt 等人的不可计算性结果源于他们发现停机问题可以被编�
 
 补充文件：[The Rise and Fall of the](https://plato.stanford.edu/entries/church-turing/decision-problem.html)​\*[Entscheidungsproblem](https://plato.stanford.edu/entries/church-turing/decision-problem.html)\*)。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackermann, Wilhelm, 1928, “Zum Hilbertschen Aufbau der reellen Zahlen”, *Mathematische Annalen*, 99(1): 118–133. doi:10.1007/BF01459088
@@ -1273,4 +1273,4 @@ Cubitt 等人的不可计算性结果源于他们发现停机问题可以被编�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [B. Jack Copeland](https://www.canterbury.ac.nz/arts/contact-us/people/jack-copeland.html) <[*jack.copeland@canterbury.ac.nz*](mailto:jack%2ecopeland%40canterbury%2eac%2enz)>
-<!--md-padding-ignore-end-->
+

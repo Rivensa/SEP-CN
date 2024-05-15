@@ -252,7 +252,7 @@ Hudson 将“x 恰好占据 s”定义如下：
 
 这些观点都不应被视为决定性的反驳。就目前而言，哈德森的解决方案加入了众多提出的“多的难题”的解决方案之列。对于这个年轻的问题来说，这些解决方案的多样性相当令人印象深刻。未来几年是否会看到这些解决方案被反驳而减少，还是被富有想象力的理论推测而增加，还有待观察。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The numbers after each entry refer to the sections to which that book or article is relevant.
@@ -316,4 +316,4 @@ The numbers after each entry refer to the sections to which that book or article
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Brian Weatherson](http://brian.weatherson.org/) <[*brian@weatherson.org*](mailto:brian%40weatherson%2eorg)>
-<!--md-padding-ignore-end-->
+

@@ -338,7 +338,7 @@ Raz 的“一个简单的理由”为什么“在自主原则的光下，伤害�
 
 这个评论可以被视为法律道德主义的本质。正如我们所见，法律道德主义的基本核心是一个由错误和一系列相抵消且有潜在破坏力的因素（如自由和隐私）构成的两部分结构。在法律道德主义内部，存在关于道德本身应如何构思以及关于如何构思结构的第一部分（所有道德错误还是只有其中的一个子集？）和第二部分（例如，哪些相抵消的因素应列入其中？以及是否有什么东西将它们统一起来？）的争议。尽管 Raz 的评论可以作为法律道德主义的简明表述，但 Raz 本人却拒绝了法律道德主义，而倾向于一种伤害原则的版本。Mill 最初的伤害原则是基于一种唯一主义的功利主义。仍然有人坚持这种功利主义，但如今更有影响力的是一些价值多元主义的版本，例如 Raz 的自由完善主义。正如我们所见，从这种多元主义前提中推导出伤害原则并不是一项简单的任务。坚持伤害原则的人也表现出一种明显的分歧，一方面是那些在很大程度上继承了 Mill 的原则性反道德主义但没有继承他的反父权主义的人，如 Hart 和 Raz，另一方面是那些既继承了 Mill 的原则性反道德主义又继承了他的反父权主义的人，如 Feinberg。混入其中的还有 Rawls 式的公共理由。与某种类型的法律道德主义者一样，这里强调将对法律强制的正当性解释引导给受到强制的公民自己，并由此产生了发展一个政治实践推理的“模块”的愿望，即一个给定法律体系的所有主体的公共理由，独立于其中一些人的全面伦理或宗教承诺。对于公共理由的支持者来说，“追求体现整个真理的热情”是令人憎恶的（Rawls 1999: 132–133）。 对于像摩尔这样的法律道德主义者来说，道德真理应该是重点，同时要对相反因素保持敏感。法律有时没有界限来阻止道德真理的观点，这种观点必然存在于某些（有缺陷的）人的口中，可能会引发一种眩晕感。也许最终的问题在于是否存在真正的替代方案。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert Merrihew, 1999, *Finite and Infinite Goods: A Framework for Ethics*, Oxford: Oxford University Press. doi:10.1093/0195153715.001.0001
@@ -596,4 +596,4 @@ I am very grateful to Les Green, Julie Dickson and the SEP editors for various k
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [John Stanton-Ife](http://www.kcl.ac.uk/schools/law/about/people/academic/stantonife) <[*john.stanton-ife@kcl.ac.uk*](mailto:john%2estanton-ife%40kcl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

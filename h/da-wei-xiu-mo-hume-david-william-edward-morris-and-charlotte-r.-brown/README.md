@@ -576,7 +576,7 @@ Demea 在第 9 部分提出了一个先验的替代设计论。正如前面所�
 
 > 如果我们坚持“无限地增加”，我们将放松给上帝的智慧、智慧和善良赋予明确内容的锚定。如果我们停在限度之内，我们可能有内容，但我们也失去了上帝。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -707,4 +707,4 @@ Thanks to the late Annette Baier, and to Arthur Morton and David Owen, for their
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 William Edward Morris  
 Charlotte R. Brown
-<!--md-padding-ignore-end-->
+

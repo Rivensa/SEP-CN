@@ -217,7 +217,7 @@ Lie detection: 有几种神经技术被用于在实验环境中检测欺骗或�
 
 这些以及其他技术在几十年前甚至无法想象，很可能会出现我们目前无法预料的其他未来技术。如果许多神经伦理问题与神经技术的能力密切相关，正如我所主张的那样，那么我们很可能无法详细预测未来技术可能引发的神经伦理问题的组合。神经伦理学将随着神经科学的发展而发展，适应新的伦理和技术挑战。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abbott, M., and S. Peck, 2017, “Emerging Ethical Issues Related to the Use of Brain-Computer Interfaces for Patients with Total Locked-in Syndrome,” *Neuroethics*, 10(2): 235–242. doi:10.1007/s12152-016-9296-1
@@ -375,4 +375,4 @@ The author would like to acknowledge the research assistance of Yaning Chen for 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Adina Roskies](https://faculty-directory.dartmouth.edu/adina-l-roskies) <[*adina.roskies@dartmouth.edu*](mailto:adina%2eroskies%40dartmouth%2eedu)>
-<!--md-padding-ignore-end-->
+

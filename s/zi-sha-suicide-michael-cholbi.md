@@ -202,7 +202,7 @@
 
 自杀不仅值得作为一个独立的哲学研究课题，它还为各种哲学子学科提供了洞察力：道德心理学、伦理学理论、社会和政治哲学、人格的形而上学以及行动理论。自杀也是哲学兴趣与实证科学兴趣交叉的领域。哲学家和其他人的集体努力继续揭示人类行为中最神秘的行为之一。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Historical (pre-1900) Works Cited
@@ -343,4 +343,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Michael Cholbi](http://michael.cholbi.com/) <[*mcholbi@ed.ac.uk*](mailto:mcholbi%40ed%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

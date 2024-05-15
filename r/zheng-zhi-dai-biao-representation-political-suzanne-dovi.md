@@ -143,7 +143,7 @@ Bernard Manin（1997）提醒我们，雅典议会经常被视为直接形式的
 
 目前，尚不清楚是什么使得任何一种特定的代表形式与民主代表相一致，更不用说与之协调了。是不同形式之间的协同作用，还是我们应该孤立地研究描述性代表，以确定它如何可能破坏或增强民主代表？一种倾向是简单地将民主代表等同于流动和多样化的标准的存在。虽然多元主义的事实确实为民主制度提供了正当性的理由，正如克里斯蒂亚诺（1996）所主张的那样，但不应再假设所有形式的代表都是民主的，因为代表的行动可以用来解散或削弱民主制度。最后一个研究领域是阐明不同形式的代表与这些形式如何可能破坏民主代表之间的关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. General Discussions of Representation
@@ -309,4 +309,4 @@ Bernard Manin（1997）提醒我们，雅典议会经常被视为直接形式的
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Suzanne Dovi](https://dovi.faculty.arizona.edu/) <[*sdovi@email.arizona.edu*](mailto:sdovi%40email%2earizona%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -200,7 +200,7 @@ Kitcher 以因果参照理论作为他讨论基因概念变化的出发点（198
 
 很明显，生物哲学中的讨论受到生物学发展的推动。与此同时，生物学的科学创新似乎没有止境。新技术为生物领域打开了新的窗口，使新现象可观，或者对已知实体和过程投下了不同的光。这些发展以及随之而来的理论转变和概念变革将需要一种概念反思和澄清，而这正是科学哲学发展出的一套不可或缺的工具（Pradeu et al. forthcoming）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abir-Am, Pnina Geraldine, 2020, “The Women Who Discovered RNA Splicing”, *American Scientist*, 108(5): 298–306.
@@ -440,4 +440,4 @@ The author would like to thank Jan Baedke, Dominic Berry, Soraya de Chadarevian,
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Robert Meunier](https://www.imgwf.uni-luebeck.de/mitarbeiter/meunier.html) <[*robert.meunier@uni-kassel.de*](mailto:robert%2emeunier%40uni-kassel%2ede)>
-<!--md-padding-ignore-end-->
+

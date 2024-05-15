@@ -176,7 +176,7 @@
 
 最后，在他对《范畴学》的评注中的第 27 个问题中，西蒙毫不犹豫地选择了亚里士多德十个范畴中存在的断言的类比。存在并不是作为范畴的属种而被一义地断言，因为它并不是对实体和意外一义地断言。事实上，意外没有无条件的存在，因为它们只有在与实体相关时才有本质，所以它们的存在取决于实体的存在。但是，存在也不是对实体和意外纯粹的异义，因为意外在某种程度上由于与实体的关系而具有存在。因此，存在类似于实体和意外：它首先被断言为实体，其次被断言为意外。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature (edited)
@@ -268,4 +268,4 @@ I would like to thank Riksbanken Jubileumsfond (Sweden) and the Knut and Alice W
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Ana María Mora-Márquez <[*ana.maria.mora.marquez@gu.se*](mailto:ana%2emaria%2emora%2emarquez%40gu%2ese)>
-<!--md-padding-ignore-end-->
+

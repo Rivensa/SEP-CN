@@ -160,7 +160,7 @@ Hyletic 数据可以说是经验，以“非意向性”、“前反思的生活
 
 胡塞尔似乎将真实可能性视为认识性倾向（习惯性），或能力，这些倾向需要一个实际的“基质”（参见《胡塞尔文集》第 XXXVI 卷，第 139 页）。同时，他强调“肯定没有人类和动物”必须存在于实际世界中（补充说，它们的不存在已经导致了“世界的变化”）（参见《胡塞尔文集》第 XXXVI 卷，第 121 页）。解释这一点的一种方式是削弱依赖论的论点，以及对实际基质的要求，仅要求可能被称为真实高阶可能性的东西 - 即在认识主体在反事实（或实际）情况下共存的情况下获得认识性倾向的可能性 - 这些可能性可能未被实现，但可以通过适当考虑众多个体认识角度的人来实现，通过主体间经验的方式。但即使在这种重构下，仍然存在一种意义上的真实可能性和现实构成的标准，以及真实世界的相应结构，都依赖于“自我”，在胡塞尔的观点中：什么被视为真实可能性或认识上合理，取决于现象学主体在超验还原的方法论背景下对这些反事实情况进行反思，并在这一背景下得出的结果。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -347,4 +347,4 @@ Research on an earlier version of this article was supported by the German Resea
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Christian Beyer](http://www.uni-goettingen.de/de/70428.html)
-<!--md-padding-ignore-end-->
+

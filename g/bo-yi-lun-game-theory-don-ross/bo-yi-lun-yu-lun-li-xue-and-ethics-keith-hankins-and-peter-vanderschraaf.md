@@ -330,7 +330,7 @@ d. 50% 阈值
 
 然而，尽管伦理学中使用博弈论的情况越来越普遍，许多道德和政治哲学家仍对这一趋势持怀疑态度。怀疑者提出的一个担忧是，博弈论分析往往依赖于简化假设，这使我们有理由怀疑这些分析与现实世界问题的相关性。例如，个体很少是博弈论经常假设的自私效用最大化者。这种担忧是错误的，原因有两个。首先，大多数倾向于在工作中使用形式方法的哲学家都非常清楚他们所依赖的假设。这并不意味着形式化工作从不使用错误的模型或假设，或者我们不应该对我们从博弈论分析和其他形式化工作中得出的结论进行批判性思考。但是，当结果被正确解释时，它们可以非常有帮助。例如，当为了计算可行性而进行简化假设时，它们可以提供一个有用的工具，用于缩小未来的研究方向。有时，简化假设是为了提出一些推测性问题，比如理性效用最大化者是否能够通过推理进入道德，这就是社会契约传统的情况。其次，归根结底，形式模型与哲学中更为熟悉的思想实验并没有太大的区别。然而，博弈论和其他形式工具的一个优势是，它们迫使使用它们的哲学家明确说明他们所做的假设，并且它们通常允许熟练的从业者对行动的位置和各种假设对事物的影响做出精确的陈述。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, J. McKenzie, 2007, *The Structural Evolution of Morality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511550997
@@ -453,4 +453,4 @@ We would like to thank Bruno Verbeek and Christopher Morris whose earlier versio
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Keith Hankins <[*keith.s.hankins@gmail.com*](mailto:keith%2es%2ehankins%40gmail%2ecom)>\
 [Peter Vanderschraaf](https://moralscience.arizona.edu/person/peter-vanderschraaf) <[*pvanderschraaf@arizona.edu*](mailto:pvanderschraaf%40arizona%2eedu)>
-<!--md-padding-ignore-end-->
+

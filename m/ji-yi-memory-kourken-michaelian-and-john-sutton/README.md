@@ -324,7 +324,7 @@ De Brigard 的方法并没有明确考虑到痕迹与检索表征之间的关系
 
 随着改变记忆系统功能的新技术的出现——例如，检索存储的记忆会导致重新巩固期，此期间检索的记忆是不稳定的，容易被修改，从而可能允许干预来改变创伤性记忆（Spiers＆Bendor 2014），对于各种形式的记忆修改的伦理问题变得更加紧迫（Erler 2011; Hui＆Fisher 2015; N. Levy 2012; Liao＆Wasserman 2007）。Liao 和 Sandberg（2008）指出了记忆修改技术引发的一系列问题；鉴于上述记忆与自我之间的密切关系，许多问题涉及记忆修改对自我的影响并不令人意外。例如，修改某人的记忆可能通过剥夺他了解自己行为的机会来限制他的自我认知，或者通过剥夺他将自己视为与自己参与的事件相关的行动者的可能性来侵蚀他的代理感。然而，Liao 和 Sandberg 认为，在某些情况下，记忆修改的好处可能超过其代价，因此对于新兴记忆修改技术的使用，不需要普遍的伦理障碍。到目前为止，辩论的重点大多集中在压制创伤性或其他不良记忆上，但是通过药物和其他手段增强记忆能力的新方法也引发了类似的问题（Bostrom＆Sandberg 2009）。然而，记忆增强辩论的批评者认为，相关方法的有效性证据存在争议（Zohny 2015），或者辩论经常忽视了不同类型记忆之间的重要差异（Fox，Fitz，＆Reiner 即将出版）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 *Further reading in philosophy:* Bernecker & Michaelian (2017) is the most comprehensive, up-to-date survey of the philosophy of memory available, covering all major contemporary issues in the area, as well as the history of philosophy of memory and memory in nonwestern philosophical traditions. Nikulin (2015) provides advanced surveys of the historical background, and see Herrmann & Chaffin (1988) for key historical texts. Grau (2009) and Kania (2009) introduce issues in the philosophy of memory through discussion of popular films.
@@ -698,4 +698,4 @@ De Brigard 的方法并没有明确考虑到痕迹与检索表征之间的关系
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Kourken Michaelian](http://phil-mem.org/members/michaelian.php) <[*kourken.michaelian@univ-grenoble-alpes.fr*](mailto:kourken%2emichaelian%40univ-grenoble-alpes%2efr)>  
 [John Sutton](http://www.johnsutton.net/) <[*john.sutton@mq.edu.au*](mailto:john%2esutton%40mq%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

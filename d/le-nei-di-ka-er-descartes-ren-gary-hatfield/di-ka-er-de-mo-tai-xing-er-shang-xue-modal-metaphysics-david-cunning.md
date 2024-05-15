@@ -264,7 +264,7 @@ Alanen 的观点很巧妙，但对它的一个严重担忧是，笛卡尔似乎�
 
 对于任何系统哲学家的作品解释，一个充分条件是要根据该哲学家体系的核心原则来解释。当然，解释的问题在于对于几乎任何哲学家来说，关于这些核心原则有争议。毫无争议的是，笛卡尔有时谈论可能性和必然性。不太有争议的是，当他谈论这些问题时，他在谈论什么。特别是，如果笛卡尔坚持认为存在未实现的可能存在，那么要么（1）他系统中似乎不允许这种存在的部分并不属于他的系统，要么（2）似乎不允许这种存在的部分实际上并不排斥它，要么（3）他并不是一个完全系统的哲学家。（3）的可能性不存在，但在关于（1）和（2）的辩论中还有很多工作要做。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adam, C. and Tannery, P., 1996, *Ouevres de Descartes*, Volumes I-XII, Paris: Vrin.
@@ -340,4 +340,4 @@ Alanen 的观点很巧妙，但对它的一个严重担忧是，笛卡尔似乎�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [David Cunning](http://myweb.uiowa.edu/cunni/) <[*david-cunning@uiowa.edu*](mailto:david-cunning%40uiowa%2eedu)>
-<!--md-padding-ignore-end-->
+

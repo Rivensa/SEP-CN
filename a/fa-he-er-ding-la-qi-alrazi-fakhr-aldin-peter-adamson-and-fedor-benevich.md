@@ -136,7 +136,7 @@
 
 这个例子表明，法赫尔丁并不仅仅是对阿维森纳的伪学派做出反应，而是通过重述阿什阿里派的神学观点来修改它（尽管他也反驳了伊本·西那受新柏拉图主义启发的提议，即邪恶是不存在的情况）。他还运用他的哲学敏锐度来反思和修改阿什阿里派的立场。在后来的传统中，他有时被指责采取怀疑论。一个代表性的轶事是，他在被驳斥了他曾经认为是确定真理的东西后哭泣，并悲叹道：“有什么证据证明我的所有信仰不是这种性质的？”（引自 Kholeif 1966: 18）。怀疑论的印象也可能是由于他倾向于在对某个问题进行长篇辩证调查的最后只给出最低限度的结论，甚至根本不给出结论。这也是后来的读者感到恼火的另一点：他为不可接受的观点提供的论证累积太多，即使之后对这些论证进行了驳斥。而且似乎他认为在许多神学和哲学问题上，某些证明是不可能的。但他并不是一个全面的怀疑论者。如上所述，他对于拥有知识的意义有自己的看法，并认为知识确实是可以获得的。他庞大而尚未充分探索的著作证明了他在当时成为无可替代的伊斯兰世界思想家的决心，以取得那种知识，超越伊本·西那。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 For a full bibliography see:
@@ -299,4 +299,4 @@ Our thanks to Hanif Amin Beidokhti, Merve Boz, Damien Janos, Andreas Lammer, Mic
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/personen/adamson/index.html) <[*peter.adamson@lrz.uni-muenchen.de*](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>  
 Fedor Benevich <[*Fedor.Benevich@ed.ac.uk*](mailto:Fedor%2eBenevich%40ed%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

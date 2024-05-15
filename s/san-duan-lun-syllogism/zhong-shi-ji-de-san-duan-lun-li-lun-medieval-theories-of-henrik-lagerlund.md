@@ -786,7 +786,7 @@ Campsall 认为这些术语表示事物现在的实际情况。如果句子 "A �
 
 三段论的历史当然不仅仅止于中世纪，但可以说，自布里丹以来的六个世纪里，这一理论并没有真正改变。改变的是人们对原始来源的了解，因此也对中世纪逻辑的丰富和复杂性的认识，这种无知状态使得二十世纪早期的逻辑学家们轻易地嘲笑这一学说。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -885,4 +885,4 @@ Campsall 认为这些术语表示事物现在的实际情况。如果句子 "A �
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Henrik Lagerlund](https://www.su.se/english/profiles/hlage-1.313716) <[*henrik.lagerlund@philosophy.su.se*](mailto:henrik%2elagerlund%40philosophy%2esu%2ese)>
-<!--md-padding-ignore-end-->
+

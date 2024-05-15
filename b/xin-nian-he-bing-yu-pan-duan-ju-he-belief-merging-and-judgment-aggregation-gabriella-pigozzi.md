@@ -231,7 +231,7 @@ Duddy 和 Piggins（2012）质疑使用汉明距离来衡量判断集之间的�
 
 在那些我们可以假设存在事实的情况下（例如，被告是否犯有谋杀罪），每个代理人对此有（有噪声的）意见，可以研究信念合并运算符的真实追踪特性（Hartmann 等，2010；Hartmann 和 Sprenger，2012；Cevolani，2014）。问题是某种聚合方法是否选择了正确的决策。Williamson（2009）认为，在判断聚合中，聚合基于判断的证据是最好的，因为它会导致正确的决策。他提倡的三步提案区分了三种类型的命题：证据、信念和判断。证据是支持代理人信念和判断的依据，是合并技术的合适候选。另一方面，判断最好通过决策理论来处理，将信念程度和效用映射到判断上。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alchourrón, C.E., P. Gärdenfors, and D. Makinson, 1985, “On the Logic of Theory Change: Partial Meet Functions for Contraction and Revision”, *Journal of Symbolic Logic*, 50: 510–530.
@@ -356,4 +356,4 @@ I am indebted to Eric Pacuit and to an anonymous reviewer of the updated entry, 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Gabriella Pigozzi](http://www.pigozzi.org/) <[*gabriella.pigozzi@lamsade.dauphine.fr*](mailto:gabriella%2epigozzi%40lamsade%2edauphine%2efr)>
-<!--md-padding-ignore-end-->
+

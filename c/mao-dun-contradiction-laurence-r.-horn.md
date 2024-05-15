@@ -281,7 +281,7 @@ Ripley（2011: §2）进行了关于明显矛盾的反应的调查，例如模�
 
 我们以塞缪尔·贝克特 1954 年的《无名者》中的最后一句话“我无法继续，我会继续”作为我的告别辞，因为事实上我无法继续。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Akiba, Ken, 1999. “On super- and subvaluation: a classicist's reply to Hyde,” *Mind*, 108: 727–32.
@@ -372,4 +372,4 @@ I thank an anonymous reader and Professor Piotr Balcerowicz for very helpful com
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Laurence R. Horn](https://ling.yale.edu/people/laurence-r-horn) <[*laurence.horn@yale.edu*](mailto:laurence%2ehorn%40yale%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -273,7 +273,7 @@ MELL 是一种令人惊讶的表达逻辑。例如，Petri 网中的可达性问
 
 虽然 MALL 逻辑是一种富有表现力和新颖的逻辑，但它也是可判定的，因此无法捕捉到迭代和递归中的无界行为。如上所述，通过添加指数！和？，可以将 MALL 逻辑丰富为完全线性逻辑，并在其中捕捉无界行为。将 MALL 扩展以捕捉无界行为的第二种方法是将最小和最大不动点运算符直接添加到 MALL 中作为逻辑连接词。为了正确地将不动点特征化为最小或最大，不动点的推理规则必须是“高阶”的，即它们涉及不变量。Baelde（Baelde＆Miller，2007; Baelde 2012）开发了这种扩展到 MALL 的方法（还包括一阶量化和项相等），并用于为模型检验提供了一个证明论基础（Heath＆Miller 2018）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abramsky, S., 1993, “Computational interpretations of linear logic”, *Theoretical Computer Science*, 111: 3–57.
@@ -391,4 +391,4 @@ We thank an anonymous reviewer at the SEP for many comments that have helped us 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Roberto Di Cosmo](http://www.dicosmo.org/) <[*roberto@dicosmo.org*](mailto:roberto%40dicosmo%2eorg)>  
 [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/) <[*dale.miller@inria.fr*](mailto:dale%2emiller%40inria%2efr)>
-<!--md-padding-ignore-end-->
+

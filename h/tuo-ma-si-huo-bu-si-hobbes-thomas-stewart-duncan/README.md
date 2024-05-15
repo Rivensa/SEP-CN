@@ -166,7 +166,7 @@
 
 超越莱布尼茨，我们可以看到霍布斯的工作与洛克和休谟的工作之间存在一些密切联系，后两者都很了解霍布斯的观点。洛克与霍布斯的联系，虽然可能不太明显，但确实存在（Rogers 1988）。想想洛克的经验主义（即反先天论），他对语言及其运作及相关错误的关注，他至少承认唯物主义可能是正确的，以及他对启示的怀疑。与此同时，休谟在他的《论人类理解》中开始阐述他关于观念是我们感觉的较不强烈副本的观点，这一观点与霍布斯关于感觉衰减的观点非常相似。拉塞尔（1985；2008）有力地论证了休谟将《论人类理解》的结构建模于霍布斯的《法的要素》之上。而休谟像霍布斯一样，结合了对基本宇宙论论证的明显接受与对许多宗教主张的怀疑。事实上，有足够的联系，可以说“霍布斯的经验主义……，洛克……和休谟”（Nidditch 1975，viii），而不是更传统的洛克、伯克利和休谟三人组。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Though the vast majority of work on Hobbes looks at his political philosophy, there are general books on Hobbes that look at his non-political philosophy, such as Sorell 1986 and Martinich 2005. The best modern biography is Martinich 1999.
@@ -256,4 +256,4 @@ References to *The Elements of Law*, *Leviathan*, and *De Corpore* are by ch
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Stewart Duncan](http://www.clas.ufl.edu/users/sdrd/) <[*sdrd@ufl.edu*](mailto:sdrd%40ufl%2eedu)>
-<!--md-padding-ignore-end-->
+

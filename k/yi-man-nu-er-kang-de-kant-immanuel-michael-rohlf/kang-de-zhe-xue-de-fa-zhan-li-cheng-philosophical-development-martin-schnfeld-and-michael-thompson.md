@@ -317,7 +317,7 @@ Schulz 的虔诚派信仰与 Spener 或 Francke 的信仰不同，并且“充�
 
 后来，对这种分裂的修正会更多，康德在《遗稿》中回到了他最初的主题，将可理解和可感知的前婚变成了一个仅仅是偶然的分裂，可以克服。但到 1781 年，他已经找到了自己的道路：继续追寻大问题，但现在要谨慎批判。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 References to Kant’s texts follow the Academy edition (*Gesammelte Schriften*, ed. Akademie der Wissenschaften, Berlin: Reimer, later DeGruyter, 1910ff.) by volume, page, and, if useful, by line. References to the *Critique of Pure Reason* are to the first (A) and second (B) editions.
@@ -390,4 +390,4 @@ References to Kant’s texts follow the Academy edition (*Gesammelte Schriften*,
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Martin Schönfeld  
 Michael Thompson <[*Michael.Thompson@unt.edu*](mailto:Michael%2eThompson%40unt%2eedu)>
-<!--md-padding-ignore-end-->
+

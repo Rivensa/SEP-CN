@@ -158,7 +158,7 @@
 
 对笛卡尔的这种辩护的目的不是为了对他的存在观提出裁决，而是为了展示他对哲学史上一直存在的一个大难题有着相当复杂和系统的处理。他并没有为了满足本体论论证的需要而随意假设存在是一种属性。事实上，在笛卡尔的观点中，存在不是传统意义上的属性，也不能构想某物而不将其视为存在。笛卡尔的批评者可能不会被他对存在的解释所说服，但是他们有责任提供一个更好的解释。辩论的焦点将转移到谁拥有正确的本体论上，而不是本体论论证是否正确。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Texts
@@ -236,4 +236,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Lawrence Nolan <[*lawrence.nolan@csulb.edu*](mailto:lawrence%2enolan%40csulb%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -569,7 +569,7 @@ Agda 是另一个基于直觉主义类型论的逻辑框架公式化的证明助
 
 还有其他几个系统，要么基于构造演算（Lego，Matita，Lean），要么基于直觉主义类型论（Epigram，Idris）；参见（Pollack 1994; Asperti et al. 2011; de Moura et al. 2015; McBride and McKinna 2004; Brady 2011）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aczel, Peter, 1978 [1977], “The type theoretic interpretation of constructive set theory”, in *Logic Colloquium ’77*, A. Macintyre, L. Pacholski, J. Paris (eds), Amsterdam-New York: North-Holland, pp. 55–66.
@@ -657,4 +657,4 @@ Agda 是另一个基于直觉主义类型论的逻辑框架公式化的证明助
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Peter Dybjer](http://www.cse.chalmers.se/~peterd/) <[*peterd@chalmers.se*](mailto:peterd%40chalmers%2ese)>  
 [Erik Palmgren](http://staff.math.su.se/palmgren/)
-<!--md-padding-ignore-end-->
+

@@ -186,7 +186,7 @@ We greatly approve the artificial virtues (justice with respect to property, all
 
 在道德探究中，休谟更明确地指出了他认为基督教（或者更谨慎地说，罗马天主教）道德家的错误。他不仅暗示在《论人类性情》中，他们将卑怯的谦卑提升为一种美德是一个错误，而且他们还偏爱忏悔、禁食和其他“修道院美德”，而这些实际上被所有理性人士因其无用和令人不悦而不赞同，因此实际上是恶习。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources: Works by Hume
@@ -301,4 +301,4 @@ We greatly approve the artificial virtues (justice with respect to property, all
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Rachel Cohon](http://www.albany.edu/philosophy/faculty.shtml#cohon) <[*rcohon@albany.edu*](mailto:rcohon%40albany%2eedu)>
-<!--md-padding-ignore-end-->
+

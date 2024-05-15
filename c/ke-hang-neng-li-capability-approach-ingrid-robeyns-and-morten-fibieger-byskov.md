@@ -224,7 +224,7 @@ Nussbaum 的工作最接近于为我们提供了一个正义的可行能力理�
 
 可行能力方法的潜在应用范围广泛，可能需要进行初步研究或需要更多研究的领域包括技术哲学和人工智能以及监视的伦理方面（Oosterlaken 2011；2015）；商业道德和企业社会责任（Bertland 2009；Giovanola 2009；Sferrazzo 和 Ruffini 即将出版）；动物伦理学和非人类动物的权利（Bendik-Keymer 2014；Cripps 2010；Nussbaum 2011b；Palmer 2010）；以及职业道德和雇员权利。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, John M., 2010, “Ending the Liberal Hegemony: Republican Freedom and Amartya Sen’s Theory of Capabilities”, *Contemporary Political Theory*, 9(1): 5–24.
@@ -417,4 +417,4 @@ Nussbaum 的工作最接近于为我们提供了一个正义的可行能力理�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Ingrid Robeyns](http://www.uu.nl/staff/IAMRobeyns/0) <[*i.a.m.robeyns@uu.nl*](mailto:i%2ea%2em%2erobeyns%40uu%2enl)>\
 Morten Fibieger Byskov <[*morten.byskov@warwick.ac.uk*](mailto:morten%2ebyskov%40warwick%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

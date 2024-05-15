@@ -280,7 +280,7 @@ Mercier 和 Sperber 为推理辩护了一种互动主义的解释/原理，根�
 
 论证和论辩是多方面的现象，几千年来吸引了哲学家和其他领域的学者的兴趣，并在各个领域广泛研究。本文概述了这些讨论中的主要观点，同时承认在这个主题上无法完全公正地做到全面。但下面的文献参考至少可以为感兴趣的读者提供一个有用的起点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### References for the Main Text
@@ -541,4 +541,4 @@ Thanks to Merel Talbi, Elias Anttila, César dos Santos, Hein Duijf, Silvia Ivan
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Catarina Dutilh Novaes](https://www.cdutilhnovaes.com/) <[*cdutilhnovaes@gmail.com*](mailto:cdutilhnovaes%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

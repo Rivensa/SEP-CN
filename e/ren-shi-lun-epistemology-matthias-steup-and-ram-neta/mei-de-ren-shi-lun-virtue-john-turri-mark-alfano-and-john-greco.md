@@ -214,7 +214,7 @@ VE 可以从至少三个方面对认识情感进行理论化。通过认识情�
 
 他接着说：“这真的很可怕”，“我处于一个黑暗的地方。我感觉地面在我脚下移动，我不再知道什么是真实的，什么是虚幻的。” 美德认识论的实践者可能有能力为受困的科学家提供援助和安慰，或者至少准确描述困扰他们的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -496,4 +496,4 @@ We are grateful to Adam Carter, Dennis Whitcomb, Miranda Fricker, and Jose Medin
 [John Turri](http://john.turri.org/) <[*john.turri@gmail.com*](mailto:john%2eturri%40gmail%2ecom)>  
 [Mark Alfano](http://www.tbm.tudelft.nl/en/about-faculty/departments/values-technology-and-innovation/sections/ethicsphilosophy-of-technology/staff/mark-alfano/) <[*mark.alfano@gmail.com*](mailto:mark%2ealfano%40gmail%2ecom)>  
 [John Greco](https://sites.google.com/georgetown.edu/johngreco)
-<!--md-padding-ignore-end-->
+

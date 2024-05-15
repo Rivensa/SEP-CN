@@ -260,7 +260,7 @@ INTEND(A⬦ϕ)→(INTEND(A⬦ϕ)UNTIL(BEL(ϕ)∨¬BEL(E⬦ϕ)))
 
 在本篇中，我们简要回顾了行动逻辑在哲学、语言学、计算机科学和人工智能领域的历史。尽管我们考虑的思想和技术是在这些独立的社群中以相当独立的方式发展起来的，但我们认为它们仍然密切相关。通过在本篇中将它们结合起来，我们希望在这个有趣而重要的主题上为这些社群之间的交叉授粉做出了一些谦逊的贡献。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alchourrón, C., Gärdenfors, P., and Makinson, D., 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, *Journal of Symbolic Logic*, 50: 510–530.
@@ -418,4 +418,4 @@ INTEND(A⬦ϕ)→(INTEND(A⬦ϕ)UNTIL(BEL(ϕ)∨¬BEL(E⬦ϕ)))
 Krister Segerberg  
 John-Jules Meyer  
 [Marcus Kracht](http://wwwhomes.uni-bielefeld.de/mkracht/index-en.html)
-<!--md-padding-ignore-end-->
+

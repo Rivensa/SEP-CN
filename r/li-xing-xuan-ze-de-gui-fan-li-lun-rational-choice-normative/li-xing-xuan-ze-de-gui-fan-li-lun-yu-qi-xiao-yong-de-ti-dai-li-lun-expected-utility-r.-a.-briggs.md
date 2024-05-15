@@ -453,7 +453,7 @@ P(有罪)>11+U(真实定罪)−U(错误无罪)U(真实无罪)−U(错误定罪)
 
 对这种决策理论方法的批评者，如劳丹（2006 年）认为，很难或不可能弥合法庭可接受的证据与被告的真实有罪概率之间的差距。有罪的概率取决于三个因素：真正有罪人中表面有罪的分布，真正无罪人中表面有罪的分布，以及真正有罪与真正无罪的被告中参加审判的比例（参见贝尔 1987 年）。计算这些因素中的任何一个的障碍将阻止从法官或陪审团对表面有罪的感知推断出真正有罪的概率。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allais M., 1953, “Le Comportement de l’Homme Rationnel devant le Risque: Critique des Postulats et Axiomes de l’École Americaine”, *Econometrica*, 21: 503–546.
@@ -547,4 +547,4 @@ P(有罪)>11+U(真实定罪)−U(错误无罪)U(真实无罪)−U(错误定罪)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [R. A. Briggs](https://philosophy.stanford.edu/people/ray-briggs) <[*formal.epistemology@gmail.com*](mailto:formal%2eepistemology%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

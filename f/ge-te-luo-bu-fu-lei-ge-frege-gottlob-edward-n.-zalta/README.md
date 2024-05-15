@@ -481,7 +481,7 @@
 
 通过在斯多葛学派和弗雷格语料库之间产生如此多的平行段落，细节和证据不断积累，从而变得越来越有说服力。任何想要了解弗雷格在语言观念上的全部范围的学生都必须了解这些观念与斯多葛哲学的关系。尽管 Bobzien 恰当地注意到了之前曾有人提到过一些相似之处（再次见脚注 9），她在 2021 年的论文是一个很好的起点，因为那里所汇编的证据是如此全面。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -630,4 +630,4 @@ I would like to thank the following people: Kai Wehmeier, whose careful eye as a
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Edward N. Zalta](http://mally.stanford.edu/zalta.html) <[*zalta@stanford.edu*](mailto:zalta%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

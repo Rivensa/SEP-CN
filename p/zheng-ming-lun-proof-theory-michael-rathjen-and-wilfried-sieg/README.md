@@ -626,7 +626,7 @@ Bachmann 使用大序数来生成小序数的名称的大胆举动是一个非�
 
 对我们来说很明显，对希尔伯特来说也很明显，数学思维并不是按照严格的军事化形式理论所强加的方式进行的。虽然形式严谨至关重要，但它并不足以使证明有条理地形成或高效地发现，即使在纯粹的逻辑中也是如此。回顾数学应该通过“最少的盲目计算和最大的引导思考”来解决问题的原则，我们必须研究理解和推理之间微妙的相互作用，即引入概念和证明定理之间的关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The translations in this paper are ours, unless we explicitly refer to an English edition.
@@ -939,4 +939,4 @@ Some passages in this entry first appeared in W. Sieg, *Hilbert’s Programs and
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Michael Rathjen](http://www1.maths.leeds.ac.uk/\~rathjen/rathjen.html) <[*rathjen@maths.leeds.ac.uk*](mailto:rathjen%40maths%2eleeds%2eac%2euk)>\
 Wilfried Sieg <[*sieg@cmu.edu*](mailto:sieg%40cmu%2eedu)>
-<!--md-padding-ignore-end-->
+

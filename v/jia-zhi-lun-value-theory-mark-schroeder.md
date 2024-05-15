@@ -253,7 +253,7 @@ Even once it is agreed that good *simpliciter* is incomparable in this sense, ma
 
 是否存在行为体相关价值的问题，以及如果存在，它在以行为体为中心的经典后果主义变体中可能扮演的角色，是后果主义者和义务论者之间的辩论核心，也是关于评价与义务相对优先性的基本问题的争议所在。这些是广泛而开放的问题，但正如我在这里所展示的，它们与价值理论的广义解释中的一系列传统和非传统问题密切相关。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -366,4 +366,4 @@ Even once it is agreed that good *simpliciter* is incomparable in this sense, ma
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Mark Schroeder <[*maschroe@usc.edu*](mailto:maschroe%40usc%2eedu)>
-<!--md-padding-ignore-end-->
+

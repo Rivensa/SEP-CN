@@ -277,7 +277,7 @@ NJC 旨在规定合法权威的普遍适用充分条件。其一个重要特点�
 
 然而，另一个法治要素存在一个严重问题，即官方行为与法律规范的一致性，确保相似案件得到相同对待，从而确保所有潜在被告在法律面前平等。令人震惊的是，因国际犯罪而接受审判的被告主要来自全球南方而不是强大的北大西洋民主国家。鉴于法治在刑法背景下被普遍认为具有重要意义，这一点令人深感不安，甚至有专家称之为“国际刑法的消亡”（Osiel 2014 [其他互联网资源]）。对于这一问题，可以想象出各种不同的回应。一种观点是，缺乏一个集中的全球国家，其任意行使大规模权力迫切需要受到法律约束，大大减少了国际案件中这种法治瑕疵的影响（Luban 2010: 583–587）。另一种更务实的回应是，国际刑事司法体系必须耐心地逐渐建立起来，一砖一瓦，而地理上偏向某一方的起诉虽然违反了法治原则，但在长期努力使国际刑法更加普遍有效的过程中具有一定的价值。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, Philip, 2017, “The Populist Challenge to Human Rights”, *Journal of Human Rights Practice*, 9(1): 1–15. doi:10.1093/jhuman/hux007
@@ -421,4 +421,4 @@ We would like to thank Roger Crisp and Gopal Sreenivasan for their comments on a
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [John Tasioulas](http://www.kcl.ac.uk/law/people/academic/jtasioulas.aspx) <[*john.tasioulas@philosophy.ox.ac.uk*](mailto:john%2etasioulas%40philosophy%2eox%2eac%2euk)>  
 [Guglielmo Verdirame](http://www.kcl.ac.uk/law/people/academic/gverdirame.aspx) <[*guglielmo.verdirame@kcl.ac.uk*](mailto:guglielmo%2everdirame%40kcl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

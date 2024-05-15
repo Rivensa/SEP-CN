@@ -110,7 +110,7 @@ Supplementary documents are available for the philosophers:
 * [Hutcheson](https://plato.stanford.edu/entries/emotions-17th18th/LD7Hutcheson.html)
 * [Hume](https://plato.stanford.edu/entries/emotions-17th18th/LD8Hume.html)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Works Cited
@@ -380,4 +380,4 @@ Initial work on these entries was supported by a fellowship from Stanford Humani
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Amy M. Schmitter](https://www.ualberta.ca/arts/about/people-collection/amy-m-schmitter) <[*amy.schmitter@ualberta.ca*](mailto:amy%2eschmitter%40ualberta%2eca)>
-<!--md-padding-ignore-end-->
+

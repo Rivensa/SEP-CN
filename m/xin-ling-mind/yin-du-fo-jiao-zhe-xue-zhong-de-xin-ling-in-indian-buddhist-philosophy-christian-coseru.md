@@ -420,7 +420,7 @@ Wayman（1965）可能是第一个挑战瑜伽行派关于唯识观念的理想�
 
 印度佛教对于自我意识的解释也被解读为与西方哲学中的某些立场相对应。因此，保罗·威廉姆斯（1998 年，234f）指出，善达昆提的意识统一作为自我意识的主张与那种区分主体、行为和客体或认知者、被认知和可认知的认知的还原解释相悖。因此，它与亚里士多德在《灵魂论》中对反身性的看法相似，以及布伦塔诺和萨特最近的观点，他们认为谈论意识缺乏自我启示实际上等于完全否定了意识自身的可能性 [关于中观派对自我意识概念的批判的辩护，主要参考西藏对这场辩论的接受，参见加菲尔德 2006 年]。同样，阿诺德（2005a，88；2005b，78）提出，关于 svasaṃvedana 本质的印度哲学辩论，他将其翻译为知觉，与康德对于知觉的超验统一的讨论以及后康德时期关于这一学说确切含义的辩论相对应。德尔福斯（2007 年，109）将达尔玛基尔提关于自我意识的观点与胡塞尔关于意向性的解释进行对比，主张在冥想状态下，感知显示出一种现象学类型的意向性。最近，迪格纳加对于自我意识的理解也被解释为与梅洛-庞蒂在他对感知的现象学解释中发展的具身自我意识概念相类似（参见科塞鲁 2012 年）。从这个观点来看，自我意识的意向性特征可以理解为与欲望、痛苦等内部状态所特有的即时感知到的具身代理的意识相对应。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Given the voluminous number of works that discuss consciousness, intentionality, perception, and related topics, the following list is confined to those especially relevant to the present article. The list of primary sources includes translations, mostly into English, French, and German of the works cited or mentioned above. Several works listed in the secondary bibliography also include substantive translations from primary sources.
@@ -623,4 +623,4 @@ References in this article use the following abbreviations:
 
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by  
 [Christian Coseru](http://www.cofc.edu/~coseruc/) <[*coseruc@cofc.edu*](mailto:coseruc%40cofc%2eedu)>
-<!--md-padding-ignore-end-->
+

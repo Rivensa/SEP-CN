@@ -200,7 +200,7 @@ Amo 于次年在附近的维滕贝格大学注册，并很快被授予哲学硕�
 
 在他的主要哲学著作《无感性论文》中，他反驳了灵魂可以被赋予感知的被动能力的主张，这一立场他认为源自笛卡尔（Amo 1734a: 13–14 [2020: 179]）。阿莫认为人类心灵是一种精神的物种，纯粹是主动的和非物质的。如果心灵被赋予感知的能力，它必须能够接收思想，有三种方式：通过“交流”（即，火以某种方式将热量“传递”给物体）、通过渗透（即，通过另一个实体的介入）或通过直接接触（Amo 1734a: 5 [2020: 161]）。阿莫认为，无法想象心灵以任何这些方式接收思想，因为这将违反其作为自发性存在的本质，而其非物质性排除了通过接触传递（有关讨论，请参见 Walsh 2019）。令人困惑的是，尽管主张灵魂无感性，阿莫却支持亚里士多德的格言“智力中没有不是先在感官中的”（Amo 1734b: 6）。阿莫还肯定了心灵影响身体的能力（Amo 1734a: 8 [2020: 169]），尽管没有说明他认为这是如何可能的，也没有明确参与与预设和谐有关的辩论。然而，在他的一生中，阿莫被至少一位有影响力的历史学家认定为沃尔夫派思想家（Ludovici 1738: §202）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -403,4 +403,4 @@ Following is a general bibliography listing histories of philosophy and referenc
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Corey Dyck <[*cdyck5@uwo.ca*](mailto:cdyck5%40uwo%2eca)>  
 Brigitte Sassen
-<!--md-padding-ignore-end-->
+

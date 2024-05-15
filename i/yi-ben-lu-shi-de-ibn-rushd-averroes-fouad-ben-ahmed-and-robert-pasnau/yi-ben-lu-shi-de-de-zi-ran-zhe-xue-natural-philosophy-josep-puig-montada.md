@@ -519,7 +519,7 @@ Arabic
 
 * [SC GC Ar] 1992, *Epítome del Libro sobre la Generación y la Corrupción*, 1, edited and translated by Josep Puig Montada, Madrid: CSIC.
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alawī, Jamāl al-Dīn, 1984, “Min talkhīṣ al-samāՙ al-ṭabīՙī. Taqsīm al-samāՙ al-ṭabīՙī li-Bn Rushd”, *Majallat Kullīyat al-Âdāb wa-l-ʻulūm al-insānīya bi-Fās*, 8: 205–245.
@@ -592,4 +592,4 @@ I thank Prof. Herbert A. Davidson (1932–2021), UCLA, for his thoroughly readin
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Josep Puig Montada](http://www.ucm.es/directorio?id=3237) <[*puigmont@ucm.es*](mailto:puigmont%40ucm%2ees)>
-<!--md-padding-ignore-end-->
+

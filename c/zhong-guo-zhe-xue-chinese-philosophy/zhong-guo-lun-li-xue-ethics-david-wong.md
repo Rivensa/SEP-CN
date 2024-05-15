@@ -358,7 +358,7 @@ Legalism 对德性伦理学提出的最强烈挑战不是稳定的美德不可�
 
 佛教传统在回答这些问题时是多样的、历史悠久的，并且在哲学上是复杂的。对于承担佛教所坚持的那种超脱态度的可取性和现实可能性的担忧，与道家对宇宙认同所引发的担忧类似。正如庄子和妻子的讨论所示，可能有可能将作为一种替代品的纯粹完全超脱与阿育王所体现的另一种与他人情感交流一致的超脱区分开来，只要他们在我们身边。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ames, Roger T., 1991, ”The Mencian Conception of Ren Xing: Does It Mean Human Nature?“ in *Chinese Texts and Philosophical Contexts: Essays Dedicated to Angus C. Graham*, ed. Henry Rosemont Jr., La Salle, IL: Open Court, 143–175.
@@ -550,4 +550,4 @@ Legalism 对德性伦理学提出的最强烈挑战不是稳定的美德不可�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [David Wong](http://fds.duke.edu/db/aas/Philosophy/faculty/dbwong) <[*dbwong@duke.edu*](mailto:dbwong%40duke%2eedu)>
-<!--md-padding-ignore-end-->
+

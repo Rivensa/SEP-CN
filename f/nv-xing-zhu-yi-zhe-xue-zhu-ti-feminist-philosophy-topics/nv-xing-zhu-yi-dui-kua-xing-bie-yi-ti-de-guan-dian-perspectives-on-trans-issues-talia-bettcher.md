@@ -366,7 +366,7 @@ Talia Mae Bettcher (2012a; 2013; 2014) 反对传统的错误身体论述跨性�
 
 早期（非转译）女性主义对跨性别问题的观点充满敌意，跨性别研究和政治已经以复杂的反应和互动形式出现，与女性主义和酷儿理论和政治相互关联，应当予以认可。随着时间的推移，女性主义和跨性别理论与政治之间以及跨性别和非跨性别女性主义之间的团结似乎正在实现。这表明了跨性别女性主义哲学调查的前景看好。鉴于跨性别/女性主义互动的历史，自我及其与压迫和抵抗的关系似乎将继续是一个富有成果的探讨课题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anzaldúa, Gloria, 1987, *Borderlands/la frontera: The new mestiza*, San Francisco: Spinsters/Aunt Lute.
@@ -482,4 +482,4 @@ Talia Mae Bettcher (2012a; 2013; 2014) 反对传统的错误身体论述跨性�
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
 Talia Bettcher <[*tbettch@calstatela.edu*](mailto:tbettch%40calstatela%2eedu)>
-<!--md-padding-ignore-end-->
+

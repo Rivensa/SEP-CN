@@ -265,7 +265,7 @@ Justus (2019; 2021)提出了一种不同的批评，认为利基概念是多余�
 
 然而，也应该注意到，生态学和经济学之间的一些跨学科努力受到了广泛批评。例如，生态经济学领域试图将生态系统服务货币化，以便将生物多样性和保护目标纳入成本效益分析，但却受到经济学家和保护生物学家的批评，因为它未能达到任何一个领域的期望（Norton & Noonan 2007）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Antonovics, Janis, 1992, “Toward Community Genetics”, in *Plant Resistance to Herbivores and Pathogens: Ecology, Evolution, and Genetics*, Robert S. Fritz and Ellen Louise Simms (eds), Chicago: University of Chicago Press, 426–449 (ch. 18).
@@ -507,4 +507,4 @@ I would like to thank the PhiLiSci team at University of Bielefeld for helpful c
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Alkistis Elliott-Graves](http://alkistis-elliott-graves.net/) <[*a.elliott-graves@uni-bielefeld.de*](mailto:a%2eelliott-graves%40uni-bielefeld%2ede)>
-<!--md-padding-ignore-end-->
+

@@ -339,7 +339,7 @@ Judith Jarvis Thomson 在 Geach 的基本思想上有着重要的发展。根据
 
 我们还可能担心成熟的民间道德永远不会出现。如果道德分歧持续到无限的未来，就像它在人类历史中一直存在一样，那么就没有成熟的民间道德，因此也没有确定道德事实的一系列陈词滥调。杰克逊承认这是一个真正的问题：如果道德态度没有趋同，他的方法论将意味着道德相对主义。他只能希望有一天会出现趋同（137-8）。因此，杰克逊雄心勃勃的元伦理项目最终依赖于对乐观主义的呼吁。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anscombe, G.E.M., 1958, “Modern Moral Philosophy”, *Philosophy*, 33: 1–19.
@@ -505,4 +505,4 @@ Many thanks to Spencer Case, Steve Finlay, Nick Laskowski, Tristram McPherson, T
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Matthew Lutz <[*mattlutz326@gmail.com*](mailto:mattlutz326%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

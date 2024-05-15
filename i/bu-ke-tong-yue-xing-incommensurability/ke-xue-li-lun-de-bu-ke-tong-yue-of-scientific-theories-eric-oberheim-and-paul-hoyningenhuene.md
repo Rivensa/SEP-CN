@@ -136,7 +136,7 @@ Kuhn 对于科学理论不可通约的观念的另一个重要来源是格式塔
 
 最后，库恩和费耶阿本德之间存在一个核心的实质性一致点。两者都认为不可通约使得将科学发展解释为对真理的近似（或“增加真似性”）的可能性成为不可能（费耶阿本德，1965c，107；1970，220，222，227-228；1975，30，284；1978，68；库恩，1970，206；2000 [1991]，95；2000 [1993]，243ff.；参见奥伯海姆，2006，180ff.；霍因根-休内，1993，262-264）。他们拒绝这样对科学进展的描述，因为他们认识到并强调科学革命导致本体论的变化。这些变化不仅仅是对旧本体论的改进或补充，以至于这些发展可以被看作是对已经确立的理论观点的累积增加。相反，新的本体论取代了它的前任。因此，库恩和费耶阿本德都不能被正确地描述为相信科学朝着真理取得进展的科学现实主义者。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Barker, P., Chen, X. and Andersen, H., 2003, “Kuhn on Concepts and Categorization”, in T. Nickels (ed.), *Thomas Kuhn*, Cambridge: Cambridge University Press, pp. 212–245.
@@ -251,4 +251,4 @@ Kuhn 对于科学理论不可通约的观念的另一个重要来源是格式塔
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Eric Oberheim <[*eric.oberheim@gmail.com*](mailto:eric%2eoberheim%40gmail%2ecom)>  
 [Paul Hoyningen-Huene](http://www.philos.uni-hannover.de/hoyningen.html) <[*hoyningen@ww.uni-hannover.de*](mailto:hoyningen%40ww%2euni-hannover%2ede)>
-<!--md-padding-ignore-end-->
+

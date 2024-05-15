@@ -62,7 +62,7 @@
 
 生物学哲学领域正在进行大量的新工作。例如，围绕癌症（Plutynski 2018）、文化进化（Sterelny 2012；Lewens 2015；O'Connor 2019）、人类本性（Machery 2008；Ramsey 2013；Kronfeldner 2018）、微生物学（O'Malley 2014）和古生物学（Turner 2011；Currie 2018）出现了丰富的哲学文献。生物学哲学仍然是哲学科学和哲学更一般领域中最具活力和有趣的领域之一。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Recent textbooks include Elliott Sober’s *Philosophy of Biology* (Sober 1999), Kim Sterelny and Paul Griffiths’s *Sex and Death: An Introduction to Philosophy of Biology* (1999), Marjorie Greene and David Depew’s *The Philosophy of Biology: An Episodic History* (2004), Brian Gavey’s *Philosophy of Biology* (2007), Alexander Rosenberg and Daniel McShea’s *Philosophy of Biology: A contemporary introduction* (2008), and Peter Godfrey-Smith’s *Philosophy of Biology* (2014).Valuable edited collections designed to supplement such a text are Elliott Sober’s *Conceptual Issues in Evolutionary Biology* (Sober 2006) which collects the classic papers on core debates, David Hull and Michael Ruse’s *The Philosophy of Biology* which aims at a comprehensive survey using recent papers (1998), and the *Cambridge Companion to the Philosophy of Biology* (Hull and Ruse 2007), *The Handbook of Philosophy of Biology* (Matthen and Stephens 2007), and *Blackwell Companion to the Philosophy of Biology* (Sarkar and Plutynski 2008) which all consist of essays on key topics by leading authors.
@@ -308,4 +308,4 @@ The SEP Editors would like to thank Sally Ferguson for her editorial work on ear
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Jay Odenbaugh](http://jay-odenbaugh.squarespace.com/) <[*jay@lclark.edu*](mailto:jay%40lclark%2eedu)>\
 [Paul Griffiths](http://griffithslab.org/)
-<!--md-padding-ignore-end-->
+

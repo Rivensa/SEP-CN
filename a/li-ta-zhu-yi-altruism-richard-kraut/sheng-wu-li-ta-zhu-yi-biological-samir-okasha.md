@@ -134,7 +134,7 @@ Trivers（1985）描述了非同种间的互惠利他现象。在热带珊瑚礁
 
 Sober 认为，即使我们接受进化论对人类行为的解释，也没有特别的理由认为进化会使人类成为利己主义者而不是心理利他主义者（参见 Schulz 2011）。相反，自然选择很可能会偏爱那些真正关心帮助他人的人，即那些能够表现出“真正”或心理上的利他主义的人。假设关心照顾自己孩子与进化有关联，这是一个相当合理的想法。那么，真正关心孩子福祉的父母，即“真正”的利他主义者，将具有更高的包容性适应度，因此传播更多的基因，而那些只是假装关心或者不关心的父母则不会。因此，进化可能会导致“真正”的或心理上的利他主义的进化。与常见的观点相反，对人类行为的进化论解释并不意味着人类很可能只受自利驱动。 “自私的基因”增加其未来代表性的一种策略是导致人类在心理上变得非自私。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abbot, P. et. al., 2011, ‘Inclusive Fitness Theory and Eusociality’, *Nature*, 471: E1–E4.
@@ -233,4 +233,4 @@ Sober 认为，即使我们接受进化论对人类行为的解释，也没有�
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 [Samir Okasha](http://www.bris.ac.uk/Depts/Philosophy/PHS/PHS_Staff.html#samir) <[*samir.okasha@bristol.ac.uk*](mailto:samir%2eokasha%40bristol%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

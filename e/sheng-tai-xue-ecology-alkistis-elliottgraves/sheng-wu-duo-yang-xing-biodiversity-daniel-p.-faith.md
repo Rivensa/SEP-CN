@@ -481,7 +481,7 @@ Sarkar（2017）的主张中也显而易见地存在相关的概念脱节
 
 因此，“生物多样性”的哲学在定义、价值观和历史等最基本层面仍面临挑战。这需要综合各种观点，同等关注时尚的新观念和（有时）不那么时尚的旧观念。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anonymous, 1974, “Trends, Priorities, and Needs in Systematic and Evolutionary Biology”, *Systematic Biology*, 23(3): 416–39. doi:10.1093/sysbio/23.3.416
@@ -631,4 +631,4 @@ I thank Christopher Hunter Lean (Philosophy Department, University of Sydney) wh
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Daniel P. Faith <[*danfaith9@yahoo.com.au*](mailto:danfaith9%40yahoo%2ecom%2eau)>
-<!--md-padding-ignore-end-->
+

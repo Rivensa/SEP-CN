@@ -172,7 +172,7 @@ Quinn 的双重效应原则改述并非绝对主义性质。他观察到，通�
 
 一些人通过辩论发展了这种批评，认为双重效应原则的吸引力基本上是虚幻的：一个行动者的意图并不像双重效应原则的支持者所声称的那样与行动的可容许性相关，尽管一个行动者的意图与行动者思考方式的道德评估相关（参见 McCarthy 2002; Scanlon 2008）。一个行动者打算造成某种伤害并不会使一个本来可容许的行动变得不可容许，但可以解释行动者在追求该行动方式时的道德推理存在何种错误。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allmark, Peter; Cobb, Mark; Liddle, Jane B.; and Tod, Angela M., 2010. “Is the doctrine of double effect irrelevant in end-of-life decision making?” *Nursing Philosophy*, 11: 170–7.
@@ -260,4 +260,4 @@ Quinn 的双重效应原则改述并非绝对主义性质。他观察到，通�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Alison McIntyre <[*amcintyre@wellesley.edu*](mailto:amcintyre%40wellesley%2eedu)>
-<!--md-padding-ignore-end-->
+

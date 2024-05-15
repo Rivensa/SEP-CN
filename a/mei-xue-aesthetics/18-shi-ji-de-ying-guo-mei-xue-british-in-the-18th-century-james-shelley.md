@@ -192,7 +192,7 @@ Just how material qualities come to be associated, and hence to signify, such qu
 
 艾莉森的品味理论，或许比其他任何一个在此考虑的理论更容易让当代美学家觉得与她的关注无关。但也许并非如此。艾莉森与她当代的对应者不同之处在于，她通过定义她现在称之为“审美”的特质，根据每个特质所产生的独特情感来区分。因此，艾莉森关于美和崇高情感以及这些情感所依赖的简单情感的许多论断可以转化为关于审美特质的论断。例如，考虑到艾莉森理论的核心和独特之处，即美和崇高情感依赖于细腻、优雅、庄重和威严等简单情感。这无疑是当代关于相对评价审美特质依赖于相对描述性审美特质（例如随附）的论断的先驱。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -284,4 +284,4 @@ Just how material qualities come to be associated, and hence to signify, such qu
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[*shelljr@auburn.edu*](mailto:shelljr%40auburn%2eedu)>
-<!--md-padding-ignore-end-->
+

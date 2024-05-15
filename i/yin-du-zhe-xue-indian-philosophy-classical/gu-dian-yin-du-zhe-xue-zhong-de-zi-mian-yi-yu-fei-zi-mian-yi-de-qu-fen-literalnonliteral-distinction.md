@@ -220,7 +220,7 @@ Jayanta Bhaṭṭa，一位 Nyāya 哲学家，采取了第三种立场，其中
 
 最后，美学贯穿其中，具有规范性的含义。诗歌不仅仅是为了愉悦，而且融入了道德人物（人们被教导要像《罗摩衍那》中的英雄拉玛，而不是邪恶的恶魔拉瓦那），并假设了一个完整的道德结构。阿比纳瓦古普塔在他的独立作品中，将暗示理论引入了克什米尔沙伊瓦哲学，这是一种致力于神祇湿婆的密宗传统。对于阿比纳瓦古普塔来说，情感（rasa）不仅仅是一种美学现象，而且是与超越现实的统一感，它存在于平静（śānti）的情感中，这种情感包含了其他一切。然而，我们不必像阿比纳瓦古普塔的作品那样走得那么远，就能看到美学中的规范维度，因为即使在阿南达瓦达哈纳对情感的更普通理解中，也有一些情感是适合存在的，而另一些情感则应该避免。适当与否取决于角色的社会地位、性别等。这些规范也限制了暗示意义的解释可能性，为语言的创造性使用提供了一个常规基础。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 See also the supplementary document on [Names and Dates of Cited Indian Philosophers](https://plato.stanford.edu/entries/literal-nonliteral-india/supplement.html).
@@ -325,4 +325,4 @@ The author wishes to thank Ben Blumson, Josh Dever, Jeremy Henkel, Ethan Mills, 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Malcolm Keating](http://www.malcolmkeating.com/) <[*malcolm.keating@yale-nus.edu.sg*](mailto:malcolm%2ekeating%40yale-nus%2eedu%2esg)>
-<!--md-padding-ignore-end-->
+

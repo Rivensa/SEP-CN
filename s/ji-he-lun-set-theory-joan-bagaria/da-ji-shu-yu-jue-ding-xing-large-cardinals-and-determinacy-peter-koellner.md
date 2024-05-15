@@ -591,7 +591,7 @@ Lebesgue 可测性的属性在分析中是熟悉的，在这里我们将更加�
 
 值得一提的是，对于 ADL(ℝ)的非多元论者对于在更高层次上存在多元论的可能性持开放态度，比如在 CH 的层次上。有关该主题的处理，请参阅“连续统假设”条目。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Feferman, S., 1960, “Arithmetization of metamathematics in a general setting,” *Fundamenta Metamathecae* 49: 35–92.
@@ -657,4 +657,4 @@ Lebesgue 可测性的属性在分析中是熟悉的，在这里我们将更加�
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 Peter Koellner <[*koellner@fas.harvard.edu*](mailto:koellner%40fas%2eharvard%2eedu)>
-<!--md-padding-ignore-end-->
+

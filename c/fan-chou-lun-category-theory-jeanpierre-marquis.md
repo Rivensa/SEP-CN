@@ -245,7 +245,7 @@ Lawvere 从早期开始就提倡了一个想法，即范畴的范畴可以被用
 
 范畴论因此提供了许多哲学挑战，这些挑战有望在未来几年得到解决。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Readers may find the following useful:
@@ -552,4 +552,4 @@ The citations in this guide and in the text above can all be found in the list b
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Jean-Pierre Marquis](http://www.philo.umontreal.ca/personnel/professeur/marquis-jean-pierre/) <[*Jean-Pierre.Marquis@umontreal.ca*](mailto:Jean-Pierre%2eMarquis%40umontreal%2eca)>
-<!--md-padding-ignore-end-->
+

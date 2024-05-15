@@ -477,7 +477,7 @@ D3 显然对 D2 面临的主要问题没有任何解决作用。除了刚才提�
 
 正如许多解释者所看到的那样，结尾可能比这更复杂。甚至可能在《泰阿泰德》的最后两页中，我们已经看到了柏拉图自己对这个谜题的答案的暗示。也许理解已经从最后的讨论中浮现出来，就像智慧从 145d-e 中浮现出来一样，作为关键的成分，没有它，仅有真实的信念根本无法被视为知识。也许只有当我们，读者，理解了这一点——在最后的结果中，认识论的成功取决于具有认识论的美德——我们才开始不仅对知识是什么有真实的信念，而且理解知识。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 References to Plato’s Theaetetus follow the pagination and lineation of E.A.Duke, W.F.Hicken, W.S.M.Nicholl, D.B.Robinson, J.C.G.Strachan, edd., *Platonis Opera* Tomus I.
@@ -546,4 +546,4 @@ The authors and SEP editors would like to thank Branden Kosch for noticing a poi
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Sophie-Grace Chappell](http://www.open.ac.uk/people/tc2973)
-<!--md-padding-ignore-end-->
+

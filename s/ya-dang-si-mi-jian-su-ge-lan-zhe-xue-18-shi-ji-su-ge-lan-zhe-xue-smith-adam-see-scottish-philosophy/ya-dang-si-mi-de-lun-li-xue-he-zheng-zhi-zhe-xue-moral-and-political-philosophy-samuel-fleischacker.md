@@ -126,7 +126,7 @@ TMS 的第六部分，在最后一版中添加，通过一系列优雅的人物�
 
 斯密对道德判断及其发展的解释/原理比休谟更加丰富和微妙；他为现代亚里士多德主义道德提供了一个原型；他强调了想象力对道德发展的重要性，这是其他哲学家很少关注的；他是早期并有力地推动了历史主要受到无意后果引导的观念；并且他从这些观点中得出了一种不寻常的自由政治变体。这些贡献中很少有被当代哲学家所要求的清晰和严密的论证，但斯密通过他的观点的人性和思考性，通过与形而上学承诺的脱离，以及丰富的历史和想象细节来弥补这个弱点。他的思想的丰富性和它们的平静可信性使他成为现代道德和政治哲学家中最重要的人物之一。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -222,4 +222,4 @@ TMS 的第六部分，在最后一版中添加，通过一系列优雅的人物�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Samuel Fleischacker <[*fleischert@sbcglobal.net*](mailto:fleischert%40sbcglobal%2enet)>
-<!--md-padding-ignore-end-->
+

@@ -137,7 +137,7 @@ ZF 作为对良基集合理论进行公理化的尝试而产生，这一原则�
 
 NF 研究的当前状况很奇怪。在 20 世纪 70 年代，博法（Boffa）和科雷特（Coret）在良基集合理论中证明了一些关于分层公式的有趣结果，并且工作仍在继续。然而，在另一个方向上几乎没有什么交流，似乎直到有人成功地证明 NF 相对于 ZF 或其类似理论的一致性之前，NF 才能吸引到足够数量的学者的关注（即使这也是不确定的，因为已知 NFU 是一致的，但仍然没有太多支持者），而这个一致性问题似乎非常困难。集合论中还有一些未解决的老问题，比如连续统假设（CH），但 NF 的状况似乎是最古老的未解决一致性问题。NF 反驳选择公理的事实极大地加剧了一致性问题，应该引起公众的兴趣，但广泛认为集合在本质上是良基的观点对 NF 吸引足够的关注构成了巨大的修辞障碍，尽管这个观点现在（阿兹尔 [1988] 之后）不再那么压抑，但仍然存在阴影。这个阴影也笼罩着 NFU，这是不幸的，因为已知 NFU 是一致的，并且具有丰富的有趣的模型理论。它还使我们分散了对 NF 最基本的特征的注意力：作为一个关于普遍集的理论，它至少代表了一种认真对待悖论类的努力，而不仅仅是抹去它们。正如希金斯在《半人马座》中所说：“你会注意到，懦夫总是尖叫着要杀掉麻烦的人。”
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aczel, Peter, 1988, *Non-Well-Founded Sets*. Lecture Notes, Number 14, Stanford, CA: CSLI Publications.
@@ -190,4 +190,4 @@ The editors would like to thank Franz Fritsche for spotting an error in the stat
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Thomas Forster](https://www.dpmms.cam.ac.uk/~tf/) <[*T.Forster@dpmms.cam.ac.uk*](mailto:T%2eForster%40dpmms%2ecam%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

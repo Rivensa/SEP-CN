@@ -176,7 +176,7 @@
 
 马里内拉的方法并非完全透明的一些证据可以在她的晚期作品《劝诫妇女》中找到。这部作品表面上看起来是一种反悔，是对一生致力于学习和写作的拒绝，她明确敦促妇女不要追求文学事业。一位解释者敦促我们不要“仅仅从字面上理解马里内拉的文本，当它们宣称吸引 21 世纪读者的原则时，如果它们让我们失望，我们应该将其驳回或进行创造性解构”（Benedetti in Marinella 1645b/2012, 34）。从这个观点来看，我们应该接受《劝诫妇女》代表了马里内拉职业生涯中更为保守的阶段，她在这个阶段与贵族的主张保持距离，因为她的观点随着时间的推移发生了变化。然而，其他人在这部作品中发现了“一种反抗的残留，结合了揭示男性统治技巧的可能性”（Kolsky 2001, 984），并将其视为“[贵族] 对男性作家用来传播和强化妇女服从和适当局限于家庭观念的机制的有针对性和明确批评的延伸”（Sinclair 2017, 117）。多种证据表明，马里内拉并不打算颠覆贵族的主张，而是支持它们：她使用了“讽刺、悖论和矛盾”，并在前言中指示读者要看透文本的表面，以及《劝诫妇女》的印刷商声誉恶劣，因为他以出版“分层话语”而臭名昭著（Ross 2009, 296–8; Malpezzi Price and Ristaino 2008, 120–55）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Marinella
@@ -282,4 +282,4 @@
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Marguerite Deslauriers <[*marguerite.deslauriers@mcgill.ca*](mailto:marguerite%2edeslauriers%40mcgill%2eca)>
-<!--md-padding-ignore-end-->
+

@@ -192,7 +192,7 @@ Cooper 在 1930 年回应查尔斯·约翰逊分发给黑人大学毕业生的�
 > A Graduate Of St. Augustine’s College  
 > Erected 1979.
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Works by Anna Julia Cooper
@@ -320,4 +320,4 @@ Many thanks to Beverly Guy-Sheftall, Vivan M. May, Joycelyn Moody, Shirley Moody
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Kathryn Sophia Belle](https://www.kathrynsophiabelle.com/) <[*kathryn@kathrynbelle.com*](mailto:kathryn%40kathrynbelle%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -295,7 +295,7 @@ Klein 的 Erlangen 计划的认识论特征在解决射影几何中交比定义�
 
 因此，关于任何类型的理论几何与我们周围空间的关系的想法变得更加复杂。从纯数学的角度来看，情况是多元的。几何的真理不再是理所当然的，众所周知，康德的观点通常被抛弃。选择物理几何在某种程度上已成为一个经验问题 —— 如果我们假设庞加莱是错误的。关于几何可理解性的哲学观念也变得更加深刻。也许从一般科学的角度来看，人们应该考虑一种多元化的观点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * d’Alembert, J. le Rond, 1784, *Encylopédie Méthodique: Mathématique*.
@@ -383,4 +383,4 @@ Klein 的 Erlangen 计划的认识论特征在解决射影几何中交比定义�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Jeremy Gray  
 José Ferreirós <[*josef@us.es*](mailto:josef%40us%2ees)>
-<!--md-padding-ignore-end-->
+

@@ -137,7 +137,7 @@ Kretzmann（1966）对全知提出了第二个问题。他认为我们每个人�
 
 另一个最近的关注点是是否真的可能知道所有的真理。格林（1988）基于一个论证反对全知的可能性，该论证得出结论说没有所有真理的集合。这个论证（通过反证法）说没有所有真理的集合 T，通过康托尔定理。假设存在这样一个集合。然后考虑它的幂集，℘(T)，即 T 的所有子集的集合。现在取一些真理 t1。对于 ℘(T)的每个成员，t1 要么是该集合的成员，要么不是。因此，对于 ℘(T)的每个成员，都会有一个进一步的真理，指明 t1 是该集合的成员还是不是。因此，至少有与 ℘(T)的成员一样多的真理。但是康托尔定理告诉我们，℘(T)的成员必须比 T 的成员多。所以 T 毕竟不是所有真理的集合。假设它是会导致它不是。现在格林认为这对全知来说是一个问题，因为他认为只有存在所有真理的集合，一个存在才能知道所有真理。作为回应，普兰廷加（普兰廷加和格林 1993）认为，对所有真理的知识并不需要存在所有真理的集合。普兰廷加指出，一个类似的论证表明没有所有命题的集合，然而，我们可以理解地说，例如，每个命题要么是真的要么是假的。西蒙斯（1993）给出了一个更具技术性的关于集合层次的回应，但超出了本条目的范围。另请参阅温赖特（2010：50-51）和奥皮（2014：223-244）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, William P., 1986, “Does God Have Beliefs?,” *Religious Studies* 22(3/4): 287–306. doi:10.1017/S0034412500018333; reprinted with additional note in *Divine Nature and Human Language: Essays in Philosophical Theology*, Ithaca, NY: Cornell University Press, 1989, pp. 178–193.
@@ -239,4 +239,4 @@ Kretzmann（1966）对全知提出了第二个问题。他认为我们每个人�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Edward Wierenga](http://www.sas.rochester.edu/phl/people/faculty/wierenga_edward/) <[*edward.wierenga@rochester.edu*](mailto:edward%2ewierenga%40rochester%2eedu)>
-<!--md-padding-ignore-end-->
+

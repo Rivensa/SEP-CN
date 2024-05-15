@@ -345,7 +345,7 @@ The standard English translation is given first, and, where appropirate, other m
 * unit (**monas**)
 * universal (*katholou*)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Collections of essays and journals referred to below with abbreviations
@@ -447,4 +447,4 @@ The standard English translation is given first, and, where appropirate, other m
 
 [Copyright © 2004](https://plato.stanford.edu/info.html#c) by  
 [Henry Mendell](http://www.calstatela.edu/faculty/hmendel/) <[*hrmendell@gmail.com*](mailto:hrmendell%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

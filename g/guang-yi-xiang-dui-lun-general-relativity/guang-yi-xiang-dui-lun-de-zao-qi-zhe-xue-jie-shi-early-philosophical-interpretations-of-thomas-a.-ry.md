@@ -170,7 +170,7 @@ Gμν=kTμν，其中 Gμν≡Rμν−12gμνR
 
 在韦尔和爱丁顿的工作中，几何统一是试图将爱因斯坦引力理论的和谐投射到一种新的认识论光中，展示引力和电磁场定律在几何表征的物理现实的共同框架内。他们非正统的哲学论证方式，或许是必要的，被掩盖在微分几何的语言中，倾向于掩盖或模糊有关几何化物理的意义的结论，这些结论与工具主义或科学现实主义有着明显不同的方向。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Barbour, Julian B. and Herbert Pfister (eds.), 1995, *Mach’s Principle: From Newton’s Bucket to Quantum Gravity* (Einstein Studies: 6), Boston, Basel, Berlin: Birkhäuser.
@@ -310,4 +310,4 @@ Gμν=kTμν，其中 Gμν≡Rμν−12gμνR
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Thomas A. Ryckman](https://philosophy.stanford.edu/people/thomas-ryckman) <[*tryckman@stanford.edu*](mailto:tryckman%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

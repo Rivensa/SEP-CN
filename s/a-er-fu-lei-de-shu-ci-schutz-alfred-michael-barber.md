@@ -92,7 +92,7 @@
 
 2016 年，舒茨学派的学术界纪念了托马斯·拉克曼的逝世，他是舒茨的著名学生之一，以多种方式发展了他的思想，并纪念了《现实的社会建构》出版 50 周年。这些纪念活动通过编辑三个重要的文集进行。这些作品关注拉克曼的工作，包括与舒茨合著的《生活世界的结构》。其中一些论文涉及舒茨思想的方面：社会制度的客观维度与将这些制度解释为主观主义和缺乏权力关系的观点相对立（Eberle 2019，Knoblauch 2019，Mijić 2018，Srubar 2019）；通过交流建构现实的可能性（Knoblauch 2019）；舒茨范式保留了行为体抵抗社会控制的潜力，与布迪厄的习惯观相对立（Dreher 2019）；身体在我们关系中的作用（Meyer 2018）；舒茨框架在面对创伤时解释韧性的能力（Endress 2021）；不平等作为强加的相关性（López 2021）；空间和身体性作为生活世界的重要组成部分，作为原社会学（Mijić 2018，Dörfler＆Rothfuss 2021，Steets 2021）；舒茨相关性理论中的自由度（Göttlich 2021）；舒茨现象学与法兰克福学派的最新代表之间的联系，如哈特穆特·罗萨（Gros 2021，Wannenmacher 2021）；以及生活世界作为数学普遍性的角色，即所有人类经验的基本结构，使得可以在不依赖任何特定文化特征的情况下进行文化比较（Dreher 2021，Meyer 2021，Sebald 2009）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Schutz
@@ -246,4 +246,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Michael Barber](http://www.slu.edu/colleges/AS/philos/site/people/faculty/Barber/) <[*michael.barber@slu.edu*](mailto:michael%2ebarber%40slu%2eedu)>
-<!--md-padding-ignore-end-->
+

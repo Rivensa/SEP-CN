@@ -224,7 +224,7 @@ On one way of reading the objection, starting with a broad generalization is obj
 
 在认识论中的实验结果引发了元认识论的问题。其中一个问题涉及我们使用“知道”模式的事实在多大程度上应该影响认识论理论（见 §3.2）。另一个相关的元认识论问题是询问直觉在认识论理论中的作用；这与实验结果声称测试民间（和专家）对案例的直觉有关。认识论中的实验结果鼓励的第三个元认识论问题是我们应该给予民间对案例的判断多大的权重。关于这个问题的一个众所周知的立场，即专家回应（例如，Williamson 2011; Ludwig 2007; Kauppinen 2007），认为哲学家对案例的判断很可能比普通人更可靠，因为前者的培训会使他们对所评估的案例的细微差别更敏感，并且更不容易受到无关的扭曲效应的影响（Egler & Ross 2020: 1079）。关于专家辩护的批评，参见例如 Machery (2015)和 Mizrahi (2015)。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahlstrom-Vij, Kristoffer, 2013, “Moderate Epistemic Expressivism”, *Philosophical Studies*, 163(2): 337–357. doi:10.1007/s11098-011-9818-y
@@ -410,4 +410,4 @@ On one way of reading the objection, starting with a broad generalization is obj
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [J. Adam Carter](https://www.gla.ac.uk/schools/humanities/staff/jadamcarter/) <[*jadamcarter@gmail.com*](mailto:jadamcarter%40gmail%2ecom)>  
 [Ernest Sosa](http://ernestsosa.com/) <[*sosaern@gmail.com*](mailto:sosaern%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

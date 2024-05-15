@@ -270,7 +270,7 @@ Immediately Tarski makes it clear that he is also not concerned with developing 
 
 关于塔尔斯基的工作和观点的一般哲学方面的文献包括 Suppes 1988; Woleński 1993; Sinaceur 2001; Feferman 2004b; Mycielski 2004; Mancosu 2005, 2009; Betti 2008; 和 Frost-Arnold 2008, 2013。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources: Works by Tarski
@@ -449,4 +449,4 @@ I thank Paolo Mancosu and Richard Zach for helpful comments on an earlier versio
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Mario Gómez-Torrente](http://www.filosoficas.unam.mx/~mariogt/home-eng.html) <[*mariogt@unam.mx*](mailto:mariogt%40unam%2emx)>
-<!--md-padding-ignore-end-->
+

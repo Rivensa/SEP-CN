@@ -194,7 +194,7 @@ Spivak 所强调的紧张关系，即西方主体既构成主导主体又是唯�
 
 洛德呼吁女性主义者在种族主义、性别歧视、异性恋歧视、阶级歧视和能力主义权力的不同涉及背景下，对自己的具体生活和自我感进行谦卑而坦诚的对抗。与其想象自己戴上思考帽子，然后反思“作为一个理论家”，再摘下帽子行事“作为一个普通人”，欧陆哲学建议，进行理论化的主体始终是一个具体的主体：Kris Sealey 提醒我们，“欧陆方法在种族和性别轴线上经常会有不同的折射”，因此，欧陆女性主义者应“有意识地对他们与种族和性别解放的关系同时占据的位置进行思考”（Sealey 2017: 166）。正如本文所示，欧陆女性主义思想的多样性是通过对许多不同斗争的深思熟虑的协商而发展起来的。为了让欧陆女性主义的想象社区继续增长并支持这些项目，必须不断为新的从业者腾出空间。因为正如我们所提到的，欧陆女性主义更关注的是改变女性在象征或社会体系中的地位，而不是颠覆这个体系本身，这个学术社区的成员必须继续努力，使彼此之间的学习成为可能。只有这样，欧陆女性主义才能充分展现其跨学科潜力。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abel, Elizabeth, Barbara Christian, and Helene Moglen (eds.), 1997, *Female Subjects in Black and White: Race, Psychoanalysis, Feminism*, Berkeley, CA: University of California Press.
@@ -678,4 +678,4 @@ Jameliah Inga Shorter-Bourhanou <[*jshorter@holycross.edu*](mailto:jshorter%40ho
 Ege Selin Islekel <[*eislekel@fordham.edu*](mailto:eislekel%40fordham%2eedu)>  
 Marie Draz <[*mdraz@sdsu.edu*](mailto:mdraz%40sdsu%2eedu)>  
 Erika Brown <[*ebrown43@villanova.edu*](mailto:ebrown43%40villanova%2eedu)>
-<!--md-padding-ignore-end-->
+

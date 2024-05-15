@@ -335,7 +335,7 @@ Fetzer (1988) 反对认为，演绎推理只能保证程序相对于其规范的
 
 自从纽厄尔和西蒙的图灵奖演讲以来，计算机科学可以被理解为一种特殊类型的经验科学，这与计算实验的性质有关。事实上，关于计算机科学的认识论地位的许多当前讨论涉及定义它是何种科学的问题（Tedre 2011，Tedre 2015），特别是计算机科学中实验的性质（Schiaffonati 和 Verdicchio 2014），计算中的定律和定理的性质（Hartmanis 1993；Rombach 和 Seelish 2008），以及计算机科学与软件工程之间的方法论关系（Gruner 2011）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abramsky, Samson & Guy McCusker, 1995, “Games and Full Abstraction for the Lazy λ-Calculus”, in D. Kozen (ed.), *Tenth Annual IEEEE Symposium on Logic in Computer Science*, IEEE Computer Society Press, pp. 234–43. doi:10.1109/LICS.1995.523259
@@ -612,4 +612,4 @@ Fetzer (1988) 反对认为，演绎推理只能保证程序相对于其规范的
 [Nicola Angius](https://uniss.academia.edu/NicolaAngius) <[*nangius@uniss.it*](mailto:nangius%40uniss%2eit)>\
 Giuseppe Primiero <[*giuseppe.primiero@unimi.it*](mailto:giuseppe%2eprimiero%40unimi%2eit)>\
 [Raymond Turner](http://cswww.essex.ac.uk/staff/turnr/) <[*turnr@essex.ac.uk*](mailto:turnr%40essex%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

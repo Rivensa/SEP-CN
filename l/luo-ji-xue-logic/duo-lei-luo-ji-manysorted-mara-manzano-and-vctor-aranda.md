@@ -850,7 +850,7 @@ Väänänen（2014）引入了一种用于多类逻辑的公理演算，作为�
 
 Väänänen（2014: 181）将多类逻辑应用于《数学基础》。他提出了在多类逻辑中可表征结构 A 中的真实概念，从而在这些结构中形成了一种新的一般真实 ⊨φ 和特定真实之间的区别。每当一般真实被归约为特定真实时，我们可以使用演算法来证明公式的可满足性。在某些约束条件下，任何在同构下封闭的结构类都可以在多类逻辑中定义（参见 Kennedy＆Väänänen 2021，定理 19）。因此，Väänänen 认为多类逻辑是一种“看待数学的替代方式”，与集合论不同，“关注的是定义而不是构造”（2014: 185）。它也是研究逻辑性和模型类的有趣工具（Kennedy＆Väänänen 2021）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abadi, Aharon, Alexander Rabinovich, and Mooly Sagiv, 2007, “Decidable Fragments of Many-Sorted Logic”, in *Logic for Programming, Artificial Intelligence, and Reasoning*, Nachum Dershowitz and Andrei Voronkov (eds.), (Lecture Notes in Computer Science 4790), Berlin, Heidelberg: Springer Berlin Heidelberg, 17–31. doi:10.1007/978-3-540-75560-9_4
@@ -943,4 +943,4 @@ Väänänen（2014: 181）将多类逻辑应用于《数学基础》。他提出
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 María Manzano <[*mara@usal.es*](mailto:mara%40usal%2ees)>  
 Víctor Aranda <[*vicarand@ucm.es*](mailto:vicarand%40ucm%2ees)>
-<!--md-padding-ignore-end-->
+

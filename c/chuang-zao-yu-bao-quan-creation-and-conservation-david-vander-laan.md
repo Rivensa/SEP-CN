@@ -145,7 +145,7 @@ Pavelich 暗示时间与连续创造之间的紧张关系甚至更深。根据�
 
 上述调查的论点说明了关于创造和保存的历史讨论和当代辩论是多方面的。关于神圣本质、人类本质、因果关系和时间的考虑都与保存是否应被理解为持续创造相关。因此，那些希望在辩论中占据立场的人的一个关键任务是评估这些不同论点中哪些最有说服力，哪些可以被可信的反对意见所回应。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aquinas, Thomas, 1274. *Summa Theologiae*, Fathers of the English Dominican Province (tr.), second revised edition, [available online](https://www.newadvent.org/summa/).
@@ -196,4 +196,4 @@ Pavelich 暗示时间与连续创造之间的紧张关系甚至更深。根据�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 David Vander Laan <[*vanderla@westmont.edu*](mailto:vanderla%40westmont%2eedu)>
-<!--md-padding-ignore-end-->
+

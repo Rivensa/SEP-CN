@@ -301,7 +301,7 @@ Equally interesting is the fact that Feyerabend too mentions the standard argume
 
 要做的第一个任务似乎相当简单：拿出这里提出的任何建议，并将其详细阐述成一个完整的几何体系。然后就可以与例如希尔伯特的公理化进行比较。第二个任务似乎相当严峻：使用这种离散几何，展示如何进行物理学研究。总的来说，这确实是一项巨大的任务，但有两种可能的途径可供选择。第一种途径是展示这种方法在经典力学中奏效。如果成功，这无疑将被视为支持离散提议的一个重要论据。事实上，已经做了一些非常重要的工作，我们需要的是经典力学的一个完全形式化版本，而不是留下许多事情未提及的教科书版本，但这可能对基础几何学至关重要。目前存在这样的版本，例如，Ax（1978），Andréka 等人（2008），Benda（2008），Ardourel（2012）等。事实上，最早的版本之一涉及帕特里克·苏普斯，参见麦金西，糖和苏普斯（1953）。因此，这个企业似乎是一个真正的可能性。第二种途径是继续探索在寻求量子场论和广义相对论统一的基础研究。直到几年前，这一切都是高度推测性的，如今一些认真的竞争者正在涌现并值得跟进。话虽如此，在数学和物理层面上仍有大量工作要做。可能最好的方式来描述当今情况是，一些关于几何中离散或有限主义方法的“著名”异议已经（部分）得到解答，并且提出了大量数学、物理和哲学建议和想法，并且已经开发或正在详细阐述部分模型。换句话说，满足了使得继续这一研究计划变得有趣的条件。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahmavaara, Yrjo, 1965a, “The Structure of Space and the Formalism of Relativistic Quantum Field Theory I.”, *Journal of Mathematical Physics*, 6(1): 87–93.
@@ -390,4 +390,4 @@ Equally interesting is the fact that Feyerabend too mentions the standard argume
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jean Paul Van Bendegem](https://clps.research.vub.be/jean-paul-van-bendegem-0) <[*Jean.Paul.Van.Bendegem@vub.be*](mailto:Jean%2ePaul%2eVan%2eBendegem%40vub%2ebe)>
-<!--md-padding-ignore-end-->
+

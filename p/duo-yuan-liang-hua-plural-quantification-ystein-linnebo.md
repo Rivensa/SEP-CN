@@ -433,7 +433,7 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 另一种可能性是整个争议最终只是一种伪争议（尤其参见 Florio 和 Linnebo 2016，以及 Parsons 1990；Shapiro 1993；Linnebo 2003；Rayo 2007；和 Linnebo 和 Rayo 2012）。如果双方都同意复数表达具有语义价值，并且双方都同意只有单数一阶术语和变量承担对象承诺，那么其他类型的术语和变量是否应被视为引入其自己独特类型的本体论承诺可能并不重要。一些哲学家谈论一个理论的意识形态承诺，而不仅仅是其本体论承诺。这意味着理论所使用的逻辑和概念资源。也许哲学家们应该更多地关注一个理论的意识形态承诺所引发的形而上学和认识论问题，而不太担心这些意识形态承诺是否也应被视为引入一种独特的本体论承诺。毕竟，本体论承诺的概念是一个理论性的概念，不具有哲学以外的明确内容。因此，也许我们应该将这个概念更多地视为提供良好哲学解释的手段，而不是目标本身。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armstrong, David, 1978, *Universals and Scientific Realism*, Vol. 1, Cambridge: Cambridge University Press.
@@ -565,4 +565,4 @@ Thanks to Salvatore Florio, Allen Hazen, Frode Kjosavik, Tom McKay, David Nicola
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Øystein Linnebo <[*oystein.linnebo@ifikk.uio.no*](mailto:oystein%2elinnebo%40ifikk%2euio%2eno)>
-<!--md-padding-ignore-end-->
+

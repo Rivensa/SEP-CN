@@ -98,7 +98,7 @@
 
 与过分强调萨巴雷拉和伽利略之间的联系相比，一个更有意义的历史问题是萨巴雷拉是否对 17 世纪的自然研究者产生了重大影响，这个问题必须回答肯定。然而，这种影响的范围和程度尚未完全探索。萨巴雷拉的思想在 16 世纪末和 17 世纪初对德国和低地国家的新教亚里士多德主义者产生了很大影响（Backus 1989；Maclean 2002）。令人惊讶的是，萨巴雷拉的著作甚至在偏远的斯堪的纳维亚国家早在 17 世纪初就已经被知晓（Mikkeli 2002）。萨巴雷拉对亚里士多德逻辑和自然哲学的清晰系统的解释被用作德国印刷的众多亚里士多德主义教科书的基础。此外，新教学者们发现萨巴雷拉对逻辑的工具主义观点对他们的神学目的很有用（Kusukawa 2002）。在不列颠群岛，17 世纪初的斯科拉复兴也很大程度上归功于萨巴雷拉的著作（Sgarbi 2012；Sgarbi 2013, 53–78）。最近有人考虑到萨巴雷拉在科学对象（res considerata）和考虑方式（modus considerandi）之间的区别是否对伊曼努尔·康德的哲学中的物质和形式之间的区别产生了影响（Sgarbi 2010）。萨巴雷拉对莱布尼茨的影响已经被注意到（Blank 2015；Lærke 2019）。甚至一些现代亚里士多德学者仍然继续参考他的评注以获得收益。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -207,4 +207,4 @@
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Heikki Mikkeli  
 Tawrin Baker <[*tawrin@gmail.com*](mailto:tawrin%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

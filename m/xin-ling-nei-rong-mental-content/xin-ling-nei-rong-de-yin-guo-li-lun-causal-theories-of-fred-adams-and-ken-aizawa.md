@@ -275,7 +275,7 @@ Rupert（2008）从两个方面对 Bridges 的论证的第一个前提提出质�
 
 尽管哲学家和认知科学家经常提出要摒弃（某种形式的）心灵表征（例如，Stich，1983 年，Brooks，1991 年，van Gelder，1995 年，Haugeland，1999 年，Johnson，2007 年，Chemero，2009 年），但这被普遍认为是对心灵思维的一次革命性转变。除非接受这些激进观点，否则人们自然会希望对心灵表征的产生有一些解释。在尝试这样的解释时，因果理论被广泛认为具有许多吸引人的特点。例如，如果心灵表征的一个用途是帮助人们跟踪世界上的事件，那么心灵与世界之间的某种因果关系是有意义的。尽管人们普遍承认由 Stampe、Dretske、Fodor 等人开发的早期理论面临严峻挑战，但这种吸引力已足以激发新的因果理论（例如 Rupert，1999 年，Usher，2001 年和 Ryder，2004 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, F., 1979, “A Goal-State Theory of Function Attribution,” *Canadian Journal of Philosophy*, 9: 493–518.
@@ -398,4 +398,4 @@ Rupert（2008）从两个方面对 Bridges 的论证的第一个前提提出质�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Fred Adams](https://www.lingcogsci.udel.edu/people/faculty/Frederick%20Adams)  
 [Ken Aizawa](https://ncas.rutgers.edu/about-us/faculty-staff/kenneth-aizawa)
-<!--md-padding-ignore-end-->
+

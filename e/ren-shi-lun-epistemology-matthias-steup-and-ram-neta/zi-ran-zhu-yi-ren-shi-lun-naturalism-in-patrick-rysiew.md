@@ -366,7 +366,7 @@ NE 受到了对 TE 方法和理想的各种关注的推动，例如对先验的�
 
 根据一些人的观点，与其暗示人类是非理性的，相关发现（在许多其他考虑因素之间）给了我们充分的理由去询问是否合理将“标准图景”视为提供相关规范标准。在此不讨论随之而来的辩论将使我们偏离主题（但请参阅注 27）。对于目前的目的而言，值得注意的是，它与 NE 内部和外部辩论具有许多相似之处。在理性辩论中，实证结果和心理可行性的考虑起着重要作用，许多朋友们在批评 TE 时所诉诸的事实和因素（例如，请参见上述 1.2 和 3.2 节）在这里重新出现，要么作为对 SP 的批评，要么作为对合理性充分概念的约束。最后，与 NE 内部和外部辩论一样，关于理性的讨论涉及对规范和心理考虑的呼吁，许多最具争议的问题涉及如何最好地平衡它们有时相互竞争的主张。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Pagination of in-text citations follows that of the reprint, where page numbers for the latter are given below.
@@ -588,4 +588,4 @@ The author thanks an anonymous referee, Alvin Goldman, Hilary Kornblith, Joshua 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Patrick Rysiew](http://web.uvic.ca/~rysiew/) <[*rysiew@uvic.ca*](mailto:rysiew%40uvic%2eca)>
-<!--md-padding-ignore-end-->
+

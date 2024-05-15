@@ -168,7 +168,7 @@ Anscombe 在这个问题上的立场很难捉摸，可能与她关于意向和�
 
 这些辩论中隐含着一个关于无根据（非感知、非推理）自知范围的问题。对于没有足够先前证据形成的信念的一概反对是站不住脚的：我经常知道我相信什么，而不是基于感知或推理来获得这种知识。这种无根据的知识是否仅限于我们的心理状态？或者它是否可以延伸到我们正在做的事情和将要做的事情？比较关于内容的外在主义：至少通常来说，相信 p 对于构成我们皮肤外的世界有着影响；但它仍然可以被自知（Burge 1988）。为什么意向行动不可能也是如此呢？无论如何解读，安斯康姆的《意向》的目标之一是打破笛卡尔对于自知世界中正在发生的事情的偏见。如果她在这个努力中失败了，她至少为未来的工作指明了一个任务：即判断这是否确实是一种偏见或对实践知识和意向涉及信念的可能性的决定性障碍。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alonso, F., 2020, ‘Planning on a Prior Intention,’ *Journal of Ethics and Social Philosophy*, 18: 229–265. [[Alonso 2020 available online](https://doi.org/10.26556/jesp.v18i3.850)]
@@ -330,4 +330,4 @@ Thanks to Michael Bratman, Luca Ferrero, and Niko Kolodny for valuable comments 
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Kieran Setiya](http://www.ksetiya.net/) <[*ksetiya@mit.edu*](mailto:ksetiya%40mit%2eedu)>
-<!--md-padding-ignore-end-->
+

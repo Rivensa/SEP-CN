@@ -122,7 +122,7 @@
 
 现在，里米尼的格里高利 的作品以可靠的现代版本问世，他开始受到更多直接的关注，例如在奥伯曼 1981 年的论文集中以及 2000 年在里米尼举办的专门致力于格里高利生平和思想的会议中（2003 年出版的《里米尼的格里高利。里米尼的哲学家》）。希望进一步研究他在巴黎和牛津的前辈在各个单一问题上的研究，将使我们更清晰地看到他的创新。最近的研究表明，他并不总是像人们曾经认为的那样独创，但这并不以任何方式减弱他在哲学史上的重要地位。此外，格里高利有时确实提出了解决问题的新方案，即使他没有，由于他的论述清晰而全面，他的观点往往成为后来思想家从他的前辈那里采纳并发展的思想的主要来源。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -221,4 +221,4 @@ The editors would like to thank Russell Friedman for his help in checking the 20
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Christopher Schabel  
 Charles Girard <[*Charles.Girard@unige.ch*](mailto:Charles%2eGirard%40unige%2ech)>
-<!--md-padding-ignore-end-->
+

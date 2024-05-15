@@ -144,7 +144,7 @@
 
 科伊雷的工作影响了托马斯·库恩和其他将“科学革命”作为其历史叙述中的核心特征的人。然而，库恩和后来的历史取向的哲学家和科学社会学家的工作确实试图重新整合迪昂共同追求但在 20 世纪大部分时间被分开的哲学和历史研究。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -267,4 +267,4 @@ Duhem often first published his main works, such as *Les théories électriques
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Roger Ariew](http://philosophy.usf.edu/faculty/rariew/) <[*rariew@usf.edu*](mailto:rariew%40usf%2eedu)>
-<!--md-padding-ignore-end-->
+

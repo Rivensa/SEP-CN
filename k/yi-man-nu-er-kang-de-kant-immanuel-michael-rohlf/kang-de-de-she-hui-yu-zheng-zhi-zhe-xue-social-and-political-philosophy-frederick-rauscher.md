@@ -122,7 +122,7 @@ In the essay “Toward Perpetual Peace”, Kant offers a set of six “prelimina
 
 社会哲学的第三种方法是通过康德的《实用观点下的人类学》。康德将人类学设想为伦理学的实证应用，类似于纯粹形而上学原理应用于自然的实证物理学。了解人类的一般特征以及性别、种族、国籍等特定特征，可以帮助确定对特定个体的确切职责。此外，这种知识可以帮助道德行为者完成自己的道德激励任务。然而，在康德的文本细节中，人类学在实际应用中的承诺并未兑现。他对社会偏见或实践的批判性评估很少，无法筛选出对道德发展有害的刻板印象。他自己的个人观点，被普遍认为是性别歧视和种族歧视的，即使在今天，甚至与他的一些更进步的同事不一致，也贯穿于他对这些社会制度的直接讨论中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -222,4 +222,4 @@ The secondary sources listed below are limited to books of two types: monographs
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Frederick Rauscher](http://www.philosophy.msu.edu/people/faculty/frederick-rauscher/) <[*rauscher@msu.edu*](mailto:rauscher%40msu%2eedu)>
-<!--md-padding-ignore-end-->
+

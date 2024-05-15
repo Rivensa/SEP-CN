@@ -94,7 +94,7 @@ Trendelenburg 的全面讨论是最重要的，他的结果是典型的：他对
 
 毫无疑问，19 世纪下半叶出现的新逻辑是在莱布尼茨精神的指导下创造的。至少从 19 世纪 40 年代起，莱布尼茨的逻辑和形而上学计划以及他关于逻辑演算的思想的要点就已经可得。厄德曼对哲学著作的编辑和特伦德伦堡对莱布尼茨符号学的阐述是 19 世纪末数学逻辑学家进一步接受莱布尼茨思想的最重要的步骤。一旦这些逻辑学家意识到莱布尼茨的思想，他们就认识到了莱布尼茨的亲和性，并接受了他的优先权。但逻辑系统基本上已经建立起来。因此，在 19 世纪下半叶现代逻辑出现时，莱布尼茨对其没有最初的影响。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aiton, E. J. , 1985, *Leibniz. A Biography*, Bristol/Boston: Adam Hilger.
@@ -180,4 +180,4 @@ Trendelenburg 的全面讨论是最重要的，他的结果是典型的：他对
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Volker Peckhaus <[*volker.peckhaus@upb.de*](mailto:volker%2epeckhaus%40upb%2ede)>
-<!--md-padding-ignore-end-->
+

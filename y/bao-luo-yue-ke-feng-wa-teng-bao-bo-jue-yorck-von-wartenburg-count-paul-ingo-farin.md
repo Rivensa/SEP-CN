@@ -178,7 +178,7 @@
 
 > 当我说路德对现在比康德更有时代性，如果这个现在要有一个历史未来的话，你可能不会同意。（CR，第 145 页）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -239,4 +239,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Ingo Farin <[*ingo.farin@posteo.net*](mailto:ingo%2efarin%40posteo%2enet)>
-<!--md-padding-ignore-end-->
+

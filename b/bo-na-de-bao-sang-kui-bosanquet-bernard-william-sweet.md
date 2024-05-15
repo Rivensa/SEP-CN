@@ -266,7 +266,7 @@ Colin Tyler (2002) 认为，伯纳德·鲍桑葵的政治思想也可以为适�
 
 近年来，人们对伯纳德·鲍桑葵的作品产生了新的兴趣，特别是关于他的哲学和社会思想。鉴于过去四十年关于黑格尔、格林以及最近布拉德利的研究数量众多，以及对英国唯心主义作品的重要性以及其在哲学史上的地位的重新评估，人们对伯纳德·鲍桑葵哲学的贡献也在稳步重新考虑。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -479,4 +479,4 @@ Several of Bosanquet’s undergraduate essays appear in
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 William Sweet <[*wsweet@stfx.ca*](mailto:wsweet%40stfx%2eca)>
-<!--md-padding-ignore-end-->
+

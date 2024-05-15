@@ -282,7 +282,7 @@
 
 有令人信服的理由来认为单称命题是自然语言和我们的态度的一些句子的内容。但是，单称命题引发了形而上学上的困难，因为传统上认为命题是必要的、永久的存在物，而普通对象则不是。解决这些困难需要对模态和时间的形而上学一般问题采取立场。在本文中，我们概述了接受单称命题的一些理由，考察了它们所带来的形而上学困难，并区分了解决这些困难的几种策略。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Philosophy of Language and Mind: Sections 1–4
@@ -466,4 +466,4 @@ Sadly, Gregory Fitch passed away January 27, 2007. Prior to his death, he made a
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 Greg Fitch\
 Michael Nelson <[*mnelson@ucr.edu*](mailto:mnelson%40ucr%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -188,7 +188,7 @@ T.M. Scanlon 的“我们彼此应该做什么”契约主义理论的修改版�
 
 一种非常不同的普遍主义的实践论证根植于康德传统，并最近由斯蒂芬·达沃尔（2013 年，另见达沃尔 2006 年）提出。他认为，公开可表述的原则对于我们实现一种有价值的人际责任在我们共享的道德生活中是必要的。他进一步认为，这种责任对于道德义务是必要的（尽管不一定对于道德理由）。在这里发展的框架内，人们可以将达沃尔的论证视为对标准普遍主义的辩护，但论证仅限于道德义务的标准。或者，人们可以将其视为一种实践论证，试图制定共享的公共原则，因为如果我们未能这样做（或未能继续这样做），我们将失去我们认为道德中有价值的东西，即在人际责任实践中固有的对个人的尊重（达沃尔 2013 年：特别是 183-191 页）。达沃尔的论证与 T.M.斯坎伦所捍卫的康德契约主义非常契合，后者强调我们能够向他人证明自己的价值，并将原则视为调解证明的手段。将达沃尔的论证与朱尔根·哈贝马斯（Jürgen Habermas）所倡导的话语伦理学传统中的一些观点进行比较也可能是有益的（参见，例如，哈贝马斯 1990 年）。这个论证面临的一个重要挑战是有说服力地建立起责任（或人际证明）必须参照原则的前提。特殊主义者可能会承认责任是一个重要的价值观，同时主张在处理具体案例时，相互追究责任的人际过程可以完全依靠在该案例中起作用的理由、阻碍因素、促进因素和强化因素。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ainslie, George, 1975, “Specious Reward: A Behavioural Theory of Impulsiveness and Impulse Control”, *Psychological Bulletin*, 82(4): 463–96.
@@ -318,4 +318,4 @@ T.M. Scanlon 的“我们彼此应该做什么”契约主义理论的修改版�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Michael Ridge](http://www.philosophy.ed.ac.uk/people/full-academic/michael-ridge.html)  
 [Sean McKeever](https://www.davidson.edu/academics/philosophy/faculty-and-staff/sean-mckeever)
-<!--md-padding-ignore-end-->
+

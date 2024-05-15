@@ -296,7 +296,7 @@ Radford 的论述引起了许多出版物，使问题的讨论保持活跃。实
 
 这篇文章关注了小说哲学中的一些核心问题：小说的本质；说某事是小说的真实意味着什么；我们可以从小说中学到什么（以及在什么意义上）；以及我们如何对小说人物产生情感反应。在这篇文章中还可以讨论小说哲学中的其他问题，其中一些问题是相关条目的主题。考虑到什么使某事成为文学小说作品的正确解释的问题。这个话题与小说中的真实问题有关，自从 Wimsatt 和 Beardsley 的《意图谬误》（1946 年）出版后，这个话题引起了哲学家和文学理论家的极大兴趣，尽管解释这个话题本身的历史可以追溯到希腊古代（参见解释学条目）。还有一些问题涉及我们寻找各种小说作品的原因。前一节讨论了所谓的小说悖论，但事实证明，这只是我们与小说作品互动中涉及的问题集合中的一个相对新问题。还有一个备受争议的难题，即为什么我们喜欢悲剧作品（甚至恐怖作品）；悲伤和恐惧几乎不是我们通常乐于接受，更不用说享受的情感，然而人们很容易与悲剧作品互动。（所谓的悲剧悖论在亚里士多德的《诗学》中得到了著名的论述，至今在当代哲学中仍在争论，他还将悲剧作为我们如何从小说中学习的一个例子。）一个较新的问题，尽管讨论至少可以追溯到休谟，是所谓的想象力阻抗问题：鉴于小说读者可以轻松地想象各种不太可能的虚构情景，甚至是不可能的情景，那么当我们被要求想象某些情况时，例如认为虐待无辜者是道德正确的情况时，我们面临的障碍是什么？（有关这些难题的概述，请参阅有关想象力的补充条目）。将这些不同的问题和议题并置在一起不仅很好地展示了当代小说哲学的主题丰富性，而且提醒我们其悠久的历史。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle, *Aristotle’s Poetics*, trans. Stephen Halliwell, 1998, Chicago: University of Chicago Press.
@@ -521,4 +521,4 @@ We would like to express our heartfelt thanks to Paul Oppenheimer for his unstin
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Fred Kroon](http://artsfaculty.auckland.ac.nz/staff/?UPI=fkro002) <[*f.kroon@auckland.ac.nz*](mailto:f%2ekroon%40auckland%2eac%2enz)>  
 [Alberto Voltolini](http://www.lettere.unito.it/do/docenti.pl/Show?_id=avoltoli) <[*alberto.voltolini@unito.it*](mailto:alberto%2evoltolini%40unito%2eit)>
-<!--md-padding-ignore-end-->
+

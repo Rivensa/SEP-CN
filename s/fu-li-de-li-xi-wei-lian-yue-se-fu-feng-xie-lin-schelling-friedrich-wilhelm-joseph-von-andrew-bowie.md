@@ -156,7 +156,7 @@ McGrath（2021）也采用了主要的神学方法，但这次是对谢林晚期
 
 在这个意义上，谢林可以被视为开创了“启蒙的辩证法”的概念。谢林所看到的与哲学密不可分的自由是一种潜力，即全面关注认知确定性可能成为我们需要解放自己的东西，因为我们对世界的理解有许多方式，这些方式不能简化为认知。因此，理性必须包含一种对自身的易犯错误性和历史性的意识，因为它涉及谢林所称的“必须成为认知基础的黑暗基础”（SW I.7: 413）。我们并不总是通过了解需求以及为什么某些事物看起来美丽、压倒性、毫无意义等来处理需求和冲动，或者从参与自然世界中获得的意义。相反，我们可能会以表达的方式行动，寻求认知世界无法提供的意义。谢林关注的复兴对于人类与自然的关系明显处于危机之中的世界可能产生多大影响，还有待观察。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Editions of Schelling’s Work
@@ -404,4 +404,4 @@ McGrath（2021）也采用了主要的神学方法，但这次是对谢林晚期
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Andrew Bowie](http://www.rhul.ac.uk/German/About-Us/bowie.html) <[*andrewbowie@btinternet.com*](mailto:andrewbowie%40btinternet%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -274,7 +274,7 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 
 基督教通过教授个人宗教性和严格的个人道德责任来挑战日本佛教徒。清沢提供了一个试图解决这些问题的著名例子。关于阿弥陀佛和净土的起源叙事，戈登和其他基督教传教士认为这是佛教传统中明显的虚构，曾经在这些批评背后的基督教资源中，曾经找到了解决问题的资源。日本的大乘佛教传统已经发展出了自己的慈悲从空无或无形现实中出现以及业力有为和无为的非二元性的概念。这些思想为接纳和进入某些领域的基督教和西方哲学思想提供了开放性。在 20 世纪，哲学家如西田幸一郎，田边元，西谷啓治，竹内好德和阿部正雄在处理现代哲学问题时借鉴了基督教和日本佛教传统，特别是净土宗和禅宗。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -369,4 +369,4 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Dennis Hirota <[*hirota.dennis@gmail.com*](mailto:hirota%2edennis%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

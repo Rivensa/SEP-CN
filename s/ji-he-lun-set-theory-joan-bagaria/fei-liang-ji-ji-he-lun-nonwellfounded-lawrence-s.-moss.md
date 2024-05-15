@@ -1018,7 +1018,7 @@ AFA 等价于(V, )是类上 ℘ 的最终余代数的断言。
 
 另一个重点是在第 4.5 节中提出的概念性观点。这个想法是将集合论循环性的数学置于更大的主题共代数中，并通过“自下而上”和“自上而下”思想之间的更大分歧来理解这两个观点。这个更大的讨论比我们希望的要有计划性，还有很多工作要做。我们希望它能帮助读者理解集合论循环性，包括它是如何工作的，以及为什么它具有吸引力。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aczel, P., 1988, *Non-Well-Founded Sets* (CSLI Lecture Notes: Number 14), Stanford: CSLI Publications.
@@ -1075,4 +1075,4 @@ I would like to thank Edward Zalta and Uri Nodelman for their advice, encouragem
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Lawrence S. Moss](http://www.indiana.edu/\~iulg/moss/) <[*lmoss@indiana.edu*](mailto:lmoss%40indiana%2eedu)>
-<!--md-padding-ignore-end-->
+

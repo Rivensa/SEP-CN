@@ -205,7 +205,7 @@ Peacocke 本人最终接受了自主论，理由是在具备真正客观空间�
 
 最后，应该重申非概念性内容的概念本质上是对比性的，而该概念的重要性取决于与之对比的概念理解方式。对于一个对于拥有概念的要求较高和严格的理论家来说，一些心理状态可能被视为非概念性的，但对于一个对概念持更宽松观点的理论家来说，这些状态可能是概念性的。在我们能够合理地声称对非概念性内容的概念可能性有全面理解之前，我们需要对拥有概念的本质有比目前更清晰的认识。正如我们之前所看到的，在最简化的概念观点中，思考者可以被认为拥有关于 F 的概念，只要他能够区分出 F 的事物和非 F 的事物。更丰富的概念观点可能要求思考者对判断某事物为 F 的依据有充分的认识。最严格的概念观点可能要求思考者能够证明和辩护某事物是 F 的判断。显然，在这个广泛的光谱上的不同位置将产生不同的对于什么是非概念性内容的思考方式，以及对于该概念整体意义的不同评估。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 An [enhanced copy of the bibliography for this entry with links at PhilPapers](http://philpapers.org/sep/content-nonconceptual/) is available.
@@ -369,4 +369,4 @@ Many of the papers listed below are reprinted in the anthology *Essays on Nonco
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 José Bermúdez <[*jbermudez@tamu.edu*](mailto:jbermudez%40tamu%2eedu)>  
 [Arnon Cahen](http://cahena.googlepages.com/) <[*acahen@wustl.edu*](mailto:acahen%40wustl%2eedu)>
-<!--md-padding-ignore-end-->
+

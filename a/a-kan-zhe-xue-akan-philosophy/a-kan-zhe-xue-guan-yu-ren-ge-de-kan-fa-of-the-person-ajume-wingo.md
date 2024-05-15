@@ -104,7 +104,7 @@ Gyekye 正确地认识到，自我批评的可能性要求人能够与自己的�
 
 人格的定义是以社会成就和个人关系为基础，恰当地有助于建立那些有利于创造信息流动和义务的网络，以促进社区信任的建立。从这个角度来看，阿坎人格的概念有助于支持社会合作，并提供了一个非常适合解决集体行动问题的框架。阿坎人创造了一种激励个体为社会公益做出贡献的方式，同时确保即使是最不产出的个体的道德价值也得以保留。对于阿坎人来说，人格是为了对社区做出贡献而获得的回报，个体的道德价值的基础在于一个独立的来源——共同的人性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abraham, W.E., 1962, *The Mind of Africa*, Chicago: University of Chicago Press.
@@ -170,4 +170,4 @@ Gyekye 正确地认识到，自我批评的可能性要求人能够与自己的�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Ajume Wingo](http://www.colorado.edu/philosophy/people/ajume-wingo)
-<!--md-padding-ignore-end-->
+

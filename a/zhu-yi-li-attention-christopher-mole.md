@@ -453,7 +453,7 @@ Simone Weil 认为，注意力在伦理学中起着绝对核心的作用，并�
 
 推动这种社会变革的技术确实对注意力产生影响。已经进行的实证研究倾向于将这些影响与其下游的社会后果联系起来，而不是与其直接的认知基础联系起来。例如，罗森、卡里尔和奇弗观察了社交媒体对学校和大学学生学习习惯的影响，并将这些影响与教育表现联系起来，以提出一些可能改善这些影响的教学策略（罗森等，2013 年）。这些理论家与哲学家或认知心理学家提供的注意力解释相对较少有理论上的联系，尽管有一些人（如阿奇利和莱恩，2014 年）提到了注意力瓶颈理论，以解释注意力需求技术如何减少用于其他目的的注意力（见上文第 2.1 节）。与注意力的认知基础理论相比，关于注意力经济心理效应的主张通常与成瘾的心理基础理论联系起来（例如，巴尔瓦加和韦尔斯克斯，2020 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allport, A., 1987, “Selection for action: Some behavioural and neurophysiological considerations of attention and action”, in *Perspectives on perception and action*, A. Sanders and H. Heuer (eds.), Hillsdale, NJ: Lawrence Erlbaum Associates, pp. 395–419.
@@ -697,4 +697,4 @@ Simone Weil 认为，注意力在伦理学中起着绝对核心的作用，并�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Christopher Mole](https://philosophy.ubc.ca/profile/christopher-mole/) <[*cmole@mail.ubc.ca*](mailto:cmole%40mail%2eubc%2eca)>
-<!--md-padding-ignore-end-->
+

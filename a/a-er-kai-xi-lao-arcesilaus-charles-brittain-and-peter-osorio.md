@@ -173,7 +173,7 @@ NRB 观点可以否认阿尔凯西劳个人致力于捍卫普遍悬置生命的�
 
 很明显，对阿尔凯西劳的任何解释都必须考虑到他作为一位善于运用苏格拉底方法无情地对抗他的哲学同代人的大师辩论家的声誉，以及他臭名昭著的主张不可理解性和普遍悬置。鉴于证据的矛盾性和稀缺性，现代评论家对于“辩证法”或各种“教义”解释阿尔凯西劳的成功以及后者提出的不同种类的怀疑主义的一致性并不一致，这或许并不令人意外。但进一步的进展并没有被排除，因为我们可以提供更复杂的哲学阐释这些怀疑主义形式，并通过引用后来学院中多样但更可靠的传统来测试它们的历史可信度。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Sources
@@ -377,4 +377,4 @@ Academy, Plato’s | [belief](https://plato.stanford.edu/entries/belief/) | 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Charles Brittain](https://classics.cornell.edu/charles-brittain) <[*cfb9@cornell.edu*](mailto:cfb9%40cornell%2eedu)>  
 [Peter Osorio](http://classics.utoronto.ca/people/postdoctoral-fellows/peter-osorio/) <[*peter.osorio@utoronto.ca*](mailto:peter%2eosorio%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

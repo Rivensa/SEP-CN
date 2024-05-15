@@ -304,7 +304,7 @@ x 是一种物质 =df x 是一个特定的物质，并且不存在一个特定�
 
 然而，有一些推测性的建议认为本体论依赖链可以无限地继续下去，从而违反了良基性的要求（有关讨论，请参见 Bliss 2013、Morganti 2014 和 Tahko 2014）。由此产生的观点似乎是某种形而上学的无限主义，而不是形而上学的基础主义。如果将这种观点的一个版本与依赖方向朝向较小的想法相结合，就是“gunky”本体论，其中物质是无限可分的“gunk”，对象或物质没有最小的部分。但是，尽管这些观点和围绕基础性的讨论很有趣，但在这里详细讨论它们将使我们偏离我们最初的主题（有关进一步讨论，请参见关于基础性的单独条目）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle, *Categories*, in *Categories and De Interpretatione*, trans. J. L. Ackrill, Oxford: Clarendon Press, 1963.
@@ -403,4 +403,4 @@ x 是一种物质 =df x 是一个特定的物质，并且不存在一个特定�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Tuomas E. Tahko](http://www.ttahko.net/) <[*tuomas.tahko@bristol.ac.uk*](mailto:tuomas%2etahko%40bristol%2eac%2euk)>  
 [E. Jonathan Lowe](http://www.dur.ac.uk/philosophy/staff/?username=dfl0ejl)
-<!--md-padding-ignore-end-->
+

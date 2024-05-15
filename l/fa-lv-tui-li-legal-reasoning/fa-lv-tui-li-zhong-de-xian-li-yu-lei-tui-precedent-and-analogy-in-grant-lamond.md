@@ -220,7 +220,7 @@
 
 在一个制度化的系统中，有许多决策者和各种各样的法律材料，决策的可预测性与法律的道德改进之间存在着紧张关系。在这样的背景下，先例和类推有助于保证决策的可预测性，同时给法院留下改进法律的空间。它们以两种不同的方式实现这一点。先例是可以区分的（并且可以被推翻），而类推则提供了达到特定结果的非决定性理由。这些妥协的成功取决于决策者之间在法律所服务的重要价值观上存在一定程度的背景共识——在普遍和深刻的价值分歧面前，这两种措施都会过于脆弱。法律中存在一系列机制，有助于维持这种相对共识：法律教育、工作环境以及对法官候选人的选拔，都倾向于产生比普通社区更多的一致性。此外，还存在一种内部反馈机制——在决定案件时，法院意识到他们的决定可以被区分（以及推翻），只有他们的裁决对后来的法院具有约束力。这给他们提供了充分的理由，以基于广泛认可的价值观为基础来推动辩护。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alexander, L., 1989, ‘Constrained by Precedent’, *Southern California Law Review* 63: 1–64
@@ -303,4 +303,4 @@ I am grateful to Liam Murphy and Joseph Raz for their very helpful comments on a
 
 [Copyright © 2006](https://plato.stanford.edu/info.html#c) by  
 [Grant Lamond](http://www.law.ox.ac.uk/people/profile.php?who=lamondg) <[*grant.lamond@balliol.ox.ac.uk*](mailto:grant%2elamond%40balliol%2eox%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

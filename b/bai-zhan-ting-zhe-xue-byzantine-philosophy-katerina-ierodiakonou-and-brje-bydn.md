@@ -169,7 +169,7 @@ Pachymeres 对 Plato 的关注并非巧合。如果这一时期对亚里士多�
 
 因此，意大利奥斯（Italos）对三种类别的立场可以总结如下：所有类型的类别都是非物质的存在，先于个别体的类别是实体，而个别体内的类别以及个别体后的类别是存在于其他事物中的存在。也就是说，尽管只有上帝、上帝的思想和可感知的个体在强意义上存在为实体，所有类型的类别都是存在者；它们可能是以不同意义上的存在者，但它们都是存在者，而不是我们心灵中缺乏现实的构造。因此，将意大利奥斯称为“名义主义者”可能会产生误导，因为他并不支持“*in rebus*”和“*post res*”类别仅仅是表达的观点，但将他称为“现实主义者”也可能会产生误导，因为他并不认为“*in rebus*”和“*post res*”类别是实体。可以推测，正是这种难以确定意大利奥斯立场的困难导致了引入“概念主义者”和“概念”或“中间实在主义者”等中间标签。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -504,4 +504,4 @@ Pachymeres 对 Plato 的关注并非巧合。如果这一时期对亚里士多�
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Katerina Ierodiakonou <[*katerina.ierodiakonou@unige.ch*](mailto:katerina%2eierodiakonou%40unige%2ech)>\
 Börje Bydén <[*borje.byden@gu.se*](mailto:borje%2ebyden%40gu%2ese)>
-<!--md-padding-ignore-end-->
+

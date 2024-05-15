@@ -79,7 +79,7 @@
 
 一些文本仍需要更好地编辑。一些文本尚未被任何欧洲语言或英语翻译。学者们似乎并不总是完全意识到可用的资源和其他学者的观点。仍然需要做更多的工作，但是对于阿里·法拉比的作品，一个更清晰和更复杂的画面正在浮现。它突显了他们的广度和复杂性，尽管我们仍然难以将所有部分拼凑在一起。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Research Tools
@@ -214,4 +214,4 @@ The following are listed by editors/translators:
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Therese-Anne Druart](http://philosophy.cua.edu/faculty/druart/) <[*druart@cua.edu*](mailto:druart%40cua%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -260,7 +260,7 @@ Géraud de Cordemoy 的作品似乎直接影响了 Malebranche，正如 Malebran
 
 鉴于对偶因论的理解，正如我们在开头提到的，偶因论可以被理解为一种关于因果关系的形而上学，它促使我们对通常被认为在这个世界中起作用的因果相互作用持有更加辨别的态度。偶因论者抵制对这些表面上的因果相互作用的笼统、单一的理解，并主张我们在世界中区分两种关系，即真正的因果关系和偶然因果关系，其中后者的关系最终和根本上是基于前者的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -355,4 +355,4 @@ Géraud de Cordemoy 的作品似乎直接影响了 Malebranche，正如 Malebran
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Sukjae Lee <[*leesukjae@snu.ac.kr*](mailto:leesukjae%40snu%2eac%2ekr)>
-<!--md-padding-ignore-end-->
+

@@ -156,7 +156,7 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 
 还有许多未尽之处。然而，变化与不一致之间的联系是深刻的，而在运动和其他变化中存在不一致的论点出人意料地坚固。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Cohen, S. Marc, 2001, “Aristotle’s Metaphysics,” *Stanford Encyclopedia of Philosophy* (Winter 2001 Edition), Edward N. Zalta (ed.), URL = <[Aristotle�s Metaphysics (Stanford Encyclopedia of Philosophy/Winter 2001 Edition)](https://plato.stanford.edu/archives/win2001/entries/aristotle-metaphysics/)>.
@@ -210,4 +210,4 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[*Chris.Mortensen@adelaide.edu.au*](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

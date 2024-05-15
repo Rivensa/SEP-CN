@@ -396,7 +396,7 @@ Kalmanson（2017）延续了 Jenco 的主题，描述了从中国文本中获得
 
 > 圣人之言，蕴含深邃。阅读时，要深入探究。如果你只看表面，就会误解。沉浸于言辞之中；只有这样，你才能领会其含义。（翻译，Gardner 1990 128）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ames, Roger, 2008, “Paronomasia: A Confucian Way of Making Meaning”, in *Confucius Now*, David Jones (ed.), Chicago and LaSalle: Open Court Publishing Company.
@@ -527,4 +527,4 @@ The author acknowledges good friends Roger Ames and Michael Nylan, who made many
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Henry Rosemont Jr.
-<!--md-padding-ignore-end-->
+

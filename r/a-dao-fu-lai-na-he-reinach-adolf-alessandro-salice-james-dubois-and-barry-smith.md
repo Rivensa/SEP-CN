@@ -133,7 +133,7 @@ Karl Schuhmann 和 Barry Smith 对 Reinach 的作品进行了批判性的编辑�
 
 莱纳赫在形成和推动现象学运动方面的历史作用仍然没有得到充分的赞赏。但更重要的是，他的系统洞见也可以说是如此：他的许多思想仍在等待在当代辩论中重新激活，特别是在心灵哲学、行动哲学、价值论、法律哲学和社会本体论等领域。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Works by Reinach
@@ -255,4 +255,4 @@ Alessandro Salice’s sincere thanks go to Jason Dockstader and Danny Forde for 
 Alessandro Salice <[*alessandro.salice@ucc.ie*](mailto:alessandro%2esalice%40ucc%2eie)>  
 James DuBois <[*jdubois@wustl.edu*](mailto:jdubois%40wustl%2eedu)>  
 [Barry Smith](http://ontology.buffalo.edu/smith/) <[*phismith@buffalo.edu*](mailto:phismith%40buffalo%2eedu)>
-<!--md-padding-ignore-end-->
+

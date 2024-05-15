@@ -119,7 +119,7 @@ D. Black 意识到，阿里·法拉比对确定性的前三个条件似乎唤起
 
 因此，似乎阿里·法拉比对演示科学有着严格的概念，受亚里士多德的《后分析》的启发。然而，尽管阿里·法拉比在他对哲学的概念中赋予了演示和绝对确定性一个相关的位置，但他也认为我们的知识不仅限于绝对确定性。他还考虑到其他形式的知识，这些知识可以引导我们达到所谓的非必要确定性，就像我们通过非演示逻辑艺术获得的不同种类的知识一样。在这方面，阿里·法拉比认为，从不同种类的论证中，我们可以构想出不同程度的确定性，因此，不同种类的信念（从绝对确定性到非必要确定性或强烈信念）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -188,4 +188,4 @@ D. Black 意识到，阿里·法拉比对确定性的前三个条件似乎唤起
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Luis Xavier López-Farjeat <[*llopez@up.edu.mx*](mailto:llopez%40up%2eedu%2emx)>
-<!--md-padding-ignore-end-->
+

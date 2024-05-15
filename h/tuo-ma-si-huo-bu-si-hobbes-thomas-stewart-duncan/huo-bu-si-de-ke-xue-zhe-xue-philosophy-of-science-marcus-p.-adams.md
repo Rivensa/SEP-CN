@@ -150,7 +150,7 @@
 
 霍布斯的民间哲学制造者知识观从这两点中汲取见解，并理解霍布斯的民间哲学如下所示。霍布斯在《利维坦》第 13 章从人体的“自然状态”出发开始民间哲学，继续考虑如何通过自然法则中的命令来移动这些身体，以促进和平，并最终将它们聚集在一起组成共和国。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -218,4 +218,4 @@ Other Authors:
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Marcus P. Adams](http://marcuspadams.wordpress.com/) <[*madams2@albany.edu*](mailto:madams2%40albany%2eedu)>
-<!--md-padding-ignore-end-->
+

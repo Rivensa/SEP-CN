@@ -136,7 +136,7 @@ Alice Rossi 批评了这种对于估计密尔对密尔影响的“极简主义�
 
 在这里，关于泰勒·密尔个人品质的问题，她是否撰写或合著了哲学作品，以及她对密尔哲学事业产生了多大影响，目前还没有得出确定的结论。我们所做的只是呈现出对这些问题给出的各种回答。现有的证据可能过于稀少和矛盾，以至于我们永远无法得出确定的答案。因此，泰勒·密尔可能注定成为哲学史上一个本质上有争议的人物。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -219,4 +219,4 @@ The author gratefully acknowledge the assistance that I have received from Matth
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Dale E. Miller](http://www.drdaleemiller.net/) <[*demiller@odu.edu*](mailto:demiller%40odu%2eedu)>
-<!--md-padding-ignore-end-->
+

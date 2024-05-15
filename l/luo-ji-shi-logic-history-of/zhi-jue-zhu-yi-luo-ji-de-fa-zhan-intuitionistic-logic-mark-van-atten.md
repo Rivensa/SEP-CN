@@ -578,7 +578,7 @@ Heyting 后来声称 Kolmogorov 的意义解释和他自己的解释是相同的
 
 最后，本文尚未讨论布劳尔的前辈，布劳尔“强反例”的更复杂方面，对循环性和非预言性的证明解释的反对意见，以及对证明解释的后期发展。这些将成为未来更新的主题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Brouwer’s writings are referred to according to the scheme in the bibliography van Dalen 1997a; Gödel’s, according to the bibliography in Gödel 1986, Gödel 1990, Gödel 1995 (except for Gödel 1970); Heyting’s, according to the bibliography Troelstra et al. 1981 (except for Heyting 1928).
@@ -840,4 +840,4 @@ I am grateful to Dirk van Dalen and Göran Sundholm for discussions of some of t
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Mark van Atten](http://umr8547.ens.fr/spip.php?rubrique264&lang=fr) <[*vanattenmark@gmail.com*](mailto:vanattenmark%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

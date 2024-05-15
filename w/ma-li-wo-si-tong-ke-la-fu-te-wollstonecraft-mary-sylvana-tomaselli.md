@@ -80,7 +80,7 @@
 
 无论沃斯通克拉夫特被视为属于哪个传统，这仍然是一个有争议的问题。重要的是要记住，她对快速变化的政治局势做出了回应，并继续批判性地参与公众舆论、她那个时代的主要知识分子和政治人物，以及她在法国、北欧和英国的经历所启发的自己的观点。她对伯克、英国政治体制甚至贵族的批评变得更加温和，因为她发现商业的持续扩张和奢侈经济的增长导致了比它所取代的世界更大的不平等。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -245,4 +245,4 @@ The following is a selection. Note also, the introductions to the various editio
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Sylvana Tomaselli <[*st240@cam.ac.uk*](mailto:st240%40cam%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

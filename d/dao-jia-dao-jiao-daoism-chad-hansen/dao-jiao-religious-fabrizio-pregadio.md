@@ -397,7 +397,7 @@
 
 上述修炼常被描述为“人之外有人”（或“自己之外有自己”，shen zhi wai shen），被定义为“真人”（zhenshen；参见 §6.3）。在这种情况下，修炼的主要阶段被描绘为胎儿的受孕、孕育和出生，这个胎儿体现了修炼者的实现状态（Despeux 2016）。在另一种观点中，内丹被视为每个人都已经拥有并且与自己的内在实现状态相同。刘一明（1734–1821）通过说：“所有人都在自己身上拥有这个完整的金丹：它在每个人身上都完全实现。”内丹文献的其他作者在他们的作品中也陈述道：“金丹就在你眼前”。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Andersen, Poul, 1979, *The Method of Holding the Three Ones: A Taoist Manual of Meditation of the Fourth Century A.D.*, London and Malmö: Curzon Press.
@@ -580,4 +580,4 @@ The author is grateful to Philipp Hünnebeck, Kelsey Seymour, Song Xiaokun, and 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Fabrizio Pregadio](http://www.goldenelixir.com/) <[*fabrizio.pregadio@fau.de*](mailto:fabrizio%2epregadio%40fau%2ede)>
-<!--md-padding-ignore-end-->
+

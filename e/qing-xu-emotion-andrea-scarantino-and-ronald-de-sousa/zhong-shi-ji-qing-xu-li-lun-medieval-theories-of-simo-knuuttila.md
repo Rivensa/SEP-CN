@@ -148,7 +148,7 @@ La Rochelle 的易怒情绪与“艰难而困难的对象”有关，野心和�
 
 中世纪情绪理论也在许多具有影响力的十六世纪学术作品中讨论，比如加布里埃尔·比尔（Gabriel Biel）关于彼得·隆巴尔德（Peter Lombard）《句子集》的《集成》（Collectorium），以及卡杰坦枢机、巴尔托洛梅·德·梅迪纳（Bartholomé de Medina）和弗朗西斯科·苏亚雷斯（Francisco Suárez）对阿奎那《神学大全》的评论，经常将斯科特和阿奎那的理论进行比较。约翰·拉罗谢尔（John of la Rochelle）的情绪分类法也通过格雷戈尔·赖希（Gregor Reisch）十六世纪早期流行百科全书《哲学珍珠》（Margarita philosophica）中的释义而为人所知（12.4–5）。在早期现代思想中，最受讨论的中世纪理论之一是阿奎那关于情绪的分类法和斯科特关于意志的激情理论，这两者都受到苏亚雷斯的评论。中世纪情绪理论也在许多具有影响力的十六世纪学术作品中讨论，比如加布里埃尔·比尔（Gabriel Biel）关于彼得·隆巴尔德（Peter Lombard）《句子集》的《集成》（Collectorium），以及卡杰坦枢机、巴尔托洛梅·德·梅迪纳（Bartholomé de Medina）和弗朗西斯科·苏亚雷斯（Francisco Suárez）对阿奎那《神学大全》的评论，经常将斯科特和阿奎那的理论进行比较。约翰·拉罗谢尔（John of la Rochelle）的情绪分类法也通过格雷戈尔·赖希（Gregor Reisch）十六世纪早期流行百科全书《哲学珍珠》（Margarita philosophica）中的释义而为人所知（12.4–5）。在早期现代思想中，最受讨论的中世纪理论之一是阿奎那关于情绪的分类法和斯科特关于意志的激情理论，这两者都受到苏亚雷斯的评论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary sources
@@ -299,4 +299,4 @@ La Rochelle 的易怒情绪与“艰难而困难的对象”有关，野心和�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Simo Knuuttila
-<!--md-padding-ignore-end-->
+

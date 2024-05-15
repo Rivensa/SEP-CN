@@ -412,7 +412,7 @@ Nussbaum 继续建议，“严肃的政治思想”（1997 年：2）必须涉�
 
 在这段文字的结尾，尼采确实暗示了道德的作用，只是道德所反对的东西同样重要。当然，他通过暗示即使承认它们的同等重要性可能“甚至还不够”来限定这一点：也就是说，在“植物‘人’”将达到最高峰的条件下，道德在其中可能几乎没有什么作用。但请注意，即使在这段文字中，所要求的并不是政治上的转变，而是个体的转变，即新生的更高级人类的转变：正是“他的处境”必须首先“变得巨大”，而“他的发明和模拟的能力”则“必须在长时间的压力和约束下发展成为精致和大胆”。正如他在 1887 年的一篇遗稿中写道，关于那些“与我有关的人类”：“我希望 [他们] 遭受痛苦、孤独、疾病、虐待、侮辱——我希望他们不会对深刻的自我蔑视、自我不信的折磨、被打败者的悲惨陌生”（WP 910）。这不是一个政治纲领的概要，而是一个严格的方案，用于实现个体潜力的实现——至少对于少数精英。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Nietzsche’s Writings and Key to Citations
@@ -513,4 +513,4 @@ Nietzsche’s works are cited as follows, unless otherwise noted: roman numerals
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Brian Leiter](http://brianleiter.net/) <[*bleiter@uchicago.edu*](mailto:bleiter%40uchicago%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -120,7 +120,7 @@
 
 古代哲学当然不会以古典斯多噶派或希腊化时期而告终，对于灵魂的古代理论也是如此。公元前 2 世纪下半叶开始，对柏拉图和亚里士多德作品的兴趣重新燃起，其中包括对柏拉图和亚里士多德关于灵魂的概念的重新关注，引发了新的理论发展，例如普罗提诺的论证（特别针对斯多噶派），即灵魂不能在空间上延伸，因为没有空间上延伸的物体能解释感知主体的统一（参见 Emilsson 1991）。基督教作家如亚历山大的克莱孟特和尼西亚的格里高利，在灵魂的哲学理论上受到了很大的影响，尤其是柏拉图的理论，但也引入了自己的新问题和兴趣。然而，这些以及其他后古典时期的发展都需要在我们详细考虑的古典理论的框架和背景下进行解释。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Ancient Texts
@@ -226,4 +226,4 @@
 
 [Copyright © 2009](https://plato.stanford.edu/info.html#c) by  
 Hendrik Lorenz <[*hlorenz@princeton.edu*](mailto:hlorenz%40princeton%2eedu)>
-<!--md-padding-ignore-end-->
+

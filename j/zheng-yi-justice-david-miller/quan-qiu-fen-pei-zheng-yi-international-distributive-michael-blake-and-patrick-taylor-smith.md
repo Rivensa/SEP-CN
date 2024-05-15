@@ -229,7 +229,7 @@ Wenar 的论点并不直接关注全球分配正义，而是关注避免西方�
 
 最终的趋势可能是最重要的；我们越来越愿意超越对全球分配正义的 Rawlsian 分析所关注的问题，更广泛地考虑可能涉及我们全球生产过程的代理人和机构。Iris Marion Young（2011）提出了一些重要问题，关于如何开始理解那些行为可能受到道德理论限制的各种代理人，以及如何理解我们作为消费者和公民的身份如何与贫困和不平等的复制相关。尽管本文始于对 Rawlsian 关于分配正义思考传统的审视，但哲学文献越来越愿意超越这一传统是一件完全好事。随着全球关系变得更加复杂和更加核心，我们需要更多关于如何理解全球财富与全球贫困之间关系的理论化，以及在这种关系中应该理解的道德原则。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abizadeh, Arash, 2007, “Cooperation, Pervasive Impact, and Coercion: On the Scope (Not Site) of Distributive Justice”, *Philosophy & Public Affairs*, 35(4): 318–358. doi:10.1111/j.1088-4963.2007.00116.x
@@ -448,4 +448,4 @@ Wenar 的论点并不直接关注全球分配正义，而是关注避免西方�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Michael Blake](https://phil.washington.edu/people/michael-blake) <[*miblake@u.washington.edu*](mailto:miblake%40u%2ewashington%2eedu)>  
 [Patrick Taylor Smith](http://www.patricktaylorsmith.com/) <[*patrick.taylor.smith@gmail.com*](mailto:patrick%2etaylor%2esmith%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

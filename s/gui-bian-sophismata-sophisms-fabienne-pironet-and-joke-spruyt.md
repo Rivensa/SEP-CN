@@ -148,7 +148,7 @@ Ebbesen 确定了一个值得称为“神学”的诡辩（在这里，“神学
 
 即使在这些论文类型中存在技术上的区别，它们都扮演着上述提到的相同角色：它们为学生提供了可以应用于任何主题的逻辑技能。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The medieval *sophismata*-literature is a vast and complex area of research. Many questions are still unsolved, especially about its historical origins and development. It is of importance for people interested in medieval logic, grammar, and physics, but also for those interested in the history of universities.
@@ -224,4 +224,4 @@ The bibliography for this entry is far from exhaustive. Most of the logical and 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Fabienne Pironet  
 Joke Spruyt <[*joke.spruyt@maastrichtuniversity.nl*](mailto:joke%2espruyt%40maastrichtuniversity%2enl)>
-<!--md-padding-ignore-end-->
+

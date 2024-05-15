@@ -138,7 +138,7 @@ Ian Wilson (在 Wilson 1979 中)提出了五种可能的关系，用“如果，
 
 正如前面所指出的，即使“如果”的推理用法并不总是与陈述必要和充分条件的业务主要相关。这一观察结果，再加上本文提到的案例和区别，表明我们在从自然语言条件句转向以必要和充分条件来分析它们时需要谨慎，并且在通过形式运算符对后者条件进行建模时也需要谨慎。似乎存在着几种类型的条件句，相应地也有几种类型的条件。正如上述发展所示，因此存在着几种形式方案来翻译和理解自然语言中使用的各种条件句及其所表达的条件（如果有的话）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Blumberg, Albert E., 1976. *Logic: A First Course*, New York: Alfred E. Knopf.
@@ -194,4 +194,4 @@ I am grateful to Richard Borthwick, Jake Chandler, Laurence Goldstein, Fred Kroo
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Andrew Brennan](http://www.latrobe.edu.au/humanities/about/staff/profile?uname=ABrennan) <[*A.Brennan@latrobe.edu.au*](mailto:A%2eBrennan%40latrobe%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

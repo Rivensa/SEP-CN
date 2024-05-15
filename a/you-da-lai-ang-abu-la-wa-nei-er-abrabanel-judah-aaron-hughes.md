@@ -175,7 +175,7 @@
 
 对于《对话录》对后来的思想家产生的实际影响更难以判断。基本上，犹大·阿布拉瓦内尔采用了中世纪宇宙学和心理学的某些轨迹，将其与文艺复兴时期的美学观念相结合，从而创造出了一种完整的犹太美学。这使他构想出宇宙是一个有机的、充满活力的结构，各个层次在其中共享共生的有机关系。与他的许多中世纪前辈不同，他没有将这个世界，即形式和物质的世界，定义为缺乏或与神的距离。相反，他将这个世界设想为个体通过感官的具体事物来遭遇神的美和爱的场所。阿布拉瓦内尔的强调，就像他的文艺复兴时期的许多同代人一样，对美学和现象世界的关注最终成为 16 世纪和 17 世纪自然哲学的重要维度。例如，我们知道巴鲁克·斯宾诺莎的图书馆里有一本《对话录》的副本。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Editions
@@ -250,4 +250,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Aaron Hughes](http://www.rochester.edu/college/rel/people/faculty/hughes_aaron/index.html) <[*aaron.hughes@rochester.edu*](mailto:aaron%2ehughes%40rochester%2eedu)>
-<!--md-padding-ignore-end-->
+

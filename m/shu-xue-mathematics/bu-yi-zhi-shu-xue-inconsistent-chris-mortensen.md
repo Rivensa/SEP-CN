@@ -70,7 +70,7 @@ Meyer 和 Mortensen 后来使用的算术模型被证明允许不一致地表示
 
 就其价值而言，笔者认为数学多元论的某种版本显然是正确的，如果我们将数学首先看作是允许不一致性的数学理论，而仅次于数学理论的是这些理论内部的对象。当然，如果将不兼容的理论视为命题结构，它们共存就没有问题。理论的首要性也符合数学认识论是演绎证明的自然观察。只有当我们以数学对象作为理论的真理生成者的起点时，我们才需要担心它们的对象如何共存。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Beall, J.C. and G. Restall, 2006, *Logical Pluralism*, Oxford: The Clarendon Press.
@@ -149,4 +149,4 @@ Meyer 和 Mortensen 后来使用的算术模型被证明允许不一致地表示
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[*Chris.Mortensen@adelaide.edu.au*](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>
-<!--md-padding-ignore-end-->
+

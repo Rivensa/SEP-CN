@@ -222,7 +222,7 @@ P2，戴维森观察到，“将对于做什么更好与动机或欲望联系起
 
 Henden 还指出，相比于成瘾，意志薄弱似乎更容易受到理性批评，这表明它们不可能是同一现象。许多成瘾者真诚地努力戒除药物的使用。尽管他们的努力可能不足以使他们成功戒除，但相对于普通标准来说，这种努力可能已经足够。也就是说，如果一个不是成瘾者的人在类似的努力方面做出相同的努力，合理地期望她能够成功。与易于不自制的普通行为体相比，成瘾者面临的挑战似乎更加严峻（Henden 2016, p. 123–4）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, J. E., 2002, “Akratic Believing?,” *Philosophical Studies*, 110(1): 1–27.
@@ -327,4 +327,4 @@ I am grateful to Eric Guindon and to Joseph van Weelden for very useful research
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Sarah Stroud](https://philosophy.unc.edu/people/sarah-stroud/) <[*sarah.stroud@unc.edu*](mailto:sarah%2estroud%40unc%2eedu)>  
 Larisa Svirsky <[*larisa.svirsky@gmail.com*](mailto:larisa%2esvirsky%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

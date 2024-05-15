@@ -380,7 +380,7 @@ Several objections to this argument have been made. First, it is worth consideri
 
 这些观点各自的优势和劣势，无论是独立考虑还是与其他观点、EC 以及传统（不敏感的）不变论相比较，都是最近许多辩论的主题。对于 EC 本身的讨论也在继续进行。（例如，参见 Ichikawa 2017b 中收集的论文。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 \[Pagination of in-text citations follows that of the reprint, where given.]
@@ -594,4 +594,4 @@ Several objections to this argument have been made. First, it is worth consideri
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Patrick Rysiew](http://web.uvic.ca/\~rysiew/) <[*rysiew@uvic.ca*](mailto:rysiew%40uvic%2eca)>
-<!--md-padding-ignore-end-->
+

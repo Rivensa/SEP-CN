@@ -182,7 +182,7 @@ Clarke 的总体观点非常清晰。他区分了智力（理解）和意志。�
 
 最后，应该注意到可能没有最佳的世界。相反，任何世界可能都有一个更好的世界。或者可能有几个同样好的世界，没有比它们更好的世界。还有另一种可能性，即存在无法比较的世界，即世界无法在更好的方面进行比较。这些可能性对于关于创造的神的自由的问题都有影响。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Robert (1972). “Must God Create the Best?,” *Philosophical Review* 81: 317-332.
@@ -273,4 +273,4 @@ Clarke 的总体观点非常清晰。他区分了智力（理解）和意志。�
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
 William Rowe
-<!--md-padding-ignore-end-->
+

@@ -140,7 +140,7 @@ What is meant by the circumstances having changed so that the initial injustice 
 
 但美国黑人也欠下了非赔偿性赔偿。其中，南方联盟的名称和形象在官方公共场所中没有代表美国、州或地方政府的地位。这是因为，美国内战被认为是许多士兵和家庭为建立一个没有奴隶的社会而做出的血腥和痛苦牺牲的象征（至少在许多人的心目中是如此）。因此，美国历史书必须继续修订，以提供更加平衡和准确的真相故事，包括所有人民。这包括揭示那些常常被神话所掩盖的最丑陋的真相，以美国爱国主义的名义。但真正的爱国主义与以历史的名义包装的误导或虚假信息无关。它必须经常讲述 1921 年俄克拉荷马州塔尔萨的美国黑人被白人屠杀、1923 年佛罗里达州罗斯伍德的许多美国黑人被许多美国白人屠杀、埃米特·蒂尔的谋杀以及成千上万其他黑人的私刑和美国黑人遭受的 KKK 的普遍恐怖主义。对这些罪恶的持续认可必须取代自私的美化形象和幻想，这些形象和幻想在许多美国白人的心中一直存在，以某种方式促进了白人特权。这样的变化应该是合法的，不是因为不这样做会被视为冒犯（Corlett 2018），而是因为真相、正义和公平要求如此。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bedau, Hugo Adam, 1972, “Compensatory Justice and the Black Manifesto”, *Monist*, 56(1): 20–42.
@@ -234,4 +234,4 @@ This entry was originally composed by Bernard R. Boxill, and substantially revis
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Bernard Boxill  
 [J. Angelo Corlett](https://corlett.sdsu.edu/Corlett/Welcome.html) <[*acorlett@sdsu.edu*](mailto:acorlett%40sdsu%2eedu)>
-<!--md-padding-ignore-end-->
+

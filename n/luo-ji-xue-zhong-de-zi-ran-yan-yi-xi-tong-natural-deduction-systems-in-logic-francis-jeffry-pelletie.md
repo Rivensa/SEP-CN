@@ -398,7 +398,7 @@ Francez (2021: 55–6) 将证明论语义（PTS）的目标表述如下（原文
 
 Dummett 的反实在论版本的文献非常丰富。Michael（1999）对 Dummett（以及他的一些批评者）关于“显现准则”的思想进行了早期而深刻的批评，他认为经典逻辑实际上并不致力于完全的意义整体主义，而只是无害的“分子意义整体主义”。对于对实在论和反实在论的一般讨论以及与当前小节相关的特定语言方面，感兴趣的读者可以参考 Khlentzos（2021）的第 3 节。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Alan Ross, 1960, “Completeness Theorems for the Systems E of Entailment and EQ of Entailment with Quantification”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 6(7–14): 201–216. doi:10.1002/malq.19600060709
@@ -499,4 +499,4 @@ We'd like to thank Chris Menzel for prompting us to make some improvements to th
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Francis Jeffry Pelletier](http://www.ualberta.ca/~francisp/) <[*francisp@ualberta.ca*](mailto:francisp%40ualberta%2eca)>  
 Allen Hazen <[*aphazen@ualberta.ca*](mailto:aphazen%40ualberta%2eca)>
-<!--md-padding-ignore-end-->
+

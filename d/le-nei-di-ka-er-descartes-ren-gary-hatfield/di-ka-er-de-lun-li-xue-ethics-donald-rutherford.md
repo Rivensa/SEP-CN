@@ -121,7 +121,7 @@
 
 因此，尽管笛卡尔的伦理学对法律和习俗表示了一定的尊重，填补了我们道德知识的限度所开辟的空间，但它的伦理学原则却是道德普遍主义的。凭借他们的自由意志，所有人类都具有相同的道德地位，值得得到平等的道德尊重。在这一点上，我们可以看到对康德伦理学的重要预见，它源于对理性和自由意志无条件价值的类似考虑。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Works
@@ -203,4 +203,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Donald Rutherford](http://philosophy.ucsd.edu/faculty/rutherford/)
-<!--md-padding-ignore-end-->
+

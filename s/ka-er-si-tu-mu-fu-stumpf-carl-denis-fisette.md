@@ -192,7 +192,7 @@
 
 根据斯图姆夫的观点，坚持本土理论的代价不仅仅是放弃描述心理学和现象学的基本原则。此外，除了斯图姆夫在这段文字中提到的困难之外，格式塔心理学还传达了哲学前提，这是争议的核心。第一个前提是斯图姆夫所反对的感性自然主义形式。第二个假设涉及到柯勒的工作中的心理物理关系的形而上学问题，以及在物理学领域引入格式塔概念的尝试。斯图姆夫认为，柯勒的同构论假设，即心理世界的结构规律与物理世界的结构规律之间存在着一种同一关系，预设了心理物理并行论的理论，而斯图姆夫也反对这一理论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 A complete bibliography of Stumpf’s publications and manuscripts has been published in D. Fisette and R. Martinelli (eds.), 2015, *Philosophy from an Empirical Standpoint. Essays on Carl Stumpf*, Amsterdam: Rodopi.
@@ -424,4 +424,4 @@ A complete bibliography of Stumpf’s publications and manuscripts has been publ
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Denis Fisette <[*fisette.denis@uqam.ca*](mailto:fisette%2edenis%40uqam%2eca)>
-<!--md-padding-ignore-end-->
+

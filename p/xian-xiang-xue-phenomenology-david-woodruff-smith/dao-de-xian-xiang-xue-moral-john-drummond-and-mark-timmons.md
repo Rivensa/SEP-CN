@@ -220,7 +220,7 @@ Ricoeur（1950 [2007: 137ff.]）将决策视为具有“历史”，并指出他
 
 哲学家们越来越倾向于抛弃“大陆派”和分析哲学之间的区别，而是专注于共同关注的问题。这种发展在心灵哲学中可能最为明显。例如，参考肖恩·加拉格尔和丹·扎哈维的《现象学心灵》（2012），该书将现象学置于分析心灵哲学和认知科学之中。还可以看到对情感研究的最近爆发。我们已经提到了一些探索情感的道德现象学家，他们的工作涉及与其他不探索情感道德维度的研究者的对话。例如，德拉蒙德和里诺夫纳-克雷德尔（2018）关于情感体验的论文集将现象学和分析心灵哲学家聚集在一起。更重要的是，如果您查看各篇文章的参考文献列表，几乎所有的引用都来自多个传统的作者。相反，心灵分析哲学家正在寻求现象学思想家和构思道德体验的新可能性。本文概述的工作是这些更具包容性方法的一个例子，并提出了进一步研究的议程。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Annas, Julia, 2008, “The Phenomenology of Virtue”, *Phenomenology and the Cognitive Sciences*, 7(1): 21–34. doi:10.1007/s11097-007-9068-9
@@ -401,4 +401,4 @@ This entry is thoroughly collaborative; the order of authorship is alphabetical.
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [John Drummond](https://faculty.fordham.edu/drummond/) <[*drummond@fordham.edu*](mailto:drummond%40fordham%2eedu)>  
 [Mark Timmons](http://timmons.faculty.arizona.edu/) <[*mtimmons@u.arizona.edu*](mailto:mtimmons%40u%2earizona%2eedu)>
-<!--md-padding-ignore-end-->
+

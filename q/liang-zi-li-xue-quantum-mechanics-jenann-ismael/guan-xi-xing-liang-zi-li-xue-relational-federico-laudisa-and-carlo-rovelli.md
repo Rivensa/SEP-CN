@@ -153,7 +153,7 @@ RQM 与本体结构实在论之间的关系也被 Mauro Dorato（2016）强调�
 
 多拉托指出的 RQM 的第二个特征是，因此，捕捉尚未相互作用的量子系统的本质的最佳方式是调动一种倾向性主义：将量子系统的状态相关属性归因于它们根据所受到的相互作用以某种方式显现的倾向性。倾向性主义存在于许多其他量子力学观点中（多拉托，2006 年），但在 RQM 的背景下特别适用。与量子比斯特对量子理论的解释不同，在 RQM 中，关系“S 相对于 S'显现 q”是对称的，这是 RQM 中量子系统和“观察者”处于同一水平的假设的简单结果。由于其关系性和倾向性方面，多拉托强调了在 RQM 中不能有普遍的变化流动，而只能有局部的、世界线依赖的和关系性的变化流动。这仍然被视为一种关系性的变化形式：没有普遍的生成潮流，只有交错的涟漪。由于物理系统只能相对于另一个系统而不是绝对地展示一系列事件的发生，所以在 RQM 中不能有宇宙时间，因此在广义相对论中，事件的时间顺序也不能被视为完全有序。在某种意义上，在 RQM 中没有宇宙的量子状态，或者说没有上帝的视角，因为宇宙只能从“在给定视角内”来描述。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bitbol, Michel, 2010, *De l’intérieur du monde*, Paris: Flammarion. (Relational Quantum Mechanics is extensively discussed in Chapter 2.)
@@ -234,4 +234,4 @@ RQM 与本体结构实在论之间的关系也被 Mauro Dorato（2016）强调�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Federico Laudisa](https://www.federicolaudisa.it/) <[*federico.laudisa@unitn.it*](mailto:federico%2elaudisa%40unitn%2eit)>  
 [Carlo Rovelli](http://www.cpt.univ-mrs.fr/~rovelli/rovelli.html) <[*rovelli.carlo@gmail.com*](mailto:rovelli%2ecarlo%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

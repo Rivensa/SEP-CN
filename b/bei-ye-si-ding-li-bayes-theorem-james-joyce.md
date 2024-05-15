@@ -420,7 +420,7 @@ Royall 的观点是，概率比或概率差都无法捕捉到科学所需的客�
 
 虽然对于简单的条件化、杰弗里条件化和其他形式的信念修正还可以说更多，但这些评论应该让读者对贝叶斯定理在主观主义学习和证据支持中的重要性有所了解。尽管这是一个数学上的琐事，但定理的核心洞察力——即任何数据集都能支持一个假设的概率——是主观主义认识论、统计学和归纳逻辑的核心。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Armendt, B. 1980. "Is There a Dutch Book Argument for Probability Kinematics?", *Philosophy of Science* **47**, 583-588.
@@ -482,4 +482,4 @@ Royall 的观点是，概率比或概率差都无法捕捉到科学所需的客�
 
 [Copyright © 2003](https://plato.stanford.edu/info.html#c) by\
 [James Joyce](http://www-personal.umich.edu/\~jjoyce/) <[*jjoyce@umich.edu*](mailto:jjoyce%40umich%2eedu)>
-<!--md-padding-ignore-end-->
+

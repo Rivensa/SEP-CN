@@ -136,7 +136,7 @@
 
 在布拉德雷对绝对的描述中，基于他对哲学家对判断不足之处的怀疑审视以及一种高级统一的个人体验，这种描述清楚地表明，他的形而上学被描述为“理性和神秘的引人注目组合”。这种组合的独特性意味着很少有后来的哲学家被说服。然而，在直接而大胆地面对他所称的“思想与现实之间的关系大问题”时，它作为西方哲学中对于辩证思维展示世界而无失真能力的永久而令人不安的挑战而存在；令人不安，因为它并非来自可以被拒绝为任意或不恰当的外部标准的强加，而是来自我们的表征机制必须符合它们自己隐含设定的标准的要求。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Bradley
@@ -220,4 +220,4 @@ From 1995 to 2004 (inclusive) there appeared a journal, *Bradley Studies*, which
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Stewart Candlish](http://members.iinet.net.au/\~stewartcandlish/)\
 Pierfrancesco Basile <[*pierfrancesco.basile@philo.unibe.ch*](mailto:pierfrancesco%2ebasile%40philo%2eunibe%2ech)>
-<!--md-padding-ignore-end-->
+

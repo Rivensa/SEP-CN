@@ -206,7 +206,7 @@
 
 神秘主义对伊斯兰哲学的影响是如此深远，以至于它改变了哲学的本质和定义。在伊斯兰传统中，哲学的事业被大多数人视为不仅仅是一种智力锻炼，而是灵魂在揭示真理的精神旅程中的智力维度。因此，根据穆斯林哲学家-神秘主义者的观点，真正的哲学致力于对那些传统上属于神秘领域的问题提供理性的评论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Works
@@ -264,4 +264,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Mehdi Aminrazavi](http://www.umw.edu/directory/employee/mehdi-aminrazavi/) <[*maminraz@umw.edu*](mailto:maminraz%40umw%2eedu)>
-<!--md-padding-ignore-end-->
+

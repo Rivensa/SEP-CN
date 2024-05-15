@@ -202,7 +202,7 @@ Diogenes 告诉我们（第四章第一节），斯彪西波“坚持柏拉图�
 
 如果这是正确的，并且格雷泽的建议是柏拉图在《巴门尼德篇》中回应了斯彪西波的某些形而上学观点，那么对晚期柏拉图的理解将受益于对斯彪西波的了解。他的著作的丧失确实令人遗憾。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Athenaeus: see Gulick 1927.
@@ -282,4 +282,4 @@ Academy, Plato’s | [Aristotle](https://plato.stanford.edu/entries/aristotle/) 
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
 [Russell Dancy](http://philosophy.fsu.edu/people/faculty/russell-dancy)
-<!--md-padding-ignore-end-->
+

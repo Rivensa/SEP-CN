@@ -226,7 +226,7 @@ Contra gentiles 可能看起来是一个奇怪的模型选择。布鲁诺·纳�
 
 然而，即使这两个复杂因素都阻碍了对《神曲》对哲学本质的直接评估，它们也允许我们对这首诗的一个基本特征得出更为谦虚的结论。也就是说，如果我们可以说，在比阿特丽斯和朝圣者之间展开的戏剧性背景中，我们对《神曲》对哲学的处理的理解受到了困扰，那么我们也可以说，从文本中我们可以得出一种哲学教训，它使我们对理解它的尝试感到困扰。特别是，即使《神曲》明确捍卫了沉思之路对救赎的优越性，然而这首诗也通过让读者面对令人不安的认识，即诗中明确的哲学内容在某种程度上是虚幻的，因此对于追随在该内容中规划的智力之路的尝试来说，其价值是可疑的。幸运的是，这种教义内容的虚幻性可能与读者与诗歌的互动实际上通过一种总是要求严格的哲学思考的过程来产生意义无关。这是因为这首诗的结构是基于这样的信念：如果我们不不断地使自己暴露于惊奇的焦虑体验中，尤其是在我们共同的阅读活动中，就没有希望实现我们可能的完美，而这种体验通过同时追求哲学严谨性和承认其局限性而被加强和维持。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources and Translations
@@ -433,4 +433,4 @@ Ibn Sina \[Avicenna] | medieval philosophy | [Ibn Rushd \[Averroes\]](https://pl
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Winthrop Wetherbee\
 Jason Aleksander <[*jraleksander@gmail.com*](mailto:jraleksander%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

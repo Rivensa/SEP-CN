@@ -235,7 +235,7 @@ Grayson（1979 年）通过 Heyting 值语义获得了直觉主义集合论的�
 
 集合论的外延公理是迄今讨论的所有系统的共同特点。然而，在将语句的计算内容视为关键的背景下，内涵理论可能更为合适。例如，构造型理论和显式数学都包含某种形式的内涵性。文献中曾考虑过没有外延性的直觉集合论（Friedman 1973a，Beeson 1985）。然而，它们的动机不是计算性的，而是技术性的，这是由于在研究直觉集合论的元数学性质时，外延性带来的困难。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aczel, P., 1978, “The Type Theoretic Interpretation of Constructive Set Theory”, in *Logic Colloquium ‘77*, A. MacIntyre, L. Pacholski, J. Paris (eds.), Amsterdam and New York: North-Holland, pp. 55–66.
@@ -376,4 +376,4 @@ I thank Andrea Cantini, Michael Rathjen and Peter Schuster for valuable comments
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Laura Crosilla](https://sites.google.com/view/lauracrosilla/home) <[*laura.crosilla@gmail.com*](mailto:laura%2ecrosilla%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

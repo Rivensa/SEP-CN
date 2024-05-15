@@ -248,7 +248,7 @@ and it forms attitudes on all matters relevant to what it can rightly be said to
 
 群体或共享意向性在最近的进化人类学和发展心理学研究中被赋予了重要的角色。迈克尔·托马塞洛和他的合作者认为，我们对共享意向性的能力是人类与其他灵长类动物之间最基本的区别。支持这一观点的证据是，虽然其他灵长类动物似乎是灵巧的策略推理者，具有令人印象深刻的对其他个体感知和需求的敏锐意识，但共同注意力的倾向和即使在不立即为自己的目的服务的情况下也倾向于合作，这是人类独有的。托马塞洛认为，这种基本的合作意识表达了人类特有的共享意向性能力（托马塞洛和拉科兹 2003）。只有在这个基础上，其他独特的人类能力，如语言和道德能力，才能发展起来（托马塞洛 2009、2016）。托马塞洛提到了西尔、吉尔伯特和布拉特曼的观点，但对于他所指的共享意向的概念到底是什么，他在很大程度上持保留态度（Schmid 2012）。然而，他的观念表明，西尔的版本可能是共享意向的基本形式，而吉尔伯特所发展的一种规范稳定的集体意向性概念可能适用于发展的后期共享意向的形式。如果托马塞洛在声称基本的共享意向能力先于理论心智的发展之前是正确的，这对于对基本共享意向的充分分析施加了严格的概念限制，这似乎排除了即使在西尔（2010）的观点中也隐含了共同知识条件。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alonso, Facundo M., 2009, “Shared Intention, Reliance, and Interpersonal Obligations,” *Ethics*, 119(3): 444–75.
@@ -379,4 +379,4 @@ We would like to thank Margaret Gilbert, Raimo Tuomela, Deborah Tollefsen, Arto 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [David P. Schweikard](https://www.uni-flensburg.de/en/philosophie/our-staff/prof-dr-david-schweikard) <[*David.Schweikard@uni-flensburg.de*](mailto:David%2eSchweikard%40uni-flensburg%2ede)>  
 [Hans Bernhard Schmid](https://ufind.univie.ac.at/en/person.html?id=45427) <[*Hans-Bernhard.Schmid@unibas.ch*](mailto:Hans-Bernhard%2eSchmid%40unibas%2ech)>
-<!--md-padding-ignore-end-->
+

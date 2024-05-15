@@ -755,7 +755,7 @@ ignoratio elenchi 的情况更加棘手。Nağāt 列表中最后一个可用的
 
 有时，需要对条件类型（luzūmī 或 ittifāqī）或析取类型（排他且穷尽；排他但非穷尽；包含）进行更细致的区分。同样，有时需要确定条件语句的前提和结论（用于转换和推理关系与析取）。在这种情况下，上述缩写将扩展以包括所需的附加信息。例如，为了表达普遍肯定的排他且穷尽的析取蕴含了普遍肯定的 luzūmī 条件，其中前提和结论是矛盾的，并且可以是析取的任何部分，我将写成(a-D1)a1a2 蕴含(a-Cl)a1o2，(a-Cl)a2o1，(a-Cl)o1a2 和(a-Cl)o2a1，其中上标“l”代表 luzūmī，上标数字用于跟踪析取式中它们作为条件语句的前提或结论的部分。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -911,4 +911,4 @@ ignoratio elenchi 的情况更加棘手。Nağāt 列表中最后一个可用的
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Riccardo Strobino](https://ase.tufts.edu/classics/people/facultyStrobino.htm) <[*riccardo.strobino@tufts.edu*](mailto:riccardo%2estrobino%40tufts%2eedu)>
-<!--md-padding-ignore-end-->
+

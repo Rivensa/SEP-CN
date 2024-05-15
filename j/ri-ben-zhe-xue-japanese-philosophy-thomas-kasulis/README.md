@@ -338,7 +338,7 @@ Shinran 的描述无疑是理解“信仰”在非神论宗教中的一个强有
 
 这些主题和方法只是日本哲学中一小部分丰富内容，可能会引起来自任何文化的哲学家的兴趣。随着日本哲学通过翻译和西方评论变得越来越为人所知和易于接触，它似乎有可能吸引越来越广泛的全球哲学家圈子，成为西方哲学的资源，就像西方哲学在历史上一直是它的资源一样。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -421,4 +421,4 @@ Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanes
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Thomas Kasulis](https://comparativestudies.osu.edu/people/kasulis.1) <[*kasulis.1@osu.edu*](mailto:kasulis%2e1%40osu%2eedu)>
-<!--md-padding-ignore-end-->
+

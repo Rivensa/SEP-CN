@@ -176,7 +176,7 @@
 
 然而，当政治现实主义变成一种教条主义的事业时，仅仅关注冲突，它就无法发挥作为国际关系理论的适当功能。通过固守以国家为中心和过于简化的“范式”，如新现实主义，并否认国际关系中任何进展的可能性，它变成了一种意识形态。它对权力政治和国家利益的强调可以被滥用来为侵略行为辩护。因此，它必须被那些更好地考虑全球政治变化的理论所取代。除了仅仅具有消极的警示功能外，还必须增加积极的规范。这些规范从古典现实主义强调的理性和谨慎开始，通过自由主义者和英国学派强调的多边主义、国际法和国际社会的愿景，一直延伸到当今许多作家倡导的世界主义和全球团结。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allison, Graham T., 2017. *Destined for War: Can American and China Escape Thucydides’s Trap?*, Boston: Houghton Mifflin Harcourt.
@@ -295,4 +295,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 W. Julian Korab-Karpowicz <[*sopot_plato@hotmail.com*](mailto:sopot_plato%40hotmail%2ecom)>
-<!--md-padding-ignore-end-->
+

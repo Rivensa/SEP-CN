@@ -234,7 +234,7 @@
 
 很难想象有比斯宾诺莎更激情和理性的自由和宽容辩护。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Spinoza’s Works
@@ -324,4 +324,4 @@ Note: There is an enormous body of literature on Spinoza in many languages, espe
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Steven Nadler](http://philosophy.wisc.edu/nadler/) <[*smnadler@facstaff.wisc.edu*](mailto:smnadler%40facstaff%2ewisc%2eedu)>
-<!--md-padding-ignore-end-->
+

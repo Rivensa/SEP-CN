@@ -106,7 +106,7 @@ Xenocrates’ espousal of indivisible magnitudes has led to the conjecture that 
 
 普鲁塔克声称（《反对斯多葛主义者的共同认识》1069e–f）色诺克拉底认为幸福是按照自然生活；由于这可能源自阿斯卡隆的安提阿科斯，他的目标是将学院派与斯多葛主义融合，因此这是可疑的。克莱门特（《杂篇》II 22）将幸福视为拥有自己灵魂的卓越之处。这个观点与亚里士多德的观点有些相似（《伦理学》I 7. 1098a16–17，9. 1099b26）。色诺克拉底对哲学活动的否定强调“停止干扰生活事务”（[伽伦]，《哲学史》8，见迪尔斯 1879 年 605.7–8），听起来像是朝着希腊化时期追求无干扰的目标迈出的一步。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The available collections of fragments are Heinze 1892 and Isnardi Parente 1982.
@@ -178,4 +178,4 @@ Academy, Plato’s | [Alexander of Aphrodisias](https://plato.stanford.edu/ent
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Russell Dancy](http://philosophy.fsu.edu/people/faculty/russell-dancy) <[*rmdancy@fsu.edu*](mailto:rmdancy%40fsu%2eedu)>
-<!--md-padding-ignore-end-->
+

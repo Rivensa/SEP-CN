@@ -419,7 +419,7 @@ FOPL 的模型形式为 M=(W,D,I,P)，其中 W 是一组可能世界，D 是一�
 
 尽管如此，对于一阶概率逻辑有许多结果。例如，Hoover（1978）和 Keisler（1985）研究了完备性结果。Bacchus（1990）和 Halpern（1990）分别提供了完备的公理化以及一阶概率逻辑和可能世界一阶概率逻辑的组合。在 Ognjanović 和 Rašković（2000）中，给出了一个更一般的可能世界一阶概率逻辑的无穷完备公理化。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abadi, M. and Halpern, J. Y., 1994, “Decidability and Expressiveness for First-Order Logics of Probability,” *Information and Computation*, 112: 1–36.
@@ -556,4 +556,4 @@ We would like to thank Johan van Benthem, Joe Halpern, Jan Heylen, Jan-Willem Ro
 [Lorenz Demey](https://sites.google.com/site/lorenzdemey/)  
 [Barteld Kooi](https://www.rug.nl/staff/b.p.kooi/)  
 [Joshua Sack](http://www.joshuasack.info/) <[*joshua.sack@gmail.com*](mailto:joshua%2esack%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

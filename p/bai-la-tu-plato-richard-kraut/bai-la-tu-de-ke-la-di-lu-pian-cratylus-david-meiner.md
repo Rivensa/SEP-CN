@@ -272,7 +272,7 @@ Hermogenes 的主要观点是——正如已经指出的那样——任何给定
 
 这些反对赫拉克利特流变理论的论点非常简洁，留下了许多问题。恰如其分，苏格拉底承认他不确定自己是否真正证明了赫拉克利特在声称一切都在流变方面是错误的，并宣称这个问题应该更彻底地进行调查，而不依赖于哲学词源学（440c-d）。另一方面，克拉底鲁仍然相信赫拉克利特是正确的（440d-e）。他和赫莫吉尼斯一起离开城市，前往乡村，并结束了以他的名字命名的对话。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Translations
@@ -397,4 +397,4 @@ Hermogenes 的主要观点是——正如已经指出的那样——任何给定
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 David Meißner <[*david.meissner@uni-bonn.de*](mailto:david%2emeissner%40uni-bonn%2ede)>
-<!--md-padding-ignore-end-->
+

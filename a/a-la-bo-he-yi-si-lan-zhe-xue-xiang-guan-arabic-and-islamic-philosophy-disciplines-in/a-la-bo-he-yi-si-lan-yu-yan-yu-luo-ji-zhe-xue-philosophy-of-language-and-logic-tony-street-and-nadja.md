@@ -410,7 +410,7 @@ Tûsî 立即开始阐述对命题的同意的理由，例如，因为它们是�
 
 > 它并不是一种批评，因为这个行业应该有普遍规则，所以有些命题不能被纳入这两种考虑之一（即那些主题是不可能的，比如“共同创造者是不可能的”，以及“每个不可能的都不存在”）。因为我们说：没有人声称要将所有命题限制在实质主义和外在主义之内。然而，他们确实声称在科学中使用的命题在很大程度上是根据这两种考虑之一使用的，因此他们将这些解读记录下来，并提取它们的限定条件，以便在科学中获益。那些不能被纳入这两种考虑之一的命题的限定条件尚未被了解；规则的普遍化仅限于人类的能力范围。（Tahtânî 1948：Tahrîr 95.pu–96.11）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abed, S., 1991, *Aristotelian logic and the Arabic language in Alfârâbî*, Albany: State University of New York Press.
@@ -587,4 +587,4 @@ Tûsî 立即开始阐述对命题的同意的理由，例如，因为它们是�
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
 Tony Street  
 Nadja Germann <[*nadja.germann@philosophie.uni-freiburg.de*](mailto:nadja%2egermann%40philosophie%2euni-freiburg%2ede)>
-<!--md-padding-ignore-end-->
+

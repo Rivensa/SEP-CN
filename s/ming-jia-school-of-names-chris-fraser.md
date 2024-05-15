@@ -315,7 +315,7 @@ Hansen（1983, 1992）提出了一个有趣的解释《白马论》哲学意义�
 
 关于惠施，《等物》总结道：“他的技艺几乎达到了巅峰，因此他的声誉一直延续到后来的岁月。只是在他擅长辩论方面与其他人不同。因为他擅长辩论，他渴望澄清它。然而，这不是可以澄清的事情，但他试图澄清它。因此，他一生都在艰难而苍白的朦胧中度过。”[25]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bao Zhiming, 1987, “Abstraction, *Ming-Shi*, and Problems of Translation,” *Journal of Chinese Philosophy*, 14: 419–44.
@@ -416,4 +416,4 @@ Hansen（1983, 1992）提出了一个有趣的解释《白马论》哲学意义�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Chris Fraser](http://www.cjfraser.net/) <[*cjfraser@gmail.com*](mailto:cjfraser%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

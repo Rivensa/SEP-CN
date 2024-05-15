@@ -90,7 +90,7 @@ Hegel 的历史和政治著作应该与早期的《精神现象学》区分开�
 
 相比之下，卡西尔虽然无疑是启蒙运动的追随者和捍卫者，但他绝不是启蒙运动本身的思想家。相反，他是二十世纪的产物，面对着形式各异的科学、社会政治组织、技术、战争等等，这些都是康德或黑格尔无法设想的。此外，二十世纪上半叶前所未有的恐怖事件使卡西尔置身于一个截然不同的道德宇宙中，其中任何宗教或文化传统都不能被简单地视为理所当然。这在卡西尔在《神话思想》末尾对宗教的讨论中是明显的，与康德和黑格尔相比，他认为艺术而不是宗教是象征意义表达功能的最高发展。最终，我们必须承认，卡西尔对神话的讨论为他所处时代最重要的问题之一 - 即技术驱动的极权国家的崛起 - 提供了明亮的光芒，这个问题即使在今天也继续不断威胁着我们。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Selected works by Cassirer
@@ -172,4 +172,4 @@ Note: Cassirer’s unpublished writings are now appearing in volumes edited by J
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Michael Friedman](https://philosophy.stanford.edu/people/michael-friedman) <[*mlfriedman@stanford.edu*](mailto:mlfriedman%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

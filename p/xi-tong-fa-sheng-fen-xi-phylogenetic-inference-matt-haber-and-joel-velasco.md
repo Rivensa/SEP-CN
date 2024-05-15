@@ -343,7 +343,7 @@ Sukumaran 和 Knowles（2017）提供了一个很好的例子，说明多物种�
 
 要明确的是，形而上学和认识论之间的关系并非直接，而是间接的，但对于系统发生学方法所许可的推理来说非常重要。例如，Sukumaran 和 Knowles（2017）通过发出呼吁，要求系统发生学家在仅依赖基因组数据和使用多物种共祖作为识别物种的简单方法时，采取更加谨慎的立场。他们提出了一种更加谨慎的推理立场，将多物种共祖所确定的单位视为种群水平的结构（可能与物种划定相对应，也可能不相对应）。这只是一个例子，展示了哲学家们在深入研究这一领域时可以参与的丰富讨论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Albert, Victor A., 2006, *Parsimony, Phylogeny, and Genomics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199297306.001.0001
@@ -648,4 +648,4 @@ Sukumaran 和 Knowles（2017）提供了一个很好的例子，说明多物种�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Matt Haber <[*matt.haber@utah.edu*](mailto:matt%2ehaber%40utah%2eedu)>  
 Joel Velasco <[*joel.velasco@ttu.edu*](mailto:joel%2evelasco%40ttu%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -322,7 +322,7 @@ Bergmann 认为相关的贡献因素是 Strong AJI 中所称的证明者，尽�
 
 然后我们问：为什么这么多非推理性 J-原则（认证原则）的例子都集中在知觉经验上呢？因为这些是根据这些经验形成的信念通常是真实的（Goldman 2009, 335）。这种基于知觉的原则只是其中之一，例如，我们还可以提出关于记忆的原则。在所有这些情况下，Goldman 说：“我声称这些 J-原则的潜在吸引力在于它们有助于真实……”（同上）。如果这是正确的，我们在暗示地承认认证和真实性有着密切的联系，这是可靠过程理论的一个核心原则。因此，该理论很好地解释了为什么我们认为这些 J-原则是正确的，而这一事实构成了支持可靠过程理论的一个积极论证。反过来，这是支持关于认证的外在主义的一个积极论证。这一论证线路，尤其是当扩展到推理性认证的情况时，具有特殊的重要性，因为它独立于批评访问内在主义或心理主义的论证。因此，关于认证的外在主义不需要被视为一种在认识到内在主义立场的缺点后“倒退”的观点，而是可以被视为独立存在的观点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, William, 1989. *Epistemic Justification*, Ithaca: Cornell University Press.
@@ -369,4 +369,4 @@ My thanks to Louise Antony, Larry BonJour and Alvin Goldman for helpful comments
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [George Pappas](https://philosophy.osu.edu/people/pappas.1/)
-<!--md-padding-ignore-end-->
+

@@ -859,7 +859,7 @@ Reichenbach（1947 年，第 284 页）写道：“普通引语操作从一个�
 
 卡尔纳普在《语言的逻辑语法》（1937 年）中引入了形式和物质模式的区别。物质模式通常用于描述非语言世界；形式模式通常用于讨论用于描述物质世界的语言。因此，“一个是一个数字”是物质模式中的一个句子；而“‘一个’是一个数字词”是形式模式中的对应句子。这个区别在这里只是提及，因为一些作者认为它对应于用法/提及的区别。由于用法/提及的区别并不特别涉及引语，因此在这里对物质/形式模式也没有太多需要说的。揭示一个陈述基本上是关于语言使用的可能会成功地消除一些其形而上学的神秘性。甚至可能是语义上升（即，将一个句子作为主题，而不是句子所声称指的内容）成功地揭示了哲学某些领域中发生的许多事情的神秘性。但正如我们所说，这个区别以及围绕它的各种哲学动作与引语本身没有太多关系。
 
-#<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abbott, Barbara, 2003. ‘Some Notes on Quotation’, *Belgian Journal of Linguistics*, 17(1): 13–26.
@@ -1003,4 +1003,3 @@ Herman Cappelen <[*h.w.cappelen@ifikk.uio.no*](mailto:h%2ew%2ecappelen%40ifikk%2
 [Ernest Lepore](http://ruccs.rutgers.edu/faculty/lepore.html)\
 Matthew McKeever <[*mipmckeever@gmail.com*](mailto:mipmckeever%40gmail%2ecom)>
 
-<!--md-padding-ignore-end-->

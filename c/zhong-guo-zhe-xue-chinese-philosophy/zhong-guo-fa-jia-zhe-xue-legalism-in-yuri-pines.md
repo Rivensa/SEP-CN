@@ -260,7 +260,7 @@ _法_传统在帝制中国经历了奇特的命运。一方面，许多其原则
 
 自 21 世纪第二个十年以来，人们可以注意到明显的变化。这个十年见证了《申子》碎片的翻译与研究（Harris 2016）；《商君书》的两种翻译与研究（Vogelsang 2017；Pines 2017）；《韩非哲学导论》的出版（Goldin 2013）；以及比过去半个世纪更多相关文章的出版。这一趋势似乎进一步加速（见，例如 Jiang 2021；Pines，即将出版 A）。对法家传统日益增长的兴趣在中国也有所体现，该主题在那里已基本去政治化（截至 2022 年），并且在 2015 年成立了一个研究法家的学术社团。总的来说，这些新发展有助于深入参与法家传统。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -381,4 +381,4 @@ This research was supported by the Israel Science Foundation (grant No. 568/19) 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Yuri Pines <[*pinesy@mscc.huji.ac.il*](mailto:pinesy%40mscc%2ehuji%2eac%2eil)>
-<!--md-padding-ignore-end-->
+

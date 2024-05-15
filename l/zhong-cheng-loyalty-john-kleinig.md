@@ -148,7 +148,7 @@ Peter Railton 试图在一个广义的后果主义框架中找到忠诚的位置
 
 总之，吹哨案例不仅说明了对许多组织的忠诚的重要性，还说明了当声称忠诚义务可以被合理地推翻或放弃时需要行使的谨慎。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aeschylus, 2003 [485BCE], *Oresteia*, trans., intro., and notes Christopher Collard, New York: Oxford University Press, 2003.
@@ -262,4 +262,4 @@ I thank Julia Driver and Thomas Pogge for their comments on the original draft o
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [John Kleinig](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/John-Kleinig) <[*jkleinig@jjay.cuny.edu*](mailto:jkleinig%40jjay%2ecuny%2eedu)>
-<!--md-padding-ignore-end-->
+

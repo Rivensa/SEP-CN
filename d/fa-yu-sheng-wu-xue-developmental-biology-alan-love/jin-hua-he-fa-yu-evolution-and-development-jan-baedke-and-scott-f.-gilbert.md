@@ -122,7 +122,7 @@
 
 目前，关于如何合并或整合发育和进化过程的适当概念和解释方法的哲学辩论尚未达成共识。这主要是因为相关的学科领域，如进化发育学、表观遗传学和生态位构建理论等促进这种整合的领域仍然相对年轻。它们的理论和概念框架非常异质。因此，未来哲学研究的重要目标是理解这些框架稳定和巩固的障碍，识别它们的解释优势和局限性，以及引起人们对人类和人类健康理解方式的关注。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aaby, Bendik Hellem, and Grant Ramsey, forthcoming, “Three Kinds of Niche Construction”, *The British Journal for the Philosophy of Science*, first online 05 December 2019. doi:10.1093/bjps/axz054
@@ -438,4 +438,4 @@
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Jan Baedke](http://www.rub.de/philosophy/wtundwg/team/baedke) <[*jan.baedke@rub.de*](mailto:jan%2ebaedke%40rub%2ede)>  
 Scott F. Gilbert <[*sgilber1@swarthmore.edu*](mailto:sgilber1%40swarthmore%2eedu)>
-<!--md-padding-ignore-end-->
+

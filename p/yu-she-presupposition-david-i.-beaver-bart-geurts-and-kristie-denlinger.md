@@ -990,7 +990,7 @@ Jill 已经停止吸食大麻。
 
 随着对预设中更细粒度的可变性的争论的兴起，我们曾经自信地称之为“预设”的推理变得越来越难以被视为形成一个自然类别。对于一些人来说，触发行为的不一致性导致了一种预设身份危机，这种危机至少可以追溯到 Böer 和 Lycan（1976）将语义预设描述为“神话”的时候。Karttunen（2016）对该领域的现状表示遗憾，他说那些被归为同一预设笼子的各种触发器实际上从一开始就不应该被视为同一物种。最终，为了挽救一个统一的预设概念，或者按照 Böer 和 Lycan（1976）或 Karttunen 和 Peters（1977）等人的传统来主张拒绝统一的预设概念的可能性，语言学家们迫切需要理解触发器及其推理的变化原因，这推动了近年来系统实证工作的趋势，寻找跨语言变异的证据，并开发实验方法来测试不同理论的预测。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abbott, Barbara, 2000, “Presuppositions as nonassertions”, *Journal of Pragmatics*, 32(10): 1419–1437.
@@ -1177,4 +1177,4 @@ The authors would like to thank Leah Velleman for initially converting the artic
 [David I. Beaver](http://www.utexas.edu/cola/linguistics/faculty/profile.php?id=dib97) <[*dib@mail.utexas.edu*](mailto:dib%40mail%2eutexas%2eedu)>  
 [Bart Geurts](http://www.ru.nl/ncs/bart/) <[*brtgrts@gmail.com*](mailto:brtgrts%40gmail%2ecom)>  
 Kristie Denlinger <[*kdenlinger@utexas.edu*](mailto:kdenlinger%40utexas%2eedu)>
-<!--md-padding-ignore-end-->
+

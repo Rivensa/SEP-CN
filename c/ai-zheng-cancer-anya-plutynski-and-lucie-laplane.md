@@ -160,7 +160,7 @@ Dobzhansky（1973）写道：“除了在进化的光芒下，生物学中没有
 
 癌症研究——尤其是围绕精准医学的希望和炒作——提供了一个聚焦的视角，用以考虑对生物医学科学概念和方法进行批判性审视的核心问题。也就是说，癌症和对癌症的科学研究展示了疾病分类面临的挑战，疾病与健康之间模糊的界限，基因本质主义的问题，始终存在的参照类问题和一直承诺的解决方案，以及生物医学证据的不确定性如何塑造公共卫生正义问题的具体方式。此外，它提供了一个案例研究，展示了证据、疾病状态以及价值观和正义问题如何深度交织在一起。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahlgren, M., Melbye M., Wohlfahrt J.,& Sørensen T.I., 2004, “Growth patterns and the risk of breast cancer in women”, *New England Journal of Medicine*, 351: 1619–1626.
@@ -400,4 +400,4 @@ Dobzhansky（1973）写道：“除了在进化的光芒下，生物学中没有
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Anya Plutynski](https://philosophy.artsci.wustl.edu/people/anya-plutynski) <[*aplutyns@wustl.edu*](mailto:aplutyns%40wustl%2eedu)>\
 [Lucie Laplane](https://www.pantheonsorbonne.fr/page-perso/llaplane) <[*lucie.laplane@univ-paris1.fr*](mailto:lucie%2elaplane%40univ-paris1%2efr)>
-<!--md-padding-ignore-end-->
+

@@ -251,7 +251,7 @@ Phillips 对 Nyāya 的看法类似于 McDowell 对感知的看法。而 Ganeri 
 
 Vaidya（2013）认为，Dasti（2012）提供的支持分离主义的证据实际上支持了 Burge（2005，2010）的感知反个体主义。在他的（2020）中，Vaidya 认为，如果 Nyāya 中存在分离主义，那么它是一种基于真理和因果关系的多因素因果分离主义，以一种细致而复杂的方式被称为多因素因果分离主义。好案例与坏案例的区别不仅在于好案例中存在真理，而在坏案例中真理缺乏，而且还与意识知觉状态的引起方式有关。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Texts
@@ -375,4 +375,4 @@ Portions of the present entry were taken from the first author’s *Epistemolog
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Stephen Phillips](http://www.utexas.edu/cola/philosophy/faculty/shp9)  
 Anand Vaidya <[*anand.vaidya@sjsu.edu*](mailto:anand%2evaidya%40sjsu%2eedu)>
-<!--md-padding-ignore-end-->
+

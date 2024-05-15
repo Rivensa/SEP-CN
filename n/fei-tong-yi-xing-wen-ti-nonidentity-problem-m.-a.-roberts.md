@@ -234,7 +234,7 @@ Finneron-Burns 提供了一个替代解释，说明 Scanlon 的契约主义如�
 
 对非同一性的另一种辩护避免了这样一种主张，即在人群之间存在着关键的道德区别（例如，实际存在的人和可能存在的人之间，或者在审查行为所发生的世界中存在或将存在的人与永远不会在那个世界存在的人之间）。在这种辩护中，我们应该区分出任何给定人类 p 在任何这样的人群中的情况，即 p 在某个给定世界上变得更糟（与 p 在任何其他世界上的状况相比）而 p 存在或将存在，以及 p 在一个世界上变得更糟（再次与 p 在任何其他世界上的状况相比）而 p 永远不存在。我们应该说，在前一种情况下，p 的情况变得更糟具有完全的道德意义，而在后一种情况下，p 的情况变得更糟则没有任何道德意义。然后，即使承认让幸福的孩子不复存在使得该孩子比他本可以更糟（即，幸福的孩子在不复存在时遭受了“损失”或“伤害”），我们可以说这种损失并不反对选择让幸福的孩子不复存在，也不支持选择让该孩子存在。相比之下，将悲惨的孩子带入一个不值得拥有的存在具有完全的道德意义。也就是说，这反对选择让该孩子存在，支持选择让该孩子不复存在。为什么呢？因为悲惨的孩子存在于他或她遭受这种损失的世界中（罗伯茨，2010 年，2011a 年，2011b 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R.M., 1972. “Must God Create the Best?” *The Philosophical Review*, 81(3): 317–332.
@@ -371,4 +371,4 @@ I am grateful to Danielle Parks and Felicia Selvakumar for their research assist
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 M. A. Roberts <[*robertsm@tcnj.edu*](mailto:robertsm%40tcnj%2eedu)>
-<!--md-padding-ignore-end-->
+

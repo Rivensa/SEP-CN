@@ -236,7 +236,7 @@
 
 康德的一些解释者，尤其是科斯加德（1996），似乎对元伦理学持一种宁静主义的态度，他们拒绝了当代元伦理学辩论所依赖的许多假设。例如，其中一些哲学家似乎不想断言道德事实和属性只是决策程序的结果。相反，他们似乎更愿意拒绝关于事实和属性的讨论，因为一旦一个完全可接受和可辩护的程序用于决策，这些讨论就变得不必要。也就是说，事实和属性的整个框架暗示着我们需要将我们的道德概念与现实中的“外部”联系起来，而实际上我们只需要一条决策的路径。一旦我们对作为理性代理人真正重要的伦理关切更加敏感，我们会发现许多激发元伦理学家的问题实际上是无关紧要的或只具有次要重要性。然而，其他人对于康德主义者是否能够如此轻易地避免参与元伦理学辩论提出了疑问（Hussain & Shaw 2013）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -389,4 +389,4 @@ The classic commentary on the *Critique of Practical Reason* is:
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Robert Johnson <[*JohnsonRN@missouri.edu*](mailto:JohnsonRN%40missouri%2eedu)>  
 [Adam Cureton](https://philosophy.utk.edu/staff/cureton.php) <[*adamcureton@utk.edu*](mailto:adamcureton%40utk%2eedu)>
-<!--md-padding-ignore-end-->
+

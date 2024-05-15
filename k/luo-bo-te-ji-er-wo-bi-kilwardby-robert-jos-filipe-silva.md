@@ -426,7 +426,7 @@ APM 没有任何形式，它是所有接收到的形式的基础：首先是一�
 
 时间因此依赖于运动来定义（NSLP 7, 54）。运动的连续性对于保证时间的连续性至关重要（DT 12）。时间需要连续才能测量连续的运动（NSLP 8, 58）。而运动的连续性则由构成运动物体的部分的连续性来保证（DT 17）。基尔沃比认为，时间和运动是与复合物的部分必须同时存在的规则相悖的例外；相反，他声称它们是复合的短暂的事物，而时间的部分是连续的（DT 7-9）。时间的存在来自于将其部分按照先后顺序排列（NSLP 8, 58）。瞬间（即现在：nunc）是从物质的角度来看的，物质始终是相同的，但其存在方式不同（DT 89）。时间是连续运动的度量，而瞬间是连续变化的其中一个时刻的度量（DT 94-95）。对于基尔沃比来说，以时间为尺度的天体运动是衡量其他所有运动的标准（参见 Trifogli 2013；关于基尔沃比对时间的其他方面，即与他同时代人的联系，请参见 Porro 1996）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -713,4 +713,4 @@ APM 没有任何形式，它是所有接收到的形式的基础：首先是一�
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [José Filipe Silva](https://tuhat.halvi.helsinki.fi/portal/en/person/jpereira) <[*filpas.mail@gmail.com*](mailto:filpas%2email%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

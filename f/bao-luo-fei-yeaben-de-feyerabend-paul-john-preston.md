@@ -366,7 +366,7 @@
 
 费耶阿本德在社会研究领域也产生了相当大的影响。他直接启发了像 D.L. Phillips 的《放弃方法》（1973）这样的书，其中试图超越方法论。较间接地，通过他的相对主义、社会建构主义和明显的非理性主义，他对一代科学社会学家产生了巨大影响。现在说他的哲学将以何种方式被记住还为时过早。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Feyerabend’s Major Writings
@@ -618,4 +618,4 @@
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [John Preston](http://www.rdg.ac.uk/AcaDepts/ld/Philos/jmp/jmp.htm)
-<!--md-padding-ignore-end-->
+

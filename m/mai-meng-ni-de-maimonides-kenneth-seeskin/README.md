@@ -191,7 +191,7 @@
 
 从同情的角度来看，迈蒙尼德的精英主义源于他认识到很少有人会对此感到满意。尽管并非每个哲学史上的人都会同意，但毫无疑问，迈蒙尼德的观点有着悠久的历史，并且仍然是一个强有力的选择。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -269,4 +269,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Kenneth Seeskin](http://www.philosophy.northwestern.edu/people/faculty/seeskin.html) <[*k-seeskin@northwestern.edu*](mailto:k-seeskin%40northwestern%2eedu)>
-<!--md-padding-ignore-end-->
+

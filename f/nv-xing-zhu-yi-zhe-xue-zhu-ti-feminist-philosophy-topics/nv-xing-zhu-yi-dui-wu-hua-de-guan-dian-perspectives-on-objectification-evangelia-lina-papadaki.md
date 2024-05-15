@@ -185,7 +185,7 @@ Langton 解释说，客观性是关于思维如何符合世界的方式（我们
 
 无疑，物化是一个难以定义的概念，正如 Nussbaum 也承认的那样，因为它被证明是“难以捉摸”和“多样化”的（Nussbaum 1995, 251）。如何最好地定义物化，如果我们能够定义它的话，以及这个概念是否应该被限制在描述道德上令人反感的方面，或者扩展到涵盖我们在日常生活中看待和对待彼此的温和和/或积极方面，这是一个持续的辩论。最近许多女性主义工作致力于对物化进行全面的哲学分析，这将有望带来对这一概念更完整和一致的理解。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Altman, Andrew and Watson, Lori, 2019, *Debating Pornography*, Oxford: Oxford University Press.
@@ -294,4 +294,4 @@ Langton 解释说，客观性是关于思维如何符合世界的方式（我们
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 Evangelia (Lina) Papadaki <[*lina_papadaki@yahoo.com*](mailto:lina_papadaki%40yahoo%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -316,7 +316,7 @@ Ghazālī 在他的《哲学的无理性》（Ghazālī Incoherence, disc. 17）
 
 鉴于他们否认存在任何客观、独立于上帝的善恶标准，阿什阿里派被指责破坏了上帝的公正，并使行为的善恶变得任意。这是因为如果上帝在道德上没有限制，那么上帝过去认为是善或恶的事情，他在将来也可以改变意愿，并命令相反。事实上，上帝可能无缘无故地对无辜者施加痛苦，但这个行为之所以是善的，正是因为上帝命令了它。阿什阿里派对这一指责并不漠不关心。尽管朱韦尼和加兹阿里坚持上帝的绝对全能和行为的任意性，但他们也指出，只有当行为实际发生时，它才是真正的任意，而不是仅仅可能发生。因此，阿什阿里派对于任意性的回应是，可能性的发生并不等同于可能性的发生；上帝通过启示确认，他对善行给予奖励，只惩罚那些不履行启示所规定的人（朱韦尼《证明论》157-64，209-11 和加兹阿里《中庸》172-88）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -484,4 +484,4 @@ Selections from several of the above are translated in
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Jon McGinnis](https://www.umsl.edu/~philo/People/Faculty/index.html) <[*mcginnis@umsl.edu*](mailto:mcginnis%40umsl%2eedu)>  
 [Rahim Acar](https://www.nazariyat.org/en/persons/rahim-acar) <[*rahim.acar@gmail.com*](mailto:rahim%2eacar%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

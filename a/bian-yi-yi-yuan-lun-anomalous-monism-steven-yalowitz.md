@@ -319,7 +319,7 @@ Davidson 的其他辩护者（参见 Macdonalds 1986）对这个问题的回应�
 
 尽管变异一元论在其假设、结构和论证中表面上显得简单，但我们发现了一些重要的问题和空白，这些问题和空白阻碍了对变异一元论可信度的整体最终评估。虽然它所面临的主要异议源于表象论关切，但这些异议的力量并不明确。可以说，变异一元论面临的最严重困难不在于其充分性，而在于其合理性。我们仍然需要一个明确的论证来说明理性如何导致异常主义原则；物理闭合和一元论之间的因果关系的地位存在重大问题；而因果定律原则的严格要求仍然需要有令人信服的理由。尽管存在这些问题，变异一元论仍然为探索心灵哲学中的基本问题和难题提供了一个极其有用的框架，并在心理和物理事件与属性之间的关系的重要立场上赢得了中心地位。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allison, H., 1983, *Kant’s Transcendental Idealism*, New Haven: Yale University Press.
@@ -470,4 +470,4 @@ Davidson 的其他辩护者（参见 Macdonalds 1986）对这个问题的回应�
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 Steven Yalowitz <[*yalowitz@umbc.edu*](mailto:yalowitz%40umbc%2eedu)>
-<!--md-padding-ignore-end-->
+

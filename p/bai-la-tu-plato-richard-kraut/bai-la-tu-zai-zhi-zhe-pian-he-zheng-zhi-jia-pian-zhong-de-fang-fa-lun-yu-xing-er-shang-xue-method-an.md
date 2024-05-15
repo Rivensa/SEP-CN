@@ -262,7 +262,7 @@ F-ness 是与其他事物相关的，如果存在将 F-ness 与其它事物联�
 
 除了像诡辩家和政治家这样的范畴性种类之外，在《诡辩家》中还讨论了其他重要的种类——变化、静止、存在、同一性和差异。这些种类在《巴门尼德》中被接受（尤其是巴门尼德 130b），但它们似乎与诡辩家和政治家等普通种类有明显的区别。元音形式——存在、同一性和差异——似乎构成了其他种类的结构，使它们成为它们自己，并与彼此相关。辩证法旨在发现和表达这些结构。结构性种类与辩证法密切相关，正如巴门尼德所预言的那样，但自《费多篇》和《理想国》以来，形式和辩证法似乎都在不断发展。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackrill, J. L., 1955, “ΣΥΜΠΛΟΚΗ ΕΙΔΩΝ,” *Bulletin of the Institute of Classical Studies*, 2: 31–35; reprinted in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), and in *Essays on Plato and Aristotle*, J. L. Ackrill, Oxford: Oxford University Press, 1997, 72–79.
@@ -416,4 +416,4 @@ F-ness 是与其他事物相关的，如果存在将 F-ness 与其它事物联�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Mary-Louise Gill](http://research.brown.edu/myresearch/Mary_Louise_Gill) <[*Mary_Louise_Gill@brown.edu*](mailto:Mary_Louise_Gill%40brown%2eedu)>
-<!--md-padding-ignore-end-->
+

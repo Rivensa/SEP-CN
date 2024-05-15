@@ -191,7 +191,7 @@ Kripke 对私人语言论的解释/原理因他未经争论地依赖维特根斯
 
 然而，有理由相信这个假设是错误的，因为对维特根斯坦关于基本、可能和终身克鲁索的概念的调查表明，承认第一个主张并不意味着他否认第二个主张。以第一个概念为例：在维特根斯坦的观点中，虽然国际象棋本质上是一个双人游戏，但这并不排除自己对弈的可能性，只要这样的独自游戏不被视为国际象棋的典范。同样，他可以声称语言本质上是社会性的，但仍然允许存在例外，只要这些是边缘案例。这个问题很复杂，追求它会偏离当前文章阐明中心内容的目的。有关详细解释，请参阅 Canfield \[1996]（本节受其影响，并包含对社群观点争论的有用参考文献）和 Hacker \[2010]。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 The secondary literature on this topic is enormous. The following list is highly selective, and entries are included by meeting at least one of the following criteria: good representative of a standard reading of the argument; influential source, primary or secondary; useful collection of items meeting one or other of the previous two criteria; useful survey; item making recent and significant progress in the understanding and assessment of the argument; source drawn on in the writing of this article; item mentioned in the main text of this article.
@@ -263,4 +263,4 @@ The secondary literature on this topic is enormous. The following list is highly
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Stewart Candlish](http://members.iinet.net.au/\~stewartcandlish/)\
 [George Wrisley](http://www.georgewrisley.com/) <[*gwrisley3@gmail.com*](mailto:gwrisley3%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

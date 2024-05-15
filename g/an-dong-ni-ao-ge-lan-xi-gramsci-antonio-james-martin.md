@@ -228,7 +228,7 @@ As such, they were key agents in the state’s connection to civil society.
 
 葛兰西的笔记本在苏联解体和意大利共产党解散后仍然吸引着学者的兴趣。最近的研究越来越关注他分析中的细微差别和变化，这些在过去常常被忽视，因为人们倾向于专注于“霸权”及其与马克思主义理论的关系。虽然这个概念仍然重要，但人们越来越欣赏葛兰西政治哲学中的其他主题及其与各个领域的相关性。他的思想仍然是非正统马克思主义的洞见之源（参见 Thomas 2009），他的概念已经延伸到国际关系和全球政治经济等学术领域（参见 Gill 1993），以及欧洲和“西方”以外的社会政治背景（参见 Morton 2007；Fonseca 2016）。葛兰西作为一个内部移民的经历，他“从其边缘的底部审视现代性”（Urbinati 1998: 371），以及他特别关注“次级”阶级在国家文化形成中的斗争，这些都激发了与他的思想起源的共产主义框架截然不同的后殖民文学批评和政治形式（参见 Srivastava & Bhattacharya 2012）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -303,4 +303,4 @@ All works below are by Antonio Gramsci.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 James Martin <[*j.martin@gold.ac.uk*](mailto:j%2emartin%40gold%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

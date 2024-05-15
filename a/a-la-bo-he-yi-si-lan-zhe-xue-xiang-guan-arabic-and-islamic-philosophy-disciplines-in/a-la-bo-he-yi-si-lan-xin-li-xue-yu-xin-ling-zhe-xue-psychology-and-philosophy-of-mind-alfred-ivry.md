@@ -182,7 +182,7 @@
 
 总之，可以说古典穆斯林哲学家的心理学在亚里士多德和新柏拉图主义观点之间摇摆不定，试图合成有利于一种或另一种观点的综合。亚里士多德的自然主义在追求承诺永恒幸福的普遍真理的知识时经常被颠覆，尽管这个概念在哲学上很困难。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -263,4 +263,4 @@
 
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by  
 Alfred Ivry
-<!--md-padding-ignore-end-->
+

@@ -102,7 +102,7 @@
 
 时间机器可能永远不会见到阳光，这可能是基于基本物理定律的原则性原因。但即使各种相关理论中的数学定理成功地证明了时间机器的不可能性，理解为什么无法构建时间机器将为物理学基础问题提供启示。正如我们在第 4 节中所讨论的，例如，在广义相对论中寻找时间机器应被解释为研究彭罗斯宇宙审查猜想命运的核心问题。这个猜想可以说是广义相对论中最重要的未解问题。同样，如第 5 节所讨论的，与时间机器各个方面相关的数学定理为寻找量子引力理论提供了相关结果。总之，研究操作时间机器的可能性不是一种科学上的边缘或轻浮的周末活动，而是探索经典和量子引力理论基础的有用方式。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Arntzenius, F. and T. Maudlin, 2009, “Time Travel and Modern Physics,” in E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2009 Edition), URL = <[Time Travel and Modern Physics (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/time-travel-phys/)>.
@@ -187,4 +187,4 @@ We thank Carlo Rovelli for discussions and John Norton for comments on an earlie
 [John Earman](http://www.pitt.edu/~hpsdept/people/fac_pages/earman.html) <[*jearman@pitt.edu*](mailto:jearman%40pitt%2eedu)>  
 [Christian Wüthrich](http://www.wuthrich.net/) <[*christian.wuthrich@unige.ch*](mailto:christian%2ewuthrich%40unige%2ech)>  
 [JB Manchak](http://www.lps.uci.edu/~jmanchak/) <[*jmanchak@uci.edu*](mailto:jmanchak%40uci%2eedu)>
-<!--md-padding-ignore-end-->
+

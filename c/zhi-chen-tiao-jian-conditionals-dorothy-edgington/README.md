@@ -477,7 +477,7 @@ Hook 将回复关于条件命令的上述论点，我们需要诉诸语用学。
 
 将我们的视角扩大到包括这些其他条件句，往往会证实 Supp 的观点。 任何命题态度都可以是绝对的，或者是在假设下持有的。 任何言语行为都可以无条件地进行，或者是有条件地进行。 总的来说，我们对“如果”的使用似乎更好地、更统一地解释，而无需引入条件命题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### General Overviews
@@ -580,4 +580,4 @@ Hook 将回复关于条件命令的上述论点，我们需要诉诸语用学。
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Dorothy Edgington <[*d.edgington@bbk.ac.uk*](mailto:d%2eedgington%40bbk%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

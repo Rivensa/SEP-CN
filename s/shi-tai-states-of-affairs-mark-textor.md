@@ -474,7 +474,7 @@ Smith（1992：1103-4）追溯了事态这样的实体到亚里士多德和中�
 
 Reinach 1911 跟随 Husserl 的观点：事态是判断和断言的“对应物”（有关 Reinach 和 Armstrongian 事态的比较，请参见 Meinertsen 2020）。例如，如果存在一朵特定的玫瑰，存在一系列依赖于玫瑰的事态，无论它们是否发生（参见 Reinach 1911: 340）。如果我判断玫瑰是蓝色的，那么我判断错误，因为被判断的事态存在，但并未发生。事态发生或未发生的属性使其与事实区分开来。正如我们在第 2 节中所看到的，事态的“空间”有助于 Reinach 澄清模态和概率的概念（参见 Reinach 1911: 339-40）。Reinach（1911: 338f）提出了事态是基础-结果关系的关联物，但并未详细论证。如果事件 a 导致事件 b 发生，那么 a 发生的事态是 b 发生的基础。事态在维特根斯坦的《逻辑哲学论》中占据重要地位。Potter（2011, 106）推测奥地利哲学家对维特根斯坦在这方面的影响。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aquila, Richard E., 1971, “Intentionality and Possible Facts”, *Noûs*, 5(4): 411–417. doi:10.2307/2214387
@@ -594,4 +594,4 @@ I want to thank Arianna Betti, Will Bynoe, Chris Hughes, Fabrice Correia, Keith 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Mark Textor <[*mark.textor@kcl.ac.uk*](mailto:mark%2etextor%40kcl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

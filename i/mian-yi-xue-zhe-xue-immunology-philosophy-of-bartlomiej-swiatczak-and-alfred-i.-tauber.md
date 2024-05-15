@@ -184,7 +184,7 @@ Jerne 的挑衅性假设虽然在构思上优雅且激发了新的研究方向�
 
 总之，虽然免疫学哲学紧密嵌入生物学哲学并与之相关，但它已成为一个具有独特兴趣和贡献的已建立学科。哲学家感兴趣的免疫学问题并不总是与主导免疫学当代研究计划的问题重叠。这种分歧凸显了免疫学哲学如何成为一个具有自己关注对象和研究方法的自主领域，这些方法不是模仿或复制相关领域的理论和实验免疫学的追求，而是互补的。此外，免疫学哲学研究对生物学哲学家所涉及的一系列关键主题做出了贡献，包括有机体身份、个体性、复杂系统中的动态因果关系（将复杂性理论与大数据研究相结合）、系统生物学的目标和方法的描述、信息的组织、规范和异常的描述，以及个人本体论（自我）。这些研究领域中的每一个都影响到哲学家感兴趣的其他生物学学科，如发育、生态学、遗传学、进化和认知。除了生物学哲学的范围之外，免疫学研究还对还原主义/反还原主义、理论变革和概念建模以及科学的社会和文化研究（如科学中隐喻的作用、科学话语的角色）的更一般讨论做出了贡献。总之，免疫学哲学家和科学哲学家之间形成了丰富的双向交流，使前者能够使用同行们开发的经过验证的概念工具，同时为后者提供了独特的观点。 鉴于免疫学在现代生物学中的核心地位以及这门科学对重要哲学问题提供的独特视角，进一步的参与不仅似乎可能，而且对于广泛的科学哲学来说是必要的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ader, Robert (ed.), 2006, *Psychoneuroimmunology*, 4th edition, Burlington, MA: Elsevier Academic Press.
@@ -456,4 +456,4 @@ Jerne 的挑衅性假设虽然在构思上优雅且激发了新的研究方向�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Bartlomiej Swiatczak](https://www.researchgate.net/profile/Bartlomiej\Swiatczak) <[*bartlomiej.swiatczak@gmail.com*](mailto:bartlomiej%2eswiatczak%40gmail%2ecom)>\
 [Alfred I. Tauber](http://www.bu.edu/philo/people/faculty/full-time/alfred-i-tauber/) <[*ait@bu.edu*](mailto:ait%40bu%2eedu)>
-<!--md-padding-ignore-end-->
+

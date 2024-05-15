@@ -122,7 +122,7 @@
 
 查阅《伽利略审判文件》，请参阅 Finocchiaro 1989; Mayer 2012。要了解伽利略事件的漫长、曲折和迷人的后续发展，请参阅 Finocchiaro 2005；至于教皇约翰·保罗二世于 1992 年对伽利略的恢复，请参阅 Coyne 2005。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources: Galileo’s Works
@@ -287,4 +287,4 @@ Thanks to Zvi Biener and Paolo Palmieri for commenting on earlier drafts of this
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Peter Machamer](http://www.pitt.edu/~hpsdept/people/fac_pages/machamer.html) <[*machamerpeter@gmail.com*](mailto:machamerpeter%40gmail%2ecom)>  
 David Marshall Miller <[*dmm1@iastate.edu*](mailto:dmm1%40iastate%2eedu)>
-<!--md-padding-ignore-end-->
+

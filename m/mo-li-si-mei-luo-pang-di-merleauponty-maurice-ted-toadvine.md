@@ -184,7 +184,7 @@ The body’s relationship with space is therefore intentional, although as an �
 
 近年来，受到莫里斯·梅洛-庞蒂课程笔记和未发表著作的日益丰富的资料的影响，英语学术界对他的研究集中在他对本体论、认识论和哲学方法的贡献上（Antich 2021; Beith 2018; Berendzon 2023; Fóti 2013; Jacobson and Russon 2017; Kaushik 2020; Landes 2013; Mooney 2022; Morris 2018; Whitmoyer 2017），以及他与文学、建筑和艺术的关系（Andrews 2018; Apostolopoulos 2019; Carbone 2015; Fóti 2021; Hale 2016; Johnson, Carbone, and de Saint Aubert, 2020; Kaushik 2013; Locke and McCann 2015; Mildenberg 2018），他与历史和当代思想家的关系（Chouraqui 2013; Loughnane 2019; Morin 2023; Olkowski 2021; Romdenh-Romluc 2019; Wirth and Burke 2014; Wambacq 2018），以及他对伦理学和政治理论的贡献（Bahler 2016; Daly 2016; Melançon 2021; Smyth 2014）。女性主义现象学和批判现象学借鉴了梅洛-庞蒂关于具身、具身习惯、规范性和性别的解释，尽管对他思想中的局限性和问题性做出了重要的限定（Ahmed 2006; Alcoff 2006; Anderson 2022; Heinämaa 2003; Lajoie and Toadvine 2021 and 2022; Lee 2014; Ngo 2017; Oksala 2016; Olkowski and Weiss 2006; Ortega 2016; Salamon 2018; Weiss 2015; Young 2005）。梅洛-庞蒂的工作还对动物研究（Buchanan 2009; Dufourcq 2022; Oliver 2009; Westling 2014）、认知科学（Gallagher 2005; Thompson 2007）、环境哲学（Abram 1996; Cataldi and Hamrick 2007; Toadvine 2009）和精神病理学（McDonald 2019; Venable 2021）的讨论做出了重要贡献。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cited Works by Merleau-Ponty
@@ -341,4 +341,4 @@ The author would like to thank Corinne Lajoie for helpful suggestions on revisin
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Ted Toadvine](http://rockethics.psu.edu/people/ted-toadvine) <[*tat30@psu.edu*](mailto:tat30%40psu%2eedu)>
-<!--md-padding-ignore-end-->
+

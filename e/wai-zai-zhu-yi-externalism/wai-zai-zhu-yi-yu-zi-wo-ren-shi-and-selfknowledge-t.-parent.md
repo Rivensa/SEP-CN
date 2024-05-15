@@ -350,7 +350,7 @@ W.最后的担忧是他将自我认识的心理现象与仅仅是语言或“语
 
 关于外在主义是否与自我认识相容的辩论，因此值得我们持续、认真地关注。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works Cited
@@ -667,4 +667,4 @@ Many works cited and further readings are found in the anthologies above: Boghos
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 [T. Parent](http://tparent.net/) <[*nontology@gmail.com*](mailto:nontology%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

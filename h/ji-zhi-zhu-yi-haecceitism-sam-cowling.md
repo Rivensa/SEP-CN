@@ -251,7 +251,7 @@ PII 的第二个版本，PII-Worlds，涉及可能世界本身而不是其中的
 
 在语言哲学中对基质的一些引用更为有限和微妙，例如，霍桑和曼利（2012:204）考虑在指示语义中部署基质和其他非定性属性，而其他应用则更具一般性，例如，通过基质来分析关于基质的 de re 意义或个体概念。（有关讨论，请参见奇索姆（1976:29）。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R. M., 1979, “Primitive Thisness and Primitive Identity”, *Journal of Philosophy*, 76: 5–26.
@@ -394,4 +394,4 @@ Thanks to Phil Bricker, Ben Caplan, Ed Ferrier, Dan Giberman, Brad Rettler, Brad
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Sam Cowling](http://personal.denison.edu/~cowlings/) <[*sam.cowling@denison.edu*](mailto:sam%2ecowling%40denison%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -112,7 +112,7 @@ _类比_和“关于美德的论文”的论点都是基于这一点。在_类�
 
 巴特勒的布道在十八世纪被阅读，特别是在_类比_出版后，并经历了多次版本。_类比_在十八和十九世纪多次重印，巴特勒的作品也是如此。他最初的影响似乎对苏格兰哲学家影响最大，包括（也许）他的同时代人弗朗西斯·哈奇森、乔治·特恩布尔、大卫·福尔代斯、大卫·休谟、亚当·斯密、托马斯·里德及其同道 — 尤其是埃德蒙·伯克。休谟试图会见巴特勒，并修改了他赠送给他的《人性论》手稿副本，以免引起冒犯。休谟和斯密对同情、怜悯、愤怒、正义的描述，以及他们对道德心理学的经验态度（以及道德心理学对伦理学的核心地位）和道德解释的局限性都受到巴特勒的影响。休谟在他的《人性论》中对归纳的讨论也被视为对_类比_中巴特勒的做法的批评（Russell 2008）。巴特勒在德国也广受欢迎。例如，所罗门·迈蒙在他的《自传》序言中引用了巴特勒的“关于美德的论文”。在十九世纪末和二十世纪初，巴特勒的_布道_比_类比_更具影响力，这要归功于它们在牛津和剑桥以及特别是在威廉·惠威尔（见 Tennant 195–199）和西奇威克身上的影响。在十九世纪后期和二十世纪，它们被许多英美传统中心道德哲学家讨论，并对许多人产生了巨大影响 — 如 G·E·摩尔、H·A·普里查德，尤其是 W·D·罗斯。巴特勒的影响和重要性一直存在（例如，在关于 [宽恕](https://plato.stanford.edu/entries/forgiveness/index.html#ButlAcco) 条目中关于巴特勒的描述）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -191,4 +191,4 @@ Thanks to Ian Blaustein, Roger Crisp, Charles Griswold, Knud Haakonssen, James H
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Aaron Garrett <[*garrett@bu.edu*](mailto:garrett%40bu%2eedu)>
-<!--md-padding-ignore-end-->
+

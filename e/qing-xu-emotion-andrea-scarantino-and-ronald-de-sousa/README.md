@@ -441,7 +441,7 @@ Colombetti（2014）认为现象学传统可以丰富情绪的神经科学。依
 
 这些洞见的探索和围绕它们的分歧的解决是当代情绪理论中蓬勃发展的跨学科项目。哲学家和情感科学家将继续投入其中，为共同利益的项目提供他们独特的理论技能。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cited Works
@@ -766,4 +766,4 @@ We want to thank Manula Adhihetty for his valuable work helping us edit the entr
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Andrea Scarantino <[*ascarantino@gsu.edu*](mailto:ascarantino%40gsu%2eedu)>  
 [Ronald de Sousa](https://philosophy.utoronto.ca/directory/ronald-de-sousa/) <[*ronald.de.sousa@utoronto.ca*](mailto:ronald%2ede%2esousa%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

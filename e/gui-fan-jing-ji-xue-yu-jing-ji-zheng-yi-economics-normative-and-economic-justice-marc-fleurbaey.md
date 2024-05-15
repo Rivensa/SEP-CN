@@ -220,7 +220,7 @@ Schokkaert 和 Overlaet（1989 年），Amiel 和 Cowell（1999 年），Schokka
 
 规范经济学，甚至比政治和道德哲学更加人类中心主义，但随着对动物权利和动物利益的日益关注，人们开始关注一些有影响力的哲学家的引领（见有关动物道德地位的条目），例如 Sunstein 和 Nussbaum 2004）。有趣的是，动物福利、生物学等专业研究采用类似福利经济学的方法来估计动物的偏好，并构想各种满足它们需求和福祉的途径（例如 Appleby 等人 2018）。许多反对当前农业实践的论点仍然基于人类中心主义的考虑，如气候变化和生态系统服务。但是，为动物在社会福利函数中开辟一席之地的想法正在获得认同（Johansson-Stenman 2018，Carlier 和 Treich 2020，Espinosa 和 Treich 2021；对相反观点，请参见 Eichner 和 Pethig 2006）。Budolfson 和 Spears（2020）提出了一种基于福祉潜力和相对实现福祉之间区别的包容型功利社会福利函数的计算方法。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aaberge, R., and A. Brandolini, 2015, “Multidimensional poverty and inequality”, in Atkinson and Bourguignon (eds.) 2015, 141–216
@@ -484,4 +484,4 @@ Thanks to Christian List and Thomas Pogge for their helpful comments.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Marc Fleurbaey](https://sites.google.com/site/marcfleurbaey/Home) <[*marc.fleurbaey@psemail.eu*](mailto:marc%2efleurbaey%40psemail%2eeu)>
-<!--md-padding-ignore-end-->
+

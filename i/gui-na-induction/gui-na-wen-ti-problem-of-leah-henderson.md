@@ -514,7 +514,7 @@ Schurz 关于 wMI 最优性的原始定理适用于有有限个预测方法的�
 
 波普尔的观点在一个重要方面似乎是不完整的。总是有许多假设尚未被证据推翻，而且这些假设可能相互矛盾。根据严格的演绎框架，由于没有一个被证伪，它们都处于同等地位。然而，科学家通常会说其中一个假设比其他假设更受证据支持。我们似乎需要的不仅仅是演绎推理来支持实际决策（Salmon 1981）。波普尔确实提到了一种假设通过证据“证实”程度的概念。但可以说，这使他远离了严格的演绎科学观点。因此，纯粹的演绎主义似乎无法给出对科学方法的充分解释。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Achinstein, Peter, 2010, “The War on Induction: Whewell Takes on Newton and Mill (Norton Takes on Everyone)”, *Philosophy of Science*, 77(5): 728–739.
@@ -651,4 +651,4 @@ Particular thanks are due to Don Garrett and Tom Sterkenburg for helpful feedbac
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Leah Henderson](http://lhenderson.org/) <[*l.henderson@rug.nl*](mailto:l%2ehenderson%40rug%2enl)>
-<!--md-padding-ignore-end-->
+

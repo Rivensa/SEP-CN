@@ -291,7 +291,7 @@ In his later writings from the 1990s, however, Phillips’ remarks appear more m
 
 宗教语言是否遵循非经典逻辑？这个问题至少在两个背景下被提出。首先，一些亚言论传统的作者的著作被视为支持宗教语言的矛盾论逻辑，具体来说是双真论，即一些矛盾的陈述是真实的（参见普里斯特 2002 年：22-3，尽管斯科特和西特龙 2016 年：72 对此作为亚言论作者的合理解释表示怀疑）。其次，迈克尔·达梅特考虑了一些支持神圣全知论导致双值性的观点的论证，即对于任何陈述 p，它要么是真的，要么是假的。例如，如果上帝知道 p，那么他知道他知道 p，因此它是真的；但是如果上帝不知道 p，那么他知道他不知道它，因此知道它不是真的。由此可见，上帝必须知道 p 是真的还是假的，从而确保双值性（2004 年：94-96；另请参阅 1991 年：318-9，348-351）。对于达梅特来说，对于一个话语领域的现实主义取决于该话语领域的陈述的双值原则的成功，因此可以得出结论，神论导致全局现实主义。关于达梅特论证的批判性讨论，请参阅斯科特和斯蒂文斯 2007 年的著作。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, William P., 1989, *Divine Nature and Human Language*, Ithaca, NY: Cornell University Press.
@@ -451,4 +451,4 @@ In his later writings from the 1990s, however, Phillips’ remarks appear more m
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Michael Scott](https://www.research.manchester.ac.uk/portal/michael.scott.html) <[*Michael.Scott@manchester.ac.uk*](mailto:Michael%2eScott%40manchester%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

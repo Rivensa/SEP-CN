@@ -178,7 +178,7 @@ F=Gm1m2/r2.
 
 除了上述讨论的作者之外，还有很多与因果解释相关的最新研究，我们没有足够的空间来讨论。关于抽象和理想化在因果解释中的作用（以及解释中各种抽象和理想化的存在是否意味着它是非因果的），请参阅 Janssen 和 Saatsi（2019）、Reutlinger 和 Andersen（2016）、Blanchard（2020）、Rice（2021）和 Pincock（2022）的其他研究。另一组近期受到广泛关注的问题涉及到在存在不同“层次”的情境中的因果解释（Craver＆Bechtel 2007；Baumgartner 2010；Woodward 2020）。这些文献涉及以下问题。是否可以存在“上层”因果作用，或者所有因果行为都发生在某个较低的微观层次上，而上层变量则是无效的？是否可以存在“跨层次”因果作用，例如从上层到下层的“向下”因果作用？最后，除了第 4 节讨论的解释深度的研究之外，最近还有大量关于不同类型的因果主张之间的区别（Woodward 2010；Ross 2021a；Ross＆Woodward 2022）以及是什么使某些原因在解释上更具重要性的研究（例如，Potochnik 2015）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Andersen, Holly, 2014a, “A Field Guide to Mechanisms: Part I: A Field Guide to Mechanisms I”, *Philosophy Compass*, 9(4): 274–283. doi:10.1111/phc3.12119
@@ -307,4 +307,4 @@ Thanks to Carl Craver, Michael Strevens and an anonymous referee for helpful com
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Lauren Ross](https://www.lps.uci.edu/~rossl/) <[*rossl@uci.edu*](mailto:rossl%40uci%2eedu)>  
 [James Woodward](https://www.hps.pitt.edu/people/james-woodward) <[*jfw@pitt.edu*](mailto:jfw%40pitt%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -101,7 +101,7 @@
 
 同样重要的是不要夸大雷贝格的传统主义。他对政治生活中传统的不可或缺角色的坚持是他保守主义的特征之一。然而，需要补充的是，他对传统的信仰并不是保守的信仰。如果习俗和传统在变化的环境中变得压迫或不方便，他承认，甚至坚持我们应该改变习俗和传统。[53]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources: Rehberg's Chief Works
@@ -145,4 +145,4 @@
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
 [Frederick C. Beiser](http://thecollege.syr.edu/people/faculty/pages/phi/beiser-fred.html) <[*fbeiser@syr.edu*](mailto:fbeiser%40syr%2eedu)>
-<!--md-padding-ignore-end-->
+

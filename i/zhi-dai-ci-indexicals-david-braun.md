@@ -402,7 +402,7 @@ Kaplan 关于真指示词的理论允许类似于(26)的句子在某些情境下
 
 对于找到“那”一个单一含义的问题，有各种不同的选择。可以规定每个语境只有一个指示物，并且说在一个语境中，“那”的内容就是该语境的指示物，但是坚持一个包含多个指示词的句子的内容不是由一个单一的语境决定的，而是由一系列的语境决定的。然后，（26）在具有不同指示物的某些语境序列中是真实的。其次，可以区分语言意义和特征。“那”有一个单一的语言意义，但这个意义不能决定一个语境中的指代；语言意义反而决定了出现的特征，而这些特征决定了一个语境中的指代。第三，可以转向将内容分配给话语而不是表达式的理论。这可能有所帮助，因为（26）的每个话语都包含两个“那”的话语。还有其他可能性。有关讨论，请参见 Kaplan 1989a、1999；Wettstein 1986；Taschek 1987；Braun 1996；Garcia-Carpintero 1998；Salmon 2002；Richard 2003。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Almog, J., Perry, J. and Wettstein, H., 1989. *Themes from Kaplan*, Oxford: Oxford University Press.
@@ -556,4 +556,4 @@ Kaplan 关于真指示词的理论允许类似于(26)的句子在某些情境下
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [David Braun](http://www.buffalo.edu/~dbraun2/) <[*dbraun2@buffalo.edu*](mailto:dbraun2%40buffalo%2eedu)>
-<!--md-padding-ignore-end-->
+

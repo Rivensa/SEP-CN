@@ -226,7 +226,7 @@ Sparrow 还质疑了父母应该生育最好的孩子这一假设的正当性。
 
 然而，批评者认为，自由优生学的倡导者假定父母为塑造子女所采取的手段没有道德上的相关差异。这种假设似乎是值得质疑的。例如，教育孩子的较长迭代过程在某种程度上强化了一种沟通参与方式，这是工程化胚胎无法做到的（Malmqvist 2011）。事实上，可以说不仅手段不同（de Melo-Martín 2018）。工程化胚胎的目标 - 通过选择或编辑 - 以及教育孩子的目标 - 以各种方式 - 仅在表面上相似。虽然基因选择或编辑侧重于特定特征，但教育或培训的重点是整个人，关注特定孩子的个性，即使感兴趣的方面 - 例如音乐或体育卓越 - 是父母希望灌输给子女的特征。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agar, Nicholas, 2004, *Liberal Eugenics: In Defence of Human Enhancement*, Oxford UK: Blackwell.
@@ -377,4 +377,4 @@ Sparrow 还质疑了父母应该生育最好的孩子这一假设的正当性。
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Inmaculada de Melo-Martin <[*imd2001@med.cornell.edu*](mailto:imd2001%40med%2ecornell%2eedu)>  
 [Sara Goering](https://phil.washington.edu/people/sara-goering) <[*sgoering@uw.edu*](mailto:sgoering%40uw%2eedu)>
-<!--md-padding-ignore-end-->
+

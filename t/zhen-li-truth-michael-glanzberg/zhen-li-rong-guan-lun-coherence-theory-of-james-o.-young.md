@@ -90,7 +90,7 @@ Colin McGinn 提出了对融贯论的另一个新的反对意见。他认为（M
 
 连贯主义者对这个反驳有回应。麦金的论点有效是因为他认为冗余双条件式的意思类似于“p 是真的，因为 p”。只有当冗余双条件式被理解为这种方式时，麦金的论证才成立。麦金需要谈论的是使得“雪从天空落下”成为真实的原因，他的还原论才能起作用。否则，拒绝他的论证的连贯主义者不能被指责为唯心主义者。他假设，以连贯主义者可以视为自圆其说的方式，问题所在句子的真实性的真理生成者是世界的客观方式。连贯主义者否认任何句子是由客观条件使其成为真实。特别是，他们认为雪从天空落下并不使得“雪从天空落下”成为真实。连贯主义者认为，它和其他任何句子一样，是因为与一套信念系统相一致而成为真实。因此，连贯主义者对麦金的反驳似乎有一个合理的辩护。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Blanshard, B., 1939, *The Nature of Thought*, London: George Allen and Unwin.
@@ -128,4 +128,4 @@ idealism: British | [knowledge: analysis of](https://plato.stanford.edu/entrie
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [James O. Young](https://www.uvic.ca/humanities/philosophy/people/facultymembers/profiles/young.php) <[*joy@uvic.ca*](mailto:joy%40uvic%2eca)>
-<!--md-padding-ignore-end-->
+

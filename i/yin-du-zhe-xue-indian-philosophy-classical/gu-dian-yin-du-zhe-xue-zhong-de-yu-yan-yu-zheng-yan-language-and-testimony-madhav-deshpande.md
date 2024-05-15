@@ -123,7 +123,7 @@ Nyāya 和 Vaiśeṣika 学派建立了一个包含实体、品质、行动、�
 
 这些不同理论的微妙之处与它们发展的学派内部的明显不同兴趣密切相关。梵语诗学关注的是意义的诗意维度。语法学家对语言和认知感兴趣，但对本体论范畴本身并不感兴趣，除非这些范畴是由词语的使用所揭示的概念结构。对于他们来说，词语和意义必须被解释清楚，不论一个人的形而上学观点如何。尼亚亚-威舍什学派主要研究逻辑、认识论和本体论，并认为一个有效的句子是对现实状态的真实描绘。教义学的首要目标是解释和捍卫吠陀经典。因此，对于教义学来说，意义必须是永恒的、非创造的，并且与个人的意图无关，因为它的典范词语——吠陀经典是永恒的、非创造的，超越了神或人的创作。经典词语的目的是教导人们如何正确地进行仪式和道德职责，但其中没有意图。另一方面，佛教徒的目标是使人们摆脱对世界的所有执着，因此展示了一切事物的空无，包括语言。他们更感兴趣的是展示语言如何无法描绘现实，而不是解释它的运作方式。因此，意义理论是每个学派总体议程的重要组成部分，需要在特定背景下加以理解。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bhartṛhari, 400. *Vākyapadīya* (Series: Abhandlungen für die Kunde des Morgenlandes, XLII, 4), R. Wilhelm, Wiesbaden: Franz Steiner Verlag, 1977.
@@ -214,4 +214,4 @@ Bhartṛhari | [Buddha](https://plato.stanford.edu/entries/buddha/) | [Gaṅ
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Madhav Deshpande](http://www.ii.umich.edu/ii/aboutus/people/centerforsouthasianstudies/faculty/ci.deshpandemadhav_ci.detail)
-<!--md-padding-ignore-end-->
+

@@ -142,7 +142,7 @@ His notion of the rise of human self-consciousness is therefore quite the opposi
 
 只有当威廉·冯·洪堡的语言哲学和语言学成就的新完整版著作（《语言学著作集》）完成并发布后，才能对其进行全面的描述和公正的评估。[6]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -487,4 +487,4 @@ The editors would like to thank Cord-Friedrich Berghahn for working on the 2022 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Kurt Mueller-Vollmer  
 [Markus Messling](https://www.uni-saarland.de/lehrstuhl/messling/lehrstuhl/messling.html)
-<!--md-padding-ignore-end-->
+

@@ -134,7 +134,7 @@
 
 从某种意义上说，这段话总结了霍克海默从早期到晚期的所有工作的目标。教育的任务和批判理论家的任务是培养对不公正的同情敏感。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 A partial bibliography, written in English, of Horkheimer’s works can be found in S. Benhabib, W. Bonß, and J. McCole (eds.), *On Max Horkheimer: New Perspectives*, Cambridge, MA: MIT Press, 1993. An extensive bibliography of primary and secondary sources, written in German, can be found in *Max Horkheimer Gesammelte Schriften, Band 19: Nachträge, Verzeichnisse, und Register*, A Schmidt and G. Schmid Noerr (eds.), Frankfurt am Main: Fischer, 1996.
@@ -218,4 +218,4 @@ Below are the bibliographical entries for the cited English translations, listed
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [J.C. Berendzen](http://loyno.edu/~jberendz/) <[*jberendz@loyno.edu*](mailto:jberendz%40loyno%2eedu)>
-<!--md-padding-ignore-end-->
+

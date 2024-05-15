@@ -274,7 +274,7 @@
 
 最后，先验唯心主义在涉及空间和时间方面具有以下重要组成部分：我们对空间有一种非经验的、独特的、直接的表象。康德的创新之一是将非经验直觉引入哲学词汇中。除非我们提醒自己康德严格区分感觉和直觉，否则我们很难正确解释这个想法。这种区分反过来构成了康德对莱布尼兹感知学说的广泛拒绝的重要组成部分。只有拒绝了那个学说，我们才能正确理解康德对莱布尼兹关于空间和时间观点的分野。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -375,4 +375,4 @@ I would especially like to thank Michael Friedman for many discussions of the is
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Andrew Janiak](https://scholars.duke.edu/person/janiak) <[*janiak@duke.edu*](mailto:janiak%40duke%2eedu)>
-<!--md-padding-ignore-end-->
+

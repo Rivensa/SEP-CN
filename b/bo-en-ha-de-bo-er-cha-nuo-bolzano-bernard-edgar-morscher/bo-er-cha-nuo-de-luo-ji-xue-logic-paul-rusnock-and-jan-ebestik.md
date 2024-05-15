@@ -391,7 +391,7 @@ Roski（2014: 370）总结了波尔查诺的思考的一般倾向如下：
 
 然而，他始终坚持自己现象学方法的独创性。在两次世界大战之间，波尔查诺的逻辑学和数学哲学启发了海因里希·肖尔兹（Heinrich Scholz）和让·卡瓦耶（Jean Cavaillès）。也在这段时期，塔斯基（Tarski）独立于波尔查诺发现了逻辑推论的概念，只是在肖尔兹（1937 \[1961]）指出之后才意识到他的工作与波尔查诺的关联。然而，早在 Twardowski（1894）中，波兰利沃夫-华沙学派的创始人，波尔查诺的思想被广泛讨论和批评，其中一些可能已经成为波兰学派的共同传统。1920 年，汉斯·哈恩（Hans Hahn）编辑了《无限的悖论》，并附有重要的批注，将波尔查诺与康托尔进行了比较。卡尔·门格（Karl Menger）可能不仅从庞加莱那里汲取了他的维度理论的灵感，还从《悖论》中获得了启发。诺拉特（Neurath）赞扬波尔查诺是维也纳圈的祖先之一，因为他的风格简练，拒绝康德的哲学。一些重要的波尔查诺思想也可以在奎因（Quine）的作品中找到。所有这些思潮都应该感谢波尔查诺给予的严谨思维和分析力量的教训。波尔查诺是那种以逻辑为核心、充满科学气息的分析哲学的真正奠基人。他的逻辑具有古老的方面，但他不仅引入了新概念、方法和理论，新主题和新问题，而且最重要的是引入了一种自那时起一直激励哲学的新精神。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -602,4 +602,4 @@ Roski（2014: 370）总结了波尔查诺的思考的一般倾向如下：
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Paul Rusnock <[*prusnock@uottawa.ca*](mailto:prusnock%40uottawa%2eca)>\
 [Jan Šebestik](http://www.aleph.cz/sebestik/sebestik-cv.html)
-<!--md-padding-ignore-end-->
+

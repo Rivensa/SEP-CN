@@ -164,7 +164,7 @@
 
 在这个特定意义上，施莱格尔可以被理解为一位比他那个时代的其他哲学家更激进地思考差异的思想家。尽管施莱格尔的著作并没有像其他 19 世纪德国哲学家的著作那样被视为哲学性的，但他对艺术及其历史的探讨，以及对语言和文化差异的思考，更接近于所谓的后现代美学的理解，而不是他的同时代人。事实上，在他特有的谦逊风格中，施莱格尔预见了尼采、布卢门贝格或德勒兹等哲学家的思想。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by A.W. Schlegel
@@ -321,4 +321,4 @@ The abbreviations used for references to, or quotations of, A.W. Schlegel are in
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 Katia D. Hay <[*katia\_hay@yahoo.fr*](mailto:katia\_hay%40yahoo%2efr)>
-<!--md-padding-ignore-end-->
+

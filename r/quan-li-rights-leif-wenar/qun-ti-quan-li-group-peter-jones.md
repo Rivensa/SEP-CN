@@ -166,7 +166,7 @@ List 和 Pettit（2011, 170–85）也分享了这种担忧。虽然他们认为
 
 那么，将人权归属于群体会对个人及其人权造成损害的担忧又如何呢？如果我们将人权归属于作为公司实体的群体，那么这些担忧是可以理解的，因为我们可能会将两个不同实体的权利，即群体和个人的权利相对立。但是，如果我们将人权归属于作为集体的群体，我们并没有做出这样的事情，因为集体共同持有人权的个体将是与个别持有人权的个体相同的个体。人权理论家的任务将是构建整个人权体系，使得对于所有持有人权的人来说，它们构成一个道德上最优和可共存的集合。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Beitz, Charles, 2009, *The Idea of Human Rights*, Oxford: Oxford University Press.
@@ -305,4 +305,4 @@ List 和 Pettit（2011, 170–85）也分享了这种担忧。虽然他们认为
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Peter Jones](http://www.ncl.ac.uk/gps/staff/profile/peterjones.html) <[*peter.jones@ncl.ac.uk*](mailto:peter%2ejones%40ncl%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

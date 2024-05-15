@@ -162,7 +162,7 @@ Varga（2011a）分享了一个基本假设，即本真性具有一定的潜力�
 
 沿着类似的思路，鲍尔（2017）捍卫了本真性作为一种伦理理想，并主张这种理想应该被理解为表达个人个性和成为一个自主和道德负责任的人的理想的结合。其他人则认为，本真性可能需要更多的是与自己真心认同的承诺相一致地生活。例如，林斯（2017）强调了一个认识论的标准。关键在于，所涉及的承诺必须在承认个人历史和现实背景的事实的基础上进行选择。因此，自我认知可能比迄今为止所认识到的更重要，即使与本真性最相关的自我关系并不主要是认识论的性质。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adorno, Theodor W., 1973, *The Jargon of Authenticity*, trans. Knut Tarnowski and Frederic Will, Evanston, IL: Northwestern University Press.
@@ -286,4 +286,4 @@ Varga（2011a）分享了一个基本假设，即本真性具有一定的潜力�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Somogy Varga <[*varga@cas.au.dk*](mailto:varga%40cas%2eau%2edk)>  
 Charles Guignon
-<!--md-padding-ignore-end-->
+

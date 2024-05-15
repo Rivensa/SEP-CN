@@ -170,7 +170,7 @@ Z2 的标准模型具有 Vκ 的形式，其中 κ 是一个正规基数，使�
 
 事实证明，在许多情况下，这是比较 ZFC+φ 和 ZFC+ψ 的唯一已知方法，也就是说，在许多情况下，没有直接的解释，而必须通过大基数公理来进行。这个额外的特征能否用来支持大基数公理？答案不明确。然而，明确的是大基数公理在集合论中的绝对核心地位。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackermann, Wilhelm, 1937, “Die Widerspruchsfreiheit der allgemeinen Mengenlehre,” *Mathematische Annalen*, 114: 305–315.
@@ -210,4 +210,4 @@ Z2 的标准模型具有 Vκ 的形式，其中 κ 是一个正规基数，使�
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by\
 Peter Koellner <[*koellner@fas.harvard.edu*](mailto:koellner%40fas%2eharvard%2eedu)>
-<!--md-padding-ignore-end-->
+

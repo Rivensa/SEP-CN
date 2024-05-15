@@ -160,7 +160,7 @@ Bloom 和同事提供了另一种解释我们对真品的兴趣的解释，这�
 
 对环境审美中独特之处的辨识，可以采用一种不同且更具包容性的方法，将旧有思维方式与最近关于认知的研究相结合。18 世纪将注意力集中在崇高的概念上（尤其是伯克 [1757]，但这一思路可以追溯到隆吉努斯），以及风景如画的概念（吉尔平 1782 年，源于旧有的“画意”概念）。这些概念，尤其是前者，引发了关于它们与美的关系的争议——它们是美的亚种还是与之不同的范畴？——以及关于它们的延伸——崇高只能与自然有关吗？问题也出现在“崇高”这样的术语是否指代了一类对象，对其存在着共同的审美反应。这听起来像是我们可以从认知科学中获得帮助的事情，Keltner 和 Haight（2003）的研究工作，借鉴了一系列经验和反思的来源，特别引起了注意。他们的研究是关于敬畏的概念而不是崇高，但他们指出了明显的联系，因为崇高涉及对物理或概念上广阔事物的反应。他们认为，敬畏涉及对所关注的对象或场景的显著广阔性的认知，以及主体无法将其纳入其现有的心理模式中。其他研究表明，这种情感的非语言表达具有强烈的跨文化成分（Keltner 等，2019 年），并且与自我感觉的减弱有关（Piff 等，2015 年；Tom Cochrane（2012 年）认为崇高的特点是一种自我否定的感觉）。因此，有人提出，崇高的体验是一种审美形式的敬畏，其中对象是为了它本身而被关注（Clewis，2019 年；Arcangeli 等。 2020 年），这是 Shapsay（2021 年）提出的一个概念，他认为崇高有时以认知上的复杂形式出现，涉及对场景或物体所带来的挑战对现有模式的反思。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anderson, Judith L., Charles B. Crawford, Joanne Nadeau, and Tracy Lindberg, 1992, “Was the Duchess of Windsor Right? A Cross-Cultural Review of the Socioecology of Ideals of Female Body Shape”, *Ethology and Sociobiology*, 13(3): 197–227. doi:10.1016/0162-3095(92)90033-Z
@@ -435,4 +435,4 @@ Bloom 和同事提供了另一种解释我们对真品的兴趣的解释，这�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Jon Robson](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/jonathan.robson) <[*jonvrobson@gmail.com*](mailto:jonvrobson%40gmail%2ecom)>  
 Gregory Currie <[*gregory.currie@york.ac.uk*](mailto:gregory%2ecurrie%40york%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

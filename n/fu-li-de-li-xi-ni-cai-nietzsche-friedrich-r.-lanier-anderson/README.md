@@ -293,7 +293,7 @@ Reginster（2006，2018a）对于力量意志的解释，将其视为一种克�
 
 正如 Reginster（2006：222-7）所观察到的那样，解释第三个约束条件——永恒的角色更加困难。然而，很明显它确实产生了实际影响：为了明确这一点，回到克拉克的婚姻类比；一个人可能很乐意再次经历自己的婚姻（一次、两次，甚至多次），但在永恒的过程中仍然更喜欢婚姻安排的一些变化——事实上，米兰·昆德拉（1991）似乎在他早期使用尼采的思想实验时将他的角色阿格尼丝置于这样的境地。Reginster 提出，永恒的约束意味着这个思想实验要求一种特别全心全意的肯定——喜悦——其强度由一个愿望的参与来衡量，即我们本质上有限的生命可以永恒存在。更加谦虚地说，尼采可能认为排除一种特定的条件性肯定是很重要的，这种肯定是由基督教末世论背景所暗示的，它会使人们认为人间的人生本质上具有负面价值。毕竟，虔诚的基督徒可能会将她的人间生活视为对信仰的考验，这将在通过这个考验后得到永恒的天堂奖赏——同时保持她的承诺，即从本质上来看，人间生活是一种应该被拒绝的罪恶状态。想象一下，我的有限生命会永远重复，这就阻止了这种途径（并将评估的焦点重新转向了真实生活的有限特征），因为假设永远不会有一个时刻，人们可以假装有限的生活已经“结束和完成”（安德森 2005：198，203；2009：237-8）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature: Works by Nietzsche
@@ -624,4 +624,4 @@ I am grateful to Rachel Cristy for exchanges that helped me work out basic ideas
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [R. Lanier Anderson](https://philosophy.stanford.edu/people/r-lanier-anderson) <[*lanier@stanford.edu*](mailto:lanier%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

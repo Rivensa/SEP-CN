@@ -134,7 +134,7 @@
 
 至于绝对空间或虚空，我们已经看到阿拉伯语哲学家如何将地点与放置在其中的东西紧密联系在一起。现在，如果空间和其中放置的东西在本质上是相互关联的，正如哲学家所主张的那样，那么，拉齐争辩道，通过想象一个相关物的毁灭，也必须想象另一个相关物的毁灭。让我们想象宇宙的毁灭。拉齐声称，虚空或空白空间的概念并不随着想象中的一切占据它的东西的毁灭而被摧毁。因此，虚空和其中放置的东西并不像哲学家所声称的那样是相互关联的。因此，我们必须区分虚空空间的概念，当我们想象宇宙的毁灭时并不被摧毁，以及地点的概念，当我们想象宇宙的毁灭时被摧毁。前者是绝对的，而只有后者是相对的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -243,4 +243,4 @@
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Jon McGinnis](https://www.umsl.edu/~philo/People/Faculty/index.html) <[*mcginnis@umsl.edu*](mailto:mcginnis%40umsl%2eedu)>
-<!--md-padding-ignore-end-->
+

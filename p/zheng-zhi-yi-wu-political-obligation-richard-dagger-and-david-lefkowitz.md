@@ -200,7 +200,7 @@ Bhikhu Parekh（1993 年，第 240 页）使用“公民义务”一词来指“
 
 迄今为止，对于这些试图创建混合体并借鉴多个原则以提供令人满意的政治义务理论的尝试还没有太多反应（但参见 Edmundson 2004 年，第 250-52 页）。然而，怀疑这样的理论是否能够构建的人可能会说，无论是以混合还是多元主义的方式结合原则，都不会有所帮助，因为将一组个体上不令人满意的原则结合起来几乎不可能产生一个强大而令人满意的理论（Simmons 2007 年，注 17）。总之，关于政治义务这个棘手问题，是否需要甚至是可取的多元原则仍然是众多未解之谜之一。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, N. P., 2017. “In Defense of Content-Independence,” *Legal Theory*, 23: 143–167.
@@ -358,4 +358,4 @@ Bhikhu Parekh（1993 年，第 240 页）使用“公民义务”一词来指“
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Richard Dagger](http://ppel.richmond.edu/faculty/rdagger/)  
 [David Lefkowitz](http://ppel.richmond.edu/faculty/dlefkowi/) <[*dlefkowi@richmond.edu*](mailto:dlefkowi%40richmond%2eedu)>
-<!--md-padding-ignore-end-->
+

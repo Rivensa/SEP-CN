@@ -141,7 +141,7 @@
 * substance: *ousia*
 * time: *pote* (as one of the categories, literally: when) or *chronos*
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -226,4 +226,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Istvan Bodnar](http://philosophy.ceu.edu/people/istvan-bodnar) <[*stb@elte.hu*](mailto:stb%40elte%2ehu)>
-<!--md-padding-ignore-end-->
+

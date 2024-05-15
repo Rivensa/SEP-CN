@@ -753,7 +753,7 @@ A>□C≡□(A>C)A>◊C≡◊(A>C)
 
 进一步探讨了疑问句的语义与条件句的结构之间的联系。特别是 Starr（2014b）认为所有条件句都具有主题-评论结构，允许将前提视为隐含的问题本身。最后，还应该提到条件短语与言语行为的相互作用的更多方面，包括所谓的饼干条件句（“如果你想要一些饼干，橱柜里有一些”，Austin 1956，Lycan 2001），以及让步条件句（“即使 A，也 B”句子，参见 Lycan 2001，Guerzoni 和 Lim 2007）。对于这两种条件句，允许的推理与常规条件句中的推理有显著差异（特别是两者都蕴含了结论的真实性）。这证明了条件逻辑中的多样性也取决于 if 从句出现的用途和语言环境的多样性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, Ernest, 1965, “The Logic of Conditionals”, *Inquiry*, 8(1–4): 166–197. doi:10.1080/00201746508601430
@@ -968,4 +968,4 @@ We dedicate our work to the memory of Horacio Arló-Costa. We are grateful to Vi
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Paul Egré](http://paulegre.free.fr/) <[*paulegre@gmail.com*](mailto:paulegre%40gmail%2ecom)>  
 [Hans Rott](https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/theoretische-philosophie/personen/prof-dr-hans-rott/index.html) <[*hans.rott@ur.de*](mailto:hans%2erott%40ur%2ede)>
-<!--md-padding-ignore-end-->
+

@@ -414,7 +414,7 @@ For Kant, it is only the a priori concept of causality (requiring a necessary ru
 
 根据康德的观点，我们只能对特定事件进行客观经验，同时我们必须逐步构建它们之间的特定因果关系。而这只有在我们预设它们都是统一且统一的自然经验的一部分的前提下才可能实现，这个自然经验是由先验的经验规律（连同纯粹理解力的其他原则）所统治的。此外，由于康德认为特定的因果关系必然涉及因果定律，我们从特定感知到自然的普遍因果定律的推理都是基于纯粹理解力的合成先验原则，提供了关于自然的统一性和一致性的合成先验概念。因此，休谟是正确的，自然的一致性原则统治着我们所有的归纳因果推理；他也正确地指出，这个原则不是也不能是分析先验的。从康德的观点来看，休谟没有看到的是，通过将最初仅仅是主观的“经验规则”转化为真正客观和必然的“普遍定律”，我们确实可以克服归纳概括的仅仅相对普遍性，而这是根据自然的统一性的合成但仍然是先验的原则来实现的。[52]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -508,4 +508,4 @@ The relevant secondary literature is vast. We confine ourselves to English-langu
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Graciela De Pierris <[*graciela@stanford.edu*](mailto:graciela%40stanford%2eedu)>  
 [Michael Friedman](https://philosophy.stanford.edu/people/michael-friedman) <[*mlfriedman@stanford.edu*](mailto:mlfriedman%40stanford%2eedu)>
-<!--md-padding-ignore-end-->
+

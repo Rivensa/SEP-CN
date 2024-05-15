@@ -726,7 +726,7 @@ Eberhardt 2017 是一份简短的调查报告，清晰介绍了 [第 4.2 节](ht
 
 这个条目侧重于哲学家最感兴趣的主题。有许多重要的技术问题被大多数忽略了。其中许多问题涉及到在这里所做的各种简化假设（如无环性和对真实概率的了解）被拒绝时出现的问题。其中一些问题简要概述，并附有参考资料，详见 [因果推断中进一步主题的补充](https://plato.stanford.edu/entries/causal-models/topics.html)。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Balke, Alexander and Judea Pearl, 1994a, “Probabilistic Evaluation of Counterfactual Queries”, in Barbara Hayes-Roth and Richard E Korf (eds.), *Proceedings of the Twelfth National Conference on Artificial Intelligence*, Volume I, Menlo Park CA: AAAI Press, pp. 230–237. \[[Balke & Pearl 1994a available online](https://www.aaai.org/Papers/AAAI/1994/AAAI94-035.pdf)]
@@ -878,4 +878,4 @@ Portions of this entry are taken, with minimal adaptation, from the author’s s
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Christopher Hitchcock](http://hss.divisions.caltech.edu/people/christopher-r-hitchcock) <[*cricky@caltech.edu*](mailto:cricky%40caltech%2eedu)>
-<!--md-padding-ignore-end-->
+

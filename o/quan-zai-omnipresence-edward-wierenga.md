@@ -82,7 +82,7 @@ Georg Gasser (2019) 也辩护在传统的知识和权力上增加涉及机构的
 
 在最近的一篇论文中，Sam Cowling 和 Wesley D. Cray 指出：“关于全在的哲学文献非常丰富，尽管主要是在西方一神论宗教哲学的背景下”（2017 年，第 223 页）。他们自己对扩展该领域的建议是根据一个解释，即偶数和纯集合也是全在的。这可能会让很多人觉得不可信，但他们关于传统研究范围有限的说法是准确的。事实上，他们还可以更准确地提到，在这个条目中考虑的哲学家主要是奥古斯丁、安瑟姆和阿奎那，也许还有彼得·伦巴德的一些旁及。这表明未来研究的一个途径是考虑古代哲学家以及早期现代和后期哲学家的工作。对一神论宗教哲学的提及引起了对另一个经常被忽视的领域的关注，即犹太和伊斯兰宗教哲学家的工作。最后，对全球哲学的最近兴趣也表明了全在研究可以扩展到其他领域。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Anselm, *Monologion* and *Proslogion*, in Brian Davies and G. R. Evans (eds.), *Anselm of Canterbury: The Major Works*, Oxford: Oxford University Press, 1998.
@@ -135,4 +135,4 @@ Georg Gasser (2019) 也辩护在传统的知识和权力上增加涉及机构的
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Edward Wierenga](http://www.sas.rochester.edu/phl/people/faculty/wierenga_edward/) <[*edward.wierenga@rochester.edu*](mailto:edward%2ewierenga%40rochester%2eedu)>
-<!--md-padding-ignore-end-->
+

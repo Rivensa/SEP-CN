@@ -350,7 +350,7 @@ Dignāga 的最后一项贡献可以在他的《Pramāṇa-samuccaya》的第六
 
 尽管经典三段论在古典印度的论证和推理发展中起着核心作用，但其他形式的论证也被认为是好的。如上所述，一种形式是反证法（prasaṅga）。其他形式包括假设推理（tarka）（Bagchi 1953）和一种类似于当代人所称的分离三段论的推理形式（arthāpatti）（Keating（编）2020）。与此同时，还有一些与错误的反驳和似是而非的理由不同的论证形式被认为是不好的。它们包括导致无限回归的论证（anavasthā），如上所述，以及各种形式的循环论证。最后，还有两种重要的论证形式：一种是佛教徒特有的四隅论（catuṣkoṭi），另一种是耆那教徒特有的（syādvāda）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Original Texts
@@ -575,4 +575,4 @@ I am grateful to Shoryu Katsura for comments on two previous versions of this en
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Brendan Gillon](http://www.mcgill.ca/linguistics/people/faculty/gillon/) <[*brendan.gillon@mcgill.ca*](mailto:brendan%2egillon%40mcgill%2eca)>
-<!--md-padding-ignore-end-->
+

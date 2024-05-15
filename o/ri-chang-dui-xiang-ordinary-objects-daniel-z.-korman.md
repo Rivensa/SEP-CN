@@ -642,7 +642,7 @@ JK1 背后的想法是，就像没有逻辑或概念上的障碍可以无限下�
 
 这些关于基本性的立场——普通对象不是基本的或者不在基本量词的域内——与上述讨论的消除论主张相比如何？尽管表面上有相似之处，但当我们考虑这些观点与第 2 节中反对保守主义的论证的相互作用时，差异就显而易见了。消除论者声称普通对象不存在，可以接受 AV5、DK4、OD5、SR4 和 ST8，并且可以反对上述论证中的 AR1、MC1 和 PM3，因为后者肯定了普通对象的存在，而前者否认了普通对象的存在。但那些只愿意否认普通对象在基本意义上存在（或者在其他意义上存在）的人必须找到其他方式来应对这些论证。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Almotahari, Mahrad, 2014, ‘The Identity of a Material Thing and its Matter’, *Philosophical Quarterly*, 64: 387–406.
@@ -1256,4 +1256,4 @@ JK1 背后的想法是，就像没有逻辑或概念上的障碍可以无限下�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 Daniel Z. Korman <[*dkorman@ucsb.edu*](mailto:dkorman%40ucsb%2eedu)>
-<!--md-padding-ignore-end-->
+

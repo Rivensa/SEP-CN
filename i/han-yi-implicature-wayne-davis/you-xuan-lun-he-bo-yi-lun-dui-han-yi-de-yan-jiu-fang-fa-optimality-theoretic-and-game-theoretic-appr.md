@@ -107,7 +107,7 @@ Franke 认为，用于推理（5）和（6）的游戏模型应该包含一种�
 
 双向优选论和博弈论是非常自然且相似的框架，用于形式化关于互动、目标导向的语用推理在语境中的格赖斯思想。最近的发展转向认识论或进化博弈论，或者基于经验数据的概率模型。最后，我们指出，类似于这里探讨的形式化技术适用于更广泛的问题领域，如哲学（例如，Parikh 2019）、语言演化（例如，Ahern 和 Clark 2014；Brochhagen、Franke 和 Rooij 2018；Carcassi 2020）以及计算语言学（例如，Vogel 等人 2014 年；Cohn-Gordon、Goodman 和 Potts 2019 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahern, C. and R. Clark, 2014, ‘Diachronic Processes in Language as Signaling Under Conflicting Interests’, *The Evolution of Language: Proceedings of EVOLANG10*, E. A. Cartmill et al. (eds.), Singapore: World Scientific Press, 25–32.
@@ -194,4 +194,4 @@ Franke 认为，用于推理（5）和（6）的游戏模型应该包含一种�
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Robert van Rooij <[*r.a.m.vanrooij@uva.nl*](mailto:r%2ea%2em%2evanrooij%40uva%2enl)>  
 Michael Franke <[*mchfranke@gmail.com*](mailto:mchfranke%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

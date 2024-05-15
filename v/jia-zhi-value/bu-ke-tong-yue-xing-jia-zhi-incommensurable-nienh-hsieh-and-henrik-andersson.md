@@ -230,7 +230,7 @@ Caspar Hare（2010）介绍并讨论了一个与理性选择理论如何包含�
 
 更普遍地说，许多学者关注不可比性与社会和政治制度结构之间的关系。例如，约翰·芬尼斯（John Finnis）认为，社会生活的开放性使得将法律或政策选择视为涉及可比较的替代方案变得不可能（1997 年，221-222 页）。迈克尔·沃尔泽（Michael Walzer）对分配正义的描述也将不可比性与社会和政治制度的结构联系起来。根据沃尔泽（1983 年）的观点，不同的社会利益占据不同的“领域”，每个领域都受到一套独特的分配规范的约束。不公正的是将一个领域中的物质积累转化为另一个领域中的物质积累，而不考虑第二个领域的分配规范。沃尔泽的观点似乎潜在地承认了一种构成性的不可通约性。由于与多元和不兼容的生活方式的可能性有关，价值不可通约性和不可比性的概念在许多政治自由主义的描述中也起到了作用，包括约瑟夫·拉兹（Joseph Raz）的描述（1986 年）和以赛亚·柏林（Isaiah Berlin）的描述（1969 年）。后者对不可通约的价值和政治制度之间的关系的探究推动了进一步的研究。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adler, M., 1998, “Law and Incommensurability: Introduction,” *University of Pennsylvania Law Review*, 146: 1169–1184.
@@ -383,4 +383,4 @@ For helpful discussions and comments, Nien-hê Hsieh would like to thank Rahul K
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Nien-hê Hsieh](http://www.hbs.edu/faculty/Pages/profile.aspx?facId=24284)  
 Henrik Andersson <[*Henrik.Andersson@fil.lu.se*](mailto:Henrik%2eAndersson%40fil%2elu%2ese)>
-<!--md-padding-ignore-end-->
+

@@ -352,7 +352,7 @@ Zarlino, following Plato, claims that melody and harmony should be suitable to t
 
 不论康德的形式主义是否是 19 世纪的构建，他对音乐纯粹形式的认识标志着西方音乐哲学的变革。声乐不再是理论思考的中心。音乐所引发的哲学问题首先是纯器乐音乐所引发的问题，只有搞清楚它的本质，才能理解音乐与语言、概念和情感的关系。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adamson, Peter, 2007, *Al-KindĪ*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195181425.001.0001
@@ -503,4 +503,4 @@ Thanks to Stephen Davies, Andrew Kania, James O. Young, and an anonymous reviewe
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Matteo Ravasio](https://philpeople.org/profiles/matteo-ravasio) <[*matteo@pku.edu.cn*](mailto:matteo%40pku%2eedu%2ecn)>
-<!--md-padding-ignore-end-->
+

@@ -90,7 +90,7 @@
 
 关于德谟克利特原子论的接受和后续历史，请参见有关古代原子论的相关条目。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Texts
@@ -172,4 +172,4 @@ I wish to thank the ancient philosophy editor John Cooper, A.P.D. Mourelatos and
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Sylvia Berryman <[*sberrym@interchange.ubc.ca*](mailto:sberrym%40interchange%2eubc%2eca)>
-<!--md-padding-ignore-end-->
+

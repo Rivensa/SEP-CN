@@ -479,7 +479,7 @@ Sharon demonstrates that
 
 因此，如果我们回顾信息隐私在 19 世纪末的起源，我们可以看到表面上的变化（企业似乎关心隐私）表达了对隐私威胁的持续性。然而，学术和社会对这些威胁的辩论表明，隐私绝对没有失去其价值和重要性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allen, Anita L., 1988, *Uneasy Access: Privacy for Women in a Free Society*, (New Feminist Perspectives Series), Totowa, NJ: Rowman & Littlefield.
@@ -771,4 +771,4 @@ Sharon demonstrates that
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Beate Roessler](https://www.uva.nl/profiel/r/o/b.roessler/b.roessler.html) <[*b.roessler@uva.nl*](mailto:b%2eroessler%40uva%2enl)>  
 [Judith DeCew](http://www.clarku.edu/departments/philosophy/facultybio.cfm?id=396) <[*JDeCew@clarku.edu*](mailto:JDeCew%40clarku%2eedu)>
-<!--md-padding-ignore-end-->
+

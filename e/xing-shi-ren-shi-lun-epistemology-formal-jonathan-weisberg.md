@@ -689,7 +689,7 @@ K 包含 A→B 如果 K+A 包含 B；并且 K 包含 ¬(A→B) 如果 K+A 包含
 
 显然，就像没有命题连接词能够在概率论中遵守斯塔尔内克的假设一样，在信念修正理论中也没有一个能够遵守拉姆齐测试。无论我们是用概率还是直接信念来探讨认识论，同样的问题都会出现。我们应该得出结论说条件句没有事实内容吗？这是一个备受争议的问题，关于条件句的条目更多。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Akiba, Ken, 2000, “Shogenji’s Probabilistic Measure of Coherence Is Incoherent”, *Analysis*, 60(4): 356–59.
@@ -864,4 +864,4 @@ Thanks to Elena Derksen, Frank Hong, Emma McClure, Julia Smith, and Micah Smith 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Jonathan Weisberg](http://www.philosophy.utoronto.ca/directory/jonathan-weisberg/) <[*jonathan.weisberg@utoronto.ca*](mailto:jonathan%2eweisberg%40utoronto%2eca)>
-<!--md-padding-ignore-end-->
+

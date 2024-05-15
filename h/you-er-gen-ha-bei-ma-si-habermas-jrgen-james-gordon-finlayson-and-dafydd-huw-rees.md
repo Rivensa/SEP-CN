@@ -573,7 +573,7 @@ They are revealed not as timeless constants, but as they have developed over tim
 
 哈贝马斯的理论受到各方批评。一方面，批评者如艾米·艾伦声称存在残余的不对称性，认为哈贝马斯仍然“偏向世俗主义”（艾伦 2013: 149）。沃尔特斯托夫同意这一观点，尽管他认为问题在于“后形而上理性”的概念，而艾伦将其追溯到他的“后世俗理性的系谱”。克里斯蒂娜·拉方特则认为，不对称的负担实际上是另一种方式，因为认知学习过程要求世俗公民放弃出于科学动机的无神论，转而支持出于政治动机的不可知论（拉方特 2013: 238; Finlayson 2019: 14）。“从神圣到世俗的翻译”概念是哈贝马斯后世俗辩论民主模型的核心。例如，哈贝马斯引用德国基督教团体将《创世记》中“上帝照自己的形象创造了人”这一声明翻译为世俗语言，作为他们反对干细胞研究的论据之一，即“子宫外受精的配子具有人权主体的地位”（2001b 第 2 章 [2003b: 109]）。然而，这一概念一直备受争议。例如，不清楚哈贝马斯是否认为它与宗教概念的伦理和哲学运用方式相同（参见 Cooke 2011; Kerkwijk 2015; Rees 2018: 143–65）。对于沃尔特斯托夫来说，这依赖于偏向世俗主义的后形而上理性的概念，而里斯则认为这一概念是空洞的，因为不存在这样的翻译。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Habermas
@@ -855,4 +855,4 @@ They are revealed not as timeless constants, but as they have developed over tim
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [James Gordon Finlayson](https://jamesgordonfinlayson.com/about) <[*J.G.Finlayson@sussex.ac.uk*](mailto:J%2eG%2eFinlayson%40sussex%2eac%2euk)>  
 [Dafydd Huw Rees](https://profiles.cardiff.ac.uk/staff/reesd12) <[*reesd12@cardiff.ac.uk*](mailto:reesd12%40cardiff%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

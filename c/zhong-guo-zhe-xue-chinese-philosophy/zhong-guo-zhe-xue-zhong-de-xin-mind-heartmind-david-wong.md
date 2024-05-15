@@ -343,7 +343,7 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 荀子关于推理和反思与情感和欲望的理论也与孟子不同。然而，这些差异微妙，他的立场比第二十三章的标题（“人性恶”）所暗示的更接近孟子。显然，心（心）具有监督作用。它决定了哪些行为最有利于促进自然欲望的最佳实现。他强调培养抵制满足某些欲望的能力的语言，强调了人的明智和有远见的欲望。监督作用最终旨在整个人的利益，就像孟子一样。心的有效监督需要注意我们情感生活的方向和节奏，例如我们对所爱之人的死亡的反应。当心对整体模式敏感时，它可以选择如何引导寻求行为以实现个人和社会的和谐。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -454,4 +454,4 @@ Great thanks go to Chad Hansen for extensively editing this entry.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [David Wong](http://fds.duke.edu/db/aas/Philosophy/faculty/dbwong) <[*dbwong@duke.edu*](mailto:dbwong%40duke%2eedu)>
-<!--md-padding-ignore-end-->
+

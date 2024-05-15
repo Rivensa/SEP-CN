@@ -227,7 +227,7 @@
 
 《逻辑原理与几何基础的关系》（1905 年）和《逻辑代数的扩展》（1913b 年）的出版是纯数学领域的重要著作，但也旨在说明各种变换中的不变性。Burch（2011 年）对罗伊斯在数理逻辑方面的工作与他的一般哲学项目之间的关系提出了疑问，但他认为罗伊斯通过发展布尔环的概念以及与当时俄罗斯逻辑学家伊万·伊万诺维奇·捷加尔金几乎同时设计的代数系统相同的代数，对数理逻辑做出了重要贡献，捷加尔金被誉为“俄罗斯逻辑学派的‘创始人’”（231 页）。布尔环运算和更大的 Σ 系统的核心是罗伊斯对对称差的运算的发展（在其他地方被称为 O 关系），这也被后来的评论家伯顿和勒布朗（1952 年）视为罗伊斯的重要贡献之一。虽然 Burch 提出了关于 Σ 系统的全面阐述的可能性，但除了罗伊斯自己的著作外，目前还没有这样的资料。Burch 还在一篇罗伊斯撰写的论文的引言中讨论了罗伊斯在哲学逻辑方面的工作，该论文讨论了罗素在 1903 年的《逻辑原理》中提出的悖论。Burch 认为，这篇论文既展示了罗伊斯对当时现代逻辑发展的熟悉，又提出了类似于弗雷格的对悖论的解决方案，同时提供了一种非基础的集合论（1987 年）。对罗伊斯在数学和逻辑方面的工作的其他重要评价包括 Sheffer（1908 年）、De Laguna（1906 年）和 C. I. Lewis（1916 年）的早期评论，以及 Crouch（2011 年）和 Scanlan（2011 年）的论文中的最新评价。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -359,4 +359,4 @@ Editors Note: Kelly Parker contributed Sections 1 (“Life”) and 2 (“Philoso
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Kelly A. Parker](https://www.gvsu.edu/philosophy/kelly-a-parker-7.htm) <[*parkerk@gvsu.edu*](mailto:parkerk%40gvsu%2eedu)>  
 Scott Pratt <[*spratt@uoregon.edu*](mailto:spratt%40uoregon%2eedu)>
-<!--md-padding-ignore-end-->
+

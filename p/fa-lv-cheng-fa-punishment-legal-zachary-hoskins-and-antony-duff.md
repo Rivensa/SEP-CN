@@ -176,7 +176,7 @@
 
 最后，理想与现实之间的关系在惩罚的背景下尤其棘手，部分原因是因为它涉及公正惩罚的前提条件。也就是说，使得一个实际的惩罚体系不公正的可能并不是它本身的运作方式（惩罚在该体系内的定义或实现），而是缺乏整个体系合法性所依赖的某些政治、法律和道德条件（参见 Duff 2001 年第 5.2 章）。最近关于惩罚的学术研究越来越认识到，惩罚的合理性取决于刑法的合理性，甚至取决于国家本身的合法性（参见上文第 2 节）。例如，如果国家通过刑事法律对不合理的行为进行定罪，那么这就对国家对这些法律违反者施加的惩罚的合理性提出了质疑。刑事化问题因此直接关系到惩罚的合理性（参见 Husak 2008 年）。同样，如果刑事司法官员在逮捕、起诉和审判个人的程序是不合理的，那么随后的惩罚也将是不合理的（参见 Ristroph 2015 年和 2016 年；关于刑事程序的具体方面，参见 Loader 2014 年关于警务、Lippke 2011 年关于辩诉交易、Duff 等人 2007 年关于刑事审判、Flanders 2013 年关于赦免）。更广泛地说，如果一个国家容忍（或更糟，鼓励）严重的社会不公正，那么这可能削弱国家对那些也是这种不公正受害者的违法者进行惩罚的立场（参见 Matravers 2006 年；Duff 2007 年；Holroyd 2010 年；Chau 2012 年；Howard 2013 年）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Primoratz 1999, Honderich 2005, Ellis 2012, and Brooks 2013 are useful introductory books. Duff and Garland 1994; Ashworth, von Hirsch; and Roberts 2009; and Tonry 2011 are useful collections of readings.
@@ -473,4 +473,4 @@ Primoratz 1999, Honderich 2005, Ellis 2012, and Brooks 2013 are useful introduct
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Zachary Hoskins <[*Zachary.Hoskins@nottingham.ac.uk*](mailto:Zachary%2eHoskins%40nottingham%2eac%2euk)>  
 [Antony Duff](http://www.philosophy.stir.ac.uk/staff/a-duff/duff-page.php)
-<!--md-padding-ignore-end-->
+

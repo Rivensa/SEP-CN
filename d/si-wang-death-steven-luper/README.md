@@ -398,7 +398,7 @@ However, something that is not intrinsically bad for a person might nevertheless
 
 然而，适应我们的欲望的核心思想是有用的，只要不走极端。避免追求我们根本无法实现的目标是明智的，因此避免在正常寿命期间无法完成的项目也是明智的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Altshuler, R., 2016. “Immortality, Identity, and Desirability,” in Cholbi 2016.
@@ -510,4 +510,4 @@ However, something that is not intrinsically bad for a person might nevertheless
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Steven Luper](http://www.trinity.edu/departments/philosophy/steven_luperhome_page.htm) <[*sluper@trinity.edu*](mailto:sluper%40trinity%2eedu)>
-<!--md-padding-ignore-end-->
+

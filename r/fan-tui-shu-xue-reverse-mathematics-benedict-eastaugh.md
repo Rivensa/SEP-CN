@@ -396,7 +396,7 @@ ATR0 相比之下，在描述性集合论、代数和其他数学领域证明了
 
 最后，虽然与建设性和直觉主义数学相关的问题已经在几个方面得到解决，但本条目几乎完全集中在经典逻辑的反推数学上。这忽略了在建设性或直觉主义背景下进行反推数学的各种方法。当代形式的建设性反推数学最早由石原（2005 年，2006 年）和维尔德曼（2009 年，2014 年）明确提出，但该领域的研究人员通常认为朱利安和里奇曼（1984 年）证明了建设性反推数学的第一个结果。曼德尔克恩（1988 年）是另一个值得注意的早期例子。本条目的第 5 节介绍了建设性反推数学，从一个对应于毕晓普建设主义的非正式基础理论中进行。迪纳（2020 年 [其他互联网资源]）对该领域的结果进行了全面的技术概述，而洛伊布（2012 年）对该计划进行了批判性评价。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aberth, Oliver, 1980, *Computable Analysis*, New York: McGraw-Hill.
@@ -569,4 +569,4 @@ The writing of this entry was informed by many valuable discussions with Mariann
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Benedict Eastaugh](https://extralogical.net/) <[*benedict@eastaugh.net*](mailto:benedict%40eastaugh%2enet)>
-<!--md-padding-ignore-end-->
+

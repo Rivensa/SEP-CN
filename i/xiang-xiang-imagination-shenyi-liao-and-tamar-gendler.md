@@ -239,7 +239,7 @@ Amy Kind 和 Peter Kung（2016b）提出了想象使用的难题，即想象力�
 
 尽管它们之间存在巨大的差异，但许多隐喻理论也都认同解释隐喻涉及到想象力的观点（参见隐喻词条）。第一类理论关注想象力在伪装中的作用。正如前面提到的，沃尔顿（1990）认为隐喻是暂时的假装游戏中的道具。沃尔顿（1993，2000）和大卫·希尔斯（1997）进一步发展了这个想法。（重要的是，沃尔顿（1993）指出，解释隐喻可能不涉及实际的想象，而只涉及对规定类型的想象的认识。）安迪·伊根（2008b）将这个想法扩展到了解释习语。这些理论仍然有争议：特别是坎普（2009）和凯瑟琳·韦林（2011）提出了有力的批评。第二类理论关注想象力在提供新颖观点方面的作用。虽然坎普（2009）批评了第一类理论，但她也承认想象力的作用。根据她的说法，伪装和隐喻通常涉及不同类型的想象：伪装想象使人能够接触到反事实的内容，而隐喻想象使人能够从新颖的角度重新解释实际内容。事实上，坎普（2007）认为解释隐喻所涉及的想象类型也用于解释明喻和并列。第三类理论关注想象力在提供心理图像方面的作用。保罗·里克尔（1978）、理查德·莫兰（1989）和罗宾·卡斯顿（2010）都提出了理论，认为心理意象在处理隐喻中起着重要作用。在语言哲学之外，詹姆斯·格兰特（2011）认为隐喻在艺术评论中很常见，因为它们引发读者的想象。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Addis, Donna Rose, Alana T. Wong, and Daniel L. Schacter, 2007, “Remembering the Past and Imagining the Future: Common and Distinct Neural Substrates During Event Construction and Elaboration”, *Neuropsychologia* 45(7): 1363–1377. doi:10.1016/j.neuropsychologia.2006.10.016
@@ -556,4 +556,4 @@ No one can have an encyclopedic knowledge on a topic as vast as imagination. The
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Shen-yi Liao](http://liao.shen-yi.org/) <[*liao.shen.yi@gmail.com*](mailto:liao%2eshen%2eyi%40gmail%2ecom)>  
 Tamar Gendler <[*tamar.gendler@yale.edu*](mailto:tamar%2egendler%40yale%2eedu)>
-<!--md-padding-ignore-end-->
+

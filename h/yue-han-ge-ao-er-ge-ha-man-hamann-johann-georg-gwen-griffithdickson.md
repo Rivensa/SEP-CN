@@ -132,7 +132,7 @@
 
 必须记住，约翰·格奥尔格·哈曼承认他无法想象没有生殖器的创造精神；事实上，他非常乐意断言生殖器是生物与造物主之间独特的纽带。因此，神圣与人类之间的性关系有两个方面。首先，作为创造力的范例，它是我们神的样子最引人注目的方式。其次，作为最深刻统一的点，它是我们与另一个人类和神之间的结合点。挑衅性地，哈曼认为原罪及其叛乱体现在理性而非性行为中。过分的理性是我们试图像上帝一样的尝试；与此同时，假正经是拒绝上帝的形象，同时试图以错误的方式像上帝一样（无形）。因此，人们应该区分“像上帝”和“与上帝平等”。在西比拉的文章中，男性版本的追求与上帝平等（参见腓立比书 2:6）是试图自给自足，成为一神论的上帝：唯一的统治者，拥有自我存在。相反，与异性的相遇应该使男人对女人的身体产生深刻的尊重态度，因为女人的身体是他自己存在的源泉，来自他的母亲。作为他自己喜悦的源泉，性爱也是对他自己依赖的承认，他缺乏自给自足和自主权。但是这种对另一个的依赖反而是造物主、父亲的神的样子，他在奉献自己时谦卑自己（这是哈曼在讨论上帝时最喜欢的主题之一）。与此同时，女人的诱惑是对人工清白的渴望；对上帝的无形和无感的秘密嫉妒。捍卫自己的贞洁是另一种神秘的自给自足尝试。 相反，这位女性必须勇敢地面对“火舌”，进行“无辜的牺牲献祭”，以实现她的神的样子；这种样子并非体无灵魂和缺乏激情，而是在充满激情的创造力中；在愿意具现化的过程中。因此，如果人类是按照神的形象创造的，那就是一个三位一体的神的形象，是‘父’、‘子’和‘圣灵’之间相互关爱的关系；在创造、拯救和火舌中找到。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 All translations from Hamann’s works and letters in this entry are by Gwen Griffith Dickson in works cited below, except for the translation from the letter to Kraus, which is cited in the translation by Garrett Green, in James Schmidt (ed.), *What is Enlightenment? Eighteenth-Century Answers and Twentieth-Century Questions*, Berkeley and Los Angeles: University of California Press, 1996.
@@ -310,4 +310,4 @@ The International Hamann-Colloquium meets every few years. Collections of its pa
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Gwen Griffith-Dickson](https://www.kcl.ac.uk/artshums/depts/trs/people/staff/associates/visit/griffith-dickson.aspx) <[*ggd@lokahi.org.uk*](mailto:ggd%40lokahi%2eorg%2euk)>
-<!--md-padding-ignore-end-->
+

@@ -90,7 +90,7 @@
 
 “不仅如此。死亡对死亡。”这向我们展示了，也许比解构正义价值观更重要的是生命（如果我们可以谈论道德价值观）。但是，这种生命并非毫发无伤；它是与死亡不可分割地连接在一起的生命。因此，解构所重视的是生存。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -279,4 +279,4 @@
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Leonard Lawlor](https://philosophy.la.psu.edu/people/lul19) <[*lul19@psu.edu*](mailto:lul19%40psu%2eedu)>
-<!--md-padding-ignore-end-->
+

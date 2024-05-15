@@ -108,7 +108,7 @@
 
 除非在极少数情况下（例如，卡尔达诺称之为_idola_的完全清晰的梦境），未来必须用不完美的结果来解读。根本原因在于无限的本质。他写道，涉及未来的科学都会遇到同样的问题，“事物的无限本质，即灵魂和可以看到的东西；看到的和可以看到的东西数量是无限的。那么，无限如何能够被包含在书籍中，无论多长多多？”（*De somniis*，OO，V，671a；吉罗拉莫·卡尔达诺 2021a，513）。他警告读者不要像西塞罗那样更喜欢清晰而不是微妙的哲学家。清晰是一种修辞手法；只有最伟大的哲学家欣赏无限，并认识到清晰是准确性的克星。这个讨论旨在解释梦境解释的困难，但也可以延伸到任何其他学科。知识和无知在宇宙层面相互作用，因为受造物无法完全理解流经他们并体现在他们行动中的天意知识。卡尔达诺说，盖伦不知道如何让手指前后移动，尽管他拥有所有解剖学知识，但他仍然可以做到，因为这是神所建立的自然框架。天体智力详细了解他们对亚月世界的影响，然而他们既不了解他们如何从上帝那里获得这些知识，也不知道他们如何移动那个世界，就像盖伦不知道如何移动手指一样（*De somniis*，OO，V，671b-672a；吉罗拉莫·卡尔达诺 2021a，515）。以这种方式，自然充满了知识——对已经发生和将要发生的一切的知识；然而，即使在最高本体论层面，这种知识也伴随着受造物对神理解的无知。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Cardano’s *Opera omnia*
@@ -214,4 +214,4 @@ Additional bibliographic information about studies on Cardano can be found in Sc
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Guido Giglioni <[*guidomaria.giglioni@unimc.it*](mailto:guidomaria%2egiglioni%40unimc%2eit)>\
 [Jonathan Regier](https://www.unive.it/data/persone/24160259/pubblicazioni) <[*jonathan.regier@unive.it*](mailto:jonathan%2eregier%40unive%2eit)>
-<!--md-padding-ignore-end-->
+

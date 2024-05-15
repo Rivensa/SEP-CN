@@ -126,7 +126,7 @@ Pence-Ramsey 提议展示了解决长期困扰概率倾向性适合度定义的�
 
 这一推理线索突显了辩论的下一阶段。从关于适应度的讨论，辩论已经演变成了关于自然选择和漂变性质的一般性辩论。在思考这些话题时，出现了许多替代观点。一些人（例如沃尔什、卢恩斯、阿里欧和马森）仅将自然选择视为由非选择性过程引起的种群范围模式：这种观点剥夺了适应度的任何因果或解释力量。另一些人（例如米尔斯坦和斯蒂芬斯）则将适应度和自然选择视为一种在种群水平上起作用的原因，导致不同的繁殖率。最后，还有人认为，如果适应度要在我们的理论中发挥解释作用，它必须是一个个体和因果概念。正如这些辩论所暗示的那样，理解“适者生存”的含义远非仅仅是 19 世纪的口号，而是具有哲学和生物学上的紧迫性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ariew, A., and Lewontin, R.C., 2004, “The Confusions of Fitness,” *British Journal for the Philosophy of Science*, 55: 347–363.
@@ -210,4 +210,4 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
 [Alexander Rosenberg](http://www.duke.edu/~alexrose/) <[*alexrose@duke.edu*](mailto:alexrose%40duke%2eedu)>  
 [Frederic Bouchard](http://www.mapageweb.umontreal.ca/bouchaf/) <[*f.bouchard@umontreal.ca*](mailto:f%2ebouchard%40umontreal%2eca)>
-<!--md-padding-ignore-end-->
+

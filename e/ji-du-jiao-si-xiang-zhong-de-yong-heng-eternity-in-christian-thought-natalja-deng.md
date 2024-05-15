@@ -428,7 +428,7 @@ So (3′)
 
 最近，一些从事量子引力方法的物理学家和物理学家已经开始认为时空可能并非根本（见量子引力的 SEP 条目）。当然，关于在这种情况下是否适用非时间性概念取决于如何最好地理解时空不是根本的主张。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, William P., 1984, “Hartshorne and Aquinas: A Via Media”, in John B. Cobb and Franklin I. Gamwell (eds.), *Existence and Actuality*, Chicago: University of Chicago Press; also in Alston 1989b: 136.
@@ -546,4 +546,4 @@ The author wishes to thank Paul Helm, for graciously giving permission to reuse 
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Natalja Deng](https://nataljadeng.weebly.com/) <[*nmdeng@gmail.com*](mailto:nmdeng%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

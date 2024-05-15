@@ -987,7 +987,7 @@ Bar-On（2013）区分了格赖斯式和后格赖斯式的语言演化方法。�
 
 最近在进化博弈论领域的研究也支持了涉及非意图状态的信号系统的出现。以 Lewis（1969）为起点，Skyrms（2010）研究了信号行为的结构，超越了相互约定的存在。他的框架从最基本的非平凡情况开始，并逐渐引入复杂性（如欺骗和引入新信号等）。Skyrms 的观点将命题或语义内容视为信息内容的特例，从而将信息论重新引入语言学和语言哲学领域，以研究语言交流和/或语义意义的出现。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adger, David, 2003, *Core Syntax: A Minimalist Approach*, New York: Oxford University Press.
@@ -1234,4 +1234,4 @@ Barbara C. Scholz\
 [Francis Jeffry Pelletier](http://www.ualberta.ca/\~francisp/) <[*francisp@ualberta.ca*](mailto:francisp%40ualberta%2eca)>\
 [Geoffrey K. Pullum](http://www.ling.ed.ac.uk/\~gpullum/) <[*pullum@gmail.com*](mailto:pullum%40gmail%2ecom)>\
 [Ryan Nefdt](https://ryannefdt.weebly.com/) <[*ryan.nefdt@uct.ac.za*](mailto:ryan%2enefdt%40uct%2eac%2eza)>
-<!--md-padding-ignore-end-->
+

@@ -134,7 +134,7 @@ Medina 认为，认识者在关于种族主义和（异性恋）性别歧视相�
 
 这份关于女性主义与实用主义和欧陆哲学交叉领域可能话题的清单当然并不全面，其中包含的可能性也没有完全展开。这方面的工作等待着对这一新领域感兴趣的其他人来完成。它将采取的形式尚未确定，人们急切期待着。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alcoff, Linda Martín, 2006. *Visible Identities: Race, Gender, and the Self*, New York: Oxford University Press.
@@ -221,4 +221,4 @@ Medina 认为，认识者在关于种族主义和（异性恋）性别歧视相�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Shannon Sullivan](https://clas-pages.uncc.edu/shannon-sullivan/) <[*ssullivan@uncc.edu*](mailto:ssullivan%40uncc%2eedu)>\
 Erin Tarver <[*e.c.tarver@emory.edu*](mailto:e%2ec%2etarver%40emory%2eedu)>
-<!--md-padding-ignore-end-->
+

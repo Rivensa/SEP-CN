@@ -124,7 +124,7 @@
 
 虽然伏尔泰对莫珀蒂的攻击涉及人身攻击，但其核心是对形而上学推理方式的激烈辩护，这种推理方式既遮蔽了物理科学家的工作，又使其产生错觉。此外，18 世纪的牛顿主义在后来的哲学中引发了两个主要趋势：首先是康德通过他的“哥白尼式革命”重新构建了超验哲学，将形而上学的残余置于先验的理性范畴中；其次是通过庆祝哲学实证主义和以此为基础的反思性科学方法，将形而上学边缘化。伏尔泰应被视为后者的主要先驱。此外，将 19 世纪许多人视为伏尔泰原始实证主义的附属品与他通过揭示似乎支撑神职和贵族君主权威的“非理性迷信”而发起的消灭神职和贵族君主权威的运动相结合，伏尔泰的遗产也巩固了实证科学与世俗化的疏离和去基督教化之间的所谓联系。因此，伏尔泰应被视为一种哲学传统的发起者，从他开始，一直延续到 20 世纪的奥古斯特·孔德、查尔斯·达尔文，再到卡尔·波普尔和理查德·道金斯。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -349,4 +349,4 @@ The scholarly literature on Voltaire is vast, and growing larger every day. The 
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [J.B. Shank](http://www.hist.umn.edu/people/profile.php?UID=jbshank) <[*jbshank@umn.edu*](mailto:jbshank%40umn%2eedu)>
-<!--md-padding-ignore-end-->
+

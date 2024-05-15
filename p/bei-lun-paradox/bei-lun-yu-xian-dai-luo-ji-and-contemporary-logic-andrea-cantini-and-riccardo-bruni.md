@@ -390,7 +390,7 @@ Field（2003，2008）提出了结合 Kripke 和修订理论技术的语义悖�
 
 除了代数和分析工具之外，关于悖论的逻辑研究最近还应用了图论（参见 Cook 2004，Rabern，Rabern 和 Macauley 2013，Beringer 和 Schindler 2017，Hsiung 2017）：一个基本思想是试图以几何术语把握悖论的模式和结构特征。例如，可以通过 Leitgeb 的依赖概念（Leitgeb 2005）将算术语言的句子与真理相关联，并分配一个参考图（rfg）。进一步猜测，对于危险的 rfgs 的表征问题的解决方案相当于声称基本上 Liar 图和 Yablo 图是唯一的悖论 rfgs。这条路线在 Rossi 2019 中独立发展，通过探索悖论句子展示的广泛语义行为，并提供一个统一的真理和悖论理论。结果是一个真理理论，可以对悖论句子进行三重分类（类似说谎者的句子，类似真话者的句子和复仇句子），并提出一种解释所有三种类型以及无悖论句子的方法，其中基本工具是“语义图”的概念。而在 Hsiung 2020 中，Leitgeb 的方法与 Beringer 和 Schindler 2017 的方法相结合，研究了一种以 Leitgeb 的依赖关系本身为基础的有限特征悖论类型。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources: 1897–1945
@@ -669,4 +669,4 @@ For this edition of the entry, the authors were supported by the Italian Ministr
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Andrea Cantini <[*andrea.cantini@unifi.it*](mailto:andrea%2ecantini%40unifi%2eit)>  
 [Riccardo Bruni](https://unifi.academia.edu/RiccardoBruni) <[*r.bruni1974@gmail.com*](mailto:r%2ebruni1974%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

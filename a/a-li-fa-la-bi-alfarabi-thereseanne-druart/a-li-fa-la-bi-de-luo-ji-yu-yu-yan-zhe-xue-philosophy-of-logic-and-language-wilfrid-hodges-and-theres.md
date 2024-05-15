@@ -341,7 +341,7 @@ Mallet（1994：329-335）提到了 [Analysis] 95.5-8 中的一段话，阿里·
 
 即使出现一些明显的谎言，我们肯定会承认（尽管阿里·法拉比在我们拥有的文本中从未完全说过），虚假的陈述仍然可能包含诗意的真理。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works of Al-Fārābī
@@ -521,4 +521,4 @@ The first author takes responsibility for the text of this entry but couldn’t 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Wilfrid Hodges](http://wilfridhodges.co.uk/) <[*wilfrid.hodges@btinternet.com*](mailto:wilfrid%2ehodges%40btinternet%2ecom)>  
 [Therese-Anne Druart](http://philosophy.cua.edu/faculty/druart/)
-<!--md-padding-ignore-end-->
+

@@ -56,7 +56,7 @@
 
 比《De renuntiatione》更为人所知的是吉尔斯的《De ecclesiastica potestate》，这是一篇为保护波尼法斯八世而写的论文。吉尔斯在这篇作品中系统地阐述了他在教皇宫廷发表的一篇重新发现的布道中已经提出的关于王权和祭司权之间关系的观点。他的完整论证的主要观点是，教皇作为教会和全人类的最高权威，是地球上每一种权力的唯一合法来源，无论是作为对人的管辖权，还是作为对物的所有权。在他的权力充分发挥的情况下，教皇在教会和世俗领域都拥有绝对的至高权威，并将世俗的“剑”权力委托给世俗君主，只是为了更好地履行他更高的宗教职责。任何不承认对教皇权力的依赖的权威都是篡夺。吉尔斯认为，即使是部分自治的世俗秩序也没有空间。因此，吉尔斯坚持认为，如果财产权没有得到教皇权威的合法认可，那么它们就是无效的。 有趣的是，他对财产起源的描述也支持这一观点。根据他的说法，财产并非自然存在的制度，而只是人类协议的结果，除非得到最高宗教权力的承认，否则这些协议就没有任何合法性（Miethke 2000，Homann 2004，Krüger 2007）。关于《教会权力论》的学术讨论仍然存在争议。卡尔·乌布尔（2004）用强有力的论据反驳了之前的假设，即吉尔斯是在对约翰·巴黎的《王权与教宗权》作出回应时写的。尽管之前的学术研究强调了《教会权力论》与著名的教皇权力宣言《圣一教会》在形式和内容上的相似之处，但弗朗西斯科·贝尔特洛尼（2004）认为，我们不应忽视这两个文本所启发的教皇权力概念之间的深刻差异。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -194,4 +194,4 @@ The most complete list of Giles’ works can be found in Del Punta–Donati–Lu
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Roberto Lambertini](http://docenti.unimc.it/roberto.lambertini) <[*roberto.lambertini@unimc.it*](mailto:roberto%2elambertini%40unimc%2eit)>
-<!--md-padding-ignore-end-->
+

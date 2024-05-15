@@ -115,7 +115,7 @@
 
 因果透视主义者可以采取的一种策略（实际上也是唯一可用的策略）是通过某种客观的非因果不对称来解释上述的非对称原则。例如，普赖斯允许存在一个客观的热力学不对称性，即宇宙的一系列有序状态将呈现出他所称的热力学梯度：熵在系列的一端将比另一端低。我们应该抵制说熵增加的诱惑，因为这就像断言一条道路上坡而不是下坡，而不承认“上坡”之类描述的透视性质。这样的热力学不对称性能够解释时间顺序的知觉吗？这是一个需要读者思考的问题。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Arstila, Valtteri, 2018, ‘Temporal Experience without the Specious Present’, *Australasian Journal of Philosophy*, 92(2): 287–302.
@@ -211,4 +211,4 @@
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Robin Le Poidevin](http://www.leeds.ac.uk/arts/profile/20048/198/robin_le_poidevin)
-<!--md-padding-ignore-end-->
+

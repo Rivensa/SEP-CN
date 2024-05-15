@@ -473,7 +473,7 @@ Meselson-Stahl 实验是生物学中的关键实验。它决定了 DNA 复制的
 
 在这篇文章中，我们提出了关于实验结果性质的不同观点。有人认为接受实验结果是基于认识论的论证，而其他人则基于未来的效用、社会利益或与现有社群承诺的一致性来接受。然而，大家都同意，无论出于何种原因，实验结果都会达成共识。这些结果在物理学中扮演着许多重要角色，我们已经讨论了其中几个角色，尽管肯定还有其他角色。我们已经看到实验在两个竞争理论之间做出决策，要求提出新理论，确认一个理论，反驳一个理论，提供确定理论数学形式的证据，以及为已接受理论中涉及的基本粒子的存在提供证据。我们还看到实验有着独立于理论的生命。如果像我所认为的那样，认识论程序为对实验结果的合理信念提供了依据，那么实验可以合法地扮演我所讨论的角色，并为科学知识提供基础。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Principal Works
@@ -704,4 +704,4 @@ We are grateful to Professor Carl Craver for both his comments on the manuscript
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Allan Franklin](http://spot.colorado.edu/\~franklia/) <[*allan.franklin@colorado.edu*](mailto:allan%2efranklin%40colorado%2eedu)>\
 [Slobodan Perovic](http://slobodanperovic.weebly.com/) <[*sperovic@f.bg.ac.rs*](mailto:sperovic%40f%2ebg%2eac%2ers)>
-<!--md-padding-ignore-end-->
+

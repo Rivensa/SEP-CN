@@ -212,7 +212,7 @@ O:
 
 该书的结论再次强调，形式逻辑甚至科学最多只是实现良好生活目标的工具。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Recent Editions of the Port-Royal Logic
@@ -288,4 +288,4 @@ All quotations and citations to the Port Royal Logic are to the Buroker translat
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [Alan Nelson](http://philosophy.unc.edu/people/faculty/alan-nelson/) <[*anelson@unc.edu*](mailto:anelson%40unc%2eedu)>  
 Jill Buroker
-<!--md-padding-ignore-end-->
+

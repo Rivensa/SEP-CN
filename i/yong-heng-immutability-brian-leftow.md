@@ -91,7 +91,7 @@ Edward Wierenga（1989 年，175-90 页）对（1）-（4）提出了两个回�
 
 最后一个反对意见假设时间流逝，并以这种方式运行：与上帝相关的事物会发生变化。首先，上帝与某个时间的存在共存，然后与另一个时间的存在共存。如果与上帝相关的事物发生变化，上帝在关系事故中发生变化。一个回答是认为上帝是无时无刻的。如果是这样，在他自己的立场上，与他相关的事物不会发生变化。或许，为了捍卫 DDI，需要坚持上帝无时无刻的观点。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aristotle, *De Caelo* (*De Cael.*), trans. R. Hardie and R. Gaye, in *The Basic Works of Aristotle*, ed. Richard McKeon, NY: Random House, 1941.
@@ -150,4 +150,4 @@ Edward Wierenga（1989 年，175-90 页）对（1）-（4）提出了两个回�
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Brian Leftow](https://www.philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/954-leftow-brian) <[*brian.leftow@rutgers.edu*](mailto:brian%2eleftow%40rutgers%2eedu)>
-<!--md-padding-ignore-end-->
+

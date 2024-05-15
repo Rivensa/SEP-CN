@@ -1127,7 +1127,7 @@ A1∧…∧Ak⇒B1∨…∨Bn
 
 总之，当代的规律性和推理理论取得了一些显著进展。有效的批评大部分已经克服，许多因果场景——这些场景对于反事实因果解释仍然具有挑战性——已经得到解决。特别是，Baumgartner（2013 年），Beckers 和 Vennekens（2018 年）以及 Andreas 和 Günther（2020 年）都解决了包括过度决定、早期和晚期阻止以及转换在内的一系列场景。鉴于这些最新进展，不再可以认为反事实因果理论明显优于规律性和推理理论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alchourrón, Carlos E., Peter Gärdenfors, and David Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, *Journal of Symbolic Logic*, 50(2): 510–530. doi:10.2307/2274239
@@ -1227,4 +1227,4 @@ We would like to thank Michael Baumgartner, Sander Beckers, Wolfgang Spohn, Mich
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Holger Andreas](https://holgerandreas.wordpress.com/) <[*holger.andreas@ubc.ca*](mailto:holger%2eandreas%40ubc%2eca)>\
 [Mario Guenther](http://www.mario-guenther.com/) <[*Mario.Guenther111188@gmail.com*](mailto:Mario%2eGuenther111188%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

@@ -203,7 +203,7 @@ In general, what we see in Heraclitus is not a conflation of opposites into an i
 
 赫拉克利特对文化的影响似乎不减，广泛出现在诸如商业管理和兽医学等不同领域的研究中。赫拉克利特常被称为流变哲学家，如今似乎正在成为过程哲学的旗手，取代了亨利·柏格森和阿尔弗雷德·诺斯·怀特黑德等更近期的偶像。例如，查看范·格尔特和德·鲁特（2022 年）对心理学学科的重要贡献。（关于赫拉克利特作为过程哲学家，请参阅格雷厄姆（2011 年）。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Editions
@@ -281,4 +281,4 @@ In general, what we see in Heraclitus is not a conflation of opposites into an i
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Daniel W. Graham <[*danielwatkinsgraham@outlook.com*](mailto:danielwatkinsgraham%40outlook%2ecom)>
-<!--md-padding-ignore-end-->
+

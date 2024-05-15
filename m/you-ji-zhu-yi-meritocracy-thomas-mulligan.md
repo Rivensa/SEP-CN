@@ -503,7 +503,7 @@ Hayek 的观点是，一种分配资源的方式（在他看来是正确的方�
 
 优绩主义的辩论可以说是未决的。这反映了其哲学上的丰富性。虽然优绩主义的观念已经存在并得到实施了几千年，但我们仍然难以准确地说出优绩主义是什么，以及它是否值得提倡。对于这些问题，我们还没有完整的答案。但或许我们现在至少开始理解它们了。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aarøe, Lene and Michael Bang Petersen, 2014, “Crowding Out Culture: Scandinavians and Americans Agree on Social Welfare in the Face of Deservingness Cues”, *The Journal of Politics*, 76(3): 684–697. doi:10.1017/S002238161400019X
@@ -723,4 +723,4 @@ A number of scholars supported this work by providing comments on drafts or expe
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Thomas Mulligan](http://www.thomasmulligan.net/) <[*thomas.mulligan@georgetown.edu*](mailto:thomas%2emulligan%40georgetown%2eedu)>
-<!--md-padding-ignore-end-->
+

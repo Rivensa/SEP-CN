@@ -152,7 +152,7 @@ Nissenbaum 认为，技术被开发和使用的背景对道德责任的归因有
 
 计算机技术挑战了传统的道德责任观念，并引发了如何适当分配责任的问题。人类是否仍然可以对他们几乎无法控制或理解的复杂计算机技术的行为负责？人类是唯一可以承担道德责任的主体，还是道德主体的概念可以扩展到包括人工计算实体？针对这些问题，哲学家们重新审视了道德代理和道德责任的概念。尽管在日益数字化的社会中，对这些概念应该包含什么内容尚无明确共识，但从讨论中清楚的是，任何对这些概念的思考都需要考虑这些技术如何影响人类行为以及行为的责任从何开始和结束。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allen, C. & W. Wallach, 2012. “Moral Machines. Contradiction in Terms or Abdication of Human Responsibility?” in P. Lin, K. Abney, and G. Bekey (eds.), *Robot ethics. The ethics and social implications of robotics.* Cambridge, Massachusetts: MIT Press.
@@ -298,4 +298,4 @@ This material is based upon work supported by the National Science Foundation un
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Merel Noorman <[*merelnoorman@gmail.com*](mailto:merelnoorman%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

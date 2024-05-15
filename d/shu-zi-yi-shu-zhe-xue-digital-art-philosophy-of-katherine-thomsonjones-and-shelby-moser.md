@@ -190,7 +190,7 @@ To articulate the above more clearly, Dominic Preston says,
 
 有许多政治和经济因素影响着对本地和全球空间的获取。对于定位艺术而言，这些因素既涉及道德问题，也涉及艺术原因。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackermann, Judith, Andreas Rauscher, Andreas and Daniel Stein, 2016, *Introduction: Playin’ the city. Artistic and Scientific Approaches to Playful Urban Arts*. Navigationen-Zeitschrift für Medien-und Kulturwissenschaften, 16(1), pp.7-23.
@@ -281,4 +281,4 @@ To articulate the above more clearly, Dominic Preston says,
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Katherine Thomson-Jones](http://oberlin.edu/faculty/kthomson) <[*Katherine.Thomson-Jones@oberlin.edu*](mailto:Katherine%2eThomson-Jones%40oberlin%2eedu)>  
 Shelby Moser <[*shelby.moser@gmail.com*](mailto:shelby%2emoser%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

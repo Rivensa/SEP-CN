@@ -281,7 +281,7 @@ Langland-Hassan（2014）对推理主义观点提出了一种不同类型的挑�
 
 然而，对于 AVHs 和思维插入的比较器方法在几个方面受到了批评（Synofzik，Vosgerau＆Newen 2008; Vicente 2014; Vosgerau＆Newen 2007）。其中一个抱怨是，特别是与插入思维相关联的感觉特征的缺乏使得感觉反馈方法不适合解释它们（Vosgerau＆Newen 2007）。作为回应，一些辩护者已经转向以感知和行动的预测处理模型来阐述这个论题（Gerrans 2015; Swiney 2018; Swiney＆Sousa 2014; Wilkinson 2014; Wilkinson＆Fernyhough 2017），而其他人则提出了其他替代方案（Langland-Hassan 即将出版）。如何最好地描述 AVHs 和思维插入的现象学和潜在病因，以及它们与内部语言之间的关系，以及预测处理模型与比较器方法之间的确切关系，仍然是研究的活跃领域。请参阅 Wilkinson＆Alderson-Day（2016）以了解面向哲学家的专题编辑介绍；请参阅 López-Silva＆McClelland（即将出版）以了解关于思维插入的哲学导向的选集。（注：本节的部分内容摘自 Langland-Hassan 2021 的更详细概述）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackerman, Rakefet and Valerie A. Thompson, 2015, “Meta-Reasoning: What Can We Learn from Meta-Memory?”, in *Reasoning as Memory*, Aidan Feeney and Valerie A. Thompson (eds.), London: Psychology Press, 164–182.
@@ -472,4 +472,4 @@ We thank Peter Carruthers, Christopher Gauker, Christopher Hill, Marta Jorba, Fe
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 Daniel Gregory <[*daniel.gregory@ub.edu*](mailto:daniel%2egregory%40ub%2eedu)>  
 Peter Langland-Hassan <[*langlapr@ucmail.uc.edu*](mailto:langlapr%40ucmail%2euc%2eedu)>
-<!--md-padding-ignore-end-->
+

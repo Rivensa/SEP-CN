@@ -278,7 +278,7 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 
 与上述所有内容一样，关于内隐偏见的道德责任的理论伦理学问题无疑会受到未来经验研究的影响。理论伦理学与即将进行的经验研究的一个值得注意的交叉点将集中在对内隐偏见的责备和判断的人际影响上。\[24] 这项研究旨在对缓解群体冲突产生实际影响。在这方面，然而，可能最紧迫的问题是心理干预在个体离开实验室后的持久性。偏见反应的转变能持续多久？个体是否不可避免地会“重新学习”他们的偏见（参见 Madva 2017）？是否可能借鉴“情境主义”的教训，使个体态度的转变创造出激发他人更加平等行为的环境（Sarkissian 2010；Brownstein 2016b）？此外，自从内隐偏见的研究受到广泛关注以来，人们的感受、判断和行动发生了什么样的变化（例如，Charlesworth＆Banaji 2019）？
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aberson, C., M. Porter, & A. Gaffney, 2008, “Friendships predict Hispanic student’s implicit attitudes toward Whites relative to African Americans”, *Hispanic Journal of Behavioral Sciences*, 30: 544–556.
@@ -639,4 +639,4 @@ Many thanks to Yarrow Dunham, Jules Holroyd, Bryce Huebner, Daniel Kelly, Calvin
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Michael Brownstein <[*msbrownstein@gmail.com*](mailto:msbrownstein%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

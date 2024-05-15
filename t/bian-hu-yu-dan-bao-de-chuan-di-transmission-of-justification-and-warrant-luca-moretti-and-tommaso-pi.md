@@ -696,7 +696,7 @@ s（或 s 的语言社区）已嵌入到一个包含某种水质物质的环境�
 
 即使 Water 不实例化分离模板，对 McKinsey 悖论的新诊断也可以基于这样的主张：通过将 Q11 作为结论扩展 Water 所产生的不同论证（称为 Water *）实例化了分离模板。如果 Rwater 是与上述相同的命题，很容易看出 Water* 满足分离模板的条件（D4）、（D2）和（D3∗）。此外，至少从感觉上来说，P10 通过 Q10 蕴含 Q11（如果 P11 是背景信息）似乎是先验的（参见 Wright 2011）。根据这种新诊断的非传递性，令人困惑的是，s 可以通过她对 P10 和 P11 的非经验辩护以及她对从 P10、P11 通过 Q10 到 Q11 的先验联系的认识来获得对 Q11 的辩护。如果遵循 Wright（2003）的建议 [21]，即 s 有权接受 Q11，即假设存在一种水质物质为“水”提供其范围，那么 Water 就变得无害传递，并且围绕 Water 的表面悖论消失。至少在假设水是我们实际熟悉的水质物质的先验情况下，一旦假设存在任何我们实际熟悉的水质物质。对于对 McKinsey 悖论的这种类型的回应的有用批评，请参见 Sainsbury（2000）、Pritchard（2002）、Brown（2003, 2004）、McLaughlin（2003）、McKinsey（2003）和 Kallestrup（2011）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alspector-Kelly, Marc, 2015, “Wright Back to Dretske, or Why You Might as Well Deny Knowledge Closure”, *Philosophy and Phenomenological Research*, 90(3): 570–611. doi:10.1111/phpr.12150
@@ -822,4 +822,4 @@ s（或 s 的语言社区）已嵌入到一个包含某种水质物质的环境�
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Luca Moretti](http://lucamoretti.org/) <[*l.moretti@abdn.ac.uk*](mailto:l%2emoretti%40abdn%2eac%2euk)>  
 Tommaso Piazza <[*tommaso.piazza@unipv.it*](mailto:tommaso%2epiazza%40unipv%2eit)>
-<!--md-padding-ignore-end-->
+

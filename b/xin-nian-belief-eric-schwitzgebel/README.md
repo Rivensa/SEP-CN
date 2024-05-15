@@ -258,7 +258,7 @@ In some contexts, the liberal substitution of co-referential terms or phrases se
 
 将信念归因于（至少）人类婴儿和非语言哺乳动物的积极论证，往往集中在成年人类、人类婴儿和非人类哺乳动物之间的一般生物学和行为相似性上；以及用信念和欲望来描述婴儿和非语言哺乳动物行为的自然性；以及在没有依赖于命题态度的归因的情况下，对其心理生活进行有用的描述的困难（例如，Routley 1981；Marcus 1995；Allen 和 Bekoff 1997；Zimmerman 2018；Curry 即将出版）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aizawa, Kenneth, 2003, *The systematicity arguments*, Dordrecht: Kluwer.
@@ -462,4 +462,4 @@ In some contexts, the liberal substitution of co-referential terms or phrases se
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Eric Schwitzgebel](http://www.faculty.ucr.edu/\~eschwitz/) <[*eschwitz@ucr.edu*](mailto:eschwitz%40ucr%2eedu)>
-<!--md-padding-ignore-end-->
+

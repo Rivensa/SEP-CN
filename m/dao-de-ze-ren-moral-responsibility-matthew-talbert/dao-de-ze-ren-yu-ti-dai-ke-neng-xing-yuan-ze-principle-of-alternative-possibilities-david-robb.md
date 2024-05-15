@@ -388,7 +388,7 @@ PAP-省略：一个人只有在他本可以做到的情况下，他才对自己�
 
 话虽如此，并非每个人都承认所声称的不对称性。PAP 和 PAP-omissions 都应该一起被排除（Frankfurt 1994; Glannon 1995; Fischer & Ravizza 1998: ch. 5; 或者一起存在：Swenson 2016）。考虑最后一个 FSC，这次将省略带入“责任的范围”内：一种选择（或者在这种情况下，是没有选择）。漠不关心的救生员卢克未能拯救溺水者，事实上甚至没有尝试，原因完全是他自己的：他懒惰和漠不关心。但是现在假设，卢克并不知道，如果他甚至考虑过拯救溺水者，他会被压倒性的恐惧所麻痹，迫使他保持不活动，甚至不选择或尝试拯救溺水者。在这种情况下，没有过度决定，因为恐惧和潜在的病理在实际情景中仍然处于休眠状态：与省略相关的唯一因果因素是卢克自己的认知状态和价值观，它们似乎对他的失败施加了一种与责任相关的控制。这看起来像是一个真正的 FSC，如果是这样，就是对 PAP-omissions 的反例。（有关与 PAP-omissions 相关的相当复杂性的更多信息，请参见 McIntyre 1994; Sartorio 2005; Clarke 2014; Fischer 2017。）
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alvarez, Maria, 2009, “Actions, Thought-Experiments and the ‘Principle of Alternate Possibilities’”, *Australasian Journal of Philosophy*, 87(1): 61–81. doi:10.1080/00048400802215505
@@ -610,4 +610,4 @@ I am grateful to the SEP editorial staff and to Derk Pereboom for helpful advice
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [David Robb](https://www.davidson.edu/academics/philosophy/faculty-and-staff/david-robb) <[*darobb@davidson.edu*](mailto:darobb%40davidson%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -159,7 +159,7 @@ Shannon Sullivan 在《揭示白人优越性》（2006）中指出，Addams 在�
 
 随着实用主义女性主义哲学的不断发展，越来越多在实用主义传统中工作的女性被发现，并且她们的声音被重新纳入实用主义传统中。当代实用主义女性主义哲学家正在利用这些观点来应对当代哲学和行动主义关注的问题。女性主义哲学家将这些被挖掘出的观点带入当代女性主义项目，例如家庭暴力（Banerjee，2008），酷儿理论，性贩卖和社区组织（见 Fischer，Jackson，Brown 和 Hamington 在 Hamington，2010 中）以及人权（Lowe，2019）。实用主义和当代女性主义的结合力量正在推动对当代进步女性主义目标的更深入理解，将行动和理论融合在平等实践中。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Addams, Jane, 1910 [1990], *Twenty Years at Hull House, with Autobiographical Notes*, Urbana, IL: University of Illinois Press.
@@ -332,4 +332,4 @@ Shannon Sullivan 在《揭示白人优越性》（2006）中指出，Addams 在�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Judy Whipps](http://gvsu.edu/philosophy/index.cfm?id=5B846B1F-C0A2-BAC5-0DFB06278B464793) <[*whippsj@gvsu.edu*](mailto:whippsj%40gvsu%2eedu)>  
 Danielle Lake <[*dlake@elon.edu*](mailto:dlake%40elon%2eedu)>
-<!--md-padding-ignore-end-->
+

@@ -334,7 +334,7 @@ van Fraassen 的理论提出的最后一点是：在考虑实用主义理论时�
 
 一个密切相关的观点是，上述模型中至少有一些对解释提出了要求，这些要求在某些研究领域可能是可满足的，但在其他领域中要么是无法实现的（在任何实际有趣的意义上），要么在可实现的程度上与这些领域中普遍接受的研究目标没有明显的关系。例如，我们之前指出，许多科学家和哲学家认为，在生物学和社会行为科学中几乎没有什么定律可以发现。如果是这样的话，那么将定律赋予解释中核心角色的解释模型可能对这些学科中的解释工作方式并不具有很大的启示作用。另一个例子是，即使我们假设 SR 模型所推荐的客观同质参考类别的划分在某些量子力学现象中是一个可实现的目标，但可能（如上所述）在经济学和社会学等学科中并不是一个可以以非平凡方式实现的目标，而这些学科中统计因果推断也占据重要地位。在这样的学科中，可能几乎总是可以找到与任何感兴趣的人口或亚人口相关的其他统计相关划分，因此找到这些划分的活动仅受到获取额外信息的成本的限制。对于 CM 模型在社会科学中的大多数应用，可能也可以得出类似的评估。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Achinstein, Peter, 1983, *The Nature of Explanation*, New York: Oxford University Press.
@@ -415,4 +415,4 @@ van Fraassen 的理论提出的最后一点是：在考虑实用主义理论时�
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [James Woodward](https://www.hps.pitt.edu/people/james-woodward) <[*jfw@pitt.edu*](mailto:jfw%40pitt%2eedu)>  
 [Lauren Ross](https://www.lps.uci.edu/~rossl/) <[*rossl@uci.edu*](mailto:rossl%40uci%2eedu)>
-<!--md-padding-ignore-end-->
+

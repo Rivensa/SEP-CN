@@ -172,7 +172,7 @@ Lukasiewicz 的问题的答案被传统地称为统一原则，而对 Anscombe �
 
 无论如何，人们可以看到，亚里士多德最初对“形式”和“物质”的对比一旦“混合形态说”离开了变化的领域，就会迅速变得复杂。虽然最初引入这些对立概念是为了阐明变化和实质生成，在没有“虚无中的生成”情况下，但一旦在进一步的应用中发现这一易于理解的对比关系实际上难以维持。然而，正如亚里士多德所暗示的，以及他的许多追随者所肯定的，混合形态说在广泛的阐释角色中所具有的解释力一点都不逊色。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -248,4 +248,4 @@ Lukasiewicz 的问题的答案被传统地称为统一原则，而对 Anscombe �
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Thomas Ainsworth <[*thomasrossainsworth@gmail.com*](mailto:thomasrossainsworth%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

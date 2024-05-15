@@ -335,7 +335,7 @@ QAM 还包含了一个关于物理决定论与道德责任问题的引人注目�
 
 盖伦还声称自己亲身经历了希腊多神教世界中个别神祇的干预人类事务，尤其是医神阿斯克勒庇俄斯的干预（见 Pietrobelli 2013; Singer 2019a）。如果将这种传统的、拟人化的宗教表现与哲学上将上帝视为目的论原因或内在自然的观点相调和似乎很困难，或许应该说，这种抽象神学与传统个别神祇的共存并不仅限于盖伦，在希腊罗马哲学作家中也可以提到柏拉图和 Epictetus（在这个背景下）。无论如何，盖伦始终回归的是贯穿整个宇宙的神圣智慧，而不是任何个别神祇；正是这种智慧成为他宗教信仰的对象，同时也是他智力、科学热情的对象。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### A. Primary Sources
@@ -562,4 +562,4 @@ The author wishes to acknowledge the support of both the Wellcome Trust and the 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 P. N. Singer <[*pn\_singer@yahoo.co.uk*](mailto:pn\_singer%40yahoo%2eco%2euk)>
-<!--md-padding-ignore-end-->
+

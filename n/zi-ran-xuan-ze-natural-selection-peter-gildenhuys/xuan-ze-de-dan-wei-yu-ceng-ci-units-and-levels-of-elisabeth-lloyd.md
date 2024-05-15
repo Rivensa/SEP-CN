@@ -386,7 +386,7 @@ The pluralists attack the view that “for any selection process, there is a uni
 
 这一区分集合已被用于分析关于选择单位的主要观点，并准确澄清每个主要参与者所关注的问题或问题组合。在辩论中有许多观点，通过准确描述正在讨论哪个选择单位问题，可以避免误解。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abbot, P. et al., 2011, “Inclusive Fitness Theory and Eusociality”, *Nature*, 471: E1–E2.
@@ -671,4 +671,4 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
 [Elisabeth Lloyd](https://hpsc.indiana.edu/about/emeriti-faculty/lloyd-elisabeth.html) <[*ealloyd@indiana.edu*](mailto:ealloyd%40indiana%2eedu)>
-<!--md-padding-ignore-end-->
+

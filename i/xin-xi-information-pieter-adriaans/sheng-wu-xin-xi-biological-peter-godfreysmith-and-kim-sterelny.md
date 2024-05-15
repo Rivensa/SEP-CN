@@ -138,7 +138,7 @@ Shea 采取了不同的方法，认为不同的因果因素具有不同的进化
 
 Maynard Smith 和 Szathmáry 关于重大转变的工作在宏观进化思维中具有里程碑意义-思考生命历史中的大规模模式。但是他们的工作中的信息维度并未被采纳。一个小的例外是 Sterelny（2009）。这篇论文认为，多细胞动物生命不仅依赖于高保真度的更多信息传递，还依赖于在发育中对该信息的控制，这表明卵的进化-一个受控的、结构化的、信息丰富的发育环境-对于复杂的动物生命至关重要。但是大多数关注点都集中在他们关于重大转变的另一个方面：解决合作问题，然后使先前独立的个体组合成新的、更复杂的个体。因此，在 Calcott 和 Sterelny（2011）中，没有一篇论文主要关注代际信息流的扩展或控制。这可能会改变。遗传机制的进化关键特征现在常常以信息术语进行讨论，而语言和 DNA 中的组合结构为类比推理提供了有力的基础。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Austin, C., 2015, “The Dispositional Genome: Primus inter pares”, *Biology and Philosophy*, 30: 227–246
@@ -233,4 +233,4 @@ Maynard Smith 和 Szathmáry 关于重大转变的工作在宏观进化思维中
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 [Peter Godfrey-Smith](http://www.petergodfreysmith.com/)  
 [Kim Sterelny](http://www.victoria.ac.nz/hppi/about/staff/kim-sterelny)
-<!--md-padding-ignore-end-->
+

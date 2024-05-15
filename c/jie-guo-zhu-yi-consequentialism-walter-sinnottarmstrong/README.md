@@ -204,7 +204,7 @@ Utilitarians 可以再次坚定立场。他们可以否认在这种情况下切�
 
 即使这些论点都不能证明结果主义，仍然可能没有充分的理由来否定结果主义。我们可能既没有理由否定结果主义，也没有理由肯定结果主义。即使结果主义没有被证明，它仍然可能是一个可行的选择。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, R.M., 1976. “Motive Utilitarianism”, *Journal of Philosophy*, 73: 467–81.
@@ -374,4 +374,4 @@ Utilitarians 可以再次坚定立场。他们可以否认在这种情况下切�
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Walter Sinnott-Armstrong](http://sites.duke.edu/wsa/) <[*ws66@duke.edu*](mailto:ws66%40duke%2eedu)>
-<!--md-padding-ignore-end-->
+

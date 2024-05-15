@@ -206,7 +206,7 @@
 
 将婚姻本质上视为性别歧视或异性恋歧视的女权主义和酷儿批评面临与其他关于婚姻本质的主张相同的反驳。婚姻过去具有某些特征并不意味着这些特征是其固有的。因此，同性婚姻不仅不会重复性别歧视和异性恋歧视的模式，反而可以通过改变婚姻来为妇女和同性恋解放服务，甚至可能为更广泛的家庭形式的认可打开大门（Ferguson 2007，Mayo 和 Gunderson 2000，Calhoun 2005，Brake 2012）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Contemporary Works
@@ -404,4 +404,4 @@ Thanks to Eric Cave, Laurence Houlgate, Ann Levey, Mark Migotti, and Nicole Wyat
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 [Elizabeth Brake](https://elizabethbrake.com/) <[*elizabeth.brake@rice.edu*](mailto:elizabeth%2ebrake%40rice%2eedu)>
-<!--md-padding-ignore-end-->
+

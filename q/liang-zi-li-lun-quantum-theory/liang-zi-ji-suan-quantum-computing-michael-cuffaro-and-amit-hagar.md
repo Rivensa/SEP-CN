@@ -237,7 +237,7 @@ Aaronson (2013b)和 Cuffaro (2012, 2022)指出，量子计算的多世界解释�
 
 然而需要注意的是，一旦物理上的丘奇-图灵论题被违反，可以说某些计算概念就不再是自主的。换句话说，鉴于量子计算机可能能够高效地解决经典上难以处理的问题，因此重新描述计算复杂性的抽象空间（Bernstein＆Vazirani 1997），计算概念甚至计算种类，如“高效算法”或“NP 类”，可以说变得依赖于机器，并且在任何分析中都不可避免地需要诉诸“硬件”（Cuffaro 2018b; Hagar 2007）。量子计算的进展可能会对计算机科学中使用的类型和属性的非物理特征的功能主义观点产生影响。因此，高效的量子算法可能成为反对还原主义的先验论证的反例（Pitowsky 1996）-尽管对物理主义版本的该观点的概念挑战似乎也是非平凡的（Brown 2023）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aaronson, S., 2013a, *Quantum Computing Since Democritus*, New York: Cambridge University Press.
@@ -444,4 +444,4 @@ Aaronson (2013b)和 Cuffaro (2012, 2022)指出，量子计算的多世界解释�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Michael Cuffaro](http://www.michaelcuffaro.com/) <[*mike@michaelcuffaro.com*](mailto:mike%40michaelcuffaro%2ecom)>  
 [Amit Hagar](https://hagara.pages.iu.edu/)
-<!--md-padding-ignore-end-->
+

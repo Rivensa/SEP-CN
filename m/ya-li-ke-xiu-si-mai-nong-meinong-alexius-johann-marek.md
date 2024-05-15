@@ -330,7 +330,7 @@ Incomplete objects play an important role in Meinong’s late philosophy, for in
 
 迈农将具有非个人性质的尊贵和渴望称为“尊贵”和“渴望”（1917 年，§15）。由于呈现实际尊贵（和渴望）的感受（和欲望）可以被证明，因此可以获得公理学（和伦理学）知识。如果相应的将尊贵归于预设对象的判断是合理的，那么感受可以被描述为合理的（1917 年，§12）。迈农在这里看到了与布伦塔诺的“具有正确性特征的爱”或“正确的爱”（布伦塔诺 1889 年，§27）的亲缘关系，这可以被理解为对判断证据的“证据类似物”，但迈农强调，只有判断的证据本身才能使这样的证明成为可能，“感受和欲望的证据类似物因此是不必要的”（1917 年：131 \[115]）。由于价值必须被视为不能存在但只能存在的理想事物，迈农认为公理学（以及类似地，伦理学）知识是先验的（1917 年，§12）。他相信“就像正确推导的规律一样，可以说存在着正确欲望的规律”（1917 年：128）。早在 1912 年，迈农自我批评地承认他对价值的自然主义，“纯粹心理学”的解释已被证明是基于不可接受的错误心理主义的（也参见 1917 年：168 \[146]）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 Throughout this article the consulted translations have been modified when necessary.\[[4](https://plato.stanford.edu/entries/meinong/notes.html#note-4)] German terms and page references to English translations are in square brackets and written in italics. Bibliographical references to Meinong’s work usually refer to the pagination of his original editions.
@@ -553,4 +553,4 @@ I would like to thank Sarah W. Holtman, Maria E. Reicher and Edward N. Zalta for
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Johann Marek <[*johann.marek@uni-graz.at*](mailto:johann%2emarek%40uni-graz%2eat)>
-<!--md-padding-ignore-end-->
+

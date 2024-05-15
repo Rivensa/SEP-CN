@@ -150,7 +150,7 @@
 
 斯泰宾在 20 世纪 30 年代的分析哲学发展中起到了重要作用，撰写了实际上是分析哲学的第一本教科书《现代逻辑导论》（1930 年）。尽管她是剑桥分析学派的主要成员，与摩尔对她的影响最大，但她也试图与逻辑实证主义接触，从而帮助将两者融合到我们现在所知的更广泛的分析哲学运动中。在她后来的著作中，她试图展示她的逻辑和分析工作对日常思维以及社会和政治辩论的相关性。《哲学与物理学家》（1937 年）和《有所思考》（1939 年），她面向更广泛受众的两本最重要的书籍，也可以被视为批判性思维的首批著作，预示了社会语言学、语用学和批判性话语分析的发展。她对“目的性思维”的主导思想以及她对思维和表达清晰度的强调在她的所有著作中都得到体现，这也是她的教学和组织活动所特点之一，而这些活动本身以及她的写作都表现出了非常高的知识诚实和道德正直。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources: Works by Stebbing
@@ -212,4 +212,4 @@
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Michael Beaney](https://www.philosophie.hu-berlin.de/de/lehrbereiche/geschichte-analytische-phil) <[*michael.beaney@hu-berlin.de*](mailto:michael%2ebeaney%40hu-berlin%2ede)>\
 [Siobhan Chapman](https://siobhanchapman.co.uk/) <[*src@liverpool.ac.uk*](mailto:src%40liverpool%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

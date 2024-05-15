@@ -369,7 +369,7 @@ Jill 的父母是人；Jill 侍奉父母不是侍奉人（不是被雇佣为仆�
 
 在后来的墨经哲学中，我们看到古代中国思想家在伦理学、语言哲学、认识论和非正式逻辑方面取得了显著进步。在这些领域中，墨家学派发展出可信的、甚至是杰出的理论，并发现了哲学问题，他们积极地努力解决，尽管并非总是完全成功。他们的伦理理论是一项巨大的成就：历史上第一个明确的间接后果主义形式，以利益或福祉作为产生幸福的基础。他们的自然语义理论和认识论提供了一种有趣的、非心理主义的语言、思维和知识方法，值得今天进一步关注。他们在中国开创了逻辑研究，并发展了一种有趣的类比论证理论，尽管在探讨类比推理的说服力方面取得的进展有限。更不用说他们在形而上学、力学、光学和几何学方面的研究了。遗憾的是，墨家学派多方面的探究在前汉朝（前 206 年-8 年）的第一个世纪随着他们的运动的消失而结束。在后汉朝（25-220 年）和魏晋时期（220-589 年），一些知识分子中再次出现了对语言启发的兴趣，但在伦理理论、语言、逻辑和认识论方面，后来的中国思想家从未超越他们古典前辈的成就。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 (Only works in English are listed.)
@@ -446,4 +446,4 @@ I am grateful to Chad Hansen for numerous constructive comments on an earlier dr
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [Chris Fraser](http://www.cjfraser.net/) <[*cjfraser@gmail.com*](mailto:cjfraser%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

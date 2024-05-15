@@ -444,7 +444,7 @@ Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验�
 
 直到最近，中立一元论（以其传统形式）似乎只是形而上学大舞台上的一个简短而不重要的附带节目。尽管三位主要人物——马赫、詹姆斯和罗素——是重要的人物，他们的思想深刻地影响了当代思想的许多领域，但他们对中立一元论的推测似乎已经从哲学舞台上消失了。但对传统版本中立一元论的当前兴趣浪潮，以及对中立一元论替代版本的活跃发展，表明中立一元论再次成为探索心灵形而上学的活跃选择。\[26]
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ahmed, Mafizuddin, 1989, *Bertrand Russell’s Neutral Monism*, New Delhi: Mittal Publications.
@@ -636,4 +636,4 @@ We would like to give a special thanks to Galen Strawson for many insightful dis
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Leopold Stubenberg](https://philosophy.nd.edu/people/emeritus/leopold-stubenberg/)\
 Donovan Wishon <[*dwishon@olemiss.edu*](mailto:dwishon%40olemiss%2eedu)>
-<!--md-padding-ignore-end-->
+

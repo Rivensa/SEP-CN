@@ -350,7 +350,7 @@ In this connection, Ortega was in accord with Croce’s notion that “we know t
 
 重建过去人类创造并投射自己进入他人思想的历史行为，突显了历史批判哲学通过时间的过程和意识将时间现实与思维连接起来的综合功能。通过与过去和现在进行这种形式的交流，奥尔特加的现象学思想与他的存在主义和历史主义观点相结合。这些观点的综合功能在个体行为、社会关系和历史中得以实现。正是这些方法的融合标志着奥尔特加对哲学的贡献。“过去的井非常深”，托马斯·曼在他的小说《约瑟夫与他的兄弟们》开篇写道。通过将人类的联系和意义带入历史时间和思维中，奥尔特加的历史批判哲学提供了一种综合，防止了过去的深井变得无底。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Works by Ortega
@@ -556,4 +556,4 @@ In this connection, Ortega was in accord with Croce’s notion that “we know t
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 Oliver Holmes <[*oholmes@wesleyan.edu*](mailto:oholmes%40wesleyan%2eedu)>
-<!--md-padding-ignore-end-->
+

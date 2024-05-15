@@ -158,7 +158,7 @@ Philip Goff（2010 年；另见他的 2017 年）认为，这种对 Russellian �
 
 > 尽管双方的论证变得越来越复杂，或许正因为如此，它们并没有变得更有说服力。每个方向都有强大的吸引力。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alter, T., 2007, ‘On the Conditional Analysis of Phenomenal Concepts’, *Philosophical Studies*, 134: 235–53.
@@ -278,4 +278,4 @@ Many thanks to David Chalmers and to Bill Fish for detailed comments and suggest
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Robert Kirk](http://www.nottingham.ac.uk/philosophy/staff/robert-kirk.php) <[*Robert.Kirk@nottingham.ac.uk*](mailto:Robert%2eKirk%40nottingham%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

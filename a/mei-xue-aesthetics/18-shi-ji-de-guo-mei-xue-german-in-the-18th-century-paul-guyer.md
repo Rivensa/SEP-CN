@@ -696,7 +696,7 @@ Herder 的审美体验的一般理论是，它是一种源于对自然真实秩�
 
 总之，康德在 18 世纪德国美学中占据了核心地位，尽管他并非这一时期唯一重要的人物。相反，他以一种微妙而复杂的方式综合了沃尔夫派代表的真理美学，尤其是道德真理美学，以及门德尔松和苏尔策代表的游戏美学，抵制了席勒和赫尔德试图对他施加的简化。与此同时，康德拒绝将情感的唤起视为审美体验本身的重要性，因此拒绝了由鲍姆加滕和迈尔承认并由门德尔松进行了详细分析的审美体验的这一方面。因此，康德对审美体验方法的综合并不完全。然后可以预期，在康德之后的时期，美学史将转向将情感冲击整合到复杂的审美体验理论中的任务。然而，事实并非如此，因为黑格尔和叔本华都发展出了纯认知主义美学的不同版本，拒绝了康德的游戏理论，并且比康德更加淡化了审美体验的情感冲击。直到 19 世纪的其余时间才将 18 世纪发展起来的三种美学方法整合起来。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -1024,4 +1024,4 @@ Work on this entry was facilitated by a Laurance S. Rockefeller Visiting Fellows
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Paul Guyer](http://www.brown.edu/academics/philosophy/paul-guyer) <[*paul_guyer@brown.edu*](mailto:paul_guyer%40brown%2eedu)>
-<!--md-padding-ignore-end-->
+

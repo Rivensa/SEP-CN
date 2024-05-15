@@ -424,7 +424,7 @@ and
 
 塞拉斯具有广阔的视野，但并不回避细节工作。他是一位“哲学家的哲学家”；他的论文复杂而困难，挑战性大，但掌握后收获颇丰。从 1994 年开始，受塞拉斯的启发，他的前同事约翰·麦克道尔和罗伯特·B·布兰多姆等人的出版物逐渐增多，对塞拉斯的研究兴趣在美国和国外都在稳步增长。以塞拉斯为主题或受其启发的出版物和会议现在很常见。例如，2015 年，北美、欧洲和中东都举办了重要的塞拉斯研讨会。自上一次修订本文以来，关于塞拉斯的文献数量大幅增加。塞拉斯的哲学足够丰富，可以为不同的哲学倾向提供一个框架，使它们能够找到足够的共同点来进行有益的交流。塞拉斯研究一直被“右翼塞拉斯派”（例如帕特里夏和保罗·柴奇兰、鲁思·米利坎、杰伊·罗森伯格）和“左翼塞拉斯派”（例如罗蒂、麦克道尔和布兰多姆）之间的冲突所主导。右翼塞拉斯派强调塞拉斯的科学实在论和名词主义，而左翼塞拉斯派则强调塞拉斯对规则和规范的不可约化和社会性。塞拉斯的表达主义在这两个派别中都引起了越来越多的关注。最近，一代年轻人开始构建一个更细致的塞拉斯发展故事。这可能有助于更好地阐明塞拉斯哲学的结构，并可能带来新的潜力认识。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Principal Works by Wilfrid Sellars
@@ -680,4 +680,4 @@ There is an almost universally used standard citation format for Sellars’s wor
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Willem deVries](https://mypages.unh.edu/wad/bio) <[*willem.devries@unh.edu*](mailto:willem%2edevries%40unh%2eedu)>
-<!--md-padding-ignore-end-->
+

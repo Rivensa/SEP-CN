@@ -187,7 +187,7 @@ Fine 的反位置主义版本有一定的局限性，包括假设由单个关系
 
 总之，应强调的是，这里所写的内容并不意味着只有一个秩序问题（差异应用）。很可能在附近存在几个问题，无论是逻辑的、形而上学的还是认识论的，它们将需要不同但协调的解决方案。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Allaire, E.B., 1978, “Relations: Recreational Remarks”, *Philosophical Studies*, 34: 81–89.
@@ -357,4 +357,4 @@ I am grateful to Stephen Barnett and especially Jeremy Butterfield for close adv
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Fraser MacBride](https://www.research.manchester.ac.uk/portal/fraser.macbride.html) <[*fraser.macbride@manchester.ac.uk*](mailto:fraser%2emacbride%40manchester%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

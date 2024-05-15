@@ -324,7 +324,7 @@ Dale Jamieson（2010: 272–273）和 Steve Vanderheiden（2008: 107–109 和�
 
 其次，值得注意的是，认真对待气候正义可能会对现有的经济制度和意识形态（如对经济增长的重视）以及政治制度产生重大影响（Gardiner 2011; Jamieson 2014）。一些批评现状的人认为资本主义无法应对气候变化。一些人怀疑我们当代的制度架构能否应对人类当前面临的挑战。对这些说法的评估显然需要广泛的经验分析。只有借助气候科学、历史、政治学、经济学、人类学、政治经济学、社会学、科学技术研究和法律，我们才能开始应对这些说法。但是哲学分析也有其作用，没有对气候正义的理解，我们就没有指引我们的指南针。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Agarwal, Anil and Sunita Narain, 1991, *Global Warming in an Unequal World: A Case of Environmental Colonialism*, New Delhi: Centre for Science and Environment.
@@ -425,4 +425,4 @@ Dale Jamieson（2010: 272–273）和 Steve Vanderheiden（2008: 107–109 和�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Simon Caney <[*s.caney@warwick.ac.uk*](mailto:s%2ecaney%40warwick%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

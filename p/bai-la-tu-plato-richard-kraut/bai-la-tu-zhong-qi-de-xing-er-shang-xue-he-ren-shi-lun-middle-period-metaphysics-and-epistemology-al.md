@@ -258,7 +258,7 @@ II 捕捉了每个形式是 monoeides 的本体力量：具有一个本质。根
 
 没有什么理由认为柏拉图主张上述讨论的知识整体论。柏拉图从未说过数学家或哲学家需要了解数学或伦理学的所有真理才能了解某种形式。此外，虽然柏拉图在《理想国》中规定了一套旨在促进辩证能力的学习课程，而且无论是整体主义者还是直觉主义者都同意，允许对形式有原子性或熟悉性的知识，但这并不意味着柏拉图认为只有一种方式可以获得对形式的知识。如果有不同的知识途径或了解给定形式的不同方式，那么柏拉图的认识论可能会显得既整体性又熟悉性。至于回忆何时何地起作用，或者柏拉图是否允许哲学家（或科学家）对物质世界有所了解，这取决于每个对话读者判断柏拉图是否致力于在大多数人的普通概念和少数哲学家的特殊概念之间以及完美的形式和看似不完美的物质世界之间存在差距。由于柏拉图的对话是一种辩证对话，旨在唤起读者的思维进行哲学思考，因此每个读者都应该努力自己发现什么是知识。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Ackrill, J.L., 1973, ‘Anamnesis in the *Phaedo*: Remarks on 73c-75c,’ in *Exegesis and Argument*, E. Lee, A. Mourelatos, and R. Rorty (eds.), New York: Humanities Press, 177–95.
@@ -400,4 +400,4 @@ II 捕捉了每个形式是 monoeides 的本体力量：具有一个本质。根
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 [Allan Silverman](https://philosophy.osu.edu/people/silverman.3/) <[*silverman.3@osu.edu*](mailto:silverman%2e3%40osu%2eedu)>
-<!--md-padding-ignore-end-->
+

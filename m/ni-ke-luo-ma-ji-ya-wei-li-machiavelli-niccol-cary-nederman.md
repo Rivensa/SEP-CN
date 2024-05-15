@@ -180,7 +180,7 @@ Not only are the people competent to discern the best course of action when orat
 
 然而，在学术界中，很少有明确的结论出现。（关于马基雅维利的当前研究的不稳定状态在约翰斯顿等人 2017 年的著作中得到了很好的体现。）对于无法解决这些关于“现代性”和“独创性”的问题的一个合理解释是，马基雅维利在某种程度上陷入了创新与传统之间的困境，处于 via antiqua 和 via moderna 之间（采用了珍妮特·科尔曼 1995 年的用法），这在他的整个思想以及个别文本中产生了内在的概念紧张。这种历史上的模糊性使学者们能够就他的基本立场提出相互矛盾的论断，而不会对他的教义进行严重的扭曲。这一观点与某些学者的指责不同，他们认为马基雅维利基本上是不一致的（参见布莱克 2022 年）或者仅仅受到“局部”议程的驱使（塞伦扎 2015 年）。相反，马基雅维利政治思想中显著的特点应该归功于历史环境和思想可能性之间的不协调。马基雅维利成为一个令人困惑但又令人激发思考的思想家的原因在于，他试图从他的观众的普遍期望中得出不同的结论，但他仍然融入了他所挑战的传统的重要特征。尽管他一再强调自己的独创性（例如，《君主》CW 10, 57–58），但他对现有传统的认真关注意味着他永远无法完全摆脱他的思想限制。因此，马基雅维利实际上不应该被归类为纯粹的“古代”或“现代”，而应该被定位在两者之间的空隙中（这一点最近被佩杜拉 2023 年强调，他认为“马基雅维利类似于神话中的雅努斯，罗马的开端和结束之神…”[xi]）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources in Italian
@@ -283,4 +283,4 @@ Not only are the people competent to discern the best course of action when orat
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Cary Nederman](http://pols.tamu.edu/about-us/faculty-directory/cary-j-nederman-professor/) <[*cary-j-nederman@tamu.edu*](mailto:cary-j-nederman%40tamu%2eedu)>
-<!--md-padding-ignore-end-->
+

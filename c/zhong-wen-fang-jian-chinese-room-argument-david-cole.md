@@ -339,7 +339,7 @@ Copeland 讨论了与大脑模拟/复制区别有关的问题。他认为塞尔�
 
 虽然相隔三个世纪，莱布尼茨和西尔在各自的思想实验中对所考虑的系统有着类似的直觉，莱布尼茨的磨坊和中国屋。在这两种情况下，他们考虑到一个由相对简单的操作组成的复杂系统，并指出很难看出理解或意识如何产生。这些简单的论证帮助我们突出了我们在理解意义和心智方面所面临的严重问题。中国屋论证引发的许多问题可能要等到关于意义的本质、它与句法的关系以及意识的生物学基础达成共识之前才能得到解决。关于什么过程创造意义、理解和意识，以及什么可以通过先验思想实验得到证明，仍然存在着重大分歧。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Apple Inc., 2014, ‘[IOS 7 Siri](http://www.apple.com/ios/siri/)’, accessed 1/10/2014.
@@ -464,4 +464,4 @@ Copeland 讨论了与大脑模拟/复制区别有关的问题。他认为塞尔�
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
 [David Cole](http://www.d.umn.edu/\~dcole/) <[*dcole@d.umn.edu*](mailto:dcole%40d%2eumn%2eedu)>
-<!--md-padding-ignore-end-->
+

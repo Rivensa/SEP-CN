@@ -68,7 +68,7 @@ Vives’ criticism of scholastic logic hinges on a profound analysis of the arts
 
 在 19 世纪下半叶和 20 世纪前几十年里，维夫斯的著作被诸如欧内斯特·勒南（1823-1892）、弗里德里希·阿尔伯特·朗格（1828-1875）、威廉·迪尔泰（1833-1911）、皮埃尔·杜埃姆（1861-1916）、恩斯特·卡西勒（1874-1945）和何塞·奥尔特加·伊·加塞特（1883-1955）等哲学家所阅读和研究。朗格认为他是他那个时代最重要的哲学改革者之一，也是培根和笛卡尔的先驱者之一。根据奥尔特加·伊·加塞特的观点，维夫斯的方法坚实地基于经验，并强调建立一个新文化的必要性，这个文化不是建立在贫瘠的推测上，而是建立在知识的实用性上，预示了现代时代精神的一些元素。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Sources
@@ -171,4 +171,4 @@ Citations by volume and page only are to the Mayans y Siscár edition of the *O
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
 Lorenzo Casini <[*lorenzo.casini@filosofi.uu.se*](mailto:lorenzo%2ecasini%40filosofi%2euu%2ese)>
-<!--md-padding-ignore-end-->
+

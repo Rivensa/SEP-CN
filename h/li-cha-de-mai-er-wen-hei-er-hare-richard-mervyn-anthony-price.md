@@ -246,7 +246,7 @@ Within meta-ethics, however, Hare was inclined to suppose that such variations f
 
 > 补充文件：[黑尔的《关于一元论的论文》](https://plato.stanford.edu/entries/hare/supplement.html)
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -372,4 +372,4 @@ With the kind permission of the British Academy, this present piece abbreviates 
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Anthony Price](http://www.bbk.ac.uk/philosophy/our-staff/academics/price) <[*a.price@bbk.ac.uk*](mailto:a%2eprice%40bbk%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

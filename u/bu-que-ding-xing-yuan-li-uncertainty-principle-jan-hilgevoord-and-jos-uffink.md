@@ -463,7 +463,7 @@ D(μ,μ′) := infγ(∬(x−y)2γ(x,y)dxdy)1/2(33)
 
 总结一下，我们强调 BLW 分析与 Ozawa 分析之间没有矛盾：Ozawa 声称对于某些状态，两个量的乘积可能小于通常的限制，而 BLW 表明不同量的乘积将满足这个限制。争议不在于数学上的有效性，而在于这些量是否合理地捕捉到了海森堡的定性考虑。我们认为，在这场争议中，Ozawa 的分析并不令人信服。另一方面，我们也认为 BLW 的不确定性关系并不令人满意。此外，我们还想指出，双方都使用了类似于标准差的度量，对概率分布的尾部行为非常敏感，因此面临着类似于第 5 节提出的相似反对意见。在我们看来，关于是否存在测量不确定性原理的争论尚未达成最终结论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Bacciagaluppi, G. and A. Valentini, 2009, *Quantum Theory at the Crossroads; reconsidering the 1927 Solvay Conference*, Cambridge: Cambridge University Press.
@@ -560,4 +560,4 @@ D(μ,μ′) := infγ(∬(x−y)2γ(x,y)dxdy)1/2(33)
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
 Jan Hilgevoord  
 [Jos Uffink](http://www.philosophy.umn.edu/people/FacultyProfile.php?UID=jbuffink) <[*jbuffink@umn.edu*](mailto:jbuffink%40umn%2eedu)>
-<!--md-padding-ignore-end-->
+

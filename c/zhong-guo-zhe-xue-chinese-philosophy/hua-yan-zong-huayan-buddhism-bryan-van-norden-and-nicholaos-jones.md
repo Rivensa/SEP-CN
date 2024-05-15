@@ -202,7 +202,7 @@ Chengguan 将慧远的_判教_视为他对禅修实践理解贫乏的产物。�
 
 华严宗在中国、韩国和日本作为一个独特的宗教运动基本上已经消失，然而，华严宗的经典继续被研究，并且对禅宗（日本的_Zen_）产生了特别大的影响。华严宗也对其他哲学产生了重要影响。所谓的“新儒家宣言”主张东方的“圆融和精神智慧”与西方的“方正”智慧相对立（参见 Harris（翻译），第 11 部分，其他网络资源）。尽管他们将这种区别的最终源头确定为《易经》，但他们对其的描述让人想起了“圆融”智慧的倡导者_panjiao_理论家。此外，作为“宣言”合著者之一，牟宗三对华严宗进行了广泛而富有同情心的论述。在当代哲学家中，格雷厄姆·普里斯特（2015）展示了如何利用非标准集合论来形式化华严宗的本体论。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Broughton, Jeffrey L., 2004, “Tsung-mi’s *Zen Prolegomenon*: Introduction to an Exemplary Zen Canon.” *The Zen Canon: Understanding the Classic Texts*, edited by Steve Heine and Dale S. Wright, New York: Oxford University Press, 11–51.
@@ -288,4 +288,4 @@ Chengguan 将慧远的_判教_视为他对禅修实践理解贫乏的产物。�
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Bryan Van Norden](http://www.bryanvannorden.com/) <[*brvannorden@vassar.edu*](mailto:brvannorden%40vassar%2eedu)>\
 [Nicholaos Jones](http://www.uah.edu/njones/) <[*nick.jones@uah.edu*](mailto:nick%2ejones%40uah%2eedu)>
-<!--md-padding-ignore-end-->
+

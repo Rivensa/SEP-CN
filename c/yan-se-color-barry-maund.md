@@ -348,7 +348,7 @@ Thompson 坚持认为，这种观点应该与洛克的倾向主义观点和颜�
 
 近年来对颜色哲学的另一个重要贡献是 Matthen（2005）的著作。在这部作品中，Matthen 阐述了一种感知理论，其中颜色起着重要作用。这项工作对他提出的颜色理论具有重要意义，这一理论在很大程度上依赖于对不同物种颜色视觉的比较研究。Matthen 通过一种更符合汤普森所青睐的生态理论的描述，取代了他早期关于颜色的客观主义观点。Matthen 赞同 Hardin、汤普森和其他人的观点，即颜色的现象学并未被任何标准客观主义观点所捕捉或解释。然而，他声称自己在捍卫一种颜色的现实主义理论，并拒绝标准的非现实主义理论，包括 Hardin 的理论。Matthen 的描述是复杂的。其观点是，感官（视觉感知系统）确实会将物体归类为“蓝色”、“黄色”等，但这些特质与感知者可以执行的行为以及特别是“认识机会”相关。感官系统被认为是一种设备，其任务是将远距刺激（物理物体）分类为具有某些属性的物体，这些属性之间存在相似性和差异性关系。这些类别是由系统构建的，并且至少在颜色的情况下，并不对应于独立于感知者的任何客观属性。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abramov, Israel, 1997, “Physiological Mechanism of Color Vision”, in C.L. Hardin and Luisa Maffi (eds.), 1997, *Color Categories in Thought and Language*, Cambridge: Cambridge University Press, pp. 89–117. doi:10.1017/CBO9780511519819.004
@@ -529,4 +529,4 @@ Thompson 坚持认为，这种观点应该与洛克的倾向主义观点和颜�
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 Barry Maund <[*jbmaund@bigpond.com*](mailto:jbmaund%40bigpond%2ecom)>
-<!--md-padding-ignore-end-->
+

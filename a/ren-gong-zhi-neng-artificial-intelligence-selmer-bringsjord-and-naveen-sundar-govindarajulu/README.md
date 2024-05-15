@@ -516,7 +516,7 @@ Searle（2014）认为 Bostrom 的书是误导性的和基本错误的，我们�
 
 这不仅是科学家和工程师的问题，也是哲学家的问题。有两个原因。首先，为了验证肯定的答案，研究和开发必须包括哲学 - 这是基于本文前面部分的原因。（例如，哲学是用机器术语建模人类命题态度的强大形式主义的场所。）其次，哲学家可能能够提供明确回答基石问题的论证。如果上述提到的反对“强”人工智能的三个论证（西尔的中国房地产协会；哥德尔的攻击；德雷福斯的论证）中的任何一个版本是正确的，那么当然人工智能将无法制造具有人类心智能力的机器。毫无疑问，未来不仅会有越来越聪明的机器，还会有关于这个问题的赞成和反对的新论证，即是否能达到笛卡尔所宣称的无法达到的人类水平。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Adams, E. W., 1996, *A Primer of Probability Logic*, Stanford, CA: CSLI.
@@ -788,4 +788,4 @@ Thanks are due to Peter Norvig and Prentice-Hall for allowing figures from *AIM
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
 [Selmer Bringsjord](http://www.rpi.edu/~brings) <[*Selmer.Bringsjord@gmail.com*](mailto:Selmer%2eBringsjord%40gmail%2ecom)>  
 Naveen Sundar Govindarajulu <[*Naveen.Sundar.G@gmail.com*](mailto:Naveen%2eSundar%2eG%40gmail%2ecom)>
-<!--md-padding-ignore-end-->
+

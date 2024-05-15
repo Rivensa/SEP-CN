@@ -555,10 +555,10 @@ Gryb 等人（2018）将在这种情况下似乎需要的普遍性论证与在�
 
 此外，这里还有更多的怀疑空间。有初步的强有力的论据表明，霍金辐射的类比应该在各种系统中显现出来，作为一种纯粹的运动效应，直接来自所有这些系统满足的几个简单的运动原理（Unruh 2014）。然而，真正的引力黑洞在许多广泛而深刻的方面与所有提出的类比系统都有根本的不同，就像广义相对论作为一种物理理论与那些其他类型系统的所有理论也有根本的不同。正如第 6.1 节讨论的辩论和分歧所示，霍金辐射的基本物理学可能还不够理解，无法确信在纯粹的引力系统中是否存在一些混淆的物理因素，而这些因素在任何类比系统中都不存在，这些因素会阻止真正的黑洞产生霍金辐射。换句话说，除了基于纯粹理论的论证，涉及到我们完全没有经验和接触的系统，似乎没有初步的理由相信普遍性条件成立。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
-#<!--md-padding-ignore-begin-->
+
 ## Bibliography: Philosophy
 
 * Albert, David Z., 2000, *Time and Chance*, Cambridge, MA: Harvard University Press
@@ -616,7 +616,7 @@ Gryb 等人（2018）将在这种情况下似乎需要的普遍性论证与在�
 * Williams, Porter, 2017, “Scientific Realism Made Effective”, *British Journal for Philosophy of Science*, published online: 30 August 2017, doi:10.1093/bjps/axx043
 * Wüthrich, Christian, 2017, “Raiders of the Lost Spacetime”, in Lehmkuhl et al. 2017: 297–335 (ch. 11). doi:10.1007/978-1-4939-3210-8_11
 
-#<!--md-padding-ignore-begin-->
+
 ## Bibliography: Physics
 
 * Abbott, B. P., R. Abbott, T. D. Abbott, M. R. Abernathy, F. Acernese, K. Ackley, C. Adams et al., (LIGO Scientific Collaboration and Virgo Collaboration), 2016, “Observation of Gravitational Waves from a Binary Black Hole Merger”, *Physical Review Letters*, 116(6): 061102. doi:10.1103/PhysRevLett.116.061102 [[preprint available online](http://arxiv.org/abs/1602.03837)].
@@ -806,7 +806,7 @@ Gryb 等人（2018）将在这种情况下似乎需要的普遍性论证与在�
 * Zel’dovi&ccirc;, Ya. B., 1970, “Generation of Waves by a Rotating Body”, *Journal of Experimental and Theoretical Physics Letters*, 14: 180–181
 * Zel’dovi&ccirc;, Ya. B. and L.P. Pitaevskiî, 1971, “On the Possibility of the Creation of Particles by a Classical Gravitational Field”, *Communications in Mathematical Physics*, 23(3): 185–188. doi:10.1007/BF01877740
 
-#<!--md-padding-ignore-begin-->
+
 ## Bibliography: Philosophy Reference
 
 * Batterman, Robert (ed.), 2013, *The Oxford Handbook of Philosophy of Physics*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195392043.001.0001
@@ -819,7 +819,7 @@ Gryb 等人（2018）将在这种情况下似乎需要的普遍性论证与在�
 * –––, 2012, *Topics in the Foundations of General Relativity and Newtonian Gravitational Theory*, Chicago: University of Chicago Press.
 * Manchak, John Byron, 2013, “Global Space Time Structure”, in Batterman 2013. doi:10.1093/oxfordhb/9780195392043.013.0017
 
-#<!--md-padding-ignore-begin-->
+
 ## Bibliography: Physics Reference
 
 * Ashtekar, Abhay and Vesselin Petkov (eds.), 2014, *Springer Handbook of Spacetime*, Berlin: Springer-Verlag. doi:10.1007/978-3-642-41992-8
@@ -882,4 +882,4 @@ Parts of Sections 1.1–1.3, 2, 3.1–3.2, 5.2, and 6.2 are based on the [first
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
 [Erik Curiel](http://strangebeautiful.com/) <[*erik@strangebeautiful.com*](mailto:erik%40strangebeautiful%2ecom)>
-<!--md-padding-ignore-end-->
+

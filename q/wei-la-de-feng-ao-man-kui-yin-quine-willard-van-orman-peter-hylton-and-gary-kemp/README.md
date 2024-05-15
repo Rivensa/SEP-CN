@@ -291,7 +291,7 @@ Carnap 认为哲学的作用是分析和澄清科学语言，并制定和推荐�
 
 一方面，奎因的工作极具影响力，并在二十世纪下半叶和二十一世纪塑造了哲学的发展方向。另一方面，奎因直接或间接影响的许多工作都是他认为非常误导的。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Quine’s complete corpus
@@ -413,4 +413,4 @@ We are grateful to Dagfinn Føllesdal, Andrew Lugg, and Ed Zalta for their comme
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
 [Peter Hylton](https://phil.uic.edu/philosophy/people/faculty/hylton) <[*hylton@uic.edu*](mailto:hylton%40uic%2eedu)>  
 [Gary Kemp](http://www.gla.ac.uk/schools/humanities/staff/garykemp/) <[*gary.kemp@glasgow.ac.uk*](mailto:gary%2ekemp%40glasgow%2eac%2euk)>
-<!--md-padding-ignore-end-->
+

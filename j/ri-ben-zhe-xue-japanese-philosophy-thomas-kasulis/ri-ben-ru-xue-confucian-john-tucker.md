@@ -288,7 +288,7 @@ Paramore 声称，在战后时期，丸山很快就转向了日本儒学研究�
 
 在类似的情况下，日本哲学国际协会（IAJP）于 2014 年由《日本哲学杂志》的编辑们创立，通过定期举办会议和专题讨论，提供了讨论日本哲学各种主题和主题的机会，包括日本儒学，将后者保持在主流而非禁忌的前进方向。最近对“绿色儒学”的呼吁，即强调儒家传统中与环境相关的维度，这可能为日本哲学思维中环境哲学的扩展奠定基础，也为该传统的持续相关性做出了贡献，超越了家庭道德、祖先崇拜以及社会和政治领域的基本道德。 “绿色儒学”只是儒家思想在日本现代性不断演变的背景下的众多可能再表达之一，它与儒家宇宙观思想以及其伦理、社会政治和精神教义一起，确立了儒家思想的永恒意义。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Abe, Yoshio, 1965. *Nihon Shushigaku to Chōsen*, Tōkyō: Tōkyō daigaku shuppansha.
@@ -385,4 +385,4 @@ Paramore 声称，在战后时期，丸山很快就转向了日本儒学研究�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
 [John Tucker](http://www.ecu.edu/cs-cas/history/Tucker.cfm) <[*tuckerjo@ecu.edu*](mailto:tuckerjo%40ecu%2eedu)>
-<!--md-padding-ignore-end-->
+

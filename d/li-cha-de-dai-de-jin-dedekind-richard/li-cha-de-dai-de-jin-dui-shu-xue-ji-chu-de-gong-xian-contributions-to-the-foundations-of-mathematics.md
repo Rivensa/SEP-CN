@@ -176,7 +176,7 @@ Dedekind 的方法论的重要性能否进一步展现出来？或者能否用�
 
 如果我们从这样的角度来看 Dedekind 的贡献，总体来说令人印象深刻。他不仅是十九世纪最伟大的数学家之一，也是最微妙的数学哲学家之一。凭借他关于数学实体的性质以及如何研究它们的结构主义观点，他远远领先于他的时代。他甚至领先于许多当前的数学哲学，尤其是对双方的敏感性。这并不是说他的立场没有问题。Dedekind 自己对集合论的反悖论感到困扰，尤其是最初。而且二十世纪还产生了其他令人难以接受的惊喜，比如哥德尔的不完全性定理。此外，数学的方法论自他的时代以来已经进一步发展，包括试图调和和整合“概念性”和“计算性”思维，例如在计算机辅助证明中。然而，今天是否有一个哲学立场能够令人满意地回答所有关于数学的重要问题？如果没有，更新和复兴 Dedekind 的立场可能是一个值得的项目。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature (German Editions, English Translations)
@@ -386,4 +386,4 @@ This entry has benefited from comments, criticisms, and other feedback by Jeremy
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 Erich Reck <[*erich.reck@ucr.edu*](mailto:erich%2ereck%40ucr%2eedu)>
-<!--md-padding-ignore-end-->
+

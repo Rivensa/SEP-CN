@@ -144,7 +144,7 @@ Moore 的重要贡献之一是提出了“有机统一”或“有机整体”�
 
 自 20 世纪初以来，功利主义经历了各种改进。20 世纪中叶以后，越来越多的哲学家开始将其称为“后果主义”，因为很少有哲学家完全同意古典功利主义者提出的观点，特别是关于享乐主义价值理论的观点。但是古典功利主义者的影响深远，不仅在道德哲学中，还在政治哲学和社会政策中。本塔姆提出的“有什么用？”这个问题是政策制定的基石。这是一个完全世俗的、面向未来的问题。对政策制定方法的表述和系统发展归功于古典功利主义者。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 ### Primary Literature
@@ -206,4 +206,4 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) for no
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
 Julia Driver <[*julia.driver@austin.utexas.edu*](mailto:julia%2edriver%40austin%2eutexas%2eedu)>
-<!--md-padding-ignore-end-->
+

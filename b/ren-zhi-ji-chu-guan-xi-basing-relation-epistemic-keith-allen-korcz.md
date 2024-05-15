@@ -206,7 +206,7 @@ Keith Allen Korcz 对因果信念论的版本，有些简化，如下所示（Ko
 
 最后，可以发展出关于认知合理性的各种形式的怀疑的新论证，这些论证侧重于基于不当理由的信念，尽管这样的论证仍然很少被探索。一个例外是乔纳森·沙弗（Jonathan Schaffer）在讨论贬低恶魔（Schaffer 2010）时提出的。与笛卡尔的恶魔不同，贬低恶魔可能使人的信念保持真实，理由充分，但是“交叉线路”，使得信念仅仅基于不能证明它们的理由。这种恶魔的努力可能包括对信念基于何种理由的错误看法。沙弗认为，贬低恶魔甚至让我们失去了笛卡尔的“我思故我在”的基础，因为人可能会被误导，不知道自己存在的信念基于何种理由。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alston, W., 1986. “Internalism and Externalism in Epistemology”, in Alston 1989: 185–226.
@@ -290,4 +290,4 @@ Keith Allen Korcz 对因果信念论的版本，有些简化，如下所示（Ko
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Keith Allen Korcz](http://www.ucs.louisiana.edu/\~kak7409/) <[*keithk@louisiana.edu*](mailto:keithk%40louisiana%2eedu)>
-<!--md-padding-ignore-end-->
+

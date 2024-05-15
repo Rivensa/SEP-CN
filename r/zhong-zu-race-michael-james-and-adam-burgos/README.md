@@ -156,7 +156,7 @@ Stephen Cornell 和 Douglas Hartmann（1998）对种族和族裔概念的区别�
 
 Ladelle McWhorter 使用福柯的讲座来对更近期和地点的种族主义和性压迫进行系谱学研究。根据 McWhorter 的说法，“二十世纪盎格鲁美国的种族主义必须在福柯对规范化的研究中加以理解”，在这里，种族主义存在于对偏离、异常和病态的追求中（2009 年，12 页）。在福柯对种族战争话语的分析基础上，McWhorter 进行了种族的系谱学研究，最终认为种族和性别“在历史上是相互依存和相互决定的”（2009 年，14 页）。盎格鲁美国关于种族的话语因此与关于优生学、家庭、性侵犯、正常性和人口管理的话语联系在一起，所有这些都在福柯所称的生物权力网络中发挥作用（2009 年，15 页）。安·劳拉·斯托勒（1995 年）在殖民主义和帝国的背景下对福柯对种族的处理进行了延伸重建和批评。乔伊·詹姆斯甚至更进一步，认为福柯对于思考种族没有任何用处（1996 年，第 1 章）。
 
-<!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Alcoff, L., 2006, *Visible Identities: Race, Gender, and the Self*, New York: Oxford University Press.
@@ -325,4 +325,4 @@ Ladelle McWhorter 使用福柯的讲座来对更近期和地点的种族主义�
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
 [Michael James](https://www.bucknell.edu/fac-staff/michael-james) <[*mjames@bucknell.edu*](mailto:mjames%40bucknell%2eedu)>  
 [Adam Burgos](https://www.adamburgos.com/) <[*adam.burgos@bucknell.edu*](mailto:adam%2eburgos%40bucknell%2eedu)>
-<!--md-padding-ignore-end-->
+
