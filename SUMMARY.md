@@ -1112,7 +1112,7 @@
   * [黑格尔的社会与政治哲学 social and political philosophy (Thom Brooks)](h/ge-ao-er-ge-wei-lian-fu-li-de-li-xi-hei-ge-er-hegel-georg-wilhelm-friedrich-paul-redding/hei-ge-er-de-she-hui-yu-zheng-zhi-zhe-xue-social-and-political-philosophy-thom-brooks.md)
 * [马丁·海德格尔 Heidegger, Martin (Michael Wheeler)](h/ma-ding-hai-de-ge-er-heidegger-martin-michael-wheeler/README.md)
   * [海德格尔的美学 aesthetics (Iain Thomson)](h/ma-ding-hai-de-ge-er-heidegger-martin-michael-wheeler/hai-de-ge-er-de-mei-xue-aesthetics-iain-thomson.md)
-* [基督教思想中的地狱与天堂——见基督教思想中的天堂与地狱 hell and heaven in Christian thought — see heaven and hell in Christian thought](h/ji-du-jiao-si-xiang-zhong-de-di-yu-yu-tian-tang-jian-ji-du-jiao-si-xiang-zhong-de-tian-tang-yu-di-yu.md)
+* [\*基督教思想中的地狱与天堂——见基督教思想中的天堂与地狱 hell and heaven in Christian thought — see heaven and hell in Christian thought](h/ji-du-jiao-si-xiang-zhong-de-di-yu-yu-tian-tang-jian-ji-du-jiao-si-xiang-zhong-de-tian-tang-yu-di-yu.md)
 * [赫尔曼·冯·亥姆霍兹 Helmholtz, Hermann von (Lydia Patton)](h/he-er-man-feng-hai-mu-huo-zi-helmholtz-hermann-von-lydia-patton.md)
 * [卡尔·G·亨普尔 Hempel, Carl (James Fetzer)](h/ka-ergheng-pu-er-hempel-carl-james-fetzer.md)
 * [米歇尔·亨利 Henry, Michel (Frédéric Seyler)](h/mi-xie-er-heng-li-henry-michel-frdric-seyler.md)
