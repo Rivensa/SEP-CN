@@ -1217,7 +1217,7 @@
 * [\*价值不可共量——见价值：价值不可共量 incomparable values — see value: incommensurable](i/jia-zhi-bu-ke-gong-liang-jian-jia-zhi-jia-zhi-bu-ke-gong-liang-incomparable-values-see-value-incomme.md)
 * [\*不相容论 incompatibilism](i/bu-xiang-rong-lun-incompatibilism/README.md)
   * [自由意志的不相容主义（非决定性）理论 (nondeterministic) theories of free will (Randolph Clarke, Justin Capes, and Philip Swenson)](i/bu-xiang-rong-lun-incompatibilism/zi-you-yi-zhi-de-bu-xiang-rong-zhu-yi-fei-jue-ding-xing-li-lun-nondeterministic-theories-of-free-wil.md)
-  * [不相容论的论证 arguments for (Kadri Vihvelin)](i/bu-xiang-rong-lun-incompatibilism/bu-xiang-rong-lun-de-lun-zheng-arguments-for-kadri-vihvelin.md)
+  * [自由意志的不相容论论证 arguments for (Kadri Vihvelin)](i/bu-xiang-rong-lun-incompatibilism/bu-xiang-rong-lun-de-lun-zheng-arguments-for-kadri-vihvelin.md)
 * [指代词 indexicals (David Braun)](i/zhi-dai-ci-indexicals-david-braun.md)
 * [\*印度哲学 Indian Philosophy (Classical)](i/yin-du-zhe-xue-indian-philosophy-classical/README.md)
   * [古典印度哲学中的情感概念 concept of emotion (Joerg Tuske)](i/yin-du-zhe-xue-indian-philosophy-classical/gu-dian-yin-du-zhe-xue-zhong-de-qing-gan-gai-nian-concept-of-emotion-joerg-tuske.md)
