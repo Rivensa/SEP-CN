@@ -1,4 +1,4 @@
-# 不相容论的论证 arguments for (Kadri Vihvelin)
+# 自由意志的不相容论的论证 arguments for (Kadri Vihvelin)
 
 *首次发表于 2003 年 10 月 14 日；实质性修订于 2022 年 8 月 22 日*
 
