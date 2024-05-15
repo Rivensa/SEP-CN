@@ -1228,7 +1228,7 @@
   * [古典印度哲学中的自然主义 naturalism (Amita Chatterjee)](i/yin-du-zhe-xue-indian-philosophy-classical/gu-dian-yin-du-zhe-xue-zhong-de-zi-ran-zhu-yi-naturalism-amita-chatterjee.md)
   * [古典印度哲学中的知觉经验与概念 perceptual experience and concepts (Monima Chadha)](i/yin-du-zhe-xue-indian-philosophy-classical/gu-dian-yin-du-zhe-xue-zhong-de-zhi-jue-jing-yan-yu-gai-nian-perceptual-experience-and-concepts-moni.md)
   * [古典印度哲学中的人格 personhood (Monima Chadha)](i/yin-du-zhe-xue-indian-philosophy-classical/gu-dian-yin-du-zhe-xue-zhong-de-ren-ge-personhood-monima-chadha.md)
-* [方法论的个人主义 individualism, methodological (Joseph Heath)](i/fang-fa-lun-de-ge-ren-zhu-yi-individualism-methodological-joseph-heath.md)
+* [方法论个人主义 individualism, methodological (Joseph Heath)](i/fang-fa-lun-de-ge-ren-zhu-yi-individualism-methodological-joseph-heath.md)
 * [\*生物学个体——见生物学个体 individuals, biological — see biological individuals](i/sheng-wu-xue-ge-ti-jian-sheng-wu-xue-ge-ti-individuals-biological-see-biological-individuals.md)
 * [\*归纳 induction](i/gui-na-induction/README.md)
   * [归纳问题 problem of (Leah Henderson)](i/gui-na-induction/gui-na-wen-ti-problem-of-leah-henderson.md)
