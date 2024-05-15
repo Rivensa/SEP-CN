@@ -1120,7 +1120,7 @@
 * [赫拉克利特 Heraclitus (Daniel W. Graham)](h/he-la-ke-li-te-heraclitus-daniel-w.-graham.md)
 * [约翰·弗里德里希·赫尔巴特 Herbart, Johann Friedrich (Alan Kim)](h/yue-han-fu-li-de-li-xi-he-er-ba-te-herbart-johann-friedrich-alan-kim.md)
 * [约翰·戈特弗里德·冯·赫尔德 Herder, Johann Gottfried von (Michael Forster)](h/yue-han-ge-te-fu-li-de-feng-he-er-de-herder-johann-gottfried-von-michael-forster.md)
-* [遗传度 heritability (Stephen M. Downes and Lucas Matthews)](h/yi-chuan-du-heritability-stephen-m.-downes-and-lucas-matthews/README.md)
+* [遗传力 heritability (Stephen M. Downes and Lucas Matthews)](h/yi-chuan-du-heritability-stephen-m.-downes-and-lucas-matthews/README.md)
   * [\*遗传系统——见遗传系统 inheritance systems — see inheritance systems](h/yi-chuan-du-heritability-stephen-m.-downes-and-lucas-matthews/yi-chuan-xi-tong-jian-yi-chuan-xi-tong-inheritance-systems-see-inheritance-systems.md)
 * [解释学 hermeneutics (Theodore George)](h/jie-shi-xue-hermeneutics-theodore-george.md)
 * [威廉·海特斯伯里 Heytesbury, William (Miroslav Hanke and Elzbieta Jung)](h/wei-lian-hai-te-si-bo-li-heytesbury-william-miroslav-hanke-and-elzbieta-jung.md)
