@@ -1255,7 +1255,7 @@
 * [罗曼·英伽登 Ingarden, Roman (Amie Thomasson)](i/luo-man-ying-qie-deng-ingarden-roman-amie-thomasson.md)
 * [\*内在性——见实体 inherence — see substance](i/nei-zai-xing-jian-shi-ti-inherence-see-substance.md)
 * [遗传系统 inheritance systems (Ehud Lamm)](i/yi-chuan-xi-tong-inheritance-systems-ehud-lamm.md)
-* [先天/后天的区分 innate/acquired distinction (Paul Griffiths and Stefan Linquist)](i/xian-tian-hou-tian-de-qu-fen-innateacquired-distinction-paul-griffiths-and-stefan-linquist.md)
+* [遗传性特征与获得性特征的区别 innate/acquired distinction (Paul Griffiths and Stefan Linquist)](i/xian-tian-hou-tian-de-qu-fen-innateacquired-distinction-paul-griffiths-and-stefan-linquist.md)
 * [\*先天 innateness](i/xian-tian-innateness/README.md)
   * [先天和当代认知理论 and contemporary theories of cognition (Jerry Samet and Deborah Zaitchik)](i/xian-tian-innateness/xian-tian-he-dang-dai-ren-zhi-li-lun-and-contemporary-theories-of-cognition-jerry-samet-and-deborah.md)
   * [围绕先天的历史争议 historical controversies (Jerry Samet)](i/xian-tian-innateness/wei-rao-xian-tian-de-li-shi-zheng-yi-historical-controversies-jerry-samet.md)
