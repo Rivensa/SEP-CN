@@ -1487,7 +1487,7 @@
   * [博弈语义 dialogical (Nicolas Clerbout and Zoe McConaughey)](l/luo-ji-xue-logic/bo-yi-yu-yi-dialogical-nicolas-clerbout-and-zoe-mcconaughey.md)
   * [动态认知逻辑 dynamic epistemic (Alexandru Baltag and Bryan Renne)](l/luo-ji-xue-logic/dong-tai-ren-zhi-luo-ji-dynamic-epistemic-alexandru-baltag-and-bryan-renne.md)
   * [认知逻辑 epistemic (Rasmus Rendsvig, John Symons, and Yanjing Wang)](l/luo-ji-xue-logic/ren-zhi-luo-ji-epistemic-rasmus-rendsvig-john-symons-and-yanjing-wang.md)
-  * [分析游戏的逻辑 for analyzing games (Johan van Benthem and Dominik Klein)](l/luo-ji-xue-logic/fen-xi-you-xi-de-luo-ji-for-analyzing-games-johan-van-benthem-and-dominik-klein.md)
+  * [博弈中的权力推理 for analyzing games (Johan van Benthem and Dominik Klein)](l/luo-ji-xue-logic/fen-xi-you-xi-de-luo-ji-for-analyzing-games-johan-van-benthem-and-dominik-klein.md)
   * [对博弈中权力的分析 for analyzing power in normal form games (Paolo Turrini and Thomas Ågotnes)](l/luo-ji-xue-logic/dui-bo-yi-zhong-quan-li-de-fen-xi-for-analyzing-power-in-normal-form-games-paolo-turrini-and-thomas.md)
   * [自由逻辑 free (John Nolt)](l/luo-ji-xue-logic/zi-you-luo-ji-free-john-nolt.md)
   * [模糊逻辑 fuzzy (Petr Cintula, Christian G. Fermüller, and Carles Noguera)](l/luo-ji-xue-logic/mo-hu-luo-ji-fuzzy-petr-cintula-christian-g.-fermller-and-carles-noguera.md)
