@@ -1494,7 +1494,7 @@
   * [逻辑与游戏 and games (Wilfrid Hodges and Jouko Väänänen)](l/luo-ji-xue-logic/luo-ji-yu-you-xi-and-games-wilfrid-hodges-and-jouko-vnnen.md)
   * [混合逻辑 hybrid (Torben Braüner)](l/luo-ji-xue-logic/hun-he-luo-ji-hybrid-torben-braner.md)
   * [\*古典印度哲学——见古典印度哲学：古典印度哲学中的逻辑学 in classical Indian philosophy — see Indian Philosophy (Classical): logic](l/luo-ji-xue-logic/gu-dian-yin-du-zhe-xue-jian-gu-dian-yin-du-zhe-xue-gu-dian-yin-du-zhe-xue-zhong-de-luo-ji-xue-in-cla.md)
-  * [独立性友好逻辑 independence friendly (Tero Tulenheimo)](l/luo-ji-xue-logic/du-li-xing-you-hao-luo-ji-independence-friendly-tero-tulenheimo.md)
+  * [独立友好逻辑 independence friendly (Tero Tulenheimo)](l/luo-ji-xue-logic/du-li-xing-you-hao-luo-ji-independence-friendly-tero-tulenheimo.md)
   * [归纳逻辑 inductive (James Hawthorne)](l/luo-ji-xue-logic/gui-na-luo-ji-inductive-james-hawthorne.md)
   * [无穷逻辑 infinitary (John L. Bell)](l/luo-ji-xue-logic/wu-qiong-luo-ji-infinitary-john-l.-bell.md)
   * [非形式逻辑 informal (Leo Groarke)](l/luo-ji-xue-logic/fei-xing-shi-luo-ji-informal-leo-groarke.md)
