@@ -1593,7 +1593,7 @@
   * [物质名词的形而上学 metaphysics of (Mark Steen)](m/wu-zhi-ming-ci-mass-expressions/wu-zhi-ming-ci-de-xing-er-shang-xue-metaphysics-of-mark-steen.md)
 * [物质构成 material constitution (Ryan Wasserman)](m/wu-zhi-gou-cheng-material-constitution-ryan-wasserman.md)
 * [\*唯物主义——见物理主义 materialism — see physicalism](m/wei-wu-zhu-yi-jian-wu-li-zhu-yi-materialism-see-physicalism/README.md)
-  * [取消唯物主义 eliminative (William Ramsey)](m/wei-wu-zhu-yi-jian-wu-li-zhu-yi-materialism-see-physicalism/qu-xiao-wei-wu-zhu-yi-eliminative-william-ramsey.md)
+  * [取消式唯物主义 eliminative (William Ramsey)](m/wei-wu-zhu-yi-jian-wu-li-zhu-yi-materialism-see-physicalism/qu-xiao-wei-wu-zhu-yi-eliminative-william-ramsey.md)
 * [\*数学相关 mathematical](m/shu-xue-xiang-guan-mathematical/README.md)
   * [数学解释 explanation (Paolo Mancosu, Francesca Poggiolesi, and Christopher Pincock)](m/shu-xue-xiang-guan-mathematical/shu-xue-jie-shi-explanation-paolo-mancosu-francesca-poggiolesi-and-christopher-pincock.md)
   * [\*风格——见风格：数学风格 style — see style: in mathematics](m/shu-xue-xiang-guan-mathematical/feng-ge-jian-feng-ge-shu-xue-de-feng-ge-style-see-style-in-mathematics.md)
