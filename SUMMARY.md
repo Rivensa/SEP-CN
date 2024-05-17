@@ -1625,7 +1625,7 @@
 * [\*把人作为手段——见把人作为手段 means, treating persons as — see treating persons as means](m/jiang-ren-zuo-wei-shou-duan-jian-jiang-ren-zuo-wei-shou-duan-means-treating-persons-as-see-treating.md)
 * [\*测量 measurement](m/ce-liang-measurement/README.md)
   * [科学中的测量 in science (Eran Tal)](m/ce-liang-measurement/ke-xue-zhong-de-ce-liang-in-science-eran-tal.md)
-* [科学机制 mechanism in science (Carl Craver and James Tabery)](m/ke-xue-ji-zhi-mechanism-in-science-carl-craver-and-james-tabery.md)
+* [科学中的机械论 mechanism in science (Carl Craver and James Tabery)](m/ke-xue-ji-zhi-mechanism-in-science-carl-craver-and-james-tabery.md)
 * [医学哲学 medicine, philosophy of (Julian Reiss and Rachel A. Ankeny)](m/yi-xue-zhe-xue-medicine-philosophy-of-julian-reiss-and-rachel-a.-ankeny.md)
 * [\*中国中医哲学——见中国哲学：中国哲学与中医 medicine: Chinese philosophy — see Chinese Philosophy: Chinese medicine](m/zhong-guo-zhong-yi-zhe-xue-jian-zhong-guo-zhe-xue-zhong-guo-zhe-xue-yu-zhong-yi-medicine-chinese-phi.md)
 * [中世纪哲学 medieval philosophy (John Marenbon)](m/zhong-shi-ji-zhe-xue-medieval-philosophy-john-marenbon/README.md)
