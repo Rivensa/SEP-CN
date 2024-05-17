@@ -1615,7 +1615,7 @@
   * [数学哲学中的柏拉图主义 Platonism (Øystein Linnebo)](m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/shu-xue-zhe-xue-zhong-de-bai-la-tu-zhu-yi-platonism-ystein-linnebo.md)
   * [数学哲学中的结构主义 structuralism (Erich Reck and Georg Schiemer)](m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/shu-xue-zhe-xue-zhong-de-jie-gou-zhu-yi-structuralism-erich-reck-and-georg-schiemer.md)
   * [\*维特根斯坦——见路德维希·维特根斯坦：维特根斯坦的数学哲学 Wittgenstein — see Wittgenstein, Ludwig: philosophy of mathematics](m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/wei-te-gen-si-tan-jian-lu-de-wei-xi-wei-te-gen-si-tan-wei-te-gen-si-tan-de-shu-xue-zhe-xue-wittgenst.md)
-* [约翰·麦克塔加特 McTaggart, John M. E. (Kris McDaniel)](m/yue-han-mai-ke-ta-jia-te-mctaggart-john-m.-e.-kris-mcdaniel.md)
+* [约翰·麦克塔格特 McTaggart, John M. E. (Kris McDaniel)](m/yue-han-mai-ke-ta-jia-te-mctaggart-john-m.-e.-kris-mcdaniel.md)
 * [乔治·赫伯特·米德 Mead, George Herbert (Mitchell Aboulafia and Scott Taylor)](m/qiao-zhi-he-bo-te-mi-de-mead-george-herbert-mitchell-aboulafia-and-scott-taylor.md)
 * [\*意义 meaning](m/yi-yi-meaning/README.md)
   * [意义与内容的规范性 normativity of (Kathrin Glüer, Åsa Wikforss, and Marianna Ganapini)](m/yi-yi-meaning/yi-yi-yu-nei-rong-de-gui-fan-xing-normativity-of-kathrin-gler-sa-wikforss-and-marianna-ganapini.md)
