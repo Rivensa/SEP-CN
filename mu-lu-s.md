@@ -331,11 +331,18 @@
 * [语言哲学 philosophy of (Barbara C. Scholz, Francis Jeffry Pelletier, Geoffrey K. Pullum, and Ryan Nefdt)](l/yu-yan-xue-linguistics/yu-yan-zhe-xue-philosophy-of-barbara-c.-scholz-francis-jeffry-pelletier-geoffrey-k.-pullum-and-ryan.md)
 ## 应用语言学
 * [计算语言学 computational (Lenhart Schubert)](l/yu-yan-xue-linguistics/ji-suan-yu-yan-xue-computational-lenhart-schubert.md)
-## 科学逻辑（假说、科学解释与科学预测）
-## 命题逻辑
-* [代数命题逻辑 algebraic propositional (Ramon Jansana)](l/luo-ji-xue-logic/dai-shu-ming-ti-luo-ji-algebraic-propositional-ramon-jansana.md)
+‍
 ## 逻辑史
 * [古代逻辑学 ancient (Susanne Bobzien)](l/luo-ji-xue-logic/gu-dai-luo-ji-xue-ancient-susanne-bobzien.md)
+* [一阶逻辑的出现 first-order logic (William Ewald)](l/luo-ji-shi-logic-history-of/yi-jie-luo-ji-de-chu-xian-firstorder-logic-william-ewald.md)
+* [直觉主义逻辑的发展 intuitionistic logic (Mark van Atten)](l/luo-ji-shi-logic-history-of/zhi-jue-zhu-yi-luo-ji-de-fa-zhan-intuitionistic-logic-mark-van-atten.md)
+* [现代模态逻辑的起源 modal logic (Roberta Ballarin)](l/luo-ji-shi-logic-history-of/xian-dai-mo-tai-luo-ji-de-qi-yuan-modal-logic-roberta-ballarin.md)
+* [析取/逻辑或 disjunction (Maria Aloni)](d/xi-qu-luo-ji-huo-disjunction-maria-aloni.md)
+### 中世纪逻辑学
+* [中世纪结果理论 consequence, medieval theories of (Catarina Dutilh Novaes)](c/zhong-shi-ji-jie-guo-li-lun-consequence-medieval-theories-of-catarina-dutilh-novaes.md)
+* [不可解命题 insolubles [= insolubilia] (Paul Vincent Spade and Stephen Read)](i/bu-ke-jie-insolubles-insolubilia-paul-vincent-spade-and-stephen-read.md)
+* [欧塞尔的兰伯特 Lambert of Auxerre (Sara L. Uckelman)](l/ou-sai-er-de-lan-bo-te-lambert-of-auxerre-sara-l.-uckelman.md)
+* [中世纪的演绎理论 medieval theories of (John Longeway)](d/yan-yi-demonstration/zhong-shi-ji-de-yan-yi-li-lun-medieval-theories-of-john-longeway.md)
 ## 语义学
 * [概念 concepts (Eric Margolis and Stephen Laurence)](c/gai-nian-concepts-eric-margolis-and-stephen-laurence.md)
 * [分歧 disagreement (Bryan Frances and Jonathan Matheson)](d/fen-qi-disagreement-bryan-frances-and-jonathan-matheson/README.md)
@@ -355,15 +362,10 @@
 * [摹状词 descriptions (Peter Ludlow)](d/mo-zhuang-ci-descriptions-peter-ludlow.md)
 * [确定物与可确定物 determinates and determinables (Jessica Wilson)](d/que-ding-wu-yu-ke-que-ding-wu-determinates-and-determinables-jessica-wilson.md)
 * [话语表征理论 discourse representation theory (Bart Geurts, David I. Beaver, and Emar Maier)](d/hua-yu-biao-zheng-li-lun-discourse-representation-theory-bart-geurts-david-i.-beaver-and-emar-maier.md)
-* [范畴类型逻辑 typelogical (Michael Moortgat)](g/yu-fa-grammar/fan-chou-lei-xing-luo-ji-typelogical-michael-moortgat.md)
 * [指代词 indexicals (David Braun)](i/zhi-dai-ci-indexicals-david-braun.md)
 * [先天与语言 and language (Fiona Cowie)](i/xian-tian-innateness/xian-tian-yu-yu-yan-and-language-fiona-cowie.md)
 * [内涵及物动词 intensional transitive verbs (Graeme Forbes)](i/nei-han-ji-wu-dong-ci-intensional-transitive-verbs-graeme-forbes.md)
 * [说谎者悖论 liar paradox (Jc Beall, Michael Glanzberg, and David Ripley)](l/shuo-huang-zhe-bei-lun-liar-paradox-jc-beall-michael-glanzberg-and-david-ripley.md)
-## 中世纪逻辑学
-* [中世纪结果理论 consequence, medieval theories of (Catarina Dutilh Novaes)](c/zhong-shi-ji-jie-guo-li-lun-consequence-medieval-theories-of-catarina-dutilh-novaes.md)
-* [不可解命题 insolubles [= insolubilia] (Paul Vincent Spade and Stephen Read)](i/bu-ke-jie-insolubles-insolubilia-paul-vincent-spade-and-stephen-read.md)
-* [欧塞尔的兰伯特 Lambert of Auxerre (Sara L. Uckelman)](l/ou-sai-er-de-lan-bo-te-lambert-of-auxerre-sara-l.-uckelman.md)
 ## 语用学
 * [认识语境论 contextualism, epistemic (Patrick Rysiew)](c/ren-shi-de-yu-jing-lun-contextualism-epistemic-patrick-rysiew.md)
 * [约定 convention (Michael Rescorla)](c/yue-ding-convention-michael-rescorla/README.md)
@@ -371,15 +373,15 @@
 * [含义 implicature (Wayne Davis)](i/han-yi-implicature-wayne-davis/README.md)
 * [优选论和博弈论对含义的研究方法 optimality theoretic and game theoretic approaches (Robert van Rooij and Michael Franke)](i/han-yi-implicature-wayne-davis/you-xuan-lun-he-bo-yi-lun-dui-han-yi-de-yan-jiu-fang-fa-optimality-theoretic-and-game-theoretic-appr.md)
 * [内部言语 inner speech (Daniel Gregory and Peter Langland-Hassan)](i/nei-bu-yu-yan-inner-speech-daniel-gregory-and-peter-langlandhassan.md)
-## 非经典逻辑【哲学逻辑】（次协调逻辑、相干逻辑、双面真理说、道义逻辑、模态逻辑）
-## 证明论
-## 模态逻辑（可能世界、道义逻辑）
-* [未来偶然事件 future contingents (Peter Øhrstrøm and Per Hasle)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/README.md)
-* [中世纪的未来偶然事件理论 medieval theories of (Simo Knuuttila)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/zhong-shi-ji-de-wei-lai-ou-ran-shi-jian-li-lun-medieval-theories-of-simo-knuuttila.md)
-* [广义量词 generalized quantifiers (Dag Westerståhl)](g/guang-yi-liang-ci-generalized-quantifiers-dag-westersthl.md)
-* [超内涵性 hyperintensionality (Francesco Berto and Daniel Nolan)](h/chao-nei-han-xing-hyperintensionality-francesco-berto-and-daniel-nolan.md)
-* [认知逻辑 epistemic (Rasmus Rendsvig, John Symons, and Yanjing Wang)](l/luo-ji-xue-logic/ren-zhi-luo-ji-epistemic-rasmus-rendsvig-john-symons-and-yanjing-wang.md)
-## 现代逻辑（理论包含模态非经典等）
+## 非经典逻辑（哲学逻辑、现代逻辑、高阶逻辑）
+* [次协调逻辑 paraconsistent (Graham Priest, Koji Tanaka, and Zach Weber)](l/luo-ji-xue-logic/ci-xie-tiao-luo-ji-paraconsistent-graham-priest-koji-tanaka-and-zach-weber.md)
+* [确证逻辑 justification (Sergei Artemov and Melvin Fitting)](l/luo-ji-xue-logic/que-zheng-luo-ji-justification-sergei-artemov-and-melvin-fitting.md)
+* [多类逻辑 many-sorted (María Manzano and Víctor Aranda)](l/luo-ji-xue-logic/duo-lei-luo-ji-manysorted-mara-manzano-and-vctor-aranda.md)
+* [多值逻辑 many-valued (Siegfried Gottwald)](l/luo-ji-xue-logic/duo-zhi-luo-ji-manyvalued-siegfried-gottwald.md)
+* [非单调逻辑 non-monotonic (Christian Strasser and G. Aldo Antonelli)](l/luo-ji-xue-logic/fei-dan-tiao-luo-ji-nonmonotonic-christian-strasser-and-g.-aldo-antonelli.md)
+* [相干逻辑 relevance (Edwin Mares)](l/luo-ji-xue-logic/xiang-gan-luo-ji-relevance-edwin-mares.md)
+* [子结构逻辑 substructural (Greg Restall)](l/luo-ji-xue-logic/zi-jie-gou-luo-ji-substructural-greg-restall.md)
+* [时间逻辑 temporal (Valentin Goranko and Antje Rumberg)](l/luo-ji-xue-logic/shi-jian-luo-ji-temporal-valentin-goranko-and-antje-rumberg.md)
 * [条件逻辑 conditionals (Paul Egré and Hans Rott)](l/luo-ji-xue-logic/tiao-jian-luo-ji-conditionals-paul-egr-and-hans-rott.md)
 * [连接逻辑 connexive (Heinrich Wansing)](l/luo-ji-xue-logic/lian-jie-luo-ji-connexive-heinrich-wansing.md)
 * [道义逻辑 deontic (Paul McNamara and Frederik Van De Putte)](l/luo-ji-xue-logic/dao-yi-luo-ji-deontic-paul-mcnamara-and-frederik-van-de-putte.md)
@@ -388,18 +390,49 @@
 * [动态认知逻辑 dynamic epistemic (Alexandru Baltag and Bryan Renne)](l/luo-ji-xue-logic/dong-tai-ren-zhi-luo-ji-dynamic-epistemic-alexandru-baltag-and-bryan-renne.md)
 * [自由逻辑 free (John Nolt)](l/luo-ji-xue-logic/zi-you-luo-ji-free-john-nolt.md)
 * [模糊逻辑 fuzzy (Petr Cintula, Christian G. Fermüller, and Carles Noguera)](l/luo-ji-xue-logic/mo-hu-luo-ji-fuzzy-petr-cintula-christian-g.-fermller-and-carles-noguera.md)
-## 经典逻辑（同一律、排中律、无矛盾律(矛盾律)、充足理由律）
-[经典逻辑 classical (Stewart Shapiro and Teresa Kouri Kissel)](l/luo-ji-xue-logic/jing-dian-luo-ji-classical-stewart-shapiro-and-teresa-kouri-kissel.md)
-## 形式逻辑
+* [独立友好逻辑 independence friendly (Tero Tulenheimo)](l/luo-ji-xue-logic/du-li-xing-you-hao-luo-ji-independence-friendly-tero-tulenheimo.md)
+* [内涵逻辑 intensional (Melvin Fitting)](l/luo-ji-xue-logic/nei-han-luo-ji-intensional-melvin-fitting.md)
+* [直觉主义逻辑 intuitionistic (Joan Moschovakis)](l/luo-ji-xue-logic/zhi-jue-zhu-yi-luo-ji-intuitionistic-joan-moschovakis.md)
+* [范畴类型逻辑 typelogical (Michael Moortgat)](g/yu-fa-grammar/fan-chou-lei-xing-luo-ji-typelogical-michael-moortgat.md)
+### 证明论
+### 科学逻辑（假说、科学解释与科学预测）
+### 模态逻辑（可能世界、道义逻辑）
+* [未来偶然事件 future contingents (Peter Øhrstrøm and Per Hasle)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/README.md)
+* [中世纪的未来偶然事件理论 medieval theories of (Simo Knuuttila)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/zhong-shi-ji-de-wei-lai-ou-ran-shi-jian-li-lun-medieval-theories-of-simo-knuuttila.md)
+* [广义量词 generalized quantifiers (Dag Westerståhl)](g/guang-yi-liang-ci-generalized-quantifiers-dag-westersthl.md)
+* [超内涵性 hyperintensionality (Francesco Berto and Daniel Nolan)](h/chao-nei-han-xing-hyperintensionality-francesco-berto-and-daniel-nolan.md)
+* [认知逻辑 epistemic (Rasmus Rendsvig, John Symons, and Yanjing Wang)](l/luo-ji-xue-logic/ren-zhi-luo-ji-epistemic-rasmus-rendsvig-john-symons-and-yanjing-wang.md)
+* [混合逻辑 hybrid (Torben Braüner)](l/luo-ji-xue-logic/hun-he-luo-ji-hybrid-torben-braner.md)
+* [模态逻辑 modal (James Garson)](l/luo-ji-xue-logic/mo-tai-luo-ji-modal-james-garson.md)
+* [可证性逻辑 provability (Rineke (L.C.) Verbrugge)](l/luo-ji-xue-logic/ke-zheng-xing-luo-ji-provability-rineke-l.c.-verbrugge.md)
+### 论证理论
+* [论证与论辩 argument and argumentation (Catarina Dutilh Novaes)](a/lun-zheng-yu-lun-bian-argument-and-argumentation-catarina-dutilh-novaes.md)
+### 数理逻辑（模型论、递归论、证明论、集合论）
+* [代数 algebra (Vaughan Pratt)](a/dai-shu-algebra-vaughan-pratt.md)
+* [逻辑代数的发展 algebra of logic tradition (Stanley Burris and Javier Legris)](a/luo-ji-dai-shu-de-fa-zhan-algebra-of-logic-tradition-stanley-burris-and-javier-legris.md)
+* [数学中的逻辑代数 the mathematics of (J. Donald Monk)](b/luo-ji-dai-shu-boolean-algebra/shu-xue-zhong-de-luo-ji-dai-shu-the-mathematics-of-j.-donald-monk.md)
+* [范畴论 category theory (Jean-Pierre Marquis)](c/fan-chou-lun-category-theory-jeanpierre-marquis.md)
+* [ε 演算 epsilon calculus (Jeremy Avigad and Richard Zach)](e/yan-suan-epsilon-calculus-jeremy-avigad-and-richard-zach.md)
+* [组合逻辑 combinatory (Katalin Bimbó)](l/luo-ji-xue-logic/zu-he-luo-ji-combinatory-katalin-bimb.md)
+* [合并逻辑 combining (Walter Carnielli and Marcelo Esteban Coniglio)](l/luo-ji-xue-logic/he-bing-luo-ji-combining-walter-carnielli-and-marcelo-esteban-coniglio.md)
+* [二阶逻辑与高阶逻辑 second-order and higher-order (Jouko Väänänen)](l/luo-ji-xue-logic/er-jie-luo-ji-yu-gao-jie-luo-ji-secondorder-and-higherorder-jouko-vnnen.md)
+## 经典逻辑（标准逻辑）与传统逻辑（同一律、排中律、无矛盾律(矛盾律)、充足理由律、一阶逻辑【谓词逻辑】、演绎逻辑、词项逻辑）
+* [经典逻辑 classical (Stewart Shapiro and Teresa Kouri Kissel)](l/luo-ji-xue-logic/jing-dian-luo-ji-classical-stewart-shapiro-and-teresa-kouri-kissel.md)
+### 命题逻辑
+* [代数命题逻辑 algebraic propositional (Ramon Jansana)](l/luo-ji-xue-logic/dai-shu-ming-ti-luo-ji-algebraic-propositional-ramon-jansana.md)
+* [无穷逻辑 infinitary (John L. Bell)](l/luo-ji-xue-logic/wu-qiong-luo-ji-infinitary-john-l.-bell.md)
+* [命题逻辑 propositional (Curtis Franks)](l/luo-ji-xue-logic/ming-ti-luo-ji-propositional-curtis-franks.md)
+* [命题动态逻辑 propositional dynamic (Nicolas Troquard and Philippe Balbiani)](l/luo-ji-xue-logic/ming-ti-dong-tai-luo-ji-propositional-dynamic-nicolas-troquard-and-philippe-balbiani.md)
+## 形式逻辑与非形式逻辑（批判性思维、辩证逻辑即辩证法、悖论）
 * [形式逻辑中的句子连接词 sentence connectives in formal logic (Lloyd Humberstone)](c/lian-jie-ci-connectives/xing-shi-luo-ji-zhong-de-ju-zi-lian-jie-ci-sentence-connectives-in-formal-logic-lloyd-humberstone.md)
 * [矛盾 contradiction (Laurence R. Horn)](c/mao-dun-contradiction-laurence-r.-horn.md)
 * [柯里悖论 Curry’s paradox (Lionel Shapiro and Jc Beall)](c/ke-li-bei-lun-currys-paradox-lionel-shapiro-and-jc-beall.md)
-* [中世纪的演绎理论 medieval theories of (John Longeway)](d/yan-yi-demonstration/zhong-shi-ji-de-yan-yi-li-lun-medieval-theories-of-john-longeway.md)
-* [析取/逻辑或 disjunction (Maria Aloni)](d/xi-qu-luo-ji-huo-disjunction-maria-aloni.md)
-* [归纳问题 problem of (Leah Henderson)](i/gui-na-induction/gui-na-wen-ti-problem-of-leah-henderson.md)
 * [无限倒退论证 infinite regress arguments (Ross Cameron)](i/wu-xian-dao-tui-lun-zheng-infinite-regress-arguments-ross-cameron.md)
-## 论证理论
-* [论证与论辩 argument and argumentation (Catarina Dutilh Novaes)](a/lun-zheng-yu-lun-bian-argument-and-argumentation-catarina-dutilh-novaes.md)
+* [逻辑与概率 and probability (Lorenz Demey, Barteld Kooi, and Joshua Sack)](l/luo-ji-xue-logic/luo-ji-yu-gai-shuai-and-probability-lorenz-demey-barteld-kooi-and-joshua-sack.md)
+* [归纳逻辑 inductive (James Hawthorne)](l/luo-ji-xue-logic/gui-na-luo-ji-inductive-james-hawthorne.md)
+* [非形式逻辑 informal (Leo Groarke)](l/luo-ji-xue-logic/fei-xing-shi-luo-ji-informal-leo-groarke.md)
+* [逻辑的规范地位 logic, normative status of (Florian Steinberger)](l/luo-ji-de-gui-fan-di-wei-logic-normative-status-of-florian-steinberger.md)
+* [归纳问题 problem of (Leah Henderson)](i/gui-na-induction/gui-na-wen-ti-problem-of-leah-henderson.md)
 # 法哲学
 * [法律中的因果关系 in the law (Michael Moore)](c/yin-guo-guan-xi-causation/fa-lv-zhong-de-yin-guo-guan-xi-in-the-law-michael-moore.md)
 * [合同法哲学 contract law, philosophy of (Daniel Markovits and Emad Atiq)](c/he-tong-fa-zhe-xue-contract-law-philosophy-of-daniel-markovits-and-emad-atiq.md)
@@ -589,6 +622,7 @@
 * [演化博弈论 evolutionary (J. McKenzie Alexander)](g/bo-yi-lun-game-theory-don-ross/yan-hua-bo-yi-lun-evolutionary-j.-mckenzie-alexander.md)
 * [博弈中的权力推理 for analyzing power in normal form games (Paolo Turrini and Thomas Ågotnes)](l/luo-ji-xue-logic/dui-bo-yi-zhong-quan-li-de-fen-xi-for-analyzing-power-in-normal-form-games-paolo-turrini-and-thomas.md)
 * [分析游戏的逻辑 for analyzing games (Johan van Benthem and Dominik Klein)](l/luo-ji-xue-logic/fen-xi-you-xi-de-luo-ji-for-analyzing-games-johan-van-benthem-and-dominik-klein.md)
+* [逻辑与游戏 and games (Wilfrid Hodges and Jouko Väänänen)](l/luo-ji-xue-logic/luo-ji-yu-you-xi-and-games-wilfrid-hodges-and-jouko-vnnen.md)
 # 科学哲学
 ## 科学哲学家
 * [保罗·费耶阿本德 Feyerabend, Paul (John Preston)](f/bao-luo-fei-yeaben-de-feyerabend-paul-john-preston.md)
@@ -649,6 +683,7 @@
 * [信息技术与道德价值 and moral values (John Sullins)](i/xin-xi-ji-shu-information-technology/xin-xi-ji-shu-yu-dao-de-jia-zhi-and-moral-values-john-sullins.md)
 * [信息技术伦理学的现象学方法 phenomenological approaches to ethics and (Lucas Introna)](i/xin-xi-ji-shu-information-technology/xin-xi-ji-shu-lun-li-xue-de-xian-xiang-xue-fang-fa-phenomenological-approaches-to-ethics-and-lucas-i.md)
 * [隐私与信息技术 and privacy (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)](i/xin-xi-ji-shu-information-technology/yin-si-yu-xin-xi-ji-shu-and-privacy-jeroen-van-den-hoven-martijn-blaauw-wolter-pieters-and-martijn-w.md)
+* [逻辑与信息 and information (Maricarmen Martinez and Sebastian Sequoiah-Grayson)](l/luo-ji-xue-logic/luo-ji-yu-xin-xi-and-information-maricarmen-martinez-and-sebastian-sequoiahgrayson.md)
 ## 物理学哲学
 * [物理学中的因果关系 in physics (Mathias Frisch)](c/yin-guo-guan-xi-causation/wu-li-xue-zhong-de-yin-guo-guan-xi-in-physics-mathias-frisch.md)
 * [物理系统中的计算 in physical systems (Gualtiero Piccinini and Corey Maley)](c/ji-suan-computation/wu-li-xi-tong-zhong-de-ji-suan-in-physical-systems-gualtiero-piccinini-and-corey-maley.md)
@@ -684,14 +719,6 @@
 ### 概率论
 * [概率与随机性 versus randomness (Antony Eagle)](c/ji-yu-chance/ji-yu-yu-sui-ji-xing-versus-randomness-antony-eagle.md)
 * [荷兰赌定理 Dutch book arguments (Susan Vineberg)](d/he-lan-du-ding-li-dutch-book-arguments-susan-vineberg.md)
-### 数理逻辑（模型论、证明论、集合论和递归论）
-* [代数 algebra (Vaughan Pratt)](a/dai-shu-algebra-vaughan-pratt.md)
-* [逻辑代数的发展 algebra of logic tradition (Stanley Burris and Javier Legris)](a/luo-ji-dai-shu-de-fa-zhan-algebra-of-logic-tradition-stanley-burris-and-javier-legris.md)
-* [数学中的逻辑代数 the mathematics of (J. Donald Monk)](b/luo-ji-dai-shu-boolean-algebra/shu-xue-zhong-de-luo-ji-dai-shu-the-mathematics-of-j.-donald-monk.md)
-* [范畴论 category theory (Jean-Pierre Marquis)](c/fan-chou-lun-category-theory-jeanpierre-marquis.md)
-* [ε 演算 epsilon calculus (Jeremy Avigad and Richard Zach)](e/yan-suan-epsilon-calculus-jeremy-avigad-and-richard-zach.md)
-* [组合逻辑 combinatory (Katalin Bimbó)](l/luo-ji-xue-logic/zu-he-luo-ji-combinatory-katalin-bimb.md)
-* [合并逻辑 combining (Walter Carnielli and Marcelo Esteban Coniglio)](l/luo-ji-xue-logic/he-bing-luo-ji-combining-walter-carnielli-and-marcelo-esteban-coniglio.md)
 ## 生命科学哲学（生物学、生态学、遗传学）
 ### 生物医学
 * [生物医学哲学 biomedicine, philosophy of (Sean Valles)](b/sheng-wu-yi-xue-zhe-xue-biomedicine-philosophy-of-sean-valles.md)
