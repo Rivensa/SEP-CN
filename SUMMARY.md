@@ -2414,7 +2414,7 @@
 * [社会规范 social norms (Cristina Bicchieri, Ryan Muldoon, and Alessandro Sontuoso)](s/she-hui-gui-fan-social-norms-cristina-bicchieri-ryan-muldoon-and-alessandro-sontuoso.md)
 * [社会本体论 social ontology (Brian Epstein)](s/she-hui-ben-ti-lun-social-ontology-brian-epstein.md)
 * [社会程序的形式化方法 social procedures, formal approaches (Jan van Eijck and Rineke (L.C.) Verbrugge)](s/she-hui-cheng-xu-de-xing-shi-hua-fang-fa-social-procedures-formal-approaches-jan-van-eijck-and-rinek.md)
-* [生物社会学 sociobiology (Catherine Driscoll)](s/sheng-wu-she-hui-xue-sociobiology-catherine-driscoll.md)
+* [社会生物学 sociobiology (Catherine Driscoll)](s/sheng-wu-she-hui-xue-sociobiology-catherine-driscoll.md)
 * [苏格拉底 Socrates (Debra Nails and S. Sara Monoson)](s/su-ge-la-di-socrates-debra-nails-and-s.-sara-monoson.md)
 * [社会与政治哲学中的团结 solidarity in social and political philosophy (Andrea Sangiovanni and Juri Viehoff)](s/she-hui-yu-zheng-zhi-zhe-xue-zhong-de-tuan-jie-solidarity-in-social-and-political-philosophy-andrea.md)
 * [索菲·德·格鲁希 Sophie de Grouchy (Sandrine Berges)](s/suo-fei-de-ge-lu-xi-sophie-de-grouchy-sandrine-berges.md)
