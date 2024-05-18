@@ -13,7 +13,7 @@
 
 本项目使用 MarkText（支持数学字符且不会产生多余的识别） 来将原文转换为 Markdown 文本，然后复制文本使用 Notepad++ 为其每行加一个空行，即查找 `\r\n` 替换成 `\r\n\r\n`。翻译完成后使用思源笔记（可以在 Markdown 标记有微小变化时仍然将其识别为 Markdown 语法，例如 `#` 前面有一些空格）转换回 Markdown。
 
-使用 `gpt-3.5-turbo`。以下依次为本项目使用的不同参数。
+使用 `gpt-3.5-turbo-0613`。以下依次为本项目使用的不同参数。
 
 ```
 You are a professional, authentic translation engine. You only return the translated text, without any explanations. 
