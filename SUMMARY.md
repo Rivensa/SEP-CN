@@ -342,7 +342,7 @@
 * [让·布里丹 Buridan, John \[Jean\] (Jack Zupko)](b/rang-bu-li-dan-buridan-john-jean-jack-zupko.md)
 * [埃德蒙·伯克 Burke, Edmund (Ian Harris)](b/ai-de-meng-bo-ke-burke-edmund-ian-harris.md)
 * [沃尔特·伯利 Burley \[Burleigh\], Walter (Alessandro Conti)](b/wo-er-te-bo-li-burley-burleigh-walter-alessandro-conti.md)
-* [\*詹姆斯·伯内特（蒙博多勋爵）——见 18 世纪苏格兰哲学 Burnett, James \[Lord Monboddo\] — see Scottish Philosophy: in the 18th Ce](b/bo-nei-te-zhan-mu-si-meng-bo-duo-xun-jue-jian-18-shi-ji-su-ge-lan-zhe-xue-burnet-james-lord-monboddo.md)
+* [\*詹姆斯·伯内特（蒙博多勋爵）——见 18 世纪苏格兰哲学 Burnett, James \[Lord Monboddo\] — see Scottish Philosophy: in the 18th Century](b/bo-nei-te-zhan-mu-si-meng-bo-duo-xun-jue-jian-18-shi-ji-su-ge-lan-zhe-xue-burnet-james-lord-monboddo.md)
 * [\*约瑟夫·巴特勒 Butler, Joseph](b/yue-se-fu-ba-te-le-butler-joseph/README.md)
   * [约瑟夫·巴特勒的伦理学 moral philosophy (Aaron Garrett)](b/yue-se-fu-ba-te-le-butler-joseph/yue-se-fu-ba-te-le-de-lun-li-xue-moral-philosophy-aaron-garrett.md)
 * [拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou and Börje Bydén)](b/bai-zhan-ting-zhe-xue-byzantine-philosophy-katerina-ierodiakonou-and-brje-bydn.md)
