@@ -1766,7 +1766,7 @@
 * [道德怀疑论 moral skepticism (Walter Sinnott-Armstrong)](m/dao-de-huai-yi-zhu-yi-moral-skepticism-walter-sinnottarmstrong.md)
 * [\*道德地位 moral status](m/dao-de-di-wei-moral-status/README.md)
   * [\*动物——见动物的道德地位 of animals — see animals, moral status of](m/dao-de-di-wei-moral-status/dong-wu-jian-dong-wu-de-dao-de-di-wei-of-animals-see-animals-moral-status-of.md)
-* [道德地位的依据 moral status, grounds of (Agnieszka Jaworska and Julie Tannenbaum)](m/dao-de-di-wei-de-yi-ju-moral-status-grounds-of-agnieszka-jaworska-and-julie-tannenbaum.md)
+* [道德地位的基础 moral status, grounds of (Agnieszka Jaworska and Julie Tannenbaum)](m/dao-de-di-wei-de-yi-ju-moral-status-grounds-of-agnieszka-jaworska-and-julie-tannenbaum.md)
 * [道德理论 moral theory (Julia Driver)](m/dao-de-li-lun-moral-theory-julia-driver.md)
 * [亨利·莫尔 More, Henry (John Henry)](m/heng-li-mo-er-more-henry-john-henry.md)
 * [托马斯·莫尔 More, Thomas (Gerard B. Wegemer)](m/tuo-ma-si-mo-er-more-thomas-gerard-b.-wegemer.md)
