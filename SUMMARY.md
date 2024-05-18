@@ -1772,7 +1772,7 @@
 * [托马斯·莫尔 More, Thomas (Gerard B. Wegemer)](m/tuo-ma-si-mo-er-more-thomas-gerard-b.-wegemer.md)
 * [\*动机 motivation](m/dong-ji-motivation/README.md)
   * [\*道德——道德动机 moral — see moral motivation](m/dong-ji-motivation/dao-de-dao-de-dong-ji-moral-see-moral-motivation.md)
-* [毛拉·萨德拉 Mulla Sadra (Sajjad Rizvi)](m/mao-la-sa-de-la-mulla-sadra-sajjad-rizvi.md)
+* [穆拉·萨德拉 Mulla Sadra (Sajjad Rizvi)](m/mao-la-sa-de-la-mulla-sadra-sajjad-rizvi.md)
 * [多模态逻辑的哲学方向 multi-modal logic, philosophical aspects of (Sonja Smets and Fernando Velázquez-Quesada)](m/duo-mo-tai-luo-ji-de-zhe-xue-fang-xiang-multimodal-logic-philosophical-aspects-of-sonja-smets-and-fe.md)
 * [多元文化主义 multiculturalism (Sarah Song)](m/duo-yuan-wen-hua-zhu-yi-multiculturalism-sarah-song.md)
 * [多重可实现性 multiple realizability (John Bickle)](m/duo-zhong-ke-shi-xian-xing-multiple-realizability-john-bickle.md)
