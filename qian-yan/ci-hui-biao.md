@@ -191,4 +191,7 @@ The Paradox of Suspense to 悬疑悖论.
 The  Philosophy of Statistics to 统计学哲学 .
 
 The Spinoza to 斯宾诺莎.The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
-```
+
+
+The  Absolute idealism to 新黑格尔主义. The Token to 个体.
+``` 
