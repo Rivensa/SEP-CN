@@ -1886,7 +1886,7 @@
 * [艺术本体论史 ontology of art, history of (Paisley Livingston)](o/yi-shu-ben-ti-lun-shi-ontology-of-art-history-of-paisley-livingston.md)
 * [操作主义 operationalism (Hasok Chang)](o/cao-zuo-zhu-yi-operationalism-hasok-chang.md)
 * [日常对象 ordinary objects (Daniel Z. Korman)](o/ri-chang-dui-xiang-ordinary-objects-daniel-z.-korman.md)
-* [尼克尔·奥里斯姆 Oresme, Nicole (Stefan Kirschner)](o/ni-ke-er-ao-li-si-mu-oresme-nicole-stefan-kirschner.md)
+* [尼克尔·奥雷姆 Oresme, Nicole (Stefan Kirschner)](o/ni-ke-er-ao-li-si-mu-oresme-nicole-stefan-kirschner.md)
 * [奥利金 Origen (Mark J. Edwards)](o/ao-li-jin-origen-mark-j.-edwards.md)
 * [原初状态 original position (Samuel Freeman)](o/yuan-chu-zhuang-tai-original-position-samuel-freeman.md)
 * [何塞·奥尔特加·伊·加塞特 Ortega y Gasset, José (Oliver Holmes)](o/he-sai-ao-er-te-jia-yi-jia-sai-te-ortegaygasset-jos-oliver-holmes.md)
