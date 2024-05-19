@@ -56,3 +56,391 @@
     - Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring) 不知道是谁
     - Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)  不知道是谁
 - 2024.05.09 S、T、U、V、W、X、Y、Z 部分条目的机器重译完成
+- 2024.05.19 清空 B 部分目录未重译的条目以准备重译
+
+
+## 详细日志与词汇表
+```
+2024-04-20 17:52:19 
+尚波的威廉
+2024-04-20 17:52:42 
+赫洛伊丝
+2024-04-20 17:54:57 
+以上---彼得·阿伯拉尔
+2024-04-20 17:56:16 
+账目………能力--<
+2024-04-20 17:56:21 
+应该是理论
+2024-04-20 18:03:03 
+伯克利-->贝克莱
+2024-04-20 18:03:13 
+乔治·伯克利>>>>
+2024-04-20 18:03:30 
+见 基于行动的感知理论
+2024-04-20 18:08:21 
+西奥多·阿多诺 Adorno, Theodor W. (Lambert Zuidervaart)  --->需要整个重来
+2024-04-20 18:10:22 
+审美体验---->克罗切？克罗齐？
+2024-04-20 18:11:05 
+伊曼纽尔·康德---->伊曼努尔·康德
+2024-04-20 18:19:42 
+R·G·科林伍德（R. G. Collingwood）----->自然美学
+2024-04-20 18:20:24 
+和/或
+2024-04-20 18:22:27 
+and/or
+2024-04-20 19:43:55 
+property -->属性
+2024-04-20 19:44:03 
+财产
+2024-04-20 19:44:06 
+错误
+2024-04-20 23:56:15 
+https://mp.weixin.qq.com/s/cpHoZEK2uP1YYIqaRAI-HQ  容纳主义
+2024-04-21 0:04:05 
+. 住宿
+5.1 全球和本地住宿
+2024-04-21 0:04:09 
+住宿是错误的
+2024-04-21 0:04:16 
+是容纳、解释
+2024-04-21 0:58:13 
+就是数学中的函数。英文都是Function，只是为了区别数学中的函数，而改叫为函项。
+2024-04-21 21:28:40 
+http://abc.cbi.pku.edu.cn/talk/phylogeny-huang-by.pdf 系统发生分析小结
+2024-04-22 14:04:24 
+比拉土观念论需要重译
+2024-04-22 14:04:28 
+阿尔弗雷德·诺思·怀特黑德————.怀特海
+2024-04-22 16:26:45 
+A.N.怀特海德——》》》》》A.N.怀特海德
+2024-04-22 16:26:48 
+怀特海
+2024-04-22 16:28:43 
+莱布尼兹_>·莱布尼茨
+2024-04-22 16:48:52 
+怀特海德
+2024-04-22 16:50:05 
+安瑟姆
+2024-04-23 13:49:19 
+The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Theories to 坍缩理论. The Collapse  to 坍缩. The Consistent Histories Approach to 一致性历史方法. The Consistent Histories to 一致性历史. The Copenhagen Interpretation to 哥本哈根诠释. The Everettian to 埃弗雷特. The KS Theorem to KS 定理. The Kochen-Specker to 科亨-施佩克尔. The Many-Worlds Interpretation to 多世界诠释. The Modal Interpretations to 模态解释. The Relational to 关系性. The Retrocausality to 逆因果关系. The Decoherence to 退相干. The Quantum-Bayesian to 量子贝叶斯模型. The Pragmatist to 实用主义. The Quantum Approaches to 量子研究方法. The Einstein-Podolsky-Rosen to 爱因斯坦-波多尔斯基-罗森. The Argument  to 悖论. The Identity to 同一性. The Individuality to 个体性. The Rigor to 严谨性. The Computing to 计算. The entanglement to 纠缠. The Quantum Field Theory to 量子场论. The QFT to 量子场论.  The Gravity to 引力.
+2024-04-23 20:33:45 
+ 妄想 delusion (Lisa Bortolotti)
+需要重译。无格式
+2024-04-23 22:20:50 
+# 文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato) 需要重译。无格式
+2024-04-25 1:43:51 
+Retributive 需要重译
+Chinese room argument  中文房间实验
+2024-05-01 4:03:13 
+cellular automata 元胞自动机 ---整体需要重译
+2024-05-01 4:06:58 
+abilities 第一行错误的翻译--  账目
+2024-05-01 4:08:53 
+action-based theories of perception  行动的知觉理论
+2024-05-01 4:09:06 
+基于
+2024-05-01 4:09:46 
+整体重译。尤其是 perception 是知觉
+2024-05-01 4:11:25 
+aesthetic, concept of the    美学的概念
+2024-05-01 4:15:42 
+A-I 都需要
+2024-05-01 5:04:48 
+aesthetic testimony 不知道是什么
+2024-05-01 5:18:57 
+al-Baghdadi, ‘Abd al-Latif  不知道是什么
+2024-05-01 5:38:29 
+Robert Alyngton 不知道是谁
+2024-05-01 6:04:12 
+Ibn Kammūna  不知道是谁
+2024-05-01 6:35:03 
+associationist theories of thought 不知道是什么
+2024-05-01 6:42:34 
+ French Franciscan Peter Auriol  不知道是谁
+2024-05-01 7:22:27 
+建筑美学--->建筑哲学？
+2024-05-01 7:49:36 
+19 世纪浪漫主义美学  补充
+2024-05-01 8:09:34 
+非洲智者哲学 sage philosophy 
+2024-05-01 8:13:47 
+https://tableconvert.com/excel-to-markdown
+2024-05-01 16:45:26 
+应得 desert (Fred Feldman and Brad Skow) 必须重译
+2024-05-01 16:52:45 
+ 海因里希·康奈利·阿格里帕·冯·内特斯海姆 Agrippa von Nettesheim, Heinrich Cornelius (Vittoria Perrone Compagni)
+2024-05-01 16:58:02 
+agency 翻译成代理是错误的
+2024-05-01 17:25:26 
+The al-Ghazali to 安萨里. The Al-Ghazâlî  to  安萨里. The al-Fârâbî to 阿里·法拉比. The al-Farabi  to 阿里·法拉比.  The  al-Kindi to 肯迪. The Abu Bakr al-Razi to 阿布·贝克尔·拉齐. The al-Razi to 拉齐.
+2024-05-01 17:55:49 
+\*亚里士多德的评注者——见亚里士多德的评注者 commentators on Aristotle — see Aristotle, commentators on
+2024-05-01 18:10:51 
+经常错误翻译为 荒漠/沙漠
+2024-05-01 18:10:58 
+道德应得
+2024-05-01 18:14:06 
+所有代理。应该是 能动性 或
+2024-05-01 19:00:08 
+ The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯. The David to 大卫. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The The Republic to 《理想国》. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Argument  to 悖论. The Forms to 形式. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克.
+2024-05-02 0:04:59 
+勒伊岑·艾赫贝特斯·扬·布劳威尔 Brouwer, Luitzen Egbertus Jan
+2024-05-02 0:05:03 
+查理·邓巴·布劳德 Broad, Charlie Dunbar
+2024-05-02 0:26:58 
+Pattern---->理
+2024-05-02 7:28:07 
+代理人错误
+2024-05-02 7:41:05 
+行为体？
+2024-05-02 18:21:23 
+可行能力 需要重译
+2024-05-02 18:30:40 
+加布丽埃勒·埃米莉·勒托内利耶·德布勒特伊 Émilie le Tonnelier de Breteuil
+这个词的意思是 xxx 的侯爵夫人，压根不是人名
+2024-05-02 19:06:27 
+Medieval Theories of Consequence
+2024-05-03 1:47:40 
+由于下划线不识别问题，整个A都需要重新翻译。
+2024-05-03 6:25:51 
+# 行动的理由：正当性、动机、解释 justification, motivation, explanation (Maria Alvarez) 需要重译
+2024-05-03 18:51:58 
+empirical ——>实证的
+2024-05-03 19:11:34 
+[1]汤茂林,黄展.Empirical Research到底是实证研究还是经验研究？——兼论学术研究的分类[J].地理研究,2020,39(12):2855-2860. 
+2024-05-03 20:08:19 
+The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The The Republic to 《理想国》. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Argument  to 悖论. The Forms to 形式. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Joseph Albo to 约瑟夫·阿尔博. The Albo  to 阿尔博. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Robert Alyngton to 罗伯特·阿林顿. The  Alyngton to 阿林顿. 
+3. The Supervenience to 随附.  The  empirical approaches to 经验主义研究.  The empirical  to 经验主义. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The anaphora  to 回指. The Anaxagoras to 阿那克萨哥拉.
+2024-05-03 20:31:52 
+阿尔伯特大师——>大阿尔伯特
+2024-05-03 20:39:33 
+ The Kalām to 伊斯兰教义学.
+2024-05-03 20:41:34 
+Falsafa 是阿拉伯语翻译的哲学的意思
+2024-05-03 20:47:10 
+The Farabian to 阿里·法拉比的.
+2024-05-03 21:43:14 
+The Averroism to  阿威罗伊主义. 被错误翻译为 阿维罗主义
+2024-05-03 21:45:21 
+The  al-Farabi to 阿里·法拉比. The al-Baghdadi to 巴格达迪.  The ‘Abd al-Latif’ to 阿卜杜勒·拉蒂夫. The Abd al-Latif to 阿卜杜勒·拉蒂夫. The al-Ghazali to 安萨里. The   al-Kindi to 肯迪. The  al-Razi to 拉齐. The Avicenna to 阿维森纳. The Ibn Sina to 伊本·西那. The Al-Fârâbî  to 阿里·法拉比.  The Averroes to 阿威罗伊. The Ibn Rushd to 伊本·鲁世德. The Fakhr al-Din to 法赫尔丁·拉齐. The Isaac Albalag to 以撒·阿尔巴拉格. The Albalag to 阿尔巴拉格. The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Latin West to 西方拉丁世界. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社.
+2024-05-03 22:17:47 
+The  al-Farabi to 阿里·法拉比. The al-Baghdadi to 巴格达迪.  The ‘Abd al-Latif’ to 阿卜杜勒·拉蒂夫. The Abd al-Latif to 阿卜杜勒·拉蒂夫. The al-Ghazali to 安萨里. The   al-Kindi to 肯迪. The  al-Razi to 拉齐. The Avicenna to 阿维森纳. The Ibn Sina to 伊本·西那. The Al-Fârâbî  to 阿里·法拉比.  The Averroes to 阿威罗伊. The Ibn Rushd to 伊本·鲁世德. The Fakhr al-Din to 法赫尔丁·拉齐. The Isaac Albalag to 以撒·阿尔巴拉格. The Albalag to 阿尔巴拉格. The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社. The Rasâ’il to 《论文集》. The Ḥikmah to 智慧. The Ibn ‘Arabî to  伊本·阿拉比. The Ibn Bâjja to 伊本·巴哲. The Avempace to 伊本·巴哲.
+2024-05-03 22:54:57 
+The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利.
+ The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯.
+2024-05-03 23:13:30 
+The Nyāya-Vaiśeṣika to 正理-胜论派.
+2024-05-03 23:20:58 
+ The Nyāya-Vaiśeṣika to 正理-胜论派. The Nyāya to 正理派. The Vaiśeṣika to 胜论派. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁.
+2.   The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克.
+2024-05-04 17:48:10 
+Duns Scotus, John——>约翰·邓·司各脱
+2024-05-04 18:00:11 
+https://www.dedao.cn/ebook/detail?id=DGgybmrKYXmzPQ5bgJEjMdeOxDlyn0Mkv932GaRN8k4p6B1oArL9Z7qvVRp8O126 雷蒙·塞邦赞  为Raymond Sebond辩解 Raymond Sebond——>雷蒙·塞邦
+2024-05-04 18:02:31 
+Essays——>随笔
+2024-05-04 18:25:44 
+威尔弗里德·斯托克·塞拉斯<—ilfrid Stalker Sellars,
+2024-05-04 19:51:32 
+# 构造数学 constructive (Douglas Bridges, Erik Palmgren, and Hajime Ishihara) 需要重新翻译
+2024-05-04 20:37:56 
+约翰·夏普 Sharpe, Johannes (Alessandro Conti) 查无此人
+2024-05-04 20:46:54 
+法弗舍姆的西蒙 Simon of Faversham   查无此人
+2024-05-05 2:14:55 
+怀疑神论 的意思是人类有限，无法理解上帝。，是有神论
+2024-05-06 11:59:36 
+# 道德怀疑论 moral skepticism (Walter Sinnott-Armstrong) 需要重译
+2024-05-07 9:46:04 
+[1]刘芮佑.差别原则还是社会最低保障[D].吉林大学,2022.DOI:10.27162/d.cnki.gjlin.2022.002287.
+2024-05-07 9:46:39 
+social minimum ——>社会最低保障 出处
+2024-05-07 9:49:06 
+[1]王琳.网络社交的伦理问题研究[D].山西财经大学,2015.   ——>social networking and ethics (Shannon Vallor)
+2024-05-07 11:57:14 
+[1]钟焕林.物质构成与同一性[J].自然辩证法研究,2016,32(10):3-8.DOI:10.19484/j.cnki.1000-8934.2016.10.001. ——>类别 sortal
+2024-05-07 12:13:01 
+[1]梁栋.能解决同时性的约定性问题吗?[J].科学技术哲学研究,2012,29(05):31-36. ——>Conventionality of Simultaneity 同时性的约定性
+2024-05-07 12:20:48 
+[1]苏无忌,刘闯.超级任务：现代的芝诺悖论[J].自然辩证法通讯,2022,44(12):32-40.DOI:10.15994/j.1000-0763.2022.12.005. ——> 超级任务 supertasks
+2024-05-07 12:55:17 
+空间和运动的绝对性与相对性
+2024-05-07 12:55:27 
+Absolute and Relational Space and Motion.
+2024-05-07 18:50:08 
+emotion——>情感
+2024-05-07 18:50:15 
+情感的所有条目都需要修正
+2024-05-07 19:38:49 
+[1]冯棉.子结构逻辑的研究方法与应用前景[J].哲学动态,2007(06):68-72. ——>子结构逻辑
+2024-05-07 23:52:36 
+<>需要忽略
+2024-05-08 12:02:31 
+道教条目有  https://plato.stanford.edu/entries/daoism/notes.html#1
+2024-05-08 12:45:18 
+Nicolaus Taurellus 不认识
+2024-05-08 12:45:46 
+尼古拉斯·塔雷路斯
+2024-05-08 19:08:46 
+所有 心理内容 都需要重译
+2024-05-08 19:30:35 
+不可解命题  insolubles \[= insolubilia] (Paul Vincent Spade and Stephen Read)  需要重译
+2024-05-08 19:31:00 
+参考书 西方中世纪逻辑及其现代性
+ http://www.nopss.gov.cn/n1/2024/0223/c373410-40182362.html
+2024-05-09 3:45:53 
+[2]董修元. 迈蒙尼德医学著作和思想述评 [J]. 医疗社会史研究, 2018, 3 (02): 81-93+263-264.  ——>撒母耳·伊本·提本 Tibbon, Samuel Ibn (James T. Robinson)
+2024-05-09 4:11:12 
+  [1]  王灏.  普通法系侵权行为法导读    [J].  河北法学,  2009,  27  (08):  100-103.  DOI:10.16494/j.cnki.1002-3933.2009.08.020.
+ ——>Theories of the Common Law of Torts
+2024-05-09 4:28:33 
+[1]李琛. 知识论领域中的传递失败研究 [J]. 现代外国哲学, 2020, (01): 30-50. ——>辩护与担保的传递
+2024-05-09 4:31:17 
+[2]程平文. 可能世界理论中的跨界同一性和跨界识别问题[D]. 苏州大学, 2010.  
+transworld identity——>跨界同一性
+2024-05-09 6:54:58 
+Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring) 查无此人
+2024-05-09 7:03:06 
+Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)  查无此人
+2024-05-09 7:33:17 
+ U、V、W、X、Y、Z 部分条目的目录创建完成
+2024-05-09 22:34:37 
+The  Pseudo-Science to 伪科学.  The Science  to 科学.   The Theory to 理论. The observation to 观察. The Unity of Science to 统一科学. The Discovery to 发现. The Explanation to 解释. The Causal Approaches to 因果方法. The scientific knowledge to 科学知识. The Social Dimensions to 社会维度. The Scientific Method to 科学方法. The Objectivity to 客观性. The Pluralism to 多元主义. The Progress to 进步 . The Realism to 实在论. The Representation to 表征. The Research to 研究. The Big Data to 大数据. The Revolutions to 革命. The Structure to 结构.
+2024-05-09 22:36:21 
+James Beattie 詹姆斯·比蒂
+2024-05-09 22:52:22 
+The James Burnett to 詹姆斯·伯内特. The Hugh Blair to 休·布莱尔.  The Lord Monboddo to 蒙博多勋爵. The George  Campbell to 乔治·坎贝尔. The Gershom Carmichael to 格肖姆·卡迈克尔. The James Dunbar to 詹姆斯·邓巴. The Adam  Ferguson to 亚当·弗格森. The Alexander  Gerard to 亚历山大·杰拉德. The Henry Home to 亨利·霍姆. The Francis Hutcheson to 弗兰西斯·哈奇森. The James Hutton to 詹姆斯·赫顿. The James Beattie to 詹姆斯·比蒂. The Allan  Ramsay to 艾伦·拉姆齐. The Adam Smith to 亚当·斯密. The Dugald  Stewart to 杜格尔·斯图尔特. The George Turnbull to 乔治·特恩布尔.
+2024-05-09 22:54:08 
+Hutton, James — see Scottish Philosophy: in the 18th Century 不存在，需要删除
+2024-05-09 22:54:38 
+Ramsay, Allan — see Scottish Philosophy: in the 18th Century 不存在，需要删除
+2024-05-09 22:55:20 
+SEP James Burnett (Lord Monboddo) 拼写有错误。少一个 t
+2024-05-10 1:28:41 
+The  Alexander Bain to 亚历山大·贝恩. The Thomas Brown to 托马斯·布朗. The  Edward Caird to 爱德华·凯尔德. The Sir William Hamilton to 威廉·哈密顿爵士. The  Hamilton to 哈密顿.
+2024-05-10 1:50:52 
+The Self-Consciousness to 自我意识.  The Phenomenological Approaches to 现象学方法. The Self-Deception to 自我欺骗. The Self-Defense to 自卫. The Self-Doubt to 自我怀疑. The Self-Knowledge to 自我认识. The Self-Locating Beliefs to 自我定位信念.  The Self-Locating to 自我定位. The Self-Reference to 自我指涉.
+2024-05-10 2:01:49 
+ The Dynamic Semantics to 动态语义. The Semantics to 语义. The Montague to 蒙太古. The Proof-Theoretic to 证明论. The Two-Dimensional to 二维.
+2024-05-10 3:52:16 
+The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.
+2024-05-11 0:12:47 
+不可解命题  insolubles \[= insolubilia] (Paul Vincent Spade and Stephen Read)  需要重译   。。。所有 心理内容 都需要重译。。。。所有情感下面的emotion——>情感。。。。# 道德怀疑论 moral skepticism (Walter Sinnott-Armstrong) 需要重译。。。# 构造数学 constructive (Douglas Bridges, Erik Palmgren, and Hajime Ishihara) 需要重新翻译。。。
+2024-05-11 0:35:06 
+包括细胞自动机---元胞
+2024-05-11 6:25:10 
+断言 assertion (Peter Pagin and Neri Marsili) 需要重译
+2024-05-11 6:33:49 
+基尔凯郭尔——>克
+2024-05-11 6:40:43 
+个人自主权 personal (Sarah Buss and Andrea Westlund) 需要重译
+2024-05-11 6:45:58 
+Epistemic Basing Relation 不知道是什么需要重译
+2024-05-11 6:51:25 
+贝叶斯定理 Bayes’ Theorem (James Joyce) 需要重译
+2024-05-11 6:59:21 
+信念的形式表述 belief, formal representations of (Konstantin Genin and Franz Huber) 需要重译
+2024-05-11 6:59:57 
+整个B 都需要重译
+2024-05-11 7:34:51 
+新黑格尔主义 (Absolute idealism) ——>错误翻译为绝对唯心主义
+2024-05-11 9:08:26 
+Token  被错误翻译为令牌，应该是个体
+2024-05-11 9:09:10 
+the metaphysics of (J. Dmitri Gallow)  整体需要重译。注意个体因果性。
+2024-05-11 9:32:42 
+19 和 20 世纪智利哲学 需要重译
+2024-05-11 10:46:40 
+天台宗 Tiantai Buddhism (Brook Ziporyn) 表格错乱
+2024-05-11 20:19:27 
+# 后向因果关系 backward (Jan Faye)需要重译
+2024-05-11 22:00:01 
+# 共益物品 common good 需要重译
+2024-05-11 22:03:26 
+组合性 compositionality (Zoltán Gendler Szabó) 需要重译
+2024-05-11 22:13:16 
+The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet  需要重译
+2024-05-12 1:09:23 
+contractualism 、自利契约论 contractarianism需要重译
+2024-05-12 1:29:43 
+所有 批判种族 都需要重译
+2024-05-12 2:12:39 
+法称 Dharmakīrti (Tom Tillemans)  都需要重译
+2024-05-12 2:32:00 
+# 歧视 discrimination (Andrew Altman) 需要重译
+2024-05-12 3:42:34 
+You are a professional, authentic translation engine. You only return the translated text, without any explanations. 
+1. retain specific English terms, titles or names. The rest of the text continues to be translated. 
+2. The zombies  to 僵尸.
+4. The Account  to 解释/原理. The accommodation to 解释.  The property to 属性/性质. The  moral  desert to 道德应得. The agency to 行为体. The desert to 应得. The testimony to 证言. The commentators to 评注者. The Schelling to 谢林. The Supervenience to 随附. The agent to 行为体. The Token to 个体.
+2024-05-12 4:04:12 
+古代哲学学述 doxography of ancient philosophy (Jaap Mansfeld)   需要重译
+2024-05-12 4:12:23 
+早期现代印度的分析哲学 Early Modern India, analytic philosophy in (Jonardon Ganeri)  需要重译
+2024-05-14 13:07:48 
+古代伦理学思想 ancient (Richard Parry and Harald Thorsrud)  需要重译
+2024-05-15 4:03:14 
+BCDEF 需要重译
+2024-05-15 4:46:40 
+J全部正常
+2024-05-15 7:08:10 
+未来偶然事件 相关需要重译
+2024-05-15 7:15:25 
+ 游戏、完全抽象和完全性 abstraction and completeness (Felice Cardone) 需要重译
+2024-05-15 7:49:45 
+ generic generalizations generic generalizations
+2024-05-15 7:56:15 
+# 基因漂移 genetic drift (Roberta L. Millstein)  需要重译
+2024-05-15 9:39:19 
+卡尔·G·亨普尔 Hempel, Carl (James Fetzer)  需要重译
+2024-05-15 9:45:05 
+约翰·戈特弗里德·冯·赫尔德 Herder, Johann Gottfried von (Michael Forster) 需要重译
+2024-05-15 9:50:48 
+heritability——>遗传力
+2024-05-15 23:13:56 
+ 超内涵性 hyperintensionality (Francesco Berto and Daniel Nolan) 需要重译
+2024-05-16 5:07:44 
+identity politics——>身份政治  需要重译
+2024-05-16 6:41:03 
+# 认知障碍与道德地位 cognitive disability and moral status (David Wasserman, Adrienne Asch, Jeffrey Blustein, and Daniel Putnam) 需要重译
+2024-05-16 9:28:16 
+# 遗传性特征与获得性特征的区别 innate/acquired distinction (Paul Griffiths and Stefan Linquist) 需要重译
+2024-05-16 11:22:31 
+梅诺篇——>美诺篇
+2024-05-16 13:50:28 
+积极自由和消极自由 positive and negative (Ian Carter) 需要重译
+2024-05-16 15:11:00 
+#  for analyzing power in normal form games (Paolo Turrini and Thomas Ågotnes) 需要重译
+2024-05-16 15:16:02 
+# 分析博弈的逻辑 for analyzing games (Johan van Benthem and Dominik Klein) 需要重译
+2024-05-16 18:45:32 
+女权主义历史---->女性主义历史
+2024-05-16 18:45:49 
+孔多塞
+2024-05-16 19:20:50 
+# 独立友好逻辑 independence friendly (Tero Tulenheimo) 需要重译
+2024-05-17 9:48:49 
+2024-05-17 14:47:01 
+# 取消唯物主义 eliminative (William Ramsey) 需要重译
+2024-05-17 14:52:14 
+构造数学 constructive (Douglas Bridges, Erik Palmgren, and Hajime Ishihara)  需要重译
+2024-05-17 15:42:12 
+# 社会生物学 sociobiology (Catherine Driscoll) 需要重译
+2024-05-18 5:52:50 
+McTaggart, John M. E.——>麦克塔格特 需要重译
+2024-05-18 6:31:45 
+mechanism in science (Carl Craver and James Tabery)——>机械论 需要重译
+2024-05-18 7:15:58 
+# 一元论 monism (Jonathan Schaffer) 需要重译
+2024-05-18 8:28:36 
+道德地位的基础 moral status, grounds of (Agnieszka Jaworska and Julie Tannenbaum) 需要重译
+2024-05-18 8:37:01 
+# 穆拉·萨德拉 Mulla Sadra (Sajjad Rizvi)需要重译
+2024-05-18 8:46:53 
+# 保罗·那托普 Natorp, Paul (Alan Kim) 需要重译
+2024-05-18 9:50:43 
+# 否定 negation (Laurence R. Horn and Heinrich Wansing) 需要重译
+2024-05-18 10:16:58 
+# 变异一元论 anomalous monism (Steven Yalowitz) 需要重译 令牌错误
+```
