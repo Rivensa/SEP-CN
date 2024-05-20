@@ -10,7 +10,6 @@
 * [留基伯 Leucippus (Sylvia Berryman)](l/liu-ji-bo-leucippus-sylvia-berryman.md)
 * [巴门尼德 Parmenides (John Palmer)](p/ba-men-ni-de-parmenides-john-palmer.md)
 * [爱利亚的芝诺 Zeno of Elea (John Palmer)](z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/README.md)
-* [爱利亚的芝诺 Zeno of Elea (John Palmer)](z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/README.md)
 * [芝诺悖论 Zeno’s paradoxes (Nick Huggett)](z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/zhi-nuo-bei-lun-zenos-paradoxes-nick-huggett.md)
 * [克塞诺芬尼 Xenophanes (James Lesher)](x/ke-sai-nuo-fen-ni-xenophanes-james-lesher.md)
 ## 苏格拉底及其后
@@ -1679,9 +1678,7 @@
 * [生命的意义 meaning of (Thaddeus Metz)](l/sheng-ming-life-carlos-mariscal/sheng-ming-de-yi-yi-meaning-of-thaddeus-metz.md)
 * [为人父母和生育 parenthood and procreation (Elizabeth Brake and Joseph Millum)](p/wei-ren-fu-mu-he-sheng-yu-parenthood-and-procreation-elizabeth-brake-and-joseph-millum.md)
 * [怀孕、分娩和医学 pregnancy, birth, and medicine (Quill R Kukla and Katherine Wayne)](p/huai-yun-fen-mian-he-yi-xue-pregnancy-birth-and-medicine-quillrkukla-and-katherine-wayne.md)
-
 ---
-
 # 历史哲学
 * [事件 events (Roberto Casati and Achille Varzi)](e/shi-jian-events-roberto-casati-and-achille-varzi.md)
 * [历史哲学 history, philosophy of (Daniel Little)](h/li-shi-zhe-xue-history-philosophy-of-daniel-little.md)

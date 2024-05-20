@@ -1947,7 +1947,7 @@
   * [\*古典印度哲学——见古典印度哲学：古典印度哲学中的人格 in classical Indian Philosophy — see Indian Philosophy (Classical): personhood](p/ren-ge-personhood/gu-dian-yin-du-zhe-xue-jian-gu-dian-yin-du-zhe-xue-gu-dian-yin-du-zhe-xue-zhong-de-ren-ge-in-classic.md)
 * [\*人格——见人格同一性 persons — see personal identity](p/ren-ge-jian-ren-ge-tong-yi-xing-persons-see-personal-identity.md)
 * [\*将人作为手段——见将人作为手段 persons, treating as means — see treating persons as means](p/jiang-ren-zuo-wei-shou-duan-jian-jiang-ren-zuo-wei-shou-duan-persons-treating-as-means-see-treating.md)
-* [西班牙的彼得（彼得·希斯帕努斯）Peter of Spain \[= Petrus Hispanus\] (Joke Spruyt)](p/xi-ban-ya-de-bi-de-bi-de-xi-si-pa-nu-si-peter-of-spain-petrus-hispanus-joke-spruyt.md)
+* [西班牙的彼得（彼得·希斯帕努斯）的逻辑学 Peter of Spain \[= Petrus Hispanus\] (Joke Spruyt)](p/xi-ban-ya-de-bi-de-bi-de-xi-si-pa-nu-si-peter-of-spain-petrus-hispanus-joke-spruyt.md)
 * [乔安·佩特里齐 Petrizi, Joane (Tengiz Iremadze)](p/qiao-an-pei-te-li-qi-petrizi-joane-tengiz-iremadze.md)
 * [\*现象意向性——见意向性：现象意向性 phenomenal intentionality — see intentionality: phenomenal](p/xian-xiang-yi-xiang-xing-jian-yi-xiang-xing-xian-xiang-yi-xiang-xing-phenomenal-intentionality-see-i.md)
 * [现象学 phenomenology (David Woodruff Smith)](p/xian-xiang-xue-phenomenology-david-woodruff-smith/README.md)
