@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Copy output_temp/ to output/ using rsync (to exclude main.epub in this example)
-        run:  apk add rsync && rsync -arv  . output/
+        run:  sudo apt -y update && apt -y install rsync && rsync -arv  . output/
 
       - name: Push to taophilosophy.github.io
         uses: cpina/github-action-push-to-another-repository@v1.7.2
