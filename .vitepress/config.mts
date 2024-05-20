@@ -8,6 +8,16 @@ export default defineConfig({
 	lastUpdated: true,
 	title: "斯坦福哲学百科全书简体中文版",
 	description: "斯坦福哲学百科全书",
+	 markdown: {
+    math: true,
+        config(md) {
+      const defaultCodeInline = md.renderer.rules.code_inline!
+      md.renderer.rules.code_inline = (tokens, idx, options, env, self) => {
+        tokens[idx].attrSet('v-pre', '')
+        return defaultCodeInline(tokens, idx, options, env, self)
+      }
+    }
+  },
 	head: [
 		['meta', {
 			name: 'keywords',
@@ -44,7 +54,7 @@ export default defineConfig({
     darkModeSwitchLabel: '主题',
     lightModeSwitchTitle: '切换到浅色模式',
     darkModeSwitchTitle: '切换到深色模式',
-     search: {
+    search: {
       provider: 'local',
       options: {
         locales: {
