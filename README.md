@@ -1,8 +1,10 @@
 # 斯坦福哲学百科全书简体中文版
 
-[原版目录](https://plato.stanford.edu/contents.html)
+[原版英文目录](https://plato.stanford.edu/contents.html)
 
-[本书目录](mu-lu.md)
+[SEP 原版中文目录](mu-lu.md)
+
+[SEP 分类目录](mu-lu-s.md)
 
 [在线预览](https://tphil.gitbook.io/sep/)
 
@@ -22,9 +24,9 @@
 
 |  目录 |  实际数量 | 机器翻译 |
 | :-: |:--: | :--: |
-|  A  |   139 |   2 个条目无法处理 [^1] |
+|  A  |   139 |   2 个条目无法处理[^1]|
 |  B  |  61  |   X |
-|  C  |  171 |  错误太多将重新处理  |
+|  C  |  171 |  X  |
 |  D  |   89  |   错误太多将重新处理 |
 |  E  |    87 |    错误太多将重新处理 |
 |  F  |   91  |   错误太多将重新处理  |
@@ -49,7 +51,7 @@
 |  Y  |      1  |    ✓  |
 |  Z  |    6  |    ✓  |
 
-[^1]：无法处理条目参见 [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)，下同。
+[^1]: 无法处理条目参见 [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)，下同。
 
 ## 关于 SEP
 

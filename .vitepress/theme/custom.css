@@ -1,0 +1,25 @@
+/* 脚注超链接样式修正 */
+.footnote-backref,
+.footnote-ref a {
+  padding-right: unset !important;
+}
+
+.footnote-item {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.vp-doc a {
+  text-decoration: none;
+}
+
+@media (min-width: 1440px) {
+  .VPNavBar .curtain {
+    width: 85% !important;
+  }
+}
+@media (min-width: 960px) {
+  .VPDoc.has-aside .content-container {
+  max-width: 80% !important;
+}
+}
