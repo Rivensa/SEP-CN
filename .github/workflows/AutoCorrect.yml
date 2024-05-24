@@ -26,7 +26,10 @@ jobs:
           
         - name: Run autocorrect fix
           run: yarn autocorrect --fix **/*.md
-
+          
+        - name: remove autocorrect node
+          run: rm -rf *.node
+          
         - name: Markdown add spaces
           uses: peter-evans/create-pull-request@v6
           with:
