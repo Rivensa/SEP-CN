@@ -1,7 +1,6 @@
 name: 🔗 git-gc-bfg-action
 
 on:
-  push:
   repository_dispatch:
   workflow_dispatch:
 
@@ -10,4 +9,4 @@ jobs:
     runs-on: ubuntu-24.04
     name: TEST
     steps:
-      - uses: taophilosophy/git-gc-bfg-action@v1.0.33
+      - uses: taophilosophy/git-gc-bfg-action@v1.0.34
