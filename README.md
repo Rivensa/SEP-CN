@@ -6,11 +6,9 @@
 
 [SEP 分类目录](mu-lu-s.md)
 
-[在线预览](https://tphil.gitbook.io/sep/)
-
 [开源地址](https://github.com/taophilosophy/SEP-CN)
 
-![微信公众号](./.gitbook/assets/wechat.png)
+<img src="./.gitbook/assets/wechat.png" width="50%" height="50%">
 
 ## 词条说明
 
