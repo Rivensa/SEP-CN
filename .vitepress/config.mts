@@ -115,7 +115,6 @@ export default defineConfig({
 			level: 'deep'
 		},
 		sidebarMenuLabel: '目录',
-		externalLinkIcon: true,
 		lastUpdated: {
 			text: '最后更新于',
 			formatOptions: {
