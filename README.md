@@ -8,7 +8,7 @@
 
 [开源地址](https://github.com/taophilosophy/SEP-CN)
 
-<img src="./.gitbook/assets/wechat.png" width="50%" height="50%">
+<img src="./.gitbook/assets/wechat.png" width="25%" height="25%">
 
 ## 词条说明
 
