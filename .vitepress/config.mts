@@ -130,7 +130,7 @@ export default defineConfig({
 		plugins: [
 			autoNav({
 				summary: {
-					target: "doc/mu-lu-s.md",
+					target: "docs/mu-lu-s.md",
 					collapsed: false,
 				}
 			})
