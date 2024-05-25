@@ -1953,7 +1953,7 @@
 * [现象学 phenomenology (David Woodruff Smith)](p/xian-xiang-xue-phenomenology-david-woodruff-smith/README.md)
   * [道德现象学 moral (John Drummond and Mark Timmons)](p/xian-xiang-xue-phenomenology-david-woodruff-smith/dao-de-xian-xiang-xue-moral-john-drummond-and-mark-timmons.md)
   * [慕尼黑学派和哥廷根学派的现象学 of the Munich and Göttingen Circles (Alessandro Salice)](p/xian-xiang-xue-phenomenology-david-woodruff-smith/mu-ni-hei-xue-pai-he-ge-ting-gen-xue-pai-de-xian-xiang-xue-of-the-munich-and-gttingen-circles-alessa.md)
-* [首席法官菲利普 Philip the Chancellor (Colleen McCluskey and Anthony Celano)](p/shou-xi-fa-guan-fei-li-pu-philip-the-chancellor-colleen-mccluskey-and-anthony-celano.md)
+* [总务长菲利普 Philip the Chancellor (Colleen McCluskey and Anthony Celano)](p/shou-xi-fa-guan-fei-li-pu-philip-the-chancellor-colleen-mccluskey-and-anthony-celano.md)
 * [菲洛德穆 Philodemus (David Blank)](p/fei-luo-de-mu-philodemus-david-blank.md)
 * [菲洛劳斯 Philolaus (Carl Huffman)](p/fei-luo-lao-si-philolaus-carl-huffman.md)
 * [亚历山大里亚的斐洛 Philo of Alexandria (Carlos Lévy)](p/ya-li-shan-da-li-ya-de-fei-luo-philo-of-alexandria-carlos-lvy.md)
