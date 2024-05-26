@@ -3,14 +3,9 @@ import {
 } from 'vitepress';
 import autoNav from "vite-plugin-vitepress-auto-nav";
 import footnote from 'markdown-it-footnote';
-import mathjax3 from 'markdown-it-mathjax3';
 import taskLists from 'markdown-it-task-checkbox';
 
 export default defineConfig({
-
-	build: {
-		chunkSizeWarningLimit: 1600
-	},
 	sitemap: {
 		hostname: 'https://taophilosophy.github.io',
 	},
@@ -26,7 +21,6 @@ export default defineConfig({
 		},
 		config(md) {
 			md.use(footnote);
-			md.use(mathjax3);
 			md.use(taskLists, {
 				disabled: true,
 				divWrap: false,
