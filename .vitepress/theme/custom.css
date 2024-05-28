@@ -6,7 +6,8 @@
 /* 去掉链接下划线 */
 .vp-doc a {
   text-decoration: none;
-}/*
+}
+/*
 @media (min-width: 1440px) {
 /* 导航栏 */
   .VPNavBar .content {
@@ -57,12 +58,19 @@
     --vp-sidebar-width: 14.5vw !important;
   }
 }*/
-@media (min-width: 960px) {
+@media (min-width:1440px) {
   .VPDoc.has-aside .content-container {
   max-width: 100% !important;
 }
 }
 
+@media (min-width: 960px) {
+  /* 文本左、右缩进（整体） */
+  .VPContent.has-sidebar {
+    padding-left: 15% !important;
+    padding-right: 15% !important;
+  }
+}
 
 mjx-container {
   display: inline-block;
