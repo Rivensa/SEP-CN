@@ -443,6 +443,143 @@ mechanism in science (Carl Craver and James Tabery)——>机械论 需要重译
 # 否定 negation (Laurence R. Horn and Heinrich Wansing) 需要重译
 2024-05-18 10:16:58 
 # 变异一元论 anomalous monism (Steven Yalowitz) 需要重译 令牌错误
+=========================分界线====================================
+2024-05-19 7:11:37 
+苏波. 奥卡姆指代理论研究[D]. 河北大学, 2017.
+2024-05-19 7:11:48 
+中世纪的义务理论 obligationes, medieval theories of (Mikko Yrjönsuuri)
+2024-05-19 7:56:22 
+亚历山大港学派——>亚历山大学派
+2024-05-19 9:22:39 
+Nicole Oresme——>尼克尔·奥雷姆
+2024-05-19 9:22:42 
+尼克尔·奥雷姆 Oresme, Nicole (Stefan Kirschner) 需要重译
+2024-05-19 11:41:20 
+2024-05-20 9:14:18 
+弗朗切斯科·帕特里齐 出处 https://phil-zh.sysu.edu.cn/index.php/zh-hans/event/1480
+2024-05-20 9:40:36 
+Nominalism——>唯名论 错误翻译为名词主义
+2024-05-20 10:19:03 
+西班牙的彼得（彼得·希斯帕努斯）Peter of Spain  不是教皇约翰二十一世. https://en.wikipedia.org/wiki/Peter_of_Spain
+2024-05-20 10:19:48 
+存疑
+2024-05-20 10:23:42 
+ 西班牙的彼得（彼得·希斯帕努斯）的逻辑学 需要重译
+2024-05-20 17:33:03 
+# 阿罗定理 Arrow’s theorem (Michael Morreau) 需要重译
+2024-05-20 17:42:01 
+# 选择公理 choice, axiom of (John L. Bell)需要重译
+2024-05-20 17:44:20 
+# 定义 definitions (Anil Gupta and Stephen Mackereth) 需要重译
+2024-05-20 17:47:05 
+# 博弈论的认识论基础 epistemic foundations of (Eric Pacuit and Olivier Roy)  需要重译
+2024-05-20 17:52:05 
+名义主义 Nominalisms——>唯名论 错误翻译为名词主义
+2024-05-20 17:53:42 
+nominalist 唯名论 错误翻译为名义主义者
+2024-05-20 17:58:56 
+# 纳尔逊·古德曼 Goodman, Nelson (Daniel Cohnitz and Marcus Rossberg) 需要重译
+2024-05-20 18:22:15 
+# 陪审团定理 jury theorems (Franz Dietrich and Kai Spiekermann) 需要重译
+2024-05-20 19:53:03 
+`{{x},{x,y}}` 已经全部屏蔽vue
+2024-05-20 20:12:19 
+# 无穷逻辑 infinitary (John L. Bell) 需要重译
+2024-05-20 20:13:37 
+# 分体论 mereology (Achille Varzi) 需要重译
+2024-05-20 20:27:29 
+# 《数学原理》中的符号 notation in (Bernard Linsky) 需要重译
+2024-05-20 20:32:25 
+# 《数学原理》 Principia Mathematica (Bernard Linsky and Andrew David Irvine) 需要重译
+2024-05-20 20:43:26 
+# 量子逻辑和概率论 quantum logic and probability theory (Alexander Wilce)  需要重译
+2024-05-20 21:09:01 
+# 集合论：连续统假设 continuum hypothesis (Peter Koellner) 需要重译
+2024-05-20 22:08:29 
+# 非良基集合论 non-wellfounded (Lawrence S. Moss) 需要重译
+2024-05-20 22:09:47 
+# 策梅洛的公理化集合论 Zermelo’s axiomatization of (Michael Hallett) 需要重译
+2024-05-20 22:18:34 
+# 真值 truth values (Yaroslav Shramko and Heinrich Wansing) 需要重译
+2024-05-20 22:20:32 
+# 玛丽·沃斯通克拉夫特 Wollstonecraft, Mary (Sylvana Tomaselli) 需要重译
+2024-05-20 22:23:21 
+# 歧义 ambiguity (Adam Sennet)
+需要重译
+2024-05-20 22:24:07 
+# 邱奇-图灵论题 Church-Turing Thesis (B. Jack Copeland) 需要重译
+2024-05-20 22:24:52 
+# 话语表征理论 discourse representation theory (Bart Geurts, David I. Beaver, and Emar Maier)  需要重译
+2024-05-20 22:25:21 
+# 理查德·戴德金对数学基础的贡献 contributions to the foundations of mathematics (Erich Reck) 需要重译
+2024-05-20 22:27:09 
+# 摹状词 descriptions (Peter Ludlow)  需要重译
+2024-05-20 22:27:34 
+# 几何学中的有限主义 finitism in (Jean Paul Van Bendegem) 需要重译
+2024-05-20 22:27:52 
+# 动态认知逻辑 dynamic epistemic (Alexandru Baltag and Bryan Renne) 需要重译
+2024-05-20 22:28:33 
+# 命题动态逻辑 propositional dynamic (Nicolas Troquard and Philippe Balbiani) 需要重译
+2024-05-20 22:29:06 
+# 内涵逻辑 intensional (Melvin Fitting) 需要重译
+2024-05-20 22:29:54 
+# λ 演算 lambda calculus, the (Jesse Alama and Johannes Korbmacher) 需要重译
+2024-05-20 22:31:20 
+# 宗教哲学 philosophy of (Charles Taliaferro) 需要重译
+2024-05-20 22:32:09 
+# 量子力学中的一致性历史方法 consistent histories approach (Robert B. Griffiths) 需要重译
+2024-05-20 22:32:42 
+# 属性  properties (Francesco Orilia and Michele Paolini Paoletti) 需要重译
+2024-05-20 22:34:14 
+# 命题 propositions (Matthew McGrath and Devin Frank) 需要重译
+2024-05-20 22:34:36 
+# 多模态逻辑的哲学方向 multi-modal logic, philosophical aspects of (Sonja Smets and Fernando Velázquez-Quesada) 需要重译
+2024-05-20 22:34:59 
+# 行动的逻辑 action (Krister Segerberg, John-Jules Meyer, and Marcus Kracht) 需要重译
+2024-05-23 22:59:21 
+爱因斯坦的学术遗产：Einstein's academic heritage
+爱因斯坦的学术传世：Einstein's academic legacy
+爱因斯坦的学术传承：Einstein's academic tradition
+爱因斯坦的学术成就：Einstein's academic achievements
+爱因斯坦的学术财富：Einstein's academic wealth
+爱因斯坦的学术遗珍：Einstein's academic treasures
+爱因斯坦的学术宝藏：Einstein's academic treasures爱因斯坦的学术贡献：Einstein's academic contributions
+archdeacon——>总执事
+2024-05-25 17:02:03 
+黄旭华,李盛兵. 中世纪大学执教资格授予权博弈——托钵修会VS教师行会 [J]. 高教探索, 2018, (12): 78-85.
+2024-05-25 17:03:01 
+巴黎大教堂学校（前巴黎大学附属的，不是现在的解散的巴黎大学）的Chanceliers ，也不是校长
+2024-05-25 17:10:47 
+与巴黎圣母主教座堂学校相关
+2024-05-25 17:32:42 
+安瑟伦是皮埃尔·阿伯拉尔老师
+2024-05-25 17:47:14 
+黄梦婉. 中世纪晚期执教资格授予权的变迁——以巴黎大学为例 [J]. 高等教育研究, 2017, 38 (04): 83-90.  明确指出是执事
+2024-05-25 18:06:40 
+掌校教士
+2024-05-25 18:06:47 
+起码有5个翻译了
+2024-05-25 18:12:25 
+自8世纪起,主教所在主教座堂有权设置学校。主教下设教务长(scholasticus)和总务长(chancellarius),教务长
+负责教学,总务长管理主教座堂学校和整个教区内的学校事务。①   高露. 12—15世纪欧洲大学特许权研究[D]. 东北师范大学, 2021. DOI:10.27011/d.cnki.gdbsu.2021.001682.
+2024-05-25 18:18:22 
+校监 ——>Chancellor 就来源于此
+2024-05-25 18:18:37 
+栾明香. 英国大学中的Chancellor与Vice-chancellor [J]. 世界教育信息, 2008, (06): 94.
+2024-05-25 18:58:55 
+黄梦婉. 中世纪晚期执教资格授予权的变迁——以巴黎大学为例 [J]. 高等教育研究, 2017, 38 (04): 83-90.  明确指出 Chancellor 是执事，但是这是不正确的，因为执事是 Archdeacon，但是根据 SEP，这位是 Archdeacon是 Noyon 地区的，一篇文章中一般用相同的词汇代表一个职位。其实这个词现在被翻译为“校监”，英国大学还在使用。见栾明香. 英国大学中的Chancellor与Vice-chancellor [J]. 世界教育信息, 2008, (06): 94. 根据高露. 12—15世纪欧洲大学特许权研究[D]. 东北师范大学, 2021. DOI:10.27011/d.cnki.gdbsu.2021.001682. 论文作者将 Chancellor 翻译为总务长。还有翻译为“掌校教士”的。因为SEP文中称其地位不高，甚至是最低等级。备注：巴黎大学分2个，中世纪的是前巴黎大学。巴黎大学早期名义上是巴黎主教坐堂学校的附属机构。黄旭华,李盛兵. 中世纪大学执教资格授予权博弈——托钵修会VS教师行会 [J]. 高教探索, 2018, (12): 78-85.翻译为执事长。黄靖. 欧洲中世纪大学教师执教资格制度研究[D]. 福建师范大学, 2018.翻译为主教座堂主事。根据常识，主教座堂主事就是主教，主教属于高阶神职人员，该翻译明显存在错误——原文称教育是主教的责任，而主事则在教区对教育组织与管理享有垄断的权力。但是根据高露. 12—15世纪欧洲大学特许权研究[D]. 东北师范大学, 2021.，称主教下设教务长(scholasticus)和总务长(chancellarius),教务长负责教学,总务长管理主教座堂学校和整个教区内的学校事务。二者明显是冲突的。根据基督教神职等级序列，主教地方教会的最高领导者，不可能存在所谓主教管上课，主事管教育的情况，且存在逻辑错误，此处对黄的文章存疑。综合上文，根据SEP，此处将其命名为总务长。
+2024-05-25 18:59:25 
+但是无论如何都和法官不沾边，翻译为法官是绝对错误的。
+2024-05-27 20:43:58 
+波尔·罗亚尔逻辑 国内也叫王港逻辑 http://www.zhexueshi.com/paper/3651 但是这篇文章作者他并未翻译出版此书，而且人也不在了
+2024-05-27 21:14:46 
+# 理查德·普莱斯 Price, Richard (David McNaughton) 需要重译，机器翻译有错乱重复
+2024-05-28 10:34:47 
+r'^\s*\* \[\\.*'
+2024-05-28 17:43:23 
+感觉材料 sense data (Gary Hatfield) 需要重译
+2024-05-28 19:08:31 
+公开性 publicity (Axel Gosseries and Tom Parr) 需要重译
 ```
 
 ## 待分类条目
