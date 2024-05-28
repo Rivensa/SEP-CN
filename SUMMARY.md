@@ -2098,7 +2098,7 @@
 * [公共物品 public goods (Julian Reiss)](p/gong-gong-wu-pin-public-goods-julian-reiss.md)
 * [\*公共卫生 public health](p/gong-gong-wei-sheng-public-health/README.md)
   * [公共卫生伦理 ethics (Ruth Faden, Justin Bernstein, and Sirine Shebaya)](p/gong-gong-wei-sheng-public-health/gong-gong-wei-sheng-lun-li-ethics-ruth-faden-justin-bernstein-and-sirine-shebaya.md)
-* [宣传 publicity (Axel Gosseries and Tom Parr)](p/xuan-chuan-publicity-axel-gosseries-and-tom-parr.md)
+* [公开性 publicity (Axel Gosseries and Tom Parr)](p/xuan-chuan-publicity-axel-gosseries-and-tom-parr.md)
 * [公共理性 public reason (Jonathan Quong)](p/gong-gong-li-xing-public-reason-jonathan-quong.md)
 * [\*塞缪尔·冯·普芬道夫 Pufendorf, Samuel Freiherr von](p/sai-mou-er-feng-pu-fen-dao-fu-pufendorf-samuel-freiherr-von/README.md)
   * [普芬道夫的伦理学和政治哲学 moral and political philosophy (Michael Seidler)](p/sai-mou-er-feng-pu-fen-dao-fu-pufendorf-samuel-freiherr-von/pu-fen-dao-fu-de-lun-li-xue-he-zheng-zhi-zhe-xue-moral-and-political-philosophy-michael-seidler.md)
