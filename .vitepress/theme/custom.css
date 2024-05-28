@@ -53,9 +53,9 @@
     padding-right: 15% !important;
   }
   /*:root{
- /*   /* 左侧边栏文字宽度，似乎会影响960px，故禁止 */
+     左侧边栏文字宽度，似乎会影响960px，故禁止 
     --vp-sidebar-width: 14.5vw !important;
-  }*/
+  } */
 }
 
 @media (min-width: 960px) {
