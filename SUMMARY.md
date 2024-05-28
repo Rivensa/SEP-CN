@@ -1,7 +1,6 @@
 # Table of contents
 
 * [斯坦福哲学百科全书简体中文版](README.md)
-* [目录](mu-lu.md)
 * [分类目录](mu-lu-s.md)
 
 ## 前言
