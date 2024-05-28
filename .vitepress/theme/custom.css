@@ -56,12 +56,17 @@
      左侧边栏文字宽度，似乎会影响960px，故禁止 
     --vp-sidebar-width: 14.5vw !important;
   } */
+    .VPDoc.has-aside .content-container {
+  max-width: 100% !important;
+}
 }
 
 @media (min-width: 960px) {
-  .VPDoc.has-aside .content-container {
-  max-width: 100% !important;
-}
+
+  .VPNavBar .content {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
 }
 
 
