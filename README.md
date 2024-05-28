@@ -2,7 +2,7 @@
 
 [原版英文目录](https://plato.stanford.edu/contents.html)
 
-[SEP 原版中文目录](mu-lu.md)
+[SEP 原版中文目录](SUMMARY.md)
 
 [SEP 分类目录](mu-lu-s.md)
 
