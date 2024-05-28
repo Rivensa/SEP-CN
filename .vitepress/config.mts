@@ -258,7 +258,7 @@ export default defineConfig({
 
 	vite: {
 		plugins: [
-				plugins: [pagefindPlugin({
+				pagefindPlugin({
 				customSearchQuery: chineseSearchOptimize,
 				btnPlaceholder: '搜索',
 				placeholder: '搜索文档',
