@@ -6,7 +6,7 @@
 /* 去掉链接下划线 */
 .vp-doc a {
   text-decoration: none;
-}
+}/*
 @media (min-width: 1440px) {
 /* 导航栏 */
   .VPNavBar .content {
@@ -56,7 +56,7 @@
    /* 左侧边栏文字宽度 */
     --vp-sidebar-width: 14.5vw !important;
   }
-}
+}*/
 @media (min-width: 960px) {
   .VPDoc.has-aside .content-container {
   max-width: 100% !important;
