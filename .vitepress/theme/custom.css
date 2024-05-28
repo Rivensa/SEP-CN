@@ -7,7 +7,6 @@
 .vp-doc a {
   text-decoration: none;
 }
-
 @media (min-width: 1440px) {
 /* 导航栏 */
   .VPNavBar .content {
@@ -53,13 +52,11 @@
     padding-left: 15% !important;
     padding-right: 15% !important;
   }
- :root{
-   /* 左侧边栏文字宽度 */
+  /*:root{
+ /*   /* 左侧边栏文字宽度，似乎会影响960px，故禁止 */
     --vp-sidebar-width: 14.5vw !important;
-  }
+  }*/
 }
-
-
 
 @media (min-width: 960px) {
   .VPDoc.has-aside .content-container {
