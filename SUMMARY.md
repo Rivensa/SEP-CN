@@ -2360,7 +2360,7 @@
 * [\*符号学 semiotics](s/fu-hao-xue-semiotics/README.md)
   * [中世纪符号学 medieval (Stephan Meier-Oeser)](s/fu-hao-xue-semiotics/zhong-shi-ji-fu-hao-xue-medieval-stephan-meieroeser.md)
 * [塞涅卡 Seneca (Katja Vogt)](s/sai-nie-ka-seneca-katja-vogt.md)
-* [感觉予料 sense data (Gary Hatfield)](s/gan-jue-yu-liao-sense-data-gary-hatfield.md)
+* [感觉材料 sense data (Gary Hatfield)](s/gan-jue-yu-liao-sense-data-gary-hatfield.md)
 * [\*感性理论——见恰当态度的价值理论 sensibility theory — see fitting attitude theories of value](s/gan-xing-li-lun-jian-qia-dang-tai-du-de-jia-zhi-li-lun-sensibility-theory-see-fitting-attitude-theor.md)
 * [\*道德情感主义——见道德情感主义 sentimentalism, moral — see moral sentimentalism](s/dao-de-qing-gan-zhu-yi-jian-dao-de-qing-gan-zhu-yi-sentimentalism-moral-see-moral-sentimentalism.md)
 * [集合论 set theory (Joan Bagaria)](s/ji-he-lun-set-theory-joan-bagaria/README.md)
