@@ -16,40 +16,36 @@
 
 他的语法和逻辑作品，也就是那些被最彻底研究的作品，包括以下问题评论：
 
-1. Priscianum minorem 上的问题 (= QPm)
-2. De divisione Boethii 书的问题（两个版本）
-3. *Topicorum Boethii 书的问题*
-4. 古代艺术问题（= QAV）
-
-* 4.1 波菲里奥问题（= QsP）
-* 4.2 谓词篇问题
-* 4.3 拉杜尔弗斯·布里托对《论词义》的问题
-
-5. *对《前分析学》的问题*
-6. *对《后分析学》的问题*
-7. *关于《论题学》书的问题*
-8. *关于《诡辩术》书的问题*
-9. *关于《六原则》书的问题*
-10.  
-
-     * 拉杜尔弗斯·布里托*
+1. *Quaestiones super Priscianum minorem* (= *QPm*)
+2. *Quaestiones super librum De divisione Boethii* (two versions)
+3. *Quaestiones super librum Topicorum Boethii*
+4. *Quaestiones super artem veterem* (= *QAV*)
+  * 4.1 *Quaestiones super Porphyrium* (= *QsP*)
+  * 4.2 *Quaestiones super librum Praedicamentorum*
+  * 4.3 *Quaestiones super librum Perihermeneias*
+5. *Quaestiones super librum Priorum Analyticorum*
+6. *Quaestiones super librum Posteriorum Analyticorum*
+7. *Quaestiones super librum Topicorum*
+8. *Quaestiones super Sophisticos Elenchos*
+9. *Quaestiones in librum Sex principiorum*
+10. *Sophismata*
 
 尽管这些作品大部分只存在手稿形式，但有 1（QPm-1980）、3（QTB-1978）和 5（QPA-2016）的版本，2、7 和 8 的版本即将推出。9、10、4.1 和 4.2 的版本也正在进行中。还有 15 世纪的版本（QR-1499）和 Gennadios Scholarios 的文艺复兴希腊翻译（Ebbesen＆Pinborg 1981-1982）的 4，以及 4-10 的一些部分版本。特别是参见 Ebbesen＆Pinborg 1981-1982，了解 4.1 的序言版本。[2]
 
 剩下的布里托哲学文集研究得较少，包括以下问题评论：
 
-1. *Quaestiones super libros I–XII Metaphysicae* (= *QMet*)
+1. *Quaestiones super libros I–XII Metaphysicae* (= *QMet*)
 2. *Quaestiones super librum Physicorum*
-3. *Quaestiones in libros De anima* (= *QDA*)
-4. Quaestiones in parva naturalia（包括 Quaestiones De memoria et reminiscentia（= QDM））
+3. *Quaestiones in libros De anima* (= *QDA*)
+4. *Quaestiones in parva naturalia* (including *Quaestiones De memoria et reminiscentia* (= *QDM*))
 5. *Quaestiones super librum Meteorologicorum*
 6. *Quaestiones super libros I–II Politicorum*
-7. 伦理学书问题（= QEN; 两个版本）
-8. *小数学问题*
-9. 《宇宙实体》问题（归因于布里托的问题仍不确定；请参见 QE-2008：103）
-10. *动物运动问题书*
-11. *相面学问题书*
-12. *因果问题书*
+7. *Quaestiones super librum Ethicorum* (= *QEN*; two versions)
+8. *Quaestiones in parva mathematicalia*
+9. *Quaestiones in librum De substantia orbis* (the attribution to Brito remains uncertain; see *QE-2008*: 103)
+10. *Quaestiones super librum De motibus animalium*
+11. *Quaestiones super Physiognomicam*
+12. *Quaestiones super librum De causis*
 
 这些作品中大部分也只存在于手稿中。目前正在进行 1 和 8 的版本编辑。只有 7（QE-2008）和 12（QDc-2016）已经完全编辑。关于 3，关于《灵魂论》第一篇的问题（QDA-2012-I）和关于《灵魂论》第三篇的问题（QDA-1974-III）已经完全编辑，关于《灵魂论》第二篇的问题有部分编辑（QDA-2012-II）。最后，关于 1、4-6 和 8 有部分版本编辑。[3]
 
