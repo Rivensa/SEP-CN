@@ -1,3 +1,7 @@
+---
+outline: [1, 6]
+---
+
 # 希腊、罗马和拜占庭哲学 <500
 ## 前苏格拉底哲学
 * [前苏格拉底哲学 Presocratic Philosophy (Patricia Curd)](p/qian-su-ge-la-di-zhe-xue-presocratic-philosophy-patricia-curd.md)
