@@ -60,6 +60,7 @@
 
 
 ## 详细日志与词汇表
+
 ```
 2024-04-20 17:52:19 
 尚波的威廉
@@ -587,53 +588,6 @@ r'^\s*\* \[\\.*'
 ```
 
 
-  
-
-    
-
-## R
-  [拉杜尔弗斯·布里托 Radulphus Brito (Ana María Mora-Márquez and Iacopo Costa)](r/la-du-er-fu-si-bu-li-tuo-radulphus-brito-ana-mara-moramrquez-and-iacopo-costa.md)
-[弗兰克·拉姆齐 Ramsey, Frank (Fraser MacBride, Mathieu Marion, María José Frápolli, Dorothy Edgington, Edward Elliott, Sebastian Lutz, and Jeffrey Paris)](r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/README.md)
-  [拉姆齐的代际福利经济学 and intergenerational welfare economics (Partha Dasgupta)](r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/la-mu-qi-de-dai-ji-fu-li-jing-ji-xue-and-intergenerational-welfare-economics-partha-dasgupta.md)
-[彼得吕斯·拉米斯 Ramus, Petrus (Erland Sellberg)](r/bi-de-lv-si-la-mi-si-ramus-petrus-erland-sellberg.md)
-[安·兰德 Rand, Ayn (Neera K. Badhwar and Roderick T. Long)](r/an-lan-de-rand-ayn-neera-k.-badhwar-and-roderick-t.-long.md)
-    [理性选择的规范理论：预期效用 expected utility (R. A. Briggs)](r/li-xing-xuan-ze-de-gui-fan-li-lun-rational-choice-normative/li-xing-xuan-ze-de-gui-fan-li-lun-yu-qi-xiao-yong-de-ti-dai-li-lun-expected-utility-r.-a.-briggs.md)
-  [理性选择的规范理论：预期效用的替代理论 rivals to expected utility (Lara Buchak)](r/li-xing-xuan-ze-de-gui-fan-li-lun-rational-choice-normative/li-xing-xuan-ze-de-gui-fan-li-lun-yu-qi-xiao-yong-rivals-to-expected-utility-lara-buchak.md)
-[理性主义与经验主义 rationalism vs. empiricism (Peter Markie and M. Folescu)](r/li-xing-zhu-yi-yu-jing-yan-zhu-yi-rationalism-vs.-empiricism-peter-markie-and-m.-folescu.md)
-        [科学理性的历史主义 historicist theories of (Thomas Nickles)](r/li-xing-rationality/ke-xue-li-xing-de-li-shi-zhu-yi-historicist-theories-of-thomas-nickles.md)
-  [工具理性 instrumental (Niko Kolodny and John Brunero)](r/li-xing-rationality/gong-ju-li-xing-instrumental-niko-kolodny-and-john-brunero.md)
-  [结构理性 structural (Benjamin Kiesewetter and Alex Worsnip)](r/li-xing-rationality/zi-jie-gou-luo-ji-structural-benjamin-kiesewetter-and-alex-worsnip.md)
-[约翰·罗尔斯 Rawls, John (Leif Wenar)](r/yue-han-luo-er-si-rawls-john-leif-wenar.md)
-[实在论 realism (Alexander Miller)](r/shi-zai-lun-realism-alexander-miller/README.md)
-  [对形而上学实在论的挑战 challenges to metaphysical (Drew Khlentzos)](r/shi-zai-lun-realism-alexander-miller/dui-xing-er-shang-xue-shi-zai-lun-de-tiao-zhan-challenges-to-metaphysical-drew-khlentzos.md)
-[科学实在论和理论变革 and theory change in science (Stathis Psillos)](r/shi-zai-lun-realism-alexander-miller/ke-xue-zhong-de-shi-zai-lun-he-li-lun-bian-ge-and-theory-change-in-science-stathis-psillos.md)
-  [道德推理 moral (Henry S. Richardson)](r/tui-li-reasoning/dao-de-tui-li-moral-henry-s.-richardson.md)
-[承认 recognition (Mattias Iser)](r/cheng-ren-recognition-mattias-iser.md)
-[和解 reconciliation (Linda Radzik and Colleen Murphy)](r/he-jie-reconciliation-linda-radzik-and-colleen-murphy.md)
-[递归函数 recursive functions (Walter Dean and Alberto Naibo)](r/di-gui-han-shu-recursive-functions-walter-dean-and-alberto-naibo.md)
-[再分配 redistribution (Christian Barry)](r/zai-fen-pei-redistribution-christian-barry.md)
-[科学还原论 reduction, scientific (Raphael van Riel and Robert Van Gulick)](r/ke-xue-huan-yuan-lun-reduction-scientific-raphael-van-riel-and-robert-van-gulick/README.md)
-  [指涉 reference (Eliot Michaelson)](r/zhi-she-reference-eliot-michaelson.md)
-[反思平衡 reflective equilibrium (Carl Knight)](r/fan-si-ping-heng-reflective-equilibrium-carl-knight.md)
-[亨利·莱格伍 Regius, Henricus (Desmond Clarke and Erik-Jan Bos)](r/heng-li-lai-ge-wu-regius-henricus-desmond-clarke-and-erikjan-bos.md)
-[奥古斯特·威廉·雷贝格 Rehberg, August Wilhelm (Frederick C. Beiser)](r/ao-gu-si-te-wei-lian-lei-bei-ge-rehberg-august-wilhelm-frederick-c.-beiser.md)
-[汉斯·赖兴巴赫 Reichenbach, Hans (Clark Glymour and Frederick Eberhardt)](r/han-si-lai-xing-ba-he-reichenbach-hans-clark-glymour-and-frederick-eberhardt/README.md)
-  [汉斯·赖兴巴赫的共同原因原理 common cause principle (Christopher Hitchcock and Miklós Rédei)](r/han-si-lai-xing-ba-he-reichenbach-hans-clark-glymour-and-frederick-eberhardt/han-si-lai-xing-ba-he-de-gong-tong-yuan-yin-yuan-li-common-cause-principle-christopher-hitchcock-and.md)
-[托马斯·里德 Reid, Thomas (Ryan Nichols and Gideon Yaffe)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/README.md)
-  [里德的伦理学 ethics (Terence Cuneo)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/li-de-de-lun-li-xue-ethics-terence-cuneo.md)
-  [里德论记忆与人格同一性 on memory and personal identity (Rebecca Copenhaver)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/li-de-lun-ji-yi-yu-ren-ge-tong-yi-xing-on-memory-and-personal-identity-rebecca-copenhaver.md)
-[阿道夫·莱纳赫 Reinach, Adolf (Alessandro Salice, James DuBois, and Barry Smith)](r/a-dao-fu-lai-na-he-reinach-adolf-alessandro-salice-james-dubois-and-barry-smith.md)
-[卡尔·莱昂哈德·莱因霍尔德 Reinhold, Karl Leonhard (Dan Breazeale and John Walsh)](r/ka-er-lai-ang-ha-de-lai-yin-huo-er-de-reinhold-karl-leonhard-dan-breazeale-and-john-walsh.md)
-[关系 relations (Fraser MacBride)](r/guan-xi-relations-fraser-macbride/README.md)
-  [中世纪关系理论 medieval theories of (Jeffrey Brower)](r/guan-xi-relations-fraser-macbride/zhong-shi-ji-guan-xi-li-lun-medieval-theories-of-jeffrey-brower.md)
-[相对主义 relativism (Maria Baghramian and J. Adam Carter)](r/xiang-dui-zhu-yi-relativism-maria-baghramian-and-j.-adam-carter/README.md)
-  [可靠主义认识论 reliabilist epistemology (Alvin Goldman and Bob Beddor)](r/ke-kao-zhu-yi-ren-shi-lun-reliabilist-epistemology-alvin-goldman-and-bob-beddor.md)
-[政治代表 representation, political (Suzanne Dovi)](r/zheng-zhi-dai-biao-representation-political-suzanne-dovi.md)
-[科学结果的可重复性 reproducibility, scientific (Fiona Fidler and John Wilcox)](r/ke-xue-jie-guo-de-ke-zhong-fu-xing-reproducibility-scientific-fiona-fidler-and-john-wilcox.md)
-[令人反感的结论 repugnant conclusion, the (Gustaf Arrhenius, Jesper Ryberg, and Torbjörn Tännsjö)](r/ling-ren-fan-gan-de-jie-lun-repugnant-conclusion-the-gustaf-arrhenius-jesper-ryberg-and-torbjrn-tnns.md)
-[尊重 respect (Robin S. Dillon)](r/zun-zhong-respect-robin-s.-dillon.md)
-[反推数学 reverse mathematics (Benedict Eastaugh)](r/fan-tui-shu-xue-reverse-mathematics-benedict-eastaugh.md)
-[革命 revolution (Allen Buchanan and Alexander Motchoulski)](r/ge-ming-revolution-allen-buchanan-and-alexander-motchoulski.md)
 [诡辩家理查德 Richard the Sophister \[Ricardus Sophista, Magister abstractionum\] (Paul Streveler)](r/gui-bian-jia-li-cha-de-richard-the-sophister-ricardus-sophista-magister-abstractionum-paul-streveler.md)
 [海因里希·李凯尔特 Rickert, Heinrich (Andrea Staiti and Luca Oliva)](r/hai-yin-li-xi-li-kai-er-te-rickert-heinrich-andrea-staiti-and-luca-oliva.md)
 [保罗·利科 Ricoeur, Paul (David Pellauer and Bernard Dauenhauer)](r/bao-luo-li-ke-ricoeur-paul-david-pellauer-and-bernard-dauenhauer.md)
