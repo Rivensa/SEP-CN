@@ -36,10 +36,7 @@
   /* 右 TOC 文本宽度*/
     width: 16vw !important;
   }
-  .outline-link{
-  /* 右 TOC 文本换行*/
-   white-space: normal !important;
-  }
+
 /* 左侧边栏 */
     .VPSidebar {
     /* 左侧边栏左缩进 */
@@ -67,6 +64,7 @@
     padding-left: 0px !important;
     padding-right: 0px !important;
   }
+  
 }
 
 
@@ -79,3 +77,8 @@ mjx-container > svg {
   margin: auto;
   display: inline-block;
 }
+
+  .outline-link{
+  /* 对于任何尺寸均使 TOC 文本换行*/
+   white-space: normal !important;
+  }
