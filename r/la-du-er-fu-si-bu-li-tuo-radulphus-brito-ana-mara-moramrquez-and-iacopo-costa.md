@@ -16,19 +16,21 @@
 
 他的语法和逻辑作品，也就是那些被最彻底研究的作品，包括以下问题评论：
 
-1. *Quaestiones super Priscianum minorem* (= *QPm*)
-2. *Quaestiones super librum De divisione Boethii* (two versions)
+1. *Quaestiones super Priscianum minorem* (= *QPm*)
+2. *Quaestiones super librum De divisione Boethii* (two versions)
 3. *Quaestiones super librum Topicorum Boethii*
-4. *Quaestiones super artem veterem* (= *QAV*)
-  * 4.1 *Quaestiones super Porphyrium* (= *QsP*)
-  * 4.2 *Quaestiones super librum Praedicamentorum*
-  * 4.3 *Quaestiones super librum Perihermeneias*
+4. *Quaestiones super artem veterem* (= *QAV*)
+   - 4.1 *Quaestiones super Porphyrium* (= *QsP*)
+   - 4.2 *Quaestiones super librum Praedicamentorum*
+   - 4.3 *Quaestiones super librum Perihermeneias*
 5. *Quaestiones super librum Priorum Analyticorum*
 6. *Quaestiones super librum Posteriorum Analyticorum*
 7. *Quaestiones super librum Topicorum*
 8. *Quaestiones super Sophisticos Elenchos*
 9. *Quaestiones in librum Sex principiorum*
 10. *Sophismata*
+
+
 
 尽管这些作品大部分只存在手稿形式，但有 1（QPm-1980）、3（QTB-1978）和 5（QPA-2016）的版本，2、7 和 8 的版本即将推出。9、10、4.1 和 4.2 的版本也正在进行中。还有 15 世纪的版本（QR-1499）和 Gennadios Scholarios 的文艺复兴希腊翻译（Ebbesen＆Pinborg 1981-1982）的 4，以及 4-10 的一些部分版本。特别是参见 Ebbesen＆Pinborg 1981-1982，了解 4.1 的序言版本。[2]
 
