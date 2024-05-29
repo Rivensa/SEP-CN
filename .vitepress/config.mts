@@ -5,7 +5,6 @@ import autoNav from "vite-plugin-vitepress-auto-nav";
 import footnote from 'markdown-it-footnote';
 import mathjax3 from 'markdown-it-mathjax3';
 import taskLists from 'markdown-it-task-checkbox';
-import { chineseSearchOptimize, pagefindPlugin } from 'vitepress-plugin-pagefind';
 
 const customElements = [
   'mjx-container',
@@ -258,14 +257,6 @@ export default defineConfig({
 
 	vite: {
 		plugins: [
-				pagefindPlugin({
-				customSearchQuery: false,
-				btnPlaceholder: '搜索',
-				placeholder: '搜索文档',
-				emptyText: '空空如也',
-				heading: '共: {{searchResult}} 条结果',
-				excludeSelector: ['img', 'a.header-anchor'],
-			} ),
 			autoNav({
 				summary: {
 					target: "docs/mu-lu-s.md",
