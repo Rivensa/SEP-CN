@@ -2333,7 +2333,7 @@
 * [玛德琳·德·史居里 Scudéry, Madeleine de (John Conley)](s/ma-de-lin-shi-ju-li-scudry-madeleine-de-john-conley.md)
 * [\*搜索引擎伦理——见伦理学：搜索引擎伦理 search engines and ethics — see ethics: search engines and](s/sou-suo-yin-qing-lun-li-jian-lun-li-xue-sou-suo-yin-qing-lun-li-search-engines-and-ethics-see-ethics.md)
 * [\*雷蒙·塞邦——见米歇尔·德·蒙田 Sebond, Raymond — see Montaigne, Michel de](s/lei-meng-sai-bang-jian-mi-xie-er-de-meng-tian-sebond-raymond-see-montaigne-michel-de.md)
-* [分离 secession (Allen Buchanan and Elizabeth Levinson)](s/fen-li-secession-allen-buchanan-and-elizabeth-levinson.md)
+* [脱离 secession (Allen Buchanan and Elizabeth Levinson)](s/fen-li-secession-allen-buchanan-and-elizabeth-levinson.md)
 * [\*早期现代哲学中的第一性质和第二性质——见早期现代哲学中的第一性质和第二性质 secondary qualities, in early modern philosophy — see primary and secondary qualities in early modern philosophy](s/zao-qi-xian-dai-zhe-xue-zhong-de-di-yi-xing-zhi-he-di-er-xing-zhi-jian-zao-qi-xian-dai-zhe-xue-zhong.md)
 * [\*自我 self](s/zi-wo-self/README.md)
   * [\*女性主义对自我的观点——见女性主义哲学主题：女性主义对自我的观点 feminist perspectives on the — see feminist philosophy, topics: perspectives on the self](s/zi-wo-self/nv-xing-zhu-yi-dui-zi-wo-de-guan-dian-jian-nv-xing-zhu-yi-zhe-xue-zhu-ti-nv-xing-zhu-yi-dui-zi-wo-de.md)
