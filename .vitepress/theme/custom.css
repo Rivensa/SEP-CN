@@ -17,8 +17,8 @@
   }
   /* 导航栏标题左、右侧缩进 */
 .VPNavBar {
-  padding-left:  5% !important;
-  padding-right: 5% !important;
+  padding-left:  15vw !important;
+  padding-right: 5vw !important;
 }
   /* 右 TOC */
 .aside {
@@ -30,7 +30,7 @@
 /* 导航栏标题 */
   .VPNavBar .title {
     /* 导航栏标题左侧缩进 */
-    padding-left: 1.5vw !important;
+    padding-left: 1vw !important;
   }
   .aside-container{
   /* 右 TOC 文本宽度*/
