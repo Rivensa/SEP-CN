@@ -56,6 +56,7 @@
     - Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring) 不知道是谁
     - Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)  不知道是谁
 - 2024.05.09 S、T、U、V、W、X、Y、Z 部分条目的机器重译完成
+- 2024.05.11 开始对 SEP 条目进行分类
 - 2024.05.19 清空 B 部分目录未重译的条目以准备重译
 - 2024.05.31 对 SEP 条目的分类初步完成
 
