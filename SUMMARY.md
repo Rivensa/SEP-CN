@@ -2469,7 +2469,7 @@
 * [\*结构主义 structuralism](s/jie-gou-zhu-yi-structuralism/README.md)
   * [\*数学哲学：见数学哲学：数学哲学中的结构主义 in mathematics — see mathematics, philosophy of: structuralism](s/jie-gou-zhu-yi-structuralism/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-jie-gou-zhu-yi-in-mathematics-see-math.md)
   * [\*物理学——见物理学：物理学中的结构主义 in physics — see physics: structuralism in](s/jie-gou-zhu-yi-structuralism/wu-li-xue-jian-wu-li-xue-wu-li-xue-zhong-de-jie-gou-zhu-yi-in-physics-see-physics-structuralism-in.md)
-* [结构现实主义 structural realism (James Ladyman)](s/jie-gou-xian-shi-zhu-yi-structural-realism-james-ladyman.md)
+* [结构实在论 structural realism (James Ladyman)](s/jie-gou-xian-shi-zhu-yi-structural-realism-james-ladyman.md)
 * [卡尔·斯图姆夫 Stumpf, Carl (Denis Fisette)](s/ka-er-si-tu-mu-fu-stumpf-carl-denis-fisette.md)
 * [约翰内斯·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)](s/yue-han-nei-si-shi-tu-er-mu-sturm-johann-andrea-sangiacomo-and-christian-henkel.md)
 * [\*风格 style](s/feng-ge-style/README.md)
