@@ -57,7 +57,7 @@
     - Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)  不知道是谁
 - 2024.05.09 S、T、U、V、W、X、Y、Z 部分条目的机器重译完成
 - 2024.05.19 清空 B 部分目录未重译的条目以准备重译
-
+- 2024.05.31 对 SEP 条目的分类初步完成
 
 ## 详细日志与词汇表
 
@@ -581,119 +581,68 @@ r'^\s*\* \[\\.*'
 感觉材料 sense data (Gary Hatfield) 需要重译
 2024-05-28 19:08:31 
 公开性 publicity (Axel Gosseries and Tom Parr) 需要重译
+
+------------------------------------------------
+       分界线                  分界线
+-------------------------------------------------
+
+2024-05-29 20:31:32 simple(2523806233)
+工具理性 instrumental (Niko Kolodny and John Brunero) 需要重译
+因为存在代理人翻译错误
+
+2024-05-29 21:54:47 simple(2523806233)
+reference——>指称 ，但是自我指涉是 self-reference，少用自我指称
+
+2024-05-29 21:55:50 simple(2523806233)
+王建芳. 当代指称理论的“第三条道路”探赜 [J]. 自然辩证法研究, 2023, 39 (09): 40-46. DOI:10.19484/j.cnki.1000-8934.2023.09.001.
+2024-05-30 0:56:20 simple(2523806233)
+需要把近代形而上学唯物主义消减掉？
+
+2024-05-30 22:16:18 simple(2523806233)
+卡尔·施米特 Schmitt, Carl  ——>纳粹主义
+
+2024-05-30 22:37:03 simple(2523806233)
+secession ——>脱离
+
+2024-05-30 22:54:35 simple(2523806233)
+Pyrrhonian——会被错误翻译为拜罗派
+应该是皮浪主义
+
+2024-05-30 22:55:23 simple(2523806233)
+# 塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison) 需要重译
+
+2024-05-30 23:00:52 simple(2523806233)
+nominalist ——>错误翻译成了名义主义，应该是唯名论
+
+2024-05-30 23:11:06 simple(2523806233)
+# 自然语言语义学的情境 in natural language semantics (Angelika Kratzer) 需要重译
+
+2024-05-30 23:38:39 simple(2523806233)
+埃迪特·施泰因 Stein, Edith (Thomas Szanto and Dermot Moran) 需要重译
+
+2024-05-31 17:04:26 simple(2523806233)
+# 结构实在论 structural realism (James Ladyman) 需要重译  刘颖,李宏芳. 结构实在论的研究新进展——从信息结构实在论到量子信息结构实在论 [J]. 自然辩证法研究, 2021, 37 (01): 97-102. DOI:10.19484/j.cnki.1000-8934.2021.01.017.
+
+2024-05-31 17:04:41 simple(2523806233)
+ structural realism ——>结构实在论
+
+2024-05-31 18:05:11 simple(2523806233)
+# 真理 truth (Michael Glanzberg) 需要重译
+
+2024-05-31 18:09:59 simple(2523806233)
+真值 truth values (Yaroslav Shramko and Heinrich Wansing) 需要重译
+
+2024-05-31 18:10:06 simple(2523806233)
+移除无法识别的文件 我这个提交都需要重译。
+
+https://github.com/taophilosophy/SEP-CN/commit/091b11aba3d983bc869e340bba3b03175654dd75
+
+2024-05-31 18:46:26 simple(2523806233)
+英国唯心主义——>英国新黑格尔主义
+
+2024-05-31 19:31:34 simple(2523806233)
+迪尔泰——>狄尔泰
+
+
 ```
 
-## 待处理待分类条目
-
-```
-
-[查尔斯·莱斯利·史蒂文森 Stevenson, Charles Leslie (Daniel Boisvert and Teemu Toppinen)](s/cha-er-si-lai-si-li-shi-di-wen-sen-stevenson-charles-leslie-daniel-boisvert-and-teemu-toppinen.md)
-[麦克斯·施蒂纳 Stirner, Max (David Leopold)](s/mai-ke-si-shi-di-na-stirner-max-david-leopold.md)
-[列奥·施特劳斯 Strauss, Leo (Leora Batnitzky)](s/lie-ao-shi-te-lao-si-strauss-leo-leora-batnitzky.md)
-[彼得·弗雷德里克·斯特劳森 Strawson, Peter Frederick (Paul Snowdon and Anil Gomes)](s/bi-de-fu-lei-de-li-ke-si-te-lao-sen-strawson-peter-frederick-paul-snowdon-and-anil-gomes.md)
-    [结构现实主义 structural realism (James Ladyman)](s/jie-gou-xian-shi-zhu-yi-structural-realism-james-ladyman.md)
-[卡尔·斯图姆夫 Stumpf, Carl (Denis Fisette)](s/ka-er-si-tu-mu-fu-stumpf-carl-denis-fisette.md)
-[弗朗西斯科·苏亚雷斯 Suárez, Francisco (Christopher Shields and Daniel Schwartz)](s/fu-lang-xi-si-ke-su-ya-lei-si-surez-francisco-christopher-shields-and-daniel-schwartz.md)
-[自杀 suicide (Michael Cholbi)](s/zi-sha-suicide-michael-cholbi.md)
-[超义务 supererogation (David Heyd)](s/chao-yi-wu-supererogation-david-heyd.md)
-[随附性 supervenience (Brian McLaughlin and Karen Bennett)](s/sui-fu-xing-supervenience-brian-mclaughlin-and-karen-bennett/README.md)
-  [道德随附性 in ethics (Tristram McPherson)](s/sui-fu-xing-supervenience-brian-mclaughlin-and-karen-bennett/dao-de-sui-fu-xing-in-ethics-tristram-mcpherson.md)
-[玛格丽特·苏斯曼 Susman, Margarete (Willi Goetschel)](s/ma-ge-li-te-su-si-man-susman-margarete-willi-goetschel.md)
-[理查德·西尔万（理查德·劳特利） Sylvan \[Routley\], Richard (Dominic Hyde, Filippo Casati, and Zach Weber)](s/li-cha-de-xi-er-wan-li-cha-de-lao-te-li-sylvan-routley-richard-dominic-hyde-filippo-casati-and-zach.md)
-[西里阿努斯 Syrianus (Christian Wildberg)](s/xi-lianu-si-syrianus-christian-wildberg.md)
-## T
-[阿尔弗莱德·塔尔斯基 Tarski, Alfred (Mario Gómez-Torrente)](t/a-er-fu-lai-de-ta-er-si-ji-tarski-alfred-mario-gmeztorrente/README.md)
-  [塔尔斯基的真理定义 truth definitions (Wilfrid Hodges)](t/a-er-fu-lai-de-ta-er-si-ji-tarski-alfred-mario-gmeztorrente/ta-er-si-ji-de-zhen-li-ding-yi-truth-definitions-wilfrid-hodges.md)
-[尼古拉斯·塔雷路斯 Taurellus, Nicolaus (Andreas Blank)](t/ni-gu-la-si-ta-lei-lu-si-taurellus-nicolaus-andreas-blank.md)
-  [贝尔纳迪诺·特勒肖 Telesio, Bernardino (Michaela Boenke)](t/bei-er-na-di-nuo-te-le-xiao-telesio-bernardino-michaela-boenke.md)
-[时间部分 temporal parts (Katherine Hawley)](t/shi-jian-bu-fen-temporal-parts-katherine-hawley.md)
-  [中世纪词项属性理论 medieval theories of (Stephen Read)](t/ci-xiang-shu-xing-terms-properties-of/zhong-shi-ji-ci-xiang-shu-xing-li-lun-medieval-theories-of-stephen-read.md)
-[领土主权与领地正义 territorial rights and justice (Margaret Moore)](t/ling-tu-zhu-quan-yu-ling-di-zheng-yi-territorial-rights-and-justice-margaret-moore.md)
-[恐怖主义 terrorism (Igor Primoratz)](t/kong-bu-zhu-yi-terrorism-igor-primoratz.md)
-  [证言的认识论问题 epistemological problems of (Nick Leonard)](t/zheng-yan-testimony/zheng-yan-de-ren-shi-lun-wen-ti-epistemological-problems-of-nick-leonard.md)
-[亚里士多德的神学 Theology of Aristotle (Peter Adamson)](t/ya-li-shi-duo-de-de-shen-xue-theology-of-aristotle-peter-adamson.md)
-[泰奥弗拉斯特 Theophrastus (Katerina Ierodiakonou)](t/tai-ao-fu-la-si-te-theophrastus-katerina-ierodiakonou.md)
-[科学中的理论术语 theoretical terms in science (Holger Andreas)](t/ke-xue-zhong-de-li-lun-shu-yu-theoretical-terms-in-science-holger-andreas.md)
-[厚伦理概念 thick ethical concepts (Pekka Väyrynen)](t/hou-lun-li-gai-nian-thick-ethical-concepts-pekka-vyrynen.md)
-[埃尔福特的托马斯 Thomas of Erfurt (Jack Zupko)](t/ai-er-fu-te-de-tuo-ma-si-thomas-of-erfurt-jack-zupko.md)
-[亨利·戴维·梭罗 Thoreau, Henry David (Rick Anthony Furtak)](t/heng-li-dai-wei-suo-luo-thoreau-henry-david-rick-anthony-furtak.md)
-[思想实验 thought experiments (James Robert Brown and Yiftach Fehige)](t/si-xiang-shi-yan-thought-experiments-james-robert-brown-and-yiftach-fehige.md)
-[斐利亚修斯的第蒙 Timon of Phlius (Richard Bett)](t/fei-li-ya-xiu-si-de-di-meng-timon-of-phlius-richard-bett.md)
-[宽容 toleration (Rainer Forst)](t/kuan-rong-toleration-rainer-forst.md)
-[酷刑 torture (Seumas Miller)](t/ku-xing-torture-seumas-miller.md)
-[触觉 touch (Matthew Fulkerson)](t/chu-jue-touch-matthew-fulkerson.md)
-  [超验主义 transcendentalism (Russell Goodman)](t/chao-yan-zhu-yi-transcendentalism-russell-goodman.md)
-[中世纪的超越理论 transcendentals, medieval theories of (Wouter Goris and Jan Aertsen)](t/zhong-shi-ji-de-chao-yue-li-lun-transcendentals-medieval-theories-of-wouter-goris-and-jan-aertsen.md)
-[变革性体验 transformative experience (Rebecca Chan)](t/bian-ge-xing-ti-yan-transformative-experience-rebecca-chan.md)
-[辩护与担保的传递 transmission of justification and warrant (Luca Moretti and Tommaso Piazza)](t/bian-hu-yu-dan-bao-de-chuan-di-transmission-of-justification-and-warrant-luca-moretti-and-tommaso-pi.md)
-[特普 tropes (Anna-Sofia Maurin)](t/te-pu-tropes-annasofia-maurin.md)
-[信任 trust (Carolyn McLeod)](t/xin-ren-trust-carolyn-mcleod.md)
-[真理 truth (Michael Glanzberg)](t/zhen-li-truth-michael-glanzberg/README.md)
-  [公理化真理论 axiomatic theories of (Volker Halbach and Graham E. Leigh)](t/zhen-li-truth-michael-glanzberg/gong-li-hua-zhen-li-lun-axiomatic-theories-of-volker-halbach-and-graham-e.-leigh.md)
-  [真理融贯论 coherence theory of (James O. Young)](t/zhen-li-truth-michael-glanzberg/zhen-li-rong-guan-lun-coherence-theory-of-james-o.-young.md)
-  [真理符合论 correspondence theory of (Marian David)](t/zhen-li-truth-michael-glanzberg/zhen-li-fu-he-lun-correspondence-theory-of-marian-david.md)
-  [真理紧缩论 deflationism about (Bradley Armour-Garb, Daniel Stoljar, and James Woodbridge)](t/zhen-li-truth-michael-glanzberg/zhen-li-jin-suo-lun-deflationism-about-bradley-armourgarb-daniel-stoljar-and-james-woodbridge.md)
-  [真理同一论 identity theory of (Richard Gaskin)](t/zhen-li-truth-michael-glanzberg/zhen-li-tong-yi-lun-identity-theory-of-richard-gaskin.md)
-  [多元真理论 pluralist theories of (Nikolaj Jang Lee Linding Pedersen and Cory Wright)](t/zhen-li-truth-michael-glanzberg/duo-yuan-zhen-li-lun-pluralist-theories-of-nikolaj-jang-lee-linding-pedersen-and-cory-wright.md)
-  [实用主义真理观 pragmatic theory of (John Capps)](t/zhen-li-truth-michael-glanzberg/shi-yong-zhu-yi-zhen-li-guan-pragmatic-theory-of-john-capps.md)
-  [修正真理论 revision theory of (Philip Kremer and Edoardo Rivello)](t/zhen-li-truth-michael-glanzberg/xiu-zheng-zhen-li-lun-revision-theory-of-philip-kremer-and-edoardo-rivello.md)
-  [似真性 truthlikeness (Graham Oddie and Gustavo Cevolani)](t/si-zhen-xing-truthlikeness-graham-oddie-and-gustavo-cevolani.md)
-[使真者 truthmakers (Fraser MacBride)](t/shi-zhen-zhe-truthmakers-fraser-macbride.md)
-[真值 truth values (Yaroslav Shramko and Heinrich Wansing)](t/zhen-zhi-truth-values-yaroslav-shramko-and-heinrich-wansing.md)
-[兹米尔茨·特瓦尔多夫斯基 Twardowski, Kazimierz (Arianna Betti)](t/zi-mi-er-ci-te-wa-er-duo-fu-si-ji-twardowski-kazimierz-arianna-betti.md)
-[类型与个例 types and tokens (Linda Wetzel)](t/lei-xing-yu-ge-li-types-and-tokens-linda-wetzel.md)
-[类型论 type theory (Thierry Coquand)](t/lei-xing-lun-type-theory-thierry-coquand/README.md)
-    [直觉主义认识论 intuitionistic (Peter Dybjer and Erik Palmgren)](t/lei-xing-lun-type-theory-thierry-coquand/zhi-jue-zhu-yi-ren-shi-lun-intuitionistic-peter-dybjer-and-erik-palmgren.md)
-## U
-  [欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian, Suzanne Sumner, Mehdi Aminrazavi, and Glen Van Brummelen)](u/ou-ma-er-hai-ya-mu-umar-khayyam-seyed-n.-mousavian-suzanne-sumner-mehdi-aminrazavi-and-glen-van-brum.md)
-[科学理论的非充分决定性 underdetermination, of scientific theories (Kyle Stanford)](u/ke-xue-li-lun-de-fei-chong-fen-jue-ding-xing-underdetermination-of-scientific-theories-kyle-stanford.md)
-[理解 understanding (Stephen Grimm)](u/li-jie-understanding-stephen-grimm.md)
-  [中世纪的“普遍性 ”问题 the medieval problem of (Gyula Klima)](u/pu-bian-xing-jian-shu-xing-universals-see-properties/zhong-shi-ji-de-pu-bian-xing-wen-ti-the-medieval-problem-of-gyula-klima.md)
-## V
-[模糊性 vagueness (Roy Sorensen)](v/mo-hu-xing-vagueness-roy-sorensen.md)
-[汉斯·费英格 Vaihinger, Hans (Timothy Stoll)](v/han-si-fei-ying-ge-vaihinger-hans-timothy-stoll.md)
-[劳伦佐·瓦拉 Valla, Lorenzo (Lodi Nauta)](v/lao-lun-zuo-wa-la-valla-lorenzo-lodi-nauta.md)
-  [不可通约性价值 incommensurable (Nien-hê Hsieh and Henrik Andersson)](v/jia-zhi-value/bu-ke-tong-yue-xing-jia-zhi-incommensurable-nienh-hsieh-and-henrik-andersson.md)
-  [内在价值与外在价值 intrinsic vs. extrinsic (Michael J. Zimmerman and Ben Bradley)](v/jia-zhi-value/nei-zai-jia-zhi-yu-wai-zai-jia-zhi-intrinsic-vs.-extrinsic-michael-j.-zimmerman-and-ben-bradley.md)
-    [价值多元主义 pluralism (Elinor Mason)](v/jia-zhi-value/jia-zhi-duo-yuan-zhu-yi-pluralism-elinor-mason.md)
-[价值论 value theory (Mark Schroeder)](v/jia-zhi-lun-value-theory-mark-schroeder.md)
-[伦理素食主义 vegetarianism, ethics of (Tyler Doggett)](v/lun-li-su-shi-zhu-yi-vegetarianism-ethics-of-tyler-doggett.md)
-[詹巴蒂斯塔·维柯 Vico, Giambattista (Timothy Costelloe)](v/zhan-ba-di-si-ta-wei-ke-vico-giambattista-timothy-costelloe.md)
-[胡安·路易斯·维夫斯 Vives, Juan Luis (Lorenzo Casini)](v/hu-an-lu-yi-si-wei-fu-si-vives-juan-luis-lorenzo-casini.md)
-[伏尔泰 Voltaire (J.B. Shank)](v/fu-er-tai-voltaire-j.b.-shank.md)
-[神学意志主义 voluntarism, theological (Mark Murphy)](v/shen-xue-yi-zhi-zhu-yi-voluntarism-theological-mark-murphy.md)
-[投票的道德与理性 voting (Jason Brennan)](v/tou-piao-de-dao-de-yu-li-xing-voting-jason-brennan/README.md)
-  [投票方法 methods (Eric Pacuit)](v/tou-piao-de-dao-de-yu-li-xing-voting-jason-brennan/tou-piao-fang-fa-methods-eric-pacuit.md)
-## W
-[战争 war (Seth Lazar)](w/zhan-zheng-war-seth-lazar.md)
-[詹姆斯·瓦德 Ward, James (Pierfrancesco Basile)](w/zhan-mu-si-wa-de-ward-james-pierfrancesco-basile.md)
-[意志薄弱 weakness of will (Sarah Stroud and Larisa Svirsky)](w/yi-zhi-bao-ruo-weakness-of-will-sarah-stroud-and-larisa-svirsky.md)
-[马克斯·韦伯 Weber, Max (Sung Ho Kim)](w/ma-ke-si-wei-bo-weber-max-sung-ho-kim.md)
-[西蒙娜·薇依 Weil, Simone (A. Rebecca Rozelle-Stone and Benjamin P. Davis)](w/xi-meng-na-wei-yi-weil-simone-a.-rebecca-rozellestone-and-benjamin-p.-davis.md)
-  [福祉 well-being (Roger Crisp)](w/fu-zhi-wellbeing-roger-crisp.md)
-[赫尔曼·外尔 Weyl, Hermann (John L. Bell and Herbert Korté)](w/he-er-man-wai-er-weyl-hermann-john-l.-bell-and-herbert-kort.md)
-[威廉·惠威尔 Whewell, William (Laura J. Snyder)](w/wei-lian-hui-wei-er-whewell-william-laura-j.-snyder.md)
-[阿弗烈·诺夫·怀特海 Whitehead, Alfred North (Ronald Desmet and Andrew David Irvine)](w/a-fu-lie-nuo-fu-huai-te-hai-whitehead-alfred-north-ronald-desmet-and-andrew-david-irvine.md)
-[过程哲学 process philosophy (Johanna Seibt)](p/guo-cheng-zhe-xue-process-philosophy-johanna-seibt.md)
-[奥弗涅的威廉 William of Auvergne (Neil Lewis and Katrin Fischer)](w/ao-fu-nie-de-wei-lian-william-of-auvergne-neil-lewis-and-katrin-fischer.md)
-[尚波的威廉 William of Champeaux (Kevin Guilfoy)](w/shang-bo-de-wei-lian-william-of-champeaux-kevin-guilfoy.md)
-[舍伍德的威廉 William of Sherwood (Sara L. Uckelman)](w/she-wu-de-de-wei-lian-william-of-sherwood-sara-l.-uckelman.md)
-[伯纳德·威廉姆斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)](w/bo-na-de-wei-lian-mu-si-williams-bernard-sophiegrace-chappell-and-nicholas-smyth.md)
-[唐纳德·卡里·威廉姆斯 Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring)](w/tang-na-de-ka-li-wei-lian-mu-si-williams-donald-cary-keith-campbell-james-franklin-and-douglas-ehrin.md)
-[约翰·库克·威尔逊 Wilson, John Cook (Mathieu Marion)](w/yue-han-ku-ke-wei-er-xun-wilson-john-cook-mathieu-marion.md)
-[威廉·文德尔班 Windelband, Wilhelm (Katherina Kinzel)](w/wei-lian-wen-de-er-ban-windelband-wilhelm-katherina-kinzel.md)
-[智慧 wisdom (Sharon Ryan)](w/zhi-hui-wisdom-sharon-ryan.md)
-[亚当·冯·沃德汉姆 Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)](w/ya-dang-feng-wo-de-han-mu-wodeham-adam-de-john-t.-slotemaker-and-jeffrey-c.-witt.md)
-[克里斯蒂安·沃尔夫 Wolff, Christian (Matt Hettche and Corey Dyck)](w/ke-li-si-di-an-wo-er-fu-wolff-christian-matt-hettche-and-corey-dyck.md)
-[玛丽·沃斯通克拉夫特 Wollstonecraft, Mary (Sylvana Tomaselli)](w/ma-li-wo-si-tong-ke-la-fu-te-wollstonecraft-mary-sylvana-tomaselli.md)
-[工作和劳动的哲学研究方法 work and labor (Michael Cholbi)](w/gong-zuo-he-lao-dong-work-and-labor-michael-cholbi.md)
-    [昌西·赖特 Wright, Chauncey (Jean De Groot)](w/chang-xi-lai-te-wright-chauncey-jean-de-groot.md)
-[威廉·马克西米利安·冯特 Wundt, Wilhelm Maximilian (Alan Kim)](w/wei-lian-ma-ke-xi-mi-li-an-feng-te-wundt-wilhelm-maximilian-alan-kim.md)
-[约翰·威克里夫 Wyclif, John (Alessandro Conti)](w/yue-han-wei-ke-li-fu-wyclif-john-alessandro-conti/README.md)
-  [约翰·威克里夫的政治哲学 political Philosophy (Stephen Lahey)](w/yue-han-wei-ke-li-fu-wyclif-john-alessandro-conti/yue-han-wei-ke-li-fu-de-zheng-zhi-zhe-xue-political-philosophy-stephen-lahey.md)
-## X
-## Y
-[保罗·约克·冯·瓦滕堡伯爵 Yorck von Wartenburg, Count Paul (Ingo Farin)](y/bao-luo-yue-ke-feng-wa-teng-bao-bo-jue-yorck-von-wartenburg-count-paul-ingo-farin.md)
-## Z
-[雅各布·萨巴雷拉 Zabarella, Giacomo (Heikki Mikkeli and Tawrin Baker)](z/ya-ge-bu-sa-ba-lei-la-zabarella-giacomo-heikki-mikkeli-and-tawrin-baker.md)
-```
