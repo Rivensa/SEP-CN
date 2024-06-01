@@ -20,126 +20,135 @@ outline: [1, 6]
 
 
 
-# 希腊、罗马和拜占庭哲学 <500
-
-## 前苏格拉底哲学
+# 早期希腊哲学（前苏格拉底哲学）
 
 * [前苏格拉底哲学 Presocratic Philosophy (Patricia Curd)](p/qian-su-ge-la-di-zhe-xue-presocratic-philosophy-patricia-curd.md)
-* [克罗顿的阿尔克迈翁 Alcmaeon (Carl Huffman)](a/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md)
-* [阿那克萨哥拉 Anaxagoras (Patricia Curd)](a/a-na-ke-sa-ge-la-anaxagoras-patricia-curd.md)
-* [德谟克利特 Democritus (Sylvia Berryman)](d/de-mo-ke-li-te-democritus-sylvia-berryman.md)
-* [恩培多克勒 Empedocles (K. Scarlett Kingsley and Richard Parry)](e/en-pei-duo-ke-le-empedocles-k.-scarlett-kingsley-and-richard-parry.md)
 * [赫拉克利特 Heraclitus (Daniel W. Graham)](h/he-la-ke-li-te-heraclitus-daniel-w.-graham.md)
-* [留基伯 Leucippus (Sylvia Berryman)](l/liu-ji-bo-leucippus-sylvia-berryman.md)
+* [克塞诺芬尼 Xenophanes (James Lesher)](x/ke-sai-nuo-fen-ni-xenophanes-james-lesher.md)
 * [巴门尼德 Parmenides (John Palmer)](p/ba-men-ni-de-parmenides-john-palmer.md)
 * [爱利亚的芝诺 Zeno of Elea (John Palmer)](z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/README.md)
-* [芝诺悖论 Zeno’s paradoxes (Nick Huggett)](z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/zhi-nuo-bei-lun-zenos-paradoxes-nick-huggett.md)
-* [克塞诺芬尼 Xenophanes (James Lesher)](x/ke-sai-nuo-fen-ni-xenophanes-james-lesher.md)
+  * [芝诺悖论 Zeno’s paradoxes (Nick Huggett)](z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/zhi-nuo-bei-lun-zenos-paradoxes-nick-huggett.md)
+* [恩培多克勒 Empedocles (K. Scarlett Kingsley and Richard Parry)](e/en-pei-duo-ke-le-empedocles-k.-scarlett-kingsley-and-richard-parry.md)
+* [阿那克萨哥拉 Anaxagoras (Patricia Curd)](a/a-na-ke-sa-ge-la-anaxagoras-patricia-curd.md)
 * [古代原子论 ancient (Sylvia Berryman)](a/yuan-zi-lun-atomism/gu-dai-yuan-zi-lun-ancient-sylvia-berryman.md)
+  * [留基伯 Leucippus (Sylvia Berryman)](l/liu-ji-bo-leucippus-sylvia-berryman.md)
+  * [德谟克利特 Democritus (Sylvia Berryman)](d/de-mo-ke-li-te-democritus-sylvia-berryman.md)
 
-### 毕达哥拉斯学派
 
+## 毕达哥拉斯学派与新毕达哥拉斯主义
+
+* [毕达哥拉斯 Pythagoras (Carl Huffman)](p/bi-da-ge-la-si-pythagoras-carl-huffman.md)
 * [菲洛劳斯 Philolaus (Carl Huffman)](p/fei-luo-lao-si-philolaus-carl-huffman.md)
 * [毕达哥拉斯主义 Pythagoreanism (Carl Huffman)](p/bi-da-ge-la-si-zhu-yi-pythagoreanism-carl-huffman.md)
-
-## 苏格拉底及柏拉图、亚里士多德
-
-* [阿芙罗蒂西亚的亚历山大 Alexander of Aphrodisias (Dorothea Frede)](a/a-fu-luo-di-xi-ya-de-ya-li-shan-da-alexander-of-aphrodisias-dorothea-frede.md)
-* [智者 Sophists, The (C.C.W. Taylor and Mi-Kyoung Lee)](s/zhi-zhe-sophists-the-c.c.w.-taylor-and-mikyoung-lee.md)
-* [苏格拉底 Socrates (Debra Nails and S. Sara Monoson)](s/su-ge-la-di-socrates-debra-nails-and-s.-sara-monoson.md)
-* [普罗塔戈拉 Protagoras (Mauro Bonazzi)](p/pu-luo-ta-ge-la-protagoras-mauro-bonazzi.md)
-* [赫尔米亚的阿莫尼俄斯 Ammonius (David Blank)](a/he-er-mi-ya-deamo-niesi-ammonius-david-blank.md)
-* [阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)](a/a-si-ka-long-de-an-ti-ku-si-antiochus-of-ascalon-james-allen.md)
-* [阿尔凯西劳 Arcesilaus (Charles Brittain and Peter Osorio)](a/a-er-kai-xi-lao-arcesilaus-charles-brittain-and-peter-osorio.md)
+* [克罗顿的阿尔克迈翁 Alcmaeon (Carl Huffman)](a/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md)
 * [阿尔库塔斯 Archytas (Carl Huffman)](a/a-er-ku-ta-si-archytas-carl-huffman.md)
-* [亚里士多德 Aristotle (Christopher Shields)](a/ya-li-shi-duo-de-aristotle-christopher-shields.md)
-* [亚里士多德的美学 aesthetics (Pierre Destrée)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-mei-xue-aesthetics-pierre-destre.md)
-* [亚里士多德的生物学 biology (James Lennox)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-sheng-wu-xue-aristotles-biology.md)
-* [亚里士多德的范畴论 categories (Paul Studtmann)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-fan-chou-lun-categories-paul-studtmann.md)
-* [亚里士多德的伦理学 ethics (Richard Kraut)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-lun-li-xue-ethics-richard-kraut.md)
-* [亚里士多德的逻辑学 logic (Robin Smith)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-luo-ji-xue-logic-robin-smith.md)
-* [亚里士多德的形而上学 metaphysics (S. Marc Cohen and C. D. C. Reeve)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-xing-er-shang-xue-metaphysics-s.-marc-cohen-and-c.-d.-c.-reeve.md)
-* [亚里士多德的政治学 political theory (Fred Miller)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-zheng-zhi-xue-political-theory-fred-miller.md)
-* [亚里士多德的心理学 psychology (Christopher Shields)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-xin-li-xue-psychology-christopher-shields.md)
-* [亚里士多德的修辞学 rhetoric (Christof Rapp)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-xiu-ci-xue-rhetoric-christof-rapp.md)
-* [亚里士多德的评注者 Aristotle, commentators on (Andrea Falcon)](a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/README.md)
-* [亚里士多德论数学 mathematics (Henry Mendell)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-lun-shu-xue-mathematics-henry-mendell.md)
-* [亚里士多德因果学说 causality (Andrea Falcon)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-yin-guo-xue-shuo-causality-andrea-falcon.md)
-* [亚里士多德的自然哲学 natural philosophy (Istvan Bodnar)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-de-zi-ran-zhe-xue-natural-philosophy-istvan-bodnar.md)
-* [亚里士多德的矛盾律 on non-contradiction (Paula Gottlieb)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-de-mao-dun-lv-on-noncontradiction-paula-gottlieb.md)
-* [卡涅阿德斯 Carneades (James Allen)](c/ka-nieade-si-carneades.md)
-* [西塞罗 Cicero (Raphael Woolf)](c/xi-sai-luo-cicero-raphael-woolf.md)
-* [大卫 David (Christian Wildberg)](d/da-wei-david-christian-wildberg.md)
-* [麦拉加学派 Dialectical School (Susanne Bobzien and Matthew Duncombe)](d/mai-la-jia-xue-pai-dialectical-school-susanne-bobzien-and-matthew-duncombe.md)
-* [卡里亚雅苏斯的狄奥多罗斯 Diodorus Cronus (David Sedley)](d/ka-li-ya-ya-su-si-de-di-ao-duo-luo-si-diodorus-cronus-david-sedley.md)
-* [古代哲学学述 doxography of ancient philosophy (Jaap Mansfeld)](d/gu-dai-zhe-xue-xue-shu-doxography-of-ancient-philosophy-jaap-mansfeld.md)
-* [埃利亚斯 Elias (Christian Wildberg)](e/ai-li-ya-si-elias-christian-wildberg.md)
-* [古代伦理学思想 ancient (Richard Parry and Harald Thorsrud)](e/lun-li-xue-ethics/gu-dai-lun-li-xue-si-xiang-ancient-richard-parry-and-harald-thorsrud.md)
-* [古代自由与决定论理论 ancient theories of (Tim O’Keefe)](f/zi-you-freedom/gu-dai-zi-you-yu-jue-ding-lun-li-lun-ancient-theories-of-tim-okeefe.md)
+* [阿帕米亚的努美尼乌斯 Numenius (George Karamanolis)](n/a-pa-mi-ya-de-nu-mei-ni-wu-si-numenius-george-karamanolis.md)
+
+# 中期希腊哲学
+
+## 智者学派与苏格拉底
+
+* [智者 Sophists, The (C.C.W. Taylor and Mi-Kyoung Lee)](s/zhi-zhe-sophists-the-c.c.w.-taylor-and-mikyoung-lee.md)
+  * [普罗塔戈拉 Protagoras (Mauro Bonazzi)](p/pu-luo-ta-ge-la-protagoras-mauro-bonazzi.md)
+* [苏格拉底 Socrates (Debra Nails and S. Sara Monoson)](s/su-ge-la-di-socrates-debra-nails-and-s.-sara-monoson.md)
+
+## 柏拉图
+
 * [柏拉图 Plato (Richard Kraut)](p/bai-la-tu-plato-richard-kraut/README.md)
-* [卡利克勒斯和塞拉西马柯 Callicles and Thrasymachus (Rachel Barney)](p/bai-la-tu-plato-richard-kraut/ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-and-thrasymachus-rachel-barney.md)
-* [柏拉图的 《克拉底鲁篇》 Cratylus (David Meißner)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ke-la-di-lu-pian-cratylus-david-meiner.md)
-* [柏拉图伦理学概述 ethics (Dorothea Frede and Mi-Kyoung Lee)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-li-xue-gai-shu-ethics-dorothea-frede-and-mikyoung-lee.md)
-* [在《理想国》中柏拉图的伦理学和政治学 ethics and politics in The Republic (Eric Brown)](p/bai-la-tu-plato-richard-kraut/zai-li-xiang-guo-zhong-bai-la-tu-de-lun-li-xue-he-zheng-zhi-xue-ethics-and-politics-in-the-republic.md)
-* [柏拉图论友爱与爱欲 friendship and eros (C. D. C. Reeve)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-you-ai-yu-ai-yu-friendship-and-eros-c.-d.-c.-reeve.md)
-* [柏拉图在《智者篇》和《政治家篇》中的方法论与形而上学 method and metaphysics in the Sophist and Statesman (Mary-Louise Gill)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-zai-zhi-zhe-pian-he-zheng-zhi-jia-pian-zhong-de-fang-fa-lun-yu-xing-er-shang-xue-method-an.md)
-* [柏拉图中期的形而上学和认识论 middle period metaphysics and epistemology (Allan Silverman)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-zhong-qi-de-xing-er-shang-xue-he-ren-shi-lun-middle-period-metaphysics-and-epistemology-al.md)
-* [柏拉图的秘所思 myths (Catalin Partenie)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-mi-suo-si-myths-catalin-partenie.md)
-* [在《泰阿泰德篇》中柏拉图的认识论 on knowledge in the Theaetetus (Sophie-Grace Chappell)](p/bai-la-tu-plato-richard-kraut/zai-taiatai-de-pian-zhong-bai-la-tu-de-ren-shi-lun-on-knowledge-in-the-theaetetus-sophiegrace-chappe.md)
-* [柏拉图的乌托邦 on utopia (Chris Bobonich and Katherine Meadows)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-wu-tuo-bang-on-utopia-chris-bobonich-and-katherine-meadows.md)
-* [柏拉图的《巴门尼德篇》 Parmenides (Samuel Rickless)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ba-men-ni-de-pian-parmenides-samuel-rickless.md)
-* [柏拉图论修辞学和诗歌 rhetoric and poetry (Charles L. Griswold)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-xiu-ci-xue-he-shi-ge-rhetoric-and-poetry-charles-l.-griswold.md)
-* [柏拉图的短篇伦理学著作 shorter ethical works (Paul Woodruff)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-duan-pian-lun-li-xue-zhu-zuo-shorter-ethical-works-paul-woodruff.md)
-* [柏拉图的《蒂迈欧篇》 Timaeus (Donald Zeyl and Barbara Sattler)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-di-mai-ou-pian-timaeus-donald-zeyl-and-barbara-sattler.md)
-* [毕达哥拉斯 Pythagoras (Carl Huffman)](p/bi-da-ge-la-si-pythagoras-carl-huffman.md)
-* [色诺克拉底 Xenocrates (Russell Dancy)](x/se-nuo-ke-la-di-xenocrates-russell-dancy.md)
+  * [卡利克勒斯和塞拉西马柯 Callicles and Thrasymachus (Rachel Barney)](p/bai-la-tu-plato-richard-kraut/ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-and-thrasymachus-rachel-barney.md)
+  * [柏拉图的 《克拉底鲁篇》 Cratylus (David Meißner)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ke-la-di-lu-pian-cratylus-david-meiner.md)
+  * [柏拉图伦理学概述 ethics (Dorothea Frede and Mi-Kyoung Lee)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-li-xue-gai-shu-ethics-dorothea-frede-and-mikyoung-lee.md)
+  * [在《理想国》中柏拉图的伦理学和政治学 ethics and politics in The Republic (Eric Brown)](p/bai-la-tu-plato-richard-kraut/zai-li-xiang-guo-zhong-bai-la-tu-de-lun-li-xue-he-zheng-zhi-xue-ethics-and-politics-in-the-republic.md)
+  * [柏拉图论友爱与爱欲 friendship and eros (C. D. C. Reeve)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-you-ai-yu-ai-yu-friendship-and-eros-c.-d.-c.-reeve.md)
+  * [柏拉图在《智者篇》和《政治家篇》中的方法论与形而上学 method and metaphysics in the Sophist and Statesman (Mary-Louise Gill)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-zai-zhi-zhe-pian-he-zheng-zhi-jia-pian-zhong-de-fang-fa-lun-yu-xing-er-shang-xue-method-an.md)
+  * [柏拉图中期的形而上学和认识论 middle period metaphysics and epistemology (Allan Silverman)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-zhong-qi-de-xing-er-shang-xue-he-ren-shi-lun-middle-period-metaphysics-and-epistemology-al.md)
+  * [柏拉图的秘所思 myths (Catalin Partenie)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-mi-suo-si-myths-catalin-partenie.md)
+  * [在《泰阿泰德篇》中柏拉图的认识论 on knowledge in the Theaetetus (Sophie-Grace Chappell)](p/bai-la-tu-plato-richard-kraut/zai-taiatai-de-pian-zhong-bai-la-tu-de-ren-shi-lun-on-knowledge-in-the-theaetetus-sophiegrace-chappe.md)
+  * [柏拉图的乌托邦 on utopia (Chris Bobonich and Katherine Meadows)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-wu-tuo-bang-on-utopia-chris-bobonich-and-katherine-meadows.md)
+  * [柏拉图的《巴门尼德篇》 Parmenides (Samuel Rickless)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ba-men-ni-de-pian-parmenides-samuel-rickless.md)
+  * [柏拉图论修辞学和诗歌 rhetoric and poetry (Charles L. Griswold)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-xiu-ci-xue-he-shi-ge-rhetoric-and-poetry-charles-l.-griswold.md)
+  * [柏拉图的短篇伦理学著作 shorter ethical works (Paul Woodruff)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-duan-pian-lun-li-xue-zhu-zuo-shorter-ethical-works-paul-woodruff.md)
+  * [柏拉图的《蒂迈欧篇》 Timaeus (Donald Zeyl and Barbara Sattler)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-di-mai-ou-pian-timaeus-donald-zeyl-and-barbara-sattler.md)
+  
+## 亚里士多德及逍遥学派
 
-## 晚期希腊哲学
-
-* [古代灵魂理论 soul, ancient theories of (Hendrik Lorenz)](s/gu-dai-ling-hun-li-lun-soul-ancient-theories-of-hendrik-lorenz.md)
-
-### 伊壁鸠鲁学派
-
-* [菲洛德穆 Philodemus (David Blank)](p/fei-luo-de-mu-philodemus-david-blank.md)
-* [伊壁鸠鲁 Epicurus (David Konstan)](e/yi-bi-jiu-lu-epicurus-david-konstan.md)
-* [卢克莱修 Lucretius (Simon Trépanier)](l/lu-ke-lai-xiu-lucretius-simon-trpanier.md)
+* [亚里士多德 Aristotle (Christopher Shields)](a/ya-li-shi-duo-de-aristotle-christopher-shields.md)
+  * [亚里士多德的美学 aesthetics (Pierre Destrée)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-mei-xue-aesthetics-pierre-destre.md)
+  * [亚里士多德的生物学 biology (James Lennox)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-sheng-wu-xue-aristotles-biology.md)
+  * [亚里士多德的范畴论 categories (Paul Studtmann)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-fan-chou-lun-categories-paul-studtmann.md)
+  * [亚里士多德的伦理学 ethics (Richard Kraut)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-lun-li-xue-ethics-richard-kraut.md)
+  * [亚里士多德的逻辑学 logic (Robin Smith)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-luo-ji-xue-logic-robin-smith.md)
+  * [亚里士多德的形而上学 metaphysics (S. Marc Cohen and C. D. C. Reeve)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-xing-er-shang-xue-metaphysics-s.-marc-cohen-and-c.-d.-c.-reeve.md)
+  * [亚里士多德的政治学 political theory (Fred Miller)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-zheng-zhi-xue-political-theory-fred-miller.md)
+  * [亚里士多德的心理学 psychology (Christopher Shields)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-xin-li-xue-psychology-christopher-shields.md)
+  * [亚里士多德的修辞学 rhetoric (Christof Rapp)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-xiu-ci-xue-rhetoric-christof-rapp.md)
+  * [亚里士多德论数学 mathematics (Henry Mendell)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-lun-shu-xue-mathematics-henry-mendell.md)
+  * [亚里士多德因果学说 causality (Andrea Falcon)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-yin-guo-xue-shuo-causality-andrea-falcon.md)
+  * [亚里士多德的自然哲学 natural philosophy (Istvan Bodnar)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-de-zi-ran-zhe-xue-natural-philosophy-istvan-bodnar.md)
+  * [亚里士多德的矛盾律 on non-contradiction (Paula Gottlieb)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-de-mao-dun-lv-on-noncontradiction-paula-gottlieb.md)
 * [泰奥弗拉斯特 Theophrastus (Katerina Ierodiakonou)](t/tai-ao-fu-la-si-te-theophrastus-katerina-ierodiakonou.md)
 
-### 新柏拉图主义（斐洛）
+# 晚期希腊哲学
 
-* [杨布里科斯 Iamblichus (Riccardo Chiaradonna and Adrien Lecerf)](i/yang-bu-li-ke-si-iamblichus-riccardo-chiaradonna-and-adrien-lecerf.md)
+
+## 小苏格拉底学派（麦加拉学派、昔勒尼学派、犬儒学派）
+
+* [麦拉加学派 Dialectical School (Susanne Bobzien and Matthew Duncombe)](d/mai-la-jia-xue-pai-dialectical-school-susanne-bobzien-and-matthew-duncombe.md)
+  * [卡里亚雅苏斯的狄奥多罗斯 Diodorus Cronus (David Sedley)](d/ka-li-ya-ya-su-si-de-di-ao-duo-luo-si-diodorus-cronus-david-sedley.md)
+  
+ 
+## 伊壁鸠鲁学派
+
+* [伊壁鸠鲁 Epicurus (David Konstan)](e/yi-bi-jiu-lu-epicurus-david-konstan.md)
+* [菲洛德穆 Philodemus (David Blank)](p/fei-luo-de-mu-philodemus-david-blank.md)
+* [卢克莱修 Lucretius (Simon Trépanier)](l/lu-ke-lai-xiu-lucretius-simon-trpanier.md)
+* [阿芙罗蒂西亚的亚历山大 Alexander of Aphrodisias (Dorothea Frede)](a/a-fu-luo-di-xi-ya-de-ya-li-shan-da-alexander-of-aphrodisias-dorothea-frede.md)
+
+
+## 老学园及学园怀疑主义
+
+* [斯彪西波 Speusippus (Russell Dancy)](s/si-biao-xi-bo-speusippus-russell-dancy.md)
+* [色诺克拉底 Xenocrates (Russell Dancy)](x/se-nuo-ke-la-di-xenocrates-russell-dancy.md)
+* [西塞罗 Cicero (Raphael Woolf)](c/xi-sai-luo-cicero-raphael-woolf.md)
+* [阿尔凯西劳 Arcesilaus (Charles Brittain and Peter Osorio)](a/a-er-kai-xi-lao-arcesilaus-charles-brittain-and-peter-osorio.md)
+* [卡涅阿德斯 Carneades (James Allen)](c/ka-nieade-si-carneades.md)
+* [拉里萨的斐洛 Philo of Larissa (Charles Brittain and Peter Osorio)](p/la-li-sa-de-fei-luo-philo-of-larissa-charles-brittain-and-peter-osorio.md)
+
+## 中期柏拉图主义
+
+* [阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)](a/a-si-ka-long-de-an-ti-ku-si-antiochus-of-ascalon-james-allen.md)
+* [亚历山大里亚的斐洛 Philo of Alexandria (Carlos Lévy)](p/ya-li-shan-da-li-ya-de-fei-luo-philo-of-alexandria-carlos-lvy.md)
+
+## 新柏拉图主义
+
 * [新柏拉图主义 Neoplatonism (Christian Wildberg)](n/xin-bai-la-tu-zhu-yi-neoplatonism-christian-wildberg.md)
 * [普罗提诺 Plotinus (Lloyd Gerson)](p/pu-luo-ti-nuo-plotinus-lloyd-gerson.md)
-* [斯彪西波 Speusippus (Russell Dancy)](s/si-biao-xi-bo-speusippus-russell-dancy.md)
-* [普罗克洛斯 Proclus (Christoph Helmig and Carlos Steel)](p/pu-luo-ke-luo-si-proclus-christoph-helmig-and-carlos-steel.md)
-* [阿帕米亚的努美尼乌斯 Numenius (George Karamanolis)](n/a-pa-mi-ya-de-nu-mei-ni-wu-si-numenius-george-karamanolis.md)
-* [亚历山大里亚的斐洛 Philo of Alexandria (Carlos Lévy)](p/ya-li-shan-da-li-ya-de-fei-luo-philo-of-alexandria-carlos-lvy.md)
-* [拉里萨的斐洛 Philo of Larissa (Charles Brittain and Peter Osorio)](p/la-li-sa-de-fei-luo-philo-of-larissa-charles-brittain-and-peter-osorio.md)
-* [普鲁塔克 Plutarch (George Karamanolis)](p/pu-lu-ta-ke-plutarch-george-karamanolis.md)
 * [波菲利 Porphyry (Eyjólfur Emilsson)](p/bo-fei-li-porphyry-eyjlfur-emilsson.md)
-* [辛普利修斯 Simplicius (Christoph Helmig)](s/xin-pu-li-xiu-si-simplicius-christoph-helmig.md)
+* [杨布里科斯 Iamblichus (Riccardo Chiaradonna and Adrien Lecerf)](i/yang-bu-li-ke-si-iamblichus-riccardo-chiaradonna-and-adrien-lecerf.md)
+* [普鲁塔克 Plutarch (George Karamanolis)](p/pu-lu-ta-ke-plutarch-george-karamanolis.md)
 * [西里阿努斯 Syrianus (Christian Wildberg)](s/xi-lianu-si-syrianus-christian-wildberg.md)
+* [普罗克洛斯 Proclus (Christoph Helmig and Carlos Steel)](p/pu-luo-ke-luo-si-proclus-christoph-helmig-and-carlos-steel.md)
+  * [赫尔米亚的阿莫尼俄斯 Ammonius (David Blank)](a/he-er-mi-ya-deamo-niesi-ammonius-david-blank.md)
+* [辛普利修斯 Simplicius (Christoph Helmig)](s/xin-pu-li-xiu-si-simplicius-christoph-helmig.md)
 
-### 斯多葛主义
+## 斯多葛主义
 
+* [斯多葛主义 Stoicism (Marion Durand, Simon Shogry, and Dirk Baltzly)](s/si-duo-ge-zhu-yi-stoicism-marion-durand-simon-shogry-and-dirk-baltzly.md)
 * [马可·奥勒留 Marcus Aurelius (Rachana Kamtekar)](m/ma-ke-ao-le-liu-marcus-aurelius-rachana-kamtekar.md)
 * [爱比克泰德 Epictetus (Margaret Graver)](e/ai-bi-ke-tai-de-epictetus-margaret-graver.md)
-* [斯多葛主义 Stoicism (Marion Durand, Simon Shogry, and Dirk Baltzly)](s/si-duo-ge-zhu-yi-stoicism-marion-durand-simon-shogry-and-dirk-baltzly.md)
 * [塞涅卡 Seneca (Katja Vogt)](s/sai-nie-ka-seneca-katja-vogt.md)
 
-### 怀疑论学派（皮浪和蒂蒙、阿尔凯阳劳和卡尼阿德、塞克斯都恩披单柯）
+## 怀疑论学派（皮浪和蒂蒙、阿尔凯阳劳和卡尼阿德、塞克斯都恩披单柯）
 
-* [塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)](s/sai-ke-si-du-en-pi-li-ke-sextus-empiricus-benjamin-morison.md)
+
 * [皮浪 Pyrrho (Richard Bett)](p/pi-lang-pyrrho-richard-bett.md)
-* [古代怀疑论 ancient (Katja Vogt)](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/gu-dai-huai-yi-lun-ancient-katja-vogt.md)
 * [斐利亚修斯的第蒙 Timon of Phlius (Richard Bett)](t/fei-li-ya-xiu-si-de-di-meng-timon-of-phlius-richard-bett.md)
+* [塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)](s/sai-ke-si-du-en-pi-li-ke-sextus-empiricus-benjamin-morison.md)
 
-## 罗马哲学
+
+## 罗马哲学与拜占庭哲学
 
 * [克劳迪亚斯·盖伦 Galen (P. N. Singer)](g/ke-lao-di-ya-si-gai-lun-galen-p.-n.-singer.md)
-
-## 拜占庭哲学
-
 * [拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou and Börje Bydén)](b/bai-zhan-ting-zhe-xue-byzantine-philosophy-katerina-ierodiakonou-and-brje-bydn.md)
 * [约翰·菲洛波诺斯 Philoponus (Christian Wildberg)](p/yue-han-fei-luo-bo-nuo-si-philoponus-christian-wildberg.md)
 
@@ -178,7 +187,8 @@ outline: [1, 6]
 
 * [奥林匹奥多罗斯 Olympiodorus (Christian Wildberg)](o/ao-lin-pi-ao-duo-luo-si-olympiodorus-christian-wildberg.md)
 * [奥利金 Origen (Mark J. Edwards)](o/ao-li-jin-origen-mark-j.-edwards.md)
-
+* [大卫 David (Christian Wildberg)](d/da-wei-david-christian-wildberg.md)
+* [埃利亚斯 Elias (Christian Wildberg)](e/ai-li-ya-si-elias-christian-wildberg.md)
 ## 早期经院哲学（700-1000）爱留根纳
 
 * [约翰内斯·司各特·爱留根纳 Eriugena, John Scottus (Dermot Moran and Adrian Guiu)](e/yue-han-nei-si-si-ge-te-ai-liu-gen-na-eriugena-john-scottus-dermot-moran-and-adrian-guiu.md)
@@ -2470,3 +2480,9 @@ outline: [1, 6]
 # 无法分类
 
 * [体育哲学 sport, philosophy of (John William Devine and Francisco Javier Lopez Frias)](s/ti-yu-zhe-xue-sport-philosophy-of-john-william-devine-and-francisco-javier-lopez-frias.md)
+* [古代哲学学述 doxography of ancient philosophy (Jaap Mansfeld)](d/gu-dai-zhe-xue-xue-shu-doxography-of-ancient-philosophy-jaap-mansfeld.md)
+* [古代伦理学思想 ancient (Richard Parry and Harald Thorsrud)](e/lun-li-xue-ethics/gu-dai-lun-li-xue-si-xiang-ancient-richard-parry-and-harald-thorsrud.md)
+* [古代自由与决定论理论 ancient theories of (Tim O’Keefe)](f/zi-you-freedom/gu-dai-zi-you-yu-jue-ding-lun-li-lun-ancient-theories-of-tim-okeefe.md)
+* [古代灵魂理论 soul, ancient theories of (Hendrik Lorenz)](s/gu-dai-ling-hun-li-lun-soul-ancient-theories-of-hendrik-lorenz.md)
+* [亚里士多德的评注者 Aristotle, commentators on (Andrea Falcon)](a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/README.md)
+* [古代怀疑论 ancient (Katja Vogt)](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/gu-dai-huai-yi-lun-ancient-katja-vogt.md)
