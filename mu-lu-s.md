@@ -58,19 +58,19 @@ outline: [1, 6]
 
 * [柏拉图 Plato (Richard Kraut)](p/bai-la-tu-plato-richard-kraut/README.md)
   * [卡利克勒斯和塞拉西马柯 Callicles and Thrasymachus (Rachel Barney)](p/bai-la-tu-plato-richard-kraut/ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-and-thrasymachus-rachel-barney.md)
-  * [柏拉图的 《克拉底鲁篇》 Cratylus (David Meißner)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ke-la-di-lu-pian-cratylus-david-meiner.md)
-  * [柏拉图伦理学概述 ethics (Dorothea Frede and Mi-Kyoung Lee)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-li-xue-gai-shu-ethics-dorothea-frede-and-mikyoung-lee.md)
-  * [在《理想国》中柏拉图的伦理学和政治学 ethics and politics in The Republic (Eric Brown)](p/bai-la-tu-plato-richard-kraut/zai-li-xiang-guo-zhong-bai-la-tu-de-lun-li-xue-he-zheng-zhi-xue-ethics-and-politics-in-the-republic.md)
-  * [柏拉图论友爱与爱欲 friendship and eros (C. D. C. Reeve)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-you-ai-yu-ai-yu-friendship-and-eros-c.-d.-c.-reeve.md)
-  * [柏拉图在《智者篇》和《政治家篇》中的方法论与形而上学 method and metaphysics in the Sophist and Statesman (Mary-Louise Gill)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-zai-zhi-zhe-pian-he-zheng-zhi-jia-pian-zhong-de-fang-fa-lun-yu-xing-er-shang-xue-method-an.md)
-  * [柏拉图中期的形而上学和认识论 middle period metaphysics and epistemology (Allan Silverman)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-zhong-qi-de-xing-er-shang-xue-he-ren-shi-lun-middle-period-metaphysics-and-epistemology-al.md)
-  * [柏拉图的秘所思 myths (Catalin Partenie)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-mi-suo-si-myths-catalin-partenie.md)
-  * [在《泰阿泰德篇》中柏拉图的认识论 on knowledge in the Theaetetus (Sophie-Grace Chappell)](p/bai-la-tu-plato-richard-kraut/zai-taiatai-de-pian-zhong-bai-la-tu-de-ren-shi-lun-on-knowledge-in-the-theaetetus-sophiegrace-chappe.md)
-  * [柏拉图的乌托邦 on utopia (Chris Bobonich and Katherine Meadows)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-wu-tuo-bang-on-utopia-chris-bobonich-and-katherine-meadows.md)
-  * [柏拉图的《巴门尼德篇》 Parmenides (Samuel Rickless)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ba-men-ni-de-pian-parmenides-samuel-rickless.md)
-  * [柏拉图论修辞学和诗歌 rhetoric and poetry (Charles L. Griswold)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-xiu-ci-xue-he-shi-ge-rhetoric-and-poetry-charles-l.-griswold.md)
-  * [柏拉图的短篇伦理学著作 shorter ethical works (Paul Woodruff)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-duan-pian-lun-li-xue-zhu-zuo-shorter-ethical-works-paul-woodruff.md)
-  * [柏拉图的《蒂迈欧篇》 Timaeus (Donald Zeyl and Barbara Sattler)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-di-mai-ou-pian-timaeus-donald-zeyl-and-barbara-sattler.md)
+* [柏拉图的 《克拉底鲁篇》 Cratylus (David Meißner)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ke-la-di-lu-pian-cratylus-david-meiner.md)
+* [柏拉图伦理学概述 ethics (Dorothea Frede and Mi-Kyoung Lee)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-li-xue-gai-shu-ethics-dorothea-frede-and-mikyoung-lee.md)
+* [在《理想国》中柏拉图的伦理学和政治学 ethics and politics in The Republic (Eric Brown)](p/bai-la-tu-plato-richard-kraut/zai-li-xiang-guo-zhong-bai-la-tu-de-lun-li-xue-he-zheng-zhi-xue-ethics-and-politics-in-the-republic.md)
+* [柏拉图论友爱与爱欲 friendship and eros (C. D. C. Reeve)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-you-ai-yu-ai-yu-friendship-and-eros-c.-d.-c.-reeve.md)
+* [柏拉图在《智者篇》和《政治家篇》中的方法论与形而上学 method and metaphysics in the Sophist and Statesman (Mary-Louise Gill)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-zai-zhi-zhe-pian-he-zheng-zhi-jia-pian-zhong-de-fang-fa-lun-yu-xing-er-shang-xue-method-an.md)
+* [柏拉图中期的形而上学和认识论 middle period metaphysics and epistemology (Allan Silverman)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-zhong-qi-de-xing-er-shang-xue-he-ren-shi-lun-middle-period-metaphysics-and-epistemology-al.md)
+* [柏拉图的秘所思 myths (Catalin Partenie)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-mi-suo-si-myths-catalin-partenie.md)
+* [在《泰阿泰德篇》中柏拉图的认识论 on knowledge in the Theaetetus (Sophie-Grace Chappell)](p/bai-la-tu-plato-richard-kraut/zai-taiatai-de-pian-zhong-bai-la-tu-de-ren-shi-lun-on-knowledge-in-the-theaetetus-sophiegrace-chappe.md)
+* [柏拉图的乌托邦 on utopia (Chris Bobonich and Katherine Meadows)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-wu-tuo-bang-on-utopia-chris-bobonich-and-katherine-meadows.md)
+* [柏拉图的《巴门尼德篇》 Parmenides (Samuel Rickless)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ba-men-ni-de-pian-parmenides-samuel-rickless.md)
+* [柏拉图论修辞学和诗歌 rhetoric and poetry (Charles L. Griswold)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-lun-xiu-ci-xue-he-shi-ge-rhetoric-and-poetry-charles-l.-griswold.md)
+* [柏拉图的短篇伦理学著作 shorter ethical works (Paul Woodruff)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-duan-pian-lun-li-xue-zhu-zuo-shorter-ethical-works-paul-woodruff.md)
+* [柏拉图的《蒂迈欧篇》 Timaeus (Donald Zeyl and Barbara Sattler)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-di-mai-ou-pian-timaeus-donald-zeyl-and-barbara-sattler.md)
   
 ## 亚里士多德及逍遥学派
 
@@ -248,6 +248,9 @@ outline: [1, 6]
 * [乔尔丹诺·布鲁诺 Bruno, Giordano (Dilwyn Knox)](b/qiao-er-dan-nuo-bu-lu-nuo-bruno-giordano-dilwyn-knox.md)
 * [贝尔纳迪诺·特勒肖 Telesio, Bernardino (Michaela Boenke)](t/bei-er-na-di-nuo-te-le-xiao-telesio-bernardino-michaela-boenke.md)
 * [吉罗拉莫·卡尔达诺 Cardano, Girolamo [Geronimo] (Guido Giglioni and Jonathan Regier)](c/ji-luo-la-mo-ka-er-da-nuo-cardano-girolamo-geronimo-guido-giglioni-and-jonathan-regier.md)
+* [托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/README.md)
+  * [霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/huo-bu-si-de-dao-de-yu-zheng-zhi-zhe-xue-moral-and-political-philosophy-sharon-a.-lloyd-and-susanne.md)
+  * [霍布斯的科学哲学 philosophy of science (Marcus P. Adams)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/huo-bu-si-de-ke-xue-zhe-xue-philosophy-of-science-marcus-p.-adams.md)
 
 ## 宗教改革运动（1517～1600）
 
@@ -257,36 +260,18 @@ outline: [1, 6]
 
 # 启蒙运动和早期现代哲学 1600-1750
 
-
-
-* [安东尼·柯林斯 Collins, Anthony (William Uzgalis)](c/an-dong-ni-ke-lin-si-collins-anthony-william-uzgalis.md)
-* [艾蒂安·博诺·德·孔狄亚克 Condillac, Étienne Bonnot de (Lorne Falkenstein and Giovanni Grandi)](c/ai-di-an-bo-nuo-de-kong-di-ya-ke-condillac-tienne-bonnot-de-lorne-falkenstein-and-giovanni-grandi.md)
-* [热罗·德·科尔德穆瓦 Cordemoy, Géraud de (Fred Ablondi)](c/re-luo-de-ke-er-de-mu-wa-cordemoy-graud-de-fred-ablondi.md)
-* [拉尔夫·库德沃斯 Cudworth, Ralph (Sarah Hutton)](c/la-er-fu-ku-de-wo-si-cudworth-ralph-sarah-hutton.md)
-* [罗伯特·戴加贝 Desgabets, Robert (Patricia Easton)](d/luo-bo-te-dai-jia-bei-desgabets-robert-patricia-easton.md)
-* [德尼·狄德罗 Diderot, Denis (Charles T. Wolfe and J.B. Shank)](d/de-ni-di-de-luo-diderot-denis-charles-t.-wolfe-and-j.b.-shank.md)
-* [弗雷德里克·道格拉斯 Douglass, Frederick (Ronald Sundstrom)](d/fu-lei-de-li-ke-dao-ge-la-si-douglass-frederick-ronald-sundstrom.md)
-* [让·巴蒂斯特·杜博斯 Du Bos, Jean-Baptiste (James O. Young and Margaret Cameron)](d/rang-ba-di-si-te-du-bo-si-du-bos-jeanbaptiste-james-o.-young-and-margaret-cameron.md)
-* [乔纳森‧爱德华兹 Edwards, Jonathan (William Wainwright)](e/qiao-na-sen-ai-de-hua-zi-edwards-jonathan-william-wainwright.md)
-* [17 世纪和 18 世纪的情感理论 17th and 18th century theories of (Amy M. Schmitter)](e/qing-xu-emotion-andrea-scarantino-and-ronald-de-sousa/17-shi-ji-he-18-shi-ji-de-qing-xu-li-lun-17th-and-18th-century-theories-of-amy-m.-schmitter.md)
-* [启蒙运动 Enlightenment (William Bristow)](e/qi-meng-yun-dong-enlightenment-william-bristow.md)
-* [路易·德·拉弗尔热 La Forge, Louis de (Andrea Sangiacomo and Desmond Clarke)](l/lu-yi-de-la-fu-er-re-la-forge-louis-de-andrea-sangiacomo-and-desmond-clarke.md)
-* [约翰内斯·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)](s/yue-han-nei-si-shi-tu-er-mu-sturm-johann-andrea-sangiacomo-and-christian-henkel.md)
-* [进步 progress (Agnes Tam and Margaret Meek Lange)](p/jin-bu-progress-agnes-tam-and-margaret-meek-lange.md)
-
 ## 剑桥柏拉图学派
 
 * [亨利·莫尔 More, Henry (John Henry)](m/heng-li-mo-er-more-henry-john-henry.md)
 * [剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)](c/jian-qiao-bai-la-tu-xue-pai-cambridge-platonists-sarah-hutton.md)
 * [沙夫茨伯里伯爵（第三代沙夫茨伯里伯爵安东尼·阿什利-柯柏）Shaftesbury, Lord [Anthony Ashley Cooper, 3rd Earl of] (Michael B. Gill)](s/sha-fu-ci-bo-li-bo-jue-di-san-dai-sha-fu-ci-bo-li-bo-jue-an-dong-ni-ashi-li-ke-bai-shaftesbury-lord/README.md)
+* [拉尔夫·库德沃斯 Cudworth, Ralph (Sarah Hutton)](c/la-er-fu-ku-de-wo-si-cudworth-ralph-sarah-hutton.md)
 
-## 经验论与唯理论
 
-* [理性主义与经验主义 rationalism vs. empiricism (Peter Markie and M. Folescu)](r/li-xing-zhu-yi-yu-jing-yan-zhu-yi-rationalism-vs.-empiricism-peter-markie-and-m.-folescu.md)
+## 唯理论（1600-1700、斯宾诺莎、莱布尼茨和伍尔夫、笛卡尔主义、马勒伯朗士）
 
-### 唯理论（1600-1700、斯宾诺莎、莱布尼茨和伍尔夫、笛卡尔主义、马勒伯朗士）
+### 笛卡尔
 
-* [大陆理性主义 Continental Rationalism (Shannon Dea, Julie Walsh, and Thomas M. Lennon)](c/da-lu-li-xing-zhu-yi-continental-rationalism-shannon-dea-julie-walsh-and-thomas-m.-lennon.md)
 * [勒内·笛卡尔 Descartes, René (Gary Hatfield)](d/le-nei-di-ka-er-descartes-ren-gary-hatfield/README.md)
 * [笛卡尔的认识论 epistemology (Lex Newman)](d/le-nei-di-ka-er-descartes-ren-gary-hatfield/di-ka-er-de-ren-shi-lun-epistemology-lex-newman.md)
 * [笛卡尔的伦理学 ethics (Donald Rutherford)](d/le-nei-di-ka-er-descartes-ren-gary-hatfield/di-ka-er-de-lun-li-xue-ethics-donald-rutherford.md)
@@ -298,7 +283,21 @@ outline: [1, 6]
 * [笛卡尔的物理学 physics (Edward Slowik)](d/le-nei-di-ka-er-descartes-ren-gary-hatfield/di-ka-er-de-wu-li-xue-physics-edward-slowik.md)
 * [笛卡尔与松果体 and the pineal gland (Gert-Jan Lokhorst)](d/le-nei-di-ka-er-descartes-ren-gary-hatfield/di-ka-er-yu-song-guo-ti-and-the-pineal-gland-gertjan-lokhorst.md)
 * [笛卡尔的观念论 theory of ideas (Kurt Smith)](d/le-nei-di-ka-er-descartes-ren-gary-hatfield/di-ka-er-de-guan-nian-lun-theory-of-ideas-kurt-smith.md)
+  
+### 笛卡尔主义
+
+* [热罗·德·科尔德穆瓦 Cordemoy, Géraud de (Fred Ablondi)](c/re-luo-de-ke-er-de-mu-wa-cordemoy-graud-de-fred-ablondi.md)
+* [路易·德·拉弗尔热 La Forge, Louis de (Andrea Sangiacomo and Desmond Clarke)](l/lu-yi-de-la-fu-er-re-la-forge-louis-de-andrea-sangiacomo-and-desmond-clarke.md)
+* [罗伯特·戴加贝 Desgabets, Robert (Patricia Easton)](d/luo-bo-te-dai-jia-bei-desgabets-robert-patricia-easton.md)
 * [安托万·勒·格兰德 Le Grand, Antoine (Patricia Easton)](l/an-tuo-wan-le-ge-lan-de-le-grand-antoine-patricia-easton.md)
+* [尼古拉·马勒伯朗士 Malebranche, Nicolas (Tad Schmaltz)](m/ni-gu-la-ma-le-bo-lang-shi-malebranche-nicolas-tad-schmaltz/README.md)
+  * [马勒伯朗士论上帝的观念和视觉 theory of ideas and vision in God (Lawrence Nolan)](m/ni-gu-la-ma-le-bo-lang-shi-malebranche-nicolas-tad-schmaltz/ma-le-bo-lang-shi-lun-shang-di-de-guan-nian-he-shi-jue-theory-of-ideas-and-vision-in-god-lawrence-no.md)
+* [约翰·诺里斯 Norris, John (June Yang)](n/yue-han-nuo-li-si-norris-john-june-yang.md)
+* [弗朗索瓦·普兰·德拉巴尔 Poulain de la Barre, François (Martina Reuter)](p/fu-lang-suo-wa-pu-lan-de-la-ba-er-poulain-de-la-barre-franois-martina-reuter.md)
+* [亨利·莱格伍 Regius, Henricus (Desmond Clarke and Erik-Jan Bos)](r/heng-li-lai-ge-wu-regius-henricus-desmond-clarke-and-erikjan-bos.md)
+
+### 莱布尼茨
+
 * [戈特弗里德·威廉·莱布尼茨 Leibniz, Gottfried Wilhelm (Brandon C. Look)](l/ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-leibniz-gottfried-wilhelm-brandon-c.-look/README.md)
 * [莱布尼茨的伦理学 ethics (Andrew Youpa)](l/ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-leibniz-gottfried-wilhelm-brandon-c.-look/lai-bu-ni-ci-de-lun-li-xue-ethics-andrew-youpa.md)
 * [莱布尼茨的表面哲学 Exoteric Philosophy (John Whipple)](l/ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-leibniz-gottfried-wilhelm-brandon-c.-look/lai-bu-ni-ci-de-biao-mian-zhe-xue-exoteric-philosophy-john-whipple.md)
@@ -308,44 +307,43 @@ outline: [1, 6]
 * [莱布尼茨论恶的问题 on the problem of evil (Michael J. Murray, Sean Greenberg, and Thomas Feeney)](l/ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-leibniz-gottfried-wilhelm-brandon-c.-look/lai-bu-ni-ci-lunede-wen-ti-on-the-problem-of-evil-michael-j.-murray-sean-greenberg-and-thomas-feeney.md)
 * [莱布尼茨的心灵哲学 philosophy of mind (Mark Kulstad and Laurence Carlin)](l/ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-leibniz-gottfried-wilhelm-brandon-c.-look/lai-bu-ni-ci-de-xin-ling-zhe-xue-philosophy-of-mind-mark-kulstad-and-laurence-carlin.md)
 * [莱布尼茨的物理哲学 philosophy of physics (Jeffrey K. McDonough)](l/ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-leibniz-gottfried-wilhelm-brandon-c.-look/lai-bu-ni-ci-de-wu-li-zhe-xue-philosophy-of-physics-jeffrey-k.-mcdonough.md)
-* [尼古拉·马勒伯朗士 Malebranche, Nicolas (Tad Schmaltz)](m/ni-gu-la-ma-le-bo-lang-shi-malebranche-nicolas-tad-schmaltz/README.md)
-* [马勒伯朗士论上帝的观念和视觉 theory of ideas and vision in God (Lawrence Nolan)](m/ni-gu-la-ma-le-bo-lang-shi-malebranche-nicolas-tad-schmaltz/ma-le-bo-lang-shi-lun-shang-di-de-guan-nian-he-shi-jue-theory-of-ideas-and-vision-in-god-lawrence-no.md)
-* [斯宾诺莎的认识论和心灵哲学 epistemology and philosophy of mind (Karolina Hübner)](s/si-bin-nuo-suo-spinoza/si-bin-nuo-suo-de-ren-shi-lun-he-xin-ling-zhe-xue-epistemology-and-philosophy-of-mind-karolina-hbner.md)
+* [充足理由律 principle of sufficient reason (Yitzhak Y. Melamed and Martin Lin)](p/chong-zu-li-you-lv-principle-of-sufficient-reason-yitzhak-y.-melamed-and-martin-lin.md)
+
+### 斯宾诺莎
+
 * [巴鲁赫·斯宾诺莎 Spinoza, Baruch (Steven Nadler)](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/README.md)
+* [斯宾诺莎的认识论和心灵哲学 epistemology and philosophy of mind (Karolina Hübner)](s/si-bin-nuo-suo-spinoza/si-bin-nuo-suo-de-ren-shi-lun-he-xin-ling-zhe-xue-epistemology-and-philosophy-of-mind-karolina-hbner.md)
 * [斯宾诺莎的模态形而上学 modal metaphysics (Samuel Newlands)](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/si-bin-nuo-suo-de-mo-tai-xing-er-shang-xue-modal-metaphysics-samuel-newlands.md)
 * [斯宾诺莎的物理理论 physical theory (Richard Manning)](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/si-bin-nuo-suo-de-wu-li-li-lun-physical-theory-richard-manning.md)
 * [斯宾诺莎的政治哲学 political philosophy (Justin Steinberg)](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/si-bin-nuo-suo-de-zheng-zhi-zhe-xue-political-philosophy-justin-steinberg.md)
 * [斯宾诺莎的心理学理论 psychological theory (Michael LeBuffe)](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/si-bin-nuo-suo-de-xin-li-xue-li-lun-psychological-theory-michael-lebuffe.md)
 * [斯宾诺莎的属性理论 theory of attributes (Noa Shein)](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/si-bin-nuo-suo-de-shu-xing-li-lun-theory-of-attributes-noa-shein.md)
-* [约翰·诺里斯 Norris, John (June Yang)](n/yue-han-nuo-li-si-norris-john-june-yang.md)
-* [弗朗索瓦·普兰·德拉巴尔 Poulain de la Barre, François (Martina Reuter)](p/fu-lang-suo-wa-pu-lan-de-la-ba-er-poulain-de-la-barre-franois-martina-reuter.md)
-* [充足理由律 principle of sufficient reason (Yitzhak Y. Melamed and Martin Lin)](p/chong-zu-li-you-lv-principle-of-sufficient-reason-yitzhak-y.-melamed-and-martin-lin.md)
-* [塞缪尔·克拉克 Clarke, Samuel (Timothy Yenter and Ezio Vailati)](c/sai-mou-er-ke-la-ke-clarke-samuel-timothy-yenter-and-ezio-vailati.md)
 
-### 经验论（1600-1700、培根、休谟、洛克、贝克莱、霍布斯）
+## 经验论（1600-1700、培根、休谟、洛克、贝克莱、霍布斯）
 
-* [乔治·贝克莱 Berkeley, George (Lisa Downing)](b/qiao-zhi-bei-ke-lai-berkeley-george-lisa-downing.md)
 * [弗朗西斯·培根 Bacon, Francis (Jürgen Klein)](b/fu-lang-xi-si-pei-gen-bacon-francis-jrgen-klein.md)
-* [大卫·休谟 Hume, David (William Edward Morris and Charlotte R. Brown)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/README.md)
-* [休谟的伦理学 moral philosophy (Rachel Cohon)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-de-lun-li-xue-moral-philosophy-rachel-cohon.md)
-* [休谟的牛顿主义与反牛顿主义 Newtonianism and Anti-Newtonianism (Eric Schliesser and Tamás Demeter)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-de-niu-dun-zhu-yi-yu-fan-niu-dun-zhu-yi-newtonianism-and-antinewtonianism-eric-schliesser-and.md)
-* [休谟论自由意志 on free will (Paul Russell)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-lun-zi-you-yi-zhi-on-free-will-paul-russell.md)
-* [休谟的宗教学 on religion (Paul Russell and Anders Kraal)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-de-zong-jiao-xue-on-religion-paul-russell-and-anders-kraal.md)
 * [约翰·洛克 Locke, John (William Uzgalis)](l/yue-han-luo-ke-locke-john-william-uzgalis/README.md)
-* [洛克的伦理学 moral philosophy (Patricia Sheridan)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-de-lun-li-xue-moral-philosophy-patricia-sheridan.md)
-* [洛克论自由 on freedom (Samuel Rickless)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-lun-zi-you-on-freedom-samuel-rickless.md)
-* [洛克论人格同一性 on personal identity (Jessica Gordon-Roth)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-lun-ren-ge-tong-yi-xing-on-personal-identity-jessica-gordonroth.md)
-* [洛克论实在本质 on real essence (Jan-Erik Jones)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-lun-shi-zai-ben-zhi-on-real-essence-janerik-jones.md)
-* [洛克的科学哲学 philosophy of science (Hylarie Kochiras)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-de-ke-xue-zhe-xue-philosophy-of-science-hylarie-kochiras.md)
-* [洛克的政治哲学 political philosophy (Alex Tuckness)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-de-zheng-zhi-zhe-xue-political-philosophy-alex-tuckness.md)
-* [托马斯·里德 Reid, Thomas (Ryan Nichols and Gideon Yaffe)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/README.md)
-* [里德的伦理学 ethics (Terence Cuneo)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/li-de-de-lun-li-xue-ethics-terence-cuneo.md)
-* [里德论记忆与人格同一性 on memory and personal identity (Rebecca Copenhaver)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/li-de-lun-ji-yi-yu-ren-ge-tong-yi-xing-on-memory-and-personal-identity-rebecca-copenhaver.md)
+  * [洛克的伦理学 moral philosophy (Patricia Sheridan)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-de-lun-li-xue-moral-philosophy-patricia-sheridan.md)
+  * [洛克论自由 on freedom (Samuel Rickless)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-lun-zi-you-on-freedom-samuel-rickless.md)
+  * [洛克论人格同一性 on personal identity (Jessica Gordon-Roth)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-lun-ren-ge-tong-yi-xing-on-personal-identity-jessica-gordonroth.md)
+  * [洛克论实在本质 on real essence (Jan-Erik Jones)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-lun-shi-zai-ben-zhi-on-real-essence-janerik-jones.md)
+  * [洛克的科学哲学 philosophy of science (Hylarie Kochiras)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-de-ke-xue-zhe-xue-philosophy-of-science-hylarie-kochiras.md)
+  * [洛克的政治哲学 political philosophy (Alex Tuckness)](l/yue-han-luo-ke-locke-john-william-uzgalis/luo-ke-de-zheng-zhi-zhe-xue-political-philosophy-alex-tuckness.md)
+* [乔治·贝克莱 Berkeley, George (Lisa Downing)](b/qiao-zhi-bei-ke-lai-berkeley-george-lisa-downing.md)
+* [大卫·休谟 Hume, David (William Edward Morris and Charlotte R. Brown)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/README.md)
+  * [休谟的伦理学 moral philosophy (Rachel Cohon)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-de-lun-li-xue-moral-philosophy-rachel-cohon.md)
+  * [休谟的牛顿主义与反牛顿主义 Newtonianism and Anti-Newtonianism (Eric Schliesser and Tamás Demeter)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-de-niu-dun-zhu-yi-yu-fan-niu-dun-zhu-yi-newtonianism-and-antinewtonianism-eric-schliesser-and.md)
+  * [休谟论自由意志 on free will (Paul Russell)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-lun-zi-you-yi-zhi-on-free-will-paul-russell.md)
+  * [休谟的宗教学 on religion (Paul Russell and Anders Kraal)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-de-zong-jiao-xue-on-religion-paul-russell-and-anders-kraal.md)
+
 
 ## 苏格兰启蒙运动（1700-1800）
 
 * [弗兰西斯·哈奇森 Hutcheson, Francis (Dale Dorsey)](h/fu-lan-xi-si-ha-qi-sen-hutcheson-francis-dale-dorsey/README.md)
-
+* [托马斯·里德 Reid, Thomas (Ryan Nichols and Gideon Yaffe)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/README.md)
+  * [里德的伦理学 ethics (Terence Cuneo)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/li-de-de-lun-li-xue-ethics-terence-cuneo.md)
+  * [里德论记忆与人格同一性 on memory and personal identity (Rebecca Copenhaver)](r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/li-de-lun-ji-yi-yu-ren-ge-tong-yi-xing-on-memory-and-personal-identity-rebecca-copenhaver.md)
+  
 ## 德国浪漫主义（1700-1800）耶拿浪漫主义
 
 * [格奥尔格·菲利普·弗里德里希·弗莱赫尔·冯·哈登贝格（诺瓦利斯）Novalis [Georg Friedrich Philipp von Hardenberg] (Kristin Gjesdal)](n/ge-ao-er-ge-fei-li-pu-fu-li-de-li-xi-fu-lai-he-er-feng-ha-deng-bei-ge-nuo-wa-li-si-novalis-georg-fri.md)
@@ -353,19 +351,24 @@ outline: [1, 6]
 * [约翰·克里斯托弗·弗里德里希·冯·席勒 Schiller, Friedrich (Lydia L. Moland)](s/yue-han-ke-li-si-tuo-fu-fu-li-de-li-xi-feng-xi-le-schiller-friedrich-lydia-l.-moland.md)
 * [弗里德里希·丹尼尔·恩斯特·施莱尔马赫 Schleiermacher, Friedrich Daniel Ernst (Michael Forster)](s/fu-li-de-li-xi-dan-ni-er-en-si-te-shi-lai-er-ma-he-schleiermacher-friedrich-daniel-ernst-michael-for.md)
 
-## 启蒙时代的法国哲学【1600-1750】（唯物主义、蒙田、帕斯卡尔、培尔、丰特内勒、孟德斯鸠、伏尔泰、卢梭、拉美特利、萨德、狄德罗、爱尔维修、达朗贝尔、霍尔巴赫、布丰、杜尔哥、孔多塞）
+## 启蒙时代的法国哲学【1600-1750】
 
 * [马兰·梅森 Mersenne, Marin (Philippe Hamou)](m/ma-lan-mei-sen-mersenne-marin-philippe-hamou.md)
 * [米歇尔·德·蒙田 Montaigne, Michel de (Marc Foglia and Emiliano Ferrari)](m/mi-xie-er-de-meng-tian-montaigne-michel-de-marc-foglia-and-emiliano-ferrari.md)
-* [夏尔·路易·德·塞孔达，拉布雷德与孟德斯鸠男爵 Montesquieu, Charles-Louis de Secondat, Baron de (Hilary Bok)](m/xia-er-lu-yi-de-sai-kong-da-la-bu-lei-de-yu-meng-de-si-jiu-nan-jue-montesquieu-charleslouis-de-secon.md)
 * [布莱士·帕斯卡 Pascal, Blaise (Desmond Clarke and William Wood)](p/bu-lai-shi-pa-si-ka-pascal-blaise-desmond-clarke-and-william-wood.md)
-* [帕斯卡的赌注 Pascal’s wager (Alan Hájek)](p/pa-si-ka-de-du-zhu-pascals-wager-alan-hjek.md)
-* [普芬道夫的伦理学和政治哲学 moral and political philosophy (Michael Seidler)](p/sai-mou-er-feng-pu-fen-dao-fu-pufendorf-samuel-freiherr-von/pu-fen-dao-fu-de-lun-li-xue-he-zheng-zhi-zhe-xue-moral-and-political-philosophy-michael-seidler.md)
-* [让-雅克·卢梭 Rousseau, Jean Jacques (Christopher Bertram)](r/rang-ya-ke-lu-suo-rousseau-jean-jacques-christopher-bertram.md)
-* [皮埃尔·培尔 Bayle, Pierre (Michael Hickson)](b/pi-ai-er-bei-er-bayle-pierre-michael-hickson.md)
-* [亨利·莱格伍 Regius, Henricus (Desmond Clarke and Erik-Jan Bos)](r/heng-li-lai-ge-wu-regius-henricus-desmond-clarke-and-erikjan-bos.md)
-* [伏尔泰 Voltaire (J.B. Shank)](v/fu-er-tai-voltaire-j.b.-shank.md)
+  * [帕斯卡的赌注 Pascal’s wager (Alan Hájek)](p/pa-si-ka-de-du-zhu-pascals-wager-alan-hjek.md)
 * [托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)](c/tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md)
+
+
+### 百科全书派
+
+* [皮埃尔·培尔 Bayle, Pierre (Michael Hickson)](b/pi-ai-er-bei-er-bayle-pierre-michael-hickson.md)
+* [艾蒂安·博诺·德·孔狄亚克 Condillac, Étienne Bonnot de (Lorne Falkenstein and Giovanni Grandi)](c/ai-di-an-bo-nuo-de-kong-di-ya-ke-condillac-tienne-bonnot-de-lorne-falkenstein-and-giovanni-grandi.md)
+* [夏尔·路易·德·塞孔达，拉布雷德与孟德斯鸠男爵 Montesquieu, Charles-Louis de Secondat, Baron de (Hilary Bok)](m/xia-er-lu-yi-de-sai-kong-da-la-bu-lei-de-yu-meng-de-si-jiu-nan-jue-montesquieu-charleslouis-de-secon.md)
+* [保尔-亨利·提利·霍尔巴赫 Holbach, Paul-Henri Thiry (Baron) d’ (Michael LeBuffe)](h/bao-er-heng-li-ti-li-huo-er-ba-he-holbach-paulhenri-thiry-barondmichael-lebuffe.md)
+* [让-雅克·卢梭 Rousseau, Jean Jacques (Christopher Bertram)](r/rang-ya-ke-lu-suo-rousseau-jean-jacques-christopher-bertram.md)
+* [伏尔泰 Voltaire (J.B. Shank)](v/fu-er-tai-voltaire-j.b.-shank.md)
+* [德尼·狄德罗 Diderot, Denis (Charles T. Wolfe and J.B. Shank)](d/de-ni-di-de-luo-diderot-denis-charles-t.-wolfe-and-j.b.-shank.md)
 
 ## 德国古典哲学
 
@@ -415,10 +418,6 @@ outline: [1, 6]
 ## 近代形而上学唯物主义
 
 * [路德维希·安德列斯·费尔巴哈 Feuerbach, Ludwig Andreas (Todd Gooch)](f/lu-de-wei-xi-an-de-lie-si-fei-er-ba-ha-feuerbach-ludwig-andreas-todd-gooch.md)
-* [托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/README.md)
-* [霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/huo-bu-si-de-dao-de-yu-zheng-zhi-zhe-xue-moral-and-political-philosophy-sharon-a.-lloyd-and-susanne.md)
-* [霍布斯的科学哲学 philosophy of science (Marcus P. Adams)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/huo-bu-si-de-ke-xue-zhe-xue-philosophy-of-science-marcus-p.-adams.md)
-* [保尔-亨利·提利·霍尔巴赫 Holbach, Paul-Henri Thiry (Baron) d’ (Michael LeBuffe)](h/bao-er-heng-li-ti-li-huo-er-ba-he-holbach-paulhenri-thiry-barondmichael-lebuffe.md)
 * [唯心主义 idealism (Paul Guyer and Rolf-Peter Horstmann)](i/wei-xin-zhu-yi-idealism-paul-guyer-and-rolfpeter-horstmann.md)
 
 # 现代西方哲学 1750-1900
@@ -2485,3 +2484,15 @@ outline: [1, 6]
 * [文艺复兴时期的亚里士多德主义 in the Renaissance (Heinrich Kuhn)](a/ya-li-shi-duo-de-zhu-yi-aristotelianism/wen-yi-fu-xing-shi-qi-de-ya-li-shi-duo-de-zhu-yi-in-the-renaissance-heinrich-kuhn.md)
 * [文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato)](n/zi-ran-zhe-xue-natural-philosophy/wen-yi-fu-xing-shi-qi-de-zi-ran-zhe-xue-in-the-renaissance-eva-del-soldato.md)
 * [17 世纪的意识理论 seventeenth-century theories of (Larry M. Jorgensen)](c/yi-shi-consciousness-robert-van-gulick/17-shi-ji-de-yi-shi-li-lun-seventeenthcentury-theories-of-larry-m.-jorgensen.md)
+* [弗雷德里克·道格拉斯 Douglass, Frederick (Ronald Sundstrom)](d/fu-lei-de-li-ke-dao-ge-la-si-douglass-frederick-ronald-sundstrom.md)
+* [安东尼·柯林斯 Collins, Anthony (William Uzgalis)](c/an-dong-ni-ke-lin-si-collins-anthony-william-uzgalis.md)
+* [让·巴蒂斯特·杜博斯 Du Bos, Jean-Baptiste (James O. Young and Margaret Cameron)](d/rang-ba-di-si-te-du-bo-si-du-bos-jeanbaptiste-james-o.-young-and-margaret-cameron.md)
+* [乔纳森‧爱德华兹 Edwards, Jonathan (William Wainwright)](e/qiao-na-sen-ai-de-hua-zi-edwards-jonathan-william-wainwright.md)
+* [17 世纪和 18 世纪的情感理论 17th and 18th century theories of (Amy M. Schmitter)](e/qing-xu-emotion-andrea-scarantino-and-ronald-de-sousa/17-shi-ji-he-18-shi-ji-de-qing-xu-li-lun-17th-and-18th-century-theories-of-amy-m.-schmitter.md)
+* [启蒙运动 Enlightenment (William Bristow)](e/qi-meng-yun-dong-enlightenment-william-bristow.md)
+* [约翰内斯·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)](s/yue-han-nei-si-shi-tu-er-mu-sturm-johann-andrea-sangiacomo-and-christian-henkel.md)
+* [进步 progress (Agnes Tam and Margaret Meek Lange)](p/jin-bu-progress-agnes-tam-and-margaret-meek-lange.md)
+* [理性主义与经验主义 rationalism vs. empiricism (Peter Markie and M. Folescu)](r/li-xing-zhu-yi-yu-jing-yan-zhu-yi-rationalism-vs.-empiricism-peter-markie-and-m.-folescu.md)
+* [大陆理性主义 Continental Rationalism (Shannon Dea, Julie Walsh, and Thomas M. Lennon)](c/da-lu-li-xing-zhu-yi-continental-rationalism-shannon-dea-julie-walsh-and-thomas-m.-lennon.md)
+* [塞缪尔·克拉克 Clarke, Samuel (Timothy Yenter and Ezio Vailati)](c/sai-mou-er-ke-la-ke-clarke-samuel-timothy-yenter-and-ezio-vailati.md)
+* [普芬道夫的伦理学和政治哲学 moral and political philosophy (Michael Seidler)](p/sai-mou-er-feng-pu-fen-dao-fu-pufendorf-samuel-freiherr-von/pu-fen-dao-fu-de-lun-li-xue-he-zheng-zhi-zhe-xue-moral-and-political-philosophy-michael-seidler.md)
