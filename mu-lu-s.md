@@ -2383,7 +2383,7 @@ outline: [1, 6]
 * [解放哲学 liberation, philosophy of (Eduardo Mendieta)](l/jie-fang-zhe-xue-liberation-philosophy-of-eduardo-mendieta.md)
 * [民族主义 nationalism (Nenad Miscevic)](n/guo-jia-zhu-yi-nationalism-nenad-miscevic.md)
 * [革命 revolution (Allen Buchanan and Alexander Motchoulski)](r/ge-ming-revolution-allen-buchanan-and-alexander-motchoulski.md)
-* [脱离 secession (Allen Buchanan and Elizabeth Levinson)](s/fen-li-secession-allen-buchanan-and-elizabeth-levinson.md)
+* [分离 secession (Allen Buchanan and Elizabeth Levinson)](s/fen-li-secession-allen-buchanan-and-elizabeth-levinson.md)
 
 ## 全球化和移民哲学
 
