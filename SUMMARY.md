@@ -2143,9 +2143,9 @@
   * [量子逻辑和概率论 quantum logic and probability theory (Alexander Wilce)](q/liang-zi-li-lun-quantum-theory/liang-zi-luo-ji-he-gai-shuai-lun-quantum-logic-and-probability-theory-alexander-wilce.md)
   * [\*不确定性原理——见不确定性原理 uncertainty principle in — see Uncertainty Principle](q/liang-zi-li-lun-quantum-theory/bu-que-ding-xing-yuan-li-jian-bu-que-ding-xing-yuan-li-uncertainty-principle-in-see-uncertainty-prin.md)
 * [问题 questions (Charles Cross and Floris Roelofsen)](q/wen-ti-questions-charles-cross-and-floris-roelofsen.md)
-* [威拉德·冯·奥曼·奎因 Quine, Willard Van Orman (Peter Hylton and Gary Kemp)](q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/README.md)
+* [威拉德·冯·奥曼·蒯因 Quine, Willard Van Orman (Peter Hylton and Gary Kemp)](q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/README.md)
   * [\*不可或缺性论证——见数学哲学：数学哲学中的不可或缺性论证 indispensability argument — see mathematics, philosophy of: indispensability arguments in the](q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/bu-ke-huo-que-xing-lun-zheng-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-bu-ke-huo-que-xing-lun-zh.md)
-  * [奎因的新基础 New Foundations (Thomas Forster)](q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/kui-yin-de-xin-ji-chu-new-foundations-thomas-forster.md)
+  * [蒯因的新基础 New Foundations (Thomas Forster)](q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/kui-yin-de-xin-ji-chu-new-foundations-thomas-forster.md)
 * [引语 quotation (Herman Cappelen, Ernest Lepore, and Matthew McKeever)](q/yin-yu-quotation-herman-cappelen-ernest-lepore-and-matthew-mckeever.md)
 
 ## R
