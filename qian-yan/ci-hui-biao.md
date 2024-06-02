@@ -12,6 +12,8 @@
 ```
 The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.The Theophrastus to 泰奥弗拉斯特. The Timon of Phlius to 斐利亚修斯的第蒙. The Timon to 第蒙. The Pyrrho to 皮浪.The Philo to  斐洛.
 
+The Byzantine to 拜占庭.
+
 The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅.
 
  The Wilhelm Windelband to 威廉·文德尔班. The Windelband to 文德尔班.
@@ -45,6 +47,10 @@ The Well-Being to 福祉.
 The Weakness of Will to 意志薄弱 . The akrasia to 不自制.
 
 The vagueness to 模糊性.
+
+The  Joseph Butler to 约瑟夫·巴特勒. The  Butler to 巴特勒.
+
+The Edmund  Burke to 埃德蒙·伯克.  The Burke to 伯克.
 
 The social construction to 社会建构. The Naturalistic Approaches to 自然主义方法.The social contract to 社会契约论.The contractarianism to 自利契约论. The contractualism  to 非自利契约论 .The Social Institutions to 社会制度. The Socialism to 社会主义.The social minimum to 社会最低保障.The Social Networking to 网络社交. The Social Norms to 社会规范.The Social Ontology to 社会本体论.The Formal Approaches to 形式化方法. The  Social Procedures to 社会程序 .The Sociobiology to 生物社会学. The Sovereignty to 主权.
 
@@ -164,7 +170,9 @@ The Transmission  to 传递. The Justification to 辩护. The Warrant to 担保.
 
 The  Pseudo-Science to 伪科学.  The Science  to 科学.   The Theory to 理论. The observation to 观察. The Unity of Science to 统一科学. The Discovery to 发现. The Explanation to 解释. The Causal Approaches to 因果方法. The scientific knowledge to 科学知识. The Social Dimensions to 社会维度. The Scientific Method to 科学方法. The Objectivity to 客观性. The Pluralism to 多元主义. The Progress to 进步 . The Realism to 实在论. The Representation to 表征. The Research to 研究. The Big Data to 大数据. The Revolutions to 革命. The Structure to 结构. The Speech Acts to 言语行为.
 
-The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Theories to 坍缩理论. The Collapse  to 坍缩. The Consistent Histories Approach to 一致性历史方法. The Consistent Histories to 一致性历史. The Copenhagen Interpretation to 哥本哈根诠释. The Everettian to 埃弗雷特. The KS Theorem to KS 定理. The Kochen-Specker to 科亨-施佩克尔. The Many-Worlds Interpretation to 多世界诠释. The Modal Interpretations to 模态解释. The Relational to 关系性. The Retrocausality to 逆因果关系. The Decoherence to 退相干. The Quantum-Bayesian to 量子贝叶斯模型. The Pragmatist to 实用主义. The Quantum Approaches to 量子研究方法. The Einstein-Podolsky-Rosen to 爱因斯坦-波多尔斯基-罗森. The Argument  to 悖论. The Identity to 同一性. The Individuality to 个体性. The Rigor to 严谨性. The Computing to 计算. The entanglement to 纠缠. The Quantum Field Theory to 量子场论. The QFT to 量子场论.  The Gravity to 引力. The Post-Newtonian to 后牛顿.The McTaggart to 麦克塔格特.The Conventionality of Simultaneity to 同时性的约定性. The Simultaneity to 同时性/同时性的. The Conventionality  to 约定性/约定性的.  The Hole Argument to 空穴论证. The  Inertial Frames to 惯性系.  The Singularities to 奇点. The Black Holes to 黑洞. The Supertasks to 超级任务. The  statistical physics to 统计物理学. The Ludwig Boltzmann to 路德维希·玻尔兹曼. The  Boltzmann to 玻尔兹曼.  The Philosophy of Statistical Mechanics to 统计力学哲学.The Time Travel to 时间旅行.The Time Machines to 时间机器. The thermodynamic time asymmetry to 热力学时间非对称性. The Time to 时间. The Experience to 体验. The Perception to 知觉.
+ The biological development to 生物演化. The development to 演化.
+
+The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Theories to 坍缩理论. The Collapse  to 坍缩. The Consistent Histories Approach to 一致性历史方法. The Consistent Histories to 一致性历史. The Copenhagen Interpretation to 哥本哈根诠释. The Everettian to 埃弗雷特. The KS Theorem to KS 定理. The Kochen-Specker to 科亨-施佩克尔. The Many-Worlds Interpretation to 多世界诠释. The Modal Interpretations to 模态解释. The Relational to 关系性. The Retrocausality to 逆因果关系. The Decoherence to 退相干. The Quantum-Bayesian to 量子贝叶斯模型. The Pragmatist to 实用主义. The Quantum Approaches to 量子研究方法. The Einstein-Podolsky-Rosen to 爱因斯坦-波多尔斯基-罗森. The Argument  to 悖论. The Identity to 同一性. The Individuality to 个体性. The Rigor to 严谨性. The Computing to 计算. The entanglement to 纠缠. The Quantum Field Theory to 量子场论. The QFT to 量子场论.  The Gravity to 引力. The Post-Newtonian to 后牛顿.The McTaggart to 麦克塔格特.The Conventionality of Simultaneity to 同时性的约定性. The Simultaneity to 同时性/同时性的. The Conventionality  to 约定性/约定性的.  The Hole Argument to 空穴论证. The  Inertial Frames to 惯性系.  The Singularities to 奇点. The Black Holes to 黑洞. The Supertasks to 超级任务. The  statistical physics to 统计物理学. The Ludwig Boltzmann to 路德维希·玻尔兹曼. The  Boltzmann to 玻尔兹曼.  The Philosophy of Statistical Mechanics to 统计力学哲学.The Time Travel to 时间旅行.The Time Machines to 时间机器. The thermodynamic time asymmetry to 热力学时间非对称性. The Time to 时间. The Experience to 体验. The Perception to 知觉. The Niels Bohr to 尼尔斯·玻尔. The  Bohr to 玻尔. The correspondence principle to 对应原理. The Bell’s Theorem to 贝尔定理.
 
 The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.
 
@@ -192,6 +200,11 @@ The  Philosophy of Statistics to 统计学哲学 .
 
 The Spinoza to 斯宾诺莎.The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
 
+ The Boolean algebra to 逻辑代数.
 
 The  Absolute idealism to 新黑格尔主义. The Token to 个体.
+
+The Francis Herbert Bradley to 弗朗西斯·赫伯特·布拉德雷. The Bradley to 布拉德雷.  The Regress to 倒退. The British Idealism to 英国新黑格尔主义.
+
+The Franz Brentano to 弗朗兹·布伦塔诺. The Brentano to 布伦塔诺.The theory of judgement to 判断理论.
 ``` 
