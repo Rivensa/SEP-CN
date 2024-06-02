@@ -12,7 +12,11 @@
 ```
 The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.The Theophrastus to 泰奥弗拉斯特. The Timon of Phlius to 斐利亚修斯的第蒙. The Timon to 第蒙. The Pyrrho to 皮浪.The Philo to  斐洛.
 
+The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.
+
 The Byzantine to 拜占庭.
+
+The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里翁 .  The Cardinal to 枢机主教..
 
 The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅.
 
@@ -44,11 +48,15 @@ The William Whewell to 威廉·惠威尔. The Whewell to 惠威尔.
 
 The Well-Being to 福祉.
 
+The boundary to 边界 .
+
 The Weakness of Will to 意志薄弱 . The akrasia to 不自制.
 
 The vagueness to 模糊性.
 
 The  Joseph Butler to 约瑟夫·巴特勒. The  Butler to 巴特勒.
+
+The Bayes’ Theorem to 贝叶斯定理 .
 
 The Edmund  Burke to 埃德蒙·伯克.  The Burke to 伯克.
 
@@ -93,6 +101,8 @@ The Structural Realism to 结构现实主义. The Epistemic Structural Realism t
 The Leo Strauss to 列奥·施特劳斯. The Strauss to 施特劳斯.
 
 The Alfred Tarski to 阿尔弗莱德·塔尔斯基 . The Tarski to 塔尔斯基 .The truth definitions to 真理定义.
+
+The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.
 
 The Sounds to 声音.
 
@@ -152,7 +162,17 @@ The Types to 类型. The Tokens to 个例. The type theory to 类型论.The Intu
 
 The Utilitarianism to 功利主义.
 
+The Francis Bacon to 弗朗西斯·培根. The  Bacon to 培根. The Novum Organum Scientiarum to 新工具. The Nova Atlantis to 新大西岛. The Lord Keeper of the Seal to 掌玺大臣.
+
 The Umar Khayyam to 欧玛尔·海亚姆.The  Khayyam to 海亚姆.
+
+The Luitzen Egbertus Jan Brouwer to 勒伊岑·艾赫贝特斯·扬·布劳威尔. The Brouwer to 布劳威尔.
+
+The Jeremy Bentham to 杰里米·边沁. The Bentham to 边沁.
+
+The behaviorism to 行为主义.
+
+The Henri Bergson to 亨利·柏格森. The Bergson to 柏格森.
 
 The James Burnett to 詹姆斯·伯内特. The Hugh Blair to 休·布莱尔.  The Lord Monboddo to 蒙博多勋爵. The George  Campbell to 乔治·坎贝尔. The Gershom Carmichael to 格肖姆·卡迈克尔. The James Dunbar to 詹姆斯·邓巴. The Adam  Ferguson to 亚当·弗格森. The Alexander  Gerard to 亚历山大·杰拉德. The Henry Home to 亨利·霍姆. The Francis Hutcheson to 弗兰西斯·哈奇森. The James Hutton to 詹姆斯·赫顿. The James Beattie to 詹姆斯·比蒂. The Allan  Ramsay to 艾伦·拉姆齐. The Adam Smith to 亚当·斯密. The Dugald  Stewart to 杜格尔·斯图尔特. The George Turnbull to 乔治·特恩布尔.
 
@@ -202,9 +222,9 @@ The Spinoza to 斯宾诺莎.The modal metaphysics to 模态形而上学.The The 
 
  The Boolean algebra to 逻辑代数.
 
-The  Absolute idealism to 新黑格尔主义. The Token to 个体.
+The  Absolute idealism to 新黑格尔主义. The British Idealism to 英国新黑格尔主义. The Bernard Bosanquet to 伯纳德·鲍桑葵. The  Bosanquet to  鲍桑葵.  The Token to 个体. The Francis Herbert Bradley to 弗朗西斯·赫伯特·布拉德雷. The Bradley to 布拉德雷.  The Regress to 倒退.  The Bruno  Bauer to 布鲁诺·鲍威尔. The Bauer to 鲍威尔.
 
-The Francis Herbert Bradley to 弗朗西斯·赫伯特·布拉德雷. The Bradley to 布拉德雷.  The Regress to 倒退. The British Idealism to 英国新黑格尔主义.
+The Ernst Bloch to 恩斯特·布洛赫. The Bloch to 布洛赫.
 
 The Franz Brentano to 弗朗兹·布伦塔诺. The Brentano to 布伦塔诺.The theory of judgement to 判断理论.
 ``` 
