@@ -98,7 +98,14 @@ V(B,\lambda)& =\bigcup_{\beta<\lambda}V\left(B,\beta\right).
 
 这里 dom(f)是函数 f 的定义域，range(f)是函数 f 的值域。布尔值宇宙是一个集合 V(B)，它是所有这些 V 的并集。接下来，通过对良基集进行相当复杂的超限递归，定义了赋予布尔值宇宙中元素的自由变量的集合论公式的值：
 
-
+$$\begin{aligned}
+\|x\in y\|& =\sum_{t\in\mathrm{dom}(y)}\|x=t\|\cdot y(t) \\
+\|x\subseteq y\|& =\prod_{t\in\mathrm{dom}(x)}-x(t)+\|t\in y\| \\
+\|x=y\|& =\|x\subseteq y\|\cdot\|y\subseteq x\| \\
+\left\|\neg\phi\right\|& =-\|\phi\| \\
+\|\phi\vee\psi\|& =\|\phi\|+\|\psi\| \\
+\|\exists x\phi(x)\|& =\sum_{a\in V(B)}\|\phi(a)\|. 
+\end{aligned}$$
 
 ## Bibliography
 
