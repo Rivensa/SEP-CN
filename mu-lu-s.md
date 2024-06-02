@@ -242,7 +242,7 @@ outline: [1, 6]
 
 * [但丁·阿利吉耶里 Dante Alighieri (Winthrop Wetherbee and Jason Aleksander)](d/dan-ding-ali-ji-ye-li-dante-alighieri-winthrop-wetherbee-and-jason-aleksander.md)
 * [库萨的尼古拉 Cusanus, Nicolaus [Nicolas of Cusa] (Clyde Lee Miller)](c/ku-sa-de-ni-gu-la-cusanus-nicolaus-nicolas-of-cusa-clyde-lee-miller.md)
-* [贝萨里翁 Bessarion, Basil [Cardinal] (Eva Del Soldato)](b/bei-sa-li-weng-bessarion-basil-cardinal-eva-del-soldato.md)
+* [枢机主教贝萨里翁 Bessarion, Basil [Cardinal] (Eva Del Soldato)](b/bei-sa-li-weng-bessarion-basil-cardinal-eva-del-soldato.md)
 * [德西德里乌斯·伊拉斯谟 Erasmus, Desiderius (Erika Rummel and Eric MacPhail)](e/de-xi-de-li-wu-si-yi-la-si-mo-erasmus-desiderius-erika-rummel-and-eric-macphail.md)
 * [马尔西利奥·费奇诺 Ficino, Marsilio (Christopher S. Celenza)](f/ma-er-xi-li-ao-fei-qi-nuo-ficino-marsilio-christopher-s.-celenza.md)
 * [雅克·勒菲弗·戴塔普勒 Lefèvre d’Étaples, Jacques (Richard J. Oosterhoff)](l/ya-ke-le-fei-fu-dai-ta-pu-le-lefvre-dtaples-jacques-richard-j.-oosterhoff.md)
