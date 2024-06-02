@@ -262,9 +262,6 @@ outline: [1, 6]
 * [乔尔丹诺·布鲁诺 Bruno, Giordano (Dilwyn Knox)](b/qiao-er-dan-nuo-bu-lu-nuo-bruno-giordano-dilwyn-knox.md)
 * [贝尔纳迪诺·特勒肖 Telesio, Bernardino (Michaela Boenke)](t/bei-er-na-di-nuo-te-le-xiao-telesio-bernardino-michaela-boenke.md)
 * [吉罗拉莫·卡尔达诺 Cardano, Girolamo [Geronimo] (Guido Giglioni and Jonathan Regier)](c/ji-luo-la-mo-ka-er-da-nuo-cardano-girolamo-geronimo-guido-giglioni-and-jonathan-regier.md)
-* [托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/README.md)
-  * [霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/huo-bu-si-de-dao-de-yu-zheng-zhi-zhe-xue-moral-and-political-philosophy-sharon-a.-lloyd-and-susanne.md)
-  * [霍布斯的科学哲学 philosophy of science (Marcus P. Adams)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/huo-bu-si-de-ke-xue-zhe-xue-philosophy-of-science-marcus-p.-adams.md)
 * [约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)](k/yue-han-nei-si-kai-pu-le-kepler-johannes-daniel-a.-di-liscia.md)
 
 ## 宗教改革运动（1517～1600）
@@ -354,7 +351,9 @@ outline: [1, 6]
   * [休谟的牛顿主义与反牛顿主义 Newtonianism and Anti-Newtonianism (Eric Schliesser and Tamás Demeter)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-de-niu-dun-zhu-yi-yu-fan-niu-dun-zhu-yi-newtonianism-and-antinewtonianism-eric-schliesser-and.md)
   * [休谟论自由意志 on free will (Paul Russell)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-lun-zi-you-yi-zhi-on-free-will-paul-russell.md)
   * [休谟的宗教学 on religion (Paul Russell and Anders Kraal)](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/xiu-mo-de-zong-jiao-xue-on-religion-paul-russell-and-anders-kraal.md)
-
+* [托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/README.md)
+  * [霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/huo-bu-si-de-dao-de-yu-zheng-zhi-zhe-xue-moral-and-political-philosophy-sharon-a.-lloyd-and-susanne.md)
+  * [霍布斯的科学哲学 philosophy of science (Marcus P. Adams)](h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/huo-bu-si-de-ke-xue-zhe-xue-philosophy-of-science-marcus-p.-adams.md)
 
 ## 苏格兰启蒙运动（1700-1800）
 
