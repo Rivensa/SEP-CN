@@ -278,7 +278,7 @@
 * [亨利·柏格森 Bergson, Henri (Leonard Lawlor and Valentine Moulard-Leonard)](b/heng-li-bai-ge-sen-bergson-henri-leonard-lawlor-and-valentine-moulardleonard.md)
 * [乔治·贝克莱 Berkeley, George (Lisa Downing)](b/qiao-zhi-bei-ke-lai-berkeley-george-lisa-downing.md)
 * [以赛亚·伯林 Berlin, Isaiah (Joshua Cherniss and Henry Hardy)](b/yi-sai-ya-bo-lin-berlin-isaiah-joshua-cherniss-and-henry-hardy.md)
-* [贝萨里翁 Bessarion, Basil \[Cardinal\] (Eva Del Soldato)](b/bei-sa-li-weng-bessarion-basil-cardinal-eva-del-soldato.md)
+* [枢机主教贝萨里翁 Bessarion, Basil \[Cardinal\] (Eva Del Soldato)](b/bei-sa-li-weng-bessarion-basil-cardinal-eva-del-soldato.md)
 * [内隐偏见 bias, implicit (Michael Brownstein)](b/nei-yin-pian-jian-bias-implicit-michael-brownstein.md)
 * [最著名的一对 binarium famosissimum \[= most famous pair\] (Paul Vincent Spade)](b/zui-zhu-ming-de-yi-dui-binarium-famosissimum-most-famous-pair-paul-vincent-spade.md)
 * [\*生物多样性——见生态学：生物多样性 biodiversity — see ecology: biodiversity](b/sheng-wu-duo-yang-xing-jian-sheng-tai-xue-sheng-wu-duo-yang-xing-biodiversity-see-ecology-biodiversi.md)
